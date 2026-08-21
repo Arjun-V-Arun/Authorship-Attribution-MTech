@@ -1,0 +1,23 @@
+# Python virtual environment
+envAA/
+
+# Large experiment outputs (checkpoints regularly exceed GitHub's 100MB/file limit)
+# regenerate locally with src/train_finetune.py and src/run_experiments.py
+runs/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# atomic-write temp files from src/train_finetune.py's crash-safe logging
+*.writing.csv
+*.writing.xlsx
+
+# OS cruft
+.DS_Store
+Thumbs.db

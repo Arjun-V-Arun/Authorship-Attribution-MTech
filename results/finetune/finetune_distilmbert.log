@@ -1,0 +1,27 @@
+2071 snippets | train 1603 | val 468
+held-out val books: ['dharamvir/gunhao.txt', 'prem/alankar', 'sarat/dehati', 'vibhuti/ghar.txt']
+
+Loading weights:   0%|          | 0/100 [00:00<?, ?it/s]Loading weights: 100%|##########| 100/100 [00:00<00:00, 12910.32it/s]
+[transformers] [1mDistilBertForSequenceClassification LOAD REPORT[0m from: distilbert-base-multilingual-cased
+Key                     | Status     | 
+------------------------+------------+-
+vocab_transform.weight  | UNEXPECTED | 
+vocab_layer_norm.weight | UNEXPECTED | 
+vocab_projector.bias    | UNEXPECTED | 
+vocab_layer_norm.bias   | UNEXPECTED | 
+vocab_transform.bias    | UNEXPECTED | 
+classifier.weight       | MISSING    | 
+classifier.bias         | MISSING    | 
+pre_classifier.weight   | MISSING    | 
+pre_classifier.bias     | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+epoch 1/4  loss 0.7082  val_f1 0.3475  val_acc 0.3654  (566s)
+epoch 2/4  loss 0.2463  val_f1 0.3166  val_acc 0.3120  (160296s)
+epoch 3/4  loss 0.1288  val_f1 0.2712  val_acc 0.2308  (631s)
+epoch 4/4  loss 0.0810  val_f1 0.2882  val_acc 0.2735  (631s)
+
+Done. Best val macro-F1 = 0.3475
+Compare: word 0.5162 | char 0.5707 | frozen mBERT 0.5274

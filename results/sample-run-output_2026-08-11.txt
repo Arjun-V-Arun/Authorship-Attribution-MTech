@@ -1,0 +1,326 @@
+(envAA) PS C:\Users\CSE\Documents\author-attribution-master> python baseline.py --data_dir training/corpus 
+Loaded 2089 snippets across 4 authors
+  dharamvir   : 250 snippets
+  prem        : 658 snippets
+  sarat       : 702 snippets
+  vibhuti     : 479 snippets
+
+==================================================================
+FEATURE VIEW: word
+==================================================================
+  LinearSVC      5-fold macro-F1 = 0.9956 +/- 0.0010
+  LogReg         5-fold macro-F1 = 0.9834 +/- 0.0070
+  RandomForest   5-fold macro-F1 = 0.9308 +/- 0.0140
+
+  --- LinearSVC held-out (30% test) report [word] ---
+              precision    recall  f1-score   support
+
+   dharamvir     1.0000    0.9600    0.9796        75
+        prem     0.9899    0.9949    0.9924       197
+       sarat     0.9953    1.0000    0.9976       211
+     vibhuti     0.9931    1.0000    0.9965       144
+
+    accuracy                         0.9936       627
+   macro avg     0.9946    0.9887    0.9915       627
+weighted avg     0.9937    0.9936    0.9936       627
+
+  Confusion matrix (rows=true, cols=pred), order: ['dharamvir', 'prem', 'sarat', 'vibhuti']
+[[ 72   2   0   1]
+ [  0 196   1   0]
+ [  0   0 211   0]
+ [  0   0   0 144]]
+
+==================================================================
+FEATURE VIEW: char
+==================================================================
+  LinearSVC      5-fold macro-F1 = 0.9971 +/- 0.0027
+  LogReg         5-fold macro-F1 = 0.9911 +/- 0.0066
+  RandomForest   5-fold macro-F1 = 0.9796 +/- 0.0060
+
+  --- LinearSVC held-out (30% test) report [char] ---
+              precision    recall  f1-score   support
+
+   dharamvir     1.0000    1.0000    1.0000        75
+        prem     1.0000    1.0000    1.0000       197
+       sarat     1.0000    1.0000    1.0000       211
+     vibhuti     1.0000    1.0000    1.0000       144
+
+    accuracy                         1.0000       627
+   macro avg     1.0000    1.0000    1.0000       627
+weighted avg     1.0000    1.0000    1.0000       627
+
+  Confusion matrix (rows=true, cols=pred), order: ['dharamvir', 'prem', 'sarat', 'vibhuti']
+[[ 75   0   0   0]
+ [  0 197   0   0]
+ [  0   0 211   0]
+ [  0   0   0 144]]
+
+(envAA) PS C:\Users\CSE\Documents\author-attribution-master> mkdir -p raw
+
+
+    Directory: C:\Users\CSE\Documents\author-attribution-master
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                                                             
+----                 -------------         ------ ----                                                                                                                                                                             
+d-----        11-08-2026     11:31                raw                                                                                                                                                                              
+
+
+(envAA) PS C:\Users\CSE\Documents\author-attribution-master> tar xzf corpus/corpus.tar.gz -C raw
+(envAA) PS C:\Users\CSE\Documents\author-attribution-master> python book_disjoint.py --raw_dir raw/corpus
+Built 2071 snippets from 15 books
+
+  dharamvir   :  248 snippets across 2 books
+  prem        :  649 snippets across 5 books
+  sarat       :  700 snippets across 3 books
+  vibhuti     :  474 snippets across 5 books
+
+======================================================================
+FEATURE VIEW: word
+======================================================================
+  [LEAKY ] shuffled 5-fold macro-F1 = 0.9939 +/- 0.0015
+  [HONEST] leave-one-book-out macro-F1 = 0.5162
+  --> leakage inflation = +0.4777
+
+  Book-disjoint classification report [word]:
+              precision    recall  f1-score   support
+
+   dharamvir     0.2857    0.0323    0.0580       248
+        prem     0.5368    0.7088    0.6109       649
+       sarat     0.5976    0.4943    0.5410       700
+     vibhuti     0.7611    0.9747    0.8548       474
+
+    accuracy                         0.6161      2071
+   macro avg     0.5453    0.5525    0.5162      2071
+weighted avg     0.5786    0.6161    0.5769      2071
+
+  Confusion matrix (rows=true, cols=pred), order: ['dharamvir', 'prem', 'sarat', 'vibhuti']
+[[  8  88  59  93]
+ [  9 460 168  12]
+ [ 10 304 346  40]
+ [  1   5   6 462]]
+
+======================================================================
+FEATURE VIEW: char
+======================================================================
+  [LEAKY ] shuffled 5-fold macro-F1 = 0.9971 +/- 0.0028
+  [HONEST] leave-one-book-out macro-F1 = 0.5707
+  --> leakage inflation = +0.4264
+
+  Book-disjoint classification report [char]:
+              precision    recall  f1-score   support
+
+   dharamvir     0.0357    0.0161    0.0222       248
+        prem     0.7467    0.9538    0.8376       649
+       sarat     0.6162    0.4771    0.5378       700
+     vibhuti     0.7993    0.9916    0.8851       474
+
+    accuracy                         0.6890      2071
+   macro avg     0.5495    0.6097    0.5707      2071
+weighted avg     0.6295    0.6890    0.6495      2071
+
+  Confusion matrix (rows=true, cols=pred), order: ['dharamvir', 'prem', 'sarat', 'vibhuti']
+[[  4  13 179  52]
+ [  2 619  26   2]
+ [105 197 334  64]
+ [  1   0   3 470]]
+
+(envAA) PS C:\Users\CSE\Documents\author-attribution-master> pip install torch --index-url https://download.pytorch.org/whl/cpu
+Looking in indexes: https://download.pytorch.org/whl/cpu
+Collecting torch
+  Downloading torch-2.13.0%2Bcpu-cp314-cp314-win_amd64.whl.metadata (39 kB)
+Collecting filelock (from torch)
+  Downloading filelock-3.29.0-py3-none-any.whl.metadata (2.0 kB)
+Collecting typing-extensions>=4.10.0 (from torch)
+  Downloading typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting setuptools>=77.0.3 (from torch)
+  Downloading setuptools-78.1.0-py3-none-any.whl.metadata (6.6 kB)
+Collecting sympy>=1.13.3 (from torch)
+  Downloading sympy-1.14.0-py3-none-any.whl.metadata (12 kB)
+Collecting networkx>=2.5.1 (from torch)
+  Downloading networkx-3.6.1-py3-none-any.whl.metadata (6.8 kB)
+Collecting jinja2 (from torch)
+  Downloading jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting fsspec>=0.8.5 (from torch)
+  Downloading fsspec-2026.4.0-py3-none-any.whl.metadata (10 kB)
+Collecting mpmath<1.4,>=1.1.0 (from sympy>=1.13.3->torch)
+  Downloading mpmath-1.3.0-py3-none-any.whl.metadata (8.6 kB)
+Collecting MarkupSafe>=2.0 (from jinja2->torch)
+  Downloading markupsafe-3.0.3-cp314-cp314-win_amd64.whl.metadata (2.8 kB)
+Downloading torch-2.13.0%2Bcpu-cp314-cp314-win_amd64.whl (123.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 123.9/123.9 MB 31.4 MB/s  0:00:04
+Downloading fsspec-2026.4.0-py3-none-any.whl (203 kB)
+Downloading networkx-3.6.1-py3-none-any.whl (2.1 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 10.4 MB/s  0:00:00
+Downloading setuptools-78.1.0-py3-none-any.whl (1.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 16.8 MB/s  0:00:00
+Downloading sympy-1.14.0-py3-none-any.whl (6.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.3/6.3 MB 3.6 MB/s  0:00:01
+Downloading mpmath-1.3.0-py3-none-any.whl (536 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 536.2/536.2 kB 1.2 MB/s  0:00:00
+Downloading typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+Downloading filelock-3.29.0-py3-none-any.whl (39 kB)
+Downloading jinja2-3.1.6-py3-none-any.whl (134 kB)
+Downloading markupsafe-3.0.3-cp314-cp314-win_amd64.whl (15 kB)
+Installing collected packages: mpmath, typing-extensions, sympy, setuptools, networkx, MarkupSafe, fsspec, filelock, jinja2, torch
+Successfully installed MarkupSafe-3.0.3 filelock-3.29.0 fsspec-2026.4.0 jinja2-3.1.6 mpmath-1.3.0 networkx-3.6.1 setuptools-78.1.0 sympy-1.14.0 torch-2.13.0+cpu typing-extensions-4.15.0
+(envAA) PS C:\Users\CSE\Documents\author-attribution-master> pip install transformers
+Collecting transformers
+  Downloading transformers-5.15.0-py3-none-any.whl.metadata (32 kB)
+Collecting huggingface-hub<2.0,>=1.5.0 (from transformers)
+  Downloading huggingface_hub-1.27.0-py3-none-any.whl.metadata (16 kB)
+Requirement already satisfied: numpy>=1.17 in .\envAA\Lib\site-packages (from transformers) (2.5.2)
+Collecting packaging>=20.0 (from transformers)
+  Downloading packaging-26.3-py3-none-any.whl.metadata (3.5 kB)
+Collecting pyyaml>=5.1 (from transformers)
+  Downloading pyyaml-6.0.3-cp314-cp314-win_amd64.whl.metadata (2.4 kB)
+Collecting regex>=2025.10.22 (from transformers)
+  Downloading regex-2026.7.19-cp314-cp314-win_amd64.whl.metadata (41 kB)
+Collecting tokenizers<=0.23.0,>=0.22.0 (from transformers)
+  Downloading tokenizers-0.22.2-cp39-abi3-win_amd64.whl.metadata (7.4 kB)
+Collecting typer (from transformers)
+  Downloading typer-0.27.1-py3-none-any.whl.metadata (16 kB)
+Collecting safetensors>=0.8.0 (from transformers)
+  Downloading safetensors-0.8.0-cp310-abi3-win_amd64.whl.metadata (4.2 kB)
+Collecting tqdm>=4.60 (from transformers)
+  Downloading tqdm-4.70.0-py3-none-any.whl.metadata (57 kB)
+Collecting click<9.0.0,>=8.4.2 (from huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading click-8.4.2-py3-none-any.whl.metadata (2.6 kB)
+Requirement already satisfied: filelock>=3.10.0 in .\envAA\Lib\site-packages (from huggingface-hub<2.0,>=1.5.0->transformers) (3.29.0)
+Requirement already satisfied: fsspec>=2023.5.0 in .\envAA\Lib\site-packages (from huggingface-hub<2.0,>=1.5.0->transformers) (2026.4.0)
+Collecting hf-xet<2.0.0,>=1.5.2 (from huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading hf_xet-1.6.0-cp38-abi3-win_amd64.whl.metadata (4.9 kB)
+Collecting httpx<1,>=0.23.0 (from huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+Requirement already satisfied: typing-extensions>=4.1.0 in .\envAA\Lib\site-packages (from huggingface-hub<2.0,>=1.5.0->transformers) (4.15.0)
+Collecting colorama (from click<9.0.0,>=8.4.2->huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting anyio (from httpx<1,>=0.23.0->huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading anyio-4.14.2-py3-none-any.whl.metadata (4.6 kB)
+Collecting certifi (from httpx<1,>=0.23.0->huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading certifi-2026.7.22-py3-none-any.whl.metadata (2.5 kB)
+Collecting httpcore==1.* (from httpx<1,>=0.23.0->huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading httpcore-1.0.9-py3-none-any.whl.metadata (21 kB)
+Collecting idna (from httpx<1,>=0.23.0->huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading idna-3.18-py3-none-any.whl.metadata (6.1 kB)
+Collecting h11>=0.16 (from httpcore==1.*->httpx<1,>=0.23.0->huggingface-hub<2.0,>=1.5.0->transformers)
+  Downloading h11-0.16.0-py3-none-any.whl.metadata (8.3 kB)
+Collecting shellingham>=1.3.0 (from typer->transformers)
+  Downloading shellingham-1.5.4-py2.py3-none-any.whl.metadata (3.5 kB)
+Collecting rich>=13.8.0 (from typer->transformers)
+  Downloading rich-15.0.0-py3-none-any.whl.metadata (18 kB)
+Collecting annotated-doc>=0.0.2 (from typer->transformers)
+  Downloading annotated_doc-0.0.5-py3-none-any.whl.metadata (6.5 kB)
+Collecting markdown-it-py>=2.2.0 (from rich>=13.8.0->typer->transformers)
+  Downloading markdown_it_py-4.2.0-py3-none-any.whl.metadata (7.4 kB)
+Collecting pygments<3.0.0,>=2.13.0 (from rich>=13.8.0->typer->transformers)
+  Downloading pygments-2.20.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.2.0->rich>=13.8.0->typer->transformers)
+  Downloading mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Downloading transformers-5.15.0-py3-none-any.whl (11.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.7/11.7 MB 27.6 MB/s  0:00:00
+Downloading huggingface_hub-1.27.0-py3-none-any.whl (784 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 784.9/784.9 kB 40.1 MB/s  0:00:00
+Downloading click-8.4.2-py3-none-any.whl (119 kB)
+Downloading hf_xet-1.6.0-cp38-abi3-win_amd64.whl (4.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.0/4.0 MB 17.2 MB/s  0:00:00
+Downloading httpx-0.28.1-py3-none-any.whl (73 kB)
+Downloading httpcore-1.0.9-py3-none-any.whl (78 kB)
+Downloading tokenizers-0.22.2-cp39-abi3-win_amd64.whl (2.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.7/2.7 MB 66.1 MB/s  0:00:00
+Downloading h11-0.16.0-py3-none-any.whl (37 kB)
+Downloading packaging-26.3-py3-none-any.whl (129 kB)
+Downloading pyyaml-6.0.3-cp314-cp314-win_amd64.whl (156 kB)
+Downloading regex-2026.7.19-cp314-cp314-win_amd64.whl (280 kB)
+Downloading safetensors-0.8.0-cp310-abi3-win_amd64.whl (355 kB)
+Downloading tqdm-4.70.0-py3-none-any.whl (80 kB)
+Downloading anyio-4.14.2-py3-none-any.whl (125 kB)
+Downloading idna-3.18-py3-none-any.whl (65 kB)
+Downloading certifi-2026.7.22-py3-none-any.whl (136 kB)
+Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Downloading typer-0.27.1-py3-none-any.whl (122 kB)
+Downloading annotated_doc-0.0.5-py3-none-any.whl (5.3 kB)
+Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 55.5 MB/s  0:00:00
+Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Downloading shellingham-1.5.4-py2.py3-none-any.whl (9.8 kB)
+Installing collected packages: shellingham, safetensors, regex, pyyaml, pygments, packaging, mdurl, idna, hf-xet, h11, colorama, certifi, annotated-doc, tqdm, markdown-it-py, httpcore, click, anyio, rich, httpx, typer, huggingface-hub, tokenizers, transformers
+Successfully installed annotated-doc-0.0.5 anyio-4.14.2 certifi-2026.7.22 click-8.4.2 colorama-0.4.6 h11-0.16.0 hf-xet-1.6.0 httpcore-1.0.9 httpx-0.28.1 huggingface-hub-1.27.0 idna-3.18 markdown-it-py-4.2.0 mdurl-0.1.2 packaging-26.3 pygments-2.20.0 pyyaml-6.0.3 regex-2026.7.19 rich-15.0.0 safetensors-0.8.0 shellingham-1.5.4 tokenizers-0.22.2 tqdm-4.70.0 transformers-5.15.0 typer-0.27.1
+(envAA) PS C:\Users\CSE\Documents\author-attribution-master> python dl_baseline.py --raw_dir raw/corpus --model bert-base-multilingual-cased
+Built 2071 snippets from 15 books
+
+Loading bert-base-multilingual-cased (first run downloads weights)...
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+config.json: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 625/625 [00:00<00:00, 3.03MB/s]
+C:\Users\CSE\Documents\author-attribution-master\envAA\Lib\site-packages\huggingface_hub\file_download.py:141: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\CSE\.cache\huggingface\hub\models--bert-base-multilingual-cased. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+tokenizer_config.json: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 49.0/49.0 [00:00<00:00, 380kB/s]
+vocab.txt: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 996k/996k [00:00<00:00, 1.99MB/s]
+tokenizer.json: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.96M/1.96M [00:00<00:00, 6.97MB/s]
+model.safetensors: downloading bytes: █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████|  676MB, 32.7MB/s  
+model.safetensors: reconstructing file: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████|  714MB /  714MB, 44.9MB/s  
+Loading weights: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 199/199 [00:00<00:00, 9916.32it/s]
+[transformers] BertModel LOAD REPORT from: bert-base-multilingual-cased
+Key                                        | Status     | Details
+-------------------------------------------+------------+--------
+cls.seq_relationship.weight                | UNEXPECTED |        
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED |        
+cls.seq_relationship.bias                  | UNEXPECTED |        
+cls.predictions.transform.dense.weight     | UNEXPECTED |        
+cls.predictions.transform.dense.bias       | UNEXPECTED |        
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED |        
+cls.predictions.bias                       | UNEXPECTED |        
+
+Notes:
+- UNEXPECTED:   can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Encoding 2071 snippets on cpu (max_len=256, batch=16)...
+  16/2071
+  176/2071
+  336/2071
+  496/2071
+  656/2071
+  816/2071
+  976/2071
+  1136/2071
+  1296/2071
+  1456/2071
+  1616/2071
+  1776/2071
+  1936/2071
+Cached embeddings -> emb_bert-base-multilingual-cased.npy
+Embedding matrix: (2071, 768)
+
+======================================================================
+FROZEN bert-base-multilingual-cased embeddings + LinearSVC
+======================================================================
+  [LEAKY ] shuffled 5-fold macro-F1 = 0.8835 +/- 0.0146
+C:\Users\CSE\Documents\author-attribution-master\envAA\Lib\site-packages\sklearn\svm\_base.py:1298: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+  [HONEST] leave-one-book-out macro-F1 = 0.5274
+  --> leakage inflation = +0.3562
+
+  Book-disjoint report:
+              precision    recall  f1-score   support
+
+   dharamvir     0.1237    0.0968    0.1086       248
+        prem     0.6543    0.7350    0.6923       649
+       sarat     0.5934    0.5357    0.5631       700
+     vibhuti     0.7151    0.7785    0.7455       474
+
+    accuracy                         0.6012      2071
+   macro avg     0.5216    0.5365    0.5274      2071
+weighted avg     0.5841    0.6012    0.5909      2071
+
+  Confusion matrix (rows=true, cols=pred), order: ['dharamvir', 'prem', 'sarat', 'vibhuti']
+[[ 24  48 123  53]
+ [ 39 477  95  38]
+ [102 167 375  56]
+ [ 29  37  39 369]]
+
+Compare against your classical honest numbers:
+  word TF-IDF  LOBO macro-F1 = 0.5162
+  char n-gram  LOBO macro-F1 = 0.5707
+(envAA) PS C:\Users\CSE\Documents\author-attribution-master> 

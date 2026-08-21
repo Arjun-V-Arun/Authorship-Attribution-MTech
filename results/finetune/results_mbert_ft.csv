@@ -1,0 +1,4 @@
+epoch,train_loss,train_acc,val_acc,val_macro_f1,epoch_time_sec,cumulative_min,model,lr,timestamp
+1,0.7583,0.713,0.3803,0.3712,1155.2,19.25,bert-base-multilingual-cased,2e-05,2026-08-13 11:13:45
+2,0.3418,0.8846,0.312,0.3077,1245.9,40.08,bert-base-multilingual-cased,2e-05,2026-08-13 11:34:35
+3,0.1782,0.9432,0.2671,0.3035,1416.5,63.75,bert-base-multilingual-cased,2e-05,2026-08-13 11:58:15

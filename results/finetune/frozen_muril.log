@@ -1,0 +1,35 @@
+C:\Users\CSE\Documents\author-attribution-master\envAA\Lib\site-packages\sklearn\svm\_base.py:1298: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  warnings.warn(
+Built 2071 snippets from 15 books
+
+Loading cached embeddings from emb_google_muril-base-cased.npy
+Embedding matrix: (2071, 768)
+
+======================================================================
+FROZEN google/muril-base-cased embeddings + LinearSVC
+======================================================================
+  [LEAKY ] shuffled 5-fold macro-F1 = 0.9809 +/- 0.0093
+  [HONEST] leave-one-book-out macro-F1 = 0.6104
+  --> leakage inflation = +0.3705
+
+  Book-disjoint report:
+              precision    recall  f1-score   support
+
+   dharamvir     0.1586    0.0927    0.1170       248
+        prem     0.7500    0.8505    0.7971       649
+       sarat     0.7084    0.6386    0.6717       700
+     vibhuti     0.7907    0.9325    0.8558       474
+
+    accuracy                         0.7069      2071
+   macro avg     0.6019    0.6286    0.6104      2071
+weighted avg     0.6744    0.7069    0.6867      2071
+
+  Confusion matrix (rows=true, cols=pred), order: ['dharamvir', 'prem', 'sarat', 'vibhuti']
+[[ 23  30 110  85]
+ [ 14 552  71  12]
+ [ 94 139 447  20]
+ [ 14  15   3 442]]
+
+Compare against your classical honest numbers:
+  word TF-IDF  LOBO macro-F1 = 0.5162
+  char n-gram  LOBO macro-F1 = 0.5707

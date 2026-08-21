@@ -1,0 +1,7 @@
+job,start,end,minutes,status,returncode
+frozen_muril,13:29:19,13:34:49,5.5,ok,0
+frozen_indicbert,13:34:49,13:34:54,0.08,FAILED,1
+frozen_muril,13:48:48,13:49:53,1.08,ok,0
+frozen_indicbert,13:49:53,13:51:31,1.62,FAILED,1
+finetune_distilmbert,13:51:31,10:54:02,2702.53,ok,0
+finetune_mbert,10:54:02,11:58:22,64.32,ok,0

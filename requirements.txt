@@ -1,0 +1,14 @@
+# Core (needed for src/baseline.py, src/book_disjoint.py, src/rigor_ablation.py, src/fig_ci.py)
+numpy==2.5.2
+pandas==3.0.5
+scikit-learn==1.9.0
+matplotlib==3.11.1
+openpyxl==3.1.5
+
+# Transformer models (needed for src/dl_baseline.py, src/train_finetune.py)
+transformers==5.15.0
+sentencepiece==0.2.2
+
+# torch is CPU-only and installed separately (not on PyPI's default index):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# Version used in development: torch==2.13.0+cpu

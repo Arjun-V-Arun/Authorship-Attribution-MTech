@@ -1,0 +1,27 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2071 snippets | train 1603 | val 468
+held-out val books: ['dharamvir/gunhao.txt', 'prem/alankar', 'sarat/dehati', 'vibhuti/ghar.txt']
+
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|##########| 199/199 [00:00<00:00, 6510.61it/s]
+[transformers] [1mBertForSequenceClassification LOAD REPORT[0m from: bert-base-multilingual-cased
+Key                                        | Status     | 
+-------------------------------------------+------------+-
+cls.predictions.transform.dense.bias       | UNEXPECTED | 
+cls.seq_relationship.weight                | UNEXPECTED | 
+cls.predictions.bias                       | UNEXPECTED | 
+cls.predictions.transform.dense.weight     | UNEXPECTED | 
+cls.predictions.transform.LayerNorm.bias   | UNEXPECTED | 
+cls.predictions.transform.LayerNorm.weight | UNEXPECTED | 
+cls.seq_relationship.bias                  | UNEXPECTED | 
+classifier.weight                          | MISSING    | 
+classifier.bias                            | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+epoch 1/3  loss 0.7583  val_f1 0.3712  val_acc 0.3803  (1155s)
+epoch 2/3  loss 0.3418  val_f1 0.3077  val_acc 0.3120  (1246s)
+epoch 3/3  loss 0.1782  val_f1 0.3035  val_acc 0.2671  (1416s)
+
+Done. Best val macro-F1 = 0.3712
+Compare: word 0.5162 | char 0.5707 | frozen mBERT 0.5274

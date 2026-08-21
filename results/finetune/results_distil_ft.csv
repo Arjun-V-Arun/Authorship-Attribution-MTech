@@ -1,0 +1,5 @@
+epoch,train_loss,train_acc,val_acc,val_macro_f1,epoch_time_sec,cumulative_min,model,lr,timestamp
+1,0.7082,0.7318,0.3654,0.3475,565.8,9.43,distilbert-base-multilingual-cased,2e-05,2026-08-11 14:01:11
+2,0.2463,0.9251,0.312,0.3166,160295.9,2681.08,distilbert-base-multilingual-cased,2e-05,2026-08-13 10:32:50
+3,0.1288,0.9595,0.2308,0.2712,631.4,2691.66,distilbert-base-multilingual-cased,2e-05,2026-08-13 10:43:25
+4,0.081,0.9794,0.2735,0.2882,630.6,2702.21,distilbert-base-multilingual-cased,2e-05,2026-08-13 10:53:58
