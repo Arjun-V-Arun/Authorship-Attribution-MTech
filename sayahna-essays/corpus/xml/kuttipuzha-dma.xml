@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ധാർമികമൂല്യങ്ങൾ അധഃപതിച്ചോ?</title>
+          <title xml:lang="en" type="main">Darmikamoolyangal Adhapathicho?</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ധാർമികമൂല്യങ്ങൾ അധഃപതിച്ചോ?</title>
+              <title xml:lang="en" type="main">Darmikamoolyangal Adhapathicho?</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Darmikamoolyangal Adhapathicho?</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ധാർമികമൂല്യങ്ങൾ അധഃപതിച്ചോ?</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Odilon_Redon.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Odilon_Redon__Primitive_Man_%28Seated_in_Shadow%29.jpg">Primitive Man (Seated in
+Shadow),</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Odilon_Redon">Odilon Redon</ref>
+
+ (1840–1916). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ധാർമികമൂല്യങ്ങൾ അധഃപതിച്ചോ?</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ധാർമികമൂല്യങ്ങൾ അധഃപതിച്ചോ?</head>
+        <div type="lsection">
+          <p style="noindent">‘കാലം കലിയുഗമല്ലേ? സത്യവും ധർമ്മവുമൊക്കെ ക്ഷയിച്ചു’ എന്ന പരാതി
+മുത്തശ്ശിമാരിൽനിന്നു കേട്ടാൽ അതു മനസ്സിലാക്കാം. അവരുടെ ചെറുപ്പകാലം എല്ലാംകൊണ്ടു
+നല്ലതായിരുന്നുവെന്നും ഇപ്പോൾ സകലതും താറുമാറായി എന്നും തോന്നുക സ്വഭാവികമാണു്.
+</p>
+          <p>എന്നാൽ മറ്റുള്ളവരും ഇങ്ങനെ വിലപിക്കാൻ തുടങ്ങിയാലോ? ധാർമികമൂല്യങ്ങളെല്ലാം
+അധഃപതിച്ചുവരികയാണെന്നൊരു അഭിപ്രായം ഇപ്പോൾ ബഹുധാ കേട്ടുവരുന്നുണ്ടു്. ചിന്തകന്മാരായ
+എഴുത്തുകാരും പ്രസംഗകരും ഇതിനു പിൻബലം കൊടുക്കുന്നു. എന്താണിതിനു കാരണം? ആറ്റംബോംബിന്റെ
+കണ്ടുപിടിത്തം കൊണ്ടു ലോകം ഒന്നാകെ വിനാശത്തിന്റെ വക്കത്തെത്തിയതാണോ? എന്നു പറയുക വയ്യ.
+ഈയൊരവസ്ഥ അടുത്തകാലത്തുണ്ടായതാണല്ലോ. അതിനു മുമ്പും പ്രാപ്തകാലധഃപതനത്തെപ്പറ്റി ധാരാളം
+പരാതികൾ പുറപ്പെട്ടിരുന്നു കാലം പുറകോട്ടു പോകുന്തോറും കൂടുതൽ കൂടുതൽ നന്നായിരുന്നുവെന്ന തോന്നൽ
+ഇന്നും ഇന്നലെയും തുടങ്ങിയതല്ല. ഇതിനൊരു നീണ്ട പാരമ്പര്യമുണ്ടു്. ഹൈന്ദവവിശ്വാസമനുസരിച്ചു്
+കൃതയുഗമായിരുന്നു ഏറ്റവും വിശിഷ്ടം. അന്നു സത്യധർമങ്ങൾ നൂറുശതമാനവും വിളയാടിയിരുന്നു. അതു കഴിഞ്ഞു
+ധാർമിക നിലവാരം താഴാൻ തുടങ്ങി. ത്രേതായുഗത്തിൽ—ശ്രീരാമന്റെ കാലത്തു്—കുറെ മോശമായി,
+ദ്വാപരയുഗത്തിൽ അതിലും മോശം പിന്നെയാണല്ലോ കലിയുഗം. അപ്പോഴേക്കും സകലതും കീഴ്മേൽ മറിഞ്ഞു.
+കളവു്, വഞ്ചന, കൊലപാതകം തുടങ്ങിയ സർവ ദുർവൃത്തികളുടെയും കൂത്തരങ്ങായി നമ്മുടെ ലോകം.
+പോരെങ്കിൽ ഇങ്ങനെയൊക്കെ ആകുമെന്നു മഹാഭാരതത്തിൽ പറഞ്ഞിട്ടുമുണ്ടു്. അപ്പോൾ
+പ്രമാണപ്രാബല്യവുമായല്ലോ. ഏദൻത്തോട്ടത്തിൽനിന്നു പുറത്താക്കപ്പെട്ടതോടെ മനുഷ്യൻ
+ധർമമാർഗത്തിൽനിന്നു വ്യതിചലിച്ചുതുടങ്ങിയെന്നു ബൈബിൾകഥയും പഠിപ്പിക്കുന്നു. ഇനി കാലം
+മുന്നോട്ടുമുന്നോട്ടു വരുന്തോറും കലിബാധ കൂടിക്കൂടിവരും. അനുഭവങ്ങളും ഈ
+വിശ്വാസത്തിനൊത്തിരിക്കുന്നുവെന്നാണു പലരും പറയുന്നതു്. ഇന്നത്തെ പത്രങ്ങളിൽ ദിനംപ്രതി എത്രയെത്ര
+കൊലപാതകങ്ങളുടെയും അക്രമങ്ങളുടെയും വാർത്തകൾ കാണുന്നു. ലോകമൊട്ടാകെ ഇങ്ങനെയാണെന്നു
+സങ്കല്പിച്ചു വാദകോലാഹലം മുഴക്കുന്നവരുണ്ടു്. കൊലയും കളവും മറ്റും പണ്ടും ഉണ്ടായിരുന്നില്ലേ എന്നു
+ചോദിച്ചാൽ ഇത്രത്തോളം വ്യാപകമായിട്ടില്ലായിരുന്നുവെന്നാകും പ്രത്യുത്തരം. ഇപ്പറഞ്ഞതിനെന്താണു തെളിവു്?
+ഇതിനെ സംബന്ധിച്ചു വല്ല സ്ഥിതിവിവരക്കണക്കുമുണ്ടോ? ഇന്നത്തെ പത്രവാർത്തകളെ അടിസ്ഥാനപ്പെടുത്തി
+പത്രങ്ങളില്ലാതിരുന്ന കാലത്തെ സ്ഥിതി ഇന്നത്തേതുമായി എങ്ങനെ താരതമ്യപ്പെടുത്തും എന്നു മറ്റും ചോദിച്ചാൽ
+ഉത്തരം മുട്ടി. ഏതായാലും അങ്ങുമിങ്ങു കാണുന്ന ചില ഉദാഹരണങ്ങളിലേക്കു കടക്കാതെ ലോകചരിത്രത്തെ
+അവലംബിച്ചു മൊത്തത്തിൽ നമുക്കൊന്നു് ആലോചിച്ചുനോക്കാം.
+</p>
+          <p>മനുഷ്യൻ കാടത്തത്തിൽനിന്നു കാലക്രമേണ സംസ്കൃതമായ മനുഷ്യത്വത്തിലേക്കെത്തിയെന്ന ചരിത്രസത്യം
+നിഷേധിക്കാവതല്ലല്ലോ ചില ധാർമികമൂല്യങ്ങളെ അവലംബിക്കാതെ ഇങ്ങനെയൊരു ഉയർന്ന
+ജീവിതനിലവാരത്തിലെത്തുക സാദ്ധ്യവുമല്ല. മനുഷ്യജീവിതം ധർമമാർഗാവലംബനം കൊണ്ടു് അധികമധികം
+ശുദ്ധീകൃതവും വികസിതവുമായി വരുകയാണെന്നതിനു വിശ്വവ്യാപകങ്ങളായ എത്രയോ ദൃഷ്ടാന്തങ്ങൾ
+ചരിത്രത്തിലുണ്ടു്. ലോകമെങ്ങും വ്യാപിച്ചിരുന്ന അടിമത്തവ്യവസ്ഥിതിതന്നെ നോക്കുക. ആടുമാടുകളെക്കാൾ
+കഷ്ടമായ നിലയിൽ ലക്ഷക്കണക്കിനു മനുഷ്യരെ അടിമകളാക്കി കൊല്ലാതെകൊന്നു കച്ചവടം നടത്തിയിരുന്ന
+ആ കാലം എത്ര ഭയങ്കരമായിരുന്നു! ഇതിൽപ്പരം ധർമ്മക്ഷയം പ്രത്യക്ഷപ്പെട്ട ഒരു കാലഘട്ടമുണ്ടോ? ആ
+രാക്ഷസീയമർദ്ദനത്തിൽനിന്നു മനുഷ്യവർഗം എന്നെന്നേക്കുമായി മോചനം നേടിയില്ലേ? അതുപോലെ
+മദ്ധ്യകാലഘട്ടങ്ങളിലെ മതപരമായ കൂട്ടക്കൊലകൾ, ബലം തന്നെ ന്യായമാക്കിയുള്ള വമ്പിച്ച ആക്രമണങ്ങൾ,
+കൊള്ളകൾ, കവർച്ചകൾ മുതലായവയും അസ്തമിച്ചു മനുഷ്യർ ധർമപ്രകാശത്തിലേക്കു പ്രവേശിക്കുകയല്ലേ
+ചെയ്തതു്? സതിയുടെ പേരിൽ സ്ത്രീകളെ വിറകുകൊള്ളിക്കു തുല്യം ചുട്ടെരിക്കുകയും കാളിപൂജയുടെ ചടങ്ങായി
+പിണ്ഡാരികളും തഗ്ഗുകളും കൊലയും കവർച്ചയും നടത്തുകയും ചെയ്തുകൊണ്ടിരുന്ന കാലം നമ്മുടെ നാടു്
+കടന്നുപോന്നല്ലോ.</p>
+          <lg>
+            <l> ‘ദന്താഃ ദശന്തി കഷ്ടേന</l>
+            <l> ജിഹ്വാ ജാനാതി തൽഫലം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു പറഞ്ഞതുപോലെ ഭൂരിപക്ഷം പണിയെടുത്തു പോരികയും അല്പപക്ഷം അതുകൊണ്ടു
+
+സുഖമനുഭവിക്കുകയും ചെയ്യുക എന്ന ദുർനീതിയാണല്ലോ അടുത്തകാലം വരെ ഭൂമുഖത്തു നിലവിലിരുന്നതു്
+നാടുവാഴിത്തത്തിന്റെ രാജവാഴ്ചയുടെയും ദുഷ്ഫലമായി അടിയുറച്ച അധർമ്മത്തിന്റെ ഈ മൂലക്കല്ലു് പ്രബുദ്ധമായ
+ജനശക്തി ഇളക്കിമറിച്ചു തൽസ്ഥാനത്തു മാനവധർമ്മത്തിന്റെ വിജയക്കൊടി നാട്ടിയതു് ഇക്കാലത്തല്ലേ?
+അപ്പോൾ ധർമക്ഷയം എന്നാണു്? ഇന്നോ അന്നോ? ഇനി ആശയലോകത്തിൽ നോക്കുക.
+അധർമ്മപ്രവൃത്തികൾക്കു പ്രേരകങ്ങളാകുന്ന അന്ധവിശ്വാസങ്ങളും മതഭ്രാന്തിയും ഇന്നു് എത്ര കുറഞ്ഞിരിക്കുന്നു!
+നൂറ്റാണ്ടുകളായി ആറേഴു കോടി ജനങ്ങളെ ജാതിവ്യത്യാസം കല്പിച്ചു അന്ധകാരഗർത്തത്തിൽ താഴ്ത്തിയിട്ട
+ആർഷഭാരതസംസ്കാരത്തിന്റെ ക്രൂരതയും മാലിന്യവും ഇപ്പോഴല്ലേ കുറെയൊക്കെ മാഞ്ഞുതുടങ്ങിയതു്?
+ക്രൂരകല്പനകളുടെ പേരിൽ എത്രയെത്ര ജനസമൂഹങ്ങൾ എന്തെന്തു നരകജീവിതമാണു് അനുഭവിച്ചതു്!
+ഇതിലൊക്കെ സത്യത്തിന്റെയും ധർമ്മത്തിന്റെയും നിഴൽപോലുമുണ്ടോ? മനുഷ്യമഹത്വംപോലും അസത്യത്തിലും
+അധർമ്മത്തിലും അധിഷ്ഠിതമായിരുന്നല്ലോ പഴയകാലത്തു്. അയൽരാജ്യങ്ങളെ അകാരണമായി ആക്രമിച്ചു
+കീഴടക്കി സ്വന്തം രാജ്യത്തിനു് എത്രയധികം വിസ്തൃതി വരുത്തുന്നുവോ അത്രയ്ക്കു് ആ രാജാവു മഹാനാകും;
+എത്രയധികം ആളുകളെ കൊല്ലുന്നുവോ അത്രയ്ക്കു യുദ്ധവീരനും. അലക്സാണ്ടർ മഹാനായതു് ഇങ്ങനെയാണല്ലോ.
+എന്നാൽ, ഇന്നോ? ആശയഗതിക്കു് എന്തു മാറ്റം വന്നിരിക്കുന്നു! യുദ്ധം എന്ന ആശയം തന്നെ ഇന്നു
+വെറുക്കപ്പെട്ടിരിക്കുന്നു. ലോകത്തിൽ ശാന്തിയും സ്നേഹവും വിജ്ഞാനവും വർഷിക്കുന്നവർക്കു മാത്രമേ ഇന്നു നാം
+മഹത്വം കല്പിക്കുന്നുള്ളു ധാർമികമായ പുരോഗതിയല്ലേ ഇതിൽ കാണുന്നതു്? മനുഷ്യവർഗത്തെ ഒന്നാകെക്കണ്ടു്
+ഏകലോകമെന്ന വിശാലാദർശത്തിലേക്കാണു് ഇപ്പോൾ നമ്മുടെ പോക്കു്. അതിനു സഹായിക്കുന്ന എത്രയോ
+സാർവദേശീയ ധർമ്മ സ്ഥാപനങ്ങൾ ഇന്നുണ്ടു്. സർവലോകസംഹാരകമായ അണുബോംബിന്റെ ആവിർഭാവം
+ഒരു ദുർനിമിത്തമാണെങ്കിലും അതു യുദ്ധത്തിനു പൂർണവിരാമം ഇടുവാൻ ഉപകരിക്കുമെന്നാണു് വിശ്വസിക്കേണ്ടതു്.
+പണ്ടെങ്ങും ഉണ്ടാകാത്ത വിധം യുദ്ധവിപത്തു നീക്കം ചെയ്യാനുള്ള ശ്രമം ഇന്നു നടക്കുന്നുണ്ടു്. യുദ്ധം
+അധർമ്മമാണെന്നുള്ള ആശയം ഇത്രത്തോളം ആഴത്തിൽ വേരുറച്ചു് ഭൂലോകമാസകലം പടർന്നുപിടിച്ചതും
+ഇദംപ്രഥമമായിട്ടാണു്. ഇങ്ങനെ ചരിത്രപരമായി നോക്കുമ്പോൾ ധാർമികമൂല്യങ്ങൾക്കു് ഇന്നു വൃദ്ധിയോ
+ക്ഷയമോ? പരമ്പരാഗതമായ മുത്തശ്ശി മനസ്സിന്റെ ഇരുട്ടറയിൽ നിന്നു വെളിച്ചത്തു വന്നിട്ടുവേണം ഇതിനുത്തരം
+പറയാൻ.
+</p>
+          <p>
+ചിന്താതരംഗം 1958.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Darmikamoolyangal
+Adhapathicho? (ml: ധാർമികമൂല്യങ്ങൾ അധഃപതിച്ചോ?).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Darmikamoolyangal Adhapathicho?, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ധാർമികമൂല്യങ്ങൾ
+അധഃപതിച്ചോ?, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Odilon_Redon__Primitive_Man_%28Seated_in_Shadow%29.jpg">Primitive Man (Seated in
+Shadow),</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Odilon_Redon">Odilon Redon</ref>
+ (1840–1916). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-dma.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-dma.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

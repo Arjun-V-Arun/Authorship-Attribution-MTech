@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കുഞ്ഞുണ്ണിക്കവിതയുടെ അവതാരിക</title>
+          <title xml:lang="en" type="main">Kunjunnikavithayude Avatharika</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">August 22, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കുഞ്ഞുണ്ണിക്കവിതയുടെ അവതാരിക</title>
+              <title xml:lang="en" type="main">Kunjunnikavithayude Avatharika</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Kunjunnikavithayude Avatharika</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>കുഞ്ഞുണ്ണിക്കവിതയുടെ അവതാരിക</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 22, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Diego_Velzquez.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_054.jpg">Prince
+Balthasar Charles as a Hunter,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Diego_Vel%C3%A1zquez">Diego
+Velázquez</ref>  (1599–1660). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കുഞ്ഞുണ്ണിക്കവിതയുടെ അവതാരിക</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കുഞ്ഞുണ്ണിക്കവിതയുടെ അവതാരിക</head>
+        <div type="lsection">
+          <p style="noindent">ഹിമാലയം കാണുക, ആ കൂറ്റന്റെ മുന്നിൽ ചെന്നു് കൈയും കെട്ടി നിന്നു്
+അവനെയൊന്നു നോക്കിക്കാണുക— <ref target="https://ml.wikipedia.org/wiki/Kunhunni_Mash">കുഞ്ഞുണ്ണി</ref> യുടെ
+ജീവിതാഭിലാഷമായിരുന്നു അതു്! ജീവിതസായാഹ്നത്തിൽ അദ്ദേഹം അതു് സാധിക്കുകയും ചെയ്തു.
+</p>
+          <p>എണ്ണായിരം മീറ്റർ ഉയരമുളള പർവ്വതശൃംഗം മുന്നിൽ കൈയും കെട്ടി നോക്കിനിൽക്കുന്ന കുഞ്ഞുമനുഷ്യന്റെ
+ഉയരം ഒന്നര മീറ്റർ! പർവ്വതം ഗംഭീരമായിത്തന്നെ ഈ കുഞ്ഞുകവിയെ നോക്കുന്നു. കവി തന്റെ കുഞ്ഞിക്കണ്ണു്
+ചിമ്മാതെ ആ വലിപ്പത്തിലേക്കു് നോക്കി നിൽക്കുകയാണു്. ഹിമാലയവും കുഞ്ഞുണ്ണിയും! ആർക്കും നുണഞ്ഞു
+രസിക്കാൻ പറ്റിയ ദൃശ്യം!
+</p>
+          <p>കുഞ്ഞുണ്ണിയുടെ മികച്ച കവിതകളിലെന്നപോലെ ഈ ദൃശ്യത്തിലും ഇത്തിരി ദർശനവും ഇത്തിരി
+നേരംപോക്കും ഒത്തുചേരുന്നു.
+</p>
+          <p>വളരെ വലിയ പ്രപഞ്ചവും വളരെച്ചെറിയ താനും—ഇതാണു് കുഞ്ഞുണ്ണിയുടെ എല്ലാ അത്ഭുതത്തിന്റെയും
+അടിയിൽ കിടക്കുന്ന യാഥാർത്ഥ്യം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kunhunnimash.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞുണ്ണി</figDesc>
+          </figure>
+          <p> സ്വന്തം രൂപത്തിലും, പേരിൽപോലും, പതിഞ്ഞുകിടക്കുന്ന ഈ ‘ചെറുപ്പം’ കുഞ്ഞുണ്ണിക്കവിയുടെ
+പ്രമേയമാകുന്നു. വാർദ്ധക്യം വന്നുഭവിച്ചിട്ടും ചെറുതാകാത്ത ചെറുപ്പവുമായി നടക്കുന്ന ഈ കവിയെ
+ഹിമാലയത്തിന്റെ മാത്രമല്ല, എന്തിന്റേയും വലിപ്പം എപ്പോഴും ആകർഷിക്കുന്നു. ആകാശം, സമുദ്രം, പർവ്വതം,
+ആന തുടങ്ങി വലിപ്പമുള്ള രൂപങ്ങൾ അദ്ദേഹത്തിന്റെ കുഞ്ഞിക്കവിതയിൽ എവിടെയും സ്ഥലം പിടിക്കുന്നു. പൂച്ച,
+എലി, ഉറുമ്പു്, ഈച്ച, കൊതുകു്, കുന്നിക്കുരു തുടങ്ങിയ ചെറിയ രൂപങ്ങളെ ഈ കവി, ഒരു കൊച്ചുകുട്ടി ബലൂൺ
+എന്നപോലെ, കൗതുകപൂർവ്വം ഊതിവീർപ്പിക്കുന്നു. ഈ കൊച്ചുപ്രപഞ്ചത്തിൽ ആന കൊതുകിന്റെ പിന്നിൽ
+നടക്കുന്നു; ഈച്ച മേലേ പോകുന്നു, ആന താഴേ പോകുന്നു. വലുതിനെ ചെറുതാക്കുവാനും ചെറുതിനെ
+വലുതാക്കുവാനും കവി താൽപര്യം കാണിക്കുന്നു:
+</p>
+          <lg>
+            <l> കുഞ്ഞിയുറുമ്പുണ്ടൊരാനത്തലയോള</l>
+            <l> മാനത്തലയപ്പോളെത്രത്തോളം</l>
+            <l> ആനത്തലയൊരു കുന്നോളം</l>
+            <l> എന്നാകിലാനയോ</l>
+            <l> ആനയിബ്ഭൂമിയോളം</l>
+            <l> ആനയിബ്ഭൂമിയോളം പോരുമെന്നാകിൽ</l>
+            <l> ഭൂമിയോ</l>
+            <l> ഭൂമിയക്കുഞ്ഞിയുറുമ്പിന്റെ കണ്ണിനോളം</l>
+          </lg>
+          <lg>
+            <l> ഉറുമ്പുപാടും പാട്ടിലുണ്ടൊരു</l>
+            <l> കുറുമ്പനാന പറക്കുന്നു</l>
+          </lg>
+          <lg>
+            <l> വലിയൊരു പൂച്ചയാണു നരി</l>
+            <l> ചെറിയൊരു നരിയാണു പൂച്ച </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതുപോലുള്ള അനേകം വരികളിൽ ഈ വലിപ്പച്ചെറുപ്പത്തിന്റെ കീഴ്മേൽമറിയൽ കാണാം. ‘വലുതും
+ചെറുതും’ എന്ന കവിതയിൽ ഈ വ്യത്യാസത്തിന്റെ വ്യത്യാസം കവി എടുത്തു കാട്ടുന്നുണ്ടു്:</p>
+          <lg>
+            <l> എത്തറ ചെറിയൊരുറുമ്പു്—അവ</l>
+            <l> നെത്തറ വലിയ കുറുമ്പു്</l>
+            <l> എത്തറ പെരിയവനേയും—അവ</l>
+            <l> നിത്തിരി വേദനയാക്കും</l>
+            <l> എത്തറ വലിയൊരു കൊമ്പൻ—അവ</l>
+            <l> നിത്തിരിയില്ലൊരു വമ്പു്</l>
+            <l> എത്തറ ചെറിയവനേയും—അവ</l>
+            <l> നേറ്റിക്കൊണ്ടു നടക്കും. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഈ വലിപ്പച്ചെറുപ്പങ്ങളെ മാറ്റിവെച്ചു കളിക്കുവാൻ കുഞ്ഞുണ്ണി ഇഷ്ടപ്പെടുന്നു:</p>
+          <lg>
+            <l> രാവിലെയെഴുന്നേറ്റു നോക്കിയപ്പോൾ</l>
+            <l> ഭൂമിയുണ്ടു് ഒരു ചെറുനാരങ്ങയോളമായിരിക്കുന്നു</l>
+          </lg>
+          <lg>
+            <l> ഉറുമ്പിൻതലയാനയ്ക്കു</l>
+            <l> മാനത്തലയുറുമ്പിനും</l>
+            <l> മാറ്റിവെച്ചു കൊടുത്തീടിൽ</l>
+            <l> മലയാളം മനോഹരം </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> തന്റെ ചെറുപ്പത്തെ സംബന്ധിച്ച ഈ ധാരണ കവിയിൽ
+അപകർഷതാബോധമായി മാറുന്നില്ല. പകരം വലിപ്പവും ചെറുപ്പവും ഒന്നിച്ചുവെച്ചു് അദ്ദേഹം രസിക്കുന്നു. “ആറടി
+ഉയരമുള്ള ഭർത്താവു്, മൂന്നടി ഉയരമുള്ള ഭാര്യ—ഇരുവരും നിറഞ്ഞ റോഡിൽക്കൂടി
+കൈകോർത്തുല്ലസിച്ചുലാത്തുന്ന” കഥ (അന്യോന്യം രക്ഷിച്ചു—കുറ്റിപ്പെൻസിൽ) പറഞ്ഞതു് ഈ കവിയാണല്ലോ.
+“ആനയും ഉറുമ്പും അന്യോന്യം കൈകോർത്തുപിടിച്ചു തമാശയും പറഞ്ഞു നടന്നുപോകുന്ന” കഥ
+(പേടിക്കാനില്ല—കുറ്റിപ്പെൻസിൽ) പറഞ്ഞതും ഇദ്ദേഹം തന്നെ. വലിയവനായ ഈശ്വരൻ ചെറിയ
+കുട്ടികളോടൊപ്പം ഗോട്ടി കളിക്കാനാഗ്രഹിച്ചിട്ടു് അതു നടക്കാതെ പോയതിന്റെ കഥ (ഈശ്വരന്റെ
+മോഹം—കുറ്റിപ്പെൻസിൽ) യും കുഞ്ഞുണ്ണി എഴുതിയിട്ടുണ്ടു്. അദ്ദേഹത്തിന്റെ സൃഷ്ടിയായ കുന്നിക്കുരു
+കുന്നിൻമുകളിൽ കയറിനിന്നു് കുന്നിനോടു പറയുകയാണു്:
+</p>
+          <p style="noindent">“ഞാൻ നിന്നെക്കാൾ പൊക്കമുള്ളവാനാണു്.”
+</p>
+          <p>വലിപ്പവും ചെറുപ്പവും പോലുള്ള വൈരുദ്ധ്യങ്ങൾ എളുപ്പം കുഞ്ഞുണ്ണിയുടെ കണ്ണിൽപെടും. കുഞ്ഞുണ്ണിയുടെ
+ജീവിതവും കവിതയും സൂക്ഷിച്ചുനോക്കിയാൽ വൈരുദ്ധ്യങ്ങളുടെ ഒരു പരമ്പര തന്നെ കണ്ടെത്താനാവും:
+</p>
+          <p>വൈദ്യകുടുംബത്തിൽ പിറന്നു്, വൈദ്യനാകാൻ പഠിച്ചു്, വൈദ്യനാകാതെപോയതിൽ ദുഃഖിക്കുന്ന കവിയാണു്
+കുഞ്ഞുണ്ണി.
+</p>
+          <p>കുട്ടികളെ സ്നേഹിക്കുകയും അവരുടെ കവിയായിത്തീരുകയും ചെയ്യുന്ന കുഞ്ഞുണ്ണിക്കു് സ്വന്തം ജീവിതത്തിൽ
+കുട്ടികൾ വേണമെന്നു തോന്നിയില്ല.
+</p>
+          <p>സ്വന്തം ശരീരം ദുർബ്ബലമാണെങ്കിലും കരുത്തിനെ പൂജിക്കുന്ന കവിയാണദ്ദേഹം. ഹനുമാനാണു് ഇഷ്ടമൂർത്തി.
+
+</p>
+          <p>ജീവിതത്തിൽ “രക്ഷാകർത്തൃത്വത്തെ ക്ഷണിച്ചു വരുത്തുന്ന നിസ്സഹായത”യുള്ള ആളാണെങ്കിലും
+കവിതയിൽ അദ്ദേഹം അഹങ്കാരത്തോളമെത്തുന്ന ആത്മവിശ്വാസം പ്രകടിപ്പിക്കുന്നു.
+</p>
+          <p>നിലാവിനെ ഇഷ്ടപ്പെടുന്ന ഈ കവിക്കു് അതേയളവിൽ ഇരുട്ടും ഇഷ്ടമാണു്. മുറിയിലിരിക്കെ കറണ്ടു്
+പോയാൽ അദ്ദേഹം മെഴുകുതിരി കത്തിക്കാറില്ലത്രെ.
+</p>
+          <p>തീരെ സംഗീതാഭിമുഖ്യമില്ലാത്ത കുഞ്ഞുണ്ണി നാടൻപാട്ടുകളും സ്വന്തം കവിതകളും പാടി നടക്കുന്നു:
+‘പാട്ടൊന്നും പാടാത്ത പാണനാരെ’പ്പറ്റി കവിതയെഴുതുന്നു.
+</p>
+          <p>ഉറുമ്പും ആനയും, പൂച്ചയും എലിയും, കുന്നും കുന്നിക്കുരുവും അദ്ദേഹത്തിന്റെ കവിതയിൽ
+തുല്യപ്രാധാന്യത്തോടെ കടന്നുവരുന്നു.
+</p>
+          <p>കുട്ടിക്കാലത്തേ കുഞ്ഞുണ്ണി വയസ്സനാണു്; വയസ്സുകാലത്തും അദ്ദേഹം കുട്ടിയാണു്.
+</p>
+          <p>തീരെ വർണ്ണപ്പകിട്ടില്ലാത്തതാണു് കുഞ്ഞുണ്ണിയുടെ ലോകം: ലളിതമായ വെള്ളവസ്ത്രം,
+ആർഭാടങ്ങളൊന്നുമില്ലാത്ത ജീവിതം. അദ്ദേഹത്തിന്റെ കാവ്യലോകത്തിനും വർണ്ണഭംഗിയില്ല—എല്ലാം
+വെളുപ്പിലും കറുപ്പിലും ചിത്രീകരിച്ച ലളിതരംഗങ്ങൾ മാത്രം. പക്ഷേ, ഈ കവി ചിത്രം വരയ്ക്കുമ്പോൾ വർണ്ണങ്ങൾ
+സുലഭമായി ഉപയോഗിക്കുന്നു.
+</p>
+          <p>സർവ്വോപരി, ലോകത്തിന്റെ വലിപ്പവും തന്റെ കോലത്തിന്റെ ചെറുപ്പവും.
+</p>
+          <p>ഇത്തരം നിരവധി വൈരുദ്ധ്യങ്ങളിൽനിന്നു് ഉറന്നുവരുന്നതാണു് കുഞ്ഞുണ്ണിയുടെ ജീവിതവീക്ഷണം.
+അതുകൊണ്ടാവാം, ഈ കവിതകളുടെ മുദ്ര തന്നെ വിരുദ്ധോക്തിയായതു്:</p>
+          <lg>
+            <l> എന്നെപ്പെറ്റതു ഞാൻ തന്നെ</l>
+            <l> ഞാനുണർന്നപ്പോളെന്നെക്കണ്ടില്ല</l>
+            <l> ഭാഗ്യം ഭാഗ്യം…</l>
+            <l> കഷ്ടം!</l>
+            <l> ഞാനമ്മയുടെ വയറ്റിൽനിന്നു്</l>
+            <l> പിറന്നുവീണതു്</l>
+            <l> എന്റെ വയറ്റിലേക്കാണല്ലോ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇക്കൂട്ടത്തിൽ കുഞ്ഞുണ്ണിയുടെ ഏതാണ്ടു് എല്ലാ വരികളും ചേർക്കാവുന്ന മട്ടിൽ അത്ര സാധാരണമാണു് ഈ
+സവിശേഷത. തനിക്കും തന്റെ കവിതയ്ക്കും അലങ്കാരം അലങ്കോലമാണെന്നു കുഞ്ഞുണ്ണി പറഞ്ഞിട്ടുണ്ടെങ്കിലും
+അദ്ദേഹം വിരോധാഭാസം സുലഭമായി പ്രയോഗിച്ചിട്ടുണ്ടു്. ഉദാഹരണം ആവശ്യമില്ലാത്തത്ര സുവ്യക്തമാണു് ഈ
+സത്യം.
+</p>
+          <p style="noindent">വിരുദ്ധോക്തിയുടെ കല ആവിഷ്ക്കരിക്കുന്ന കടംകഥയിലും പഴഞ്ചൊല്ലിലും
+നാടൻപാട്ടിലും ഈ കവി ഏതു പ്രായത്തിലും രമിക്കുന്നു. പദപരവും അർത്ഥപരവുമായ വിരുദ്ധോക്തിയിൽ നിന്നു്
+ജനിക്കുന്ന അസംബന്ധതയിൽ അദ്ദേഹത്തിനു് എന്നും കൗതുകമുണ്ടു്. ഈ കവിതകളിലെ അസംബന്ധതയുടെ
+വേരു് നമ്മുടെ നാടൻ വാങ്മയത്തിൽത്തന്നെ:</p>
+          <lg>
+            <l> തുമ്പേലരിമ്പേലൊരീരമ്പൻതുമ്പ</l>
+            <l> തുമ്പകൊണ്ടമ്പതു് തോണി ചമച്ചു</l>
+            <l> തോണീടെ കൊമ്പത്തൊരാലു മുളച്ചു</l>
+            <l> ആലിന്റെ കൊമ്പത്തൊരുണ്ണി പിറന്നു </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> തുടങ്ങിയ നാടൻപാട്ടുകൾ കുഞ്ഞുണ്ണിയുടെ അസംബന്ധതയുടെ തറവാട്ടിലേക്കുള്ള നടപ്പാതകളാണല്ലോ.
+ഇത്തരം അസംബന്ധത കുട്ടികൾക്കെന്നപോലെ, കവിക്കു് സ്വാഭാവികസത്യമായിത്തോന്നുന്നു. കുഞ്ഞുണ്ണി
+എഴുതി:</p>
+          <lg>
+            <l> കുട്ടന്റെ കുപ്പായക്കീശയിൽ രണ്ടാന-</l>
+            <l> ക്കുട്ടികളുണ്ടു കിടന്നിടുന്നു</l>
+            <l> കൊമ്പുകളില്ലല്ലോ തുമ്പിക്കൈയില്ലല്ലോ</l>
+            <l> പിമ്പുറത്തില്ലല്ലോ നീണ്ട വാലും</l>
+            <l> ആകാശംമുട്ടുന്ന പൊക്കമുണ്ടെങ്കിലു-</l>
+            <l> മാകൃതിയില്ല വികൃതിയുണ്ടേ</l>
+            <l> കാട്ടിൽനിന്നല്ലത്രേ കിട്ടിയിവയെ, ര-</l>
+            <l> ണ്ടോട്ടക്കലങ്ങളിൽനിന്നാണത്രെ</l>
+            <l> കുട്ടനുരച്ചതാണിക്കാര്യമത്രയും</l>
+            <l> കുട്ടിയാണല്ലോ കളവാവില്ല </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഈ കവിതയുടെ പേരു് തന്നെ ‘കളവാവില്ല’ എന്നാണു്. (പതിനഞ്ചും പതിനഞ്ചും).
+ഈ വിരുദ്ധോക്തികളും അവ സൃഷ്ടിക്കുന്ന അസംബന്ധതകളുമെല്ലാം കവിയെ സംബന്ധിച്ചു്
+സത്യകഥനങ്ങളാണെന്നർത്ഥം.
+</p>
+          <p style="noindent">വിരുദ്ധോക്തിയുടെയും അസംബന്ധതയുടെയും കൂടെ ചേർത്തുവെച്ചു
+ആലോചിക്കേണ്ടതാണു് ചിരിയുടെ കാര്യം: അവ മൂന്നും തമ്മിൽ പല നിലയ്കും ബന്ധമുണ്ടു്.
+</p>
+          <p>വൈരുദ്ധ്യങ്ങൾ യുക്തിരഹിതമായി കൂടിക്കുഴയുമ്പോഴാണു് അസംബന്ധതയുണ്ടാകുന്നതു്. അതു് ആ നിലയ്ക്കു
+തന്നെ നമ്മെ ചിരിപ്പിച്ചേക്കാം.
+</p>
+          <p>പ്രതിഭയോ, ബുദ്ധിയോ, യുക്തിയോ, ഫലിതബോധമോ വൈരുദ്ധ്യങ്ങളെ ഒന്നിപ്പിക്കുമ്പോഴും നാം ചിരിച്ചു
+പോകുന്നു. ഈ ചിരി, മറ്റൊരു വഴിക്കു്, ആ സാഹചര്യത്തിലെ അസംബന്ധത കണ്ടുകിട്ടിയതിന്റെ ഫലമാണു്.
+ജീവിതത്തിലും സാഹിത്യത്തിലും സാധാരണയായി കണ്ടുവരുന്ന ചിരിയും ഇതാണു്.
+</p>
+          <p>ചിരി മിക്കപ്പോഴും വിരുദ്ധോക്തിയുടെ ഫലമാണു് എന്നു ചുരുക്കം. ഏതു വഴിക്കു നടക്കുമ്പോഴും
+വിരുദ്ധോക്തിയുടെ കല ആവിഷ്ക്കരിക്കുന്ന കുഞ്ഞുണ്ണിക്കവിത സ്വാഭാവികമായും ഒരു ചിരിക്കുടുക്കയായിത്തീരുന്നു.
+നേരത്തേ വിശദീകരിച്ചതുപോലെ, വൈരുദ്ധ്യങ്ങളിൽ നിന്നു് ഉറന്നുവരുന്ന ഒരു ജീവിതവീക്ഷണത്തിനു്
+സാദ്ധ്യമാകേണ്ട ആദ്യത്തെ കാര്യവും ചിരി തന്നെ.
+</p>
+          <p>വിരുദ്ധോക്തികളിലെന്നപോലെ വിരുദ്ധദ്വന്ദ്വങ്ങളെ സമന്വയിപ്പിക്കുന്നതിലും അദ്ദേഹം കാണിക്കുന്ന
+തന്നിഷ്ടം ചിലപ്പോൾ നമ്മുടെ കണ്ണഞ്ചിപ്പിച്ചുകളയും. വെളുപ്പും കറുപ്പും, ഒളിയും ഇരുളും വിരുദ്ധമാണെന്നുപോലും
+ചിലപ്പോൾ കവി അംഗീകരിച്ചുതരില്ല:</p>
+          <lg>
+            <l> ഇരുളിന്നൊളിക്കുവാൻ</l>
+            <l> വെളിച്ചമൊന്നാന്തരം</l>
+          </lg>
+          <lg>
+            <l> വിശ്വാസം വെളിച്ചമാ</l>
+            <l> ണിരുട്ടുമതുതന്നെ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> മാത്രമോ:</p>
+          <lg>
+            <l> ഇരുട്ടുരുട്ടിയെടുത്തു് വെട്ടത്തിട്ടു്</l>
+            <l> വെട്ടമുരുട്ടിയെടുത്തിരുട്ടത്തിട്ടു്</l>
+            <l> ഇരുട്ടും വെട്ടവും കൂട്ടിയുരുട്ടിയെടുത്തട്ടത്തിട്ടു് </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> അദ്ദേഹം തട്ടിക്കളിക്കുന്നു. വാക്കുകൊണ്ടും പ്രതീകംകൊണ്ടും
+വിരുദ്ധദ്വന്ദ്വങ്ങളെക്കൊണ്ടും അദ്ദേഹം കളിക്കുന്നു. ഗുളികയുരുട്ടി ശീലിച്ച ആ വിരലുകൾ വാക്കുരുട്ടുമ്പോൾ
+
+ഒറ്റമൂലികൾ ഉരുവം കൊള്ളുന്നു.
+</p>
+          <p style="noindent">‘എനിക്കു് പൊക്കം കുറവാണു്’ എന്ന ബോധം കവിയെ ഭരിക്കുന്നു. ലോകം മറിച്ചിട്ടു
+കോലമാക്കാമെന്നും കോലം മറിച്ചിട്ടു ലോകമാക്കാമെന്നും പൊക്കമില്ലായ്മയാണു് തന്റെ പൊക്കമെന്നും കവി
+അറിയുന്നു. അതുകൊണ്ടു് പൊക്കക്കാരുടെ പൊയ്ക്കാലിനെ പരിഹസിക്കുവാൻ അദ്ദേഹം ശക്തനായിത്തീരുന്നു.
+തന്നെക്കാൾ വലിയ മനുഷ്യരുടെ പൊങ്ങച്ചങ്ങൾ ചൂണ്ടിക്കാട്ടി കവി അവരെ ‘കൊച്ചാ’ക്കുന്നു.
+വാക്കുപയോഗിക്കുന്നതിൽ പിശുക്കനായിട്ടും വലിയ, ചെറിയ എന്നീ പദങ്ങൾ അദ്ദേഹം സ്വയമറിയാതെ
+ആവർത്തിച്ചു പോകുന്നു.
+</p>
+          <p>വലിയ കവിതകളെഴുതാൻ വിസമ്മതിച്ച ഈ കവിയുടെ ഉള്ളിൽ തന്നെപ്പോലെ തന്റെ കവിതയുടെയും
+“ആകാരം ഹ്രസ്വ”മാവണം എന്നുണ്ടായിരിക്കാം. “വലിയ ലോകം നന്നാക്കാൻ ചെറിയ സൂത്രം ചൊല്ലി”
+നടക്കുന്ന അദ്ദേഹത്തിന്റെ വരികൾ സൂത്രപ്രായമായതു സ്വാഭാവികം മാത്രം.
+</p>
+          <p>ഈ ചെറിയ മനുഷ്യന്റെ ‘വലിയ’ ലോകം പൊയ്മുഖങ്ങൾക്കും പൊയ്ക്കാലുകൾക്കും ഇടയിൽ തളിരായും
+പൊരുളായും വർത്തിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kunjunnikavithayude
+Avatharika (ml: കുഞ്ഞുണ്ണിക്കവിതയുടെ അവതാരിക).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Kunjunnikavithayude Avatharika, എം. എൻ. കാരശ്ശേരി, കുഞ്ഞുണ്ണിക്കവിതയുടെ അവതാരിക, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 22, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_054.jpg">Prince
+Balthasar Charles as a Hunter,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Diego_Vel%C3%A1zquez">Diego
+Velázquez</ref>  (1599–1660). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-kunjunni.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-kunjunni.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

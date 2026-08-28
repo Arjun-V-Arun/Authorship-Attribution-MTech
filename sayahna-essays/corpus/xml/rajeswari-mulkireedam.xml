@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കോടിയേരിയുടെ മുൾക്കിരീടം</title>
+          <title xml:lang="en" type="main">Kodiyeriyude Mulkireedam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 9, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കോടിയേരിയുടെ മുൾക്കിരീടം</title>
+              <title xml:lang="en" type="main">Kodiyeriyude Mulkireedam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Kodiyeriyude Mulkireedam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കോടിയേരിയുടെ മുൾക്കിരീടം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 9, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Boy_with_Cherries_Edouard_Manet.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Boy_with_Cherries_Edouard_Manet.jpg">Boy
+with cherries,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:%C3%89douard_Manet">Édouard
+Manet</ref>  (1832–1883). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കോടിയേരിയുടെ മുൾക്കിരീടം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കോടിയേരിയുടെ മുൾക്കിരീടം</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. എം. എസ്.</figDesc>
+          </figure>
+          <p style="noindent"> ജനങ്ങളുടെ ജീവനും സ്വത്തിനും സുരക്ഷ നൽകലാണു് ഏതൊരു
+ഭരണകൂടത്തിന്റെയും പ്രാഥമിക ചുമതല. ഏറ്റവും കുറച്ചു ഭരിക്കുന്ന സർക്കാറാണു് ഏറ്റവും മികച്ചതെന്നു്
+സിദ്ധാന്തിച്ചു് <ref target="https://en.wikipedia.org/wiki/James_Mill">ജെയിംസ്മിൽ</ref> വരെ
+അംഗീകരിച്ചതാണു് ഇക്കാര്യം. വൈദേശികാക്രമണത്തിൽ നിന്നും ആഭ്യന്തരകലാപത്തിൽനിന്നും രക്ഷിക്കേണ്ട
+ഉത്തരവാദിത്തം കേന്ദ്രസർക്കാറിനാണു്; ക്രമസമാധാനപാലനം സംസ്ഥാനത്തിന്റെ കടമയും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/vr_krishna_iyyar.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ആർ. കൃഷ്ണയ്യർ</figDesc>
+          </figure>
+          <p> ആഭ്യന്തരമന്ത്രിപദം മുൾക്കിരീടമാണു്, അസാമാന്യമായ മെയ്വഴക്കം വേണം. കരളുറപ്പും വേണം.
+നാട്ടുകാരെ വെറുപ്പിക്കരുതു്. പത്രങ്ങളെ പിണക്കരുതു്. പോലീസിനെ നിയന്ത്രിക്കേണ്ടിടത്തു നിയന്ത്രിക്കണം.
+നിയമപാലകരുടെ ആത്മവീര്യം തകരാതെ നോക്കുകയും വേണം. തീവ്രവാദികളെയും ഗുണ്ട-മാഫിയ
+സംഘങ്ങളെയും അമർച്ച ചെയ്യണം. മനുഷ്യാവകാശലംഘനമുണ്ടാകാതെ സൂക്ഷിക്കുകയും ചെയ്യണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/C_achuthamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതമേനോൻ</figDesc>
+          </figure>
+          <p> കേരളപ്പിറവി മുതലിങ്ങോട്ടു് പൊലീസ് വകുപ്പു് കൈയാളിയവരാരും ചില്ലറക്കാരല്ല—<ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്.</ref> മന്ത്രിസഭയിൽ ആദ്യം
+<ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ.
+കൃഷ്ണയ്യർ</ref>, പിന്നെ <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോൻ</ref>;
+പട്ടത്തിന്റെയും ശങ്കറിന്റെയും കാബിനറ്റിൽ <ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി. ചാക്കോ</ref>; <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോന്റെ</ref>
+കൂടെ ആദ്യം <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദ്കോയ</ref>, പിന്നീടു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>;
+കരുണാകരന്റെയും <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെയും <ref target="https://ml.wikipedia.org/wiki/P._K._Vasudevan_Nair">പി. കെ. വി.</ref>യുടെയും മന്ത്രിസഭകളിൽ <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref>,
+തെരഞ്ഞെടുപ്പുകേസിൽ കുടുങ്ങി മാണി രാജിവെച്ച ഇടവേളയിൽ <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref>; ഒന്നാം
+
+നായനാർ മന്ത്രിസഭയിൽ സഖാവു് <ref target="https://ml.wikipedia.org/wiki/T.K._Ramakrishnan">ടി. കെ.
+രാമകൃഷ്ണൻ</ref>. എല്ലാവരും പ്രഗല്ഭർ, പ്രതിഭാശാലികൾ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_T_Chacko.png" rendition="gra"/>
+            <figDesc style="thumb">പി. ടി. ചാക്കോ</figDesc>
+          </figure>
+          <p> ഇടതുഭരണത്തിൻ കീഴിൽ ക്രമസമാധാനം തകർന്നു എന്നു് മുറവിളികൂട്ടിയാണു് 1982-ൽ ഐക്യമുന്നണി
+തെരഞ്ഞെടുപ്പിനെ നേരിട്ടതു്. തലശ്ശേരിയിലെ ആർ. എസ്. എസ്.-മാർക്സിസ്റ്റ് സംഘട്ടനങ്ങളും
+ഏറ്റുമാനൂരമ്പലത്തിൽ നടന്ന കവർച്ചയുമൊക്കെ പ്രചാരണായുധമായി. തെങ്ങിന്റെ കുലയും മനുഷ്യന്റെ തലയും
+സംരക്ഷിക്കാൻ യു. ഡി. എഫിനെ വിജയിപ്പിക്കണമെന്നു് <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദ്കോയ</ref> അഭ്യർഥിച്ചു. അത്തവണ ഐക്യമുന്നണി വിജയിച്ചു. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>
+മുഖ്യമന്ത്രി, <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ
+രവി</ref> ആഭ്യന്തരമന്ത്രി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CHmohammedKoya.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എച്ച്. മുഹമ്മദ്കോയ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി.
+ചാക്കോ</ref> യെക്കാൾ, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരനെ</ref>
+ക്കാൾ ഒന്നുകൊണ്ടും മോശക്കരനായിരുന്നില്ല <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>. വില്ലാളി
+വീരൻ, വീരമണികണ്ഠൻ. ആലപ്പുഴയിൽ നബിദിനാഘോഷ യാത്രക്കുനേരെ നടന്ന വെടിവെപ്പും തുടർന്നു്
+ചലക്കമ്പോളത്തിലുണ്ടായ കൊള്ളിവെപ്പുമൊഴിച്ചാൽ സമാധാന പൂർണമായിരുന്നു രവിയുടെ ഭരണകാലം.
+ഗ്രൂപ്പുവഴക്കു് മൂർച്ഛിച്ചപ്പോൾ കരുണാകരനു് രവി ചതുർഥിയായി. മന്ത്രിസഭയുടെ പ്രതിച്ഛായ മെച്ചപ്പെടുത്താൻ
+വയലാർ രവി ആഭ്യന്തരവും <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref>
+ധനകാര്യവും ഒഴിയണമെന്നു് കരുണാകരൻ ശഠിച്ചു. ആഭ്യന്തരമില്ലാതെ മന്ത്രിയായി തുടരാൻ വയലാർജിയെ
+മനഃസാക്ഷി അനുവദിച്ചില്ല. മാണിസാർ അപമാനം സഹിച്ചും മന്ത്രിസ്ഥാനത്തു് തുടർന്നു. <ref target="https://en.wikipedia.org/wiki/Thachadi_Prabhakaran">തച്ചടി
+പ്രഭാകരൻ</ref> ധനകാര്യമന്ത്രിയായി; ആഭ്യന്തരം മുഖ്യമന്ത്രി ഏറ്റെടുത്തു. കരുണാകർജി ആഭ്യന്തരവകുപ്പു്
+നേരിട്ടു ഭരിച്ച നല്ല കാലത്താണു് തങ്കമണിയിലും കീഴ്മാടും പൊലീസ് അതിക്രമം അരങ്ങേറിയതും മുന്നണിയുടെ
+പരാജയം സുനിശ്ചിതമായതും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 1987-ൽ ആഭ്യന്തരവകുപ്പു് മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാരു</ref> ടെ
+പറ്റിലെഴുതാനാണു് മാർക്സിസ്റ്റ് പാർട്ടി തീരുമാനിച്ചതു്. മുഖ്യന്റെ പൊളിറ്റിക്കൽ സെക്രട്ടറിയായി <ref target="https://ml.wikipedia.org/wiki/A.P._Kurian">എ. പി. കുര്യനെ</ref> യും
+നിയമിച്ചു. ഒന്നാന്തരം ഭരണാധികാരിയാണെന്നു കുര്യൻ തെളിയിച്ചു. ഉലുവക്കഷായം കുടിക്കാനും വിഡ്ഢിത്തം
+പറയാനും മാത്രം മുഖ്യമന്ത്രി, പോലീസിനെ നിയന്ത്രിക്കാനും നയിക്കാനും പൊളിറ്റിക്കൽ സെക്രട്ടറി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> 1991-ൽ അധികാരത്തിൽ തിരിച്ചെത്തിയ കരുണാകരൻ ആഭ്യന്തരവകുപ്പു് മറ്റാർക്കെങ്കിലും വിട്ടുകൊടുക്കുന്ന
+പ്രശ്നമേ ഉദിച്ചില്ല. ചീഫ് സെക്രട്ടറി പത്മകുമാർ, ഡി. ജി. പി. മധുസൂദനൻ, <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">കെ. മുരളീധരൻ</ref>,
+പിച്ച ബഷീർ എന്നീ പ്രഗല്ഭമതികൾ സഹായ സന്നദ്ധരായുള്ളപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref> ആരെ,
+എന്തിനെ പേടിക്കണം? ഭരണം ജിൽജില്ലായി നടന്നു. സിറാജുന്നിസയുടെ കൊലപാതകം, പൂന്തുറക്കലാപം,
+മട്ടാഞ്ചേരി ലഹള, ഐ. എസ്. ആർ. ഒ. ചാരക്കേസ്, കൂത്തുപറമ്പു് വെടിവെപ്പു്…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. മാണി</figDesc>
+          </figure>
+          <p> കരുണാകരന്റെ പകുതിയെങ്കിലും കഴിവോ കാര്യപ്രാപ്തിയോ ഇല്ലെങ്കിലും ആഭ്യന്തരവകുപ്പു് മറ്റാർക്കെങ്കിലും
+വിട്ടുകൊടുക്കാൻ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ.
+ആന്റണി</ref> തയാറായില്ല. പോലീസിനു മേൽ രാഷ്ട്രീയ നിയന്ത്രണം തീരെയും ഇല്ലാതായി. അഴിമതിയും
+കെടുകാര്യസ്ഥതയും വർധിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p> 1996–2001 കാലത്തു് ആഭ്യന്തര വകുപ്പിന്റെ ചുമതല മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാർക്കും</ref> ഭരണം
+പൊളിറ്റിക്കൽ സെക്രട്ടറി പി. ശശിക്കുമായിരുന്നു. ഐസ്ക്രീം പാർലർ പെൺവാണിഭം, പന്ന്യന്നൂർ ചന്ദ്രന്റെയും
+കെ. ടി. ജയകൃഷ്ണന്റെയും കൊലപാതകങ്ങൾ, പരുമല കോളജു വിദ്യാർഥികളുടെ ദാരുണമരണം, നാദാപുരത്തെ
+ലഹള എന്നിങ്ങനെ അനിഷ്ടസംഭവങ്ങൾ ഒട്ടേറെയുണ്ടായി. മുഖ്യമന്ത്രിയുടെ തൊപ്പിയിൽ എമ്പാടും
+കാക്കത്തൂവലുകൾ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p> 2001-ലെങ്കിലും ആഭ്യന്തരം മറ്റാരെയെങ്കിലും ഏൽപിക്കാൻ ആന്റണിക്കു തോന്നിയില്ല (<ref target="https://ml.wikipedia.org/wiki/K._Sankaranarayanan">ശങ്കരനാരായണനെ</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/M.M._Hassan">എം. എം.
+ഹസനെ</ref> യും പോലുള്ള ഉരുപ്പടികൾക്കു് പോലീസ് വകുപ്പു് ഭരിക്കാൻ കൊടുത്താൽ എന്താകും കഥ
+എന്നതു മറ്റൊരുകാര്യം). നിയമപാലകർക്കു പൂർണമായ ‘പ്രവർത്തന സ്വാതന്ത്ര്യം’ നൽകി. ഖദറിട്ടവർക്കു രണ്ടിടി
+കൂടുതൽ കിട്ടും എന്ന സ്ഥിതിവിശേഷം സംജാതമായി. മാറാട്, മുത്തങ്ങ സംഭവങ്ങൾ സർക്കാറിന്റെ പ്രതിച്ഛായ
+തകർത്തു. പോലീസുകാരുടെ ഒത്താശയോടും പങ്കാളിത്തത്തോടും കൂടി ഗുണ്ട-മാഫിയ സംഘങ്ങൾ തഴച്ചുവളർന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Vasudevan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വി.</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ
+സ്ഥാനത്തു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+വന്നപ്പോൾ കാര്യങ്ങൾ കൂടുതൽ വഷളായി. സ്ഥലം മാറ്റത്തിനു കിഴി നിർബന്ധമായി. നിയമപാലകർ പിഴിച്ചിൽ,
+ഉഴിച്ചിൽ, കായകൽപ ചികിൽസ എന്നിവയിൽ പ്രാവീണ്യം തെളിയിച്ചു. തിരുവനന്തപുരം ഫോർട്ട് സ്റ്റേഷനിൽ
+ഉദയകുമാർ എന്നൊരു ചെറുപ്പക്കാരൻ പോലീസിന്റെ പരിലാളനമേറ്റു ദിവംഗതനായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എസ്. അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> തന്റെ മുൻഗാമികളെപ്പോലെ പോലീസിനെ നേരിട്ടു ഭരിക്കണമെന്നായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദന്റെ</ref>
+ആഗ്രഹം. പക്ഷേ, പാർട്ടി സമ്മതിച്ചില്ല. മുഖ്യന്റെ പ്രായാധിക്യവും കൃത്യാന്തരബാഹുല്യവും പരിഗണിച്ചു് ഫുൾടൈം
+ആഭ്യന്തരനെ നിയമിച്ചു. വിജിലൻസ് പിടിച്ചുവെക്കാൻ അച്യുതാനന്ദൻ ആവതു ശ്രമിച്ചെങ്കിലും ഫലവത്തായില്ല.
+അങ്ങനെ <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർജി</ref> രാജിവെച്ചു്
+രണ്ടുപതിറ്റാണ്ടിനുശേഷം ആഭ്യന്തരവകുപ്പിനു സ്വന്തം മന്ത്രിയുണ്ടായി—<ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണൻ</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PinarayiVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പിണറായി വിജയൻ</figDesc>
+          </figure>
+          <p> വിദ്യാർഥി ഫെഡറേഷനിലൂടെ രാഷ്ട്രീയത്തിൽ വന്നയാളാണു് ബാലകൃഷ്ണൻ. എസ്. എഫ്. ഐ. സംസ്ഥാന
+സെക്രട്ടറി, സി. പി. എം. കണ്ണൂർ ജില്ലാ സെക്രട്ടറി എന്നീ നിലകളിൽ പ്രശോഭിച്ചു. അടിയന്തരാവസ്ഥക്കാലത്തു്
+ജയിൽവാസം അനുഭവിച്ചു. മുമ്പു് മൂന്നുവട്ടം നിയമസഭാംഗമായിരുന്ന അനുഭവസമ്പത്തുണ്ടു്. സർവോപരി <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയന്റെ</ref> വിശ്വസ്തനും മനഃസാക്ഷി സൂക്ഷിപ്പുക്കാരനുമാണു്. ഭാവിയിൽ സി. പി. എം. സംസ്ഥാന
+സെക്രട്ടറിയോ കേരള മുഖ്യമന്ത്രിയോ ആകാനും സാധ്യതയുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_Sankaranarayanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശങ്കരനാരായണൻ</figDesc>
+          </figure>
+          <p> വിദ്യാർഥി നേതാവായിരുന്ന കാലം മുതൽ ഒട്ടേറെ ക്രിമിനൽ കേസുകളിൽ പ്രതിയായി പോലീസ്
+സ്റ്റേഷനിൽ കയറിയ ആളാണു് <ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണൻ</ref>. അദ്ദേഹത്തിന്റെ ഭാര്യപിതാവു് എം. വി. രാജഗോപാലൻ തലശ്ശേരി എം. എൽ. എ.
+ആയിരിക്കവെ കൊലക്കേസിൽ ജീവപര്യന്തം തടവിനു് ശിക്ഷിക്കപ്പെട്ടയാളാണു്. അപ്പീലിൽ ഹൈക്കോടതി
+സംശയത്തിന്റെ ആനുകൂല്യം നൽകി വിട്ടയക്കുകയായിരുന്നു. ബാലകൃഷ്ണന്റെ മകൻ ബിനീഷ് ഇതിനകം കഴിവു
+തെളിയിച്ച കലാ കായിക പ്രതിഭയാണു്. ഈയിടെ അദ്ദേഹത്തെ തിരുവനന്തപുരം കോടതി
+പിടികിട്ടാപ്പുള്ളിയായി പ്രഖ്യാപിച്ചു് ആദരിച്ചിരുന്നു.
+</p>
+          <p>ഇടതുപക്ഷ-ജനാധിപത്യ മുന്നണി ഭരണമേറ്റിട്ടു് മാസം മൂന്നായി. മന്ത്രി തിരുവനന്തപുരം മുതൽ കാസർകോടു
+വരെ നടന്നു് പ്രസ്താവനകൾ പാസാക്കുന്നുണ്ടു്. ക്രമസമാധാനനില മുമ്പത്തേക്കാളും വഷളായിരിക്കുന്നു.
+ഭവനഭേദനം, കൂട്ടായ്മ, കവർച്ച, സ്ത്രീപീഡനം, പെൺവാണിഭം, ക്ഷേത്ര കവർച്ച—ഒന്നിനുമൊരു കുറവില്ല.
+
+ഗുണ്ട-മാഫിയ സംഘങ്ങൾ സജീവം, സക്രിയം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> പോലീസ് തികച്ചും നിഷ്ക്രിയം എന്നു പറഞ്ഞുകൂടാ. നിയമപാലകർ തങ്ങളെകൊണ്ടു് കഴിയാവുന്നത്ര
+സഹായം മാഫിയാസംഘങ്ങൾക്കു ചെയ്യുന്നുണ്ടു്. കേസുകൾ തേച്ചുമായ്ച്ചു് കളയുന്നതിലും അവരുടെ സേവനം
+ലഭ്യമാണു്. ലോക്കൽ നേതാക്കളുടെ സഹായ-സഹകരണങ്ങളും ഗുണ്ടാസംഘങ്ങൾക്കുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Muraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. മുരളീധരൻ</figDesc>
+          </figure>
+          <p> സാധാരണഗതിയിൽ, സർക്കാർ മാറുമ്പോൾ പോലീസിൽ വലിയ ഇളക്കിപ്രതിഷ്ഠ പതിവുണ്ടു്.
+മുൻസർക്കാറിന്റെ പാർശ്വവർത്തികളെ ക്രൈം റെക്കോർഡ്സ് ബ്യൂറോയിലേക്കും ട്രാഫിക്കിലേക്കും
+വനവാസത്തിനു വിടും. പ്രതിബദ്ധതയുള്ളവർക്കു് ക്രമസമാധാനചുമതല നൽകും. ഇത്തവണ അത്തരം
+മാറ്റങ്ങൾക്കൊന്നും തുനിഞ്ഞിട്ടില്ല. കഴിഞ്ഞ സർക്കാറിന്റെ കാലത്തു് വലിയ തുക മുടക്കി പോസ്റ്റിംഗ്
+തരപ്പെടുത്തിയവർ തൽസ്ഥാനങ്ങളിൽ തുടരുന്നു. കഴിവിന്റെ തോതനുസരിച്ചു് വിഭവസമാഹരണം തുടരുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_M_Hassan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. ഹസൻ</figDesc>
+          </figure>
+          <p> തടവുപുള്ളികൾക്കു് പരോൾ അനുവദിക്കുന്ന കാര്യത്തിൽ മാർക്സിസ്റ്റുകാർ പൊതുവേ ഉദാരമനസ്കരാണു്.
+സെൻട്രൽ ജയിലിലെ ജീവപര്യന്തക്കാരിൽ നല്ലൊരു ഭാഗം ധീരസഖാക്കളാണെന്നതു തന്നെ കാരണം.
+ഹൈക്കോടതിയുടെ വിലക്കുലംഘിച്ചും, ജയിൽ ഡി. ജി. പി.-യുടെ ഭിന്നാഭിപ്രായം വിഗണിച്ചും തടവുകാർക്കു് മന്ത്രി
+പരോൾ നൽകുകയാണു്.
+</p>
+          <p>കോടിയേരി സഖാവിന്റെ ഭരണകാലത്തു് കസ്റ്റഡി മരണങ്ങൾ കുറഞ്ഞു എന്നാരും പരാതി പറയില്ല.
+ജയിലിലും പൊലീസ് കസ്റ്റഡിയിലുമാണിപ്പോൾ മനുഷ്യർ ആത്മഹത്യ ചെയ്യുന്നതു്. ഹൃദയസ്തംഭനം മൂലം
+മരിച്ചവരുമുണ്ടു്. കസ്റ്റഡിയിൽ കഴിയുന്നയാൾ പട്ടി കടിയേറ്റു് മരിച്ചു എന്ന വാർത്ത ഇനി നമ്മൾ കേൾക്കും.
+</p>
+          <p>കസ്റ്റഡി മരണങ്ങളെക്കുറിച്ചു് ജുഡീഷ്യൽ അന്വേഷണം നടത്തും, അതിലേക്കായി ഹൈക്കോടതിയിലെ
+സിറ്റിംഗ് ജഡ്ജിയുടെ സേവനം ആവശ്യപ്പെടും എന്നാണു് മന്ത്രി പറയുന്നതു്. സിറ്റിംഗ് ജഡ്ജിയെ വിട്ടുകിട്ടില്ല
+എന്നു് കൊച്ചുകുട്ടികൾക്കുവരെ അറിയാം. അവസാനം വല്ല റിട്ടയേഡ് മജിസ്ട്രേറ്റിനെയോ താസിൽദാരെയോ
+വെച്ചു് അന്വേഷണം നടത്തിക്കാം. കുറ്റവാളികൾക്കു രക്ഷപ്പെടാൻ ജുഡീഷ്യൽ അന്വേഷണംപോലെ
+സൗകര്യപ്രദമായ മറ്റൊരു പരിപാടിയില്ല. റിപ്പോർട്ടു കിട്ടുമ്പോഴേക്കും കൊല്ലങ്ങൾ പലതു കഴിയും. നിഗമനങ്ങൾ
+അനുകൂലമെങ്കിൽ സ്വീകരിക്കാം, പ്രതികൂലമെങ്കിൽ തള്ളിക്കളയാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mullakkara_Retnakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുല്ലക്കര രത്നാകരൻ</figDesc>
+          </figure>
+          <p> പോലീസും പൊതുജനങ്ങളുമായുള്ള ബന്ധം മെച്ചപ്പെടുത്താൻ കോടിയേരി സഖാവു് പുതിയ കർമപദ്ധതിക്കു
+രൂപം നൽകിയിട്ടുണ്ടു്. മാസത്തിലൊരിക്കൽ പോലീസ് സൂപ്രണ്ട് ജനങ്ങളിൽനിന്നു നേരിട്ടു പരാതി
+സ്വീകരിക്കണം, ജില്ലയിലെ എം. പി.-മാർ, എം. എൽ. എ.-മാർ, മുനിസിപ്പൽ പഞ്ചായത്തു് അംഗങ്ങൾ
+എന്നിവരുമായി ആശയവിനിയമയം നടത്തണം, മാസത്തിലൊരിക്കൽ ക്രൈം കോൺഫറൻസ് നടത്തണം
+
+എന്നിങ്ങനെയുള്ള ജനാധിപത്യവത്ക്കരണം ഒരു വശത്തു്, പോലീസ് ആക്റ്റും മാനുവലും ഭേദഗതി
+ചെയ്യുന്നതിനുള്ള നീക്കം മറ്റൊരുവശത്തു്. കേസു റജിസ്റ്റർ ചെയ്താൽ ഒരു മാസത്തിനകം അന്വേഷണം
+പൂർത്തിയാക്കണം, കസ്റ്റഡി മരണങ്ങൾ ഉണ്ടാകാൻ പാടില്ല, മൂന്നാംമുറ അനുവദനീയമല്ല എന്നിങ്ങനെയുള്ള
+സാരോപദേശങ്ങൾ വേറെയും. പൊലീസ് സേനയിൽ കാലോചിതമായ മാറ്റങ്ങൾ വരുത്തുന്നതിനെപ്പറ്റി പഠിച്ചു്
+റിപ്പോർട്ടു സമർപ്പിക്കാൻ പുതിയ കമ്മിറ്റിയെ നിയോഗിക്കാനും പരിപാടിയുണ്ടു്.
+</p>
+          <p>തലയിൽ വെണ്ണവെച്ചു് കൊക്കിനെ പിടിക്കുന്നതുപോലെ പ്രായോഗികവും പ്രാവർത്തികവുമാണു്
+കർമപദ്ധതിയെന്നു പറയേണ്ടതില്ലല്ലോ. പോലീസ് ഏമാൻമാരുടെ കിമ്പളപരിഷ്കരണത്തിനു വേണ്ടിയും ഒരു
+കമ്മിറ്റിയെ നിയോഗിക്കാമായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Oommen_Chandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമ്മൻചാണ്ടി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+കാലത്തു് ഗുണ്ടാഓർഡിനൻസ് എന്നൊന്നു് നിലനിന്നിരുന്നു. (അതുപ്രകാരം ഒരാളെയും അകത്താക്കിയില്ല
+എന്നതു സത്യം) ഇടതു സർക്കാർ വന്നപ്പോൾ അതു ലാപ്സായി. പുതിയ നിയമം കൊണ്ടുവരും എന്നൊരു
+പ്രസ്താവന വന്നു. നിയമം എപ്പോൾ, എങ്ങനെ എന്നൊക്കെ കോടിയേരിക്കും പടച്ചതമ്പുരാനും മാത്രം അറിയാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AP_Kurian.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. പി. കുര്യൻ</figDesc>
+          </figure>
+          <p> മുൻ ചീഫ് സെക്രട്ടറി സി. രാമചന്ദ്രനെ ആഭ്യന്തര മന്ത്രിയുടെ ഉപദേഷ്ടാവായി നിയമിക്കാൻ
+മന്ത്രിസഭായോഗം തീരുമാനിച്ചിരിക്കുന്നു. കേരളചരിത്രത്തിൽ ആദ്യമായാണു് ഒരു മന്ത്രിക്കു്
+ഉപദേഷ്ടാവുണ്ടാകുന്നതു്. അതുകൊണ്ടുതന്നെ, ടിയാന്റെ അധികാര പരിധി എന്താണെന്നു വ്യക്തമല്ല.
+സേവന-വേതന വ്യവസ്ഥകളും വ്യക്തമല്ല. ചീഫ് സെക്രട്ടറിക്കു തുല്യമായ ശമ്പളവും ഔദ്യോഗിക വസതിയും
+കാറും ഫോണും മറ്റു് ആനുകൂല്യങ്ങളും അനുവദിച്ചു നൽകാനാണു് സാധ്യത. ജോലി, മുമ്പു് മുഖ്യന്റെ പൊളിറ്റിക്കൽ
+സെക്രട്ടറി ചെയ്തിരുന്നതാകാനേ തരമുള്ളൂ. ചുരുക്കി പറഞ്ഞാൽ ഇനിയങ്ങോട്ടു് ഊരുചുറ്റലും നാടമുറിക്കലും
+പത്രസമ്മേളനം നടത്തലും മാത്രം കോടിയേരി ചെയ്തൽ മതി. ബാക്കികാര്യങ്ങൾ രാമചന്ദ്രൻ സാർ
+നോക്കിക്കൊള്ളും. ഹാ, എത്ര മനോഹരമായ പരിഷ്ക്കാരം !
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KodiyeriBalakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കോടിയേരി ബാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> മന്ത്രിമാർ തന്നെ ഫയൽ നോക്കണം, ഉത്തരവുകൾ പാസാക്കണം, കീഴുദ്യോഗസ്ഥർക്കു നിർദേശം
+കൊടുക്കണം എന്നൊക്കെ ശഠിക്കുന്നതു് ബൂർഷ്വാ പരിപാടികളാണു്. മറ്റെന്തൊക്കെ തിരക്കുകളുള്ളവരാണു്
+നമ്മുടെ മന്ത്രിമാർ? കോടിയേരിയാണെങ്കിൽ സി. പി. എമ്മിന്റെ കേന്ദ്രക്കമ്മിറ്റിയിലും സംസ്ഥാന
+സെക്രട്ടേറിയറ്റിലും അംഗമാണു്. അടുത്ത വർഷം സംഘടനാ തെരഞ്ഞെടുപ്പുകൾ നടക്കാനിരിക്കവെ
+തിരുത്തൽവാദികൾക്കും അതിവിപ്ലവകാരികൾക്കുമെതിരെ പാർട്ടി അണികളെ ജാഗരൂകരാക്കേണ്ട ഭാരിച്ച
+ചുമതല നിറവേറ്റേണ്ടിയിരിക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Gurudasan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. ഗുരുദാസൻ</figDesc>
+          </figure>
+          <p> പ്രായാധിക്യം, പരിചയക്കുറവു്, സമയദൗർലഭ്യം എന്നിവകൊണ്ടു് വലയുന്ന മന്ത്രിമാർക്കു്
+അനുകരണീയമായ മാതൃകയാണു് <ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണൻ</ref> കാഴ്ചവെച്ചിരിക്കുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/P.K._Gurudasan">പി. കെ. ഗുരുദാസനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Mullakkara_Ratnakaran">മുല്ലക്കര
+രത്നാകരനു</ref> മൊക്കെ ഈ വഴിക്കു മുന്നേറുമെന്നു് പ്രത്യാശിക്കുക. അഡ്വൈസർ ഭരണം വെൽവൂതാക!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kodiyeriyude Mulkireedam (ml:
+കോടിയേരിയുടെ മുൾക്കിരീടം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Kodiyeriyude Mulkireedam, കെ. രാജേശ്വരി, കോടിയേരിയുടെ മുൾക്കിരീടം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 9, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Boy_with_Cherries_Edouard_Manet.jpg">Boy
+with cherries,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:%C3%89douard_Manet">Édouard
+Manet</ref>  (1832–1883). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-mulkireedam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswarimulkireedam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

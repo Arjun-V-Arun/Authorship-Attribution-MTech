@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മതവ്യാപാരികൾ റഷ്യയിലേക്കു്</title>
+          <title xml:lang="en" type="main">Mathavyaparikal Russiayilekku</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 19, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മതവ്യാപാരികൾ റഷ്യയിലേക്കു്</title>
+              <title xml:lang="en" type="main">Mathavyaparikal Russiayilekku</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Mathavyaparikal Russiayilekku</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മതവ്യാപാരികൾ റഷ്യയിലേക്കു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 19, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/After_a_Push_Art.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Evening,_After_a_Push_Art.IWMART1210.jpg">Evening,
+After a Push,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Colin_Gill">Colin Gill</ref>
+ (1892–1940). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മതവ്യാപാരികൾ റഷ്യയിലേക്കു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മതവ്യാപാരികൾ റഷ്യയിലേക്കു്</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Adolf_Hitler.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹിറ്റ്ലർ</figDesc>
+          </figure>
+          <p style="noindent"> ഒരുതരം വ്യാപാരികൾതന്നെയാണു് സംഘടിതമതത്തിന്റെ സംരക്ഷകന്മാരും.
+സാധാരണകച്ചവടക്കാരെപ്പോലെ സ്വന്തം ചരക്കു് വിറ്റഴിക്കുവാനുള്ള കമ്പോളങ്ങൾ നോക്കിനടക്കുകയാണു്
+അവരുടെയും ജോലി. ഇല്ലാത്ത നന്മകൾ ഉണ്ടെന്നു് കാണിച്ചു് സാമാന്യജനങ്ങളെ വഞ്ചിക്കുന്ന
+പ്രചരണസമ്പ്രദായം രണ്ടു് ഉപജീവനമാർഗങ്ങളിലും ഒന്നുപോലെയാകുന്നു. മതസ്ഥാപനങ്ങൾ ഈ ലോകത്തിൽ
+എത്ര ലക്ഷം ആളുകൾക്കു് ഏതെല്ലാം വിധത്തിൽ ഉപജീവനമാർഗമായിത്തീർന്നിട്ടുണ്ടെന്നു്
+ആലോചിക്കുമ്പോളാണു് ഈ വാസ്തവം വെളിപ്പെടുന്നതു്. പുരോഹിതന്മാരുടെ ഉടുപ്പിനടിയിൽ ഒളിഞ്ഞുകിടക്കുന്ന
+സാമ്പത്തിക താല്പര്യങ്ങളെ അവയുടെ നഗ്നരൂപത്തിൽ ആദ്യമായി വെളിപ്പെടുത്തിയ രാജ്യമത്രെ റഷ്യ. അവിടെ
+ഉദയംചെയ്ത നവീനസംസ്കാരം മറ്റു് ലാഭക്കച്ചവടക്കാരെപ്പോലെ മതവ്യാപാരികളെയും നാട്ടിൽനിന്നും
+ആട്ടിപ്പായിച്ചു. ഇക്കൂട്ടർക്കു് അവിടെ തലപൊക്കാൻ വയ്യാതായിട്ടു് ഇപ്പോൾ ഇരുപത്തഞ്ചുകൊല്ലം
+കഴിഞ്ഞിരിക്കുന്നു. മതം നശിച്ചാൽ മനുഷ്യനും നശിക്കുമെന്നു് മുറവിളികൂട്ടുന്ന മാമൂൽക്കോമരങ്ങൾ റഷ്യയിൽ
+ഇത്രനാളും മതമില്ലാതെ വളർന്നുവന്ന നവീനജീവിതത്തിലെ പരിണതഫലം ഒന്നു്
+പരിശോധിച്ചുനോക്കുമോയെന്നറിഞ്ഞില്ല. സർവസംഹാരമൂർത്തിയായ <ref target="https://ml.wikipedia.org/wiki/Adolf_Hitler">ഹിറ്റ്ലറുടെ</ref>
+പെരുന്തോക്കിൽനിന്നു് ലോകത്തെ രക്ഷിച്ചുകൊണ്ടിരിക്കുന്നതു് ഈ നിർമതമായ രാജ്യത്തിലെ
+പഞ്ചവിംശതിപ്രായത്തിലുള്ള യുവാക്കന്മാരാണെന്നു് മതക്കാർക്കുപോലും ഇന്നു് സമ്മതിക്കേണ്ടതായി വന്നില്ലേ?
+ഇന്നലെവരെ റഷ്യയുടെ മുഖത്തു് കരിതേച്ചുകൊണ്ടിരുന്ന ചില മതാദ്ധ്യക്ഷന്മാർ ഇന്നു് ആ രാജ്യത്തിന്റെ
+സ്തുതിപാഠകന്മാരായി പുറപ്പെട്ടിരിക്കുന്നതു് ബഹുനേരമ്പോക്കായിരിക്കുന്നു! ഇവരിൽ ചിലർ ഇപ്പോൾ മിത്രഭാവേന
+റഷ്യയിലേക്കു് പുറപ്പെടുന്നതു് കാണുമ്പോൾ സൂക്ഷ്മദൃക്കായ <ref target="https://ml.wikipedia.org/wiki/Joseph_Stalin">സ്റ്റാലിൻ</ref> ഒരുപക്ഷേ,
+പുഞ്ചിരി തൂകുന്നുണ്ടാകാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Stalin.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്റ്റാലിൻ</figDesc>
+          </figure>
+          <p> യോർക്കിലെ ആർച്ച് ബിഷപ്പ് ഈയിടെ മോസ്കോവരെ ഒരു സർക്കീട്ട് ചെയ്തു് മടങ്ങിയെത്തിയിരിക്കുന്നു.
+അദ്ദേഹത്തിന്റെ പുതിയ കണ്ടുപിടിത്തം റഷ്യൻ ജനതതിയുടെ ഹൃദയത്തിന്റെ അടിത്തട്ടിൽ മതവിശ്വാസം
+മായാതെ കിടപ്പുണ്ടെന്നുള്ളതാണു്. കെട്ടുപോകാതെ ചാരത്തിനടിയിൽ കിടക്കുന്ന ഈ തീക്കനൽ
+ഊതിപ്പിടിപ്പിക്കുവാൻ ഇപ്പോഴത്തെ യുദ്ധപരിതഃസ്ഥിതി പറ്റിയതാണെന്നും അദ്ദേഹം വിചാരിക്കുന്നു.
+സൂര്യപ്രകാശം ഭയന്നു് വൃക്ഷകോടരങ്ങളിൽ വസിക്കുന്ന മൂങ്ങകളെപ്പോലെ ഇത്രനാളും വെളിയിൽ വരാതെ
+കഴിച്ചുകൂട്ടുകയായിരുന്നു റഷ്യയിലെ പഴയ മതാദ്ധ്യക്ഷന്മാർ. ഇംഗ്ലണ്ടിൽനിന്നുള്ള ഈ ആർച്ച് ബിഷപ്പിന്റെ
+വരവോടുകൂടി അവരും പുറത്തു് വന്നു് അദ്ദേഹവുമായി കൂടിയാലോചന നടത്തുകയുണ്ടായി. ഇതോടുകൂടി റഷ്യയിൽ
+മതം പുനഃസ്ഥാപിതമാകുവാൻ പോകുന്നു എന്ന വാർത്ത മതപ്പത്രങ്ങൾ വമ്പിച്ച അക്ഷരത്തിൽ
+പരസ്യപ്പെടുത്തിത്തുടങ്ങിയിരിക്കുന്നു. കാള പെറ്റുവെന്നു് കേട്ടാൽ കയറെടുക്കുവാൻ പറയുന്ന
+ക്ഷിപ്രവിശ്വാസികൾക്കു് ഇത്തരം വ്യാപാര വാർത്തകളുടെ വാസ്തവസ്വഭാവം മനസ്സിലാക്കുവാനുള്ള ക്ഷമയോ
+ആലോചനയോ ഉണ്ടാകുന്നതല്ല. പണ്ടത്തെ ചില മതാധികാരികളെ അവരുടെ സ്ഥാപനങ്ങൾ നിർദോഷമായ
+രീതിയിൽ നടത്തിക്കൊള്ളുവാൻ സോവിയറ്റ് ഗവൺമെന്റ് ഇപ്പോൾ അനുവദിച്ചിട്ടുണ്ടെന്നു് പത്രങ്ങളിൽ കണ്ടതു്
+ശരിയായിരിക്കാം. മതവിശ്വാസികൾക്കും അല്ലാത്തവർക്കും ഒന്നുപോലെ ഈവക കാര്യങ്ങളിൽ
+വ്യക്തിസ്വാതന്ത്ര്യമുണ്ടെന്നുള്ളതാണു് ഇതിന്റെ അടിസ്ഥാനം. ഗവൺമെന്റിൽനിന്നു് മതക്കാർക്കു്, അവർ
+ജനങ്ങളെ ചൂഷണംചെയ്യാതിരിക്കുകയാണെങ്കിൽ. യാതൊരു ശല്യവും ഉണ്ടാകുകയില്ല എന്നൊരു സ്ഥിതി
+മാത്രമേ ഇപ്പോൾ അവിടെ അനുവദിച്ചുകൊടുത്തിട്ടുള്ളു. ധനസഹായമോ മറ്റുതരത്തിലുള്ള പ്രോത്സാഹനങ്ങളോ
+
+സ്റ്റാലിൻ നൽകുമെന്നുള്ള ഒരു സൂചനപോലും ഇതുവരെ ഉണ്ടായിട്ടില്ല എന്നു് മാത്രമല്ല, പതിനെട്ടു് വയസ്സിനു്
+താഴെയുള്ള കുട്ടികളിൽ മതം കുത്തിവയ്ക്കുന്ന സമ്പ്രദായം കുറ്റകരമാക്കുന്ന നിയമം ഇതു വരെ സോവിയറ്റ്
+ഗവൺമെന്റ് പിൻവലിച്ചിട്ടില്ല. നാസ്തികസിദ്ധാന്തങ്ങൾ പ്രചരിപ്പിക്കുന്ന സംഘങ്ങളൊന്നും പിരിച്ചുവിട്ടിട്ടില്ലെന്നു്
+സന്ദർശകനായി ചെന്ന ആർച്ച് ബിഷപ്പ് മടങ്ങിവന്നപ്പോൾ പറയുകയുംചെയ്തു. സാമൂഹ്യജീവിതത്തിനു്
+വിരോധമില്ലാത്തവിധത്തിൽ മതവിശ്വാസം പരിപാലിക്കുന്നതിനുള്ള വ്യക്തിസ്വാതന്ത്ര്യം ഇതിനുമുമ്പും റഷ്യയിൽ
+ഉണ്ടായിരുന്നു. ആ സ്വാതന്ത്ര്യത്തെ ഒന്നുകൂടി വിപുലമാക്കുക മാത്രമാണു് ഇപ്പോൾ സ്റ്റാലിൻ ചെയ്തതു്. അതുതന്നെ
+സ്വന്തമനസ്സാലെയാണോ എന്നു് സംശയിക്കേണ്ടിയിരിക്കുന്നു. യുദ്ധംമൂലം വേണ്ടിവന്ന കൂട്ടുകെട്ടിൽ രാഷ്ട്രീയമായി
+ഉണ്ടായ ചില പ്രേരണകളുടെ സമ്മർദ്ദംകൊണ്ടു് യാഥാസ്ഥിതികരായ മിത്രകക്ഷികളെ തൃപ്തിപ്പെടുത്താൻവേണ്ടി
+ചെയ്ത ഒരു വിദ്യയാകാം ഇതു്. ഏതായാലും റഷ്യയിലെ നവീനജീവിതാദർശങ്ങൾക്കു് വിരുദ്ധമായി
+സാമ്പത്തികതാല്പര്യങ്ങൾ മുഖേന ജനതതിയെ ചൂഷണംചെയ്യത്തക്കവണ്ണം പണ്ടത്തെപ്പോലെ
+മതസ്ഥാപനങ്ങൾ പടർന്നുപിടിക്കുവാൻ ദീർഘദർശിയായ സ്റ്റാലിൻ അനുവദിക്കുമെന്നു് ഒരിക്കലും
+വിശ്വസിക്കാവുന്നതല്ല.
+</p>
+          <p>
+(യുക്തിവിഹാരം 1944)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Mathavyaparikal Russiayilekku
+(ml: മതവ്യാപാരികൾ റഷ്യയിലേക്കു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Mathavyaparikal Russiayilekku, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മതവ്യാപാരികൾ റഷ്യയിലേക്കു്,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 19, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Evening,_After_a_Push_Art.IWMART1210.jpg">Evening,
+After a Push,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Colin_Gill">Colin Gill</ref>
+ (1892–1940). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-mathavyapari.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhamathavyapari.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

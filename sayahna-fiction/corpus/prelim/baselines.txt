@@ -1,0 +1,41 @@
+==========================================================================
+BASELINES — character 3-5 gram TF-IDF + linear SVM
+==========================================================================
+
+One work = one document, so no chunk leakage is possible by construction.
+Stratified k-fold cross-validation, not a single split, because the corpus
+is small and a single split would be noisy.
+
+  (a) length only — sanity floor     macro-F1=0.150   length is not a shortcut
+  (b) all works, all types           authors=13  works=127  5-fold CV   macro-F1=0.889  acc=0.937
+  (c) prose only (no poem/drama)     authors=12  works=114  5-fold CV   macro-F1=0.947  acc=0.965
+  (d) prose, first 700 words only    authors=12  works=114  5-fold CV   macro-F1=0.860  acc=0.886
+
+  (e) train story -> test essay      authors=5   train=36   test=19   macro-F1=0.680
+
+--------------------------------------------------------------------------
+  poems/drama removed        : 0.889 -> 0.947  (+0.057)
+  length equalised at 700w   : 0.947 -> 0.860  (-0.087)
+--------------------------------------------------------------------------
+  The differences between rows matter more than any single number.
+
+Per-author detail, run (c):
+                               precision    recall  f1-score   support
+
+                 Aymanam John       0.90      1.00      0.95         9
+            Bineesh Pilasseri       1.00      1.00      1.00         8
+            C. Santhosh Kumar       1.00      1.00      1.00         6
+                 E. Harikumar       0.93      1.00      0.97        14
+                 K. Sukumaran       1.00      1.00      1.00         8
+                K. T. Baburaj       1.00      1.00      1.00         8
+                Paul Zacharia       1.00      0.33      0.50         6
+         S. V. Venugopan Nair       1.00      1.00      1.00         5
+               Sabu Hariharan       1.00      1.00      1.00         9
+            T. A. Rajalakshmi       1.00      1.00      1.00        12
+              V. K. K. Ramesh       1.00      1.00      1.00        10
+Vallathol Vasudevamenon B. A.       0.90      1.00      0.95        19
+
+                     accuracy                           0.96       114
+                    macro avg       0.98      0.94      0.95       114
+                 weighted avg       0.97      0.96      0.96       114
+

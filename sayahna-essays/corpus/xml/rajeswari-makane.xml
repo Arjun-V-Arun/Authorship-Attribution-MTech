@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മകനേ നിനക്കുവേണ്ടി</title>
+          <title xml:lang="en" type="main">Makane Ninakkuvendi</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">December 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മകനേ നിനക്കുവേണ്ടി</title>
+              <title xml:lang="en" type="main">Makane Ninakkuvendi</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Makane Ninakkuvendi</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>മകനേ നിനക്കുവേണ്ടി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Blue_and_Green_Music.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Blue_and_Green_Music_by_Georgia_O%27Keeffe,_1921.jpg">Blue
+and Green Music,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Georgia_O%27Keeffe">Georgia
+O’Keeffe</ref>  (1887–1986). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മകനേ നിനക്കുവേണ്ടി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മകനേ നിനക്കുവേണ്ടി</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. മാണി</figDesc>
+          </figure>
+          <p style="noindent"> ഭാഗ്യജാതകം എന്നൊന്നുണ്ടെങ്കിൽ അതു് നമ്മുടെ മാണിസാറിന്റേതാണു്.
+പതിനൊന്നുവട്ടം അദ്ദേഹം പാലായിൽ മൽസരിച്ചു. എല്ലാത്തവണയും വിജയിച്ചു. പല പ്രാവശ്യം മന്ത്രിയായി.
+ആഭ്യന്തരം, ധനകാര്യം, ജലസേചനം, നിയമം, റവന്യൂ വകുപ്പുകൾ കൈയാളി. പ്രഗല്ഭനായ സാമാജികൻ,
+സമർഥനായ ഭരണാധികാരി, മഹാനായ ജനനേതാവു്, അദ്ധ്വാനവർഗ സിദ്ധാന്തത്തിന്റെ ഉപജ്ഞാതാവു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p> തിരിച്ചടികൾ ഉണ്ടായിട്ടില്ലെന്നല്ല—1977-ൽ ഹൈക്കോടതി <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> യുടെ തെരഞ്ഞെടുപ്പു്
+റദ്ദാക്കി, അതിനടുത്ത വർഷം കേസ് ജയിച്ചു് അധികാരത്തിൽ മടങ്ങിയെത്തിയപ്പോഴേക്കും <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref> പാർട്ടി
+പിളർത്തി, പിന്നീടു് <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം.
+ജേക്കബും</ref> പി. എം. മാത്യുവും പിന്നിൽനിന്നു് കുത്തി. പക്ഷേ, എല്ലാ പ്രതിസന്ധികളെയും മാണിസാർ
+അതിജീവിച്ചു. കർത്താവിന്റെ കാരുണ്യം, മെത്രാന്മാരുടെ അനുഗ്രഹം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p> മുഖ്യമന്ത്രിപദം മാത്രം മരീചീകയായി. കഴിവും പ്രാപ്തിയും ഇല്ലാഞ്ഞിട്ടല്ല. ജനപിന്തുണ പോരാഞ്ഞതുമല്ല.
+പണം പ്രശ്നമേയല്ല. കത്തോലിക്കാ തിരുസഭയുടെ പരിപൂർണ പിന്തുണയുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനോ</ref> ളം
+കൗശലക്കാരനുമാണു്. കിം ഫലം? 1979-ൽ കസേരയുടെ തൊട്ടരികിൽ എത്തിയതാണു്. കപ്പിനും ചുണ്ടിനുമിടക്കു്
+അതു് തട്ടിപ്പോയി. 1990-ാമാണ്ടിൽ കേന്ദ്രമന്ത്രിയാവാൻ ദൽഹിയിൽ ചെന്നപ്പോഴുമുണ്ടായി അതേ ദുരനുഭവം.
+പിന്നെ ഉള്ളതുകൊണ്ടു് തൃപ്തിപ്പെട്ടു. പിതാവേ എന്റെ ഇഷ്ടമല്ല അങ്ങയുടെ തിരുഹിതം നിറവേറട്ടെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> ആറു സന്തതികളാണു് മാണി-കുട്ടിയമ്മ ദമ്പതികൾക്കു്. അഞ്ചു പെണ്ണും ഒരാണും. പെൺമക്കളെ
+എല്ലാവരെയും നല്ല നിലയിൽ കെട്ടിച്ചു. വിത്തിനും നെല്ലിനും കൂടി ആകെയുള്ള മകനെ കൊള്ളാവുന്ന
+സ്ഥിതിയിലെത്തിക്കണമെന്നു് ഏതു് അപ്പനാണു് ആഗ്രഹിക്കാത്തതു്? തന്റെ കാലശേഷം മലയോര കർഷകർ
+അനാഥരാകരുതു്, തൊപ്പിപ്പാള രാഷ്ട്രീയവും അധ്വാനവർഗ സിദ്ധാന്തവും അന്യാധീനപ്പെടുകയും അരുതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_C_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. തോമസ്</figDesc>
+          </figure>
+          <p> 2001-ൽ മകനെ പാലായിൽ നിറുത്തി താൻ കടുത്തുരുത്തിയിലേക്കു മാറാമെന്നാണു് മാണിസാർ കരുതിയതു്.
+സ്വന്തം മകനേക്കാൾ ഓമനിച്ചുവളർത്തിയ <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസ്</ref> ഉടക്കി.
+പി. എം. മാത്യുവും ജോയി വെട്ടിക്കുഴിയും കലാപക്കൊടി ഉയർത്തി. ഒടുവിൽ കടുത്തുരുത്തി <ref target="https://en.wikipedia.org/wiki/Stephen_George_(politician)">സ്റ്റീഫൻ
+ജോർജി</ref> നും ഇടുക്കി <ref target="https://en.wikipedia.org/wiki/Roshy_Augustine">റോഷി അഗസ്റ്റി</ref> നും
+കൊടുത്തു. മാണി പാലായിൽത്തന്നെ മൽസരിച്ചു. ജോമോനു് സീറ്റില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Roshy_Augustine.jpg" rendition="gra"/>
+            <figDesc style="thumb">റോഷി അഗസ്റ്റിൻ</figDesc>
+          </figure>
+          <p> മൽസരിച്ച 11-ൽ ഒമ്പതു് സീറ്റ് ജയിച്ചിട്ടും മന്ത്രിയായിട്ടും മാണിസാറിന്റെ മനം തണുത്തില്ല. <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദ്കോയ</ref> യുടെ മകൻ മരാമത്തുമന്ത്രി, <ref target="https://ml.wikipedia.org/wiki/T._K._Divakaran">ടി. കെ. ദിവാകരന്റെ</ref>
+പുത്രൻ തൊഴിൽമന്ത്രി, <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+യുടെ സന്തതി ഗതാഗതമന്ത്രി. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref> മകൻ
+പാർലമെന്റംഗവും കെ. പി. സി. സി. പ്രസിഡന്റും. <ref target="https://ml.wikipedia.org/wiki/Baby_John">ബേബി ജോണി</ref> ന്റെയും
+<ref target="https://en.wikipedia.org/wiki/K._P._Prabhakaran">കെ. പി.
+പ്രഭാകരന്റെ</ref> യും മക്കൾ എം. എൽ. എമാർ. നമ്മുടെ ചെറുക്കൻ മാത്രം, കർത്താവേ,
+ഒരിടത്തുമെത്തിയിട്ടില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Stephen_George.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്റ്റീഫൻ ജോർജ്</figDesc>
+          </figure>
+          <p> മാത്രമോ? ഉരുളച്ചോറു കൊടുത്തു വളർത്തിയ <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസ്</ref>
+പരിഭവിച്ചു് മുഖം വീർപ്പിച്ചു നിൽക്കുന്നു. തൊടുപുഴ കോടതിയിൽ യുവറോണർ വിളിച്ചുനടന്ന കാലത്തു്
+മാണിസാറാണു് കൈപിടിച്ചു് രാഷ്ട്രീയത്തിലിറക്കിയതു്. വാഴൂരു നിന്നു് തോറ്റപ്പോൾ വഴിയിലുപേക്ഷിക്കാതെ
+വീണ്ടും വീണ്ടും പാർലമെന്റിലേക്കു നിറുത്തി ജയിപ്പിച്ചതും മാണി തന്നെ. ഒരാൾക്കു് രണ്ടു പദവി പാടില്ല, <ref target="https://ml.wikipedia.org/wiki/C._F._Thomas">സി. എഫ്. തോമസി</ref> ന്റെ
+സ്ഥാനത്തു് തന്നെ പാർട്ടി ചെയർമാനാക്കണം എന്നായിരുന്നു പി. സി.-യുടെ ഡിമാന്റ്.
+</p>
+          <p>കരിങ്ങോഴക്കൽ മാണി മാണി തന്റെ വിശ്വരൂപം പ്രകടിപ്പിച്ചു. പാർട്ടി ഭരണഘടന ഭേദഗതി ചെയ്തു:
+ഒരാൾക്കു് എത്ര പദവിയുമാകാം. പി. സി. തോമസിനെ പടിയടച്ചു് പിണ്ഡം വെച്ചു. പുകഞ്ഞകൊള്ളി പുറത്തു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Francis_George.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഫ്രാൻസിസ് ജോർജ്</figDesc>
+          </figure>
+          <p> 2003 ഏപ്രിലിൽ രാജ്യസഭയിലേക്കു് മൂന്നു് ഒഴിവുകൾ വന്നു. രണ്ടെണ്ണം ഐക്യമുന്നണിക്കു കിട്ടും, ഒന്നു്
+ഇടതിനു പോകും. മാണിസാർ ഒരു സീറ്റു ചോദിച്ചു. കോൺഗ്രസുകാർ ഗൗനിച്ചില്ല. <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നല
+ബാലകൃഷ്ണപിള്ള</ref> യും വയലാർ രവിയും സ്ഥാനാർത്ഥികൾ. കരുണാകരൻ കോടോത്ത് ഗോവിന്ദൻ
+നായരെ റിബലാക്കി നിറുത്തി. ബാലകൃഷ്ണപിള്ളയും <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം. ജേക്കബും</ref>
+കോടോത്തിനു് വോട്ട് മറിച്ചു. <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref>
+അസ്സലുള്ളവനാണു്. അടുത്ത തവണയെങ്കിലും നീതി കിട്ടും എന്നു പ്രതീക്ഷിച്ചു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കൊപ്പം
+ഉറച്ചുനിന്നു. അങ്ങനെ തെന്നലയും രവിയും ജയിച്ചു. മുന്നണിയും മന്ത്രിസഭയും രക്ഷപ്പെട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p> 2004 മാർച്ചിൽ രാജ്യസഭയിൽ വീണ്ടും മൂന്നു് ഒഴിവുകളുണ്ടായി. മാണി വീണ്ടും സീറ്റ് ചോദിച്ചു. കിട്ടിയില്ല.
+അടുത്ത തവണ തരാം എന്നു് ഉറപ്പുകൊടുത്തു. ഒരു സീറ്റ് കോൺഗ്രസിൽ ഐക്യമുണ്ടാക്കാൻ കരുണാകരനു
+നൽകി; മറ്റേതു് മുസ്ലിംലീഗ് അബ്ദുൽ വഹാബിനു മറിച്ചുവിറ്റു.
+</p>
+          <p>രാജ്യസഭയല്ലെങ്കിൽ ലോൿസഭ. മകനെ പാർലമെന്റംഗം ആക്കിയേ അടങ്ങൂ എന്നു് മാണിസാർ ശപഥം
+ചെയ്തു. മൂവാറ്റുപുഴയിൽ <ref target="https://ml.wikipedia.org/wiki/Jose_K._Mani">ജോസ്. കെ. മാണി</ref>
+സ്ഥാനാർത്ഥി. ചിഹ്നം രണ്ടില.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jose_K_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോസ്. കെ. മാണി</figDesc>
+          </figure>
+          <p> ഐക്യജനാധിപത്യ മുന്നണിയുടെ ഉരുക്കുകോട്ടയാണു് മൂവാറ്റുപുഴ. ജോമോൻ ചെറുപ്പക്കാരൻ, സുന്ദരൻ.
+പ്രചാരണത്തിനു് ആളും അർഥവും വേണ്ടുവോളം. ഭരണസ്വാധീനം വേറെയും. പക്ഷേ, ഒന്നും ഫലവത്തായില്ല.
+<ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> യുടെ
+ചിരന്തന വൈരികൾ—<ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref>, <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം. ജേക്കബ്</ref>, <ref target="https://en.wikipedia.org/wiki/Johnny_Nellore">ജോണി നെല്ലൂർ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>,
+<ref target="https://en.wikipedia.org/wiki/George_J._Mathew">ജോർജ് കെ.
+മാത്യു</ref>, <ref target="https://ml.wikipedia.org/wiki/P.C._George">പി. സി.
+ജോർജ്</ref>—മുന്നണിഭേദമെന്യേ <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസി</ref> നെ
+പിന്താങ്ങി. ചാക്കോച്ചന്റെ മകനു് അനുകൂലമായി കത്തോലിക്കാ-നായർ വികാരം പതഞ്ഞുപൊങ്ങി.
+മുസ്ലിംവോട്ടുകൾ അടിപടലേ എൽ. ഡി. എഫിനു പോയി. തോമാച്ചൻ ജയിച്ചു; ജോമോൻ മൂന്നാംസ്ഥാനത്തേക്കു്
+തള്ളപ്പെട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Babyjohn.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബേബി ജോൺ</figDesc>
+          </figure>
+          <p> ജയിച്ചിരുന്നെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">ഇ.
+അഹമ്മദി</ref> നൊപ്പം <ref target="https://ml.wikipedia.org/wiki/Jose_K._Mani">ജോസ് കെ. മാണി</ref> ക്കും
+കേന്ദ്രമന്ത്രിയാകാമായിരുന്നു. എന്തുചെയ്യാം? അനുഭവിക്കാൻ യോഗം വേണം. മക്കളുടെ ഉയർച്ച കണ്ടു്
+ആനന്ദിക്കാൻ അപ്പനമ്മമാർക്കും വേണം ഭാഗ്യം.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/V.V._Raghavan">വി. വി.
+രാഘവൻ</ref> മരണപ്പെടുകയാൽ 2004 അവസാനം രാജ്യസഭയിൽ ഒരു ഒഴിവുണ്ടായി. അത്തവണയും മാണി
+അവകാശമുന്നയിച്ചു് <ref target="https://ml.wikipedia.org/wiki/P.J._Kurian">പി. ജെ.
+കുര്യൻ</ref> സീറ്റ് കൈക്കലാക്കി. മാണിസാർ ‘മഞ്ഞി’ലെ വിമലയെപ്പോലെ കാത്തിരിപ്പു തുടർന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_J_Kurien.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. കുര്യൻ</figDesc>
+          </figure>
+          <p> 2005 മെയ് ഒന്നിനു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>
+ഉമ്മൻകോൺഗ്രസുമായുള്ള സകലബന്ധവും അറുത്തുമുറിച്ചു് പുതിയ പാർട്ടിയുണ്ടാക്കി. കൂട്ടത്തിൽ
+രാജ്യസഭാംഗത്വവും രാജിവെച്ചു. മാണിയുടെ പ്രതീക്ഷ വാനോളമുയർന്നു. ഇത്തവണ സീറ്റുകിട്ടും, മകൻ
+കേന്ദ്രമന്ത്രിയാകും. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യെ വരെ
+ഞെട്ടിച്ചുകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ.
+ആന്റണി</ref> സീറ്റു കൈക്കലാക്കി. ആദർശധീരനുള്ളപ്പോൾ പാവം ജോമോനെ ആരു് ഗൗനിക്കാൻ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Suresh_Kurup.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുരേഷ് കുറുപ്പ്</figDesc>
+          </figure>
+          <p> മാണി പരിഭവിച്ചു. കഠിനമായി പ്രതിഷേധിച്ചു, കോൺഗ്രസിന്റെ വഞ്ചനക്കെതിരെ ശക്തമായി പ്രതികരിച്ചു.
+<ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+യും <ref target="https://en.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> യും അവസരത്തിനൊത്തു് ഉയർന്നു. ഇനി വരുന്ന സീറ്റ് മാണിഗ്രൂപ്പിനു് തന്നെ.
+കാതോലിക്കാബാവയാണെ, നാരായണപ്പണിക്കരാണെ സത്യം, സത്യം!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CF_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എഫ്. തോമസ്</figDesc>
+          </figure>
+          <p> എം. എം. ജേക്കബിന്റെ ഉദ്യോഗകാലാവധി അവസാനിക്കുന്ന മുറക്കു് <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നല
+ബാലകൃഷ്ണപിള്ള</ref> ഗവർണറാകും. അപ്പോൾ ഒഴിവുവരുന്ന രാജ്യസഭാസീറ്റ് കട്ടായമായും മാണിഗ്രൂപ്പിനു്
+നൽകും എന്നൊക്കെയായിരുന്നു വാഗ്ദാനം. എം. എം. ജേക്കബ് ഇപ്പോഴും മേഘാലയത്തിൽ സസുഖം
+കഴിയുന്നു. തെന്നലച്ചേട്ടൻ രാജ്യസഭയിലും തുടരുന്നു. ആകയാൽ <ref target="https://ml.wikipedia.org/wiki/Jose_K._Mani">ജോസ് കെ. മാണി</ref>
+കേവലം യൂത്ത് ഫ്രണ്ട് പ്രസിഡന്റായി പാലാ കരിങ്ങോഴക്കലും കഴിഞ്ഞുകൂടുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Thennala.jpg" rendition="gra"/>
+            <figDesc style="thumb">തെന്നല ബാലകൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> ഇക്കഴിഞ്ഞ നിയമസഭാ തെരഞ്ഞെടുപ്പിൽ ഐക്യമുന്നണിക്കു് കനത്ത തിരിച്ചടി നേരിട്ടെങ്കിലും മാണിഗ്രൂപ്പ്
+പിടിച്ചുനിന്നു. മൽസരിച്ച 11 സീറ്റിൽ ഏഴെണ്ണം ജയിച്ചു. സിറ്റിംഗ് സീറ്റുകൾ രണ്ടെണ്ണമേ നഷ്ടമായുള്ളൂ. കടുത്ത
+പോരാട്ടത്തിനുശേഷമാണു് കടുത്തുരുത്തി കൈവിട്ടതു്, റിബലുണ്ടായതുകൊണ്ടാണു് തിരുവല്ല പോയതു്.
+ഭരണാധികാരം പോയെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref> ക്കു്
+ആശ്വാസത്തിനു് വകയുണ്ടു്: ജോസഫ് ഗ്രൂപ്പിനു് നാലു സീറ്റേ ജയിക്കാൻ കഴിഞ്ഞുള്ളു, <ref target="https://ml.wikipedia.org/wiki/P.C._George">പി. സി. ജോർജി</ref> നു്
+മന്ത്രിസ്ഥാനം കിട്ടിയില്ല, <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref>
+ആരോപണവിധേയനായി കസേര പോയി—പോയില്ല എന്ന മട്ടിൽ നിൽക്കുന്നു, <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/M._M._Jacob">ജേക്കബും</ref>
+<ref target="https://en.wikipedia.org/wiki/Johnny_Nellore">ജോണി
+നെല്ലൂരും</ref> <ref target="https://ml.wikipedia.org/wiki/K.C._Joseph">ഡോ. കെ. സി. ജോസഫും</ref>
+തെരഞ്ഞെടുപ്പിൽ തോറ്റു, <ref target="https://en.wikipedia.org/wiki/T._S._John">ടി. എസ്. ജോണി</ref> നും <ref target="https://en.wikipedia.org/wiki/George_J._Mathew">ജോർജ് കെ. മാത്യു</ref>
+വിനും ടിക്കറ്റേ കിട്ടിയില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_C_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. ജോസഫ്</figDesc>
+          </figure>
+          <p> 2006 ജുണിൽ രാജ്യസഭയിലേക്കു് മൂന്നു സ്ഥാനങ്ങൾ ഒഴിവുവന്നു. മാണി അവകാശവാദം ഉന്നയിച്ചതു്
+സ്വാഭാവികം. കുഞ്ഞൂഞ്ഞിന്റെ വാക്കും പഴയ ചാക്കും ഒരുപോലെയാണെന്നു് ബോധ്യമായതു് അപ്പോഴാണു്.
+നിയമസഭാതെരഞ്ഞെടുപ്പിൽ വൻവിജയമുണ്ടാകും, രാജ്യസഭയിലേക്കു് രണ്ടോ മൂന്നോ പേരെ ജയിപ്പിക്കാൻ
+വേണ്ട സംഖ്യാബലമുണ്ടാകും; അങ്ങനെയെങ്കിൽ ഒരു സീറ്റ് മാണിക്കു് കൊടുക്കാമെന്നാണു് ഉദ്ദേശിച്ചതു് എന്നു
+പറഞ്ഞു, <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>.
+ഇത്തവണ സീറ്റ് <ref target="https://ml.wikipedia.org/wiki/P.J._Kurian">പി. ജെ.
+കുര്യനാ</ref> ണു്. വരുന്ന തവണ മാണിയെ തീർച്ചയായും പരിഗണിക്കും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KM_George.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. ജോർജ്</figDesc>
+          </figure>
+          <p> പോക്രിത്തരത്തിനും അതിരുവേണം. രാജ്യസഭയിൽ ഇനി ഒഴിവുവരുന്നതു് 2009 ഏപ്രിലിൽ ആണു്.
+അപ്പോഴേക്കും മൻമോഹൻ മന്ത്രിസഭയുടെ കാലാവധി തീരും. പിന്നെ ജോമോൻ എങ്ങനെ മന്ത്രിയാകും?
+മാത്രമല്ല; ഇനി വരാനിരിക്കുന്ന ഒഴിവുകൾ തെന്നലയുടെയും വയലാർജിയുടേതുമാണു്. തെന്നലക്കു് പ്രായമായി;
+ഒഴിവാക്കാം. കേന്ദ്രമന്ത്രിയായിരിക്കുന്ന <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> യെ
+മാറ്റിനിറുത്തി എങ്ങനെ <ref target="https://ml.wikipedia.org/wiki/Jose_K._Mani">ജോസ് കെ. മാണി</ref> യെ
+രാജ്യസഭയിലേക്കയക്കും? രാജ്യസഭ മാണിപുത്രനു നൽകൂ, ഞാൻ ലോക്സഭയിലേക്കു മൽസരിച്ചോളാം എന്നു
+പറയാൻമാത്രം ഹൃദയവിശാലത പ്രകടിപ്പിക്കുമോ വയലാർജി? ഇനി, രവി മൽസരിച്ചാൽ ജയിക്കുമെന്നു് ഉറപ്പുള്ള
+ഏതു മണ്ഡലമുണ്ടു് ഭൂമിമലയാളത്തിൽ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_J_Mathew.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ് കെ. മാത്യു</figDesc>
+          </figure>
+          <p>2009 മേയിൽ <ref target="https://ml.wikipedia.org/wiki/Jose_K._Mani">ജോസ്
+കെ. മാണി</ref> യെ വീണ്ടും ലോക്സഭയിലേക്കു് മൽസരിപ്പിക്കുക എന്നതാണു് ഇനിയുള്ള പോംവഴി.
+മൂവാറ്റുപുഴ പാർലമെന്റുമണ്ഡലം ഇല്ലാതായിരിക്കുന്നു. ഒന്നുകിൽ ഇടുക്കി, അല്ലെങ്കിൽ കോട്ടയം. <ref target="https://en.wikipedia.org/wiki/Francis_George_(politician)">ഫ്രാൻസിസ്
+ജോർജോ</ref> <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസോ</ref>
+ആയിരിക്കും ഇടുക്കിയിൽ ഇടതുപക്ഷ സ്ഥാനാർത്ഥി. ഒരാൾ <ref target="https://ml.wikipedia.org/wiki/K._M._George_(politician)">കെ. എം.
+ജോർജി</ref> ന്റെ മകൻ, മറ്റേയാൾ <ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി. ചാക്കോ</ref> യുടെ
+മകൻ. രണ്ടും അപകടകാരികൾ, <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref> യുടെ
+മകനേക്കാൾ എന്തുകൊണ്ടും പ്രാപ്തർ. കത്തോലിക്കാഹൃദയഭൂമി എന്നു പറയാവുന്ന പാലാ, പൂഞ്ഞാർ,
+കടുത്തുരുത്തി നിയമസഭാമണ്ഡലങ്ങൾ കോട്ടയം പാർലമെന്റുസീറ്റിലാണു് ഉൾപ്പെട്ടിരിക്കുന്നതു്. കോട്ടയത്തു്
+<ref target="https://ml.wikipedia.org/wiki/K._Suresh_Kurup">സുരേഷ്
+കുറുപ്പി</ref> നോടു് അങ്കം കുറിക്കാനും <ref target="https://ml.wikipedia.org/wiki/Jose_K._Mani">ജോസ് കെ. മാണി</ref>
+അശക്തൻ. ഭരണമില്ലാത്തതുകൊണ്ടു് താസിൽദാർ-ഡെപ്യൂട്ടി കലക്ടർ തലത്തിൽ വിഭവസമാഹരണം
+നടത്താനും സാധിക്കില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_Ahammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. അഹമ്മദ്</figDesc>
+          </figure>
+          <p> വല്ലപാടും ജയിച്ചാലും മന്ത്രിയാകും എന്നതിനു് ഉറപ്പില്ല. കോൺഗ്രസിനു് ഒറ്റക്കു് ഭൂരിപക്ഷം കിട്ടിയാൽ
+കൂട്ടുകക്ഷി മന്ത്രിസഭക്കു് പ്രസക്തിയില്ല. എൻ. ഡി. എ. അധികാരം തിരിച്ചുപിടിച്ചാലും നമ്മുടെ കാര്യം കട്ടപ്പുക!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PC_George.png" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. ജോർജ്</figDesc>
+          </figure>
+          <p> മാണിസാറിനിപ്പോൾ വയസ്സു് 73 ആയി. ഇനി എത്രനാൾ എന്നു് കർത്താവുതമ്പുരാനറിയാം. കണ്ണടയും മുമ്പു്
+മകൻ എന്തെങ്കിലുമൊന്നു് ആയിക്കാണാൻ അതിയാൻ തിടുക്കം കൂട്ടുന്നതിൽ തെറ്റുപറയാൻ മേല.
+വാക്കുമാറ്റിമാറ്റിപ്പറഞ്ഞു് ആ പാവത്തിനെ പറ്റിക്കുന്നവരോടു് ദൈവം പൊറുക്കത്തില്ല. അതുകൊണ്ടു്
+കോൺഗ്രസിനു് ഭൂരിപക്ഷമൊള്ള ഏതേലും സംസ്ഥാനത്തു് നിറുത്തി ജോമോനെ രാജ്യസഭാംഗമാക്കണം,
+കേന്ദ്രമന്ത്രിയാക്കണം. മാണിസാറും കുട്ടിയമ്മചേച്ചിയും മനഃസമാധാനത്തോടെ പൊയ്ക്കോട്ടെ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Makane Ninakkuvendi (ml: മകനേ
+നിനക്കുവേണ്ടി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Makane
+Ninakkuvendi, കെ. രാജേശ്വരി, മകനേ നിനക്കുവേണ്ടി, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Blue_and_Green_Music_by_Georgia_O%27Keeffe,_1921.jpg">Blue
+and Green Music,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Georgia_O%27Keeffe">Georgia
+O’Keeffe</ref>  (1887–1986). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-makane.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-makane.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

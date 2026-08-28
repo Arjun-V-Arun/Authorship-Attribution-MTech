@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വിശപ്പിന്റെ ആത്മീയത</title>
+          <title xml:lang="en" type="main">Vishappinte Athmeeyatha</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 28, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വിശപ്പിന്റെ ആത്മീയത</title>
+              <title xml:lang="en" type="main">Vishappinte Athmeeyatha</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Vishappinte Athmeeyatha</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>വിശപ്പിന്റെ ആത്മീയത</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 28, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Girl_Eating_Porridge_Museum.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:%27Girl_Eating_Porridge%27_by_William_Adolphe_Bouguereau,_Cincinnati_Art_Museum.JPG">Girl
+Eating Porridge,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:WilliamAdolphe_Bouguereau">William-Adolphe Bouguereau</ref>  (1825–1905). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വിശപ്പിന്റെ ആത്മീയത</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വിശപ്പിന്റെ ആത്മീയത </head>
+        <div type="lsection">
+          <p style="noindent">മതവിശ്വാസങ്ങളുടെ സാമാന്യമായ ആധി മനുഷ്യജീവികളെ ഭൗതികദുഃഖങ്ങളിൽ
+നിന്നു് എങ്ങനെ കരകയറ്റാം എന്നതാണു്. ഭൗതികജീവിതത്തിന്റെ പ്രശ്നങ്ങൾക്കു ലൗകികമായ പരിഹാരം
+എങ്ങനെ കണ്ടുപിടിക്കാം എന്നതിനൊപ്പം അവയ്ക്കു പരിഹാരം കണ്ടെത്തുമ്പോൾ ഉയർന്നുവരുന്ന മറ്റു്
+പ്രശ്നങ്ങൾക്കു നിവൃത്തി കണ്ടെത്തുവാനുള്ള അലൗകികമായ വഴി എങ്ങനെ തുറന്നിടാം എന്നുകൂടി മതങ്ങൾ
+അന്വേഷിക്കുന്നുണ്ടു്.
+</p>
+          <p>മനുഷ്യന്റെ ഏറ്റവും വലിയ പ്രശ്നമാണല്ലോ വിശപ്പു്. വിശപ്പു് എന്ന പ്രശ്നത്തിനു് പരിഹാരം കണ്ടെത്തുമ്പോൾ
+തന്നെ ഒപ്പം ഉയർന്നുവരുന്ന കുടുക്കുകൾ പലതാണു്. തൊട്ടപ്പുറത്തുള്ള ഒരാൾക്കും വിശപ്പുണ്ടു് എന്നതാണു്
+അതിൽ പ്രധാനം. കട്ടുതിന്നാൻ പാടില്ല. ഇരന്നു തിന്നാൻ പാടില്ല. തുടങ്ങിയ മൂല്യങ്ങൾ സൃഷ്ടിക്കുന്ന ‘അരുതു’കൾ
+വേറെ കിടക്കുന്നു. ആഹാരമായിത്തീരുന്ന ജന്തുജാലങ്ങളുടെ ‘ജീവൻ’ എന്ന പ്രശ്നം ഒരു പക്ഷേ, ഇതിലും വലിയ
+ചോദ്യങ്ങൾ ഉയർത്തുന്നുണ്ടു്.
+</p>
+          <p>മറ്റേ ആളുടെ വിശപ്പു് എന്നതു് അവനവന്റെ വിശപ്പിനേക്കാളും വലിയപ്രശ്നമായി വളർത്തിയെടുക്കുന്നതു് ഒരു
+പരിഹാരമാണെന്നു മതങ്ങൾക്കു ഭാവമുണ്ടു്. ആ വഴിക്കു് ഒരു കൂട്ടായ്മ രൂപം കൊള്ളുന്നു. ആ കൂട്ടായ്മയാവട്ടെ,
+പ്രശ്നത്തിന്റെ ലൗകികമായ പരിഹാരത്തിനു യത്നിക്കുന്നു. ഒരാൾക്കുള്ള ഭക്ഷണമേ ഉള്ളുവെങ്കിൽ അതിന്റെ
+അവകാശി ഞാനല്ല അയൽവാസിയാണെന്ന തിരിച്ചറിവിലേക്കു് ഒരാളെ ഉണർത്താൻ കഴിഞ്ഞാൽ കാര്യങ്ങൾ
+എളുപ്പമായി.
+</p>
+          <p>കട്ടുതിന്നരുതു് എന്ന നിലപാടു് ആഹാരത്തിനു വേണ്ടിയുള്ള ആക്രമണങ്ങളെയും ഹിംസകളെയും
+ലഘൂകരിച്ചേക്കും. ഇരന്നു തിന്നരുതു് എന്ന പാഠം അധ്വാനത്തിന്റെ മഹിമ ചൂണ്ടിക്കാട്ടുന്നതിലൂടെ
+ഉൽപാദനവർധനവിനു വഴിതെളിച്ചേക്കും.
+</p>
+          <p>ജന്തുജാലങ്ങളുടെ വിശപ്പിനെപ്പറ്റിയും ജീവനെപ്പറ്റിയും മതങ്ങൾക്കു വേവലാതിയുണ്ടു്. പലതരം
+വിലക്കുകളിലൂടെ ജന്തുഹിംസ കുറയ്ക്കുവാൻ സംസ്കാരങ്ങൾ ആഹ്വാനം ചെയ്യുന്നതിന്റെ അർഥം അതാണു്.
+ആദരവിന്റെ പേരിലും അശുദ്ധിയുടെ പേരിലും സ്നേഹത്തിന്റെ പേരിലും അറപ്പിന്റെ പേരിലും പലതരം
+ജീവികളെയും പറവകളെയും ഭക്ഷണപ്പട്ടികയിൽ നിന്നു മതങ്ങൾ ഒഴിവാക്കിയിരിക്കുന്നു. മനുഷ്യജീവിയുടെ
+നിലനിൽപ്പിനു് ആവശ്യമായ ജന്തുവധത്തിനു പല മതങ്ങളും അനുവാദം നല്കിയതായും കാണാം.
+</p>
+          <p>ഇതിനെയെല്ലാം ചൂഴ്‌ന്നു നിൽക്കുന്ന മറ്റൊരു മാനമാണു് മതങ്ങൾ മുന്നോട്ടുവച്ച ഉപവാസം എന്ന അവസ്ഥ.
+കൈനീട്ടിയാൽ കിട്ടാവുന്നിടത്തു ഭക്ഷണം ഇരിക്കെത്തന്നെ വിശ്വാസനിഷ്ഠമായ ഇച്ഛകൊണ്ടു ഭക്ഷണം
+ഉപേക്ഷിച്ചു വിശപ്പു സ്വീകരിക്കുന്ന രീതിയാണു് ഉപവാസം. രീതി ഭേദങ്ങളുണ്ടെങ്കിലും എല്ലാ സംസ്കാരത്തിലും
+വ്രതം കണ്ടുവരുന്നു.
+</p>
+          <p>വ്രതത്തിന്റെ ഉള്ളടക്കം ലളിതമാണു്. അവനവന്റെ വിശപ്പിനെ വളർത്തിയെടുക്കുന്നതിലൂടെ മറ്റേ ആൾക്കു
+വിശപ്പുണ്ടു് എന്ന ജീവിതയാഥാർത്ഥ്യത്തിലേക്കും അതിന്റെ പരിഹാരങ്ങളിലേക്കും ഉണരുക. ആ വഴിക്കു് വിശപ്പു്
+എന്ന ഭൗതികാനുഭവത്തെ ഒരു ആത്മീയാനുഭൂതിയാക്കി മാറ്റിയെടുക്കുക. ‘അയൽവാസി പട്ടിണി കിടക്കുമ്പോൾ
+വയറു നിറച്ചു് ആഹാരം കഴിക്കുന്നവൻ വിശ്വാസിയല്ല’ എന്നു പ്രഖ്യാപിക്കുമ്പോൾ പ്രവാചകനായ <ref target="https://ml.wikipedia.org/wiki/Muhammad">മുഹമ്മദ് നബി</ref> വിശപ്പിന്റെ
+ആത്മീയഭാവം ഉയർത്തിപ്പിടിക്കുകയായിരുന്നു.
+</p>
+          <p>അവനവനിൽ നിന്നു രക്ഷപ്പെടുവാനും സ്വാർഥത്തിന്റെ പരിമിതികളിൽ നിന്നു വളർന്നു് അന്യനിൽ
+ലയിക്കുവാനും ഉള്ള മനുഷ്യന്റെ ദാഹമാണു് ആത്മീയത. ആ ദാഹവും വിശപ്പുമാണു് യഥാർത്ഥവ്രതത്തിൽ ഒരാൾ
+അനുഭവിക്കുന്നതു്, അനുഭവിക്കേണ്ടതു്.
+</p>
+          <p>
+മലയാള മനോരമ: 12 ഡിസംബർ 2000.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vishappinte Athmeeyatha (ml:
+വിശപ്പിന്റെ ആത്മീയത).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Vishappinte Athmeeyatha, എം. എൻ. കാരശ്ശേരി, വിശപ്പിന്റെ ആത്മീയത, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 28, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:%27Girl_Eating_Porridge%27_by_William_Adolphe_Bouguereau,_Cincinnati_Art_Museum.JPG">Girl
+Eating Porridge,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:WilliamAdolphe_Bouguereau">William-Adolphe Bouguereau</ref>  (1825–1905). The image is
+taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-vishappinte.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasseryvishappinte.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മാരാരിലെ കർണ്ണവിഗ്രഹം</title>
+          <title xml:lang="en" type="main">Mararile Karnavigraham</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">August 9, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മാരാരിലെ കർണ്ണവിഗ്രഹം</title>
+              <title xml:lang="en" type="main">Mararile Karnavigraham</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Mararile Karnavigraham</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>മാരാരിലെ കർണ്ണവിഗ്രഹം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 9, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Rose_Potato_Gathers.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Rose_Potato_Gathers_Art_of_World_vol.2.jpg">The
+Potato Gatherers,</ref> a photograph by Guy Orlando Rose  (1867–1925). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മാരാരിലെ കർണ്ണവിഗ്രഹം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മാരാരിലെ കർണ്ണവിഗ്രഹം</head>
+        <div type="lsection">
+          <p style="noindent"><ref target="https://ml.wikipedia.org/wiki/Kuttikrishna_Marar">കുട്ടികൃഷ്ണമാരാരുടെ</ref>
+ഇതിഹാസപാത്രചർച്ചകൾ മലയാളികളുടെ അനേകം സങ്കല്പങ്ങളെ കീഴ്മേൽ മറിക്കുകയുണ്ടായി.
+ഭാരതകഥാപഠനത്തിനിടയിൽ പാണ്ഡവപക്ഷം ചെയ്ത ചില അധർമ്മങ്ങളെപ്പറ്റി ചില സൂചനകളൊക്കെ
+മാരാർക്കു് മുമ്പുണ്ടായിരുന്നുവെങ്കിലും കൗരവപക്ഷത്തു് എന്തെങ്കിലും ധർമ്മമുണ്ടാകാമെന്നു് ആർക്കും
+തോന്നിയിരുന്നില്ല. ദുര്യോധനാദികളുടെ വ്യക്തിത്വമഹത്വം എടുത്തുകാട്ടിയ വിമർശകൻ മാരാരാണു്.
+അക്കൂട്ടത്തിൽ പ്രധാനപ്പെട്ടൊരു പാത്രമാണു് കർണ്ണൻ. ആ കൗരവപക്ഷപാതി പാണ്ഡവരേക്കാൾ പൂജ്യനാണു്
+എന്നു വരുത്തിയതു് കുട്ടികൃഷ്ണമാരാരാണു്.
+</p>
+          <p style="noindent">എങ്ങനെ, ഏതു പരിതഃസ്ഥിതിയിൽ വന്നു പിറന്നാലും ഏതെല്ലാം വിധത്തിൽ
+വളർത്തപ്പെട്ടാലും ആരാലെല്ലാം എങ്ങനെയെല്ലാം ഇകഴ്ത്തപ്പെട്ടാലും പൗരുഷം അതിന്റെ കൊടുമുടികൾ
+കീഴടക്കുകതന്നെ ചെയ്യുമെന്നു് കർണ്ണൻ ഉദാഹരിക്കുന്നു. ഈ വ്യക്തിത്വം മാരാരെ കണക്കറ്റു് ആകർഷിച്ചു;
+സ്വാധീനിച്ചു. കർണ്ണപക്ഷപാതം കർണ്ണന്റെ വൈകല്യങ്ങളെ മാത്രമല്ല, കൗരവരുടെ വീഴ്ചകളെപ്പോലും
+ന്യായീകരിക്കുവാൻ ഈ നിരൂപകനെ പ്രേരിപ്പിച്ചു. ഇക്കൂട്ടത്തിൽ ശ്രദ്ധേയമായ സംഗതിയാണു് കുട്ടികൃഷ്ണമാരാരു്
+എന്ന വ്യക്തിയിൽത്തന്നെ ഒരു കർണ്ണൻ പതിഞ്ഞു കിടപ്പുണ്ടു് എന്നതു്.
+</p>
+          <p>മാരാരു് കുട്ടിക്കാലത്തെക്കുറിച്ചോർക്കുകയാണു്:
+</p>
+          <p>“ജാതികൃതമായ മാനത്തേക്കാളധികം അപമാനം അനുഭവിച്ചുകൊണ്ടാണു് വളർന്നതു്. ഞങ്ങൾ
+അമ്പലവാസികളെന്നു് പറയപ്പെടാറുണ്ടെങ്കിലും ആ വർഗ്ഗത്തിൽ ഏറ്റവും താണവരാണെന്നാണു് വെപ്പു്.”
+(പ്രസ്താവന—ഋഷിപ്രസാദം)
+</p>
+          <p>കർണ്ണനും നേരിടേണ്ടിവന്ന അപമാനങ്ങളിൽ പ്രധാനം ഇതു് തന്നെയാണു്—സൂതജനെന്ന വെപ്പു്. ഇതിന്റെ
+പ്രതിപ്രവർത്തനമെന്നോണം ഒരൗദ്ധത്യം കർണ്ണനിൽ എന്നും കണ്ടിരുന്നുതാനും. പണ്ഡിതനെന്നും
+വിമർശകനെന്നുമുള്ള ഔദ്ധത്യം മാരാർക്കുമുണ്ടായിരുന്നു എന്നതിനു് തെളിവുകൾ എത്രയെങ്കിലുമുണ്ടു്:
+</p>
+          <p>ശിരോമണിക്കു് പഠിച്ചിരുന്ന കാലത്തു് തോന്നിയ ഒരഭിപ്രായഭേദത്തെക്കുറിച്ചു് അദ്ദേഹം
+പില്ക്കാലത്തെഴുതിയിരിക്കുകയാണു്:
+</p>
+          <p>“മമ്മടഭട്ടനാണതു് പറഞ്ഞതെന്നതുകൊണ്ടു് എന്റെ വിപ്രതിപത്തി അടക്കിവെക്കണമെന്നല്ല, ഗിരിശിഖരമേറി
+ഉദ്ഘോഷിക്കണമെന്നാണു് എനിക്കു് തോന്നിയതു്” (എന്റെ അടിവേരുകൾ—കല ജീവിതംതന്നെ).
+</p>
+          <p>അക്കാലത്തെക്കുറിച്ചു് മറ്റൊരു അനുസ്മരണമിതാ:
+</p>
+          <p>“എന്റെ കൂടെയുള്ളവരിൽ പലരും മുമ്പേ ഗമിച്ചീടിന ഗോവു തന്റെ പിമ്പേ ഗമിക്കും ബഹുഗോക്കളുമായിരുന്നു.
+അവരിൽനിന്നും സ്വന്തം വ്യക്തിത്വം വേർതിരിച്ചുകാണിക്കാനാവാം, ഞാൻ അവർ പ്രശംസിക്കുന്നവയെ
+അധിക്ഷേപിക്കുവാൻ യുക്തികൾ തേടി കണ്ടുപിടിച്ചതു്. ഉദാഹരണം പലതുണ്ടു്. എന്റെ സഹചാരികൾ
+ശാകുന്തളത്തെ പ്രശംസിച്ചപ്പോൾ ഞാൻ മുദ്രാരാക്ഷസത്തെ പുകഴ്ത്തി. അവർ ധ്വനിസിദ്ധാന്തത്തെ പുകഴ്ത്തിയപ്പോൾ
+ഞാൻ മഹിമഭട്ടന്റെ അനുമാനസിദ്ധാന്തം കൈക്കൊണ്ടു” (അന്വേഷണം വാർഷികപ്പതിപ്പു്, 1970).
+</p>
+          <p>വലിയവനെ തല്ലുക മാത്രമല്ല ഇവിടത്തെ പ്രത്യേകത, മറ്റുള്ളവർ തലോടുന്ന എന്തിനേയും തല്ലുക
+എന്നതാണു് മേൽസൂചിപ്പിച്ച പ്രതിപ്രവർത്തനം തന്നെയാണല്ലോ ഇതു്.
+</p>
+          <p>ഈ ഔദ്ധത്യം പടർന്നുകേറുന്നതു് നോക്കൂ:
+</p>
+          <p>എലിമെണ്ടറി ക്ലാസുകളിലെ വിദ്യാർത്ഥികൾക്കു് വേണ്ടി എഴുതിയ വ്യാകരണപുസ്തകത്തിൽ
+പൂജകബഹുവചനത്തിനു് ഉദാഹരണം കൊടുത്തിരിക്കുന്നതു് ഇങ്ങനെയാണു്:
+
+</p>
+          <p>“വ്യാസർ, കാളിദാസർ, ഭീഷ്മർ, വാധ്യാർ, സ്വാമിയാർ, മാരാർ” (ഭാഷാപരിചയം).
+</p>
+          <p>പ്രസ്തുത പുസ്തകത്തിൽ തന്നെ കർമ്മണിപ്രയോഗങ്ങളെയും കർത്തരിപ്രയോഗങ്ങളെയും
+വേർതിരിച്ചെടുക്കാനുള്ള അഭ്യാസത്തിൽ കൊടുത്ത ഖണ്ഡിക:
+</p>
+          <p>“നമ്മുടെ ഭാഷ അഭിവൃദ്ധിപ്പെടുന്നു. പുതിയൊരു വ്യാകരണപുസ്തകം പ്രസിദ്ധീകരിക്കപ്പെട്ടിരിക്കുന്നു. അതിൽ
+വ്യാകരണകാര്യങ്ങളെല്ലാം പുതിയൊരു രീതിയിലാണു് പ്രതിപാദിക്കപ്പെട്ടിരിക്കുന്നതു്. അതു് പഠിപ്പാൻ
+വിദ്യാർത്ഥികൾ ശ്രമപ്പെടേണ്ടതില്ല. അവർ വ്യാകരണത്തിന്റെ മുഷിപ്പത്തിൽ നിന്നു് രക്ഷപ്പെട്ടു” (ഭാഷാപരിചയം).
+</p>
+          <p>1949-ൽ പ്രസിദ്ധീകരിച്ച പ്രസ്തുത കൃതിയുടെ മൂന്നാംപതിപ്പിൽ നിന്നുപോലും എടുത്തുകളയേണ്ട എന്നുവെച്ച
+ഈ മനോഭാവം പില്ക്കാലത്തെ പ്രൗഢകൃതികളിൽ കാണുന്ന ഔദ്ധത്യത്തിന്റെ അങ്കുരം തന്നെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AR_Raja_Raja_Varma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഏ. ആർ. രാജരാജവർമ്മ</figDesc>
+          </figure>
+          <p>കർണ്ണന്റെ അരങ്ങേറ്റത്തിലേക്കു് വരാം: രംഗത്തെ മുഴുവൻനോക്കി ദ്രോണകൃപന്മാരെ ഏറെ വഴങ്ങാതെ
+വന്ദിച്ചാണു് കർണ്ണൻ കടന്നു വരുന്നതു് എന്നു് ഇതിഹാസകവി പറയുന്നു: ‘സാഹിത്യഭൂഷണ’വുമായി അരങ്ങേറുന്ന
+മാരാരിലും ഇതേ ഭാവം തന്നെ കാണുന്നു. ആനന്ദവർദ്ധനാചാര്യരെപ്പോലും വന്ദിക്കാനല്ലാതെ, ഏറെ വഴങ്ങാൻ
+ആ പൗരുഷം കൂട്ടാക്കുന്നില്ല. സാഹിത്യവേദിയിലെ സവ്യസാചിയായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/A._R._Raja_Raja_Varma">ഏ. ആർ.
+രാജരാജവർമ്മ</ref> യോടു ‘താങ്കൾ താങ്കളെച്ചൊല്ലി അദ്ഭുതപ്പെടേണ്ട’ എന്ന വാക്കു് കൊണ്ടല്ലെങ്കിലും ആ
+കൃതി പറയുന്നുണ്ടു്. ആചാര്യന്മാരായി താൻ തന്നെ അംഗീകരിച്ചവരുടെ പോലും ‘തെറ്റുകൾ’ (എന്നു് ഉറപ്പിച്ചാണു്
+പ്രയോഗം. ഇതു് അവതാരികാകാരനായ <ref target="https://ml.wikipedia.org/wiki/Ulloor_S._Parameswara_Iyer">ഉള്ളൂരിനു</ref>
+പോലും നീരസമുണ്ടാക്കിയിട്ടുണ്ടു്) സാഹിത്യഭൂഷണത്തിൽ അക്കമിട്ടു നിരത്തിയിട്ടുണ്ടു് എന്നോർക്കുക.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ulloor_S_Parameswara_Iyer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉള്ളൂർ</figDesc>
+          </figure>
+          <p>പ്രസ്തുത കൃതി ഉപജീവ്യനായിക്കണ്ട രാജാനകമഹിമഭട്ടൻ, സാഹിത്യത്തിന്റെ ആത്മസത്തയെ
+സാക്ഷാത്ക്കരിക്കാൻ പോന്നതെന്നൂറ്റംകൊണ്ട ധ്വനിസിദ്ധാന്തത്തിന്റെ പരമാചാര്യനെ വെല്ലുവിളിച്ച
+ധിക്കാരിയായിരുന്നു. ഇതേക്കുറിച്ചു് <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">പ്രൊഫ. സുകുമാർ
+അഴീക്കോട്</ref> എഴുതി:
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sukumar_azhikode1.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രൊഫ. സുകുമാർ അഴീക്കോട്</figDesc>
+          </figure>
+          <p> “മലയാളത്തിൽ സാഹിത്യഭൂഷണം വല്ലാതെ അപ്രീതിപാത്രമാവാനുള്ള ഒന്നാമത്തെ കാരണം,
+മഹിമഭട്ടനെ തൽക്കർത്താവു് അനുസരിച്ചുവെന്നതോ, ധ്വന്യാലോകകാരനെ എതിർത്തുവെന്നതോ അല്ല,
+ഏ. ആർ. തിരുമേനിയെ നേരിട്ടെതിർത്തു എന്നതായിരുന്നു. ‘അത്രയ്ക്കായോ’ എന്നായിരുന്നു പൊതുവിലുണ്ടായ
+പ്രതികരണം.” (മാരാരെ മനസ്സിലാക്കുക—കല ജീവിതം തന്നെ.)
+
+</p>
+          <p>കർണ്ണൻ അർജ്ജുനനെ വെല്ലുവിളിച്ചപ്പോഴുണ്ടായ പ്രതികണവും ഈ പ്രതികരണവും തമ്മിൽ അത്ര വലിയ
+അകലമുണ്ടോ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mundassery2.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുണ്ടശ്ശേരി</figDesc>
+          </figure>
+          <p>മാരാരുടെ മുമ്പിലെ അർജ്ജുനവിഗ്രഹം ഏതായിരുന്നു എന്നു് ഇനിയേറെ വ്യാഖ്യാനിക്കേണ്ടതില്ല.
+‘അർജ്ജുനനു് കിടയാകണം’ എന്നേ അദ്ദേഹത്തിനും ഉണ്ടായിരുന്നുവെന്നുള്ളതുകൊണ്ടാണോ ഏ. ആർ.
+തമ്പുരാന്റെ മിക്ക പുസ്തകങ്ങൾക്കും തുല്യമായി താനും പുസ്തകങ്ങളെഴുതിയതു്? അതുകൊണ്ടാണോ?
+“കാലമേറെക്കഴിഞ്ഞു് മറ്റൊരു രാജരാജനാകാൻ കച്ചകെട്ടിയിറങ്ങിയ സംസ്കൃതമാത്രവിഭവനായ ശ്രീ.
+കുട്ടികൃഷ്ണമാരാർ” എന്നെഴുതാൻ <ref target="https://ml.wikipedia.org/wiki/Joseph_Mundassery">മുണ്ടശ്ശേരി</ref> ക്കു്
+(രാജരാജന്റെ മാറ്റൊലി) അവസരം ലഭിച്ചതു്?
+</p>
+          <p>ഏ. ആർ. ചെയ്ത മിക്കതും അതിനേക്കാൾ നന്നായി ചെയ്യും എന്ന തീർപ്പു് നടപ്പാക്കാനാണു് മാരാരു് തന്റെ
+ജീവിതം ചെലവിട്ടതു്. അതിൽ അദ്ദേഹം ബഹുദൂരം വിജയിക്കുകയും ചെയ്തു.
+</p>
+          <p>ഒറ്റ തിരിഞ്ഞ വ്യക്തിത്വം കർണ്ണന്റെയും മാരാരുടെയും പ്രത്യേകതയായിരുന്നു. പുകഴ്ത്തലുകളേക്കാൾ
+ഇകഴ്ത്തലുകളാണു് അവർക്കു് ഏറെ കിട്ടിയതു്. ആക്ഷേപിക്കപ്പെടുന്നതിനോടു് ഒരുതരം ആസക്തി തന്നെ
+ഇരുവരിലും വേരുപിടിച്ചതുപോലെ തോന്നിപ്പോകും. വിമർശനങ്ങൾക്കു നേരെ ‘ഇതിനൊക്കെ ഞാൻ
+അർഹനോ?’ എന്നൊരു മേനി തന്നെയുണ്ടായിരുന്നല്ലോ മാരാർക്കു്. തനിക്കെതിരെയുള്ള ഒരു രൂക്ഷവിമർശനം
+ഉദ്ധരിച്ചിട്ടു് അദ്ദേഹം പറയുകയാണു്:
+</p>
+          <p>“ഈ ബഹുമതി കൈക്കൊള്ളുവാൻ എനിക്കുള്ള അർഹത എത്ര അത്യല്പമാണെങ്കിലും ആ ഉള്ളതിനെ ഈ
+പുതിയ പുസ്തകം ഒന്നു കൂടി സമർത്ഥിക്കുമെന്നു് ഞാനാശിക്കുന്നു.” (മുഖവുര—പതിനഞ്ചുപന്യാസം.)
+</p>
+          <p>മറ്റൊരു ഖണ്ഡിക:
+</p>
+          <p>“ഞാൻ ആത്മകഥയെഴുതുവാൻ തുടങ്ങിയിട്ടില്ല. എഴുതണമെന്നു് തീർച്ചപ്പെടുത്തിയിട്ടുമില്ല. സംഗതിവശാൽ,
+ആത്മകഥാസ്പർശിയായ രണ്ടുമൂന്നു് ലേഖനം എഴുതുകയുണ്ടായിട്ടുണ്ടു്. അവയും, എന്റെ സാഹിത്യസംബന്ധിയായ
+മറ്റേതു ലേഖനവുമെന്നപോലെ, ചിലരെ നന്നെ മുഷിപ്പിച്ചതായിട്ടാണു് കണ്ടിട്ടുള്ളതു്. അതോർക്കുമ്പോൾ എന്താ
+ഒരാത്മകഥ തന്നെ അങ്ങെഴുതിയാൽ എന്നിടക്കു് തോന്നാറുണ്ടു്.” (ആത്മകഥയിൽ
+നിന്നൊരദ്ധ്യായം—പതിനഞ്ചുപന്യാസം).
+</p>
+          <p>വിമർശകനു് ലഭിക്കാവുന്ന പൂമാലകളിലൊന്നു് സ്വന്തം വീക്ഷണങ്ങൾക്കു നേരെയുള്ള കടന്നാക്രമണമാണു്
+എന്നറിയാത്ത ആളല്ല കുട്ടികൃഷ്ണമാരാരു്. അതുകൊണ്ടുതന്നെയാകണം, ഒരു സുയോധനനെ കാത്തിരിക്കാതെ
+അദ്ദേഹം സ്വയം തന്നെ കസേര വലിച്ചിട്ടു് ഇരുന്നതും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vallathol-Narayana-Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">വള്ളത്തോൾ</figDesc>
+          </figure>
+          <p>ഗുരുഭക്തി ജീവിതത്തിന്റെ ഭൗതികപരാജയത്തിനു് വഴിവെക്കുന്നതായി കർണ്ണനിലെന്നപോലെ മാരാരിലും
+കാണുന്നു. ജീവിതത്തിന്റെ ആദ്യപകുതിയുടെ ശോഭനഭാഗം മുഴുവൻ <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോളി</ref>
+നും <ref target="https://ml.wikipedia.org/wiki/Nalappat_Narayanamenon">നാലപ്പാടി</ref>
+നും അടിപ്പെടുത്തിയാണു് മാരാരു് കഴിഞ്ഞതു്. അതുകൊണ്ടു് വന്നു ചേർന്ന ഭൗതികമായ കഷ്ടനഷ്ടങ്ങളും
+അവമാനങ്ങളും വേദനകളും പലയിടത്തായി മാരാരു് സൂചിപ്പിച്ചിട്ടുണ്ടു്. അപൂർവ്വം ചിലപ്പോൾ
+തുറന്നുപറഞ്ഞിട്ടുമുണ്ടു്. സാഹിത്യവീക്ഷണത്തെക്കൂടി അതെത്രമാത്രം ഗ്രസിച്ചുകളഞ്ഞു എന്നു് അദ്ദേഹം തന്നെ
+സങ്കടപ്പെടുന്നു.—‘സാഹിത്യഭൂഷണ’കർത്താവായ ആ സാഹിത്യമർമ്മജ്ഞൻ പ്രസ്തുതകൃതി രചിച്ചു് 42 കൊല്ലം
+കഴിഞ്ഞു് 1970-ൽ പറയുകയാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kumaran_Asan_1973_stamp_of_India.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുമാരനാശാൻ</figDesc>
+          </figure>
+          <p>“ഞാൻ വള്ളത്തോളിലൂടെയും ഉള്ളൂരിലൂടെയും പതുക്കെപ്പതുക്കെ പിടിച്ചുകേറി <ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">കുമാരനാശാനിൽ</ref>
+എത്തിച്ചേർന്നവനാണു്. മലയാളത്തിൽ ഋഷികവി എന്നു പറയാവുന്ന ഒരാളുണ്ടെങ്കിൽ അതു് ആശാനാണെന്നു്
+പതുക്കെപ്പതുക്കെ ബോധ്യപ്പെട്ടു വരുന്നു” (അന്വേഷണം വാർഷികപ്പതിപ്പ്, 1970).
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Nalappat_Narayanamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">നാലപ്പാട്ട് നാരായണമേനോൻ</figDesc>
+          </figure>
+          <p> സ്വന്തമായൊരു പക്ഷപാതമുണ്ടാവുക എന്നതിൽ, കടുംപിടുത്തത്തിന്റെ കാര്യത്തിൽ, കർണ്ണനും മാരാരും
+ആരുടെയും പിന്നിലല്ല. മാരാർക്കു് പക്ഷപാതം മാത്രമല്ല, എല്ലാവരും “പക്ഷപാതികളാണു്” എന്നും
+ഉണ്ടായിരുന്നല്ലോ. സ്വന്തം ജീവിതത്തിനും മേലെ സദ്യശസ്സിനെയാണു് ഈ രണ്ടു് പോരാളികളും കണ്ടതു്.
+“തോല്പിക്കണം” എന്ന ക്ഷാത്രവീര്യം ഇരുവരിലും നിന്നു കത്തുന്നു.
+</p>
+          <p>തന്റെ വിമർശകജീവിതത്തിനു് ജന്മസിദ്ധമായിക്കിട്ടിയ യുക്തിയുടെ കവചവും സൗന്ദര്യദർശനത്തിന്റെ
+കുണ്ഡലവും അവസാനകാലത്തു് ആദ്ധ്യാത്മികതക്കു് ദാനം ചെയ്തു് വിമർശനക്ഷേത്രത്തിൽ നിരസ്ത്രനാകുന്ന
+മാരാരുടെ രൂപം ഈ ചിത്രത്തെ പൂർണ്ണമാക്കുന്നു.
+</p>
+          <p>തന്റെ അകത്തും പുറത്തുമുള്ള എല്ലാ പ്രത്യേകതകളും കർണ്ണനിൽ കണ്ടെത്തിയതുകൊണ്ടാണു് ആ
+കഥാപാത്രം ഒരു ലഹരിയായി മാരാരെ ആവേശിക്കുന്നതു്. കർണ്ണനിലൂടെയാണു് മാരാരു് ഭാരതം കണ്ടതു്.
+കർണ്ണന്റെ കണ്ണിലൂടെയാണു് മാരാരു് കുരുക്ഷേത്രയുദ്ധം കണ്ടതു്. കർണ്ണനെ സംബന്ധിച്ച ഏതു ലേഖനവും
+മാരാർക്കു് ആത്മകഥയിൽ നിന്നൊരദ്ധ്യായം തന്നെ.
+</p>
+          <p>മഹാഭാരതം എന്ന ഇതിഹാസത്തിലെ മുഖ്യകഥാപാത്രം കർണ്ണനാണെന്നു് മാരാരു് കണ്ടെത്തുന്നതിന്റെ
+(മഹാഭാരതത്തിലേക്കു്—ചർച്ചായോഗം) അടിയിൽ അവർ തമ്മിലുള്ള ഈ ആഭ്യന്തരബന്ധം കിടപ്പുണ്ടു്.
+മാരാരുടെ മനുഷ്യസങ്കല്പത്തിന്റെ മുഖ്യാംശമായ അഭയത്തിന്റെയും ബലത്തിന്റെയും പൗരുഷത്തിന്റെയും
+പ്രതിപുരുഷനും കർണ്ണനല്ലാതെ മറ്റാരുമല്ല.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Mararile Karnavigraham (ml:
+മാരാരിലെ കർണ്ണവിഗ്രഹം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Mararile Karnavigraham, എം. എൻ. കാരശ്ശേരി, മാരാരിലെ കർണ്ണവിഗ്രഹം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 9, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Rose_Potato_Gathers_Art_of_World_vol.2.jpg">The
+Potato Gatherers,</ref> a photograph by Guy Orlando Rose  (1867–1925). The image is
+taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karasseri-marar.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasseri-marar.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

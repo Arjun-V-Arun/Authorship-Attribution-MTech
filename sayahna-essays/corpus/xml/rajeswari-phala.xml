@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കൊടുങ്ങല്ലൂരിന്റെ ഫലശ്രുതി</title>
+          <title xml:lang="en" type="main">Kodungalloorinte Phalasruthi</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 27, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കൊടുങ്ങല്ലൂരിന്റെ ഫലശ്രുതി</title>
+              <title xml:lang="en" type="main">Kodungalloorinte Phalasruthi</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Kodungalloorinte Phalasruthi</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കൊടുങ്ങല്ലൂരിന്റെ ഫലശ്രുതി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 27, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Diplodocus_cknight.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Diplodocus_cknight.jpg">Diplodocus,</ref>
+a painting by Charles Knight  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കൊടുങ്ങല്ലൂരിന്റെ ഫലശ്രുതി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കൊടുങ്ങല്ലൂരിന്റെ ഫലശ്രുതി</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/TV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. വി. തോമസ്</figDesc>
+          </figure>
+          <p style="noindent"> സമീപകാലത്തുണ്ടായതിൽ ഏറ്റവും കനത്ത തിരിച്ചടിയാണു് ഇടതുപക്ഷ
+ജനാധിപത്യമുന്നണിക്കു് ഇക്കഴിഞ്ഞ തെരഞ്ഞെടുപ്പിലുണ്ടായതു്. മാർക്സിസ്റ്റ് പാർട്ടിയുടെ സീറ്റുകൾ 40-ൽനിന്നു് 23
+ആയി കുറഞ്ഞു. സി. പി. എം. സ്വതന്ത്രരുടേതു് അഞ്ചിൽനിന്നു് ഒന്നായും. ജോസഫ് ഗ്രൂപ്പിന്റെ അംഗസംഖ്യ
+ആറിൽനിന്നു് രണ്ടായും ജനതാദളിന്റേതു് നാലിൽനിന്നു് മൂന്നായും എൻ. സി. പി.-യുടേതു് മൂന്നിൽനിന്നു് രണ്ടായും
+ചുരുങ്ങി. ആർ. എസ്. പി. മാത്രം സിറ്റിംഗ് സീറ്റുകൾ രണ്ടും നിലനിർത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mohammad_Abdurahman.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുഹമ്മദ് അബ്ദുറഹ്മാൻ</figDesc>
+          </figure>
+          <p> ഏറ്റവും കടുത്ത ആഘാതമേറ്റതു് ഇന്ത്യൻ കമ്യൂണിസ്റ്റ് പാർട്ടിക്കാണു്. നിയമസഭാംഗങ്ങളുടെ എണ്ണം 18-ൽ
+നിന്നു് ഏഴിലേക്കു് കുത്തനെ ഇടിഞ്ഞു. രണ്ടു് മന്ത്രിമാരും ഡെപ്യൂട്ടി സ്പീക്കറുമടക്കമുള്ള മുൻനിര
+നേതാക്കളൊന്നടങ്കം തോറ്റു് തട്ടിൻ പുറത്തുകയറി. കമ്യൂണിസ്റ്റ് കോട്ടകൾ മിക്കതും തകർന്നടിഞ്ഞു. <ref target="https://ml.wikipedia.org/wiki/T.V._Thomas">ടി. വി. തോമസ്</ref> മുതൽ
+<ref target="https://ml.wikipedia.org/wiki/P.K.Chathan">ചാത്തൻമാസ്റ്റർ</ref>
+വരെ തോൽക്കുകയും സുഗതൻസാറിനു് കെട്ടിവെച്ച കാശു് പോവുകയും ചെയ്ത 1965-ൽ മാത്രമേ ഇതിനേക്കാൾ
+വലിയ പരാജയം സി. പി. ഐ.-ക്കുണ്ടായിട്ടുള്ളൂ. ആർ. എസ്. പി.-യുമായി (മാത്രം) സഖ്യമുണ്ടാക്കി മൽസരിച്ച
+അന്നു് കേവലം മൂന്നു് സീറ്റേ കിട്ടിയുള്ളൂ. ഇപ്പോഴത്തെ മുന്നണിയുടെ വൈപുല്യവും വൈവിധ്യവും
+പരിഗണിക്കുമ്പോൾ, 2001-ലെ ഏഴിനേക്കാൾ എത്രയോ മഹത്വമുള്ളതായിരുന്നു, 1965ലെ മൂന്നു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PK_Chathan_Master.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചാത്തൻമാസ്റ്റർ</figDesc>
+          </figure>
+          <p> ഇത്തവണ അഞ്ചു് സീറ്റാണു് ഇടതുമുന്നണി ഐക്യ ജനാധിപത്യമുന്നണിയിൽനിന്നു്
+പിടിച്ചെടുത്തതു്—നെടുമങ്ങാട്, ഉടുമ്പൻചോല, മാരാരിക്കുളം, പെരുമ്പാവൂർ, മങ്കട. കൈവശമിരുന്ന 45 സീറ്റ്
+മുന്നണിക്കു് നഷ്ടപ്പെടുകയും ചെയ്തു. കൈവിട്ടുപോയ 45-ൽ ഏറ്റവും കനത്ത പരാജയമുണ്ടായതു്
+കൊടുങ്ങല്ലൂരിലാണു്. അതു കഴിഞ്ഞാൽ വർക്കല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/C_achuthamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതമേനോൻ</figDesc>
+          </figure>
+          <p> ധീരദേശാഭിമാനി <ref target="https://ml.wikipedia.org/wiki/Mohammad_Abdurahman">മുഹമ്മദ്
+അബ്ദുറഹ്മാന്റെ</ref> യും സമുന്നത മുസ്ലീംലീഗ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/Seethi_Sahib">കെ. എം.
+
+സീതിസാഹിബി</ref> ന്റെയും ജന്മസ്ഥലമാണു് കൊടുങ്ങല്ലൂർ. കെ. എം. ഇബ്രാഹിമിന്റെ നേതൃത്വത്തിൽ
+നടന്ന കർഷക സമരങ്ങളുടെ പാരമ്പര്യവും ഈ നാടിനുണ്ടു്. കൊടുങ്ങല്ലൂരിൽ ആദ്യം ചെങ്കൊടി നാട്ടിയ <ref target="https://ml.wikipedia.org/wiki/E._Gopalakrishna_Menon">ഇ.
+ഗോപാലകൃഷ്ണമേനോനും</ref> കോൺഗ്രസുകാരനായാണു് രാഷ്ട്രീയ ജീവിതം ആരംഭിച്ചതു്. 1939-ൽ
+കോൺഗ്രസിന്റെ കൊടുങ്ങല്ലൂർ താലൂക്ക് സെക്രട്ടറിയാകുമ്പോൾ മേനോനു് വയസ്സു് 20. അതിനുമെത്രയോ
+മുമ്പുതന്നെ മദ്യവർജനവും വിദേശ വസ്ത്ര ബഹിഷ്കരണവുമായി അദ്ദേഹം രംഗത്തുണ്ടായിരുന്നു. 1942-ൽ <ref target="https://ml.wikipedia.org/wiki/E._Gopalakrishna_Menon">ഗോപാലകൃഷ്ണ
+മേനോൻ</ref> കമ്യൂണിസ്റ്റായി. അതിനടുത്ത വർഷം കൊച്ചി കർഷകസഭയുടെ സെക്രട്ടറിയായി
+തെരഞ്ഞെടുക്കപ്പെട്ടു. 1945-ൽ കൊച്ചി നിയമസഭയിലേക്കു് നടന്ന തെരഞ്ഞെടുപ്പിൽ കൊടുങ്ങല്ലൂരിൽ
+ഗോപാലകൃഷ്ണ മേനോനും തൃശൂരിൽ <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോനും</ref>
+മൽസരിച്ചു. രണ്ടാളും തോറ്റു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Seethi_sahib.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. സീതിസാഹിബ്</figDesc>
+          </figure>
+          <p> കേരളത്തിൽ ആദ്യമായി എം. എൽ. എ.-യായ കമ്യൂണിസ്റ്റ്കാരൻ <ref target="https://ml.wikipedia.org/wiki/E._Gopalakrishna_Menon">ഇ.
+ഗോപാലകൃഷ്ണമേനോൻ</ref> ആയിരുന്നു. 1949-ൽ തിരു-കൊച്ചി നിയമസഭയിലേക്കു് കൊടുങ്ങല്ലൂർ
+മണ്ഡലത്തിൽ നടന്ന ഉപതെരഞ്ഞെടുപ്പിലാണു് മേനോന്റെ വിജയം. (ഇടതുപക്ഷ സ്വതന്ത്രരായ പാറായിൽ
+<ref target="https://ml.wikipedia.org/wiki/P.V._Urumeese_Tharakan">ഉറുമീസ്
+തരകനും</ref> ടി. എ. മൈതീൻകുഞ്ഞും അതിനുമുമ്പുതന്നെ നിയമസഭയിൽ എത്തിയിരുന്നു).
+കമ്യൂണിസ്റ്റുകാരെ പേപ്പട്ടികളെപ്പോലെ വേട്ടയാടുന്ന കൽക്കത്താ തിസ്സീസുകാലം. ഒളിവിലിരുന്നു കൊണ്ടാണു്
+മേനോൻ മൽസരിച്ചതും ജയിച്ചതും. തെരഞ്ഞെടുപ്പു് കഴിഞ്ഞു് ഒരു വർഷത്തിനുശേഷമാണു് ഒളിവിൽനിന്നും
+പുറത്തിറങ്ങിയതും സഭാംഗമായി സത്യപ്രതിജ്ഞ ചെയ്തതും.
+</p>
+          <p>1952-ൽ ഗോപാലകൃഷ്ണമേനോൻ വിജയം ആവർത്തിച്ചു. 1954-ൽ പരാജയപ്പെട്ടു; 1957-ൽ കേരള
+നിയമസഭയിലേക്കു് ജയിച്ചു. 1960-ലും 1965-ലും വീണ്ടും പരാജയം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_Balachandra_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ബാലചന്ദ്രമേനോൻ</figDesc>
+          </figure>
+          <p> കമ്യൂണിസ്റ്റ് പാർട്ടി പിളർന്നശേഷമുള്ള ആദ്യത്തെ തെരഞ്ഞെടുപ്പായിരുന്നു 1965-ലേതു്. തൃശൂർ ജില്ലയിലെ
+സമുന്നത നേതാക്കൾ മിക്കവരും—<ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">സി.
+അച്യുതമേനോൻ</ref>, കെ. കെ. വാര്യർ, <ref target="https://ml.wikipedia.org/wiki/E._Gopalakrishna_Menon">ഇ. ഗോപാലകൃഷ്ണ
+മേനോൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.K.Gopalakrishnan">പി. കെ.
+ഗോപാലകൃഷ്ണൻ</ref>, <ref target="https://en.wikipedia.org/wiki/K._P._Prabhakaran">കെ. പി.
+പ്രഭാകരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/C._Janardhanan">സി. ജനാർദനൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/V.V._Raghavan">വി. വി.
+രാഘവൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.K.Chathan">പി. കെ.
+ചാത്തൻ മാസ്റ്റർ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.S._Namboodiri">പി. എസ്.
+നമ്പൂതിരി</ref>— സി. പി. ഐ.-യിൽ ഉറച്ചുനിന്നു. വലിയൊരു ഭാഗം അണികളും സി. പി. ഐ.-യോടൊപ്പം
+നിലകൊണ്ടു. ജില്ലയുടെ തെക്കൻ പകുതിയിലെങ്കിലും സി. പി. എമ്മിനേക്കാൾ പ്രബല ശക്തി സി. പി. ഐ.
+ആയിരുന്നു. കൊടകരയിൽ സഖാവ് <ref target="https://ml.wikipedia.org/wiki/P.S._Namboodiri">പി. എസ്. നമ്പൂതിരി</ref>
+വിജയിച്ചു. കൊടുങ്ങല്ലൂരിൽ <ref target="https://ml.wikipedia.org/wiki/E._Gopalakrishna_Menon">ഗോപാലകൃഷ്ണ
+മേനോനും</ref> മാളയിൽ കെ. എ. തോമസും രണ്ടാംസ്ഥാനത്തെത്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_Gopalakrishna_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. ഗോപാലകൃഷ്ണമേനോൻ</figDesc>
+          </figure>
+          <p> കൊടുങ്ങല്ലൂരു് കണ്ട ഏറ്റവും കടുത്ത പോരാട്ടം 1967-ൽ ആയിരുന്നുവെന്നു് പഴമക്കാർ പറയുന്നു. അന്നു്
+സി. പി. ഐ.-യിലെ <ref target="https://ml.wikipedia.org/wiki/P.K.Gopalakrishnan">പി. കെ.
+ഗോപാലകൃഷ്ണൻ</ref> 3315 വോട്ടിന്റെ വ്യത്യാസത്തിൽ കോൺഗ്രസിലെ എ. കെ. മുഹമ്മദ് സഗീറിനെ
+തോൽപിച്ചു. 1967 മുതൽക്കിങ്ങോട്ട് സി. പി. ഐ. സ്ഥാനാർഥികളേ കൊടുങ്ങല്ലൂര് ജയിച്ചിട്ടുള്ളൂ. ഇത്രയേറെക്കാലം
+കമ്യൂണിസ്റ്റ് പാർട്ടിയോടു് കൂറു് പുലർത്തിയ മറ്റൊരു മണ്ഡലവും സംസ്ഥാനത്തില്ല. ഇന്ത്യാ രാജ്യത്തുതന്നെ
+കാണുമോ എന്നു് സംശയം 1970-ൽ വീണ്ടും <ref target="https://ml.wikipedia.org/wiki/E._Gopalakrishna_Menon">ഇ.
+ഗോപാലകൃഷ്ണമേനോൻ</ref> വിജയിച്ചു. മാർക്സിസ്റ്റ് സ്വതന്ത്രൻ പി. വി. അബ്ദുൽഖാദറിനെ 532 വോട്ടിനാണു്
+മേനോൻ തോൽപിച്ചതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajiv_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജീവ്ഗാന്ധി</figDesc>
+          </figure>
+          <p> 1977-ൽ കൊടുങ്ങല്ലൂർ നിയോജകമണ്ഡലത്തിൽ പുതിയൊരു നക്ഷത്രം ഉദിച്ചു. സി. പി. ഐ. കൊടുങ്ങല്ലൂർ
+മണ്ഡലം സെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/V.K._Rajan">വി. കെ.
+രാജൻ</ref>. സാധാരണക്കാരേക്കാൾ സാധാരണക്കാരൻ; 110 ശതമാനം ജനകീയനും. 1940-ൽ പുല്ലൂറ്റ് ജനിച്ച
+രാജൻ ചെത്തുതൊഴിലാളിയായാണു് ജീവിതായോധനം തുടങ്ങിയതു്. വയസ്സു് 16 ആകുമ്പോഴേക്കും കമ്യൂണിസ്റ്റ്
+അനുഭാവിയായി. രാജനു് പാർട്ടി അംഗത്വം നൽകിയതും പിളർപ്പിന്റെ നാളുകളിൽ ഔദ്യോഗിക പക്ഷത്തു്
+ഉറപ്പിച്ചുനിർത്തിയതും കൊടുങ്ങല്ലൂരെ ആദ്യകാല കമ്യൂണിസ്റ്റ് സംഘാടകൻ ടി. എൻ. കുമാരൻ. 1977-ൽ മാർക്സിസ്റ്റ്
+സ്വതന്ത്രൻ പി. വി. അബ്ദുൽഖാദറിനെ 8111 വോട്ടിനു് തോൽപിച്ചുകൊണ്ടാണു് രാജന്റെ ജൈത്രയാത്ര ആരംഭിച്ചതു്.
+1989-ലും ’82-ലും എസ്. ആർ. പി.-യിലെ കൊള്ളിക്കത്തറ രവിയായിരുന്നു എതിരാളി; 1987-ൽ കോൺഗ്രസിലെ
+<ref target="https://ml.wikipedia.org/wiki/K._P._Dhanapalan">കെ. പി.
+ധനപാലനും</ref>. എല്ലാത്തവണയും രാജൻ പുഷ്പംപോലെ ജയിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PS_Namboodiri.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. എസ്. നമ്പൂതിരി</figDesc>
+          </figure>
+          <p> സംസ്ഥാനത്തു് സി. പി. ഐ.-ക്കു് ഏറ്റവും വലിയ വിജയമുണ്ടായതും 1977-ൽ ആയിരുന്നു. 1967-ൽ 19-ഉം 70-ൽ
+16-ഉം സീറ്റുകൾ നേടിയ സി. പി. ഐ.-ക്കു് 1977-ൽ 23 സീറ്റുകളിൽ വിജയിക്കാനായി. മറുഭാഗത്തു് സി. പി. എമ്മിനു്
+17 സീറ്റേ കിട്ടിയുള്ളൂ. നാല് സി. പി. ഐ.ക്കാർ ലോക്സഭയിലേക്ക് ജയിച്ചു. സി. പി. എമ്മിനു് ഒന്നും കിട്ടിയില്ല.
+തൃശൂർ ജില്ലയിൽ സി. പി. ഐ. മൽസരിച്ച നിയമസഭാ സീറ്റുകൾ മൂന്നും കൊടുങ്ങല്ലൂർ, നാട്ടിക,
+ചേർപ്പ്—വിജയിച്ചു. ലോക്സഭയിലേക്കു് തൃശൂര് നിന്നു് <ref target="https://ml.wikipedia.org/wiki/K._A._Rajan">കെ. എ. രാജനും</ref>
+തെരഞ്ഞെടുക്കപ്പെട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Vasudevan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വാസുദേവൻ നായർ</figDesc>
+          </figure>
+          <p> 1980 ആകുമ്പോഴേക്കും സി. പി. ഐ. വീണ്ടും മാർക്സിസ്റ്റ് മുന്നണിയിലായി. ലോക്സഭാംഗങ്ങൾ രണ്ടായും
+നിയമസഭാംഗങ്ങൾ 17 ആയും കുറഞ്ഞു. തൃശൂർ ലോക്സഭാ സീറ്റും ജില്ലയിൽ കൈവശമിരുന്ന മൂന്നു് നിയമസഭാ
+മണ്ഡലങ്ങളും പാർട്ടിക്കു് നിലനിർത്താൻ കഴിഞ്ഞു. 1982-ൽ സീറ്റുകൾ 13 ആയി കുറഞ്ഞു; പ്രമുഖ നേതാക്കളായ
+<ref target="https://ml.wikipedia.org/wiki/P._K._Vasudevan_Nair">പി. കെ.
+വാസുദേവൻ നായരും</ref> <ref target="https://ml.wikipedia.org/wiki/P.S._Sreenivasan">പി. എസ്.
+ശ്രീനിവാസനും</ref> <ref target="https://ml.wikipedia.org/wiki/E._Chandrasekharan_Nair">ഇ.
+ചന്ദ്രശേഖരൻനായരും</ref> പരാജയമടഞ്ഞു. തൃശൂർ ജില്ലയിൽ കൊടുങ്ങല്ലൂരും ചേർപ്പും പാർട്ടി നിലനിർത്തി,
+നാട്ടിക നഷ്ടപ്പെട്ടു; മാളയിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനോ</ref> ടു്
+പൊരുതിയ സഖാവു് <ref target="https://ml.wikipedia.org/wiki/E._Gopalakrishna_Menon">ഇ.
+ഗോപാലകൃഷ്ണമേനോൻ</ref> 3410 വോട്ടിന്റെ വ്യത്യാസത്തിൽ പരാജിതനായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_Chandrasekharan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. ചന്ദ്രശേഖരൻനായർ</figDesc>
+          </figure>
+          <p> 1984 അവസാനം ലോക്സഭയിലേക്ക് നടന്ന തെരഞ്ഞെടുപ്പിൽ സി. പി. ഐ. കടപുഴകി. <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref>
+മരിച്ചതിനെ തുടർന്നുണ്ടായ സഹതാപ തരംഗത്തിൽ സി. പി. ഐ.-യുടെ സീറ്റുകളൊക്കെ ഒലിച്ചുപോയി.
+തൃശൂരിൽ സഖാവ് <ref target="https://ml.wikipedia.org/wiki/V.V._Raghavan">വി. വി.
+രാഘവൻ</ref> അമ്പതിനായിരത്തിൽപരം വോട്ടുകൾക്കു് കോൺഗ്രസിലെ <ref target="https://en.wikipedia.org/wiki/P._A._Antony">പി. എ. ആന്റണി</ref> യോടു്
+തോറ്റു. ഈ കുത്തൊഴുക്കിലും കൊടുങ്ങല്ലൂർ പിടിച്ചുനിന്നു—മുകുന്ദപുരം ലോക്സഭാ മണ്ഡലത്തിൽപ്പെട്ട മറ്റു്
+ആറിടത്തും ഐക്യമുന്നണി സ്ഥാനാർഥി മുന്നേറിയപ്പോൾ കൊടുങ്ങല്ലൂരിൽ മാത്രം ഇടതുമുന്നണി സ്ഥാനാർഥി
+<ref target="https://en.wikipedia.org/wiki/M._M._Lawrence">എം. എം.
+ലോറൻസ്</ref> ആയിരത്തിൽപരം വോട്ടിനു് ലീഡ് ചെയ്തു. 1987-ൽ സി. പി. ഐ. ഉയിർത്തെഴുന്നേറ്റു
+സംസ്ഥാനത്തു് 25 സീറ്റിൽ മൽസരിച്ചതിൽ 16-ഉം വിജയിച്ചു. തൃശൂർ ജില്ലയിൽ കൊടുങ്ങല്ലൂരും ചേർപ്പും
+നിലനിർത്തി. <ref target="https://ml.wikipedia.org/wiki/Krishnan_Kaniyamparambil">കൃഷ്ണൻ
+കണിയാംപറമ്പിൽ</ref> എന്ന യുവ പോരാളി നാട്ടിക സീറ്റ് തിരിച്ചുപിടിച്ചു. ചേർപ്പിൽനിന്നു് ജയിച്ച <ref target="https://ml.wikipedia.org/wiki/V.V._Raghavan">വി. വി. രാഘവൻ</ref>
+മന്ത്രിയായി മികച്ച ഭരണാധികാരിയെന്നു് പേരെടുത്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 1987-ൽ തന്നെയാണു് <ref target="https://en.wikipedia.org/wiki/Meenakshi_Thampan">മീനാക്ഷി
+തമ്പാന്റെ</ref> അരങ്ങേറ്റം. ഏറെക്കാലം ചിറ്റൂർ എം. എൽ. എ.-യും പിന്നീട് രാജ്യസഭാംഗവുമായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/P._Balachandra_Menon">പി.
+ബാലചന്ദ്രമേനോന്റെ</ref> മരുമകൾ, കമ്യൂണിസ്റ്റുകാരനായ അഡ്വ. കെ. ആർ. തമ്പാന്റെ ഭാര്യ;
+ഇരിങ്ങാലക്കുട സെന്റ് ജോസഫ്സ് കോളേജിലെ ഇംഗ്ലീഷ് അധ്യാപിക ജൂലിയസ് സീസറും
+ഹാംലെറ്റുമെന്നപോലെ മാർക്സിസം-ലെനിനിസവും മനഃപാഠമാണു് മീനാക്ഷി ടീച്ചർക്കു്. മഹിളാ സംഘത്തിലും
+കമ്യൂണിസ്റ്റ് പാർട്ടിയിലും ദീർഘകാലം പ്രവർത്തിച്ച പരിചയവുമുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">കെ. ആർ.
+
+ഗൗരിയമ്മ</ref> ക്കുശേഷം കേരളംകണ്ട ഏറ്റവും മികച്ച വനിതാ നേതാവാണു് <ref target="https://en.wikipedia.org/wiki/Meenakshi_Thampan">മീനാക്ഷി
+തമ്പാൻ</ref>. തന്റേടവും താൻപോരിമയും സമാസമം. വാഗ്വിലാസം വേണ്ടുവോളം. നാലാള് കൂടുന്നിടത്തു്
+നിവർന്നേ നിൽക്കൂ. ഞായം പറയുമ്പോൾ നാവു് കോടില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PS_Sreenivasan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. എസ്. ശ്രീനിവാസൻ</figDesc>
+          </figure>
+          <p> തങ്കമണി സംഭവത്തിന്റെ പശ്ചാത്തലത്തിൽ സ്ത്രീ വോട്ടുകളിൽ കണ്ണുനട്ടാണു് മാളയിൽ മീനാക്ഷി തമ്പാനെ
+അങ്കത്തിനിറക്കിയതു്. ആറ്റുംമണമേലെ ഉണ്ണിയാർച്ചയെപ്പോലെ അവർ അടരാടുകയും ചെയ്തു. പക്ഷേ, ആനയെ
+മയക്കുന്ന അരിങ്ങോടരാണു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+ചേകവർ. ഇരിങ്ങാലക്കുട കോളേജിലെ മലയാളം അധ്യാപികയായ <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണൻ</ref> മുതൽ തങ്കമണിയിൽ വെടിയേറ്റു് മരിച്ച കോഴിമല അവറാച്ചന്റെ ഭാര്യവരെ ലീഡർക്കുവേണ്ടി
+വോട്ടുപിടിക്കാനെത്തി. 6292 വോട്ടിന്റെ ഭൂരിപക്ഷത്തോടെ കരുണാകർജി അങ്കം ജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Indira_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദിരാഗാന്ധി</figDesc>
+          </figure>
+          <p> 1989-ലെ ലോക്സഭാ തെരഞ്ഞെടുപ്പിൽ തൃശൂർ സീറ്റ് തിരിച്ചുപിടിക്കാനായി മീനാക്ഷി തമ്പാനെ അയച്ചു.
+ഇത്തവണയും പോരാട്ടം പൊടിപാറി. കഷ്ടിച്ചു് ആറായിരം വോട്ടിനു് <ref target="https://en.wikipedia.org/wiki/P._A._Antony">പി. എ. ആന്റണി</ref>
+വിജയിച്ചു. അത്തവണയും സി. പി. ഐ.-ക്കു് സീറ്റൊന്നും കിട്ടിയില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MEENAKSHY_THAMPAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">മീനാക്ഷി തമ്പാൻ</figDesc>
+          </figure>
+          <p> 1991-ൽ പാർട്ടി നേതൃത്വം സുരക്ഷിതമായ കൊടുങ്ങല്ലൂർ സീറ്റുതന്നെ മീനാക്ഷി ടീച്ചർക്കു് കൊടുത്തു.
+മുസ്ലീംലീഗിലെ <ref target="https://ml.wikipedia.org/wiki/T.A._Ahammed_Kabeer">അഹമ്മദ്
+കബീർ</ref> ആയിരുന്നു എതിരാളി. 11,189 വോട്ടിന്റെ ഭൂരിപക്ഷത്തോടെ ടീച്ചർ വിജയിച്ചു. നാട്ടികയിൽ
+കൃഷ്ണനും ചേർപ്പിൽ രാഘവനും വിജയം ആവർത്തിച്ചു. അന്തിക്കാട്ടെ ചെത്തുതൊഴിലാളി നേതാവും
+മുൻമന്ത്രിയുമായ <ref target="https://en.wikipedia.org/wiki/K._P._Prabhakaran">കെ. പി.
+പ്രഭാകരന്റെ</ref> മകൻ <ref target="https://ml.wikipedia.org/wiki/K._P._Rajendran">കെ. പി. രാജേന്ദ്രനാ</ref>
+ണു് അത്തവണ തൃശൂരിൽനിന്നു് പാർലമെന്റിലേക്കു് മൽസരിച്ചു് തോൽക്കാനുള്ള യോഗമുണ്ടായതു്.
+കൊടുങ്ങല്ലൂരിൽനിന്നു് മാളയിലേക്കു് മാറിയ <ref target="https://ml.wikipedia.org/wiki/V.K._Rajan">വി. കെ. രാജൻ</ref>
+മണ്ഡലമാകെ ഇളക്കിമറിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref> മരിച്ച
+സഹതാപ തരംഗമുണ്ടായിട്ടും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+ഭൂരിപക്ഷം 2474-ലേക്കു് കുത്തനെ ഇടിഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_Venu.png" rendition="gra"/>
+            <figDesc style="thumb">കെ. വേണു</figDesc>
+          </figure>
+          <p> 1996-ൽ സി. പി. ഐ. തിളക്കമാർന്ന പ്രകടനം നടത്തി. നിയമസഭയിലെ അംഗസംഖ്യ 12-ൽനിന്നു് 18 ആയി
+ഉയർന്നു. ലോക്സഭയിലേക്കും രണ്ടാളെ അയക്കാൻ കഴിഞ്ഞു. തൃശൂർ ജില്ലയിൽ പാർട്ടി മൽസരിച്ച സീറ്റുകൾ
+അഞ്ചും വിജയിച്ചു. തൃശൂർ ലോക്സഭാ സീറ്റിൽ ഏറെക്കാലത്തിനുശേഷം ചെങ്കൊടി പാറി. സഖാവ് <ref target="https://ml.wikipedia.org/wiki/V.V._Raghavan">വി. വി. രാഘവനോ</ref> ടേറ്റു്
+തൃശൂരങ്ങാടിയിൽ മലർന്നടിച്ചു് വീണതു് കേരള രാഷ്ട്രീയത്തിലെ ഭീഷ്മാചാര്യർ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>.
+ഏഴിൽ അഞ്ചു് മണ്ഡലത്തിലും ലീഡറാണു് ലീഡ് ചെയ്തതു്; പക്ഷേ, നാട്ടികയിലെയും ചേർപ്പിലെയും
+ഭൂരിപക്ഷംകൊണ്ടു് അതു് മറികടന്നു് <ref target="https://ml.wikipedia.org/wiki/V.V._Raghavan">വി. വി. രാഘവൻ</ref>
+ദൽഹിക്കു് വണ്ടികയറി. അടിതെറ്റിയാൽ ലീഡറും വീഴുമെന്നു് അണികൾ അടക്കം പറഞ്ഞു; തന്നെ മുന്നിൽനിന്നും
+പിന്നിൽനിന്നും കുത്തി എന്നു് നേതാവു് വിലപിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mercy_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മേഴ്സി രവി</figDesc>
+          </figure>
+          <p> ജില്ലയിലെ ഗംഭീര വിജയത്തിന്റെ ശിൽപി അന്നത്തെ സി. പി. ഐ. ജില്ലാ കൗൺസിൽ സെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/V.K._Rajan">വി. കെ. രാജനാ</ref> യിരുന്നു.
+കരുണാകരൻ ഒഴിഞ്ഞ മാളയിൽ രാജൻ <ref target="https://ml.wikipedia.org/wiki/Mercy_Ravi">മേഴ്സി രവി</ref> യെ 3241
+വോട്ടിന്റെ വ്യത്യാസത്തിൽ പരാജയപ്പെടുത്തി. ത്രികോണ മൽസരത്തിന്റെ ആനുകൂല്യമുണ്ടായ ഒല്ലൂരിൽ <ref target="https://ml.wikipedia.org/wiki/C.N._Jayadevan">സി. എൻ. ജയദേവൻ</ref>
+ജയിച്ചു. ചേർപ്പിൽ <ref target="https://ml.wikipedia.org/wiki/K._P._Rajendran">കെ. പി. രാജേന്ദ്രനും</ref>
+അനായാസം വിജയിച്ചു. 60 ശതമാനം ഈഴവരുള്ള നാട്ടികയിൽ എസ്. എൻ. ഡി. പി. യോഗം പ്രസിഡന്റു്
+ഡോ. കെ. കെ. രാഹുലൻ ദയനീയമാംവിധം പരാജയപ്പെട്ടു. സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Krishnan_Kaniyamparambil">കൃഷ്ണൻ
+കണിയാംപറമ്പിലി</ref> ന്റെ ഭൂരിപക്ഷം 9691.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Veliyam_Bhargavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെളിയം ഭാർഗവൻ</figDesc>
+          </figure>
+          <p> വിപ്ലവത്തിന്റെ ദാർശനിക പ്രശ്നങ്ങൾ അപഗ്രഥിച്ചും കമ്യൂണിസ്റ്റുകാരന്റെ ജനാധിപത്യ സങ്കൽപം
+വിശദീകരിച്ചും <ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരിയമ്മ</ref> യുടെ ജെ.
+എസ്. എസിലെത്തിയ മുൻ നക്സലൈറ്റ് <ref target="https://ml.wikipedia.org/wiki/K._Venu">കെ. വേണു</ref> വുമായിരുന്നു
+കൊടുങ്ങല്ലൂരിൽ അത്തവണ മീനാക്ഷി തമ്പാനെ എതിരിട്ടതു്. കൊടുങ്ങല്ലൂർക്കാരുടെ ജനാധിപത്യ സങ്കൽപം
+വേണുവിന്റേതുമായി പൊരുത്തപ്പെടാത്തതുകൊണ്ടോ എന്തോ ടീച്ചർ പാട്ടുംപാടി ജയിച്ചു. ഭൂരിപക്ഷം 14,109.
+കൊടുങ്ങല്ലൂരിന്റെ ചരിത്രത്തിലെ ഏറ്റവും വലിയ ഭൂരിപക്ഷം, തൃശൂർ ജില്ലയിലെ 1996-ലെ ഏറ്റവും ഉയർന്ന
+ഭൂരിപക്ഷവും. മുകുന്ദപുരം പാർലമെന്റ് സീറ്റിൽ മൽസരിച്ച മാർക്സിസ്റ്റ് സ്ഥാനാർഥി ലിസ്റ്റിൽനിന്നു് പുറത്തുപോകും;
+നാട്ടികയിൽ കെ. ജി. ശിവാനന്ദനും കൊടുങ്ങല്ലൂരിൽ എൻ. വേലപ്പനും സാധ്യത തെളിയും കൊടുങ്ങല്ലൂരിൽ
+വി. കെ. ഗോപിയുടെ പേരും ശക്തമായി കേട്ടിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KC_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. പിള്ള</figDesc>
+          </figure>
+          <p> എനിക്കുശേഷം പ്രളയം എന്ന സനാതന സിദ്ധാന്തം ഉരുക്കഴിക്കുന്ന സഖാക്കളും ഏറെയുണ്ടു് ഈ നാട്ടിൽ.
+പീരുമേട്ടിൽ 1977 മുതൽ തുടർച്ചയായി മൽസരിക്കുന്ന <ref target="https://ml.wikipedia.org/wiki/C.A._Kurian">സി. എ. കുര്യനോ</ref> 1982
+മുതൽ പട്ടാമ്പിയിൽ നിൽക്കുന്ന <ref target="https://en.wikipedia.org/wiki/K._E._Ismail">കെ. ഇ. ഇസ്മയിലോ</ref>
+നാട്ടിക മണ്ഡലം 1987 മുതൽക്കു് അട്ടിപ്പേറാക്കിയ കൃഷ്ണനോ ചുമ്മാതങ്ങനെ ഒഴിയുമോ? വിജയസാധ്യത എന്ന
+ഉമ്മാക്കികാട്ടി മൂപ്പന്മാർ മൂന്നാളും <ref target="https://ml.wikipedia.org/wiki/Veliyam_Bharghavan">വെളിയം
+ഭാർഗവനെ</ref> ബന്ദിയാക്കി. കുര്യച്ചനും കെ. ഇ.-ക്കും കൃഷ്ണനുമാകാമെങ്കിൽ ഞങ്ങൾക്കുമാകാമല്ലോ എന്ന
+ഞായം പറഞ്ഞു് <ref target="https://en.wikipedia.org/wiki/K._Prakash_Babu">പ്രകാശ് ബാബു</ref> വും
+<ref target="https://en.wikipedia.org/wiki/Meenakshi_Thampan">മീനാക്ഷി
+തമ്പാനും</ref> <ref target="https://ml.wikipedia.org/wiki/P._Raju">പി.
+രാജു</ref> വും രംഗത്തിറങ്ങി. നാദാപുരത്തെ സത്യനും വാഴൂരെ രാജേന്ദ്രനും മാത്രമേ സീറ്റ് പോയുള്ളൂ. <ref target="https://ml.wikipedia.org/wiki/E._Chandrasekharan_Nair">ഇ. ചന്ദ്രശേഖരൻ
+നായർ</ref> ഒഴിഞ്ഞ കരുനാഗപ്പള്ളിയിൽ യുവപോരാളികളായ <ref target="https://ml.wikipedia.org/wiki/Mullakkara_Ratnakaran">മുല്ലക്കര
+രത്നാകരനെ</ref> യും <ref target="https://ml.wikipedia.org/wiki/Sony_B._Thengamam">സോണി ബി.
+തെങ്ങമ</ref> ത്തെയും തള്ളിമാറ്റി കൊല്ലം ജില്ലാ സെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/K.C._Pillai">കെ. സി. പിള്ള</ref>
+സ്ഥാനാർഥിയായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KR_Gouriamma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗൗരിയമ്മ</figDesc>
+          </figure>
+          <p> യു. ഡി. എഫ്., വിജയസാധ്യത തീരെയില്ലാത്ത സീറ്റുകളാണല്ലോ, ജെ. എസ്. എസിനും സി. എം. പി.-ക്കും
+കൊടുക്കുക? അങ്ങനെ ചേർപ്പ് സി. എം. പി.-ക്കു കിട്ടി. കൊടുങ്ങല്ലൂർ വീണ്ടും ജെ. എസ്. എസിനും വലിയ
+തെരച്ചിലിനുശേഷമാണു് <ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരിയമ്മ</ref>
+ഉമേഷിനെ കണ്ടെത്തിയതു്. എസ്. എൻ. ഡി. പി. യോഗത്തിന്റെ കൊടുങ്ങല്ലൂർ യൂനിയൻ പ്രസിഡന്റും
+ബാറുടമയുമായ ഉമേഷിനു് വീരശ്രീ <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശ</ref> ന്റെ അനുഗ്രഹാശിസ്സുകളുമുണ്ടായിരുന്നു. ശ്രീനാരായണ ധർമപരിപാലനത്തോടെന്നപോലെ
+ജനാധിപത്യ സംരക്ഷണത്തോടും കള്ളു് കച്ചവടക്കാർക്കുള്ള പ്രതിബദ്ധത പ്രസിദ്ധമാണല്ലോ. ഉമേഷിന്റെ
+പിതാവു് ചള്ളിയിൽ കൃഷ്ണനാണു് കൊടുങ്ങല്ലൂർ കൊട്ടാരം വിലയ്ക്കു് വാങ്ങി സ്ഥലത്തെ ആദ്യത്തെ ബാർ ഹോട്ടൽ
+തുടങ്ങിയതു്. (കാട്ടുകുതിര?) 1977-ൽ എസ്. ആർ. പി സ്ഥനാർഥിയായി കൊടുങ്ങല്ലൂരിൽ മൽസരിച്ചു് ജാമ്യസംഖ്യ
+ഖജനാവിലേക്കു് മുതൽകൂട്ടിയയാളുമാണു് കൃഷ്ണൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CK_CHANDRAPPAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കെ. ചന്ദ്രപ്പൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/V.K._Rajan">വി. കെ.
+രാജന്റെ</ref> സ്വപ്നങ്ങൾസഫലീകരിക്കാൻ തന്നെ വിജയിപ്പിക്കണമെന്നായി ഉമേഷ്. ഏതാനും
+സി. പി. ഐ.ക്കാരടക്കം ഒരു വിഭാഗം ഇടതുപക്ഷക്കാർ ഉമേഷിനു് പിന്തുണ നൽകി. മണ്ഡലത്തിലാകമാനം
+അതിശക്തമായ ജാതിവികാരം ആളിക്കത്തിക്കാനും ജനാധിപത്യസംരക്ഷണക്കാർ മറന്നില്ല. കോൺഗ്രസുകാർ
+
+പതിവുപോലെ നിസ്സംഗരായി നിലകൊണ്ടപ്പോൾ ഐക്യമുന്നണിയുടെ പ്രചാരണ ദൗത്യം പി. ഡി. പി.
+ഏറ്റെടുത്തു. നാദാപുരത്തെ ലഹളയുടെ വിശദാംശങ്ങൾ വീടുവീടാന്തരം കയറി വർണിച്ചുപറഞ്ഞു് മുസ്ലീം വോട്ടുകൾ
+ഉമേഷിനു് ഉറപ്പാക്കി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Madambu.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാടമ്പ് കുഞ്ഞുകുട്ടൻ</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി. സ്ഥാനാർഥി <ref target="https://ml.wikipedia.org/wiki/Madampu_Kunjukuttan">മാടമ്പ്
+കുഞ്ഞുകുട്ടൻ</ref> ശക്തമായി രംഗത്തിറങ്ങിയതോടെ അന്യഥാ <ref target="https://en.wikipedia.org/wiki/Meenakshi_Thampan">മീനാക്ഷിതമ്പാനു്</ref>
+കിട്ടാവുന്ന സവർണ ഹിന്ദുവോട്ടുകൾ വിഭജിക്കപ്പെടുമെന്നു് ഉറപ്പായി. യഥാക്രമം കോട്ടപ്പുറം, ഇരിങ്ങാലക്കുട
+രൂപതക്കാരായ ലത്തീൻ, സിറിയൻ ക്രിസ്ത്യാനികൾ പണ്ടേ കമ്യൂണിസ്റ്റ് വിരുദ്ധരാണു്. തൊട്ടടുത്ത
+വടക്കേക്കരയിൽ <ref target="https://en.wikipedia.org/wiki/P._Rajeeve">പി.
+രാജീവും</ref> ഇരിങ്ങാലക്കുടയിൽ <ref target="https://en.wikipedia.org/wiki/T._Sasitharan">ടി. ശശിധരനും</ref>
+സ്ഥാനാർത്ഥികളായി വന്നതുകൊണ്ടു് എസ്. എഫ്. ഐ. ഡി. വൈ. എഫ്. ഐ പ്രവർത്തകർ, കൊടുങ്ങല്ലൂർ, മാള
+മണ്ഡലങ്ങളിൽനിന്നു് പ്രവഹിച്ചതു് സി. പി. ഐ. സ്ഥാനാർഥികളെ ബാധിച്ചു. പ്രചാരണത്തിന്റെ അവസാന
+ഘട്ടമെത്തുമ്പോഴേക്കും ധനദൗർലഭ്യം പ്രശ്നമായി. വോട്ടെടുപ്പിന്റെയന്നു് പുലർച്ചെ ചാലക്കുടി ഒഴികെ ജില്ലയിലെ
+13 മണ്ഡലങ്ങളിലും ബി. ജെ. പി.-ക്കാർ തിരിഞ്ഞു. അനുഭാവികളുടെ വോട്ട് താമരക്കു്, പ്രവർത്തകരുടേതു്
+യു. ഡി. എഫിനു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_Rajeev.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. രാജീവ്</figDesc>
+          </figure>
+          <p> വോട്ടെണ്ണിത്തീർന്നപ്പോൾ ചേർപ്പും ചേലക്കരയുമൊഴികെ 12 മണ്ഡലത്തിലും ഐക്യമുന്നണി വിജയിച്ചു.
+കുന്നംകുളത്തുനിന്നു് <ref target="https://ml.wikipedia.org/wiki/N.R._Balan">എൻ. ആർ. ബാലനെ</ref>
+മണലൂർക്കും ഇരിങ്ങാലക്കുടയിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/Lonappan_Nambadan">ലോനപ്പൻ
+നമ്പാടനെ</ref> കൊടകരക്കും മാറ്റിയ മാർക്സിസ്റ്റ് തന്ത്രം പാടെ പാളി. കുന്നംകുളവും ഇരിങ്ങാലക്കുടയും
+നഷ്ടപ്പെട്ടു. കൊടകരയോ മണലൂരോ കിട്ടിയതുമില്ല.
+</p>
+          <p>കൊടുങ്ങല്ലൂരിൽ <ref target="https://en.wikipedia.org/wiki/Meenakshi_Thampan">മീനാക്ഷി തമ്പാൻ</ref>
+11,914 വോട്ടിനു് തോറ്റു. പരാജയത്തിന്റെ മുഖ്യശിൽപി <ref target="https://ml.wikipedia.org/wiki/Krishnan_Kaniyamparambil">കൃഷ്ണൻ
+കണിയാംപറമ്പിൽ</ref> നാട്ടികയിൽ 11770 വോട്ടിനും യു. എസ്. ശശി മാളയിൽ 11981 വോട്ടിനും <ref target="https://ml.wikipedia.org/wiki/C.N._Jayadevan">സി. എൻ. ജയദേവൻ</ref>
+ഒല്ലൂരിൽ 10698 വോട്ടിനും തോറ്റു് നേതാക്കളോടു് ഐക്യദാർഢ്യം പ്രകടിപ്പിച്ചു. ചേർപ്പിൽ <ref target="https://ml.wikipedia.org/wiki/K._P._Rajendran">കെ. പി. രാജേന്ദ്രൻ</ref>
+2243 വോട്ടിനു് ജയിച്ചതാണു് സി. പി. ഐ.-യുടെ ആശ്വാസ ഗോൾ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KP_RAJENDRAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. പി. രാജേന്ദ്രൻ</figDesc>
+          </figure>
+          <p> തൃശൂരിന്റെ തനിയാവർത്തനമായിരുന്നു കൊല്ലം ജില്ലയിൽ. വിഷമദ്യ ദുരന്തവും എസ്. എൻ. കോളേജ്
+
+സമരവും ശ്രീനാരായണ പ്രതിമാധ്വംസനവും ഇടതുമുന്നണിയെ വേട്ടയാടി. ആർ. എസ്. പി.-യിലെ പിളർപ്പു്
+മുന്നണിയുടെ ബഹുജനാടിത്തറയെ ബാധിച്ചു. സി. പി. ഐ.-യുടെ കൈവശമുണ്ടായിരുന്ന അഞ്ചു് സീറ്റുകളിൽ
+പുനലൂരൊഴികെ നാലും നഷ്ടപ്പെട്ടു. കരുനാഗപ്പള്ളിയിൽ കൊടുങ്ങല്ലൂർ ആവർത്തിച്ചു. കഴിഞ്ഞതവണ 16350
+വോട്ടിനു് <ref target="https://ml.wikipedia.org/wiki/E._Chandrasekharan_Nair">ചന്ദ്രശേഖരൻ
+നായർ</ref> ജയിച്ച കരുനാഗപ്പള്ളിയിൽ ഇത്തവണ ജനാധിപത്യ സംരക്ഷണ സമിതി നേതാവും
+വെള്ളാപ്പള്ളിയുടെ നിയമോപദേഷ്ടാവുമായ <ref target="https://ml.wikipedia.org/wiki/A.N._Rajan_Babu">എ. എൻ.
+രാജൻബാബു</ref> വിജയിച്ചു. നല്ലൊരു പാർലമെന്റേറിയനെന്നു് പേരെടുത്ത പ്രകാശ്ബാബു പത്തനാപുരത്തു്
+സിനിമാനടന്റെ ഗ്ലാമറിനു മുമ്പിൽ നിഷ്പ്രഭനായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lonappan_Nambadan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലോനപ്പൻ നമ്പാടൻ</figDesc>
+          </figure>
+          <p> വൈക്കത്തു് <ref target="https://ml.wikipedia.org/wiki/P._Narayanan">പി.
+നാരായണൻ</ref> വിജയിച്ചതൊഴിച്ചാൽ മധ്യകേരളത്തിൽ സി. പി. ഐ. പച്ച തൊട്ടില്ല. പറവൂരിൽ മാർക്സിസ്റ്റ്
+പാർട്ടിയിലെ ഗ്രൂപ്പ് വഴക്കാണു് <ref target="https://ml.wikipedia.org/wiki/P._Raju">പി.
+രാജു</ref> വിന്റെ കുഴിതോണ്ടിയതു്. പീരുമേട്ടിൽ ഇ. എം. ആഗസ്തി എതിരാളിയായി വന്നപ്പോൾതന്നെ <ref target="https://ml.wikipedia.org/wiki/C.A._Kurian">സി. എ. കുര്യന്റെ</ref>
+പരാജയം സുനിശ്ചിതമായിരുന്നു. (അതുകൊണ്ടു് ഉടുമ്പൻചോലയിൽ സി. പി. എം. വിജയിച്ചു) വാഴൂരിൽ <ref target="https://ml.wikipedia.org/wiki/Kanam_Rajendran">കാനം രാജേന്ദ്രനു</ref>
+പകരം പ്രൊഫ. തുളസീദാസിനെ സ്ഥാനാർഥിയാക്കിയിട്ടും ഒരദ്ഭുതവും സംഭവിച്ചില്ല. <ref target="https://ml.wikipedia.org/wiki/K._Narayana_Kurup">കെ.
+നാരായണക്കുറുപ്പി</ref> ന്റെ ഭൂരിപക്ഷം ഇരട്ടിച്ചതല്ലാതെ. ചേർത്തലയിൽ <ref target="https://ml.wikipedia.org/wiki/C._K._Chandrappan">സി. കെ.
+ചന്ദ്രപ്പൻ</ref> കിണഞ്ഞു് പരിശ്രമിച്ചിട്ടും <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ ഭൂരിപക്ഷം
+കുറക്കാനല്ലാതെ തോൽപിക്കാൻ കഴിഞ്ഞില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KE_ISMAIL.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ഇ. ഇസ്മയിൽ</figDesc>
+          </figure>
+          <p> സ്മരണകളിരമ്പുന്ന രണസ്മാരകങ്ങളുടെ നാട്ടിൽ സി. പി. ഐ.-ക്കു് അതിഭയങ്കരമായ ഒരു
+ചളിപ്പുകൂടിയുണ്ടായി. വ്യാപാരി സംഘടനയുടെ മുൻ ഭാരവാഹിയായ ഒരു അബ്ദുൽറഹീമിനെ സ്വതന്ത്രവേഷം
+കെട്ടിച്ചു് രംഗത്തിറക്കിയതു കണ്ടു് വലിയ ചുടുകാട്ടിൽ അന്ത്യവിശ്രമം കൊള്ളുന്ന പുന്നപ്ര വയലാർ
+രക്തസാക്ഷികളും <ref target="https://ml.wikipedia.org/wiki/R._Sugathan">ആർ.
+സുഗതനും</ref> ഞെളിപിരി കൊണ്ടിട്ടുണ്ടാകും. ആലപ്പുഴയിൽ അരിവാൾ ധാന്യക്കതിർ അടയാളത്തിൽ
+മൽസരിക്കാൻ ആളില്ലാതായിരിക്കുന്നു! തിരൂരങ്ങാടിയിൽ അബ്ദുഹാജിയെ സ്വതന്ത്രനാക്കി നിർത്തുന്നതും
+ആലപ്പുഴയിൽ അബ്ദുൽറഹീമിനെ നിർത്തുന്നതും തമ്മിലുള്ള വ്യത്യാസം നേതാക്കൾക്കു് ഇനിയെങ്കിലും
+മനസ്സിലാകുമോ എന്തോ? തിരൂരങ്ങാടിയിൽ ഹാജി തോറ്റതു് 19173 വോട്ടിനു്, ആലപ്പുഴയിൽ റഹീം തോറ്റതു്
+19163-നും. വ്യത്യാസം 10 വോട്ടിന്റെ മാത്രം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Sugathan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. സുഗതൻ</figDesc>
+          </figure>
+          <p> മണിച്ചന്റെ മാസപ്പടി ബുക്കിൽ പേരു വന്ന <ref target="https://ml.wikipedia.org/wiki/Bhargavi_Thankappan">ഭാർഗവി
+
+തങ്കപ്പ</ref> നെ ഒഴിവാക്കിയതുകൊണ്ട് കിളിമാനൂർ നഷ്ടപ്പെട്ടില്ല. ഭൂരിപക്ഷം കുറഞ്ഞെങ്കിലും <ref target="https://en.wikipedia.org/wiki/N._Rajan">എൻ. രാജൻ</ref> വിജയിച്ചു.
+കഴിഞ്ഞ രണ്ടുതവണയായി (1991, 96) നഷ്ടപ്പെട്ട നെടുമങ്ങാടു് മാങ്കോട് രാധാകൃഷ്ണൻ 156 വോട്ടിന്റെ
+ഭൂരിപക്ഷത്തിലാണെങ്കിലും തിരിച്ചുപിടിച്ചു.
+</p>
+          <p>അത്യുത്തര കേരളത്തിൽ കമ്യൂണിസ്റ്റ് പാർട്ടി തീരെ മോശമായില്ല. ഹോസ്ദുർഗിൽ <ref target="https://ml.wikipedia.org/wiki/M._Kumaran">എം. കുമാരനും</ref> നാദാപുരത്തു്
+<ref target="https://ml.wikipedia.org/wiki/Benoy_Viswam">ബിനോയ്വിശ്വ</ref>
+വും വിജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Binoy_vishwam.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബിനോയ്വിശ്വം</figDesc>
+          </figure>
+          <p> പാലക്കാട് ജില്ലയിൽ പക്ഷേ, മുഞ്ഞബാധയുണ്ടായി. മണ്ണാർക്കാട്ട് <ref target="https://en.wikipedia.org/wiki/Jose_Baby">ജോസ് ബേബി</ref> യും
+പട്ടാമ്പിയിൽ <ref target="https://en.wikipedia.org/wiki/K._E._Ismail">കെ. ഇ.
+ഇസ്മയിലും</ref> കടപുഴകി. ഇസ്മയിലിന്റെ ജയം സുനിശ്ചിതമാണെന്നാണു് മലയാള മനോരമ പോലും
+പ്രവചിച്ചതു്. <ref target="https://ml.wikipedia.org/wiki/A.V._Gopinath">എ. വി.
+ഗോപിനാഥ്</ref> കോൺഗ്രസ് ടിക്കറ്റ് കിട്ടിയിട്ടും മൽസരിക്കാഞ്ഞതും സഖാവിനു് പ്രത്യാശ നൽകി. പേര്യ
+വനംകൊള്ളയെപ്പറ്റിയുള്ള ആരോപണമാണോ കൃഷിഭൂമിക്കു് പകരം തരിശു് ഭൂമി കിട്ടിയ ആദിവാസികളുടെ
+ശാപമാണോ മന്ത്രിപുംഗവന്റെ അടിതെറ്റിച്ചതു്?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CAKURIAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എ. കുര്യൻ</figDesc>
+          </figure>
+          <p> ഏത് നിലക്കും സി. പി. ഐ.-ക്കാർക്കു് ആശ്വാസത്തിനു് വകയുണ്ടു്. രണ്ടിലേറെ തവണ ആരെയും
+എം. എൽ. എ. ആക്കരുതെന്ന നയത്തിൽനിന്നു് നേതൃത്വം പിന്നാക്കം പോയെങ്കിലും ജനം ആ പരിപാടിയെ
+സർവാത്മനാ അംഗീകരിച്ചിരിക്കുന്നു. മൂന്നാം വട്ടമോ അതിൽക്കൂടുതലോ മൽസരിച്ച ഒറ്റ സി. പി. ഐ.-ക്കാരനും
+വിജയിച്ചിട്ടില്ല. ഇത്തവണത്തെ എം. എൽ. എ.-മാരിൽ <ref target="https://ml.wikipedia.org/wiki/M._Kumaran">എം. കുമാരനും</ref> <ref target="https://ml.wikipedia.org/wiki/Benoy_Viswam">ബിനോയ്വിശ്വവും</ref>
+മാങ്കോട് രാധാകൃഷ്ണനും കന്നിക്കാരാണു്, മറ്റു് നാലുപേരും രണ്ടാംതവണക്കാരും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_Kumaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കുമാരൻ</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് ഫലം സഖാക്കൾ കൂലംകഷമായി പഠിക്കുമെന്നും പരാജയകാരണങ്ങൾ കണ്ടുപിടിച്ചു്
+പരിഹരിക്കുമെന്നും ഉറപ്പാണു്. നവയുഗത്തിന്റെ 2001 മെയ് 15-ന്റെ ലക്കത്തിൽ <ref target="https://ml.wikipedia.org/wiki/P._K._Vasudevan_Nair">പി. കെ.
+വാസുദേവൻനായർ</ref> പേരു് വെച്ചെഴുതിയ എഡിറ്റോറിയൽ വായിപ്പിൻ: “എൽ. ഡി. എഫ്. മൊത്തമായും
+ഘടകകക്ഷികൾ വെവ്വേറെയും ഗൗരവപൂർവം തെരഞ്ഞെടുപ്പു് ഫലങ്ങൾ സ്വയംവിമർശപരമായി വിശകലനം
+ചെയ്യുമല്ലോ? വെളിച്ചം ഉള്ളിലേക്കു് വീശിയുള്ള പരിശോധന ആവശ്യമാണു്. കഴിഞ്ഞ അഞ്ചുവർഷത്തിനുള്ളിൽ
+കൂടുതൽ ജനങ്ങളുടെ പിന്തുണ ആർജിക്കാൻ എന്തുകൊണ്ടു് കഴിഞ്ഞില്ലെന്നും പ്രതിയോഗിക്കു് സഖ്യശക്തികളെ
+തട്ടിക്കൂട്ടാൻ അനുകൂലമായ കാലാവസ്ഥക്കു് കാരണമെന്തെന്നും അന്വേഷിക്കേണ്ടതുണ്ടു്. കമ്യൂണിസ്റ്റ് പാർട്ടി
+സ്വന്തമായി മേൽപ്പറഞ്ഞ പരിശോധന എല്ലാം നടത്തുന്നതാണു്.”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mullakkara_Retnakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുല്ലക്കര രത്നാകരൻ</figDesc>
+          </figure>
+          <p>പ്രതികൂല സാഹചര്യങ്ങളിലും സഖാവു് പ്രത്യാശാഭരിതനാണു്. മുഖപ്രസംഗം ഇങ്ങനെ അവസാനിക്കുന്നു:
+“വളരെ പ്രതികൂലമായ സാഹചര്യങ്ങളിലാണു് പാർട്ടി കേരളത്തിൽ പ്രവർത്തിക്കേണ്ടതു്. എന്നാൽ ഇത്തരം
+പരീക്ഷണം പാർട്ടിക്കു് പുതിയതല്ല. നമ്മുടെ പ്രസ്ഥാനം ധാരാളം പരീക്ഷണങ്ങൾ അതിജീവിച്ചിട്ടുണ്ടു്.
+ജനങ്ങളുമായുള്ള ബന്ധം കൂടുതൽ കൂടുതൽ വ്യാപകവും ദൃഢതരവുമാക്കണം. നയപരിപാടികളിലും
+ആദർശങ്ങളിലും ഉറച്ചുനിൽക്കണം. കേരളത്തിന്റെ സമഗ്ര വികസനമെന്ന ലക്ഷ്യത്തിനുവേണ്ടി പോരാട്ടം
+തുടരണം. വർഗീയ ഫാഷിസ്റ്റ് ശക്തികൾ മുഖ്യ വെല്ലുവിളി ഉയർത്തുമ്പോൾ എന്തുവില കൊടുത്തും ദേശീയ
+ഐക്യത്തിനും മതസൗഹാർദത്തിനും വേണ്ടി പോരാടണം. ഇത്തരം പ്രവർത്തനങ്ങളിൽ കൂടിയാണു് ഇന്നത്തെ
+പ്രതികൂല സാഹചര്യത്തെ അനുകൂലമാക്കി മാറ്റേണ്ടതു്. സഖാക്കളേ, മുന്നോട്ടു്!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kodungalloorinte Phalasruthi (ml:
+കൊടുങ്ങല്ലൂരിന്റെ ഫലശ്രുതി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Kodungalloorinte Phalasruthi, കെ. രാജേശ്വരി, കൊടുങ്ങല്ലൂരിന്റെ ഫലശ്രുതി, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 27, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Diplodocus_cknight.jpg">Diplodocus,</ref>
+a painting by Charles Knight  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-phala.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-phala.pdf">Download Phone
+
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

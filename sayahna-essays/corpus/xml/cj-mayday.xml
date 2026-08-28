@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മെയ് ദിനം</title>
+          <title xml:lang="en" type="main">May Dinam</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 11, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മെയ് ദിനം</title>
+              <title xml:lang="en" type="main">May Dinam</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-04-21</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>May Dinam</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>മെയ് ദിനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-04-21</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Donna_operaia_in_industria_bellica.jpg" width="100%"/>
+          <figDesc>Woman at work in a military factory, a photograph by <ref target="https://en.wikipedia.org/wiki/Rembrandt">Rembrandt</ref>
+ (1606–1669). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മെയ് ദിനം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മേയ് ദിനം</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Churchill.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചർച്ചിൽ</figDesc>
+          </figure>
+          <p style="noindent"> ഇതു ചരിത്രത്തിലെ സുപ്രധാനമായ ഒരു പ്രതിസന്ധിഘട്ടമാണു്.
+ലോകത്തിലെഴുതപ്പെട്ടിട്ടുള്ള സകല രാഷ്ട്രീയലേഖനങ്ങളുടെയും ആദ്യത്തെ വാചകമാണീ പല്ലവി
+എന്നറിഞ്ഞുകൊണ്ടുതന്നെയാണു് അതിവിടെ ആവർത്തിക്കുന്നതു്. <ref target="https://en.wikipedia.org/wiki/World_War_II">രണ്ടാംലോകമഹായുദ്ധത്തിനു</ref>
+ശേഷം മൂക്കിനു മുമ്പിൽ ഒരടിയെങ്കിലും മുന്നോട്ടുകാണാൻ യാതൊരു രാഷ്ട്രീയപ്രസ്ഥാനത്തിനും
+കഴിഞ്ഞിട്ടില്ലെന്നുള്ളതു് ഒരുപരമാർത്ഥമാണു്. അതിനുദാഹരണങ്ങളാണു് <ref target="https://en.wikipedia.org/wiki/United_States_in_the_Korean_War">കൊറിയയിൽ
+അമേരിക്ക തലയിട്ടതും</ref>, <ref target="https://en.wikipedia.org/wiki/Berlin_Crisis_of_1961">ബർലിൻ
+കുഴപ്പവും</ref>, യുഗോസ്ലോവിയൻ പ്രശ്നവും, പേർഷ്യയിലെ എണ്ണത്തർക്കവും, <ref target="https://en.wikipedia.org/wiki/North_Atlantic_Treaty">അറ്റ്ലാന്റിക്
+സന്ധിയും</ref> മറ്റും. ഇൻഡ്യൻ കമ്മ്യൂണിസ്റ്റ് പാർട്ടിയുടെ <ref target="https://ml.wikipedia.org/wiki/Calcutta_Thesis">കൽക്കട്ടാപ്രമേയവും</ref>
+അങ്ങനെതന്നെ ജന്മമെടുത്ത വിശ്വാമിത്രസൃഷ്ടിയാണു്. യുദ്ധത്തിലെ വിജയത്തിനുവേണ്ടി അമേരിക്കയും ബ്രിട്ടനും
+സോവിയറ്റിന്റെ ചേരിയിൽ ചേർന്നു. പക്ഷേ, മൗലികമായ ലക്ഷ്യവൈരുദ്ധ്യം നിലനിൽക്കുന്നിടത്തോളം കാലം
+ആ സഖ്യം നിലനിൽക്കുവാൻ നിവൃത്തിയുണ്ടായിരുന്നില്ല. യുദ്ധത്തിനിടയ്ക്കുതന്നെ അവർ പരസ്പരം
+അവിശ്വസിക്കുകയും ദ്രോഹിക്കുകയും ചെയ്തു. സോവിയറ്റു യൂണിയനെ കഴിയുന്നത്ര ബലഹീനമാക്കുവാൻ വേണ്ടി
+<ref target="https://en.wikipedia.org/wiki/Winston_Churchill">ചർച്ചിൽ</ref>
+രണ്ടാം സമരമുഖം അപകടകരമാംവണ്ണം നീട്ടിക്കൊണ്ടുപോയി. സോവിയറ്റു യൂണിയനാകട്ടെ അക്കാലത്തുതന്നെ
+മുതലാളിത്തരാഷ്ട്രങ്ങളിൽ വിപ്ലവത്തിന്റെ സന്ദേശം പ്രചരിപ്പിച്ചു. യുദ്ധത്തിന്റെ അവസാനത്തോടുകൂടി
+പൊതുശത്രുവായ ജർമ്മനിയുടെയും ജപ്പാന്റെയും ഭീഷണി അവസാനിച്ചു. മദ്ധ്യസ്ഥന്റെ തൊഴിൽ നോക്കിയിരുന്ന
+<ref target="https://en.wikipedia.org/wiki/Franklin_D._Roosevelt">റൂസ്
+വെൽറ്റ്</ref> മരിക്കുകയും ചെയ്തു. അതുവരെ ചിറകെട്ടി നിറുത്തിയിരുന്ന വിദ്വേഷവും വൈരുദ്ധ്യവും
+അണപൊട്ടി ഒഴുകാൻ തുടങ്ങി. യുദ്ധം ചെയ്യുവാൻമാത്രം വിദ്വേഷം ഇരുകൂട്ടർക്കും ഉണ്ടായിരുന്നെങ്കിലും
+അവരതിനു തുനിഞ്ഞില്ല. അതിനുപകരം ഇരുകൂട്ടരും അംഗീകരിച്ച തന്ത്രങ്ങളാണു് ഇന്നു ലോകത്തെ ഇത്രയ്ക്കു
+കുഴപ്പമേറിയ ഒരു നിലയിലെത്തിച്ചതു്.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Shanghai.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഷാങ്ഹായ് യുദ്ധത്തിൽ ജാപ്പനീസ് ആർമി സൈനികർ.</figDesc>
+          </figure>
+          <p>എന്താണിന്നത്തെ നില? അമേരിക്കയ്ക്കു് എങ്ങനെയെങ്കിലും ലോകം മുഴുവൻ പിടിച്ചടക്കണം. യുദ്ധകാലത്തു
+കണക്കില്ലാതെ വർദ്ധിച്ച അവരുടെ ഉല്പാദനശക്തി വിറ്റഴിക്കുവാൻ കഴിഞ്ഞില്ലെങ്കിൽ <ref target="https://en.wikipedia.org/wiki/Great_Depression">1930-ലെ പോലുള്ള
+സാമ്പത്തികക്കുഴപ്പമാണു്</ref> അമേരിക്കയ്ക്കു നേരിടേണ്ടതു്. അതു് വിപ്ലവത്തിലേയ്ക്കുള്ള
+രാജപാതയായിരിക്കുകയും ചെയ്യും. അതുകൊണ്ടു് യുദ്ധം ചെയ്തിട്ടായാലും ലോകത്തിലെ മാർക്കറ്റുകൾ
+
+പിടിച്ചടക്കിയേ അമേരിക്കയ്ക്കു് കഴിയൂ. അതിനു പ്രയോജനകരമെന്നു് അമേരിക്ക ഗണിച്ച നയമാണു് അവർ
+ഇന്നുവരെ തുടർന്നുവന്നിരുന്നതു്. ഈ നയത്തിന്റെ പ്രതീകമാണു് <ref target="https://en.wikipedia.org/wiki/Douglas_MacArthur">മക്കാർതർ</ref>.</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MacArthur.jpg" rendition="gra"/>
+            <figDesc style="thumb">മക്കാർതർ</figDesc>
+          </figure>
+          <p>അതിനുവേണ്ടിയാണു് അവർ കൊറിയയിൽ കൈകടത്തിയതു്. അതിനുവേണ്ടിയാണു് അവർ
+ഐക്യരാഷ്ട്രസംഘടനയെ മരപ്പാവയാക്കിത്തീർത്തതു്. അതിനുവേണ്ടിതന്നെയാണു് അവർ ചിയാങ്ങിനെ മുട്ടിട്ടു
+നിറുത്തുന്നതും യൂറോപ്പിൽ സൈനികകേന്ദ്രങ്ങൾ സ്ഥാപിക്കുന്നതിനും ആ നയത്തിനു് ഇൻഡ്യയുടെയും
+പാക്കിസ്ഥാന്റെയും പിൻബലം സമ്പാദിക്കുവാൻ വേണ്ടിയാണു് അവർ കശ്മീർ പ്രശ്നത്തിൽ ശരിയായ
+തീരുമാനമെടുക്കുന്നതിൽനിന്നു യൂനോയെ തടഞ്ഞുനിറുത്തുന്നതും. പക്ഷേ, ഇന്നവർക്കു മനസ്സിലായിരിക്കുന്നു ഈ
+നയം വന്ധ്യമാണെന്നു്. അമേരിക്കയിലെ ചെറുപ്പക്കാരെ കൊറിയയിൽ കുരുതികഴിക്കുന്നതുകൊണ്ടു് ഏഷ്യൻ
+നവോത്ഥാനത്തെ തടഞ്ഞുനിറുത്താൻ കഴിയുകയില്ലെന്നു് അവർക്കു് മനസ്സിലായിരിക്കുന്നു. ആ നയം അവർ
+മാറ്റുകയാണെന്നതിന്റെ പ്രത്യക്ഷലക്ഷ്യമാണു് മക്കാർതറുടെ അന്തർദ്ധാനം. ഇൻഡ്യ ഒരമേരിക്കൻ
+കോളനിയാക്കാമെന്ന അവരുടെ വ്യാമോഹവും ഇതിനകം നിലച്ചുകാണണം. അല്ലെങ്കിൽ, ഇൻഡ്യയ്ക്കു്
+ഭക്ഷണസാധനം വിൽക്കുവാൻ അവർ പറയുന്ന വൃത്തികെട്ട നിബന്ധനകൾകൊണ്ടുവരുവാൻ ന്യായമില്ല. ആരും
+വായിക്കാത്ത അമേരിക്കൻ പ്രചരണക്കടലാസ്സുകൾക്കുവേണ്ടി അവർ ഒരാഴ്ചയിൽ ചെലവാക്കുന്ന പണത്തിന്റെ
+വിലയില്ല അവർ നമുക്കു തരാമെന്നു നീട്ടിക്കാണിക്കുന്ന ഭക്ഷണസാധനങ്ങൾക്കു്. അമേരിക്കൻ
+ആധിപത്യത്തോടു് ബ്രിട്ടനിലും എതിർപ്പു് വർദ്ധിച്ചുവരുന്നുവെന്നതു് ബെവാന്റെ രാജി കൊണ്ടു തെളിയുന്നുണ്ടു്.
+ആകെക്കൂടി പറഞ്ഞാൽ യുദ്ധത്തിനുശേഷം അമേരിക്ക ഇരുട്ടിൽ തപ്പിത്തടഞ്ഞുകൊണ്ടിരിക്കുകയായിരുന്നു.
+അവരുടെ തന്ത്രങ്ങളെല്ലാം പരാജയപ്പെട്ടിരിക്കുന്നു. ഇനി അവർ സ്വയം രക്ഷയ്ക്കുവേണ്ടി ഇതരമാർഗ്ഗങ്ങൾ
+ആരാഞ്ഞേ കഴിയൂ. അധികാരത്തിന്റെയും ശക്തിയുടെയും ഭാഷ വിഫലമാകുമ്പോൾ മര്യാദയുടെ സമ്പ്രദായം
+അംഗീകരിക്കുകയാണു് സാധാരണ മനുഷ്യന്റെ പതിവു്. അങ്ങനെ അമേരിക്ക ഇനി രാജിക്കും സമാധാനത്തിനും
+വേണ്ടി പരിശ്രമിക്കുവാൻ നിർബന്ധിതമായിത്തീരും.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Berlin_Wall.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">കിഴക്കൻ ജർമ്മൻ നിർമ്മാണ തൊഴിലാളികൾ 1961-ൽ ​​ബർലിൻ മതിൽ
+പണിയുന്നു.</figDesc>
+          </figure>
+          <p>സോവിയറ്റു ചേരിയുടെയും കഥ ഇതുതന്നെ. വിപ്ലവത്തിന്റെ പഴയ മാർഗ്ഗങ്ങൾ ഇനി എത്രമാത്രം
+പ്രയോജനകരമാണെന്നു് അവർക്കുതന്നെ സംശയം തുടങ്ങിയിരിക്കുകയാണു്. ബാലറ്റുപെട്ടിയിൽകൂടിയും
+സോഷ്യലിസം സ്ഥാപിക്കാമെന്ന നിലയോടു ബ്രിട്ടീഷ് കമ്മ്യൂണിസ്റ്റ് പാർട്ടിയും ഇൻഡ്യൻ കമ്മ്യൂണിസ്റ്റ് പാർട്ടിയും
+അടുത്തടുത്തുവരികയാണു്. യുഗോസ്ലാവിയൻ കുഴപ്പം കമ്മ്യൂണിസത്തിനകത്തുതന്നെ ഉണ്ടാകാവുന്ന
+വൈരുദ്ധ്യങ്ങളുടെ ഒരു നാന്ദിയാണു്. പോരെങ്കിൽ റഷ്യയെക്കാളും വലിയ ഒരു രാഷ്ട്രം കമ്മ്യൂണിസത്തിന്റെ
+ചേരിയിൽ ചേർന്നിരിക്കുന്നു. ഷാങ്ങ്ഹായുടെ പതനത്തോടുകൂടി ലോകകമ്മ്യൂണിസത്തിന്റെ തലസ്ഥാനം
+റഷ്യയിൽനിന്നു ചൈനയിലേയ്ക്കു മാറിയെന്നു ഗണിക്കുന്നതിലും വലിയതെറ്റില്ല. യുദ്ധാനന്തരം കമ്മ്യൂണിസ്റ്റ്
+പ്രസ്ഥാനം ലോകത്തിൽ പലേടത്തും അംഗീകരിച്ച തന്ത്രങ്ങളും പരാജയപ്പെട്ടു. അല്ലെങ്കിൽ കൽക്കട്ടാപ്രമേയം
+തിരുത്തിയെഴുതേണ്ടിവരികയില്ലായിരുന്നല്ലോ. അവരും അവരുടെ തെറ്റുകൾ കണ്ടു്
+തിരുത്തിക്കൊണ്ടിരിക്കുകയാണു്. അങ്ങനെ അമേരിക്കയും സോവിയറ്റുചേരിയും ഒരു നയമാറ്റത്തിന്റെ
+നാൽക്കവലയ്ക്കലെത്തിയിരിക്കുകയാണു്. കാണുന്നവരോടെല്ലാം അവർ ചോദിക്കാറുണ്ടായിരുന്നു. “ഏതു
+ചേരിയിൽ?” എന്നു്. യുദ്ധവിരോധിയായ ഒരു മൂന്നാം ചേരിയെപ്പറ്റി ഇരുകൂട്ടർക്കും പുച്ഛമായിരുന്നു. ഇന്നാകട്ടെ
+അവരുടെ ചേരിചോദ്യം ഒട്ടൊക്കെ കുറഞ്ഞിട്ടുണ്ടു്. ഒരു മൂന്നാം ചേരിക്കുമാത്രമേ യുദ്ധത്തെ തടയാൻ കഴിയൂ എന്ന
+വിശ്വാസവും വളർന്നിട്ടുണ്ടു്. അങ്ങനെ മക്കാർതറുടെ ഡിസ്മിസ്സലും ഇൻഡ്യൻ കമ്മ്യൂണിസ്റ്റ് പാർട്ടിയുടെ 34
+പോയിന്റുകളും ഒരുമിച്ചു് പ്രത്യക്ഷപ്പെടുന്ന പശ്ചാത്തലത്തിലാണു് 1951-ലെ മേയ് ദിനം സമാഗതമാകുന്നതു്.
+യുദ്ധത്തിനുശേഷം ഇന്നുവരെ രാഷ്ട്രങ്ങളും രാഷ്ട്രീയപാർട്ടികളും അനുവർത്തിച്ചിരുന്ന നയപരിപാടികളും
+വിപ്ലവകരമായ ഒരു മാറ്റം പ്രതീക്ഷിക്കാവുന്ന ഒരു കാലമാണിന്നു്. അതുകൊണ്ടാണു് ഈ മേയ് ദിനം
+
+ചരിത്രത്തിലെ ഒരു പ്രധാന പ്രതിസന്ധിഘട്ടമാണെന്നു പ്രസ്താവിച്ചതു്.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/US_Army_tanks.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">യു. എസ്. എം-48 ടാങ്കുകൾ സോവിയറ്റ് ടി-55 ടാങ്കുകളെ
+അഭിമുഖീകരിക്കുന്നു.</figDesc>
+          </figure>
+          <p>പക്ഷേ, മറ്റു സാമൂഹ്യകാര്യങ്ങളിലെന്നതുപോലെ ഇതിലും മനുഷ്യന്റെ ബോധപൂർവ്വമായ സഹകരണം
+വിജയത്തിനു് അത്യന്താപേക്ഷിതമാണു്. ചരിത്രം അന്ധമായ ഒരു യാന്ത്രികഗതിയല്ല; മനുഷ്യന്റെ
+ബോധപൂർവ്വമായ സാമൂഹ്യസൃഷ്ടിയാണു്. ഇന്നു സൃഷ്ടിക്കേണ്ടിയിരിക്കുന്നതു് സമാധാനവും സോഷ്യലിസവുമാണു്.
+അതിനുവേണ്ടത്ര അനുകൂലമായ പരിതസ്ഥിതികളാണു് നാം കാണുന്നതു്. ഇക്കാര്യത്തിൽ
+തൊഴിലാളിവർഗ്ഗത്തിന്റെ കടമയെന്താണെന്നാണു് മേയ് ദിനത്തിന്റെ ആലോചനാവിഷയം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/NATOTreatyCopyAuthenticationPage.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">നോർത്ത് അറ്റ്ലാന്റിക് ഉടമ്പടി.</figDesc>
+          </figure>
+          <p>അടിസ്ഥാനപരമായി നോക്കിയാൽ ലോകത്തിലെ തൊഴിലാളിപ്രസ്ഥാനം പലപ്പോഴും കാടുകയറിയിട്ടുണ്ടു്.
+കടുത്ത ദേശീയത്വം, അപക്വമായ വിപ്ലവപ്രസക്തി, അനൈക്യം, അവസരസേവകത്വം എന്നിങ്ങനെ പല
+തെറ്റുകളും തൊഴിലാളിവർഗ്ഗത്തിനു പലപ്പോഴായി പറ്റിപ്പോയിട്ടുണ്ടു്. ഇവയോരോന്നും അവരുടെ ശത്രുക്കളെ
+ബലപ്പെടുത്തുകയായിരുന്നുവെന്നു് അവർ മനസ്സിലാക്കണം. രണ്ടുകാര്യങ്ങളിൽ ലോകതൊഴിലാളിവർഗ്ഗം
+നയവ്യതിയാനം വരുത്തുമെങ്കിൽ ഈ മേയ് ദിനം ചരിത്രത്തിലെ ഒരു മോഹനാദ്ധ്യായത്തിന്റെ
+ആരംഭദിനമായിരിക്കും. ഒന്നു്, തൊഴിലാളിവർഗ്ഗം സോവിയറ്റു യൂണിയന്റെ വിദേശനയത്തിനനുസരിച്ചു് മാർക്സിസം
+തിരുത്തിയെഴുതാതിരിക്കുക. രണ്ടു് സ്വന്തം വർഗ്ഗതാല്പര്യങ്ങളെ പ്രതിയെങ്കിലും തൊഴുത്തിൽ
+കുത്തവസാനിപ്പിക്കുക.
+</p>
+          <p>ഇൻഡ്യയെ സംബന്ധിച്ചിടത്തോളം തൊഴിലാളിസർവ്വാധിപത്യമെന്ന പ്രയോഗം അർത്ഥശൂന്യമാണു്.
+ചൈനയ്ക്കും അങ്ങനെതന്നെ. എന്നല്ല, സകല ഏഷ്യൻ രാഷ്ട്രങ്ങളുടെയും കഥ അങ്ങനെയാണു്.
+ഏഷ്യൻരാഷ്ട്രങ്ങളിൽ കൃഷിക്കാരോടും ബുദ്ധിജീവികളായ ഇടത്തരക്കാരോടും പങ്കാളിത്തം ചേർന്നുള്ള
+രാഷ്ട്രീയാധികാരം മാത്രമേ തൊഴിലാളിയ്ക്കു് പ്രതീക്ഷിക്കുവാനുള്ളു. വ്യവസായ പ്രമുഖമായ യൂറോപ്യൻ
+രാഷ്ട്രങ്ങൾക്കുവേണ്ടി എഴുതപ്പെട്ട പുസ്തകങ്ങളിൽ എന്തോ കണ്ടെന്നുവെച്ചു് ഇവിടെയും തൊഴിലാളി
+സർവ്വാധിപത്യത്തിനുവേണ്ടി പരിശ്രമിക്കുന്നെങ്കിൽ അതു മറ്റൊരുതരം വർഗ്ഗമേധാവിത്വമായിരിക്കും.
+അതിൽനിന്നു പിൻമാറി ഇൻഡ്യയെ യുദ്ധത്തിൽ നിന്നകറ്റി നിറുത്തുവാനും ജനാധിപത്യപരവും
+സോഷ്യലിസ്റ്റുമായ ഒരു പരിവർത്തനം ഇൻഡ്യൻ സാമൂഹ്യവ്യവസ്ഥിതിയിലുണ്ടാക്കുവാനും ഇൻഡ്യൻ
+തൊഴിലാളിവർഗ്ഗം പരിശ്രമിക്കട്ടെ എന്നാണു് ഈ മേയ് ദിനത്തിൽ എനിക്കു പറയുവാനുള്ളതു്.
+</p>
+          <p>
+ഡെമോക്രാറ്റ് 5 മേയ് 1951.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  May Dinam (ml: മെയ് ദിനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-04-21. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas, May
+Dinam, സി. ജെ. തോമസ്, മെയ് ദിനം, Open Access Publishing, Malayalam, Sayahna Foundation,
+Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 11, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Woman at work in a military
+factory, a photograph by <ref target="https://en.wikipedia.org/wiki/Rembrandt">Rembrandt</ref>
+ (1606–1669). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-mayday.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-mayday.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

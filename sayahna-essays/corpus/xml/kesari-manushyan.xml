@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മനുഷ്യൻ</title>
+          <title xml:lang="en" type="main">Manushyan</title>
+        </title>
+        <author>Kesari Balakrishna Pillai</author>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">September 24, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മനുഷ്യൻ</title>
+              <title xml:lang="en" type="main">Manushyan</title>
+            </title>
+            <author>Kesari Balakrishna Pillai</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-07-11</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kesari Balakrishna Pillai</term>
+          <term>Manushyan</term>
+          <term>മനുഷ്യൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-07-11</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Punishment_sisyph.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Punishment_sisyph.jpg">Sisyphus,</ref>
+painting by <ref target="https://en.wikipedia.org/wiki/en:Titian">Titian</ref>
+ (1490–1576). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മനുഷ്യൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കേസരി ബാലകൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മനുഷ്യൻ </head>
+        <div type="lsection">
+          <p style="noindent">ആധുനികമനുഷ്യരുടെ ഭൗതികവും സാംസ്കാരികവുമായ വളർച്ചയെ
+രൂപവൽക്കരിക്കുന്നതിൽ സയൻസിനോടു് തുല്യം ശക്തിപൂർവ്വം പ്രവർത്തിക്കുന്ന മറ്റൊന്നുമില്ലതന്നെ. നമ്മുടെ
+പൂർവ്വികർ അന്ധവിശ്വാസങ്ങളേയും സൂക്ഷ്മത വളരെ കുറഞ്ഞ നിരീക്ഷണങ്ങളേയും ആസ്പദിച്ചു കെട്ടിപ്പടുത്തിരുന്ന
+സാമുദായികനിയമങ്ങൾക്കു് പകരം യുക്തിയേയും, അതിസൂക്ഷ്മമായ നിരീക്ഷണത്തേയും, പര്യവേക്ഷണത്തേയും
+അടിസ്ഥാനപ്പെടുത്തി സാമുദായികനിയമങ്ങൾ നിർമ്മിക്കുവാൻ സയൻസ് നമ്മെ പഠിപ്പിച്ചുവരുന്നു.
+ഇതുനിമിത്തമത്രേ പുരോഗമനസാഹിത്യത്തിൽ സയൻസ് സ്വാധീനശക്തി ചെലുത്തി വരുന്നു എന്നു ഞാൻ പല
+സന്ദർഭങ്ങളിലും ചൂണ്ടിക്കാണിച്ചിരുന്നതു്. നാച്ചുറൽ സയൻസ് (പ്രകൃതിവിജ്ഞാനീയം), സോഷ്യൽ സയൻസ്
+(സാമുദായികവിജ്ഞാനീയം) എന്നു സയൻസിന്റെ രണ്ടു വിഭാഗങ്ങളുള്ളതിൽ സോഷ്യൽ സയൻസാണു്—
+പ്രത്യേകിച്ചു് അതിന്റെ ഒരു ശാഖയായ സോഷ്യോളജി (സമുദായശാസ്ത്രം) ആണു്—പുരോഗമനസാഹിത്യത്തിൽ
+സ്വാധീനശക്തി ചെലുത്തിവരുന്നതു്. രസതന്ത്രം, ജീവശാസ്ത്രം, സസ്യശാസ്ത്രം, ജന്തുശാസ്ത്രം, പാരമ്പര്യശാസ്ത്രം
+മുതലായവ നാച്ചുറൽ സയൻസിനും, അർത്ഥശാസ്ത്രം, രാഷ്ട്രശാസ്ത്രം, ചരിത്രം, നരവംശശാസ്ത്രം, വിദ്യാഭ്യാസശാസ്ത്രം,
+മനഃശാസ്ത്രം, സാമുദായികശാസ്ത്രം, സോഷ്യോളജി, യുജെസിക്സ് (സത്പ്രജോല്പത്തിശാസ്ത്രം), യൂട്ടെലേജെനെസിസ്
+(വിദൂരപ്രജോല്പത്തിശാസ്ത്രം), ലൈംഗികശാസ്ത്രം മുതലായവ സോഷ്യൽ സയൻസിനും ഉദാഹരണങ്ങളാണു്.
+</p>
+          <p>നാച്ചുറൽ സയൻസിനും, സോഷ്യൽ സയൻസിനും തമ്മിൽ മാർഗ്ഗം, ഫലം, മനഃസ്ഥിതി എന്നിവയെ
+സംബന്ധിച്ച വ്യത്യാസങ്ങളുണ്ടു്. നാച്ചുറൽ സയൻസിനു്, പരിതഃസ്ഥിതിയിൽനിന്നു് സമ്പൂർണ്ണമായി വേർതിരിച്ചും,
+പരിപൂർണ്ണമായ നിഷ്പക്ഷമനോഭാവത്തോടുകൂടിയും പര്യവേക്ഷണം നടത്തുകയും, പരമമായ സത്യത്തെ
+സമീപിക്കുന്ന ഫലം നേടുകയും ചെയ്യാം. നേരെമറിച്ചു് സോഷ്യൽ സയൻസിനു് ഇവ സാദ്ധ്യമല്ല. ഇതിലെ
+പര്യവേഷണം പരിതസ്ഥിതി സഹിതം പരീക്ഷിച്ചുനോക്കി തെറ്റുതിരുത്തുന്നതും, ഇതിലെ സത്യം പരമ
+സത്യത്തിൽനിന്നു് കുറെയധികം അകന്നിരിക്കുന്ന പ്രായോഗിക സത്യവും, ഇതിലെ മനസ്ഥിതി
+ഉപബോധമനസ്സിൽ കളിച്ചുകിടക്കുന്ന പക്ഷപാതത്തോടുകൂടിയതുമായിരിക്കും. സോഷ്യൽസയൻസിന്റെ ഈ
+ന്യൂനതകൾ നിമിത്തം ജനിക്കുന്ന പരിമിതമായ വിജ്ഞാനഭണ്ഡാഗാരത്തെ പുരസ്ക്കരിച്ചു് അതിന്റെ പ്രയോഗം
+ഭാവിയിലേയ്ക്കു് നീട്ടിവയ്ക്കണമെന്നു് പറയുന്ന ഉപരിവിപ്ലവബുദ്ധികൾക്കു് ഹോർഡർപ്രഭു എന്ന പ്രസിദ്ധ
+വൈദ്യശാസ്ത്രജ്ഞൻ നല്കിയ മറുപടി സ്മരണീയമാണു്. കുത്തിവെയ്ക്കുന്ന നിവാരണചികിത്സാശാസ്ത്രത്തിന്റെ
+ഇന്നത്തെ പരിമിതമായ വിജ്ഞാനഭണ്ഡാഗാരം ഹേതുവായി, അതിന്റെ പ്രയോഗം ഭാവിയിലേയ്ക്കു്
+നീട്ടിവയ്ക്കണമെന്നു പറയുന്ന വിഡ്ഢികളുടെ വാദം പോലെയുള്ള ഒന്നാണു് ഇതെന്നാണു് അദ്ദേഹം പറയുന്നതു്.
+</p>
+          <figure rend="fright">
+            <graphic url="images/Hux.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ജൂലിയൻ ഹക്സലി</figDesc>
+          </figure>
+          <p> ഫോർമലിസ്റ്റ് (ശുദ്ധശാസ്ത്രീയ) സോഷ്യോളജി, എൻസൈക്ലോപ്പീഡിക് (സർവ്വശാസ്ത്രപ്രായോഗിക)
+സോഷ്യോളജി, “സോഷ്യോളജി ഓഫ് സോഷ്യൽ വർക്ക്” (സമുദായപ്രവർത്തനങ്ങളിൽ
+ഏർപ്പെട്ടിരിക്കുന്നവരുടെ സോഷ്യോളജി) എന്നു മൂന്നു തരമായി ഇന്നത്തെ സോഷ്യോളജിയെ വിഭജിക്കാം.
+സമുദായഘടകങ്ങൾ തമ്മിലുള്ള ബന്ധങ്ങളെ, അഥവാ പരസ്പരപ്രവർത്തനങ്ങളെ, പഠിക്കുന്ന ഒരു പ്രത്യേകമായ
+ശുദ്ധശാസ്ത്രമാണു് സോഷ്യോളജി എന്നു് ഫോർമലിസ്റ്റുകൾ വിചാരിക്കുന്നു. ഈ ഘടകങ്ങൾ വ്യക്തി, കുടുംബം,
+സംഘം, സമുദായം, സ്ഥാപനങ്ങൾ എന്നിവയാണു്. ഇവയുടെ ഘടനം (ഓർഗനൈസേഷൻ) വിഘടനം
+(ഡിസോർഗനൈസേഷൻ) എന്നിവയെ ഇവർ പഠിക്കുന്നു. വ്യക്തിയുടെ വിഘടനം ആത്മഹത്യമുഖേനയും,
+കുടുംബത്തിന്റേതു് വിവാഹമോചനമോ, ദമ്പതികളിൽ ഒരാളുടെ ഉപേക്ഷിച്ചുപോകലോ നിമിത്തവും,
+സമുദായത്തിന്റെ വിഘടനം വിപ്ലവം മുഖേനയും സംഭവിക്കുന്നു. സമുദായം പരിവർത്തിച്ചുകൊണ്ടിരിക്കുന്നു എന്നും,
+ഈ പരിവർത്തനത്തിൽ വർദ്ധമാനമായിവരുന്ന ഘടനസങ്കീർണ്ണത, പ്രവൃത്തിവിഭജനം, ഘടകങ്ങളുടെ
+പരസ്പരാശ്രയം എന്നിവയും, (ചിലപ്പോളുണ്ടാകുന്ന തടസ്സങ്ങളോടുകൂടി) പ്രജാധിപത്യം (ഡെമോക്രെസി) എന്ന
+
+പദത്തിൽ അന്തർഭവിച്ചിട്ടുള്ള ശാരീരികവും ബുദ്ധിപരവും സാമുദായികവുമായുള്ള സ്വാതന്ത്ര്യത്തിലേയ്ക്കുള്ള പോക്കും
+കാണുന്നുണ്ടെന്നും അമേരിക്കയിലെ പ്രിൻസ്ടൺ സർവ്വകലാശാലയിലെ പ്രൊഫെസർ
+കോങ്ക്ലിനെപ്പോലെയുള്ള ഈ ഫോർമലിസ്റ്റുകൾ പലരും സമ്മതിക്കുന്നുണ്ടു്. വിപ്ലവം മുഖേന
+സമുദായപരിവർത്തനം നടന്നിട്ടുണ്ടെന്നുള്ള ചരിത്രവസ്തുതകളെടുത്തുപറയുന്നുണ്ടെങ്കിലും ബലപ്രയോഗം
+ഉൾക്കൊള്ളുന്ന വിപ്ലവത്തെ സ്വീകാര്യമായ ഒരു മാർഗ്ഗമായി അവർ പരിഗണിക്കുന്നില്ല. സഹകരണവും
+ഉപദേശവുമാണു് അവർക്കു് സ്വീകാര്യമായി തോന്നുന്ന മാർഗ്ഗങ്ങൾ. മൂന്നുതരം സോഷ്യലിസ്റ്റുകളിലുംവെച്ചു
+സർവ്വകലാശാലകളുടെ പിന്താങ്ങും മാന്യതയും ഈ ഫോർമലിസ്റ്റുകൾക്കാണു് ലഭിച്ചിട്ടുള്ളതെങ്കിലും, അവരിൽ
+പല കുറവുകളും കാണാവുന്നതാണു്. കാരണത്തിൽനിന്നു് കാര്യത്തിലേയ്ക്കു പോകുന്ന രീതി അവരെ
+സാമുദായികസംഭവങ്ങളിൽനിന്നു് വളരെ അകന്ന അതിസാമാന്യതത്വങ്ങളിലേയ്ക്കു് പിടിച്ചുകൊണ്ടു പോകുന്നു. ഒരു
+സാമുദായിക പ്രവർത്തനത്തിനു് പേരിടുന്നതോടുകൂടി അതിന്റെ ആശയസഞ്ചയ (ഐഡിയോളജി) വിവരണം
+പൂർത്തിയായി എന്നു് അവർ വിചാരിച്ചു പോകുന്നു. സോഷ്യോളജിയിൽ ഏതെല്ലാം ഉൾപ്പെടുകയില്ലാ എന്നു്
+നിർണ്ണയിക്കുന്നതിൽ ഒരു സർവ്വസമ്മതമായ തത്വം സ്വീകരിക്കാതെ അവർ ഓരോരുത്തരും യഥേഷ്ടം
+പ്രവർത്തിച്ചുവരുകയും ചെയ്യുന്നു.
+</p>
+          <p>ഭാരതത്തിലെ ‘സർവന്റ്സ് ഓഫ് ഇൻഡ്യാ സൊസൈറ്റി’ക്കാരെപ്പോലെയുള്ള മൂന്നാമത്തെ സ്ക്കൂളുകാരായ
+സമുദായ പ്രവർത്തന സോഷ്യോളജിസ്റ്റുകൾ ഫോർമലിസ്റ്റുകളേക്കാൾ വളരെയധികം
+പ്രായോഗികശാസ്ത്രജ്ഞരാണു്. വിദൂരമായ ഒരു ആദർശവും സാമാന്യപദ്ധതിയും കൂടാതെ പ്രായേണ
+അന്നന്നത്തെ പ്രശ്നങ്ങൾക്കു് പരിഹാരം കണ്ടുപിടിക്കുവാനേ ഇവർ ശ്രമിച്ചുവരുന്നുള്ളു. മിതവാദികളായ ഇവർ
+ഫോർമലിസ്റ്റുകളെപ്പോലെ വിപ്ലവമാർഗ്ഗം സ്വീകരിക്കുന്നുമില്ല.
+</p>
+          <figure rend="fleft">
+            <graphic url="images/Haldane.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ജെ. ബി. എസ്. ഹാൽഡെ</figDesc>
+          </figure>
+          <p> അതിവിഭിന്നങ്ങളായ ആദർശങ്ങളും മാർഗ്ഗങ്ങളുമുള്ള പലതരം സോഷ്യോളജിസ്റ്റുകളെ രണ്ടാമത്തെ സ്ക്കൂളായ
+എൻസൈക്ലോപ്പീഡിസ്റ്റുകളിൽ ഉൾപ്പെടുത്താം. ഉദാഹരണമായി, കമ്മ്യൂണിസ്റ്റ് സോഷ്യോളജിയായ
+പ്രകൃതഗ്രന്ഥവും, സ്വയം പര്യാപ്തമായ ഗ്രാമീണ റിപ്പബ്ളിക്ക് സ്ഥാപനത്തെ പിന്താങ്ങുന്ന ഗാന്ധിജിയുടെ
+പദ്ധതിപ്രകാരമുള്ള സോഷ്യോളജി കൃതികളും എൻസൈക്ലോപ്പിഡിക്ക് സോഷ്യോളജിയിൽ ഉൾപ്പെടുന്നതാണു്.
+വ്യക്തിയുടേതെന്നതുപോലെ സമുദായത്തിന്റേയും ഗതിയെ രൂപവത്കരിക്കുന്നതു് പാരമ്പര്യവും,
+പരിതഃസ്ഥിതിയുമാണല്ലോ. സമുദായത്തെ സംബന്ധിച്ചിടത്തോളം പാരമ്പര്യത്തിൽ പൂർവ്വചരിത്രവും
+ഉൾപ്പെടുന്നതാണു്. ഫോർമലിസ്റ്റുകളും, സമുദായപ്രവർത്തക സോഷ്യോളജിസ്റ്റുകളും, കമ്മ്യൂണിസ്റ്റുകളും,
+ഗാന്ധിമതക്കാരും ഒന്നുപോലെ യൂജെനിക്സ്, യൂട്ടെലേജെനസിസ് (സമുദായത്തിലെ ഉത്തമന്മാരുടെ ബീജം
+അവരുടെ ഭാര്യമാരല്ലാത്ത ആരോഗ്യമുള്ള സ്ത്രീകളുടെ ഗർഭപാത്രങ്ങളിൽ അതാരുടേതെന്നു് അറിയിക്കാതെ
+ഡാക്ടർമാർ കുത്തിവയ്ക്കുന്നതു്) ലൈംഗികശാസ്ത്രം എന്നിവ പ്രയോഗിച്ചുള്ള പാരമ്പര്യപ്പരിഷ്ക്കരണത്തിൽ
+അലസരോ, അതിനെ വെറുക്കുന്നവരോ ആകുന്നു. പരിതസ്ഥിതി പരിഷ്കരണമാണു് ഇവരുടെ കാര്യപരിപാടി.
+പരിതഃസ്ഥിതിപരിഷ്കരണത്തോടൊപ്പം ആദ്യമേതന്നെ പാരമ്പര്യപരിഷ്കരണത്തിനും പ്രാധാന്യമുണ്ടെന്നു
+വാദിക്കുന്ന നാച്ചുറൽ സയന്റിസ്റ്റായ <ref target="https://en.wikipedia.org/wiki/Julian_Huxley">ജൂലിയൻ ഹക്സലിയെ</ref>
+പ്പോലെയുള്ളവരും, പരിസ്ഥിതിപരിഷ്കരണം കഴിഞ്ഞു മാത്രമേ ശരിയായ പാരമ്പര്യപരിഷ്കരണം
+സാദ്ധ്യമാക്കുകയുള്ളു എന്നും, അന്നു് ഈ പാരമ്പര്യപരിഷ്കരണം സ്വീകരിച്ചേ മതിയാവൂ എന്നും വാദിക്കുന്ന
+ശാസ്ത്രജ്ഞരായ <ref target="https://en.wikipedia.org/wiki/J._B._S._Haldane">ജെ. ബി. എസ്.
+ഹാൽഡെ</ref> യിൽ, ഈയ്യാണ്ടിൽ പാരമ്പര്യശാസ്ത്രത്തിൽ നോബൽസമ്മാനം നേടിയ ഡാക്ടർ: <ref target="https://en.wikipedia.org/wiki/Hermann_Joseph_Muller">ജെ. എച്ച്.
+മല്ലർ</ref> ലൈംഗികശാസ്ത്രജ്ഞനായ ഡാക്ടർ ല്യൂൻബാക് എന്നിവരെപ്പോലെയുള്ളവരും,
+എൻസൈക്ലോപ്പീഡിസ്റ്റുകളുടെ കൂട്ടത്തിൽ ഉൾപ്പെടുന്നതാണു്.
+</p>
+          <p>എൻസൈക്ലോപ്പീഡിസ്റ്റുകളിൽ ഉൾപ്പെടുന്ന പ്രസ്തുത വിഭിന്നമതക്കാർക്കു് തമ്മിലുള്ള ഐക്യം,
+സർവ്വശാസ്ത്രങ്ങളുടെയും വിജ്ഞാനം പ്രയോഗിച്ചു സമകാലീന സമുദായപരിഷ്കരണം നടത്തുവാനുള്ള സന്നദ്ധത,
+ഇതിനുവേണ്ടീ വിപ്ലവകരമോ വിപ്ലവത്തോടു് സമീപിക്കുന്നതോ ആയ മാർഗ്ഗങ്ങൾ സ്വീകരിക്കുന്നതിൽ
+
+വൈമുഖ്യമില്ലായ്മ, എന്നിവയിലാണു് സ്ഥിതിചെയ്യുന്നതു്. പ്രായോഗികത്വം, വിശാലദൃഷ്ടി, മനുഷ്യസ്നേഹത്തിൽ
+കെട്ടിപ്പടുത്തിട്ടുള്ള ഐഡിയോളജി എന്നിവയാണു് എൻസൈക്ലോപ്പീഡിസ്റ്റുകളുടെ ഗുണങ്ങൾ. യുക്തിഭംഗം
+മുതലായി ഒരു ശുദ്ധ സയൻസിനു് യോജിക്കാത്ത ചില കാര്യങ്ങളുടെ സാന്നിദ്ധ്യമാണു്
+എൻസൈക്ലോപ്പീഡിസ്റ്റുകളുടെ കുറവുകൾ. എന്നാൽ യുക്തിയും ജീവിതവും, രണ്ടും രണ്ടാണെന്നുള്ള പരമാർത്ഥം
+നാം ഇവിടെ ഓർക്കേണ്ടതാണു്.
+</p>
+          <figure rend="fleft">
+            <graphic url="images/Kdamodaran.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ദാമോദരൻ</figDesc>
+          </figure>
+          <p> സാമ്പത്തികചരിത്രത്തെ പ്രധാനമായി സ്വീകരിച്ചു കെട്ടിപ്പടുത്തിട്ടുള്ള കമ്മ്യൂണിസ്റ്റ് സോഷ്യോളജിയിൽ മറ്റു
+പല ശാസ്ത്രങ്ങളുടെ വിജ്ഞാനങ്ങളും ഉൾക്കൊള്ളിച്ചിട്ടുണ്ടെന്നു മുകളിൽ ചൂണ്ടിക്കാണിച്ചതിനെ
+ഉദാഹരിക്കുവാനായി ശ്രീ. <ref target="https://ml.wikipedia.org/wiki/K._Damodaran">ദാമോദരന്റെ</ref> <ref target="http://ax.sayahna.org/kd/kd-completeworks-1.pdf">പ്രകൃതഗ്രന്ഥ</ref>
+ത്തിലെ ചില പ്രധാന വിഷയങ്ങളുടെ പട്ടിക ഉദ്ധരിച്ചുകൊള്ളുന്നു. ഭൂമിയുടെ ഉല്പത്തി, ജീവന്റെ ആവിർഭാവം,
+മനുഷ്യന്റെ മുൻഗാമികൾ, പ്രാകൃതമനുഷ്യൻ, ശിലായുഗങ്ങൾ, കൃഷിയുടെ ആരംഭം, ലോഹങ്ങളുടെ പ്രയോഗം,
+വളർത്തുമൃഗങ്ങൾ, കാടന്മാരും അപരിഷ്കൃതരും, കുടുംബം, പ്രാകൃതകമ്മ്യൂണിസം, ഭരണകൂടം, കച്ചവടക്കാർ,
+മന്ത്രവാദിയും പുരോഹിതനും, സംസ്കാരനേട്ടങ്ങൾ, നാടുവാഴിപ്രഭുത്വം (ഫ്യൂഡലിസം), സയൻസും തത്വശാസ്ത്രവും,
+മുതലാളിത്വസമുദായം, സാമ്രാജ്യാധിപത്യം, തൊഴിലാളികൾ, സോവിയറ്റുയൂണിയൻ, പുരോഗതിയുടെ
+അടിസ്ഥാനം എന്നിവയാണു് പ്രസ്തുത വിഷയങ്ങൾ. കമ്മ്യൂണിസ്റ്റ് സോഷ്യോളജിയെ കേരളീയരെ
+ധരിപ്പിക്കുവാനുള്ള ശ്രീ. കെ. ദാമോദരന്റെ ഈ ഉദ്യമം മിക്കവാറും വിജയിച്ചിട്ടുണ്ടെന്നും, ശാസ്ത്രീയകൃതികളുടെ
+ദൗർല്ലഭ്യംകൊണ്ടു് നട്ടം തിരിയുന്ന കൈരളിയ്ക്കു് പ്രകൃതകൃതി ഒരു ഭൂഷണമാണെന്നും ഞാൻ വിചാരിക്കുന്നു.
+</p>
+          <p>വിഷയങ്ങളിൽ മനോലയം വന്നതു് പോരാത്തതിനാൽ ഗ്രന്ഥകാരനു അവയെ വേണ്ടത്ര
+കേരളീയജീവിതത്തിൽക്കൂടി വിവരിക്കുന്നതിനും അന്യോന്യം ഭംഗിയായിണക്കുന്നതിനും കഴിഞ്ഞിട്ടില്ലെന്നൊരു
+ചാർജ്ജുണ്ടായിക്കൂടെന്നില്ല.
+</p>
+          <p>ശ്രീ. ദാമോദരന്റെ ഭാഷാരീതി പ്രസന്നമാണു്. ശാസ്ത്രവിഷയങ്ങൾ പ്രതിപാദിക്കുമ്പോൾപ്പോലും
+അതിനുചിതമല്ലാത്ത പൊടിപ്പും തൊങ്ങലും വെച്ച ഭാഷാരീതി ഇന്നു ചിലർ സ്വീകരിച്ചിട്ടുള്ളതിനു് നേരെ
+വിരുദ്ധമാണു് ശ്രീ. ദാമോദരന്റെ രീതി.
+</p>
+          <p>പ്രകൃതകൃതിയിൽ അച്ചടിപ്പിശകുകൊണ്ടോ, മറ്റു വല്ല കാരണവശാലോ ഒന്നോ രണ്ടോ പിഴകൾ
+വന്നുപോയിരിക്കുന്നു. ഒരു ഉദാഹരണം കാണിക്കാം. 4-പേജിൽ ഇങ്ങനെ കാണുന്നു: “ഫോട്ടൺ എന്ന
+ശക്തിയേറിയ രശ്മിയുടെ ഗതിവേഗമാണു് ഗ്രഹങ്ങളെ സൂര്യനിൽനിന്നു് ഉന്തിത്തെറിപ്പിച്ചതെന്നു് അദ്ദേഹം
+അഭിപ്രായപ്പെടുന്നു,” ഫോട്ടൺ എന്നതു രശ്മിയല്ല, അൾട്രാ-വയലറ്റ് രശ്മികളുടേയും മറ്റു രശ്മികളുടേയും ഏറ്റവും
+കുറഞ്ഞ ഒരു അളവു് (പാക്കേജ്) മാത്രമാണു്. ഈ ഫോട്ടോണു ക്വാണ്ടം എന്നും പേരുണ്ടു്. പ്രസ്തുത വാചകത്തിൽ
+ഫോട്ടോണു പകരം അൾട്രാ-വയലറ്റ് രശ്മി എന്നു ചേർക്കേണ്ടതായിരുന്നു.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/kesari-bio.html">കേസരി
+ബാലകൃഷ്ണപിള്ളയുടെ ലഘു ജീവചരിത്രം.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Manushyan (ml: മനുഷ്യൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kesari Balakrishna
+Pillai.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-07-11. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kesari Balakrishna
+Pillai, Manushyan, മനുഷ്യൻ, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 24, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Punishment_sisyph.jpg">Sisyphus,</ref>
+painting by <ref target="https://en.wikipedia.org/wiki/en:Titian">Titian</ref>
+ (1490–1576). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kesari-manushyan.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kesari-manushyan.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

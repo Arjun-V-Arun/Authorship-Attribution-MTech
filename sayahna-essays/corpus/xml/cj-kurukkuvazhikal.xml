@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കുറുക്കുവഴികൾ</title>
+          <title xml:lang="en" type="main">Kurukkuvazhikal</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">November 29, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കുറുക്കുവഴികൾ</title>
+              <title xml:lang="en" type="main">Kurukkuvazhikal</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-02-10</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>Kurukkuvazhikal</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>കുറുക്കുവഴികൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-02-10</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/silk_cotton_tree.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Kapok_or_silk_cotton_tree_(Ceiba_pentandra)_growing_by_a_vil_Wellcome_V0043228.jpg">Kapok
+or silk cotton tree growing by a village in Surinam,</ref> a coloured lithograph by P. Lauters
+ . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കുറുക്കുവഴികൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കുറുക്കുവഴികൾ</head>
+        <div type="lsection">
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">ലൈംഗിക കർമ്മത്തിൽ ബലാൽപ്രയോഗം ഉപേക്ഷിച്ചതു് പ്രായോഗിക
+വിജയത്തെ പ്രതിയല്ലെന്നു കാണാമല്ലോ, മനുഷ്യൻ പുരോഗമിക്കുന്നു എന്ന പ്രസ്താവന വാസ്തവമാണെങ്കിൽ,
+അവന്റെ സ്വഭാവത്തിൽ സാന്മാർഗ്ഗികമായ ഒരു പരിവർത്തനം വന്നു എന്നതാണതിനു കാരണം.</p>
+            </body>
+          </floatingText>
+          <p style="noindent"> മനുഷ്യസംസ്കാരത്തിന്റെ അടിസ്ഥാനപുരോഗതി ഉത്തരോത്തരം
+ഉൽകൃഷ്ടമായിക്കൊണ്ടിരിക്കുന്ന ലക്ഷ്യത്തിലേക്കുള്ള ഗതിയാണു്. സ്വന്തം വിശപ്പുമാറ്റുക, ലൈംഗികകർമ്മം
+നടത്തുക എന്നീ മൃഗപരമായ ലക്ഷ്യങ്ങളിൽനിന്നു മനുഷ്യൻ ഉയർന്നു; സ്വന്തം ഭക്ഷണത്തിനു പുറമെ തന്റെകൂടെ
+നടക്കുന്ന സ്ത്രീക്കും, കുറെക്കൂടി കഴിഞ്ഞു്, ആ സ്ത്രീ പ്രസവിച്ച കുട്ടികൾക്കും ഭക്ഷണം സമ്പാദിക്കുകയെന്ന
+ലക്ഷ്യംവരെ അവൻ ഉയർന്നു. ലൈംഗികകാര്യം തന്നെ, ബലാൽക്കാരത്തിൽ നിന്നു സ്ത്രീയുടെ സമ്മതത്തോടുകൂടി
+രമിക്കുന്നതിലേക്കു് ഉയർന്നു; അവിടെനിന്നു നീണ്ട ഒരു കാലഘട്ടത്തിനുശേഷം പ്രണയത്തിലേയ്ക്കും. വെറും
+ലൈംഗികകർമ്മത്തിനു നൂറുശതമാനം പ്രാധാന്യമുണ്ടായിരുന്ന അവസ്ഥ മാറി, ഒരു പ്രധാനപങ്കു് കേവല
+സൗഹാർദ്ദത്തിനു നീക്കി വെച്ചുകിട്ടിയപ്പോൾ സ്ത്രീപുരുഷബന്ധം മൃഗങ്ങളുടെതിൽനിന്നു് അടിസ്ഥാനപരമായി
+വ്യത്യാസപ്പെട്ടു. വ്യക്തിയുടെ സ്വാർത്ഥം കുടുംബത്തിന്റെ സ്വാർത്ഥതയായിത്തീർന്നു. അടുത്തപടിയായി അതു്
+കുറെക്കൂടി വിശാലമായി, വർഗ്ഗത്തിന്റെ സ്വാർത്ഥതയിലെത്തി. മനുഷ്യന്റെ സാമൂഹ്യസ്വഭാവം എന്നു
+വ്യവഹരിക്കപ്പെടുന്ന ഈ ഗതി ഇന്നത്തെ ദേശീയത്വം വരെ ഉയർന്നുകഴിഞ്ഞിട്ടുണ്ടു്. ഇതാണു് ലക്ഷ്യങ്ങൾ
+മേൽക്കുമേൽ ഉത്തമങ്ങളായിക്കൊണ്ടിരിക്കുന്നു എന്നു പറഞ്ഞതിന്റെ അർത്ഥം.
+</p>
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">കള്ളവോട്ടുകൊണ്ടു ജയിച്ചവൻ നിയമസഭയിൽ സത്യത്തിനുവേണ്ടി നില്ക്കുംപോലും!
+അതിന്റെ സന്മാർഗ്ഗ ശാസ്ത്രപരമായ വശം അവിടെ കിടക്കട്ടെ. അനുഭവം മാത്രം മതി ഈ ചിന്താഗതിയെ
+നിഷേധിക്കുവാൻ.</p>
+            </body>
+          </floatingText>
+          <p> ക്രമേണയുള്ള ഈ വളർച്ചയിൽ ഒരു പ്രത്യേകലക്ഷ്യത്തിന്റെ ആവിർഭാവം പ്രത്യേകപരിഗണന
+അർഹിക്കുന്നുണ്ടു്. മറ്റു ലക്ഷ്യങ്ങൾക്കു പുറമേ, മനുഷ്യൻ തന്റെ ലക്ഷ്യത്തിലെത്താൻ സ്വീകരിക്കുന്ന മാർഗ്ഗങ്ങൾ
+ഉത്തമമായിരിക്കണമെന്നൊരു ലക്ഷ്യം ഉണ്ടായി. തെറ്റായ മാർഗ്ഗം തെറ്റായ ലക്ഷ്യത്തിൽ മാത്രമേ
+ചെന്നെത്തുകയുള്ളൂ എന്ന അനുഭവപാഠമായിരിക്കാം മനുഷ്യനെ ഈ ലക്ഷ്യം അംഗീകരിക്കാൻ പ്രേരിപ്പിച്ച
+കാരണങ്ങളിലൊന്നു്. പക്ഷേ, അതുമാത്രമാണതിനു കാരണമെന്നും വിശ്വസിക്കുക വയ്യ. ലൈംഗിക കർമ്മത്തിൽ
+ബലാൽപ്രയോഗം ഉപേക്ഷിച്ചതു് പ്രായോഗിക വിജയത്തെ പ്രതിയല്ലെന്നു കാണാമല്ലോ, മനുഷ്യൻ
+പുരോഗമിക്കുന്നു എന്ന പ്രസ്താവന വാസ്തവമാണെങ്കിൽ, അവന്റെ സ്വഭാവത്തിൽ സാന്മാർഗ്ഗികമായ ഒരു
+പരിവർത്തനം വന്നു എന്നതാണതിനു കാരണം.
+</p>
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">എനിക്കും കുറെ നാൾ ഭരിക്കണം, ‘എന്റെ ശത്രുക്കളോടെല്ലാം പക വീട്ടിയിട്ടു
+മരിക്കണം’, ഇതാണു പുതിയ മുദ്രാവാക്യം. അഥവാ, കോപത്തിന്റെ ചൂടിൽ ആദർശങ്ങൾ ആവിയായി
+പോയിക്കഴിഞ്ഞിരിക്കുന്നു.</p>
+            </body>
+          </floatingText>
+          <p> ഈ മൗലികസത്യം മറന്നിട്ടാണു് നമ്മുടെ പാർട്ടികളും പ്രസ്ഥാനങ്ങളും ഇന്നു പ്രവർത്തിക്കുന്നതു്.
+തിരഞ്ഞെടുപ്പിൽ കള്ളവോട്ടു ചെയ്യിക്കുന്നതിലും ഭീഷണിപ്പെടുത്തുന്നതിലും മറ്റു ക്രമക്കേടുകൾ കാണിക്കുന്നതിലും
+ആത്മാർത്ഥമായ എതിർപ്പുള്ള യാതൊരു പാർട്ടിയും ഇന്ത്യയിലില്ല. എതിർകക്ഷി അങ്ങനെ ചെയ്യുന്നതിനെപറ്റി
+മാത്രമേ പ്രതിഷേധമുള്ളു. എങ്ങനെയെങ്കിലും ജയിച്ചു നിയമസഭയിൽ ചെന്നാൽ പിന്നെ കണ്ണല്ലാത്തതെല്ലാം
+പൊന്നാക്കിക്കൊള്ളാമെന്നാണു് ധാരണ. കള്ളവോട്ടുകൊണ്ടു ജയിച്ചവൻ നിയമസഭയിൽ സത്യത്തിനുവേണ്ടി
+നില്ക്കുംപോലും! അതിന്റെ സന്മാർഗ്ഗ ശാസ്ത്രപരമായ വശം അവിടെ കിടക്കട്ടെ. അനുഭവം മാത്രം മതി ഈ
+ചിന്താഗതിയെ നിഷേധിക്കുവാൻ. ഇന്നു രാഷ്ട്രീയ നേതാക്കന്മാരൊഴിച്ചു് ആരോടും അക്കാര്യത്തെപ്പറ്റി
+തർക്കിക്കേണ്ട കാര്യമില്ല. നിർഭാഗ്യവശാൽ ഇന്നു സകല രാഷ്ട്രീയ പ്രസ്ഥാനങ്ങളും ഈ തെറ്റുചെയ്യുന്നുണ്ടു്.
+ഭീഷണിയും, കൊലയും, വഞ്ചനയും, ആഭാസത്തരവും, അപവാദവുമെല്ലാം
+അംഗീകൃതരാഷ്ട്രീയായുധങ്ങളായിത്തീർന്നിരിക്കുകയാണു്. അധികാരത്തിലിരിക്കുന്നവനെ മറിച്ചിടാനും അധികാരി
+സ്വസ്ഥാനം നിലനിറുത്തുവാനും ഈ കുറുക്കുവഴികൾ പ്രയോഗിക്കുന്നു. ആദർശശാലികളായ പലരും
+പ്രായോഗികപ്രവർത്തനരംഗത്തെത്തുമ്പോൾ ഈ ബലഹീനതയ്ക്കു് അടിമപ്പെടുന്ന കാഴ്ചയും
+സാധാരണയായിത്തീർന്നിട്ടുണ്ടു്. എന്താണിതിനു കാരണം? എന്താണിതുകൊണ്ടുള്ള ഭവിഷ്യത്തു്?
+എന്താണിതിനു പരിഹാരം?
+</p>
+          <p>കാരണം പ്രത്യേകിച്ചൊന്നുമല്ല. ബലഹീനതമാത്രം. സാമൂഹ്യവ്യവസ്ഥിതിയെ മാറ്റിമറിക്കുകയെന്നതു കുറെ
+ശ്രമകരമായ ജോലിയാണു്. പ്രായേണ അതു് അപകടം നിറഞ്ഞതുമാണു്. എന്നല്ല, അക്കാര്യം
+വിജയത്തിലെത്തുവാൻ ഒരു ദീർഘകാല പ്രവർത്തനം വേണ്ടിവന്നേയ്ക്കാം. കുറെക്കാലത്തെ സമരത്തിനുശേഷവും
+ചിലപ്പോൾ താൻ ലക്ഷ്യത്തിൽ നിന്നു വളരെ ദൂരെയാണെന്നു തോന്നുന്നു അപ്പോൾ ക്ഷമകേടു്, കോപം
+മുതലായവ തോന്നുകയായി. വിജയ സാധ്യതയെപ്പറ്റിത്തന്നെ ഒരു സംശയവും. പിന്നെ അവിടെനിന്നു
+കീഴോട്ടിറങ്ങാൻ അധികം കാലതാമസം വേണ്ട. ബലഹീനന്മാർ ക്ഷീണിച്ചുതുടങ്ങും. എനിക്കും കുറെ നാൾ
+ഭരിക്കണം, ‘എന്റെ ശത്രുക്കളോടെല്ലാം പക വീട്ടിയിട്ടു മരിക്കണം’, ഇതാണു പുതിയ മുദ്രാവാക്യം. അഥവാ,
+കോപത്തിന്റെ ചൂടിൽ ആദർശങ്ങൾ ആവിയായി പോയിക്കഴിഞ്ഞിരിക്കുന്നു. വലിയ ചൂടു വികാരത്തിനു വളമാണു്,
+അവിടെ ശാന്തമായ ചിന്തയോ സത്യമോ വളരുകയില്ല.</p>
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">കുറുക്കുവഴികൾ ഇന്നു കോൺഗ്രസ്സിനെ എവിടെയാണു്
+കൊണ്ടെത്തിച്ചിരിക്കുന്നുവെന്നുമാത്രം നോക്കുക. കമ്മ്യുണിസ്റ്റ് പ്രസ്ഥാനവും ഈ തെറ്റിൽനിന്നു വിമുക്തമല്ല.
+കമ്മ്യൂണിസ്റ്റ് വിരോധികളും ചില കമ്മ്യൂണിസ്റ്റനുഭാവികളും കമ്മ്യൂണിസ്റ്റാദർശത്തെ വളരെ തെറ്റിദ്ധരിച്ചിട്ടുണ്ടു്.</p>
+            </body>
+          </floatingText>
+          <p> ഒരു പ്രത്യേകലക്ഷ്യത്തിലെത്തണം എന്ന ലക്ഷ്യം, എങ്ങനെയെങ്കിലും ജയിക്കണം എന്ന ലക്ഷ്യമായി
+രൂപാന്തരം പ്രാപിക്കുന്നു. പിന്നെ മാർഗ്ഗത്തെപ്പറ്റി നോക്കുന്നില്ല. കണ്ണുമടച്ചു മുന്നോട്ടു് ഓടുകയായി. അങ്ങനെ
+ഓടിയാൽ കുറെയങ്ങുപോകും. പക്ഷേ, എത്തുന്ന സ്ഥലം ഉന്നംവെച്ചതുതന്നെ ആയിരിക്കുകയില്ല. ഇതു ചിലരെ
+നിരാശപ്പെടുത്തിയില്ലെന്നു വരാം. ലക്ഷ്യത്തിനുവേണ്ടി ഏതു കുറുക്കുവഴിയും സ്വീകരിക്കാൻ തയ്യാറുള്ളവൻ,
+അവസരമനുസരിച്ചു് ലക്ഷ്യത്തെ വെച്ചുമാറ്റാനും മടിക്കുന്നവനായിരിക്കുകയില്ല. എന്തെങ്കിലും മാർഗ്ഗത്തിൽ
+അധികാരം കൈവശപ്പെടുത്തുന്നവനു ഭൂലോകസ്വർഗ്ഗം സൃഷ്ടിക്കാൻ കഴിയുകയില്ലെന്നുമാത്രമല്ല, അവനു്
+ഉത്തമമായ ഒരു വ്യവസ്ഥിതിയെ വിഭാവനം ചെയ്യുവാൻതന്നെ കഴിയുകയില്ല. അവനെ സംബന്ധിച്ചിടത്തോളം
+അതു് സ്വർഗ്ഗമായിരുന്നേക്കാം. പക്ഷേ, അതിനുവേണ്ടി മറ്റുള്ളവരുടെ ജീവൻ പണയപ്പെടുത്തേണ്ട കാര്യമില്ലല്ലോ.
+സന്മാർഗ്ഗമൂല്യങ്ങൾ ലക്ഷ്യത്തിനും മാർഗ്ഗത്തിനും ഒന്നാണു്. അതു് ഒന്നാമത്തെ പടിയിൽ തകർന്നാൽ
+അവസാനരംഗം വരെ തകരുകതന്നെ ചെയ്യും. ഈ വിഷയത്തിൽ കോൺഗ്രസ്സിന്റെ അനുഭവങ്ങളെപ്പറ്റി
+പരാമർശിച്ചിട്ടു കാര്യമില്ല. ആ പ്രസ്ഥാനത്തിനു് എന്നെങ്കിലും എന്തെങ്കിലും ആദർശമുണ്ടായിരുന്നെന്നു
+പറഞ്ഞാൽ അതു വിശ്വസിക്കാൻ ആളുണ്ടാവുകയില്ല. എങ്കിലും, അതൊരു സത്യമാണു്. കുറുക്കുവഴികൾ ഇന്നു
+കോൺഗ്രസ്സിനെ എവിടെയാണു് കൊണ്ടെത്തിച്ചിരിക്കുന്നുവെന്നുമാത്രം നോക്കുക. കമ്മ്യുണിസ്റ്റ് പ്രസ്ഥാനവും
+ഈ തെറ്റിൽനിന്നു വിമുക്തമല്ല. കമ്മ്യൂണിസ്റ്റ് വിരോധികളും ചില കമ്മ്യൂണിസ്റ്റനുഭാവികളും കമ്മ്യൂണിസ്റ്റാദർശത്തെ
+വളരെ തെറ്റിദ്ധരിച്ചിട്ടുണ്ടു്. രണ്ടുകൂട്ടരും ഒരുപോലെ വിശ്വസിക്കുന്നതു്, അധികാരം സമ്പാദിക്കാൻ വേണ്ടി
+കമ്മ്യൂണിസ്റ്റുകാർ എന്തു മാർഗ്ഗവും അംഗീകരിക്കുമെന്നാണു്. പ്രായോഗികമായി പറഞ്ഞാൽ, അങ്ങനെ
+
+അംഗീകരിച്ചേക്കാം; പക്ഷേ, കമ്മ്യൂണിസത്തിനു മാർക്സുമായി എന്തെങ്കിലും ബന്ധമുണ്ടെങ്കിൽ അങ്ങനെ
+ചെയ്തുകൂടാ. എന്തു മാർഗ്ഗവും അംഗീകരിക്കാം എന്നു വിശ്വസിക്കുന്നവരിൽ തികഞ്ഞ ആത്മാർത്ഥതയുള്ളവർ
+ഉണ്ടായിരിക്കും. ശരിയായി ചിന്തിക്കാത്തതുകൊണ്ടും അനുഭവങ്ങൾ കുറഞ്ഞിരിക്കുന്നതുകൊണ്ടും അങ്ങനെ
+വരാവുന്നതാണു്. ലക്ഷ്യത്തിന്റെ പ്രഭാപൂരത്തിൽ കണ്ണഞ്ചിപ്പോകുമ്പോൾ മാർഗ്ഗംതന്നെ അദൃശ്യമായിത്തീരും.
+എത്ര ആത്മാർത്ഥതയോടെയായാലും വഴിക്കു നോക്കാതെ നടന്നാൽ കല്ലിൽ തട്ടി വീഴും.
+എഴുന്നേറ്റാൽത്തന്നെയും കണ്ണഞ്ചിച്ചുകളഞ്ഞ ലക്ഷ്യത്തെ ശപിക്കുകയും ചെയ്യും. പിന്നെ അവൻ ഫാസിസ്റ്റ്
+വൈതാളികത്വത്തിനു പറ്റിയ ആയുധമാകാൻ കാലവിളംബമുണ്ടാകില്ല. ഈ ദുരന്തം
+സംഭവിക്കാതിരിക്കണമെങ്കിൽ ലക്ഷ്യം സ്വീകരിക്കുന്നതുതന്നെ വളരെ ആലോചിച്ചതിനുശേഷം വേണം. ആ
+ലക്ഷ്യത്തിലേക്കുള്ള പ്രയാണത്തിൽ അനേകം പരീക്ഷകൾ വരും; അപകടങ്ങളും. അതോടുകൂടി കുറുക്കുവഴികൾ
+സ്വീകരിക്കാനുള്ള ആഗ്രഹവും വർദ്ധിക്കും. അവയെ എല്ലാം തിരസ്കരിക്കാത്തപക്ഷം, ഈജിപ്തിൽനിന്നു
+കനാൻനാട്ടിലെത്താൻ നാല്പതുവർഷം വേണ്ടിവന്ന യഹൂദജനതയുടെ അനുഭവമായിരിക്കും ഫലം. ഒന്നാമതു്,
+നേരെയുള്ള വഴിയേക്കാൾ നീളം കുറഞ്ഞ കുറുക്കുവഴി ഇല്ല. രണ്ടാമതു്, നിങ്ങളെത്തുന്ന ലക്ഷ്യം തെറ്റാണെങ്കിൽ
+തിരിഞ്ഞുനടക്കാൻ പ്രപഞ്ചം നിങ്ങളെ അനുവദിക്കുകയില്ല. അങ്ങെത്തിക്കഴിഞ്ഞു് എല്ലാം സാധിച്ചുകൊള്ളാം
+എന്നു നിങ്ങൾ വിചാരിക്കുന്നു. അങ്ങനെയെങ്കിൽ കൂലിയും കൈക്കൂലിയും കൊടുത്തു മതത്തിൽ ആളുകളെ
+ചേർക്കുന്നവരെപ്പറ്റി നിങ്ങൾ എന്തുപറയുന്നു? അങ്ങനെ മതത്തിലെത്തുന്നവനും എത്തിക്കുന്നവനും
+നന്നാകുമെന്നു് നിങ്ങൾ വിശ്വസിക്കുന്നില്ലെങ്കിൽ, മറ്റു വിശ്വാസങ്ങളുടെ കഥയും അതുതന്നെയെന്നു
+മനസ്സിലാക്കാമല്ലോ. ഇതു് നിങ്ങൾക്കു് ഒരു സാധനാപാഠമായിരിക്കട്ടെ; സ്വാർത്ഥതാൽപര്യങ്ങളോ,
+മുൻവിധികളോ തീണ്ടാത്ത ഒരുനല്ല സാധനാപാഠം. കൈക്കൂലി വാങ്ങി ക്രിസ്ത്യാനിയാകുന്നവൻ ക്രിസ്തുവിന്റെ
+മാർഗ്ഗത്തിൽ നടക്കുകയില്ലെങ്കിൽ അനീതിയും അസത്യവുംകൊണ്ടു് അധികാരം കയ്യടക്കുമ്പോൾ നിങ്ങളുടെ
+ചങ്ങാതികൾ മര്യാദരാമന്മാരായി, ആദർശവാന്മാരായി, പെരുമാറുമെന്നു് എന്താണുറപ്പു്? അല്ല, നിങ്ങൾതന്നെ
+നീതിമാനായിരിക്കുമെന്നു് എങ്ങനെ നിങ്ങൾതന്നെ വിശ്വസിക്കും?
+</p>
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">ഒന്നാമതു്, നേരെയുള്ള വഴിയേക്കാൾ നീളം കുറഞ്ഞ കുറുക്കുവഴി ഇല്ല. രണ്ടാമതു്,
+നിങ്ങളെത്തുന്ന ലക്ഷ്യം തെറ്റാണെങ്കിൽ തിരിഞ്ഞുനടക്കാൻ പ്രപഞ്ചം നിങ്ങളെ അനുവദിക്കുകയില്ല.
+അങ്ങെത്തിക്കഴിഞ്ഞു് എല്ലാം സാധിച്ചുകൊള്ളാം എന്നു നിങ്ങൾ വിചാരിക്കുന്നു. അങ്ങനെയെങ്കിൽ കൂലിയും
+കൈക്കൂലിയും കൊടുത്തു മതത്തിൽ ആളുകളെ ചേർക്കുന്നവരെപ്പറ്റി നിങ്ങൾ എന്തുപറയുന്നു?</p>
+            </body>
+          </floatingText>
+          <p> വ്യവസ്ഥിതി! വിപ്ലവപരമായി പുനഃസ്സംവിധാനം ചെയ്യപ്പെട്ട വ്യവസ്ഥിതി സമത്വത്തിന്റെയും നീതിയുടെയും
+അടിസ്ഥാനത്തിൽ പടുത്തുയർത്തപ്പെട്ട ഒരു സാമൂഹ്യഘടന! ആ ഉത്തരം ഉടനെ ഉണ്ടാകും. എന്നു വെച്ചാൽ, ഒരു
+സുപ്രഭാതത്തിൽ ലോകം മുഴുവനും നീതിപരമാക്കാൻ നിങ്ങൾ ആശ്രയിക്കുന്നതു് ഒരു പദ്ധതിയെയാണെന്നു്;
+അഥവാ ഒരു ഭരണഘടനയെ, കുറെ നിയമങ്ങളെ. ഇതു കേട്ടാൽതോന്നും, ഇതുവരെ ലോകത്തിലുണ്ടായ
+കുഴപ്പമെല്ലാം ഭരണഘടനകൾ എഴുതിയതിലെ അക്ഷരപ്പിശകുകൾ കൊണ്ടുണ്ടായവയാണെന്നു്.
+മനുഷ്യരെഴുതുന്ന ഏതു ഭരണഘടനയ്ക്കും മറുമരുന്നു കണ്ടുപിടിക്കാൻ മനുഷ്യൻ മതി. പശു ഏട്ടിലല്ല; പയറ്റിലാണു
+നില്ക്കുന്നതു്. നീതിയെ പരാജയപ്പെടുത്തേണ്ട ആവശ്യംതന്നെ അന്നുണ്ടായിരിക്കുകയില്ല എന്നു നിങ്ങൾ മറുപടി
+പറഞ്ഞേയ്ക്കാം. അങ്ങനെയൊരു കാലമുണ്ടാകേണ്ടതാണു്. പക്ഷേ, അതുവരെയോ? നീതി ഭരിക്കുന്ന ഒരു
+വ്യവസ്ഥിതി നടപ്പിലാക്കുന്നതുവരെ എന്തുചെയ്യും? അതു കെട്ടിപ്പടുക്കേണ്ടവർതന്നെ അവസരവാദികളും
+ആദർശഹീനന്മാരുമാണെങ്കിലോ? ഇതിനു തത്ത്വത്തെക്കാൾ വ്യക്തമായ ഉദാഹരണങ്ങൾ ഉണ്ടു്. സോവിയറ്റ്
+രാഷ്ട്രത്തിന്റെ സ്ഥാപനം കഴിഞ്ഞു് മുപ്പതുവർഷമെത്തിയാലെങ്കിലും വ്യക്തിയുടെ സ്വാർത്ഥതയ്ക്കു് ഒരറുതി
+വരേണ്ടതാണല്ലോ. പിന്നെയെങ്ങനെയാണു കഴിഞ്ഞ മഹായുദ്ധത്തിൽ അവിടെ ജർമ്മൻപക്ഷത്തു ചേർന്ന
+രാജ്യദ്രോഹികൾ ഉണ്ടായതു്? മുപ്പതുവർഷത്തിനിടയിൽ സാധിക്കാത്ത ഒരു കാര്യം ഒരു ദിവസംകൊണ്ടു
+സാധിക്കുമെന്നുള്ളതു് ഒരു വ്യാമോഹം മാത്രമാണു്.
+</p>
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">സോവിയറ്റ് രാഷ്ട്രത്തിന്റെ സ്ഥാപനം കഴിഞ്ഞു് മുപ്പതുവർഷമെത്തിയാലെങ്കിലും
+വ്യക്തിയുടെ സ്വാർത്ഥതയ്ക്കു് ഒരറുതി വരേണ്ടതാണല്ലോ. പിന്നെയെങ്ങനെയാണു കഴിഞ്ഞ മഹായുദ്ധത്തിൽ
+
+അവിടെ ജർമ്മൻപക്ഷത്തു ചേർന്ന രാജ്യദ്രോഹികൾ ഉണ്ടായതു്?</p>
+            </body>
+          </floatingText>
+          <p> പീഡയുടേയും പരാജയത്തിന്റേയും ഉമിത്തീയിൽനിന്നുകൊണ്ടു് ദുസ്സഹമായ ഹൃദയവേദനയോടെ ‘മര്യാദയും
+മറ്റും വിപ്ലവം കഴിഞ്ഞിട്ടാകാം’ എന്നു നിലവിളിച്ച നല്ലവനായ ഡാങ്കെയും ഇതോർമ്മിക്കുന്നതുകൊള്ളാം;
+അദ്ദേഹം രാഷ്ട്രീയപ്രവർത്തനമാരംഭിച്ച കാലത്തെ ആദർശഭക്തി ഇതിനകം മറന്നുകഴിഞ്ഞിട്ടില്ലെങ്കിൽ.
+</p>
+          <p>വാസ്തവമിതാണു്. യാതൊരു പുതിയ വ്യവസ്ഥിതിയും സംവിധാനം ചെയ്യുന്നതു കടലാസ്സിലല്ല.
+മനുഷ്യാത്മാക്കളെക്കൊണ്ടാണതു കെട്ടിപ്പടുക്കുന്നതു്.</p>
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">അനീതിയേയും സ്വാർത്ഥതയേയും നശിപ്പിക്കാൻ മനുഷ്യനു മാത്രമേ കഴിയൂ.
+നിയമത്തിനു കഴിയുകയില്ല. അന്യായം ചെയ്യുന്നതിനുള്ള ആവശ്യം മാത്രം പോയാൽ പോരാ, അതിനുള്ള
+ആകാംക്ഷയും പോകണം. മനുഷ്യന്റെ പരിശുദ്ധി നശിപ്പിച്ചു് അവനെക്കൊണ്ടു് പണിയിക്കുന്ന ആദർശലോകം
+ഒരു ലോകം തന്നെയായിരിക്കും;</p>
+            </body>
+          </floatingText>
+          <p> നിയമത്തിനും ആദർശത്തിനും ആത്യന്തികമായ ഉറപ്പു് ഒന്നു മാത്രമാണു്—മനുഷ്യൻ. അനീതിയേയും
+സ്വാർത്ഥതയേയും നശിപ്പിക്കാൻ മനുഷ്യനു മാത്രമേ കഴിയൂ. നിയമത്തിനു കഴിയുകയില്ല. അന്യായം
+ചെയ്യുന്നതിനുള്ള ആവശ്യം മാത്രം പോയാൽ പോരാ, അതിനുള്ള ആകാംക്ഷയും പോകണം. മനുഷ്യന്റെ
+പരിശുദ്ധി നശിപ്പിച്ചു് അവനെക്കൊണ്ടു് പണിയിക്കുന്ന ആദർശലോകം ഒരു ലോകം തന്നെയായിരിക്കും; പക്ഷേ,
+ആദർശത്തിനവിടെ പ്രസക്തിയുണ്ടായിരിക്കയില്ല ‘നട്ടതു വെള്ളരി, മുളച്ചതു പാവലു്!’
+</p>
+          <p>
+മംഗളോദയം 1949
+</p>
+          <p>
+ഇവൻ എന്റെ പ്രിയപുത്രൻ 1953
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kurukkuvazhikal (ml:
+കുറുക്കുവഴികൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-02-10. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas,
+Kurukkuvazhikal, സി. ജെ. തോമസ്, കുറുക്കുവഴികൾ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 29, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Kapok_or_silk_cotton_tree_(Ceiba_pentandra)_growing_by_a_vil_Wellcome_V0043228.jpg">Kapok
+or silk cotton tree growing by a village in Surinam,</ref> a coloured lithograph by P. Lauters
+ . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-kurukkuvazhikal.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-kurukkuvazhikal.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

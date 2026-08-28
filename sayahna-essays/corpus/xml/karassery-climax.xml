@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മോസ്റ്റ് മോഡേൺ ക്ലൈമാക്സ്</title>
+          <title xml:lang="en" type="main">Most Modern Climax</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">September 8, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മോസ്റ്റ് മോഡേൺ ക്ലൈമാക്സ്</title>
+              <title xml:lang="en" type="main">Most Modern Climax</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Most Modern Climax</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>മോസ്റ്റ് മോഡേൺ ക്ലൈമാക്സ്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 8, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Hopeless_Case.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Antonio_Rotta,_The_Hopeless_Case,_Venice,_1871.jpg">The
+Hopeless Case,</ref> a painting by Antonio Rotta  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മോസ്റ്റ് മോഡേൺ ക്ലൈമാക്സ്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മോസ്റ്റ് മോഡേൺ ക്ലൈമാക്സ്</head>
+        <div type="lsection">
+          <p style="noindent">ഉച്ചതിരിഞ്ഞ നേരം. ഞാൻ മുറിയിലിരുന്നു് വിദ്യാർത്ഥികളുടെ പ്രബന്ധങ്ങൾ
+തിരുത്തിക്കൊണ്ടിരിക്കുകയാണു്. രണ്ടു ചെറുപ്പക്കാർ പുഞ്ചിരിയോടെ കടന്നുവന്നു.
+</p>
+          <p>“ഇരിക്കൂ. മനസ്സിലായില്ലല്ലോ.”
+</p>
+          <p>“സാറിനെ ഒന്നു കണ്ടു പരിചയപ്പെടണം എന്നു കുറേക്കാലമായി വിചാരിക്കുന്നു. ഞങ്ങളുടെ
+വായനാനുഭവങ്ങളിൽ സാറ് വലിയൊരു പാഠമാണു്.”
+</p>
+          <p>ആ നേരത്തെ കുളിർതെന്നലിനു് ഒരു പുനപ്പാരായണത്തിന്റെ സുഖം. നല്ല ചെറുപ്പക്കാർ. വായനാശീലമുണ്ടു്.
+വിനയമുണ്ടു്. പ്രബന്ധം നോക്കുന്നതൊക്കെ പിന്നെ. ഇവരെയൊന്നു് ഇമ്പ്രസ് ചെയ്തില്ലെങ്കിൽ എങ്ങനെയാ?
+</p>
+          <p>ഞാൻ അവരെ നിർബന്ധിച്ചു് ഇരുത്തി. കാര്യങ്ങൾ ചോദിച്ചറിഞ്ഞു. ഇരുവരും നഗരത്തിലെ പ്രശസ്തമായ
+കോളേജിൽ പഠിക്കുകയാണു്. അവർ ഊണുകഴിച്ചു വരികയാണു് എന്നു ഞാൻ ഉറപ്പുവരുത്തി—വെറുതേ കിട്ടുന്ന
+ആതിഥേയമര്യാദയുടെ സൽപ്പേരു നഷ്ടപ്പെടുത്തുന്നതു ബുദ്ധിയല്ലല്ലോ.
+</p>
+          <p>പോസ്റ്റ് മോഡേണിസം, ഉപഭോഗസംസ്കാരം, കൊക്കക്കോളനീകരണം, ആഗോളവൽക്കരണം, ഇരട്ട
+ക്ലൈമാക്സ് തുടങ്ങിയ പ്രശ്നപരിസരങ്ങളെപ്പറ്റി അവർ വാചാലരായി.
+</p>
+          <p>“സാറിനെപ്പോലുള്ളവരുമായി ഇത്തരം സംഗതികളെപ്പറ്റി ഇന്ററാക്ട് ചെയ്യാൻ ഞങ്ങൾക്കു മാത്രമല്ല
+കോളേജിലെ മുഴുവൻ കുട്ടികൾക്കും ഒരവസരം കിട്ടേണ്ടതാണു്. സാറ് കോളേജിൽ വരണം.”
+</p>
+          <p>“സന്തോഷം. എപ്പോഴെങ്കിലും വരാം.”
+</p>
+          <p>“അയ്യോ സാർ. വൈകിയാൽ പറ്റില്ല. പിന്നെ, സാറിനെപ്പോലുള്ളവർ വരുമ്പോൾ ഒരു മീറ്റിങ്ങൊക്കെ
+സംഘടിപ്പിച്ചെടുക്കേണ്ടേ?”
+</p>
+          <p>വിനയം പ്രകടിപ്പിക്കേണ്ട നേരം ഇതാ വന്നെത്തിയിരിക്കുന്നു. “അതൊന്നുംം വേണ്ട. നമുക്കു വല്ല
+മരത്തണലിലും ഇരുന്നു് ഇന്ററാക്ട് ചെയ്യാം. അതൊക്കെ ഇൻഫോർമൽ ആവുന്നതല്ലേ ഭംഗി?”
+</p>
+          <p>അവർ സമ്മതിച്ചില്ല. അടുത്ത തിങ്കളാഴ്ച രാവിലെ കൃത്യസമയത്തു് ചെല്ലണം. ആ കൂട്ടായ്മയുടെ
+സ്വത്വരൂപീകരണവുമായി ബന്ധപ്പെട്ട ഒരുഛേദം സാറ് കാണണം. അന്നു കോളേജ് യൂണിയൻ ഉദ്ഘാടനമുണ്ടു്.
+</p>
+          <p>ഒരു കൗതുകം കൊണ്ടു ഞാൻ ചോദിച്ചു. “ആരാണു് ഉദ്ഘാടകൻ?”
+</p>
+          <p>“സാറ് തന്നെ.”
+</p>
+          <p>ഞാൻ, ചെറുതായിട്ടാണെങ്കിലും, ഒന്നു ഞെട്ടി.
+അപ്പോൾ അതാണു് വികാരപരമായ ഉള്ളടക്കം. യൂണിയൻ ഉദ്ഘാടനത്തിനു് ഒരുത്തനെ ക്ഷണിക്കുന്നതിന്റെ
+പോസ്റ്റ് മേഡേൺ ജ്ഞാനപരിസരമാണിതു്. അതു ഞാൻ നേരത്തേ വായിച്ചെടുക്കാഞ്ഞതു് അവരുടെ
+കുറ്റമാണോ?
+</p>
+          <p>ഞാൻ ഒഴിഞ്ഞു. ക്ലാസുള്ള ദിവസമാണു്. ലീവെടുത്തു പ്രസംഗിക്കാൻ വരാൻ പറ്റില്ല. ലീവില്ല.
+</p>
+          <p>കാറുമായി വരാം. എവിടെയും കേന്ദ്രീകരിക്കേണ്ടതില്ല. ലീവിൽ ഒട്ടും കേന്ദ്രീകരിക്കേണ്ട. ഒരു മണിക്കൂർ
+നേരത്തെ കാര്യമേയുള്ളു തുടങ്ങിയ പല്ലവികളുടെ വരവായി. ഞാൻ വീഴാതെ ഒരുമാതിരി പിടിച്ചുനിന്നു.
+</p>
+          <p>ചെറുപ്പക്കാർ പ്രശ്നം അപകേന്ദ്രീകരിച്ചു. “സാറ് ഇങ്ങനെ ഇന്ററാക്ട് ചെയ്താൽ ഞങ്ങൾ ചുറ്റിപ്പോവും.
+സാറിന്റെ വായനാനുഭവം ഓർത്തു ഞങ്ങൾ ഈ പണി ഏറ്റെടുത്തെന്നേയുള്ളൂ. സാറിനെ ഇത്തവണ
+
+ഉദ്ഘാടകനായി ക്ഷണിക്കണം എന്നു നിശ്ചയിച്ചതു ഞങ്ങളല്ല, കോളേജ് കൗൺസിൽ ആണു്. ഇവിടെയിരുന്നു
+ഞങ്ങൾക്കു് ആ തീരുമാനം അപകേന്ദ്രീകരിക്കാൻ പറ്റുമോ? ഇതാ സാർ, പ്രിൻസിപ്പലിന്റെ കത്തു്.”
+</p>
+          <p>വെളുത്തു മിനുത്ത കടലാസ്. ഡി. ടി. പി. കമ്പോസിങ്. പൂജ്യനായ സാറിനു് എന്നു മാത്രമായുള്ളൂ. ആ
+സംബോധന എനിക്കു രസിച്ചു. ആദരണീയരെ പേരു് വിളിക്കരുതു് എന്ന മര്യാദയൊക്കെ ഇന്നു് എത്ര കുറച്ചു
+പേർക്കേ അറിയാവൂ! എന്റെ വ്യക്തിത്വം, പാണ്ഡിത്യം, പ്രസംഗവൈഭവം മുതലായവയെ കത്തിൽ പുകഴ്ത്തിയതും
+സുഖിച്ചു. നേരു പറയാമല്ലോ പ്രിൻസിപ്പലിനോടു വല്ലാത്തൊരു സ്നേഹം തോന്നിപ്പോയി. ഒരു നിമിഷം
+പരിപാടിക്കു ചെന്നാലോ എന്നാലോചിച്ചു. എങ്കിലും—
+</p>
+          <p>“കാര്യമൊക്കെ ശരി. ലീവില്ല.”
+</p>
+          <p>“സാറിനെ കിട്ടിയില്ലെങ്കിൽ ഇത്തവണ ഉദ്ഘാടനംതന്നെ വേണ്ടെന്നു ഞങ്ങളുടെ മീറ്റിങ്ങിൽ ചിലർ പറഞ്ഞു.
+സാറ് ഇതു പ്രശ്നവൽക്കരിക്കരുതു്. കുട്ടികൾ സാറിന്റെ പ്രസംഗം കേൾക്കാൻ അത്ര
+താൽപര്യമായിട്ടിരിക്കുകയാണു്.”
+</p>
+          <p>വീഴാവുന്ന നേരം. എങ്കിലും ഞാൻ പിടിച്ചുതന്നെ നിന്നു. നിർബന്ധം മുറുകി.
+</p>
+          <p>“ശരി. പരിപാടി ശനിയാഴ്ചക്കു മാറ്റിക്കോളൂ. ഞാൻ വരാം.”
+</p>
+          <p>“അയ്യോ സാർ, ശനിയാഴ്ച കോളേജിൽ ഒരു കുഞ്ഞും വരില്ല. അന്നു് ആരു പ്രസംഗിച്ചാലും, എന്തു പരിപാടി
+നടത്തിയാലും… പിന്നെ, തിങ്കളാഴ്ചയ്ക്കു് എല്ലാം ഏർപ്പാടു ചെയ്തുപോയി.”
+</p>
+          <p>“വെരി സോറി. ലീവില്ലാഞ്ഞിട്ടാണു്.”
+</p>
+          <p>യാതൊരു ഭാവഭേദവും ഇല്ലാതെ രണ്ടുപേരും എഴുന്നേറ്റു. “ശരി സാർ”
+</p>
+          <p>“ശരി.”
+</p>
+          <p>അവർ പോകുന്നില്ല.
+</p>
+          <p>“എന്താ?”
+</p>
+          <p>“സാർ കത്തു്… ”
+</p>
+          <p>“എന്താ കത്തിനു മറുപടി എഴുതിത്തരണോ?”
+</p>
+          <p>അവരൊന്നും മിണ്ടിയില്ല. ഞാൻ ചുരുങ്ങിയ വാക്കുകളിൽ ആ മധുരോദാരമായ കത്തു് അർഹിക്കുന്ന മട്ടിലുള്ള
+മര്യാദനിറഞ്ഞ ഒരു മറുപടി എഴുതിക്കൊടുത്തു.
+</p>
+          <p>എന്നിട്ടും അവർ പോകുന്നില്ല. “സാർ, ആ കത്തു മടക്കിത്തരണം.”
+</p>
+          <p>“എനിക്കെഴുതിയ കത്തു് നിങ്ങൾക്കെന്തിനാ?”
+</p>
+          <p>“അതല്ല സാർ. പ്രിൻസിപ്പൽ ആ കത്തിന്റെ കുറേ ഫോട്ടോസ്റ്റാറ്റ് കോപ്പിയെടുക്കാൻ പറഞ്ഞിരുന്നു. പൈസ
+കളയേണ്ടെന്നു കരുതി ഞങ്ങൾ എടുത്തില്ല. സാറിനു് ഇനി, ആ കത്തെന്തിനാ?”
+</p>
+          <p>എനിക്കതങ്ങോട്ടു തലയിൽ കയറിയില്ല. ഞാൻ അവരെ വീണ്ടും ചോദ്യഭാവത്തിൽ നോക്കി.
+</p>
+          <p>“സാർ ഇനി വേറെ ചിലരെ ട്രൈ ചെയ്യാനുണ്ടു്. അതിനും കൂടിയുള്ള കത്താണതു്.”
+</p>
+          <p>അപ്പോഴാണു കത്തിൽ സംബോധന വരുന്നേടത്തു് ആരുടെയും പേരെഴുതിയിട്ടില്ലല്ലോ എന്നു് ഈ
+‘പൂജ്യനായ’ സാറിനു വെളിവു വീണതു്!
+</p>
+          <p>അതെ, അതു് ഒരാളിലും കേന്ദ്രീകരിക്കുന്നില്ല!
+</p>
+          <p>
+മലയാളമനോരമ: 3 ഡിസംബർ 1998.
+
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Most Modern Climax (ml: മോസ്റ്റ്
+മോഡേൺ ക്ലൈമാക്സ്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery, Most
+Modern Climax, എം. എൻ. കാരശ്ശേരി, മോസ്റ്റ് മോഡേൺ ക്ലൈമാക്സ്, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 8, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Antonio_Rotta,_The_Hopeless_Case,_Venice,_1871.jpg">The
+Hopeless Case,</ref> a painting by Antonio Rotta  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-climax.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-climax.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

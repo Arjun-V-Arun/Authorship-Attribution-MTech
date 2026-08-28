@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചോദ്യോത്തരങ്ങൾ, കത്തുകൾ</title>
+          <title xml:lang="en" type="main">Chodyotharangal, Kaththukal</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 29, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചോദ്യോത്തരങ്ങൾ, കത്തുകൾ</title>
+              <title xml:lang="en" type="main">Chodyotharangal, Kaththukal</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Chodyotharangal</term>
+          <term>Kaththukal</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ചോദ്യോത്തരങ്ങൾ</term>
+          <term>കത്തുകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 29, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Fresh_flowers_from_the_country.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Valentine_Cameron_Prinsep__Fresh_flowers_from_the_country.jpg">Fresh flowers from the country,</ref> a
+
+painting by <ref target="https://en.wikipedia.org/wiki/en:Valentine_Cameron_Prinsep">Valentine
+Cameron Prinsep</ref>  (1838–1904). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചോദ്യോത്തരങ്ങൾ, കത്തുകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചോദ്യോത്തരങ്ങൾ, കത്തുകൾ</head>
+        <div type="lsection">
+          <p style="noindent">ഭാഷകൊണ്ടും പ്രമേയം കൊണ്ടും വായനക്കാരുമായി വളരെയേറെ അടുപ്പം
+നേടുന്ന എഴുത്തുകാരനാണു് <ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">ബഷീർ</ref>.
+സാധാരണ നിലയിൽ എഴുത്തുകാർ രചനാപ്രമേയമായി സ്വീകരിക്കുവാൻ മടിക്കുന്ന സർവ്വസാധാരണവും
+തുച്ഛവും ആയ സംഗതികൾ അദ്ദേഹത്തിന്റെ സാഹിത്യലോകത്തു് ധാരാളമായി കണ്ടുകിട്ടും. പുല്ലിനും പുഴുവിനും
+തന്നോളം തന്നെ പ്രാധാന്യം കല്പിക്കുന്ന മനോഭാവം ഉള്ളതുകൊണ്ടായിരിക്കാം, എന്തും
+സാഹിത്യവിഷയമാക്കുന്ന രീതി അദ്ദേഹത്തിൽ പുലർന്നുകാണുന്നതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/S-guptan-nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. ഗുപ്തൻ നായർ</figDesc>
+          </figure>
+          <p> 1947–48 കാലത്തു് മദിരാശിയിൽനിന്നു് പുറപ്പെട്ടിരുന്ന ജയകേരളം മാസികയിലും എറണാകുളത്തു് നിന്നു്
+പുറപ്പെട്ടിരുന്ന ‘നർമ്മദ’യിലും ‘നേരും നുണയും’ എന്ന തലക്കെട്ടിൽ അദ്ദേഹം കൈകാര്യം ചെയ്തു പോന്നിരുന്ന
+ചോദ്യോത്തര പംക്തി സഹൃദയശ്രദ്ധ നേടിയതു് സ്വാഭാവികം. 1969-ൽ ഈ ചോദ്യോത്തരങ്ങൾ
+സമാഹൃതരൂപത്തിൽ പുറത്തിറങ്ങുകയുണ്ടായി. അമ്മട്ടിലുള്ള മലയാളത്തിലെ ആദ്യത്തെ സമാഹാരം
+അതായിരിക്കാം.
+</p>
+          <p>ഈ ചോദ്യോത്തരപംക്തി ബഹുവിശേഷമാണു്—മനഃശാസ്ത്രജ്ഞനോടോ, ഡോക്ടറോടോ,
+ഭാഷാപണ്ഡിതനോടോ, സൗന്ദര്യസംരക്ഷണ വിദഗ്ദ്ധനോടോ, പാചക വിദഗ്ദ്ധയോടോ, പത്രാധിപരോടോ
+ഒക്കെയാണു് വായനക്കാർ ചോദ്യം ചോദിക്കാറുള്ളതു്. ബഷീർ മേല്പറഞ്ഞ ഒരു ഗണത്തിലും വരുന്ന ആളല്ല. ചുമ്മാ
+ഒരു രസത്തിനു് ആളുകൾ ചോദിക്കുന്നു. അദ്ദേഹം തൊള്ളയിൽ തോന്നിയ മറുപടി പറയുന്നു. ചിരിയാണു് ലക്ഷ്യം.
+</p>
+          <p>രാഷ്ട്രീയം, സാമൂഹ്യപ്രശ്നങ്ങൾ, സാമ്പത്തികപ്രശ്നങ്ങൾ, സാഹിത്യസംഭവങ്ങൾ മുതലായവയെല്ലാം ഇവിടെ
+വിഷയമാവുന്നുണ്ടു്. പക്ഷേ, എല്ലാം കാരിക്കേച്ചർ രൂപത്തിലാണു്. ചില ഉദാഹരണങ്ങൾ:
+<list rend="numbered"><item n="">‘ചോദ്യം: കമ്യൂണിസ്റ്റുകാരെ ഓന്തിനോടു് ഉപമിക്കുന്നതിൽ, തെറ്റുണ്ടോ?’
+‘ഉത്തരം: വരട്ടെ, ഞാനീ നാട്ടിലെ എല്ലാ ഓന്തുകളേയും ഒന്നു വിളിച്ചുകൂട്ടി അവരുടെ
+അഭിപ്രായങ്ങളൊന്നാരാഞ്ഞോട്ടെ, അവർക്കു് പ്രതിഷേധമില്ലെങ്കിൽ വിവരമറിയിക്കാം.’ </item><item n="">‘ചോദ്യം: താങ്കൾ ഒരു മുരടിച്ച കമ്യൂണിസ്റ്റ് മൂരാച്ചിയാണെന്നു് കേൾക്കുന്നു, ശരിയാണോ?’
+‘ഉത്തരം: മൂരാച്ചിയാണു്, കമ്യൂണിസ്റ്റല്ല.’ </item></list>
+
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sukumar_azhikode.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുകുമാർ അഴീക്കോടു്</figDesc>
+          </figure>
+          <p> ഈ കൂട്ടത്തിൽ ആത്മകഥാപരാമർശകങ്ങളായ ധാരാളം വിവരണങ്ങൾ വരുന്നുണ്ടു്. ബഷീർ അപ്പപ്പോൾ
+
+ഉണ്ടാക്കിപ്പറയുന്ന കഥകൾ വേറെയും. ഉത്തരം പറഞ്ഞുതുടങ്ങുമ്പോൾ ഇതു സംബന്ധമായി ഒരു കഥ പറയാം
+എന്നു പറഞ്ഞു് അദ്ദേഹം ഏതെങ്കിലുമൊരു സങ്കല്പരംഗം സൃഷ്ടിക്കും. ബഷീർ പറയുന്ന ആ സംഭവത്തിലല്ല,
+പറയുന്ന രീതിയിലാണു് നർമ്മം കുടികൊള്ളുന്നതു്.
+</p>
+          <p>തമാശ പറയുന്നതിനിടയിൽ ബഷീർ ഗൗരവമായി രാഷ്ട്രീയ പ്രശ്നങ്ങളെപ്പറ്റിയും സാമൂഹ്യപ്രശ്നങ്ങളെപ്പറ്റിയും
+സംസാരിക്കുന്ന സന്ദർഭങ്ങളുമുണ്ടു്. ഇതിനിടയിൽ അദ്ദേഹം തത്വചിന്തയിലേക്കു് തെന്നുന്ന രംഗവും
+അത്യപൂർവമായി കാണാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Vaikom_chandrasekaran_nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">വൈക്കം ചന്ദ്രശേഖരൻനായർ</figDesc>
+          </figure>
+          <p> ഈ പുസ്തകത്തിന്റെ രണ്ടാം ഭാഗം കത്തുകളാണു്. വിവിധ പ്രസിദ്ധീകരണങ്ങളുടെ പത്രാധിപന്മാരായ
+സുഹൃത്തുക്കൾക്കു് എഴുതിയവയാണു് അധികവും. 1955 മുതൽക്കുള്ള കത്തുകൾ—കൗമുദി പത്രാധിപർ <ref target="https://ml.wikipedia.org/wiki/K._Balakrishnan">കെ. ബാലകൃഷ്ണൻ</ref>,
+കുങ്കുമം പത്രാധിപർ <ref target="https://ml.wikipedia.org/wiki/Vaikom_Chandrasekharan_Nair">വൈക്കം
+ചന്ദ്രശേഖരൻനായർ</ref>, ജനയുഗം പത്രാധിപർ <ref target="https://ml.wikipedia.org/wiki/Kambisseri_Karunakaran">കാമ്പിശ്ശേരി
+കരുണാകരൻ</ref>, തൂലിക പത്രാധിപർ വക്കം അബ്ദുൽഖാദർ, സാഹിത്യപ്രവർത്തകസഹകരണസംഘം
+പ്രസിഡണ്ട് <ref target="https://ml.wikipedia.org/wiki/S._Guptan_Nair">എസ്.
+ഗുപ്തൻ നായർ</ref>, മലയാളനാടു് വാരിക പത്രാധിപർ എസ്. കെ. നായർ തുടങ്ങിയവർക്കു് എഴുതിയവ.
+ഇവയുടെ പൊതുസ്വഭാവം പരിഹാസമാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kambisery.png" rendition="gra"/>
+            <figDesc style="thumb">കാമ്പിശ്ശേരി കരുണാകരൻ</figDesc>
+          </figure>
+          <p> ഇവ പൂർണമായ അർത്ഥത്തിൽ സ്വകാര്യക്കത്തുകളല്ല. അച്ചടിക്കാൻ ഇടയുണ്ടു് എന്ന ധാരണയോടെയോ
+അച്ചടിക്കാൻ വിരോധമില്ല എന്ന വിചാരത്തോടെയോ എഴുതിയവയാണെല്ലാം. രഹസ്യവും പരസ്യവും എന്നു്
+കാര്യങ്ങൾ വകതിരിക്കാതെ ആരോടും എപ്പോഴും എന്തും തുറന്നുപറയുന്ന പ്രകൃതക്കാരനായതു കൊണ്ടു്
+ബഷീറിന്റെ സ്വകാര്യക്കത്തുകളും ഇവയും തമ്മിൽ വ്യത്യാസമൊന്നുമില്ല. <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">സുകുമാർ
+അഴീക്കോടു്</ref> തുടങ്ങിയ സുഹൃത്തുക്കൾക്കു് ബഷീർ അയച്ച സ്വകാര്യക്കത്തുകൾ ശേഖരിച്ചു് ബഷീറിന്റെ
+മരണശേഷം കൊല്ലത്തെ ഇംപ്രിന്റ് ബുക്സ് ചെറിയൊരു സമാഹാരം ഇറക്കുകയുണ്ടായി—‘വൈക്കം മുഹമ്മദ്
+ബഷീറിന്റെ കത്തുകൾ’ (1995). ‘ധർമ്മരാജ്യ’ത്തിന്റെ പുതിയ പതിപ്പിലും ( 2008) കുറേ കത്തുകളുണ്ടു്. വിഷയത്തിന്റെ
+കാര്യം: ഏതു വീട്ടുകാര്യവും ബഷീറിനു് നാട്ടുകാര്യമാണു്; ഏതു നാട്ടുകാര്യവും ബഷീറിനു് വീട്ടുകാര്യമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/vakkam_abdul_khader.jpg" rendition="gra"/>
+            <figDesc style="thumb">വക്കം അബ്ദുൽഖാദർ</figDesc>
+          </figure>
+          <p> ആ ഭാഷയുടെ പ്രസാദവും നർമവും മറ്റു സാഹിത്യരചനകളിൽ എന്നപോലെ കത്തുകളിലെവിടെയും
+ഒളിമിന്നി നില്ക്കുന്നുണ്ടു്. ബഹുമാനപ്പെട്ട എൻ. ബി. ഇട്ടു് എഴുതിയിരിക്കുന്നു: ബഹുമാനപ്പെട്ട എന്ന വാക്കു് ചുമ്മാ
+ഉപയോഗിച്ചിരിക്കയാണു്. മറ്റൊരു കത്തിൽ നിന്നു്: വേറേ വിഷേശങ്ങളൊന്നുമില്ല. സുഖം. നമുക്കും
+പട്ടമഹിഷിക്കും മോൾക്കും—ഷാനും സുഖം. ഷാൻ എന്നു പറയുന്നതു് ഒരു നായക്കുട്ടിയാണു്. ഇവൻ
+ശുദ്ധപറയനാണു്. എന്നാൽ ഇവന്റെ പിതാമഹപരമ്പരയിൽ എവിടെയോ ഒരുഗ്രൻ അൾസേഷ്യൻ ഉണ്ടെന്നു്
+പറയുന്നു. ഈ വിശ്വാസത്തിലാണു് ഇവനെ തീറ്റിപ്പോറ്റുന്നതു്. ഇവന്റെ പ്രധാന ഡ്യൂട്ടി കള്ളന്മാരെയും
+പത്രക്കാരെയും കടിക്കുക എന്നുള്ളതാകുന്നു. ഇവൻ കടിക്കുന്നില്ലെങ്കിൽ കള്ളന്മാരെയും പത്രക്കാരെയും നമ്മൾ
+കടിക്കും. ഇവനേയും കടിക്കും. (സമ്പൂർണ്ണകൃതികൾ, വാല്യം 2, 1992: പു. 1342) വേറൊരു കത്തിൽ:
+
+പറഞ്ഞുകൊടുത്തെഴുതിക്കാൻ ഭാര്യ ഒന്നേയുള്ളൂ. ഒരഞ്ചാറെണ്ണത്തിനെക്കൂടി കെട്ടിയാൽ കൊള്ളാമെന്നുണ്ടു്.
+പിന്നെ ഇതിന്റെയൊക്കെ നാക്കും ഒച്ചയും ഓർക്കുമ്പോൾ ഈയുള്ള ഏക തന്നെ ധാരാളം. (ടി. പുസ്തകം, പു. 1345)
+</p>
+          <p>ബഷീറിന്റെ കൂടെയിരുന്നു് വർത്തമാനം പറയുന്നതിന്റെ രസം പകർന്നു തരുന്നവയാണു് ഈ
+ചോദ്യോത്തരങ്ങളും കത്തുകളും.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Chodyotharangal, Kaththukal (ml:
+ചോദ്യോത്തരങ്ങൾ, കത്തുകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Chodyotharangal, Kaththukal, എം. എൻ. കാരശ്ശേരി, ചോദ്യോത്തരങ്ങൾ, കത്തുകൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 29, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Valentine_Cameron_Prinsep__Fresh_flowers_from_the_country.jpg">Fresh flowers from the country,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Valentine_Cameron_Prinsep">Valentine
+Cameron Prinsep</ref>  (1838–1904). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-chodyotharam.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasserychodyotharam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

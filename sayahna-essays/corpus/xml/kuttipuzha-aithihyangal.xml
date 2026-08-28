@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഐതിഹ്യങ്ങൾ</title>
+          <title xml:lang="en" type="main">Aithihyangal</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">November 20, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഐതിഹ്യങ്ങൾ</title>
+              <title xml:lang="en" type="main">Aithihyangal</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Aithihyangal</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഐതിഹ്യങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 20, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Nile_Mist.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Wilhelm_Kotarbinski__The_Nile_Mist.jpg">The Nile Mist,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Wilhelm_Kotarbi%C5%84ski">Wilhelm
+Kotarbiński</ref>  (1848–1921). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഐതിഹ്യങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഐതിഹ്യങ്ങൾ</head>
+        <div type="lsection">
+          <p style="noindent">സാഹിത്യത്തിനു വാമൊഴിയെന്നും വരമൊഴിയെന്നും രണ്ടുവിഭാഗമുണ്ടല്ലോ.
+ഇവയിൽ ആദ്യത്തേതിൽനിന്നാണു് ഐതിഹ്യങ്ങളുടെ ഉല്പത്തി. ഏറെക്കാലം വാമൊഴിയായി
+പ്രചരിച്ചതിനുശേഷം ഐതിഹ്യങ്ങളിൽ പലതും വരമൊഴിയിലേക്കു സംക്രമിച്ചെന്നും വരാം. നമ്മുടെ
+രാമായണഭാരതാദികൾ ഇപ്രകാരം വാഗ്രൂപം പൂണ്ടതെല്ലെന്നു് ആരു കണ്ടു? അതിപ്രാചീനകാലത്തു് ഈ കഥകൾ
+ബഹുജനമദ്ധ്യത്തിൽ ഐതിഹ്യരൂപേണ പരമ്പരയാ പ്രചരിച്ചിരുന്നിരിക്കണം. അതിനുശേഷമായിരിക്കണം
+അവ ഗ്രന്ഥരൂപത്തിലായതു്. ഐതിഹ്യങ്ങൾക്കു മനുഷ്യസമുദായത്തോളംതന്നെ പഴക്കമുണ്ടെന്നു പറയാം.
+വരമൊഴി നടപ്പാക്കുന്നതിനുമുമ്പേ മനുഷ്യവർഗ്ഗങ്ങളുടെയിടയിൽ അവരുടെ ദേശചരിത്രത്തേയും
+ജീവിതസമ്പ്രദായങ്ങളേയും സംബന്ധിച്ചു പല കഥകളും പ്രചരിച്ചിരുന്നു. ഓരോ തലമുറവഴിക്കു പറഞ്ഞുകേട്ടു
+ജനതാമദ്ധ്യത്തിൽ സ്ഥിര പ്രതിഷ്ഠ നേടിയ ഇത്തരം കഥകളാണു ഒടുവിൽ ഐതിഹ്യങ്ങളായി പരിണമിച്ചതു്.
+സംസ്കൃതഭാഷയിൽ, ഇങ്ങനെ പറഞ്ഞുകേൾക്കുന്നു എന്നു് അർത്ഥം വരത്തക്കവിധത്തിൽ പ്രയോഗിക്കാറുള്ള
+‘ഇതിഹ’ എന്ന പദത്തിൽനിന്നാകാം ഐതിഹ്യം എന്ന വാക്കിന്റെ ആഗമം.
+</p>
+          <p>ഏതു ദേശക്കാർക്കും അവരുടെ സ്വന്തമായി നിരവധി ഐതിഹ്യങ്ങളുണ്ടായിരിക്കും. പൂർവ്വികരുടെ
+ജീവിതരീതിയിലും ആദർശങ്ങളും അപവാദനങ്ങളും അവർക്കുണ്ടായിട്ടുള്ള ജയാപജയങ്ങളും അന്നത്തെ
+ദേശകാലസ്ഥിതികളും മറ്റും അവയിൽ പ്രതിഫലിച്ചിട്ടുണ്ടാകും. അതുകൊണ്ടു് അനന്തരഗാമികൾക്കു് അവ
+നാനാപ്രകാരേണ മാർഗ്ഗദർശകങ്ങളും ഉത്തേജകങ്ങളും ആയിത്തീരാവുന്നതാണു്. വർഗ്ഗീയമോ ദേശീയമോ ആയ
+ആചാരമര്യാദകളും വിശ്വാസപ്രമാണങ്ങളും സ്വഭാവവിശേഷങ്ങളും കാലാന്തരത്തിൽ നശിച്ചുപോകാതെ
+സൂക്ഷിക്കുവാൻ ഐതിഹ്യങ്ങൾ സഹായിക്കുന്നുണ്ടു്. ഇവയിൽക്കൂടിത്തന്നെ ദേശാഭിമാനവും വർഗ്ഗീയമഹിമയും
+നിലനിന്നു പോരുന്നു. എന്നാൽ ഇപ്രകാരം ദേശവർഗ്ഗഭേദബുദ്ധി വളർത്തിക്കൊണ്ടുവരുന്നതു ഭാവിയിൽ
+എത്രമാത്രം അഭിലഷണീയമാണു് എന്നു ചിന്തിക്കേണ്ടതുണ്ടു്. മനുഷ്യവംശം മുഴുവൻ
+ജാതിമതദേശവർഗ്ഗപരിഗണന ഉപേക്ഷിച്ചു് ഏകോദരസഹോദരബുദ്ധ്യാ സംഘടിക്കേണ്ട ഒരു
+കാലഘട്ടത്തിലാണല്ലോ നാം എത്തിച്ചേർന്നിരിക്കുന്നതു്. ചരിത്രം മാറ്റി എഴുതപ്പെടണമെന്നുപോലും
+പണ്ഡിതന്മാർ പറഞ്ഞുതുടങ്ങിയിരിക്കുന്നു. ആ നിലയ്ക്കു് ഐതിഹ്യങ്ങളുടെ വിലയും നിലയും പുനഃപരിശോധന
+ചെയ്യേണ്ടിവരും.
+</p>
+          <p>ഐതിഹ്യങ്ങൾ പരിശോധിക്കുമ്പോൾ അവയിൽ വാസ്തവം, കല്പിതം എന്ന രണ്ടംശങ്ങളുള്ളതായി
+കാണാമല്ലോ. ഇവയിൽ വാസ്തവികാംശം ഏറെക്കുറഞ്ഞും കല്പിതാംശം വളരെക്കൂടിയും ആണു് സാധാരണ
+കണ്ടുവരുന്നതു്. എല്ലാത്തരം ഐതിഹ്യങ്ങളിലും ചരിത്രസത്യത്തിന്റെ ശകലം ഒളിഞ്ഞുകിടക്കുന്നുണ്ടാകുമെങ്കിലും
+അവയിൽ തൊണ്ണൂറുശതമാനവും വക്താക്കളുടെ പരമ്പരാഗതമായ മനോധർമ്മം വികസിച്ചു
+പെരുകിയതാണെന്നു നിസ്സന്ദേഹം പറയാം. ശ്രോതാക്കളുടെ രസത്തിനുവേണ്ടി കൂട്ടിച്ചേർത്തതാണീ
+കല്പിതാംശം. മനുഷ്യർ പ്രകൃത്യാതന്നെ അതിശയോക്തിപ്രിയരാണല്ലോ. വാസ്തവത്തിൽ നടന്ന ഒരു
+സംഭവത്തെപ്പറ്റി ഒരാൾ മറ്റൊരാളോടു പറയുമ്പോൾ അയാൾ അറിയാതെതന്നെ അതിൽ അതിശയോക്തി
+കടന്നുകൂടുന്നു. ഈ സ്വഭാവവിശേഷം തലമുറ തലമുറയായി തുടർന്നു പ്രവർത്തിച്ചതിന്റെ ഫലമായിട്ടായിരിക്കണം
+ഇപ്പോഴത്തെ ഐതിഹ്യങ്ങളിൽ ഇത്രയധികം കൽപിതാംശം ഉണ്ടായിത്തീർന്നതു്. കെട്ടുകഥകളോ
+അത്ഭുതകഥകളോ എന്നു പറയാവുന്ന ഈവക ഐതിഹ്യങ്ങൾക്കു ചരിത്രത്തിന്റെ വില കല്പിക്കുന്നതു്
+അയുക്തമെന്നു മാത്രമല്ല ആപല്ക്കരവുമാണു്. സത്യാവസ്ഥ കാണാതിരിക്കുന്നതിനുംപുറമേ അസത്യത്തിൽ
+വിശ്വസിക്കുന്നതിനും അതു പ്രേരകമാകും. ഉദാഹരണത്തിനു ദേവാലയങ്ങളെ ചുറ്റിപ്പറ്റി പൊന്തിവന്നിട്ടുള്ള
+നിരവധി ഐതിഹ്യങ്ങൾ പരിശോധിച്ചുനോക്കുക. എത്രയെത്ര ക്ഷിപ്രവിശ്വാസികൾ അവയിൽ അന്ധമായി
+വിശ്വസിച്ചു മതപരമായ കാടുകയറ്റം നടത്തുന്നു! പുരാണേതിഹാസങ്ങൾക്കും ആസ്പദം
+ഐതിഹ്യങ്ങളായിരിക്കണമെന്നു മുമ്പു സൂചിപ്പിച്ചുവല്ലോ. ഇവയ്ക്കും ചരിത്രത്തിന്റെ വില കല്പിക്കുന്നതു
+മതിഭ്രാമകമാകും. ചരിത്രസത്യാന്വേഷണം കലുഷമാക്കാനേ അതു് ഉപകരിക്കയുള്ളൂ. രാമായണത്തിലെ
+പുഷ്പകവിമാനം ചൂണ്ടിക്കാണിച്ചുകൊണ്ടു പ്രാചീന ഭാരതീയർ വിമാന നിർമ്മാണത്തിലും
+വിരുതന്മാരായിരുന്നുവെന്നു വാദിക്കുന്ന കൂട്ടരുണ്ടു്. കാവ്യങ്ങളിൽ കാണുന്ന കവിഭാവനയെ സങ്കുചിതമായ
+ദേശീയ ദുരഭിമാനത്താൽ ചരിത്രപദവിയിലേക്കു് ഉയർത്താൻ വെമ്പൽകൊള്ളുന്നവരാണിവർ.
+</p>
+          <p>ഐതിഹ്യം ശബ്ദപ്രമാണമെന്നു ചില താർക്കികന്മാർ വാദിക്കുന്നുണ്ടു്. എന്നാൽ ന്യായശാസ്ത്രകാരനായ
+ഗൌതമൻ അതിനെ നിഷേധിക്കുന്നു. വടവൃക്ഷത്തിൽ യക്ഷൻ വസിക്കുന്നു എന്നതു് ഒരു ഐതിഹ്യമാണല്ലോ.
+അതെടുത്തുദാഹരിച്ചുകൊണ്ടു് അതിനു ശബ്ദപ്രമാണത്തിൽ അന്തർഭാവമില്ല എന്നു് അദ്ദേഹം തെളിയിക്കുന്നു. ഈ
+
+അന്ധവിശ്വാസത്തെ അവലംബിച്ചു് ‘വടേയക്ഷന്യായം’ എന്നൊരു ന്യായംതന്നെ സംസ്കൃതത്തിൽ നടപ്പായിട്ടുണ്ടു്.
+വൃക്ഷത്തിൽ യക്ഷനോ യക്ഷിയോ വസിക്കുന്നുവെന്നു് ഒരു ദേശത്തു കുറേ മൂഢന്മാർ തലമുറയായി
+പറഞ്ഞുവരുന്നുവെന്നു കരുതി സുബോധമുള്ളവർ ആരെങ്കിലും അതു വിശ്വസിച്ചു പ്രമാണമാക്കുമോ?</p>
+          <lg>
+            <l> ‘ഐതിഹ്യം തു ന സത്യമത്രേ ഹി വടേ</l>
+            <l> യക്ഷോഽസ്തി വാ നേതി വാ</l>
+            <l> കോ ജാനാതി കദാ ച കേന കലിതം</l>
+            <l> യക്ഷസ്യയ കീദൃഗ്വപുഃ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന ശ്ലോകം ഐതിഹ്യത്തിന്റെ ശബ്ദപ്രാമാണ്യത്തെ തിരസ്കരിക്കുന്നു. ദീർഘ
+കാലപ്രസിദ്ധിയുള്ളതുകൊണ്ടു മാത്രം ഒരു കാര്യം സത്യമാകുന്നതല്ലല്ലോ.
+</p>
+          <p style="noindent">വിജ്ഞാനത്തേക്കാൾ കൂടുതൽ വിനോദം നല്കുന്ന ഒരു
+സാഹിത്യശാഖയെന്നനിലയിൽ ഐതിഹ്യങ്ങൾക്കു സ്ഥാനമുണ്ടെന്നു സമ്മതിക്കാം. <ref target="https://ml.wikipedia.org/wiki/Kottarathil_Sankunni">കൊട്ടാരത്തിൽ
+ശങ്കുണ്ണി</ref> യുടെ <ref target="https://books.sayahna.org/ml/pdf/aim-ph-1.pdf">ഐതിഹ്യമാല</ref>
+നമ്മുടെ ഭാഷയ്ക്കൊരു നേട്ടവുമാണു്. അതിലെ കഥകൾ ആർക്കും വായിച്ചു രസിക്കാം. പക്ഷേ,
+കേരളചരിത്രനിർമ്മാണത്തിനു് ഏതാദൃശകൃതികൾ പ്രമാണമാക്കരുതെന്നേയുള്ളൂ.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Aithihyangal (ml:
+ഐതിഹ്യങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Aithihyangal, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഐതിഹ്യങ്ങൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 20, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Wilhelm_Kotarbinski__The_Nile_Mist.jpg">The Nile Mist,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Wilhelm_Kotarbi%C5%84ski">Wilhelm
+Kotarbiński</ref>  (1848–1921). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-aithihyangal.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhaaithihyangal.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

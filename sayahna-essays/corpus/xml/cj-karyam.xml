@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഒരു ചെറിയ കാര്യം</title>
+          <title xml:lang="en" type="main">Oru Cheriya Kaaryam</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">November 29, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഒരു ചെറിയ കാര്യം</title>
+              <title xml:lang="en" type="main">Oru Cheriya Kaaryam</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-03-03</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>Oru Cheriya Kaaryam</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>ഒരു ചെറിയ കാര്യം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-03-03</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/happiness.jpg" width="100%"/>
+          <figDesc>An optimist and a pessimist, a painting by <ref target="https://en.wikipedia.org/wiki/Vladimir_Makovsky">Vladimir
+Makovsky</ref>  (1846–1920). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഒരു ചെറിയ കാര്യം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഒരു ചെറിയ കാര്യം</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Oliver_Cromwell.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒലിവർ ക്രോംവെൽ</figDesc>
+          </figure>
+          <p style="noindent"> സകല രാഷ്ട്രീയനേതാക്കന്മാരും മൗലികമായി യാഥാസ്ഥിതികന്മാരാണു്.
+കൊടുമ്പിരികൊണ്ട വിപ്ലവം പ്രസംഗിക്കുന്ന ഇടതുപക്ഷക്കാരും ഈ തത്ത്വത്തിൽനിന്നു് ഒഴിഞ്ഞുനില്ക്കുന്നില്ല. ഈ
+പ്രസ്താവനയിൽ അല്പം അസാധാരണത്വമുണ്ടെങ്കിലും ഇതു് അക്ഷരംപ്രതി ശരിയാണു്.
+</p>
+          <p>സാധാരണഗതിയിൽ നാം വിപ്ലവകാരികളെന്നു സംബോധനചെയ്യുന്നതു രാഷ്ട്രീയനേതാക്കന്മാരെ
+മാത്രമാണു്. <ref target="https://en.wikipedia.org/wiki/Oliver_Cromwell">ഒലിവർ
+ക്രോംവെൽ</ref>, <ref target="https://en.wikipedia.org/wiki/Bhagat_Singh">ഭഗത് സിങ്</ref>, <ref target="https://en.wikipedia.org/wiki/Joseph_Stalin">സ്റ്റാലിൻ</ref> ഇവരെല്ലാം
+വിപ്ലവകാരികളാണു്. പക്ഷേ, <ref target="https://en.wikipedia.org/wiki/Vincent_van_Gogh">വാൻഗോഗ്</ref>, <ref target="https://en.wikipedia.org/wiki/Upton_Sinclair">അപ്ടൻ
+സിൻക്ലെയർ</ref>, <ref target="https://en.wikipedia.org/wiki/Albert_Einstein">ഐൻസ്റ്റീൻ</ref>
+എന്നിവരെ ആരും വിപ്ലവകാരികളെന്നു വിളിക്കാറില്ല. വിപ്ലവമെന്ന വാക്കിനെപ്പറ്റി നമുക്കുള്ള
+അജ്ഞതയാണിതിനൊക്കെ കാരണം. കൊടിയുംപിടിച്ചു്</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Bhagat_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഭഗത് സിങ്</figDesc>
+          </figure>
+          <p> ജാഥ നടത്തുന്ന നേതാവിനെയും, പോലീസ് സ്റ്റേഷൻ ആക്രമിക്കുന്ന സഖാവിനെയും നാം
+വിപ്ലവകാരികളായി കണക്കാക്കുന്നതു്, അവർ നടത്തുന്ന ‘വിപ്ലവം’ നമുക്കു മനസ്സിലാക്കുവാൻ
+കഴിയുന്നതുകൊണ്ടാണു്. ഒരു ‘പുതിയ സാമൂഹ്യഘടന’ എന്ന ആദർശം സാധാരണക്കാരൻ ഭാവന
+ചെയ്യാവുന്നതാണു്. പക്ഷേ, ഒരു പുതിയ ചിത്രണസമ്പ്രദായം എന്നു പറഞ്ഞാൽ അതിൽ യാതൊരു തീയും
+പുകയും നമുക്കു് കാണാൻ കഴിയുകയില്ല. ഭരിച്ചുകൊണ്ടിരുന്ന ഗവണ്മെന്റിനെ തകിടം മറിക്കുന്നതു് വിപ്ലവമാണു്.
+പ്രകാശരശ്മികൾക്കു് തൂക്കമുണ്ടെന്നു് കണ്ടുപിടിക്കുന്നതിൽ യാതൊരു വിപ്ലവവും ഇല്ല. ചുരുക്കിപ്പറഞ്ഞാൽ,
+അറിവിൽത്തന്നെ പരിവർത്തനമുണ്ടാക്കുന്നതും മനുഷ്യന്റെ ബോധത്തെത്തന്നെ ഇളക്കിത്തീർക്കുന്നതുമായ
+പുതിയ ചിന്താഗതികളുടെ പ്രാധാന്യം ഏറ്റവും ശക്തിമത്താണെങ്കിലും അതിസൂക്ഷ്മമായതുകൊണ്ടു് നമുക്കു്
+കാണാൻവയ്യ. കലാകാരനും ശാസ്ത്രജ്ഞനും തത്ത്വജ്ഞാനിയും വിപ്ലവകാരികളാണു്. പക്ഷേ, അവരുടേതു്
+അംഗീകരിക്കപ്പെടാത്ത വിപ്ലവമാണെന്നുമാത്രം. രാഷ്ട്രീയവിപ്ലവങ്ങൾക്കു് പ്രാധാന്യമില്ലെന്നർത്ഥമില്ല.
+കാലത്തിന്റെയും വ്യാപ്തിയുടേയും കാര്യത്തിൽ അവ ഉപരിപ്ലവങ്ങളാണെന്നുമാത്രം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mayakovsky.jpg" rendition="gra"/>
+            <figDesc style="thumb">മയാക്കോവ്സ്കി</figDesc>
+          </figure>
+          <p> അടിസ്ഥാനപരമായ വിപ്ലവങ്ങൾ (മാനസികം) നിരന്തരമാണു്; അവ യാതൊരു ക്ലിപ്തലക്ഷ്യത്തിലേക്കുമല്ല
+പുരോഗമിക്കുന്നതു്. എന്നുമൊരു ‘നാളെ’യുള്ള കൂട്ടരാണവർ. രാഷ്ട്രീയക്കാരോ, വ്യക്തമായ
+ഒരാവശ്യത്തിലേക്കാണു പോകുന്നതു്. അതു ലഭിച്ചുകഴിഞ്ഞാൽ വിപ്ലവവും നിലച്ചു. ഫ്യൂഡൽകാലത്തെ
+വിപ്ലവകാരിയായ മുതലാളി, മുതലാളിത്ത സ്ഥാപനത്തോടുകൂടി യാഥാസ്ഥിതികനായി. മുതലാളിത്ത കാലത്തെ
+
+സോഷ്യലിസ്റ്റ് തൊഴിലാളി ഭരണം സ്ഥാപിച്ചാൽ പിന്നെ യാഥാസ്ഥികനാകും (ഇതു് നല്ലതോ ചീത്തയോ എന്നു്
+ഇവിടെ അന്വേഷിക്കുന്നില്ല. ഇതൊരു വാസ്തവമാണെന്നു് ചൂണ്ടിക്കാണിക്കുകയാണു്). ഇതുകൊണ്ടാണു്, ഏറ്റവും
+തീവ്രവാദിയായ രാഷ്ട്രീയവിപ്ലവകാരിയും മൗലികമായി യാഥാസ്ഥിതികനാണെന്നു് അഭിപ്രായപ്പെട്ടതു്. ഇന്നു
+നിലവിലുള്ളതിനെ അവനു നിലനിർത്തണമെന്നു് ആഗ്രഹമില്ല. പക്ഷേ, നാളെ വരാൻപോകുന്ന എന്തോ ഒന്നു
+മറ്റന്നാളേയ്ക്കു നിലനിറുത്തണമെന്നു് അവൻ കച്ചകെട്ടിയിട്ടുണ്ടു്. അധികാരഭ്രമത്തെ, കമ്മ്യുണിസ്റ്റുകാർപോലും
+‘പിന്നെ അധികാരം കിട്ടാതെ എന്താ ചെയ്യുക?’ എന്ന ചോദ്യം മുഖേന നീതീകരിക്കുന്നതു് ഈ
+ചിന്താഗതിക്കൊരു ഉദാഹരണമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Upton_Sinclair.jpg" rendition="gra"/>
+            <figDesc style="thumb">അപ്ടൻ സിൻക്ലെയർ</figDesc>
+          </figure>
+          <p> കമ്മ്യൂണിസത്തിനപ്പുറമുള്ള സാമുഹ്യഘടനയിൽ മാറ്റമുണ്ടാവില്ലെന്ന വാദഗതിതന്നെ മാർക്സിനു്
+വിരുദ്ധമാണു്. ദൈനംദിനജീവിതത്തിന്റെ പ്രതിഫലനം മാത്രമാണു് രാഷ്ട്രീയകാര്യങ്ങൾ എന്നതു്
+ശരിയാണെങ്കിൽ കമ്മ്യൂണിസ്റ്റ് രാഷ്ട്രത്തിൽക്കൂടി മാറ്റങ്ങൾ ഉണ്ടായിക്കൊണ്ടിരിക്കും. കാരണം, വിപ്ലവം
+കഴിഞ്ഞാലും, ഉല്പാദനരീതികളും മറ്റും മൗലികമായി മാറിക്കൊണ്ടിരിക്കുമെന്നതുതന്നെ. ഒരതിർത്തിവരെ (ചില
+കാര്യങ്ങളിൽ) കമ്മ്യുണിസ്റ്റുകാരും വിപ്ലവകാരികളാണു്. പക്ഷേ, അവർക്കൊരു കാലപരിമിതിയുണ്ടു്.
+കലാകാരനും തത്ത്വജ്ഞാനിയും ശാസ്ത്രജ്ഞനും ഇത്തരം ഒരു പരിമിതിയും അംഗീകരിക്കാൻ നിവൃത്തിയില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Maxim_Gorky.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗോർക്കി</figDesc>
+          </figure>
+          <p> അന്നന്നുള്ള ഭരണരീതിയേയും മറ്റും നിലനിറുത്തണമെന്ന നിർബ്ബന്ധമുള്ളവരാണു് രാഷ്ട്രീയനേതാക്കന്മാർ.
+ചിന്തകന്മാരോ, അതിനപ്പുറം പോയേ തീരൂ എന്നു് വിശ്വസിക്കുന്നവരും. അതുകൊണ്ടു യാതൊരു കാലത്തും
+ഭരണകർത്താക്കൾ അതതുകാലത്തെ തത്ത്വജ്ഞാനികളെ അംഗീകരിക്കുകയില്ല. സർക്കാർ അംഗീകരണം
+ലഭിക്കുന്ന യാതൊരു ചിന്തകനും പ്രയോജനമുള്ളവനല്ലതാനും. സോഷ്യലിസ്റ്റ് രാഷ്ട്രത്തിലും
+അങ്ങനെയായിരിക്കും. റഷ്യയിൽ <ref target="https://en.wikipedia.org/wiki/Vladimir_Mayakovsky">മയാക്കോവ്സ്കി</ref>
+ക്കും <ref target="https://en.wikipedia.org/wiki/Maxim_Gorky">ഗോർക്കി</ref> ക്കും
+നേരിടേണ്ടിവന്ന പ്രശ്നങ്ങൾ ഇതുതന്നെയാണെന്നു വിചാരിക്കാൻ ന്യായമുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Stalin.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്റ്റാലിൻ</figDesc>
+          </figure>
+          <p> അതുകൊണ്ടു് തങ്ങളുടെ സ്വന്തം ചുമതല സത്യത്തിന്റെ നിയന്ത്രണമനുസരിച്ചുമാത്രം ചെയ്തുതീർക്കണമെന്നു
+നിർബ്ബന്ധമുള്ളയാതൊരു കലാകാരനും, ശാസ്ത്രജ്ഞനും, താത്ത്വികനും, തങ്ങളുടെ പ്രവർത്തനങ്ങൾ
+രാഷ്ട്രീയപ്രസ്ഥാനങ്ങളുടെ അതിരുകൾക്കുള്ളിൽ പരിമിതപ്പെടുത്തുവാൻ നിവൃത്തിയില്ല. അങ്ങനെ
+സർവ്വതന്ത്രസ്വതന്ത്രമായി ചിന്തിക്കുമ്പോൾ ചിന്തകൻ വല്ലയിടത്തും തെറ്റിയെന്നുവരാം. പക്ഷേ, അതുകൊണ്ടു്
+അവൻ രാഷ്ട്രീയ നേതാവിന്റെ വരയിൽകൂടി നടക്കണമെന്നില്ല. പ്രായേണ അതു് അന്ധൻ കോങ്കണ്ണനെ
+വഴികാണിക്കുന്നതു പോലെയായിരിക്കും. അല്ലെങ്കിൽത്തന്നെ, രാഷ്ട്രീയനേതാവ് രാഷ്ട്രീയ തകിടംമറിച്ചിലുകൾ
+നടത്തുമ്പോഴെല്ലാം അതനുസരിച്ചു് ജീവിതവീക്ഷണം മാറ്റാനും ചിന്തകനു കഴിവുണ്ടായിരിക്കുകയില്ല. സ്വന്തം
+തെറ്റിന്റെ കൂട്ടത്തിൽ മറ്റുള്ളവന്റെ ഭാണ്ഡംകൂടി അവൻ പേറണമെന്നില്ലല്ലോ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Einstein.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഐൻസ്റ്റീൻ</figDesc>
+          </figure>
+          <p> ഒരു ചെറിയ നാട്ടുകാര്യംകൂടി, കേരളത്തിലെ കമ്മ്യുണിസ്റ്റുകാർ കുറെനാളായിട്ടു് സാഹിത്യകാരന്മാർക്കു് ചില
+ബഹുമതികൾ സമ്മാനിച്ചുകൊണ്ടിരിക്കുകയായിരുന്നല്ലോ. ഇപ്പോൾ, കമ്മ്യൂണിസ്റ്റ് പാർട്ടി അതിന്റെ നയം
+കടകവിരുദ്ധമായി മാറ്റുകയാണെന്നു കേൾക്കുന്നു. ഈ മാറ്റത്തോടെ അവർ സാഹിത്യകാരന്മാരുടെ നേരെ
+എടുത്തഭാവവും അടവുകളും മാറുമെന്നു് പലരും ആശിക്കുന്നുണ്ടു്. അതൊരു വ്യാമോഹമാണു്. അവർക്കിനിയും
+സ്നേഹിതന്മാരേയും ശത്രുക്കളേയും തിരിച്ചറിയാൻ കഴിവുണ്ടായിട്ടില്ല. അധികാരവേട്ടയ്ക്കിടയിൽ ചിന്താപരമായ
+കാര്യങ്ങളെപ്പറ്റി അന്വേഷിക്കാൻ അവർക്കു സമയമില്ല. കഴിവുള്ള സാഹിത്യകാരനും രാഷ്ട്രീയക്കാരനും
+(മുദ്രയേതായാലും) തമ്മിലുള്ള വൈരുധ്യം തുടരുകതന്നെ ചെയ്യും. ഈ പരമാർത്ഥം, സകല സാഹിത്യകാരന്മാരും
+പിന്തിരിപ്പൻമാരാണെന്നുവാദിക്കാനുള്ള ന്യായമായി രാഷ്ട്രീയക്കാരൻ ഉന്നയിക്കുകയും ചെയ്യും. എല്ലാക്കാലവും
+ന്യൂനപക്ഷത്തിൽ നില്ക്കുവാനും അധികാരിവർഗ്ഗത്തിന്റെ തല്ലുകൊള്ളുവാനും തയ്യാറുള്ള സാഹിത്യകാരനുമാത്രമേ
+സ്വന്തം ചിന്താസ്വാതന്ത്ര്യം പരിപാലിക്കുവാനും അതുവഴി കാര്യമായി എന്തെങ്കിലും ചെയ്യുവാനും
+കഴിവുണ്ടാകയുള്ളൂ.
+</p>
+          <p>മംഗളോദയം 1949.
+</p>
+          <p>ഇവൻ എന്റെ പ്രിയപുത്രൻ 1953.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Oru Cheriya Kaaryam (ml: ഒരു
+ചെറിയ കാര്യം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-03-03. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas, Oru
+Cheriya Kaaryam, സി. ജെ. തോമസ്, ഒരു ചെറിയ കാര്യം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 29, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  An optimist and a pessimist, a
+painting by <ref target="https://en.wikipedia.org/wiki/Vladimir_Makovsky">Vladimir
+Makovsky</ref>  (1846–1920). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-karyam.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-karyam.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

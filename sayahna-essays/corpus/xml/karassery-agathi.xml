@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അഗതിയായ് വന്നവൻ</title>
+          <title xml:lang="en" type="main">Agathiyay Vannavan</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">October 12, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അഗതിയായ് വന്നവൻ</title>
+              <title xml:lang="en" type="main">Agathiyay Vannavan</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Agathiyay Vannavan</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>അഗതിയായ് വന്നവൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 12, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Deep_Problem.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:A_Deep_Problem_9_and_6_make__by_Catherine_Madox_Brown,_1875.jpg">A Deep Problem 9 and 6 make,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/en:Catherine_Madox_Brown">Catherine
+Madox Brown</ref>  (1850–1927). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അഗതിയായ് വന്നവൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അഗതിയായ് വന്നവൻ</head>
+        <div type="lsection">
+          <p style="noindent">കോഴിക്കോട്ടെ പ്രശസ്തമായ വിദ്യാലയം: ട്രെയ്നിങ് സ്കൂൾ
+സാഹിത്യസമാജത്തിന്റെ ഉദ്ഘാടനം നടക്കുകയാണു്.
+</p>
+          <p>ഞാനാണു് ഉദ്ഘാടകൻ. മുഖ്യാതിഥി. അല്ല, ഒറ്റ അതിഥിയേയുള്ളൂ, ഞാൻ മാത്രം!
+</p>
+          <p>പതിവു് ഉദ്ഘാടനത്തിലോ ഔപചാരികതകളിലോ എനിക്കു് താൽപര്യമില്ലെന്നു പറഞ്ഞപ്പോൾ
+ക്ഷണിക്കാൻ വന്ന അസോസിയേഷൻ സെക്രട്ടറി പറഞ്ഞു “ഞങ്ങൾക്കു് ഉദ്ഘാടനത്തിലല്ല, സാറിന്റെ
+ക്ലാസ്സിലാണു് താൽപര്യം.”
+</p>
+          <p>ഞാൻ വീണു എന്നു് വിശേഷിച്ചു് പറയേണ്ടതില്ലല്ലോ. ആ സെക്രട്ടറിയാണെങ്കിലോ, എന്റെ നാട്ടുകാരനാണു്.
+“ഒരു വിനീത വായനക്കാരൻ” എന്നാണു് സ്വയം പരിചയപ്പെടുത്തിയതു്. ഞാൻ എഴുതിയതെല്ലാം
+വായിച്ചിട്ടുണ്ടത്രെ. എനിക്കതും സുഖിച്ചു. അങ്ങനെയൊരാളെ ഞാൻ ആദ്യമായിക്കാണുകയാണു്! മാത്രമോ,
+അദ്ദേഹത്തിന്റെ ഭരണകാലത്തു് എന്നെ അവിടെയൊന്നു് കൊണ്ടുചെല്ലണം എന്നു് വലിയ പൂതിയായിട്ടു്
+വന്നതാണു്.
+</p>
+          <p>എന്റെ സൗകര്യം പ്രമാണിച്ചു് രണ്ടുതവണ ഉദ്ഘാടനച്ചടങ്ങു് മാറ്റിവെച്ചു. തീർച്ചയായും അതെനിക്കു വലിയ
+അന്തസ്സാണു്. നാട്ടുകാരായ കുട്ടികൾ ചില സ്ഥാനങ്ങളിലൊക്കെ വന്നാലുള്ള ഗുണം
+ഇതൊക്കെയാണു്—ചുളുവിൽ അന്തസ്സു കൂട്ടാം.
+</p>
+          <p>ഇതൊക്കെയായിട്ടും ചടങ്ങിന്റെ ഔപചാരികതയെ ഞാൻ പുച്ഛിച്ചു. സെക്രട്ടറി വിട്ടില്ല: “ശരി… സാറ്
+വന്നു് ഇക്കൊല്ലത്തെ മലയാളം അസോസിയേഷൻ ഉദ്ഘാടനം ചെയ്യുന്നു എന്നു് ഒരു വാക്യം മാത്രം പറഞ്ഞാൽ
+മതി. ബാക്കി സമയം മുഴുവൻ സാറിന്റെ ക്ലാസ്. ക്ലാസ്സാണു് പ്രധാനം. അധ്യക്ഷപ്രസംഗമോ ആശംസകരോ
+ഒന്നുമുണ്ടാവില്ല.
+പോരേ?”
+</p>
+          <p>മതി… ധാരാളം മതി.
+</p>
+          <p>ഞാൻ സമ്മതിച്ചതോടെ, ഏതോ രാജ്യം കീഴടക്കിയ ആഹ്ലാദത്തോടെ സെക്രട്ടറി പോയി. കൃത്യസമയത്തു്
+സ്കൂളിൽ എത്തിക്കൊള്ളാമെന്നു് ഞാൻ ഏറ്റു.
+</p>
+          <p>ഞാൻ വാക്കുപാലിച്ചു. കൃത്യസമയത്തു് സ്കൂൾ ഗേറ്റിൽ ഓട്ടോയിറങ്ങി. ഗേറ്റിനുപുറത്തു് വഴിയിൽത്തന്നെ
+സെക്രട്ടറി കാത്തുനില്പുണ്ടു്. മുഖ്യാതിഥി സമയനിഷ്ഠ പാലിക്കുന്ന ആളായതു് ആ സംഘാടകന്റെ അന്തസ്സു
+വർധിപ്പിച്ചിരിക്കണം—കണ്ടോ, ഞാൻ പറഞ്ഞപോലെ അദ്ദേഹം കൃത്യസമയത്തു് എത്തിയില്ലേ? ഇനി, ഞാൻ
+പറഞ്ഞപോലെ പ്രസംഗവും കസറും…
+</p>
+          <p>കുശലവും ചായകുടിയും ആയി ചില്ലറ നേരംപോകുമെന്നു് എനിക്കറിയാമായിരുന്നതിനാൽ ആ നേരംകൂടി
+കണക്കാക്കിയാണു് ഞാൻ ചെല്ലാമെന്നേറ്റിരുന്നതു്… അങ്ങനെ ചെന്നുപറ്റിയതിനാൽ കിറുകൃത്യമായി
+പരിപാടി തുടങ്ങി.
+</p>
+          <p>സെക്രട്ടറി വലിയ ചാരിതാർഥ്യത്തോടെ, വികാരഭരിതനായി സ്വാഗതം പറഞ്ഞു.
+</p>
+          <p>അതു കഴിഞ്ഞയുടനെ വരുന്നൂ, സ്വാഗതഗാനം!
+</p>
+          <p>ഇതെന്താണെന്നു് തൊട്ടടുത്തിരിക്കുന്ന അധ്യക്ഷയായ പ്രധാനാധ്യാപികയോടു ചോദിച്ചപ്പോൾ അവർ
+പറഞ്ഞു:
+</p>
+          <p>“കാരശ്ശേരിയെ സ്വാഗതം ചെയ്തുകൊണ്ടു് കുട്ടികളാരോ, എഴുതിയ പാട്ടാണു്. ഇതിനുവേണ്ടി എഴുതിയതാണു്.”
+</p>
+          <p>നേരു വേണമല്ലോ പറയാൻ. ഞാൻ ശരിക്കും പൂസായിപ്പോയി… കൊള്ളാം. ഗുരുത്വമുള്ള കുട്ടികൾ
+ഇക്കാലത്തും ഉണ്ടു്… നന്നു്… വളരെ നന്നായി.
+</p>
+          <p>രണ്ടു് പെൺകുട്ടികൾ സ്വാഗതഗാനം പാടുവാനായി സ്റ്റേജിലേക്കു വന്നു. ഹാളിൽ നീണ്ട കൈയടി. അവർ
+ഇവിടത്തെ മികച്ച പാട്ടുകാരികളാവണം. പാട്ടുകാരികൾ എന്നെ നോക്കി വിനയപൂർവ്വം പുഞ്ചിരിച്ചു.
+</p>
+          <p>ആ മനോഹരരംഗത്തിൽ തീർത്തും മുഗ്ദ്ധനായി ഞാൻ ഇരിക്കുകയാണു്—ജീവിതത്തിലാദ്യമായാണു് എന്നെ
+സ്വാഗതം ചെയ്തുകൊണ്ടു് ഒരു ഗാനാലാപനം നടക്കുന്നതു്. ഇതു് അവസാനത്തേതാകാനും മതി!
+</p>
+          <p>സ്വാഗതഗാനം തുടങ്ങി. അതൊരു മാപ്പിളപ്പാട്ടാണു്. ലളിതമായ രചന. പ്രസംഗകനും പണ്ഡിതനും
+നല്ലവനുമായ കാരശ്ശേരി എന്നു പറഞ്ഞു കൊണ്ടാണു് തുടക്കം: ഹാ, സുന്ദരലോകമേ!
+</p>
+          <p>അപ്പോൾ ആ പെൺകിടാങ്ങൾ പാടുന്നതു് കേൾക്കായി:
+</p>
+          <p>“അഗതിയായ് വന്നൊരു സാറിനു് സ്വാഗതം.”
+</p>
+          <p>ഞാനൊന്നമ്പരന്നു. സദസ്സു് ചിരിച്ചു. പിന്നെ ഞാനും ചിരിച്ചു. നാക്കു പിഴയാകാം. സാരമില്ല. നമ്മുടെ
+ചെലവിൽ മറ്റുള്ളവർ ചിരിക്കുന്നതും നല്ല കാര്യമാണു്. അവനവനെ കളിയാക്കിച്ചിരിക്കുന്നതു് ആരോഗ്യത്തിനു്
+നന്നു്. “അതിഥിയായ് വന്നൊരു” എന്നാവാം വരി. പല്ലവിപോലെ ഓരോ വരി തീരുമ്പോഴും
+അതാവർത്തിക്കുമോ?
+</p>
+          <p>വീണ്ടും അതാ,വരുന്നു—“അഗതിയായ് വന്നൊരു”
+</p>
+          <p>ഇത്തവണ സദസ്സു് ചിരിച്ചില്ല. ചമ്മൽ, ഇളിച്ചിൽ, പ്രധാനാധ്യാപികയുടെ മുഖത്തു് ജാള ്യം. അവരെന്തോ
+പറയാനാഞ്ഞു. അപ്പോൾ വീണ്ടും—
+</p>
+          <p>“അഗതിയായ്…”
+</p>
+          <p>ആർക്കും ഇടപെടാൻ ഇടകിട്ടിയില്ല. കുട്ടികൾ ലയിച്ചുപാടുകയാണു്. സദസ്സു് മ്ലാനമായി. അതിന്റെ
+പിന്നിലെവിടെയോ നിന്നിരുന്ന സെക്രട്ടറി അസ്വസ്ഥനായി പുറത്തേക്കു പോവുന്നതു കണ്ടു. അയാളുടെ മുഖം
+കത്രിച്ചുനിർത്തിയ താടിരോമങ്ങൾക്കു നടുവിൽ പതിവില്ലാത്തവിധം ഇരുണ്ടിരുന്നു.
+</p>
+          <p>പാട്ടു തുടരുകയാണു്. ഓരോ വരിയും ആ “അഗതിയായ് വന്നവ”നിൽ അവസാനിച്ചുകൊണ്ടുമിരുന്നു.
+</p>
+          <p>സദസ്സിലെ കുട്ടികൾ നാശകോശമായിരിക്കുന്നു. എന്താണു് സംഭവിക്കാൻ പോകുന്നതു് എന്ന
+ആകാംക്ഷയാണു് അവരുടെ മുഖത്തു്. പ്രധാനാധ്യാപികയടക്കം എല്ലാ അധ്യാപകരും തലതാഴ്ത്തിയിരിപ്പാണു്.
+</p>
+          <p>ആ പ്രയോഗം എന്നെ സ്പർശിച്ചു:
+</p>
+          <p>അഗതിയായ് വന്നവൻ!
+</p>
+          <p>നന്നായിരിക്കുന്നു. ഈ ലോകത്തു് ആരാണു് അങ്ങനെയല്ലാത്തതു്? എല്ലാവരും അഗതികൾ.
+ഗതികിട്ടാത്തവർ. അതു് തിരിച്ചറിയുന്നവർ ചുരുങ്ങും എന്നു മാത്രം.
+</p>
+          <p>ഇതു നാക്കുപിഴയാവില്ല. പാട്ടു പകർത്തിയപ്പോൾ പറ്റിയ പിഴയാകണം. കുട്ടികൾ അർത്ഥം ശ്രദ്ധിച്ചിരിക്കില്ല.
+ഇത്തരം തെറ്റുകളാണു് ശരിയായ ആലോചനകളിലേക്കു് നമ്മെ കൊണ്ടുചെല്ലുന്നതു്…
+</p>
+          <p>മുഹമ്മദ് നബി ആയിരത്താണ്ടുകൾക്കപ്പുറം അറേബ്യാ മണൽക്കാട്ടിൽ വെച്ചു് ശിഷ്യന്മാർക്കു് കൊടുത്ത
+ഒരുപദേശം എന്റെ ഓർമയിലെത്തി.
+</p>
+          <p>“നീ ഇഹലോകത്തു് അഗതിയെപ്പോലെ ജീവിച്ചുകൊള്ളുക.”
+</p>
+          <p>അഗതിയെപ്പോലെ ജീവിക്കുക!
+</p>
+          <p>തീർച്ചയായും എളുപ്പമല്ലാത്ത കാര്യം. ഐഹികമായ സുഖസൗകര്യങ്ങളിൽ ഗതിതേടാതെ ജീവിക്കുന്ന ഒരു
+മനസ്സുണ്ടാവുക ചെറിയ സംഗതിയാണോ?
+
+</p>
+          <p>പാട്ടു തീർന്നതു് ഞാനറിഞ്ഞില്ല. അമ്പരന്നു്, മൗനമായി ആ സദസ്സു് അങ്ങനെയിരിക്കുന്നതിനു്
+കാരണമെന്താവാം എന്നു് ആലോചിച്ചിരിക്കുമ്പോൾ അധ്യക്ഷ തൊട്ടടുത്തിരുന്നു് പറഞ്ഞു: “ഇനി
+ഉദ്ഘാടനപ്രസംഗമാണു്. ഞാൻ പേരുവിളിച്ചുകഴിഞ്ഞു.”
+</p>
+          <p>ഓ… എന്റെ ശ്രദ്ധയിൽ കേറിയില്ല. എന്റെ തരിപ്പു് പ്രതിഷേധമാണെന്നു് കുട്ടികൾ ധരിക്കാം.
+</p>
+          <p>ചാടിയെണീറ്റു് ഞാൻ പ്രസംഗം തുടങ്ങി:
+</p>
+          <p>“പ്രിയപ്പെട്ടവരേ,
+</p>
+          <p>ഈ പരിപാടിയിലെ സ്വാഗതഗാനം എനിക്കു് വളരെ ഇഷ്ടമായി. ‘അഗതിയായ് വന്നവൻ’ എന്നു് എന്നെ
+വിശേഷിപ്പിച്ചതു് തീർച്ചയായും ഒരു ബഹുമതിയാണു്. നിങ്ങൾ കേട്ടിട്ടുണ്ടോ എന്നെനിക്കറിഞ്ഞുകൂടാ, മുഹമ്മദ്
+നബി അങ്ങനെയൊരുപദേശം നല്കിയിട്ടുണ്ടു്. ഇഹലോകത്തു് അഗതിയായ് ജീവിച്ചുകൊള്ളുക എന്നു്. ഞാൻ ആ
+പാട്ടുകേട്ടു് ആ പ്രയോഗത്തിന്റെ അർഥഗരിമയെപ്പറ്റി ആലോചിച്ചുപോയി. ഞാൻ അഗതിയായ് ജീവിക്കുന്നവൻ
+എന്നു പറയുന്നതു് തീർച്ചയായും എനിക്കു് ഒരു അംഗീകാരമാണു്. ഞാൻ വാസ്തവത്തിൽ അങ്ങനെയാണോ? അല്ല.
+അല്ല. ആ ഉയർന്ന പദവിയിലേക്കെത്തുവാൻ എനിക്കിനിയും എത്രയോ ദൂരം യാത്ര ചെയ്യേണ്ടതുണ്ടു്. അപ്പോൾ
+സ്വാഗതഗാനം ആലപിച്ച സഹോദരികൾ ഞാൻ അങ്ങനെയാകണം എന്നൊരുപദേശം തരികയായിരുന്നു
+എന്നു് ഞാൻ വിചാരിക്കുന്നു. മുഹമ്മദ് നബിയുടെ മഹത്തായ ഉപദേശത്തെ അതു് അനുസ്മരിപ്പിക്കുന്നു. മധുരമായ
+ഈണവും മനോഹരമായ ശബ്ദവും പശ്ചാത്തലമാക്കിയുള്ള ഈ ഗുരൂപദേശം ഞാൻ രണ്ടു കൈയും നീട്ടി
+സ്വീകരിക്കുന്നു. ആ വിശേഷണത്തിനു് അർഹനയിത്തീരുമാറു് ജീവിക്കുവാൻ ഇടയാകേണമേ എന്നാണു് എന്റെ
+വിനീതമായ പ്രാർത്ഥന…”
+</p>
+          <p>സദസ്സു് ഇളകുന്നു… കുട്ടികൾ കൈയടിച്ചു. അവർ ആഹ്ലാദിച്ചുചിരിച്ചു. അധ്യക്ഷയുടെയും
+അധ്യാപകരുടെയും മുഖത്തു് ആശ്വാസം. ഇപ്പോൾ സെക്രട്ടറിയുടെ താടിരോമംകൂടി ചിരിക്കുന്നുണ്ടു്…
+</p>
+          <p>…എത്രയോ മാസങ്ങൾ കഴിഞ്ഞുപോയിരിക്കുന്നു.
+</p>
+          <p>ഇപ്പോൾ ഇടയ്ക്കിടെ ഞാൻ എന്നോടുതന്നെ ചോദിക്കാറുണ്ടു്: ഞാൻ അഗതിയെപ്പോലെയാണോ
+ജീവിക്കുന്നതു് ?
+</p>
+          <p>ആ പരിപാടിയും സ്ക്കൂളും സെക്രട്ടറിയും പാട്ടുകാരികളായ പെൺകിടാങ്ങളും ഓർമയുടെ
+വെളിയടയ്ക്കപ്പുറത്തേക്കു് പതുക്കെപ്പതുക്കെ പിൻവാങ്ങിപ്പോവുമ്പോഴും ആ നൊമ്പരമുണർത്തുന്ന ചോദ്യം
+പിന്നെയും പിന്നെയും തെളിഞ്ഞുവരികയാണു്… എന്നാണു് ഞാനൊരു അഗതിയായിത്തീരുക?
+</p>
+          <p>
+മാതൃഭൂമി വാരന്തപ്പതിപ്പു്: 2 മാർച്ച് 1997.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Agathiyay Vannavan (ml:
+അഗതിയായ് വന്നവൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Agathiyay Vannavan, എം. എൻ. കാരശ്ശേരി, അഗതിയായ് വന്നവൻ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 12, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:A_Deep_Problem_9_and_6_make__by_Catherine_Madox_Brown,_1875.jpg">A Deep Problem 9 and 6 make,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/en:Catherine_Madox_Brown">Catherine
+Madox Brown</ref>  (1850–1927). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-agathi.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-agathi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

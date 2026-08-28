@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചെറിയാൻ, ചെറുപ്പം, ചെറുപ്പക്കാർ</title>
+          <title xml:lang="en" type="main">Cherian, Cheruppam, Cheruppakkar</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">July 8, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചെറിയാൻ, ചെറുപ്പം, ചെറുപ്പക്കാർ</title>
+              <title xml:lang="en" type="main">Cherian, Cheruppam, Cheruppakkar</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Cherian</term>
+          <term>Cheruppam</term>
+          <term>Cheruppakkar</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ചെറിയാൻ</term>
+          <term>ചെറുപ്പം</term>
+          <term>ചെറുപ്പക്കാർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 8, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Voyage_of_Life_1842_Gallery_of_Art.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:Thomas_Cole,_The_Voyage_of_Life,_1842,_National_Gallery_of_Art.jpg">The
+Voyage of Life: Manhood,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Cole">Thomas Cole</ref>
+ (1801–1848). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചെറിയാൻ, ചെറുപ്പം, ചെറുപ്പക്കാർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചെറിയാൻ, ചെറുപ്പം, ചെറുപ്പക്കാർ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Cheriyan_Philip.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചെറിയാൻ ഫിലിപ്പ്</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>“അല്ലയോ ഭിക്ഷുക്കളേ! ദുഃഖത്തിന്റെ കാരണത്തെപ്പറ്റിയുള്ള വിശുദ്ധ സത്യമെന്താണു്? ജന്മത്തിൽനിന്നു്
+ജന്മത്തിലേക്കു് നയിക്കുന്ന തൃഷ്ണയാണു് ദുഃഖത്തിനു് കാരണം. ലോഭവും ലാലസയുമടങ്ങിയ തൃഷ്ണ; അവിടെ
+സുഖമുണ്ടു്. ഇവിടെ സുഖമുണ്ടു് എന്ന സങ്കൽപത്തിലടങ്ങിയ തൃഷ്ണ, നാശത്തിനു് വഴിയൊരുക്കുന്ന തൃഷ്ണ.
+ചുരുക്കത്തിൽ സുഖതൃഷ്ണ, ജീവിതതൃഷ്ണ, അധികാരതൃഷ്ണ എന്നിവയാണു് ദുഃഖത്തിന്റെ കാരണം.”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p>സർവസംഗ പരിത്യാഗികളായ ബുദ്ധഭിക്ഷുക്കൾക്കായാണു് തഥാഗതൻ ഈ വിശുദ്ധസത്യം
+വെളിപ്പെടുത്തിയതെങ്കിൽ കോൺഗ്രസുകാരായ രാഷ്ട്രീയ ഭിക്ഷാംദേഹികളോടെയാണു് അഭിനവ ഗൗതമൻ
+<ref target="https://ml.wikipedia.org/wiki/Cherian_Philip">ചെറിയാൻ
+ഫിലിപ്പ്</ref> ഇതേ ഉപദേശം ആവർത്തിക്കുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധീരൻ</figDesc>
+          </figure>
+          <p> സത്യത്തിൽ ഗൗതമബുദ്ധനെക്കാൾ എത്രയോ വലിയ യാതനകൾ അനുഭവിച്ച, പ്രലോഭനങ്ങളെ
+അതിജീവിച്ച ദേഹമാണു് ചെറിയാൻ. ചെങ്ങന്നൂരെ ഒരു മാർത്തോമാ ക്രിസ്ത്യാനി കുടുംബത്തിലാണു്
+ചെറിയാച്ചന്റെ തിരുപ്പിറവി. തിരുവനന്തപുരത്തായിരുന്നു ബാല്യവും കൗമാരവും യൗവനവും പിന്നിട്ടതു്.
+കെ. എസ്. യു. യൂത്ത് കോൺഗ്രസ് പ്രസ്ഥാനങ്ങളിലൂടെ അസ്ത്രവിദ്യയും അങ്കച്ചുവടുകളും സ്വായത്തമാക്കി. ഈ
+പശ്ചാത്തലമുള്ള ഒരു കോൺഗ്രസുകാരൻ ഒന്നുകിൽ എം. എൽ. എ.-യോ മന്ത്രിയോ ആകുമായിരുന്നു.
+അല്ലെങ്കിൽ അബ്കാരിയായേനെ. രണ്ടായാലും കനത്ത ബാങ്ക്ബാലൻസും ഇരുനില മാളികയും ഭാര്യയും
+കുട്ടികളുമൊക്കെയായി സുഖജീവിതം നയിക്കാമായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MPVincent.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. പി. വിൻസന്റ്</figDesc>
+          </figure>
+          <p> തന്റെ കൂടെയും തനിക്കു് പിന്നാലെയും രാഷ്ട്രീയത്തിലിറങ്ങിയ പല പുംഗവന്മാരും സ്വിസ്ബാങ്കിൽ
+അക്കൗണ്ട് തുറക്കുകയും കർണാടകത്തിൽ മുന്തിരിത്തോട്ടം വാങ്ങുകയും ചെയ്തിട്ടും ചെറിയാനു് കുലുക്കമുണ്ടായില്ല.
+അദ്ദേഹം പുസ്തകങ്ങൾ വായിച്ചും എഴുതിയും സംവാദങ്ങളിൽ പങ്കെടുത്തും പ്രസ്താവന നടത്തിയും <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref> ക്കു്
+പ്രസംഗം എഴുതിക്കൊടുത്തും കഴിഞ്ഞു. കൃത്യാന്തരബാഹുല്യത്തിനിടക്കു് പെണ്ണുകെട്ടാനും മറന്നു. വയസ്സ് 46
+ആയി. തലയും താടിയും നരക്കാനും തുടങ്ങി. എന്നിട്ടും ചെറിയാൻ അങ്ങനെ ഭാവനാലോലനായി ഏകനായി
+കഴിയുകതന്നെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Aryadan_muhammad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആര്യാടൻ മുഹമ്മദ്</figDesc>
+          </figure>
+          <p> ശ്രീരാമനു് ഹനുമാൻ എന്നപോലെ, യേശുക്രിസ്തുവിനു് പത്രോസ് ശ്ലീഹ എന്ന പോലെയാണു് എ. കെ.
+ആന്റണിക്കു് ചെറിയാൻ ഫിലിപ്പ്. ആന്റണിയുടെ പെട്ടിപിടിക്കുന്നതാണു് ചെറിയാന്റെ ജീവിതസാഫല്യം.
+പലപ്പോഴും ആന്റണി നേരിട്ടു് പറയാൻ മടിക്കുന്ന കാര്യങ്ങൾ ചെറിയാന്റെ പ്രസ്താവനയിലൂടെയാണു് ലോകം
+അറിയാറു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Padmaja.jpg" rendition="gra"/>
+            <figDesc style="thumb">പത്മജ</figDesc>
+          </figure>
+          <p>കോൺഗ്രസുകാരനായിരിക്കുമ്പോഴും <ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ. ജി.</ref>-യെയും
+<ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസി</ref> നെയും
+സ്തുതിക്കാൻ മടിയില്ലാത്തയാളാണു് ചെറിയാൻ. ‘എ’ ഗ്രൂപ്പിന്റെ അമരത്തിരുന്നുകൊണ്ടു് കരുണാകരനുമായി
+ചങ്ങാത്തം കൂടാനും മനഃപ്രയാസം ഉണ്ടായില്ല. ലീഡർ തിരുവനന്തപുരത്തു് മത്സരിച്ചപ്പോൾ ചെറിയാനായിരുന്നു
+ആദ്യാവസാനം. <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജ</ref> ക്ക് സീറ്റ്
+നൽകണമെന്നാണു് ചെറിയാന്റെ നിലപാടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Joseph_Vazhakkan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോസഫ് വാഴയ്ക്കൻ</figDesc>
+          </figure>
+          <p>തെരഞ്ഞെടുപ്പു് അടുത്തതോടെ മോഹമുക്തനായ കോൺഗ്രസുകാരനു് വെളിപാടുണ്ടായി: രണ്ടുതവണ
+ജയിച്ചവരും തോറ്റവരും ഇനി മത്സരിക്കരുതു്. അവർ ചെറുപ്പക്കാർക്കുവേണ്ടി വഴിമാറണം. ബോധോദയത്തിന്റെ
+ഫലം ഉടനെ പ്രത്യക്ഷമായി—എം. എൽ. എ. ഹോസ്റ്റലിലെ തമ്പാനൂർ രവിയുടെ മുറിയിൽനിന്നു്
+പുറത്താക്കപ്പെട്ടു. നെയ്യാറ്റിൻകര നിന്നു് രണ്ടുവട്ടം ജയിച്ചയാളാണു് തമ്പാന്നൂർ രവി. ചെറിയാന്റെ തത്ത്വം
+പ്രായോഗികമായാൽ ആദ്യം നഷ്ടപ്പെടുന്ന സീറ്റ് രവിയുടേതായിരിക്കും!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_M_Hassan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. ഹസൻ</figDesc>
+          </figure>
+          <p>1965 മുതൽ ഇടതടവില്ലാതെ നിലമ്പൂരിൽ മത്സരിക്കുന്ന <ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടൻ മുഹമ്മദ്</ref>.
+1970 മുതൽ പുതുപ്പള്ളി മണ്ഡലം അട്ടിപ്പേറാക്കിയ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>. 1980
+മുതൽ ആലുവയിൽനിന്നു് ജയിക്കുന്ന കെ. മുഹമ്മദാലി, അതേ വർഷം മുതൽതന്നെ കഴക്കൂട്ടത്തും പിന്നീടു്
+തിരുവനന്തപുരം വെസ്റ്റിൽനിന്നും മാറിമാറി പയറ്റുന്ന <ref target="https://ml.wikipedia.org/wiki/M.M._Hassan">എം. എം. ഹസൻ</ref>, 1982
+മുതൽ ഇരിക്കൂറിൽ ഇരിപ്പുറപ്പിച്ച <ref target="https://ml.wikipedia.org/wiki/K.C._Joseph">കെ. സി. ജോസഫ്</ref>—‘എ’
+ഗ്രൂപ്പിലെ പ്രമാണികളെല്ലാം ഒറ്റയടിക്കു് അസ്വസ്ഥരായി—രണ്ടു ടേം പിന്നിട്ട <ref target="https://ml.wikipedia.org/wiki/Thiruvanchoor_Radhakrishnan">തിരുവഞ്ചൂർ
+രാധാകൃഷ്ണൻ</ref>. എം. മുരളി, <ref target="https://en.wikipedia.org/wiki/Palode_Ravi">പാലോടു് രവി</ref>, <ref target="https://ml.wikipedia.org/wiki/K._Babu">കെ. ബാബു</ref> തുടങ്ങിയ ‘എ’
+ഗ്രൂപ്പുകാരുടെയും മുഖശോഭ മങ്ങി. ഇവരെല്ലാവരും തന്നെ. വാർധക്യം വന്നുദിച്ചിട്ടും ചെറുതായില്ല ചെറുപ്പം എന്ന
+മട്ടിൽ യുവാക്കളായി ഭാവിച്ചുവരവേയാണു് ചെറുപ്പക്കാരുടെ വക്കാലത്തുമായി ചെറിയാന്റെ രംഗപ്രവേശം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P-C_Chacko.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. ചാക്കോ</figDesc>
+          </figure>
+          <p>ഉമ്മൻചാണ്ടിക്കാണെങ്കിൽ ചെറിയാനെ പണ്ടേ പഥ്യമല്ല. മുടി ചീകാതെയും പുത്തൻ ഖദർഷർട്ട്
+ബ്ലേഡുകൊണ്ടു് കീറി ധരിച്ചും നടക്കുന്ന ആദർശശാലികൾ ഏറെയുണ്ടു് ‘എ’ ഗ്രൂപ്പിൽ. <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി. ചാക്കോ</ref> യെയും
+<ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>
+യെയുമൊക്കെ ആന്റണിയുടെ ഉൾവൃത്തത്തിൽനിന്നു് പുറത്താക്കാൻ പെട്ട പാടു് ഉമ്മൻചാണ്ടിക്കേ അറിയാവൂ.
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം.
+സുധീര</ref> ന്റെ കാര്യത്തിൽ അതു് ഇനിയും ഫലപ്രാപ്തിയിലെത്തിയിട്ടില്ലതാനും. അപ്പോഴാണു് ഇനിയും
+ഒരാദർശശാലിയുടെ (അതും അകത്തോലിക്കാ ക്രിസ്ത്യാനി!) പുറപ്പാടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_V_Raghavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വി. രാഘവൻ</figDesc>
+          </figure>
+          <p>ഉമ്മൻചാണ്ടിയെ കൊണ്ടു് ചെയ്യാവുന്ന സഹായം അദ്ദേഹം ചെയ്തു. <ref target="https://ml.wikipedia.org/wiki/Cherian_Philip">ചെറിയാൻ ഫിലിപ്പ്</ref>
+നോട്ടമിട്ടിരുന്ന തിരുവനന്തപുരം വെസ്റ്റ് മണ്ഡലം സി. എം. പി. നേതാവു് <ref target="https://ml.wikipedia.org/wiki/M._V._Raghavan">എം. വി. രാഘവനു്</ref>
+കൊടുത്തു. ചെറിയാനു് വേണമെങ്കിൽ തിരുവനന്തപുരം നോർത്തിൽ സ്പീക്കർ വിജയകുമാറിനെതിരെ
+മൽസരിക്കാം. വിജയകുമാറിനെതിരെ മൽസരിച്ചാൽ അനിക്സ്പ്രെയുടെ പഴയ പരസ്യംപോലെയാകും
+ചെറിയാന്റെ അവസ്ഥ—എളുപ്പമാണു് കലക്കിയെടുക്കാൻ, പൊടിപോലുമുണ്ടാകില്ല കണ്ടുപിടിക്കാൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/VD_SATHEESAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ഡി. സതീശൻ</figDesc>
+          </figure>
+          <p>തിരുവനന്തപുരം നോർത്തിൽനിന്നു് വീരോചിതമായി പിൻവലിഞ്ഞ ചെറിയാൻ, യുവാക്കൾക്കു് പ്രാതിനിധ്യം
+കിട്ടണമെന്നു് വീറോടെ വാദിച്ചു. സ്ഥാനാർത്ഥി പട്ടിക പുറത്തുവന്നപ്പോൾ യുവാക്കളെന്നുപറയാൻ <ref target="https://en.wikipedia.org/wiki/Satheeshan_Pacheni">സതീശൻ
+പാച്ചേനി</ref>, <ref target="https://ml.wikipedia.org/wiki/K._C._Venugopal">കെ. സി.
+വേണുഗോപാൽ</ref>, <ref target="https://ml.wikipedia.org/wiki/V.D._Satheesan">വി. ഡി. സതീശൻ</ref>
+അങ്ങനെ മൂന്നുനാലു പേർ മാത്രം. <ref target="https://en.wikipedia.org/wiki/Joseph_Vazhackan">ജോസഫ് വാഴയ്ക്ക</ref>
+നില്ല. സിമി റോസ്ബെൽ ജോണില്ല. <ref target="https://ml.wikipedia.org/wiki/M.P_Vincent">എം. പി. വിൻസന്റോ</ref>
+എം. ആർ. രാമദാസോ ഇല്ല. നിയമസഭയിൽ മൂന്നു പതിറ്റാണ്ടു് പിന്നിട്ട <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻ ചാണ്ടി</ref> മുതൽ
+സർവമാന സിറ്റിങ് എം. എൽ. എ.-മാർക്കും സീറ്റുണ്ടു്. ഗവർണറുദ്യോഗം കഴിഞ്ഞു് മടങ്ങിയെത്തിയ <ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമനു</ref> വരെ സീറ്റ് നൽകിയിരിക്കുന്നു!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_C_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. ജോസഫ്</figDesc>
+          </figure>
+          <p>“അല്ലയോ ഭിക്ഷുക്കളേ! അപ്പോൾ ദുഃഖനിരോധത്തെപ്പറ്റിയുള്ള വിശുദ്ധസത്യമെന്താണു്? തൃഷ്ണയെ
+പൂർണ്ണമായി തടഞ്ഞുനിർത്തുക, തൃഷ്ണയിൽനിന്നു് വേർപെടുക, തൃഷ്ണയെ ബഹിഷ്ക്കരിക്കുക, തൃഷ്ണയെ
+കെടുത്തിക്കളയുക. തൃഷ്ണയിൽനിന്നു് മോചനം നേടി അനാസക്തനാകുക.” ഗൗതമബുദ്ധന്റെ വാക്കുകൾ
+ചെറിയാൻ ഫിലിപ്പിന്റെ അന്തരംഗത്തിലൂടെ കടന്നുപോയിരിക്കണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ravi_palode.jpg" rendition="gra"/>
+            <figDesc style="thumb">പാലോടു് രവി</figDesc>
+          </figure>
+          <p> തനിക്കു് മുഖ്യമന്ത്രിയാകണം എന്ന ഒരു മിനിമം പരിപാടി മാത്രമാണു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കു് ഇപ്പോൾ
+ഉള്ളതെന്നും അതിനായി എന്തിനോടും സമരസപ്പെടുന്ന അവസ്ഥയിലാണു് അദ്ദേഹമെന്നും ചെറിയാൻ
+തിരിച്ചറിഞ്ഞു. തത്ത്വാധിഷ്ഠിത രാഷ്ട്രീയത്തിന്റെ പ്രവാചനും അധികാര രാഷ്ട്രീയത്തോടു മമതയില്ലാത്ത ആളുമായ
+എ. കെ. ആന്റണി ഇല്ലാതായിക്കഴിഞ്ഞു എന്നു ചെറിയാൻ ഫിലിപ്പ് വെട്ടിത്തുറന്നു് പറഞ്ഞു. 28-ാം വയസ്സിൽ
+എം. എൽ. എ.യും 36-ാം വയസ്സിൽ കേരള മുഖ്യമന്ത്രിയുമായിത്തീർന്ന ആന്റണി സ്ഥാനാർത്ഥിപട്ടികയിൽനിന്നു്
+യുവാക്കളെ കൂട്ടക്കൊല നടത്തിയെന്നു് ചെറിയാൻ ആരോപിച്ചു. വളരെയധികം ചെറുപ്പക്കാർക്കു് അവസരം
+നൽകിയ ഇടതുമുന്നണിയെ ശ്ലാഘിക്കാനും യുവാക്കളെ പ്രോത്സാഹിപ്പിക്കുന്ന കരുണാകർജിയെ തലോടാനും
+മറന്നതുമില്ല. ആന്റണിക്കെതിരെ ചേർത്തലയിലോ ഉമ്മൻചാണ്ടിക്കെതിരെ പുതുപ്പള്ളിയിലോ മൽസരിക്കുമെന്നു്
+ചെറിയാൻ പ്രഖ്യാപിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AL_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എൽ. ജേക്കബ്</figDesc>
+          </figure>
+          <p>സ്ഥാനാർഥിത്വം പ്രഖ്യാപിക്കും മുമ്പു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+ചെന്നു് കാണാനും ചെറിയാൻ സമയം കണ്ടെത്തി. തുല്യദുഃഖിതർ തമ്മിൽ എന്തൊക്കെയാണു് സംസാരിച്ചതു്
+എന്നു് നമുക്കറിയില്ല. ഏതായാലും പുറത്തുവന്ന ചെറിയാൻ വാർത്താലേഖകർക്കു മുന്നിൽ നിന്നു് ഏങ്ങലടിച്ചു
+കരഞ്ഞു: “എനിക്കു് ഭാര്യയും മക്കളുമില്ല. ഞാൻ അനാഥനാണു്.” സ്വന്തം മാതാപിതാക്കൾ മരിച്ചപ്പോൾപോലും
+കരയാതെനിന്ന ചെറിയാൻ ഇതിനുമുമ്പൊരിക്കലേ കണ്ണീരൊഴുക്കിയതായി രേഖയിലുള്ളൂ. 1992-ൽ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref>
+കെ. പി. സി. സി. തെരഞ്ഞെടുപ്പിൽ <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> യോടു
+തോറ്റപ്പൊഴായിരുന്നു അതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Thiruvanchoor_Radhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p>യുവാവായ ശരത്ചന്ദ്രപ്രസാദിനെ തഴഞ്ഞു് കോട്ടയത്തു് ഒരു അമ്മൂമ്മയെ സ്ഥാനാർത്ഥിയാക്കിയതിനെപ്പറ്റി
+പരാമർശിക്കവേ കരുണാകരൻ ധാർമികരോഷം കൊണ്ടു: “ആ ചെറിയാൻ ഫിലിപ്പിനെങ്കിലും ഒരു സീറ്റ്
+കൊടുക്കേണ്ടതായിരുന്നു. ഒന്നുമില്ലെങ്കിൽ ആന്റണിക്കു് എത്ര പ്രസംഗം എഴുതിക്കൊടുത്തതാണു്?”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajiv_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജീവ്ഗാന്ധി</figDesc>
+          </figure>
+          <p>സഖാക്കൾക്കാണെങ്കിൽ പാൽപായസം കിട്ടിയപോലായി. ഉമ്മൻചാണ്ടിക്കെതിരെ നിന്നുതോൽക്കാൻ
+ഒരു നേർച്ചക്കോഴിയെ നോക്കിനടക്കുകയായിരുന്നു അവർ. പുതുപ്പള്ളിയിൽ ദുർബലനായ സ്ഥാനാർത്ഥിയെ
+സി. പി. എം. നിർത്തും; കോട്ടയത്തു് കോൺഗ്രസ് പ്രത്യുപകാരം ചെയ്യും. ഇതാണു് പതിവു്. 1991-ൽ ചെറിയാൻ
+ഫിലിപ്പ് തന്നെ കോട്ടയത്തു് നേർച്ചക്കോഴിയായിനിന്നതാണു്. <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref> മരിച്ച
+സഹതാപമുണ്ടായിട്ടുപോലും. 2,682 വോട്ടിന്റെ ഭൂരിപക്ഷത്തോടെ <ref target="https://ml.wikipedia.org/wiki/T.K._Ramakrishnan">ടി. കെ.
+രാമകൃഷ്ണൻ</ref> വിജയിച്ചു. കോട്ടയം ജില്ലയിൽ പരാജയപ്പെട്ട ഏക യു. ഡി. എഫ്. സ്ഥാനാർഥിയായിരുന്നു
+ചെറിയാൻ.
+</p>
+          <p>യുവാക്കളോടുള്ള അവഗണനയാണു് ചെറിയാന്റെ തുരുപ്പുചീട്ടു്. വിദ്യാർഥി-യുവജന നേതാക്കൾ മാത്രമല്ല.
+വനിതകളും അവഗണിക്കപ്പെട്ടിരിക്കുകയാണു്. ഐ. എൻ. ടി. യു. സി.-യിൽ നിന്നു് ഒരാൾക്കും സീറ്റില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_Babu.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ബാബു</figDesc>
+          </figure>
+          <p> അല്ലെങ്കിൽ ഏതു കോൺഗ്രസുകാരനാണു് യുവാക്കൾക്കായി സ്ഥാനമൊഴിഞ്ഞു കൊടുത്തിട്ടുള്ളതു്?
+എറണാകുളം സീറ്റ് അട്ടിപ്പേറാക്കി വെച്ചുകൊണ്ടിരുന്ന <ref target="https://ml.wikipedia.org/wiki/A.L._Jacob">എ. എൽ. ജേക്കബിനെ</ref>
+ഓർമയുണ്ടോ? കണ്ണും കണ്ടുകൂടാ ചെവിയും കേട്ടുകൂടാ പരസഹായം കൂടാതെ എഴുന്നേറ്റുനിൽക്കാനും വയ്യ എന്ന
+പ്രായത്തിലും ജേക്കബ് ചേട്ടൻ തന്നെയായിരുന്നു സ്ഥാനാർത്ഥി. ഒറ്റ ഉപാധിയിൽ മാത്രമേ അദ്ദേഹം
+ഒഴിയുമായിരുന്നുള്ളൂ. തന്റെ സ്ഥാനത്തു് മകനു് സീറ്റുകൊടുക്കണം. അതിനു് മറ്റുള്ളവർ തയാറാകാത്തതുകൊണ്ടു്
+
+അദ്ദേഹം തന്നെ സ്ഥാനാർത്ഥിയായി. അങ്ങനെയാണു് 1987-ൽ എറണാകുളത്തുകാർ ഇടതുമുന്നണിയെ
+വിജയിപ്പിക്കാൻ നിർബന്ധിതരായതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KC_Venugopal.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. വേണുഗോപാൽ</figDesc>
+          </figure>
+          <p>യുവാക്കളെ പ്രോത്സാഹിപ്പിച്ചു എന്നു് ചെറിയാൻ പറയുന്ന <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>
+പുത്രനുവേണ്ടിപോലും രംഗം ഒഴിയാൻ സന്നദ്ധനല്ല. 1948 മുതൽ 1999 വരെ സീറ്റു കിട്ടാതെ പോയ 1960-ൽ ഒഴിച്ചു്,
+എല്ലാ തെരഞ്ഞെടുപ്പിലും മത്സരിച്ച ദേഹമാണു് കരുണാകരൻ. മുഖ്യമന്ത്രി സ്ഥാനത്തേക്കുള്ള ക്ലെയിം ആന്റണി
+പിൻവലിക്കാമെങ്കിൽ 2001-മാണ്ടിലും തെരഞ്ഞെടുപ്പിൽ നിൽക്കാൻ കാരണവർക്കു് മടിയുണ്ടാകില്ല.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Cherian, Cheruppam,
+Cheruppakkar (ml: ചെറിയാൻ, ചെറുപ്പം, ചെറുപ്പക്കാർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Cherian, Cheruppam, Cheruppakkar, കെ. രാജേശ്വരി, ചെറിയാൻ, ചെറുപ്പം, ചെറുപ്പക്കാർ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 8, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:Thomas_Cole,_The_Voyage_of_Life,_1842,_National_Gallery_of_Art.jpg">The
+Voyage of Life: Manhood,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Cole">Thomas Cole</ref>
+ (1801–1848). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-cherian.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-cherian.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

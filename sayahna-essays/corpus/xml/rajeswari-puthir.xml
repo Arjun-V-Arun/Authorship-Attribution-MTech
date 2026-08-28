@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പുരിയാത പുതിർ</title>
+          <title xml:lang="en" type="main">Puriyatha Puthir</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പുരിയാത പുതിർ</title>
+              <title xml:lang="en" type="main">Puriyatha Puthir</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Puriyatha Puthir</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>പുരിയാത പുതിർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/sick_child_and_grieving_parents.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:%22Anxious_moments%22;_a_sick_child_and_grieving_parents_Wellcome_L0019864.jpg">“Anxious
+moments”: a sick child, its grieving parents, a nursemaid and a medical practitioner,</ref> a
+painting by John Whitehead Walton  (1815-1895). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പുരിയാത പുതിർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പുരിയാത പുതിർ</head>
+        <div type="lsection">
+          <p style="noindent">ജനാധിപത്യ മൂല്യങ്ങൾക്കുനേരെ സമീപകാലത്തുണ്ടായതിൽവെച്ചു് ഏറ്റവും
+രൂക്ഷമായ കടന്നാക്രമണമാണു് ജുൺ 30-നു് പുലർച്ചെ ചെന്നൈ നഗരത്തിൽ നടന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunanidhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിരുമുത്തുവേൽ കരുണാനിധി</figDesc>
+          </figure>
+          <p> എഴുപത്തെട്ടുകാരനും നാലുവട്ടം തമിഴുനാട് സംസ്ഥാനത്തു് മുതൽ അമൈർച്ചർ ആയിരുന്ന ദേഹവുമായ
+<ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">തിരുമുത്തുവേൽ
+കരുണാനിധി</ref> അവർകളുടെ ഭവനത്തിലേക്കു് പൊലീസുകാർ ഇരച്ചുകയറുമ്പോൾ സമയം രണ്ടുമണി
+മുപ്പതു നിമിഷം. ഉറക്കത്തിൽനിന്നു് കലൈഞജറെ തട്ടിയുണർത്തി അറസ്റ്റു ചെയ്യുന്നു. നഗരത്തിൽ
+ഫ്ലൈഓവറുകൾ പണിയുന്നതിൽ അഴിമതി നടത്തിയെന്നു് പരാതി കിട്ടിയതായിരുന്നു പ്രകോപനം.
+പരാതികിട്ടലും പൊലീസ് കേസ് രജിസ്റ്റർ ചെയ്തു. പ്രതികളെത്തേടി പരക്കംപാഞ്ഞു. കലൈഞജരെ
+തൂക്കിയെടുത്തു കൊണ്ടുപോകുമ്പോൾ തടയാനെത്തിയ <ref target="https://en.wikipedia.org/wiki/Murasoli_Maran">മുരശൊലിമാരനും</ref>
+<ref target="https://en.wikipedia.org/wiki/T._R._Baalu">ടി. ആർ. ബാലു</ref>
+വിനും കണക്കിനു കിട്ടി. കഴിഞ്ഞ ദിവസം വരെ വെന്റിലേറ്ററിൽ ആയിരുന്ന മാരൻ വീണ്ടും തീവ്രപരിചരണ
+വിഭാഗത്തിലായി. അടിയന്തര വൈദ്യ പരിശോധനക്കു വിധേയനാക്കണം എന്ന ജഡ്ജിയുടെ ഉത്തരവു്
+തൃണൽവൽഗണിച്ചു് <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">കരുണാനിധി</ref> യെ
+സെൻട്രൽ ജയിലിൽ അടച്ചു. യാദൃച്ഛികമെന്നേ പറയേണ്ടു—അഞ്ചുവർഷം മുമ്പു് <ref target="https://ml.wikipedia.org/wiki/Jayalalita">ജയലളിത</ref> യെ അടച്ച
+അതേ മുറി!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chandrababu_Naidu.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായിഡു</figDesc>
+          </figure>
+          <p> പ്രധാനമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+മുതൽ പുതിയ തമിഴകം നേതാവു് കൃഷ്ണസ്വാമി വരെയുള്ള തി. മു. ക.-യുടെ കൂട്ടാളികൾ പ്രതിഷേധിച്ചതു
+സ്വാഭാവികം. പുറത്തുനിന്നു പിന്താങ്ങുന്ന ആന്ധ്രാ മുഖ്യൻ <ref target="https://en.wikipedia.org/wiki/N._Chandrababu_Naidu">നായിഡു</ref>
+വിന്റെയും എൻ. ഡി. എ.-യിൽ തിരിച്ചുകയറാൻ തിങ്കളാഴ്ചനോമ്പുനോറ്റു ഒരിക്കലുണ്ടു കഴിയുന്ന കുമാരി <ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാബാനർജി</ref>
+യുടെയും ധർമരോഷവും മനസ്സിലാക്കാവുന്നതേയുള്ളു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Murasoli_Maran.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരശൊലിമാരൻ</figDesc>
+          </figure>
+          <p> എന്നാൽ സ്വന്തം ഘടകക്ഷികൾ വരെ പുരട്ചിതലൈവിയെ കൈവിട്ടുകളഞ്ഞു. <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">കരുണാനിധി</ref> യെ
+അറസ്റ്റുചെയ്ത രീതി തെറ്റായിപ്പോയെന്നു് എ. ഐ. സി. സി. വക്താക്കളായ <ref target="https://ml.wikipedia.org/wiki/Ambika_Soni">അംബികാ സോണി</ref> യും
+ജയ്പാൽറെഡ്ഡിയും കുറ്റപ്പെടുത്തി. ടി. എൻ. സി. സി. പ്രസിഡന്റ് <ref target="https://en.wikipedia.org/wiki/E._V._K._S._Elangovan">ഇളങ്കോവനും</ref>
+ടി. എം. സി. നേതാവു് മുപ്പനാരും പി. എം. കെ. തലൈവർ ഡോ. രാംദാസും അതേ അഭിപ്രായം ആവർത്തിച്ചു.
+എന്തിനു് അഴിമിതിക്കെതിരെ കുരിശുയുദ്ധം പ്രഖ്യാപിച്ചിട്ടുള്ള സി. പി. ഐ. സി. പി. എം. എന്നീ വിപ്ലവപ്പാർട്ടികൾ
+വരെ നിർണായകസമയത്തു് അമ്മയെ തള്ളിപ്പറഞ്ഞു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Yechuri.jpg" rendition="gra"/>
+            <figDesc style="thumb">സീതാറാം യച്ചൂരി</figDesc>
+          </figure>
+          <p> സഖാക്കൾ <ref target="https://ml.wikipedia.org/wiki/Sitaram_Yechury">സീതാറാം യച്ചൂരി</ref> യും
+ഷമിം ഫൈസിയും വരെ തള്ളിപ്പറഞ്ഞ പുരട്ചിതലൈവിക്കു് താങ്ങായും തണലായും വർത്തിച്ചതു് തമിഴ്‌നാട്
+ഗവർണർ കുമാരി ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/Fathima_Beevi">എം. ഫാത്തിമാബീവി</ref>.
+സുപ്രിംകോടതി ജഡ്ജി സ്ഥാനത്തെത്തിയ ഇന്ത്യയിലെ ഒന്നാമത്തെയും ലോകത്തെ രണ്ടാമത്തെയും വനിത.
+മലയാളിയാണെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/Fathima_Beevi">ഫാത്തിമാബീവി</ref>
+മാതൃഭാഷ തമിഴാണു്. മറുനാട്ടു തമിഴങ്കയെ ഗവർണറാക്കി കൊണ്ടുവന്നതു് <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">മു. കരുണാനിധി</ref>.
+അടുത്തവർഷം ഒഴിവുവരുന്ന വൈസ് പ്രസിഡന്റു സ്ഥാനത്തേക്കു തി. മു. ക.-യുടെ പിന്തുണ ബീവിക്കായിരിക്കും
+എന്നും ശ്രുതിയുണ്ടായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/J_Jayalalithaa.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജയലളിത</figDesc>
+          </figure>
+          <p> നിയമസഭാംഗമായിരിക്കാൻ യോഗ്യതയില്ലാത്ത <ref target="https://ml.wikipedia.org/wiki/Jayalalita">ജയലളിത</ref> ക്കു്
+മുഖ്യമന്ത്രിയാകാൻ തടസ്സമില്ലെന്നായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Fathima_Beevi">ഫാത്തിമാബീവി</ref> യുടെ
+വിധി. ഗവർണറെ തിരിച്ചുവിളിക്കണം എന്നു് ചില തൽപരകക്ഷികൾ അന്നേ ആവശ്യപ്പെടാഞ്ഞിട്ടല്ല. ഒരു
+സ്ത്രീയല്ലേ ഇരിക്കട്ടെ എന്നു <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+കരുതി. മുൻ സുപ്രിംകോടതി ജഡ്ജിയല്ലേ എന്നു കരുതി <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">കലൈഞജരും</ref>
+ക്ഷമിച്ചു,
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shankar_Dayal_Sharma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശങ്കർ ദയാൽ ശർമ</figDesc>
+          </figure>
+          <p> പുരട്ചി തലൈവിയുടെ സ്വഭാവമറിയുന്നവർക്കാർക്കും ജുൺ 30-ലെ പൊലീസ് നടപടിയിൽ അദ്ഭുതം
+തോന്നിയില്ല. കലൈഞജരെ കൈയാമം വെക്കുകയോ കാൽമുട്ടു തല്ലി ഒടിക്കുകയോ ചെയ്തിരുന്നെങ്കിൽ പോലും
+ആരും അതിശയിക്കില്ല. കാരണം ഭരണഘടനയോ ക്രിമിനൽ നടപടി നിയമവും അറസ്റ്റിനെയും തടങ്കലിനെയും
+സംബന്ധിച്ച സുപ്രിംകോടതി വിധികളുമൊന്നും മുൻകാല സിനിമാനടിക്കറിയില്ല. അടിമപ്പെൺ എന്ന
+പേശുംപടത്തിന്റെ തിരക്കഥയാണു് ശിന്തനൈശെൽവി ഇപ്പോൾ പിന്തുടരുന്നതു്.
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mamata_banerjeel.jpg" rendition="gra"/>
+            <figDesc style="thumb">മമത ബാനർജി</figDesc>
+          </figure>
+          <p> അതുപോലെയല്ലല്ലോ ഭരണഘടന അരച്ചുകലക്കിക്കുടിച്ച കുമാരി <ref target="https://ml.wikipedia.org/wiki/Fathima_Beevi">ഫാത്തിമാബീവി</ref>.
+ദേശീയ മനുഷ്യാവകാശ കമീഷനിൽ അംഗമായിരിക്കുമ്പോഴാണു് അവർ തമിഴ്‌നാട് ഗവർണറായി
+നിയമിക്കപ്പെട്ടതു്. തന്റെ മൂക്കിനുതാഴെ കടുത്ത മനുഷ്യാവകാശ ലംഘനം നടന്നപ്പോഴും ടിയാൾ
+അമ്മിക്കുഴവിപോലെ അനക്കമറ്റിരുന്നു. ബാബരി മസ്ജിദ് തകർന്നു വീണപ്പോൾ രാഷ്ട്രപതി <ref target="https://en.wikipedia.org/wiki/Shankar_Dayal_Sharma">ശങ്കർ ദയാൽ
+ശർമ</ref> പ്രധാനമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/P._V._Narasimha_Rao">നരസിംഹറാവു</ref>
+വിനെ വിളിച്ചുവരുത്തി ശാസിച്ചു. അത്രപോലും ചെയ്തില്ല <ref target="https://ml.wikipedia.org/wiki/Fathima_Beevi">ഫാത്തിമാബീവി</ref>.
+നാടൊട്ടുക്കു പ്രതിഷേധം ഇരമ്പുമ്പോഴും കേന്ദ്രത്തിലേക്കു സ്വന്തം നിലക്കൊരു റിപ്പോർട്ടയക്കാനും തോന്നിയില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Fathima_Beevi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഫാത്തിമാബീവി</figDesc>
+          </figure>
+          <p> അവസാനം കേന്ദ്രം ഒരു റിപ്പോർട്ടു ചോദിച്ചു വാങ്ങിയപ്പോഴോ അതു് <ref target="https://ml.wikipedia.org/wiki/Jayalalita">ജയലളിത</ref> യെ
+ന്യായീകരിക്കുന്നതും ആയിപ്പോയി. മുട്ടാളന്മാരും എന്തു ചെയ്യാൻ മടിയില്ലാത്തവരുമായ <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">മുത്തുവേൽ
+കരുണാനിധി</ref>, <ref target="https://en.wikipedia.org/wiki/Murasoli_Maran">മുരശൊലിമാരൻ</ref>
+മുതലായവർ ഗുണ്ടകളെ കൂട്ടി പൊലീസിനെ ആക്രമിക്കുകയായിരുന്നു എന്ന പൊലീസ് റിപ്പോർട്ടാണു് ഗവർണർ
+വടക്കോട്ടയച്ചതു് ! റിപ്പോർട്ടു കിട്ടിയപ്പോൾ കേന്ദ്രത്തിലെ ആശയക്കുഴപ്പം നീങ്ങി—മുതൽ അമൈച്ചറുടെ കാര്യം
+നിൽക്കട്ടെ ഗവർണറെ ആദ്യം പറഞ്ഞയക്കണം. ഇന്ത്യാ മഹാരാജ്യത്തു് യാതൊരു സുരക്ഷിതത്വമില്ലാത്ത
+തൊഴിലാണു് ഗവർണറുടേതു്. ഒരു മുറുക്കൻ കടയിൽനിന്നും തൊഴിലാളിയെ പിരിച്ചു വിടണമെങ്കിൽ കുറ്റപത്രം
+കൊടുക്കണം വിശദീകരണം തേടണം. എൻക്വയറി നടത്തണം. മന്ത്രിസഭ പിരിച്ചുവിടണമെങ്കിൽ രാഷ്ട്രപതി
+വിളംബരം പുറപ്പെടുവിക്കണം, പാർലമെന്റിന്റെ ഇരുസഭകളും അംഗീകരിക്കയും വേണം രാജ്യസഭയിൽ
+ഭൂരിപക്ഷമില്ലാതത്തതുകൊണ്ടു് പുരട്ചിതലൈവിയെ പിരിച്ചയക്കുക അസാധ്യം എങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Fathima_Beevi">ഫാത്തിമാബീവി</ref> യെ
+പിരിച്ചുവിടുകതന്നെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Elangovan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇളങ്കോവൻ</figDesc>
+          </figure>
+          <p> അപമാനിതയായി ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/Fathima_Beevi">ഫാത്തിമാബീവി</ref>
+രാജ്ഭവന്റെ പടിയിറങ്ങുമ്പോൾ ഒരു ചോദ്യം അവശേഷിക്കുന്നു. ദീർഘകാലം ന്യായാധിപയായിരുന്നു സമ്പാദിച്ച
+സൽപേരുപോലും കളങ്കപ്പെടുത്തി അവർ <ref target="https://ml.wikipedia.org/wiki/Jayalalita">ജയലളിത</ref> യ്ക്കു ഓശാന
+പാടിയതെന്തിനു്? അതുക്കു ബദൽ ഏതുമേയില്ലൈ അതു താൻ പുരിയാത പുതിർ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Puriyatha Puthir (ml: പുരിയാത
+പുതിർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Puriyatha Puthir, കെ. രാജേശ്വരി, പുരിയാത പുതിർ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:%22Anxious_moments%22;_a_sick_child_and_grieving_parents_Wellcome_L0019864.jpg">“Anxious
+moments”: a sick child, its grieving parents, a nursemaid and a medical practitioner,</ref> a
+painting by John Whitehead Walton  (1815-1895). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-puthir.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-puthir.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

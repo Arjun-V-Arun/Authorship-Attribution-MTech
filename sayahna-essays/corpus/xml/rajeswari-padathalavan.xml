@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പണക്കാരുടെ പടത്തലവനു്
+വിപ്ലവാഭിവാദനങ്ങൾ</title>
+          <title xml:lang="en" type="main">Panakkaarude Padaththalavanu
+Viplavabhivadhanangal</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 29, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പണക്കാരുടെ പടത്തലവനു്
+വിപ്ലവാഭിവാദനങ്ങൾ</title>
+              <title xml:lang="en" type="main">Panakkaarude Padaththalavanu
+Viplavabhivadhanangal</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Panakkaarude Padaththalavanu Viplavabhivadhanangal</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>പണക്കാരുടെ പടത്തലവനു് വിപ്ലവാഭിവാദനങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 29, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Francois_Boucher.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Fran%C3%A7ois_Boucher_007.jpg">The
+Bridge,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Fran%C3%A7ois_Boucher">François
+Boucher</ref>  (1703–1770). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പണക്കാരുടെ പടത്തലവനു് വിപ്ലവാഭിവാദനങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പണക്കാരുടെ പടത്തലവനു് വിപ്ലവാഭിവാദനങ്ങൾ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. എം. എസ്. നമ്പൂതിരിപ്പാട്</figDesc>
+          </figure>
+          <p style="noindent"> അധ്വാനിക്കുന്നവരുടെയും ഭാരം ചുമക്കുന്നവരുടെയും അവസാനത്തെ
+ആശാകേന്ദ്രം കമ്യൂണിസ്റ്റ് പാർട്ടി ഓഫ് ഇന്ത്യ (മാർക്സിസ്റ്റ്). <ref target="https://ml.wikipedia.org/wiki/P_KrishnaPillai">പി. കൃഷ്ണപിള്ള</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്. നമ്പൂതിരിപ്പാടും</ref>
+<ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ.
+ഗോപാലനു</ref> മൊക്കെ നട്ടുനനച്ചു വളർത്തിയ മഹാ വിപ്ലവപ്രസ്ഥാനം. കയ്യൂരെ കർഷകരുടെ,
+വയലാറിലെ തൊഴിലാളികളുടെ, കൂത്തുപറമ്പിലെ യുവാക്കളുടെ ചോരയാൽ നിറം പകർന്ന ചെങ്കൊടി. പാലൊറ
+മാതയുടെ പൈക്കിടാവിനെ വിറ്റ പൈസയും സഖാവു് <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസി</ref> ന്റെ ഇല്ലം ഭാഗംവെച്ചു
+കിട്ടിയ സംഖ്യയുമൊക്കെ ചേർത്തു് പടുത്തുയർത്തിയ പാർട്ടി പത്രം—നേരു നേരത്തേ അറിയിക്കുന്ന
+ദേശാഭിമാനി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Akg.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ഗോപാലൻ</figDesc>
+          </figure>
+          <p> നൂറു ശതമാനവും പാർട്ടിയുടെ മുതലാണു് ദേശാഭിമാനി. നിയമദൃഷ്ട്യാ സി. പി. എം. സംസ്ഥാന
+സെക്രട്ടറിയാണു് പത്രമുടമ. പ്രസാധകനും പത്രാധിപന്മാരുമൊക്കെ പാർട്ടിയുടെ മുതിർന്ന നേതാക്കൾ.
+ജീവനക്കാരിലധികവും പാർട്ടി അംഗങ്ങൾ, ബാക്കി അടുത്ത അനുഭാവികൾ. നിലവിൽ സ. <ref target="https://ml.wikipedia.org/wiki/E.P._Jayarajan">ഇ. പി. ജയരാജനാ</ref>
+ണു് ദേശാഭിമാനി ജനറൽ മാനേജർ. പാർട്ടിയുടെ കേന്ദ്രകമ്മിറ്റി അംഗം, സംസ്ഥാന സെക്രട്ടേറിയറ്റ് മെമ്പർ
+എന്നിങ്ങനെ ഭാരിച്ച ചുമതലകൾ വഹിക്കുന്നയാളാണു് ജയരാജൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_karunakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> ദേശാഭിമാനിയുടെ യഥാർഥ കൈകാര്യകർത്താവു് കെ. വേണുഗോപാൽ എന്നൊരു പുമാനാണു്.
+പാവങ്ങളുടെ പടത്തലവൻ <ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ. ജി.</ref>-യുടെ
+സഹോദരപുത്രൻ. ദേശാഭിമാനി പത്രാധിപരും രാജ്യസഭാംഗവുമായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/K._Mohanan">കെ. മോഹനൻ</ref>, കൊച്ചി
+മേയറും ജി. സി. ഡി. എ. ചെയർമാനുമായിരുന്ന കെ. ബാലചന്ദ്രൻ എന്നിവർ വേണുവിന്റെ സ്യാലന്മാരാണു്.
+വളരെ അടുത്ത ബന്ധുവാണു് ദേശാഭിമാനി മുൻ ജനറൽ മാനേജർ <ref target="https://ml.wikipedia.org/wiki/P._Karunakaran">പി. കരുണാകരൻ</ref>
+എം. പി. വിപ്ലവപത്രത്തിൽ ക്ലാർക്കായി ജോലിയിൽ പ്രവേശിച്ച വേണു കഠിനാധ്വാനവും ബന്ധുബലവും കൊണ്ടു്
+ഡപ്യൂട്ടി ജനറൽ മാനേജരായി ഉയർന്നു. സ്വാഭാവികമായും ശത്രുക്കൾ പെരുകി. ഇയാൾ കണ്ടമാനം
+പണമുണ്ടാക്കി സുഖലോലുപ ജീവിതം നയിക്കുന്നു എന്നു് അസൂയാലുക്കൾ പറഞ്ഞുപരത്തി. വേണു <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി വിജയ</ref>
+
+ന്റെ അടുപ്പക്കാരനെന്നതുകൊണ്ടുമാത്രം ദേശാഭിമാനി സഖാക്കളിൽ ഏറിയ പങ്കും വി. എസ്. ഗ്രൂപ്പിൽ ചേക്കേറി.
+ഫോട്ടോഗ്രാഫർ പത്മകുമാറിനെയും സീനിയർ സബ് എഡിറ്റർ ഐ. വി. ബാബുവിനെയും പത്രത്തിൽനിന്നു
+പുകച്ചു പുറത്താക്കുന്നതിൽ വേണു നിസ്തുലമായ പങ്കാണു് വഹിച്ചതു്. ഐ. വി. ദാസിന്റെ മകൻ എന്ന
+പരിഗണനപോലും ബാബുവിനു കിട്ടിയില്ല. ഐ. വി. ബാബു മലയാളം വാരികയിൽ സിൻഡിക്കേറ്റ് ലേഖകനായി;
+പത്മകുമാർ അശ്വത്ഥാമാവായി കൊച്ചിയിൽ അലയുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_P_Jayarajan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. പി. ജയരാജൻ</figDesc>
+          </figure>
+          <p> പ്രബലരായ ബന്ധുക്കളുടെയും അതിശക്തരായ പാർട്ടി നേതാക്കന്മാരുടെയും ബലത്തിൽ
+ദേശാഭിമാനിയിൽ രാജപ്രൗഢിയിൽ ഛത്രചാമര പരിവീജിതനായി കഴിയുന്ന വേണുഗോപാൽ ഇതാ,
+സി. പി. എമ്മിൽനിന്നു് പുറത്താക്കപ്പെട്ടിരിക്കുന്നു. പാർട്ടിക്കു് അപകീർത്തികരമായ സാമ്പത്തിക ഇടപാടുകൾ
+നടത്തി എന്നാണു് ഔദ്യോഗിക ഭാഷ്യം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/T_p_senkumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">സെൻകുമാർ</figDesc>
+          </figure>
+          <p> പതിനായിരക്കണക്കിനു് ഇടപാടുകാരെ വഞ്ചിച്ചു് കോടിക്കണക്കിനു് രൂപ തട്ടിച്ച ‘ലിസ്’ എന്ന പണമിടപാടു്
+സ്ഥാപനത്തിൽനിന്നു് സഖാവു് വേണുഗോപാൽ ഒരു കോടി രൂപ കൈപറ്റിയെന്നാണു് സിൻഡിക്കേറ്റ് പത്രങ്ങൾ
+പ്രചരിപ്പിക്കുന്നതു്. സത്യമെന്തെന്നു് വേണുവിനും പാർട്ടിക്കും പടച്ചവനും മാത്രമറിയാം. ഏതായാലും
+പാർട്ടിയാകട്ടെ, വേണുവാകട്ടെ, ലിസിന്റെ മുതലാളിമാരാകട്ടെ ഈ ആരോപണം നിഷേധിച്ചിട്ടില്ല.
+</p>
+          <p>വേണുഗോപാൽ ബലിയാടാക്കപ്പെട്ടെന്നാണു് മാതൃഭൂമി പത്രം മാറത്തടിച്ചു പറയുന്നതു്. ലിസിനെതിരായ
+ക്രിമിനൽ കേസൊതുക്കാൻ പാർട്ടിയുടെ ഔദ്യോഗിക നേതൃത്വം ആവശ്യപ്പെട്ടതു് മൂന്നുകോടി, അഡ്വാൻസ്
+വാങ്ങിയതു് ഒരു കോടി; ഇടനില നിന്നതു് എറണാകുളത്തെ പ്രശസ്ത സി. പി. എം. അഭിഭാഷകൻ എന്നാണു്
+മാതൃഭൂമി ഭാഷ്യം. അന്വേഷണച്ചുമതലയിൽനിന്നു് ഐ. ജി. <ref target="https://en.wikipedia.org/wiki/T._P._Senkumar">സെൻകുമാറി</ref> നെ
+ഒഴിവാക്കി, സബ് ഇൻസ്പെക്ടറെ കോടതിവരാന്തയിലിട്ടു് മർദ്ദിച്ചു, ചീഫ് ജസ്റ്റിസ് <ref target="https://en.wikipedia.org/wiki/V._K._Bali">വി. കെ. ബാലി</ref>
+ഇടപെട്ടാണു് കേസിനു് ജീവൻ വെപ്പിച്ചതു്, ഇപ്പോൾ അന്വേഷണമേ നടക്കുന്നില്ല എന്നിങ്ങനെ നീളുന്നു, മാതൃഭൂമി
+വാർത്തകൾ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/V_K_Bali.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. കെ. ബാലി</figDesc>
+          </figure>
+          <p> പൊതു തെരഞ്ഞെടുപ്പിന്റെ വോട്ടെണ്ണി ഫലം പ്രഖ്യാപിക്കുന്നതിന്റെ തൊട്ടുതലേ ദിവസം, 2006 മേയ്
+10-നാണു് ഐ. ജി. <ref target="https://en.wikipedia.org/wiki/T._P._Senkumar">സെൻകുമാറും</ref>
+സംഘവും ലിസിന്റെ ഓഫീസും ശാഖകളും റെയ്ഡ് ചെയ്തതു്. മുത്തൂറ്റുകാരെ സഹായിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+ചെയ്യിച്ചതാണെന്നു് ദോഷൈകദൃക്കുകൾ കുറ്റപ്പെടുത്തി. കേസ് റജിസ്റ്റർ ചെയ്തു് അന്വേഷണം തുടങ്ങിയെങ്കിലും
+ഏറേക്കഴിയും മുമ്പു് സെൻകുമാർ തെറിച്ചു. ദർഭേ, കുശേ, ഞാങ്ങണേ, വൈക്കോലേ ന്യായപ്രകാരം ഐ. ജി.,
+ഡി. വൈ. എസ്. പി., എസ്. ഐ. എന്ന ക്രമത്തിൽ അന്വേഷണ ഉദ്യോഗസ്ഥരുടെ റാങ്ക് താണു താണു വന്നു.
+ആഭ്യന്തര വകുപ്പു് മുഖ്യമന്ത്രിയെ ഏൽപിക്കാഞ്ഞതിന്റെ രഹസ്യം പുറത്തായി. മുഴുവൻ സമയ പോലീസ്
+മന്ത്രിയുണ്ടെങ്കിൽ ഇത്തരം കേസുകളിൽ കൂടുതൽ ശ്രദ്ധ ചെലുത്താം. പ്രതികളെ കടുത്ത ശിക്ഷക്കു
+വിധേയരാക്കാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Oommen_Chandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമ്മൻചാണ്ടി</figDesc>
+          </figure>
+          <p> അഡ്വ. എം. കെ. ദാമോദരൻ ഹൈക്കോടതിയിൽ ലിസിനുവേണ്ടി ഹാജരാകാൻ തുടങ്ങിയപ്പോൾ
+കേസിന്റെ ഗതി വ്യക്തമായി. മൂന്നാം നായനാർ സർക്കാറിന്റെ കാലത്തു് (1996–01) അഡ്വക്കറ്റ്
+ജനറലായിരുന്നയാളാണു് സഖാവു് ദമോദരൻ, അതി പ്രഗല്ഭ ക്രിമിനൽ അഭിഭാഷകൻ, ഭരണഘടനാ
+പാരംഗതൻ. ഐസ്ക്രീം പാർലർ പെൺവാണിഭക്കേസിൽ കല്ലട സുകുമാരന്റെ അഭിപ്രായം തൃണവൽഗണിച്ചു്
+ജനാബ് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യെ പ്രതിസ്ഥാനത്തു നിന്നു് ഒഴിവാക്കാൻ ധൈര്യപ്പെട്ട മഹാൻ. കണ്ണൂർ ലോബിയുടെ കണ്ണിലുണ്ണി
+(സ്വാഭാവികമായും വി. എസ്. വിഭാഗത്തിനു കണ്ടുകൂടാത്തയാൾ). ലാവ്ലിൻ കേസിൽ <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref>
+യുടെയും കോടതിയലക്ഷ്യക്കേസിൽ <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലൊളി</ref>
+യുടെയും അഭിഭാഷകനായിരുന്നു. സംഗതിവശാൽ മുരിങ്ങൂർ ധ്യാനകേന്ദ്രത്തിന്റെയും ലിസിന്റെയും മൂന്നാറിൽ
+ഒഴിപ്പിക്കൽ നടപടി നേരിടുന്ന അബാദ് ഗ്രൂപ്പിന്റെയും അഭിഭാഷകൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> സ്റ്റേറ്റ് പ്രോസിക്യൂട്ടറോ മറ്റേതെങ്കിലും സാദാ പ്രോസിക്യൂട്ടറോ ആണു് ലിസിന്റെ കേസിൽ
+ഹാജരാകേണ്ടിയിരുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/P.G._Thampi">പി. ജി. തമ്പി</ref> യാണു്
+ഡയറക്ടർ ജനറൽ ഓഫ് പ്രോസിക്യൂഷൻസ്. ഒന്നാം തരം ക്രിമിനൽ വക്കീൽ. ബാർ കൗൺസിലിന്റെയും ബാർ
+ഫെഡറേഷന്റെയും ചെയർമാൻ. സിനിമാഗാന മഹാകവി ശ്രീകുമാരൻ തമ്പിയുടെ ജ്യേഷ്ഠ സഹോദരനാണു്.
+1982-ൽ ഹരിപ്പാട്ടു മൽസരിച്ചു് <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> യോടു് തോറ്റയാളും. വി. കെ. മോഹനനാണു് അഡീഷനൽ ഡി. ജി. പി. പഴയ
+എസ്. എഫ്. ഐ. നേതാവും എം. കെ. ദാമോദരന്റെ മുൻകാലശിഷ്യനുമാണു് മോഹനൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ramesh_Chennithala.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമേശ് ചെന്നിത്തല</figDesc>
+          </figure>
+          <p> ലിസിന്റെ ഹർജിയെക്കുറിച്ചു് ചാരചക്ഷുസ്സുകളിൽനിന്നറിഞ്ഞു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദൻ</ref>
+ഇടപെട്ടു: കേസുകെട്ടെടുത്തു് അഡീഷനൽ അഡ്വക്കറ്റ് ജനറലിനെ ഏൽപിച്ചു. പ്രലോഭനത്തിനോ
+സമ്മർദത്തിനോ വഴങ്ങാത്ത ഖലനായകനാണു് വെങ്ങാനൂർ ചന്ദ്രശേഖരൻ നായർ. മുരത്ത
+സി. പി. ഐ.-ക്കാരനും. ജസ്റ്റിസ് കെ. തങ്കപ്പൻ എന്ന നീതിമാന്റെ മുന്നിൽ വാദം പുരോഗമിക്കവേ, അടുത്ത
+വെള്ളിടി. ചീഫ് ജസ്റ്റിസ് <ref target="https://en.wikipedia.org/wiki/V._K._Bali">വിനോദ്കുമാർ ബാലി</ref>
+ഇടപെട്ടു് ലിസിന്റെ ഹർജി ജസ്റ്റിസ് ആർ. ബസന്തിന്റെ ബഞ്ചിലേക്കു് മാറ്റി.
+</p>
+          <p>അന്ത്യവിധിവരെ കാത്തിരിക്കാതെ ലിസിന്റെ ഉടമകൾ കൊടുത്ത കാശു് തിരിച്ചു ചോദിച്ചതു സ്വാഭാവികം.
+ഇരുമ്പു കുടിച്ച വെള്ളമുണ്ടോ തിരികെ കിട്ടുന്നു? പാർട്ടിയിൽ പരാതിയായപ്പോൾ വേണുവിനെ കുരുതികൊടുത്തു്
+മേലാളന്മാർ കൈകഴുകി. കെ. വേണുഗോപാലിനെ പുറത്താക്കിയതോടെ പ്രശ്നം അവസാനിച്ചു എന്നാണു്
+പാർട്ടിയുടെ നിലപാടു്. കുറ്റക്കാരനെ കണ്ടെത്തി നടപടിയെടുത്ത സി. പി. എം. സംസ്ഥാന നേതൃത്വത്തെ
+അഭിനന്ദിക്കുകയാണു് വേണ്ടതെന്നു് ജൂൺ 28-നു് ദീപിക മുഖപ്രസംഗമെഴുതി. അതേ അഭിപ്രായമാണു് പാർട്ടി
+
+പത്രത്തിൽ സഖാവു് ദക്ഷിണാമൂർത്തി എഴുതിയ ലേഖനത്തിലും പ്രകടമാകുന്നതു്. ദീപികക്കും ദേശാഭിമാനിക്കും
+ഒരു ഹൃദയം, ഒരു മാനസം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> ബൂർഷ്വാപത്രങ്ങൾ പക്ഷേ, അടങ്ങിയിരിക്കുന്നില്ല. മകാരത്തിൽ തുടങ്ങുന്ന നാലു മലയാള
+പത്രങ്ങൾ—മാതൃഭൂമി, മാധ്യമം, മനോരമ, മംഗളം—നിരവധി ചോദ്യങ്ങൾ ഉന്നയിക്കുന്നു. ഇന്ത്യാവിഷൻ,
+ഏഷ്യാനെറ്റ്, മനോരമ ചാനലുകളും മോശമല്ല. കേരളകൗമുദി മാധ്യമസിൻഡിക്കേറ്റിൽനിന്നു പിന്മാറിയിരിക്കുന്നു.
+കാരണം അവ്യക്തം.
+</p>
+          <p>കേവലം ഒരു ലോക്കൽ കമ്മിറ്റി മെമ്പറായ വേണുഗോപാലിനു് ആരെങ്കിലും ഒരുകോടി കൊടുക്കുമോ
+എന്നാണു് മാധ്യമങ്ങളും പ്രതിപക്ഷക്കാരും ചോദിക്കുന്നതു്. അങ്ങനെയെങ്കിൽ സംസ്ഥാന കമ്മിറ്റി
+അംഗങ്ങൾക്കു് എത്രകിട്ടും? സെക്രട്ടറിയറ്റ് അംഗങ്ങൾക്കു്, കേന്ദ്രകമ്മിറ്റിക്കാർക്കു്, പോളിറ്റ് ബ്യൂറോ
+മെമ്പർമാർക്കു് എത്രയെത്ര വീതം?
+</p>
+          <p>മറ്റു ചില പത്രങ്ങൾ അവകാശപ്പെടുന്നതുപോലെ സർവതന്ത്ര സ്വതന്ത്രമായ ഒരു സ്ഥാപനമല്ല, ദേശാഭിമാനി.
+പാർട്ടി അംഗമല്ലാത്തയാൾക്കു് പത്രത്തിൽ ജോലി ചെയ്യാം. പക്ഷേ, പാർട്ടിയിൽ നിന്നു് പുറത്താക്കപ്പെട്ടയാൾക്കു്
+ദേശാഭിമാനിയിൽ തുടരാനാവില്ല. <ref target="https://ml.wikipedia.org/wiki/Appukutan_vallikunnu">അപ്പുക്കുട്ടൻ
+വള്ളിക്കുന്നി</ref> ന്റെ പ്രശ്നത്തിൽ അന്നത്തെ ജനറൽ മാനേജർ <ref target="https://ml.wikipedia.org/wiki/P._Karunakaran">പി. കരുണാകരൻ</ref>
+വ്യക്തമാക്കിയ നിലപാടാണിതു്. അപ്പുക്കുട്ടനെ പുറത്താക്കിയതു് തെറ്റാണെന്നും പാർട്ടിയിൽ
+തിരിച്ചെടുക്കണമെന്നും <ref target="https://ml.wikipedia.org/wiki/Samar_mukherjee">സമർ മുഖർജി</ref>
+അധ്യക്ഷനായ കേന്ദ്ര കൺട്രോൾ കമീഷൻ വിധിച്ച ശേഷമാണു് കരുണാകരൻ സഖാവിന്റെ നയപ്രഖ്യാപനം
+എന്നതും ശ്രദ്ധേയം. വിവാദപരമായ പണമിടപാടു് വേണുഗോപാൽ സമ്മതിച്ചിട്ടുണ്ടു്. പാർട്ടിക്കു്
+അപകീർത്തിയുണ്ടാക്കി എന്നു കണ്ടെത്തി ലോക്കൽ കമ്മിറ്റി വേണുവിനെ പുറത്താക്കാൻ തീരുമാനിച്ചു. സ്റ്റേറ്റ്
+സെക്രട്ടേറിയറ്റ് അതംഗീകരിച്ചു. പുറത്താക്കൽ പൂർത്തിയായി. ഇതൊക്കെ കഴിഞ്ഞിട്ടും കെ. വേണുഗോപാൽ
+ദേശാഭിമാനിയിൽ ഡപ്യൂട്ടി ജനറൽ മാനേജരായി പരിലസിക്കുന്നു! അതാണു് സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref> പണ്ടുപറഞ്ഞതു്; ഈ പാർട്ടിയെപ്പറ്റി നമുക്കാർക്കും ഒരു ചുക്കും അറിയില്ല.
+</p>
+          <p>ഏതേതു് കേസ് ഒതുക്കണം, ആരെ ഇടനിലക്കാരനാക്കണം, എത്ര കോടി വാങ്ങണം, അതു്
+ആർക്കൊക്കെയായി വീതിക്കണം, പിടിക്കപ്പെട്ടാൽ ആരെ പുറത്താക്കണം, ആരെയൊക്കെ നിലനിറുത്തണം
+എന്നീ കാര്യങ്ങൾ പാർട്ടി തീരുമാനിക്കും. അതൊക്കെ പാർട്ടിയുടെ ആഭ്യന്തര കാര്യമാണു്. പാർട്ടിക്കു മീതെ
+പരുന്തും പറക്കില്ല. പാർട്ടി നേതൃത്വത്തിന്റെ സത്യസന്ധതയെ, തത്ത്വദീക്ഷയെ, നീതിബോധത്തെ നമ്മളൊക്കെ
+സ്തുതിക്കണം. ഓം ഹിരണ്യായ നമഃ എന്നു് ദിനംപ്രതി നൂറ്റൊന്നുരു ജപിക്കണം.
+</p>
+          <p>ദീപികയുടെയും ദേശാഭിമാനിയുടെയും ഭാഷ്യം തൊണ്ട തൊടാതെ വിഴുങ്ങാമെന്നു കരുതുമ്പോഴേക്കും അടുത്ത
+ബോംബ് ! ലോട്ടറി രാജാവു് സാന്റിയാഗോ മാർട്ടിനിൽനിന്നു് ദേശാഭിമാനി രണ്ടു കോടി കൈപ്പറ്റിയതിന്റെ രേഖ
+മാതൃഭൂമിയുടെ ഒന്നാം പേജിൽ. അതോടൊപ്പം അന്യസംസ്ഥാന ലോട്ടറികളിൽ നിന്നു് പിരിഞ്ഞുകിട്ടാനുള്ള
+കോടികളുടെ കണക്കും, ലോട്ടറി കേസുകളിൽ സർക്കാർ ഭാഗം നിരന്തരം തോൽക്കുന്നതിന്റെ വിശദാംശങ്ങളും.
+</p>
+          <p>പാർട്ടിയും പത്രവും വാർത്ത നിഷേധിക്കും, രേഖ വ്യാജമെന്നു കുറ്റപ്പെടുത്തും എന്നു കരുതിയവർക്കു തെറ്റി.
+പണം വാങ്ങിയതു് ദേശാഭിമാനി വികസന ബോണ്ടിലേക്കാണെന്നും പാർട്ടി ബന്ധുക്കളിൽനിന്നു് പണം
+സ്വീകരിക്കുക പതിവുണ്ടെന്നും സ. <ref target="https://ml.wikipedia.org/wiki/E.P._Jayarajan">ഇ. പി. ജയരാജൻ</ref>
+വിശദീകരിച്ചപ്പോൾ കൂടുതൽ ചോദ്യങ്ങൾ ഉയർന്നു: ബോണ്ടിറക്കാൻ കമ്പനി റജിസ്ട്രാറിൽനിന്നു് അനുവാദം
+വാങ്ങിയിട്ടുണ്ടോ? നടപടിക്രമം പാലിച്ചിട്ടുണ്ടോ? മാർട്ടിൻ എന്നു മുതല്കാണു് പാർട്ടിയുടെ ബന്ധുവായതു്?
+തമിഴ്‌നാട് സർക്കാർ പിടികിട്ടാപ്പുള്ളിയായി പ്രഖ്യാപിച്ചതിനാൽ ഒളിവിൽ കഴിയുകയാണു് മാർട്ടിൻ
+എന്നറിയാമോ?
+</p>
+          <p>അപ്പോൾ ജയരാജൻ ചുവടുമാറ്റി. ബോണ്ടോ? ഏതു് ബോണ്ട്? എവിടത്തെ ബോണ്ട്? വൈകിട്ടു് ചായക്കു
+പലഹാരം ബോണ്ടയെന്നാണു് ഞാൻ പറഞ്ഞതു്? പത്രക്കാർ തെറ്റായി റിപ്പോർട്ട് ചെയ്തതാണു്? ദേശാഭിമാനി
+ബോണ്ടേ ഇറക്കിയിട്ടില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thiruvanchoor_Radhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> സ. ജയരാജന്റെ തലേ ദിവസത്തെ പ്രസ്താവനയുടെ ചുവടു പിടിച്ചു് ജൂൺ 29-നു് മുഖപ്രസംഗമെഴുതിയ
+ദേശാഭിമാനി ഷൾഗവ്യത്തിലായി. മാർട്ടിൻ ബോണ്ടു വാങ്ങിയെന്നും ബോണ്ടിലൂടെ പണം വാങ്ങുന്നതിൽ
+യാതൊരു തെറ്റുമില്ലെന്നുമായിരുന്നു. എഡിറ്റോറിയൽ. കൂട്ടത്തിൽ മാധ്യമഭീകരതയെപ്പറ്റി ചില നല്ല വാക്കുകളും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_jayarajan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജയരാജൻ</figDesc>
+          </figure>
+          <p> അസംബ്ലിയിൽ <ref target="https://ml.wikipedia.org/wiki/Thiruvanchoor_Radhakrishnan">തിരുവഞ്ചൂർ
+രാധാകൃഷ്ണന്റെ</ref> സബ്മിഷനു് മറുപടി പറയാതെ <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+തടിയൂരി. സഖാവു് <ref target="https://en.wikipedia.org/wiki/P._Jayarajan">പി.
+ജയരാജൻ</ref> മാതൃഭൂമി മഞ്ഞപ്പത്രമാണെന്നു വെളിപ്പെടുത്തി. മഞ്ഞപ്പത്രം, നീലപ്പത്രം, മാധ്യമ
+സിൻഡിക്കേറ്റ്, എംബഡഡ് ജേണലിസം, മാധ്യമ ചെറ്റത്തരം, പിതൃശൂന്യപത്രപ്രവർത്തനം എന്നിങ്ങനെയുള്ള
+സുന്ദരപദങ്ങളെല്ലാം പ്രയോഗിച്ചിട്ടും സഖാക്കളുടെ സംശയം തീർന്നില്ല. <ref target="https://en.wikipedia.org/wiki/M._V._Shreyams_Kumar">ശ്രേയാംസ്കുമാർ</ref>
+ഭൂമി കൈയേറി, <ref target="https://ml.wikipedia.org/wiki/M._P._Veerendra_Kumar">വീരേന്ദ്രകുമാർ</ref>
+കൈയേറി, പത്മപ്രഭ കൈയേറി, കൃഷ്ണ ഗൗണ്ടർ കൈയേറി എന്നൊക്കെ ദേശാഭിമാനി ആവർത്തിച്ചു പറഞ്ഞിട്ടും
+ഫലം നാസ്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MV_Shreyams_Kumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശ്രേയാംസ്കുമാർ</figDesc>
+          </figure>
+          <p> പരസ്യക്കൂലിയിനത്തിൽ രണ്ടുകോടി മുൻകൂർ കൈപ്പറ്റിയതാണെന്നു് പിന്നീടു് വിശദീകരണം വന്നു.
+എങ്കിലതിനെ എന്തിനു ഡവലപ്മെന്റ് ബോണ്ട് എന്നു് വിശേഷിപ്പിച്ചു? പരസ്യക്കൂലി പലിശയടക്കം തിരിച്ചു
+കൊടുക്കുമെന്നു് എവിടെയെങ്കിലും കേട്ടിട്ടുണ്ടോ? നിയമസഭയിൽ ബഹളം, ഇറങ്ങിപ്പോക്കു്. പരമരഹസ്യമായ
+രേഖ മാതൃഭൂമിക്കെവിടെ നിന്നു കിട്ടിയെന്നു മാത്രം ആരും ചോദിച്ചില്ല. ഒളിവിൽ കഴിയുന്ന സാന്റിയാഗോ മാർട്ടിൻ
+പെരുന്താന്നിയിൽ പത്രമാപ്പീസിലെത്തിച്ചു കൊടുക്കുകയായിരുന്നോ? അതോ പാർട്ടി സമ്മേളനങ്ങൾ
+ആരംഭിക്കാനിരിക്കെ വിജയ-ജയരാജന്മാരെ ഒതുക്കാൻ വിരുദ്ധഗ്രൂപ്പുകാർ കളിച്ചതാണോ? ഇതിന്റെ
+ഉത്തരവാദിത്തവും ഒടുവിൽ ഷാജഹാന്റെ തലയിൽ പതിക്കുമെന്നുറപ്പാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MP_VEERENDRAKUMAR.jpg" rendition="gra"/>
+            <figDesc style="thumb">വീരേന്ദ്രകുമാർ</figDesc>
+          </figure>
+          <p> ജൂൺ 30-നു് സി. പി. എം. സംസ്ഥാനക്കമ്മിറ്റിയിൽ <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+
+വിജയനും</ref> <ref target="https://ml.wikipedia.org/wiki/E.P._Jayarajan">ജയരാജനും</ref> ഒറ്റപ്പെട്ടു.
+സാന്റിയാഗോ മാർട്ടിൻ ഇടതു പക്ഷ ചിന്താഗതിക്കാരനും പാർട്ടി ബന്ധുവുമാണെന്നു് ഇരുവരും ആണയിട്ടു
+പറഞ്ഞിട്ടും അഖിലേന്ത്യാ സെക്രട്ടറിക്കു ബോധ്യപ്പെട്ടില്ല. കാരാട്ടിനെക്കണ്ടപ്പോൾ സഖാക്കൾ മിക്കവരും
+കവാത്തു മറന്നു. ഒടുവിൽ പണം തിരിച്ചുകൊടുക്കാൻ തീരുമാനിച്ചു. സി. പി. എമ്മിനെതിരെ
+അടിസ്ഥാനരഹിതമായ അധിക്ഷേപം ചൊരിയുവാൻ ഈ സംഭവത്തെ ദുരുപയോഗപ്പെടുത്തുന്നവരുടെ
+നിഗൂഢലക്ഷ്യങ്ങൾ പാർട്ടിയുടെ അഭ്യുദയകാംക്ഷികളും ബന്ധുക്കളും തിരിച്ചറിയുമെന്നു് സംസ്ഥാന കമ്മിറ്റി
+പ്രത്യാശ പ്രകടിപ്പിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PGovindapilla.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗോവിന്ദപിള്ള</figDesc>
+          </figure>
+          <p> പരസ്യക്കാരിൽനിന്നു മുൻകൂർ നിക്ഷേപം സ്വീകരിക്കുന്നതിലും അതു പലിശയടക്കം തിരിച്ചുനൽകുന്നതിലും
+യാതൊരു അപാകതയുമില്ലെന്നു് സംസ്ഥാന കമ്മിറ്റി ആവർത്തിച്ചുപറയുന്നു. എങ്കിൽപിന്നെ എന്തിനു സംഖ്യ
+തിരിച്ചുകൊടുക്കുന്നു? തെറ്റായ ഒരു ബാധ്യതയും വരുത്താത്ത സുതാര്യമായ പദ്ധതി ജനങ്ങൾക്കു
+ബോധ്യപ്പെടുത്താൻ പാർട്ടിക്കു സ്വന്തം പത്രവും ചാനലുകളുമുണ്ടല്ലോ? പി. എം. മനോജും ആർ. എസ്. ബാബുവും
+മുതൽ <ref target="https://ml.wikipedia.org/wiki/P.Govindapilla">ഗോവിന്ദപിള്ള</ref> യും
+കുഞ്ഞമ്മദും വരെ എത്ര പ്രതിഭാശാലികൾ പേനയുമേന്തി നിൽക്കുന്നു. സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref> യുടെ
+ആജ്ഞാനുവർത്തികളായി.
+</p>
+          <p>മാർട്ടിന്റെ പണം തിരിച്ചുകൊടുക്കുന്നതോടെ പാപം തീർന്നുവെന്നു് ദീപികയും ദേശാഭിമാനിയും
+വ്യാഖ്യാനിക്കും. പതിനെട്ടര ലക്ഷം മുടക്കി മോടി കൂട്ടിയ മൻമോഹൻ ബംഗ്ലാവിൽനിന്നു് മാറിത്താമസിച്ചതോടെ
+<ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണൻ</ref> ശുദ്ധനായപോലെ. കൊന്നാൽ പാപം തിന്നാൽ തീരും, വാങ്ങിയ പാപം
+തിരിച്ചുകൊടുത്താലും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KodiyeriBalakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കോടിയേരി ബാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> ഒളിവിൽ കഴിയുന്ന പാർട്ടി ബന്ധുവിനെ എങ്ങനെ കണ്ടെത്തി പണം തിരിച്ചുകൊടുക്കുമെന്നാണു് അടുത്ത
+പ്രശ്നം. അദ്ദേഹം പുറത്തുവരും വരെ, അല്ലെങ്കിൽ പോലീസ് പിടികൂടും വരെ കാത്തിരിക്കുകയേ തരമുള്ളൂ.
+രണ്ടുകോടി തിരിച്ചുവാങ്ങാൻ സഖാവു് സാന്റിയാഗോ വിസമ്മതിച്ചാൽ, വിജയേട്ടാ, ദേശാഭിമാനി
+നിലനിൽക്കേണ്ടതു് ഇന്നാട്ടിലെ പട്ടിണിപ്പാവങ്ങളുടെ ആവശ്യമാണു്, മടക്കിവാങ്ങാൻ പറയരുതു് എന്നു
+ശഠിച്ചാൽ സംഗതി പിന്നെയും കുഴയും.
+</p>
+          <p>മാർട്ടിൻ സഖാവിന്റെ രണ്ടുകോടി എവിടെനിന്നെടുത്തു കൊടുക്കുമെന്നാണു് അടുത്ത പ്രശ്നം.
+മാർട്ടിൻഫണ്ടിലേക്കു് ബക്കറ്റു പിരിവു നടത്താം, അല്ലെങ്കിൽ മറ്റേതെങ്കിലും ഉദാരമതിയെ കണ്ടെത്താം. ഒരു
+കുഴിമൂടാൻ മറ്റൊരു കുഴികുത്താം, അതുമൂടാൻ മൂന്നാമതൊന്നു് എന്ന പഴയ മുല്ലാക്കഥ ഓർമിക്കുക.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CP_Krishnan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">ക്യാപ്റ്റൻ കൃഷ്ണൻ നായർ</figDesc>
+          </figure>
+          <p> അഖിലേന്ത്യാ സെക്രട്ടറി എന്തുതന്നെ പറഞ്ഞാലും മാർട്ടിനു് പണം തിരിച്ചുകൊടുക്കുന്നതു്
+ആത്മഹത്യാപരമായിരിക്കും. അതു് തികച്ചും തെറ്റായ കീഴ്‌വഴക്കം സൃഷ്ടിക്കും. ഇതേ
+മാനദണ്ഡമനുസരിച്ചാണെങ്കിൽ ലിസിന്റെ പി. വി. ചാക്കോക്കു് ഒരു കോടി തിരിച്ചുകൊടുക്കണ്ടേ? മുരിങ്ങൂർ
+
+ധ്യാനകേന്ദ്രത്തിൽനിന്നു കൈപ്പറ്റിയതും അബ്ദുൽ വഹാബ്, ഗൾഫാർ മുഹമ്മദാലി, <ref target="https://ml.wikipedia.org/wiki/C._P._Krishnan_Nair">ക്യാപ്റ്റൻ കൃഷ്ണൻ
+നായർ</ref>, ചാക്കു രാധകൃഷ്ണൻ, മണിച്ചൻ മുതലായ ഉദാരമതികളിൽ നിന്നു പലപ്പോഴായി വസൂലാക്കിയതും
+എസ്. എൻ. സി. ലാവലിൻ തന്നതും തിരിച്ചുകൊടുക്കേണ്ടിവരും. സംസ്ഥാനത്തെ മൊത്തം ബക്കറ്റുകളും
+ഉപയോഗിച്ചു പിരിച്ചാലും ബാധ്യത ബാക്കി നിൽക്കും.
+</p>
+          <p>പാലൊറ മാതയുടെ പൈക്കിടാവിനെക്കൊണ്ടൊന്നും ഇനിയുള്ള കാലം ദേശാഭിമാനി നടന്നുപോകില്ല.
+ഇല്ലംവിറ്റു് പാർട്ടിയെ പോറ്റാൻ ത്രാണിയുള്ള നേതാക്കളുമില്ല. പാർട്ടിയെ വിറ്റു് കുടുംബം പോറ്റുന്നവരാണു്
+ഏറിയകൂറും. പത്രം നിലനിൽക്കണമെങ്കിൽ മാർട്ടിനെപ്പോലുള്ള ഉദാരമതികൾ വേണം,
+വേണുഗോപാലിനെപ്പോലുള്ള ഉദ്യോഗസ്ഥരും.
+</p>
+          <lg>
+            <l> മധുവ്രതത്തിനു മടുമലർ വേണം</l>
+            <l>
+മനംകുളിർപ്പിക്കാൻ,</l>
+            <l> മലർന്ന പൂവിനു വണ്ടും വേണം</l>
+            <l>
+മണ്ണിതു വിണ്ണാകാൻ! </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>കമ്യൂണിസ്റ്റ് പാർട്ടി ഓഫ് ഇന്ത്യ (മാർക്സിസ്റ്റ്) ന്റെ വർഗ സ്വഭാവത്തെക്കുറിച്ചു് ഇനിയാർക്കും ഒരു സംശയവും
+വേണ്ട. പണക്കാർക്കുവേണ്ടി നിലകൊള്ളുന്ന പട്ടിണിപ്പാവങ്ങളുടെ പാർട്ടി. പട്ടിണിപാവങ്ങൾക്കു വേണ്ടി,
+പാവങ്ങൾ പാർട്ടിക്കുവേണ്ടി, പാർട്ടി നേതാക്കൾക്കുവേണ്ടി, നേതാക്കൾ പണത്തിനും പണക്കാർക്കും വേണ്ടി,
+പണക്കാരുടെ പടത്തലവനു് വിപ്ലവാഭിവാദനങ്ങൾ! രക്തസാക്ഷികൾ സിന്ദാബാദ്, രക്തപതാക സിന്ദാബാദ്,
+രക്തപതാകത്തണലിൽ വിരിയും സിക്കിം ലോട്ടറി സിന്ദാബാദ്!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Panakkaarude Padaththalavanu
+Viplavabhivadhanangal (ml: പണക്കാരുടെ പടത്തലവനു് വിപ്ലവാഭിവാദനങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Panakkaarude Padaththalavanu Viplavabhivadhanangal, കെ. രാജേശ്വരി, പണക്കാരുടെ
+പടത്തലവനു് വിപ്ലവാഭിവാദനങ്ങൾ, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 29, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Fran%C3%A7ois_Boucher_007.jpg">The
+Bridge,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Fran%C3%A7ois_Boucher">François
+Boucher</ref>  (1703–1770). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-padathalavan.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswaripadathalavan.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

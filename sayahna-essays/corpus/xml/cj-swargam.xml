@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വിഡ്ഢികളുടെ സ്വർഗ്ഗം</title>
+          <title xml:lang="en" type="main">Viddikalude swargam</title>
+        </title>
+        <author> CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">November 23, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വിഡ്ഢികളുടെ സ്വർഗ്ഗം</title>
+              <title xml:lang="en" type="main">Viddikalude swargam</title>
+            </title>
+            <author> CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-11-22</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Viddikalude swargam</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>വിഡ്ഢികളുടെ സ്വർഗ്ഗം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-11-22</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/aUGUSTIN.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:August_Augusta_och_Lille_aUGUSTIN.jpg">August
+Augusta och lille Augustin,</ref> a painting by Dockteaterverkstan  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വിഡ്ഢികളുടെ സ്വർഗ്ഗം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വിഡ്ഢികളുടെ സ്വർഗ്ഗം</head>
+        <div type="lsection">
+          <p style="noindent">ഓരോന്നിനും ഓരോ ഉപന്യാസം അർഹിക്കുന്ന ആറു ചെറുകഥകൾ ഒരുമിച്ചു
+ചേർത്തതാണു് ‘വിഡ്ഢികളുടെ സ്വർഗ്ഗം’. വിവിധ വിഷയങ്ങളെപ്പറ്റിയാണു് അവ പ്രതിപാദിക്കുന്നതു്. എങ്കിലും
+അവയ്ക്കെല്ലാം പൊതുവായി ഒരു സവിശേഷതയുണ്ടു്. അതു ശ്രീ. ബഷീറിന്റെ സ്വന്തമായ വീക്ഷണഗതിയാണു്.
+‘സ്വന്തമായ’ എന്നു പറയാൻ കാരണമുണ്ടു്. ഇന്നുവരെ അനേകം പേർ ലോകത്തിൽ ജീവിച്ചിട്ടുണ്ടു്: ചിന്തിച്ചിട്ടുണ്ടു്.
+അതിൽ കുറെയൊക്കെ ശ്രീ. ബഷീർ മനസ്സിലാക്കുകയും ചെയ്തു. എങ്കിലും, അതിൽ ഏതിന്റെയെങ്കിലും ഒരു
+കാർബൺ പതിപ്പു് വിഴുങ്ങുന്നതുകൊണ്ടു മാത്രം തൃപ്തിപ്പെടുന്ന ഒരു സ്വഭാവമല്ല ബഷീറിനുള്ളതു്. ശരിയോ തെറ്റോ
+ആയിക്കൊള്ളട്ടെ, സ്വന്തം അനുഭവങ്ങൾ മറ്റുള്ളവരുടെ ചിന്താഗതിയോടു തട്ടിച്ചുനോക്കിയിട്ടു് ലഭിക്കുന്ന ഒരു
+അനുമാനം മാത്രമേ ബഷീറിനു സ്വീകാര്യമാവൂ. അതൊന്നും ഒരു പുതിയ തത്ത്വശാസ്ത്രമാണെന്നു് ബഷീറിനു
+ഭാവവുമില്ല. അതുകൊണ്ടാണു് വീക്ഷണഗതി എന്നു പറയാനിടയായതു്. ഈ ചിന്താഗതിയുടെ അടിസ്ഥാനക്കല്ലു്
+വ്യക്തികള്‍ക്കുണ്ടായിരിക്കേണ്ട ഉത്തരവാദബോധമാണു്. വ്യക്തി എന്നവാക്കു കേൾക്കുമ്പോഴേക്കും വിറളി
+പിടിക്കുന്നവർ ഇപ്പോൾ ബഷീറിന്റെ നേരേ വിരല്‍ ചൂണ്ടും. ‘കണ്ടോ ഞാൻ പറഞ്ഞില്ലേ?’ എന്ന
+സർവ്വജ്ഞഭാവത്തിൽ ചോദിക്കുകയും ചെയ്യും. ആ ബഹളത്തിന്റെയെല്ലാം സംഗ്രഹം ഇതാണു്; ബഷീർ
+സമുദായഘടനയെകാണാത്ത ഒരു ഇൻഡിവിഡ്വലിസ്റ്റാണു്. സാമൂഹ്യഘടനയ്ക്കു വ്യക്തികളുടെ
+സ്വഭാവരൂപീകരണത്തിൽ ഉള്ള പങ്കു്: അദ്ദേഹം അറിയായ്കയല്ല; അംഗീകരിക്കായ്കയുമല്ല. എന്നാൽ, സ്വന്തമായി
+വ്യക്തിയായ മനുഷ്യൻ കാണിച്ചുകൂട്ടുന്ന തെറ്റുകൾക്കെല്ലാം സാമൂഹ്യഘടനയുടെമേൽ ഉത്തരവാദിത്വം
+വെച്ചുകെട്ടുന്ന ഏർപ്പാടു് അദ്ദേഹം വെറുക്കുന്നുവെന്നു മാത്രം. സാമൂഹ്യഘടന മാറാതെതന്നെ, ഇന്നത്തെ മനുഷ്യൻ
+കുറേക്കൂടി ഹൃദയാലുത്വത്തോടുകൂടി പ്രവർത്തിച്ചാൽ, ലോകം കുറേക്കൂടി സഹനീയമായിത്തീരും എന്നു ബഷീർ
+വിശ്വസിക്കുന്നു. അനേകമായ അദ്ദേഹത്തിന്റെ അനുഭവങ്ങൾ അദ്ദേഹത്തെ അതാണു് പഠിപ്പിച്ചതു്. 1931-ലെ
+നിയമലംഘന പ്രസ്ഥാനവും, രക്തലേഖനക്കേസും, തിരുവിതാംകൂർ സമരവും എല്ലാം കഴിഞ്ഞു്, അധികാരത്തിൽ
+കയറിയ കോൺഗ്രസ്സുകാരനേയും മാക്സിം ഗോർക്കിയെ പിടിച്ചാണയിട്ടു് കേശവദേവിനെ വഞ്ചകൻ എന്നു
+വിളിക്കുന്ന കമ്മ്യൂണിസ്റ്റിനേയും കാണുമ്പോൾ ബഷീറിനു തോന്നിപ്പോകയാണു്, മനുഷ്യൻ വ്യക്തിയായിട്ടുകൂടി
+അല്പമൊന്നു നന്നായേ തീരു എന്നു്. ഈ വീക്ഷണമാണു് ‘വിഡ്ഢികളുടെസ്വർഗ്ഗ’ത്തിന്റെ പുറകിൽ ഉള്ളതു്. നിങ്ങൾ
+അതിനെ ഒരു മതഭ്രാന്തെന്നു വേണമെങ്കിൽ വിളിച്ചുകൊള്ളു. ബഷീർ അത്തരം പദക്കസർത്തുകളിൽ
+വിശ്വസിക്കുന്നില്ല. വിവരമില്ലാത്തവൻ അഭിപ്രായം പറയുന്നതു കേട്ടാൽ ക്ഷോഭിക്കാതിരിക്കാൻ മാത്രം ബഷീർ
+പാകംവന്നിട്ടുണ്ടു്. തന്റെ ചുറ്റുമുള്ളവരിൽ ഒരു നല്ല പങ്കു് വിഡ്ഢികളുടെ സ്വർഗ്ഗത്തിലാണു് ജീവിക്കുന്നതെന്നും
+അദ്ദേഹത്തിന്നഭിപ്രായമുണ്ടു്. വിഡ്ഢികളുടെ സ്വർഗ്ഗമെന്ന ആ കഥയിലെ സ്നേഹിതന്മാരെ നോക്കുക.
+അവിവാഹിതന്മാരുടെ ഏതു ലോഡ്ജിലും കാണാൻ കഴിയും അത്തരം തത്ത വളർത്തുകാരെ. അവർ
+സൃഷ്ടിക്കാത്തതോ അവർ വിശ്വസിക്കാത്തതോ ആയ ഒരു സദാചാരസ്വർഗ്ഗത്തിലാണവർ ജീവിക്കുന്നതു്.
+ആഗ്രഹങ്ങളെ ഒതുക്കി കപടവേഷവുമണിഞ്ഞു് അങ്ങിനെ ആചാരപ്പാവകളായി കഴിയുകയാണവർ. മറുവശവും
+ബഷീറിനെ ആകർഷിക്കുന്നില്ല. ബഷീറിന്റെ നായകൻ ആ പാഴ്ക്കുടിലിൽനിന്നു് ഓടുകയാണു്. ശ്രീ.
+പൊൻകുന്നത്തിന്റെ കഥാപാത്രത്തെപ്പോലെ രോഗം ഭയപ്പെട്ടല്ല; ആ വിളറിയ പിഞ്ചുപൈതങ്ങളുടെ കാഴ്ച കണ്ടു
+ഹൃദയം നൊന്തിട്ടു്. ഈ രണ്ടു അനുഭവങ്ങൾകൊണ്ടു ബഷീറിനു ഒന്നു പറയാനുണ്ടു്. ഇന്നു ലൈംഗിക
+സദാചാരത്തെപ്പറ്റിയുള്ള രണ്ടു ചിന്താഗതികളും അതിനെ പ്രേതത്തെപ്പോലെ ഭയപ്പെട്ടു വികാരങ്ങൾ അമർത്തുന്ന
+മഠത്തിലെ ഏർപ്പാടും, അതിനെ വെറും മൃഗീയഭോഗലോലുപതയായി തരംതാഴ്ത്തുന്നതും തെറ്റാണെന്നു്. അഥവാ
+ഈ വിഷയത്തിൽ നാം ഒരു വിഡ്ഢികളുടെ സ്വർഗ്ഗത്തിലാണു് കഴിയുന്നതെന്നു്.
+</p>
+          <p>രണ്ടാമത്തെ കഥയായ ‘പൂവമ്പഴം’ ശക്തിയായ ആക്ഷേപത്തെ ക്ഷണിച്ചുവരുത്തുന്ന ഒന്നാണു്. ബഷീറിനെ
+പിന്തിരിപ്പൻ മുദ്രയടിച്ചേ അടങ്ങു എന്നു് വ്രതമെടുത്തിട്ടുള്ളവരുണ്ടെങ്കിൽ ഇതാ ഒരു കരുകൂടി. ബഷീർ സ്ത്രീയെ
+അധിക്ഷേപിക്കുന്നു. അബ്ദുൽ കാദർ സാഹിബ് അല്പം ബലപ്രയോഗം ചെയ്യുമ്പോൾ മാത്രമേ ജമീലബീബി
+ചാപല്യങ്ങൾ കളഞ്ഞു് ഒരു ഭാര്യയായിത്തീരുന്നുള്ളു. മാസോക്കിസത്തിന്റെ ഒരുദാഹരണമായിട്ടും മറ്റും ശ്രീ.
+ബഷീർ ഈകഥ ഉദ്ദേശിച്ചിട്ടുണ്ടെന്നു് എനിക്കു് തോന്നുന്നില്ല. സ്ത്രീയും പുരുഷനും സമമായിരിക്കുന്നതിൽ ബഷീറിനു്
+വിരോധമില്ല. പക്ഷേ, ഇന്നു്, യുഗയുഗാന്തരങ്ങളായിട്ടുള്ള പുരുഷമേധാവിത്വത്തിന്റെ ഫലമായി സ്ത്രീയുടെ തലയിൽ
+നിലാവു് മാത്രമാണു് ഉള്ളതു്. ജമീലബീബി ഒരു ‘സൊസൈറ്റി ലേഡി’യാണു്. മറ്റു സൊസൈറ്റി
+ലേഡികളെപ്പോലെ അവരും ഒരു ചിത്രശലഭമാണു്. അവർക്കു് ഒരു പരിവർത്തനം വരുത്തുവാനുള്ള
+കഷായമാണു് ബഷീറും അബ്ദുൽ കാദർ സാഹിബും കൂടി കൊടുക്കുന്നതു്. അതിൽ നാം തലയിടേണ്ട. ഏതു
+വിവാഹത്തിലും അത്തരമൊരു ചെറിയ സമരം ഒളിഞ്ഞുകിടപ്പുണ്ടു്. രണ്ടു വ്യക്തികളുടെ വ്യക്തിത്വം തമ്മിൽ
+അലിഞ്ഞു ചേരുന്നതിനുമുമ്പായി നടക്കേണ്ട ഒരു സംഘട്ടനമാണിതു്. അതു കഴിഞ്ഞു് അവർ വിവാഹമോചനം
+നടത്തിയെന്നോ ആരെങ്കിലും മറ്റേയാളിന്റെ അടിമയായിത്തീർന്നുവെന്നോ അല്ല ബഷീർ പറയുന്നതു്;
+
+ജമീലബീബി അഞ്ചെട്ടു പെറ്റുവെന്നാണു്. ചുരുക്കിപ്പറഞ്ഞാൽ, അവളുടെ പണത്തിലും യത്നത്തിലും ഭ്രമിച്ച ഒരു
+‘തുപ്പലുവിഴുങ്ങി’യെയായിരുന്നില്ല ജമീലബിബിക്കാവശ്യം. അവളെ പിടിച്ചടക്കാൻ കഴിവുള്ള, തന്റേടമുള്ള ഒരു
+ഭർത്താവിനെയായിരുന്നു. അങ്ങിനെ അവർ രണ്ടുപേരുടേയും വ്യക്തിത്വം പൂർണ്ണത പ്രാപിച്ചുകൊണ്ടു് തന്നെ
+അവർ യോജിച്ചു. അങ്ങിനെ ‘ശുഭ’മെഴുതുകയും ചെയ്തു.
+</p>
+          <p>ഈ ലക്ഷ്യത്തോടുകൂടിത്തന്നെയാണു് ‘ആദ്യത്തെ ചുംബന’മെന്ന കഥയും എഴുതിയിട്ടുള്ളതു്. ജീവിതം
+സുഖകരമാകണമെങ്കിൽ ചില വിശ്വാസങ്ങളെല്ലാം വേണം. പല വാലുപോയ കുറുക്കന്മാരും ലോകത്തുള്ള
+പെണ്ണുങ്ങളെല്ലാം വേശ്യകളാണെന്നു് (സ്വന്തം ഭാര്യയൊഴിച്ചു്) സ്ഥാപിക്കാൻ ഫ്രയിഡിനെയോ മറ്റോ
+തേടിപ്പോകുന്നതു് കാണാം. ഫിസിക്സ്, കെമിസ്ട്രി മുതലായ ശാസ്ത്രങ്ങളും വെളിച്ചത്തിൽ നോക്കിയാൽ ഒരു
+ചുംബനത്തിലെന്താണുള്ളതു് ഇത്ര നിരർത്ഥകമായിട്ടും കോടാനുകോടി മനുഷ്യർ അതിനുവേണ്ടി എന്തപമാനവും
+സഹിക്കാൻ തയ്യാറാകുന്നുണ്ടു്. അപ്പോൾ അതിലെന്തോ ഒരു സുഖമുണ്ടായിരിക്കണം. അങ്ങിനെ, ലഭിച്ച ഒന്നു്
+പ്രഥമമല്ല, ദ്വിതീയമാണു് എന്നു് സ്ഥാപിക്കുന്നതുകൊണ്ടു് അയാൾക്കോ ലോകത്തിനോ എന്തു
+പ്രയോജനമാണുണ്ടാകുന്നതു്? അപവാദം “മുഴുവൻ സമയ പ്രവർത്തനമാക്കി”ക്കൊണ്ടു നടക്കുന്നവരെ ഒന്നു്
+മുഖത്തു തൊഴിച്ചുവിടുകയാണു് ശ്രീ. ബഷീർ ഈ കഥകൊണ്ടു് ചെയ്യുന്നതു്.
+</p>
+          <p>താനും രക്തലേഖനക്കേസിലെ പ്രതിയാണെന്നു സ്ഥാപിച്ചു് രണ്ടേക്കർ വനം യാതനയ്ക്കു് പ്രതിഫലമായി
+പറ്റാൻ വേണ്ടിയല്ല ബഷീർ ആ കടൽപുറത്തെ കഥ എഴുതിയിരിക്കുന്നതു്. പ്രേതകഥകളോടുള്ള മമതകൊണ്ടുമല്ല.
+അതിവിരുദ്ധമെന്നു് കരുതപ്പെടുന്ന രണ്ടു വികാരങ്ങൾ കാമവും രാഷ്ട്രീയബോധവും, ഒരേ ഹൃദയത്തിന്റെ
+കോളിളക്കത്തിൽനിന്നു് ഒരു സമയത്തു് കൂട്ടിക്കുഴഞ്ഞു് പുറത്തുവരുന്നതാണെന്നു് ആ കഥയിൽനിന്നു് കാണാം.
+മനുഷ്യമനസ്സിന്റെ ഗൂഢപ്രവർത്തനങ്ങളിലേയ്ക്കു് ഒന്നെത്തിച്ചുനോക്കാനുള്ള ഒരു പരിശ്രമമാണു് ഈ കഥയിൽ
+കാണുന്നതു്. ആ സമുദ്രത്തിൽ നിന്നു കയറിവന്ന സ്ത്രീരൂപത്തെപോലെ ഒരു വ്യാമോഹമാണു്
+രാഷ്ട്രീയപരിപാടികൾ എന്നു് ബഷറിനു് തോന്നിയിട്ടുണ്ടെങ്കിലും അത്ഭുതപ്പെടേണ്ട. അനുഭവങ്ങൾ അത്രയധികം
+വേദനാകരമായിരുന്നിട്ടുണ്ടു്.
+</p>
+          <p>അവസാനത്തെ രണ്ടു കഥകളും വ്യക്തികളുടെ ചിത്രീകരണങ്ങളാണു്. ഓരോന്നിലും ഈ രണ്ടു വ്യക്തികളുണ്ടു്.
+ധീരനും സത്യസന്ധനുമായ ഒരു രാഷ്ട്രീയപ്രവർത്തകന്റെ കാല്പാടു് ബഷീറിന്റെ മുമ്പിൽ തെളിഞ്ഞുമിന്നുകയാണു്.
+ആ രാഷ്ട്രീയപ്രവർത്തകനു് രാഷ്ട്രീയകാര്യം ഒരു ചാണക്യസൂത്രമല്ല, ഒരു ആദർശമാണു്. അദ്ദേഹത്തിന്റെ
+മരണവാർത്ത കേട്ടപ്പോൾ ബഷീർ ആ കാല്പാടിനു രൂപംകൊടുത്തുവെന്നു മാത്രം. ഒഴിഞ്ഞ വീട്ടിൽ താമസിക്കുന്ന
+ആ അസ്ഥിപഞ്ജരം ബഷീറാണെന്നു തോന്നുന്നു. ജീവിച്ചിരിക്കുന്ന കാലത്തു് അരിക്കുവേണ്ടി
+പുസ്തകക്കച്ചവടക്കാരനായിത്തീരുന്ന കലാകാരൻ. മരണാനന്തരം ലഭിക്കുന്ന സ്മാരകങ്ങളെപ്പറ്റി ബഷീറിനു
+ബഹുമാനമില്ല. പച്ചച്ചിരിക്കാരായ ആരാധകന്മാരേയും അദ്ദേഹത്തിനു പൊറുത്തുകൂടാ. അവർക്കുവേണ്ടിയാണു്
+ആ ചുവന്ന അക്ഷരങ്ങളിൽ അപേക്ഷ എഴുതിവെച്ചിരിക്കുന്നതു്. ആ കലാകാരന്‍ മനുഷ്യരെ സ്നേഹിക്കുന്നുണ്ടു്.
+പക്ഷേ, വളരെ അധികംനേരം അവരെ കണ്ടുകൂടാ. ആ കാപട്യവും, ക്രൂരതയും, ഇനി എല്ലാം അദ്ദേഹത്തെ
+ക്ഷോഭിപ്പിക്കും. ഉടനെ അദ്ദേഹം ഓടുകയായി, ഏകാന്തതയന്വേഷിച്ചു്. അങ്ങിനെ കുറെനേരം കഴിയുമ്പോൾ
+പിന്നീടും ക്ഷമാശക്തിയുണ്ടാവും. അല്ലെങ്കിൽ, മനുഷ്യവിദ്വേഷിയായിത്തീരും. ആ അസ്ഥിപഞ്ജരം
+ബഷിറിനുവേണ്ടി നിങ്ങളോടു് അഭ്യർത്ഥിക്കുകയാണു്, ‘എന്റെ കഴിവനുസരിച്ചു് ഞാൻ നിങ്ങൾക്കു വേണ്ടി
+പ്രവർത്തിക്കാം, ഞാൻ നിങ്ങളെ ഉപദ്രവിക്കുകയില്ല, എന്നെ വെറുതേ ഉപദ്രവിക്കരുതേ.’ ഒരു കലാകാരൻ
+സ്വന്തം മേൽവിലാസമുണ്ടായിക്കൂടാ എന്നു വിധിക്കുന്നവർ ഇതിനോടും പ്രതിഷേധിച്ചേക്കും. അതുകൊണ്ടെന്തു്?
+പട്ടി കുരച്ചാലും യാത്രാസംഘം കടന്നുപോകും. വായിച്ചേ തീരു എന്നു തീർത്തുപറയേണ്ട ഒരു
+കഥാസമാഹാരമാണു് വിഡ്ഢികളുടെ സ്വർഗ്ഗം, അതു ബഷീറിനെ വിമർശിക്കാനാണെങ്കിൽകൂടി.
+പറയുന്നതെന്താണെന്നു മനസ്സിലാക്കിയിട്ടു് കുറ്റം പറയുകയാണല്ലോ സൗകര്യം.
+</p>
+          <p>
+വിലയിരുത്തൽ 1951.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Viddikalude swargam (ml:
+വിഡ്ഢികളുടെ സ്വർഗ്ഗം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>   CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-11-22. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Viddikalude swargam, സി ജെ തോമസ്, വിഡ്ഢികളുടെ സ്വർഗ്ഗം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 23, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:August_Augusta_och_Lille_aUGUSTIN.jpg">August
+Augusta och lille Augustin,</ref> a painting by Dockteaterverkstan  . The image is
+taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-swargam.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-swargam.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

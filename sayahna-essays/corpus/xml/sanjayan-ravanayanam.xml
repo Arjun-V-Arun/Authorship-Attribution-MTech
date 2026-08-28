@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പി. എസ്സിന്റെ രാവണായനം</title>
+          <title xml:lang="en" type="main">PSinte ravanayanam</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">December 10, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പി. എസ്സിന്റെ രാവണായനം</title>
+              <title xml:lang="en" type="main">PSinte ravanayanam</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-12-13</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>PSinte ravanayanam</term>
+          <term>സഞ്ജയൻ</term>
+          <term>പി. എസ്സിന്റെ രാവണായനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-12-13</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Stag_at_Echo_Rock_-_SAAM_-_DSC00823.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Stag_at_Echo_Rock_-_SAAM__DSC00823.JPG">Stag at Echo Rock,</ref> photograph by Daderot  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പി. എസ്സിന്റെ രാവണായനം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പി. എസ്സിന്റെ രാവണായനം</head>
+        <div type="lsection">
+          <p style="noindent">അങ്ങനെ മിസ്റ്റർ പള്ളത്തു രാമൻ രാവണായനം താൻതന്നെ എഴുതുവാൻ
+തീർച്ചപ്പെടുത്തി. ആദ്യം മറ്റുള്ളവരോടു എഴുതുവാൻ മാത്രമേ അദ്ദേഹം ഉപദേശിച്ചിരുന്നുള്ളു. ചില്ലറക്കവികൾ വല്ല
+വിഡ്ഢിത്തവുമെഴുതി രാവണന്റെ പുണ്യചരിത്രത്തിന്നു് കളങ്കം തട്ടിക്കരുതെന്നു് കരുതിയായിരിക്കും അദ്ദേഹംതന്നെ
+ഈ സൽകർമ്മം ചെയ്യാൻ ഒരുങ്ങിപ്പുറപ്പെട്ടതെന്നു് അദ്ദേഹവും അദ്ദേഹത്തിന്റെ ഇഷ്ടന്മാർ വല്ലവരുമുണ്ടെങ്കിൽ
+അവരും പറയുമായിരിക്കാം. പക്ഷേ, അദ്ദേഹത്തിന്റെ വാക്കുകേട്ടു പ്രസ്തുത രാവണായനം
+എഴുതിത്തുടങ്ങിപ്പോയവർ എന്തു ചെയ്യും? സഞ്ജയൻ അക്കൂട്ടത്തിൽപ്പെട്ട ഒരാളാണു്.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>രാമനവർകൾക്കു് കവിത തൃണംപോലെയാണു്.
+</p>
+          <lg>
+            <l>“നാവിട്ടൊന്നു കലുക്കിയാലു-</l>
+            <l>തിരുമങ്ങയ്യായിരം പദ്യമി-</l>
+            <l> ന്നാവട്ടങ്ങളിവന്റെ നാവിലിട-</l>
+            <l>ചേർത്തിട്ടില്ല സൃഷ്ടിച്ചവൻ” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>ഞങ്ങൾക്കൊക്കെ കവിതയെന്നു പറഞ്ഞാൽ നന്നെ പ്രയാസമുള്ള കാര്യമാണു്. ഈ രാവണായനംതന്നെ
+എഴുതിയടത്തോളം എഴുതുവാൻ സഞ്ജയൻ എത്ര പാടുപെട്ടു! എത്ര ദിവസം ഉറക്കൊഴിഞ്ഞു! ആ ലേബർ മുഴുവൻ
+രാമനവർകളുടെ ഒരൊറ്റ വിഞ്ജാപനംകൊണ്ടു തുലഞ്ഞില്ലേ?
+</p>
+          <p>ഇതൊന്നും നന്നല്ല. മിസ്റ്റർ രാമൻ! നിങ്ങൾ മഹാകവിയായാലും ശരി, മഹാമഹാകക്കവിയായാലും ശരി,
+ചില്ലറക്കവികളോടു് ഏറെ ദയ വേണം.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഏതായാലും എന്റെ രാവണായനം, എഴുതിയതുവരെ, ഞാൻ പത്രികയിൽ പ്രസിദ്ധപ്പെടുത്തുവാൻ പോകുന്നു.
+അവതാരികയെഴുതിത്തരുവാൻ സഞ്ജയൻ പലരോടുമിരന്നു. അവർ പറഞ്ഞ മറുപടികൾ പ്രസിദ്ധപ്പെടുത്തുവാൻ
+കൊള്ളുകയില്ല. അതുകൊണ്ടു് ഒരു മുഖവുര സഞ്ജയൻ തന്നെ എഴുതിച്ചേർത്തു. അതു് ആദ്യം കൊടുക്കാം.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">മുഖവുര</head>
+          <p style="noindent">രാവണൻ! സ്വർഗ്ഗീയപരിമളമിളിതൻ. മര്യാദസ്ഥൻ. ബൌദ്ധൻ. ഉദാരനിധി.
+ഈശ്വരവിചാരക്കാരൻ. സന്മാർഗ്ഗി.
+</p>
+          <p>രാമൻ! ധിക്കാരി. അധികപ്രസംഗി. സദാ മദ്യപാനി, എന്തും ചെയ്വാൻ മടിയില്ലാത്തവർ. ആര്യൻ. ദുഷ്ടൻ.
+കോമാളി. ബാലിയെ മരംമറഞ്ഞു സിദ്ധികൂട്ടിയവൻ.
+</p>
+          <p>ഈ ആര്യരുടെ ദുഷ്ടത ബുദ്ധമതക്കാർ എങ്ങനെ സഹിക്കും? അതുകൊണ്ടിതാ പുറപ്പെടുന്നു രാവണായനം!
+വേണ്ടുന്നവർക്കു വാങ്ങാം; വേണ്ടാത്തവർക്കു തള്ളാം; രണ്ടായാലും കൊള്ളാം.
+</p>
+          <p>ഈ പുസ്തകത്തിലുള്ള തെറ്റുകൾ മുഴുവൻ അച്ചടിത്തെറ്റുകളാണു്.
+</p>
+          <p>പാറപ്പുറത്തു് സഞ്ജയൻ (ഗ്രന്ഥകർത്താ)
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>എനി കവിത തുടങ്ങുന്നതിന്നു മുമ്പു് അതിനെക്കുറിച്ചു് ചിലതെല്ലാം പറയുവാനുണ്ടു്. കിളിപ്പാട്ടുരീതിയെയാണു്
+ഞാൻ അവലംബിച്ചിരിക്കുന്നതെങ്കിലും കിളിയെക്കൊണ്ടു് കഥ പറയിക്കുന്ന സമ്പ്രദായം സ്വീകരിച്ചിട്ടില്ല.
+ആര്യപക്ഷപാതിയായ എഴുത്തച്ഛന്റെ സമ്പ്രദായമാണതു്. വെറുംകവി പാറപ്പുറത്തു്, മഹാകവി
+പള്ളത്തിനെപ്പോലെതന്നെ, പുതിയ പ്രസ്ഥാനക്കാരനാണു്. എന്താണു് കിളിയെക്കൊണ്ടു് കഥ
+പറയിക്കുന്നതിലുള്ള ഔചിത്യം? കിളിയെക്കാൾ ബുദ്ധിയും മനുഷ്യനോടു സ്നേഹവും, അടുത്തു് പെരുമാറ്റവും,
+മനുഷ്യൻ പറഞ്ഞാൽ അനുസരണവുമുള്ള ഒരു ജീവിയെക്കൊണ്ടാണു് നിങ്ങളുടെ കവി പാറപ്പുറത്തു് രാവണായനം
+പറയിച്ചിട്ടുള്ളതു്. ആ ജീവി നമുക്കെല്ലാം സുപരിചിതനായ നാടൻ നായയാണു്, അവന്നു് ഇതുവരെ
+സാഹിത്യരംഗത്തിൽ പ്രവേശനമനുവദിച്ചിട്ടില്ലെങ്കിൽ അതിന്നു കാരണം അസൂയമാത്രമാണു്.
+
+“
+</p>
+          <p style="noindent">ശുനി ചൈവ ശ്വപാകേ ച പണ്ഡിതഃ സമദർശിനഃ”
+</p>
+          <p>എന്നാണു് പ്രമാണം. പള്ളത്തിനെപ്പോലെ പാറപ്പുറത്തും പണ്ഡിതനായതുകൊണ്ടു് നായയും കിളിയും
+തമ്മിൽ യാതൊരു വ്യത്യാസവും വെച്ചിട്ടില്ല.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>എനി സഞ്ജയന്റെ രാവണായനം ആരംഭിക്കാം. [സഞ്ജയൻ ശുനകനെ സ്തുതിക്കുന്നതും കഥ പറയുവാൻ
+ആവശ്യപ്പെടുന്നതും… ]
+</p>
+          <lg>
+            <l> ശുനകവര! വരികരികിലരുതു ഭയമേതുമേ</l>
+            <l> തല്ലീടുവാനല്ല ഞാൻ വിളിപ്പൂ, സഖേ!</l>
+            <l> ശ്രുതിമധുരവിവിധതരരാഗസ്വരങ്ങളിൽ</l>
+            <l> രാത്രിതോറും നീ കുരപ്പതു കേൾപ്പു ഞാൻ.</l>
+            <l> തവ വചനമിനിയുമതികുതുകമൊടു കേൾക്കുവാൻ</l>
+            <l> മോഹം വളർന്നുവരുന്നൂ മഹാമതേ!</l>
+            <l> അമരവരസുതനുമഥ ഭീഷ്മനും ദ്രോണനും</l>
+            <l> ധൈര്യത്തിലൊക്കുമോ നിന്നോടു ശൌനക?</l>
+            <l> പല വിഭവവിവിധരുചികലിതരസമെച്ചിലും</l>
+            <l> മത്സ്യശിരസ്സാദിയായ പദാർത്ഥവും,</l>
+            <l> തവ വയറു നിറയുവതുവരെയുമതിശാന്തനായ്</l>
+            <l> തിന്നുതീർത്തെന്നോടു ചൊല്ലുക വാർത്തകൾ.</l>
+            <l> അഘനിചയഹരമതുലകലികലുഷനാശനം</l>
+            <l> ലങ്കേശ്വരൻതൻ ചരിത്രം മനോഹരം</l>
+            <l> അവനുടയ ഗുണഗണവുമധികതരകീർത്തിയും,</l>
+            <l> ധിക്കാരി രാമന്റെ തോന്ന്യവാസങ്ങളും,</l>
+            <l> ഇതുസമയമഖിലമിവ വർണ്ണിക്കുവാനെടോ</l>
+            <l> നിന്നേയൊഴിഞ്ഞു ഞാൻ കാണ്മീലിതരനെ!” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ശ്വാനന്റെ മോഡസ്റ്റി
+</p>
+          <p>ശ്രീശുനക ഉവാച:
+</p>
+          <lg>
+            <l> എന്തൊന്നു ചോദിപ്പു, സഞ്ജയ താങ്കൾക്കു</l>
+            <l> ഭ്രാന്തു മുഴുക്കയോ? ചെണ്ട കൊട്ടക്കയോ?</l>
+            <l> ഞാനൊരു ശ്വാനനശക്തനെന്നാകിലും.</l>
+            <l> ദീനനെന്നാകിലും, ദീപാളിയാകിലും,</l>
+            <l> വങ്കനല്ലെന്നു ധരിക്കണം താങ്കളീ</l>
+            <l> വങ്കത്തമോരോന്നു ചൊല്ലാതിരിക്കണം.</l>
+            <l> ആയിരം നാവുള്ള സാക്ഷാലനന്തനും</l>
+            <l> ലീവെടുത്തോടുമീയോർഡർ കിട്ടീടുകിൽ!</l>
+            <l> എന്നല്ല മിസ്റ്റർ ബൃഹസ്പതികൂടിയു-</l>
+            <l> മൊന്നു… “നെർവസ്സാ”യ്ഭവിയ്ക്കുമീ വേളയിൽ</l>
+            <l> ഭൂമിയൊട്ടുക്കു പുകളാണ്ട ലെക്ചറർ</l>
+            <l> സാമുവെൽ ഹോറും കറഞ്ഞൊന്നു വെമ്പിടും.</l>
+            <l> വെള്ളത്തിലെത്തിര തള്ളിവരും കണ-</l>
+            <l> ക്കുള്ളം തെളിഞ്ഞു സൽകാവ്യം ചമപ്പവൻ</l>
+            <l> പള്ളത്തു സൽക്കവിതന്നെ പാടീടണം</l>
+            <l> കള്ളം കലരാത്ത രാവണലീലകൾ</l>
+            <l> എങ്കിലും നിങ്ങളീ റിക്വസ്റ്റുകാലത്തു</l>
+            <l> ശങ്കവിട്ടെന്നോടു ചെയ്യുകകാരണാൽ</l>
+            <l> തെല്ലാന്നുരയ്ക്കാം: ഗ്രമാറ്റിക്കൽമിസ്റ്റേക്സു</l>
+            <l> ചൊല്ലെഴും താങ്കൾ കരക്റ്റുചെയ്തേയ്ക്കണേ!” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഇങ്ങനെയാണു് സഞ്ജയന്റെ രാവണായനം തുടങ്ങുന്നതു്. മഹാകവി രാമൻ തന്റെ രാവണായനം എഴുതി
+പ്രസിദ്ധപ്പെടുത്തിയാൽ നിങ്ങൾക്കു് അഭിപ്രായത്തിന്നയയ്ക്കുന്ന കോപ്പി സഞ്ജയനേയും കാണിക്കണേ!
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  PSinte ravanayanam (ml: പി.
+എസ്സിന്റെ രാവണായനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-12-13. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, PSinte
+ravanayanam, സഞ്ജയൻ, പി. എസ്സിന്റെ രാവണായനം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 10, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Stag_at_Echo_Rock_-_SAAM__DSC00823.JPG">Stag at Echo Rock,</ref> photograph by Daderot  . The image is
+taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-ravanayanam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-ravanayanam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

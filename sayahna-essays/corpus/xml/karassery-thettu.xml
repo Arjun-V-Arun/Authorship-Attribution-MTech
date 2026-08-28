@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തെറ്റുണ്ടെങ്കിൽ തിരുത്തുക</title>
+          <title xml:lang="en" type="main">Thettundenkil Thiruththuka</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">October 18, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തെറ്റുണ്ടെങ്കിൽ തിരുത്തുക</title>
+              <title xml:lang="en" type="main">Thettundenkil Thiruththuka</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Thettundenkil Thiruththuka</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>തെറ്റുണ്ടെങ്കിൽ തിരുത്തുക</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 18, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/studying_exam.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Repin_studying_exam.jpg">Preparation
+for the exam,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Ilya_Repin">Ilya Repin</ref>
+ (1844–1930). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തെറ്റുണ്ടെങ്കിൽ തിരുത്തുക</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തെറ്റുണ്ടെങ്കിൽ തിരുത്തുക</head>
+        <div type="lsection">
+          <p style="noindent">ദൈവമേ, കലികാലം എന്നല്ലാതെ എന്താ പറയുക? വളരെ മിടുക്കന്മാരായ
+വിദ്യാർത്ഥികൾ നാളിതുവരെ ചെയ്തുപോന്ന ഒരു സത്ക്കർമ്മമാണു് ഉത്തരക്കടലാസ്സിൽ ചോദ്യങ്ങൾ
+പകർത്തിവെക്കുക എന്നതു്. ന്യായം. അങ്ങനെ പകർത്തിവെച്ചാൽ ആ ഉത്തരക്കടലാസ്സിൽ (!)
+തെറ്റുണ്ടാവുകയില്ലല്ലോ. ഇപ്പോൾ അതിനും പാങ്ങില്ലാതായിരിക്കുന്നു. ചോദ്യക്കടലാസ് തെറ്റിയാൽ എന്താ
+നിവൃത്തി?
+</p>
+          <p>ഈ ഭൂമിമലയാളത്തിൽ ഉത്തരക്കടലാസ്സല്ലാതെ ചോദ്യക്കടലാസ് ആരും വായിച്ചുനോക്കി മാർക്കിട്ടിരുന്നില്ല.
+ഇപ്പോഴിതാ, ‘ഉത്തരാ’ധുനിക പരിസരത്തിൽ എൻട്രൻസ് പരീക്ഷയുടെ ചോദ്യക്കടലാസ് വായിച്ചെടുത്തവർ
+അതിൽ ധാരാളം തെറ്റുകളുണ്ടെന്നു് കണ്ടുപിടിച്ചിരിക്കുന്നു! കേരളത്തിലെ ശാസ്ത്രപ്രതിഭകളുടെ പ്രധാനപ്പെട്ട
+കണ്ടുപിടിത്തമായി ഇതു് വിളികൊള്ളും എന്നു് തീർച്ച. ഉത്തരം പറയുക എന്നതല്ല, ചോദ്യങ്ങൾ ചോദിക്കുക
+എന്നതാണു് പ്രധാനം എന്നു് പഴയ കിത്താബുകളിൽ പറഞ്ഞിരിക്കുന്നതു് നിറവടിയായിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MN_Vijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എൻ. വിജയൻ</figDesc>
+          </figure>
+          <p> പക്ഷേ, ചോദ്യക്കടലാസ് തിരുത്തുന്നതു് അപകടംപിടിച്ച പണിയാണെന്നു് <ref target="https://ml.wikipedia.org/wiki/M._N._Vijayan">എം. എൻ. വിജയൻ</ref>
+ഈയിടെ പ്രസിദ്ധീകരിച്ച ‘സംസ്കാരവും സ്വാതന്ത്ര്യവും’ എന്ന പുസ്തകത്തിൽ കാണുന്നു.
+</p>
+          <p>വിജയൻ മാസ്റ്ററുടെ ഒരധ്യാപകൻ ബി. എഡ്. പരീക്ഷയിൽ എട്ടുവട്ടം തോറ്റു. കാരണം ലളിതം: ആ
+പണ്ഡിതൻ ചോദ്യക്കടലാസെല്ലാം തെറ്റാണെന്നു് ആദ്യം എഴുതിയിട്ടു്, സ്വന്തമായി ചോദ്യക്കടലാസ് ഉണ്ടാക്കി
+ഉത്തരവും എഴുതി എല്ലാംകൂടി പിൻചെയ്തുകൊടുക്കുകയായിരുന്നുവത്രെ പതിവു്.
+</p>
+          <p>ഇമ്മാതിരി ഒരു വിദ്വാൻ എട്ടുവട്ടം എഴുതിയാൽ ന്യായമായും പതിനെട്ടുവട്ടം തോൽക്കേണ്ടതാണു്. ആ
+ഗുരുനാഥനു് ഉള്ള ഉദ്യോഗം നഷ്ടമായില്ല എന്നു് വിജയൻ മാസ്റ്റർ കൂട്ടിച്ചേർത്തുകാണുന്നു. ഭാഗ്യം!
+</p>
+          <p><ref target="https://dict.sayahna.org/stv/52735">ചോദ്യം</ref> എന്ന വാക്കിനു്
+ദൈവശിക്ഷ എന്നുകൂടി അർത്ഥമുണ്ടെന്നു ശബ്ദതാരാവലി പറഞ്ഞതിന്റെ കള്ളി ചോദ്യക്കടലാസിലെ തെറ്റിനെ
+സംബന്ധിച്ച പത്രവാർത്ത കണ്ടപ്പോഴാണു് എനിക്കു് തിരിഞ്ഞുകിട്ടിയതു് ഉത്തരം തെറ്റാം എന്നതു മാറി ചോദ്യം
+തെറ്റാം എന്നു വരുന്നതു് ദൈവരക്ഷയല്ലാതെ മറ്റെന്താകാനാണു്? അതിനാൽ എൻട്രൻസ് പരീക്ഷയുടെ അന്നു്
+പുലർച്ചക്കും തലേന്നു് പാതിരക്കും ദൈവങ്ങളായ ദൈവങ്ങളോടൊക്കെ പ്രാർത്ഥിക്കുമ്പോൾ കുട്ടികൾ ‘എന്റെ
+ഉത്തരം ശരിയാകണേ’ എന്നു് അപേക്ഷിക്കുന്ന കൂട്ടത്തിൽ ‘എനിക്കു് കിട്ടുന്ന ചോദ്യം ശരിയാകണേ’ എന്നുകൂടി
+നിലവിളിക്കുന്നതു് നന്നായിരിക്കും.
+</p>
+          <p>സംസ്കൃതക്കാരുടെ പഴയൊരു ചോദ്യം ‘ഉപ്പിനു് ഉപ്പുണ്ടോ എന്നു് എങ്ങനെ അറിയാം?’ എന്നതാണു്.
+അപ്പറഞ്ഞപോലെ ചോദ്യം നേരെയാണോ എന്നറിഞ്ഞിട്ടു് വേണം ഉത്തരമെഴുതാൻ. അതുകൊണ്ടു് ഇനി
+നടക്കാൻ പോകുന്ന ‘എൻട്രൻസ് രണ്ടാമൻ’ പരീക്ഷയിൽ ചോദ്യം ശരിയാണോ എന്നു് പരിശോധിക്കാനും അതു
+രേഖപ്പെടുത്താനും കുട്ടികൾക്കു് കുറച്ചു് ‘എക്സ്ട്രാ’ സമയം അനുവദിക്കണം. ഇനി പരീക്ഷയാകപ്പാടെ ആ
+ഒറ്റക്കാര്യത്തിൽ ഒതുക്കുന്നതിലും കുഴപ്പമില്ല. എങ്കിൽ പിന്നെ, ചോദ്യക്കടലാസ് ഒരുക്കാൻ ആരും മതി
+എന്നുവെക്കാനും ന്യായമുണ്ടു്. നാം ആരോടും, വിശേഷിച്ചു് കുട്ടികളോടു്, അന്യായം ചെയ്തുകൂടല്ലോ.
+</p>
+          <p>അങ്ങനെ, നമ്മുടെ ചോദ്യക്കടലാസുകളുടെയെല്ലാം തലവാചകം ‘തെറ്റുണ്ടെങ്കിൽ തിരുത്തുക’ എന്ന
+സംസ്ക്കാരമധുരമായ അഭ്യർത്ഥനയാക്കി മാറ്റാം. മറ്റുള്ളവർ നമ്മുടെ തെറ്റുകൾ കണ്ടെത്തുന്നതിലും
+തിരുത്തുന്നതിലും നമുക്കു് പണ്ടേ ആർഷമായ വിനയവും സഹിഷ്ണുതയും ഉണ്ടു് എന്നതിന്റെ തെളിവാണു്, ആ
+വാക്യം വളരെ മുമ്പേ നമ്മുടെ ചോദ്യക്കടലാസുകളിൽ കണ്ടുപോന്നിരുന്നതു്. അതിന്റെ അർത്ഥം നാം
+
+വായിച്ചെടുത്തതു് ഇപ്പോഴാണെന്നു് മാത്രം.
+</p>
+          <p>സിലബസ് മാറി ചോദ്യം ചോദിക്കുക, ചോദ്യങ്ങൾ ആവർത്തിക്കുക, മാർക്ക് തെറ്റിച്ചേർക്കുക തുടങ്ങി മറ്റു
+ചോദ്യക്കടലാസുകളിലെ പതിവു് രോഗങ്ങൾക്കും മേൽപ്പറഞ്ഞ സമയദാനത്തിന്റെ ചികത്സ കൊള്ളാം. കാര്യം:
+ചോദ്യക്കടലാസ് തയ്യാറാക്കുന്നവർ അതു വീണ്ടും വായിച്ചുനോക്കാൻ ഇടയില്ലാത്ത തരത്തിൽ തിരക്കുള്ള
+കൂട്ടരാണു്. ഉത്തരം താങ്ങുന്നവർക്കു് അത്ര തിരക്കില്ല.
+</p>
+          <p>പിന്നെ വേറൊരു സംഗതി ഉത്തരം കൊടുക്കേണ്ടവർ പറയുന്നതിന്നനുസരിച്ചു് ചോദ്യം മാറ്റാതെ നോക്കണം.
+ഇല്ലെങ്കിൽ ചിലപ്പോൾ മലബാറിൽ നടപ്പുള്ള ഒരു ഫലിതകഥയിൽ കേസ് തീർന്നതുപോലെ, പരീക്ഷ തന്നെ
+ഇല്ലാതായിപ്പോകും.
+</p>
+          <p>ആ കഥയിതാണു്:
+</p>
+          <p>എന്തോ കാര്യത്തിനു് ഭാര്യയോടു് കലികയറി സുലൈമാൻ മുസ്ല്യാരു് സ്വന്തം വീടിനു് തീവെച്ചു. വിവരം കേട്ടു്
+പോലീസെത്തി.
+</p>
+          <p>സബ് ഇൻസ്പെക്ടർ കടുപ്പിച്ചു് ചോദിച്ചു. “എന്തിനാ വീടിനു് തീവെച്ചതു്?”
+</p>
+          <p>മുസ്ല്യാരു് ഒരു ഭാവഭേദവും കൂടാതെ പറഞ്ഞു. “അതൊരു് ചോദ്യല്ല.”
+</p>
+          <p>ഇൻസ്പെക്ടർ അമ്പരന്നു. “പിന്നെ എന്താണു് ചോദ്യം?”
+</p>
+          <p>“ഞമ്മളെ പൊര എന്തിനുണ്ടാക്കീന്നു് ചോയ്ക്കി.”
+</p>
+          <p>“ശരി. എന്തിനാണു് വീടു് ഉണ്ടാക്കിയതു്?”
+</p>
+          <p>മുസ്ല്യാരു് ഉടനെ പറഞ്ഞു: “ഞമ്മക്കു് തീ കൊടുക്കാൻ.”
+</p>
+          <p>
+മാധ്യമം: 19 സെപ്തംബർ 1999.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thettundenkil Thiruththuka (ml:
+തെറ്റുണ്ടെങ്കിൽ തിരുത്തുക).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Thettundenkil Thiruththuka, എം. എൻ. കാരശ്ശേരി, തെറ്റുണ്ടെങ്കിൽ തിരുത്തുക, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 18, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Repin_studying_exam.jpg">Preparation
+for the exam,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Ilya_Repin">Ilya Repin</ref>
+ (1844–1930). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-thettu.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-thettu.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

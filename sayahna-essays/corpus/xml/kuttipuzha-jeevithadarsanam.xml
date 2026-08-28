@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സാഹിത്യവും ജീവിതദർശനവും</title>
+          <title xml:lang="en" type="main">Sahithyavum Jeevithadarsanavum</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">November 27, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സാഹിത്യവും ജീവിതദർശനവും</title>
+              <title xml:lang="en" type="main">Sahithyavum Jeevithadarsanavum</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Sahithyavum Jeevithadarsanavum</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>സാഹിത്യവും ജീവിതദർശനവും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 27, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Peter_DeWint_Tide_landing.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Peter_DeWint__Low_Tide,_boat_landing_-_Google_Art_Project.jpg">Low Tide, boat landing,</ref>
+a painting by Peter DeWint  (1784–1849). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സാഹിത്യവും ജീവിതദർശനവും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സാഹിത്യവും ജീവിതദർശനവും</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kodungallur_Kunjikkuttan_Thampuran.png" rendition="gra"/>
+            <figDesc style="thumb">കൊടുങ്ങല്ലൂർ കുഞ്ഞിക്കുട്ടൻതമ്പുരാൻ</figDesc>
+          </figure>
+          <p style="noindent"> ജനിച്ചുവളരുന്ന കുട്ടിയെ സ്വന്തം മതം, ആചാരം, വിശ്വാസം മുതലായവ
+സ്വാധീനിക്കുന്നു. പ്രായമാകുമ്പോൾ, ഈ വിശ്വാസങ്ങളെയൊക്കെ പുനഃപരിശോധന ചെയ്യേണ്ടതാണു്.
+അങ്ങനെ ചെയ്യാത്തവർക്കു സാഹിത്യകാരന്മാരെന്ന നിലയ്ക്കു സ്ഥായിയായ സ്വാധീനം
+സമുദായത്തിൽ ചെലുത്താൻ കഴിയില്ല. ഒരു സാഹിത്യകാരനെന്ന നിലയ്ക്കു് അമാനുഷസിദ്ധികളുണ്ടായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Kodungallur_Kunjikkuttan_Thampuran">കൊടുങ്ങല്ലൂർ
+കുഞ്ഞിക്കുട്ടൻതമ്പുരാനു്</ref>. എന്നാൽ അദ്ദേഹത്തിനു പ്രത്യേകമായ ഒരു വീക്ഷണമുണ്ടായിരുന്നില്ല. സ്വന്തം
+വീക്ഷണത്തെ പുനഃപരിശോധന ചെയ്തില്ല. അദ്ദേഹത്തിന്റെ വീക്ഷണം സങ്കുചിതവും
+യാഥാസ്ഥിതികവുമായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sigmund_Freud.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഫ്രോയ്ഡ്</figDesc>
+          </figure>
+          <p> ‘ലോകാ സമസ്താ സുഖിനോ ഭവന്തു’ എന്ന ദർശനം പണ്ടേ മുതൽക്കു ഭാരതീയർക്കുള്ളതാണു്. ഇതു്
+എല്ലാവർക്കും സ്വീകാര്യമാണു്. ഇന്നതിന്റെ ഭാഷ സോഷ്യലിസം എന്നതാണു്. ഗീതയിലും, ക്രിസ്തുമതത്തിലും
+സോഷ്യലിസമുണ്ടെന്നു വാദിക്കുന്നതു വ്യർത്ഥമാണു് നമ്മുടെ ജീവിതത്തെ എങ്ങനെ രൂപപ്പെടുത്തണം,
+എന്തായിരിക്കണം അതിന്റെ സ്വഭാവം എന്നു നമുക്കു തിട്ടംവേണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Charles_Darwin.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡാർവിൻ</figDesc>
+          </figure>
+          <p> സമഗ്രമായ വീക്ഷണം സാഹിത്യകാരന്മാർക്കുണ്ടാകണം. ശാസ്ത്രകാരന്മാരെ, എടുക്കാം:
+സമഗ്രവീക്ഷണമില്ലാത്തവർക്കുദാഹരണമായി. <ref target="https://ml.wikipedia.org/wiki/Charles_Darwin">ഡാർവിൻ</ref> <ref target="https://ml.wikipedia.org/wiki/Evolution">പരിണാമസിദ്ധാന്ത</ref>
+മവതരിപ്പിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Karl_Marx">മാർക്സ്</ref> ജീവിതത്തിന്റെ
+അടിസ്ഥാനശക്തി സാമ്പത്തികകാര്യങ്ങളാണെന്നു വാദിച്ചു. രണ്ടും പ്രധാനപ്പെട്ട ദർശനങ്ങളാണു്. പക്ഷേ, രണ്ടും
+ഭാഗിക വീക്ഷണങ്ങളാണു്. <ref target="https://ml.wikipedia.org/wiki/Sigmund_Freud">ഫ്രോയ്ഡ്</ref>
+ജീവിതവീക്ഷണത്തിൽ വരുത്തിയ വിപ്ലവത്തിന്നും ഇതേ ന്യൂനതയുണ്ടു്. ജീവിതത്തിൽ എല്ലാത്തിന്റെയും
+അടിസ്ഥാനം ലൈംഗികപ്രേരണയാണെന്നു വരുത്താനുള്ള ശ്രമമായിത്തീർന്നു ഫ്രോയിഡിന്റേതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karl_Marx.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാർക്സ്</figDesc>
+          </figure>
+          <p> ഇതു സ്പെഷ്യലിസ്റ്റുകളുടെ കാലമാണു്. പക്ഷേ, സ്വന്തം രംഗത്തു മാത്രമാണു സ്പെഷ്യലിസ്റ്റുകൾ
+സ്പെഷ്യലൈസ് ചെയ്യുന്നതു്. ബാക്കി ജീവിതാംഗങ്ങളുടെ കാര്യത്തിൽ അവർ അന്ധരാണു്. മനുഷ്യജീവിതം വളരെ
+സങ്കീർണ്ണമാണു്. എത്ര പഠിച്ചാലും എല്ലാം ബോദ്ധ്യമാവില്ല. എല്ലാറ്റിലും വിദഗ്ദ്ധരായിട്ടു് ആരുമില്ല.
+സാഹിത്യകാരൻ അങ്ങനെയായാൽ പോരാ; ജീവിതത്തെപ്പറ്റി സമഗ്രമായ ഒരു ബോധം
+എഴുത്തുകാരനുണ്ടാവണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rabindranath_Tagore.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടാഗോർ</figDesc>
+          </figure>
+          <p> ഇതു് ഏകലോകത്തിന്റെ കാലമാണു്. ദേശാഭിമാനത്തിന്നുപോലും ഇന്നു പരിമിതികളുണ്ടു്. ‘എന്റെ ആളുകൾ,
+നാടു്, രാജ്യം’ എന്നല്ല, ‘എന്റെ ലോകം’ എന്ന വീക്ഷണം എഴുത്തുകാരന്നു വേണം. ഇക്കാര്യത്തിൽ <ref target="https://ml.wikipedia.org/wiki/Rabindranath_Tagore">ടാഗോറാ</ref> ണു്
+ഏറ്റവും അനുകരണീയനായിട്ടുള്ളതു്.
+</p>
+          <p>പക്ഷേ, ഈ ശാസ്ത്രീയയുഗത്തിലും ചിലർ മതത്തിന്റെയും ജാതിയുടെയും ക്ഷുദ്രമായ സങ്കുചിതത്വത്തിന്റെയും
+മതിൽക്കെട്ടുകൾക്കുള്ളിൽ പരതന്ത്രരായിക്കിടക്കുകയാണു്.
+</p>
+          <p>എഴുത്തുകാരനു് സ്വന്തമായ, ശാസ്ത്രീയമായ ഒരു വീക്ഷണം വേണം. താൻ കാണുന്നപടിക്കേ ഒരാൾ
+എഴുതിക്കൂടൂ. അയാൾ ഗ്രാമഫോൺപ്ലെയിറ്റായാൽ പറ്റില്ല.
+</p>
+          <p>മനുഷ്യർക്കു് പൊതുവിൽ ഒരു ജീവിതദർശനം ഉണ്ടായാൽ നന്നു്. സാധാരണ മനുഷ്യർക്കു
+അങ്ങനെയൊന്നുണ്ടാവുക എളുപ്പമല്ല. എന്നാൽ തങ്ങളുടെ കൃതികളിലൂടെ മറ്റുള്ളവരെ സ്വാധീനിക്കുന്ന
+സാഹിത്യകാരന്മാർക്കു സ്വന്തമായ ഒരു ദർശനമുണ്ടായേ പറ്റു.
+</p>
+          <p>1962 ഏപ്രിൽ 25-ാം തീയതി കോഴിക്കോട്ടു ചെറുകഥാകാരന്മാരുടെ ക്യാമ്പിൽ ചെയ്ത പ്രസംഗം.
+</p>
+          <p>
+(വിമർശനവും വീക്ഷണവും)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sahithyavum
+Jeevithadarsanavum (ml: സാഹിത്യവും ജീവിതദർശനവും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Sahithyavum Jeevithadarsanavum, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, സാഹിത്യവും ജീവിതദർശനവും,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 27, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Peter_DeWint__Low_Tide,_boat_landing_-_Google_Art_Project.jpg">Low Tide, boat landing,</ref>
+a painting by Peter DeWint  (1784–1849). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzhajeevithadarsanam.xml">Download document sources in TEI encoded XML
+
+format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhajeevithadarsanam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ജാതിയുടെ അടിവേരുകൾ</title>
+          <title xml:lang="en" type="main">Jathiyude Adiverukal</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 22, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ജാതിയുടെ അടിവേരുകൾ</title>
+              <title xml:lang="en" type="main">Jathiyude Adiverukal</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Jathiyude Adiverukal</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ജാതിയുടെ അടിവേരുകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 22, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/National_Museum_Krakow.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:J%C3%B3zef_Szermentowski__Volhynian_Forest_-_MNK_II-a-969__National_Museum_Krak%C3%B3w.jpg">Volhynian Forest,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:J%C3%B3zef_Szermentowski">Józef
+
+Szermentowski</ref>  (1833–1876). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ജാതിയുടെ അടിവേരുകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ജാതിയുടെ അടിവേരുകൾ</head>
+        <div type="lsection">
+          <p style="noindent">ജാതി നശിക്കണമെന്നു് ഇപ്പോൾ ഇന്ത്യാ ഗവണ്മെന്റുപോലും
+പറഞ്ഞുതുടങ്ങിയിട്ടുണ്ടു്. അതു് നീക്കം ചെയ്യാനുള്ള ചില ശ്രമങ്ങളും നടക്കുന്നുണ്ടു്. പക്ഷേ, ജാതിവൃക്ഷത്തിന്റെ
+അടിവേരുകൾ ഇപ്പോഴും പഴയമട്ടിൽത്തന്നെ പറ്റിപ്പിടിച്ചുകിടക്കയാണു്. മുകളിലുള്ള കുറെ കൊമ്പും ചില്ലയും
+മാത്രമേ മുറിഞ്ഞുപോകുന്നുള്ളു. പൂച്ചയെപ്പിടിച്ചു് എങ്ങനെയെല്ലാം മേലോട്ടെറിഞ്ഞാലും അതു് താഴെവീഴുമ്പോൾ
+പഴയപടി നാലുകാലും കുത്തിനില്ക്കുമെന്നു് പറയുന്നതുപോലെയാണു് ജാതിയുടെയും നില. ഹിന്ദുമതം
+ഉള്ളിടത്തോളം കാലം ജാതിയും നിലനിൽക്കും. ജാതി നശിക്കണമെങ്കിൽ നിലവിലുള്ള ഹിന്ദുമതവും നശിക്കണം.
+എന്തെന്നാൽ ഇന്നു് ഹിന്ദുമതമെന്നു് പറയുന്നതു് വാസ്തവത്തിൽ ബ്രാഹ്മണമതമാണു്. ബ്രാഹ്മണമതത്തിന്റെ
+രക്തവും, മാംസവുമാണു് ജാതി. എല്ലാം ഒന്നാണെന്നും രണ്ടാമതൊന്നില്ലെന്നും ഉദ്ഘോഷിച്ച <ref target="https://ml.wikipedia.org/wiki/Sankaracharya">ശങ്കരാചാര്യർ</ref>
+ക്കുപോലും ജാതിയുടെ വലയത്തിൽനിന്നു് പുറത്തുചാടാൻ കഴിഞ്ഞില്ല. തത്ത്വങ്ങൾ ഏതുതരം വേണമെങ്കിലും
+എത്രവേണമെങ്കിലും ഹിന്ദുമതത്തിലുണ്ടു്. ജാതിയുണ്ടെന്നു് സ്ഥാപിക്കാനും ഇല്ലെന്നു് സ്ഥാപിക്കാനും അതിൽ
+പ്രമാണങ്ങൾ കാണും.</p>
+          <lg>
+            <l> ‘ചാതുർവർണ്യം മയാ സൃഷ്ടം</l>
+            <l> ഗുണകർമ്മവിഭാഗശഃ</l>
+            <l> തസ്യ കർത്താരമപി മാം</l>
+            <l> വിദ്ധ്യകർത്താരമവ്യയം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന പ്രസിദ്ധമായ ഗീതാവാക്യംതന്നെ നോക്കുക. ഗുണകർമവിഭാഗമനുസരിച്ചു് ചാതുർവർണ്യം എന്നാൽ
+സൃഷ്ടിക്കപ്പെട്ടു. അതിന്റെ കർത്താവാണെങ്കിലും എന്നെ അതിന്റെ അകർത്താവായിട്ടറിയുക എന്നാണല്ലോ
+ഇതിന്റെ അർത്ഥം. ഏതു് കാലത്തേക്കും കൊള്ളിക്കത്തക്കവണ്ണം എങ്ങനെയും വ്യാഖ്യാനിച്ചു്
+ശരിപ്പെടുത്താവുന്നവയാണു് ഇത്തരം ശ്ലോകങ്ങൾ. ജാതിയുടെ തുടക്കം ഗുണകർമ്മവിഭജനത്തിൽനിന്നായാലും
+ഉണ്ടായ കാലംതൊട്ടു് ഇന്നുവരെ അതു് നിലനിന്നിട്ടുള്ളതു് ജന്മത്തിന്റെ അടിസ്ഥാനത്തിലാണെന്ന സത്യം
+കുട്ടികൾക്കു് പോലുമറിയാം.
+</p>
+          <p>ഇനി ഈ ശ്ലോകത്തിന്റെ ഉത്തരാർദ്ധം നോക്കൂ. താൻ ജാതിയുടെ സ്രഷ്ടാവാണെങ്കിലും തന്നെ
+സ്രഷ്ടാവല്ലെന്നു് മനസ്സിലാക്കണംപോൽ. എന്തൊരു ശബ്ദജാലമാണിതു്! ജാതിവേണം എന്നാൽ, ജാതിവേണ്ട
+എന്നു് തരംപോലെ പറഞ്ഞുനിൽക്കാനുള്ള ഇമ്മാതിരി തട്ടിപ്പുകൾ ഹിന്ദുമതഗ്രന്ഥങ്ങളുടെ ഒരു പ്രത്യേകതയാണു്.
+ബ്രാഹ്മണമതത്തിന്റെ ഈ വിരുദ്ധസ്വഭാവമാണു് ജാതിവ്യവസ്ഥയ്ക്കു് സംരക്ഷണം നൽകുന്നതു്. ആദർശം ഒരു
+വശത്തും തദ്വിപരീതമായ പ്രയോഗം മറുവശത്തും. അതാണു് ഈ മതത്തിന്റെ സാമാന്യസ്വഭാവം. അതിലെ
+തത്ത്വമണ്ഡലവും സാമൂഹ്യവ്യവസ്ഥിതിയും തമ്മിൽ ധ്രുവങ്ങൾക്കു് തമ്മിലുള്ള അകലമുണ്ടു്. തർക്കിക്കാൻ
+വരുന്നവരുടെ നേരെ അതു് ആദർശങ്ങൾ അഥവാ പ്രമാണങ്ങൾ പൊക്കിപ്പിടിച്ചു് മേന്മ നടിക്കും; അതേസമയം
+ചാതുർവർണ്യനിയമങ്ങൾമൂലം ബ്രാഹ്മണപ്രാമാണ്യം നിലനിർത്തുകയും ചെയ്യും.
+</p>
+          <p>ഹിന്ദുമതഗ്രന്ഥങ്ങളായി ഗണിക്കപ്പെടുന്ന വേദേതിഹാസപുരാണങ്ങളും അവയോടനുബദ്ധമായ
+തത്ത്വജ്ഞാനകൃതികളും മറ്റും ബ്രാഹ്മണപ്രാമാണ്യത്തിന്റെ പ്രചാരകഗ്രന്ഥങ്ങളാണെന്നു് മൊത്തത്തിൽ പറയാം.
+അവയെല്ലാം ഒളിഞ്ഞും തെളിഞ്ഞും ജാതിയെ താലോലിക്കുന്നു. ചാതുർവർണ്യത്തെ സാധൂകരിക്കാൻ
+വെമ്പുന്നവരാണു് ഗീതയിലെ ഗുണകർമവിഭാഗമെടുത്തുകാണിക്കുന്നതു്. എന്നാൽ, ഇന്ത്യയിലെ
+സാമൂഹ്യജീവിതത്തിൽ ജാതിയെ സംബന്ധിച്ചിടത്തോളം ഗുണകർമ്മങ്ങൾക്കു് യാതൊരു സ്ഥാനവുമില്ലെന്നു് നാം
+കണ്ടു കഴിഞ്ഞു. ശീലത്തിനല്ല കുലത്തിനാണു് ജാതിയിൽ പ്രാധാന്യം. ചില വ്യത്യസ്തങ്ങൾ
+ഉണ്ടായിട്ടുണ്ടെങ്കിൽത്തന്നെ അതു് സാമാന്യനിയമത്തെ ബാധിക്കുന്നില്ല. പഞ്ചമവേദമെന്നു് പുകൾപ്പെറ്റ
+മഹാഭാരതത്തിൽത്തന്നെ, ജാതി ജന്മജന്യമാണെന്നതിനു് എത്രയോ പ്രമാണങ്ങളുണ്ടു്. അതിലെ
+അനുശാസനികപർവത്തിൽ, ഭീഷ്മർ ധർമപുത്രർക്കു് മതംഗോപാഖ്യാനംവഴി ബ്രാഹ്മണമാഹാത്മ്യം
+ഉപദേശിക്കുന്ന ഘട്ടത്തിൽ,</p>
+          <lg>
+            <l> ‘ജന്മംകൊണ്ടേ സാധിക്കാവൂതൽബ്രാഹ്മണ്യം</l>
+            <l> കർമംകൊണ്ടാർക്കുമേ സാധിക്കരുതല്ലോ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് പ്രത്യേകം എടുത്തുപറഞ്ഞിരിക്കുന്നു. കർമ്മശുദ്ധിയിലും ജ്ഞാനമഹിമയിലും ഭാരതത്തിലെ വിദുരരെ
+അതിശയിക്കാനാരുണ്ടു്? ആചാര്യപദവിക്കർഹനായ ആ മഹാത്മാവുപോലും താണജാതിക്കാരനായിട്ടാണു്
+ഗണിക്കപ്പെട്ടിരുന്നതു്. സകല യോഗ്യതകളും തികഞ്ഞ മഹാരഥനായ കർണൻ അനുഭവിക്കേണ്ടിവന്ന
+ജീവിതദുഃഖം മുഴുവൻ അദ്ദേഹം താണകുലത്തിൽപ്പെട്ടവനാണെന്ന ധാരണയിൽനിന്നുണ്ടായതാണു്.
+ഗുണകർമ്മവൈശിഷ്ട്യം വേണ്ടുവോളമുണ്ടായിട്ടും ഇവർക്കാർക്കും ബ്രാഹ്മണപദവിയിലേക്കോ
+ക്ഷത്രിയപദവിയിലേക്കോ പ്രമോഷൻ കിട്ടിയില്ല. തപശ്ശക്തിയാൽ സമത്വം നേടിയിട്ടും
+വസിഷ്ഠനോടൊപ്പമിരിക്കാൻ വിശ്വാമിത്രൻ എത്ര പാടുപെട്ടു! രാമായണത്തിലെ ശൂദ്രനു് തപസ്സുകൊണ്ടു്
+ഗുണംകിട്ടിയില്ലെന്നു് മാത്രമല്ല ശ്രീരാമന്റെ വാളിനു് കഴുത്തു് കാണിക്കേണ്ടതായും വന്നു! ഇമ്മാതിരി
+കൊടുംകൊലകൾക്കുപോലും ഭഗവദ്വചനം പ്രമാണമാക്കാനുള്ള സൗകര്യം ഹിന്ദുമതത്തിലുണ്ടു്.</p>
+          <lg>
+            <l> ‘സ്വധർമ്മേ നിധനം ശ്രേയഃ</l>
+            <l> പരധർമ്മോ ഭയാവഹഃ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന ഗീതാവചനമനുസരിച്ചു് ഭയങ്കരമായ പരധർമ്മമാണു് ഈ ശൂദ്രൻ അനുഷ്ഠിച്ചതു്. അപ്പോൾ അയാൾ
+ശിക്ഷാർഹനല്ലേ? ശൂദ്രന്റെ ഈ പരധർമ്മാനുഷ്ഠാനം മൂലമാണത്രെ ബ്രാഹ്മണന്റെ കുട്ടി അകാലചരമമടഞ്ഞതു്.
+ബ്രാഹ്മണപ്രാമാണ്യത്തെ ഇതിൽപരം അന്ധവും നിഷ്ഠുരവുമായ രീതിയിൽ പരസ്യപ്പെടുത്തുന്നതെങ്ങനെ?
+രൂഢവും മൂഢവുമായ ബ്രാഹ്മണഭക്തിയുടെ ലഹരിയിൽ ഇത്തരം മുത്തശ്ശിക്കഥകൾകൂടി ഹിന്ദുക്കൾ
+വിശ്വസിക്കുന്നു. രാമായണാദികൃതികൾക്കു് സാഹിത്യദൃഷ്ട്യാ എന്തുവിലയുണ്ടായാലും അവ മതഗ്രന്ഥങ്ങളെന്ന
+നിലയിൽ മാനിക്കപ്പെടുന്ന കാലത്തോളം ഈ ബ്രാഹ്മണപൂജയ്ക്കും അതിന്റെ ദുസ്സന്താനമായ ജാതിക്കും
+ഇൻഡ്യയിൽ നിലനില്പുണ്ടാകും. ഹൈന്ദവമതവിശ്വാസങ്ങൾക്കു് മൗലികമായ പരിവർത്തനം വന്നെങ്കിലേ
+മാനസികമായ ഈ അടിമത്തം നിശ്ശേഷം നീങ്ങുകയുള്ളു. ഹിന്ദുമതത്തിൽനിന്നു് ബ്രാഹ്മണപൗരോഹിത്യത്തെ
+നിഷ്കാസനം ചെയ്യുകയാണു് ഒന്നാമതു് വേണ്ടതു്. ഗവണ്മെന്റോ സാമൂഹ്യസ്ഥാപനങ്ങളോ ഈ വഴിക്കു്
+പ്രവർത്തിച്ചുകാണുന്നില്ല. അങ്ങനെ പ്രവർത്തിച്ചാൽ മതവികാരങ്ങളെ വ്രണപ്പെടുത്തുന്നുവെന്നു് പറഞ്ഞു്
+യാഥാസ്ഥിതികർ ബഹളം കൂട്ടിയേക്കാം.
+</p>
+          <p>മതപരിഷ്കർത്താക്കളായ ഉൽപതിഷ്ണുക്കളും ബ്രാഹ്മണപൗരോഹിത്യത്തിന്റെ മുമ്പിൽ തല
+കുനിക്കുന്നവരായാൽ പിന്നെയെങ്ങനെ ജാതിവൈഷമ്യം തീരും? ‘പരിചര്യാത്മകം കർമ ശൂദ്രസ്യാപി സ്വഭാവജം’
+എന്നു് ഗീതാകാരൻ ശൂദ്രനു് ദാസ്യവൃത്തിയാണു് വിധിച്ചിരിക്കുന്നതു്. ഇതു് ഭഗവാന്റെ വാക്കായി ജനങ്ങൾ
+വിശ്വസിച്ചാദരിക്കുന്നു. മനുഷ്യത്വത്തെ വെട്ടിമുറിക്കുന്ന ഏതാദൃശ വാക്കുകൾ ഭഗവാന്റേതായാലും
+നിഷേധാർഹങ്ങളാണെന്നു് തുറന്നുറപ്പിച്ചു് പറയാൻ അധികമാരും ധൈര്യപ്പെടുന്നില്ല. മാത്രമല്ല, പരിചര്യ എന്ന
+പദത്തിനു് സാമൂഹ്യസേവനം എന്നും മറ്റും പുതിയ അർത്ഥം കല്പിച്ചു് ഈവകദാസ്യമുദ്രകളെ തേച്ചുമിനുക്കി
+സൂക്ഷിക്കാനാണു് മതപരിഷ്കർത്താക്കൾ യത്നിക്കുന്നതു്. അതോടൊപ്പം ഇക്കൂട്ടർ ജാതി പോകണമെന്നു്
+വാദിക്കുകയും ചെയ്യും! ഇതിൽ വല്ല അർത്ഥമുണ്ടോ? ആത്മാർത്ഥതയുണ്ടോ? ഹിന്ദുമതത്തിന്റെ അടിത്തറയാണു്
+വേദങ്ങളെന്നു് പറയപ്പെടുന്നുണ്ടല്ലോ. അവയുടെ ശാഖകളായ ബ്രാഹ്മണങ്ങളിൽ ശൂദ്രൻ യഥാകാമവധ്യൻ
+(യഥേഷ്ടം വധിക്കപ്പെടാവുന്നവൻ) എന്നുവരെ എഴുതിവച്ചിട്ടുണ്ടു്. അഥർവവേദത്തിൽ ബ്രാഹ്മണരുടെ
+പ്രത്യേകാവകാശങ്ങൾ വിവരിച്ചിരിക്കുന്നതു് വായിച്ചാൽ നാം അമ്പരന്നുപോകും. ഒരു സ്ത്രീക്കു് അബ്രാഹ്മണരായ
+എത്ര ഭർത്താക്കന്മാരുണ്ടായിരുന്നാലും ഒരു ബ്രാഹ്മണൻ അവളുടെ കൈ കടന്നുപിടിച്ചാൽ അവൾ അയാൾക്കു്
+അധീനയായിക്കൊള്ളണംപോൽ! ഇതാണു് അതിലെ ഒരു വിരുദ്ധോക്തിയാൽ വിധിച്ചിരിക്കുന്നതു്!
+‘ബ്രാഹ്മണന്റെ പിടിച്ചുപറിക്കുന്ന ദുരാഗ്രഹം ബ്രാഹ്മണങ്ങളിൽ സകല സീമകളെയും അതിക്രമിച്ചിരിക്കുന്നു’ (The
+grasping greed of Brahmin has passed all the bounds in Brahmanas) എന്നു് ഒരു ചരിത്രപണ്ഡിതൻ
+ഇതിനെപ്പറ്റി ആക്ഷേപിക്കുന്നുണ്ടു്. ശൂദ്രന്റെ തൊഴിൽ ബ്രാഹ്മണസേവയല്ലാതെ മറ്റൊന്നുമല്ല.</p>
+          <lg>
+            <l> ‘ബ്രാഹ്മണൻ തന്നംഘ്രിജാതനായതു് ശൂദ്രനല്ലോ</l>
+            <l> കർമങ്ങളവനേതുമില്ലല്ലോ നിരൂപിച്ചാൽ</l>
+            <l> ദാസനായ് ദ്വിജകുലപാദസേവയും ചെയ്തു</l>
+            <l> വാസനയാലേ തേഷാം വൃത്തിയും കഴിക്കണം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് <ref target="https://ml.wikipedia.org/wiki/Thunchaththu_Ezhuthachan">എഴുത്തച്ഛൻ</ref>
+നല്ല ഭാഷയിൽ യാതൊരു സംശയവുമില്ലാത്തവിധം ഭാരതത്തിലെ ഈ ദാസ്യാമൃതം കേരളീയർക്കു്
+പാനംചെയ്യാൻ പകർന്നുകൊടുത്തിരിക്കുന്നു. ‘അക്ഷരാനഭിജ്ഞത്വമജ്ഞത്വം
+മൂഢത്വവുമക്ഷരവ്യക്തിവിഹീനാലാപങ്ങളുമെല്ലാ’മാണു് ശൂദ്രന്റെ ലക്ഷണം! ലോകത്തിലെ മറ്റേതെങ്കിലും
+മതത്തിലോ ഗ്രന്ഥത്തിലോ ഒരു ജനവിഭാഗത്തെ ഇത്രയും ക്രൂരവും ഹീനവുമായ രീതിയിൽ പൗരോഹിത്യം
+ചവുട്ടിത്താഴ്ത്തിയിട്ടുണ്ടെന്നു് തോന്നുന്നില്ല. ആർഷസംസ്കാരത്തിന്റെ കൊടിയടയാളങ്ങളാണിവയെല്ലാം.</p>
+          <lg>
+            <l> ‘ബ്രാഹ്മണർക്കസാദ്ധ്യമായില്ലൊരു കർമങ്ങളും</l>
+            <l> സാമ്യമില്ലവരുടെ മാഹാത്മ്യത്തിന്നുമേതും</l>
+            <l> ബ്രാഹ്മണനൊന്നുകൊണ്ടുമവമന്തവ്യനല്ല</l>
+            <l> കാർമുകവേദോപദേശങ്ങളുമവർക്കത്രെ.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇങ്ങനെ പാഞ്ചാലീസ്വയംവരത്തിൽക്കാണുന്ന ബ്രാഹ്മണമാഹാത്മ്യോദ്ഘോഷണവും കരുതിക്കൂട്ടിയുള്ള
+ഒരു പ്രചാരണം മാത്രമാണു്. ഇവിടെയൊക്കെ ബ്രാഹ്മണശബ്ദം പ്രയോഗിച്ചിരിക്കുന്നതു് ബ്രഹ്മജ്ഞാനമുള്ളവൻ
+എന്ന സർവവ്യാപകമായ അർത്ഥത്തിലല്ല. അങ്ങനെയും ചിലർ വാദിക്കാറുണ്ടു്. യാഥാർത്ഥ്യത്തിന്റെ നേരേ
+കണ്ണടച്ചാലേ ഈ വാദത്തിനു് നിൽക്കക്കള്ളിയുണ്ടാകൂ. ഈ ജീർണവാക്യങ്ങൾക്കെല്ലാം ഇക്കാലത്തു് എന്തെന്തു്
+വ്യാഖ്യാനഭേദങ്ങൾ കല്പിച്ചാലും അവ നവീനസാമൂഹ്യബോധവുമായി പൊരുത്തപ്പെടുകയില്ലെന്നു്
+പറയേണ്ടതില്ലല്ലോ. ഇങ്ങനെ നോക്കുമ്പോൾ ഹിന്ദുമതത്തിന്റെ നട്ടെല്ലായ ബ്രാഹ്മണപ്രാമാണ്യത്തിലാണു്
+ജാതിയുടെ അടിവേരുകൾ ചെന്നു് തറച്ചുനിൽക്കുന്നതെന്നു് കാണാം.
+</p>
+          <p>നിരർത്ഥകമായ ജാതിഭേദത്തെ സർവദാ അപലപിച്ചുകൊണ്ടിരിക്കുന്ന ആളാണല്ലോ നമ്മുടെ പ്രധാനമന്ത്രി.
+അദ്ദേഹത്തിന്റെ ഗവണ്മെന്റിനുപോലും ബ്രാഹ്മണദാസ്യത്തിൽനിന്നു് വിട്ടുമാറാൻ കഴിയുന്നില്ലെന്നതാണു്
+വാസ്തവം. ഹൈന്ദവരായ ജവാന്മാരുടെ ആവശ്യത്തിനു് ചില പുരോഹിതന്മാരെ നിയമിക്കാൻവേണ്ടി
+ഇന്ത്യാഗവണ്മെന്റ് ഈയിടെ ചെയ്ത പരസ്യത്തിൽ അപേക്ഷകർ ബ്രാഹ്മണരായിരിക്കണമെന്നു് പ്രത്യേകം
+നിർദ്ദേശിച്ചിരുന്നു. പൗരോഹിത്യത്തിനുവേണ്ട മന്ത്രതന്ത്രങ്ങൾ പഠിച്ചവരായാലും അബ്രാഹ്മണർക്കു് അവിടെ
+സ്ഥാനമില്ല. ഇപ്രകാരം സർക്കാർതന്നെ ബ്രാഹ്മണദാസ്യച്ചുമടു് തലയിലേറ്റി നടക്കുമ്പോൾ അതിനുള്ളിൽ
+ചുരുണ്ടുകൂടിക്കിടക്കുന്ന ജാതിവൈകൃതങ്ങൾ എങ്ങനെ നശിക്കും?
+</p>
+          <p>ഇനി ക്ഷേത്രങ്ങളുടെ കഥ നോക്കുക. ബ്രാഹ്മണമേധാവിത്വം ഇന്നും അവിടെ കൊടികുത്തി വാഴുന്നില്ലേ?
+അബ്രാഹ്മണൻ പൂജാവിധികളിൽ വേണ്ടത്ര അറിവും പരിചയവും നേടിയാലും അയാൾക്കവിടെ
+ശാന്തിക്കാരനായിക്കൂടാ. നേരെമറിച്ചു് അജ്ഞനും മൂഢനും ദുർവൃത്തനുമായാൽപ്പോലും ബ്രാഹ്മണനു് ജന്മത്തിന്റെ
+മേന്മകൊണ്ടുമാത്രം ശാന്തികർമം നടത്താം. ഇങ്ങനെ ദൈവത്തിന്റെ മുമ്പിൽ ജാതിക്കൊടിമരം
+നാട്ടിയിരിക്കുമ്പോൾ അവിടെ തൊഴുകൈയുമായി തിരക്കിക്കൂടുന്ന ബഹുജനങ്ങളുടെ ഇടയിൽനിന്നു് ഈ
+ഭേദബുദ്ധി മാഞ്ഞുപോകുമോ? ഇതര ജനങ്ങളുടെ ബ്രാഹ്മണദാസ്യത്തിന്റെ പ്രദർശനശാലകളാണു് വാസ്തവത്തിൽ
+ക്ഷേത്രങ്ങൾ. മുഖസ്തുതികൊണ്ടും കൈക്കൂലികൊണ്ടും ദൈവത്തെ പ്രീതിപ്പെടുത്താൻ ഈ
+ബ്രാഹ്മണദാസ്യമന്ദിരങ്ങളിലേക്കാണല്ലോ ജനക്കൂട്ടം പാഞ്ഞുചെല്ലുന്നതു്. ജാതിക്കെതിരായി എഴുതുകയും
+പ്രസംഗിക്കുകയും ചെയ്യുന്ന പുരോഗമനക്കാരെയും ഇക്കൂട്ടത്തിൽ ധാരാളം കാണാം. ഹൈന്ദവസമുദായം
+എത്രമാത്രം ജാതിമദിരാന്ധരാണെന്നു് തെളിഞ്ഞുകാണാനുള്ള ഒരവസരം അടുത്തുവരുന്നുണ്ടു്. കേരളത്തിലെ
+ദേവസ്വം ഭരണം പരിഷ്ക്കരിക്കാൻ നിയമിതമായ കുട്ടിക്കൃഷ്ണമേനോൻകമ്മിറ്റിയുടെ റിപ്പോർട്ട് ഈയിടെ പുറത്തു്
+വന്നിട്ടുണ്ടല്ലോ. ഇതെത്രത്തോളം ഗവണ്മെന്റിനും സവർണർക്കും സ്വീകാര്യമാകുമെന്നു് കണ്ടുതന്നെ അറിയണം.
+കമ്മിറ്റിയുടെ റിപ്പോർട്ട് അതേപടി സ്വീകരിച്ചു് നിർദ്ദേശങ്ങൾ നടപ്പാക്കിയാൽ ക്ഷേത്രങ്ങളിലെ
+ആദ്ധ്യാത്മികഭാവം നഷ്ടപ്പെടുമെന്ന പരാതി ഇപ്പോഴെ പുറപ്പെട്ടുകഴിഞ്ഞിരിക്കുന്നു. മനം മയക്കുന്ന
+ബ്രാഹ്മണമതക്കറുപ്പു് നൂറ്റാണ്ടുകളായി തിന്നുശീലിച്ച ഒരു സമുദായത്തിനു് ആ മയക്കത്തിൽനിന്നുണരാൻ ഇനിയും
+കാലം കുറെ വേണ്ടിവന്നേക്കാം.
+</p>
+          <p>ജാതി നശിക്കാനുള്ള പ്രധാനമാർഗം മിശ്രവിവാഹപ്രസ്ഥാനം തന്നെയെന്നതിനു് സംശയമില്ല. പക്ഷേ,
+അതോടൊപ്പം മതവിശ്വാസത്തിലും കാലോചിതമായ പരിവർത്തനം വന്നില്ലെങ്കിൽ ആദ്യത്തേതുകൊണ്ടുമാത്രം
+ലക്ഷ്യത്തിലെത്താൻ കഴിയുമോ എന്നാലോചിക്കേണ്ടതുണ്ടു്. ഈ രണ്ടു് കാര്യവും സുഖകരമാകണമെങ്കിൽ
+സാമ്പത്തികരംഗത്തു് സോഷ്യലിസ്റ്റ് വ്യവസ്ഥിതി നടപ്പാകയും വേണം.
+</p>
+          <p>
+(മനനമണ്ഡലം 1964)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Jathiyude Adiverukal (ml:
+ജാതിയുടെ അടിവേരുകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Jathiyude Adiverukal, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ജാതിയുടെ അടിവേരുകൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 22, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:J%C3%B3zef_Szermentowski__Volhynian_Forest_-_MNK_II-a-969__National_Museum_Krak%C3%B3w.jpg">Volhynian Forest,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:J%C3%B3zef_Szermentowski">Józef
+Szermentowski</ref>  (1833–1876). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-adiverukal.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhaadiverukal.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

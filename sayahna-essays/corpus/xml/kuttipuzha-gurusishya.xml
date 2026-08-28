@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വിചിത്രമായ ഒരു ഗുരുശിഷ്യബന്ധം</title>
+          <title xml:lang="en" type="main">Vichithramaya Oru Gurusishyabandham</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">November 22, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വിചിത്രമായ ഒരു ഗുരുശിഷ്യബന്ധം</title>
+              <title xml:lang="en" type="main">Vichithramaya Oru Gurusishyabandham</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Vichithramaya Oru Gurusishyabandham</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>വിചിത്രമായ ഒരു ഗുരുശിഷ്യബന്ധം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 22, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Teacher_with_Four_Pupils.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Pasquale_de%27_Rossi__School_Teaching,_a_Teacher_with_Four_Pupils_-_KMS562__Statens_Museum_for_Kunst.jpg">School Teaching, a Teacher with Four Pupils,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Pasquale_de%27_Rossi">Pasquale
+Rossi</ref>  (1641–1722). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വിചിത്രമായ ഒരു ഗുരുശിഷ്യബന്ധം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വിചിത്രമായ ഒരു ഗുരുശിഷ്യബന്ധം</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karl_Marx.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാർക്സ്</figDesc>
+          </figure>
+          <p style="noindent"> ‘അങ്ങു് <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref> യുടെ
+ശിഷ്യനാണോ?’ എന്നു് ലണ്ടനിൽവെച്ചു് <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാലി</ref>
+നോടു് ഒരാൾ ചോദിക്കുകയുണ്ടായി. ഉത്തരംമുട്ടിക്കുന്ന അപകടം പിടിച്ച ഒരു ചോദ്യമായിരുന്നു അതു്.
+‘മതകാര്യങ്ങളിൽ അല്ല’ എന്നു മാത്രമേ അദ്ദേഹം അതിനു് മറുപടി പറഞ്ഞുള്ളു. ‘മറ്റുകാര്യങ്ങളിലോ’ എന്നു വീണ്ടും
+ചോദിച്ചിരുന്നെങ്കിൽ എന്തായിരിക്കും മറുപടി? അതിപ്പോൾ ആർക്കും നിശ്ചയിച്ചുകൂടാ. ശിഷ്യത്വം പൂർണമായി
+സമ്മതിക്കാനോ, തീരെ നിഷേധിക്കുവാനോ അദ്ദേഹം ധൈര്യപ്പെടുമെന്നു് തോന്നുന്നില്ല. അത്രയ്ക്കും വ്യാമിശ്രമായ
+ഒരു ബന്ധമാണു് ഈ രണ്ടു് നേതാക്കന്മാർക്കും തമ്മിലുള്ളതു്. അതിനൊരു ഗുരുശിഷ്യഭാവം കല്പിക്കാമെങ്കിൽ
+അതു് ഏറ്റവും വിചിത്രവുമായിരിക്കും. യോജിപ്പില്ലാത്തിടത്തു് യോജിപ്പു്. അടുപ്പമില്ലാത്തിടത്തു് അടുപ്പം.
+ഇങ്ങനെയൊരു വിചിത്രതയാണു് ഇതിൽ പൊന്തിക്കാണുന്നതു്. ഭാരതീയമായ ഗുരുശിഷ്യബന്ധത്തിന്റെ
+മകുടാലങ്കാരമാണു് മതം. മതത്തെ സംബന്ധിച്ചിടത്തോളം ഈ പുതിയ ഗുരുശിഷ്യന്മാർ ധ്രുവങ്ങൾക്കു് തമ്മിലുള്ള
+അകൽച്ചയിലാണു് നിലകൊള്ളുന്നതു്. സർവപ്രാമാണ്യവും സർവതോന്മുഖമായ ഗൗരവവും ഗുരു മതത്തിനു്
+നൽകുമ്പോൾ ശിഷ്യൻ അതൊരു നേരമ്പോക്കായിമാത്രം കരുതുന്നു! മനുഷ്യൻ നന്നാകാൻ മതം
+ആവശ്യമാണോ എന്ന ചോദ്യത്തിനു് ഗുരു അനുവാദരൂപത്തിലും ശിഷ്യൻ നിഷേധരൂപത്തിലും ആയിരിക്കും
+മറുപടി പറയുക. രണ്ടുപേരും മനുഷ്യമഹത്ത്വത്തിന്റെ ഉന്നതകോടിയിലെത്തിയിട്ടുള്ളവരാണു്. മതത്തെപ്പറ്റി
+ഗാന്ധി എന്തുതന്നെ അഭിപ്രായപ്പെട്ടാലും മഹത്ത്വസമ്പാദനത്തിനു് മതപരമായ വിശ്വാസം
+ആവശ്യമില്ലെന്നുള്ളതു് ജവഹർലാലിന്റെ ജീവിതം ഒന്നാംതരമായി ഉദാഹരിക്കുന്നുണ്ടു്. ഉപനിഷത്തും
+ഭഗവദ്ഗീതയും മറ്റും എന്തുപദേശിക്കുന്നു എന്നു് നോക്കാതെതന്നെ സത്യധർമപരിപാലനത്തിനും
+ത്യാഗജീവിതത്തിനും മനുഷ്യൻ സന്നദ്ധനാകുമെന്നു് ആ സ്വതന്ത്ര ചിന്തകൻ ലോകത്തെ പഠിപ്പിക്കുന്നു.
+രാഷ്ട്രീയമായ അടിമത്തത്തെ മാത്രമല്ല, പുരാതനഗ്രന്ഥങ്ങളോടുള്ള മാനസികമായ അടിമത്തത്തെക്കൂടി അദ്ദേഹം
+ധ്വംസിച്ചുകൊണ്ടിരിക്കുകയാണു്. സ്വഭാവേനതന്നെ ഒരു കശാപ്പുശാലയായി കാണപ്പെടുന്ന ഈ ലോകത്തിൽ
+അഹിംസാവ്രതം കേവലം ഒരു ഉപായമായിട്ടു് മാത്രമേ അദ്ദേഹം ഗണിച്ചിട്ടുള്ളു. ഏതാണ്ടൊരു വിദേശീയസംസ്കാര
+വിശേഷമാണു് ഈ ശിഷ്യനിൽ മുന്നിട്ടുനിൽക്കുന്നതു്. എന്നാൽ, ഗുരുവിന്റെ നിലയോ? അടിമുതൽ മുടിവരെ
+കലർപ്പില്ലാത്ത ഭാരതീയസംസ്കാരത്തിന്റെ മൂർത്തീകരണമാണു് ഗാന്ധി. ഭഗവദ്ഗീതയുടെ ഒരു സജീവവ്യാഖ്യാനം
+എന്നു് അദ്ദേഹത്തെപ്പറ്റി ഒരു പണ്ഡിതൻ അഭിപ്രായപ്പെട്ടിട്ടുണ്ടു്. മഹാത്മാഗാന്ധിയും ഹിമവാൻ പർവതവുമാണു്
+തന്നെ ഏറ്റവും അത്ഭുതപ്പെടുത്തിയതെന്നു് ഇന്ത്യ സന്ദർശിച്ച ഒരു സായ്പ് ഒരിക്കൽ പറയുകയുണ്ടായി.
+പുറമേനിന്നും പുത്തനായി നാട്ടിൽ കടന്ന സായ്പിനു് ഈ രണ്ടിലും അത്ഭുതം തോന്നിയേക്കാം. എന്നാൽ,
+ഗാന്ധി ഭാരതീയർക്കു് ഒരു അത്ഭുതപുരുഷനല്ല. അദ്ദേഹത്തിൽ പ്രതിബിംബിക്കുന്ന ഭാരതീയജീവിതം അവരുടെ
+പുരാതനഗ്രന്ഥങ്ങളിൽ പണ്ടേ നിഴലിച്ചുകൊണ്ടിരുന്ന ഒന്നാണു്. ഇന്ത്യാക്കാരുടെ അത്ഭുതപുരുഷൻ
+ജവഹർലാലാകുന്നു. ജന്മംകൊണ്ടു് ഇന്ത്യ, വളർച്ചകൊണ്ടു് ഇംഗ്ലണ്ട്, നടപടികൊണ്ടു് ഈ രണ്ടിലുംപെടാത്ത ഒരു
+നവലോകം ഇങ്ങനെ ഒന്നിലും ഒട്ടിച്ചേരാത്ത അദ്ദേഹത്തിന്റെ നില പൗരസ്ത്യർക്കു് ഒരു പുതുമതന്നെയാണു്.
+‘എല്ലായിടത്തും കൂട്ടുവിട്ടും ഒരിടത്തും കൂട്ടില്ലാതെയും ഞാൻ പാശ്ചാത്യ പൗരസ്ത്യങ്ങളുടെ ഒരു വിചിത്ര
+സങ്കലനമായിത്തീർന്നിരിക്കുന്നു’. ‘I have become a curious mixture of the East and West out of place
+everywhere and at home nowhere’. എന്നു് ജവഹർലാൽതന്നെ തന്റെ ആത്മകഥയിൽ പറഞ്ഞിട്ടുണ്ടു്.
+ഗാന്ധി ഇന്ത്യയുടെ ആത്മാവിൽ ലയിച്ചുചേർന്നിരിക്കുന്നു എന്നു പറയാം. അതുകൊണ്ടുതന്നെയാണു്
+സാമാന്യജനത പണ്ഡിതപാമരഭേദമോ കുചേലകുബേരഭേദമോ കൂടാതെ ഒന്നാകെ അദ്ദേഹത്തിന്റെ പിന്നാലെ
+ഇപ്പോഴും പൊയ്ക്കൊണ്ടിരിക്കുന്നതു്. ഈ ആത്മീയസമ്പർക്കം അഥവാ മാനസികമായ ഏകീഭാവം
+ജവഹർലാലിനു് ഇനിയും ലഭിച്ചിട്ടില്ല. നിരാലംബമായ ആകാശത്തിലാണു് അദ്ദേഹത്തിന്റെ നില. അവിടെ
+നിന്നുകൊണ്ടു് അതിദൂരവർത്തിയായ ഒരു ആദർശമണ്ഡലത്തിൽ അദ്ദേഹം അക്ഷമനായി ചുറ്റിക്കറങ്ങുന്നു.
+സ്വപ്നവർത്തിയായ ഒരു നവഭാരതത്തിന്റെ സുന്ദരരൂപം ആ നിഷ്കന്മഷഹൃദയത്തെ സദാപി
+ആകർഷിച്ചുകൊണ്ടിരിക്കുന്നു. പാവങ്ങളുടെ കഷ്ടതയിൽ ശിഷ്യന്റെ ഹൃദയം വെന്തുനീറുന്നുണ്ടു്. എങ്കിലും
+ഗുരുവിനെപ്പോലെ അവരിലൊരുവനായി കൂട്ടത്തിൽ കൂടുവാൻ അദ്ദേഹത്തിനു് ഇഷ്ടമില്ല. സാമാന്യജനതയ്ക്കു്
+
+ശിഷ്യന്റെ ഭാഷയേക്കാൾ ഗുരുവിന്റെ ഭാഷയാണു് എളുപ്പം മനസ്സിലാകുക. കാരണം, ആദ്യത്തേതിൽ മതത്തിന്റെ
+യാതൊരു കലർപ്പും ഇല്ലെന്നുള്ളതാണു്. മനുഷ്യനു് ആവശ്യമായ കാര്യങ്ങൾ മതത്തിൽനിന്നും വേർതിരിച്ചു്
+കാണിക്കുമ്പോൾ ഭാരതീയർക്കു് അവ ദുർഗ്രഹങ്ങളായിത്തീരുന്നു! നേരേമറിച്ചു് ഗുരുവിനേക്കാൾ കൂടുതൽ
+ശിഷ്യനെ മനസ്സിലാക്കുവാൻ യൂറോപ്യന്മാർക്കു് കഴിയും. രാഷ്ട്രീയരംഗത്തിൽ ഇവർക്കു് തമ്മിലുള്ള നിലഭേദം
+ആലോചിച്ചു രസിക്കാൻ വകയുള്ള ഒന്നത്രെ. ഇരുകൂട്ടരുടെയും ലക്ഷ്യം ഒന്നാണെങ്കിലും സഞ്ചാരമാർഗ്ഗം
+എത്രയോ ഭിന്നം! വേണ്ടിവന്നാൽ ഹിംസയ്ക്കും വർഗ്ഗവൈരത്തിനും വഴികൊടുക്കുന്ന <ref target="https://ml.wikipedia.org/wiki/Karl_Marx">മാർക്സി</ref> ന്റെ
+വിപ്ലവസിദ്ധാന്തങ്ങളുംകൊണ്ടാണു് ശിഷ്യൻ തന്നെ അനുഗമിക്കുന്നതെന്നു് ഗുരുവിനു് നല്ലപോലെ അറിയാം.
+എന്നിട്ടും ഈ വിരുദ്ധാശയപ്രചോദിതർ ഒരുമിച്ചു് യാത്രചെയ്യുന്നതു് നോക്കുക! ഇങ്ങനെ എത്ര ദൂരം ഈ
+അത്ഭുതാത്മാക്കൾക്കു് ഒരുമിച്ചുപോകാൻ കഴിയും? ഒരിക്കൽ തിരിഞ്ഞുനോക്കുമ്പോൾ ഗുരുവിന്റെ പുറകിൽ
+ശിഷ്യനെ കണ്ടില്ലെന്നുവരാം. അത്രയ്ക്കു് വിഷമവും വിചിത്രവുമാണു് അദൃഷ്ടപൂർവമായ ഈ ഗുരുശിഷ്യ ബന്ധം.
+</p>
+          <p>
+(വിചാരവിപ്ലവം 1937)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vichithramaya Oru
+Gurusishyabandham (ml: വിചിത്രമായ ഒരു ഗുരുശിഷ്യബന്ധം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Vichithramaya Oru Gurusishyabandham, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, വിചിത്രമായ ഒരു
+ഗുരുശിഷ്യബന്ധം, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 22, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Pasquale_de%27_Rossi__School_Teaching,_a_Teacher_with_Four_Pupils_-_KMS562__Statens_Museum_for_Kunst.jpg">School Teaching, a Teacher with Four Pupils,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Pasquale_de%27_Rossi">Pasquale
+Rossi</ref>  (1641–1722). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-gurusishya.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhagurusishya.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

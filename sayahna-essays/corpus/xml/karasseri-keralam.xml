@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചുവന്ന കേരളം</title>
+          <title xml:lang="en" type="main">Chuvanna Keralam</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">August 8, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചുവന്ന കേരളം</title>
+              <title xml:lang="en" type="main">Chuvanna Keralam</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Chuvanna Keralam</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ചുവന്ന കേരളം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 8, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Sunset_over_the_Fjord.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Adelsteen_Normann__Sunset_over_the_Fjord.jpg">Sunset over the Fjord,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Adelsteen_Normann">Adelsteen
+Normann</ref>  (1848–1918). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചുവന്ന കേരളം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചുവന്ന കേരളം</head>
+        <div type="lsection">
+          <p style="noindent">കേരളത്തിന്റെ നിറമെന്താണു്? പച്ചയോ ചുവപ്പോ?
+</p>
+          <p>നാടുകൾക്കും ജനതകൾക്കുമൊക്കെ ഇങ്ങനെ എതെങ്കിലുമൊരു വർണ്ണത്തിന്റെ മുദ്ര
+ചാർത്തിക്കൊടുക്കാനാകുമോ എന്നു് സംശയിക്കുന്നവരുണ്ടാകാം. ആകുമെന്നാണു് തോന്നുന്നതു്. അറബികൾക്കു്
+പച്ചയോടു് വല്ലാത്ത മമതയാണു്. ഇസ്ലാം പച്ചയാണല്ലോ. തീ പാറുന്ന മരുഭൂമിയിലെ അലച്ചിലിൽ
+അകലെക്കാണുന്ന ഇളംപച്ചപോലും അറബികൾക്കു് കുളിരും ആശ്വാസവുമായിരിക്കണം. നിലാവുള്ള
+രാത്രികളിൽ ആകാശത്തു് തെളിയുന്ന ചന്ദ്രക്കല അവർക്കു് അങ്ങനെ സ്വന്തം സംസ്ക്കാരത്തിന്റെ
+ചിഹ്നമായിത്തീർന്നു. എന്നാൽ നൂറ്റാണ്ടുകളായി കാർഷികവൃത്തി തുടരുന്ന ഭാരതീയർക്കു് സൂര്യൻ
+സമുദ്രത്തിലാഴുന്നതു് ദുഃഖകരമായിരുന്നു. സൂര്യക്ഷേത്രം പണിതു് ആദിത്യനമസ്ക്കാരം ചെയ്താണല്ലോ നാം ഇവിടെ
+പ്രഭാതങ്ങളെ തുയിലുണർത്തിയിരിക്കുന്നതു്. അതുകൊണ്ടു് പ്രഭാതരശ്മിയുടെയും പശിമയുള്ള മണ്ണിന്റെയും
+നിറമായ കാവി ഭാരതീയമനസ്സിനു് ഉടയാടയായും തീർന്നു.
+</p>
+          <p>അങ്ങനെ നോക്കുമ്പോൾ കേരളത്തിനും ഒരു പ്രത്യേകവർണ്ണത്തോടു് ആഭിമുഖ്യം ഉണ്ടാവുക
+അസ്വാഭാവികമല്ല. ആ നിറം തൊലിപ്പുറമെ കാണുന്ന പച്ചയേക്കാൾ അകത്തോടുന്ന ചുവപ്പാണു് എന്നു് എനിക്കു്
+തോന്നുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Edasseri_Govindan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇടശ്ശേരി</figDesc>
+          </figure>
+          <p> കേരളീയന്റെ മതാചാരങ്ങൾ നോക്കുക: പട്ടുടുത്ത കാളിയാണു് പണ്ടു മുതലേ അവന്റെ ആരാധനമൂർത്തി.
+കാളിയോടും മറ്റു് രൗദ്രദേവതകളോടും ഏറ്റവുമധികം ബന്ധപ്പെട്ട നിറം ചുവപ്പാണല്ലോ. ആരാധനയോടു്
+ബന്ധപ്പെട്ട നിരവധി കാര്യങ്ങളിൽ കേരളീയനു് ചുവപ്പുണ്ടു്. ‘ചൊകചൊകെച്ചുകപ്പുടുത്തു് നൃത്തമാടുന്ന
+അമ്മ’യെപ്പറ്റിയും ‘ചോപ്പുകൾ മീതെ ചാർത്തിയരമണി കെട്ടിയ പൂത’ത്തെപ്പറ്റിയും <ref target="https://ml.wikipedia.org/wiki/Edasseri_Govindan_Nair">ഇടശ്ശേരി</ref>
+പാടുന്നു. ചെമ്പട്ടും തെച്ചിപ്പൂവും കേരളീയാരാധനയുടെ മുഖ്യമായൊരു ഭാഗമാണു്. ഉറഞ്ഞുതുള്ളുന്ന കോമരത്തിന്റെ
+വേഷം ചോപ്പും വാളുമാണു്. കുട്ടികളുടെ ഭാഷയിൽ കോമരം ‘ചോപ്പൻ’ തന്നെ. മലയാളക്കരയിലെ കുരുതി
+നോക്കൂ. കുരുതി എന്ന വാക്കിനു തന്നെ രക്തം, ചുവന്നതു് എന്നൊക്കെ അർത്ഥമുണ്ടു്. അതു പോരാഞ്ഞു് നാം
+‘ചെങ്കുരുതി’ തന്നെ നടത്തിക്കളയുന്നു! ദേവീക്ഷേത്രങ്ങളിൽ രക്തപുഷ്പാഞ്ജലി പ്രധാനമായൊരു
+ആരാധനയാണു്. ശബരിമലയിലെ മാളികപ്പുറത്തമ്മക്കു് നാം ‘ചുവപ്പു്’ കൊടുക്കുന്നു. ഉത്തര കേരളത്തിലെ
+ശ്രീകുരുംബ (ചീർമ്പ) ഭഗവതിയുടെ കാവുകളിൽ ‘ചുവപ്പ് ഒപ്പിക്കുക’ എന്നൊരു ചടങ്ങുണ്ടു്. പൂരത്തിനു
+പൂവിടുമ്പോൾ കാമദേവനെ ചമയ്ക്കാൻ ചുവന്ന മുരിക്കിൻപൂവാണു് മലബാറുകാരൻ തെരഞ്ഞെടുക്കുന്നതു്.
+കർണ്ണാടകത്തിലെ പുരോഹിതൻ മഞ്ഞയുടുക്കുമ്പോൾ നമ്മുടെ മന്ത്രവാദി ചുവപ്പു് ഉടുക്കുന്നു. മന്ത്രവാദവുമായി
+ബന്ധപ്പെട്ട കർമ്മങ്ങൾക്കു് മിക്കതിനും ചോരപ്പൂക്കൾ തന്നെ വേണം. ശവത്തിനു് ബന്ധുക്കൾ പട്ടിടണം എന്നുണ്ടു്.
+പട്ടു് എന്ന വാക്കു് മലയാളി ഉപയോഗിക്കുമ്പോൾ അതിനു് ചുവന്ന വസ്ത്രം എന്നു മാത്രമേ അർത്ഥമുള്ളൂ.
+</p>
+          <p>ചോപ്പിനോടുള്ള മമത ഇവിടത്തെ നാടൻ കലാരൂപങ്ങളിലും ആഘോഷങ്ങളിലും നിറന്നു കത്തുന്നു. തെയ്യം,
+തിറ, മുടിയേറ്റു് തുടങ്ങിയവയിലെ വേഷവിതാനം ചുവപ്പിൽ മുങ്ങിയതാണു്. ശക്ത്യാരാധനയുമായി ബന്ധപ്പെട്ട
+ചുവന്ന ചെക്കിപ്പൂവു് മേലാസകലം അണിയുന്ന തെയ്യച്ചമയം ഇതിന്നു് ഉദാഹരണം. നാടൻകലകളിലെന്നപോലെ
+മറ്റു് കലാരൂപങ്ങളിലും ഇവിടെ ചുവപ്പിനു് നല്ല സ്ഥാനമുണ്ടു്. കഥകളി നോക്കൂ: മിക്ക വേഷങ്ങളിലും നല്ലവണ്ണം
+ചുവപ്പുണ്ടു്. പോരാത്തതിനു് ‘ചുവന്ന താടി’ എന്നൊരു വേഷവും!
+</p>
+          <p>തൊട്ട അയൽപ്രദേശമായ തമിഴ്‌നാട്ടിലേയും കർണ്ണാടകത്തിലേയും പല നാടൻകലകളിലും മുന്നിട്ടു നില്ക്കുന്ന
+നിറം ചോപ്പല്ല. മഞ്ഞൾ തേച്ചു് മുഖം ഭംഗിയാക്കുന്ന തമിഴത്തികളുടെ കരയാട്ടത്തിലും കർണ്ണാടകക്കാരുടെ
+യക്ഷഗാനത്തിലുമൊക്കെ മഞ്ഞയാണു് മുന്തിനിൽക്കുന്നതു്.
+</p>
+          <p>കേരളീയനു് ചുവപ്പു് സൗന്ദര്യമാണു് എന്നൊരടിസ്ഥാനസങ്കല്പം തന്നെയുണ്ടു്. ‘ഭംഗിയായി’ എന്ന
+അർത്ഥത്തിൽ നാം ഉപയോഗിച്ചിരുന്ന ‘ചെമ്മേ’ ‘ചെഞ്ചെമ്മേ’ എന്നീ പദങ്ങൾ അതു് സൂചിപ്പിക്കുന്നു. ചുവപ്പു്
+നിറം നല്കാൻ കഴിവുള്ള അരക്കു് അലങ്കാരവസ്തുവായി മാറുന്നതു് അങ്ങനെയാണു്. ‘ചെമ്മ്’ എന്ന വാക്കിനു്
+ചെമപ്പുനിറം എന്ന അർത്ഥത്തിനു പുറമെ ഭംഗി, നന്മ, ശ്രേയസ്സ്, അനുഗ്രഹം, ശ്രേഷ്ഠത എന്നെല്ലാം അർത്ഥമുണ്ടു്
+(ശബ്ദതാരാവലി). ഇപ്പറഞ്ഞ ഗുണങ്ങളെയെല്ലാം ചോപ്പിനോടു് ബന്ധിപ്പിച്ചാണു് മലയാളി മനസ്സിലാക്കുന്നതു്.
+അലങ്കാരത്തിനുള്ള തെങ്ങു് ചെന്തെങ്ങാണു്, നല്ല തേൻ ചെന്തേനും. അസ്സൽ നിറമുള്ള പൊന്നിനു് ചെമ്പൊന്നു്
+എന്നാണു് പേരു്. നല്ല ഇനം പഞ്ഞി ചെമ്പഞ്ഞിയും മുന്തിയ തരം മുരിങ്ങ ചെമ്മുരിങ്ങയുമത്രെ.
+</p>
+          <p>വീടുണ്ടാക്കാൻ പണ്ടുമുതലേ മലയാളി ഉപയോഗിച്ചുപോന്നിരുന്നതു് ചെങ്കല്ലാണു്. അതിനു മുമ്പു് ചെമ്മണ്ണും.
+വെളുത്ത മണ്ണു് തേച്ച ചുമരും നിലവുമൊക്കെ വീണ്ടും ചെമ്മണ്ണു് തേച്ചു് ഭംഗിപ്പെടുത്തിയ കേരളീയ ഗൃഹങ്ങൾ
+നോക്കുക. ഓടുകളുടെ ചുവന്ന മുടിയുമായി നിൽക്കുന്ന ഇന്നത്തെ ഭവനങ്ങളിലും അവയുടെ ഗേറ്റുകളിലുമൊക്കെ
+ഏറി നില്ക്കുന്നതു് ചെഞ്ചായമാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/GKumara_pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. കുമാരപിള്ള</figDesc>
+          </figure>
+          <p> അസ്തമയത്തിന്റെ ചുവപ്പുരാശിയേയും അംഗനമാരുടെ കവിൾത്തടത്തിന്റെ അരുണിമയേയും പൂക്കളുടെ
+ശോണസൗന്ദര്യത്തെയും കേരളത്തിലെ കവികൾ എന്നും വാഴ്ത്തിപ്പോന്നിട്ടുണ്ടു്. ചുവപ്പിന്റെ വൈവിധ്യത്തെയും
+അവ ഓരോന്നിലും തുടിക്കുന്ന ഭംഗിയേയും പറ്റി മാത്രം ‘ചുവപ്പിന്റെ ലോകം’ എന്ന പേരിൽ <ref target="https://ml.wikipedia.org/wiki/G.Kumara_pillai">ജി. കുമാരപിള്ള</ref>
+കവിത രചിക്കുകയുണ്ടായി. പച്ചയുടെ കാമുകനായ ചങ്ങമ്പുഴപോലും ആ നിറത്തെ വാഴ്ത്താൻ വേണ്ടി എഴുതിയ
+‘പച്ച’ എന്ന കവിതയിൽ “മങ്കമാർ തൻ തളിർച്ചുണ്ടിലും നെറ്റിയിൽ കുങ്കുമപ്പൊട്ടിലും ചെന്നണഞ്ഞു്
+മംഗളസൂചകമായി”ത്തീർന്ന ശോണവർണ്ണത്തെപ്പറ്റി പാടുന്നു. “ചൊഞ്ചൊടി”കളെപ്പറ്റിയും
+“ചെഞ്ചോരിവാ”യകളെ പ്പറ്റിയും എഴുതപ്പെട്ട നൂറുകണക്കിനു് വരികൾ അവയുടെ പരാമർശം
+അസാദ്ധ്യമാക്കിത്തീർക്കുന്നു. വെറ്റില മുറുക്കി ചുണ്ടും വായും ചോപ്പിക്കുന്ന കേരളവനിതകൾ അഴകിന്റെ ഈ
+രഹസ്യം മനസ്സിലാക്കിയിട്ടുണ്ടു്. മൈലാഞ്ചിയിട്ടു് കയ്യും കാലും ചോപ്പിച്ചു് മൊഞ്ചാക്കുന്ന മങ്കമാർക്കും അതു്
+പിടികിട്ടിയിരിക്കുന്നു!
+</p>
+          <p>മറ്റു പ്രദേശങ്ങളിലെ ആളുകളെ അപേക്ഷിച്ചു് ഉടുമുണ്ടു് വെള്ളയാക്കാൻ മലയാളികൾ ശ്രദ്ധിക്കുമെങ്കിലും
+അവരുടെ വസ്ത്രധാരണത്തിൽ എറിയ പങ്കും ചോപ്പു് കയ്യടക്കിയിരിക്കുന്നു. കുട്ടികളുടെ പട്ടുകോണകവും ഉടുപ്പുകളും
+സ്ത്രീകളുടെ സാരികളും പുരുഷന്മാരുടെ കുപ്പായങ്ങളും നോക്കുക. ഇവിടെ ആണും പെണ്ണും നെറ്റിയിൽ
+ചുവപ്പണിയുന്നു. ചെമ്പരത്തികൾ ധാരാളമായി വിരിഞ്ഞു നില്ക്കുന്ന നമ്മുടെ വീട്ടുമുറ്റങ്ങൾ ഈ താല്പര്യം
+ഉദാഹരിക്കുന്നുണ്ടു്. “ചെന്താമര വിരിഞ്ഞു് ചന്തമിയലുന്ന” ഇവിടത്തെ കുളങ്ങളും കാവ്യാന്തരീക്ഷവും അതുതന്നെ
+ചെയ്യുന്നു.
+</p>
+          <p>മണിപ്രവാളത്തിനു് മുത്തും പവിഴവും (വെള്ളയും ചുവപ്പും) ചേർന്ന വർണ്ണവൈജാത്യത്തിന്റെ ഭംഗിയാണു്
+ഉള്ളതു് എന്നു് തമിഴൻ കരുതുന്നു. മലയാളിയാകട്ടെ, രണ്ടുതരം ചുവപ്പിന്റെ വർണ്ണൈക്യഭംഗി തരുന്ന മാണിക്യവും
+പവിഴവുമാണു് അതു് എന്നു് വിചാരിക്കുന്നു. വൃത്തമാകുന്ന “ചെന്നൂലി”നു് മേൽ പദം കോർക്കുന്നതിനെപ്പറ്റിയാണു്
+ലീലാതിലകകാരൻ പറയുന്നതു്.
+</p>
+          <p>കേരളത്തിൽ ഏറ്റവുമധികം ഉപയോഗിക്കപ്പെടുന്ന താളങ്ങളിൽ പ്രമുഖമായ ഒന്നിന്റെ പേരു് ‘ചെമ്പട’
+എന്നായതു് യാദൃച്ഛികാമവാമെങ്കിലും കൗതുകകരമാണു്. ചെമ്പഴുക്ക കൊണ്ടു് അതിഥിയെ സ്വീകരിക്കുന്ന
+കേരളീയാചാരം ഈ നിറത്തിനു് ഈ നാട്ടിൽ കിട്ടിയിരുന്ന മാന്യതയുടെ നിദർശനമാണെന്നു് തീർച്ച.
+</p>
+          <p>ചുവപ്പിനോടുള്ള ഈ ആഭിമുഖ്യം പോയ കാലത്തിന്റെ സ്മൃതി മാത്രമാണെന്നു കരുതരുതു്. ഉത്സവങ്ങളിലെ
+കൊടിയേറ്റങ്ങളിൽ കണ്ട ചോപ്പു് തന്നെയാണു് പില്കാലത്തെ അധികാരത്തിന്റെ കൊടിയേറ്റങ്ങളിലും കണ്ടതു്.
+ഇന്ത്യയിൽ ആദ്യമായി ചുവന്നതു് കേരളത്തിന്റെ കൊടിയാണല്ലോ. അല്ലെങ്കിലും, കേരളീയർക്കു്
+അധികാരത്തിന്റെ ചിഹ്നം പണ്ടേ ചെങ്കോലായിരുന്നു. ചുവപ്പു് രാജവർണ്ണവുമായിരുന്നു. കേരളത്തിന്റെ
+പച്ചച്ചപ്രകൃതിയിൽ പാറിക്കളിക്കുന്ന ചൊങ്കൊടി വേഗം കണ്ണിൽ പെടും. അതിനു് ഈ പശ്ചാത്തലത്തിൽ
+കൂടുതൽ ഭംഗിയുണ്ടു്. ഇത് തന്നെയായിരിക്കാം, ഇവിടത്തെ മിക്ക രാഷ്ട്രീയ പാർട്ടികളുടെയും കൊടിയിൽ ചുവപ്പു്
+അനിവാര്യമാക്കിയതു്.
+</p>
+          <p>ഒരു തമാശയായി ഓർക്കുക: വാണിജ്യരംഗത്തെന്ന പോലെ സാഹിത്യരംഗത്തും പിന്നീടു് ചലച്ചിത്രരംഗത്തും
+
+ഈ കൊച്ചു കേരളത്തെ പ്രസിദ്ധമാക്കിത്തീർത്തതു് ‘ചെമ്മീനാ’ണു്!
+</p>
+          <p>ചുവപ്പിനോടുള്ള ഈ രക്തബന്ധത്തിനു് കേരളീയന്റെ സ്വഭാവത്തിൽ തന്നെ വേരുകളുണ്ടായിരിക്കണം.
+അസുരവാദ്യങ്ങൾകൊണ്ടു് മുഖരമാവുന്ന ഉത്സവപ്പറമ്പുകളിലും പോർച്ചുവടുകൾ താണ്ഡവനൃത്തമാടുന്ന
+കഥകളിപ്പന്തലുകളിലും കളരിപ്പയറ്റിന്റെ പഴമ പാടുന്ന വടക്കൻപാട്ടുകളിലും കത്തിനില്ക്കുന്ന അവന്റെ
+രൂക്ഷപ്രകൃതി തന്നെയായിരിക്കാം, ഈ രൗദ്രവർണ്ണത്തിന്റെ രാജസസൗന്ദര്യത്തിൽ അവനെ വീണ്ടും വീണ്ടും
+മുഗ്ദ്ധനാക്കുന്നതു്. ചുവന്ന പട്ടുകോണകമുടുത്തു് പിച്ചവെക്കുന്നതോടൊപ്പം വീരാളിപ്പട്ടിന്റെയും വീരാളിപ്പാട്ടിന്റെയും
+ചോരക്കിനാക്കൾ കണ്ടു് വളരുന്ന കേരളീയമനസ്സിനു് ഹിംസാവാസനയുടെ ഒരുതരം വിരേചനവും ഈ
+കുരുതിക്കാഴ്ചയിൽ സംഭവിക്കുന്നുണ്ടാകാം. ചോര കാണാനുള്ള പൂതി അവനു് ചോപ്പു് കണ്ടു് തീരുന്നു.
+</p>
+          <p>എല്ലാറ്റിനും പുറമെ, ചുറ്റിലും സുലഭമായി കാണുന്ന പച്ചയിൽ നിന്നും ചോപ്പിലേക്കു് പോവാൻ കേരളീയമനസ്സു്
+കൗതുകം കാട്ടിയിരിക്കണം. ഈ പച്ചയുടെ മറുഭാഗമാണു് ചോപ്പു്. ‘പച്ച’ എന്ന പദത്തിലെ ‘പ’-‘ച്ച’ എന്നീ
+വർണ്ണങ്ങൾ തിരിച്ചിട്ടതു തന്നെയാണു് “ചോ-പ്പു്”. പച്ച വെറ്റില മുറുക്കി ചുണ്ടു് ചോപ്പിക്കുകയും പച്ച മൈലാഞ്ചി
+അരച്ചിട്ടു് കാലടി ചോപ്പിച്ചു് മൊഞ്ചാക്കുകയും ചെയ്യുന്ന മലയാളിമങ്കകൾ ഈ തിരിച്ചിടൽ ഓരോ ദിവസവും
+ഉദാഹരിച്ചു് കാട്ടുന്നുണ്ടു്.
+</p>
+          <p>
+മാതൃഭൂമി വാരാന്തപ്പതിപ്പു്, 2 മാർച്ച് 1980.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Chuvanna Keralam (ml: ചുവന്ന
+കേരളം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Chuvanna Keralam, എം. എൻ. കാരശ്ശേരി, ചുവന്ന കേരളം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 8, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Adelsteen_Normann__Sunset_over_the_Fjord.jpg">Sunset over the Fjord,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Adelsteen_Normann">Adelsteen
+Normann</ref>  (1848–1918). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karasseri-keralam.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasseri-keralam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">‘ചിന്താവിഷ്ടയായ സീത’യുടെ സംസ്കൃത
+തർജ്ജമ</title>
+          <title xml:lang="en" type="main">‘Chinthavishtayaya Seetha’yude Samskritha
+Tharjama</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 21, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">‘ചിന്താവിഷ്ടയായ സീത’യുടെ സംസ്കൃത
+തർജ്ജമ</title>
+              <title xml:lang="en" type="main">‘Chinthavishtayaya Seetha’yude Samskritha
+Tharjama</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>‘Chinthavishtayaya Seetha’yude Samskritha Tharjama</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>‘ചിന്താവിഷ്ടയായ സീത’യുടെ സംസ്കൃത തർജ്ജമ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 21, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/West_Wind_1891.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:WinslowHomerWest_Wind_1891.jpg">The West Wind,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Winslow_Homer">Winslow Homer</ref>
+ (1836–1910). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">‘ചിന്താവിഷ്ടയായ സീത’യുടെ സംസ്കൃത തർജ്ജമ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">‘ചിന്താവിഷ്ടയായ സീത’യുടെ സംസ്കൃത തർജ്ജമ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Shakespeare.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷേക്സ്പിയർ</figDesc>
+          </figure>
+          <p style="noindent"><ref target="https://ml.wikipedia.org/wiki/William_Shakespeare">ഷേക്സ്പിയർ</ref>,
+<ref target="https://en.wikipedia.org/wiki/Kalidasa">കാളിദാസൻ</ref> തുടങ്ങിയ
+മഹാകവികളുടെ വിശിഷ്ടകൃതികൾ അവയുടെ ജന്മഭൂമികളിലെന്നപോലെ അന്യഭൂഭാഗങ്ങളിലും, അവയുണ്ടായ
+കാലത്തെന്നപോലെ ആധുനികകാലത്തും, കൊണ്ടാടപ്പെടുകയും ആസ്വദിക്കപ്പെടുകയും ചെയ്യുന്നു. ഇപ്രകാരം
+ദേശകാലപരിധികളെ അതിക്രമിച്ചു മർത്ത്യസമുദായമധ്യത്തിൽ ശാശ്വതപ്രതിഷ്ഠ ലഭിക്കുന്ന കൃതികൾ
+അധികമുണ്ടാകാൻ വഴിയില്ല. ഉള്ളവയ്ക്കു് ആ നിലയിൽ ആരാധ്യമാകത്തക്കവണ്ണം സർവ്വത്ര പ്രചാരം
+സിദ്ധിച്ചതെങ്ങനെയെന്നു നോക്കുമ്പോളാണു് ഭാഷാന്തരീകരണമാർഗ്ഗത്തിന്റെ പ്രയോജനവും മഹിമയും
+മനസ്സിലാകുന്നതു്. ഒരു ഭാഷയിലെ ഉത്തമകൃതികൾ വിവർത്തനംവഴി അന്യഭാഷകളിലേക്കു പകർന്നെങ്കിൽ
+മാത്രമേ അവ എല്ലാവരുടെയും സ്വത്തായിത്തീരുകയുള്ളു. ഇങ്ങനെ പൊതുസ്വത്തായിത്തീരുന്നതിനു്
+അർഹതയുള്ള കൃതികൾ ഘടദീപങ്ങളെന്ന മട്ടിൽ ഓരോ സാഹിത്യത്തിലും ഒളിഞ്ഞുകിടക്കുന്നുണ്ടാകാം. നമ്മുടെ
+സാഹിത്യത്തിൽ ഇത്തരം ഉത്തമകൃതികൾ എത്രയുണ്ടെന്നു പരിശോധിച്ചുനോക്കേണ്ടതാണു്. മറ്റുള്ളവരുടെ
+മുമ്പിൽ വിലപ്പോകുന്നവയായിട്ടൊന്നും മലയാളത്തിലില്ലെന്നു വിചാരിക്കുന്നതു മൗഢ്യമത്രേ. ഏതു ദേശത്തും ഏതു
+കാലത്തും പ്രശോഭിക്കുന്നതിനു പര്യാപ്തങ്ങളായ ചുരുക്കം ചില കൃതികൾ നമുക്കും സ്വന്തമായിട്ടുണ്ടെന്നു ചുഴിഞ്ഞു
+നോക്കിയാൽ കാണാം. അപ്രകാരമുള്ള കൃതികൾ തിരഞ്ഞെടുത്തു തർജ്ജമചെയ്തു വിശ്വസാഹിത്യവേദിയിൽ
+പ്രതിഷ്ഠിക്കുവാൻ യത്നിക്കേണ്ടതു മാതൃഭാഷാഭിമാനികളായ പണ്ഡിതന്മാരുടെ കടമയാകുന്നു. ഇങ്ങനെയൊരു
+ബോധത്താൽ പ്രേരിതനായിട്ടാണു്, തിരുവനന്തപുരം സംസ്കൃതകോളേജ് പ്രിൻസിപ്പാൾ ശ്രീമാൻ എൻ.
+ഗോപാലപിള്ളഎം. ഏ. ആശാന്റെ ചിന്താവിഷ്ടയായ സീത സംസ്കൃതഭാഷയിലേക്കു വിവർത്തനംചെയ്തിട്ടുള്ളതു്.
+മലയാളഭാഷയുടെ മാനം പുലർത്തുന്ന ഒരു സത്കർമ്മമായിട്ടു മലയാളികളേവരും ഇതിനെ മുക്തകണ്ഠം
+പ്രശംസിക്കുകതന്നെ ചെയ്യും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ngopalapilla.png" rendition="gra"/>
+            <figDesc style="thumb">എൻ. ഗോപാലപിള്ള</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">ആശാന്റെ</ref>
+കൃതികളിൽ കാണുന്ന കാവ്യമഹിമ കേരളക്കരയ്ക്കുള്ളിൽ ഒതുങ്ങിക്കൂടി കിടന്നാൽപ്പോരാ. സഹൃദയലോകം മുഴുവൻ
+വ്യാപിക്കത്തക്ക വികാസ ശക്തി അതിനുണ്ടു്. മനുഷ്യർ എവിടേയും മനുഷ്യർതന്നെയാണു്. അവരുടെ ജീവിത
+കഥയാണല്ലോ ആശാന്റെ കൃതികളിൽ നിഴലിക്കുന്നതു്. ‘പ്രതിജനഭിന്നവിചിത്ര മാർഗ്ഗ’മായ മനുഷ്യജീവിതം
+ജാതിമതവർഗ്ഗഭേദങ്ങളെ കടന്നു കേവലം മനുഷ്യത്വത്തിന്റെ മഹനീയതയിൽ വിലയംകൊള്ളുന്ന ഒരു
+ചിത്രം—അതാണു് ആശാന്റെ തൂലിക വരച്ചുകാണിച്ചിട്ടുള്ളതു്. ലോകത്തിലെ ഏതൊരു സാഹിത്യത്തിനും
+ഭൂഷണമാകത്തക്ക കാന്തിയും മൂല്യവും ആ ചിത്രത്തിനുണ്ടെന്നു നിർമ്മത്സരന്മാർ സമ്മതിക്കും, ഈയൊരഭിപ്രായം
+പരിഭാഷകനിലും പ്രബലമായിട്ടുണ്ടെന്നു് അദ്ദേഹം ആശാന്റെ കൃതികളിലൊന്നു തർജ്ജമയ്ക്കു
+തെരഞ്ഞെടുത്തതിൽനിന്നുതന്നെ തെളിയുന്നുണ്ടു്. പ്രശംസനീയമായ ഔചിത്യബോധവും
+സാഹിത്യമർമ്മജ്ഞതയും ഇക്കാര്യത്തിൽ അദ്ദേഹം പ്രകടിപ്പിച്ചിരിക്കുന്നു. പ്രസ്തുത തർജ്ജമവഴിയായി
+പൗരസ്ത്യർക്കു മാത്രമല്ല, സംസ്കൃതഭാഷാജ്ഞാനമുള്ള പാശ്ചാത്യപണ്ഡിതന്മാർക്കും ആശാന്റെ കവിത
+ആസ്വദിക്കുവാൻ സാധിക്കും. മഹാകവികളും മഹത്തായ ഒരു സാഹിത്യവും കേരളത്തിനും ഉണ്ടെന്നു ലോകം
+അറിയണം എന്നു മി. പിള്ള മുഖവുരയിൽ പറയുന്നു. ദേശാഭിമാനോജ്ജ്വലവും മാതൃഭാഷാപ്രണയമസൃണവും ആയ
+ഉൽക്കൃഷ്ടവിചാരമാണിതു്. ഏതൊരു കേരളീയനെയാണു് അതു് അഭിമാനപുളകിതനാക്കാത്തതു് ! ഇത്ര
+വിശിഷ്ടമായ ഒരു ചോദനയാൽ ഉന്മിഷിതനായി ചെയ്ത ഈയൊരു സാഹിതീവ്യവസായംകൊണ്ടുതന്നെ
+പരിഭാഷകൻ കൈരളിയെ കടപ്പെടുത്തിക്കഴിഞ്ഞിരിക്കുന്നു. സംസ്കൃതത്തിൽനിന്നും കൈരളി ഇത്രനാളും ഇങ്ങോട്ടു
+
+കടം വാങ്ങുകയാണു ചെയ്തിട്ടുള്ളതു്. ഇപ്പോൾ ചിലതു് അങ്ങോട്ടും കൊടുക്കാനുണ്ടെന്നു വിളിച്ചുപറഞ്ഞതു മി.
+പിള്ളയുടെ ഈ പരിഭാഷയാണു്. ഇതിനുമുൻപു ചില മലയാളകൃതികളുടെ ഇംഗ്ലീഷുതർജ്ജമകൾ
+ഉണ്ടായിട്ടുണ്ടെങ്കിലും അവയെല്ലാം ‘ഗ്യാസു’പോയ ‘സോഡ’യ്ക്കുള്ള തുല്യം വിരസങ്ങളും
+വിഫലങ്ങളുമായിത്തീർന്നതേയുള്ളൂ. ‘സീത’യുടെ ഈ സംസ്കൃത തർജ്ജമയ്ക്കു് അത്തരത്തിലുള്ള ഒരു ഭാവിയല്ല
+ഉള്ളതെന്നു് ഇതു വായിച്ചുനോക്കുമ്പോൾത്തന്നെ സഹൃദയന്മാർക്കു മനസ്സിലാകുന്നതാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kumaran_Asan_1973_stamp_of_India.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആശാൻ</figDesc>
+          </figure>
+          <p> സംസ്കൃതഭാഷയിലേക്കു തർജ്ജമചെയ്യുന്നതിനു് ഏറ്റവും പറ്റിയ ഒരു കൃതിയാണു് ‘ചിന്താവിഷ്ടയായ സീത.’
+വൃത്തം, ഇതിവൃത്തം, രീതി മുതലായവകൊണ്ടു സംസ്കൃതസാഹിത്യമാർഗ്ഗത്തോടു് അതു് ഏറ്റവും അടുത്തുനില്ക്കുന്നു.
+അതുകൊണ്ടു ദ്രാവിഡഗാനരീതിയിലുള്ള ഇതരകൃതികളെ അപേക്ഷിച്ചു് ഇതിന്റെ തർജ്ജമയ്ക്കു് അല്പം
+എളുപ്പമുണ്ടെന്നു പറയാം. എന്നാലും ഭാവഗംഭീരവും ചിന്താദന്തുരിതവും ആയ ഈ കാവ്യത്തിൽ
+കൈവെയ്ക്കണമെങ്കിൽ അതിന്നനുസരണമായ ശക്തിയും നിപുണതയും അഭ്യാസവും
+പരിഭാഷകനുണ്ടായിരിക്കണം. കവിക്കുവേണ്ട ഈ ഗുണങ്ങളെല്ലാം മി. പിള്ളയിൽ ഒത്തിണങ്ങി
+പ്രവർത്തിച്ചിട്ടുണ്ടെന്നുള്ളതിനു് ഇതിലെ ഓരോ ശ്ലോകവും ഉദാഹരണമാകുന്നു. പരിഭാഷ തികച്ചും
+വിജയശ്രീലാളിതമായിട്ടുണ്ടെന്നു പറഞ്ഞാൽ അതൊട്ടും അതിശയോക്തിയാകുന്നതല്ല. ആശാന്റെ
+പദപ്രയോഗങ്ങൾ കഴിയുന്നിടത്തോളം വിട്ടുകളയാതെ പരിഭാഷയിലും അദ്ദേഹം ഇണക്കിച്ചേർത്തിരിക്കുന്നു.
+അതിലാണു് അദ്ദേഹത്തിന്റെ അസാധാരണപാടവം! ചില ശ്ലോകങ്ങൾ വായിക്കുമ്പോൾ തർജ്ജമയല്ല,
+മൂലംതന്നെയാണോ എന്നുകൂടി സംശയിച്ചേക്കാം. അത്രത്തോളം ഒരു പദപ്രയോഗംകൊണ്ടുള്ള ഇണക്കവും
+അടുപ്പവും രണ്ടിനും തമ്മിൽ കാണുന്നു. ഇപ്രകാരം തർജ്ജമ ചെയ്തൊപ്പിക്കുക എന്നതു് അത്ര എളുപ്പമാണെന്നു
+തോന്നുന്നില്ല. ഒന്നുരണ്ടു് ഉദാഹരണങ്ങൾ നോക്കുക:</p>
+          <lg>
+            <l> തരുപക്ഷിമൃഗങ്ങളോടുമി-</l>
+            <l> ന്നരരോടും സുരരോടുമെന്നുമേ</l>
+            <l> ഒരുമട്ടിവരുള്ളിലേന്തുമേ-</l>
+            <l> സ്സരളസ്നേഹരസം നിനപ്പു ഞാൻ. </l>
+            <l>(64) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന മൂലം,</p>
+          <lg>
+            <l> തരുപക്ഷിമൃഗേഷു മാനുഷേ-</l>
+            <l> ഷ്വപി ദേവേഷു സമം സദൈവതാഃ</l>
+            <l> ഹൃദയേ കലയന്തി യം തു തം</l>
+            <l> സരളസ്നേഹസം സ്മരാമ്യഹം </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന തർജ്ജമയോടു് എത്ര അടുത്തുവന്നിരിക്കുന്നു! അതുപോലെ,</p>
+          <lg>
+            <l> ഇതിഹാസപുരാണസൽക്കഥാ-</l>
+            <l> സ്രുതിയാൽ ജീവിതഭൂ നനച്ചിവർ</l>
+            <l> ചിതമായരുളുന്നു ചേതനാ-</l>
+            <l> ലതയിൽ പുഷ്പഫലങ്ങളാർക്കുമേ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന മൂലം വായിച്ച ഉടനെ,</p>
+          <lg>
+            <l> ഇതിഹാസപുരാണസൽക്കഥാ-</l>
+            <l> സ്രുതിമാസിച്യ സുജീവിതാവനൗ</l>
+            <l> വിതരന്തി ചിതം തു ചേതനാ-</l>
+            <l> ലതികായാം കുസുമം ഫലം ച താഃ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന തർജ്ജമ വായിക്കുമ്പോൾ മലയാളവും സംസ്കൃതവും തമ്മിൽ ഇത്രത്തോളം അടുക്കുമോ എന്നു
+വായനക്കാർ അത്ഭുതപ്പെട്ടേക്കാം. ഇങ്ങനെ മൂലകവിയുടെ പദപ്രയോഗങ്ങളെ അതേപടി കഴിയുന്നിടത്തോളം
+സ്വീകരിക്കുകയെന്ന നയംകൊണ്ടാണു് ഈ തർജ്ജമ ഇത്രയധികം നന്നായതു്.
+</p>
+          <p>കവിതാസ്വാരസ്യത്തിൽ തർജ്ജമ മൂലത്തെക്കാൾ ഒരുപടി താഴെ നില്ക്കുകയേയുള്ളു. സാധാരണമായി
+അങ്ങനെയാണല്ലോ കാണുന്നതു്. എന്നാൽ ഇക്കാര്യത്തിലും പ്രസ്തുത കൃതി വ്യത്യസ്തമായിരിക്കുന്നു.
+മൂലകൃതിയിലെ കാവ്യഗുണങ്ങളെല്ലാം തന്നെ തർജ്ജമയിലും സമൃദ്ധമായി കളിയാടുന്നുണ്ടു്. ചുരുക്കത്തിൽ
+ആശാന്റെ ‘സീത’ വായിക്കുമ്പോൾ ഒരു സഹൃദയനുണ്ടാകുന്ന സുഖം മുഴുവനും തർജ്ജമ വായിക്കുമ്പോഴും
+ലഭിക്കുന്നതാണു്. അതുമാത്രമോ? ചില ഘട്ടങ്ങളിൽ തർജ്ജമ മൂലത്തെ അതിശയിക്കുന്നു എന്നു വന്നാലോ!
+ഇതിൽ കൂടുതലായൊരു വിജയം ഒരു പരിഭാഷകനു ലഭിക്കേണ്ടതുണ്ടോ? ഭാഷാവിഷയകമായ ചില ചില്ലറ
+‘പന്തികേടുകൾ’ ആശാന്റെ കൃതികളിൽ അങ്ങിങ്ങായി കാണുന്നുണ്ടെന്നുള്ളതു പ്രസിദ്ധമാണല്ലോ.
+‘ഭാഷയതപൂർണ്ണം’, വന്നുപോം പിഴയുമർത്ഥശങ്കയാൽ’ എന്നൊക്കെ ആശാൻതന്നെ സൂചിപ്പിച്ചിട്ടുമുണ്ടു്.
+ചിന്താവിഷ്ടയായ സീതയിലും ഇതിലേക്കു ചില ഉദാഹരണങ്ങൾ കണ്ടേക്കാം. എന്നാൽ ഈവക ദോഷങ്ങൾ
+തർജ്ജമയെ ഒട്ടുംതന്നെ ബാധിച്ചിട്ടില്ലെന്നുള്ളതു് ഒരു പ്രത്യേക മേന്മയാകുന്നു. ഭാഷ മാറിയതുകൊണ്ടും ആ
+ഭാഷയിൽ പരിഭാഷകനുള്ള അസാമാന്യവൈഭവംകൊണ്ടും ഉണ്ടായിട്ടുള്ള ഒരു മെച്ചമാണിതു്.</p>
+          <lg>
+            <l> ഒഴിയാതെയതല്ലി ജീവി പോം</l>
+            <l> വഴിയെല്ലാം വിഷമങ്ങളാവതും</l>
+            <l> അഴലും സുഖവും സ്ഫുരിപ്പതും</l>
+            <l> നിഴലും ദീപവുമെന്നപോലവേ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന പദ്യത്തിൽ അഴലും സുഖവും നിഴലും ദീപവും എന്ന ദ്വന്ദപ്രതിപാദനക്രമമനുസരിച്ചു ജീവി പോംവഴി
+വിഷമവും സമവും ആകേണ്ടതാണു്. കവിയുടെ ആശയവും അതാണല്ലോ. എന്നാൽ സമപദം ആശാൻ
+വിട്ടുകളഞ്ഞിരിക്കുന്നു. വഴിയെല്ലാം വിഷമം മാത്രമായിപ്പോയി. തർജ്ജമയിൽ ഈ കുറവു പരിഹരിച്ചിരിക്കുന്നതു
+നോക്കുക:</p>
+          <lg>
+            <l> തത ഏവ നിരന്തരം സമാ</l>
+            <l> സരണിഃ സ്യാദ് വിഷമവേ ജീവിനഃ</l>
+            <l> സ്ഫുരതഃ സുഖദുഃഖകേ ഉഭേ</l>
+            <l> ഖലു തേജസ്തമസീ യഥാ മുഹുഃ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതിലെ സരണി വിഷമമെന്നപോലെ സമവുംകൂടി ആയതു പരിഭാഷകന്റെ സ്തുത്യയർഹമായ
+നിഷ്കർഷകൊണ്ടാണല്ലോ. ഇരുപത്തൊൻപതാമത്തെ പദ്യത്തിന്റെ ഉത്തരാർദ്ധമായ,</p>
+          <lg>
+            <l> അതുതാനിളകാത്തതാം മഹാ-</l>
+            <l> മതിമത്തുക്കളിവറ്റ രണ്ടിലും </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നതിലെ ‘അതുതാൻ’ എന്നതിനു് അതുകൊണ്ടു് എന്നർത്ഥം കിട്ടുമോ?</p>
+          <lg>
+            <l> ‘അത ഏവ ന വിഭ്രമന്തി തേ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന തർജ്ജമയിൽ ഈ ക്ലിഷ്ടത തീർത്തു കൂടുതൽ അർത്ഥവ്യക്തി വരുത്തിയിട്ടുണ്ടു്. അതുപോലെ,</p>
+          <lg>
+            <l> ഋതുവിൽ സ്വയമുല്ലസിച്ചുടൻ</l>
+            <l> പുതുവർഷം കലരുന്ന വല്ലിപോൽ</l>
+            <l>(44) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന ഭാഗം,</p>
+          <lg>
+            <l> ശിശിരോപഗതേ നവോദിതാ</l>
+            <l> ലതികായാമിവ സുനമഞ്ജരീ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന തർജ്ജമകൊണ്ടു കുറേക്കൂടി ഭംഗിയാക്കിയിരിക്കുന്നു.
+</p>
+          <p>തർജ്ജമയുടെ നന്മ കാണിപ്പാൻ ഇനിയും ധാരാളം ഉദാഹരണങ്ങളുണ്ടെങ്കിലും വിസ്തരഭയത്താൽ
+അതിലേക്കു തുനിയുന്നില്ല. ഇത്രത്തോളം പ്രശംസാർഹമായ ഈ കൃതിയിൽ ന്യൂനതകളൊന്നുമില്ലയോ എന്നു
+ദോഷദർശനകുതുകികൾ ചോദിച്ചേക്കാം. അവർക്കുവേണ്ടി ചിലതു ചൂണ്ടിക്കാണിക്കാമെന്നേ ഉള്ളു.</p>
+          <lg>
+            <l> കടുവാക്കുകൾ കേട്ടു കാനനം</l>
+            <l> നടുവേയെന്നെ വെടിഞ്ഞു മുമ്പു നീ</l>
+            <l> വെടിവാൻ തരമായ് മറിച്ചുമേ</l>
+            <l> കുടിലം കർമ്മവിപാകമോർക്കുകിൽ. </l>
+            <l>(48) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> വിവക്ഷിതം വ്യക്തമാകാത്തതുകൊണ്ടു് ആശയം മനസ്സിലാക്കാൻ പ്രയാസമുള്ള ഒരു പദ്യമാണിതു്. ‘പണ്ടു
+പഞ്ചവടിയിൽവെച്ചു ലക്ഷ്മണൻ സീതയെ വിട്ടുപിരിഞ്ഞുപോയതു് അവൾ അദ്ദേഹത്തിൽ ചുമത്തിയ അപവാദം
+കേട്ടുംകൊണ്ടാണു്. ഇപ്പോൾ മറിച്ചു സീതയിൽ നാട്ടുകാർ ചുമത്തിയ അപവാദം കേട്ടു് അവളെ ഉപേക്ഷിക്കേണ്ടി
+വന്നു. നിർദ്ദോഷിയിൽ അപരാധം ആരോപിച്ചാൽ അതു തിരിച്ചടിക്കുമെന്നു സാരം.’ ടിപ്പണിപ്രകാരവും ഇതാണു
+പ്രസ്തുത ശ്ലോകത്തിന്റെ ആശയം. ഇതു വേണ്ടിടത്തോളം വ്യക്തമായിട്ടില്ലെന്നേ ഉള്ളു. രണ്ടു ഘട്ടത്തിലും
+പരിത്യക്തയായതു സീതയാണു്. ‘മറിച്ചു്’ എന്ന പ്രയോഗം അപവാദത്തിന്റെ മറിച്ചിലിനെയാണു കാണിക്കുന്നതു്.
+പക്ഷേ, പരിഭാഷകൻ ഈ ആശയം കുറെ തെറ്റിദ്ധരിച്ചതായി തോന്നുന്നു.</p>
+          <lg>
+            <l> അജഹാന്തു് ഗഹനാന്തരേ പുരാ</l>
+            <l> കടുവാചോ നിശമയ്യ്യ മാം ഭവാൻ</l>
+            <l> അജഹാം തു ഭവന്തമപ്യഹം</l>
+            <l> കുടിലാ കർമ്മവിപാകപദ്ധതിഃ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന തർജ്ജമയിൽ ലക്ഷ്മണൻ ആദ്യം സീതയെ ഉപേക്ഷിച്ചു. ഇപ്പോൾ മറിച്ചു സീത ലക്ഷ്മണനെ
+ഉപേക്ഷിച്ചിരിക്കുന്നു എന്നാണല്ലോ വരുന്നതു്. രണ്ടാമത്തെ ഉപേക്ഷിക്കൽ ഒരുവിധത്തിൽ യോജിക്കുകയുമില്ല.
+സീത ആരേയും ത്യജിച്ചില്ലല്ലോ. ‘മറിച്ചു്’ എന്ന മൂലപദത്തിൽ അടക്കംചെയ്തിരിക്കുന്ന ആശയം മിക്കവാറും
+തിരോഭൂതമാ കയും ചെയ്തു.</p>
+          <lg>
+            <l> പുരികം പുഴുപോൽ പിടഞ്ഞകം</l>
+            <l> ഞെരിയും തൻതല താങ്ങി കൈകളാൽ </l>
+            <l>(45) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതിലെ ‘അകം ഞെരിയും’ എന്ന അർത്ഥശക്തിയുള്ള ഭാഗത്തിനു സമാനമായി തർജ്ജമയിൽ ‘സവ്യഥം’
+എന്നൊരു ദുർബ്ബലപ്രയോഗം മാത്രമേ കാണുന്നുള്ളു. ഇങ്ങനെ അവിടവിടെ കാണുന്ന ചില പോരായ്മകൾ
+
+തർജ്ജമയുടെ ഗുണപൗഷ്കല്യത്തിൽ താണുപോകത്തക്കവണ്ണം നിസ്സാരങ്ങളായി ഗണിക്കേണ്ടവയത്രേ.
+സംസ്കൃതഭാഷയിൽ ഇത്രത്തോളം കവനവൈദഗ്ദ്ധ്യം സമ്പാദിച്ചിരിക്കുന്ന മി. പിള്ളയിൽനിന്നു് ഇനിയും
+ഇതുപോലുള്ള കൃതികൾ പുറപ്പെട്ടു കേരളീയ കാവ്യകലയുടെ വിജയക്കൊടികളായി
+പരിലസിക്കട്ടെയെന്നാശംസിച്ചുകൊള്ളുന്നു.
+</p>
+          <p>(നിരീക്ഷണം)
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  ‘Chinthavishtayaya Seetha’yude
+Samskritha Tharjama (ml: ‘ചിന്താവിഷ്ടയായ സീത’യുടെ സംസ്കൃത തർജ്ജമ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, ‘Chinthavishtayaya Seetha’yude Samskritha Tharjama, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള,
+‘ചിന്താവിഷ്ടയായ സീത’യുടെ സംസ്കൃത തർജ്ജമ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 21, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:WinslowHomerWest_Wind_1891.jpg">The West Wind,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Winslow_Homer">Winslow Homer</ref>
+ (1836–1910). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-sitha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-sitha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ജനാഭിപ്രായം
+ഉല്പാദിപ്പിക്കപ്പെടുമ്പോൾ</title>
+          <title xml:lang="en" type="main">Janabhiprayam Ulpadippikkappedumbol</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">September 6, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ജനാഭിപ്രായം
+ഉല്പാദിപ്പിക്കപ്പെടുമ്പോൾ</title>
+              <title xml:lang="en" type="main">Janabhiprayam Ulpadippikkappedumbol</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Janabhiprayam Ulpadippikkappedumbol</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ജനാഭിപ്രായം ഉല്പാദിപ്പിക്കപ്പെടുമ്പോൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 6, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Bohumil1.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Bohumil_Kubi%C5%A1ta__Portr%C3%A9t_Jana_Zrzav%C3%A9ho.jpg">Portrait of Jan Zrzavý,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/en:Bohumil_Kubi%C5%A1ta">Bohumil
+Kubišta</ref>  (1884–1918). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ജനാഭിപ്രായം ഉല്പാദിപ്പിക്കപ്പെടുമ്പോൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ജനാഭിപ്രായം ഉല്പാദിപ്പിക്കപ്പെടുമ്പോൾ</head>
+        <div type="lsection">
+          <p style="noindent">ജനാധിപത്യത്തിനു മറ്റേതു ഭരണവ്യവസ്ഥിതിക്കുമെന്നപോലെ; അതിന്റേതായ
+പരിമിതികളും ദൂഷ്യങ്ങളുമുണ്ടു്. പക്ഷേ, എല്ലാ കൊള്ളരുതായ്മകളും ഇരിക്കെത്തന്നെ നാം അതിനെ സ്വാഗതം
+ചെയ്തുപോകുന്നതു് അഭിപ്രായസ്വാതന്ത്ര്യം എന്ന പരമപ്രധാനമായ മൂല്യത്തെ അതുയർത്തിപ്പിടിക്കുന്നു
+എന്നതുകൊണ്ടാണു്.
+</p>
+          <p>പക്ഷേ, വന്നുവന്നു് നമ്മുടെ ജനാധിപത്യവ്യവസ്ഥ അതിന്റെ ‘ജനാധിപത്യസ്വഭാവം’ കൊണ്ടുതന്നെ
+ജനാധിപത്യവിരുദ്ധമായിത്തീർന്നുകൊണ്ടിരിക്കുകയാണു്: ജനാധിപത്യത്തിന്റെ പേരിൽ, ഭൂരിപക്ഷത്തിന്റെ
+പേരിൽ, അഭിപ്രായസ്വാതന്ത്ര്യം അടിച്ചമർത്തുന്ന അതിവിചിത്രമായ ഒരു സർക്കസ് ഇന്നു അരങ്ങിൽ
+വാഴ്ചകൊള്ളുന്നു.
+</p>
+          <p>നമ്മുടെ ജനാധിപത്യം ഇന്നു് നേരിടുന്ന ഏറ്റവും കടുത്ത വെല്ലുവിളി മത-ജാതി വികാരത്തിന്റേതാണു്.
+മതവർഗ്ഗീയതയ്ക്കും ജാതിക്കോയ്മയ്ക്കും വിരുദ്ധമായി സംസാരിക്കുക എന്നതാണു് സമകാലികരാഷ്ട്രീയ കാലാവസ്ഥ
+ഇന്നാവശ്യപ്പെടുന്ന അടിയന്തര കർത്തവ്യം. കഷ്ടം ഇന്നു് എന്തിനെതിരെയും നിങ്ങൾക്കു് സംസാരിക്കാം; പക്ഷേ,
+മതസമുദായങ്ങളെയും ജാതിസംഘടനകളെയും കൊണ്ടുനടക്കുന്നവർക്കു് അപ്രിയമായി യാതൊന്നും
+പറഞ്ഞുപോകരുതു്!
+</p>
+          <p>പുരോഹിതന്മാരെ പ്രീണിപ്പിക്കുക എന്നതാണു് ഇന്നത്തെ മിക്ക രാഷ്ട്രീയകക്ഷികളുടെയും നയം. അതു
+തന്നെയാണു് മാധ്യമങ്ങളുടെയും നില. പുരോഹിതന്മാർക്കു് ‘വിമർശനാതീതമായ ഏതോ വിശുദ്ധതലം’ ഏതാണ്ടു്
+എല്ലാവരും അംഗീകരിച്ചുകൊടുത്തിരിക്കുന്നു! അവരാകട്ടെ, മുൻകാലങ്ങളിൽ നിന്നു് വിഭിന്നമായി,
+ആദ്ധ്യാത്മികതയുടെ പുറംപൂച്ചിൽ ഭൗതികവും രാഷ്ട്രീയവുമായി കാര്യങ്ങളിൽ ഇടപെടുകയും
+സ്വാർത്ഥലാഭത്തിനുവേണ്ടി സമൂഹത്തെ പിന്നോട്ടു പിടിച്ചുവലിക്കുന്ന തരത്തിൽ നിലപാടുകൾ എടുക്കുകയും
+ചെയ്യുന്നു—രാഷ്ട്രീയക്കാർ രാഷ്ട്രീയത്തെ മതവത്കരിക്കുകയും മതക്കാർ മതത്തെ രാഷ്ട്രീയവത്ക്കരിക്കുകയും
+ചെയ്യുന്ന പരസ്പരപൂരകമായ ജീർണതയാണു് നമുക്കു് ചുറ്റും കാണാനുള്ളതു്.
+</p>
+          <p>ഇതിനെതിരെ എഴുതുകയോ പ്രസംഗിക്കുകയോ, വർത്തമാനം പറയുകയോ ചെയ്യുന്ന ആൾ
+‘പ്രകോപന’മുണ്ടാക്കുകയാണു് എന്ന തീർപ്പിൽ എല്ലാവരും എളുപ്പം എത്തിപ്പെടുന്നു. ആ എതിർപ്പിനു്
+ഭൂരിപക്ഷത്തിന്റെ പിന്തുണയുണ്ടാവുമ്പോൾ ജനാധിപത്യത്തിന്റെ കണക്കിൽ അതു് ‘ശരി’യാവുന്നു. അതുകൊണ്ടു
+തന്നെ അത്തരക്കാരനെതിരിൽ ഉയരുന്ന ബഹിഷ്കരണഭീഷണികളും അക്രമങ്ങളും ന്യായീകരിക്കപ്പെടുന്നു.
+</p>
+          <p>അപ്പോൾ, ഈ അഭിപ്രായമുള്ള രണ്ടാമന്റെയും മൂന്നാമന്റെയും വായയ്ക്കു സ്വാഭാവികമായും ആമപ്പൂട്ടു് വീഴുന്നു;
+എതിരഭിപ്രായങ്ങൾ മൗനത്തിൽ മുങ്ങിച്ചാവുകയാണു്.
+</p>
+          <p>രാജഭരണത്തിലും പട്ടാളഭരണത്തിലുമെല്ലാം എതിരഭിപ്രായങ്ങളെ വീർപ്പുമുട്ടിച്ചുകൊല്ലുന്നതു് സ്വാഭാവികം.
+അവർക്കതിനു ജയിലും ആയുധങ്ങളും ഉപകരണങ്ങളും പട്ടാളവുമൊക്കെ വേണം. അത്രയൊന്നും മിനക്കേടും
+പണച്ചെലവും ഇല്ലാതെ ‘ജനാധിപത്യ’ത്തിനു് അതു് സാധിക്കും എന്നാണു് നമ്മുടെ സമൂഹം
+തെളിയിച്ചുകൊണ്ടിരിക്കുന്നതു്.
+</p>
+          <p>ചില ഉദാഹരണങ്ങൾ പറയാം: കേരളത്തിലെ സാമൂഹ്യനവോത്ഥാനപ്രസ്ഥാനങ്ങളിലൂടെ ഇവിടത്തെ ഭിന്ന
+സമൂഹങ്ങൾ കൈവരിച്ച ചിന്താപരമായ പുരോഗതിയെ ആസൂത്രിതമായി തകർക്കുന്ന രീതിയിലാണു് ഭിന്ന
+സമൂഹങ്ങളിലെ മതനേതാക്കന്മാരും പുരോഹിതന്മാരും പെരുമാറുന്നതു്. അന്ധവിശ്വാസങ്ങളും അനാചാരങ്ങളും
+ശക്തമായ തിരിച്ചു വരവു് നടത്തുന്നതു് നാം കാണുന്നു. മതവർഗ്ഗീയതയും അസഹിഷ്ണുതയും കട്ടപിടിക്കുകയാണു്.
+ജാതീയമായ വേർതിരിവുകൾ, വേഷം മാറിയാണെങ്കിലും, കൂടുക തന്നെയാണു് ഇതിന്നെതിരിലൊന്നു്
+സംസാരിക്കാനുള്ള ‘ധൈര്യം’ ഇന്നത്തെ മിക്ക രാഷ്ട്രീയനേതാക്കന്മാർക്കുമില്ല. മുമ്പു് നമ്മുടെ നാട്ടിൽ
+സാമൂഹ്യനവോത്ഥാനം രാഷ്ട്രീയപ്രവർത്തനത്തിന്റെ ഭാഗമായിരുന്നു എന്നു കേട്ടാൽ, ഇന്നത്തെ വിദ്യാർത്ഥികൾ
+വിശ്വസിക്കാൻ വിഷമിക്കും!
+</p>
+          <p>‘വോട്ടുബാങ്കുകളെ പിണക്കാതിരിക്കുക’ എന്ന ഈ നയം സത്യത്തിൽ ജനാധിപത്യവിരുദ്ധമാണു്. ഈ
+ജാതിക്കോയ്മയ്ക്കും മതവർഗ്ഗീയതയ്ക്കും പാവപ്പെട്ട ജനങ്ങളെ വിട്ടുകൊടുത്താൽ അവർക്കും രാഷ്ട്രീയവും
+
+ജനാധിപത്യവും തിരിയാത്ത അവസ്ഥ വരാൻ ഏറെക്കാലം വേണ്ടിവരില്ല.
+</p>
+          <p>‘അപ്രിയസത്യം’ എന്നൊന്നുണ്ടു്. അതിന്റെ പേരിൽ സമൂഹത്തെ പേടിക്കുന്ന ഭരണാധികാരി എന്തു
+ഭരണാധികാരിയാണു്? അനുയായിയെ പേടിക്കുന്ന നേതാവു് എന്തു നേതാവാണു്?
+</p>
+          <p>‘ജനാഭിപ്രായ’ത്തെ പേടിച്ചു് സ്വന്തം അഭിപ്രായം മൂടിവെക്കുന്ന എഴുത്തുകാരൻ എന്തു് എഴുത്തുകാരാനാണു്?
+</p>
+          <p>ഇന്നു് ‘ജനാഭിപ്രായ’മായി സമൂഹത്തിൽ പുലരുന്നതു് യഥാർത്ഥമായ ജനാഭിപ്രായമല്ല; പല
+താല്പര്യങ്ങൾക്കും വേണ്ടി പാവപ്പെട്ട ജനങ്ങൾ അറിയാതെ അവരിൽ ഉല്പാദിപ്പിച്ച ‘ജനാഭിപ്രായ’മാണു്. ഈ
+ഉല്പന്നത്തിനു് എതിർമൊഴികളെ പൊറുക്കാനാവില്ല. പുരോഗമനസ്വഭാവവും യഥാർത്ഥമായ
+ജനകീയതാല്പര്യങ്ങളും ഉൾക്കൊള്ളുന്ന അത്തരം മൊഴികൾക്കു് മറുപടി പറയാൻ ‘അഭിപ്രായം
+ഉല്പാദിപ്പിക്കുന്നവർക്കു്’ ആവില്ലല്ലോ.
+</p>
+          <p>സഹാനുഭൂതി, വിവേകം, ആലോചന, ജീവിതാനുഭവങ്ങൾ, അറിവു് തുടങ്ങിയവയിലൂടെ സ്വാഭാവികമായി
+ഉരുവം കൊള്ളുന്നതാണു് സത്യമായ ജനാഭിപ്രായം. ദേശീയ സമരകാലത്തെ സ്വാതന്ത്ര്യദാഹം ഉദാഹരണം
+അസഹിഷ്ണുത, വികാരം, ആലോചനക്കുറവു്, ഗ്രന്ഥത്തിലെ ഉദ്ധരണികൾ, അജ്ഞത തുടങ്ങിയവ
+ഉപകരണമാക്കി പുരോഹിതന്മാരും രാഷ്ട്രീയക്കാരും കൃത്രിമമായി ഉല്പാദിക്കുന്നതാണു് ഇന്നു് കാണുന്ന മട്ടിലുള്ള
+‘ജനാഭിപ്രായം’. ഇപ്പോൾ ഇന്ത്യയിലെ ഏറ്റവും വലിയ ജനകീയപ്രശ്നം ഒരു പള്ളിയോ അമ്പലമോ ആണു് എന്നു്
+വലിയൊരു വിഭാഗം ജനങ്ങളെ വിശ്വസിപ്പിക്കാൻ കഴിഞ്ഞതു് ഉദാഹരണം.
+</p>
+          <p>ഇപ്പറഞ്ഞ മട്ടിൽ ഉല്പാദിപ്പിക്കപ്പെടുന്ന ‘ജനാഭിപ്രായ’മാണു് ജനാധിപത്യത്തിന്റെ പേരിൽ വിപരീതത്തിന്റെ
+വായ പൊത്തിപ്പിടിച്ചു് ജനാധിപത്യവിരുദ്ധമായി തീർന്നുകൊണ്ടിരിക്കുന്നതു്—ജനങ്ങളെ ജനങ്ങൾക്കെതിരായി
+ഉപയോഗിക്കുവാൻ സാധിക്കും!
+</p>
+          <p>ജനങ്ങൾക്കു് പ്രിയമായതു് പറയുകയല്ല; പത്ഥ്യമായതു് പറയുകയാണു് പറയുന്നവനു് വേണ്ടതു്. അതുകൊണ്ടു
+വന്നുകൂടുന്ന കല്ലേറുകൂടി താങ്ങാൻ കെല്പു് കിട്ടുംവിധം ജനങ്ങളെ വാസ്തവമായി സ്നേഹിക്കുന്നവർക്കേ അതു്
+സാധിക്കൂ.
+</p>
+          <p>അത്തരക്കാർ കുറവാണു് എന്നു് സംസ്കൃതഭാഷയിൽ ഒരു ചൊല്ലുണ്ടു്: ‘അപ്രിയവും പത്ഥ്യവുമായ വാക്കു്
+പറയാനും കേൾക്കാനും ആളു് കുറയും.’
+</p>
+          <p>ഈ ചൊല്ലിനെ ഒരു പതിർമൊഴിയാക്കാനുള്ള ആത്മാർത്ഥമായ പരിശ്രമം കൊണ്ടേ നമ്മുടെ
+ജനാധിപത്യത്തിനു പ്രാണവായു കിട്ടുകയുള്ളു.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Janabhiprayam
+Ulpadippikkappedumbol (ml: ജനാഭിപ്രായം ഉല്പാദിപ്പിക്കപ്പെടുമ്പോൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Janabhiprayam Ulpadippikkappedumbol, എം. എൻ. കാരശ്ശേരി, ജനാഭിപ്രായം
+ഉല്പാദിപ്പിക്കപ്പെടുമ്പോൾ, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 6, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Bohumil_Kubi%C5%A1ta__Portr%C3%A9t_Jana_Zrzav%C3%A9ho.jpg">Portrait of Jan Zrzavý,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/en:Bohumil_Kubi%C5%A1ta">Bohumil
+Kubišta</ref>  (1884–1918). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-jana.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-jana.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

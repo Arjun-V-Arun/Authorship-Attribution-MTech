@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ആക്ഷേപപ്പെട്ടി</title>
+          <title xml:lang="en" type="main">Akshepapetti</title>
+        </title>
+        <author>Vallathol Vasudevamenon B. A.</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ആക്ഷേപപ്പെട്ടി</title>
+              <title xml:lang="en" type="main">Akshepapetti</title>
+            </title>
+            <author>Vallathol Vasudevamenon B. A.</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Story</term>
+          <term>Vallathol Vasudevamenon B. A.</term>
+          <term>Akshepapetti</term>
+          <term>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</term>
+          <term>ആക്ഷേപപ്പെട്ടി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_Painter_at_his_Paint_Box.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Adolph_Tidemand__A_Painter_at_his_Paint_Box_-_Google_Art_Project.jpg">A Painter at his Paint
+Box,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Adolph_Tidemand">Adolph
+
+Tidemand</ref>  (1814–1876). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ആക്ഷേപപ്പെട്ടി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ആക്ഷേപപ്പെട്ടി</head>
+        <div type="lsection">
+          <p style="noindent">ബി. കെ. മേനോൻ ബാർ-അറ്റ്-ലാ, വിമലയെ വിവാഹം കഴിച്ചിട്ടു കഷ്ടിച്ചു
+രണ്ടുമാസമേ ആയിട്ടുള്ളൂ. അപ്പോഴാണു്, അയാൾ കിടപ്പുമുറിയിൽ വെച്ചിരുന്ന ഒരു മരപ്പെട്ടിയിന്മേലേയ്ക്കു ഭാര്യയുടെ
+ശ്രദ്ധയെ ആകർഷിച്ചതു്.
+</p>
+          <p>വിമല മനോഹരമായ കഴുത്തു കുനിച്ചു് അതിന്റെ ഭംഗി നോക്കി രസിച്ചു. “പണി വൃത്തിയായിട്ടുണ്ടു്,” അവൾ
+പറഞ്ഞു: “അല്ലാ, മേല്പലകയിലെ ഈ വിടവെന്തിനാണു്? ഓ, മനസ്സിലായി; വീട്ടിലെ സേവിങ്സ് ബാങ്കാണു്
+അല്ലേ?”
+</p>
+          <p>മേനോൻ വളരെ ഗൌരവത്തിൽ കർക്കശമായ രീതിയിൽ മറുപടി പറഞ്ഞു. “അതു ബാങ്കൊന്നുമല്ല.
+അതൊരാക്ഷേപപ്പെട്ടിയാണു്.”
+</p>
+          <p>“ആക്ഷേപപ്പെട്ടിയോ!”
+</p>
+          <p>“ആ, അതേ. പാശ്ചാത്യരാജ്യങ്ങളിൽ ചില ഹോട്ടലുകളുടെ ഉമ്മറത്തു ഇതുപോലെ കാണാം. ‘ഞങ്ങളുടെ
+പരിചരണം കൂടുതൽ നന്നാക്കുവാനുള്ള നിദ്ദേർശങ്ങളും ആക്ഷേപങ്ങളും ഈ പെട്ടിയിൽ ഇടുക.’”
+</p>
+          <p>“പക്ഷേ, എനിക്കു് എന്താക്ഷേപം ഉണ്ടാവാനാണു്?”
+</p>
+          <p>“ഉണ്ടാവരുതു് എന്നാണു് എന്റെയും പ്രാർത്ഥന,” അയാൾ ഇതു പറഞ്ഞതു വലിയ
+മനഃപ്രസാദത്തോടുകൂടിയല്ല. കാരണം, ഭാര്യയെക്കുറിച്ചു തനിക്കുള്ള ചില ആക്ഷേപങ്ങൾ ഏതുതരത്തിലാണു്
+പ്രകടിപ്പിക്കേണ്ടതെന്നാലോചിച്ചു് അയാൾ കുഴങ്ങുകയായിരുന്നു. മുഖം വീർപ്പിക്കലും കണ്ണിൽ വെള്ളം നിറയ്ക്കലും
+കരച്ചിലും മറ്റും കൂടാതെ അതു നിവർത്തിച്ചു കിട്ടുക ബഹുപ്രയാസമാണു്. വിമല വളരെ സുന്ദരിയാണു് തന്നെയല്ലാ,
+അയാൾ അവളെ അതിയായി സ്നേഹിക്കുകയും ചെയ്യുന്നു. എന്നാൽ അവളുടെ അശ്രദ്ധയും സൂക്ഷ്മക്കുറവും!
+തന്നെയോ? ആ ദേഷ്യം പിടിപ്പിക്കുന്ന മറവിയും, മറ്റും.
+</p>
+          <p>“കാര്യം ഇതാണു്,” അയാൾ കൂടുതൽ വിവരിച്ചു കൊടുത്തു: “എനിക്കു്—അതായതു നമുക്കു പരസ്പരം വല്ല
+ആക്ഷേപവും ഉണ്ടായെന്നിരിക്കട്ടെ, എന്നാൽ അതിനെക്കുറിച്ചു ബാലിശമായ വാദപ്രതിവാദവും ലഹളയും മറ്റും
+വേണ്ടാ. അതു് എനിക്കു്, അതായതു നമുക്കു്, ഒരു കഷ്ണം കടലാസ്സിലെഴുതി ഈ പെട്ടിയിലിടാം. എന്നുവെച്ചാൽ,
+അതിനെപ്പറ്റി ആവേശത്തോടേ ലഹള കൂട്ടുകയും മറ്റും, വേണ്ടാ; വാദപ്രതിവാദം ഒരു കാര്യത്തിനെയും പറ്റി
+ചെയ്യില്ലെന്നുള്ളതു്. ഒരു നിർബ്ബന്ധമായ നിയമമായിരിക്കണമെന്നു താൽപര്യം.”
+</p>
+          <p>വിമല സാവധാനത്തിൽ പെട്ടി തുറന്നുനോക്കി. അതു കണ്ടാൽ, അതിന്റെ ഉള്ളിൽനിന്നു് എന്തെങ്കിലും
+ഇപ്പോൾ പൊട്ടിത്തെറിക്കും എന്നു തോന്നും. അതിന്റെ ഉള്ളിൽ അയാളുടെ വല്ല ആക്ഷേപങ്ങളും വരാൻ
+തുടങ്ങിയോ എന്നു നോക്കാനാണു് അവളതു തുറന്നതു്. അമ്മമാർ മക്കളുടെ പേരിൽ ചെറിയ തുകകൾ
+സമ്പാദിക്കാൻ ആദ്യത്തെ ഇടപ്പിറന്നാൾ മുതൽ നന്നാലണയുടെ നാണ്യം ഇട്ടു സൂക്ഷിക്കൽ പതിവുണ്ടല്ലോ;
+അതുപോലെ വല്ലതും ഉണ്ടോ? പെട്ടി ശൂന്യമായിരുന്നു.
+</p>
+          <p>അങ്ങനെ ഒരു മാസം കഴിഞ്ഞു. തന്റെ ആ സമ്പ്രദായം തീരെ നിർദ്ദോഷമാണെന്നു പറയാൻ പാടില്ലെങ്കിലും
+അതുകൊണ്ടു ഗുണമുണ്ടെന്നു മേനോൻ കണ്ടു. തന്റെ എല്ലാ നിർദ്ദേശങ്ങൾക്കും ഉടനടി ഫലം കണ്ടിരുന്നു എന്നല്ല
+താൽപര്യം; ചിലവയ്ക്കു പൊടുന്നനെ ഫലം കണ്ടില്ലെന്നുമില്ല അതിലെല്ലാം വെച്ചു മെച്ചം, വീട്ടിലെ ശാന്തമായ,
+സമാധാനപരമായ, അന്തരീക്ഷമത്രേ. ദാമ്പത്യ സാധാരണമായ ചില്ലറ കശപിശകളും
+അതിനെത്തുടർന്നുണ്ടാവാറുള്ള ലഹളകളും കരച്ചിലും മുഖം വീർപ്പിക്കലുമൊന്നും ആ കുടുംബത്തിന്റെ
+സമാധാനത്തെ അലങ്കോലപ്പെടുത്തിയില്ല. നിശ്ശബ്ദത സനിഷ്കർഷം പാലിക്കപ്പെട്ടു എന്നുവെച്ചാൽ,
+കുടുംബകലഹങ്ങൾക്കു് ഇടംകൊടുക്കുന്ന വിഷയങ്ങളെസ്സംബന്ധിച്ച നിശ്ശബ്ദത. ഒരു നിർദ്ദേശപത്രികയ്ക്കു
+ഫലമില്ലെന്നു കണ്ടാൽ വീണ്ടും അയാൾ അതിനെപ്പറ്റി എഴുതും. എന്നിട്ടുമില്ലെങ്കിൽ പിന്നെയും എഴുതും. ഒരു
+വിഷയത്തെപറ്റി എത്ര തവണ എഴുതേണ്ടിവന്നാലും അയാളതു വലിയ സാരമായിഗ്ഗണിച്ചില്ല; അതിനെപ്പറ്റി
+ശബ്ദിക്കരുതു് എന്ന വ്രതം നിഷ്കർഷയോടെ ആദരിച്ചു പോന്നു.
+</p>
+          <p>അങ്ങനെയിരിക്കെ ആ ഭയങ്കരമായ വിഷമഘട്ടം എത്തിച്ചേർന്നു. മേടമാസത്തിലെ മനോഹരമായ ഒരു
+പ്രഭാതം; അയാൾ പതിവിലും നേരത്തേ എഴുനേറ്റു് ഉമ്മറത്തേയ്ക്കു വന്നു. തലേദിവസം ഒരു മഴ ചാറിയിരുന്നതു
+കൊണ്ടു്, വിശേഷിച്ചും ആകർഷകമായിരുന്നു ആ പ്രഭാതം. അതുകൊണ്ടു പതിവില്ലാത്ത
+ഉന്മേഷത്തോടുകൂടിയാണു അയാൾ പുറത്തേയ്ക്കു വന്നതു്. മുറ്റത്തിറങ്ങി അല്പം നടന്നപ്പോൾ. തലേന്നാൾ വടക്കു
+പുറത്തു് ഉണങ്ങാനിട്ടിരുന്ന വസ്ത്രങ്ങൾ അങ്ങനെതന്നെ നനഞ്ഞു തൂങ്ങിനില്ക്കുന്നതു കണ്ടു.
+</p>
+          <p>അല്പം ക്ഷോഭത്തോടുകൂടി അയാൾ അകത്തേയ്ക്കു പോയി എഴുതാനിരുന്നു: “പുറത്തു് ഉണങ്ങുവാനിടുന്ന
+വസ്ത്രങ്ങൾ രാത്രി എടുത്തു മാറ്റണമെന്നു മൂന്നാമത്തെത്തവണ പറഞ്ഞുകഴിഞ്ഞു. മാത്രമല്ല, പടിവാതിൽ
+അടച്ചുപൂട്ടിയിട്ടില്ല—നാലാമത്തെ നോട്ടീസ്. അവിടേയും അവസാനിക്കുന്നില്ല: പശുക്കുട്ടിയെ പിടിച്ചു കെട്ടിയില്ല
+അഞ്ചാമത്തേതു്. ഇതൊന്നും ചെയ്തിരുന്നില്ലെന്നുള്ളതു പോകട്ടെ; എന്നെ അധികം വേദനിപ്പിക്കുന്നതു്
+കുടുംബകാര്യങ്ങളിൽ വിമല കാണിക്കുന്ന ഈ മാറാത്ത അശ്രദ്ധയാണു്. ഇതു ദാമ്പത്യജീവിതത്തെ
+സുഖകരമല്ലാതാക്കും.”
+</p>
+          <p>അയാൾ പെൻസിലിന്റെ തല കടിച്ചു കൊണ്ടു കുറച്ചു നേരം, ഉറങ്ങിക്കിടക്കുന്ന ഭാര്യയുടെ രൂപത്തെ
+സ്മരിച്ചുകൊണ്ടിരുന്നു. വീണ്ടും തുടർന്നു: “ഈ സംഗതികളിൽ കുറെക്കൂടി ശ്രദ്ധ ചെലുത്തിക്കാണുവാൻ
+അപേ…”
+</p>
+          <p>ഈ നിലയ്ക്കു കുറെ ഭംഗിയായ രീതിയിൽ അയാളതു് എഴുതിത്തീർത്തേനേ; അപ്പോഴയ്ക്കും, മനസ്സിന്റെ
+ശാന്തമായ സ്ഥിതിക്കൊത്തവണ്ണം ഇരിപ്പിനേയും ഒന്നു സുഖപ്പെടുത്താനുള്ള ശ്രമത്തിനിടയിൽ കാൽമുട്ടു്, പകുതി
+തുറന്നുവെച്ചിരുന്ന മേശയുടെ വലിപ്പിന്മേൽ വല്ലാത്തൊരു മുട്ടു മുട്ടി. അസാമാന്യമായി വേദനിച്ചു. അയാൾ
+വലിപ്പിനുള്ളിലേയ്ക്കു നോക്കി. അവിടെ യാതൊരു ക്രമവുമില്ലാതെ, കത്തുകടലാസ്സുകളും എഴുത്തുകളും രശീതികളും
+ഹെയർപിന്നുകളുമെല്ലാം താറുമാറായി ചിന്നിച്ചിതറിക്കിടക്കുന്നു. മേനോന്റെ പ്രകൃതം ആകെയൊന്നു മാറി.
+ഉദിച്ചുവന്നിരുന്ന ശാന്തഭാവം, യാതൊരു ദയയും കൂടാതെ ഭയങ്കരമായ ശുണ്ഠിയായി മാറി.
+</p>
+          <p>പിന്നെ, എത്ര കടലാസ്സിൽ, കലശലായ ഭാഷയിൽ, എന്തൊക്കെയാണെഴുതിക്കൂട്ടിയതെന്നു്
+അയാൾക്കു തന്നെ അറിഞ്ഞുകൂടാ. ഒടുവിൽ, എഴുതിത്തീർന്നതിന്നു ശേഷം, ഒരാവൃത്തി വായിച്ചു്, ‘ഇതു
+അധികമായിട്ടില്ല’ എന്നു സമാധാനിച്ചു് അതുംകൊണ്ടു മുകളിലേയ്ക്കു ചെന്നു.
+</p>
+          <p>വിമല ഉണർന്നിരുന്നില്ല; അവൾ തലമുടി ചിന്നിച്ചിതറി, കൈത്തണ്ട ഉപധാനമാക്കി, ഒരു ഭാഗത്തേയ്ക്കു
+ചെരിഞ്ഞുകിടന്നു് അപ്പോഴും ഉറങ്ങുകതന്നെയാണു്. ആക്ഷേപപത്രിക സാമാന്യത്തിലധികം
+വലുതായിരുന്നതുകൊണ്ടു്, അതു മേല്പലകയുടെ വിടവിലൂടേ കൊണ്ടില്ല. അയാൾ പെട്ടി തുറന്നു. ആ പെട്ടി
+അവിടെ വെച്ചതിനുശേഷം അയാളതു തുറക്കുന്നതു് ഇതാദ്യമായിട്ടാണു്. അകത്തു നോക്കിയപ്പോൾ,
+ആക്ഷേപക്കത്തുകളെല്ലാം ഇട്ടപടി മടക്കു നിവർത്താതെ കിടക്കുന്നതു കണ്ടു. അയാൾ അവയെല്ലാം നിലത്തു
+കൊട്ടി. അയാളുടെ കയ്യക്ഷരത്തിലുള്ളവ മാത്രമല്ലാ, വിമലയുടെ കയ്യക്ഷരത്തിലും അതിൽ ചില കത്തുകൾ!
+“വിമലയ്ക്കു് എന്റെ പേരിൽ എന്താക്ഷേപം ഉണ്ടാവാനാണു്?” ചില കത്തുകൾ അയാൾ തുറന്നുനോക്കി!
+“താക്കോൽ ആപ്പീസിൽ മറന്നുംവെച്ചു് ഇവിടെ വന്നു ഇനി ലഹളകൂട്ടിയാൽ ഞാൻ ഇവിടെനിന്നു പോവും”…
+“ദയവുചെയ്തു് എനിക്കു വരുന്ന കത്തുകൾ പൊളിക്കരുതു്…” “കാർഷികാശ്വാസബില്ലും മറ്റും വിവരിച്ചു
+മനസ്സിലാക്കിത്തരാൻ മിനക്കെട്ടു് എന്നെ ബോറാക്കാതിരിക്കണം”… “സാരി കീറിയിട്ടുള്ള വിവരം പറയാൻ,
+പുറത്തിറങ്ങി കുറേ ദൂരം പോകുന്നതുവരെ കാക്കണമെന്നില്ല”… “പുറത്തേയ്ക്കിറങ്ങുമ്പോൾ പെട്ടിയുടെ
+താക്കോൽ ഇവിടെവെച്ചു…”
+</p>
+          <p>കട്ടിലിന്മേൽ ഒരനക്കം; വിമല പതുക്കെ കണ്ണു മിഴിച്ചു് എഴുനേല്ക്കാനുള്ള ഭാവമാണു്. അയാൾ ധൃതിയിൽ
+കടലാസ്സുകളെല്ലാം എടുത്തു പോക്കറ്റിൽ നിറച്ചു. വിമല എഴുനേറ്റിരുന്നു തലമുടി ഒതുക്കിക്കെട്ടുമ്പോൾ, അയാൾ
+ഒഴിഞ്ഞ പെട്ടിയും കയ്യിൽപ്പിടിച്ചു നില്ക്കുകയായിരുന്നു.
+</p>
+          <p>“അല്ലാ, എന്താ ഇത്ര നേർത്തെ എണീറ്റു ചെയ്യുന്നതു്?”
+</p>
+          <p>അവളുടെ വിടർന്ന കണ്ണുകളിലേയ്ക്കു നോക്കിക്കൊണ്ടിരിക്കേ, തന്റെ പ്ലാൻ പ്രതീക്ഷിച്ചതിലധികം
+ഫലവത്തായി എന്നു് അയാൾക്കു ബോധപ്പെട്ടു. ആ ആക്ഷേപങ്ങൾ മുഴുവനും വായിക്കപ്പെടാതെ അതേപടി
+പെട്ടിയിൽ കിടക്കുകയായിരുന്നു; അസ്വരസങ്ങളും വാദപ്രതിവാദങ്ങളും, അവയെ തുടർന്നു കണ്ണീരും
+ഉണ്ടാക്കുമായിരുന്ന ആ വിഷയങ്ങൾ ഒരൊച്ചപ്പാടും കൂടാതെ അതിൽച്ചെന്നു ലയിച്ചിരുന്നു. അപ്പപ്പോഴുണ്ടാകുന്ന
+രൂക്ഷങ്ങളായ മനഃക്ഷോഭങ്ങളെല്ലാം അങ്ങനെതന്നെ അതാതു നിമിഷം കടലാസ്സിൽപ്പകർന്നു നിശ്ശബ്ദമായി ആ
+പെട്ടിയിൽച്ചെന്നു സ്ഥലം പിടിക്കുകയും, പിന്നീടു മറക്കപ്പെടുകയും ചെയ്തു.
+</p>
+          <p>“ഈ പെട്ടി ഒന്നാണിയിട്ടുറപ്പിക്കാൻ പുറത്തേയ്ക്കെടുക്കയാണു്.”
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/vvmenon.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>കുറ്റിപ്പുറത്തു് കേശവൻ നായരുടെയും വള്ളത്തോൾ അമ്മാളുക്കുട്ടി അമ്മയുടെയും മകനായി 1916-ൽ ജനിച്ചു.
+1968-ൽ ഒരു കാറപകടത്തിൽ മരിച്ചു. മലയാളത്തിൽ വളരെയധികം എഴുതീട്ടില്ലെങ്കിലും ശ്രദ്ധിക്കപ്പെട്ട
+എഴുത്തുകാരനായിരുന്നു വി വി. കേസരി ബാലകഷ്ണപിള്ള ഇദ്ദേഹത്തിന്റെ <ref target="https://books.sayahna.org/ml/pdf/kesarikalavandi.pdf">കാളവണ്ടി</ref> എന്നകഥയെപ്പറ്റി ഒരു വിമർശനം
+എഴുതീട്ടുണ്ടു്.
+</p>
+          <div type="subsection" xml:id="sec0.0.0.0.1" n="0.0.0.0.1">
+            <head type="subsechead">കൃതികൾ</head>
+            <list rend="bulleted">
+              <item>കാളവണ്ടി </item>
+              <item>മാരാരും കൂട്ടരും </item>
+              <item>രംഗമണ്ഡപം </item>
+              <item>എവറസ്റ്റാരോഹണം </item>
+              <item>ഇന്നത്തെ റഷ്യ </item>
+              <item>സന്ധ്യ </item>
+              <item>Quest—(ജി. ശങ്കരക്കുറുപ്പിന്റെ ഓടക്കുഴൽ എന്ന സമാഹാരത്തിന്റെ ഇംഗ്ലീഷ് പരിഭാഷ) </item>
+            </list>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.1/1.2.0"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Akshepapetti (ml:
+ആക്ഷേപപ്പെട്ടി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Vallathol Vasudevamenon B.
+A..</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Story, Vallathol
+Vasudevamenon B. A., Akshepapetti, വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ., ആക്ഷേപപ്പെട്ടി, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Adolph_Tidemand__A_Painter_at_his_Paint_Box_-_Google_Art_Project.jpg">A Painter at his Paint
+Box,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Adolph_Tidemand">Adolph
+Tidemand</ref>  (1814–1876). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/vv-akshepa.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/vv-akshepa.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

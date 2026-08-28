@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ടെയ്പിങ് വിപ്ലവം</title>
+          <title xml:lang="en" type="main">Taiping Rebellion</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 9, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ടെയ്പിങ് വിപ്ലവം</title>
+              <title xml:lang="en" type="main">Taiping Rebellion</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-03-31</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>Taiping Rebellion</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>ടെയ്പിങ് വിപ്ലവം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-03-31</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Pine_Plum_and_Cranes.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Pine,_Plum_and_Cranes.jpg">Pine,
+Plum and Cranes,</ref> a painting by Shen Quan  (1682–1760). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ടെയ്പിങ് വിപ്ലവം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ടെയ്പിങ് വിപ്ലവം</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Regaining_Ruizhou.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ടെയ്പിങ് കലാപത്തിന്റെ ഒരു രംഗം, 1850–1864.</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p><ref target="https://en.wikipedia.org/wiki/Taiping_Rebellion">ടെയ്പിങ്
+വിപ്ലവം</ref> ചൈനയിലെ മുതലാളിത്ത (ബൂർഷ്വാ ഡെമോക്രാറ്റിക് ) വിപ്ലവത്തിന്റെ ഒന്നാമങ്കമാണു്.
+ചൈനയിലെ മുതലാളിത്തവിപ്ലവം ഏതാണ്ടു് നാനൂറുവർഷങ്ങൾ കൊണ്ടാണു് പര്യവസാനിച്ചതു്. അക്കാലമെല്ലാം
+മുതലാളിത്തവും ഫ്യൂഡലിസവും ഒന്നു വളർന്നും മറ്റതു നശിച്ചുംകൊണ്ടു നിലനിൽക്കുകയായിരുന്നു.
+പാശ്ചാത്യരാജ്യങ്ങളെ അപേക്ഷിച്ചു് മുതലാളിത്തവിപ്ലവം ചൈനയിലാരംഭിക്കുവാൻ വളരെ കാലതാമസം
+വേണ്ടിവന്നു. ഫ്യൂഡലിസംതന്നെ വേണ്ടിടത്തോളം വളർന്നുകഴിഞ്ഞിട്ടില്ലായിരുന്നു എന്നുള്ളതും
+ഭൂമിശാസ്ത്രപരമായ സാഹചര്യങ്ങൾ മുതലാളിത്തത്തിനു് പ്രതികൂലമായിരുന്നതും ആണു് അതിനുള്ള കാരണങ്ങൾ.
+മുതലാളിത്തത്തിന്റെ പ്രവേശനമുണ്ടായിട്ടുതന്നെ ഫ്യൂഡൽ നാടുവാഴി വർഗ്ഗത്തിന്റെയും
+വിദേശസാമ്രാജ്യത്തിന്റെയും ഏകോപിച്ചുള്ള പരിശ്രമംകൊണ്ടു് അതിന്റെ പുരോഗതി തടയപ്പെട്ടു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Mengshan.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഗ്വാങ്സിയിലെ മെങ്ഷാൻ പട്ടണത്തിലെ ടെയ്പിങ് വിപ്ലവത്തിന്റെ ചരിത്ര
+സ്മാരകം.</figDesc>
+          </figure>
+          <p>കർഷകലഹളയും മുതലാളിത്തശിശുവിന്റെ വളരാനുള്ള പരിശ്രമങ്ങളുമാണു് ബൂർഷ്വാ ഡെമോക്രാറ്റിക്
+വിപ്ലവത്തിന്റെ പ്രധാനഘടകങ്ങൾ. ഇവ രണ്ടും ഫ്യൂഡൽ നാടുവാഴികളെ അധികാരത്തിൽനിന്നു
+പുറംതള്ളുന്നതിനും, മുതലാളിത്തരീതിയിലുള്ള ഉല്പാദനത്തെ ത്വരിതപ്പെടുത്തുന്നതിനുള്ള സ്വാതന്ത്ര്യം
+സമ്പാദിക്കുന്നതിനും സഹായിക്കുന്നു. ടെയ്പിങ് വിപ്ലവത്തിൽ കർഷക മുന്നേറ്റമാണു് പ്രധാന പങ്കുവഹിച്ചതു്.
+ഒരു ദൈവികച്ഛായയുള്ള രാജാധികാരത്തെ സ്ഥാപിക്കണമെന്നു് അവർ വാദിച്ചതുകൊണ്ടു് അതൊരു
+ജനാധിപത്യ വിപ്ലവമല്ലാതായി തീരുന്നില്ല. പരിമിത അധികാരങ്ങളോടുകൂടിയ ഒരു രാജാവു്
+ജനാധിപത്യവിപ്ലവത്തിനു് നിഷിദ്ധമല്ല.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Hong_Xiuquan.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഹോങ് സിയുക്വാന്റെ ചിത്രം.</figDesc>
+          </figure>
+          <p>പ്രത്യേകിച്ചും തൊഴിലാളിവർഗ്ഗം വളർന്നിട്ടില്ലാത്ത ഒരു രാജ്യത്തു് കൃഷിക്കാരുടെ നേതൃത്വത്തിൽ നടക്കുന്ന
+ഒരു വിപ്ലവത്തിൽ രാജാവു് സ്വകാര്യസ്വത്തിന്റെ സിംബലാണു്. മുതലാളിത്തം സ്വത്തുടമയുടെ സമ്പ്രദായം
+മാറ്റിത്തീർക്കുന്നുണ്ടെങ്കിലും അതിനെ ചോദ്യം ചെയ്യുന്നില്ല. ടെയ്പിങ് വിപ്ലവമാകട്ടെ ഒരു
+ദേശീയവിമോചനസമരവും കൂടിയായിരുന്നു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Qing_Dynasty_cash.png" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">മഞ്ചു ക്വിംഗ് രാജവംശത്തിൽ നിന്നുള്ള ഒരു ചെമ്പു് (പിച്ചള) നാണയം,
+1850–1861.</figDesc>
+          </figure>
+          <p>ടെയ്പിങ് വിപ്ലവത്തിന്റെ പ്രധാനസ്വഭാവങ്ങൾ മതതീക്ഷ്ണത, പൗരാണികകമ്മ്യുണിസത്തിലേക്കുള്ള ചായ്വു്.
+ജന്മിത്വത്തോടുള്ള ശത്രുത, <ref target="https://en.wikipedia.org/wiki/Qing_dynasty">മഞ്ചുരാജവംശ</ref>
+ത്തെപ്പറ്റിയുള്ള വെറുപ്പു്, വിദേശത്തോടുള്ള മമത, വാണിജ്യവ്യവസായപ്രോത്സാഹനം, പൊതുവെ ഉല്പതിഷ്ണു
+മനോഭാവം എന്നിവയായിരുന്നു. അവരുടെ പരിപാടി സമരമായിരുന്നുവെങ്കിലും ലക്ഷ്യം സമാധാനമായിരുന്നു.
+അവർ പിടിച്ചടക്കിയ രാജ്യത്തിനു് അവർ നൽകിയ പേർ ശാന്തിയുടെ സ്വർഗ്ഗീയസാമ്രാജ്യം എന്നായിരുന്നു.
+ശത്രുക്കളോടു് അവർ യാതൊരു കരുണയും കാണിച്ചില്ലെങ്കിലും വിജയത്തിനു ശേഷം അവർ നല്ലഭരണം
+ഏർപ്പെടുത്തി. ഏതാണ്ടു് ക്രിസ്തുമതത്തിന്റെ രീതിയിൽ ഒരു സഹോദരത്വം അവർ പ്രകടിപ്പിച്ചു. അവർ ഭൂമിയിൽ
+പൊതുവുടമ സ്ഥാപിച്ചു. കുടിൽവ്യവസായത്തിന്റെ ഉല്പന്നങ്ങൾ ഭരണകൂടംതന്നെയാണു് വിതരണം ചെയ്തതു്.
+ഉല്പാദനവിതരണങ്ങളുടെ പൊതുതത്ത്വം എല്ലാവർക്കും ന്യായമായ പങ്കു് ലഭിക്കുക എന്നതായിരുന്നു.
+ജനകീയവിദ്യാലയങ്ങൾ സ്ഥാപിച്ചു് അവർ വിദ്യാഭ്യാസം പ്രചരിപ്പിച്ചു. കറുപ്പുവലി ശിക്ഷായോഗ്യമാക്കിത്തീർത്തു.
+അടിമത്തം ബഹിഷ്കരിച്ചു. വേശ്യാവൃത്തിയെ നിരോധിക്കുകയും ചെയ്തു മതപരമായി ടെയ്പിങ് പ്രസ്ഥാനം
+വിഗ്രഹാരാധനയ്ക്കെതിരായിരുന്നു. രാഷ്ട്രീയമായി അതു മഞ്ചുരാജവംശത്തിന്റെ ശത്രുവായിരുന്നു. അതിന്റെ
+സാമൂഹ്യവശം കമ്മ്യൂണിസ്റ്റുമായിരുന്നു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Kwangtung_Provincial_Government.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ചൈന റിപ്പബ്ലിക്കിന്റെ ക്വാൻടങ് പ്രവിശ്യാ സർക്കാർ.</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Guangdong">ക്വാൻടങ്</ref>
+സംസ്ഥാനത്തു് ഒരു കർഷകകുടുംബത്തിൽ ഒരദ്ധ്യാപകന്റെ മകനായിട്ടാണു് <ref target="https://en.wikipedia.org/wiki/Feng_Yunshan">ഹംഗ്സിയുൻസാങ്ങ്</ref>
+ജനിച്ചതു്. സർക്കാർസേവനത്തിന്റെ പരിശീലനത്തിനുവേണ്ടി അയാൾ കാൻടൺ പട്ടണത്തിലേക്കയക്കപ്പെട്ടു.
+പബ്ലിക് സർവ്വീസ് പരീക്ഷയിലുള്ള പരാജയവും ക്രിസ്ത്യൻ മിഷണറിമാരുമായിട്ടുള്ള പരിചയവും അയാളുടെ
+ചിന്താഗതിയെ സാരമായി സ്വാധീനപ്പെടുത്തി. പരാജയത്തിൽ കലികൊണ്ടു പ്രഭുവർഗ്ഗത്തോടു് പടവെട്ടുവാൻ
+തീരുമാനിച്ച അയാൾക്കു് ക്രിസ്തുമതം ഒരു നവദർശനം നൽകി. കൊടുമ്പിരിക്കൊണ്ട വികാരങ്ങളുടെ ഫലമായി
+ഹംഗ് രോഗിയായിത്തിർന്നു. ജ്വരബാധിതനായപ്പോൾ അയാൾക്കുണ്ടായ വെളിപാടുകളാണു് ടെയ്പിങ്
+പ്രസ്ഥാനത്തിന്റെ വിശ്വാസപ്രമാണം. ഒരു വൃദ്ധൻ പ്രത്യക്ഷപ്പെട്ടു ജനമർദ്ദകരെ വധിക്കാനുള്ള ഒരു ഖഡ്ഗം
+സമ്മാനിച്ചതായി അയാൾ സ്വപ്നം കണ്ടു. പക്ഷേ, ഹംഗ് ടെയ്പിങ് പ്രസ്ഥാനത്തിന്റെ സ്രഷ്ടാവായിരുന്നില്ല.
+അക്കാലത്തു നാടുനീളെ, നീറിപ്പിടിച്ചുകൊണ്ടിരുന്ന കാർഷിക അസംതൃപ്തിയുടെ പ്രചാരകനും സംഘാടകനും
+ആയിത്തീർന്നുവെന്നതാണു് ഹംഗിന്റെ മഹത്വം. തന്റെ പ്രസ്ഥാനത്തിനു് അനുഭാവികളെ കിട്ടുവാൻ അയാൾക്കു്
+ക്വാൻങ്ങ്സിവരെ യാത്രചെയ്യേണ്ടിവന്നു. ക്വാൻടംഗ്, ക്വാൻങ്ങ്സി, ഹുണാൻ എന്നീ സംസ്ഥാനങ്ങൾ
+
+യോജിക്കുന്ന ഒരു മലമ്പ്രദേശമുണ്ടു് അവിടെ ഏറ്റവും ദരിദ്രരായ ഒരു വർഗ്ഗം ജനങ്ങളും. ആ സ്ഥലത്തു് രണ്ടാമതു്
+വന്നെത്തിയ ഇക്കൂട്ടരെ വരത്തർ എന്നാണു് വിളിച്ചു വന്നിരുന്നതു്. അവർ കർഷകത്തൊഴിലാളികളായും
+കൈത്തൊഴിൽക്കാരായും കഴിഞ്ഞു. മോഷണവും പിടിച്ചുപറിയും അവരുടെ പതിവായിരുന്നു. ചിലപ്പോൾ അവർ
+കടൽക്കള്ളന്മാരാവുകയും ചെയ്യാറുണ്ടായിരുന്നു. ഈ വർഗ്ഗത്തിൽനിന്നാണു് ഹംഗ് ഒരു ചെറിയ സംഘത്തെ
+ഉണ്ടാക്കിയതു്. 1850-ൽ അവർ ലിയൂച്ചു എന്ന ചെറിയ പട്ടണം പിടിച്ചു. ഹംഗ് ശാന്തിസാമ്രാജ്യത്തിന്റെ
+ആദ്ധ്യാത്മികവും ഭൗതികവുമായ തലവനായി അവരോധിക്കപ്പെട്ടു. പ്രഭുവർഗ്ഗം ഹംഗിനു് കൂലിവാംങ്ങ്
+(തൊഴിലാളിരാജാവു്) എന്ന സ്ഥാനപ്പേരു കൽപിച്ചു നൽകുകയും ചെയ്തു. ലഹളക്കാരുടെ ആദ്യത്തെ കർമ്മം ഭൂമി
+ഉടമയുടെ രേഖകൾ സൂക്ഷിച്ചിരുന്ന ക്ഷേത്രങ്ങളെല്ലാം ചുട്ടുനശിപ്പിക്കുക എന്നതായിരുന്നു. അവരുടെ
+ആദർശങ്ങളെ ക്രോഡീകരിച്ചുകൊണ്ടു് ഒരു ഗാനം എഴുതി. അതിൽ ചൈനയിലെ മർദ്ദിതജനതയുടെ ശബ്ദം
+ഉയർന്നുകേൾക്കുന്നുണ്ടു്. ദേശീയത്വവും കഴിഞ്ഞുപോയ സുവർണ്ണയുഗത്തിലേക്കുള്ള ഒരെത്തിനോട്ടവും അതിൽ
+കാണുവാനുണ്ടു്. മർദ്ദിതജനത കൊള്ളക്കാരല്ലെന്നും ഈശ്വരേച്ഛയുടെ കർമ്മയോഗികളാണെന്നും അതിൽ
+അവകാശപ്പെടുന്നു. കാർഷികലഹളയുടെ ഈ സമരഗാനം ചൈനയിലെ ബൂർഷ്വാ ഡെമോക്രാറ്റിക്
+വിപ്ലവത്തിന്റെ പ്രഭാതഭേരിയാണു്.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Commerce_on_the_water.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">വെള്ളത്തിലെ വാണിജ്യം, 1759.</figDesc>
+          </figure>
+          <p>പ്രസ്ഥാനം കാട്ടുതീപോലെ പടർന്നുപിടിച്ചു. മൂന്നുവർഷത്തിനകം ക്വാൻങ്ങ്സി കൂടാതെ ഹുണാൻ, ഹുപ്പൈ,
+ആങ്ങ്വി എന്നീ സംസ്ഥാനങ്ങളും അവർ കൈവശപ്പെടുത്തി. ച്യാങ്ങ്ഷാ, വുവാംഗ്, ഹനിയാങ്ങ് മുതലായ
+പ്രധാനക്രേന്ദ്രങ്ങളും അവർ പിടിച്ചു. സൈന്യം പതിനായിരത്തിൽ നിന്നു് ഒരു ലക്ഷമായി. 1853-ൽ അവർ
+നാങ്കിംഗ് പിടിച്ചു. അവിടെനിന്നു് പെക്കിംഗ് പിടിക്കുവാൻ പുറപ്പെട്ട സൈന്യം ആറുമാസത്തിനകം
+റ്റീൻസിനിലെത്തി. അതിനങ്ങോട്ടുള്ള സ്ഥലം പിടിക്കുക ദുഷ്ക്കരമായിരുന്നു. എങ്കിലും, നാംഗിങ്ങിൽ
+തലസ്ഥാനമായി സ്ഥാപിക്കപ്പെട്ട ശാന്തി സാമ്രാജ്യം ഒമ്പതുസംസ്ഥാനങ്ങളെയും 20 കോടി ജനങ്ങളെയും ഭരിച്ചു.
+ആ ഭരണകൂടത്തിന്റെ സ്വഭാവം നിർണ്ണയിക്കുവാൻ അവരുടെ നിയമങ്ങളിൽ ഒന്നുമാത്രം മതിയാവും.
+വയലുകളുള്ളവർ അവയെ യോജിച്ചു കൃഷിചെയ്യട്ടെ; നെല്ലുകിട്ടുമ്പോൾ അവർ യോജിച്ചു ഭക്ഷിക്കട്ടെ;
+വസ്ത്രത്തിന്റെയും പണത്തിന്റെയും കാര്യവും അങ്ങനെതന്നെ; എല്ലാവനും സമമായി ലഭിക്കുവാനും
+ഓരോരുത്തനും ഒരുപോലെ ഉണ്ണാനും ഉടുക്കാനുംവേണ്ടി എല്ലാം പൊതുവായി ഉപയോഗിക്കട്ടെ.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Regaining_the_Provincial_City_Anqing2.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">പ്രവിശ്യാ നഗരമായ അൻകിംഗ് വീണ്ടെടുക്കുന്നു.</figDesc>
+          </figure>
+          <p>വിപ്ലവത്തിന്റെ വിജയത്തോടുകൂടി പുതിയ ചുമതലകൾ വന്നുകൂടി. ഫ്യൂഡൽഘടനയെ തകർത്തു് അതിന്റെ
+സ്ഥാനത്തു് ഒരു പുതിയ സാമൂഹ്യഘടന പടുത്തുയർത്താൻ അവർ പരിശ്രമിച്ചു. പക്ഷേ, ഈ പരിശ്രമത്തിൽ
+പൊതുവുടമയെന്ന ആശയം പുറം തള്ളപ്പെട്ടു. അതിനു് ചൈനയ്ക്കു കാലമായിട്ടുണ്ടായിരുന്നില്ല. നേരേമറിച്ചു
+കുറെക്കൂടി ഉയർന്ന രൂപത്തിലുള്ള ഒരു സ്വകാര്യ ഉടമയാണു് അവർ സ്ഥാപിച്ചതു്. മുതലാളിത്ത വിപ്ലവത്തിന്റെ
+എല്ലാ ലക്ഷണങ്ങളും ടെയ്പിങ് വിപ്ലവത്തിൽ കണ്ടുതുടങ്ങി. വ്യവസായവാണിജ്യ ജയങ്ങൾ ടെയ്പിങ്
+തലസ്ഥാനത്തിൽ അഭിവൃദ്ധിപ്പെട്ടു. ചായ, പട്ടു് എന്നിവയുടെ കയറ്റുമതി വർദ്ധിപ്പിച്ചു. ഭൂമിയുടെ ഉല്പാദനശക്തിയും
+വർദ്ധിച്ചു. ചുങ്കം നിർത്തൽ ചെയ്തു. യുദ്ധത്തിനുവേണ്ടി ഭാരിച്ച നികുതികൾ ചുമത്തേണ്ടിവന്നെങ്കിലും അതു്
+കഴിവുള്ളവരുടെമേൽ മാത്രമായിരുന്നു. പൊതുവേ പറഞ്ഞാൽ മുതലാളിത്തരീതിയിലുള്ള ഉല്പാദനത്തിനു്
+ഉദാരമായ പ്രോത്സാഹനമാണു് ലഭിച്ചതു്. യാതൊരുതരത്തിലുള്ള കൊള്ളയും അവരുടെ രാജ്യത്തുണ്ടായിരുന്നില്ല.
+അവർ പിടിച്ചടക്കുന്ന സ്ഥലങ്ങളിലെ ടാർട്ടാർ ഭടന്മാരെയും മഞ്ചുപ്രഭുക്കന്മാരെയും അവർ കൊന്നൊടുക്കി എന്നതു
+
+പരമാർത്ഥമാണു്. പക്ഷേ, പൊതുവെ ജനങ്ങൾക്കു വളരെ സുഖമായിരുന്നു. ചൈനയൊട്ടാകെ ഉള്ള ഒരാശ
+ഇതായിരുന്നു. “തെക്കുള്ള വിപ്ലവകാരികൾ ഇവിടെയും വന്നിരുന്നെങ്കിൽ.” വിദേശികളോടും അവർ മമത
+കാണിച്ചു. മഞ്ചുരാജവംശത്തെ സംരക്ഷിക്കുവാൻ യാതൊന്നും ചെയ്യരുതെന്നുമാത്രമേ അവർക്കു
+നിർബന്ധമുണ്ടായിരുന്നുള്ളു. ഈ നിബന്ധന എത്ര പ്രധാനമായിരുന്നു എന്നു് അനന്തരസംഭവങ്ങൾ തെളിയിച്ചു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Destroying_Chinese.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ബ്രിട്ടീഷ് സ്റ്റീംഷിപ്പ് ചൈനീസ് യുദ്ധ ജങ്കുകളെ നശിപ്പിക്കുന്നു, ഇ. ഡങ്കൻ,
+1843.</figDesc>
+          </figure>
+          <p>യൂറോപ്പിലെ മുതലാളിത്തരാഷ്ട്രങ്ങൾ ചൈനയിൽ മുതലാളിത്തം വളരുന്നതിനു് ഇഷ്ടപ്പെട്ടിരുന്നില്ല. അവർ
+മഞ്ചുരാജവംശത്തോടു ചേർന്നു് ടെയ്പിങ് പ്രസ്ഥാനത്തെ നശിപ്പിക്കുകയാണു് ചെയ്തതു്. 1856-ൽ ബ്രിട്ടീഷ് ഫ്രഞ്ചു
+നാവികസൈന്യങ്ങൾ ക്വാൻടംഗ് നഗരം വെടിവച്ചു തകർത്തു. അവരുടെ ലക്ഷ്യം അധഃപതിച്ച ഫ്യൂഡൽ
+അധികാരത്തെ താങ്ങിനിറുത്തി അവരിൽനിന്നും പ്രത്യേകാവകാശങ്ങൾ പിടിച്ചുപറിക്കുക എന്നതായിരുന്നു.
+ചൈനയിലെ സ്ഥിതിഗതികൾ പഠിക്കുവാൻ നിയമിക്കപ്പെട്ട സംഘങ്ങളുടെ റിപ്പോർട്ടിനെ വകവെയ്ക്കാതെതന്നെ
+അവർ ടെയ്പിങ് പ്രസ്ഥാനത്തിനെതിരായി യുദ്ധം ചെയ്തു. ആദ്യകാലങ്ങളിൽ മഞ്ചുരാജവംശത്തെ അവർ
+കോടാലിക്കയ്യാക്കി. പക്ഷേ, മഞ്ചുവിനു് നാംഗിങ്ങ് പിടിക്കുവാൻ കഴിഞ്ഞില്ല. എങ്കിലും, ചൈനയിലെ
+പിന്തിരിപ്പന്മാരും വിദേശശക്തികളും സംഘടിച്ചു് ടെയ്പിങ് വിപ്ലവത്തെ തകർത്തു.
+</p>
+          <p>
+ഡെമോക്രാറ്റ് 25 നവംബർ 1950.
+</p>
+          <p>
+അന്വേഷണങ്ങൾ 2004.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Taiping Rebellion (ml: ടെയ്പിങ്
+വിപ്ലവം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-03-31. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas, Taiping
+Rebellion, സി. ജെ. തോമസ്, ടെയ്പിങ് വിപ്ലവം, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 9, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Pine,_Plum_and_Cranes.jpg">Pine,
+Plum and Cranes,</ref> a painting by Shen Quan  (1682–1760). The image is taken from
+<ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-taiping.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-taiping.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

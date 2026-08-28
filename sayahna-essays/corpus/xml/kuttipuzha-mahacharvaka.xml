@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മഹാഭാരതത്തിലെ ചാർവാകവധം</title>
+          <title xml:lang="en" type="main">Mahabharathathile Charvakavadham</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">April 25, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മഹാഭാരതത്തിലെ ചാർവാകവധം</title>
+              <title xml:lang="en" type="main">Mahabharathathile Charvakavadham</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Mahabharathathile Charvakavadham</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മഹാഭാരതത്തിലെ ചാർവാകവധം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 25, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Girl_with_Autumn_Leaves.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Girl_with_Autumn_Leaves_by_Boston_Public_Library.jpg">Girl
+with Autumn Leaves,</ref> a painting by L Prang  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മഹാഭാരതത്തിലെ ചാർവാകവധം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മഹാഭാരതത്തിലെ ചാർവാകവധം</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Debiprasad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദേവീപ്രസാദ്ചതോപാദ്ധ്യായ</figDesc>
+          </figure>
+          <p style="noindent"> ചാർവാകസിദ്ധാന്തം, ബാർഹസ്പത്യം, ലോകായതം എന്നീ പേരുകളിലാണു്
+പ്രാചീനഭാരത്തിലെ നാസ്തികഭൗതികവാദം അറിയപ്പെട്ടിരുന്നതു്. <ref target="https://en.wikipedia.org/wiki/Debiprasad_Chattopadhyaya">ദേവീപ്രസാദ്ചതോപാദ്ധ്യായ</ref>
+എഴുതിയ ‘<ref target="https://en.wikipedia.org/wiki/Lokayata:_A_Study_in_Ancient_Indian_Materialism">ലോകായതം</ref>’
+എന്ന നവീനഗ്രന്ഥത്തിൽ ഈ സിദ്ധാന്തം വൈദികകാലത്തിനു മുമ്പുതന്നെ ഇൻഡ്യയിൽ പ്രചരിച്ചിരുന്നുവെന്നു്
+തെളിവുസഹിതം സമർത്ഥിച്ചിരിക്കുന്നു. ലോകേഷു—ജനങ്ങളിൽ, ആയതം—വ്യാപ്തം എന്നു്
+ലോകായതത്തിനർത്ഥം പറയാം. ഈ പേരിൽനിന്നു തന്നെ ഭൗതികവാദത്തിനു അക്കാലത്തു്
+പ്രചുരപ്രചാരമുണ്ടായിരുന്നുവെന്നു ഊഹിക്കാമല്ലോ. അനന്തരകാലത്തു് ആര്യബ്രാഹ്മണരുടെ
+വേദോപനിഷത്തുക്കൾക്കു് പ്രാമാണ്യം സിദ്ധിച്ചതോടെ പ്രസ്തുത സിദ്ധാന്തത്തിനു് പ്രചാരം കുറഞ്ഞു മാത്രമല്ല,
+സനാതനമതക്കാരുടെ ദൃഷ്ടിയിൽ ചാർവാകർ നിഷിദ്ധരും അവഹേളനാർഹരുമായി. തങ്ങളുടെ മതം
+വിശ്വസിക്കാത്തവരെയൊക്കെ അസുരന്മാരും രാക്ഷസന്മാരുമാക്കി ചിത്രീകരിക്കുന്ന പതിവു്
+ആര്യബ്രാഹ്മണരുടെയിടയിൽ പണ്ടേ ഉണ്ടായിരുന്നു. ചാർവാകരേയും ഇക്കൂട്ടത്തിൽപ്പെടുത്താൻ അവർ
+മടിച്ചിരുന്നില്ല. എങ്കിലും അന്നത്തെ ഭൗതികവാദം ബുദ്ധിമാന്മാരും സ്വതന്ത്രചിന്തകരുമായ പല ബ്രാഹ്മണരെയും
+ആകർഷിച്ചിരുന്നുവെന്നതിനു് രാമായണത്തിലും ഭാരതത്തിലും തെളിവുകൾ കാണാം. രണ്ടിലേയും
+കഥാഗതിയിൽ ചില ചാർവാകബ്രാഹ്മണർ തലപൊക്കുന്നുണ്ടു്. അവരെ തോല്പിച്ചോടിക്കാനും നശിപ്പിക്കാനും
+വൈദികബ്രാഹ്മണൻ പല കുതന്ത്രങ്ങളും പ്രയോഗിച്ചിരുന്നു.
+</p>
+          <p>ഭാരതം ശാന്തിപർവത്തിലെ ചാർവാകവധം ചാർവാകവരദാനാദികഥനം എന്നീ രണ്ടുപാഖ്യാനങ്ങൾ
+മേൽപ്പറഞ്ഞതിനുദാഹരണമാണു്. സ്വതേ ശാന്തശീലനും ധർമിഷ്ഠനുമായ യുധിഷ്ഠിരൻ കുരുക്ഷേത്രയുദ്ധം
+കഴിഞ്ഞപ്പോൾ താൻമൂലം സംഭവിച്ച പിതാമഹഗുരുഭ്രാത്യവധാദിദ്രോഹകൃത്യങ്ങളോർത്തു് അത്യന്തം സന്തപ്തനും
+വിരക്തനുമായിത്തീരുന്നു ഓർക്കുന്തോറും തെളിഞ്ഞു വന്ന അപരാധബോധത്താലും നീറിനീറിപ്പിടിച്ച
+പശ്ചാത്താപത്താലും അദ്ദേഹം ദയനീയമാംവിധം അസ്വസ്ഥചിത്തനായി. മുറപ്രകാരം രാജസ്ഥാനമേറ്റെടുക്കാൻ
+പോലും ആ നീതിനിഷ്ഠൻ മടികാണിച്ചു. ഇത്തരം ദുർഘടഘട്ടങ്ങളിൽ പെട്ടെന്നു പ്രത്യക്ഷപ്പെട്ടു് ഒരു പോം വഴി
+കാണിച്ചുകൊടുക്കുന്ന മഹാമുനി വേദാവ്യാസൻ ശ്രീകൃഷ്ണ പ്രഭൃതികളുമൊരുമിച്ചുചെന്നു ധർമപുത്രരെ
+സമാശ്വസിപ്പിക്കുകയും സമയോചിതമായ ഉപദേശങ്ങൾ കൊടുക്കുകയും ചെയ്യുന്നു. വൈവശ്യവും വൈരാഗ്യവും
+തീർത്തു പാണ്ഡവജ്യേഷ്ഠനെ കർത്തവ്യോന്മുഖനാക്കുക എന്നതായിരുന്നു ഉപദേഷ്ടാക്കളുടെ മുഖ്യോദ്ദേശ്യം അതു
+നിഷ്പ്രയാസം സഫലമായി. മനഃക്ലൈബ്യമെല്ലാം തീർന്നു ധർമപുത്രർ ഭരണാധികാരമേൽക്കാൻ
+രാജധാനിയിലേക്കു പുറപ്പെട്ടു. വമ്പിച്ചൊരു ഘോഷയാത്രയോടുകൂടിയായിരുന്നു അദ്ദേഹത്തിന്റെ
+ഹസ്തിനപുരപ്രവേശനം. അസംഖ്യം വിപ്രന്മാരെയും ദേവകളെയും പൂജിച്ചനുഗ്രഹം വാങ്ങുക എന്ന കർമം ആദ്യം
+നടന്നു. ബന്ധുമിത്രാദികളാൽ അനുഗതനായി രാജകീയാഡംബരങ്ങളോടെ ധർമ്മപുത്രർ തേരിൽ കേറി.
+</p>
+          <lg>
+            <l> ‘പിന്നെ വെള്ളപ്പുതുത്തേരു </l>
+            <l> കമ്പിളിത്തോലണിഞ്ഞതായ്</l>
+            <l> പതിനാറു ശുഭംചേരും</l>
+            <l> വെള്ളക്കാള വഹിപ്പതായ് </l>
+            <l> പുണ്യമന്ത്രാർച്ചിതമതിൽ-</l>
+            <l> ക്കേറി വന്ദികൾ വാഴ്ത്തുവോൻ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നാണു് കവിയുടെ വർണനം തേർ തെളിക്കാൻ ഭീമൻ, വെൺകൊറ്റക്കുട പിടിക്കാൻ അർജ്ജുനൻ,
+വെഞ്ചാമരം വീശാൻ നകുലസഹദേവന്മാരും ആഹ്ലാദഭരിതമായ ജനക്കുട്ടത്തിന്റെ ജയജയഘോഷം നാലുപാടും
+മാറ്റൊലികൊണ്ടു ഇങ്ങനെ പുരപ്രവേശം തിരുതകൃതിയാക്കി ധർമപുത്രൻ രാജഗൃഹദ്വാരത്തിൽ എത്തി.</p>
+          <lg>
+            <l> ‘പിന്നെ വിണ്ണും തിങ്ങുമാറായ് </l>
+            <l> പുണ്യാഹധ്വനി ഭാരത!</l>
+            <l> സുഹൃൽ പ്രീതിദമുണ്ടായി</l>
+            <l> പുണ്യം ശ്രുതിസുഖാവഹം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് കവിവർണനം തുടരുന്നു. പൂർണകുംഭവുമേന്തി വേദോച്ചാരണത്തോടെ ബ്രാഹ്മണർ ചുറ്റും കൂടി
+രാജാവിനെ ആശീർവദിച്ചു. ഈ കോലാഹലമൊക്കെ കഴിഞ്ഞു് അല്പനേരത്തേയ്ക്കൊരു നിശ്ശബ്ദത വ്യാപിച്ചപ്പോൾ
+പെട്ടെന്നു വിപ്രസമൂഹത്തിൽ നിന്നു് ഒരു ചാർവാകബ്രാഹ്മണൻ മുന്നോട്ടു വന്നു് ഉറക്കെ വിളിച്ചു
+പറയുകയാണു്.</p>
+          <lg>
+            <l> ‘ഈ വിപ്രരൊക്കെച്ചൊൽവൂ ആ </l>
+            <l> വാക്കിതെന്റെമുഖാന്തരം </l>
+            <l> ജ്ഞാതിഘ്നൻ നീ നൃപതി! നീ</l>
+            <l> നിന്ദ്യനായ്ത്തിരുമെന്നുതാൻ </l>
+            <l> കൗന്തേയ! ജ്ഞാതിനിധന-</l>
+            <l> മിതു ചെയ്തവനെന്തിനോ?</l>
+            <l> ഗുരുക്കളെക്കൊല്ലിച്ചു, ചാക</l>
+            <l> നല്ലു ജീവിക്കയല്ലിഹ.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്തൊരു നാടകീയമായ രംഗം? എത്ര ധീരമായ അഭിപ്രായപ്രകടനം? ജ്ഞാതികളെയും ഗുരുക്കളെയും
+കൊല്ലിച്ച കൊലയാളിയാണു് ധർമപുത്രരെന്നും അയാൾക്കിനി ജീവിതത്തേക്കാൾ നല്ലതു മരണമാണെന്നും
+ചാർവാകൻ മുഖത്തു നോക്കി തുറന്നടിക്കുന്നു. പാവം ധർമപുത്രർക്കു മറുപടിയില്ല. സത്യമല്ലേ പറഞ്ഞതു്? പണ്ടേ
+തന്റെ അബോധമനസ്സിലാണ്ടുകിടന്നിരുന്ന അപരാധബോധം ആളിക്കത്തുന്നതായി അനുഭവപ്പെട്ടു് രാജാവു
+വീണ്ടും വിവശനായി. ആശീർവാദം മുഴക്കിയിരുന്ന ബ്രാഹ്മണരോ? കൂട്ടത്തിലൊരുവൻ ആ മംഗളമുഹൂർത്തത്തിൽ
+ഇങ്ങനെ അപ്രതീക്ഷിതമായി തങ്ങളുടെ മുഖത്തു കരിതേക്കുമെന്നു് അവർ വിചാരിച്ചില്ല. പ്രതിഷേധം അയാളുടേതു
+മാത്രമായിരുന്നെങ്കിൽ സഹിക്കാമായിരുന്നു. എന്നാൽ ബ്രാഹ്മണസമൂഹത്തിന്റെ പ്രതിനിധിയായിട്ടാണു് ആ
+ശഠബുദ്ധി സംസാരിച്ചതു് ഇനി എന്തുചെയ്യും? എങ്ങനെ ഈ നാണക്കേടിനെ നേരിടും? രാജ്യം ഭരിക്കാൻ
+പോകുന്ന ധർമപുത്രരെ ഇങ്ങനെ തങ്ങളുടെ കൂട്ടത്തിൽ നിന്നുകൊണ്ടു പരസ്യമായി അവഹേളിച്ചതിനു എന്തു
+പ്രതിവിധി? രാജാവും ബ്രഹ്മണരുമെല്ലാം ‘നാണിച്ചുദ്വേഗമാണ്ടൊന്നും മിണ്ടാതായി നിന്നു’ എന്നു കവി പറയുന്നു.
+പക്ഷേ, വീർപ്പുമുട്ടിച്ച ഈ മൗനം അധികനേരം നീണ്ടുനിന്നില്ല. പ്രത്യുൽപന്നമതികളായ ഭൂദേവന്മാർ നല്ലൊരു
+സമാധാനം കണ്ടുപിടിച്ചു. ഈ ‘തോന്ന്യാസം’ കാണിച്ചവൻ ബ്രാഹ്മണനല്ല ബ്രാഹ്മണവേഷത്തിൽ വന്നിരിക്കുന്ന
+ഒരു ചാർവാകരാക്ഷസനാണു്. മാത്രമല്ല, ഇവൻ ദുര്യോധനപ്രിയനും അയാൾക്കു് ഹിതം ചെയ്യാൻ വന്നവനുമാണു്.
+ഇങ്ങനൊയൊരു കഥ അവർ കെട്ടിച്ചമച്ചു പറഞ്ഞു കേൾപ്പിച്ചപ്പോൾ ധർമ്മപുത്രർക്കു് ഒട്ടൊരാശ്വാസമായി.
+ബ്രഹ്മജ്ഞരുടെ വാക്കു വിശ്വസിക്കാതിരിക്കാനൊക്കുമോ? ഇത്രമാത്രം കൊണ്ടും കാര്യം കലാശിച്ചില്ല. ‘ക്രുദ്ധരും
+ക്ഷുധരുമായ ബ്രാഹ്മണരെല്ലാം ചേർന്നു ചാർവാകന്റെ കഥകഴിച്ചു. രാക്ഷസൻ വധ്യനാണല്ലോ.’</p>
+          <lg>
+            <l> ‘വെന്തുവീണിതവൻ ബ്രഹ്മ-</l>
+            <l> വാദിതേജസ്സിനാലുടൻ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നാണു് കവി പറയുന്നതെങ്കിലും ബ്രാഹ്മണതേജസിലല്ല സാധാരണ വഹ്നിയിലാണു് ആ നിസ്സഹായനെ
+അവർ ചുട്ടെരിച്ചതെന്നു അന്ധവിശ്വാസികളല്ലത്തവരൊക്കെ മനസ്സിലാക്കും. ബ്രൂണോവിനെ ചുട്ടുകരിച്ച
+‘ഇൻക്വിസിഷൻ’ സമ്പ്രദായത്തിന്റെ പൗരസ്ത്യപ്പതിപ്പാണിതു്. സതിയെന്ന ക്രൂരാചാരത്തെപ്പോലും
+സാനാതനധർമ്മത്തിലുൾപ്പെടുത്തി അനേകായിരം വിധവകളെ വിറകുകൊള്ളികളാക്കി ജീവനോടെ ദഹിപ്പിച്ച
+ആർഷഭാരതത്തിൽ ഇത്തരം സംഭവങ്ങൾ നടന്നുവെന്നതു് ഒട്ടും ആശ്ചര്യകരമല്ല. പഴയകാലത്തു് ഇൻഡ്യയിൽ
+ചാർവാകവിദ്വേഷം അത്രമാത്രം കത്തിക്കാളിയിരുന്നു. ചാർവാകസിദ്ധാന്തത്തെ മനഃപൂർവ്വം വളച്ചൊടിച്ചും
+അന്യഥാ വ്യാഖ്യാനിച്ചും അതിനെപ്പറ്റി ജനങ്ങളുടെയിടയിൽ വെറുപ്പുളാവാക്കാൻ പണ്ടത്തെ മതപണ്ഡിതന്മാർ
+
+എത്രയോ ശ്രമം നടത്തിയിട്ടുണ്ടു്.
+</p>
+          <p>മേൽപ്പറഞ്ഞ കെട്ടുകഥ കേട്ടിട്ടും ധർമപുത്രർക്കു വേണ്ടത്ര വിശ്വാസം വന്നില്ലെങ്കിലോ എന്നു കരുതി
+ശ്രീകൃഷ്ണൻ തന്നെ മുന്നോട്ടു വന്നു് ഈ ‘ചാർവാകരാക്ഷസ’നെപ്പറ്റി ഒരു പുരാണകഥകൂടി പറയുന്നു. അതാണു്
+ചാർവാകവരദാനാദികഥനം. അയാൾ പണ്ടു ബദരിയിൽചെന്നു് ബ്രഹ്മാവിനെ തപസ്സുചെയ്തു പ്രത്യക്ഷപ്പെടുത്തി
+വരം വാങ്ങിയെന്നും അനന്തരം വാനോരെ ദ്രോഹിക്കാൻ പുറപ്പെട്ടുവെന്നും മറ്റും. ഇത്തരം മുത്തശ്ശിക്കഥകൾ
+വിസ്തരിച്ചു ഇവിടെ സ്ഥലം മെനക്കെടുത്തേണ്ടതില്ലല്ലോ.
+</p>
+          <p>
+യുക്തിവിഹാരം 1968.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Mahabharathathile
+Charvakavadham (ml: മഹാഭാരതത്തിലെ ചാർവാകവധം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Mahabharathathile Charvakavadham, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മഹാഭാരതത്തിലെ
+ചാർവാകവധം, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 25, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Girl_with_Autumn_Leaves_by_Boston_Public_Library.jpg">Girl
+with Autumn Leaves,</ref> a painting by L Prang  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-mahacharvaka.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhamahacharvaka.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

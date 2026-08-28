@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചങ്ങലകൾ പൊട്ടിക്കാൻ ഇനിയും...</title>
+          <title xml:lang="en" type="main">Changalakal Pottikkan Iniyum...</title>
+        </title>
+        <author>T. A. Rajalakshmi</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 2, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is in the public domain. The text encoding and editorial notes
+were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചങ്ങലകൾ പൊട്ടിക്കാൻ ഇനിയും...</title>
+              <title xml:lang="en" type="main">Changalakal Pottikkan Iniyum...</title>
+            </title>
+            <author>T. A. Rajalakshmi</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>T. A. Rajalakshmi</term>
+          <term>Changalakal Pottikkan Iniyum...</term>
+          <term>ടി. എ. രാജലക്ഷ്മി</term>
+          <term>ചങ്ങലകൾ പൊട്ടിക്കാൻ ഇനിയും...</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 2, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Modigliani_-_Jewess.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Modigliani__Jewess.jpg">Jewess,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Amedeo_Modigliani">Amedeo
+Modigliani</ref>  (1884–1920). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചങ്ങലകൾ പൊട്ടിക്കാൻ ഇനിയും...</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>ടി. എ. രാജലക്ഷ്മി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചങ്ങലകൾ പൊട്ടിക്കാൻ ഇനിയും…
+(ഒരു പ്രസംഗത്തിനുവേണ്ടി രാജലക്ഷ്മി തയ്യാറാക്കിയ കുറിപ്പു് )</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Woolf_by_Beresford_2.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെർജീനിയാവുൾഫ്</figDesc>
+          </figure>
+          <p style="noindent"> അവരുടെ ‘A Room of one’s Own and Five Hundred Pounds a
+Year’—വാസനയുള്ള ഒരു സ്ത്രീയുടെ പ്രഥമവും പ്രധാനവുമായ ആവശ്യം അതാണു്—<ref target="https://ml.wikipedia.org/wiki/Virginia_Woolf">വെർജീനിയാവുൾഫ്</ref>
+പറയുന്നതാണു്. നോവലുകളോടൊപ്പം പല നോവലുകളേയുംകാൾ കൂടുതൽ രസമായി വായിച്ചുപോകാവുന്ന ഒരു
+പുസ്തകമാണല്ലോ A Room of One’s own. കഥകളെ മാറ്റി നിർത്തിയാലും അതൊരെണ്ണം എഴുതി എന്നതിൽ
+തന്നെ മിസ്സിസ് വുൾഫിനു് അഭിമാനിക്കാം.
+</p>
+          <p>അപ്പോൾ ഒരു പേർപെറ്റ കാഥികയുടെ അഭിപ്രായത്തിൽ സാമ്പത്തിക പരതന്ത്രത ഇല്ലാതിരിക്കുകയാണു്
+പ്രധാനം. ജെയിൻ ഓസ്റ്റിനെപറ്റി സംസാരിക്കുമ്പോൾ ആണു് ഈ പ്രസ്താവം വന്നിരിക്കുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Dostoevskij.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോസ്റ്റോവ്സ്കി</figDesc>
+          </figure>
+          <p> ഒന്നാം കിടക്കാരോടൊപ്പം സംശയം കൂടാതെ കസേര ഇട്ടു് ഇരിക്കാം എന്നു് കാലം വിധിച്ചു കഴിഞ്ഞിട്ടുള്ള
+<ref target="https://ml.wikipedia.org/wiki/Jane_Austen">ജെയിൻ ഓസ്റ്റിൻ</ref>,
+ഒരിക്കലും ഒരു കാമുകിയോ ഭാര്യയോ അമ്മയോ ആകാതെ മരിച്ച ആ പാതിരിയുടെ
+മകൾ—’പെർസുവേഷ’നിലെ ക്യാപ്റ്റൻ വെന്റ് വെർത്ത് അവരുടെ ജീവിതത്തിലെ ഒരേടിൽ നിന്നാണു്
+എന്നൊരു പക്ഷം ഉള്ളതു് മറക്കാതെ തന്നെ ഇത്രയും എഴുതിയതു്—<ref target="https://ml.wikipedia.org/wiki/Fyodor_Dostoyevsky">ഡോസ്റ്റോവ്സ്കി</ref>
+യുടെ കൊടുമ്പിരിക്കൊണ്ട വികാരാവേഗമോ <ref target="https://ml.wikipedia.org/wiki/Leo_Tolstoy">ടോൾസ്റ്റോയി</ref> യുടെ
+ഉദാത്തമായ ജീവിതവീക്ഷണമോ കൂടാതെ ഒരഞ്ചാറു് സാധാരണ കഥാപാത്രങ്ങളെ വെച്ചുകൊണ്ടു് അഞ്ചാറു്
+ഒന്നാംതരം പുസ്തകങ്ങളെഴുതി നൂറു നൂറ്റയ്മ്പതു് കൊല്ലങ്ങൾക്കുശേഷവും ഇന്നും ജീവിക്കുന്ന ജെയിൻ ഓസ്റ്റിൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Leon_tolstoi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടോൾസ്റ്റോയി</figDesc>
+          </figure>
+          <p> സാമ്പത്തിക പരതന്ത്രത ഇല്ലായിരുന്നു എങ്കിൽ—ശല്യം കൂടാതെ ഇരുന്നെഴുതാൻ ഒരു മുറിയും ആരുടേയും
+അനുവാദം ചോദിക്കാതെ ഇഷ്ടംപോലെ ചിലവു ചെയ്യാൻ ഒരു വരുമാനവും—അല്ല, വരുമാനം ഉണ്ടാക്കാനുള്ള
+സ്വാതന്ത്ര്യവും—ഉണ്ടായിരുന്നെങ്കിൽ അവരിലും ഒരുപക്ഷേ, ഒരു <ref target="https://ml.wikipedia.org/wiki/William_Shakespeare">ഷെയ്ക്സ്പിയർ</ref>
+വളർന്നുവരുമായിരുന്നു എന്നാണു് മിസ്സിസ് വുൾഫ് സമർത്ഥിച്ചുകൊണ്ടു വരുന്നതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shakespeare.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷെയ്ക്സ്പിയർ</figDesc>
+          </figure>
+          <p> ഇതു് ഒന്നരനൂറ്റാണ്ടു് മുമ്പിലത്തെ കാര്യമാണു്—സ്ത്രീക്കു് സ്വതന്ത്രമായ ഒരു വരുമാനം ഉണ്ടായിക്കൂടാ,
+അതുണ്ടാക്കുവാൻ സ്ത്രീ ശ്രമിക്കുകയും ചെയ്തു കൂടാ എന്നു ശഠിച്ചിരുന്ന കാലത്തെ. ഇന്നു് വരുമാനമുള്ള സ്ത്രീകൾ
+ഉണ്ടു്. വരുമാനമുണ്ടാക്കുന്ന തൊഴിലുകളിൽ ഏർപ്പെടുന്ന സ്ത്രീകളും ഉണ്ടു്. അപ്പോൾ—അക്കഥ നിൽക്കട്ടെ. സ്ത്രീ
+നോവലിസ്റ്റുകൾ അല്ലല്ലോ ചർച്ചാവിഷയം.
+</p>
+          <p>സാമ്പത്തിക പരാധീനത ഒരാളുടെ സാഹിത്യപ്രവർത്തനത്തെ സാരമായി ബാധിക്കും. അതു് തീർച്ച.
+കുറച്ചെങ്കിലും അന്തസ്സായി ജീവിക്കണമെങ്കിൽ എഴുത്തല്ലാതെ വേറൊരു തൊഴിൽ കൂടി ശീലിച്ചെങ്കിലേ ഒക്കൂ
+എന്നുള്ള സ്ഥിതിയാണു്. ജീവനോപായം ഉണ്ടാക്കുക എന്നതാണു് പ്രാഥമികാവശ്യം. എഴുത്തല്ല മറ്റതാണു്
+ജീവനോപാധിയായ തൊഴിൽ. അപ്പോൾ ബൗദ്ധവും ശാരീരികവുമായ കഴിവു് കൂടുതൽ ആ വഴിക്കു്
+ഒഴുകിയെങ്കിലേ ഒക്കൂ. ഏറ്റ തൊഴിൽ മാനമായി ചെയ്യുന്ന ബദ്ധപ്പാടിനിടയിൽ ഒളിച്ചും കട്ടും കിട്ടുന്ന നിമിഷങ്ങൾ
+വേണം ഉള്ളിന്റെ ഉള്ളിൽ സർവ്വപ്രധാനം എന്നു കരുതുന്ന തൊഴിലിനുവേണ്ടി ചിലവാക്കാൻ എന്നുള്ള അവസ്ഥ
+മാറണമെങ്കിൽ എഴുത്തു് എന്ന ജോലി കാര്യമായി എടുക്കുന്ന ഒരാൾക്കു് മിടുക്കുണ്ടെങ്കിൽ അതുകൊണ്ടുതന്നെ
+സാമാന്യം അന്തസ്സായി ജീവിക്കാൻ കഴിയും എന്ന ഒരു കാലം വരണം.
+</p>
+          <p>നല്ല പ്രതിഫലം കിട്ടണം. പുസ്തകം അച്ചടിച്ചാൽ വിറ്റുകാശു് സമയത്തിനു് കിട്ടണം. അതിനും
+വിൽപ്പനക്കാരോടു് അടികൂടാൻ പോകണം എന്ന നില മാറണം.
+</p>
+          <p>എഴുത്തു് നല്ല വരുമാനം ഉള്ള ഒരു തൊഴിൽ ആണു് എന്ന നില വന്നു കഴിഞ്ഞിട്ടുള്ള സായിപ്പിന്റെ നാട്ടിൽ
+നോവലുകൾ അത്രയേറെ മെച്ചപ്പെട്ടവയാണോ ഇപ്പോൾ? അതു് വേറൊരു ചോദ്യം. നമ്മുടെ നാട്ടിൽ അതു്
+ഇന്നൊരു പ്രശ്നമല്ല.
+</p>
+          <p>19-ാം നൂറ്റാണ്ടിലെ ഇംഗ്ലണ്ടിലേയും റഷ്യയിലേയും നോവലുകളുടെ വളർച്ചയേ നമ്മുടെ നോവലിനു് ഇന്നുള്ളു.
+അതത്രയേ ഉണ്ടാവാൻ തരമുള്ളുവല്ലോ. നമ്മുടെ ഇന്നത്തെ സാമൂഹ്യവും ആർത്ഥികവുമായ പ്രശ്നങ്ങൾ ആ നാട്ടിൽ
+അന്നുണ്ടായിരുന്നവയോടു് സാദൃശ്യമുള്ളവ ആണല്ലോ.
+</p>
+          <p>അവിടെ നടക്കുന്ന പുതിയ പരീക്ഷണങ്ങൾ ഇവിടെ ഇല്ലല്ലോ എന്നു് പരാതിപ്പെട്ടിട്ടു് എന്തു കാര്യം?
+നാലുകാലിൽ ഇഴഞ്ഞു്, പിടിച്ചു് നിന്നു് ഓരോ അടിയായിവെച്ചു് ഇങ്ങനെ ബുദ്ധിമുട്ടി വളർന്നെങ്കിലേ അടിയുറയ്ക്കൂ.
+</p>
+          <p>പടിഞ്ഞാറു നിന്നു് ഒരു റെഡിമെയ്ഡ് സംസ്കാരം അങ്ങനെത്തന്നെ വിലക്കെടുത്തിട്ടു് എന്തു ഗുണം? അതല്ലേ
+വാസ്തവത്തിൽ നമ്മുടെ നാട്ടിൽ ഇന്നു വളരെ നാഷണൽ ലബോറട്ടറികൾ ഉണ്ടായിട്ടും കാര്യമായിട്ടു് ഒന്നും
+നടക്കാത്തതിന്റെ പിന്നിൽ ഉള്ളതു്. <ref target="https://ml.wikipedia.org/wiki/Andr%C3%A9Marie_Amp%C3%A8re">Ampire</ref>-മാരും ലപോസിയേമാരും വളർന്ന ഇടത്തേ
+ഐൻസ്റ്റെൻമാരും <ref target="https://en.wikipedia.org/wiki/Louis_de_Broglie">ഡിബ്രോഗ്ലി</ref> മാരും
+ഉണ്ടാകൂ. ഇരുണ്ട ഇടനാഴിയിൽക്കൂടി തപ്പിത്തടഞ്ഞു ചെന്നിട്ടു വേണം ശ്രീകോവിലിന്റെ വാതിൽ
+തള്ളിത്തുറക്കാൻ.
+</p>
+          <p>മനസ്സു് എന്ന ആ അടികാണാത്ത കടൽ, പായലിനടിയിൽ അതിന്റെ മുത്തുകൾ ഒളിപ്പിച്ചുകൊണ്ടു് നമ്മുടെ
+മുമ്പിൽ ഉണ്ടു്. മുകൾപ്പരപ്പിൽ കപ്പലോടിച്ചു പോയതുകൊണ്ടു് ആയില്ല. അതിന്റെ നിഗൂഢമായ
+അഗാധതകളിലേക്കു് മുങ്ങാങ്കുളിയിട്ടു് പൊങ്ങിയതുകൊണ്ടും ആയില്ല. അവിടെ സാവകാശം നിന്നു് പതുക്കെ ചുറ്റും
+നോക്കണം. അവിടത്തെ അഴകുകൾ കാണലും അപകടങ്ങൾ നേരിടലും. <ref target="https://en.wikipedia.org/wiki/Scuba_diving">Shin Diving</ref><ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> എന്ന ഒരു ഇടപാടിനെപ്പറ്റി
+വായിച്ചിട്ടുണ്ടു്. പ്രത്യേക ഉടുപ്പും Mask-ഉം ഉണ്ടെങ്കിൽ കടലിനടിയിലേക്കു് അങ്ങുചെന്നാൽ മണിക്കൂറുകൾ
+അവിടെ കഴിയാമത്രെ. എന്തൊരു സാധ്യതകൾ—അതിനുള്ള കാലം വരും.
+</p>
+          <p>പരാതിപ്പെടാതെ മുറുമുറുക്കാതെ നമ്മളാൽ ആവുന്നതു് ചെയ്യാം. ചെറിയ സംഭാവനയും വിലപ്പെട്ടതാണു്.
+അത്രയ്ക്കു് ദാരിദ്ര്യമുണ്ടല്ലോ ഇവിടെ. നാം വിയർപ്പുകൊണ്ടു് വളമിടുന്ന ഈ മണ്ണു് കാലത്തിന്റെ കൈയിൽപെട്ടു്
+ഊഷര ഭൂമിയാകുകയാണെങ്കിൽ ആവട്ടെ. അന്നു നമുക്കു് അതിനെക്കുറിച്ചു് കരയാം. അന്നു് ചൂടുള്ള പ്രശ്നങ്ങൾ
+ഉണ്ടാവില്ലല്ലോ. സ്വൽപ്പം പരിഹാസത്തിൽ പൊതിഞ്ഞ പരിദേവനങ്ങൾ മാത്രം മതിയാകും അന്നു്.
+ഇന്നതുപോരല്ലോ. ചങ്ങലകൾ പൊട്ടിക്കാൻ ഇനിയും ബാക്കിയുണ്ടല്ലോ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ടി. എ. രാജലക്ഷ്മി</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rajalakshmi.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: ജൂൺ 2, 1930
+</p>
+          <p>മരണം: ജനുവരി 18, 1965
+</p>
+          <p>പഠിച്ച വിദ്യാലയം: ബനാറസ് ഹിന്ദു സർവ്വകലാശാല.
+</p>
+          <p>ശ്രദ്ധേയമായ രചന(കൾ): ഉച്ചവെയിലും ഇളംനിലാവും, ഞാനെന്ന ഭാവം.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">ജീവിതരേഖ</head>
+            <p style="noindent">പാലക്കാട് ജില്ലയിലെ ചെർപ്പുളശ്ശേരിയിൽ തേക്കത്ത് അമയങ്കോട്ട് തറവാട്ടിൽ
+മാരാത്ത് അച്യുതമേനോന്റെയും ടി. എ. കുട്ടിമാളു അമ്മയുടെയും മകളായാണു് രാജലക്ഷ്മിയുടെ ജനനം.
+എറണാകുളം ഗവണ്മെന്റ് ഗേൾസ് ഹൈസ്കൂളിൽ ഭൗതികശാസ്ത്രത്തിൽ ബിരുദം നേടിയതിനു ശേഷം
+തിരുവനന്തപുരം യൂണിവേഴ്സിറ്റി കോളേജിൽ മലയാളസാഹിത്യത്തിൽ ബിരുദാനന്തരബിരുദത്തിനു
+ചേർന്നുവെങ്കിലും പഠനം പാതിയിൽ നിറുത്തി. പിന്നീടു് രാജലക്ഷ്മി ബനാറസ് ഹിന്ദു സർവകലാശാലയിൽനിന്നു്
+1953-ൽ ഭൗതികശാസ്ത്രത്തിൽ മാസ്റ്റർ ബിരുദംനേടി. പെരുന്താന്നി, പന്തളം, ഒറ്റപ്പാലം എൻ. എസ്. എസ്.
+കോളേജുകളിൽ അദ്ധ്യാപക വൃത്തിനോക്കി.
+</p>
+            <p>1956-ൽ മാതൃഭൂമി ആഴ്ചപ്പതിപ്പു് പ്രസിദ്ധീകരിച്ച ‘മകൾ’ എന്ന നീണ്ടകഥയിലൂടെയാണു് രാജലക്ഷ്മി
+ശ്രദ്ധിക്കപ്പെടുന്നതു്. 1958-ൽ ‘ഒരു വഴിയും കുറേ നിഴലുകളും’ എന്ന നോവൽ ആഴ്ചപ്പതിപ്പിൽ
+പ്രസിദ്ധീകരിച്ചുതുടങ്ങി. 1960-ൽ ‘ഉച്ചവെയിലും ഇളംനിലാവും’ എന്ന നോവൽ മാതൃഭൂമി ആഴ്ചപ്പതിപ്പിൽ
+ഖണ്ഡശ്ശയായി വന്നുതുടങ്ങിയെങ്കിലും ഏഴെട്ടു് ഭാഗങ്ങൾക്കു ശേഷം രാജലക്ഷ്മിയുടെ ആവശ്യപ്രകാരം നോവൽ
+നിർത്തിവെച്ചു. തങ്ങളുടെ കഥയാണു രാജലക്ഷ്മി വിറ്റുകാശാക്കുന്നതെന്ന ചില ബന്ധുക്കളുടെ ആക്ഷേപമാണു്
+ഇതിനു കാരണമായതു്. എഴുതിയ നോവൽ പിന്നീടു് രാജലക്ഷ്മി കത്തിച്ചുകളയുകയുണ്ടായി. 1965-ൽ ‘ഞാനെന്ന
+ഭാവം’ എന്ന നോവൽ മാതൃഭൂമി ആഴ്ചപ്പതിപ്പിലൂടെ പുറത്തുവന്നു. മാതൃഭൂമിയെക്കൂടാതെ മംഗളോദയം, തിലകം,
+ജനയുഗം, നവജീവൻ എന്നീ പ്രസിദ്ധീകരണങ്ങളിലാണു് രാജലക്ഷ്മി കഥകൾ എഴുതിയിരുന്നതു്. 1965 ജനുവരി
+18-നു് രാജലക്ഷ്മി രാവിലെ വീട്ടിൽ നിന്നു് കോളേജിലേക്കു് പുറപ്പെട്ടു. പക്ഷേ, വീട്ടിൽ തിരിച്ചെത്തി ആത്മഹത്യ
+ചെയ്തു. അന്നു് അവർക്കു് 34 വയസ്സായിരുന്നു. ഇവരുടെ സഹോദരിയായിരുന്നു ഗണിതശാസ്ത്രജ്ഞയായ ടി. എ.
+സരസ്വതിയമ്മ
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+          <div type="lsubsection" xml:id="sec1.2.2">
+            <head type="lsubsechead">പൈതൃകവും ബഹുമതികളും</head>
+            <p style="noindent">മലയാളത്തിന്റെ എമിലി ബ്രോണ്ടി എന്നാണു് രാജലക്ഷ്മി അറിയപ്പെടുന്നതു്. ഏഴു്
+
+ചെറുകഥയും ഒരു ഗദ്യ കവിതയും കവിതാ സമാഹാരവും, മൂന്നു് നോവലും എഴുതി. ‘ഒരു വഴിയും കുറേ നിഴലുകളും’
+എന്ന കൃതിക്കു് 1960-ൽ നോവലിനുള്ള കേരള സാഹിത്യ അക്കാദമി അവാർഡ് കിട്ടി. ഈ നോവൽ പിന്നീടു്
+ദൂരദർശനിൽ സീരിയലായും ആകാശവാണിയിൽ നാടകമായും സംപ്രേക്ഷണം ചെയ്തു. മറ്റു് നോവലുകൾ
+‘ഞാനെന്ന ഭാവം’, ‘ഉച്ചവെയിലും ഇളം നിലാവും’ എന്നിവയാണു്. “നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു” എന്ന കവിതാ
+സമാഹാരം വളരെ ശ്രദ്ധിക്കപ്പെട്ടു.
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.2"-->
+          <div type="lsubsection" xml:id="sec1.2.3">
+            <head type="lsubsechead">കൃതികൾ</head>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.3"-->
+          <div type="lsubsection" xml:id="sec1.2.4">
+            <head type="lsubsechead">നോവലുകൾ</head>
+            <list rend="bulleted">
+              <item>ഒരു വഴിയും കുറേ നിഴലുകളും </item>
+              <item>ഉച്ചവെയിലും ഇളംനിലാവും (അപൂർണ്ണം) </item>
+              <item>ഞാനെന്ന ഭാവം </item>
+            </list>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.4"-->
+          <div type="lsubsection" xml:id="sec1.2.5">
+            <head type="lsubsechead">കഥകൾ</head>
+            <list rend="bulleted">
+              <item>രാജലക്ഷ്മിയുടെ കഥകൾ </item>
+              <item>സുന്ദരിയും കൂട്ടുകാരും </item>
+              <item>മകൾ </item>
+              <item>ആത്മഹത്യ </item>
+            </list>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.5"-->
+          <div type="lsubsection" xml:id="sec1.2.6">
+            <head type="lsubsechead">കവിതകൾ</head>
+            <p style="noindent">കുമിള (1963), നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു എന്നിങ്ങനെ രാജലക്ഷ്മിയുടെ രണ്ടു
+കവിതകൾ മാതൃഭൂമി ആഴ്ചപ്പതിപ്പിൽ പ്രസിദ്ധീകരിച്ചിരുന്നു.
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.6"-->
+          <div type="lsubsection" xml:id="sec1.2.7">
+            <head type="lsubsechead">പുരസ്കാരങ്ങൾ</head>
+            <p style="noindent">കേരള സാഹിത്യ അക്കാദമി അവാർഡ് (നോവൽ) 1960—ഒരു വഴിയും കുറേ
+നിഴലുകളും.
+</p>
+            <noteGrp>
+              <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] Shin Diving
+എന്നതിനെപ്പറ്റി ഒരു വിവരവും ലഭിക്കാനില്ല. ഒരു പക്ഷേ, സ്കൂബ ഡൈവിങ് ആയിരിക്കാം ലേഖിക ഉദ്ദേശിച്ചതും
+എഴുതിയതും, പകർപ്പുകളിൽ മാറിപ്പോയതായിരിക്കാം സായാഹ്ന പ്രവർത്തകർ.</note>
+            </noteGrp>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.7"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Changalakal Pottikkan Iniyum...
+(ml: ചങ്ങലകൾ പൊട്ടിക്കാൻ ഇനിയും...).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  T. A. Rajalakshmi.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, T. A. Rajalakshmi,
+Changalakal Pottikkan Iniyum..., ടി. എ. രാജലക്ഷ്മി, ചങ്ങലകൾ പൊട്ടിക്കാൻ ഇനിയും..., Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 2, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+in the public domain. The text encoding and editorial notes were created and​/or prepared by
+the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Modigliani__Jewess.jpg">Jewess,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Amedeo_Modigliani">Amedeo
+Modigliani</ref>  (1884–1920). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajalakshmi-changalakal.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajalakshmichangalakal.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

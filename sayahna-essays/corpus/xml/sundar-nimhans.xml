@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മനുഷ്യനെ അറിയുന്ന നിംഹാൻസ്</title>
+          <title xml:lang="en" type="main">Manushyane Ariyunna Nimhans</title>
+        </title>
+        <author>Sundar</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">November 8, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is in the public domain. The text encoding and editorial notes
+were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മനുഷ്യനെ അറിയുന്ന നിംഹാൻസ്</title>
+              <title xml:lang="en" type="main">Manushyane Ariyunna Nimhans</title>
+            </title>
+            <author>Sundar</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sundar</term>
+          <term>Manushyane Ariyunna Nimhans</term>
+          <term>സുന്ദര്‍</term>
+          <term>മനുഷ്യനെ അറിയുന്ന നിംഹാൻസ്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 8, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Children_Shugborough_Hall.jpg" width="100%"/>
+          <figDesc>Thomas William Anson (1795–1854), Later 1st Earl of Lichfield, Anne Margaret Anson
+(1796–1882), Later Countess of Rosebery, and George Anson (1797–1857), Later Major General and
+Commander in Chief of India, as Children, a painting by <ref target="https://en.wikipedia.org/wiki/en:Anne_Coke,_Viscountess_Anson">Anne
+Margaret Coke</ref>  (1779–1843). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മനുഷ്യനെ അറിയുന്ന നിംഹാൻസ്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സുന്ദര്‍</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മനുഷ്യനെ അറിയുന്ന നിംഹാൻസ്</head>
+        <div type="lsection">
+          <p style="noindent">കഴിഞ്ഞ തിരുവോണം എനിക്കു് ബാംഗ്ലൂരിലെ നാഷണൽ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഒഫ്
+മെന്റൽ ഹെൽത്ത് ആന്റ് ന്യൂറോസയൻസ് (നിം ഹാൻസ്) എന്ന ആശുപത്രിയിലായിരുന്നു. എന്റെ
+ജീവിതത്തിലെ ഏറ്റവും നല്ല തിരുവോണം. ഒരുനിമിഷംപോലും മനോരോഗികളുടെ ആശുപത്രിയാണു് ചുറ്റിനടന്നു്
+കാണുന്നതെന്നു തോന്നിയില്ല. ഒരു സുഖവാസകേന്ദ്രം സന്ദർശിച്ച പ്രതീതി. നിംഹാൻസ് കണ്ടു മടങ്ങി,
+മെൻസ്ഹോസ്റ്റലിൽനിന്നു് തിരുവോണസദ്യയുണ്ടു് മനസ്സമാധാനത്തോടെ, മനം നിറഞ്ഞു്. ഡോക്ടർ
+രാധാകൃഷ്ണനാണു്, ഡയറക്ടറുടെ അനുവാദത്തോടെ, നിംഹാൻസ് എന്നെ കൊണ്ടു നടന്നു കാണിച്ചതു്.
+മൂന്നുമാസങ്ങൾക്കിടയിൽ തിരുവനന്തപുരം ഭ്രാന്താശുപത്രിയും ബാംഗ്ലൂരെ മെന്റൽ ഹെൽത്ത്
+ഇൻസ്റ്റിറ്റ്യൂട്ടും—നരകവും സ്വർഗ്ഗവും—കാണുക. ഈശ്വരാ! ഇന്ത്യയിലെ സൈക്യാട്രിസ്റ്റുകളിൽ നല്ലൊരു
+ശതമാനംപേർ മലയാളികളായിരിക്കെ എന്തേ കേരളത്തിലെ മനോരോഗാശുപത്രികൾ ഇങ്ങനെ
+നരകമായിത്തീരുന്നു? ദൃശ്യങ്ങൾ കുറിക്കുംമുമ്പേ ഒന്നുമാത്രം. കേരളത്തിലെ മനഃശാസ്ത്രജ്ഞന്മാർക്കു്
+അറിയാത്തതൊന്നും എനിക്കു് പറയാനില്ല. അവർ നിംഹാൻസ് ധാരാളം കണ്ടിട്ടുള്ളവരാണു്.
+</p>
+          <p>*****
+</p>
+          <p>നിംഹാൻസിന്റെ കെട്ടിടത്തിൽ ഒരു ചില്ലിനുള്ളിൽ കരുണയുടെയും ശാന്തിയുടെയും
+മനഃസമാധാനത്തിന്റെയും പ്രതീകമായി ധന്വന്തരമൂർത്തിയുടെ ഒരു വെങ്കലശില്പം.
+</p>
+          <p>ധന്വന്തരിയുടെ മുഖത്തെ ശാന്തി, ഡോക്ടർമാരുടെയും ജീവനക്കാരുടെയും മുഖത്തു കണ്ടു. അശാന്തിയുടെ ഒരു
+മുഖംപോലും കണ്ടില്ല. തൂവെള്ളവസ്ത്രം ധരിച്ച നേഴ്സുമാർ, ഇടനാഴികളിൽ രോഗികളെക്കുറിച്ചു് സംസാരിച്ചു
+നടന്നുപോകുന്ന എം. ഡി. വിദ്യാർത്ഥികൾ, ചുറുചുറുക്കോടെ ജോലിചെയ്യുന്ന ജീവനക്കാർ, വൃത്തിയുള്ള
+നാലുകെട്ടിന്റെ ആകൃതിയിലുള്ള പവിലിയനുകൾ, അവിടെ കട്ടിലുകൾ, കിടക്കകൾ, നിംഹാൻസ് എന്നു്
+ഇംഗ്ലീഷിലെഴുതിയ കമ്പിളികൾ, കറങ്ങുന്ന ഫാനുകൾ, വൃത്തിയുള്ള ചുമരുകൾ, വെട്ടിത്തിളങ്ങുന്ന ടോയ്ലറ്റുകൾ,
+തുടച്ചു് വൃത്തിയാക്കിയിട്ടിരിക്കുന്ന നിലം, ചുമരിലൊരു ചിലന്തിവലപോലും കാണാനൊക്കില്ല. നിലത്തൊരു
+നൂലിൻകഷണം കാണാനാവില്ല. എല്ലാ രോഗികളും വേഷംധരിച്ചിരിക്കുന്നു. ക്രോണിക് രോഗികളായ
+സ്ത്രീകൾപോലും ബ്ലൗസ് ധരിച്ചിരിക്കുന്നു. സാരിയുടുത്തിരിക്കുന്നു. വസ്ത്രം ധരിച്ചതുകൊണ്ടു് അവിടെയാരും
+ആത്മഹത്യ ചെയ്യാറില്ല. ആരും കോഴ വാങ്ങാറുെണ്ടന്നു പറഞ്ഞുകേട്ടില്ല. തലയ്ക്കു് സുഖമില്ലാത്തവന്റെ
+പക്കൽനിന്നും കാശുവാങ്ങുന്നതു് പാപമാണെന്നു് അവർ വിശ്വസിക്കുന്നു.
+</p>
+          <p>മുഖംനോക്കി മുടി ചീകാവുന്ന സ്റ്റെയിൻലസ്സ് സ്റ്റീൽ പ്ലേറ്റുകൾ. അവ രോഗികൾ കഴുകി വൃത്തിയാക്കുന്നു.
+സ്റ്റെയിൻലസ്സ് സ്റ്റീൽ മഗ്ഗ് തിളങ്ങുന്നു.
+</p>
+          <p>ഡോ. രാധാകൃഷ്ണൻ പറഞ്ഞു “അറിവിൽ ഇതുവരെ ഒരു പ്ലേറ്റോ മഗ്ഗോപോലും കുറവുവന്നിട്ടില്ല.
+മോഷണംപോയിട്ടില്ല.”
+</p>
+          <p>അടുക്കള അസാമാന്യ വൃത്തിയുള്ളൊരു കെട്ടിടം. മുന്നിൽ എല്ലാ വശങ്ങളും അടച്ച സ്റ്റീലിന്റെ
+പെട്ടിപോലത്തെ വലിയൊരു വാഹനം. അടിയിൽ ചക്രങ്ങൾ. ഉന്തിക്കൊണ്ടുപോകാൻ കൈപ്പിടി. രോഗികൾക്കു്
+ആഹാരം കൊണ്ടുപോകാനുള്ള വണ്ടിയാണത്രെ. അതിനുള്ളിൽ ആഹാരം പകർന്നു് അടച്ചുകഴിഞ്ഞാൽ ഒരു
+പൊടി പോലുമാവില്ല.
+</p>
+          <p>ആഹാരം തൂക്കിക്കൊടുക്കാൻ ഏവറി വെയിങ് മെഷീൻ. ആവി കൊണ്ടു് പ്രവർത്തിക്കുന്ന രണ്ടു് ഇഡ്ഡലി
+കുക്കിങ് മെഷീൻ. കബേർഡിന്റെ മറ്റൊരു പതിപ്പു്. പത്തു മിനിറ്റിനകം ഇരുനൂറ്റിനാല്പ്പതു് ഇഡ്ഡലി
+ഉണ്ടാക്കാനാവും. മുപ്പതുകിലോ അരി വേവിക്കാവുന്ന ഗ്യാസ് കൊണ്ടു് പ്രവർത്തിക്കുന്ന വൃത്തിയുള്ള ആറു്
+സ്റ്റെയിൻലസ്സ് സ്റ്റീൽ പാത്രങ്ങൾ. ഇരുനൂറ്റെൺപതു് ലിറ്റർ പാൽ കാച്ചാവുന്ന വലിയ മിൽക്ക് കുക്കർ. വൃത്തിയുള്ള
+നിലം. പത്തു ലിറ്റർ കപ്പാസിറ്റിയുള്ള രണ്ടു് ഗ്രൈൻഡർ. വലതുവശത്തു് ഒരു മുറിയിൽ ഇരുപതു് ഗ്യാസ്കുറ്റികൾ.
+അവിടെനിന്നു് അടുക്കളയിേലക്കു് ഗ്യാസ്, കുഴലിലൂടെ എത്തുന്നു. അപ്പുറത്തായി എമർജൻസി
+ഉപയോഗത്തിനായി വിറകു് കൂട്ടിയിട്ടിരിക്കുന്നു. പച്ചക്കറി നുറുക്കാൻ ഒരു പ്രത്യേക ഇടം. അടുക്കളയിൽ പതിനെട്ടു
+ജീവനക്കാർ, മൂന്നു് സൂപ്പർവൈസറി സ്റ്റാഫ്, ഒരു ഡയറ്റീഷ്യൻ.
+</p>
+          <p>നമുക്കു് സങ്കല്പിക്കാവുന്നതിലേറ്റവും മനോഹരമായൊരടുക്കള.
+</p>
+          <p>ക്രിമിനൽ വാർഡ്: പവിലിയന്റെ ഒരുവശത്തായിട്ടൊരു വലിയ മുറി. ഒരു പൊലീസുകാരൻ കാവൽ നില്ക്കുന്നു.
+അയാൾ പൂട്ടു തുറന്നുതന്നു. അകത്തു് കട്ടിലുകളിൽ ശാന്തരായ രോഗികൾ. എല്ലാവർക്കും വേണ്ട എല്ലാ
+സൗകര്യങ്ങളും. പൊലീസുകാരന്റെ പ്രസന്നമായ മുഖം.
+</p>
+          <p>മെയിൻ വാർഡിൽ അവിടവിടെ സിസ്റ്റേഴ്സും രോഗികളും ക്യാരംസ് കളിക്കുന്നു. രോഗികളുടെയും
+സിസ്റ്റർമാരുടെയും കൈയിൽ ബോർഡിലെ പൗഡർ പറ്റിപ്പിടിച്ചിരിക്കുന്നു.
+</p>
+          <p>തളത്തിൽ കോൺക്രീറ്റ് ബെഞ്ചുകളിൽ നേഴ്സുമാർ രോഗികളോടു് സംസാരിച്ചിരിക്കുന്നു. രണ്ടു സിസ്റ്റർമാർ
+ഒരു രോഗിയെക്കൊണ്ടു് എന്തോ എഴുതിക്കുന്നു. അയാളുടെ വിറയ്ക്കാത്ത കൈകളിൽ ഒരു കടലാസ്സു്. മറ്റൊരിടത്തു്
+രോഗികളും നേഴ്സും എന്തോ പറഞ്ഞു ചിരിക്കുന്നു.
+</p>
+          <p>പശ്ചാത്തലത്തിൽ റേഡിയോയിൽനിന്നു കേൾക്കുന്ന പഴയൊരു യുഗ്മഗാനം. മുകേഷിന്റെയും ലതയുടെയും
+ഇമ്പമാർന്ന ശബ്ദം. പാട്ടുകേട്ടു് താളമിടുന്ന രോഗികൾ.
+</p>
+          <p>കുട്ടികളുടെ വാർഡ് ‘Adults not admitted unless accompanied by a child’ എന്നെഴുതിയ ഒരു
+പോസ്റ്റർ മുന്നിലൊട്ടിച്ചിരിക്കുന്നു. ഒരു നീണ്ട ഹാൾ. പതിനാറുവയസ്സിനു താഴെയുള്ള കുട്ടികളെ അവിടെ
+പ്രവേശിപ്പിക്കുന്നു. പതിനാറു കട്ടിൽ. ചുമരിൽ ഭംഗിയായി ഒട്ടിച്ച പോസ്റ്ററുകൾ, ചിത്രങ്ങൾ, കുട്ടികൾക്കായി ടി. വി.,
+റേഡിയോ. ചുമരിൽ പൂപ്പാത്രങ്ങൾ, അതിൽ വാടാത്ത പൂക്കൾ. ബഹളമുണ്ടാക്കുന്ന കുട്ടികളെ കിടത്താൻ, അവർ
+വീഴാതിരിക്കാൻ, തൊട്ടിൽപോലെ നാലുവശവും പൊങ്ങിയ കട്ടിലുകൾ.
+</p>
+          <p>ആക്ടിവിറ്റി റൂം കുട്ടികൾ വരച്ച പതിനൊന്നു ചിത്രങ്ങൾ ഒരുവശത്തു്. സൂര്യകാന്തി, വീടു്, താമര, കിളി,
+പറക്കുന്നൊരു പക്ഷി… മറ്റൊരുവശത്തു് തുന്നൽ മെഷീൻ, കളിപ്പാട്ടങ്ങൾ, മൂന്നുവീലുള്ള സൈക്കിളുകൾ,
+ഉയരംകുറഞ്ഞ മേശ, അതിൽ ചിതറിക്കിടക്കുന്ന പാവക്കുട്ടികൾ.
+</p>
+          <p>ഇതിനടുത്തായി പേരന്റ്സ് വാർഡ്. രോഗംബാധിച്ച കുട്ടികളെ പുസ്തകങ്ങളുമായിട്ടാണു് അഡ്മിറ്റ് ചെയ്യാറു്.
+</p>
+          <p>ഫാമിലിതെറപ്പ്യൂറ്റിക് യൂണിറ്റ്—ആ കെട്ടിടത്തിന്റെ മുന്നിൽ ഇരുവശവും ഓരോ ബഞ്ച്. അവിടെ
+മദ്ധ്യവയസ്കരായ ഒരു ഭാര്യയും ഭർത്താവും. വെള്ളവസ്ത്രം ധരിച്ച പുരുഷൻ. നീല ചിന്നാളംപട്ടു സാരിയുടുത്ത,
+മൂക്കുത്തിയിട്ട സ്ത്രീയുടെ മുഖത്തു് വിടർന്ന ചിരി.
+</p>
+          <p>അകത്തു് ഫാമിലി ഹാപ്പിനസ് ബ്രിങ്സ് മെന്റൽ ഹെൽത്ത് എന്നു് ചുവന്ന വലിയ
+അക്ഷരത്തിലെഴുതിവച്ചിരിക്കുന്നു. ‘പ്രത്യേക കുട്ടികളെ’ കിടത്താൻ വലതുവശത്തു് നാലു മുറികൾ.
+</p>
+          <p>ഫാമിലിതെറപ്പ്യൂറ്റിക് യൂണിറ്റിൽ കുടുംബസമേതം അഡ്മിറ്റ് ചെയ്യുന്നു. അവരെ ‘പ്രത്യേക കുട്ടികളോടു്’
+എങ്ങനെ പെരുമാറണമെന്നു പഠിപ്പിക്കുന്നു.
+</p>
+          <p>ഒരു ടി. വി. റൂം. അവിടെ ബ്ലാക്ക്ബോർഡ്, സ്ലൈഡ് പ്രൊജക്ഷനുള്ള സൗകര്യങ്ങൾ, രോഗികളുടെ
+കുടുംബത്തെ പറഞ്ഞുപഠിപ്പിക്കുന്ന ഇടം. ആ ഹാളിൽ ഗ്രൂപ്പ് ഡിസ്കഷൻ നടത്താറുണ്ടു്. ആരോ മൂന്നാലുപേർ
+ടി. വി. കണ്ടിരിക്കുന്നു. ഓരോ മുറിയിലും രണ്ടു കട്ടിൽ, കസേര, ബാത്ത്റൂം… ഓരോ മുറിക്കും ഓരോ അടുക്കള.
+ആ കെട്ടിടത്തിനുള്ളിൽ തളത്തിൽ മനോഹരമായൊരു പൂന്തോട്ടം. അതിൽ ആശുപത്രി അധികൃതരുടെയും
+ജീവനക്കാരുടെയും മനംപോലെ പൂത്തുവിടർന്ന പൂക്കൾ.
+</p>
+          <p>*****
+</p>
+          <p>ക്യാമ്പസ്സിനുള്ളിൽ രണ്ടു ക്ഷേത്രങ്ങൾ കണ്ടു. ഒരു ഗണപതി ക്ഷേത്രം. അൽപ്പംമാറി ഒരു നവഗ്രഹക്ഷേത്രം.
+മുന്നിൽ കാണിക്ക വഞ്ചി കാണാനില്ല. പൂജാരിമാർക്കു താമസിക്കാൻ കുറച്ചുമാറി ഒരിടം.
+</p>
+          <p>ഒരു വാർഡിന്റെ വശത്തായി ഒരു കുടുംബത്തോടു് സംസാരിച്ചിരുന്നു കുറിപ്പുകളെഴുതുന്ന ഒരു ഡോക്ടർ.
+</p>
+          <p>നവഗ്രഹക്ഷേത്രത്തിന്റെ മുന്നിൽ സംസാരിച്ചിരുന്ന ഭാര്യയും ഭർത്താവും. രാധാകൃഷ്ണനെ കണ്ടപ്പോൾ
+അയാൾ ഓടിവന്നു. ഡോക്ടർ റൗണ്ട്സിനു വന്നതാണെന്നയാൾ കരുതി. ഭാര്യയ്ക്കാണു് രോഗം.
+</p>
+          <p>ഒരു ഫാമിലി കോട്ടേജിനുള്ളിൽ കയറി. മാന്യമായി പെരുമാറുന്ന ഒരു പുരുഷൻ. അയാളുടെ ഭാര്യ.
+
+മേശപ്പുറത്തു് കാസെറ്റ്റെക്കോർഡർ. അയാൾ ഞങ്ങളെ സംഗീതം കേൾക്കാൻ ക്ഷണിച്ചു. കർണ്ണാട്ടിക്
+ക്ലാസിക്കൽ കാസെറ്റുകൾ.
+</p>
+          <p>നിംഹാൻസിലെ തോട്ടത്തിൽ രോഗികൾ പച്ചക്കറി, മൾബറി, വാഴ, ചേമ്പു്, കാച്ചിൽ, നാരങ്ങ എന്നിവ
+കൃഷിചെയ്യുന്നു. നാലു രോഗികൾ ഒരു വലിയ തടി ചുമലിലേറ്റി എങ്ങോട്ടോ നടക്കുന്നു. വലതുവശത്തു് ഒരു ചെറിയ
+കെട്ടിടത്തിൽ ഒരു സ്ത്രീ മുറത്തിലെന്തോ ധാന്യം പാറ്റുന്നു. പൂന്തോട്ടത്തിന്റെ ഇടതുവശത്തു് പൂത്തുലഞ്ഞുനിൽക്കുന്നു
+ഒരു ബൊഗയ്ൻവില്ല. മരച്ചുവട്ടിൽ ഒരു നായ് വെയിലു കാഞ്ഞു് കിടന്നു മയങ്ങുന്നു. കുറച്ചപ്പുറത്തു് നല്ല ടയർവീൽ
+പിടിപ്പിച്ച ഒരു കാളവണ്ടി. കൂറ്റൻ കാളകൾ.
+</p>
+          <p>*****
+</p>
+          <p>നല്ല സൗകര്യങ്ങളുള്ള ഈ ഇൻസ്റ്റിറ്റ്യൂട്ടിലെ ഡിപ്പാർട്ടുമെൻറുകൾ/ഡിവിഷനുകൾ:
+</p>
+          <p>സൈക്യാട്രി, ക്ലിനിക്കൽ സൈക്കോളജി, സൈക്യാട്രിക് സോഷ്യൽവർക്ക്, ന്യൂറോളജി, ന്യൂറോസർജറി,
+ന്യൂറോ പാത്തോളജി, ന്യൂറോ റേഡിയോളജി, ന്യൂറോ അനസ്തേഷ്യ, മൈക്രോബയോളജി, നഴ്സിങ്, സ്പീച്ച്
+പാത്തോളജി, ആയുർവേദിക് റിസർച്ച് യൂണിറ്റ്, ന്യൂറോ ഫിസിയോളജി, ന്യൂറോകെമിസ്ട്രി, ന്യൂറോവിറ്റോളജി,
+ബയോഫിസിക്സ്, ബയോസ്റ്റാറ്റിസ്റ്റിക്സ്, പബ്ലിേക്കഷൻസ്, ഫോട്ടോഗ്രഫി, ലൈബ്രറി ആൻഡ്
+ഇൻഫർമേഷൻ സർവീസസ്.
+</p>
+          <p>നന്നായി നടത്തുന്ന നിംഹാൻസിലെ ഓക്കുപ്പേഷണൽ സെന്ററിൽ അവസ്ഥ ഭേദപ്പെട്ട രോഗികൾക്കു്
+പായനെയ്ത്തു്, നെയ്ത്തു്, മരപ്പണി, ചൂരൽപ്പണി, ബുക്ക് ബയൻറിങ്, കമ്പോസിങ്, അച്ചടി എന്നിവയിൽ പരിശീലനം
+ലഭിക്കുന്നു. അസുഖം നിയന്ത്രണത്തിലായ രോഗികൾ, മൺപാത്രങ്ങളും മെഴുകുതിരിയും കരകൗശല വസ്തുക്കളും
+ബേക്കറി പലഹാരങ്ങളുമുണ്ടാക്കുന്നു. ഇവിടെയുണ്ടാക്കുന്ന ഉല്പന്നങ്ങൾ ഇൻസ്റ്റിറ്റ്യൂട്ടിലെ ഒരു ഹാളിൽ വില്ക്കാൻ
+വച്ചിരിക്കുന്നു. നിങ്ങൾക്കു് മെഴുകുതിരിയും പേനയും പാഡും എടുത്തുതരുന്നതു് ഒരു രോഗി.
+</p>
+          <p>കമ്യൂണിറ്റി സൈക്യാട്രിയുടെ ഭാഗമായി കാണാകപുര, ഗൗരീ ബിഡാനൂർ, മദ്ദൂർ, മധുഗിരി എന്നിവിടങ്ങളിൽ
+മാസത്തിലൊരിക്കൽ മനസ്സിന്റെ സുഖം നഷ്ടപ്പെട്ടവർക്കായി സാറ്റലൈറ്റ് ക്ലിനിക്കുകൾ പ്രവർത്തിക്കുന്നു.
+ചികിത്സ സമൂഹത്തിലേക്കു് എത്തിക്കുന്നു.
+</p>
+          <p>*****
+</p>
+          <p>വാക്ക് ഇൻ കൗണ്ടർ എന്നറിയപ്പെടുന്ന ഒരു ഒ. പി. യൂണിറ്റ്. ഇവിടെ രോഗികൾക്കു് ആദ്യ സ്ക്രീനിങ്.
+ഇവിടെ രജിസ്റ്റർ ചെയ്യുക. ഉടനടി അഡ്മിഷൻ വേണ്ട കേസുകൾ അപ്പോൾത്തന്നെ അഡ്മിറ്റ് ചെയ്യുന്നു.
+അല്ലാത്തവരെ ദിവസം നിശ്ചയിച്ചു് വരാൻ പറയുന്നു. സൈക്യാട്രിക് സോഷ്യൽ വർക്കർ, സൈക്യാട്രിക് നേഴ്സ്
+എന്നിവരടങ്ങുന്ന ടീമാണു് ആദ്യം രോഗിയെ സ്ക്രീൻചെയ്യുക.
+</p>
+          <p>രോഗിയുടെ വീട്ടിലേക്കുള്ള ബസ്ചാർജ്ജിന്റെ മൂന്നിരട്ടി ഡെപ്പോസിറ്റായി വാങ്ങുന്നു അഥവാ രോഗിയെ
+മടക്കിക്കൊണ്ടുേപാകാൻ ബന്ധുക്കൾ വന്നില്ലെങ്കിൽ രോഗിയുടെ യാത്രയ്ക്കും ഒരു ആശുപ്രതിജീവനക്കാരന്റെ
+യാത്രയ്ക്കും മടക്കയാത്രയ്ക്കുമുള്ള ബസ്സുകൂലി. ആശുപത്രിയിൽ രോഗിയെ അധികനാൾ കിടത്താതിരിക്കാൻ അവർ
+ശ്രദ്ധിക്കുന്നു. വേണ്ട ചികിത്സ നല്കുന്നതിനാൽ രോഗിയെ കുറച്ചുനാൾക്കകം ഡിസ്ചാർജ് ചെയ്യാനൊക്കുന്നു.
+</p>
+          <p>വിസിറ്റേഴ്സ് ബോർഡിന്റെ പ്രവർത്തനം തൃപ്തികരമാണെന്നു് അന്വേഷണത്തിലറിഞ്ഞു. ബോർഡ് ഓഫ്
+വിസിറ്റേഴ്സിന്റെ അംഗങ്ങളുടെ പേരുകൾ പ്രധാന കെട്ടിടത്തിനുള്ളിൽത്തന്നെ എഴുതിവച്ചിരിക്കുന്നതു കാണാം.
+</p>
+          <p>വരുമാനത്തിന്റെയടിസ്ഥാനത്തിലാണു് ഹോസ്പിറ്റൽ നിരക്കുകൾ. മുഴുവൻ ചാർജ്, അമ്പതു ശതമാനം,
+ഇരുപത്തഞ്ചു ശതമാനം, സൗജന്യചികിത്സ എന്നിങ്ങനെ നാലായി തിരിച്ചിരിക്കുന്നു.
+</p>
+          <p>ഇവിടത്തെ മൊത്തം ചാർജ് പോലും കേരളത്തിലെ പല സ്വകാര്യ മെന്റൽ ഹോസ്പിറ്റലുകളിലെ
+നിരക്കുകളെക്കാൾ കുറവാണെന്നുകണ്ടു. ഇതുകൊണ്ടും നല്ല ചികിത്സ കിട്ടുന്നതുകൊണ്ടുമാവണം ഇന്ത്യയിലെ മറ്റു
+സ്റ്റേറ്റുകളിൽനിന്നു് കേരളമുൾപ്പെടെ നിംഹാൻസിലേക്കു് രോഗികൾ ധാരാളമെത്തുന്നതു്.
+</p>
+          <p>സെബാസ്റ്റ്യൻ പറഞ്ഞതുപോലെ, ആരു ചെന്നാലും രോഗിയാണെന്നവർ ആദ്യം കരുതും എന്ന
+കുഴപ്പമൊഴിച്ചാൽ, നിംഹാൻസിന്റെ മാനസികാരോഗ്യം നന്നാണു്, വളരെ നന്നാണു്. നമ്മുടെ ആശുപത്രികൾ
+എന്നാണിങ്ങനെയാവുക?
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">സുന്ദര്‍</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sundar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: ഏപ്രിൽ 23, 1953, തിരുവനന്തപുരം.
+</p>
+          <p>മരണം: നവംബർ 12, 2016 (വയസ്സ് 63), സിഡ്നി, ഓസ്ട്രേലിയ.
+</p>
+          <p>തൊഴിൽ: കഥാകൃത്തു്, നിരൂപകന്‍, കാർട്ടൂൺ ചരിത്രകാരൻ.
+</p>
+          <p>പൗരത്വം: ഓസ്ട്രേല്യന്‍.
+</p>
+          <p>വിദ്യാഭ്യാസം: എം.ഫില്‍., വിഷയം: സാമൂഹികവികസനം.
+</p>
+          <p>ജീവിതപങ്കാളി: ഗിരിജ
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">പ്രധാനകൃതികള്‍</head>
+            <list rend="bulleted">
+              <item>Tragic Idiom </item>
+              <item>ഹൃദയത്തിനുള്ളിലെ ഇടം </item>
+              <item>ഈ ഭ്രാന്താലയത്തിനു് നാവുണ്ടായിരുന്നെങ്കില്‍ </item>
+            </list>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Manushyane Ariyunna Nimhans
+(ml: മനുഷ്യനെ അറിയുന്ന നിംഹാൻസ്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sundar.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sundar, Manushyane
+Ariyunna Nimhans, സുന്ദര്‍, മനുഷ്യനെ അറിയുന്ന നിംഹാൻസ്, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 8, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+in the public domain. The text encoding and editorial notes were created and​/or prepared by
+the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Thomas William Anson (1795–1854),
+Later 1st Earl of Lichfield, Anne Margaret Anson (1796–1882), Later Countess of Rosebery, and
+George Anson (1797–1857), Later Major General and Commander in Chief of India, as Children, a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Anne_Coke,_Viscountess_Anson">Anne
+Margaret Coke</ref>  (1779–1843). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sundar-nimhans.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sundar-nimhans.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

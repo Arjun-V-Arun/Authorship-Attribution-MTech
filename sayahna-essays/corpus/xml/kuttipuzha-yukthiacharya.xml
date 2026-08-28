@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">യുക്തിവാദികളുടെ ആചാര്യൻ</title>
+          <title xml:lang="en" type="main">Yukthivadikalude Acharyan</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 21, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">യുക്തിവാദികളുടെ ആചാര്യൻ</title>
+              <title xml:lang="en" type="main">Yukthivadikalude Acharyan</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Yukthivadikalude Acharyan</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>യുക്തിവാദികളുടെ ആചാര്യൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 21, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Birds-Nest.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Sophie_Gengembre_Anderson__The_Birds-Nest.jpg">The Birds-Nest,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Sophie_Gengembre_Anderson">Sophie
+
+Gengembre Anderson</ref>  (1823–1903). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">യുക്തിവാദികളുടെ ആചാര്യൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">യുക്തിവാദികളുടെ ആചാര്യൻ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/MCJoseph.png" rendition="gra"/>
+            <figDesc style="thumb">എം. സി.</figDesc>
+          </figure>
+          <p style="noindent"> യുക്തിവാദിപത്രാധിപർ <ref target="https://ml.wikipedia.org/wiki/M._C._Joseph">എം. സി. ജോസഫി</ref> ന്റെ
+അറുപതും എഴുപതും നിശ്ശബ്ദമായി കടന്നുപോയി. എൺപതെങ്കിലും ഒന്നു കൊണ്ടാടേണ്ടതല്ലേ എന്നു സംശയിച്ചു
+ചില സുഹൃത്തുക്കൾ അദ്ദേഹത്തിന്റെ അടുത്തുചെന്നു. പിറന്നാളഘോഷിക്കുന്ന സമ്പ്രദായത്തെ പല തവണ
+അപലപിച്ചിട്ടുള്ള അദ്ദേഹം അതെങ്ങനെ സമ്മതിക്കും? കടുത്ത പ്രതിഷേധം തന്നെ ചെന്നവർക്കു് അനുഭവപ്പെട്ടു.
+ഒരുതരത്തിലും അദ്ദേഹം വഴങ്ങുന്നില്ലെന്നു കണ്ടപ്പോൾ സുഹൃത്തുക്കൾ അടവൊന്നു മാറ്റിനോക്കി ആഘോഷം
+വേണമെന്നില്ല. കേരളത്തിന്റെ സാംസ്കാരികവും വൈജ്ഞാനികവുമായ പുരോഗതിക്കു് എം. സി.
+ദീർഘകാലമായി നൽകിക്കൊണ്ടിരിക്കുന്ന മഹത്തായ സംഭാവനകളെ വിലയിരുത്തുകയും മാനിക്കുകയും
+ചെയ്യുന്നതിനു് ഈയവസരം ഉപയോഗിക്കരുതോ? അതിനായി ഒരു സെമിനാറോ പൊതുസമ്മേളനമോ
+നടത്തുന്നതു കേവലം വിദ്യാഭ്യാസപരമായ (Academic) ഒരു പ്രവർത്തനമല്ലേ ആകു? അതു പിറന്നാളിൽത്തന്നെ
+വേണമെന്നു നിർബന്ധിക്കുന്നുമില്ല എന്നു അവർ വാദിച്ചു. അപ്പോൾ ഉത്തരം മുട്ടിയ മട്ടിൽ എം. സി.
+മിണ്ടാതിരുന്നു. മൗനം അനുവാദമാണെന്നു് അവരും കരുതി അങ്ങനെ യുക്തിവാദി പത്രാധിപർ ഇപ്പോൾ ഒരു
+ചർച്ചാവിഷയമായിത്തീർന്നിരിക്കയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Einstein_Schmutzer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഐൻസ്റ്റൈൻ</figDesc>
+          </figure>
+          <p> “എന്നിൽ വളർച്ചയുണ്ടെങ്കിൽ ഞാൻ നിശ്ചായമായും വൃദ്ധനാകുന്നില്ല. എന്റെ വളർച്ച നില്ക്കുമ്പോഴാണു്
+ഞാൻ വൃദ്ധനാകുന്നതു്. ഇപ്പോഴും എന്റെ ധമനികളിൽ ചുടുരക്തം സ്പന്ദിച്ചുകൊണ്ടിരിക്കുന്നു.” ഒരാളെ
+വാർദ്ധക്യത്തെപ്പറ്റി അനുസ്മരിപ്പിക്കുമ്പോഴാണു് അയാൾക്കു വാർദ്ധക്യബാധ ഉണ്ടാകുന്നതു് എന്നു തന്റെ
+ജന്മദിനത്തെപ്പറ്റി ഒരു സുഹൃത്തു് ഓർമ്മിപ്പിച്ചപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Albert_Einstein">ഐൻസ്റ്റൈൻ</ref>
+പറയുകയുണ്ടായി. ഇതുതന്നെ എം. സി.-യും പറഞ്ഞേക്കാം. വാർദ്ധക്യത്തോടു പടപൊരുതിക്കൊണ്ടിരിക്കുന്ന
+ആളാണു് അദ്ദേഹം. ആ ശരീരം കണ്ടാൽ എൺപതിന്റെ പഴമയൊന്നും തോന്നുകയില്ല. അതിനുള്ളിൽ
+യുവത്വത്തിന്റെ ഉന്മേഷമുള്ള ഒരു മനസ്സാണു് ഇപ്പോഴും പ്രവർത്തിക്കുന്നതു്. അവിടെ നിന്നു പുറപ്പെടുന്ന
+ആശയങ്ങൾക്കു് ഒരിരുപത്തഞ്ചിന്റെ ഉന്മത്തതതന്നെയുണ്ടു്. ആരോഗ്യപരിപാലനത്തിൽ ഇത്രത്തോളം നിഷ്കർഷ
+കാണിക്കുന്നവർ ചുരുക്കമാണു്. ശാസ്ത്രമാർഗമാണു് അതിലും അദ്ദേഹത്തിന്നവലംബം. എം. സി.
+യുക്താഹാരവിഹാരനും യുക്തചേഷ്ടനുമാകുന്നു. ഗീതയിലെ ക്ഷേത്രജ്ഞനെ അദ്ദേഹം നിഷേധിക്കുന്നുണ്ടെങ്കിലും
+ക്ഷേത്രത്തെ ആരാധിക്കുന്നുവെന്നു പറയാം. മറ്റുള്ളവർക്കു മാതൃകയാകത്തക്കവിധം ജീവിക്കുക എന്നതു് ഒരു
+കലയാക്കിത്തീർത്ത മനുഷ്യൻ എന്നു് ഈ ലേഖകൻ എം. സി.-യെപ്പറ്റി മുമ്പൊരിടത്തു രേഖപ്പെടുത്തിയിട്ടുണ്ടു്.
+പൂർവാഭിഭാഷീ സുമുഖസ്സുശിലഃകരുണാമൃദുഃ എന്ന അഷ്ടാംഗഹൃദയത്തിലെ കാരിക സ്വജീവിതം കൊണ്ടു് അദ്ദേഹം
+ഉദാഹരിച്ചുകാണിക്കുന്ന സൗശീല്യം എം. സി.-യുടെ കൂടപ്പിറപ്പാണു്. വാദപ്രതിവാദത്തിൽ അദ്ദേഹം
+എതിരാളികളുടെ നേരെ പ്രയോഗിക്കുന്ന വാദരീതിയും ഭാഷാശൈലിയും കാണുമ്പോൾ എനിക്കു് അസൂയ
+തോന്നാറുണ്ടു്. അന്യാദൃശമായ ഒരു ശുദ്ധിയും കുലീനതയുമുണ്ടു്. ആ രീതിക്കും ശൈലിക്കും.
+പ്രതിയോഗികളുമായുള്ള ഏറ്റുമുട്ടലിൽ അദ്ദേഹം ഒരിക്കലും വികാരതരളിതനാകാറില്ല. അതൊരത്ഭുതം
+തന്നെയാണു് ഇതുപോലെ വികാരവിചാരങ്ങളുടെ ബാലൻസ് തെറ്റാതെ സൂക്ഷിക്കാൻ എത്രപേർക്കു കഴിയും?
+എം. സി. എപ്പോഴെങ്കിലും ക്ഷോഭിച്ചിട്ടുണ്ടോ എന്തോ! അദ്ദേഹത്തിന്റെ സഹധർമ്മിണിയോടു ചോദിച്ചാലേ
+സത്യമറിയു. ഏറ്റവും അടുത്ത കൂട്ടുകാർപോലും അക്ഷോഭ്യനായിട്ടേ അദ്ദേഹത്തെ എന്നും കണ്ടിട്ടുള്ളു.
+പെൺമക്കളിലൊരാൾക്കു പെട്ടെന്നു വൈധവ്യദുഃഖം നേരിട്ടപ്പോഴും അദ്ദേഹം സമചിത്തത പാലിച്ചു. ആയിടയ്ക്കു
+പുറപ്പെട്ട യുക്തിവാദി നോക്കിയാലറിയാം അദ്ദേഹത്തിന്റെ ആത്മനിയന്ത്രണം എവിടംവരെ
+
+ചെന്നെത്തിയിട്ടുണ്ടെന്നു്.
+</p>
+          <p>എം. സി. നിർവികാരനോ കഠിനഹൃദയനോ ആണെന്നു് ഇപ്പറഞ്ഞതിനർത്ഥമില്ല. സ്നേഹവും സഹതാപവും
+ദീനാനുകമ്പയും നിറഞ്ഞുതുളുമ്പുന്നുണ്ടു് ആ വിശാലഹൃദയത്തിൽ. അവയുടെ അലയടി പുറത്തു കേൾക്കുന്നില്ലെന്നേ
+ഉള്ളു. സ്നേഹപ്രചോദിതവും വിജ്ഞാനപ്രബുദ്ധവുമാണു് ആ ജീവിതം. വികാരപാരവശ്യങ്ങളെ വിചാരംകൊണ്ടു
+നിയന്ത്രിച്ചു കഴിയുന്നടത്തോളം ബുദ്ധിപരമായി ജീവിക്കുക എന്നു് അദ്ദേഹം ഉപദേശിക്കാറുണ്ടു്. സ്വയം
+പ്രത്യായനം എന്ന ഒറ്റമൂലികകൊണ്ടു് എം. സി. ചില മനോരോഗങ്ങൾ മാറ്റുന്ന വിവരം ഇപ്പോൾ
+പ്രസിദ്ധമായിട്ടുണ്ടല്ലോ. അതു തന്നിലും പ്രയോഗിച്ചിട്ടായിരിക്കുമോ അദ്ദേഹം മനശ്ചാഞ്ചല്യമെല്ലാം
+കീഴടക്കിയതു് ?
+</p>
+          <p>ഏതായാലും യുക്തിവാദവും മനഃശ്ശാസ്ത്രപരിശീലനവും മനോരോഗചികിത്സയുമെല്ലാം കൂടിച്ചേർന്നു്
+അദ്ദേഹത്തെ ഒരസാമാന്യവ്യക്തിയാക്കിത്തീർത്തിട്ടുണ്ടു്. ഈ മാന്ത്രികൻ ചെല്ലുന്നിടത്തുനിന്നു
+ഭൂതപ്രേതപിശാചാദികളെല്ലാം ഒഴിഞ്ഞുപോകുന്നു. ചാത്തന്റെ ശല്യമൊഴിവാക്കാൻ എം. സി.-യെന്ന
+ദ്വയക്ഷരമന്ത്രം മതിയെന്നായിട്ടുണ്ടു്. ജ്യോത്സ്യന്റെ തട്ടിപ്പുകൾക്കു് നില്ക്കക്കള്ളിയില്ലാതായിരിക്കുന്നു.
+</p>
+          <p>എം. സി. ഒരു പെസ്സിമിസ്റ്റല്ല. മനുഷ്യജീവിതം മഹിമയേറിയതാണെന്നു് അദ്ദേഹം വിശ്വസിക്കുന്നു.
+ഏതാണ്ടൊരു നിസ്സംഗന്റെ നിലയിൽ ജീവിതത്തെ വസ്തുനിഷ്ഠമായി നോക്കിക്കാണാൻ അദ്ദേഹം ശീലിച്ചിട്ടുണ്ടു്.
+‘ജീവിച്ചു മതിയായി അനായാസേന മരണം എന്നതാണു് എന്റെ ഇപ്പോഴത്തെ ഏറ്റവും വലിയ ആഗ്രഹം’ എന്നു
+ഞാൻ ഒരിക്കൽ പറഞ്ഞപ്പോൾ ‘അരുതു് അങ്ങനെ വിചാരിച്ചുകൊണ്ടിരിക്കരുതു്’ എന്നു് എം. സി. താക്കീതു
+നൽകി. ഏതു വാർദ്ധക്യത്തിലും ജീവിതം വിലപ്പെട്ടതാണെന്ന അഭിപ്രായമാണു് അദ്ദേഹത്തിനുള്ളതു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">യുക്തിവാദം</head>
+          <p style="noindent">യൗവനത്തിളപ്പിലാണു് യുക്തിവാദവും നിരീശ്വരത്വവും മറ്റും. വയസ്സാകുമ്പോൾ
+അതൊക്കെ മാറി ദൈവമേ എന്ന വിളി തുടങ്ങും—ഇങ്ങനെ പഠിപ്പുള്ളവർപോലും പറഞ്ഞുകേട്ടിട്ടുണ്ടു്. ഈ
+ധാരണ തികച്ചും തെറ്റാണെന്നതിനു് ഒന്നാംതരം തെളിവാണു എം. സി.-യുടെ ജീവിതം. എൺപതിലെത്തിയിട്ടും
+അദ്ദേഹത്തിന്റെ ചിന്താപരമായ നിലപാടിനു് ഒരു മാറ്റവും വന്നിട്ടില്ല. മാത്രമല്ല വയസ്സാകുന്തോറും
+യുക്തിവാദമനോഭാവത്തിനു തീക്ഷ്ണത കൂടിവരികയാണു്. മതം, ദൈവം, ആത്മാവു് ഇത്യാദി സങ്കല്പങ്ങളുടെ രണ്ടു
+മൂവായിരം കൊല്ലത്തെ പഴക്കംചെന്ന കീറമാറാപ്പുകൾ ഈ യുക്തിവാദി വലിച്ചെറിഞ്ഞു കളഞ്ഞിട്ടു് എത്രയോ
+കാലമായി. ഭാവിമനുഷ്യർക്കു കൊള്ളാവുന്നവയായി അവയിലെന്തെങ്കിലും ഉണ്ടെന്നു് അദ്ദേഹം ഇപ്പോഴും
+വിശ്വസിക്കുന്നില്ല. മനുഷ്യന്റെ ചിന്താശക്തിയെയും വിവേകത്തെയും തല്ലിക്കെടുത്തി അവനെ ഭീരുവാക്കുന്ന
+അന്ധസങ്കല്പങ്ങളാണവ എന്നു തെളിവും യുക്തിയും കാണിച്ചു് അദ്ദേഹം ഇന്നും സമർത്ഥിച്ചുകൊണ്ടിരിക്കുന്നു.
+മതത്തിന്റെ കുത്തക പിടിച്ചിരിക്കുന്നവരും ഈശ്വരഭക്തിയുടെ വെളിച്ചപ്പാടന്മാരും ഇതൊക്കെ കേൾക്കുമ്പോൾ
+കലിതുള്ളുന്നുണ്ടാകാം. ഇക്കൂട്ടർ യുക്തിവാദത്തിന്റെ മുമ്പിൽ മുട്ടുകുത്തി വിഷമിക്കുമ്പോൾ എം. സി.-യുടെ നേരെ
+കൊഞ്ഞനം കാട്ടുകയും ശകാരം വർഷിക്കുകയും പതിവാണു്. അപ്പോഴെല്ലാം ഒരു പുഞ്ചിരി മാത്രമേ അദ്ദേഹം
+മറുപടിയായി കൊടുക്കാറുള്ളു. വായിക്കാതെയും പഠിക്കാതെയും ചിന്തിക്കാതെയും
+അന്ധവിശ്വാസസന്തതികളായി വലയുന്ന പാവങ്ങൾ എന്നുവരെ ആ പുഞ്ചിരിക്കു വേണമെങ്കിൽ അർത്ഥം
+കല്പിക്കാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sahodaran_Ayyappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">സഹോദരനയ്യപ്പൻ</figDesc>
+          </figure>
+          <p> നിർമ്മതത്വത്തിലും നിരീശ്വരത്വത്തിലും ഇത്രയും നീണ്ട കാലം അടിയുറച്ചു നിന്നുകൊണ്ടു്
+അന്ധവിശ്വാസങ്ങളോടു് അടരാടിയിട്ടുള്ള യുക്തിവാദികൾ കേരളത്തിൽ വേറെ എത്രപേരുണ്ടു്? എം. സി.-യുടെ
+ചിരകാലസുഹൃത്തും സഹപ്രവർത്തകനുമായ <ref target="https://ml.wikipedia.org/wiki/Sahodaran_Ayyappan">സഹോദരനയ്യപ്പൻ</ref>
+മാത്രമേ ഇക്കാലമത്രയും അദ്ദേഹത്തിന്റെ കൂടെ നിന്നിട്ടുള്ളു. കേരളത്തിൽ യുക്തിവാദം വളർത്തിക്കൊണ്ടുവരാൻ
+നിരന്തര പ്രയത്നം ചെയ്തിട്ടുള്ളവരാണു് ഈ രണ്ടുപേരും. എം. സി. യുക്തിവാദി മാസികയുടെ ആധിപത്യം
+
+ഏറ്റെടുത്തിട്ടു മുപ്പത്തഞ്ചു കൊല്ലം കഴിഞ്ഞു. അന്നുമുതൽ ഇന്നുവരെ മുടക്കം കൂടാതെ അദ്ദേഹം
+അതിലെഴുതിയിട്ടുള്ള കുറിപ്പുകൾ ശേഖരിച്ചാൽ ഒരു നവീന വിജ്ഞാനകോശത്തിനുള്ള വക കിട്ടും. വാസ്തവത്തിൽ
+ഈ കുറിപ്പുകളാണു് യുക്തിവാദിയിലെ മജ്ജയും മാംസവും. എം. സി. പുറപ്പെടുവിക്കുന്ന ആശയങ്ങൾ പലതും
+കേരളീയർക്കു ദഹിക്കണമെങ്കിൽ ഇനിയും ഒരു നൂറ്റാണ്ടു വേണ്ടിവന്നേക്കാം. ‘ആത്മാവുണ്ടെന്നുള്ള വിശ്വാസം
+മനുഷ്യനെന്നും അപകടം പിടിച്ചതും കുഴഞ്ഞതുമായ ഒരു നൂലാമാലായാണു്. ആ വിശ്വാസത്തിൽനിന്നു
+ലാഭമുണ്ടാക്കുന്നവരാണു് അതു നൽകുകയും ഉറപ്പിക്കുകയും ചെയ്യുന്നതു്.
+</p>
+          <p>ആരുടെ ഏതു ഭക്തിയും അതിന്റെ പാരമ്യത്തിൽ പ്രകടമാക്കുന്നതു ബുദ്ധിയോ നാണമോ ഇല്ലാത്ത
+നികൃഷ്ടദാസ്യമാണു്. ഏതാദൃശാഭിപ്രായങ്ങൾ അത്ര എളുപ്പമൊന്നും ആളുകൾ ഉൾക്കൊള്ളുകയില്ല. അതിനു തക്ക
+യുക്തിബോധം നമ്മുടെ നാട്ടിൽ ഇനിമേൽ തെളിഞ്ഞുവരേണ്ടിയിരിക്കുന്നു. എത്ര ഗഹനമായ ശാസ്ത്രവിഷയവും
+അതിന്റെ അന്തസ്സാരം നേരെ മനസ്സിലാകത്തക്കവിധം ഹൃദ്യവും ലളിതവുമായ രീതിയിൽ പ്രതിപാദിക്കാൻ
+എം. സി. വിദഗ്ദ്ധനാണു്. ഈ കുറിപ്പു നോക്കു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sigmund_Freud.jpg" rendition="gra"/>
+            <figDesc style="thumb">സിഗ്മണ്ട് ഫ്രോയിഡ്</figDesc>
+          </figure>
+          <p> ‘മനുഷ്യമനസ്സു് അത്ഭുതകരമായ ഒരു യന്ത്രസംവിധാനമാണു് അതിന്റെ കഴിവുകൾ
+അപാരമായിരിക്കുന്നതുപോലെ അതിനെ ബാധിക്കുന്ന ദൗർബല്യങ്ങളുടെയും രോഗങ്ങളുടെയും വൈവിധ്യത്തിനും
+കണക്കില്ല. ഒരു ജനക്കൂട്ടത്തിനാകെ ഹിസ്റ്റിരീയ ബാധിക്കുന്ന സന്ദർഭങ്ങൾ പലതുണ്ടു്. ബുദ്ധിയുടെ പരിശോധന
+സഹിക്കാത്ത വിശ്വാസങ്ങളും ആചാരങ്ങളും ഉൾക്കൊള്ളുന്ന വ്യത്യസ്തങ്ങളും വിപരീതങ്ങളുമായ
+മതവിശ്വാസങ്ങളെല്ലാം തന്നെ ജനക്കൂട്ടത്തെ ഒന്നടങ്കം ബാധിക്കുന്ന ഒരുതരം മനോരോഗം (Obsessional
+Neurosis) ആണെനു വലിയ മനഃശാസ്ത്രജ്ഞനായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Sigmund_Freud">സിഗ്മണ്ട് ഫ്രോയിഡ്</ref>
+നിർണയം ചെയ്തിട്ടുണ്ടു്.’
+</p>
+          <p>ഇതുപോലെ ഉദ്ധാരണയോഗ്യങ്ങളായ എത്രയോ ഖണ്ഡികകൾ ‘യുക്തിവാദി’ മാസികയുടെ പഴയ ഏടുകൾ
+തിരിഞ്ഞുനോക്കിയാൽ കാണാം. എം. സി.-യുടെ അഭിപ്രായങ്ങളോടു നിങ്ങൾ യോജിച്ചാലും ഇല്ലെങ്കിലും
+അദ്ദേഹത്തെ ഇനി അവഗണിക്കുക സാദ്ധ്യമല്ല. വ്യക്തിയെന്ന നിലവിട്ടു് അദ്ദേഹം ഒരു സ്ഥാപനമായി
+വളർന്നിരിക്കുന്നു. അവിടെനിന്നു നാലുപാടും പ്രസരിക്കുന്ന യുക്തിപ്രകാശം കേരളത്തിലെ ഇരുട്ടു നീക്കാൻ
+ഒട്ടേറെ ഉപകരിക്കുന്നുണ്ടു്. യുക്തിവാദികളുടെ ഈ ആചാര്യൻ ഇന്നു വിതയ്ക്കുന്ന ആശയ ബീജങ്ങൾ നാളെ
+മുളച്ചുപൊന്തി മാമരങ്ങളായി വികസിച്ചു വിജ്ഞാനത്തിന്റെ കനികൾ പൊഴിക്കുമെന്നതിനു സംശയമില്ല.
+</p>
+          <p>
+ദീപാവലി 1967.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.3.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.3.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.3"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Yukthivadikalude Acharyan (ml:
+യുക്തിവാദികളുടെ ആചാര്യൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Yukthivadikalude Acharyan, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, യുക്തിവാദികളുടെ ആചാര്യൻ, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 21, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Sophie_Gengembre_Anderson__The_Birds-Nest.jpg">The Birds-Nest,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Sophie_Gengembre_Anderson">Sophie
+Gengembre Anderson</ref>  (1823–1903). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzhayukthiacharya.xml">Download document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhayukthiacharya.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ജീൻ മെലിയർ</title>
+          <title xml:lang="en" type="main">Jean Meslier</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">April 23, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ജീൻ മെലിയർ</title>
+              <title xml:lang="en" type="main">Jean Meslier</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Jean Meslier</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ജീൻ മെലിയർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 23, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/par_Lon_Bonnat_vers.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Sc%C3%A8ne_de_mendicit%C3%A9_par_L%C3%A9on_Bonnat,_vers_1865.jpg">Begging
+scene,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:L%C3%A9on_Bonnat">Léon
+
+Bonnat</ref>  (1833–1922). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ജീൻ മെലിയർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ജീൻ മെലിയർ</head>
+        <div type="lsection">
+          <p style="noindent">നിരീശ്വരനും സമത്വവാദിയുമായിരുന്ന ഒരു മതപുരോഹിതൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/J_Meslier.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജീൻ മെലിയർ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/The_Story_of_Civilization">നാഗരികതയുടെ
+കഥ</ref> (The story of civilisation) എന്ന വിശ്രുതഗ്രന്ഥ പരമ്പരയിലെ ഒമ്പതാം വാല്യത്തിൽ
+ഗ്രന്ഥകാരനായ <ref target="https://ml.wikipedia.org/wiki/Will_Durant">വിൽഡ്യുറന്റ്</ref>
+അത്ഭുതചരിതനായ ഒരു പാതിരിയുടെ ജീവിതകഥ രസകരമായി വിവരിക്കുന്നുണ്ടു്. വായിച്ചുനോക്കേണ്ട ഒന്നാണു്.
+ഫ്രഞ്ചുകാരനായ ഈ പതിരിയുടെ പേരാണു് <ref target="https://ml.wikipedia.org/wiki/Jean_Meslier">ജീൻ മെലിയർ</ref>. ഏ. ഡി.
+1678 മുതൽ 1733 വരെയാണു് അദ്ദേഹത്തിന്റെ ജീവിതകാലം. ഫ്രാൻസിൽ ഒരിടവക (Parish) യിലെ
+പാതിരിയായിരുന്ന മെലിയർ മരിക്കുന്നതുവരെ—മുപ്പതുവർഷം—ആ നിലയിൽത്തന്നെ കഴിച്ചുകൂട്ടി. എന്നാൽ
+ഇക്കാലമത്രയും നിർമ്മത്വവും നിരീശ്വരത്വവുമാണു് ഈ പുരോഹിതനിൽ കുടിക്കൊണ്ടിരുന്നതെന്ന വസ്തുത
+ബഹുവിചിത്രമായിരിക്കുന്നു. മതക്കുപ്പായത്തിനുള്ളിലിരുന്ന രഹസ്യം മരണാനന്തരമേപുറത്തു വന്നുള്ളു.
+എല്ലാവർക്കും സന്തോഷവും സംതൃപ്തിയും ഉണ്ടാകുമാറ് മെലിയർ തന്റെ പുരോഹിതകർമം ഈ മുപ്പതു വർഷവും
+മുടങ്ങാതെ നടത്തിക്കൊണ്ടുപോന്നു. ആർക്കും ഒരു സംശയവും തോന്നിയില്ല അദ്ദേഹത്തിന്റെ
+മതവിശ്വാസത്തെപ്പറ്റി. ഏറ്റവും ലളിതമായി ജീവിക്കാനാവശ്യമായ തുകമാത്രം തന്റെ
+ശമ്പളത്തിൽനിന്നെടുത്തുകൊണ്ടു ബാക്കി മുഴുവൻ അദ്ദേഹം ഇടവകയിലെ പാവങ്ങൾക്കു വീതിച്ചുകൊടുത്തിരുന്നു.
+ഈ ദീന ബന്ധു മരണമടയുന്നതിനു മുമ്പു് തന്റെ കൈവശമുണ്ടായിരുന്നതെല്ലാം ഇടവകയിലെ ജനങ്ങൾക്കായി
+ദാനം ചെയ്തു. ഇക്കൂട്ടത്തിൽ വിലപ്പെട്ടതായിട്ടുണ്ടായിരുന്നതു് ഒരു പ്രബന്ധത്തിന്റെ മൂന്നു കയ്യെഴുത്തുപ്രതിയാണു്
+മരണപത്രം (Testament) എന്നാണു് അതിനു പേരു കൊടുത്തിരുന്നതു്. ഒരു കയ്യെഴുത്തുപ്രതിയിൽ
+‘ഇടവകക്കാർക്കുള്ളതു്’ എന്നു പ്രത്യേകം കുറിച്ചിരുന്നു. അതിൽ അവരെ സംബോധനചെയ്തുകൊണ്ടു് മെലിയർ
+അവരോടു് ആദ്യമായി മാപ്പു ചോദിച്ചിരിക്കയാണു്. എന്തിനെന്നോ? മതത്തിന്റെ ഇരുട്ടിലൂടെയും
+ഇടവഴിയിലൂടെയും അവരെ ഇത്ര നാളും കൊണ്ടുനടന്നതിനു്. എന്റെ മനോഭാവങ്ങൾക്കു് ഇത്ര കടകവിരുദ്ധമായ
+ഒരു തൊഴിൽ ഞാൻ സ്വീകരിച്ചുവെങ്കിൽ അതു ലാഭേച്ഛകൊണ്ടൊന്നുമായിരുന്നില്ല. ഞാൻ മാതാപിതാക്കന്മാരെ
+അനുസരിച്ചു. (If embraced a profession so directly, opposed to my sentiments. It was not through
+cupidity, I obeyed my parents) എന്ന മെലിയർ തുറന്നു സമ്മതിച്ചിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Will_Durant.jpg" rendition="gra"/>
+            <figDesc style="thumb">വിൽഡ്യുറന്റ്</figDesc>
+          </figure>
+          <p> ഈ ഗ്രാമീണപുരോഹിതനെപ്പോലെ ക്രിസ്തുമതത്തിന്റെ നേരെ ഇത്രയും കഠോരമായ ആക്രമണം നടത്താൻ
+ഫ്രാൻസിൽ അക്കാലം വരെ ആരും മുതിർന്നിട്ടില്ല. യുക്തിയുക്തമായ ചോദ്യശരങ്ങൾ കൊണ്ടു ബൈബിളിന്റെ
+ഉടലാകെ അദ്ദേഹം കീറിമുറിച്ചിരിക്കുന്നു. പുതിയ നിയമത്തിലെ (New Testament) അത്ഭുതങ്ങൾ (Miracles)
+പരിശുദ്ധവഞ്ചനകളോ? യുക്തിബോധത്തെ അവഗണിച്ചു നാം ഇത്തരം കെട്ടുകഥകളിൽ വിശ്വസിക്കണമോ?
+തന്റെ സൃഷ്ടിജാലങ്ങളെ നിത്യനരകത്തിലേക്കു തള്ളിവിടുന്ന ഒരു ദൈവത്തിൽ പരിഷ്കൃതാശയനായ ഏതെങ്കിലും
+മനുഷ്യനു വിശ്വസിക്കാൻ കഴിയുമോ? ഇതുപോലെ സഹജീവികളെ അതിക്രൂരവും മൃഗീയവുമായ
+ദണ്ഡനത്തിനിരയാക്കുന്ന പൈശാചികസ്വഭാവം എത്രയും നിഷ്ഠൂരമായ മനുഷ്യപ്രകൃതിയിൽപ്പോലും
+കാണുന്നുണ്ടോ? ഇങ്ങനെ ആ പ്രബന്ധത്തിൽ ചോദ്യങ്ങളുടെ കൂരമ്പുകൾ കോരിച്ചൊരിഞ്ഞുകൊണ്ടു് ഒടുവിൽ
+
+മെലിയർ വിളിച്ചു പറയുകയാണു്; ‘അതുകൊണ്ടു് അല്ലയോ ദൈവശാസ്ത്രജ്ഞന്മാരേ നിങ്ങളുടെ ദൈവം ദുഷ്ടരിൽ
+ദുഷ്ടനായ മനുഷ്യനെക്കാളും കടുത്ത ദുഷ്ടനാണെന്നു വിശ്വസിക്കുക’ ഒരു ബോധവുമില്ലാത്ത ജനസമൂഹത്തെ
+ഭീഷണിപ്പെടുത്തി ചൂഷണം ചെയ്യാൻ പുരോഹിതന്മാരാണു് ദൈവത്തെ ഇങ്ങനെയൊരു
+കൊടുംകൊലയാളിയാക്കിത്തീർത്തതു്. ഈ ഭയങ്കരദൈവത്തിന്റെ അസ്തിത്വത്തിൽ വിശ്വസിക്കാൻ
+പ്രയാസപ്പെടുന്നവരല്ലേ ഭൂരിപക്ഷം മനുഷ്യരും? മനുഷ്യന്റെ സന്മാർഗ്ഗബോധവും ഇത്തരം അന്ധവിശ്വാസവും
+തമ്മിൽ പൊരുത്തപ്പെടുന്നതെങ്ങനെ? എല്ലാ മതഗ്രന്ഥങ്ങളും ദൈവത്തിൽ സ്തുതി വർഷിക്കുന്നു. പക്ഷേ,
+അതേസമയം ഈ രാക്ഷസീയശക്തിയുടെ പ്രഹരങ്ങളിൽനിന്നു—ഭൂകമ്പം ജലപ്രളയം സാംക്രമികരോഗം
+തുടങ്ങിയ ദൈവികദണ്ഡനങ്ങളിൽ നിന്നു്—രക്ഷനേടാൻ മനുഷ്യർ പാടുപെടുകയും ചെയ്യുന്നു. എന്തൊരു
+വൈപരീത്യം. ഈശ്വരവിശ്വാസം അസ്വാഭാവികമാണെന്ന വാദമാണു് ഇവിടെ മെലിയർ കൊണ്ടുവരുന്നതു്.
+മുഗ്ദ്ധമനസ്സുകളിൽ വിശ്വാസം അടിച്ചേല്പിക്കുകയാണു്. അതു തനിയേ ഉയർന്നുവരുന്നതല്ല. ശിശുക്കൾ സ്വതേ
+നിരീശ്വരരാണെന്നും അദ്ദേഹം വിചാരിക്കുന്നു. ദൈവത്തെപ്പറ്റി യാതൊരു വിവരവും അവർക്കില്ലല്ലോ.
+മുതിർന്നവരുടെ വിശ്വാസംപോലും പുരോഹിതവചനങ്ങളെ മാത്രം ആസ്പദമാക്കിയുള്ളതാണു്. ആർക്കും ഒന്നും
+അറിഞ്ഞുകൂടാത്ത ഒരു വിഷയം ശിശുഹൃദയങ്ങളിലേക്കു കടത്തിവിടാൻ സാഹസപ്പെടുന്നതിലുള്ള വിഡ്ഢിത്തവും
+വഞ്ചനയും മെലിയർ ഇവിടെ എടുത്തുകാണിക്കുന്നുണ്ടു്. ക്രിസ്തുവിനെപ്പറ്റിയും അദ്ദേഹത്തിനു മതിപ്പില്ല. എല്ലാ
+ജീവിതസുഖങ്ങളെയും സ്വന്തം മാതാപിതാക്കളെത്തന്നെയും ഉപേക്ഷിച്ചു തന്റെ പിന്നാലെ ചെല്ലാനുപദേശിക്കയും
+പാവപ്പെട്ടവരുടെ നട്ടെല്ലുപൊട്ടിക്കുന്ന ദാരിദ്ര്യത്തെ സ്തുതിക്കയും ചെയ്യുന്ന ക്രിസ്തു ഒരു മതഭ്രാന്തനോ (Fanatic)
+മനുഷ്യവിദ്വേഷിയോ (Misatnthrope) ആയിരുന്നുവെന്നു് അദ്ദേഹം അഭിപ്രായപ്പെടുന്നു. എന്തൊരു സുന്ദരമായ
+ധാർമികത എന്ന ഈ വിമർശനത്തിലെ ചോദ്യം രസാവഹമായിട്ടുണ്ടു്.
+</p>
+          <p>ഇപ്രകാരം മതത്തെയും ഈശ്വരനെയും പാടേ നിഷേധിച്ചതിനുശേഷം ഈ പ്രബന്ധത്തിൽ മെലിയർ
+ചെന്നുനില്ക്കുന്നതു കലർപ്പില്ലാത്ത ഭൗതികവാദത്തിന്റെ തിരുമുറ്റത്താണു്. പ്രകൃതി അഥവാ പദാർത്ഥം (matter)
+അതിൽത്തന്നെയുള്ള ശക്തിവിശേഷത്താൽ സ്വയം പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്നു. അതിനു് ദൈവശാസ്ത്രജ്ഞൻ
+(Theologians) സാധാരണ കൊണ്ടുവരാറുള്ള ഒരാദികാരണത്തിന്റെ (First cause) ആവശ്യമേയില്ല എന്നു്
+അദ്ദേഹം സമർത്ഥിക്കുന്നു. നിങ്ങൾക്കു എന്തെങ്കിലും ആരാധാനപാത്രം വേണമെന്നുണ്ടെങ്കിൽ എത്രയോ
+ആളുകൾ ചെയ്യുന്നതുപോലെ സൂര്യനെ ആരാധിക്കുക. ആ തേജോഗോളമാണല്ലോ നമുക്കു ചൂടും വെളിച്ചവും
+തരുന്നതു്. മെലിയർ ഇതെഴുതിയതു് ഭാരതീയരുടെ സൂര്യനമസ്കാരത്തെ അനുസ്മരിച്ചുകൊണ്ടാകാം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">സമത്വവാദി</head>
+          <p style="noindent">സ്വകാര്യസ്വത്തുടമയെ നഖശിഖാന്തം എതിർക്കുന്ന ഒരു സമത്വവാദിയായിരുന്നു
+ഈ പുരോഹിതൻ. ‘സ്വത്തു സ്തേയമാകുന്നു’ (property is theft) എന്നതാണു് അദ്ദേഹത്തിനു പ്രമാണം. എല്ലാ
+ദോഷങ്ങളുടെയും വേരുകിടക്കുന്നതു് സ്വകാര്യസ്വത്തു് എന്ന ഏർപ്പാടിലാകുന്നു. മതം, നിയമം, വിദ്യാഭ്യാസരീതി
+എന്നിവയെല്ലാം ഈ മുഷ്ടധനത്തെ സംരക്ഷിക്കാനും അതിനൊരു പവിത്രത (Sanctity) കല്പിക്കുവാനും
+ഉതകത്തക്കവിധം ക്രമപ്പെടുത്തിവച്ചിരിക്കയാണു്. നിയമകർത്താക്കളും മതാധികാരികളും ഒത്തുചേർന്നു മതത്തെ
+ഒരു ചൂഷണോപകരണമാക്കിയിരിക്കുന്നു. ജനങ്ങളെ ഭയപ്പെടുത്തി ഭരിക്കാൻ സ്റ്റേറ്റും പള്ളിയും ചേർന്നു നടത്തുന്ന
+ഗൂഢാലോചനയുടെ ഒരു ഭാഗമാണു് മതം. നിക്ഷിപ്തതാത്പര്യങ്ങളെ നിലനിർത്താൻവേണ്ടി സ്റ്റേറ്റിന്റെ
+പിൻബലത്തോടെ കൂട്ടക്കൊല നടത്താൻ പോലും പുരോഹിതർ മടിക്കാറില്ല. ഇക്കാര്യത്തിൽ അവർ
+നരഭുക്കുകളെക്കൊളേറെ നികൃഷ്ടരാകുന്നു. പൗരോഹിത്യവും സ്വത്തുടമയും സർക്കാരും പങ്കാളിത്തം വഹിക്കുന്ന
+ഈ ജനമർദ്ദന വ്യവസ്ഥിതിയെ തകിടംമറിക്കാൻ ഒരു വിപ്ലവം തന്നെ ആവശ്യമാണു് ഏതുതരം വിപ്ലവത്തെയും
+ഇതു സാധിക്കുമെങ്കിൽ നീതീകരിക്കാമെന്നതിനു സംശയമില്ല. അതുകൊണ്ടു് എല്ലാ സ്വത്തും
+ബലപ്രയോഗത്താലായാലും പൊതുവുടമയിലേക്കു നീക്കം ചെയ്യപ്പടട്ടെ. സ്ത്രീപുരുഷന്മാർ
+മതാചാരങ്ങൾക്കടിമപ്പെടാതെ യഥേഷ്ടം വിവാഹാദികാര്യങ്ങൾ നടത്തട്ടെ. കുട്ടികൾ മതവിദ്യാലയങ്ങളിൽനിന്നു
+പുറത്തു കടന്നു പബ്ലിക് സ്കൂളുകളിൽ പഠിക്കട്ടെ. ഇങ്ങനെ പോകുന്നു ധീരവും സ്വതന്ത്രവുമായ മെലിയറുടെ
+ചിന്താഗതി. അക്കാലത്തെ ഇരുട്ടടഞ്ഞ കാലാവസ്ഥ വച്ചുനോക്കിയാൽ സ്തുത്യർഹമായ ദീർഘദർശനമാണിതു്.
+ഇരുപതാം നൂറ്റാണ്ടിന്റെ ആശയഗരിമയും അവലോകനപടുതയും ഇതിൽ പ്രതിഫലിക്കുന്നുണ്ടു്. ജീവിച്ചിരുന്ന
+കാലത്താണു് ഇതൊക്കെ പുറത്തു വന്നിരുന്നതെങ്കിൽ മതരാക്ഷസന്മാർ ബ്രുണോവിനെപ്പോലെ ഈ
+പുരോഹിതനെയും ചുട്ടെരിച്ചുകളഞ്ഞേനെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Voltaire_Carnavalet.jpg" rendition="gra"/>
+            <figDesc style="thumb">വാൾട്ടയർ</figDesc>
+          </figure>
+          <p> വിപ്ലവത്തിന്റെ ബൈബിളെന്നു പറയാവുന്ന ഈ വിശിഷ്ടപ്രബന്ധത്തിന്റെ ഒരു ഭാഗം മാത്രം <ref target="https://en.wikipedia.org/wiki/Voltaire">വാൾട്ടയർ</ref> 1762-ൽ
+പ്രസിദ്ധീകരിച്ചു. അദ്ദേഹത്തിനേ അതിനു ധൈര്യമുണ്ടായുള്ളു. ഫ്രഞ്ചുവിപ്ലവത്തിനു പ്രചോദനം നൽകാനും ഈ
+ഗ്രന്ഥം ഉപകരിച്ചുവെന്നു പറയപ്പെടുന്നു. 1772-ൽ ഇതിന്റെ ഒരു സംഗ്രഹം മുദ്രിതമായി മുഴുവനും
+അച്ചടിയിൽപ്പെടാൻ പിന്നെയും കാലം മുന്നോട്ടു പോകേണ്ടിവന്നു. 1861-നും 1864-നും ഇടയ്ക്കേ അതു
+സാദ്ധ്യമായുള്ളു. ഈ അപൂർവഗ്രന്ഥത്തിന്റെ പ്രസിദ്ധീകരണം പിന്നീടു് നിന്നുപോകുകയാണുണ്ടായതു്.
+സ്വതന്ത്രചിന്താലോകത്തിനു് ഇതു വലിയൊരു നഷ്ടം തന്നെ. സർവ്വവിജ്ഞാനകോശത്തിൽപ്പോലും
+(Encyclopaedia Britanica) ജീൻ മെലിയറുടെ പേരു കാണുന്നില്ല. മതാധികാരികൾ ഏതെല്ലാം രൂപത്തിൽ
+എവിടെയെല്ലാം കൈകടത്തുന്നുണ്ടെന്നാരറിഞ്ഞു!
+</p>
+          <p>
+ദീപാവലി 1967.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.3.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.3.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.3"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Jean Meslier (ml: ജീൻ
+മെലിയർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Jean Meslier, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ജീൻ മെലിയർ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 23, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Sc%C3%A8ne_de_mendicit%C3%A9_par_L%C3%A9on_Bonnat,_vers_1865.jpg">Begging
+scene,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:L%C3%A9on_Bonnat">Léon
+Bonnat</ref>  (1833–1922). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-jean.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-jean.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

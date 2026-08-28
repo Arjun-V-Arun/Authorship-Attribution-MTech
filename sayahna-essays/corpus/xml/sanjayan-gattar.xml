@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗട്ടറിന്റെ പ്രയോജനം</title>
+          <title xml:lang="en" type="main">Gattarinte prayojanam</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">December 2, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗട്ടറിന്റെ പ്രയോജനം</title>
+              <title xml:lang="en" type="main">Gattarinte prayojanam</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-12-06</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Gattarinte prayojanam</term>
+          <term>സഞ്ജയൻ</term>
+          <term>ഗട്ടറിന്റെ പ്രയോജനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-12-06</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_Roman_Road.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Nicolas_Poussin__A_Roman_Road_-_WGA18328.jpg">A Roman Road,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Nicolas_Poussin">Nicolas
+Poussin</ref>  (1594–1665). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗട്ടറിന്റെ പ്രയോജനം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗട്ടറിന്റെ പ്രയോജനം</head>
+        <div type="lsection">
+          <p style="noindent">ഈയിടെയായി സഞ്ജയൻ എഴുതുവാൻ ആഭ്യസിച്ചുവരുന്ന പത്രഭാഷയിൽ
+പറയുകയാണെങ്കിൽ, സഞ്ജയന്റെ മനഃസ്ഥിതി വിപ്ലവപരമല്ലാത്തതും സമാധാനപരമായതും ആണു്. എന്നു
+വെച്ചാൽ, ആളുകൾക്കു് മനസ്സിലാകുന്ന ഭാഷയിൽ, വിപ്ലവം തെക്കോട്ടു പോകുമ്പോൾ സഞ്ജയൻ നേരെ
+വടക്കോട്ടേക്കു് നടക്കുമെന്നാണർത്ഥം. ഈ കാരണംകൊണ്ടു് കഴിഞ്ഞ വെള്ളിയാഴ്ച രാത്രി കല്ലായി
+റോഡിൽവെച്ചു നടന്ന ലഹളയിൽ പങ്കുകൊള്ളാത്തതിനെപ്പറ്റിയും, അതു് കണ്ടുനിൽക്കാത്തതിനെപ്പറ്റിയും,
+ആകെക്കൂടി നോക്കുന്നതായാൽ, സഞ്ജയന്നു് സന്തോഷമാണുള്ളതു്, പക്ഷേ, തീർത്താൽ തീരാത്ത ഒരു
+വ്യസനവുമുണ്ടു്. അതിനെക്കുറിച്ചു് പറയുന്നതിന്നുമുമ്പു് ലഹളയുടെ ആരംഭത്തെ ലഘുവായി വിവരിക്കാം.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഒരു മിനുട്ടു് ക്ഷമിക്കിൻ—ആ പേരു് ഞാൻ ഒന്നുകൂടി റിഫർ ചെയ്യട്ടെ—മതി. നമ്മുടെ ജനാബ് ഹർജി
+അബ്ദുൾസത്താർ ഹാജി ഇസ്സാക്ക് സേട്ടു സാഹിബ് ബഹദൂർ അസംബ്ലി തിരഞ്ഞെടുപ്പിൽ വിജയിയായ വിവരം
+അദ്ദേഹത്തിന്റെ കക്ഷിക്കാർ വെള്ളിയാഴ്ച ഉച്ചതിരിഞ്ഞപ്പോളറിഞ്ഞു. ഈ വിവരം അദ്ദേഹത്തിന്റെ
+കക്ഷിക്കാരറിഞ്ഞ വിവരം അഞ്ചു മിനിട്ടിന്നകത്തു് കോഴിക്കോടു് മുനിസിപ്പാലിറ്റിയിലെ കമ്പിത്തൂണുകൾകൂടി
+അറിഞ്ഞു, രാത്രി പ്രസ്തുത വിജയത്തെ പ്രമാണിച്ചു് ആയിരത്തിൽ ചില്വാനം ആളുകളടങ്ങിയ ഒരു ഘോഷയാത്ര
+ഗാസ്വിളക്കുകളോടും ബാന്റുവാദ്യത്തോടും കീ–ജെ. വിളിയോടും ആർഭാടത്തോടുംകൂടി നഗര
+പ്രദക്ഷിണത്തിന്നൊരുങ്ങി. കല്ലായി റോഡിൽവെച്ചു് ചിലർ ഈ ഘോഷയാത്രയെ തടഞ്ഞു. വാക്കേറ്റമായി.
+കശപിശയായി. തിക്കും തിരക്കുമായി. ഉന്തുംതള്ളുമായി. പാച്ചലും വീഴലുമായി. പൊട്ടലും പൊളിയലുമായി.
+ബഹളമായി. ലഹളയായി. കലാപമായി. “കുലുകുല”മായി.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ബാന്റുവാദ്യക്കാർ ആദ്യം ഓടിയെന്നു പറയേണ്ടതില്ലല്ലോ. ഈ പാവങ്ങളാണു് മുന്നിൽ പോകേണ്ടുന്നതു്.
+അവർ പാർട്ടിയും കീർട്ടിയും ഒന്നും ഇല്ലാത്ത കൂട്ടരാണു്. കൂലികൊടുത്താൽ “പ—പെപ്പര പെരപെര”യെന്നു
+പറഞ്ഞു് ആരുടെ മുന്നിലും അവർ നടക്കും. ആ സാധുക്കളുടെ കഷ്ടപ്പാടു് നോക്കിൻ! എനി മെലിൽ ഇത്തരം
+ഘോഷയാത്രകളുടെ പിന്നിൽ മാത്രമേ തങ്ങൾ നടക്കുകയുള്ളു, എന്നു് അഖിലഭാരതബാന്റുകാരുടെ
+കോൺഫ്രൻസിൽ വെച്ചു് അവർ തീർച്ചപ്പെടുത്തുവാൻ ഭാവമുണ്ടെന്നു് കേട്ടു. അതിരിക്കട്ടെ. ബാന്റുകാരുടെ ഈ
+പാച്ചൽ കാണ്മാൻ സാധിക്കാതെ പോയതിനാലാന്നു് സഞ്ജയന്നു് വലിയ വ്യസനമുള്ളതു്. നിങ്ങൾ ബാന്റിൽ
+പാത്തിചികിത്സക്കാർക്കു് വെള്ളം കാച്ചുവാൻ ഉപയോഗിയ്ക്കപ്പെടുന്ന ചെമ്പോളം വലിപ്പമുള്ള ഒരു ഗംഭീര “ഡ്രം”
+കണ്ടിട്ടുണ്ടോ? അതു് ദേഹത്തോടു് കെട്ടിയുറപ്പിച്ച വിദ്വാൻ മരണഭയത്തോടുകൂടി ഓടിയ ഓട്ടം ഒന്നു് കണ്ണു ചിമ്മി
+ആലോചിച്ചു നോക്കുവിൻ! എന്തൊരു മായാത്ത ചിത്രമാണത്! മാനിന്റെ ചുറ്റും ചുറഞ്ഞ പേരുമ്പാമ്പിനെപ്പോലെ
+ദേഹത്തെ ചുറ്റിക്കിടക്കുന്ന ആ വലിയ കോളാമ്പിക്കുഴൽ വഹിച്ച മനുഷ്യന്റെ പാച്ചലും സ്മരണീയമാണു്.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>എനിയൊരു പ്രാവശ്യം ഇത്തരമൊരു ഘട്ടത്തിൽ ബാന്റുവാദ്യത്തോടുകൂടി ഒരു
+ഘോഷയാത്രയുണ്ടാകുന്നുണ്ടെങ്കിൽ ആ വിവരം ദയചെയ്തു സഞ്ജയനെ അറിയിക്കണേ. അടി ഒന്നോ രണ്ടോ
+കൊണ്ടാൽ എന്താണു്? കാണേണ്ടതു് കണ്ടു, എന്നുള്ളതു് വലിയ സമാധാമല്ലേ?
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>അടിച്ചവർ ഉപയോഗിച്ച പ്രധാന ആയുധങ്ങൾ ചെരിപ്പു്, സോഡാക്കുപ്പി, സർവ്വത്തുകുപ്പി
+ഇവയായിരുന്നുപോലും. അടുത്തവർ അധികവും മുഖംകൊണ്ടുതന്നെയാണു് തടുത്തെതെന്നു കേട്ടു.
+</p>
+          <lg>
+            <l> അതുസമയേ ബത ലാത്തിയുമായി-</l>
+            <l>പ്പുതിയേമക്കാർ വരവുതുടങ്ങി.</l>
+            <l> ‘ഹും’ കാരത്തോടിടവും വലവും </l>
+            <l>ശങ്കവെടിഞ്ഞവർ തച്ചുതുടങ്ങി.</l>
+            <l> സേട്ടുകളും… </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> സേട്ടുകളോ? </item>
+              <label>സഞ്ജയൻ:</label>
+              <item> ‘സേട്ടുമാർ’ എന്നാണു് വേണ്ടതെന്നു് തോന്നുന്നു. പക്ഷേ, വൃത്തം ഒപ്പിക്കണ്ടേ? </item>
+            </list>
+          </p>
+          <lg>
+            <l> സേട്ടുകളും, പല കുട്ടികളും, </l>
+            <l>ചില പട്ടന്മാരും, കോമട്ടികളും,</l>
+            <l> കോട്ടം വിട്ടൊരു ചെട്ടികളേ, </l>
+            <l>വേറെക്കൂട്ടംകൂടും കൂട്ടക്കാരും,</l>
+            <l> പട്ടാണികളും, വോട്ടുപിടിപ്പാനൊ-</l>
+            <l>ട്ടേറെപ്പണിചെയ്തുള്ളവരും,</l>
+            <l> ഗോഷ്ടികൾ കാട്ടും ചേട്ടകളും,</l>
+            <l> പരിതുഷ്ടിയൊടൊത്തു വിളിക്കുന്നവരും,</l>
+            <l> നായന്മാരും, തിയ്യരു, മനവധി </l>
+            <l>തോയന്മാരും തോന്ന്യാസികളും,</l>
+            <l> ശുണ്ഠികടിക്കും മേധാവികളും,</l>
+            <l> ശണ്ഠ പിടിക്കും മൂധേവികളും,</l>
+            <l> മലയാളികളും, പരദേശികളും,</l>
+            <l> തലയാളികളും, തൊഴിലാളികളും,</l>
+            <l> ധാരാളികളും ദീപാളികളും, </l>
+            <l>പോരാളികളും, കോമാളികളും,</l>
+            <l> പെരുവഴിപോകം പാന്ഥന്മാരും, </l>
+            <l>തെരുവിൽത്തെണ്ടും മണ്ടന്മാരും. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> താൻ മതിയാക്കുന്നോ ഇല്ലയോ? </item>
+              <label>സഞ്ജയൻ:</label>
+              <item> എന്നാൽ മട്ടു മാറ്റാം, </item>
+            </list>
+          </p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>(മട്ടു മാറി)
+</p>
+          <lg>
+            <l> വിവിധജനമിത്തരം നാലുപാടും തദാ</l>
+            <l> വിധിവിഹിതമിത്ഥമെന്നോർത്തു പായുംവിധൌ</l>
+            <l> പെരുവഴിയിൽ വീണുടൻ മുട്ടുകൾ പൊട്ടിയും</l>
+            <l> തരുനിരയിൽ മുട്ടിയും മുഷ്ക്കുകൾ കാട്ടിയും</l>
+            <l> തമിഴു മലയാളവും ഹിന്ദിയും ഹൂണിയും</l>
+            <l> തെരുതെരെയുതിർക്കയും തല്ലുകൾ കൊൾകയും</l>
+            <l> അതിമലിനവാട്ടറും നാറ്റവും ചേർന്നിടും</l>
+            <l> നരകസമഗട്ടറിൽച്ചാടിപ്പതിക്കയും,</l>
+            <l> പലതരമുഴന്നവറൊക്കെയും ചൊല്ലുകിൽ</l>
+            <l> ശിവ, ശിവ നിറഞ്ഞുപോം പത്രികാപംക്തികൾ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> അതു് ഏതായാലും വേണ്ട! </item>
+              <label>സഞ്ജയൻ:</label>
+              <item> ഞാൻ തമാശ പറഞ്ഞതാണങ്ങുന്നേ! </item>
+            </list>
+          </p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഈ അടിയും പിടിയുമൊക്കെക്കണ്ടു് ഭയന്നു് ഒരു ഗ്രഹപ്പിഴക്കാരൻ നിരത്തിന്നു് ഒരു വശത്തുള്ള ഒരു
+ഷാപ്പിന്റെ വരാന്തയിൽച്ചാടിക്കയറി താൻ രക്ഷ പ്രാപിച്ചു എന്ന നിലയ്ക്കു് നിന്നിരുന്നു. പക്ഷേ, രാമേശ്വരത്തു
+പോയാലും ശനീശ്വരൻ കൂടെയുണ്ടായിരിക്കമെന്നു് അയാൾ ആലോചിച്ചില്ല. ഒരടി കിട്ടിയതോടുകൂടി അദ്ദേഹം
+ഓവിൽ മറിഞ്ഞുവീണു. പാളത്തിലെ ഗട്ടറാണു്. അതു് മറക്കരുതു്. “അടി സാരമില്ല; ആ വീഴ്ചയാണു് കഠിനം” എന്നു്
+അയാൾ പറഞ്ഞുവത്രെ. മേപ്പടിയാൻ ഇപ്പോൾ എവിടെയുണ്ടെന്നറിയുന്നില്ല. ഐഹികസുഖങ്ങളുടെ തുച്ഛത
+മനസ്സിലാക്കി സന്യസിച്ചുകളഞ്ഞു എന്നു് ചിലർ പറയുന്നു. ഒരു വണ്ടി സോപ്പുംകൊണ്ടു് പ്രയാഗയ്ക്കു്
+പോയിട്ടുണ്ടെന്നാണു് മറ്റൊരു പ്രസ്താവം. ജന്മാന്തരങ്ങളിൽച്ചെയ്ത പാപം മുഴുവൻ ഒരൊറ്റ മിനുട്ടുകൊണ്ടു് നശിച്ചു
+പോയതിനാൽ പ്രസ്തുതനെ ദേവകൾ താങ്ങിയെടുത്തു് സ്വർഗ്ഗത്തിൽ കൊണ്ടുപോയി ആകാശഗംഗയിൽ
+കുളിപ്പിച്ചുവെന്നും, കുളി കഴിഞ്ഞതിന്നുശേഷം ആകാശഗംഗ കടുക്കമഷിപോലെ, കാളിന്ദിപോലെ,
+കറുത്തുപോയെന്നും ഒരു കവി ഉൽപ്രേക്ഷിക്കുന്നു.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഈ സംഭവം നോട്ടുചെയ്യുവാൻ ഗവർമ്മേണ്ടോടു് സഞ്ജയൻ ഉപദേശിക്കുന്നു. സത്യാഗ്രഹസമരം എനി
+എപ്പോഴെങ്കിലും തുടങ്ങിയാൽ വളണ്ടിയർമാരെ അടിയ്ക്കരുതെന്നു് സഞ്ജയൻ ശിപാർശിചെയ്യുന്നു. ഭീരുക്കൾ
+
+മാത്രമേ അടി പേടിക്കുകയുള്ളു. പിക്കറ്റുചെയ്യുന്നവരെ ഓരോന്നായി പാളയത്തിലെ ചാലിൽ പിടിച്ചുമുക്കുമെന്നു്
+ഗവർമ്മേണ്ട് പ്രഖ്യാപനം ചെയ്താൽ മതി. ഒരൊറ്റക്കുട്ടിയെ പുറത്തു കാണുകയില്ലെന്നു് സഞ്ജയൻ ഗ്യാരണ്ടി
+ചെയ്യുന്നു.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>അടിയെസ്സംബന്ധിച്ചേടത്തോളം ആകെ അടികളുടെ ഒരു കണക്കെടുക്കുവാൻ, വേറെ പണിയൊന്നും
+തല്ക്കാലം ഇല്ലാത്തതുകൊണ്ടു് ചില തിരഞ്ഞെടുപ്പു് ഏജന്റുമാർ ഒരുങ്ങീട്ടുണ്ടെന്നറിയുന്നു. അടികളെ
+ഘോഷയാത്രക്കാർക്കു കിട്ടിയതു്, തടഞ്ഞുനിർത്തിയവർ വാങ്ങിയതു്, കാണികൾ കൊണ്ടതു്, ഇൻവേലിഡ്ഡ്
+അടികൾ (ആർക്കും കൊള്ളാതെ പോയതു്) ഇങ്ങനെ തരംതിരിച്ചു് എണ്ണിക്കണക്കാക്കി ഒരു സ്റ്റേറ്റുമെന്റ്
+പ്രസിദ്ധപ്പെടുത്തുന്നതാണെന്നു നഗരത്തിൽ ബലമായ പ്രസ്താവമുണ്ടു്.
+</p>
+          <p>
+21-11-’34
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Gattarinte prayojanam (ml:
+ഗട്ടറിന്റെ പ്രയോജനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-12-06. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, Gattarinte
+prayojanam, സഞ്ജയൻ, ഗട്ടറിന്റെ പ്രയോജനം, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 2, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Nicolas_Poussin__A_Roman_Road_-_WGA18328.jpg">A Roman Road,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Nicolas_Poussin">Nicolas
+Poussin</ref>  (1594–1665). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-gattar.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-gattar.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

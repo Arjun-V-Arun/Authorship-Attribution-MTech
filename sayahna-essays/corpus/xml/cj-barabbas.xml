@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">“അവനെ ക്രൂശിക്ക, ബാറബാസിനെ
+വിട്ടുതരിക!”</title>
+          <title xml:lang="en" type="main">“Avane Krooshikka, Barabbasine
+Vittutharika!”</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 22, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">“അവനെ ക്രൂശിക്ക, ബാറബാസിനെ
+
+വിട്ടുതരിക!”</title>
+              <title xml:lang="en" type="main">“Avane Krooshikka, Barabbasine
+Vittutharika!”</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-07-21</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>“Avane Krooshikka</term>
+          <term>Barabbasine Vittutharika!”</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>“അവനെ ക്രൂശിക്ക</term>
+          <term>ബാറബാസിനെ വിട്ടുതരിക!”</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-07-21</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Karl_Julius_von_Leypold.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Karl_Julius_von_Leypold__Wanderer_im_Sturm.jpg">Wanderer in the Storm,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Carl_Julius_von_Leypold">Carl Julius von
+Leypold</ref>  (1806–1874). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">“അവനെ ക്രൂശിക്ക, ബാറബാസിനെ വിട്ടുതരിക!”</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapter" n="1" xml:id="chp1">
+        <head type="chaphead"/>
+        <div type="lsection">
+          <p style="noindent">സി ജെ തോമസിന്റെ ലേഖനങ്ങൾ എപ്പോഴും സമകാലികമാവാനുള്ള ഒരു ശേഷി
+പ്രകടിപ്പിയ്ക്കുന്നു. തിരഞ്ഞെടുക്കുന്ന വിഷയങ്ങളുടെ സവിശേഷതകൾകൊണ്ടു മാത്രമല്ല അതു്, ഭാഷയുടെ
+ചൊടികൊണ്ടുകൂടി അവ നമ്മെ ഇന്നും ആകർഷിക്കുന്നു. ‘സായാഹ്ന’ അവ പുനഃപ്രകാശിപ്പിക്കുന്നതിന്റെ ഒരു
+കാരണവും അതത്രെ. എങ്കിലും, ഈ ലേഖനങ്ങളിൽ ചിലപ്പോഴെങ്കിലും കാണാറുള്ള ലിംഗപരവും
+വംശീയപരവുമായ ഭാഷാ പ്രയോഗങ്ങൾ, നിർദോഷമല്ലാത്ത കളിയാക്കലുകൾ, ഞങ്ങളും ശ്രദ്ധിക്കുന്നു. പക്ഷേ,
+അവ അതേപോലെ തിരുത്താതെ പ്രസിദ്ധീകരിയ്ക്കുന്നു. നീതിയുടെ തെളിച്ചത്തിലേക്കു് എഴുത്തുകാരും സമൂഹവും
+എത്തുന്നതിലെ കാലതാമസം മറച്ചു വെയ്ക്കണ്ടതുമല്ലല്ലോ. മാന്യ വായനക്കാർ ഇതെല്ലാം
+കാണുന്നുണ്ടാകുമെന്നുതന്നെ ഞങ്ങൾ കരുതുന്നു.
+</p>
+          <p>
+സായാഹ്ന പ്രവർത്തകർ.
+</p>
+        </div>
+        <!--end of "section 1.0/0.1"-->
+      </div>
+      <!--end of "chapter 1/0"-->
+      <!--END OF CHAPTER 1/0-->
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">“അവനെ ക്രൂശിക്ക, ബാറബാസിനെ വിട്ടുതരിക!”</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Socrates.jpg" rendition="gra"/>
+            <figDesc style="thumb">സോക്രട്ടീസ്</figDesc>
+          </figure>
+          <p style="noindent"> സോക്രട്ടീസിനെ കുറ്റംവിധിച്ചവർക്കു് അവരുടേതായ ഒരു ന്യായമുണ്ടായിരുന്നു.
+അതു സോക്രട്ടീസ് അംഗീകരിക്കുകയും ചെയ്തു. തന്റെ പ്രവൃത്തികൾ തെറ്റാണെന്നു സമ്മതിക്കുകയല്ല, അവരുടെ
+വീക്ഷണകോണത്തിൽനിന്നു് തന്നെത്തന്നെ കാണുകയാണദ്ദേഹം ചെയ്തതു്. അഥിനിയൻ പൗരന്മാർക്കു <ref target="https://en.wikipedia.org/wiki/Socrates">സോക്രട്ടീസി</ref> നെ
+വധിക്കണമെന്നു് ഒരു നിർബന്ധവും ഉണ്ടായിരുന്നില്ല. ഈശ്വരൻ, മതം, വിജ്ഞാനം മുതലായ പലതിനെപ്പറ്റിയും
+നിലവിലുള്ള അഭിപ്രായങ്ങൾക്കു വിരുദ്ധമായി അദ്ദേഹം പ്രചരണം നടത്തി. അദ്ദേഹം പറഞ്ഞ കാര്യങ്ങൾ
+ന്യായവാദം കൊണ്ടു തെളിയിച്ചുവെന്നതു് കാര്യം കുറെക്കൂടി വഷളാക്കിയതേയുള്ളു. അഭിപ്രായങ്ങൾ
+ഔദ്യോഗികമായിത്തീരുന്നതു് അവ ശരിയെന്നു തെളിയുമ്പോഴല്ല, അധികാരികൾ അവയെ
+അംഗീകരിക്കുമ്പോഴാണു്. അനൗദ്യോഗികമായ അഭിപ്രായങ്ങളെ വെച്ചുപുലർത്താൻ ക്രമീകൃതമായ യാതൊരു
+സമുദായത്തിനും സാധ്യമല്ല. ഒരു സമുദായത്തിലെ നിയമങ്ങൾ നിർവ്വഹിക്കപ്പെടുന്നതു് അവ ശരിയോ തെറ്റോ
+എന്നു നോക്കിയിട്ടല്ല, അവ നിലവിലുണ്ടോ എന്നു നോക്കിയിട്ടാണു്. ‘നിലവിലുള്ളതെല്ലാം ശരി’, എന്ന
+മനോഭാവത്തെ ചോദ്യം ചെയ്യുന്നവർ അതിനുള്ള ശിക്ഷ ശിരസാവഹിക്കുന്നതിനു സന്നദ്ധരായിരിക്കണം.
+അഥീനിയൻ പൗരന്മാർക്കു് സോക്രട്ടീസിനോടു സ്നേഹവും ബഹുമാനവുമുണ്ടായിരുന്നു. പക്ഷേ, ഒരു
+വ്യക്തിക്കുവേണ്ടി ആ നഗരത്തിന്റെ നിലനില്പിനെ അപകടത്തിലാക്കുവാൻ അവർക്കു് സമ്മതമുണ്ടായിരുന്നില്ല.
+</p>
+          <p>യുവാക്കന്മാരുടെയിടയിൽ വിധ്വംസകാഭിപ്രായങ്ങൾ പ്രചരിപ്പിക്കുന്ന പതിവു് സോക്രട്ടീസ് നിർത്താമെന്നു്
+സമ്മതിച്ചിരുന്നെങ്കിൽ അവർ അദ്ദേഹത്തെ ശിക്ഷിക്കുകയില്ലായിരുന്നു. ഇതു സോക്രട്ടീസിനു്
+സ്വീകാര്യമായിരുന്നില്ല. നഗരത്തിൽനിന്നു് പുറത്തുപോയി സ്വതന്ത്രമായി വിഹരിച്ചുകൊള്ളാൻ അവർ
+സോക്രട്ടീസിനോടു് അപേക്ഷിച്ചു. ഈ നിർദ്ദേശവും അദ്ദേഹം നിരസിച്ചു. അങ്ങനെ നിർബദ്ധരായ
+അവസ്ഥയിലാണു് അവർ അദ്ദേഹത്തെ വിചാരണ ചെയ്തതു്. വിചാരണയാകട്ടെ നിയമത്തിന്റെ എല്ലാ
+ചടങ്ങുകളും കൃത്യമായി നിർവ്വഹിച്ചു് ഏറ്റവും നീതിപൂർവ്വകമായിട്ടാണു് നടത്തിയതു്. ബഹുജനങ്ങളാൽ
+തിരഞ്ഞെടുക്കപ്പെട്ട ഒരു ജൂറിയാണു് അദ്ദേഹത്തെ മരണശിക്ഷയ്ക്കു വിധിച്ചതു്. അതും അന്നറിയപ്പെട്ടിരുന്നതിൽ
+ഏറ്റവും വേദന കുറഞ്ഞ രീതിയിൽ സ്വയം വിഷം കുടിച്ചു മരിച്ചുകൊള്ളാൻ! ഇത്രയായിട്ടും ആഥെൻസിലെ
+യുവജനങ്ങൾ അദ്ദേഹത്തിനു് ഒളിച്ചോടാനുള്ള സൗകര്യം കൊടുത്തു. നിയമം ഒന്നു കണ്ണടയ്ക്കുകകൂടി ചെയ്തു. പക്ഷേ,
+ആ വൃദ്ധൻ പറഞ്ഞു, താൻതന്നെ നിയമത്തെ നിഷേധിക്കുന്നതു് തെറ്റായിരിക്കുമെന്നു്. ഭാര്യാപുത്രാദികളുടെ
+ഇരുളടഞ്ഞ ഭാവിയെപ്പറ്റി ഓർമ്മിപ്പിച്ചിട്ടു പോലും അദ്ദേഹത്തിന്റെ സ്ഥിരനിശ്ചയത്തെ ഇളക്കാൻ ആർക്കും
+കഴിഞ്ഞില്ല. എന്തുകൊണ്ടാണു് സോക്രട്ടീസ് ഈ രീതിയിൽ പെരുമാറിയതെന്നു് മനസ്സിലാക്കുന്നതു്
+നന്നായിരിക്കും. തന്റെ അഭിപ്രായങ്ങളുടെ വിപ്ലവസ്വഭാവത്തെപ്പറ്റി സോക്രട്ടീസിനു് വ്യക്തമായ
+ബോധമുണ്ടായിരുന്നുവെന്നതാണു് വാസ്തവം… എതിർപ്പുകൊണ്ടു മാത്രമേ അവ നീതീകരിക്കപ്പെടുകയുള്ളു.
+വ്യവസ്ഥാപിതമായ ചിന്താഗതിക്കെതിരായി പ്രവർത്തിക്കുന്നതിനു് പ്രതിഫലം പൂമാലയല്ല, വിഷകുംഭമാണെന്നു്
+അദ്ദേഹം അറിഞ്ഞിരുന്നു. അദ്ദേഹത്തിന്റെ വിധികർത്താക്കളുടെ ന്യായം അദ്ദേഹം മനസ്സിലാക്കി. അവരോടു്
+യാതൊരു കയ്പും കൂടാതെ അദ്ദേഹം പുഞ്ചിരികൊണ്ടു; വിഷം കഴിച്ചു; മരിക്കുകയും ചെയ്തു, അതായിരുന്നു
+അദ്ദേഹത്തിനു ലഭിച്ച ഏറ്റവും ഉറച്ച നീതീകരണം. ഏതാണ്ടിതൊക്കെത്തന്നെയാണു് മലയാളത്തിലെ
+സോക്രട്ടീസിന്റെയും അനുഭവം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Buddha.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശ്രീബുദ്ധൻ</figDesc>
+          </figure>
+          <p> സനാതനികളും ചില മാർക്സിസ്റ്റുകളും ഒരുപോലെ ഭരണിപ്പാട്ടിനു് ലക്ഷ്യമാക്കുന്ന ഒരു ദേഹമാണു് ശ്രീ. എ.
+ബാലകൃഷ്ണപിള്ള. ഇവരിൽ ആദ്യത്തെ വിഭാഗം എന്തുകൊണ്ടു് വിമർശിക്കുന്നുവെന്നു് മനസ്സിലാക്കാൻ വിഷമമില്ല.
+
+‘ആർഷ’ഭാരതത്തിന്റെ പൂപ്പൽപിടിച്ച പനയോലക്കെട്ടുകളിലേയ്ക്കു് അദ്ദേഹം കൊളുത്തിയെറിഞ്ഞ പന്തം
+നീറിപ്പിടിക്കുന്നതിന്റെ ചീറലും പൊട്ടലുമാണാക്കേൾക്കുന്നതു്. ആ തീ പടർന്നു. <ref target="https://en.wikipedia.org/wiki/Gautama_Buddha">ശ്രീബുദ്ധനെ</ref>
+ശ്വാസംമുട്ടിച്ച ബ്രാഹ്മണ്യത്തിന്റെ ക്ഷേത്രം കത്തിയെരിഞ്ഞു്, അവിടെ ഒളിച്ചിരിക്കുന്ന നരിച്ചീറും, പൂജാരിയും, <ref target="https://en.wikipedia.org/wiki/Adi_Shankara">ശങ്കരാചാര്യ</ref> രും എല്ലാം
+ഓടി മറയും എന്നദ്ദേഹത്തിനറിയാം. അതുകൊണ്ടു് സനാതനിയുടെ ക്ഷോഭം അദ്ദേഹത്തിനു് മനസ്സിലാകും.
+അതോടൊപ്പം തന്റെ പ്രയത്നത്തിന്റെ സാഫല്യം വ്യക്തമാവുകയും ചെയ്യും. അദ്ദേഹത്തിനു് “പടിഞ്ഞാറൻ
+പ്രേതബാധ” പിടിപെട്ടിരിക്കുകയാണെന്നു് മാർക്സിസ്റ്റുകൾ ആക്ഷേപിക്കുമ്പോഴും ആ വൃദ്ധനു് പരിഭവമില്ല. <ref target="https://en.wikipedia.org/wiki/Karl_Marx">കാറൽ മാർക്സ് </ref> ‘പൗരസ്ത്യ
+പ്രേത’മാണെന്നു് ധരിച്ചതുകൊണ്ടല്ല, ചുവന്ന കുപ്പായത്തിനിടയിൽ കിടക്കുന്ന ‘ചന്ദ്രോത്സവ’സംസ്ക്കാരത്തെ വലിച്ചു
+പുറത്തിട്ടാൽ ചിലരെല്ലാം കോപിക്കുമെന്നു് മനസ്സിലാക്കാൻ അദ്ദേഹത്തിനു് ശക്തിയുള്ളതുകൊണ്ടു്. അദ്ദേഹം
+“ഗ്രന്ഥപ്പുരകളിലെ പുസ്തകപ്പുഴു”വാണെന്നു് പ്രഖ്യാപനമുണ്ടാകുമ്പോൾ ആ വൃദ്ധനയനങ്ങൾ ദീപ്തമാകും, അവയുടെ
+അരശതാബ്ദക്കാലത്തെ അക്ഷീണപരിശ്രമത്തിനു് ഇന്നെങ്കിലും അംഗീകാരമുണ്ടായല്ലോ എന്ന
+കൃതാർത്ഥതയോടുകൂടി. പാണ്ഡിത്യം സാധാരണയായി അംഗീകരിക്കപ്പെടുന്ന ഒരു
+സമ്പാദ്യമല്ലെന്നദ്ദേഹത്തിനറിയാം. ഈ അഭിനന്ദനം തലതിരിഞ്ഞ രീതിയിൽ വരുന്നതുകൊണ്ടു് അദ്ദേഹത്തിനു്
+വിരോധമൊന്നുമില്ല. അന്ധതയുടെ പ്രതിഷേധമാണു് ജ്ഞാനത്തിനുള്ള പ്രശംസാപത്രം. ഒരു ശതാബ്ദംമുമ്പു്
+മറ്റൊരു പുസ്തകപ്പുഴു (അതും പാശ്ചാത്യ ഗ്രന്ഥശാലകളിൽ) എഴുതിവെച്ച കാര്യങ്ങളെക്കടന്നു് യാതൊന്നും മനുഷ്യ
+വിജ്ഞാനീയത്തിൽ ഉണ്ടായിട്ടില്ലെന്നും ഉണ്ടായിക്കൂടെന്നും വിശ്വസിക്കുന്ന ‘പുരോഗമനക്കാർ’ <ref target="https://en.wikipedia.org/wiki/Omar">ഓമറെ</ref> ന്ന കാലിഫ് ചെയ്തതുപോലെ
+വേദമൊഴിച്ചുള്ള ഗ്രന്ഥങ്ങളെല്ലാം ചുട്ടുകരിക്കാത്തതദ്ഭുതം. പുതിയ ഉപനിഷത്തും പുതിയ വേദവും ലഭിച്ച ഇക്കൂട്ടർ
+ഗ്രന്ഥപാരായണത്തെ സ്തുതിക്കും തെറിക്കും മാത്രമാക്കി വെട്ടിച്ചുരുക്കിയതിലും അദ്ദേഹത്തിനദ്ഭുതമില്ല.
+നിലനിൽപു ലഭിച്ച ഏതു ചിന്താഗതിയും മതമായിത്തീരും. ഏതു് മതവും ജ്ഞാനത്തിനൊരതിരുവെയ്ക്കും.
+അതിനപ്പുറമുള്ളതിനെയെല്ലാം ആ മതത്തിന്റെ പുരോഹിതന്മാർ ശപിക്കുകയും ചെയ്യും.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Tombstone_of_Umar.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഓമറെന്ന കാലിഫിന്റെ ശവകുടീരം.</figDesc>
+          </figure>
+          <p>ആയില്ല, പിന്നെയുമുണ്ടു് അഥീനിയൻ പൗരന്മാർക്കു് ചില ആരോപണങ്ങൾ. അദ്ദേഹം ഒരു ഡീക്കേഡന്റ്
+(ചീയൽ പ്രസ്ഥാനക്കാരൻ) ആണത്രേ. ഇതിനു് അദ്ദേഹം നിങ്ങൾക്കൊരു സലാം തരും. അപ്പറഞ്ഞതു
+ശരിയാണു്. അദ്ദേഹം പലതും ചീഞ്ഞു നാറുന്നതു കണ്ടു. അദ്ദേഹം അതിന്റെ കാരണമന്വേഷിച്ചു് ഓടയിൽത്തന്നെ
+ഇറങ്ങിനോക്കി. “അറപ്പുള്ളവനു് ശുചിത്വമില്ല” എന്ന പഴഞ്ചൊല്ലിനെ അടിസ്ഥാനമാക്കി അദ്ദേഹം ആ ഓടയിൽ
+കണ്ടതെല്ലാം വാരി വെയിലത്തിട്ടു. അനേകം യുവാക്കന്മാരെ അദ്ദേഹം ഈ പ്രവൃത്തിക്കു് പ്രേരിപ്പിച്ചു.
+തോട്ടിസംഘം വർദ്ധിച്ചു. ഓടയിൽ കാണുന്ന മാലിന്യത്തിനു് തങ്ങൾക്കൊരുത്തരവാദിത്തമില്ലെന്ന ഭാവത്തിൽ
+അതുവഴി കടന്നുപോയ മാന്യന്മാർ മൂക്കുപൊത്തിക്കൊണ്ടു് വഴിമാറിപ്പോയി. ഓട വൃത്തിയായേക്കാം. പക്ഷേ, ഈ
+വെള്ളതേയ്ക്കപ്പെട്ട ശവക്കല്ലറകൾ എന്നും നാറിക്കൊണ്ടുതന്നെയിരിക്കും. അദ്ദേഹമാകട്ടെ നമ്മോടു ചോദിക്കും:
+“ഒരിക്കൽകൂടി എന്നെ ഡിക്കേഡന്റ് എന്നു വിളിക്കണേ” എന്നു്. അദ്ദേഹത്തിന്റെ നേതൃത്വം ‘പിഴച്ച’താണെന്നു
+പറയുമ്പോഴും ആ കണ്ണുകൾ തിളങ്ങും. ആ ആരോപണംകൊണ്ടു് ‘നേതൃത്വ’മുണ്ടെന്നെങ്കിലും സമ്മതിച്ചല്ലോ.
+അതുമതി. സോക്രട്ടീസിനും അതുതന്നെയായിരുന്നു സമാധാനം. പ്ലേറ്റോയെയും അരിസ്റ്റോട്ടലിനെയും പിഴച്ച
+വഴിയിൽ നയിച്ചുവെന്നതിൽ കവിഞ്ഞു് ഒന്നും ഒരു താടിക്കാരനും ലഭിക്കേണ്ടതില്ല. പിന്നെയുമുണ്ടു് ഒരു ചുമടു്
+ആരോപണങ്ങൾ. അദ്ദേഹം പിന്തിരിപ്പനാണു്. എന്താ സംശയമുണ്ടോ? <ref target="https://en.wikipedia.org/wiki/Mohenjo-daro">മോഹൻ ജൊഡാറോ</ref>
+യിലെ പുരാതനവസ്തുക്കളിലും അറേബ്യൻ കടലിലാണ്ടുപോയ ദ്വാരകയിലും സത്യമന്വേഷിച്ചു് പരതിനടക്കുന്ന ആ
+കിഴവൻ പഴഞ്ചരക്കുതന്നെയല്ലേ? വയസ്സാണെങ്കിൽ അറുപതും കഴിഞ്ഞു. ഇതിനെല്ലാം പുറമെ അദ്ദേഹമൊരു
+അരാജകത്വവാദിയാണു്. എന്നുവെച്ചാൽ ഒരു വിദൂരഭാവിയിൽ മനുഷ്യൻ രാഷ്ട്രീയവും നിയമവും ഒന്നുമില്ലാതെ
+സ്നേഹിച്ചും സഹകരിച്ചും ജീവിക്കുന്ന ഒരു ജീവിയായിത്തീരുമെന്നു് വിശ്വസിക്കുന്ന മനുഷ്യൻ! നോക്കണേ
+എന്തൊരു പാതകമാണെന്നു്. നിയമങ്ങൾ അനുസരിച്ചു ജീവിക്കുന്ന മാന്യപൗരന്മാർക്കു് ഇതു സഹിക്കുവാൻ
+കഴിയുമോ? ഇതിലെല്ലാം വലിയ തെറ്റു് അദ്ദേഹം, അദ്ദേഹത്തേക്കാൾ പാണ്ഡിത്യവും മഹിമയും ഉള്ള ചില
+അതിമാനുഷരെ അംഗീകരിക്കുന്നില്ലെന്നതാണു്. ചുരുക്കിപ്പറഞ്ഞാൽ ഈ “കരിംകാക്ക കാലം
+
+മാറിയതറിഞ്ഞീല.” വർത്തമാനത്തിൽ ഉദിച്ചുനിന്നുകൊണ്ടു് ഭൂതകാലത്തിലേക്കു് എത്തിനോക്കിയ ആ മനുഷ്യൻ,
+ശിവന്റെയും, സോമബ്രഹ്മാവിന്റെയും ജാതകമെഴുതിയ ആ മനുഷ്യൻ, ഭാവിയിലെ യുഗസഹസ്രങ്ങളിലേക്കു്
+നോക്കിനോക്കി കണ്ണുതളർന്ന ആ മനുഷ്യൻ ഇതെല്ലാം കേൾക്കുമ്പോൾ സന്തോഷിക്കും, കാലം മാറുക എന്ന
+ആശയം, എത്ര പരിമിതമായിട്ടാണെങ്കിലും കുറേപ്പേരുടെ തലയ്ക്കകത്തു് കയറിയല്ലോ എന്നോർത്തു്.
+തന്തയെക്കേറി കാക്കയെന്നു വിളിക്കുന്ന സമ്പ്രദായവും അദ്ദേഹത്തിനിഷ്ടമാണു്. അതും നിലവിലുള്ളതിനെ
+ചോദ്യം ചെയ്യുന്ന ഏർപ്പാടാണല്ലോ. ഭീഷണികൾ അദ്ദേഹത്തെ സന്തോഷിപ്പിക്കും. കയാഫാസിനും
+ജറുസലേമിലെ ജനതയ്ക്കും ഒരു വീക്ഷണകോണമുണ്ടായിരുന്നു. അവരുടേതായ ഒരു ന്യായവും. അതിഭീമമായ
+ജറുസലേം ദേവാലയം മൂന്നുദിവസംകൊണ്ടു് പൊളിച്ചുപണിയുമെന്നു് വീമ്പിളക്കുന്ന ഒരാശാരിച്ചെക്കനെ
+തച്ചുകൊല്ലുകയല്ലാതെ ഗത്യന്തരമുണ്ടായിരുന്നില്ല. നമുക്കും വിളിക്കാം: “അവനെ ക്രൂശിക്ക, അവനെ ക്രൂശിക്ക!”
+</p>
+          <p>ഇവൻ എന്റെ പ്രിയപുത്രൻ 1953.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 1.0/1.1"-->
+      </div>
+      <!--end of "chapter 1/1"-->
+      <!--END OF CHAPTER 1/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  “Avane Krooshikka, Barabbasine
+Vittutharika!” (ml: “അവനെ ക്രൂശിക്ക, ബാറബാസിനെ വിട്ടുതരിക!”).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-07-21. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas, “Avane
+Krooshikka, Barabbasine Vittutharika!”, സി. ജെ. തോമസ്, “അവനെ ക്രൂശിക്ക, ബാറബാസിനെ
+വിട്ടുതരിക!”, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 22, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Karl_Julius_von_Leypold__Wanderer_im_Sturm.jpg">Wanderer in the Storm,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Carl_Julius_von_Leypold">Carl Julius von
+Leypold</ref>  (1806–1874). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-barabbas.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-barabbas.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

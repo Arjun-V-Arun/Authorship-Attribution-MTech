@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഇംപ്രഷണിസം</title>
+          <title xml:lang="en" type="main">Impressionism</title>
+        </title>
+        <author>Kesari Balakrishna Pillai</author>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Digitized by</resp>
+          <name>KB Sujith</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">October 8, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is in the public domain. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under
+a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+Commons Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA
+4​.0). Any reuse of the material should credit the Sayahna Foundation and must be
+shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഇംപ്രഷണിസം</title>
+              <title xml:lang="en" type="main">Impressionism</title>
+            </title>
+            <author>Kesari Balakrishna Pillai</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="10">10 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>1940-10-20</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kesari Balakrishna Pillai</term>
+          <term>Impressionism&gt;</term>
+          <term>കേസരി ബാലകൃഷ്ണപിള്ള</term>
+          <term>ഇംപ്രഷണിസം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>1940-10-20</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Pierre-Auguste_Renoir_of_Mademoiselle.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:PierreAuguste_Renoir,_1880,_Portrait_of_Mademoiselle_Ir%C3%A8ne_Cahen_d%27Anvers,_Sammlung_E.G._B%C3%BChrle.jpg">Portrait
+of Mademoiselle Irène Cahen d’Anvers (Little Irene),</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir">PierreAuguste Renoir</ref>  (1841–1919). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഇംപ്രഷണിസം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കേസരി ബാലകൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഇംപ്രഷണിസം</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Roger_Fry.jpg" rendition="gra"/>
+            <figDesc style="thumb">റോജർ ഫ്രൈ</figDesc>
+          </figure>
+          <p style="noindent"> ‘പോസ്റ്റ് ഇംപ്രഷണിസം’ ആണു് പാശ്ചാത്യ ലോകത്തു് ഇന്നു് അധികമായി
+പ്രചാരമുള്ള ചിത്രകലാ പ്രസ്ഥാനം. ഈ പദത്തിന്റെ അർത്ഥം ‘ഇംപ്രഷണിസം’ എന്ന ചിത്രകലാ
+പ്രസ്ഥാനത്തിനു ശേഷം ജനിച്ച പ്രസ്ഥാനമെന്നാണു്. 1910-ൽ ഇംഗ്ലണ്ടിൽ <ref target="https://en.wikipedia.org/wiki/Grafton_Galleries">ഗ്രാഫ്ടൻ
+ചിത്രശാല</ref> യിൽ പ്രദർശിപ്പിക്കപ്പെട്ട <ref target="https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne">സേസൻ</ref>
+(Cezanne), <ref target="https://en.wikipedia.org/wiki/Paul_Gauguin">ഗോഗിൻ</ref>, <ref target="https://en.wikipedia.org/wiki/Vincent_van_Gogh">വാൻഗോഗ്</ref>,
+<ref target="https://en.wikipedia.org/wiki/Henri_Matisse">മതിസ്</ref>
+മുതലായ ചില ആധുനിക ഫ്രഞ്ച് ചിത്രകാരരുടെ ചിത്രങ്ങൾക്കു് പൊതുവെ <ref target="https://en.wikipedia.org/wiki/Roger_Fry">റോജർ ഫ്രൈ</ref> എന്ന
+ഇംഗ്ലീഷ് കലാനിരൂപകൻ നൽകിയ പേരാണു് പോസ്റ്റ് ഇംപ്രഷണിസം. പത്തൊമ്പതാം ശതാബ്ദത്തിന്റെ
+ഉത്തരാർദ്ധത്തിന്റെ മദ്ധ്യത്തോടുകൂടി യൂറോപ്പിൽ ജനിച്ച ഇംപ്രഷണിസം പ്രസ്ഥാനത്തിന്റെ
+കലാരീതിയോടുള്ള പ്രതിഷേധത്തിന്റെ ഫലമായി ആവിർഭവിച്ച 1) നിയോ ഇംപ്രഷണിസം, 2)
+ഫോവിസം, 3) എക്സ്പ്രഷണിസം, 4) ക്യൂബിസം, 5) ഫ്യൂച്ചറിസം, 6) വോർട്ടിസിസം, 7) സർറിയലിസം, 8)
+കൺസ്ട്രക്ഷണിസം എന്നീ പല പ്രസ്ഥാനങ്ങളെയും പോസ്റ്റ് ഇംപ്രഷണിസം എന്ന സാമാന്യനാമത്തിൻ
+കീഴിൽ സാധാരണയായി ഉൾപ്പെടുത്താറുണ്ടു്. ഇവയ്ക്കു് പുറമെ <ref target="https://en.wikipedia.org/wiki/Georges_Rouault">റൂവോ</ref> യുടെ
+മദ്ധ്യകാല പ്രസ്ഥാനം, ജോൺ കെയ്നിന്റെ റിയലിസം, <ref target="https://en.wikipedia.org/wiki/Pavel_Tchelitchew">പാവേൽ
+ചെലിച്യൂവി</ref> ന്റെ പൗരസ്ത്യ പ്രസ്ഥാനം <ref target="https://en.wikipedia.org/wiki/Nicholas_Roerich">നിക്കോളാസ്
+റോറിക്കി</ref> ന്റെയും <ref target="https://en.wikipedia.org/wiki/Ivan_Bilibin">ഐവാൻ
+ബിലിബൈനി</ref> ന്റെയും ബൈസൻടൈൻ പ്രസ്ഥാനം എന്നീ പുതിയ പ്രസ്ഥാനങ്ങളും ഇന്നു്
+പാശ്ചാത്യലോകത്തു് ജനിച്ചിരിക്കുന്നു. പിന്നെയും, പ്രസിദ്ധ ഭൂഭാഗ ചിത്രകാരരായ (Lanscape painters)
+<ref target="https://en.wikipedia.org/wiki/Lucien_Pissarro">ലൂസിയൻ
+പിസ്സാറോ</ref>, <ref target="https://en.wikipedia.org/wiki/George_Clausen">സർ ജോർജ്ജ്
+ക്ലൗസൻ</ref>, <ref target="https://en.wikipedia.org/wiki/Philip_Wilson_Steer">വിൽസൺ
+സ്റ്റീർ</ref> എന്നീ ഇംഗ്ലീഷുകാരും, <ref target="https://en.wikipedia.org/wiki/Walter_Sickert">വാൾട്ടർ
+സിക്കെര്‍ട്ട്</ref> മുതലായ മറ്റു ചില ചിത്രകാരന്മാരും സമ്പൂർണ്ണമായ ഇംപ്രഷണിസം രീതിയിലോ
+ഭേദപ്പെടുത്തിയ ഇംപ്രഷണിസം രീതിയിലോ ഇന്നും ചിത്രങ്ങൾ രചിച്ചു വരുന്നുണ്ടു്. ഈ പല
+പ്രസ്ഥാനങ്ങളിൽ ചിലതിനെ മാത്രമേ ഈ ഒന്നാമത്തെ ലേഖനത്തിൽ വിവരിക്കുവാൻ സാധിക്കുകയുള്ളു.
+പിന്നീടുള്ളവയിൽ ശേഷിച്ച പ്രസ്ഥാനങ്ങളേയും വിവരിക്കാമെന്നു് വിചാരിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/I.1"-->
+        <div type="lsection" xml:id="lsecI.2">
+          <head type="lsechead">ചിത്രമെഴുത്തും ഫോട്ടോഗ്രാഫിയും </head>
+          <figure rend="fleft" type="grh">
+            <graphic url="images/the_bridge_at_argenteuil.jpg"/>
+            <figDesc>അർജന്തേയിലുള്ള പാലം, ക്ലാദ് മോനെ.</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Manson-Lucien-Pissaro-Reading.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലൂസിയൻ പിസ്സാറോ</figDesc>
+          </figure>
+          <p style="indent">
+</p>
+          <p style="noindent">കഴിഞ്ഞ അറുപതു വർഷങ്ങൾക്കുള്ളിൽ യൂറോപ്പിൽ കാണുന്ന
+ചിത്രകലാപ്രസ്ഥാനത്തിനു് തുല്യമായ പ്രസ്ഥാന ബാഹുല്യം ലോകത്തിൽ മറ്റൊരിടത്തും, മറ്റൊരു
+കാലഘട്ടത്തിലും കാണുവാൻ സാധിക്കുകയില്ല. ഈ പ്രസ്ഥാന ബാഹുല്യത്തിനു് കാരണം
+ഫോട്ടോഗ്രാഫിയുടെ കണ്ടുപിടിത്തമാണു്. പത്തൊമ്പതാം ശതാബ്ദത്തിന്റെ പൂർവ്വാർദ്ധത്തിൽ
+ഫോട്ടോഗ്രാഫി കണ്ടുപിടിച്ചതോടുകൂടി പാശ്ചാത്യലോകത്തു് ആധുനിക ചിത്രകല ജനിച്ചു എന്നു പറയാം.
+സാധനങ്ങളുടെ ഛായകളെ അത്രമാത്രം വ്യത്യാസമെന്യേ വരയ്ക്കുന്ന അത്ഭുത മനുഷ്യരായി ചിത്രകാരരെ
+പാശ്ചാത്യലോകർ ഫോട്ടോഗ്രാഫിയുടെ കണ്ടുപിടിത്തത്തിനുമുമ്പു് ബഹുമാനിച്ചു വന്നു. ഒരു
+സാധനത്തിന്റെ ഛായ യാതൊരു ചിത്രകാരനും ഒരിക്കലും സാധിക്കാത്ത വിധത്തിൽ അതിസൂക്ഷ്മമായി
+നിർമ്മിക്കുന്ന ഫോട്ടോഗ്രാഫി ജനിച്ചപ്പോൾ, ചിത്രകാരരുടെ ദിവ്യത്വം അവസാനിക്കുകയും, അവർ
+തൊഴിലില്ലാത്തവരായി ഭവിക്കുകയും ചെയ്തു. ഉടനെ, സാധനങ്ങളുടെ സൂക്ഷ്മച്ഛായ വരക്കുന്നതല്ല തങ്ങളുടെ
+തൊഴിലെന്നു് ചിത്രകാരന്മാർ ആത്മരക്ഷാർത്ഥം പറയുകയും, അതനുസരിച്ചു് പ്രവർത്തിക്കുവാൻ
+ഉദ്യമിക്കുകയും ചെയ്തു. ഫോട്ടോഗ്രാഫിയുടെ കണ്ടുപിടിത്തത്തിന്റെ മറ്റൊരു ഫലം പൊതുജനങ്ങളിൽ അതു്
+ഫോട്ടോഗ്രാഫിക് ദൃഷ്ടി ജനിപ്പിച്ചതാണു്. ദൃശ്യത്തെ അതായതു് പുറമേ കാണുന്നതിനെ
+അതുപോലെതന്നെ ഗ്രഹിക്കുന്നതത്രേ ഫോട്ടോഗ്രാഫിക് ദൃഷ്ടിയുടെ ഫലം. ഏതു ചിത്രത്തിലും സൂക്ഷ്മമായ
+ഛായ വന്നിട്ടുണ്ടോ എന്നാണു് ജനസാമാന്യം പ്രധാനമായി പരിശോധിച്ചതു്.
+ചിത്രകലാകാരന്മാർക്കുപോലും ഒരു ഭഗീരഥ പ്രയത്നം കൂടാതെ ഫോട്ടോഗ്രാഫിക് ദൃഷ്ടിയുടെ
+പിടിയിൽനിന്നു് രക്ഷപ്പെടാൻ സാധിക്കാതെ വന്നു. ഈ ഫോട്ടോഗ്രാഫിക് ദൃഷ്ടി എല്ലാവരിലും
+ഒന്നുപോലെ ഇരിക്കുമല്ലോ. തന്നിമിത്തം വ്യക്തിപരമായ ദൃഷ്ടി ഇതോടുകൂടി ഇല്ലാതാകുകയും ചെയ്തു. കല
+വ്യക്തിപരമായ ദൃഷ്ടിയുടെ ഫലമാണുതാനും. ഈ സമയത്തു തന്നെ മറ്റൊരു പ്രവൃത്തികൊണ്ടു്
+കലാകാരന്മാർ തങ്ങളുടെ ശവക്കല്ലറ തോണ്ടി. മഹാന്മാരായ ചിത്രകാരരുടെ പ്രസിദ്ധ ചിത്രങ്ങളുടെ
+ഫോട്ടോകൾ നിർമ്മിച്ചു പ്രസിദ്ധപ്പെടുത്തിയതാണു് പ്രസ്തുത പ്രവൃത്തി. ഇതു നിമിത്തം വ്യക്തിപരമായ
+ദൃഷ്ടിയുടെ അധികമായ ആവശ്യകത ജനിച്ചു. ഒരു സന്ദർഭത്തിൽ അവരുടെ തലച്ചോറുകളും കണ്ണുകളും
+പരസ്പര വിരുദ്ധമായ അനേകം മാതൃകകളും തോതുകളും വീക്ഷണ കോടികളും കൊണ്ടു് നിറഞ്ഞുപോയി.
+ഈ തക്കം ഫോട്ടോഗ്രാഫി പാഴാക്കിക്കളഞ്ഞില്ല. അതു് ഒരു സുന്ദരകലയുടെ വേഷം പൂണ്ടുകൊണ്ടു്
+ശവക്കുഴിയുടെ വക്കത്തിരിക്കുന്ന ചിത്രകലയെ അതിലേയ്ക്കു് പിടിച്ചു തള്ളി. ചിത്രകാരനിൽ നിരൂപണ
+വീക്ഷണകോടി ജനിപ്പിച്ചും തന്മൂലം അവരുടെ നിർമ്മാണശക്തി ക്ഷയിപ്പിച്ചുമാണു് അതു് ഇങ്ങനെ
+ചെയ്തതും.
+</p>
+        </div>
+        <!--end of "section 0.0/I.2"-->
+        <div type="lsection" xml:id="lsecI.3">
+          <head type="lsechead">ഇംപ്രഷണിസം </head>
+          <figure rend="fright" type="grh">
+            <graphic url="images/Eva_Gonzales_Manet.jpg"/>
+            <figDesc>ഇവാഗൊൻസെലസ്, എഡ്വെർ മാനേ.</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Edouard_Manet.jpg" rendition="gra"/>
+            <figDesc style="thumb">എഡ്വെർ മാനേ</figDesc>
+          </figure>
+          <p style="indent">
+</p>
+          <p style="noindent">ഇംപ്രഷണിസ്റ്റ് ചിത്രകാരന്മാരും പ്രസ്തുത ഫോട്ടോഗ്രാഫിക് ദൃഷ്ടിയെ
+ഒഴിഞ്ഞുകളയുവാൻ ശ്രമിച്ചില്ല. നേരെമറിച്ചു് അവർ അതിനെ തങ്ങളുടെ കലാതത്വമായി
+സ്വീകരിക്കുകയാണു് ചെയ്തതു്. എന്നാൽ തൽസമയത്തുതന്നെ അവരിൽ ഓരോരുത്തനും ഓരോ
+രീതിയിൽ താൻ ഭയപ്പെട്ടിരുന്ന ഫോട്ടോ രീതിയിലുള്ള ചിത്രം വരയ്ക്കാതെയിരിക്കുവാൻ പഠിച്ച പണി
+പതിനെട്ടും പ്രയോഗിക്കുകയും ചെയ്തു. ഇംപ്രഷണിസം എന്ന ചിത്രകലാ പ്രസ്ഥാനത്തിന്റെ സ്ഥാപകൻ
+<ref target="https://en.wikipedia.org/wiki/Édouard_Manet">എഡ്വെർ
+മാനേ</ref> (Édouard Manet), <ref target="https://en.wikipedia.org/wiki/Claude_Monet">ക്ലാദ് മോനെ</ref>
+(Monet), <ref target="https://en.wikipedia.org/wiki/Camille_Pissarro">കമിൽ
+പിസ്സാറോ</ref> (Pissaro) എന്നിവർ ആകുന്നു. ഇവർ മൂവരിലും വെച്ചു് ആദ്യമായി
+ചിത്രമെഴുതിത്തുടങ്ങിയ മാനേക്ക് (1832–1883) നല്ല സാദൃശ്യാത്മകങ്ങളായ ചിത്രങ്ങൾ വരയ്ക്കുവാൻ വേണ്ട
+കെൽപ്പുണ്ടായിരുന്നു. പക്ഷേ, അങ്ങനെ ചെയ്യുന്നതിനു പകരം, അദ്ദേഹം ഒരു മനുഷ്യശിരസ്സിനെ, അതു്
+ഒരു ശിരസ്സിനെക്കാളധികം ഒരു തുള്ളി ചായം വീണു പരന്നതു് എന്നു് തോന്നിക്കുന്ന വിധത്തിൽ
+മനഃപൂർവ്വം വരയ്ക്കുകയാണു് ചെയ്തതു്. ഈ രീതി നിമിത്തമത്രേ ഇംപ്രഷണിസ്റ്റ് ചിത്രങ്ങളിൽ ചായം
+നിമിത്തം സാധനങ്ങളുടെ ഛായകൾ തിരിച്ചറിയാൻ പ്രയാസമാണെന്നു് സാധാരണയായി കുറ്റം
+പറയാറുള്ളതും. സാദൃശ്യാത്മകത്വത്തെ മനഃപൂർവ്വം ഒഴിച്ചുകളഞ്ഞ ആദ്യത്തെ യൂറോപ്യൻ ചിത്രകാരനാണു്
+മാനേ. പ്രസിദ്ധ ചിത്രകാരനായ <ref target="https://en.wikipedia.org/wiki/Diego_Velázquez">വെലാസ്ക്വെസ്</ref>,
+<ref target="https://en.wikipedia.org/wiki/Francisco_Goya">ഗോയ</ref>
+എന്നീ പ്രാചീന സ്പെയിൻകാരുടെ ചിത്രകലാരീതിയുടെ ചില ഘടകങ്ങളെ മാനേയുടെ കൃതികളിൽ
+ദർശിക്കാൻ കഴിയും. ‘വാല്യൂ’ എന്നതിനെ (Value) അതായതു്, ദിഗന്തരത്തിൽ ഒരു സാധനത്തിന്റെ
+പ്രത്യക്ഷമായ സ്ഥാനം (ഭാരതീയ ചിത്രകലാഭാഷയിൽ ഭൂലംബം) നിർണ്ണയിക്കുന്നതിനുപകരിക്കുന്നതും
+ചായത്തിൽ വെളിച്ചത്തിന്റെ വീഴ്ചകൊണ്ടു് കാണിക്കപ്പെടുന്നതുമായ ‘ടോൺ’ (Tone) എന്നതിനെ
+സംബന്ധിച്ചുള്ളതാണു് മാനേയിൽ നിന്നു് ആധുനിക ചിത്രമെഴുത്തിനു് ലഭിച്ചിട്ടുള്ള നേട്ടം. പഴയ
+ചിത്രങ്ങളിലെ തവിട്ടു നിറത്തിനും സുവർണ്ണ നിറത്തിനും പകരമായി വെള്ളിനിറം മുതലായ പ്രകാശമേറിയ
+നിറങ്ങൾ മാനേ ഉപയോഗിച്ചു. മാനേയുടെ ഡ്രോയിങ്ങ് ഫലത്തിൽ വെലാസ്ക്വെസിന്റെതുപോലെ
+പര്യവസാനിക്കുന്നുണ്ടെങ്കിലും അതു് അയഞ്ഞ മട്ടിലുള്ള ഒന്നാണു്. ടോണിന്റെ ഖണ്ഡങ്ങളെ ലഘൂകരിച്ചു്
+മാനേ അവയെ വിഷയം കെട്ടിയുണ്ടാക്കുവാനായി വശത്തോടുവശം ചേർത്തുവെക്കുന്നുമുണ്ടു്.
+</p>
+          <figure rend="fleft" type="grh">
+            <graphic url="images/Street_Singer.jpg"/>
+            <figDesc>അലഞ്ഞു നടക്കുന്ന പാട്ടുകാർ, എഡ്വെർ മാനേ.</figDesc>
+          </figure>
+          <p style="indent">
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Claude_Monet.jpg" rendition="gra"/>
+            <figDesc style="thumb">ക്ലാദ് മോനെ</figDesc>
+          </figure>
+          <p style="indent"> പ്രകാശാത്മകത്വം (Luminism) എന്ന മാർഗ്ഗമുപയോഗിച്ചു് ചിത്രമെഴുതിയ
+ഒരു ഇംപ്രഷണിസ്റ്റ് ചിത്രകാരനാണു് മോനെ. ഇദ്ദേഹം ജനിച്ചതു് 1940-ലാണു്. വെളിച്ചത്തിനു് സർവ്വ
+പ്രാധാന്യം നൽകുന്നതും, നിഴലിനെ വെളിച്ചത്തിന്റെ അഭാവമായിട്ടല്ല, പിന്നെയോ, മറ്റൊരുതരം
+വെളിച്ചമായി കരുതുന്നതുമായ മാർഗ്ഗമാണു് പ്രകാശാത്മക മാർഗ്ഗം. മോനേയുടെ ചിത്രങ്ങൾ
+വെളിച്ചത്തിന്റെ കേളീരംഗങ്ങളാണു്. വെളിച്ചം വീഴുവാനുപയോഗിക്കുന്ന സ്ഥലങ്ങളായി മാത്രമേ മോനെ
+സാധനങ്ങളെ പരിഗണിച്ചിരുന്നുള്ളു എന്നു പറയാം. ഒരേ രംഗത്തെ ആസ്പദിച്ചു തന്നെ പകലിന്റെ പല
+ഭാഗങ്ങളിലും വ്യത്യാസപ്പെട്ടു കാണുന്ന വെളിച്ചത്തിന്റെ വ്യത്യാസങ്ങളെ ആധാരമാക്കി പല ചിത്രങ്ങളും
+രചിക്കാമെന്നു് മോനേയ്ക്കു് നിശ്ചയമുണ്ടായിരുന്നു. പഴയ കറുപ്പുനിറം, തവിട്ടുനിറം, ഭൂമിയുടെ നിറം മുതലായ
+സൗമ്യനിറങ്ങളെ ഉപേക്ഷിച്ചു് സൗരസ്പെക്ട്രത്തിലെ പ്രകാശമേറിയ നിറങ്ങൾ അദ്ദേഹം
+ഉപയോഗിക്കുകയും ചെയ്തു. <ref target="https://en.wikipedia.org/wiki/J._M._W._Turner">ടെർണ</ref>
+(1776–1857) എന്ന പ്രസിദ്ധനായ ഇംഗ്ലീഷ് ഭൂഭാഗ ചിത്രകാരന്റെ കലാരീതിയുടെ ചില ഘടകങ്ങൾ
+പ്രകാശാത്മകമാർഗ്ഗത്തിൽ കാണാൻ സാധിക്കും. പ്രകാശാത്മകമാർഗ്ഗം ഉപയോഗിച്ചിരുന്ന മറ്റൊരു
+പ്രസിദ്ധ ഇംപ്രഷണിസ്റ്റ് ചിത്രകാരൻ <ref target="https://en.wikipedia.org/wiki/Alfred_Sisley">ആൽഫ്രഡ്
+സിസ്ലേ</ref> (Sisley) എന്ന ആംഗ്ലോ ഫ്രഞ്ച് കലാകാരനാണു്. ഡിവിഷണിസം, അഥവാ,
+പോയിന്റലിസം എന്ന മാർഗ്ഗം ചിത്രകലയിൽ ആദ്യമായി ഉപയോഗിച്ച ഇംപ്രഷണിസ്റ്റ് ചിത്രകാരൻ
+<ref target="https://en.wikipedia.org/wiki/Georges_Seurat">ജോർജ്
+സുറേ</ref> യും (Seuret) <ref target="https://en.wikipedia.org/wiki/Camille_Pissarro">കമിൽ
+പിസാറോ</ref> യുമാണു്. പിസാറോയുടെ ജീവിതകാലം 1831 മുതൽക്കു് 1903 വരെയാണു്. മുകളിൽ
+പ്രസ്താവിച്ച പ്രസിദ്ധ ഭൂഭാഗ ചിത്രകാരനായ <ref target="https://en.wikipedia.org/wiki/Lucien_Pissarro">ലൂസിയൻ
+പിസാറോ</ref> ഇദ്ദേഹത്തിന്റെ പുത്രനാണു്. രണ്ടു തരം ചായങ്ങൾ ഒന്നിച്ചു കൂട്ടിച്ചേർത്തു് ആ
+സമ്മിശ്രവർണ്ണംകൊണ്ടു് ചിത്രമെഴുതുന്നതിനേക്കാൾ അധികം ജാജ്വല്യമാനമായ ഫലം, ആ രണ്ടു
+ചായങ്ങളെയും കൂട്ടിക്കലർത്താതെ ചിത്രത്തിൽ വശത്തോടുവശം നിക്ഷേപിച്ചു് അവയെ കൂട്ടിക്കലർത്തുന്ന
+ജോലി നയനങ്ങൾക്കു് വിട്ടുകൊടുത്താൽ ഉണ്ടാകുന്നതാണെന്നുള്ള തത്വമാണു് ഡിവിഷണിസം എന്ന
+മാർഗ്ഗത്തിൽ അന്തർഭവിച്ചിട്ടുള്ളതു്. ഇംപ്രഷണിസത്തിന്റെയും പോസ്റ്റ് ഇംപ്രഷണിസത്തിന്റെയും
+ഘടകങ്ങൾ കൂടിച്ചേർന്നിട്ടുള്ള നിയോ ഇംപ്രഷണിസം എന്ന പ്രസ്ഥാനത്തിൽപ്പെട്ട ചിത്രകാരന്മാർ ഈ
+ഡിവിഷണിസം എന്ന മാർഗ്ഗത്തെ വളരെ മുറുകെ പിടിച്ചിട്ടുണ്ടു്. നിയോ ഇംപ്രഷണിസ്റ്റ് പ്രസ്ഥാനത്തിലെ
+പ്രധാന ചിത്രകാരൻ <ref target="https://en.wikipedia.org/wiki/Paul_Signac">പോൾ സിന്യാക്</ref>
+ആണു്. മറ്റു രണ്ടു പ്രസിദ്ധരായ ഇംപ്രഷണിസ്റ്റ് ചിത്രകാരന്മാർ <ref target="https://en.wikipedia.org/wiki/Edgar_Degas">എച്ച്. ജി. ഇ. ദെഗാ</ref>
+യും (1834–1917), <ref target="https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir">അഗസ്റ്റ്
+റെന്വാ</ref> യും (1841–1919) ആകുന്നു. ഇവർ രണ്ടുപേരും ഫ്രഞ്ചുകാരാണു്. ജന്മനാൽതന്നെ ഒരു
+ചിത്രകാരനായിരുന്ന റെന്വായുടെ ഒടുവിലത്തെ ചിത്രങ്ങളിൽ പോസ്റ്റ് ഇംപ്രഷണിസത്തിന്റെ രീതി
+നല്ലപോലെ തെളിഞ്ഞു കാണാം എന്നു ചൂണ്ടിക്കാണിക്കേണ്ടിയിരിക്കുന്നു. ഒരു ഒന്നാന്തരം ഡ്രാഫ്റ്റ്സ്മാനും,
+നല്ല ഡിസൈനറുമാണു് ദെഗാ.
+</p>
+          <figure rend="fright" type="grh">
+            <graphic url="images/Boulevard_Montmartre_Paris.jpg"/>
+            <figDesc>ബുൽവർ മന്ത് മർത്, കമിൽ പിസ്സാറോ.</figDesc>
+          </figure>
+          <p style="indent">
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Pissarro.jpg" rendition="gra"/>
+            <figDesc style="thumb">കമിൽ പിസ്സാറോ</figDesc>
+          </figure>
+          <p style="indent">
+</p>
+          <p style="noindent">പ്രസിദ്ധ ഇംഗ്ലീഷ് ഭൂഭാഗ ചിത്രകാരനായ <ref target="https://en.wikipedia.org/wiki/John_Constable">ജോൺ
+കോൺസ്റ്റബിളി</ref> നെ (1778–1887) ഇംപ്രഷണിസത്തിന്റെ അകന്ന പൂർവ്വികനായി കരുതി വരുന്നു.
+ഇംപ്രഷണിസ്റ്റ് ചിത്രകാരരെ സാഹിത്യത്തിലെ റിയലിസ്റ്റ്, അഥവാ, സാദൃശ്യാത്മക പ്രസ്ഥാനക്കാരോടു്
+ഏറെക്കുറെ ശരിയായി സദൃശപ്പെടുത്താം. ഇംപ്രഷണിസത്തിന്റെ തത്വങ്ങളെ വിശദീകരിച്ചു് തുടരെ
+എഴുതിയവനും, അതിനുവേണ്ടി തീവ്രമായി വാദിച്ചവനും, ഫ്രഞ്ചു സാഹിത്യത്തിലെ കടുത്ത റിയലിസ്റ്റിക്ക്
+പ്രസ്ഥാനക്കാരനും പ്രസിദ്ധ നോവലെഴുത്തുകാരനുമായ <ref target="https://en.wikipedia.org/wiki/Émile_Zola">സോൾ</ref> ആയിരുന്നു
+എന്നുള്ള സംഗതി ഇവിടെ സ്മരണീയമാണു്. മറ്റു ഇംപ്രഷണിസ്റ്റ് ചിത്രകാരർ ഡച്ചുകാരനായ മൂന്നു <ref target="https://en.wikipedia.org/wiki/Anton_Mauve">മോവ്</ref> സഹോദരർ,
+ജർമ്മനായ <ref target="https://en.wikipedia.org/wiki/Max_Liebermann">മാക്സ്
+ലിബർമാൻ</ref>, അമേരിക്കക്കാരനായ <ref target="https://en.wikipedia.org/wiki/Edwin_Dickinson">എഡ്വിൻ
+ഡിക്കിൻസൺ</ref>, സ്പെയിൻകാരനായ <ref target="https://en.wikipedia.org/wiki/Ricard_Canals">റിക്കട്സ്
+കനൽസ്</ref> മുതലായവരാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0/I.3"-->
+        <div type="lsection" xml:id="lsecI.4">
+          <head type="lsechead">സിസ്ലേയുടെ ‘വസന്തത്തിന്റെ
+പ്രാരംഭം’ </head>
+          <figure rend="fleft" type="grh">
+            <graphic url="images/Country_Dance.jpg"/>
+            <figDesc>നാട്ടുമ്പുറത്തെ നൃത്തം, റെനോ.</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/William_Turner.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടെർണ</figDesc>
+          </figure>
+          <p style="indent"> ലണ്ടനിലെ നാഷണൽ ഗാലറിയിലുള്ള സിസ്ലേയുടെ ‘<ref target="https://fineartamerica.com/featured/first-day-of-spring-inmoret-1889-alfred-sisley.html">വസന്തത്തിന്റെ പ്രാരംഭം</ref>’ <ref xml:id="xfn0.1" target="#fn0.1" type="noteAnchor">[1]</ref> എന്ന
+ചിത്രമെടുത്തു് ഒരു ഇംപ്രഷണിസ്റ്റ് ചിത്രം എങ്ങനെയിരിക്കുമെന്നു് വർണ്ണിക്കാൻ ശ്രമിക്കാം. ഇതിനേക്കാൾ
+പ്രകാശാത്മകത്വമേറിയ ചിത്രങ്ങൾ സിസ്ലേ രചിച്ചിട്ടുണ്ടെങ്കിലും, ഇംപ്രഷണിസത്തിന്റെ ചില പ്രധാന
+ഘടകങ്ങളായ അന്തരീക്ഷം, പ്രകാശാത്മകത്വം മുതലായവ ഇതിൽ നല്ലപോലെ കാണാവുന്നതാണു്.
+തടിക്കു് കനം കുറഞ്ഞവയും എന്നാൽ ധാരാളം പൊക്കമുള്ളവയുമായ ആറേഴു വൃക്ഷങ്ങൾ മുമ്പിലായും
+ഏഴെട്ടു വൃക്ഷങ്ങൾ അകലെയായും നില്ക്കുന്നു. ഭൂമിയിൽ ധാരാളം പുല്ലു് കിളിർത്തിട്ടുണ്ടു്. ഈ
+പുൽപ്രദേശത്തിൽകൂടി ചുകപ്പുകലർന്ന കടും തവിട്ടുനിറമുള്ള രണ്ടു പാതകൾ പോകുന്നുണ്ടു്. ചിത്രത്തിന്റെ
+വലതുവശത്തിനടുത്തു് ഒരു പൊയ്ക കാണാം. അതിന്റെ അങ്ങേക്കരയിൽ ഒരു ചെറുഭവനം നിൽക്കുന്നതു്
+അവ്യക്തമായി കാണാം. നീലിമ കോലുന്ന വ്യോമമണ്ഡലത്തിന്റെ ഇരുവശങ്ങളിലും ഇളം ചുകപ്പിന്റെ
+കലർപ്പോടുകൂടിയ ചാമ്പൽ നിറമുള്ള മേഘങ്ങൾ അനുപ്രസ്തങ്ങളായും, എന്നാൽ വിഭിന്ന രൂപങ്ങൾപൂണ്ടൂം
+നിലകൊള്ളുന്നു. ആകാശത്തിന്റെ മദ്ധ്യഭാഗത്തിലും വലതുവശത്തുള്ള വൃക്ഷക്കൂട്ടങ്ങളുടെ ഇടതുവശത്തായും
+ഒരു മേഘഖണ്ഡം കാണാം: ഈ മേഘങ്ങൾക്കു് പുക പോകുമ്പോൾ കാണാവുന്ന ചലനഭാവം നൽകി
+വായുവിന്റെ ത്രസനം കാണിച്ചിരിക്കുന്നു. ഇതുപോലെത്തന്നെ വൃക്ഷങ്ങളുടെ ഇടയ്ക്കുള്ള വായുവും
+ത്രസിക്കുന്നതു കാണാം. അന്തരീക്ഷം ചിത്രീകരിക്കാനാണു് ഇങ്ങനെ ചെയ്തിട്ടുള്ളതു്. ഈ ചിത്രം
+സൗമ്യമായ വികാരപരത്വവും പ്രകടിപ്പിക്കുന്നു. ഇടതുവശത്തു് നിൽക്കുന്ന വൃക്ഷങ്ങളിൽ തളിരുകൾ
+കിളിർത്തു തുടങ്ങിയിട്ടില്ല. നേരെമറിച്ചു് വലതുവശത്തുള്ള തരുകളിൽ തളിരുകൾ പൊടിയ്ക്കുവാൻ
+തുടങ്ങിയിരിക്കുന്നു. വസന്ത പ്രാരംഭമാണു് ഇതു് സൂചിപ്പിക്കുന്നതു്. തളിരു കിളിർക്കാത്ത വൃക്ഷങ്ങൾക്കു്
+റോസും ഊതയും നിറങ്ങൾ നൽകിയിരിക്കുന്നു. തളിരുള്ളവയിലാകട്ടെ ഓറഞ്ചുകലർന്ന ഇളംചുകപ്പും
+ഊതനിറവും കാണാം. നിലത്തുള്ള ഓരോ പുല്ലിനും അല്പസ്വല്പ വ്യത്യാസങ്ങളുള്ള വിഭിന്ന നിറങ്ങൾ
+നൽകി വെളിച്ചത്തിന്റെ വിളയാട്ടങ്ങൾ ചിത്രീകരിച്ചിരിക്കുന്നു. പ്രകൃതിയിൽ ഋജുരേഖകളുള്ള മാനേയുടെ
+സിദ്ധാന്തമനുസരിച്ചു് ഈ പുല്ലുകളെ തമ്മിൽ വേർതിരിച്ചു് കാണിച്ചിരിക്കുന്നതു് രേഖകൾ മുഖേനയല്ല,
+ചായത്തിന്റെ നിറഭേദം മുഖേനയാണു്. ഇരുൾച്ചയും മഞ്ഞയും കലർന്ന ഒരുതരം പച്ചനിറത്തിന്റെ
+വകഭേദങ്ങളാണു് ഈ നിറങ്ങളിൽ ഭൂരിഭാഗവും. ഇളം നീല വസ്ത്രം ധരിച്ച ഒരു സ്ത്രീ മുൻവശത്തു്
+നടക്കുന്നതായും, ഇരുണ്ട വസ്ത്രം ധരിച്ച മറ്റു രണ്ടു മനുഷ്യർ അകലെയായി നില്ക്കുകയും ഇരിക്കുകയും
+ചെയ്യുന്നതായും കാണിച്ചിരിക്കുന്നു. മുകളിൽ വിവരിച്ച അന്തരീക്ഷ ചിത്രീകരണവും, വികാരപരത്വവും
+വെളിച്ചത്തിന്റെ വിളയാട്ടങ്ങളും നിമിത്തമാണു് ഒരു ഇംപ്രഷണിസ്റ്റ് ചിത്രം ഒരു രാഗം മൂളൂന്നുവെന്നും,
+പഴയതരം ചിത്രങ്ങൾ പ്രേക്ഷകരിൽ ഒരു ശാന്തതയാണു് ജനിപ്പിച്ചിരുന്നതു്. നേരെമറിച്ചു് ഇംപ്രഷണിസ്റ്റ്
+ഭൂഭാഗചിത്രങ്ങൾ പ്രേക്ഷകരിൽ ഒരു ക്ഷോഭം ജനിപ്പിക്കുന്നു. മുകളിൽ വർണ്ണിച്ചിട്ടുള്ള സിസ്ലേയുടെ
+ഭൂഭാഗചിത്രം ജനിപ്പിക്കുന്ന ക്ഷോഭത്തേക്കാൾ ശക്തിയേറിയ ക്ഷോഭം മാനേ മുതലായ മറ്റു ചില
+ഇംപ്രഷണിസ്റ്റ് ചിത്രകാരരുടെ ഭൂഭാഗചിത്രങ്ങൾ ഉളവാക്കിയിരുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/I.4"-->
+        <div type="lsection" xml:id="lsecI.5">
+          <head type="lsechead">ഇംപ്രഷണിസ്റ്റ് ചിത്രങ്ങളുടെ
+വിഷയം </head>
+          <figure rend="fright" type="grh">
+            <graphic url="images/Modern_Rome-Campo.jpg"/>
+            <figDesc>ആധുനിക റോം — കാമ്പോ വാക്സിനോ, ടെർണ.</figDesc>
+          </figure>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Alfred_Sisley.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആൽഫ്രഡ് സിസ്ലേ</figDesc>
+          </figure>
+          <p style="indent">
+</p>
+          <p style="noindent">ഇംപ്രഷണിസ്റ്റ് രീതിയിലുള്ള ചിത്രങ്ങളുടെ സാങ്കേതിക മാർഗ്ഗം
+(Technique) മുകളിൽ സംക്ഷേപിച്ചു വിവരിച്ചു കഴിഞ്ഞു. ഇനി അവയിൽ പ്രധാനപ്പെട്ടവയുടെ
+വിഷയത്തെപ്പറ്റി രണ്ടു വാക്കു പറഞ്ഞുകൊള്ളട്ടെ. അവയുടെ വിഷയം വളരെ സങ്കുചിതമാണു്.
+സമകാലീന ജീവിതത്തിന്റെ സമ്പൂർണ്ണമായ പ്രതിബിംബനമോ, വ്യാഖ്യാനമോ അവയിൽ
+കാണാവുന്നതല്ല. ഏറിയകൂറും പട്ടണ ജീവിതമാണു്, ഗ്രാമീണജീവിതമല്ല അവയുടെ വിഷയം. ഇതു്
+ഇവരുടെ ചിത്രങ്ങളുടെ പേരുകൾ കൊണ്ടുതന്നെ പ്രത്യക്ഷമാകൂന്നതാണു്. ‘അർജന്തേയിലുള്ള പാലം’,
+‘റൂയേലിലെ തോട്ടം’, ‘ഫോളീസ് ഫെയിർജേർ നാടകശാലയുടെ ദ്വാരം’, ‘<ref target="https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet__Eva_Gonzal%C3%A8s_en_train_de_peindre_dans_le_studio_de_Manet.jpg">ഇവാഗൊൻസെലസ്</ref>
+’, ‘<ref target="https://commons.wikimedia.org/wiki/File:Edouard_Manet__Street_Singer_-_Google_Art_Project.jpg">അലഞ്ഞു നടക്കുന്ന പാട്ടുകാർ</ref>’,
+‘ത്വീൽറീസ് കൊട്ടാരത്തിലെ സദീര്’, മുതലായവ <ref target="https://en.wikipedia.org/wiki/Édouard_Manet">മോനേ</ref> യുടെ
+പ്രസിദ്ധ ചിത്രങ്ങളും, ‘<ref target="https://commons.wikimedia.org/wiki/File:Pissarro_Camille__Boulevard_Montmartre_%C3%A0_Paris.jpg">ബുൽവർ മന്ത് മർത്</ref> ’,
+‘ഒപ്പെയ്റാ നാടകശാലയിലെ വൃക്ഷശ്രേണി’, മുതലായ <ref target="https://en.wikipedia.org/wiki/Camille_Pissarro">കമിൽ
+പിസാറോ</ref> യുടെ ചിത്രങ്ങളും, ‘<ref target="https://commons.wikimedia.org/wiki/File:PierreAuguste_Renoir_019.jpg">പട്ടണത്തിലെ നൃത്തം</ref>’, ‘<ref target="https://en.wikipedia.org/wiki/Dance_in_the_Country">നാട്ടുമ്പുറത്തെ
+നൃത്തം</ref>’, ‘കടകൾ’, ‘ഉപഗ്രഹം’, ‘കടൽക്കരെയുള്ള കളിക്കാരി’, ‘കറുത്ത വസ്ത്രം ധരിച്ച യുവതി’,
+‘തണ്ടു പിടിച്ചതിനു് ശേഷമുള്ള ലഘു ഭക്ഷണം’, മുതലായ <ref target="https://en.wikipedia.org/wiki/PierreAuguste_Renoir">റെനോ</ref> യുടെ പ്രസിദ്ധ ചിത്രങ്ങളുമാണു്. സംഗീതശാലകളിലും,
+നാടകശാലകളിലും വെച്ചു് രാത്രിയിൽ ചായമിട്ടു് പ്രായേണ നഗ്നകളായി കാണുമ്പോൾ ഉർവ്വശീതുല്യരായ
+യുവസുന്ദരികളായി തോന്നിക്കുന്ന പാട്ടുകാരികളും, നർത്തകികളും, നടികളും മറ്റും യഥാർത്ഥത്തിൽ
+മദ്ധ്യവയസ്കകളും,
+സൗന്ദര്യശൂന്യരായ ഗണികകളാണെന്നു് ദെഗ തന്റെ ‘ഒരു നർത്തകി ഒരു ഷൂവിന്റെ നാട കെട്ടുന്നതു് ’, <ref target="https://commons.wikimedia.org/wiki/File:Degas_Laundress.jpg">അലക്കുകാരി</ref>
+മുതലായ പ്രസിദ്ധ ചിത്രങ്ങൾ മുഖേന ചൂണ്ടിക്കാണിക്കുകയുണ്ടായി.
+</p>
+        </div>
+        <!--end of "section 0.0/I.5"-->
+        <div type="lsection" xml:id="lsecI.6">
+          <head type="lsechead">ഇംപ്രഷണിസത്തിന്റെ ഗുണദോഷങ്ങൾ: </head>
+          <figure rend="fleft" type="grh">
+            <graphic url="images/Pierre-Auguste_Renoir.jpg"/>
+            <figDesc>പട്ടണത്തിലെ നൃത്തം, റെനോ.</figDesc>
+          </figure>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/John_Constable.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോൺ കോൺസ്റ്റബിൾ</figDesc>
+          </figure>
+          <p style="indent">
+</p>
+          <p style="noindent">പഴയ രീതിയിലുള്ള ചിത്രത്തെ നാം ഡിസൈൻ മുഖേന സ്മരിക്കുന്നു.
+എന്നാൽ ഒരു ഇംപ്രഷണിസ്റ്റ് ചിത്രത്തെ ഒരു ത്രസനമോ, ഒരു സ്മരണമോ, ഒരു തിളക്കമോ —
+അതായതു് ഒരു നിമിഷത്തിന്റെയോ, ഒരു ഋതുവിന്റെയോ ക്ഷണിക ഗുണങ്ങൾ — മുഖേനയാണു് നാം
+ദർശിക്കുന്നതു്. ഫോട്ടോഗ്രാഫിക് ദൃഷ്ടി, ചായത്തിന്റെ പരപ്പു നിമിത്തം സാധനങ്ങളെ
+തിരിച്ചറിയുന്നതിനുള്ള ബുദ്ധിമുട്ടു്, ഡിസൈനിലുള്ള ഉദാസീനത, വിഷയത്തിന്റെ സങ്കുചിതത്വം എന്നീ
+പ്രത്യേക ദൂഷ്യങ്ങൾ ഇംപ്രഷണിസത്തിനുണ്ടു്. രണ്ടാമതു് പറഞ്ഞ ദൂഷ്യം ചിത്രത്തിൽ നിന്നു് അകലെ നിന്നു്
+നോക്കിയാൽ ഇല്ലാതാകുന്നതാണു്. പക്ഷേ, സാധാരണ ജനങ്ങൾ ഇങ്ങനെ പ്രവർത്തിക്കാറില്ല.
+അതിനാൽ സാധാരണ ജനങ്ങൾക്കു് ഇംപ്രഷണിസ്റ്റ് ചിത്രങ്ങൾ കണ്ടു രസിക്കുവാൻ സാധിക്കാതെ വന്നു.
+ഇതു പൊതുവായി ഇംപ്രഷണിസം പ്രഭുക്കന്മാർക്കു് മാത്രം ഉപയോഗപ്പെടുന്ന ഒരു കലാരീതിയായി
+ഭവിക്കുകയും ചെയ്തു. ഈ ദൂഷ്യങ്ങളെല്ലാം ഇംപ്രഷണിസ്റ്റ് ചിത്രങ്ങൾക്കുണ്ടെങ്കിലും, പഴയ ചിത്രകാരന്മാർ
+ശ്രദ്ധപതിപ്പിക്കാതെയിരുന്ന വെളിച്ചത്തിന്റെ വിളയാട്ടങ്ങളിലും, അന്തരീക്ഷ ചിത്രീകരണത്തിലും,
+അതിമനോഹരങ്ങളായ നിറങ്ങളുടെ പ്രയോഗത്തിലും അവ ചിത്രകാരരുടെ ശ്രദ്ധയെ തിരിച്ചുവിട്ടു
+എന്നുംകൂടി പറഞ്ഞേ മതിയാവൂ.
+</p>
+          <p style="right"> മാതൃഭൂമി ആഴ്ചപ്പതിപ്പു്,</p>
+          <p style="right"> 20-10-40.</p>
+          <p style="right"> </p>
+          <p style="noindent">
+            <ref target="kesari-bio.html">കേസരിയുടെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+          <noteGrp>
+            <note xml:id="fn0.1" n="0.1" style="end"><ref target="#xfn0.1">[1]</ref> ഈ ചിത്രം പൊതുസഞ്ചയത്തിൽ കിട്ടാത്തതുകൊണ്ടു്
+വായനക്കാരുടെ സൗകര്യത്തിനായി <ref target="https://fineartamerica.com/featured/first-day-of-spring-inmoret-1889-alfred-sisley.html">ഈ ലിങ്കു മാത്രം ചേർക്കുന്നു.</ref> </note>
+          </noteGrp>
+        </div>
+        <!--end of "section 0.0/I.6"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Impressionism (ml:
+ഇംപ്രഷണിസം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kesari Balakrishna
+Pillai.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 1940-10-20. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml,
+Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kesari
+Balakrishna Pillai, Impressionism&gt;, കേസരി ബാലകൃഷ്ണപിള്ള, ഇംപ്രഷണിസം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 8, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original
+item is in the public domain. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+Commons Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA
+4​.0). Any reuse of the material should credit the Sayahna Foundation and must be
+shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:PierreAuguste_Renoir,_1880,_Portrait_of_Mademoiselle_Ir%C3%A8ne_Cahen_d%27Anvers,_Sammlung_E.G._B%C3%BChrle.jpg">Portrait
+of Mademoiselle Irène Cahen d’Anvers (Little Irene),</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir">PierreAuguste Renoir</ref>  (1841–1919). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>  PK Ashok; <hi rend="bold">Digitizer:</hi>  KB Sujith; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The
+entire document processing has been done in a computer running GNU/Linux operating
+system and TeX and friends. The PDF has been generated using XeLaTeX from TeXLive
+distribution 2021 using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an
+online framework for text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded XML has been
+generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated
+from XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF
+and HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The
+font used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip
+Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kesari-impressionism.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kesari-impressionism.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

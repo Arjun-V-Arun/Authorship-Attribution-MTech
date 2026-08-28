@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സർക്കാരും സംസ്കാരവും</title>
+          <title xml:lang="en" type="main">Sarkarum Samskaravum</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 5, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സർക്കാരും സംസ്കാരവും</title>
+              <title xml:lang="en" type="main">Sarkarum Samskaravum</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-03-17</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>Sarkarum Samskaravum</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>സർക്കാരും സംസ്കാരവും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-03-17</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Agency_of_the_Netherlands.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:K.A._Schmidt__Stilleven_met_kaars_-_AB18603__Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg">Stilleven
+met kaars,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q41005766">Karel Albert Schmidt</ref>
+ (1880–1920). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സർക്കാരും സംസ്കാരവും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സർക്കാരും സംസ്കാരവും</head>
+        <div type="lsection">
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">സംസ്കാരത്തിന്റെ രംഗത്തെങ്കിലും ഈ ഉദ്യോഗസ്ഥ മേധാവിത്തം
+അവസാനിച്ചിരുന്നെങ്കിൽ എന്നു് പലപ്പോഴും ആശിച്ചിട്ടുണ്ടു്. അവർക്കു് ഭാരിച്ച തുകകൾ ശമ്പളം കൊടുക്കുന്നതിൽ
+എനിക്കു് എതിരഭിപ്രായമില്ല. പക്ഷേ, അവർ റേഡിയോസ്റ്റേഷനിൽനിന്നു് അമ്പതു് മൈലകലെയെങ്കിലും
+താമസിക്കണമെന്നേർപ്പാടു് ചെയ്താൽ മതി. </p>
+            </body>
+          </floatingText>
+          <p style="noindent"> സകല സർക്കാരും, അതേതു് വേദത്തെ പിടിച്ചു സത്യംചെയ്യുന്നതായാലും
+സംസ്കാരത്തിന്റെ ശത്രുക്കളായിരിക്കും എന്ന വിശ്വാസക്കാരനാണു് ഞാൻ. അങ്ങനെയിരിക്കെ ഈ
+ലേഖനത്തിനെന്തു് പ്രസക്തിയാണുള്ളതെന്നു് ഞാൻ എന്നോടു ചോദിച്ചുപോകുന്നു. തർക്കശാസ്ത്രപരമായി
+നീതീകരിക്കാവുന്ന യാതൊരു മറുപടിയും എനിക്കു് ആ ചോദ്യത്തിനില്ല. പിന്നെ എഴുതുന്നതെന്തിനാണെന്നല്ലേ?
+അതിനു് രണ്ടു കാരണങ്ങളുണ്ടു്. ഒന്നു്, ജനാധിപത്യപരമായ ഭരണസമ്പ്രദായത്തിൽ കലയ്ക്കും സംസ്കാരത്തിനും
+കുറച്ചൊരു പൊറുതികിട്ടുമെന്നു് ഒരു നേരിയ ആശ എന്നിൽ അവശേഷിക്കുന്നതുകൊണ്ടു്. രണ്ടാമത്തെ കാരണം,
+പ്രയോജനത്തെ ലക്ഷ്യമാക്കിയുള്ളതല്ല. സാധാരണക്കാരന്റെ അജ്ഞതയും അശ്രദ്ധയും നമ്മുടെ സംസ്കാരത്തെ
+എത്രമാത്രം പുറകോട്ടു വലിക്കുന്നെന്നു് ചൂണ്ടിക്കാണിക്കുവാൻ. ഈ രണ്ടു കാരണങ്ങൾകൊണ്ടും
+തൃപ്തിപ്പെടാത്തവർ ഇതു് ഒരു അസംതൃപ്തന്റെ ജല്പനങ്ങളായി കണക്കാക്കിയാൽ മതി.
+</p>
+          <p>നമ്മുടേതുപോലെയുള്ള ഒരു രാജ്യത്തു് അധികാരവും ധനവും മാത്രമല്ല സർക്കാരിന്റെ
+കുത്തകയായിരിക്കുന്നതു്. വാക്കുകളുടെ ഉച്ചാരണവും സംഗീതത്തിന്റെ ശ്രുതിയും ഭരണാധികാരിയുടെ തറവാട്ടു
+മുതലാണു്. സിവിൽലിസ്റ്റിലെ നിലവാരമനുസരിച്ചാണു് അഭിപ്രായങ്ങൾ വിലമതിക്കപ്പെടുന്നതു്. ചുരുക്കം ചില
+ഉദാഹരണങ്ങൾ മാത്രമെടുക്കാം.
+</p>
+          <p>അഖിലേന്ത്യാ റേഡിയോയുടെ ലക്ഷ്യം നമ്മുടെയൊക്കെ സംസ്കാരം പൊക്കുകയാണെന്നാണു് വെയ്പു്.
+അതിനുവേണ്ടി ഈ പാവപ്പെട്ട രാജ്യത്തു് റേഡിയോ വാങ്ങിക്കുന്ന നിർഭാഗ്യവാന്മാരുടെയടുത്തുനിന്നു് ഒരു വലിയ
+തുക പിരിച്ചെടുക്കുന്നുണ്ടു്<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> .
+ഒരൊറ്റ അക്ഷരം എങ്കിലും നല്ലതു പറയാൻ ഇല്ലാത്ത ഒരു കറക്കുകമ്പനിയാണിതു്. ഉയർന്ന സ്ഥാനങ്ങളിൽ
+കയറിപ്പറ്റി പ്രമാണികളുടെ ശ്വശുരവിഡ്ഢികൾക്കു് സുഖമുള്ള ആസനങ്ങൾ സൃഷ്ടിക്കുകയല്ലാതെ ഇതുകൊണ്ടു്
+യാതൊന്നും ഇന്നുവരെ സാധിച്ചിട്ടില്ല. ആ ഡിപ്പാർട്ടുമെന്റിന്റെ പ്രവർത്തനങ്ങൾ ഒന്നൊന്നായി എടുത്തുനോക്കാം.
+അവരുടെ വർത്തമാനപ്രക്ഷേപണങ്ങളെക്കാൾ ഭേദമായിട്ടാണു് നമ്മുടെ അരയന്ന പത്രങ്ങൾ ന്യൂസ്
+കൊടുക്കുന്നതു്. അതു് എഴുതുന്നതു് (മലയാളത്തെ സംബന്ധിച്ചു) ‘റേഡിയോ’ എന്നൊരു പുതിയ ഭാഷയിലാണു്,
+വായിക്കുന്നതു് ‘റേഡിയോ’രാഗത്തിലും. സംഗീതമാണു് നമ്മുടെ റേഡിയോയുടെ പ്രധാനതൊഴിൽ. അതു
+നന്നാകാൻ വളരെ ന്യായമുണ്ടു്. പാറപ്പുറത്തു് ചിരട്ടയിട്ടുരക്കുന്നതുപോലെയുള്ള ശബ്ദത്തിൽ ചില തെന്നിന്ത്യക്കാർ
+(ശാസ്ത്രീയമായിട്ടാണത്രേ) ഞരങ്ങുന്നതു മാത്രമാണു് സംഗീതം! ഫിലിമിലെ പാട്ടു വേണമെന്നല്ല ഞാൻ
+പറയുന്നതു്. പക്ഷേ, ഈ ഭാഗവതരന്മാർ മാതമല്ല, സംഗീതം എന്നുമാത്രം. പാശ്ചാത്യസംഗീത ഉപകരണങ്ങൾ
+മുഴുവനും എടുത്തുകളയണമെന്ന ആജ്ഞയും ഓർക്കസ്ട്രായ്ക്കു പകരം ‘വാദ്യവൃന്ദ’പ്രയോഗവും കൂടിയായപ്പോൾ
+കാര്യം കേമമായി. ഡൽഹിയിലെ രാജകീയവിരുന്നുകൾക്കു് സാമ്പാറും ചുക്കുവെള്ളവും മാത്രമാകുന്ന കാലം
+അതിവിദൂരമല്ലെന്നു തോന്നുന്നു. ഏതായാലും ഒരാശ്വാസമുണ്ടു്, ഈ ഭാഗവതരന്മാർക്കെങ്കിലും കുറെ പണം
+കൊടുക്കുന്നുണ്ടല്ലോ. നാടോടിപ്പാട്ടാണു് മറ്റൊരിനം. ഇതു് ഉണ്ടാക്കേണ്ടതു് ദിവസക്കൂലിക്കു് പണിയെടുക്കുന്ന ഒരു
+വർഗ്ഗമാണു്. പട്ടിണി ശമ്പളവും തീരാത്ത ജോലിയുമായി കഴിയുന്ന ഈ സാധുമനുഷ്യർ (അവർക്കു് കലാകാരന്മാർ
+എന്ന അധിക്ഷേപപ്പേരും ഔദ്യോഗികമായി നല്കിയിട്ടുണ്ടു്).</p>
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">ഓരോരോ രാഷ്ട്രീകസേരകളിൽ നിന്നു് പുറംതള്ളപ്പെട്ട വസ്തുക്കളെ
+വൈസ്ചാൻസലറന്മാരായി നിയമിക്കുക, നാട്ടിലെ പ്രധാന വക്കീലന്മാരെ പഠനവിഭാഗങ്ങളുടെ
+സർവ്വാധികാരിയാക്കുക, അമ്പതോ, നൂറോ വർഷംമുമ്പു് വേണ്ടിയിരുന്ന പാഠ്യപദ്ധതികൾ
+നിലനിറുത്തുക—എന്തിനു് പറയുന്നു, നമുക്കു് യൂണിവേഴ്സിറ്റികൾ ചെയ്യുന്ന സേവനം
+പരിശോധിക്കാതിരിക്കുകയാണു് ഭേദം.</p>
+            </body>
+          </floatingText>
+          <p> ഇല്ലായിരുന്നെങ്കിൽ നമ്മുടെ റേഡിയോ സ്റ്റേഷനുകളിൽനിന്നു് എന്തു സാധനമാണു് പുറത്തുവരിക എന്നു
+ഞാൻ സംശയിച്ചിട്ടുണ്ടു്. ഇവരിൽ പലരും കഴിവുള്ളവരാണു്. പക്ഷേ, ജോലി കൂടുതലും സൗകര്യക്കുറവുംകൊണ്ടു്
+അവരുടെ സൃഷ്ടികൾ രണ്ടാംതരമായിത്തീരുകയാണു്. നാടകമാണു് മറ്റൊരിനം. കുറെ ഞരങ്ങുകയും മൂളുകയും
+കിതയ്ക്കുകയും ചെയ്താൽ റേഡിയോ നാടകമായി എന്നാണവരുടെ പക്ഷം. അങ്ങനെയാണു് (ഒരു മണിക്കൂർ
+നേരത്തേയ്ക്കു് ) എഴുതിയുണ്ടാക്കിയാൽ ഉറുപ്പിക നാല്പത്തഞ്ചു്! പിന്നെ ചില ‘ഫീസ്’ ഉണ്ടു്. കപ്പ (മരച്ചീനി)
+വേവിക്കുന്നതെങ്ങനെ, പച്ചവെള്ളം കുടിക്കുന്നതെങ്ങനെ, മുതലായ വിഷയങ്ങളെപ്പറ്റി. ഇങ്ങനെ
+പറഞ്ഞുപോയാൽ ഒരവസാനമില്ല. സംസ്കാരത്തിന്റെ രംഗത്തെങ്കിലും ഈ ഉദ്യോഗസ്ഥ മേധാവിത്തം
+അവസാനിച്ചിരുന്നെങ്കിൽ എന്നു് പലപ്പോഴും ആശിച്ചിട്ടുണ്ടു്. അവർക്കു് ഭാരിച്ച തുകകൾ ശമ്പളം കൊടുക്കുന്നതിൽ
+എനിക്കു് എതിരഭിപ്രായമില്ല. പക്ഷേ, അവർ റേഡിയോസ്റ്റേഷനിൽനിന്നു് അമ്പതു് മൈലകലെയെങ്കിലും
+താമസിക്കണമെന്നേർപ്പാടു് ചെയ്താൽ മതി. അതതു് നാട്ടിലെ ഭാഷയറിയാവുന്നയാളെ ഡയറക്ടറായി
+നിയമിച്ചുകൂടാ എന്നു നിയമമുണ്ടോ എന്നെനിക്കറിയില്ല, പക്ഷേ, അതതു് നാട്ടിൽ എന്തെങ്കിലും കലയിൽ
+പ്രാവീണ്യമുള്ളവരെ റേഡിയോ സ്റ്റേഷനകത്തു കടത്തരുതെന്നു് ഭരണഘടനയിൽ ഉണ്ടെന്നാണു് എന്റെ
+ബലമായ സംശയം. അഥവാ, അങ്ങനെ പറ്റിപ്പോയാൽ (പ്രത്യേകിച്ചും സാഹിത്യകാരന്മാർ)
+അണ്ടർഗ്രൗണ്ടാകണമെന്നു നിയമമുണ്ടു്. കേശവദേവ് തൊണ്ണൂറുരൂപാ ശമ്പളത്തിനു റേഡിയോയുടെ
+എഴുത്തുകാരനായാൽ പിന്നെ അദ്ദേഹം അപക്ഷേപിക്കുന്നതോ എഴുതുന്നതോ യാതൊന്നും സ്വന്തം
+പേരിലായിക്കൂടത്രെ. അതെ, ഇവരൊക്കെ റേഡിയോയിലുണ്ടെന്നു വരുന്നതു് റേഡിയോയ്ക്കു് മാനക്കേടാണു്.
+ഓരോന്നിലുമുണ്ടല്ലോ, അതിന്റെതായ ഒരു പേരും പാരമ്പര്യവും. ഇതൊന്നും പറഞ്ഞിട്ടു വലിയ
+പ്രയോജനമില്ലെന്നു് എനിക്കറിയാം. പക്ഷേ, നമ്മുടെ കൈയിൽനിന്നു് ബലമായി പിരിക്കുന്ന നികുതിയിൽ ഒരു
+പങ്കെങ്കിലും സിലോൺ, ഗോവ എന്നീ റേഡിയോസ്റ്റേഷനുകൾക്കു് നല്കിക്കൂടേ? അവരുടേതാണല്ലോ നാം
+സാധാരണ കേൾക്കാറുള്ളതു്.
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] അക്കാലത്തു്
+റേഡിയോയ്ക്കു് ലൈസൻസ് എടുക്കണമായിരുന്നു. പോസ്റ്റ് ഓഫീസായിരുന്നു ലൈസൻസ്
+നല്കിയിരുന്നതു്—സായാഹ്ന.</note>
+          </noteGrp>
+          <p>മറ്റൊന്നു് വിദ്യാഭ്യാസരംഗമാണു്. ഉപരിപഠനത്തിനായി നല്ല ഒരു സംഖ്യ ചെലവാക്കുന്നുണ്ടെന്നാണു്
+സർക്കാർ അഭിമാനിക്കുന്നതു്. ഉദ്യോഗക്കയറ്റത്തിനല്ലാതെ ഈ അവസരം പ്രയോജനപ്പെട്ടിട്ടുള്ള എത്ര
+ഉദാഹരണങ്ങൾ നമുക്കു കാണാൻ കഴിയും. ഓരോരോ രാഷ്ട്രീകസേരകളിൽ നിന്നു് പുറംതള്ളപ്പെട്ട വസ്തുക്കളെ
+വൈസ്ചാൻസലറന്മാരായി നിയമിക്കുക, നാട്ടിലെ പ്രധാന വക്കീലന്മാരെ പഠനവിഭാഗങ്ങളുടെ
+സർവ്വാധികാരിയാക്കുക, അമ്പതോ, നൂറോ വർഷംമുമ്പു് വേണ്ടിയിരുന്ന പാഠ്യപദ്ധതികൾ
+നിലനിറുത്തുക—എന്തിനു് പറയുന്നു, നമുക്കു് യൂണിവേഴ്സിറ്റികൾ ചെയ്യുന്ന സേവനം
+പരിശോധിക്കാതിരിക്കുകയാണു് ഭേദം.
+</p>
+          <p>വിദേശത്തുള്ള ഉപരിപഠനം, സർക്കാർ ചലച്ചിത്രം, സെൻസർബോർഡുകൾ മുതലായ നമ്മുടെ
+സംസ്കാരത്തെപ്രതി ഭരണവർഗ്ഗം ചെയ്യുന്ന ഓരോന്നിനെയും എടുത്തുനോക്കിയാൽ കാണുന്നതു് ഒരൊറ്റ കാര്യം
+മാത്രമാണു്. ഒരു ജനതയുടെ സംസ്കാരം നശിക്കും, ആ ജനതയും നശിക്കും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Abul_Kalam_Azad.jpg" rendition="gra"/>
+            <figDesc style="thumb">അബ്ദുൾ കലാം ആസാദ്</figDesc>
+          </figure>
+          <p> ഇൻഡ്യയിലെ <ref target="https://ml.wikipedia.org/wiki/�������_������">പ്രധാനമന്ത്രി</ref> ഒരു
+സാഹിത്യകാരനാണു്. <ref target="https://en.wikipedia.org/wiki/Abul_Kalam_Azad">വിദ്യാഭ്യാസമന്ത്രി</ref>
+ഒരു പണ്ഡിതനാണു്. പാർലമെന്റിൽ കലാകാരന്മാർക്കു പ്രാതിനിധ്യവുമുണ്ടു്. എന്നിട്ടും, ഇതെല്ലാം എങ്ങനെ
+സംഭവിച്ചു എന്നാണു് അത്ഭുതം. സിംഹാസനങ്ങളുടെ ചൂടു് മനുഷ്യരെ അന്ധരാക്കുമായിരിക്കാം. ആരറിഞ്ഞു!
+കാരണമതല്ലെങ്കിൽ പിന്നെ അശ്രദ്ധയാണു്. രാഷ്ട്രീയചതുരംഗക്കളിയോടു തട്ടിച്ചുനോക്കുമ്പോൾ സംസ്കാരം ഒരു
+അപ്രധാനകാര്യമായിത്തീരുന്നുണ്ടായിരിക്കാം. ഈ അശ്രദ്ധയെ പരിഹരിക്കാൻ മാർഗ്ഗമുണ്ടോ? എനിക്കൊരു
+മാർഗ്ഗവും കാണാൻ കഴിയുന്നില്ല. ഉദ്യോഗസ്ഥന്മാർ മുകളിലുള്ള ഉദ്യോഗങ്ങളിലേക്കും, ജനപ്രതിനിധികൾ
+മന്ത്രിക്കസേരകളിലേക്കും കേന്ദ്രീകരിച്ചിരിക്കുമ്പോൾ ആരാണു് റേഡിയോ നന്നാക്കാൻ ഇറങ്ങിത്തിരിക്കുക? ഈ
+പ്രമാണികൾ വിചാരിച്ചാലല്ലാതെ ഇതു് നന്നാകയുമില്ല. അവർക്കാണെങ്കിൽ അനുമോദനയോഗങ്ങളും
+ശിലാസ്ഥാപനങ്ങളും കഴിഞ്ഞു് ഒന്നിനും സമയമില്ല. അവർ കേൾക്കുന്നില്ല. പിന്നെ റേഡിയോ
+എങ്ങനെയിരിക്കുന്നുവെന്നു് എങ്ങനെയറിയും? അവർ വായന നിറുത്തിയിട്ടു് കാലം കുറെയായി; പിന്നെ
+പുസ്തകമെഴുത്തു് എവിടെക്കിടന്നാലെന്താണു്. ഞാൻ ഈ ലേഖനം എഴുതുന്നതു് ബി. ബി. സി.-യുടെ ‘ലിസനറി’ന്റെ
+പുറത്തുവെച്ചാണു്. ലോകത്തിലേക്കും നല്ല ഈ വാരിക ഇവിടെ മൂന്നണയ്ക്കു്…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Nehru.jpg" rendition="gra"/>
+            <figDesc style="thumb">നെഹ്റു</figDesc>
+          </figure>
+          <p> തെറ്റി. എനിക്കു് പിന്നെയും തെറ്റി. ഞാൻ സ്വപ്നം കാണുകയാണു്. പോസ്റ്റ്കവറിനു രണ്ടണയാക്കി,
+ടെലഫോണിനു് വാക്കെണ്ണി പണംപിടുങ്ങി, ഹിന്ദി പഠിപ്പിക്കാൻ ചെലവാക്കുന്ന ഒരു സർക്കാർ,
+പുസ്തകമച്ചടിക്കാനുള്ള വെള്ളക്കടലാസിനു് ചുങ്കം വർദ്ധിപ്പിക്കുകയല്ലാതെ സംസ്കാരത്തിനെന്തുചെയ്യുമെന്നു്
+പ്രതീക്ഷിക്കണം?
+</p>
+          <p>
+പൂനാ മലയാളി 1950.
+</p>
+          <p>
+അന്വേഷണങ്ങൾ 2004.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sarkarum Samskaravum (ml:
+സർക്കാരും സംസ്കാരവും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-03-17. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas,
+Sarkarum Samskaravum, സി. ജെ. തോമസ്, സർക്കാരും സംസ്കാരവും, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 5, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:K.A._Schmidt__Stilleven_met_kaars_-_AB18603__Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg">Stilleven
+met kaars,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q41005766">Karel Albert Schmidt</ref>
+ (1880–1920). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-samskaram.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-samskaram.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

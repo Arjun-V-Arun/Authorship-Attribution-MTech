@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പ്രോക്രസ്റ്റസിന്റെ കട്ടിൽ</title>
+          <title xml:lang="en" type="main">Procrastinte kaṭṭil</title>
+        </title>
+        <author>Thomas CJ</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Digitized by</resp>
+          <name>KB Sujith</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">October 10, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is in public domain. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under
+a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+Commons Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA
+4​.0). Any reuse of the material should credit the Sayahna Foundation and must be
+shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പ്രോക്രസ്റ്റസിന്റെ കട്ടിൽ</title>
+              <title xml:lang="en" type="main">Procrastinte kaṭṭil</title>
+            </title>
+            <author>Thomas CJ</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="10">10 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Mathrubhumi Weekly</publisher>
+            <pubPlace>Kozhikode, Kerala</pubPlace>
+            <date>1954-01-24</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Thomas CJ</term>
+          <term>Procrastinte kattil</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>പ്രോക്രസ്റ്റസിന്റെ കട്ടിൽ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Kozhikode, Kerala, India</name>
+          <time>1954-01-24</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Rabindranath_Tagore_Two_Figures01.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Rabindranath_Tagore_Two_Figures01.jpg">Two
+Figures,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Rabindranath_Tagore">Rabindranath
+Tagore</ref>  (1861–1941). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പ്രോക്രസ്റ്റസിന്റെ കട്ടിൽ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പ്രോക്രസ്റ്റസിന്റെ കട്ടിൽ</head>
+        <div type="lsection">
+          <figure rend="fright" type="grd">
+            <graphic url="images/Prokroustes.jpg"/>
+            <figDesc>തീസസും പ്രോക്രസ്റ്റസും, ബി. സി. 470–460.</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p style="noindent">പണ്ടു് <ref target="https://en.wikipedia.org/wiki/Procrustes">പ്രോക്രസ്റ്റസ്</ref> എന്നു
+പേരായി ഒരു രാക്ഷസനുണ്ടായിരുന്നു. അയാൾക്കു് ഒരു കട്ടിലുണ്ടായിരുന്നു. അയാൾ വഴിപോക്കരെ
+പിടിച്ചുകൊണ്ടുപോയി തന്റെ കട്ടിലിൽ കിടത്തും. വഴിപോക്കനു കട്ടിലിനെക്കാൾ നീളം കുറവാണെങ്കിൽ
+അവനെ അയാൾ വലിച്ചുനീട്ടിക്കൊല്ലും. നീളം കൂടുതലാണെങ്കിൽ രണ്ടറ്റവും ഛേദിച്ചുകളയും. കട്ടിലിന്റെ
+നീളം കൃത്യമായിരുന്ന <ref target="https://en.wikipedia.org/wiki/Hercules">ഹെർക്കുലീസ്</ref>
+അയാളെ കൊന്നു എന്നു യവനപുരാണം. അങ്ങനെ സമത്വത്തിന്റെ ആദ്യത്തെ രക്തസാക്ഷിയുണ്ടായി.
+</p>
+        </div>
+        <!--end of "section 0.0/I.1"-->
+        <div type="lsection" xml:id="lsecI.2">
+          <head type="lsechead">സമത്വം</head>
+          <p style="noindent">സമത്വമെന്ന ആശയം അഥവാ ആദർശം ദാർശനികമായി
+അയഥാർത്ഥമാണു്. ഓരോ മനുഷ്യശക്തിയും മറ്റുള്ളവരെപ്പോലെ പരിഗണന അർഹിക്കുന്നു
+എന്നാണർത്ഥമെങ്കിൽ, ആ ലക്ഷ്യം ആദരണീയമാണു്. എന്നാൽ ഈ അർത്ഥത്തിലല്ല, സമത്വം
+സാധാരണയായി മനസ്സിലാക്കപ്പെടുന്നതു്, പ്രചരിക്കപ്പെടുന്നതും. സമത്വം, തുല്യത എന്നെല്ലാം പറയുന്നതു്
+ഏകീഭാവത്തെയോ സർവ്വതോന്മുഖമായ സമത്വത്തെയോ ഉദ്ദേശിച്ചായിരിക്കാനിടയില്ലല്ലോ.
+വ്യവഹാരത്തിൽ അങ്ങനെയൊരർത്ഥം കടന്നുകൂടിയതു രാഷ്ട്രീയചരണവൈകല്യത്തിന്റെ ഫലമാണെന്നു
+തോന്നുന്നു. രാഷ്ട്രീയജനാധിപത്യമായാലും, സാമ്പത്തികസമത്വമായാലും, സർവ്വതോന്മുഖമായ സമത്വം
+കൂടാതെ നീതീകരിക്കപ്പെടാവുന്നതാണു്. ഏതു പൗരനും പ്രധാനമന്ത്രിയാകാനുള്ള അവകാശമുണ്ടെന്നു്
+പറയുന്നവരാരും ആ മിഥ്യയിൽ വിശ്വസിക്കുന്നില്ല. സമത്വമെന്നതു് അന്യായമായ അധികാരത്തിൽനിന്നും
+കൈയടക്കത്തിൽനിന്നും സാധാരണമനുഷ്യനെ രക്ഷിക്കാനുള്ള ഒരു മറയാണു് — ആദർശപരമായ ഒരു
+മറ. അതിലപ്പുറം അർത്ഥം അതിനു വ്യാഖ്യാനിച്ചുണ്ടാക്കുമ്പോൾ വരുന്ന ഭവിഷ്യത്തുകൾ ഇന്നത്തെ
+ലോകം ഒട്ടേറെ അനുഭവിക്കുന്നുണ്ടു്. സമത്വം സഹിഷ്ണുതയുടെ മാതാവാണു്. പക്ഷേ, അതു
+തലതിരിഞ്ഞുപോയാൽ സഹിഷ്ണുതയല്ല, മൃഗീയമായ മർദ്ദനമായിരിക്കും ഫലം; ശക്തന്മാരിൽനിന്നു
+ബലഹീനരെ രക്ഷിച്ചുകൊണ്ടിരുന്നതു സഹിഷ്ണുതയാണു്. ഇന്നു ബലവാനാണു് സഹിഷ്ണുതകൊണ്ടാവശ്യം.
+ബലഹീനരുടെ ശക്തി അത്രയ്ക്കധികം വർദ്ധിച്ചിട്ടുണ്ടു്. ശക്തന്മാർ ചിലപ്പോൾ കാണിക്കാറുള്ള മര്യാദ
+ബലഹീനൻ കാണിക്കാനുള്ള ഭാവവും കാണുന്നില്ല.
+</p>
+          <figure rend="fleft" type="grd">
+            <graphic url="images/Hercules.jpg"/>
+            <figDesc>ഹെർക്കുലീസ്.</figDesc>
+          </figure>
+          <p style="indent"> സമത്വം ജനാധിപത്യത്തിന്റെ അടിസ്ഥാനവിശ്വാസമാണു്. എങ്കിലും,
+ജനാധിപത്യവാദികൾ ഇതിനെപ്പറ്റി വളരെയധികം ഒച്ചപ്പാടുണ്ടാക്കുന്നില്ല. എല്ലാ കഴുതകളും കള്ളന്മാരും
+ദുഷ്ടന്മാരും ബുദ്ധതുല്യരാണെന്ന വിശ്വാസം പ്രചരിപ്പിക്കുന്നതിലും അതു് ഏറ്റവും അനുചിതമായ സ്ഥലത്തു
+പ്രായോഗികമാക്കുന്നതിലും ജാഗരൂകരായിരിക്കുന്നതു മറ്റു ചിലരാണു്. അതു് എന്തെല്ലാം ഭവിഷ്യത്തുകൾ
+വരുത്തിവെച്ചാലെന്തു്, ജനസ്വാധീനത്തിനു് അതേറ്റവും നല്ല കൈക്കൂലിയായിരിക്കുന്നിടത്തോളം കാലം
+ആ പരിപാടി നടക്കുകതന്നെ ചെയ്യും. അല്പംകൂടി വ്യക്തമായി പറഞ്ഞാൽ, സമത്വത്തെപ്പറ്റിയുള്ള
+തെറ്റിദ്ധാരണ അറിയാതെ വന്നുകൂടിയ ഒരു പിശകല്ല, ബോധപൂർവ്വം പുലർത്തപ്പെടുന്ന ഒരു
+വിഷച്ചെടിയാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0/I.2"-->
+        <div type="lsection" xml:id="lsecI.3">
+          <head type="lsechead">ഒരു പ്രായോഗിക കർമ്മശാസ്ത്രം</head>
+          <p style="noindent">രാഷ്ട്രീയജീവികൾക്കു് ഇക്കാര്യത്തിൽ ചില ന്യായങ്ങളും പറയാനുണ്ടു്.
+മനുഷ്യർ ഭിന്നരാണെന്ന അടിസ്ഥാനത്തിൽ യാതൊരു മതവും രാഷ്ട്രവും കെട്ടിപ്പടുക്കാൻ സാദ്ധ്യമല്ല.
+മനുഷ്യർക്കു് പൊതുവായ സ്വഭാവഗതികളും താല്പര്യങ്ങളുമുണ്ടു്; അവയാണു് സാമൂഹ്യഘടനയുടെ
+അടിസ്ഥാനം. വൈവിദ്ധ്യം സമൂഹത്തെ ശിഥിലീകരിക്കുന്ന ഘടകമാണു്; അവയെ മുഴുപ്പിച്ചു
+കാണിക്കുകയല്ല, അവഗണിക്കുകയാണു് വേണ്ടതു് — അങ്ങനെ പോകുന്നു ആ വാദഗതി. ഈ
+ചിന്താഗതിയിൽ ഒട്ടേറെ വാസ്തവങ്ങൾ അടങ്ങിയിട്ടുണ്ടു്. പ്രായോഗികമായ ഒരു കർമ്മശാസ്ത്രമാണുതാനും
+അതു്. പക്ഷേ, ഈ പ്രായോഗികമതം ആത്യന്തികസത്യമായി അവരോധിക്കുമ്പോഴാണു്
+കുഴപ്പമാരംഭിക്കുന്നതു്. ശരാശരിയോടു് ചേരാത്ത മനുഷ്യൻ നശിച്ചതുതന്നെ. പൊതുവാണെന്നു
+സങ്കൽപിക്കപ്പെട്ടിരിക്കുന്ന ഏതെങ്കിലും ഒരു മാനദണ്ഡമനുസരിച്ചു മനുഷ്യ വ്യക്തികളെ നീട്ടാനും
+കുറുക്കാനും തുടങ്ങുമ്പോൾ ആരംഭിക്കുന്നതു സമത്വമല്ല, സഹിഷ്ണുതയല്ല, മർദ്ദനമാണു്!
+</p>
+          <p style="indent">മേല്പറഞ്ഞ ആവശ്യത്തെ എടുത്തുപറഞ്ഞു സഹിഷ്ണുതാവാദികളെ പുച്ഛിക്കുന്ന
+മതിമാന്മാരുണ്ടു്. അവരുടെ കണ്ണിൽ സഹിഷ്ണുതാവാദികൾ അഹങ്കാരികളായ അല്പന്മാരാണു്,
+സ്വാർത്ഥമതികളാണു്. അങ്ങനെ പലതുമാണു്. ആവട്ടെ, യൂറോപ്പിലെ ‘<ref target="https://en.wikipedia.org/wiki/Inquisition">ഇൻക്വിസിഷ</ref>’നു
+നീതീകരണം കണ്ടുപിടിച്ച ‘നിസ്വാർത്ഥന്മാർ’ ഉണ്ടായിരുന്നല്ലോ. ഇങ്ങനെ വാദിക്കുന്ന സമത്വ
+പ്രവാചകന്മാരോടും സഹിഷ്ണുത പാലിക്കുക തന്നെ.
+</p>
+        </div>
+        <!--end of "section 0.0/I.3"-->
+        <div type="lsection" xml:id="lsecI.4">
+          <head type="lsechead">വൈവിധ്യങ്ങൾ</head>
+          <p style="noindent">വൈവിധ്യം ഒരു വൈകൃതമല്ല. അതു പരിണാമത്തിന്റെ ആത്മാവാണു്. ഒരേ
+രൂപത്തിലുള്ള ഏകാണുജീവികളിൽനിന്നു പരിണമിച്ചതാണു് ഇന്നത്തെ ജീവിലോകം എന്നാണല്ലോ
+ശാസ്ത്രം പറയുന്നതു്. പുഴുവും പുഷ്പവും ഗാന്ധിയും കുരങ്ങുമെല്ലാം ഏകരൂപമല്ല.
+മനുഷ്യരിൽത്തന്നെയാണെങ്കിൽ ശാരീരികമായി എത്ര സാമ്യമുണ്ടെങ്കിലും മനുഷ്യനെ
+മനുഷ്യനാക്കിത്തീർക്കുന്ന കാര്യങ്ങളിൽ ഗണ്യമായ വൈവിധ്യമുണ്ടു്. പരിണാമം ശാരീരികം മാത്രമല്ല.
+രുചി, യുക്തി, കാഴ്ചപ്പാടു്, ആവശ്യങ്ങൾ, ഭീതികൾ, വികാരങ്ങൾ എന്നിങ്ങനെ പലതും പരിണമിക്കുന്നുണ്ടു്.
+ഇവയൊന്നും മനുഷ്യവർഗ്ഗത്തിനു പൊതുവായിട്ടില്ല. സൗന്ദര്യ ബോധം തീണ്ടാതെ ജീവിച്ചു മരിക്കാൻ
+കഴിയുന്നവരുണ്ടായിരിക്കാം. മിസ്റ്റിക്കുകൾക്കു യുക്തികൊണ്ടൊരു കാര്യവും നേടാനില്ല.
+ശരീരമെന്നതൊഴിച്ചു നോക്കിയാൽ ഓരോ മനുഷ്യനും ഓരോ പ്രത്യേക പ്രപഞ്ചമാണെന്നു തോന്നത്തക്ക
+വൈവിധ്യം കാണാനുണ്ടു്. സമത്വമെന്നും സഹിഷ്ണുതയെന്നും നീതിയെന്നും ഒക്കെപ്പറഞ്ഞതൊന്നും
+ശാരീരികമല്ലല്ലോ. ഈ വക കാര്യത്തിൽ സാമ്യത്തെക്കാളധികം വൈരുദ്ധ്യമാണു് കാണുന്നതെങ്കിൽ
+അതിലത്ഭുതപ്പെടാനില്ല. അതാണു പ്രപഞ്ചത്തിന്റെ സൗന്ദര്യം. ഓരോ വ്യക്തിക്കും ഓടാനുള്ള
+റെയിലുകൾ അവന്റെ സ്വന്തമായിട്ടുണ്ടു്. സകലരും ഓടേണ്ട സാർവത്രിക റെയിലുകൾ നിരത്തുമ്പോൾ
+മർദ്ദനത്തിന്റെ കളമൊരുക്കൽ കഴിഞ്ഞു. പക്ഷേ, ഇതൊന്നും സാമ്യവാദി അനുവദിച്ചുതരികയില്ല.
+പള്ളിക്കൂടം വിട്ടു കുട്ടികൾ നാലുപാടും ചിതറുന്നതു് അവനു ദുസ്സഹമാണു്. രണ്ടുലക്ഷം പട്ടാളക്കാർ
+ഒരൊറ്റയന്ത്രംപോലെ കവാത്തെടുക്കുന്നതിലാണവൻ സൗന്ദര്യം കാണുന്നതു്. വളഞ്ഞ വരകളെല്ലാം
+വൈകൃതമാണു്. നേർവരകളും ചതുരങ്ങളുമാണു് സുന്ദരം. അവന്റെ കണ്ണിൽ മനുഷ്യസമുദായം ഒരു
+ഭീമജീവിയാണു്. ഈ ജീവിയുടെ അംഗങ്ങൾ തമ്മിലോ അവയുൾക്കൊള്ളുന്ന ഘടകങ്ങൾ തമ്മിലോ
+വൈചിത്ര്യമുണ്ടാകാൻ പാടില്ല. അവ ഏകയോഗക്ഷേമമായി വളരണമെങ്കിൽ
+പരിപൂർണ്ണസാമ്യമുണ്ടായിരിക്കണം. സാമ്യമല്ലാതെ ശരീരത്തിലെന്തെങ്കിലും കണ്ടാൽ അതു
+രോഗാണുവായിരിക്കും. അതിനെ നശിപ്പിക്കുന്നതു് ഒരു വിശുദ്ധകർമ്മവുമാണു്. പക്ഷേ, ഇവിടെ
+ഒന്നാലോചിക്കാനുണ്ടു്. സ്വയം വിവേചനശക്തിയുള്ള വ്യക്തികൾ എങ്ങനെ ഒരു അണുവായിത്തീരും?
+അതു് ആശാസ്യമാണെന്നിരുന്നാൽത്തന്നെ നടപ്പുള്ളതല്ല. ഒരു കയ്യോ, കാലോ സ്വയം ചിന്തിക്കുന്നില്ല.
+പക്ഷേ, മനുഷ്യർ കൂട്ടമായിട്ടല്ല വ്യക്തികളായിട്ടാണു് ചിന്തിക്കുക. അതിനെ തുടർന്നു് അനന്തമായ
+വൈവിധ്യങ്ങളുമുണ്ടാവുന്നു. പക്ഷേ, ഈ വൈവിധ്യം ചുണ്ടിക്കാണിക്കുന്നതു് അല്പം കുഴപ്പം പിടിച്ച
+സംഗതിയാണു്. “നിങ്ങൾക്കു് ഈശ്വരവിശ്വാസം ആവശ്യമായിരിക്കാം. പക്ഷേ, എനിക്കു് അതു
+കൂടാതെതന്നെ ജീവിക്കാൻ വേണ്ട മനക്കരുത്തുണ്ടു്” എന്നു പറയാൻ ആർക്കാണു് ധൈര്യമുണ്ടാവുക?
+“ഈ നോവൽ നിങ്ങളെ രസിപ്പിക്കുന്നുണ്ടായിരിക്കാം. പക്ഷേ, അതു വെറും ഓടസാഹിത്യമാണു്” എന്നു്
+ആരെങ്കിലും പറയുമോ? അവിടെയെല്ലാം മറ്റുള്ളവരെ ഇടിച്ചുതാഴ്ത്തി എന്നൊരാരോപണമുണ്ടാകും. കാര്യം
+സത്യമാണെങ്കിലും അതു പറയാൻ ആർക്കും ഇഷ്ടമില്ല. വൈവിധ്യം യഥാർത്ഥമാണെങ്കിലും
+അതംഗീകരിക്കുന്നതുകൊണ്ടു ചില പ്രായോഗികവൈഷമ്യങ്ങൾ ഉണ്ടാകും. വ്യക്തികൾ തമ്മിലുള്ള
+വ്യത്യാസം ഉയർച്ചയോ താഴ്ചയോ ആയി എടുക്കേണ്ട. വെറും വ്യത്യാസം എന്നുമാത്രം വ്യവഹരിച്ചാൽ ഈ
+പറഞ്ഞ കുഴപ്പത്തിൽ നിന്നു കുറച്ചൊക്കെ രക്ഷ നേടാം. പക്ഷേ, ഇങ്ങനെ ഒരു രുചിഭേദം
+വകവെച്ചുകൊടുക്കുന്നതു് ഒരു വക ബുദ്ധിപരമായ അരാജകത്വമാണെന്നാണു് വെപ്പു്. ജീവിതത്തിൽ
+താന്തോന്നിത്തം കാണിക്കാനുള്ള ഒരു മൂടുപടമായിട്ടാണത്രെ സഹിഷ്ണുത ഉപയോഗിക്കപ്പെടുന്നതു്.
+വണ്ടിച്ചക്രംപോലെ ആദർശങ്ങൾ കറങ്ങിത്തിരിയുന്നവരും സഹിഷ്ണുതയ്ക്കെതിരാണു്! ആത്മാർത്ഥതയുള്ള
+അസഹിഷ്ണുക്കൾ ഇല്ലെന്നല്ല. ഉണ്ടു്, വളരെയേറെ. പക്ഷേ, അവർ മതാന്ധന്മാരാണു്. അവനു ലഭിച്ച
+രക്ഷാമാർഗ്ഗം മറ്റുള്ളവർക്കു വിതരണം ചെയ്യാനുള്ള വ്യഗ്രതയിൽ, എല്ലാവർക്കും അതു വേണ്ടായിരിക്കാം
+എന്നവൻ മറന്നുപോകുന്നു. മറ്റുള്ളവരെ സ്നേഹിക്കാനും സഹായിക്കാനുമായിട്ടാണവർ പുറപ്പെടുന്നതു്.
+പക്ഷേ, അവനു വേണ്ടത്ര സ്വീകരണം ലഭിക്കാതെ വരുമ്പോൾ അവൻ മനുഷ്യരെ വെറുക്കാൻ തുടങ്ങുന്നു.
+മനുഷ്യവിദ്വേഷിയായ ഒരു മർദ്ദകനായിത്തീരാൻ പിന്നെ സമയമധികം വേണ്ട. പിന്നെ അവൻ മനുഷ്യരെ
+അവരുടെ ഇഷ്ടത്തിനെതിരായി ‘സഹായിക്കാൻ’ തുടങ്ങുന്നു. ലക്ഷം ഭ്രാന്തന്മാരെ ചികിത്സിക്കുന്ന ഒരു
+വൈദ്യൻ!
+</p>
+        </div>
+        <!--end of "section 0.0/I.4"-->
+        <div type="lsection" xml:id="lsecI.5">
+          <head type="lsechead">സമുദായം ഒരു കരടിക്കൂടാവുന്നു</head>
+          <p style="noindent">ഈ അപ്പോസ്തലന്മാരാരും അമ്പിളിയെ പിടിച്ചുകൊടുക്കാനാവശ്യപ്പെടുന്ന
+കുട്ടിയെ ശിക്ഷിക്കുകയില്ല. പിന്നെയെന്തിനു മറ്റു മനുഷ്യരെ ബലം പ്രയോഗിച്ചു് സ്വർഗ്ഗത്തിലേറ്റണം —
+രാഷ്ട്രീയമോ മതപരമോ ആയ സ്വർഗ്ഗത്തിൽ? അവനേയും ഒരു ശിശുവായി ഗണിച്ചു് പഠിപ്പിക്കാൻ
+ശ്രമിച്ചാൽ പോരേ? ബലം പ്രയോഗിച്ചാണു് ആശയങ്ങൾ പ്രചരിപ്പിക്കേണ്ടതെങ്കിൽ, ഇന്നു് ഉൽകൃഷ്ടമെന്നു്
+ഗണിക്കപ്പെടുന്ന ആശയങ്ങളുടെ ഗുരുക്കന്മാർ എത്ര മുമ്പുതന്നെ വധിക്കപ്പെടുമായിരുന്നു. ഈ സമ്പ്രദായം
+മിഷ്യനറിവേലയുടെ “സ്പിരിറ്റ്” കുറെ കുറച്ചേക്കുമെന്നുള്ളതു സത്യമാണു്. പക്ഷേ, അതോടൊപ്പം
+കൂട്ടക്കൊലയുടെ കലവറയും നശിക്കും. മനുഷ്യനെ വെറുക്കാതെ അവനെ നന്നാക്കാൻ ശ്രമിക്കുന്നവൻ
+മാത്രമേ വിജയം വരിക്കുകയുള്ളു. മതാന്ധന്മാർ പലപ്പോഴും മനസ്സാക്ഷിയെ കൂട്ടു പിടിക്കാറുണ്ടു്.
+എല്ലാവരുടേയും മനസ്സാക്ഷി ഒരുപോലെയായിരിക്കുമെന്നാണവരുടെ പക്ഷം. മനസ്സാക്ഷി
+പരിതസ്ഥിതികളനുസരിച്ചു കുറെയൊക്കെ ഭിന്നമായിരിക്കും. അതുകൊണ്ടു സംസാരിക്കുന്നവൻ
+മനസ്സാക്ഷി മറച്ചുവെച്ചുകൊണ്ടു സംസാരിക്കുകയാണെന്നു ഗണിക്കേണ്ട. ഇതു് അവഗണിച്ചു
+പ്രവർത്തിക്കുന്നതുകൊണ്ടാണു് സമുദായം ഒരു കരടിക്കൂടായിത്തീരുന്നതു്.
+</p>
+          <p style="indent">മതവും രാഷ്ട്രീയഘടകങ്ങളുമാണു് അസഹിഷ്ണുതയുടെ കുത്തകക്കാർ.
+അനേകകാലമായി ഇവർ മനുഷ്യനെ വലിച്ചുനീട്ടിയും ചെത്തിക്കുറുക്കിയും അവരുടെ ഭരണം
+സാധിച്ചുപോരുന്നുണ്ടു്. മനുഷ്യന്റെ വളർച്ചയോടുകൂടി സഹിഷ്ണുതയുടെ ആവശ്യം കൂടുതലായി
+ബോദ്ധ്യപ്പെട്ടിട്ടുമുണ്ടു്. എങ്കിലും, ഇന്നു് പരിഷ്കരിച്ച മർദ്ദന മുറകൾ കണ്ടുപിടിക്കപ്പെട്ടിട്ടുളളതുകൊണ്ടു
+സഹിഷ്ണുത കൂടുതൽ അപകടത്തിലായിരിക്കയാണു്. പണ്ടൊക്കെ ബലപ്രയോഗവും ഭീഷണിയുമായിരുന്നു
+മർദ്ദനായുധങ്ങൾ. ഇന്നാകട്ടെ അതിനേക്കാൾ ശക്തി കൂടിയ ചിലതാണു്.
+</p>
+          <p style="indent">ഇന്നത്തെ മർദ്ദകൻ മനുഷ്യവൈവിധ്യം ശരിയായി മനസ്സിലാക്കുന്നുണ്ടു്.
+അടുത്തപടി ഈ വൈവിധ്യമില്ലാതാക്കിത്തീർക്കാനാണു്. എല്ലാ മനുഷ്യരും പട്ടാളക്കാരായിത്തീർന്നാൽ
+സാമ്യഭാവം വർദ്ധിച്ചിരിക്കും. അതുകൊണ്ടു സമുദായത്തിൽ പൊതുവെ പട്ടാളച്ചിട്ട ഏർപ്പെടുത്തുക.
+പ്രവർത്തിക്കുന്നതു മാത്രമല്ല ചിന്തിക്കുന്നതും ഒരുപോലെയാക്കിത്തീർക്കുവാനാണു യത്നം. ഇതിനുള്ള
+ആയുധം മനശ്ശാസ്ത്രമാണു്. ജനങ്ങളെ മെരുക്കി എടുക്കുവാൻ ജർമ്മനിയിലും റഷ്യയിലും ഈ ആയുധം
+ഉപയോഗിക്കപ്പെട്ടു. പാവ്ലോവിന്റെ ഗവേഷണങ്ങൾ ഈ പ്രസ്ഥാനത്തിനു വേണ്ടത്ര ശാസ്ത്രജ്ഞാനവും
+നല്കി. ഇത്തരം അഭ്യസനത്തിന്റെ ഫലം കഴിഞ്ഞ യുദ്ധത്തിലെ ജർമ്മൻ പട്ടാളക്കാരുടെ പെരുമാറ്റം
+കൊണ്ടറിയാമല്ലോ (ജർമ്മൻകാരെ കുറ്റപ്പെടുത്തിയാലാർക്കും പരാതിയില്ല). ഈ പദ്ധതിയിൽ ഒരു
+കുഴപ്പമേയുള്ളു. ജനസാമാന്യത്തെ ഇടിച്ചുതാഴ്ത്തി നിരപ്പാക്കുവാനേ ഇതിനു കഴിവുള്ളു. ഒരു ജനതയെ
+മുഴുവനും മൃഗങ്ങളാക്കിത്തീർക്കാൻ കഴിഞ്ഞേക്കാം. പക്ഷേ, പാവ്ലോവിന്റെ മുഴുവൻ ശക്തിയും
+പ്രയോഗിച്ചാലും മറ്റൊരു പാവ്ലോവിനെ സൃഷ്ടിക്കാൻ കഴിയില്ല. വളരാനുള്ള
+പരിതഃസ്ഥിതിയുണ്ടാക്കിക്കൊടുക്കുക മാത്രമാണു് കർത്തവ്യം. ഒന്നോ രണ്ടോ പേർ കൂടുതൽ
+വളരുന്നെങ്കിൽ വളരട്ടെ. അസൂയപ്പെടേണ്ട. പരിണാമത്തെ മാറ്റി ഫാക്ടറി ഉല്പാദനം ആരംഭിക്കുന്നതു
+യുക്തിയുക്തമായിരിക്കുകയില്ല.
+</p>
+          <p style="indent">സഹിഷ്ണുത ജീവകാരുണ്യപരമായ ഔദാര്യമല്ല. ശാസ്ത്രസമ്മതിയുള്ള ഒരു
+തത്ത്വംകൂടിയാണു് എന്നു് തെളിയിക്കാനാണു് ഞാനിതുവരെ ശ്രമിച്ചതു്.
+</p>
+          <p style="indent">
+മാതൃഭൂമി വാരിക 24 ജനുവരി 1954.
+</p>
+          <p style="indent">
+ധിക്കാരിയുടെ കാതൽ 1955.
+</p>
+          <p style="indent">
+            <ref target="https://books.sayahna.org/hnml/thomsa-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/I.5"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Procrastinte kaṭṭil (ml:
+പ്രോക്രസ്റ്റസിന്റെ കട്ടിൽ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Thomas CJ.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>
+ Mathrubhumi Weekly; Kozhikode, Kerala; 1954-01-24. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml,
+Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Thomas CJ,
+Procrastinte kattil, സി ജെ തോമസ്, പ്രോക്രസ്റ്റസിന്റെ കട്ടിൽ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 10, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original
+item is in public domain. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+Commons Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA
+4​.0). Any reuse of the material should credit the Sayahna Foundation and must be
+shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Rabindranath_Tagore_Two_Figures01.jpg">Two
+Figures,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Rabindranath_Tagore">Rabindranath
+Tagore</ref>  (1861–1941). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>  PK Ashok; <hi rend="bold">Digitizer:</hi>  KB Sujith; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The
+entire document processing has been done in a computer running GNU/Linux operating
+system and TeX and friends. The PDF has been generated using XeLaTeX from TeXLive
+distribution 2021 using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an
+online framework for text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded XML has been
+generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated
+from XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF
+and HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The
+font used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip
+Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-kattil.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-kattil.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

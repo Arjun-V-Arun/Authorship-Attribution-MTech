@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വിവാഹമംഗളങ്ങൾ</title>
+          <title xml:lang="en" type="main">Vivahamangalangal</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">January 28, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വിവാഹമംഗളങ്ങൾ</title>
+              <title xml:lang="en" type="main">Vivahamangalangal</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-01-28</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Vivahamangalangal</term>
+          <term>സഞ്ജയൻ</term>
+          <term>വിവാഹമംഗളങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-01-28</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Concert_of_Women.png" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Master_of_Female_Halflength_-_Concert_of_Women_-_1530-40.png">Female Musicians,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Master_of_the_Female_HalfLengths">Master of the Female Half-Lengths</ref>  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വിവാഹമംഗളങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വിവാഹമംഗളങ്ങൾ</head>
+        <div type="lsection">
+          <p style="noindent">വിവാഹാവസരങ്ങളിൽ മംഗളപ്പാട്ടുകൾ വായിക്കുന്ന പതിവു് നിർത്തൽ
+ചെയ്യുവാനായി ‘വിവാഹമംഗളബിൽ’ എന്നൊരു ബിൽ എന്തുകൊണ്ടാണു് നമ്മുടെ നിയമനിർമ്മാണസഭകളിൽ
+അവതരിപ്പിക്കാത്തതു് ചില വിവാഹമംഗളക്കാർ വധുവരന്മാരെ എന്തു കുഴക്കിലാണു പെടുത്തുന്നതു്!
+നിങ്ങളാലോചിച്ചുനോക്കിൻ! മി: രാമൻനായർ ശ്രീമതി ലക്ഷ്മിയമ്മയെ വിവാഹം ചെയ്യുന്ന ശുഭമുഹൂർത്തത്തിൽ
+അച്ചടിച്ച കടലാസുകളുടെ ഒരു കെട്ടു് അതിഥികളുടെ ഇടയിൽ വിതരണം ചെയ്യപ്പെടുന്നു. അവയിൽ ഒരു
+കടലാസ്സുമെടുത്തു് ഒരു കവി അരങ്ങത്തെത്തുന്നു. മംഗളം തുടങ്ങുകയായി.
+</p>
+          <lg>
+            <l>‘രാമനെന്നുള്ളൊരു നൽപ്പേരു ചേർന്നുള്ള</l>
+            <l> നായരാംമാന്യൻതാനിദ്ദിനത്തിൽ</l>
+            <l> ലക്ഷ്മിയെന്നുള്ളൊരു മാന്യയാമമ്മയെ</l>
+            <l> ഭാര്യാപദത്തിലണച്ചീടുന്നു.</l>
+            <l> കേമനാണീ നായർ കേമിയാണീയമ്മ,</l>
+            <l> ആമോദമെന്തെന്തിതിന്നുമേലേ?</l>
+            <l> രാമൻതാനീ രാമൻ. ലക്ഷ്മിയാണീ ലക്ഷ്മി;</l>
+            <l> ഞാനഹോ ഞാൻ തന്നെ; നിങ്ങൾ നിങ്ങൾ.</l>
+            <l> മംഗളം മംഗളം മംഗളം മംഗളം</l>
+            <l> മംഗളം മംഗളം മംഗളം താൻ.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>ഇതെന്തൊരു കഷ്ടമാണു്! മംഗളമാശംസിക്കുമ്പോൾ തടയരുതല്ലോ എന്നു വിചാരിച്ചു് ആരും ഒന്നും
+പറയുകയില്ല. പരിശ്രമംകൊണ്ടു പച്ചുളിച്ച വരനും, ലജ്ജകൊണ്ടു രക്തനനയായ വധുവും ഈ
+കവിതാപ്രവാഹത്തിനിടയിൽ തലകാട്ടിനില്ക്കുന്ന കാഴ്ച എത്രയും ദയനീയമെന്നേ പറയേണ്ടതുള്ളൂ.
+വിവാഹമംഗളങ്ങൾ പേടിച്ചു് സംബന്ധം തന്നെ വേണ്ടെന്നുവെക്കുന്ന ചെറുപ്പക്കാരും യുവതികളും ഉണ്ടെങ്കിൽ
+സഞ്ജയൻ അവരെ കുറ്റപ്പെടുത്തുകയില്ല. ഉദ്ദേശ്യം നന്നെന്നുവെച്ചു് എത്രയാണു് ഒരാൾ സഹിക്കുക?
+കവികുഞ്ജരന്മാരേ, മംഗളദായകന്മാരേ, നിങ്ങൾ തന്നെ ഇക്കാര്യത്തിൽ ഒരു ദയചെയ്യണം. മംഗളം കൊടുത്തേ
+കഴിയു എന്നു നിങ്ങൾക്കു തോന്നുന്നുണ്ടെങ്കിൽ അതു സ്വകാര്യമായി ചെയ്തേക്കിൻ. ഇതൊക്കെ
+കേട്ടുനില്ക്കുമ്പോഴുള്ള നെഞ്ഞിടിപ്പു് അനുഭവിച്ചവരല്ലേ അറിയൂ.
+</p>
+          <p>
+9-1-1935
+</p>
+          <p>മറ്റു ചില നഗരങ്ങളിലുള്ളതുപോലെ രാത്രി എട്ടു മണിക്കു് സമയമറിയാനുള്ള ഒരു പീരങ്കിവെടി കോഴിക്കോട്ടും
+ഏർപ്പാടുചെയ്യാത്തതെന്താണെന്നു് ഒരു സഹജീവിയിൽ ഒരു ലേഖകൻ ചോദിച്ചിരുന്നു.
+</p>
+          <p>കൊതുകിന്റെ ശബ്ദത്തിനിടയ്ക്കു് അതു കേൾക്കുകയില്ലെന്നു കരുതീട്ടായിരിക്കുമെന്നു ഞങ്ങളൂഹിക്കുന്നു.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vivahamangalangal (ml:
+വിവാഹമംഗളങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-01-28. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan,
+Vivahamangalangal, സഞ്ജയൻ, വിവാഹമംഗളങ്ങൾ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 28, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Master_of_Female_Halflength_-_Concert_of_Women_-_1530-40.png">Female Musicians,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Master_of_the_Female_HalfLengths">Master of the Female Half-Lengths</ref>  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-vivahamangalam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayanvivahamangalam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

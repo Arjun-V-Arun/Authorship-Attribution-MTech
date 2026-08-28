@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">രൂപകാതിശയോക്തി</title>
+          <title xml:lang="en" type="main">Roopakathisayokthi</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">September 27, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">രൂപകാതിശയോക്തി</title>
+              <title xml:lang="en" type="main">Roopakathisayokthi</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Roopakathisayokthi</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>രൂപകാതിശയോക്തി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 27, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/By_the_light_of_candle.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Quadal_By_the_light_of_candle.jpg">By
+the light of candle,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Martin_Ferdinand_Quadal">Martin
+Ferdinand Quadal</ref>  (1736–1811). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">രൂപകാതിശയോക്തി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">രൂപകാതിശയോക്തി</head>
+        <div type="lsection">
+          <p style="noindent">‘ചൊല്ലുള്ളതിൽ കവിഞ്ഞുള്ളതെല്ലാമതിശയോക്തിയാ’മെന്നു <ref target="https://books.sayahna.org/ml/pdf/bbh-web.pdf">ഭാഷാഭൂഷണ</ref>
+കർത്താവു പറയുന്നു. മനുഷ്യൻ പ്രായേണ അതിശയോക്തിപ്രിയനാണു്. സംസാരിക്കുന്നതിലും എഴുതുന്നതിലും
+അതിശയോക്തി കലർത്തുന്നതിനുള്ള ഒരു വാസന അവനു് ജന്മസിദ്ധമായിട്ടുണ്ടു്. അതുപോലെതന്നെ
+വസ്തുക്കളേയും, സംഭവങ്ങളേയും മറ്റും സാദൃശ്യപ്പെടുത്തി പറയുന്നതിലും മനുഷ്യൻ പ്രകൃത്യാ കുതുകിയായി
+കാണപ്പെടുന്നു. ഈദൃശവാസനകളുടെ വികാസമാണു് ഭാഷയിൽ അലങ്കാരപ്രയോഗങ്ങൾ കടന്നുകൂടാൻ
+ഇടയാക്കിയിട്ടുള്ളതു്. മനുഷ്യന്റെ പ്രാകൃതദശയിൽപ്പോലും അതിശയോക്തിയും, ഉപമയുംകൊണ്ടു ഭാഷ
+അലംകൃതമായിരുന്നു. ഇതിന്റെ ഒരു പരിഷ്ക്കരിച്ച സമ്പ്രദായമാണു് നാം സാഹിത്യത്തിൽ കാണുന്നതു്.
+</p>
+          <p>കണ്ടതും കേട്ടതും കുറെ കടത്തിപ്പറയുന്നതിൽ മനുഷ്യനു സ്വതവേതന്നെ ഒരു വാസനയുണ്ടെന്നു മാത്രമല്ല,
+അതിനു പ്രേരകമായി ഒരു ഉദ്ദേശ്യംകൂടി മുന്നിട്ടുനില്ക്കുന്നതായും കാണാം. ഒരു സംഗതി വിവരിക്കുമ്പോൾ അതു
+ശ്രോതാവിന്റെ ഹൃദയത്തിൽ ദൃഢമായി പതിയത്തക്കവിധം തദ്വിവരണത്തിനു സ്ഫുടതയും, പുഷ്ടിയും,
+ആസ്വാദ്യതയും ഉണ്ടാക്കണമെന്നു വക്താവിനു് ആഗ്രഹമുണ്ടാകും. ഇതിനുവേണ്ടിയത്രെ അയാൾ
+അതിശയോക്തിയെ സഹായമായി അവലംബിക്കുന്നതു്. താത്വികന്മാരുടെ ദൃഷ്ട്യാ അതിശയോക്തി ഒരുതരം
+അസത്യവാദമായിത്തീർന്നേക്കാമെങ്കിലും, മേല്പറഞ്ഞ ഉദ്ദേശശുദ്ധിയുള്ളതുകൊണ്ടു് അതിനു് സാഹിത്യത്തിൽ
+സത്യത്തിന്റെ സ്ഥാനംതന്നെ കൊടുക്കേണ്ടിയിരിക്കുന്നു. നമ്മുടെ അനുഭവങ്ങളും അറിവുകളും വാഗ്രൂപം
+കൈക്കൊള്ളുമ്പോൾ അവയുടെ വാസ്തവരൂപത്തെ അല്പമായിട്ടെങ്കിലും അതിക്രമിച്ചുപോകുന്നതു
+സർവ്വസാധാരണമാണു്. വെള്ളപ്പൊക്കമുണ്ടാകുമ്പോൾ നാടു മുഴുവൻ സമുദ്രമായിപ്പോകുന്നതും, ചില മുറിവുകൾ
+പറ്റിയവൻ ചോരപ്പുഴയിൽ നീന്തുന്നതും, വിരഹച്ചൂടുകൊണ്ടു് ഹൃദയം വേവുന്നതും, കോപാഗ്നി കത്തിക്കാളുന്നതും
+മറ്റും അതിശയോക്തിയുടെ അവസരോചിതമായ വിളയാട്ടംമൂലമാണല്ലോ. ശാസ്ത്രത്തിൽ മാത്രമേ ഇതിനു
+പ്രവേശനമില്ലാതുള്ളൂ. സാഹിത്യസംബന്ധമായ സകല വാമൊഴിയും വരമൊഴിയും ഇതിന്റെ പൊടിയിട്ടു
+തേച്ചുമിനുക്കിയിട്ടുള്ളവയത്രെ.
+</p>
+          <p>അതിശയോക്തിപ്രിയന്മാരിൽ അഗ്രേസരന്മാർ കവികളാകുന്നു. ഇതു് ഒരു അലങ്കാരമായി കളിയാടുന്നതു്
+അവരുടെ വ്യാപാരത്തിലാണു്. എല്ലാ അലങ്കാരങ്ങളിലും അതിശയോക്തിയുടെ സ്പർശം ഉള്ളതുകൊണ്ടു് അതിനു
+സർവ്വപ്രാധാന്യം കല്പിക്കേണ്ടിയിരിക്കുന്നു. കേവലമായ ഒരു വാസ്തവം ഒരിക്കലും ചമല്ക്കാരകാരിയാകുന്നതല്ല.
+അതിശയോക്തിയിൽക്കൂടി ഒളിഞ്ഞും തെളിഞ്ഞും വികസിക്കുമ്പോൾ മാത്രമേ അതിൽ കവിതാധർമ്മം
+പ്രകാശിക്കുകയുള്ളൂ. ഇതുകൊണ്ടത്രേ ഈ പ്രയോഗവിശേഷം കവികൾക്കു് അപരിത്യാജ്യമായ
+ഒന്നായിത്തീർന്നിരിക്കുന്നതു്. അതിശയോക്തി ബീജഭൂതമായി വരുന്ന അനേകം അലങ്കാരങ്ങൾ ഉണ്ടു്. അവയിൽ
+പലതുകൊണ്ടും പ്രാധാന്യം അർഹിക്കുന്നതും, അധികം പ്രചാരത്തിലിരിക്കുന്നതുമായ
+രൂപകാതിശയോക്തിയെപ്പറ്റിയാണു് ഇവിടെ പ്രത്യേകം ചിന്തിക്കാനുള്ളതു്.
+</p>
+          <p>രൂപകാതിശയോക്തിയെ ഒരു അർത്ഥാലങ്കാരമായിട്ടും അല്ലാതെയും ആലങ്കാരികന്മാർ പരിഗണനം
+ചെയ്തിട്ടുണ്ടു്.
+</p>
+          <lg>
+            <l> ‘രൂപകാതിശയോക്തിസ്സ്യാ-</l>
+            <l>ന്നിഗീര്യാധ്യവസാനതഃ</l>
+            <l> പശ്യ നീലോൽപലദ്വന്ദ്വാന്നി</l>
+            <l>സ്സരന്തി ശിതാശ്ശരാഃ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് ‘കുവലയാനന്ദ’ത്തിലെ അലങ്കാരവിചാരണയിൽ ഇതിനു ലക്ഷ്യലക്ഷണം ചെയ്തിരിക്കുന്നു.
+‘ഭാഷാഭൂഷണ’ത്തിൽ കാണുന്ന,</p>
+          <lg>
+            <l> ‘നിഗീരാധ്യവസാനം താൻ</l>
+            <l> രൂപകാതിശയോക്തിയാം;</l>
+            <l> സരോജയുഗളം കാൺക</l>
+            <l> ശരങ്ങൾ ചൊരിയുന്നിതാ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്ന ഭാഗം മേലെഴുതിയതിന്റെ ഒരു ശരി തർജ്ജമയാണല്ലോ.</p>
+          <lg>
+            <l> ‘രൂപകാതിശയോക്തി</l>
+            <l>ശ്ചേദ്രൂപ്യം രൂപകമധ്യഗം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്നത്രേ ‘ചന്ദ്രാലോക’ത്തിലെ പാഠം. ഉപമാനോപമേയങ്ങൾക്കു് അഭേദത്വം
+കല്പിച്ചു്, ഉപമേയത്തെ കാണിക്കാതെ അതിന്റെ സ്ഥാനത്തു് ഉപമാനത്തേത്തന്നെ പ്രയോഗിക്കുന്നതിനാണു്,
+നിഗീര്യാധ്യവസാനം എന്നു പേർ പറയുന്നതു്. വിഷയത്തെ (ഉപമേയത്തെ) വിഷയിയിൽ (ഉപമാനത്തിൽ)
+നിഗരണം (ഉള്ളടക്കം) ചെയ്യുകയെന്നതാണു് ഇതിലെ പ്രധാന സംഗതി. വിഷയത്തെ പ്രത്യേകം
+പ്രതിപാദിക്കാതെ വിഷയിവാചകശബ്ദംകൊണ്ടു നിർദ്ദേശിക്കുമ്പോളാണല്ലോ വിഷയനിഗരണം വരുന്നതു്.
+പ്രകൃതോദാഹരണത്തിൽ ഉപമേയങ്ങളായ ലോചനകടാക്ഷശബ്ദങ്ങളെ പ്രതിപാദിക്കാതെ തൽസ്ഥാനത്തു്
+ഉപമാനങ്ങളായ സരോജശരശബ്ദങ്ങൾ മാത്രം പ്രയോഗിച്ചിരിക്കുന്നു. ഇതുപോലെതന്നെ,
+</p>
+          <p style="noindent">‘കാറിൻചോട്ടിൽ കലേശപ്പൊളിനിര കരിമീനങ്ങൾ’ എന്നു തുടങ്ങുന്ന പദ്യത്തിലും
+കാറു്, കലേശപ്പൊളി മുതലായ ഉപമാനശബ്ദങ്ങളെക്കൊണ്ടു് അവയുടെ ഉപമേയങ്ങളായ തലമുടി, നെറ്റി
+മുതലായ ശബ്ദങ്ങളെ നിഗീർണ്ണങ്ങളാക്കിയിരിക്കുന്നു.
+</p>
+          <p>രൂപകാതിശയോക്തിയെന്ന ഈ അലങ്കാരംതന്നയാണു് ശബ്ദാർത്ഥസ്വരൂപ നിരൂപണത്തിൽ
+പ്രയോഗഭേദമനുസരിച്ചു് ‘സാധ്യവസായലക്ഷണ’യെന്ന പേരിൽ അറിയപ്പെടുന്നതു്. സാദൃശ്യം പ്രമാണിച്ചു
+ലക്ഷണയ്ക്കു ഗൗണിയെന്നൊരു പിരിവുണ്ടു്. ഈ ഗൗണാർത്ഥ വ്യാപാരത്തിന്റെ ഒരു വകഭേദമാകുന്നു
+സാധ്യവസായലക്ഷണ. ഇവിടെയും ഉപമേയത്തെ അധ്യവസാനം ചെയ്യുന്നതിലാണു് പ്രയോഗവൈചിത്ര്യം
+സ്ഥിതിചെയ്യുന്നതെന്നു പേരുകൊണ്ടുതന്നെ സ്പഷ്ടമാകുന്നുണ്ടല്ലോ. ഇങ്ങനെ അധ്യവസാനം ചെയ്യുന്നതിൽ
+വിഷയത്തിനു വിഷയിയുടെ രൂപം സിദ്ധിക്കുന്നതുകൊണ്ടു് രൂപകാതിശയോക്തി എന്ന പേർ ഇതിനു
+അന്വർത്ഥമായിരിക്കുന്നു. എന്നുമാത്രമല്ല, അവർണ്യവർണ്യങ്ങൾക്കു് അഭേദം കല്പിക്കുന്ന വിഷയത്തിൽ
+രൂപകാതിശയോക്തിയും, രൂപകാലങ്കാരവും അത്യന്ത സാമ്യമുള്ളവയുമാണല്ലോ. ആദ്യത്തേതിൽ
+ഉപമേയാനുപാദനം എന്നൊരു വ്യത്യാസം മാത്രമേ കാണുന്നുള്ളൂ. വർണ്ണ്യവസ്തുവിനു് അവയവവിഭാഗം കൽപിച്ചു്
+രൂപണം ചെയ്യുമ്പോൾ ഏതാനും അവയവങ്ങളിൽ കവികൾ അധ്യവസാനം ചെയ്യാറുണ്ടു്.
+</p>
+          <lg>
+            <l> ‘താവൽകസ്തൂരിച്ചാറാക്കിയ വാർതിങ്കൾ-</l>
+            <l> ത്തൂവെള്ളിക്കിണ്ണവും ദൂരെ മാറ്റി.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇവിടെ ചന്ദ്രന്റെ കളങ്കത്തിന്റെ സ്ഥാനത്തു് കസ്തുരിച്ചാറുകൊണ്ടുവന്നു വിഷയനിഗരണം ചെയ്തിരിക്കുന്നു.
+ഇതുപോലെ രൂപണം അർത്ഥസിദ്ധമായി വരുന്നിടത്തു മാത്രമുള്ള അധ്യവസാനത്തിലാണു് ആലങ്കാരികന്മാർ
+ഏകദേശവിവർത്തിരൂപകം എന്നു പേർ കൽപിച്ചിട്ടുള്ളതു്. ഇങ്ങനെ പരിശോധിച്ചുനോക്കുമ്പോൾ
+അലങ്കാരങ്ങളിൽ പലതിലും ഇത്തരം ലാക്ഷണികപ്രയോഗത്തിന്റെ വ്യാപ്തിയുണ്ടെന്നു വെളിവാകും.
+</p>
+          <p style="noindent"/>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rabindranath_Tagore.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടാഗോർ</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ആധുനിക പദ്യസാഹിത്യത്തിന്റെ നവീനവൈചിത്ര്യം മിക്കവാറും ഈ രൂപകാതിശയോക്തിയിൽനിന്നാണു്
+ഉണ്ടായിട്ടുള്ളതു്. പ്രസ്തുതാലങ്കാരത്തിന്റെ വിഭിന്നരീതിയിലുള്ള വിനിവേശനം ഇന്നത്തെ കവനസരണിക്കു
+പ്രത്യേകമൊരു ചന്തവും, ചമല്ക്കാരവും വരുത്തിയിട്ടുണ്ടെന്നുവേണം പറയുവാൻ. എന്നാൽ ഇതിന്റെ നിരങ്കുശവും,
+ക്രമാതീതവുമായ പ്രയോഗം നമ്മുടെ നവീനപ്രസ്ഥാനത്തെ കുറെയധികം അലങ്കോലപ്പെടുത്തുന്നുണ്ടെന്നും
+സമ്മതിക്കാതെ നിവൃത്തിയില്ല. കവികളിൽ ‘ടാഗോർഭ്രമം’ മൂത്തു തുടങ്ങിയപ്പോളാണു് ഈ ദോഷം ഉല്ക്കടമായി
+തെളിഞ്ഞതു്. <ref target="https://en.wikipedia.org/wiki/Rabindranath_Tagore">ടാഗോറി</ref> ന്റെ
+കവിതാരീതിയുടെ മുഖ്യലക്ഷണം മേൽവിവരിച്ചമാതിരിയിലുള്ള ലാക്ഷണികപ്രയോഗംതന്നെയാകുന്നു.
+</p>
+          <p>ഇംഗ്ലീഷിൽ ‘സിംബോളിസം’ (Symbolism) എന്നു പറയുന്നതു് ഇതിന്റെ ഒരു വികസിതരൂപം മാത്രമാണു്.
+ടാഗോർക്കവിതയിൽ കാണുന്നപോലെ അതിസൂക്ഷ്മങ്ങളായ ആദ്ധ്യാത്മികരഹസ്യങ്ങളെ ഭംഗ്യന്തരേണ വർണ്ണിച്ചു
+പ്രകാശനം ചെയ്തെങ്കിൽ മാത്രമേ അവ രസാത്മകവും, ഉദ്ബോധകവും ആയിത്തീരുകയുള്ളു.
+ഇതിലേക്കുവേണ്ടിയത്രേ, അദ്ദേഹം കവനനിർമ്മാണത്തിൽ ‘സിംബോളിസം’ സ്വീകരിച്ചിട്ടുള്ളതു് അപരിമേയമായ
+പരമാത്മചൈതന്യത്തെ പ്രാപഞ്ചികഭാവങ്ങളിലും, വസ്തുക്കളിലും അധ്യവസായം ചെയ്തുകൊണ്ടുള്ള ചിന്തയാണു്
+അദ്ദേഹത്തിന്റേതു്. കവിത്വം പരിപക്വമാകാത്ത നമ്മുടെ യുവകവികൾ ധൃതഗതിയിൽ ആ വഴിക്കു തിരിക്കുന്നതു്
+അപലപനീയമായിത്തീരുമെന്നു പറയേണ്ടിയിരിക്കുന്നു.
+</p>
+          <p>ഏതെങ്കിലും ഒരു വിഷയം ഉള്ളിൽ വച്ചുകൊണ്ടു് അതിനോടു യാതൊരു സംബന്ധവുമില്ലാതെ അപ്രകൃതമായി
+എന്തെങ്കിലും കുറെ വർണ്ണിച്ചുപറയുന്ന പതിവു് ഇപ്പോൾ കവിതാലോകത്തിൽ സാധാരണമായിരിക്കുന്നു.
+ഇതുകൊണ്ടു വായനക്കാർക്കു സമയം നഷ്ടപ്പെടുന്നതല്ലാതെ, ഒരു പ്രയോജനവും ഉണ്ടാകുന്നില്ല. ഇത്തരം കവിത
+പ്രകൃതോപയോഗിയായ ഒരു ആശയവും ഇല്ലാത്തതോ, ഉള്ളതുതന്നെ തീരെ സ്പഷ്ടമാകാത്തതോ ആയിരിക്കും.
+അപ്രസിദ്ധങ്ങളും അനനുരൂപങ്ങളും ആയ ഉപമാനങ്ങളിൽ വിഷയനിഗരണം ചെയ്യുന്നതുകൊണ്ടു വരുന്ന ഒരു
+ദോഷമാണിതു്. പ്രസിദ്ധങ്ങളായ ഉപമാനങ്ങൾ മാത്രമേ അധ്യവസാനത്തിൽ പ്രയോഗിക്കാവൂ എന്നു് പ്രത്യേകം
+വ്യവസ്ഥയുണ്ടു്. കവിക്കും, വായനക്കാർക്കും മനസ്സിലാകാത്ത ഭാഷയിൽ കവിത ചമയ്ക്കുന്നവർ ഈ തത്വത്തെ
+ലേശവും ആദരിക്കുന്നില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Victor_Hugo.jpg" rendition="gra"/>
+            <figDesc style="thumb">വിക്ടർ യൂഗോ</figDesc>
+          </figure>
+          <p>ഫ്രഞ്ച് സാഹിത്യചക്രവർത്തിയായ <ref target="https://en.wikipedia.org/wiki/Victor_Hugo">വിക്ടർ യൂഗോ</ref> പറയുന്നതു്
+രൂപകാതിശയോക്തി ഒരു കടങ്കഥയാണെത്രേ. സ്വതവേതന്നെ അതിന്റെ അർത്ഥം കണ്ടുപിടിക്കുവാൻ ഒരു
+ക്ലേശം വന്നുകൂടുന്നുണ്ടു്. ആ സ്ഥിതിക്കു പിന്നെയും ആശയം ദുർഗ്രഹമാക്കിത്തീർക്കത്തക്കവണ്ണം സൂത്രപ്പണികൾ
+ചെയ്യുന്നതു് അക്ഷന്തവ്യമായ ഒരു അപരാധമായിരിക്കും. പ്രതിപാദ്യവിഷയം, സന്ദർഭം, സാദൃശ്യം മുതലായവയ്ക്കു്
+അനുഗുണമായും, അർത്ഥസ്ഫൂർത്തിവരുന്നവിധത്തിലും ആയിരിക്കണം ഉപമേയങ്ങൾക്കു് ഉപമാനരൂപം
+കൊടുക്കുവാൻ. അധ്യവസാനം ചമല്ക്കാരജനകമാകുന്നതു് അപ്പോൾ മാത്രമാണു്. രൂപകാതിശയോക്തിക്കു് ഒരു
+ഉത്തമോദാഹരണമായ ഈ ശ്ലോകം നോക്കുക:</p>
+          <lg>
+            <l> ‘ശ്യാമപ്പൂമെത്ത ചഞ്ചൽക്കുളിർവിശറി മണീ-</l>
+            <l> കീർണ്ണമാം നീലമേലാ-</l>
+            <l> പ്പോമൽത്തങ്കഗ്ഗുളോപ്പീവക വിഭവശതം</l>
+            <l> ചേർന്ന കേളീഗൃഹം മേ</l>
+            <l> പ്രേമത്താലേ സ്വയം തന്നരുളിയ പരമോ-</l>
+            <l> ദാരശീലന്റെ മുമ്പിൽ</l>
+            <l> കാമത്താൽ കൊച്ചുകൈക്കുമ്പിളിത ഹ! ഹ!</l>
+            <l> മലർത്തുന്ന ഞാനെത്ര ഭോഷൻ!’</l>
+            <l>
+—വള്ളത്തോൾ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഈ ലോകത്തെ കമനീയമായ ഒരു കേളീഗൃഹമാക്കി വർണ്ണിക്കുന്ന കവി അതിലുള്ള ഉപകരണങ്ങളെ
+
+അധ്യവസാനംകൊണ്ടു് എത്ര ഭംഗിയായി നമ്മുടെ ഹൃദയത്തിൽ പ്രതിഫലിപ്പിക്കുന്നു! മെത്ത, വിശറി, മേലാപ്പു്,
+ഗുളോപ്പു് എന്നീ ഉപമാനപദങ്ങളിൽ നിഗീർണ്ണങ്ങളായിരിക്കുന്ന വർണ്ണ്യവസ്തുക്കൾ ഏതെല്ലാമെന്നു് അവയ്ക്കു
+ചെയ്തിട്ടുള്ള വിശേഷണങ്ങളുടെ സാമ്യംകൊണ്ടും വായിക്കുന്ന മാത്രയിൽത്തന്നെ നമുക്കു ഗ്രഹിക്കുവാൻ കഴിയുന്നു.
+കവിതയ്ക്കു് ആസ്വാദ്യത കൂടുവാൻ രൂപകാതിശയോക്തിയെ പല രൂപത്തിലും കവികൾ പ്രയോഗിക്കാറുണ്ടു്
+വേണ്ടിടത്തു വേണ്ടവിധം പ്രയോഗിക്കുകയാണെങ്കിൽ ഇതു സാധാരണ രൂപണത്തേക്കാൾ
+മനോഹാരിയാകുകയും ചെയ്യാം!</p>
+          <lg>
+            <l> ‘നൽച്ചെന്തലപ്പാവുള്ളത്തല പൊക്കിനി-</l>
+            <l> ന്നുച്ചത്തിൽ കൂകിനാർ കുക്കുടങ്ങൾ.’</l>
+            <l>
+—പ്രഭാതഗീതം </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്നതിൽ ചെന്തലപ്പാവെന്നു മാത്രം പറയാതെ, കോഴിയുടെ തലപ്പൂവാകുന്ന
+തലപ്പാവെന്നു രൂപണം ചെയ്തിരുന്നെങ്കിൽ അതിനിത്രയും സ്വാരസ്യം കിട്ടുമോ എന്നു സംശയമാണു്.
+ഇതുപോലെ,</p>
+          <lg>
+            <l> ‘ആരിതെറിഞ്ഞുകൊടുത്തു യശോദതൻ</l>
+            <l> മാറിലെത്തുമണിമാല്യമതാ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്നതിലെ ശ്രീകൃഷ്ണനു പകരമായിട്ടുള്ള തൂമണിമാല്യവും,</p>
+          <lg>
+            <l> ‘ചീർത്തപടങ്ങൾ കുനിച്ചിതാ കുങ്കുമം</l>
+            <l> ചാർത്തിച്ചു കാളിയൻ കാളിന്ദിയെ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്നതിലെ ചോരചൊരിഞ്ഞതിന്റെ സ്ഥാനത്തുള്ള കുങ്കുമം ചാർത്തലും
+പൂർവ്വോക്തരീത്യാ ചമൽകൃതമായിട്ടുള്ളവയത്രെ. അധ്യവസിത പ്രയോഗങ്ങളിൽ അർത്ഥപ്രതീതിക്കു
+സഹായിക്കുന്നതു് പ്രധാനമായി സന്ദർഭവും വിശേഷണങ്ങളുടെ സാദൃശ്യവും ആകുന്നു. നോക്കുക:</p>
+          <lg>
+            <l> ‘നിലവിട്ടു കവിക്രിയാശയാലെൻ</l>
+            <l> തലയൊട്ടുക്കു പുകഞ്ഞുകൊണ്ടിരുന്നു</l>
+            <l> ഫലമെന്തെതിനുള്ളിൽ വെച്ചു് വാഴ-</l>
+            <l> ക്കുലയാഹന്ത പഴുത്തതില്ല തെല്ലും.’</l>
+            <l>
+—കാറ്റിൽ പറന്ന കവിത </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഇതിൽ കവി ആലോചിച്ചിരുന്ന കവിതാവിഷയത്തെയാണു
+വാഴക്കുലയാക്കിയിട്ടുള്ളതെന്നു സന്ദർഭംകൊണ്ടു സ്പഷ്ടമാകുന്നു. <ref target="https://en.wikipedia.org/wiki/Humayun">ഹുമയുൺ</ref> ചക്രവർത്തി
+അതിസുന്ദരിയായ ഒരു യുവതിയെ മാളികമുകളിൽ കണ്ടിട്ടു്,
+</p>
+          <p style="noindent"/>
+          <lg>
+            <l> ‘വിണ്ടലർത്തോപ്പിലെ</l>
+            <l> പൊൻപനിനീർപ്പുവെ-</l>
+            <l> ന്നുന്മുഖനായരുൾചെയ്യു’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ന്നതു വായിക്കുമ്പോൾ, പൊൻപനിനീർപ്പുവു് ഏതാണെന്നു് അന്വേഷിക്കേണ്ട ഭാരം
+വായനക്കാർക്കുണ്ടാകുന്നില്ല. അധ്യവസാനം വർണ്ണ്യ വസ്തുവിനു സർവ്വാതിശായിയ ഒരുല്ക്കർഷം വരുത്തുമെന്നും,
+
+തദ്വാരാ അനുഭവൈകവേദ്യമായ ഒരു രാമണീയകവിശേഷം സംജാതമാകുമെന്നും ഉള്ളതിനു മേലുദ്ധരിച്ച വരികൾ
+ഒന്നാംതരം ഉദാഹരണമാണു്. പ്രകൃതത്തിൽ ഒരൊറ്റ പനിനീർപ്പുകൊണ്ടു് ആ തരുണീമണിയുടെ
+അവ്യാജമനോഹരമായ സൗന്ദര്യസമൃദ്ധി തികച്ചും വെളിപ്പെടുത്തുവാൻ കവിക്കു സാധിച്ചു. ഇനി സാദൃശ്യംകൊണ്ടു
+പെട്ടെന്നു് അർത്ഥപ്രതീതിയുണ്ടാകുന്നതെങ്ങനെയെന്നു നോക്കുക!</p>
+          <lg>
+            <l> ‘വാല്മീകിശബ്ദത്തിൽ താമരമൊട്ടായി</l>
+            <l> വൈദേഹറാണിതൻ പാണിയുഗ്മം’ </l>
+            <l>
+—കിളിക്കൊഞ്ചൽ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഇതിലെ താമരമൊട്ടു തൊഴുകൈയിന്റെ ഉപമാനമാണെന്നു രണ്ടിനുമുള്ള സാദൃശ്യം
+വെളിവാക്കുന്നു.
+</p>
+          <p style="noindent">ശൃംഗാരത്തിന്റെ നഗ്നത മറയ്ക്കുവാനും, അശ്ലീലാർത്ഥത്തെ ആവരണം ചെയ്യുവാനും
+രൂപകാതിശയോക്തിപ്രയോഗം കവികൾ സ്വീകരിക്കാറുണ്ടു്.</p>
+          <lg>
+            <l> ‘കാറൊന്നൊഴിഞ്ഞലർ പൊഴിച്ചിതു കുന്നുലഞ്ഞു</l>
+            <l> പാരം വിയർത്തു മുഴുതിങ്കൾ പിറാവുകൂവി</l>
+            <l> താരമ്പനീയരിയ ചെപ്പടി കാട്ടിയൊട്ടു</l>
+            <l> നേരം പുലർന്നളവിലാമ്പലുലഞ്ഞുകൂമ്പി.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇവിടെ ഉപമാനശബ്ദങ്ങളെക്കൊണ്ടുതന്നെ മദനകേളി വർണ്ണിച്ചിരിക്കുന്നതുമൂലം അതിൽ
+അന്തർഭവിച്ചിരിക്കുന്ന അശ്ലീലാർത്ഥം നേരെ പൊന്തിവരുന്നില്ല.
+</p>
+          <p style="noindent">ആശയങ്ങൾക്കു ശക്തിയും, സ്ഫുടതയും ഉണ്ടാകുന്നുവെന്നതാണു
+പ്രസ്തുതാലങ്കാരപ്രയോഗംകൊണ്ടുള്ള മറ്റൊരു ഗുണം. ഉദാഹരണമായി, ‘മനുഷ്യൻ തന്റെ തലച്ചോറിനുള്ളിൽ ഒരു
+തീച്ചൂളയുംകൊണ്ടു നടക്കുന്ന ചില സന്ദർഭങ്ങളുണ്ടു്,’ എന്ന വാചകം നോക്കുക! ഇവിടെ മനുഷ്യന്റെ
+മനഃശല്യങ്ങളെ ഒരു തീച്ചൂളയാക്കിയതു കൊണ്ട് അതിന്റെ ഉഗ്രതയും, ദുസ്സഹത്വവും എത്ര ശക്തിയായി നമ്മുടെ
+മനസ്സിൽ പതിയുന്നു.
+</p>
+          <p>രൂപകാതിശയോക്തി കവിതയ്ക്കു് എത്രമാത്രം ഓജസ്സും കാന്തിയും ഉണ്ടാക്കുമെന്നു
+പൂർവ്വോക്തോദാഹരണങ്ങളിൽനിന്നു സ്പഷ്ടമായല്ലോ. ഇതിന്റെ ദുരുപയോഗംമൂലം നേരിടുന്ന ദോഷങ്ങൾ
+ഉദ്ധരിക്കാമെങ്കിലും, വിസ്തരഭയത്താൽ അതിനു തല്ക്കാലം തുനിയുന്നില്ല. ഏതായാലും പുതുമോടിക്കുവേണ്ടിയുള്ള
+പ്രയോഗവിശേഷങ്ങൾകൊണ്ടു് ഇന്നത്തെ കവിത വെറും ഒരു കടങ്കഥയായിപ്പോകാതിരിപ്പാൻ സൂക്ഷിക്കേണ്ടതു്
+ഏറ്റവും ആവശ്യമത്രെ.
+</p>
+          <p>
+(സാഹിതീയം)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Roopakathisayokthi (ml:
+രൂപകാതിശയോക്തി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Roopakathisayokthi, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, രൂപകാതിശയോക്തി, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 27, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Quadal_By_the_light_of_candle.jpg">By
+the light of candle,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Martin_Ferdinand_Quadal">Martin
+Ferdinand Quadal</ref>  (1736–1811). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-roopaka.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-roopaka.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മന്ദസ്മിതപ്രസ്ഥാനം</title>
+          <title xml:lang="en" type="main">Mandasmithaprasthanam</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">January 21, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മന്ദസ്മിതപ്രസ്ഥാനം</title>
+              <title xml:lang="en" type="main">Mandasmithaprasthanam</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-01-24</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Mandasmithaprasthanam</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>മന്ദസ്മിതപ്രസ്ഥാനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-01-24</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Black_Pigs.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Paul_Gauguin__The_Black_Pigs__Google_Art_Project.jpghttps://commons.wikimedia.org/wiki/File:Paul_Gauguin__The_Black_Pigs_-_Google_Art_Project.jpg">The Black PigsThe Black Pigs,</ref> a
+paintinga painting by <ref target="https://en.wikipedia.org/wiki/en:Paul_Gauguinhttps://en.wikipedia.org/wiki/en:Paul_Gauguin">Paul
+GauguinPaul Gauguin</ref>  (1848–19031848–1903). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മന്ദസ്മിതപ്രസ്ഥാനം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മന്ദസ്മിതപ്രസ്ഥാനം</head>
+        <div type="lsection">
+          <p style="noindent">“കേഴ്‌വിക്കാർക്കു് രസം തോന്നിയില്ലെങ്കിലും അവൻ അന്നു കണ്ടവരോടൊക്കെ
+കിണറ്റിൽ വെള്ളം കണ്ട കഥ പറഞ്ഞു.” ശുദ്ധഹൃദയനായ ഉതുപ്പാൻ ഒഴിവുള്ള സമയങ്ങളിലെ (പാർത്ഥനയും
+ഒഴിവില്ലാത്ത പണിയും കഴിഞ്ഞു് മിച്ചമുണ്ടാക്കിയ സമയം കൊണ്ടു് പണിതുണ്ടാക്കിയ കിണറിന്റെ വിജയമാണതു്.
+എത്രനാളത്തെ പരിശ്രമം. എത്രനാളത്തെ ബുദ്ധിമുട്ടു്. എത്രനാളത്തെ ആദർശഭരിതമായ ആകാംക്ഷ. ഉതുപ്പാൻ
+കിണറു പണിയിക്കുന്നതു് അതിന്റെ മതിലിൽ “ഉതുപ്പാൻവക” എന്നു് കൊത്തിവെക്കാനല്ല.
+ഉദാരശിരോമണിയാകാൻവേണ്ടിയുമല്ല. അന്യർ ജോലിചെയ്ത പണമല്ല അവനതിനു മുടക്കുന്നതു്. സാധു
+മിണ്ടാപ്രാണികളുടെ ദാഹശാന്തിയാണു് അവന്റെ ലക്ഷ്യം. പക്ഷേ, ഉതുപ്പാനു് അതിനു കിട്ടുന്ന പ്രത്യുപകാരം
+നീരാശാവഹമാണു്. കിഴവി പറയുന്നു “ആ തെമ്മാടി വഴിയുടെ വക്കിനൊരു കിണറു കുഴിച്ചിട്ടിരിക്കുന്നു. പശുവിനെ
+അഴിച്ചുവിട്ടാൽ കൂടെക്കൂടെ നോക്കണേ പിള്ളേരേ.” “ഉദരത്തിന്റെ പരാതി ഉറക്കുപാട്ടായി” വളർന്നുവന്ന
+ഉതുപ്പാൻ പണത്തിന്റെ വിലയറിയാത്തവനല്ല. എങ്കിലും ഒരു ധനതത്ത്വശാസ്ത്രജ്ഞൻ അഭിപ്രായപ്പെടുന്നു,
+കുടിലുകെട്ടി പൂട്ടും പഴവും വില്ക്കുകയായിരുന്നുനല്ലതെന്നു്. ആദർശവും ജീവിതയാഥാർത്ഥ്യങ്ങളുമായിട്ടുള്ള ഈ
+പരസ്പര വൈരുദ്ധ്യമാണു് ഉതുപ്പാന്റെ പരാജഭയം. ഉതുപ്പാൻ ഒരു കിണറു കുഴിച്ചു. സ്വന്തമാവശ്യത്തിനല്ല.
+മനുഷ്യരും മൃഗങ്ങളുമടങ്ങുന്ന ജീവരാശിക്കുവേണ്ടി. പക്ഷേ, ലോകപുരോഗതി നല്ലതെന്നും ചീത്തയെന്നും ഉള്ള
+വിവേചനം കൂടാതെ നിഷ്ക്കരുണം ഉതുപ്പാന്റെ സൃഷ്ടിയേയും ഞെരിച്ചുകൊണ്ടു് അതിന്റെ ജൈത്രയാത്ര തുടരുത്തുന്നു.
+പുരോഗതിയുടെ കിങ്കരന്മാർ പറയുന്നതു് അക്ഷരം പ്രതിശരിയാണു്. കുഴൽകിണറുകളാണു നല്ലതു്.
+അവയുണ്ടായിക്കഴിഞ്ഞാൽ ഉതുപ്പാന്റെ കിണർ അനാവശ്യവും, അപകടകരവുമാണു്. പക്ഷേ, ശാസ്ത്രം ആ
+വ്രണിതഹൃദയത്തിന്റെ വിലാപനത്തെ തോല്പിക്കുന്നില്ല. ഉതുപ്പാന്റെ ആദർശത്തിന്റെ ഭൗതികരൂപമായ ആ
+കിണർ നശിപ്പിക്കപ്പെട്ടു. പക്ഷേ, ആ ആദർശം വിശ്വോത്തരമായി ചിത്രീകരിക്കുവാൻ ശ്രീ. കാരൂരിനു
+കഴിഞ്ഞിട്ടുണ്ടു്. ഉതുപ്പാൻ യഥാർത്ഥത്തിൽ വിജയിച്ചു. പുരോഗതിയും യാഥാർത്ഥ്യങ്ങളുമായിട്ടുള്ള സംഘട്ടനങ്ങൾ
+വേദനാജനകമാണു്. പലപ്പോഴും പഴയതിൽ അത്യധികമായ ആത്മാർത്ഥതയുണ്ടായിരിക്കും. പക്ഷേ, അവയും
+നശിക്കണം. അതു പ്രകൃതിയുടെ അനിവാര്യമായ നിയമമാണു്. ആ വേദന പുതിയ ഓരോന്നിന്റെയും
+ഈറ്റുനോവാണു്. അങ്ങിനെ പുരോഗതിയും വിജയിക്കുന്നു. ശ്രീ. കാരൂരിന്റെ ഈ കഥകാണുമ്പോൾ
+കേഴ്‌വിക്കാർക്കിഷ്ടമില്ലെങ്കിലും “ഉതുപ്പാന്റെ കിണർ വായിച്ചോ, വായിച്ചോ?” എന്നു ചോദിച്ചുകൊണ്ടു നടക്കാൻ
+തോന്നിപ്പോകുന്നുണ്ടു്.
+</p>
+          <p>ഭർത്താവിന്റെ അസൂയ ഷേക്സ്പിയറിനു് ഒരു വലിയ വിഷയമായി. “ഒഥെല്ലൊ” ഹൃദയത്തെ ഇളക്കിമറിക്കുന്ന
+ഒരു നാടകമാണു്. ഏതാണ്ടു് “ഒഥെല്ലൊ”യിൽ സാധിക്കുന്നതുതന്നെയാണു് ശ്രീ. കാരൂർ “മേൽവിലാസ”ത്തിൽ
+സാധിച്ചിരിക്കുന്നതു്. ശ്രീ. കാരൂരിന്റെ മൃദുലത മുഴുവനും അതിൽ ഉണ്ടെന്നുമാത്രം. അദ്ദേഹത്തിന്റെ കഥാനായകൻ
+നാടക ശാസ്ത്രത്തിലെ നിർദ്ദേശമനുസരിക്കുന്ന വീരനൊന്നുമല്ല. ഒരു വെറും ആശുപത്രി ശിപായി. പക്ഷേ,
+അവനിലും ഉണ്ടു് ആ അസൂയയുടെ വിഷബീജം. അവൻ കോപാന്ധനായി സ്വഭാര്യയെ വധിക്കുന്നില്ല. എങ്കിലും,
+അവന്റെ അവിശ്വാസം കുടുംബജീവിതത്തെ അലങ്കോലപ്പെടുത്തുന്നുണ്ടു്. അവന്റെ ഭാര്യ ഒരു ധനികയോ
+സുന്ദരിയോ അല്ല. വിചിത്രപണികൾ ചെയ്ത കൈലേസുമല്ല, കാരണം ഒരു മേൽവിലാസമെഴുതിയ കവർ മാത്രം.
+സാധാരണക്കാരന്റെ ജീവിതത്തിന്റെ എത്ര യഥാർത്ഥമായ ഒരു ചിത്രമാണതു്. സാമുദായിക സൗഭാഗ്യത്തിനു്
+അക്കഥ എത്ര ആവശ്യവുമാണു്.
+</p>
+          <p>പറഞ്ഞാലനുസരിക്കാത്ത അടുക്കളക്കാരനെപ്പറ്റി കൊച്ചമ്മയ്ക്കു വളരെയധികം പരാതികളുണ്ടു്. അവൻ
+കട്ടുതിന്നും, കടയിൽ പോയാൽ താമസിക്കും. ഇതിലൊക്കെ ഭയങ്കരമായ ഒരു പാപവും അവനുണ്ടു്. അവൻ
+ബീഡിവലിക്കും. ആകെപ്പാടെ അവനെക്കൊണ്ടു് ഒരു പൊറുതിയുമില്ല. ഒന്നു വഴക്കുപറയാമെന്നുവെച്ചാൽ അവൻ
+പോകും. ശിക്ഷിച്ചാലോ എതിരുപറയും. എങ്ങനെയായാലും വേലക്കാരൻ പയ്യൻ കൊച്ചമ്മയെ ഒരു
+ദോഷൈകദൃക്കായിത്തീർക്കുന്നു. കുടുംബമായി ജീവിക്കുന്നവനെല്ലാം നേരിടുന്ന ഒരു വിഷമമാണിതു്.
+ഒറ്റയാന്മാരായി തത്ത്വവും പ്രസംഗിച്ചു ഹോട്ടലിലുണ്ടു നടക്കുന്നവർക്കു് ഇതിന്റെ വിഷമമറിയാമോ എന്നാണു്
+കൊച്ചമ്മയുടെ ചോദ്യം. ശ്രീ. കാരൂരിനു് ഒരു മറുപടിയുണ്ടു്; ആ പയ്യന്റെ ആശകളുടെയും വീക്ഷണഗതിയുടെയും
+ഒരു സംഗ്രഹം. ഭൃത്യനായിട്ടല്ല അവൻ ജനിച്ചതു്. പ്രകൃതി അവനിലും കൊച്ചമ്മയുടെ ഓമനസന്താനത്തിനു
+കൊടുത്ത ആശകൾ കുത്തിവെച്ചു. യജമാനൻ അതു കുറെകൂടി മനസ്സിലാകും. അടുപ്പിന്റെ പുകയിൽ
+മുഴുകിയിരിക്കുന്ന ആ സ്ത്രീശിരസ്സിനകത്തേക്കു് അതു കടക്കുകയില്ല. ശ്രീ. കാരൂരിന്റെ ഭൃത്യൻ കൊച്ചമ്മയുടെ
+കണ്ണുതുറപ്പിച്ചാലും ഇല്ലെങ്കിലും സഹൃദയന്മാർക്കു് അദ്ദേഹം വേദനിപ്പിക്കുന്ന ഒരു പരമാർത്ഥം വളരെ മൃദുവായി
+മനസ്സിലാക്കിക്കൊടുത്തുകഴിഞ്ഞു.
+</p>
+          <p>ശ്രീ. കാരുരിന്റെ കഥകൾക്കൊരു പ്രത്യേകതയുണ്ടു്. അദ്ദേഹത്തിന്റെ വിഷയങ്ങൾ അഗാധങ്ങളെങ്കിലും അവ
+തീവ്രമാണെന്നു പറയുവാൻ നിവൃത്തിയില്ല. അവയുടെ ചിത്രണരീതിയും ഒട്ടും നിർദ്ദയമല്ല.
+മോപ്പസാങ്ങിനെപ്പോലെയുള്ള യൂറോപ്യൻ സാഹിത്യകാരന്മാരെ ഇംഗ്ലീഷ് എഴുത്തുകാരിൽനിന്നു വേർതിരിക്കുന്ന
+ഒരു സ്വഭാവവിശേഷമാണിതു്. സ്ട്രാൻഡ് മുതലായ മാസികകളിൽ കാണുന്ന ചെറുകഥകൾക്കു സാധാരണയായി
+മൃദുലതയും സൗന്ദര്യവും കൂടുതലായിക്കാണും. ആ ഇനം ചെറുകഥയെഴുത്തുകാർ മലയാളത്തിൽ കുറവാണു്.
+അതിനു കാരണവുമുണ്ടു്. ഒരു രാഷ്ട്രത്തിന്റെ സാമ്പത്തിക. രാഷ്ട്രീയ, സാമുദായിക ജീവിതങ്ങളുടെ
+പ്രതിഫലനമാണു് അതിന്റെ സാഹിത്യം. ഇംഗ്ലണ്ടിന്റെ സ്ഥിതി താരതമ്യേന സുരക്ഷിതവും ആയാസരഹിതവും
+പൊതുവെ സുഖകരവുമായതുകൊണ്ടായിരിക്കാം ആ രാജ്യത്തെ സാഹിത്യത്തിനു് ഈ സ്വഭാവമുണ്ടോയതു്.
+ഭാരതത്തിന്റെ യാതനകളുടെയും സ്മരണകളുടെയും നിറം ഭാരതീയസാഹിത്യത്തിലും കലർന്നിരിക്കും: അതു
+നമ്മുടെ സാഹിഹ്യകാരന്മാർ കൂടുതൽ തീവ്രമായ ഭാഷയിൽ സാഹിത്യരചന ചെയ്യുന്നതു്. കേരളത്തിൽ
+സാഹിത്യകാരന്മാർ പൊതുവെ ഇത്തരക്കാരാണു്. ശ്രീ. കാരൂർ ഒരു അസാധാരണക്കാരനാണു്. പോരെങ്കിൽ
+അദ്ദേഹം ബഹളങ്ങളിൽ നിന്നെല്ലാം ഒഴിഞ്ഞു നില്ക്കുകയും ചെയ്യുന്നു. ഈ രീതിയിലുള്ള സാഹിത്യത്തിൽ
+ആരെങ്കിലും അദ്ദേഹത്തെ കവച്ചുവെയ്ക്കുമോ എന്നു സംശയമാണു്.
+</p>
+          <p>ഇതുതന്നെയാണു് ശ്രീ. കാരൂരിന്റെ പരാജയവും. അദ്ദേഹത്തെപ്പോലുള്ള ഒരു എഴുത്തുകാരൻ പറ്റിയതല്ല
+“ആനന്ദമഠം” എന്ന കഥയുടെ വിഷയം. മതത്തിന്റെ മറപിടിച്ചു നടത്തുന്ന നീചസംരംഭങ്ങളെ നിർദ്ദയമായി
+വിമർശിക്കുവാൻ മാത്രം അദ്ദേഹത്തിന്റെ തൂലികയ്ക്കു് രൂക്ഷതയില്ല. റാസ്പുടിൻമാരും, ലേഖരാജമാരും,
+മോസ്കോയിലും കറാച്ചിയിലും മാത്രമല്ല ഉള്ളതു്. അവർ നമ്മുടെ നാട്ടിലുമുണ്ടു്. “ആനന്ദമഠം” യഥാർത്ഥ
+സംഭവത്തെ ആസ്പദിച്ചു് എഴുതിയതായിട്ടും വരാം. അതൊക്കെ ശരിതന്നെ. പക്ഷേ, ശ്രീ. കാരൂരിന്റെ
+സാഹിത്യത്തിൽ അതിനു സ്ഥാനമില്ല. അതിനു ശ്രീ. പൊൻകുന്നം വർക്കിയോ, ശ്രീ. ബഷീറോ ആണു്
+യോജിച്ചതു്.
+</p>
+          <p>കാരൂർ കഥകളിലെ സംഭാഷണരീതിയുടെ സ്വാഭാവികതയെപ്പറ്റി വളരെ പറയേണ്ട ആവശ്യമുണ്ടെന്നു
+തോന്നുന്നില്ല. സാഹിത്യലോകത്തിൽ സ്ഥിരപ്രതിഷ്ഠ ലഭിച്ചുകഴിഞ്ഞ ഒന്നാണതു്. ഭാഷ ചിന്താരീതിയുടെ
+പ്രതിഫലനമാണല്ലൊ. അല്പം ഫലിതസമ്മിശ്രമായി ലളിതമോഹനമായ ഭാഷയാണു് ശ്രീ. കാരൂരിന്റേതു്. അതു്
+ആസ്വദിക്കാൻ കഴിവില്ലായ്ക വായനക്കാരന്റെ ഉത്തരവാദിത്വം മാത്രമായിരിക്കും.
+</p>
+          <p>
+വിലയിരുത്തൽ 1951.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Mandasmithaprasthanam (ml:
+മന്ദസ്മിതപ്രസ്ഥാനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-01-24. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Mandasmithaprasthanam, സി ജെ തോമസ്, മന്ദസ്മിതപ്രസ്ഥാനം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 21, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Paul_Gauguin__The_Black_Pigs__Google_Art_Project.jpghttps://commons.wikimedia.org/wiki/File:Paul_Gauguin__The_Black_Pigs_-_Google_Art_Project.jpg">The Black PigsThe Black Pigs,</ref> a
+paintinga painting by <ref target="https://en.wikipedia.org/wiki/en:Paul_Gauguinhttps://en.wikipedia.org/wiki/en:Paul_Gauguin">Paul
+GauguinPaul Gauguin</ref>  (1848–19031848–1903). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-mandasmitham.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-mandasmitham.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

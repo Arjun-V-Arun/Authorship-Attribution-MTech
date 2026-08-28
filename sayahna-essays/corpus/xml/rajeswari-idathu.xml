@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഇടതുവലതു വാണിഭസംഘം</title>
+          <title xml:lang="en" type="main">Idathuvalathu Vanibhasangham</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">February 14, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഇടതുവലതു വാണിഭസംഘം</title>
+              <title xml:lang="en" type="main">Idathuvalathu Vanibhasangham</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Idathuvalathu Vanibhasangham</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ഇടതുവലതു വാണിഭസംഘം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 14, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Closing_the_Deal.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Closing_the_Deal_by_Baldomero_Galofre_Gim%C3%A9nez.jpg">Closing
+the Deal,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Baldomer_Galofre">Baldomero Galofre
+Jiménez</ref>  (1845–1902). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഇടതുവലതു വാണിഭസംഘം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഇടതുവലതു വാണിഭസംഘം</head>
+        <div type="lsection">
+          <p style="noindent">കേരളത്തിലെ ലൈംഗികാപവാദക്കഥകൾക്കു് കക്ഷിരാഷ്ട്രീയ പക്ഷപാതിത്വം
+ആരോപിക്കാൻ ആർക്കും കഴിയില്ല. അത്രക്കു് സഹവർത്തിത്വമുണ്ടു് എല്ലാ രാഷ്ട്രീയ പാർട്ടികൾക്കും
+ഇക്കാര്യത്തിൽ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Prafulla_Kumar_Mahanta.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രഫുല്ലകുമാർ മൊഹന്ത</figDesc>
+          </figure>
+          <p> ഭരണാധികാരികൾക്കെതിരെ ലൈംഗികാപവാദമുണ്ടായതിനു് ഉദാഹരണങ്ങൾ എത്രവേണമെങ്കിലുമുണ്ടു്
+ലോകചരിത്രത്തിൽ. ഹിത്യനായ ഊറിയാവിനെ യുദ്ധത്തിനയച്ചു് ചതിയിൽ കൊല്ലിച്ചു് ടിയാന്റെ ഭാര്യ
+ബേത്സേബയെ കൈക്കലാക്കിയ ദാവീദ് രാജാവു് മുതൽ ഓവൽ ഓഫീസിൽ വെച്ചു് മോണിക്കാ ലെവിൻസ്കിയെ
+പ്രാപിച്ച ബിൽ ക്ലിന്റൺ വരെ. ദാവീദിനു് നേരെ വിരൽചൂണ്ടാൻ നാഥാൻ പ്രവാചകനുണ്ടായി; ക്ലിന്റന്റെ കളവു
+കണ്ടുപിടിക്കാൻ കെന്നത്ത് സ്റ്റാർ. യഹോവയുടെ കഠിനശിക്ഷയിൽ നിന്നു് ദാവീദ് രക്ഷപ്പെട്ടു എന്നാണു്
+ഐതിഹ്യം. ഇംപീച്ച്മെന്റിൽ ക്ലിന്റണും തടി കഴിച്ചിലാക്കി. രണ്ടു സംഭവങ്ങളും മലയാള സാഹിത്യത്തെ
+പോഷിപ്പിച്ചു എന്നതു് ശ്രദ്ധേയം: ദാവീദിന്റെ പ്രണയകഥ <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ.
+തോമസ്</ref> നാടകമെഴുതി, ദീപികയിലെ രണ്ടു യുവ ലേഖകർ മോണിക്കയുടെ വെളിപ്പെടുത്തലുകൾ
+നോവലായും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/cjthomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. ജെ. തോമസ്</figDesc>
+          </figure>
+          <p> ഇന്ത്യാ മഹാരാജ്യത്തും കാര്യങ്ങൾ വളരെയൊന്നും വ്യത്യസ്തമല്ല. വിഭജനത്തിന്റെയും അധികാര
+കൈമാറ്റത്തിന്റെയും കലുഷിതമായ ദിനങ്ങളിൽ, വൈസ്രോയിയുടെ ഭാര്യയെ പ്രണയിക്കാൻ സമയം
+കണ്ടെത്തിയ ദേഹമാണു് നമ്മുടെ രാഷ്ട്രശില്പി. <ref target="https://en.wikipedia.org/wiki/Mridula_Sarabhai">മൃദുലാ സാരാഭായ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Padmaja_Naidu">പത്മജാ
+നായിഡു</ref>, <ref target="https://www.outlookindia.com/society/if-i-werenta-sanyasin-he-would-have-married-me-news-223036">ശ്രദ്ധാമാതാ</ref> എന്നിങ്ങനെ
+പല പേരുകളും പണ്ഡിറ്റ്ജിയുമായി ബന്ധപ്പെട്ടു കിടക്കുന്നു. ഇത്തരം കിംവദന്തികളൊന്നും <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> വിന്റെ
+യശോധാവള ്യത്തിനു മങ്ങലേൽപിച്ചില്ല എന്നതു് മറ്റൊരു കാര്യം. എന്നാൽ പിൽക്കാലത്തു് <ref target="https://en.wikipedia.org/wiki/Ramrao_Adik">രാംറാവു അദിക്കി</ref> ന്റെയും
+<ref target="https://ml.wikipedia.org/wiki/Prafulla_Kumar_Mahanta">പ്രഫുല്ലകുമാർ
+മൊഹന്ത</ref> യുടെയുമൊക്കെ രാഷ്ട്രീയ ജീവിതം പെണ്ണുകേസിൽപെട്ടു് കുളമായി എന്നാണു് ചരിത്രം.
+</p>
+          <p>കേരള രാഷ്ട്രീയത്തെ പിടിച്ചു കുലുക്കിയ ലൈംഗികാപവാദങ്ങൾ അഞ്ചെണ്ണമാണു്. പഞ്ചമഹാപവാദങ്ങൾ
+എന്നു പറയുന്നതിൽ തെറ്റില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PM_Abu_Backer.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. എം. അബൂബക്കർ</figDesc>
+          </figure>
+          <p> കമ്യൂണിസ്റ്റ് മന്ത്രിസഭയുടെ കാലത്തു് മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/P.K.Chathan">ചാത്തൻ മാസ്റ്റർ</ref>
+ഇരിങ്ങാലക്കുട നിന്നു് ഒരു മുസ്ലിം യുവതിയെ തിരുവനന്തപുരത്തുകൊണ്ടുപോയി താമസിപ്പിച്ചതാണു് ആദ്യത്തെ
+അപവാദം. തന്റെ മുൻകാല ശിഷ്യയും ഭാര്യയുടെ സഹപാഠിയുമാണു് യുവതിയെന്നും ടിയാളെ മന്ത്രിമന്ദിരം
+കാണിക്കാൻ കൊണ്ടുപോയതാണെന്നും ചാത്തൻമാസ്റ്റർ വിശദീകരിച്ചെങ്കിലും ജനം വിശ്വസിച്ചില്ല. മന്ത്രിയെയും
+മൈമുനയേയും പറ്റി തെരുവുപിള്ളേർ പാട്ടുണ്ടാക്കി പാടി. മാക്രോണി രാജൻ കഥാപ്രസംഗവും നടത്തി.
+ഏതെങ്കിലും പ്രതിപക്ഷകക്ഷി മന്ത്രിയുടെ രാജി ആവശ്യപ്പെട്ടില്ല. മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/EMS">നമ്പൂതിരിപ്പാടു്</ref> ചാത്തനെ
+പുറത്താക്കിയതുമില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_Ahammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. അഹമ്മദ്</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/R._Sankar">ശങ്കർ</ref>
+മന്ത്രിസഭയുടെ കാലത്തു്, ആഭ്യന്തരമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി. ചാക്കോ</ref> യുടെ കാർ
+തൃശൂര്വെച്ചു് ഒരു കൈവണ്ടിയിലിടിച്ചപ്പോൾ കേരളം ഇളകിമറിഞ്ഞു. ചാക്കോയോടൊപ്പം കാറിലുണ്ടായിരുന്ന
+സ്ത്രീ ആരു് എന്ന ചോദ്യം ഉന്നയിച്ചതു് <ref target="https://ml.wikipedia.org/wiki/Joseph_Vadakkan">ഫാ. ജോസഫ്
+വടക്കന്റെ</ref> തൊഴിലാളി പത്രം. അതേറ്റുപിടിച്ചതു് ജനയുഗവും ദേശാഭിമാനിയും. “പാമ്പിന്റെ പകയും
+അരണയുടെ ബുദ്ധിയും കാളക്കൂറ്റന്റെ കാമാസക്തിയുമുള്ള” ആഭ്യന്തര മന്ത്രിക്കെതിരെ നിയമസഭയിൽ
+ആഞ്ഞടിച്ചതു് കമ്യൂണിസ്റ്റ് പാർട്ടിയിലെ <ref target="https://ml.wikipedia.org/wiki/E.P._Gopalan">ഇ. പി. ഗോപാലൻ</ref>.
+അസാന്മാർഗ്ഗികയായ മന്ത്രിയെ പുറത്താക്കാൻ വേണ്ടി രക്തസാക്ഷിദിനത്തിൽ നിയമസഭാ കവാടത്തിൽ
+നിരാഹാരം കിടന്നതു് കോൺഗ്രസ് എം. എൽ. എ. <ref target="https://ml.wikipedia.org/wiki/Prahladan_Gopalan">പ്രഹ്ലാദ
+ഗോപാലൻ</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PK_Chathan_Master.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചാത്തൻ മാസ്റ്റർ</figDesc>
+          </figure>
+          <p> പാർട്ടിക്കകത്തെ ചാക്കോ വിരുദ്ധർ ഒറ്റക്കെട്ടായി രാജി ആവശ്യപ്പെട്ടു. അവരുടെ നേതാക്കൾ <ref target="https://ml.wikipedia.org/wiki/C.K._Govindan_Nair">സി. കെ. ഗോവിന്ദൻ
+നായർ</ref>, <ref target="https://ml.wikipedia.org/wiki/CM_Stephen">സി. എം.
+സ്റ്റീഫൻ</ref>. ചാക്കോ വിരുദ്ധർക്കു് ധാർമിക പിന്തുണ നൽകിയതു് മലയാള മനോരമ, കേന്ദ്രത്തിൽ
+സമ്മർദ്ദം ചെലുത്തിയതു് കെ. പി. മാധവൻ നായർ. അവസാനം ഹൈക്കമാന്റും മുഖ്യമന്ത്രിയും കൈകഴുകി.
+അപമാനിതനായ ചാക്കോ രാജിവെച്ചു. അചിരേണ ഹൃദയം തകർന്നു മരിച്ചു. ചാക്കോ ഗ്രൂപ്പുകാർ പാലം വലിച്ചു്
+മന്ത്രിസഭ തകർത്തു. എളങ്ങോയി പള്ളി സെമിത്തേരിയിൽ നിന്നു് കേരള കോൺഗ്രസ് ഉദയംകൊണ്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Prahladan_Gopalan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രഹ്ലാദ ഗോപാലൻ</figDesc>
+          </figure>
+          <p> കുപ്രസിദ്ധമായ സൂര്യനെല്ലി പെൺവാണിഭ കേസിൽ അന്നു് കേന്ദ്രമന്ത്രിയായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/P.J._Kurian">പി. ജെ. കുര്യനെ</ref>
+
+തിരെയുണ്ടായതാണു് മൂന്നാമത്തെ അപവാദം. അത്യുന്നതനായ കോൺഗ്രസ് നേതാവു് പെൺകുട്ടിയെ
+പീഡിപ്പിച്ചു എന്ന സൂചന ആദ്യം നൽകിയതു് ദീപിക. ഏറ്റുപിടിച്ചതു് ദേശാഭിമാനി. പെൺകുട്ടിയുടെ പിതാവു്
+മുഖ്യമന്ത്രിക്കു് രേഖാമൂലം പരാതി കൊടുത്തെങ്കിലും നടപടിയൊന്നുമുണ്ടായില്ല. അന്വേഷണ ഉദ്യോഗസ്ഥർ
+കുര്യനെ പ്രതിയാക്കാൻ വിസമ്മതിച്ചു. പെൺകുട്ടിക്കെതിരെ കുര്യൻ ഒരു കോടി രൂപ നഷ്ടപരിഹാരം
+ആവശ്യപ്പെട്ടു് മാനനഷ്ടക്കേസ് ഫയലാക്കി. കുര്യന്റെ രാജി പ്രധാനമന്ത്രി ആവശ്യപ്പെട്ടില്ല. പിന്നീടു് നടന്ന
+തെരഞ്ഞെടുപ്പിൽ സീറ്റ് നിഷേധിച്ചതുമില്ല. മന്ത്രിപുംഗവനു് താങ്ങായും തണലായും നിന്നതു് മലയാള മനോരമ,
+പെൺകുട്ടിയെ പരിഹസിച്ചു കാർട്ടൂൺ വരച്ചതു് യേശുദാസൻ. സൂര്യനെല്ലി കേസ് ഇനിയും കെട്ടടങ്ങിയിട്ടില്ല.
+പെൺകുട്ടി കൊടുത്ത സ്വകാര്യ അന്യായത്തിനെതിരെ സുപ്രീംകോടതിയിൽനിന്നു് സ്റ്റേ വാങ്ങിയിരിക്കുകയാണു്
+പി. ജെ. കുര്യൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Sankar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശങ്കർ</figDesc>
+          </figure>
+          <p> കോഴിക്കോട്ടെ ഐസ്ക്രീം പാർലർ പെൺവാണിഭകേസുമായി ബന്ധപ്പെട്ടതാണു് നാലാമത്തെ വിവാദം.
+ആരോപണവിധേയൻ <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">പി. കെ.
+കുഞ്ഞാലിക്കുട്ടി</ref>, മുസ്ലിംലീഗ് നിയമസഭാകക്ഷി നേതാവു്. ആരോപണം ഉയരുമ്പോഴും കെട്ടടങ്ങുമ്പോഴും
+സംസ്ഥാനത്തു് ഇടതുപക്ഷ മുന്നണിയാണു് ഭരണത്തിലുണ്ടായിരുന്നതു്. ആഭ്യന്തര വകുപ്പിന്റെ ചുമതല മുഖ്യമന്ത്രി
+<ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാർ</ref> ക്കു്,
+പൊലീസിനെ ഭരിച്ചതു് പൊളിറ്റിക്കൽ സെക്രട്ടറി പി. ശശി. കേസന്വേഷണം ആരംഭിച്ചതും കുഞ്ഞാലിക്കുട്ടിയുടെ
+പങ്കു കണ്ടെത്തിയതും അന്നത്തെ സിറ്റി പൊലീസ് കമീഷണർ നീരാ റാവത്ത്. അനിഷേധ്യമായ തെളിവുകളുടെ
+അടിസ്ഥാനത്തിൽ ആഭ്യന്തര വകുപ്പു് സെക്രട്ടറിക്കും മുഖ്യമന്ത്രിക്കും റിപ്പോർട്ടയച്ചതു് പ്രോസിക്യൂഷൻ ഡയറക്ടർ
+ജനറൽ കല്ലട സുകുമാരൻ. <ref target="https://ml.wikipedia.org/wiki/Chadayan_Govindan">ചടയൻ
+ഗോവിന്ദൻ</ref> മരിച്ച ഒഴിവിൽ <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref> സി. പി. എം. സെക്രട്ടറിയായി. മാർക്സിസ്റ്റ്-ലീഗ് ബാന്ധവത്തെപ്പറ്റി പുനരാലോചനകളുണ്ടായി.
+സാക്ഷികൾ മൊഴിമാറ്റി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chadayan_Govindan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചടയൻ ഗോവിന്ദൻ</figDesc>
+          </figure>
+          <p>കുഞ്ഞാലിക്കുട്ടി നിരപരാധിയെന്നു് സാക്ഷ്യപ്പെടുത്തി പുതിയൊരു റിപ്പോർട്ട് അഡ്വക്കേറ്റ് ജനറൽ എം. കെ.
+ദാമോദരൻ തിരുവനന്തപുരത്തേക്കയച്ചു. കൈരളി ചാനലുമായി സഹകരിക്കാൻ ലീഗുകാർ അഹമഹമികയാ
+മുന്നോട്ടുവന്നു. മലപ്പുറം ജില്ലയിലെ ചില പഞ്ചായത്തുകളിലെങ്കിലും മാർക്സിസ്റ്റ്-ലീഗ് ഭരണം യാഥാർത്ഥ്യമായി.
+കോഴിക്കോട് പെൺവാണിഭ കേസന്വേഷിച്ച നിയമസഭാ സമിതിയിൽ മാർക്സിസ്റ്റംഗങ്ങൾ—<ref target="https://ml.wikipedia.org/wiki/K._K._Shailaja">ശൈലജ</ref> ടീച്ചറും
+<ref target="https://ml.wikipedia.org/wiki/Girija_surendran">ഗിരിജാ
+സുരേന്ദ്രനും</ref> ഉൾപ്പെടെ—പ്രതിഭാഗം ചേരുകയാൽ <ref target="https://en.wikipedia.org/wiki/Meenakshi_Thampan">പ്രൊഫ. മീനാക്ഷി
+തമ്പാൻ</ref> ഒറ്റപ്പെട്ടു. വനിതാ കമീഷനിൽ ഇതേ അനുഭവം <ref target="https://ml.wikipedia.org/wiki/Sugathakumari">സുഗതകുമാരി</ref>
+ക്കുമുണ്ടയി. കുഞ്ഞാലിക്കുട്ടിയെ പ്രതിയാക്കണമെന്നാവശ്യപ്പെട്ടു് <ref target="https://ml.wikipedia.org/wiki/K._Ajitha">അജിത</ref> സുപ്രീംകോടതിവരെ
+കേസ് നടത്തിയിട്ടും ഫലമുണ്ടായില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ck_govindan_nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കെ. ഗോവിന്ദൻ നായർ</figDesc>
+          </figure>
+          <p> വനം-ട്രാൻസ്പോർട്ട് മന്ത്രി <ref target="https://en.wikipedia.org/wiki/Neelalohithadasan_Nadar">നീലലോഹിതദാസൻ
+നടാർ</ref> ക്കെതിരെ <ref target="https://ml.wikipedia.org/wiki/Nalini_Netto">നളിനിനെറ്റോ</ref>
+ഉന്നയിച്ചതാണു് ഏറ്റവും ഒടുവിലത്തെ അപവാദം. പിന്നാക്ക സമുദായ കാർഡുമായി കേരള കൗമുദി
+പിന്തുണക്കെത്തിയെങ്കിലും ഫലമുണ്ടായില്ല. മുഖ്യമന്ത്രി രാജി ആവശ്യപ്പെട്ടു. ജനതാദൾ സംസ്ഥാന കമ്മിറ്റി
+യോഗത്തിൽ മന്ത്രി രാജി ആവശ്യപ്പെട്ടു. ജനതാദൾ സംസ്ഥാന കമ്മിറ്റി യോഗത്തിൽ മന്ത്രി രാജി പ്രഖ്യാപിച്ചു.
+നീലൻ-നളിനി സംഭവത്തെക്കുറിച്ചു് ജുഡീഷൽ അന്വേഷണത്തിനു് ഉത്തരവിട്ടതു് കൂടുതൽ വിവാദങ്ങൾക്കു്
+വഴിതെളിച്ചു. കമീഷന്റെ നടപടികൾ നിഷ്പക്ഷമല്ലെന്നാരോപിച്ചു് നളിനി നെറ്റോ ബഹിഷ്കരിച്ചു. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref>
+മുഖ്യമന്ത്രിപദമേറ്റയുടൻ കമീഷന്റെ പ്രവർത്തനം അവസാനിപ്പിക്കുകയും ചെയ്തു. പ്രകൃതി ശ്രീവാസ്തവയെ
+പീഡിപ്പിച്ച കേസിൽ നീലൻ കുറ്റക്കാരനെന്നു് വിചാരണക്കോടതി കണ്ടെത്തി. നളിനിയുടെ കേസ് വിചാരണ
+പുരോഗമിക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shihab_Thangal.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശിഹാബ് തങ്ങൾ</figDesc>
+          </figure>
+          <p>കെട്ടടങ്ങിയെന്നു കരുതിയ അഗ്നിപർവതം ഇപ്പോഴിതാ പൊട്ടിത്തെറിക്കുന്നു. ഐസ്ക്രീം പാർലറിലെ
+വിവാദ നായികമാരിലൊരാൾ, <ref target="https://ml.wikipedia.org/wiki/Meera_Jasmine">മീരാ ജാസ്മിനിൽ</ref> നിന്നു്
+പ്രചോദനം ഉൾക്കൊണ്ടതാണെന്നു കരുതപ്പെടുന്നു, കുഞ്ഞാലിക്കുട്ടിക്കെതിരെ ആരോപണമുന്നയിച്ചു്
+രംഗത്തുവന്നിരിക്കുന്നു. പ്രായപൂർത്തിയാകുംമുമ്പു് മൂന്നുതവണ തന്നെ കുഞ്ഞാലിക്കുട്ടി ലൈംഗിക
+പീഡനത്തിനിരയാക്കിയെന്നും കോടതിയിൽ മൊഴിമാറ്റിപ്പറയാൻ പണം നൽകിയെന്നുമാണു്
+വെളിപ്പെടുത്തലിന്റെ സാരാംശം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_J_Kurien.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. കുര്യൻ</figDesc>
+          </figure>
+          <p> കേരള രാഷ്ട്രീയത്തിലെ വിവാദ പുരുഷനാണു് കുഞ്ഞാലിക്കുട്ടി. അതിവേഗത്തിലാണു് അദ്ദേഹം
+വടവൃക്ഷമായി പടർന്നുപന്തലിച്ചതു്. 1980-ൽ മലപ്പുറം മുനിസിപ്പൽ ചെയർമാനായി. 1982-ലും ‘87-ലും
+എം. എൽ. എ. 1991-ൽ ബാവാ ഹാജി തഴയപ്പെട്ടു. <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">ഇ. അഹമ്മദി</ref> നെ
+പാർലമെന്റംഗമാക്കി ദൽഹിക്കയച്ചു. <ref target="https://ml.wikipedia.org/wiki/U._A._Beeran">യു. എ. ബീരാന്റെ</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/P._M._Abubacker">പി. എം.
+അബൂബക്കറു</ref> ടെയും തലക്കുമീതെ കുഞ്ഞാലിക്കുട്ടി നിയമസഭാകക്ഷി നേതാവും വ്യവസായ
+വകുപ്പുമന്ത്രിയുമായി തുടക്കത്തിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+വലംകൈയും മനസ്സാക്ഷി സൂക്ഷിപ്പുകാരനുമായിരുന്നു. ബാബരി മസ്ജിദ് തകർന്നപ്പോഴും ലീഗിനെ കോൺഗ്രസ്
+മുന്നണിയിൽ ഉറപ്പിച്ചു നിറുത്തി. നിരാശാബാധിതരായ ബീരാനോടും അബൂബക്കറിനോടൊപ്പം <ref target="https://ml.wikipedia.org/wiki/Ebrahim_Sulaiman_Sait">ഇബ്രാഹിം
+സുലൈമാൻസേട്ടു</ref> വേറെ പാർട്ടിയുണ്ടാക്കിയപ്പോഴും <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലി</ref>
+കുലുങ്ങിയില്ല. 1995 ആദ്യം നേതൃമാറ്റം ആവശ്യപ്പെട്ടു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+താഴെയിറക്കാനും മടിയേതുമുണ്ടായില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> കരുണാകരന്റെ സ്ഥാനത്തു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> വന്നപ്പോൾ
+കാര്യങ്ങൾ എളുപ്പമായി. മുഖ്യനു് മൽസരിക്കാൻ തിരൂരങ്ങാടി തരപ്പെടുത്തിയപ്പോൾ ആരംഭിച്ചതാണു്
+ആത്മബന്ധം. പിന്നീടു് കുഞ്ഞാലിക്കുട്ടി ചോദിച്ച വരമത്രയും നൽകി അനുഗ്രഹിച്ചു, ആദർശധീരൻ.
+കോൺഗ്രസിലെ ഗ്രൂപ്പുകൾ നാലും എതിരായപ്പോൾ മുഖ്യനു തുണ ലീഗ് മാത്രം. രാജ്യസഭാ
+തെരഞ്ഞെടുപ്പുവേളയിൽ എം. എൽ. എ.-മാരെ ‘ഉറപ്പിച്ചു’ നിറുത്തിയതും റിബലിന്റെ പരാജയം ഉറപ്പുവരുത്തിയതും
+കുഞ്ഞാലിക്കുട്ടി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sulaiman_Sait.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇബ്രാഹിം സുലൈമാൻസേട്ടു</figDesc>
+          </figure>
+          <p> കരിമണൽ വിഷയത്തിൽ <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരനെ</ref>
+കെട്ടഴിച്ചുവിട്ടതു് ആന്റണിയാണെന്ന സംശയംകൊണ്ടാകാം, മുഖ്യന്റെ ജനപിന്തുണ പരിതാപകരമാണെന്ന
+തിരിച്ചറിവുകൊണ്ടുമാകാം ഇത്തവണ മുസ്ലിംലീഗ് നേതൃമാറ്റം ആവശ്യപ്പെട്ടതു്. ഭരണപരാജയത്തിന്റെ,
+തെരഞ്ഞെടുപ്പു തോൽവിയുടെ പാപഭാരമത്രയും ആന്റണിക്കു്. നേതൃമാറ്റം, ലീഗിന്റെ നേട്ടം.
+ആന്റണിയുടേതിനെക്കാൾ ശോചനീയം <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+നില. കുഞ്ഞാലിക്കുട്ടി വിരൽവെക്കുന്നിടത്തു് ഒപ്പിടുന്ന ജോലിയേയുള്ളു കുഞ്ഞൂഞ്ഞിനു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/EP_Gopalan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. പി. ഗോപാലൻ</figDesc>
+          </figure>
+          <p> പാർട്ടിക്കകത്തു് പരമശക്തനാണു് കുഞ്ഞാലിക്കുട്ടി. ഇന്ത്യൻ നാഷനൽ ലീഗ് ക്ലച്ച് പിടിച്ചില്ല, <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">മഅ്ദനി</ref>
+വർഷങ്ങളായി ജയിലിൽ. <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">ഇ.
+അഹമ്മദ്</ref> ദേശീയ നേതൃത്വത്തിൽ. മന്ത്രിസ്ഥാനം കിട്ടിയതോടെ <ref target="https://ml.wikipedia.org/wiki/ET._Mohammed_Basheer">ഇ. ടി. മുഹമ്മദ്
+ബഷീറി</ref> ന്റെ എതിർപ്പില്ലാതെയായി. കൊരമ്പയിൽ അഹമ്മദ് ഹാജി മരിച്ച ഒഴിവിൽ സംസ്ഥാന
+ജനറൽ സെക്രട്ടറിപദവും കരഗതമായി.
+</p>
+          <p>വ്യവസായികളുടെ ഉറ്റതോഴനാണു് കുഞ്ഞാലിക്കുട്ടി. വിഭവസമാഹരണം അനായാസം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Cmstephen.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എം. സ്റ്റീഫൻ</figDesc>
+          </figure>
+          <p> മിത്രങ്ങളേക്കാൾ ശത്രുക്കളുണ്ടു് കുഞ്ഞാലിക്കുട്ടിക്കു്. പാർട്ടിക്കകത്തും പുറത്തും അസൂയാലുക്കൾ നിരവധി.
+തന്നെ ദേശീയ നേതാവാക്കി സംസ്ഥാന രാഷ്ട്രീയത്തിൽ നിന്നു് നാടുകടത്തിയതിന്റെ കെറുവു് ഇ. അഹമ്മദിനു്,
+
+മന്ത്രിസ്ഥാനം പോയതിന്റെ പക <ref target="https://ml.wikipedia.org/wiki/Cherkalam_Abdullah">ചെർക്കളത്തി</ref>
+നു്, തെരഞ്ഞെടുപ്പിൽ തോറ്റ വിഷമം സുധീരനു്, മുഖ്യമന്ത്രി അല്ലാതായതിന്റെ വൈക്ലബ്യം ആന്റണിക്കു്. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref> യുടെ
+മിത്രം <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദന്റെ</ref>
+ശത്രു. ഏറ്റവും ആദ്യത്തെ മുഹൂർത്തത്തിൽ ഇവർ കൈകോർക്കും. മൂവാറ്റുപുഴയിൽ <ref target="https://ml.wikipedia.org/wiki/Jose_K._Mani">ജോസ് കെ. മാണി</ref> യെ
+വീഴ്ത്താൻ <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം.
+ജേക്കബും</ref> <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ.
+ജോസഫും</ref> <ref target="https://ml.wikipedia.org/wiki/P.C._George">പി. സി.
+ജോർജും</ref> ജോർജ് കെ. മാത്യുവും ഒരുമിച്ചപോലെ. കുഞ്ഞാലിക്കുട്ടിയുടെ സൊല്ല ഒഴിയണം എന്നു്
+ഉമ്മൻചാണ്ടിക്കും ആഗ്രഹമുണ്ടു്. പുറത്തുപറയാൻ ധൈര്യമില്ലെന്നു മാത്രം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p> യു. ഡി. എഫ്. യോഗത്തിൽ കുഞ്ഞാലിക്കുട്ടി പ്രശ്നം ഉന്നയിക്കാൻ ഒറ്റയൊരുത്തനും ഉണ്ടായില്ല. ഏതു്
+കുഞ്ഞാലി? എന്തു് പ്രശ്നം? യു. ഡി. എഫ്. ഒറ്റക്കെട്ടാണു്—ഒട്ടകപ്പക്ഷിയെപ്പോലെ തല മണലിൽ പൂഴ്ത്തുന്ന
+കാര്യത്തിൽ.
+</p>
+          <p>കോൺഗ്രസിനകത്തു് രണ്ടഭിപ്രായമുണ്ടു്. കുഞ്ഞാലിക്കുട്ടി രാജിവെക്കണം എന്നു് സുധീരനും യൂത്ത്
+കോൺഗ്രസ് പ്രസിഡന്റ് അനിൽകുമാറും പരസ്യമായി ആവശ്യപ്പെട്ടുകഴിഞ്ഞു. <ref target="https://ml.wikipedia.org/wiki/Mullappally_Ramachandran">മുല്ലപ്പള്ളി
+രാമചന്ദ്രനും</ref> ഏതാണ്ടു് ഇതേ അഭിപ്രായമാണുള്ളതു്. മറ്റു പലരും ഇതുതന്നെ രഹസ്യമായി
+മന്ത്രിക്കുന്നുണ്ടു്. അവസരം കിട്ടിയാൽ തുറന്നു പറയും. കുഞ്ഞാലിക്കുട്ടിയെ പറഞ്ഞുവിടണം എന്നാണു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref> യുടെ
+ഉള്ളിലിരിപ്പു്. കുഞ്ഞാലിക്കുട്ടിക്കു് പിന്തുണ നൽകാൻ മലയാള മനോരമ തയ്യാറായിട്ടില്ല എന്നതും ശ്രദ്ധേയം.
+ഹൈക്കമാന്റിനെ ഇടപെടുവിച്ചു് രാജി ചോദിക്കാനാണു് ആന്റണിയുടെയും കൂട്ടരുടെയും പദ്ധതി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jose_K_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോസ് കെ. മാണി</figDesc>
+          </figure>
+          <p> കോൺഗ്രസിലേക്കാൾ വലിയ ആശയക്കുഴപ്പമാണു് ഇടതുപക്ഷ മുന്നണിയിൽ. ഐസ്ക്രീം പാർലർ
+കേസൊതുക്കിയതു് നമ്മുടെ ഭരണകാലത്താണു്. തക്ക പ്രതിഫലവും കിട്ടി. ഇനിയെങ്ങനെ പ്രക്ഷോഭം നടത്തും?
+കുഞ്ഞാലിക്കുട്ടിയുടെ ആപ്തമിത്രമാണു് പിണറായി വിജയൻ. മലബാർ നേതാക്കൾ മിക്കവരും തഥൈവ.
+കുഞ്ഞാലിക്കുട്ടി രാജിവെക്കണം എന്നുറപ്പിച്ചു പറയാൻ <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദന</ref>
+ല്ലാതെ ആർക്കുമില്ല ചങ്കൂറ്റം. <ref target="https://en.wikipedia.org/wiki/Meenakshi_Thampan">മീനാക്ഷി
+തമ്പാന്റെ</ref> യും കല്ലട <ref target="https://www.newindianexpress.com/states/kerala/2011/Oct/17/kalladasukumaran-id-advised-to-prosecute-kunh-301179.html">സുകുമാരന്റെ</ref> യും
+വെളിപ്പെടുത്തലുകൾക്കുശേഷവും പിണറായിയും കൂട്ടരും പ്രതിരോധത്തിലാണു്. അവരങ്ങനെ അമ്മായീം കുടിച്ചു
+പാൽക്കഞ്ഞി എന്ന മട്ടിൽ ഓരോ പ്രസ്താവനയുമിറക്കി കൃതാർത്ഥരായിരിക്കുന്നു. മറുഭാഗത്തു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദൻ</ref> വലിയ ഉൽസാഹത്തിലാണു്. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref>
+പ്രഭൃതികളുടെ മുഖംമൂടി വലിച്ചു ചീന്താൻ കൈവന്ന കനകാവസരം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CHmohammedKoya.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എച്ച്. മുഹമ്മദ് കോയ</figDesc>
+          </figure>
+          <p> ലീഗിനകത്തുമുണ്ടു് രണ്ടഭിപ്രായം. കുഞ്ഞാലിക്കുട്ടി രാജിവെക്കണം എന്നാണു് ബഹുഭൂരിപക്ഷം
+പ്രവർത്തകരും ആഗ്രഹിക്കുന്നതു്. തെരഞ്ഞെടുപ്പു് കേസിൽ പ്രതികൂലവിധിയുണ്ടായപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്. മുഹമ്മദ്
+കോയ</ref> സാങ്കേതികത്വത്തിൽ കടിച്ചുതൂങ്ങാതെ തൽക്ഷണം രാജികൊടുത്ത സംഭവം അവർ
+ഓർമിപ്പിക്കുന്നു. പക്ഷേ, സി. എച്ച്. അല്ല കുഞ്ഞാലിക്കുട്ടി. പാണക്കാട് തങ്ങൾ ആവശ്യപ്പെട്ടാലേ അദ്ദേഹം
+രാജിവെക്കൂ. പടച്ചവന്റെ കൃപകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/Panakkad_Sayyid_Muhammad_Ali_Shihab_Thangal">ശിഹാബ്
+തങ്ങൾ</ref> രാജി ചോദിക്കുകയില്ല, കുഞ്ഞാലി രാജി കൊടുക്കുകയുമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MK_Muneer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. എം. കെ. മുനീർ</figDesc>
+          </figure>
+          <p> മാധ്യമങ്ങളുടെ എതിർപ്പാണു് കുഞ്ഞാലിക്കുട്ടി നേരിടുന്ന ഏറ്റവും വലിയ വെല്ലുവിളി. ചന്ദ്രികയല്ലാതെ ഒരു
+പത്രവും റജീനയുടെ മൊഴി അവിശ്വസിച്ചിട്ടില്ല. ടി. വി. ചാനലുകളത്രയും കുഞ്ഞാലിക്കുട്ടിക്കെതിരാണു് പ്രത്യേകിച്ചു്
+<ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">ഡോ. എം. കെ.
+മുനീർ</ref> ചെയർമാനായിരിക്കുന്ന ഇന്ത്യാവിഷൻ. പ്രകോപിതരായ ലീഗുകാർ ഒക്ടോബർ 30-നു്
+കോഴിക്കോട്ടും കൊച്ചിയിലും ഇന്ത്യാവിഷനു നേരെ കല്ലേറു് നടത്തിയതോടെ സ്ഥിതി വഷളായി. പിറ്റേന്നു്
+കരിപ്പൂർ വിമാനത്താവളത്തിൽ കുഞ്ഞാലി ശിഷ്യന്മാർ കാട്ടിക്കൂട്ടിയ കുണ്ടാമണ്ടികൾ കഠിനം, കഠോരം.
+ഏഷ്യാനെറ്റ് ലേഖികയെ പച്ചക്കൊടി പിടിപ്പിച്ചു് മുസ്ലീംലീഗിനു് മുദ്രാവാക്യം വിളിപ്പിക്കൽ വരെയുണ്ടായി. ഡോ.
+മുനീർതന്നെ കഷ്ടിച്ചാണു് തടി രക്ഷിച്ചതു്. നവംബർ 2-നു് കൊച്ചിയിലും തിരുവനന്തപുരത്തും ലീഗുകാരുടെ റോൾ
+പൊലീസ് ഏറ്റെടുത്തു. മാധ്യമപ്രവർത്തകർക്കു് രസികൻ അടി മതിയാവോളം കിട്ടി. പത്രപ്രവർത്തക യൂനിയൻ
+നേതാക്കൾ ബുദ്ധിമാന്മാരാണു്. അവർ ജുഡീഷ്യൽ അന്വേഷണംകൊണ്ടു് തൃപ്തരായി. ഇനിയൊരു റിട്ടയേർഡ്
+ജഡ്ജിയെ കണ്ടെത്തണം, (ജസ്റ്റിസ് ജി. ശശിധരനാണെങ്കിൽ ഉത്തമം. നാരായണക്കുറുപ്പായാലും
+പോരായ്കയില്ല.) ടേംസ് ഓഫ് റഫറൻസും നിശ്ചയിക്കണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_AJITHA.jpg" rendition="gra"/>
+            <figDesc style="thumb">അജിത</figDesc>
+          </figure>
+          <p> ഇന്ത്യാവിഷനെ സംഹരിച്ചുകളയുമെന്നാണു് കുഞ്ഞാലിയിൻ ശപഥം. സംശയമുള്ളവർ നവംബർ 2, 3
+തീയതികളിലെ ചന്ദ്രിക വായിക്കട്ടെ: “ഷെയർ ഉടമകളിലേറെയും മുസ്ലിംലീഗ് അനുഭാവികളും പ്രവർത്തകരും
+ആണെങ്കിലും ഇപ്പോൾ ഇന്ത്യാവിഷൻ കടുത്ത ആക്രമണം നടത്തുന്നതു് മുസ്ലിംലീഗിനെതിരെയാണു്.
+ഇന്ത്യാവിഷൻ ചാനലിൽ കയറിപ്പറ്റിയ ജീവനക്കാരിൽ ഗണ്യമായ ശതമാനവും സംഘ അനുഭാവികളും മാർക്സിസ്റ്റ്
+സഹയാത്രികരുമായതിനാൽ അവരെ നിയന്ത്രിക്കാൻ മാനേജ്മെന്റിനു് പ്രയാസമായി… മുസ്ലിംകളുടെ
+ഷെയർ ഗണ്യമായുള്ള ചാനൽ നിർഭാഗ്യവശാൽ മുസ്ലിംവിരുദ്ധ വാർത്തകളുടെ ഉറവിടമായിത്തീരുന്നു.
+വിവാദങ്ങൾ കൊഴുപ്പിക്കുന്നതിലും ഈ ചാനൽ പ്രവർത്തകർ മുന്നിലുണ്ടായിരുന്നു…”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p>ചാനലിന്റെ മുസ്ലിംവിരുദ്ധ പ്രവൃത്തികൾ ചന്ദ്രിക അക്കമിട്ടു് നിരത്തുന്നുണ്ടു്: മാറാടു് പുനരധിവാസം
+കുളമാക്കാൻ നോക്കിയതു്, പാലക്കാടു്, മമ്പറം പള്ളി പ്രശ്നങ്ങൾ റിപ്പോർട്ട് ചെയ്തരീതി, <ref target="https://en.wikipedia.org/wiki/Nalakath_Soopy">നാലകത്ത് സൂപ്പി</ref>
+യുടെയും മുഹമ്മദ് ബഷീറിന്റെയും പുരോഗമനപരമായ വിദ്യാഭ്യാസ നയത്തെ പിന്തുണക്കാത്തതു്,
+ഏറ്റവുമൊടുവിൽ <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യെ കരിവാരിത്തേച്ചതു്. ചാനലിൽ നിന്നു് ‘മുഖ്യ’ ഷെയറുടമകളായ കെ. എം. സി. സി. ഭാരവാഹികൾ
+പിന്മാറാനൊരുങ്ങുന്നു എന്നൊരു ഭീഷണിയുമുണ്ടു്, പത്രത്തിൽ. ഫാഷിസത്തെ ചെറുക്കാൻ കുഞ്ഞാലിക്കുട്ടി
+മുൻകൈയെടുത്തു് പുതിയൊരു ചാനൽ ആരംഭിക്കുമെന്നു് പ്രത്യാശിക്കുക.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MEENAKSHY_THAMPAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">മീനാക്ഷി തമ്പാൻ</figDesc>
+          </figure>
+          <p> നാലു വണ്ടി പൊലീസിന്റെ അകമ്പടിയോടെ റജീനയുടെ വീടു് വളഞ്ഞു് അറസ്റ്റ് ചെയ്യിച്ചതും (അതും വളരെ
+പഴയ ഒരു ആത്മഹത്യാ ശ്രമത്തിന്റെ പേരിൽ) മുൻകൂട്ടി തയ്യാറാക്കിയ പ്രസ്താവന അവരെക്കൊണ്ടു് മജിസ്ട്രേറ്റിനു്
+കൊടുപ്പിച്ചതും ജോറായി. തൊട്ടു് തലേദിവസമാണു് ഇതേ നാടകം അഹമ്മദാബാദിൽ അരങ്ങേറിയതു്. അവിടെ
+സാഹിറ, ഇവിടെ റജീന. അവിടെ ബെസ്റ്റ് ബേക്കറി, ഇവിടെ ഐസ്ക്രീം പാർലർ. അവിടെ <ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">നരേന്ദ്രമോഡി</ref>, ഇവിടെ
+കുഞ്ഞാലിക്കുട്ടി. മഹാത്മാക്കൾ ഒരുപോലെ ചിന്തിക്കുന്നു, പ്രവർത്തിക്കുന്നു. ഭാരത് മാതാ കീ ജയ്!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Idathuvalathu Vanibhasangham
+(ml: ഇടതുവലതു വാണിഭസംഘം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Idathuvalathu Vanibhasangham, കെ. രാജേശ്വരി, ഇടതുവലതു വാണിഭസംഘം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 14, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Closing_the_Deal_by_Baldomero_Galofre_Gim%C3%A9nez.jpg">Closing
+the Deal,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Baldomer_Galofre">Baldomero Galofre
+Jiménez</ref>  (1845–1902). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-idathu.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-idathu.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നീതിവൃക്ഷത്തിലെ കുയിൽ</title>
+          <title xml:lang="en" type="main">Neethivrikshaththile Kuyil</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നീതിവൃക്ഷത്തിലെ കുയിൽ</title>
+              <title xml:lang="en" type="main">Neethivrikshaththile Kuyil</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Neethivrikshaththile Kuyil</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>നീതിവൃക്ഷത്തിലെ കുയിൽ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Nests_and_Eggs_of_Birds_of_Ohio.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Illustrations_of_the_Nests_and_Eggs_of_Birds_of_Ohio__Plate_II_-_Smithsonian.jpg">Nests and Eggs of Birds of Ohio,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Genevieve_Estelle_Jones">Genevieve
+Estelle Jones</ref>  (1847–1879). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നീതിവൃക്ഷത്തിലെ കുയിൽ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നീതിവൃക്ഷത്തിലെ കുയിൽ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Shelley.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷെല്ലി</figDesc>
+          </figure>
+          <p style="noindent"> വിലാപകാവ്യത്തിനു് ഇംഗ്ലീഷിൽ എലിജി എന്നാണു് പേരു്. പ്രസിദ്ധനായ
+ഏതെങ്കിലും വ്യക്തിയുടെയോ സുഹൃത്തിന്റെയോ നിര്യാണത്തിൽ മനംനൊന്തു് രചിക്കുന്ന തത്ത്വചിന്താപരമായ
+ഭാവഗീതമാണു്, സാധാരണഗതിയിൽ എലിജി. <ref target="https://ml.wikipedia.org/wiki/John_Milton">മിൽട്ടന്റെ</ref> ‘<ref target="https://ml.wikipedia.org/wiki/Lycidas">ലിസിഡസ്</ref> ’ (1638), <ref target="https://ml.wikipedia.org/wiki/Percy_Bysshe_Shelley">ഷെല്ലി</ref> യുടെ
+‘<ref target="https://en.wikipedia.org/wiki/Adonais">അഡോണൈസ്</ref> ’
+(1821), <ref target="https://ml.wikipedia.org/wiki/Alfred_Lord_Tennyson">ടെനിസന്റെ</ref>
+‘<ref target="https://en.wikipedia.org/wiki/In_Memoriam_A.H.H.">ഇൻമെമ്മോറിയം</ref>’
+(1850) എന്നിവ വിഖ്യാതമായ ഉദാഹരണങ്ങൾ. ഐറിഷ് ചാനലിൽ മുങ്ങിമരിച്ച സുഹൃത്തിനെക്കുറിച്ചാണു്
+മിൽട്ടന്റെ ‘ലിസിഡസ്സ്’, കപ്പൽച്ചേതത്തിൽ മരിച്ച സഹോദരനെപ്പറ്റിയാണു് ടെനിസന്റെ ‘ഇൻമെമ്മോറിയം’;
+<ref target="https://ml.wikipedia.org/wiki/John_Keats">ജോൺ കീറ്റ്സി</ref> ന്റെ
+അകാലനിര്യാണമാണു് ‘അഡോണൈസി’നു് പ്രചോദനം. മനുഷ്യജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ചുള്ള
+തത്ത്വചിന്താപരമായ മറ്റു് വിലാപകാവ്യങ്ങളുമുണ്ടു്. <ref target="https://en.wikipedia.org/wiki/Thomas_Gray">തോമസ് ഗ്രേ</ref> യുടെ ‘<ref target="https://en.wikipedia.org/wiki/Elegy_Written_in_a_Country_Churchyard">എലിജി
+റിട്ടൺ ഇൻ എ കൺട്രി ചർച്ച്യാഡ്</ref> ’ (1751) ഉദാഹരണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Alfred_Lord_Tennyson.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടെനിസൻ</figDesc>
+          </figure>
+          <p> മലയാളത്തിലെ ആദ്യത്തെ വിലാപകാവ്യം മഹാഭാരതം കിളിപ്പാട്ടിലെ സ്ത്രീപർവം ആകാനേ തരമുള്ളൂ.
+(കണ്ണുനീർത്തുള്ളിയെ സ്ത്രീയോടുപമിച്ച കാവ്യഭാവന തുഞ്ചത്തെഴുത്തച്ഛന്റേതുതന്നെ). പാശ്ചാത്യ മാതൃക
+പിന്തുടർന്ന പ്രധാന വിലാപകാവ്യങ്ങൾ <ref target="https://ml.wikipedia.org/wiki/V.C._Balakrishna_Panicker">വി. സി.
+ബാലകൃഷ്ണപ്പണിക്കരു</ref> ടെ ‘ഒരു വിലാപ’വും (1908) <ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">കുമാരനാശാന്റെ</ref>
+‘പ്രരോദന’വും (1919) പത്നീവിയോഗമാണു് ‘വിലാപ’ത്തിനു് നിദാനമെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/A._R._Raja_Raja_Varma">കേരള
+പാണിനി</ref> യുടെ നിര്യാണമായിരുന്നു ‘പ്രരോദന’ത്തിനുള്ള പ്രചോദനം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/ThomasGray.jpg" rendition="gra"/>
+            <figDesc style="thumb">തോമസ് ഗ്രേ</figDesc>
+          </figure>
+          <p> വിലാപകാവ്യത്തിനു് മരണം നിർബന്ധമാണെന്നില്ല. ബി. എ. പരീക്ഷയിൽ ഒരു പാർട്ടിനു് തോറ്റപ്പോൾ
+
+<ref target="https://ml.wikipedia.org/wiki/A._R._Raja_Raja_Varma">എ. ആർ.
+തമ്പുരാൻ</ref> ‘ഭംഗവിലാപ’മെഴുതി; കേൾവിശക്തി നഷ്ടപ്പെട്ടപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോൾ</ref>
+‘ബധിരവിലാപ’വും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/John_Keats.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോൺ കീറ്റ്സ്</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മഗാന്ധി</ref>
+വെടിയേറ്റു് വീണപ്പോൾ ‘ബാപ്പുജി’ എന്ന ഖണ്ഡകാവ്യം രചിച്ച <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോൾ</ref>
+പിന്നീടു് സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Joseph_Stalin">സ്റ്റാലിൻ</ref> മരിച്ചതറിഞ്ഞു്
+‘സ്റ്റാലിൻ ഹാ!’ എന്നൊരു വിലാപകവിതയെഴുതി. അന്നന്നു് കണ്ടതിനെ വാഴ്ത്തുന്നു മാമുനികൾ, മഹാകവികളും.
+<ref target="https://ml.wikipedia.org/wiki/Sugathakumari">സുഗതകുമാരി</ref>
+യാണെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref>
+തോറ്റപ്പോൾ (1977) “പ്രിയദർശിനീ നിന്നെ സ്നേഹിച്ചു പണ്ടേ ഞങ്ങൾ” എന്നും വെടിയേറ്റു് മരിച്ചപ്പോൾ (1984)
+“പ്രിയദർശിനീ നിനക്കുറങ്ങാമിനി” എന്നും പാടി. <ref target="https://ml.wikipedia.org/wiki/G._Sankara_Kurup">ജി. ശങ്കരക്കുറുപ്പ്</ref>
+മരിച്ചപ്പോൾ “ആംഗ്ലേയാക്ഷരമാലക്കേഴാമക്ഷരം പോയി” എന്നാണു് സിസ്റ്റർ <ref target="https://ml.wikipedia.org/wiki/Sister_Mary_Baninja">മേരി
+ബെനീഞ്ഞ</ref> വിലപിച്ചതു്. <ref target="https://ml.wikipedia.org/wiki/Vyloppilli_Sreedhara_Menon">വൈലോപ്പിള്ളി</ref>
+വിടപറഞ്ഞപ്പോൾ “മാതുലാ പൊറുത്താലും, തീർന്നു മാമ്പഴക്കാലം” എന്നു് കുണ്ഠിതപ്പെട്ടതു് <ref target="https://ml.wikipedia.org/wiki/Sachidanandan">സച്ചിദാനന്ദൻ</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AR_Raja_Raja_Varma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. ആർ. തമ്പുരാൻ</figDesc>
+          </figure>
+          <p> പത്രത്തിലെ ചരമക്കോളം നോക്കി കാവ്യരചന നടത്തുന്നവരും ഏറെയാണു്. 1980 ജൂലൈ 20-26-ന്റെ ലക്കം
+മാതൃഭൂമി ആഴ്ചപ്പതിപ്പു് കാണുക. വിലാപ കവിതകൾ രണ്ടെണ്ണമാ—<ref target="https://ml.wikipedia.org/wiki/N.K._Desam">എൻ. കെ. ദേശത്തി</ref> ന്റെ
+‘ശോഭ’, <ref target="https://ml.wikipedia.org/wiki/Vennikkulam_Gopala_Kurup">വെണ്ണിക്കുളം
+ഗോപാലക്കുറുപ്പി</ref> ന്റെ ‘കുങ്കുമക്കുറികൾ’ ആയിടെ ആത്മഹത്യ ചെയ്ത പ്രമുഖ
+സിനിമാതാരത്തെക്കുറിച്ചാണു് ദേശത്തിന്റെ കവിത—ശോഭ അഭിനയിച്ച ഉൾക്കടൽ, ശാലിനി എന്റെ കൂട്ടുകാരി,
+പശി, ഏകാകിനി, എന്റെ നീലാകാശം തുടങ്ങിയ ചിത്രങ്ങളുടെ പേരുകൾ കൂട്ടിച്ചേർത്തു് ഒരു കസർത്തു്.
+</p>
+          <lg>
+            <l> “ഇരുളുന്നിതെന്റെ നീലാകാശം; വെള്ളി-</l>
+            <l> മുകിൽ മാലയും മുല്ല മലർമാലയും മങ്ങി</l>
+            <l> വിളറുന്നു, ഹാ, നരച്ചിരുളുന്നു;</l>
+            <l> നിറതിങ്കളേ, നിൻ നിലാവെളിച്ചം വീണ്ടു-</l>
+            <l> മിനിവന്നുദിക്കയില്ലെന്നതോർക്കേ,കറു-</l>
+            <l> ത്തിരുളുന്നിതെൻ മാനസാകാശം” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് വിലപിക്കുന്നതിനോടൊപ്പം</p>
+          <lg>
+            <l> “ഇവിടെപ്പൊലിഞ്ഞ പൊൻ</l>
+            <l>താരകേ, നീ പുനർ </l>
+            <l> ജ്ജനി വരിക്കാം സ്വർഗതാരമായ്, സന്താന</l>
+            <l> വനിയിൽ നറുപൂവാ, യൊരപ്സരസ്സായ്,</l>
+            <l> ഉലകം നിനക്കുചിതമല്ലുമ്പർനാട്ടിലേ-</l>
+            <l> ക്കുയരേണ്ടുമുവർശിയല്ലയോ നീ?” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നൊക്കെ സമാശ്വസിക്കുന്നുമുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/umaran_Asan_1973_stamp_of_India.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുമാരനാശാൻ</figDesc>
+          </figure>
+          <p> ഭാരതയുവലോക ചൈതന്യ പ്രതീകമായ് ഭാനുമൽ പ്രതാപനായ് ധീരതാനിലയമായ്, വിശ്രുത
+കൈലാസത്തിൻ തുംഗമാം ശിഖരത്തിൽ വിദ്യോതിച്ചിരുന്നൊരാവിക്രമിയുടെ—<ref target="https://ml.wikipedia.org/wiki/Sanjay_Gandhi">സഞ്ജയ്ഗാന്ധി</ref>
+യുടെ—അകാലമൃത്യുവിനെക്കുറിച്ചാണു് വെണ്ണിക്കുളത്തിന്റെ കവിത.
+</p>
+          <lg>
+            <l> “അക്ഷയശോഭാപൂരംതൂകിനിന്നുൽഭാസിച്ച</l>
+            <l> നക്ഷത്രം പൊലിഞ്ഞു</l>
+            <l>പോയ്ക്കണ്ണൊന്നുചിമ്മുംമുമ്പേ</l>
+            <l> അക്ഷരപാഠാരാംഭം തൊട്ടുതൻമുത്തച്ഛന്റെ </l>
+            <l> ശിക്ഷണം നേടിനേടിത്തെളിഞ്ഞ ജനപ്രിയൻ,</l>
+            <l> ഉജ്വലവീര്യത്തിന്റെ ചട്ടയുമണിഞ്ഞു</l>
+            <l>കൊണ്ടർജുനാത്മജനെപ്പോലടരാടിയ ധീരൻ.</l>
+            <l> ജന്മഭൂചരിതാർഥയാകുവാനൊരുക്കിയ </l>
+            <l> കർമവൈഭവത്തിന്റെ</l>
+            <l> കാതലായ്ക്കാണപ്പെട്ടോൻ</l>
+            <l> മിഴിനീർക്കടലിങ്കലമ്മയെ, ജ്ജനങ്ങളെ </l>
+            <l> മുഴുകുംമട്ടിലാക്കീ ഭാരതാംബികയേയും…” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p><ref target="https://ml.wikipedia.org/wiki/Monisha">മോനിഷാ ഉണ്ണി</ref>
+കാറപകടത്തിൽ കൊല്ലപ്പെട്ടപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/N.K._Desam">എൻ. കെ. ദേശം</ref>
+കവിതയൊന്നും എഴുതിക്കണ്ടില്ല. ശ്രീപെരുമ്പത്തൂർ സ്ഫോടനത്തിനു മുമ്പുതന്നെ <ref target="https://ml.wikipedia.org/wiki/Vennikkulam_Gopala_Kurup">ഗോപാലക്കുറുപ്പ്</ref>
+ദിവംഗതനാകുകയും ചെയ്തു. കൈരളിയുടെ മഹാനഷ്ടങ്ങൾ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Indira_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദിരാഗാന്ധി</figDesc>
+          </figure>
+          <p> വേദവേദാന്ത വിജ്ഞാനവിത്തും ശ്രീനാരായണധർമം പിഴിഞ്ഞ സത്തുമായിരുന്നു ഇക്കഴിഞ്ഞ ജൂലൈ
+ഒന്നാം തീയതി ജലസമാധിയായ <ref target="https://ml.wikipedia.org/wiki/Swami_Saswathikananda">സ്വാമി
+ശാശ്വതികാനന്ദ</ref>. <ref target="https://ml.wikipedia.org/wiki/Nataraja_Guru">നടരാജഗുരു</ref>
+മുതൽക്കിങ്ങോട്ടു് എത്രയോ ശിഷ്യന്മാരുണ്ടായിട്ടുണ്ടു് ഗുരുദേവനു്. എന്നാൽ, അവർക്കാർക്കും ശാശ്വതികാനന്ദന്റെ
+ഗ്ലാമറുണ്ടായിരുന്നില്ല. ശിവഗിരി മഠാധിപതിയായിരുന്നപ്പോഴും അല്ലാഞ്ഞപ്പോഴും സ്വാമിയായിരുന്നു
+ശ്രീനാരായണീയരുടെ കൺകണ്ട ദൈവം. കള്ളച്ചൂതിൽത്തോറ്റു് അധികാരഭ്രഷ്ടനായപ്പോഴോ പിന്നീടു്
+ശിവഗിരിയിൽ പൊലീസ് കർസേവ നടത്തിയപ്പൊഴോ സ്വാമി കുലുങ്ങിയില്ല. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref>
+ക്കെതിരെ തെരഞ്ഞെടുപ്പു് പ്രചാരണം നടത്താനോ വിരുദ്ധപക്ഷത്തെ സന്ന്യാസികൾക്കെതിരെ നിയമയുദ്ധം
+നടത്താനോ കാഷായവസ്ത്രം തടസ്സമായുമില്ല. കോടതി വിധിയെ തുടർന്നു് നടന്ന തെരഞ്ഞെടുപ്പിൽ തന്റെ
+പാനൽ എല്ലാ സീറ്റും നേടിയിട്ടും മഠാധിപതി സ്ഥാനത്തുനിന്നൊഴിഞ്ഞുനിൽക്കാനുള്ള ആർജവവും അദ്ദേഹം
+പ്രദർശിപ്പിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Satchidanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">സച്ചിദാനന്ദൻ</figDesc>
+          </figure>
+          <p> സ്വാമിയുടെ അകാല വിയോഗം സാംസ്ക്കാരിക കേരളത്തെ അക്ഷരാർഥത്തിൽ ഞെട്ടിച്ചു. ശിവഗിരിയെ
+കാവിവത്ക്കരണത്തിൽനിന്നു് രക്ഷിച്ച കർമയോഗിയായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Swami_Saswathikananda">ശാശ്വതികാനന്ദ</ref>
+യെന്നു് കമ്യൂണിസ്റ്റുകാർ; ഹൈന്ദവ സംസ്കാരത്തിന്റെ പതാഹാവാഹകനായിരുന്നെന്നു് സംഘപരിവാർ.
+സ്വാമിയുടെ നന്മകൾ ലേഖനരൂപത്തിലാക്കി, <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">സുകുമാർ
+അഴീക്കോട്</ref>. <ref target="https://ml.wikipedia.org/wiki/M._K._Sanu">എം. കെ. സാനു</ref> മൗനം
+പാലിച്ചു. <ref target="https://en.wikipedia.org/wiki/Thottam_Rajasekharan">തോട്ടം
+രാജശേഖരൻ</ref> സ്വാമിയെ മദ്യപനും ദുർവൃത്തനുമാക്കി ചിത്രീകരിച്ചു.
+</p>
+          <lg>
+            <l> നന്മയെച്ചൊല്ലി വിനിശ്വസിക്കാം ചിലർ,</l>
+            <l> തിന്മയെപ്പറ്റിയേ പാടൂ ലോകം!</l>
+            <l>
+(ജി. ശങ്കരക്കുറുപ്പ്, ഓടക്കുഴൽ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fleft" type="gra">
+            <graphic url="images/NKDesam.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. കെ. ദേശം</figDesc>
+          </figure>
+          <p> ഇതൊക്കെയാണെങ്കിലും വിലാപകാവ്യമെഴുതാൻ കവികളാരും മുന്നോട്ടുവന്നില്ല. <ref target="https://ml.wikipedia.org/wiki/M._P._Appan">എം. പി. അപ്പൻ</ref> മുതൽക്കു്
+ശ്രീനാരായണീയരായ കവികൾ തന്നെ എത്രയോ പേരുണ്ടു്. എന്നാൽ, I weep for Adonais—he is dead!
+എന്നു് വിലപിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/Percy_Bysshe_Shelley">ഷെല്ലി</ref>,
+“ഇവിടെ മഞ്ഞുസുമേരുവിന്മേൽ കൽപദ്രുമത്തിനുടെ കൊമ്പിൽ വിരിഞ്ഞിടാം നീ”യെന്നു് സമാശ്വസിപ്പിക്കാൻ
+<ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">കുമാരനാശാൻ</ref>
+
+ഇല്ലാതെ പോയി. നമ്മുടെ സംസ്കാരലോപം.
+</p>
+          <p>സ്വാമിയുടെ അപദാനങ്ങൾ പാടിപ്പുകഴ്ത്തിയ കേരളകൗമുദിയുടെ ജൂലൈ രണ്ടാം തീയതിയിലെയും മൂന്നാം
+തീയതിയിലെയും ലക്കങ്ങൾക്കു് എത്ര ആയുസ്സുണ്ടു്? ഏറ്റവും കൂടിയതു് 24 മണിക്കൂർ. ഏതു പത്രവാർത്തക്കും
+ആയുസ്സു് അത്രയേയുള്ളൂ. മറിച്ചു് <ref target="https://ml.wikipedia.org/wiki/Percy_Bysshe_Shelley">ഷെല്ലി</ref> യുടെ
+‘<ref target="https://en.wikipedia.org/wiki/Adonais">അഡോണൈസ്</ref> ’
+ആണെങ്കിൽ ഇംഗ്ലീഷ് ഭാഷയുള്ളിടത്തോളം കാലം നിലനിൽക്കും. അതാണു് കവിതയുടെ ശക്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ആന്റണി</figDesc>
+          </figure>
+          <p> സ്വാമിതൃപ്പാദങ്ങളുടെ മഹച്ചരമത്തെക്കുറിച്ചു് വിലാപകാവ്യമെഴുതാൻ മഹാകവികൾ മടിച്ചുനിന്നാൽ
+പിന്നെയെന്താണു് കരണീയം? വെറും കവികൾ ആ ജോലി ഏറ്റെടുക്കുക. അവരും വിസമ്മതിച്ചാലോ?
+കവികളേയല്ലാത്തവർ പരിശ്രമിക്കുക. അങ്ങനെയാണു് കുമാരി ജസ്റ്റിസ് എ. ലക്ഷ്മിക്കുട്ടി ‘ഒരു നൊമ്പരം’
+എഴുതിയതു്. ആഗസ്റ്റ് 28-ാം തീയതി (ചിങ്ങം 12) അതു് കേരളകൗമുദി പത്രത്തിന്റെ എഡിറ്റ് പേജിൽ
+കവയിത്രിയുടെ ചിത്രം സഹിതം അച്ചടിച്ചുവരുകയും ചെയ്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Monisha.jpg" rendition="gra"/>
+            <figDesc style="thumb">മോനിഷാ ഉണ്ണി</figDesc>
+          </figure>
+          <p> ജസ്റ്റിസ് ലക്ഷ്മിക്കുട്ടി, പേരു സൂചിപ്പിക്കുന്നപോലെ കേരള ഹൈക്കൊടതിയിലെ ഒരു ന്യായാധിപയാണു്.
+1985-ൽ ജില്ലാ ജഡ്ജിയായി നേരിട്ടു് തെരഞ്ഞെടുക്കപ്പെട്ടതാണു്. എന്നാൽ, കമ്യൂണൽ റൊട്ടേഷൻ പ്രകാരം
+ഒന്നാമതായി നിയമനം ലഭിക്കേണ്ടിയിരുന്ന ലക്ഷ്മിക്കുട്ടിയെ തഴഞ്ഞു് ലിസ്റ്റിലുണ്ടായിരുന്ന മറ്റു നാലു പേരെ
+(കൃഷ്ണൻ നായർ, ഖാലിദ്, അച്യുതനുണ്ണി, രാജപ്പൻ ആശാരി) നിയമിക്കാനായിരുന്നു അന്നു് നാടുവാണിരുന്ന <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+സർക്കാർ തീരുമാനിച്ചതു്. ഒരു ഈഴവ വനിത തഴയപ്പെട്ടതിനെ എസ്. എൻ. ഡി. പി. യോഗമോ
+ഭരണമുന്നണിയിൽ അംഗമായിരുന്ന സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്കൻ പാർട്ടിയോ അന്നു് ശിവഗിരി മഠാധിപതിയും
+ശ്രീനാരായണ ധർമസംഘം അധ്യക്ഷനുമായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Swami_Saswathikananda">ശാശ്വതികാനന്ദ
+സ്വമി</ref> യെങ്കിലുമോ അപലപിച്ചില്ല. ലക്ഷ്മിക്കുട്ടി കേസിനു പോയി. അപ്പോൾ ലിസ്റ്റ് തന്നെ
+വേണ്ടെന്നുവെക്കും എന്നായി സർക്കാർ നിലപാടു്. ലക്ഷ്മിക്കുട്ടിയെയും മറ്റു നാലു പേരെയും നിയമിക്കണമെന്ന
+ഹൈക്കോടതി വിധിക്കെതിരെ സർക്കാർ അപ്പീൽ പോയി. ഒന്നര വർഷത്തിനു ശേഷം 1987-ൽ സുപ്രീം കോടതി
+വിധി പ്രകാരമാണു് അവർക്കു് നിയമനം ലഭിച്ചതു്. കൊല്ലം, മാവേലിക്കര, പത്തനംതിട്ട, തൊടുപുഴ, ആലപ്പുഴ
+എന്നിവിടങ്ങളിൽ ജില്ലാ ജഡ്ജിയായി പരിലസിച്ചു. 2000-മാണ്ടു് ജൂലൈ 12-നു് ഹൈക്കോടതി ജഡ്ജിയായി
+ഉയർത്തപ്പെട്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sanjay_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">സഞ്ജയ്ഗാന്ധി</figDesc>
+          </figure>
+          <p> തിരുവനന്തപുരത്തു് വക്കീലായിരിക്കുമ്പോഴോ പിന്നീടു് ജഡ്ജിയായ ശേഷമോ ലക്ഷ്മിക്കുട്ടി കവയിത്രിയായി
+അറിയപ്പെട്ടിട്ടില്ല. സ്വാമികളുടെ ആകസ്മിക മരണം ന്യായാധിപയിലെ കവയിത്രിയെ തട്ടിയുണർത്തിയതാകാം.
+</p>
+          <lg>
+            <l> “ഓരോരോ മനുഷ്യനും</l>
+            <l> ഓരോരോ ദൗത്യത്തിനായ് </l>
+            <l> പിറന്നീടുന്നു ഭൂവിൽ ആയതേ പരമാർഥം” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് അവർ തന്നെ പാടിയിരിക്കുന്നു.
+</p>
+          <lg>
+            <l> “ആ ദിവ്യ തേജസ്സിന്റെ ചേതനയകന്നുപോയ്</l>
+            <l> വിശ്വസിക്കാനാകാതെ ഞങ്ങളും പകച്ചുപോയ്</l>
+            <l> കേട്ടതു ശരിയാകാതിരു-</l>
+            <l>ന്നീടട്ടേയെന്നു പ്രാർത്ഥിച്ചു</l>
+            <l> ദൈവത്തോടു് മനംനൊന്തുരുകി ഞാൻ…” </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fright" type="gra">
+            <graphic url="images/MK_Sanu.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കെ. സാനു</figDesc>
+          </figure>
+          <p> ഇതാണു് ഒരു നൊമ്പര’ത്തിന്റെ ആരംഭം. ഇതിൽ കവിതയെവിടെ? അലങ്കാരമെവിടെ, ചമത്കാരമെവിടെ.
+വൃത്തം സ്രഗ്ദ്ധരയാണോ ശാർദൂലവിക്രീഡിതമാണോ എന്നൊന്നും ചോദിക്കരുതു്. കവിതയിൽ ചോദ്യമില്ല.
+(കോടതിയലക്ഷ്യം പേടിച്ചാകും സാഹിത്യ വാരഫലക്കാരൻ നൊമ്പരത്തെ തൊട്ടില്ല) വൃത്തമോ അലങ്കാരമോ
+അല്ല. കവിയുടെ ആത്മാർഥതയാണു് പ്രധാനം. പിന്നെ, കറതീർന്ന ഗുരുഭക്തി.
+</p>
+          <lg>
+            <l> “അങ്ങുതൻവചനങ്ങൾ മാർഗദീപമാകുവാൻ</l>
+            <l> ഞങ്ങളെയനുഗ്രഹിച്ചീടുക മഹാത്മാവേ!” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന വരികളിൽ നൊമ്പരത്തിന്റെ ആകത്തുക അടങ്ങിയിരിക്കുന്നു.
+</p>
+          <lg>
+            <l> “അങ്ങുതൻ സമാധിയി-</l>
+            <l>ലർപ്പിക്കാൻ മറ്റൊന്നില്ല.</l>
+            <l> കണ്ണുനീർമുത്തല്ലാതെ മറ്റെന്തുനൽകീടുവാൻ” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന രീതിയിൽ കാവ്യം അവസാനിക്കുകയും ചെയ്യുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Swami_Saswathikananda.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്വാമി ശാശ്വതികാനന്ദ</figDesc>
+          </figure>
+          <p> 1956-ൽ പ്രവർത്തനം ആരംഭിച്ചതാണു് കേരളാ ഹൈക്കോടതി. ആനുകാലിക പ്രസിദ്ധീകരണങ്ങളിൽ
+നിയമസംബന്ധമായ ലേഖനമെഴുതിയ ന്യായാധിപർ ഉണ്ടായിട്ടുണ്ടു്. വിധിന്യായത്തിലുടനീളം <ref target="https://ml.wikipedia.org/wiki/John_Keats">കീറ്റ്സും</ref> <ref target="https://ml.wikipedia.org/wiki/Percy_Bysshe_Shelley">ഷെല്ലി</ref> യും
+
+കോരിനിറച്ച ഒരു ജഡ്ജി മുമ്പുണ്ടായിരുന്നു. ഒരു പ്രമുഖ സാഹിത്യകാരന്റെ സഹോദരൻ നേരത്തെ
+ജഡ്ജിയായിരുന്നു. അനന്തരവൻ ഇപ്പോൾ ജഡ്ജിയാണു്. മറ്റൊരു ന്യായാധിപന്റെ ജാമാതാവു് മൺമറഞ്ഞ
+മഹാസാഹിത്യകാരന്റെ മകനാണു്. പിന്നെ, കോടതി മുറിയിലെ തിരക്കുകൾക്കിടയിലും നിയമപ്രശ്നങ്ങളുടെ
+നൂലാമാലകളിലും മലയാളമനോരമ വായിച്ചു് ജീവിതഗന്ധിയായ കഥകൾ ആസ്വദിച്ചിരുന്ന ഒരാളും ഉണ്ടായിരുന്നു.
+ഇത്രക്കേയുള്ളൂ. ഹൈക്കോടതിയുടെ സാഹിത്യബന്ധം. ഇതാദ്യമായാണു് നീതിയുടെ വൃക്ഷത്തിൽനിന്നു്
+കുയിലിന്റെ കൂജനം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sukumar_azhikode.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുകുമാർ അഴീക്കോട്</figDesc>
+          </figure>
+          <p> Our sweetest songs are those that tell of saddest thought എന്നു പറഞ്ഞുവെച്ചിരിക്കുന്നു.
+ആംഗലകവി <ref target="https://ml.wikipedia.org/wiki/Percy_Bysshe_Shelley">ഷെല്ലി</ref>.
+അതുകൊണ്ടാണു് <ref target="https://ml.wikipedia.org/wiki/Swami_Saswathikananda">ശാശ്വതികാനന്ദ</ref>
+സ്വാമിയുടെ വിയോഗം സൃഷ്ടിച്ച വേദനയിലും നാം ജസ്റ്റിസ് ലക്ഷ്മിക്കുട്ടിയുടെ കവിതക്കായി—കാതോർക്കുന്നതു്.
+</p>
+          <lg>
+            <l> മൂടുകഹൃദന്തമേ മുഗ്ധഭാവനകൊണ്ടീ</l>
+            <l> മൂകവേദനകളെ; മുഴുവൻ മുത്താകട്ടെ. </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Neethivrikshaththile Kuyil (ml:
+നീതിവൃക്ഷത്തിലെ കുയിൽ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Neethivrikshaththile Kuyil, കെ. രാജേശ്വരി, നീതിവൃക്ഷത്തിലെ കുയിൽ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Illustrations_of_the_Nests_and_Eggs_of_Birds_of_Ohio__Plate_II_-_Smithsonian.jpg">Nests and Eggs of Birds of Ohio,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Genevieve_Estelle_Jones">Genevieve
+Estelle Jones</ref>  (1847–1879). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kuyil.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kuyil.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കയ്പു്</title>
+          <title xml:lang="en" type="main">Kayppu</title>
+        </title>
+        <author>KGS, A. Prathapan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">November 25, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കയ്പു്</title>
+              <title xml:lang="en" type="main">Kayppu</title>
+            </title>
+            <author>KGS, A. Prathapan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-01-15</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>KGS</term>
+          <term>Kayppu</term>
+          <term>A. Prathapan</term>
+          <term>കെ ജി എസ്</term>
+          <term>എ. പ്രതാപൻ</term>
+          <term>കയ്പു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-01-15</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Klee-angelus-novus.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Klee-angelusnovus.jpg">Angelus Novus,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Paul_Klee">Paul Klee</ref>
+ (1879–1940). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കയ്പു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ ജി എസ്, എ. പ്രതാപൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കയ്പു്</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-kaipu-02.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <lg>
+            <l> കയ്പാലിത്തിരി പുരളാതില്ലൊരു നേരും; കണ്ണീ-</l>
+            <l> രില്ലാതില്ലൊരു കണ്ണും. </l>
+          </lg>
+          <lg>
+            <l> ഉറ്റവരെവിടെ?</l>
+            <l> ഊരെവിടെ? കാണാ-</l>
+            <l> തായതു് സ്വർഗ്ഗം.</l>
+          </lg>
+          <lg>
+            <l> തേടാതെങ്ങനെ? </l>
+            <l> അടയാളങ്ങൾ മറഞ്ഞെന്നാലും?</l>
+            <l> ആശയിരുണ്ടെന്നാലും? </l>
+            <l> വരുമാരെങ്കിലുമെന്നൊരു നെഞ്ചിൽ</l>
+            <l> മിടിപ്പുണ്ടേലോ? </l>
+          </lg>
+          <lg>
+            <l> സന്നാഹങ്ങൾ പെരുക്കിയിറങ്ങി.</l>
+            <l> പലനാൾ മേലും കീഴും പരതി.</l>
+            <l> മുന്നും പിന്നും പരതി.</l>
+            <l> അടവും തുറവും പരതി. </l>
+          </lg>
+          <lg>
+            <l> ജെ സി ബിത്തൊട്ടിലിലാടി</l>
+            <l> ഉറ്റവർ ചിലരുണരാതെത്തി.</l>
+            <l> മേൽപ്പുര കീഴ്പ്പുര പോയൊരു ജന്നൽ</l>
+            <l> തല വിട്ടു് തുറിച്ചൊരു കണ്ണായ്.</l>
+            <l> അതു് കണ്ടതുമൊരു കാറ്റും</l>
+            <l> പരിചിതമല്ലാ ലോകം.</l>
+          </lg>
+          <lg>
+            <l> കിട്ടിയ കീറർത്ഥങ്ങൾ</l>
+            <l> കയ്പ്പേറും സൂചനകൾ.</l>
+            <l> നാഗരികാർത്തികൾ പൊന്മുട്ടകൾ</l>
+            <l> തേടിത്തോണ്ടിയ ഖനികൾ</l>
+            <l> നാടിൻ കൂട്ട മൃതിക്കുഴിയായി.</l>
+            <l> ഭാവിയിലേക്കു് കുതിച്ച പദങ്ങൾ</l>
+            <l> പ്രാചീനതയിൽ ചിന്നിച്ചിതറി.</l>
+            <l> ഉയരത്തിനൊരുങ്ങിയതെല്ലാം</l>
+            <l> പാതാളത്തിലടങ്ങിയമർന്നു. </l>
+          </lg>
+          <lg>
+            <l> തേടാതെങ്ങനെ, എന്നാലും?</l>
+          </lg>
+          <lg>
+            <l> മണ്ണിന്നടിയിൽ, പാറയ്ക്കടിയിൽ, </l>
+            <l> ചേറ്റുകയത്തിൽ താഴും വാക്കിൽ </l>
+            <l> എല്ലാറ്റിലുമുള്ള തുടക്കത്തിൽ </l>
+            <l> എവിടെയുമാഴുമൊടുക്കത്തിൽ </l>
+            <l> എല്ലാറ്റിലുമുള്ള കയത്തിൽ </l>
+            <l> കരിവെയിലെരിയും മൌനത്തിൽ</l>
+            <l> കൂനിയിരിക്കുന്നുണ്ടാവാം</l>
+            <l> കാണാതായ മുതിർന്നോർ.</l>
+          </lg>
+          <lg>
+            <l> മൃതിയിലുമൊരു കളിമൈതാനം</l>
+            <l> കണ്ടു് കിടാങ്ങൾ </l>
+            <l> കളിയാടുകയാവാമവിടെ.</l>
+          </lg>
+          <lg>
+            <l> തെരയാതെങ്ങനെ?</l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-kaipu-03.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> കൈവരുമെന്തു് തെരഞ്ഞാലും?</l>
+            <l> മണ്ണിൽത്താഴും രണ്ടോ മൂന്നോ </l>
+            <l> മുടിയിഴ വിരലിലിഴഞ്ഞാലായി. </l>
+          </lg>
+          <lg>
+            <l> തെരയാതെങ്ങനെ, എന്നാലും?</l>
+          </lg>
+          <lg>
+            <l> തീയെ തീയിലുരുക്കിയിരുന്നൂ വിജ്ഞർ</l>
+            <l> പ്രതിയെ പ്രതിയിലുരുക്കിയിരുന്നൂ പോലീസ്;</l>
+            <l> തെളിയാൻ നിഴലില്ലാപ്പൊരുൾ:</l>
+          </lg>
+          <lg>
+            <l> ഒച്ചയിലുയരും മൂകത നേരോ?</l>
+            <l> ചിരിയിലൊലിക്കും കണ്ണീർ നേരോ?</l>
+            <l> വിരിയലിൽ വിളയും കരിയൽ നേരോ?</l>
+            <l> നേരോ, കുതികളിലുറയുമനങ്ങായ്ക?</l>
+            <l> അറിവേക്കാൾ അറിവില്ലായ്കകൾ</l>
+            <l> വാഴും പുരമോ നമ്മുടെ പ്രജ്ഞ? </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-santhosh-t.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>ചിത്രങ്ങൾ: വി. ആർ. സന്തോഷ് (‘സ്റ്റഡീസ് ഓൺ റോബോട്ടിക് മൻ’ എന്ന സീരീസിൽ നിന്നു് ).
+
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+      <div type="lchapter" xml:id="lchp2">
+        <head type="lchaphead">കെ. ജി. എസ്. കവിതയിൽ കുഴിച്ചെടുക്കുന്നതു്</head>
+        <div type="lsection">
+          <p style="noindent">(‘കയ്പി’ന്റെ ഒരു വായനാനുഭവം)
+</p>
+          <p style="noindent">—എ. പ്രതാപൻ
+</p>
+          <p>ചക്കരപ്പന്തലിൽ തേന്മഴ ചൊരിയുന്ന, പാടാനോർത്ത ആ മധുരിത കാലത്തു നിന്നു് ഓടാതിരിക്കാൻ വയ്യ.
+ആ പ്രമേഹ ബാധിത ഭൂതകാലത്തിനു് പ്രതിവിധിയായി കയ്പുനീരു കുടിച്ചേ മതിയാവൂ. നിങ്ങൾ രാവിലെ
+ഊതിയാറ്റി കുടിക്കുന്ന ചായ ഞങ്ങളുടെ ചോരയാണു് എന്നാണു് പെട്ടിമുടിയിലെ കുരുതിക്കു ശേഷം മൂന്നാറിലെ
+ആൺപിളൈ ഒരുമകൾക്കു മുന്നിൽ തോറ്റുപോയ ഗോമതി എന്ന പെൺപിള കേരളത്തോടു് പറഞ്ഞതു്. നമ്മുടെ
+ചായക്കോപ്പകളിൽ ഒരു കൊടുങ്കാറ്റും വീശിയില്ല, എങ്കിലും പിന്നീടു് ചായ കുടിക്കുമ്പോൾ ഒരു കയ്പു് എന്റെ കൂടെ
+വന്നു. കയ്ക്കുന്ന പഞ്ചസാര (bitter sugar) എന്ന ഡൊമിനിക്കൻ റിപ്പബ്ലിക്കിലെ കരിമ്പിൻ തോട്ടങ്ങളിലെ
+ഹെയ്ത്തിയൻ തൊഴിലാളികളുടെ ഭീകര ജീവിതത്തെക്കുറിച്ചുള്ള പുസ്തകം പണ്ടു് വായിക്കുമ്പോൾ തോന്നിയതു
+പോലെ കെ. ജി. എസ്സിന്റെ ‘കയ്പു്’ എന്ന കവിതയിൽ ഞാനതു വീണ്ടും അനുഭവിക്കുന്നു.
+</p>
+          <p>ഇത്തിരി കയ്പു് പുരളാത്ത ഒരു നേരുമില്ല, കണ്ണീരില്ലാത്ത കണ്ണു പോലെ എന്നാണു് നേരിന്റെ മുന്നിലെ
+കെ. ജി. എസ്സിന്റെ കവിതക്കാഴ്ച. ഒരു നിമിഷം കൊണ്ടു് അപ്രത്യക്ഷമായ സ്വർഗ്ഗ ഭൂമിയിൽ കളഞ്ഞു പോയ ഊരും
+ഉറ്റവരും. ആശകൾ അവസാനിക്കുമ്പോഴും ആരെങ്കിലും വരുംവരും എന്ന പ്രതീക്ഷയിൽ മണ്ണിന്നടിയിൽ ഒരു
+നെഞ്ചിടിപ്പു് ബാക്കി കിടപ്പുണ്ടെങ്കിലോ എന്നു് പിന്നെയും തേടിക്കൊണ്ടിരിക്കുന്നു. ജെസിബിയുടെ തൊട്ടിലിൽ
+ഇനിയുണരാത്ത നിത്യനിദ്രയിലാണു് തിരിച്ചു വരുന്ന ഉറ്റവർ. മേൽപ്പുരയും കീഴ്പ്പുരയും പോയി തലവിട്ടു് തെറിച്ച
+കണ്ണു പോലെ ഒരു ജനൽ ബാക്കിയായി. നാഗരികതയുടെ ആർത്തികൾ പൊന്മുട്ടകൾ തേടി കുഴിച്ച ഖനികൾ
+ഒരു നാടിന്റെ മൊത്തം ശവക്കുഴിയായി മാറി.</p>
+          <lg>
+            <l> “ഭാവിയിലേക്കു് കുതിച്ച പദങ്ങൾ</l>
+            <l> പ്രാചീനതയിൽ ചിന്നിച്ചിതറി.</l>
+            <l> ഉയരത്തിനൊരുങ്ങിയതെല്ലാം</l>
+            <l> പാതാളത്തിലടങ്ങിയമർന്നു.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഈ വരികൾ വായിച്ചപ്പോൾ ഞാൻ <ref target="https://en.wikipedia.org/wiki/Walter_Benjamin">വാൾട്ടർ ബെഞ്ചമി</ref>
+നെ ഓർത്തു. ചരിത്ര ദർശനത്തെക്കുറിച്ചുള്ള തിസീസുകളിൽ ബെഞ്ചമിൻ <ref target="https://en.wikipedia.org/wiki/Paul_Klee">പോൾ ക്ലീ</ref> യുടെ ഒരു
+പെയിന്റിങിനെക്കുറിച്ചു പറയുന്നു. “താൻ സൂക്ഷ്മമായി ധ്യാനിച്ചു കൊണ്ടിരിക്കുന്ന ഒന്നിൽ നിന്നു്
+അകലാനൊരുമ്പെടുന്ന ഒരു മാലാഖയുടെ ചിത്രം. തുറിച്ചു നോക്കുന്ന കണ്ണുകൾ, തുറന്ന വായ, വിടർന്ന ചിറകുകൾ.
+ചരിത്രത്തിന്റെ മാലാഖ ഇങ്ങനെ വരയപ്പെടുന്നു. അതിന്റെ മുഖം ഭൂതത്തിലേക്കു് തിരിഞ്ഞിരിക്കുന്നു.
+സംഭവങ്ങളുടെ പരമ്പരയായി നാം കാണുന്നതു് ഒരൊറ്റ ദുരന്തമായി അതിനു കാണാം. ആ ദുരന്തത്തിന്റെ
+അവശിഷ്ടങ്ങൾ അതിന്റെ കാൽക്കീഴിൽ കുമിഞ്ഞു കൂടിയിരിക്കുന്നു. അവിടെത്തന്നെ തുടരാൻ, മരിച്ചവരെ
+ഉണർത്താൻ, പൊട്ടിച്ചിതറിയതിനെ ഒരുമിച്ചു ചേർക്കാൻ അതു് കൊതിക്കുന്നുണ്ടാവണം. പക്ഷേ, സ്വർഗ്ഗത്തിൽ
+നിന്നു് വലിയ കൊടുങ്കാറ്റു് വീശുകയാണു്. അതിന്റെ തീവ്രതയിൽ ചിറകുകൾ അടയ്ക്കാനാകുന്നില്ല. താൻ പുറം
+തിരിഞ്ഞിരിക്കുന്ന ഭാവിയിലേക്കു് ആ കൊടുങ്കാറ്റു് മാലാഖയെ പായിച്ചു കൊണ്ടിരിക്കുന്നു. നാശാവശിഷ്ടങ്ങൾ
+ആകാശത്തോളം കുന്നുകൂടുന്നു. ആ കൊടുങ്കാറ്റിനെ നമ്മൾ പുരോഗതി എന്നു വിളിക്കുന്നു.” പോൾ ക്ലീയുടെ
+മാലാഖയെ പറപ്പിച്ചു വിട്ട പുരോഗതിയുടെ ആ കൊടുങ്കാറ്റു് കെ. ജി. എസ്. കവിതയിലെ ഈ
+വരികൾക്കിടയിലൂടെ ചിറകടിച്ചു പോയി.</p>
+          <lg>
+            <l> “ചേറ്റുകയത്തിൽ താഴുന്ന വാക്കിലും,</l>
+            <l> എല്ലാറ്റിലുമുള്ള കയത്തിലും</l>
+            <l> മൗനത്തിൽ കൂനിയിരിക്കുന്നുണ്ടാവും</l>
+            <l> കാണാതായ മുതിർന്നവർ” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു കഴിഞ്ഞു്</p>
+          <lg>
+            <l> “മൃതിയിലുമൊരു കളി മൈതാനം</l>
+            <l> കണ്ടു കിടാങ്ങൾ</l>
+            <l> കളിയാടുകയാവാമവിടെ” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു വായിക്കുമ്പോൾ നിഷ്കളങ്കരായ കുഞ്ഞുങ്ങളുടെ മരണത്തെച്ചൊല്ലി ദൈവത്തെ വിചാരണ ചെയ്യുന്ന
+ഒരു കാരമസോവ് കലഹം തൊണ്ടയെ വീർപ്പു മുട്ടിച്ചു.</p>
+          <lg>
+            <l> “വിഫലമായ തിരച്ചിലുകൾക്കൊടുവിൽ </l>
+            <l> ഒച്ചയിലുയരുന്ന മൂകതയുടെ, </l>
+            <l> ചിരിയിലൊലിക്കുന്ന കണ്ണീരിന്റെ,</l>
+            <l> വിരിയലിൽ വിളയുന്ന കരിയലിന്റെ,</l>
+            <l> കുതികളിൽ ഉറയുന്ന അനങ്ങായ്കകളുടെ,</l>
+            <l> അറിവിലെ അറിവില്ലായ്മകളുടെ” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഒക്കെ നേരിൽ കയ്പിനെ തിരഞ്ഞു കൊണ്ടേയിരിക്കുന്നു ഈ കവിത.
+</p>
+          <p>ഈ കയ്പു് നമ്മുടെ മധുരങ്ങളിൽ നുരയുന്ന കയ്പു തന്നെ എന്നു കിട്ടിയ കീറർത്ഥങ്ങൾ പറയുന്നു.
+</p>
+          <p><ref target="https://en.wikipedia.org/wiki/Bertolt_Brecht">ബ്രെഹ്റ്റി</ref>
+ന്റെ ‘ഹോളിവുഡ് വിലാപഗീതങ്ങ’ളിൽ സ്വർഗ്ഗ മാതൃകയിൽ വിഭാവനം ചെയ്യപ്പെടുന്ന ഹോളിവുഡ് ഗ്രാമത്തെ
+കുറിച്ചു് പറയുന്നു. അന്നാട്ടിലെ ധാരണയനുസരിച്ചു് ദൈവത്തിനു് സ്വർഗ്ഗവും നരകവും ആവശ്യമാണെങ്കിലും അതു്
+രണ്ടു പ്രത്യേക സ്ഥാപനങ്ങളായി വേണ്ട, ഒന്നു മതി, അതു് സ്വർഗ്ഗം തന്നെയാകട്ടെ എന്നാണു തീരുമാനിക്കുന്നതു്.
+ഗതിപിടിക്കാത്ത പരാജിതർക്കു് അതു തന്നെ നരകമായി പ്രവർത്തിച്ചു കൊള്ളും. നമ്മുടെ ഭൂമി ആ ഹോളിവുഡ്
+ഗ്രാമത്തിന്റെ മാതൃകയിൽ തന്നെയാണു് പടുത്തുയർത്തപ്പെട്ടിരിക്കുന്നതു്. വിജയികളുടെ സ്വർഗ്ഗങ്ങൾ തന്നെ
+പരാജിതരുടെ നരകങ്ങൾ എന്നു് പുരോഗതിയുടെ ഓരോ കൊടുങ്കാറ്റുകൾക്കു ശേഷവും നമുക്കു മനസ്സിലാക്കാം.
+സ്വർഗ്ഗദർശനങ്ങൾക്കായി പോകുന്നവർക്കു് സൗജന്യമായി നരകദർശനവും സാദ്ധ്യമാക്കുന്ന ഒന്നു്. നമ്മുടെ
+മധുരങ്ങളൊക്കെയും അപരനു കയ്പായി മാറുന്ന ഒരു രാസവിദ്യ നമ്മുടെ സാമൂഹികതയിൽ ഉൾച്ചേർന്നിരിക്കുന്നു
+എന്ന തിരിച്ചറിവു് ഈ കെ. ജി. എസ്. കവിതയിൽ പ്രവർത്തിക്കുന്നു. ഇതു് നമ്മുടെ നാഗരികതയുടെ കയ്പാണു്,
+എളുപ്പം തുപ്പിക്കളയാനാകാത്ത ഒന്നു്.
+</p>
+          <p>മണ്ണിന്നടിയിൽ അടക്കം ചെയ്യപ്പെട്ട പൗരാണിക നഗരങ്ങളെന്ന പോലെ, ഓർമ്മയിൽ പുതഞ്ഞു കിടക്കുന്നു
+നമ്മുടെ അനുഭവങ്ങൾ. മറവു ചെയ്യപ്പെട്ട സ്വന്തം ഭൂതകാലത്തെ സമീപിക്കുന്ന ഒരുവനു കുഴിവെട്ടുകാരനെ
+പോലെ ആകാതെ വയ്യ. വീണ്ടും വീണ്ടും കിളച്ചു കോരി മറിക്കാതെ വയ്യ (വാൾട്ടർ ബെഞ്ചമിൻ). കവിതയും ഒരു
+ഖനനമാണു്. കെ. ജി. എസ്സിന്റെ കവിതയിൽ ആ കിളയ്ക്കൽ ചരിത്രത്തിന്റെ മേൽമണ്ണു നീക്കുന്ന ഉദാസീന ക്രിയ
+അല്ല. ആഴത്തിലാഴത്തിൽ വീണ്ടെടുക്കപ്പെടാനുള്ള മിടിപ്പുകൾ ഇനിയും ബാക്കിയുണ്ടോ എന്ന
+അവസാനിക്കാത്ത തെരച്ചിലാണതു്. വീട്ടുമുറ്റത്തെ കിണറ്റിൽ നിന്നു് മോഹൻജെദാരോവിലെ മരിച്ചവരുടെ
+മേട്ടിലെ പുഷ്കരത്തോളം എത്തുന്ന ഒന്നു്.
+</p>
+          <p>അറിഞ്ഞതിന്റെ വിപരീതങ്ങളെ ആരായുന്ന ഒരു ചരിത്രബോധമായി അതു് കെ. ജി. എസ്. കവിതകളിൽ.
+സാമ്പ്രദായിക പുരോഗമനത്തിന്റെ ഇത്തിരിവട്ട അധോമുഖ വാമനച്ചുവടുകളിൽ നിന്നു് പിന്നോട്ടു പറക്കുന്ന പോൾ
+ക്ലീയുടെ മാലാഖയുടെ ദുരന്തക്കാഴ്ച ആ കവിതകളെ ഭിന്നമാക്കി. ഒച്ചകളിൽ നിന്നു് നിശ്ശബ്ദതയേയും
+ജടാധാരികളിൽ നിന്നു് കഷണ്ടിക്കാരനേയും ആ കവിതകൾ അഭിമുഖീകരിച്ചു.
+</p>
+        </div>
+        <!--end of "section 0.0/2.1"-->
+        <div type="lsection" xml:id="sec2.2">
+          <head type="lsechead">എ. പ്രതാപൻ</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/aprathapan.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>എ. പ്രതാപൻ, തൃശ്ശൂർ ജില്ലയിൽ ചൂലിശ്ശേരിയിൽ ജനിച്ചു. ഇപ്പോൾ കണ്ണൂരിൽ താമസിക്കുന്നു. ഭാര്യ: മാലതി
+നയൻതാര. മകൻ: ഋത്വിക്ക്.
+</p>
+        </div>
+        <!--end of "section 0.0/2.2"-->
+      </div>
+      <!--end of "chapter 0/2"-->
+      <!--END OF CHAPTER 0/2-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kayppu (ml: കയ്പു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  KGS, A. Prathapan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-01-15. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, KGS, Kayppu, A.
+Prathapan, കെ ജി എസ്, എ. പ്രതാപൻ, കയ്പു്, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 25, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Klee-angelusnovus.jpg">Angelus Novus,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Paul_Klee">Paul Klee</ref>
+ (1879–1940). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kgs-kaipu.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kgs-kaipu.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

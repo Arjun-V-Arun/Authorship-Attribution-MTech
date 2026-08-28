@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചങ്ങമ്പുഴ—ഒരനുസ്മരണം</title>
+          <title xml:lang="en" type="main">Changampuzha—Oranusmaranam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">July 6, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചങ്ങമ്പുഴ—ഒരനുസ്മരണം</title>
+              <title xml:lang="en" type="main">Changampuzha—Oranusmaranam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Changampuzha—Oranusmaranam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ചങ്ങമ്പുഴ—ഒരനുസ്മരണം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 6, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/statue-changampuzha.jpg" width="100%"/>
+          <figDesc>statue of Changampuzha Krishna Pillai at Idappally, Ernakulam, a photograph by
+<ref target="https://en.wikipedia.org/wiki/ml:User:Anee_jose">Anee
+jose</ref>  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചങ്ങമ്പുഴ—ഒരനുസ്മരണം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചങ്ങമ്പുഴ—ഒരനുസ്മരണം</head>
+        <div type="lsection">
+          <floatingText rend="qleft">
+            <body>
+              <p style="noindent">ആരോ പറഞ്ഞുകേട്ട—ഏതോ പഴയ ഗ്രന്ഥത്തിൽ കണ്ട—ഒരു ഫിലോസഫിയുടെ
+മതിൽക്കെട്ടിനുള്ളിൽ അറിവുവച്ച നാൾ മുതൽ പാർപ്പുതുടങ്ങിയിരിക്കുന്നവരാണു് നമ്മിലധികംപേരും. അതിനു
+പുറത്തുള്ള സൂര്യപ്രകാശമേൽക്കാൻ ശക്തിയില്ലാതെ നമ്മുടെ കണ്ണടഞ്ഞുപോകുന്നു.</p>
+            </body>
+          </floatingText>
+          <p style="noindent"> “മേഘജ്യോതിസ്സുതൻ ക്ഷണികജീവിതമല്ലി കാമ്യം” എന്ന കവിവാക്യമാണു്
+ഇതെഴുതുമ്പോൾ മുന്നിട്ടുവരുന്നതു്. ഒരു മേഘ ജ്യോതിസ്സുതന്നെയായിരുന്നു ചങ്ങമ്പുഴ—കേരളമൊട്ടാകെ
+പ്രകാശംവീശിയ ഒരു ക്ഷണപ്രഭാവിളയാട്ടം. ഏതാണ്ടൊരത്ഭുതം തന്നെയായിരുന്നു അതു്—ആ വരവും
+വിലാസവും വിലയവും. മുപ്പത്താറെണ്ണുന്നതിനു മുൻപേ, ആ നന്മ നിറഞ്ഞ ഹൃദയം നിഷ്പന്ദമായിപ്പോയി! <ref target="https://en.wikipedia.org/wiki/John_Keats">കീറ്റ്സ്</ref> ഇരുപത്തിയഞ്ചിൽ
+മരണമടഞ്ഞു. <ref target="https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley">ഷെല്ലി</ref> യും
+<ref target="https://en.wikipedia.org/wiki/Lord_Byron">ബയറണും</ref>
+നാൽപതു തികച്ചില്ല. <ref target="https://ml.wikipedia.org/wiki/Changampuzha_Krishna_Pillai">ചങ്ങമ്പുഴ</ref>
+യും അവരുടെ ചേരിയിൽ ചേർന്നു. അസാധാരണമായ വളർച്ച അൽപ്പായുസ്സിൽ അവസാനിക്കുമായിരിക്കാം.
+ഒറ്റക്കുതിപ്പുകൊണ്ടു്, ഇങ്ങനെ ഇടവും വലവും നോക്കാതെ പെട്ടെന്നു ജനഹൃദയങ്ങളിലേയ്ക്കു പാഞ്ഞുചെന്ന
+മറ്റൊരു കവിയുണ്ടെന്നു തോന്നുന്നില്ല. കൗമാരദശ കഴിഞ്ഞപ്പോഴേയ്ക്കും ഉണ്ടായ ആ ഒറ്റക്കുതിപ്പാണു് <ref target="http://www.changampuzha.com/ghandakavyangal_ramanan.html">രമണൻ</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Percy_Bysshe_Shelley.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷെല്ലി</figDesc>
+          </figure>
+          <p>അതൊന്നുകൊണ്ടുതന്നെ ചങ്ങമ്പുഴ കേരളീയഹൃദയം തീറെഴുതിവാങ്ങി അതിൽ പാർപ്പുറപ്പിച്ചു.
+അവിടെയിരുന്നുകൊണ്ടു് പിന്നെ പാടിയതെന്തും കേരളത്തെ കോൾമയിർക്കൊള്ളിക്കാൻ പര്യാപ്തമായി.
+ആധുനിക കവികളിൽ ആർക്കുംതന്നെ ഇത്രമാത്രം ജനഹൃദയസമ്പർക്കം ലഭിച്ചിട്ടില്ല. ചങ്ങമ്പുഴ പാടിയ ഓരോ
+വരിയും ഹൃദയത്തുടിപ്പായിരുന്നു. അതേറ്റുപാടുന്നവരിലും അതേ ഹൃച്ചലനമുളവാകും.</p>
+          <lg>
+            <l> “കപടലോകത്തിലാത്മാർത്ഥമായൊരു</l>
+            <l> ഹൃദയമുണ്ടായതാണെൻ പരാജയം.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fleft" type="gra">
+            <graphic url="images/John_Keats.jpg" rendition="gra"/>
+            <figDesc style="thumb">കീറ്റ്സ്</figDesc>
+          </figure>
+          <p style="noindent"> ഞാനെപ്പോഴും അയവിറക്കുന്നൊരീരടിയാണിതു്. ചങ്ങമ്പുഴയുടെ സ്വകാര്യ
+ജീവിതത്തെസ്സംബന്ധിച്ചിടത്തോളം ഇതു് അക്ഷരംപ്രതി പരമാർത്ഥമാണു്. ഇത്രയും ആത്മാർത്ഥത നിറഞ്ഞ
+മറ്റൊരുഹൃദയം എന്റെ പരിചയത്തിൽപ്പെട്ടിട്ടില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Byron_Phillips.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബയറൺ</figDesc>
+          </figure>
+          <p> ചങ്ങമ്പുഴ ഒരു ജ്യേഷ്ഠനെപ്പോലെ എന്നെ സ്നേഹിച്ചിരുന്നു. ഇതെഴുതുമ്പോൾ മനസ്സു വളരെ കൊല്ലം
+പുറകോട്ടു പാഞ്ഞുപോകുന്നു. ഇടപ്പള്ളിയിൽ വച്ചു് സാഹിത്യപരിഷത്തിന്റെ പ്രഥമസമ്മേളനം നടന്ന കൊല്ലം.
+സാഹിത്യപഞ്ചാനനൻ <ref target="https://en.wikipedia.org/wiki/P._K._Narayana_Pillai">പി. കെ.</ref>യുടെ അദ്ധ്യക്ഷതയിൽ നടന്ന യോഗത്തിൽ ഞാനൊരു പ്രബന്ധം വായിച്ചുകൊണ്ടു നിൽക്കുമ്പോൾ ഒരു
+കൊച്ചുപയ്യൻ എന്നെ സൂക്ഷിച്ചു നോക്കുന്നുണ്ടായിരുന്നു. സമ്മേളനം കഴിഞ്ഞപ്പോൾ അയാൾ എന്റെ അടുത്തു
+പറ്റിക്കൂടി പരിചയപ്പെടാൻ തരം നോക്കി. ഞാൻ അത്ഭുതപ്പെട്ടു—അന്നു രണ്ടാംഫോറത്തിലോ മറ്റോ പഠിച്ചിരുന്ന
+ആ കൊച്ചു പയ്യനിൽ അങ്കുരിതമായ സാഹിത്യകൗതുകം കണ്ടിട്ടു്. അന്നു കണ്ട കൊച്ചുകുട്ടൻ—അതായിരുന്നു
+ചങ്ങമ്പുഴയുടെ ഓമനപ്പേർ—പിന്നെ എന്റെ മുമ്പിൽ പ്രത്യക്ഷപ്പെട്ടതു് രണ്ടുകൊല്ലം കഴിഞ്ഞു് ആലുവായിൽ
+വച്ചാണു്—അവിടെ സെന്റ് മേരീസ് ഹൈസ്ക്കൂളിൽ പഠിക്കാൻ വന്നപ്പോൾ. അന്നുമുതൽ രണ്ടു മൂന്നുകൊല്ലം
+തുടർച്ചയായി ആഴ്ചതോറും കൊച്ചുകുട്ടൻ എന്നെ വന്നു കാണുക പതിവായിരുന്നു. ദാരിദ്ര്യമർദ്ദനത്താൽ
+പരവശമായൊരു കൃശശരീരം. അതിനകത്തോ, അതിതീവ്രമായ ജ്ഞാനതൃഷ്ണ. പലതും
+ചോദിച്ചറിഞ്ഞുകൊണ്ടിരുന്നതിനിടയ്ക്കു്, സൂര്യൻ, ചന്ദ്രൻ, താമര മുതലായവയുടെ കുറെ പര്യായപദങ്ങൾ വേണം
+ആ കുട്ടിക്കു്. എന്തിനെന്നു ചോദിച്ചാൽ പറകയില്ല. ഓരോ തവണയും ഞാൻ പറഞ്ഞു കൊടുക്കുന്ന പദങ്ങൾ
+എഴുതിക്കൊണ്ടു പോകും. കുറെ ദിവസം കഴിഞ്ഞു് അഞ്ചാറു വരി കവിതയുമായി അടുത്തു വന്നപ്പോഴാണു് കാര്യം
+മനസ്സിലായതു്. കൊച്ചുകുട്ടന്റെ കവനഭ്രാന്തു പഠിത്തത്തിന്നു മുടക്കം വരുത്തരുതെന്നു ഞാനുപദേശിക്കയുണ്ടായി.
+അത്രയ്ക്കു തുള്ളിക്കളിച്ചിരുന്നു ആ കവനൗത്സുക്യം. അടുത്ത ഭാവിയിൽ മലയാളക്കരമുഴുവൻ
+കവനമോഹനപ്പൂനിലാവു പൊഴിക്കാൻപോകുന്ന ബാല ചന്ദ്രനാണു് അന്നെന്റെ മുമ്പിലിരുന്നതെന്നു ഞാൻ
+സ്വപ്നേപി വിചാരിച്ചില്ല. ആലുവാ വിട്ടതിനുശേഷവും ചങ്ങമ്പുഴ ഇടയ്ക്കിടയ്ക്കു് എന്റെ അടുത്തുവരിക പതിവായിരുന്നു.
+എന്തുകൊണ്ടാണെന്നറിഞ്ഞില്ല, ഏതുകാര്യത്തിലും എന്റെ അഭിപ്രായം അന്വേഷിക്കുകയെന്നതു് അദ്ദേഹം ഒരു
+ചടങ്ങാക്കിത്തീർത്തു. ഏതു ജീവിതരഹസ്യവും എന്റെ മുമ്പിൽ തുറന്നുകാണിപ്പാൻ ചങ്ങമ്പുഴ മടിച്ചില്ല.
+വിവാഹകാര്യത്തിൽപ്പോലും അദ്ദേഹം എന്റെ അഭിപ്രായവും അനുമതിയും ആവശ്യപ്പെട്ടു. എന്തൊരു തുറന്ന
+ഹൃദയം! ലളിതമധുരമായൊരു സ്നേഹപ്രവാഹംതന്നെയായിരുന്നു അതു്. ഒരു കരടു പോലും അതിൽ
+തങ്ങിനിന്നിരുന്നില്ല. ജീവിതത്തിലെ അപകടമാർഗ്ഗങ്ങളിൽ സഞ്ചരിക്കുന്നതു കേട്ടു ഞാൻ പലപ്പോഴും
+ചങ്ങമ്പുഴയെ ഗുണദോഷിച്ചിട്ടുണ്ടു്; വെറുപ്പുതോന്നുംവിധം ശകാരിച്ചിട്ടുണ്ടു്. എന്നാൽ തെറ്റും കുറ്റവും ഏറ്റു പറഞ്ഞു
+സ്നേഹബാഷ്പം പൊഴിക്കയല്ലാതെ, ഒരവസരത്തിലും അനിഷ്ട സൂചകമായ ഒരു വാക്കുപോലും ആ ശുദ്ധാത്മാവു്
+എന്നോടു പറഞ്ഞിട്ടില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Narayana_Pillai.png" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ.</figDesc>
+          </figure>
+          <p> വികാരങ്ങളുടെ ഒരു കെട്ടായിരുന്നു ചങ്ങമ്പുഴയുടെ ജീവിതം. ഉപകാര സ്മരണയും കൃതജ്ഞതാബോധവും ആ
+ജീവിതത്തിന്റെ ഓരോ രക്തത്തുള്ളിയിലും കലർന്നിരുന്നു. അന്യരിൽ നിന്നു ലഭിച്ച ഏറ്റവും തുച്ഛമായ സാഹായവും
+അദ്ദേഹം മരണം വരെ നന്ദിപൂർവ്വം സ്മരിച്ചു കൊണ്ടിരുന്നു. വാസ്തവത്തിൽ പറയത്തക്ക ഒരു പ്രോത്സാഹനവും
+എന്നിൽനിന്നുണ്ടായിട്ടില്ല. എന്നിട്ടും എന്നോടെന്തോ കടപ്പാടുണ്ടെന്നാണു് ചങ്ങമ്പുഴ വിശ്വസിച്ചിരുന്നതു്; ആ
+തെറ്റിദ്ധാരണയുടെ ഫലമാണു് യവനികയുടെ സമർപ്പണം. വികാരഭരിതനായി, അതിശയോക്തി കലർത്തി,
+അതിലെന്തൊക്കെ അദ്ദേഹം എഴുതിപ്പിടിപ്പിച്ചിരിക്കുന്നു! അതിനെസ്സംബന്ധിച്ചു ചങ്ങമ്പുഴ എനിക്കയച്ചൊരു
+കത്തു് ഇപ്പോളെടുത്തു വായിച്ചുനോക്കിയപ്പോൾ കണ്ണു നിറഞ്ഞുപോയി. ഹൃദയം ഹൃദയത്തോടു
+സാംസാരിക്കുന്നതെങ്ങനെയെന്നു് അദ്ദേഹത്തിന്റെ കത്തുകൾ വായിക്കുമ്പോഴാണു് എനിക്കനുഭവപ്പെടാറുള്ളതു്.
+ചങ്ങമ്പുഴയുടെ ഒരു കവനസമാഹാരത്തിൽ ‘നല്ലമുട്ടം’ കടന്നു കൂടിയതു കണ്ടു പലരും നെറ്റിചുളിച്ചു. പക്ഷേ,
+അതിന്റെ പിന്നിൽ സ്ഫുരിക്കുന്നതു് ഉപകാരസ്മരണമാത്രമാണെന്നു് അവർ ഓർത്തിരിക്കയില്ല. അതിന്റെ മൂർച്ചയിൽ
+ചങ്ങമ്പുഴയുടെ ഹൃദയം വിഗളിതവേദ്യാന്തരമായിപ്പോകുന്നു. ഔചിത്യവിചാരത്തിന്നു പിന്നെ അവിടെ
+
+സ്ഥാനമില്ല.</p>
+          <lg>
+            <l> “ദാരിദ്ര്യമെന്നുള്ളതറിഞ്ഞവർക്കേ</l>
+            <l> പാരിൽ പരക്ലേശവിവേകമുള്ളൂ” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന ചൊല്ലു് ചങ്ങമ്പുഴയെ സംബന്ധിച്ചിടത്തോളം നൂറുശതമാനവും അർത്ഥവത്താണു്. ഇത്ര
+സ്വാഭാവികമായി ആർജ്ജവസുന്ദരമായ മനസ്സോടെ പരക്ലേശവിവേകം പ്രകാശിപ്പിച്ചിട്ടുള്ളവർ ചുരുക്കമാകുന്നു.
+ജീവിത ക്ലേശങ്ങളുള്ള ഒരു സാഹിത്യകാരൻ തിരുവിതാംകൂർ ജയിലിൽ അടയ്ക്കപ്പെട്ടപ്പോൾ, അദ്ദേഹത്തിന്റെ
+കുടുംബത്തെ സഹായിക്കാനുള്ള പദ്ധതികളാലോചിച്ചു ഞാനുൾപ്പെടെ പലരും കാലം നീട്ടിക്കൊണ്ടിരുന്നു.
+ചങ്ങമ്പുഴ പദ്ധതിനിർമ്മാണത്തിനൊന്നും കാത്തിരുന്നില്ല. ഉടൻ അയച്ചു കൊടുത്തു അപ്പോൾ
+കൈവശമുണ്ടായിരുന്ന നൂറുരൂപ. ഇങ്ങനെ എത്രയെത്ര സംഭവങ്ങൾ അവക്രമൃദുലമായ ആ മനസ്സിന്റെ
+മഹനീയതയെ വെളിപ്പെടുത്തിയിട്ടുണ്ടു്! വിസ്തരിച്ചിട്ടെന്തു ഫലം? എല്ലാം ഞൊടിയിടയിൽ കഴിഞ്ഞു.
+കേരളത്തിന്റെ കണ്ണീർ മാത്രം ശേഷിക്കുന്നു. മരണത്തിനേതാനും ദിവസം മുമ്പു്, തൃശ്ശൂർക്കു് ചികിത്സയ്ക്കായി
+പോകുന്നവഴി എന്റെ വസതിയുടെ പടിക്കൽ കാർ നിർത്തി, അതിനകത്തു് ഒരു വടിയും കുത്തിപ്പിടിച്ചു
+ചാരിയിരുന്ന ആ അസ്ഥിമാത്രൻ എന്നെ അന്വേഷിച്ചു. വിധിവൈപരീത്യം! ഞാനപ്പോൾ കോളേജിലായിരുന്നു.
+വൈകുന്നേരം മടങ്ങിവന്നപ്പോഴാണു് വിവരമറിഞ്ഞതു്. കഷ്ടം! അതവസാനത്തെ അന്വേഷണമായിരുന്നെന്നു്
+ആരറിഞ്ഞു!
+</p>
+          <p style="noindent">“സാധിച്ചു വേഗമഥവാ നിജ ജന്മകൃത്യം” എന്ന ശ്ലോകത്തിൽത്തന്നെ ഈ
+ശോകത്തിനൊരുപശാന്തി തേടാം.
+</p>
+          <p>“ഒന്നുകിൽ ഈശ്വരൻ അല്ലെങ്കിൽ രാജാവു്, അതുമല്ലെങ്കിൽ പൂർവ്വ സൂരികൾ—ചിലപ്പോൾ
+ഇവരെല്ലാംതന്നെ ഒത്തു ചേർന്നൊരു സംഘമായി സാഹിത്യകാരന്റെ മുൻപിലങ്ങനെ വിലങ്ങടിച്ചുനിൽക്കുന്നു!
+അവരെ കാണാത്ത ഭാവംനടിച്ചു കടന്നുപോകാനുള്ള കരൾക്കരുത്തു സാഹിത്യകാരനുണ്ടാകുന്നില്ല.
+കാവടിപോലെ വളഞ്ഞുപൊങ്ങുന്ന ആ നട്ടെല്ലു കാമ്യമായ വിനയത്തിന്റെ വിജയദണ്ഡമായി വാഴ്ത്തപ്പെടുകയും
+ഗതാനുഗതികരായ ആരാധകന്മാരാൽ ആ മാമൂൽതന്നെ തുടർച്ചയായി ആവർത്തിക്കപ്പെടുകയും ചെയ്യുന്നു.”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ramanan_bookCover.jpg" rendition="gra"/>
+          </figure>
+          <p> കോട്ടയത്തുവച്ചു നടന്ന പുരോഗമനസാഹിത്യസമ്മേളനത്തിൽ ചങ്ങമ്പുഴ വായിച്ച അധ്യക്ഷ പ്രബന്ധത്തിലെ
+ഒരു ഭാഗമാണിതു് അദ്ദേഹത്തിന്റെ വിചാര ഗതിയുടെ സ്വഭാവവും സ്വത്രന്തതയും ആ പ്രബന്ധത്തിൽ ആദ്യന്തം
+പ്രതിഫലിക്കുന്നുണ്ടു്. മാനസികമായി ചങ്ങമ്പുഴ ഇത്രത്തോളം സ്വതന്ത്രനാണെന്നു് അന്നാണെനിക്കു നന്നായിട്ടു
+മനസ്സിലായതു്. ഏതാണ്ടൊരു ഉച്ഛൃംഖലത്വം തന്നെ ആ ചിന്താഗതിയിൽ കാണാം. ഒന്നിനും കീഴ്‌വണങ്ങാതെ
+എങ്ങോട്ടെങ്കിലും പാഞ്ഞുപോകുന്ന ഉച്ഛൃംഖലത്വം അഭിലഷണീയമാണോ എന്നു ചോദിക്കുന്നവരുമുണ്ടു്.
+അതിരിക്കട്ടെ. അടിമകളുടെ നടുവിൽനിന്നു ചുരുക്കം ചിലരെങ്കിലും ചങ്ങലപൊട്ടിച്ചോടുന്നതു കാണാനൊരു
+കൗതുകമില്ലേ? എന്തൊരാശ്വാസമാണതു്! ചങ്ങമ്പുഴയുടെ ഓട്ടം അത്തരത്തിലായിരുന്നു. ആരെതിർത്താലും
+അതു വകവയ്ക്കാതെ തന്റെ ബുദ്ധിയിൽ തെളിഞ്ഞതും തനിക്കു തോന്നിയതുമായ വഴിയിലൂടെയുള്ള ആ പോക്കു്
+എന്നെ ഒട്ടധികം രസിപ്പിച്ചു. ആരോ പറഞ്ഞുകേട്ട—ഏതോ പഴയ ഗ്രന്ഥത്തിൽ കണ്ട—ഒരു ഫിലോസഫിയുടെ
+മതിൽക്കെട്ടിനുള്ളിൽ അറിവുവച്ച നാൾ മുതൽ പാർപ്പുതുടങ്ങിയിരിക്കുന്നവരാണു് നമ്മിലധികംപേരും. അതിനു
+പുറത്തുള്ള സൂര്യപ്രകാശമേൽക്കാൻ ശക്തിയില്ലാതെ നമ്മുടെ കണ്ണടഞ്ഞുപോകുന്നു. ഈയൊരു സുഖക്കേടു്,
+ചങ്ങമ്പുഴയെ ബാധിച്ചിരുന്നില്ല. ഇഷ്ടംപോലെ ചിന്തിക്കാൻ വയ്യാത്തവണ്ണം സ്വബുദ്ധിയെ
+സിദ്ധാന്തബദ്ധമാകാതെ അദ്ദേഹം സൂക്ഷിച്ചു. അതിന്മേൽ കടിഞ്ഞാണിട്ടു പിടിക്കാൻ ഒരാചാര്യനും കഴിഞ്ഞില്ല.
+ഒരു മതഗ്രന്ഥവും ആ ധീപ്രസരത്തെ സ്തംഭിപ്പിച്ചില്ല. അനുഭവം, യുക്തി, നവീനവിജ്ഞാനം—ഇവയുടെ
+വെളിച്ചത്തിൽ സ്വച്ഛന്ദം സഞ്ചിക്കുകയാണു് ചങ്ങമ്പുഴ ചെയ്തതു്.
+</p>
+          <p>അദ്ദേഹത്തിന്റെ സുമധുരഗാനങ്ങൾക്കു മാറ്റുകൂട്ടുവാനും ഈ സ്വതന്ത്ര ചിന്ത ഉപകരിച്ചിട്ടുണ്ടു്.
+വിഷാദാത്മകങ്ങളായ പ്രണയഗാനങ്ങൾകൊണ്ടുമാത്രം തൃപ്തിപ്പെടാതെ അദ്ദേഹം കൊള്ളരുതാത്തതൊക്കെ
+‘ചുട്ടെരിക്കാൻ’ കൂടി സന്നദ്ധനായതു് ഇതുകൊണ്ടാണു്. എന്റെ ‘രാമരാജ്യം’ എന്ന ലേഖനത്തെപ്പറ്റി ചങ്ങമ്പുഴ
+എഴുതിയ ഒരു കത്തിലെ ചില ഭാഗങ്ങൾകൂടി ഇവിടെ ചേർക്കട്ടെ.
+</p>
+          <p>
+ശ്രീദേവിമന്ദിരം, ഇടപ്പള്ളി
+
+</p>
+          <p>
+16-11-1120
+</p>
+          <p style="noindent">“പ്രിയപ്പെട്ട സാർ,
+</p>
+          <p style="noindent">……………
+</p>
+          <p>അങ്ങയുടെ ലേഖനം എനിക്കു് എന്തെന്നില്ലാത്ത ഉത്തേജനം നൽകി. എന്റെ രാഷ്ട്രീയ ചിന്താഗതിയോടു്
+ഏറ്റവും അടുത്തുവരുന്ന ആശയങ്ങളാണു് അങ്ങു് അതിൽ സമർത്ഥമാംവണ്ണം ആവിഷ്കരിച്ചിരിക്കുന്നതു്. ജീർണ്ണിച്ച
+ഈ ആർഷസംസ്ക്കാരംതന്നെ, യഥാർത്ഥത്തിൽ, എന്നെ മടുപ്പിക്കുന്നു. അതിന്റെ പൃഷ്ഠം താങ്ങിനിന്നിട്ടാണു്
+ഭാരതീയർ ഇത്രത്തോളം ഭൗതികമായി അധഃപതിച്ചിട്ടുള്ളതെന്നു ഞാൻ ദൃഢമായി വിശ്വസിക്കുന്നു. എനിക്കുള്ള
+സർവ്വശക്തികളും പ്രയോഗിച്ചു് ആ വിധത്തിലുള്ള ചിന്താഗതിയെ മനുഷ്യന്റെ ഭാഷയിൽ എതിർക്കുവാൻ ഞാൻ
+കച്ചകെട്ടിയിരിക്കയാണു്. ‘ചിത്രോദയത്തിൽ’ അടുത്തുവരുന്ന എന്റെ ‘ചുട്ടെരിക്കുവിൻ’ എന്ന കവിത അങ്ങൊന്നു
+വായിച്ചു നോക്കൂ…
+</p>
+          <p>
+ശുഭാശംസയോടെ, സ്നേഹപൂർവ്വം
+</p>
+          <p>
+സ്വന്തം ചങ്ങമ്പുഴ.”
+</p>
+          <p>പലരുടേയും പ്രശംസയ്ക്കു പാത്രീഭവിച്ച ആ ചുട്ടെരിക്കലിനു് എന്റെ ഒരു ലേഖനം പ്രചോദനം നൽകിയതിൽ
+ഞാൻ സന്തോഷിക്കുന്നു. ആ കവിതയിൽ കാണുന്ന എതിർപ്പും സ്വതന്ത്രചിന്തയും കേരളത്തിൽ മേൽക്കുമേൽ
+വളർന്നുവരട്ടെ!
+</p>
+          <p>
+—ദീപാവലി
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, ക്രേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>
+ Changampuzha—Oranusmaranam (ml: ചങ്ങമ്പുഴ—ഒരനുസ്മരണം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Changampuzha—Oranusmaranam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ചങ്ങമ്പുഴ—ഒരനുസ്മരണം,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 6, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  statue of Changampuzha Krishna
+Pillai at Idappally, Ernakulam, a photograph by <ref target="https://en.wikipedia.org/wiki/ml:User:Anee_jose">Anee jose</ref>
+ . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/changampuzha-kuttipuzha.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/changampuzhakuttipuzha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

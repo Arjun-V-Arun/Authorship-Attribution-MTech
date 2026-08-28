@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കവിയുടെ മാമ്പൂ</title>
+          <title xml:lang="en" type="main">Kaviyude Mampu</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">August 8, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കവിയുടെ മാമ്പൂ</title>
+              <title xml:lang="en" type="main">Kaviyude Mampu</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Kaviyude Mampu</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>കവിയുടെ മാമ്പൂ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 8, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Mango_tree_in_full_bloom_01.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Mango_tree_in_full_bloom_01.jpg">Mango
+Tree in Full Bloom,</ref> a photograph by <ref target="https://commons.wikimedia.org/wiki/User:NahidHossain">Nahid
+Hossain</ref>  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കവിയുടെ മാമ്പൂ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കവിയുടെ മാമ്പൂ</head>
+        <div type="lsection">
+          <p style="noindent">ആയിരത്തൊള്ളായിരത്തി എഴുപത്തിനാലു് ഫെബ്രുവരി ഇരുപത്തി രണ്ടു്.
+</p>
+          <p>വെള്ളിയാഴ്ച രാവിലെ പത്തുമണി.
+</p>
+          <p>സമസ്തകേരളസാഹിത്യപരിഷത്തിന്റെ മുപ്പത്തിനാലാം സമ്മേളനം കാസ്രക്കോട്ട് ഉബൈദുനഗറിൽ
+ആരംഭിക്കുകയാണു്.
+</p>
+          <p>ഉദ്ഘാടന സമ്മേളനം.
+</p>
+          <p>ജരാസന്ധൻ എന്ന പേരിൽ പ്രഖ്യാതനായ ചാരുചന്ദ്രചക്രവർത്തിയാണു് ഉദ്ഘാടകൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sreedharan_CP.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. പി. ശ്രീധരൻ</figDesc>
+          </figure>
+          <p>അതിഥികളെ പരിചയപ്പെടുത്തിയ <ref target="https://ml.wikipedia.org/wiki/C.P._Sreedharan">സി. പി. ശ്രീധരൻ</ref>
+നേരത്തെ പറഞ്ഞുവെച്ചു: “മുഖ്യാതിഥി ജരാസന്ധനെ ബംഗാളിൽ നിന്നു് ഇവിടെ കൊണ്ടു വരാൻ സംഘാടകർക്കു
+കഴിഞ്ഞിട്ടുണ്ടു്. ആശംസാപ്രസംഗം നടത്തേണ്ട മഹാകവി <ref target="https://ml.wikipedia.org/wiki/P._Kunhiraman_Nair">പി. കുഞ്ഞിരാമൻ
+നായർ</ref> ഇവിടേയ്ക്കടുത്ത കാഞ്ഞങ്ങാട് സ്വദേശിയാണെങ്കിലും അദ്ദേഹം ഇനിയും ഇവിടെ
+എത്തിച്ചേർന്നിട്ടില്ല. ചടങ്ങു് തീരുമുമ്പു് വന്നെത്തുമെന്നു് പ്രതീക്ഷിക്കുന്നു.”
+</p>
+          <p>സഹജമായ യാത്രയുടെ ഏതോ തിരിവിൽവെച്ചു മഹാകവിയുടെ ഓർമ്മയിൽ നിന്നു് കാസ്രക്കോട് പരിഷത്ത്
+വീണുപോയിരിക്കുമെന്നു് കേട്ടിരുന്നവർ കരുതി.
+</p>
+          <p>ജരാസന്ധന്റെ ഉദ്ഘാടനപ്രസംഗം കഴിഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sukumar_azhikode.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രൊഫ. സുകുമാർ അഴീക്കോട്</figDesc>
+          </figure>
+          <p>ചടങ്ങു് നിയന്ത്രിച്ചുകൊണ്ടിരുന്ന പരിഷദദ്ധ്യക്ഷൻ <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">പ്രൊഫ. സുകുമാർ
+അഴീക്കോട്</ref> എഴുന്നേറ്റു:
+</p>
+          <p>“അടുത്ത ഇനം ശ്രീ. പി. കുഞ്ഞിരാമൻനായരുടെ ആശംസാ പ്രസംഗമാണു്. അദ്ദേഹം ഈ ശബ്ദം
+കേൾക്കുന്നിടത്തു് എവിടെയെങ്കിലും ഉണ്ടെങ്കിൽ ദയവുചെയ്തു് ഈ വേദിയിലേക്കു വരണം.”
+</p>
+          <p>ഗൗരവം കലർന്ന സ്വതസ്സിദ്ധമായ ആ നർമ്മരസത്തിൽ പ്രൊഫ. അഴീക്കോട് നിർത്തി.
+
+</p>
+          <p>കേട്ടിരുന്നവർ നാലുപാടും നോക്കി.
+</p>
+          <p>ആ തിങ്ങിനിറഞ്ഞ സദസ്സിന്റെ മൂലയിലൂടെ, അതാ ഒരാൾ വേദിയിലേക്കു നടന്നുപോകുന്നു.
+</p>
+          <p>നീണ്ട ജുബ്ബ.
+</p>
+          <p>അലസമായി വലിച്ചുകുത്തിയുടുത്ത ഖദർമുണ്ടു്.
+</p>
+          <p>തോളിൽ ഇരുവശത്തേക്കും തൂങ്ങിക്കിടക്കാറുള്ള ആ ഖദർവേഷ്ടി അരയ്ക്കു കെട്ടിയിട്ടുണ്ടു്.
+</p>
+          <p>കൈകളിൽ ഒരു കുല മാമ്പൂ ആദരപൂർവ്വം പിടിച്ചിരിക്കുന്നു.
+</p>
+          <p>മഹാകവി പി!
+</p>
+          <p>സദസ്സു് കൈയടിച്ചു.
+</p>
+          <p>കവി അതൊന്നും ശ്രദ്ധിക്കുന്നില്ല. ഒരു സദസ്സിലൂടെ നടന്നുനീങ്ങുകയാണെന്നുപോലും അദ്ദേഹം
+അറിയുന്നില്ല. ഏതോ പൂജാദ്രവ്യങ്ങളുമായി ഭഗവദ്സന്നിധിയിലേക്കു പോകുന്ന ഭക്തന്റെ ഭാവമാണു് ആ മുഖത്തു്.
+</p>
+          <p>അദ്ദേഹം വേദിയിൽ കയറുകയാണു്.
+</p>
+          <p>ജരാസന്ധനും പ്രൊഫ അഴീക്കോടുമൊക്കെ അതുതന്നെ നോക്കിയിരുന്നു.
+</p>
+          <p>സദസ്സു് നിശ്ശബ്ദം.
+</p>
+          <p>കുഞ്ഞിരാമൻ നായർ നടന്നു് ജരാസന്ധന്റെ മുന്നിലെത്തി. കൈയിൽ കരുതിയിരുന്ന മാമ്പൂ ഭക്ത്യാദരപൂർവ്വം
+ജരാസന്ധനു കൊടുത്തു.
+</p>
+          <p>ജരാസന്ധൻ എഴുന്നേറ്റുനിന്നു് രണ്ട് കയ്യും നീട്ടി അതു സ്വീകരിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Pkunhiraman_nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കുഞ്ഞിരാമൻ നായർ</figDesc>
+          </figure>
+          <p>സദസ്സു് അദ്ഭുതസ്തബ്ധമായി നോക്കിയിരിക്കെ, മഹാകവി ജരാസന്ധന്റെ കാൽ തൊട്ടുവന്ദിച്ചു. ജരാസന്ധൻ
+നിന്നു വിഷമിക്കുകയായിരുന്നു. അദ്ദേഹം തടഞ്ഞു. കവി കൂട്ടാക്കിയില്ല.
+</p>
+          <p>ചുറ്റും ആളുണ്ടെന്ന യാതൊരു കൂട്ടവുമില്ലാതെ കുഞ്ഞിരാമൻ നായർ കളിക്കൂട്ടുകാരനെ എന്നപോലെ
+ജരാസന്ധനെ തോളിലൂടെ കൈയിട്ട് കെട്ടിപ്പിടിച്ചു. അദ്ദേഹത്തിന്റെ കവിളിൽ മുത്തി. ഇരുതോളും സ്വന്തം
+തോളോടും ചേർത്തു.
+</p>
+          <p>മുഖത്തൊരു പുഞ്ചിരി വരുത്തി ജരാസന്ധൻ ആ സ്നേഹപ്രകടനത്തിൽ നിന്നു് വല്ലപാടും ‘രക്ഷപ്പെട്ടു’.
+നിലത്തൂർന്നുവീണ വേഷ്ടി കുനിഞ്ഞെടുത്തു് കുഞ്ഞിരാമൻ നായർ മൈക്കിനടുത്തേക്കു നടന്നു.
+</p>
+          <p>കവി നിറഞ്ഞ കണ്ണു തുടച്ചു.
+</p>
+          <p>ആ അടക്കമില്ലാത്ത രീതിയിൽ കുഞ്ഞിരാമൻ നായർ പറഞ്ഞു തുടങ്ങി. മുമ്പെപ്പോഴും എന്നപോലെ അന്നും
+ഔപചാരികമായ തുടക്കങ്ങളൊന്നുമില്ല:
+</p>
+          <p>“ഞാൻ വന്നതു് പരിഷത്തിൽ പ്രസംഗിക്കാനല്ല. ഇതാ, ഈ മഹാനുഭാവനെ കാണാനാണു്.”
+
+</p>
+          <p>നിർത്തിയിട്ടു്, കണ്ണടക്കു് മുകളിലൂടെ പതിവുള്ള ആ നോട്ടം നോക്കി. പല്ലില്ലാത്ത വായിൽനിന്നു
+ഉച്ചാരണത്തിന്റെ വ്യത്യസ്തതയോടെ വാക്കുകൾ ചിതറിവീണു:
+</p>
+          <p>“ഇദ്ദേഹത്തെ കണ്ടാൽ പുണ്യം കിട്ടും. ഇദ്ദേഹം വംഗദേശത്തു ജനിച്ചു. മുലപ്പാലിനൊപ്പം വംഗഭാഷ നുകർന്നു
+വലുതായി; വംഗഭാഷയിൽ എഴുതി പ്രസിദ്ധനായി. മാതൃഭാഷ പോലെ എനിക്കു് പൂജ്യമായ വംഗഭാഷയിലെ ഈ
+മഹാസാഹിത്യകാരനെ കാണാൻ വരുമ്പോൾ എന്താണു് കൊണ്ടുവരേണ്ടതു് എന്ന കാര്യം എന്നെ കുഴക്കി.
+ഒടുക്കം ഒരു സംസ്കാരികനായകനു മുമ്പിൽ കേരളീയനു കാഴ്ചവെക്കാനുള്ളതു് മാമ്പൂവാണു് എന്നു ഞാൻ
+തീർച്ചയാക്കി. പുതുമ മങ്ങാത്ത ഒരു കുല മാമ്പൂ സമ്പാദിക്കാൻ പോയതുകൊണ്ടാണു് ഈ ചടങ്ങിൽ
+എത്തിച്ചേരാൻ ഞാനല്പം വൈകിപ്പോയതു്.”
+</p>
+          <p>സദസ്സു് ആഹ്ലാദപൂർവ്വം കൈയടിച്ചു.
+</p>
+          <p>കവിയുടെ പ്രസംഗം ജരാസന്ധൻ എന്ന പേരിനെക്കുറിച്ചായി:
+</p>
+          <p>“ഇത്ര സുന്ദരനും നല്ലവനുമായ ഒരാൾക്കു് ജരാസന്ധൻ എന്നു പേരിട്ടതാരു്? ചാരുചന്ദ്രചക്രവർത്തി എന്ന
+പേരു്, ഇദ്ദേഹത്തെ കണ്ടു കൺകുളിർത്തു് അമ്മ വിളിച്ചതാവണം. ജീവിതത്തിന്റെ ചാരുതയിൽ അടങ്ങിയ
+പൊള്ളത്തരം മനസ്സിലാക്കി ഈ മഹാസാഹിത്യകാരൻ തന്നെയാകാം, ജരാസന്ധൻ എന്നു പേരു മാറ്റിയതു്.
+എങ്കിലും ഇദ്ദേഹത്തെ ചാരുചന്ദ്രനായിട്ടേ ഞാൻ മനസ്സിലാക്കൂ.”
+</p>
+          <p>അതും പറഞ്ഞു് കണ്ണടച്ചില്ലിനു മുകളിലൂടെ ആ കള്ളനോട്ടം നോക്കി; പതിവിൻപടി കള്ളച്ചിരി ചിരിച്ചു.
+</p>
+          <p>സദസിൽ ചിരി മുഴങ്ങി. കാര്യം മനസ്സിലായിട്ടോ എന്തോ, ജരാസന്ധനും കുലുങ്ങിച്ചിരിച്ചു.
+</p>
+          <p>ആ ചിരി കണ്ടു് കുഞ്ഞിരാമൻനായർ വീണ്ടും ജരാസന്ധനെ കെട്ടിപ്പിടിക്കാനും നമസ്ക്കരിക്കാനുമൊക്കെ
+പോവുകയാണെന്നു തോന്നിയപ്പോൾ വേദിയുടെ പിൻനിരയിൽ ഇരിക്കുകയായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/C.P._Sreedharan">സി. പി. ശ്രീധരൻ</ref>
+അരുതെന്നു് കൈകൊണ്ടു് ആംഗ്യം കാണിച്ചു.
+</p>
+          <p>കവി അതു് കണ്ടില്ല. ശ്രീധരൻ എഴുന്നേറ്റു. അതു തന്നെ തടയാനാണെന്നുതോന്നിയപ്പോൾ കുഞ്ഞിരാമൻ
+നായരുടെ മട്ടുമാറി. അദ്ദേഹം ശ്രീധരന്റെ നേരെ തിരിഞ്ഞു:
+</p>
+          <p>“എന്നെ അവമാനിക്കരുതു്.”
+</p>
+          <p>കുഞ്ഞിരാമൻനായർ പിണങ്ങി. പ്രസംഗവേദിയാണെന്ന കാര്യമൊക്കെ വിട്ടു് അദ്ദേഹം ശ്രീധരനോടു്
+പിണക്കം പറഞ്ഞുതുടങ്ങി:
+</p>
+          <p>“ആള്കളെ ക്ഷണിച്ചുവരുത്തി അവമാനിക്ക്യാ? അല്ലേങ്കിലും കുഞ്ഞിരാമൻ നായരോട് എന്തും ആവാം; ല്ലേ?”
+</p>
+          <p>എല്ലാം ഉച്ചഭാഷിണിയിലൂടെ കേൾക്കാം!
+</p>
+          <p>പ്രസംഗവേദിയിലുള്ളവരും സദസ്സും വിഷമിച്ചു. നേരം വൈകുന്നുവെന്നു് ഓർമ്മിപ്പിക്കാനേ താൻ
+ഉദ്ദേശിച്ചിരുന്നുള്ളൂവെന്നു് സി. പി. ശ്രീധരൻ പറഞ്ഞുനോക്കി. അതൊന്നും കവിയുടെ കാതിൽ കേറിയില്ല.
+അദ്ദേഹം കരഞ്ഞുപോവും എന്നു തോന്നി.
+</p>
+          <p>അദ്ധ്യക്ഷൻ പ്രൊഫ. അഴീക്കോട് ഇടപെട്ടു.
+</p>
+          <p>അദ്ദേഹം കുഞ്ഞിരാമൻനായരെ തടഞ്ഞുകൊണ്ടു പറഞ്ഞു:
+</p>
+          <p>“കുഞ്ഞിരാമൻ നായർ പ്രസംഗം തുടരണം.”
+</p>
+          <p>കവി അദ്ധ്യക്ഷനോടു് പരാതി പറയാനാഞ്ഞു.
+</p>
+          <p>സൗഹൃദത്തിന്റെ അധികാരമുപയോഗിച്ചു പ്രൊഫ. അഴീക്കോട് ശബ്ദമുയർത്തിപ്പറഞ്ഞു:
+</p>
+          <p>“കുഞ്ഞിരാമൻനായരോട് ഞാനാണു് പറയുന്നതു്.”
+
+</p>
+          <p>കവി അടങ്ങി. ഉടനെ ബാലസഹജമായ നിഷ്ക്കളങ്കതയോടെ അദ്ദേഹം ചോദിക്കുന്നതു കേട്ടു:
+</p>
+          <p>“എന്താ ശ്രീധരൻ എന്നെ അപമാനിക്കാൻ?”
+</p>
+          <p>ശ്രീധരൻ വീണ്ടും എഴുന്നേറ്റു:
+</p>
+          <p>“ഞാൻ അങ്ങനെ വിചാരിച്ചിട്ടുപോലുമില്ല.”
+</p>
+          <p>കവി കണ്ണടയ്ക്കു മുകളിലൂടെ ഒളികണ്ണിട്ടു ശ്രീധരനെ നോക്കി:
+</p>
+          <p>“ഇല്ലേ?”
+</p>
+          <p>“ഇല്ല.”
+</p>
+          <p>കവിയുടെ സന്തോഷം പറയണ്ട.
+</p>
+          <p>“എന്നാ കൈ കൊടുക്കി.”
+</p>
+          <p>സി. പി. ശ്രീധരൻ ചിരിച്ചുകൊണ്ടു കൈകൊടുത്തു. കവി ശ്രീധരനെ ആശ്ലേഷിച്ചു. കരയുന്ന കുട്ടി പെട്ടെന്നു
+കളിപ്പാട്ടം തെളിയും പോലെ, നിമിഷം കൊണ്ടു് പിണക്കം മറന്നു് കവി ചിരിച്ചു.
+</p>
+          <p>പ്രൊഫ. അഴിക്കോടിന്റെ ചിരി, അദ്ധ്യക്ഷഗൗരവത്തിന്റെ എല്ലാതോടുകളും പൊട്ടിച്ചു പുറത്തുവന്നു.
+ജരാസന്ധൻ വിടർന്ന ചിരിയോടെ കവിയെ കണ്ണെടുക്കാതെ നോക്കിയിരിക്കുകയാണു്.
+</p>
+          <p>സദസ്സിന്റെ കൈയടി ഏറെനേരം നീണ്ടു നിന്നു.
+</p>
+          <p>അതിനിടയിൽ, ഇക്കഴിഞ്ഞതൊക്കെ മറന്നു് കുഞ്ഞിരാമൻനായർ മൈക്കിനടുത്തേക്കു നീങ്ങി. നിലാവിലൂടെ
+മുലപ്പാലു ചുരത്തുന്ന പ്രകൃതിയും ഭാവനയുടെ വിളക്കു തെളിയിക്കുന്ന സാംസ്ക്കാരികാന്തരീക്ഷവും നിറഞ്ഞ കവിയുടെ
+ലോകം രൂപകചിത്രങ്ങളുടെ തെളിനീരൊഴുക്കിൽ നിന്നു് വാറ്റിയെടുത്ത ആ അരുമശൈലിയിൽ വാർന്നു
+വീഴുകയായി…
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kaviyude Mampu (ml: കവിയുടെ
+മാമ്പൂ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Kaviyude Mampu, എം. എൻ. കാരശ്ശേരി, കവിയുടെ മാമ്പൂ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 8, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Mango_tree_in_full_bloom_01.jpg">Mango
+Tree in Full Bloom,</ref> a photograph by <ref target="https://commons.wikimedia.org/wiki/User:NahidHossain">Nahid
+Hossain</ref>  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karasseri-mampu.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasseri-mampu.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

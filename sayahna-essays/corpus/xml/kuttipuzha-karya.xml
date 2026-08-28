@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കാര്യകാരണബന്ധം</title>
+          <title xml:lang="en" type="main">Karyakaranabandham</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 8, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കാര്യകാരണബന്ധം</title>
+              <title xml:lang="en" type="main">Karyakaranabandham</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Karyakaranabandham</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>കാര്യകാരണബന്ധം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 8, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Singer_Study_for_the_painting.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Mih%C3%A1ly_Munk%C3%A1csy__Singer,_Study_for_the_painting_The_Dying_Mozart_%281886%29.jpg">Singer
+(Study for the painting “The Dying Mozart”),</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Mih%C3%A1ly_Munk%C3%A1csy">Mihály
+
+Munkácsy</ref>  (1844–1900). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കാര്യകാരണബന്ധം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കാര്യകാരണബന്ധം</head>
+        <div type="lsection">
+          <p style="noindent">കാരണം കൂടാതെ കാര്യം ഉണ്ടാകുന്നതല്ല എന്നതുള്ളതു ഖണ്ഡിക്കുവാൻ
+നിവൃത്തിയില്ലാത്ത ഒരു സാമാന്യതത്ത്വമാകുന്നു. ഒരു കാര്യത്തിനു പലകാരണങ്ങളുണ്ടാകാം. അതുപോലെ പല
+കാര്യങ്ങളും ഒരു കാരണത്തിൽനിന്നു് ഉണ്ടായെന്നു വരാം.</p>
+          <lg>
+            <l> ‘ഏകകാര്യമഥവാ ബഹുത്ഥമാം</l>
+            <l> ഏകഹേതു ബഹുകാര്യകാരിയാം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന കവികാവ്യം ഈ തത്ത്വത്തെയാണു് വെളിപ്പെടുത്തുന്നതു്. വസ്തുക്കളുടെയും സംഭവങ്ങളുടെയും
+കാര്യകാരബന്ധം വിശദീകരിക്കുകയെന്നതാണു് സയൻസിന്റെ പ്രധാന കൃത്യം. പ്രപഞ്ചത്തിന്റെ ഉല്പത്തി
+സ്ഥിതിലയം മുതലായവയെപ്പറ്റി ശരിയായ ബോധം ജനിക്കുന്നതിനു മേൽക്കാണിച്ച ശാസ്ത്രീയമായ
+വിശദീകരണം അത്യന്താപേക്ഷിതമാകുന്നു. കാര്യം പ്രത്യക്ഷപ്പെടുകയും കാരണം തിരോഭൂതമായിരിക്കുകയും
+ചെയ്യുമ്പോഴാണു് അന്ധവിശ്വാസങ്ങൾക്കു് അടിമപ്പെട്ടു പോകുന്നതു്. ഇടി, മിന്നൽ, മഴ മുതലായ കാര്യങ്ങളുടെ
+പ്രത്യക്ഷനുഭവം അജ്ഞനായ മനുഷ്യനെ ആദിമദശയിൽ അത്ഭുതപ്പെടുത്തുകയും അന്ധാളിപ്പിക്കുകയും ചെയ്തു.
+ഇവയ്ക്കെല്ലാം കാരണം കണ്ടുപിടിക്കുന്നതിനുള്ള ഒരു വാസന മനനശീലനായ മനുഷ്യനു പ്രകൃത്യാ ഉള്ളതാണു്
+എന്നാൽ അന്നത്തെ അന്ധകാര ദശയിൽ ഇന്ദ്രൻ തുടങ്ങിയ സങ്കല്പദേവന്മാരെ കാരണങ്ങളായി കല്പിക്കുവാനേ
+മനുഷ്യന്റെ മനസ്സിനു കഴിവുണ്ടായുള്ളു. ഇങ്ങനെ അജ്ഞാതകാരണങ്ങളായ കാര്യങ്ങൾ മനുഷ്യരെ ഏതെല്ലാം
+തരത്തിലുള്ള മിഥ്യാബോധങ്ങൾക്കു് അധീനമാക്കിയിട്ടുണ്ടെന്നുള്ളതിനു് കയ്യും കണക്കുമില്ല. എങ്ങനെ ഉണ്ടായി.
+എന്താണു കാരണം? എന്നീ രൂപത്തിലുള്ള ചോദ്യം നമ്മുടെ മനസ്സിൽ സ്വാഭാവികമായി വന്നുചേരുന്നതാണു്.
+അതിനൊരു സമാധാനം തേടുവാനുള്ള തൃഷ്ണ എല്ലാവരിലും അനിയന്ത്രിതമായി പ്രവർത്തിക്കുന്നുണ്ടു്. അതിനൊരു
+ശമനം ഉണ്ടായെങ്കിൽ മാത്രമേ മനസ്സിനു സ്വസ്ഥത വരുകയുള്ളു. തന്മൂലം ശരിയായ കാരണം കാണാത്തിടത്തും
+എന്തെങ്കിലും ഒന്നു് അന്ധമായി സങ്കല്പിക്കുന്നതിനു് മനുഷ്യൻ പ്രേരിതനാകുന്നു. ഇപ്രകാരം
+കാര്യകാരണബന്ധത്തെപ്പറ്റിയുള്ള തെറ്റിദ്ധാരണകൾ പല രൂപത്തിൽ വന്നുചേരം.
+</p>
+          <p>രണ്ടു സംഗതികൾ ഏകകാലത്തിൽ അടുത്തടുത്തു സംഭവിക്കുന്നു എന്നുള്ളതുകൊണ്ടുമാത്രം അവയ്ക്കു തമ്മിൽ
+കാര്യകാരണബന്ധം സങ്കല്പിക്കുന്ന പതിവു് പണ്ഡിതന്മാരുടെയിടയിൽപ്പോലും കണ്ടുവരുന്ന ഒന്നാണു്. ഡോക്ടർ
+ജോൺസന്റെ കാലത്തു് ചില ചരിത്രകാരന്മാർ കൂടി വിശ്വസിച്ചിരുന്ന കഥ ഇതിലേക്കു നല്ലൊരുദാഹരണമത്രേ.
+ദൂരസ്ഥിതമായ ഒരു ദ്വീപിനെപ്പറ്റി വളരെക്കാലം വളരെ വിചിത്രമായ ഒരു അന്ധവിശ്വാസം നിലവിലിരുന്നിരുന്നു.
+ആ ദ്വീപിൽ വിദേശിയർ ആരെങ്കിലും വന്നാൽ ഉടൻ തദ്ദേശീയർക്കെല്ലാം ജലദോഷം പിടിപെടുമത്രേ!
+അനുഭവംകൊണ്ടു് ഇതു ശരിയെന്നു വിശ്വസിക്കുവാൻ ചരിത്രകാരന്മാർകൂടി പ്രേരിതരായിപ്പോയി. വിദേശിയർ
+അവിടെ ചെല്ലുന്നതു കപ്പൽമാർഗ്ഗമായിട്ടാണല്ലോ. ആണ്ടിൽ ചില പ്രത്യേക കാലങ്ങളിൽ കാറ്റു്
+അനുകൂലമായിരിക്കുമ്പോൾ മാത്രമേ അവിടെ കപ്പൽ അടുക്കുകയുള്ളു. കപ്പൽ അടുത്തു് വിദേശീയർ ഇറങ്ങി കുറെ
+നാൾ കഴിയുമ്പോൾ നാട്ടിൽ ജലദോഷം പടർന്നുപിടിക്കുകയും ചെയ്യും. പക്ഷേ, അതിനു കാരണം,
+അക്കാലങ്ങളിൽ മാത്രം കരയിലേക്കടിക്കാറുള്ള ഒരുതരം പ്രത്യേക കാറ്റാണെന്നുള്ള സംഗതി നാട്ടുകാർക്കു്
+അറിഞ്ഞുകൂടായിരുന്നു. വിദേശീയർ ഇറങ്ങുന്നതും ജലദോഷം പിടിപെടുന്നതും ഏകകാലത്തു
+സംഭവിക്കുന്നതുകൊണ്ടു പ്രത്യക്ഷത്തിൽ യാതൊരു പരസ്പരബന്ധവും ഇല്ലാത്ത രണ്ടിനെയും കൂട്ടിയിണക്കി ഒന്നു
+മറ്റേതിനു കാരണമെന്നു അവർ വിശ്വസിച്ചു. ആലോചനയും അന്വേഷണവും കൂടാതെ മനസ്സു കാരണം തേടി
+കാടുകയറുന്നതു് ഈ വിധത്തിലാകുന്നു. ജോൺസന്റെ കാലത്തു ചില പണ്ഡിതന്മാർപോലും ഈ
+അന്ധവിശ്വാസത്തെ താങ്ങി വാദിക്കാനും പണിപ്പെട്ടതായി കാണുന്ന സ്ഥിതിക്കു പാമരന്മാരുടെ
+കഥയെന്താണു് ?
+</p>
+          <p>പണ്ടു് മൃതദേഹം വലിയ ചാറയിലാക്കി കുറെ ധാന്യങ്ങളും ഇട്ടു കുഴിച്ചിടുന്ന പതിവുണ്ടായിരുന്നല്ലോ.
+മരിക്കാറായ പടുവൃദ്ധരെ ഇങ്ങനെ ജീവനോടെ കുഴിച്ചിടുന്ന പതിവും അതിപ്രാചീന കാലത്തുണ്ടായിരുന്നു.
+ചാറയിലിടുന്ന ധാന്യങ്ങൾ കുറെക്കഴിഞ്ഞു മുളച്ചുപൊന്തി സാധാരണരീതിയിൽക്കവിഞ്ഞ കതിർവീശുന്നതു കണ്ടു
+മനുഷ്യർ അത്ഭുതപ്പെട്ടു. ഈ വിളവു വർദ്ധനയ്ക്കു മരിച്ചുപോയവരുമായി എന്തോ ബന്ധമുണ്ടെന്നു അവർ
+വിശ്വസിക്കാൻ തുടങ്ങി. ഇതിന്റെ ഫലമായിട്ടാണു് കൃഷി നന്നാകുന്നതിനു നരബലി നടത്തുകയെന്ന ദുരാചാരം
+ഉത്ഭവിച്ചതു്. കാലാന്തരത്തിൽ നരബലി സാധാരണ ജന്തുബലിയായി മാറി ഇപ്പോഴും ഈവക നടപടികളുടെ
+
+അവശിഷ്ടങ്ങൾ കാണാവുന്നതാണു്. കാരണത്തെപ്പറ്റിയുള്ള മിഥ്യാബോധമാണു് ഇസ്സംഗതിയിലും
+അന്ധവിശ്വാസത്തെ പുലർത്തിയതു്.
+</p>
+          <p>ഈ ലോകം ഇന്നത്തെ നിലയിൽ എങ്ങനെ വന്നുചേർന്നു എന്നു് അറിയാതെ വിഷമിച്ച മനുഷ്യൻ
+സർവത്തിനും സൃഷ്ടികർത്താവായി ഈശ്വരനെ സൃഷ്ടിച്ചു. സർവജീവജാലങ്ങളെയും സൃഷ്ടിച്ച ഈശ്വരനെ
+മനുഷ്യൻ സൃഷ്ടിച്ചതാണെന്നുള്ള പരമാർത്ഥം മനസ്സിലാക്കാനുള്ള ചിന്താശക്തി അന്നു് അവനുണ്ടായിരുന്നില്ല.
+പ്രപഞ്ചത്തിനു ഒരു ആദികാരണം വേണമെന്നും അതാണു് ഈശ്വരനെന്നും വാദിക്കുന്നവർ ഇന്നും ധാരാളമുണ്ടു്.
+അല്പം ആലോചിച്ചാൽ ഈ ആദികാരണത്തിനു നിലനില്പില്ലെന്നു മനസ്സിലാക്കാം. അതാണെന്നു പറയാം. ഒരു
+വൃത്തം എവിടെ തുടങ്ങുന്നു എന്നോ എവിടെ അവസാനിക്കുന്നു എന്നോ നിർണയിക്കുവാൻ വയ്യ. കേവലം
+കാരണാവസ്ഥയിൽ ഒന്നിനും നിലയില്ല ഒരു കാരണം വേറൊന്നിന്റെ കാര്യമായിത്തീരും. ഇങ്ങനെ
+നോക്കുമ്പോൾ കാര്യം കാരണവും കാരണ കാര്യവുമായി പൂർവാപരക്രമമനുസരിച്ചു മാറിമാറിക്കൊണ്ടു
+തുടർന്നുപോകുന്നതു കാണാം. ചക്രഭ്രമണരൂപത്തിലുള്ള ഈ ശൃംഖലയിൽ ആദികാരണമെന്നൊരു
+അവസാനക്കണ്ണി നിശ്ചിയിക്കുന്നതു യുക്തിവിരുദ്ധമാകുന്നു.
+</p>
+          <p>അജ്ഞാതകാരണങ്ങളായ പലതും ഇപ്പോഴും നമ്മെ അഭിമുഖീകരിക്കുന്നുണ്ടാകാം. അവയെപ്പറ്റി
+മേൽക്കാണിച്ചവിധം അന്ധവിശ്വാസങ്ങൾ പുലർത്താതെ ശാസ്ത്രജ്ഞാനത്തിന്റെ വെളിച്ചത്തിൽ അന്വേഷണം
+നടത്തിക്കൊണ്ടിരിക്കുകയാണു് ചിന്താശീലന്മാർ ചെയ്യേണ്ടതു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Karyakaranabandham (ml:
+കാര്യകാരണബന്ധം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Karyakaranabandham, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, കാര്യകാരണബന്ധം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 8, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Mih%C3%A1ly_Munk%C3%A1csy__Singer,_Study_for_the_painting_The_Dying_Mozart_%281886%29.jpg">Singer
+(Study for the painting “The Dying Mozart”),</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Mih%C3%A1ly_Munk%C3%A1csy">Mihály
+Munkácsy</ref>  (1844–1900). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-karya.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-karya.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

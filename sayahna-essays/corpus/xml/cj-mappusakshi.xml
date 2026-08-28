@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ജനാധിപത്യത്തിനു് ഒരു
+മാപ്പുസാക്ഷി</title>
+          <title xml:lang="en" type="main">janādhipatyattinu oru māppusākshi</title>
+        </title>
+        <author>Thomas CJ</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Digitized by</resp>
+          <name>KB Sujith</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">August 17, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is in the public domain. The text encoding and editorial notes
+were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ജനാധിപത്യത്തിനു് ഒരു
+മാപ്പുസാക്ഷി</title>
+              <title xml:lang="en" type="main">janādhipatyattinu oru māppusākshi</title>
+            </title>
+            <author>Thomas CJ</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Mathrubhumi Weekly</publisher>
+            <pubPlace>Kozhikode, Kerala</pubPlace>
+            <date>1954-01-01</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Thomas CJ</term>
+          <term>Janadhipathyathinu oru mappusakshi</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>ജനാധിപത്യത്തിനു് ഒരു മാപ്പുസാക്ഷി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalalm</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Kozhikode, Kerala, India</name>
+          <time>1954-01-01</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Le_petit_chaperon_rouge.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Le_petit_chaperon_rouge.jpg">Little
+Red Riding Hood,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Albert_Anker">Albert Anker</ref>
+ (1831–1910). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ജനാധിപത്യത്തിനു് ഒരു മാപ്പുസാക്ഷി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ജനാധിപത്യത്തിനു് ഒരു മാപ്പുസാക്ഷി</head>
+        <div type="lsection">
+          <p style="noindent">ഞാൻ ജനങ്ങളിൽ വിശ്വസിക്കുന്നില്ല. എങ്കിലും, ജനാധിപത്യത്തിൽ
+വിശ്വസിക്കുന്നു. പ്രത്യക്ഷത്തിൽ യുക്തിവിരുദ്ധമായ ഈ പ്രസ്താവനയ്ക്കു ന്യായം പറയാമോ എന്നു നോക്കട്ടെ.
+</p>
+          <p>ജനങ്ങളിൽ വിശ്വസിക്കുന്നില്ല എന്നു പറയുന്നതിന്റെ അർത്ഥമെന്താണു്? എന്തുകൊണ്ടാണു ജനങ്ങളിൽ
+വിശ്വസിക്കാത്തതു്?
+</p>
+          <figure rend="fright">
+            <graphic url="images/plato.jpg" width="35mm" rendition="thumb"/>
+            <figDesc style="thumb">പ്ലേറ്റോ</figDesc>
+          </figure>
+          <p> മനുഷ്യസംസ്ക്കാരത്തിന്റെ സൂക്ഷിപ്പുകാരായിരിക്കാൻ ബഹുജനം യോഗ്യരല്ല എന്നതാണു്
+ആദ്യത്തേതിനുത്തരം. മതം, കല, ശാസ്ത്രം, സമുദായം മുതലായവയുടെ മൂല്യങ്ങളെപ്പറ്റി തീർപ്പുകൽപ്പിക്കാൻ
+അവർ അശക്തരാണു്. രണ്ടാമത്തെ പ്രസ്താവനയ്ക്കു കാരണം, ഒരാദർശമായിട്ടോ, ദിവ്യാവതാരമായിട്ടോ
+ആരാധിക്കത്തക്ക ഒന്നല്ല ജനസാമാന്യം എന്നതാണു്. സാധാരണ മനുഷ്യൻ സംസ്ക്കാരത്തിന്റെ വളരെ
+ചുവട്ടിലത്തെ പടിയിലാണു് നില്ക്കുന്നതു്. മനുഷ്യവർഗ്ഗത്തിന്റെ പരിണാമം ആരംഭിച്ചിട്ടേയുള്ളു. അതു ഗണനീയമായ
+ഒരു നിലയിലെത്തിച്ചേരാൻ ഇനിയും യുഗങ്ങൾ വേണ്ടിവരും. ഭക്ഷണം, സന്തത്യുല്പാദനം എന്നീ
+കാര്യങ്ങളിൽപ്പോലും മൃഗങ്ങളിൽനിന്നു മനുഷ്യൻ വളരെയൊന്നും വളർന്നുകഴിഞ്ഞിട്ടില്ല. അപൂർവ്വം ചില
+വ്യക്തികൾ സംസ്ക്കാരപരമായി അല്പം ഉയർന്നെന്നുവെച്ചു് ഈ വിഭാഗത്തിന്റെ സംസ്ക്കാരനിലവാരം വളരെ
+ഉയർന്നുവെന്നു ഗണിക്കുന്നതും ശരിയല്ല. ഇതാണു ഞാൻ പഠിച്ചതിലെല്ലാം കണ്ടതു്. അനുഭവത്തിൽ
+നിന്നറിഞ്ഞതും മറ്റൊന്നല്ല. ഇനി ഇപ്പറഞ്ഞതു വിശദീകരിക്കാം.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">പൊതുജനം കഴുതയാണു്</head>
+          <figure rend="fleft">
+            <graphic url="images/Sophocles.jpg" width="35mm" rendition="thumb"/>
+            <figDesc style="thumb">സോഫോക്ലിസ്</figDesc>
+          </figure>
+          <p style="noindent"> ചരിത്രത്തിലെ വിലപ്പെട്ട സകലതും പൊതുജനത്തിന്റെ എതിർപ്പിനെ
+നേരിട്ടുകൊണ്ടാണു് ഉണ്ടായിട്ടുള്ളതു്. പൊതുജനത്തിനു പൊതുവായി ഒരു ചിന്താശക്തിയില്ല, വികാരാവേശം
+മാത്രമേയുള്ളു. ഈ വികാരം പൊതുകാര്യങ്ങളിൽ വിശ്വസിക്കാവുന്ന ഒരു വഴികാട്ടിയല്ല. ഏതെങ്കിലുമൊരാശയം
+ഉത്ഭവിച്ചുകഴിഞ്ഞാൽ അതു വിജയിച്ചു് അതിനു പ്രതിഷ്ഠയും പൂജാരിയും മതവുമെല്ലാം സിദ്ധിച്ചുകഴിഞ്ഞു മാത്രമേ
+പൊതുജനം അതിനെ സ്വീകരിക്കുന്നുള്ളൂ. ആദ്യഘട്ടത്തിൽ അസ്തമിക്കാതിരുന്നെങ്കിൽ അതു പൊതുജനത്തിന്റെ
+പിന്തുണകൊണ്ടല്ല, അതിനെ കൊല്ലാൻ ജനതയ്ക്കു ശക്തിയില്ലാതെ പോയതുകൊണ്ടു മാത്രമാണു്. യുക്തിവിചാരം
+ചെയ്യുകയെന്നതു ജനസാമാന്യത്തിന്റെ പതിവല്ല. രാഷ്ട്രീയകാര്യങ്ങളിൽ തീവ്രമായ വാദപ്രതിവാദങ്ങൾ
+നടക്കുന്നതു നാം കാണാറുണ്ടു്. അതിന്റെ പേരിൽ ആരും കക്ഷിമാറിയതായിട്ടറിവില്ല. സ്വതവേ ദുഷിച്ച
+അന്തരീക്ഷത്തിൽ, അല്പം വിഷംകൂടി പകരാനേ അത്തരം തർക്കങ്ങൾ സഹായിക്കുകയുള്ളു. മിക്ക മനുഷ്യരും
+വലുപ്പത്തെയും ശക്തിയെയും ആരാധിക്കുന്നവരാണു്. ഒരു തത്ത്വം ശരിയോ തെറ്റോ എന്ന പ്രശ്നം അവർ
+അവഗണിക്കുന്നു. അതിനെന്തു പ്രചാരവും ശക്തിയുമുണ്ടെന്നതാണു് പ്രധാനകാര്യം. ചില മതങ്ങൾ അവരുടെ
+
+എണ്ണം പെരുപ്പിക്കാൻ വേണ്ടി ഏതു ദുഷ്കർമ്മവും നടത്തുന്നതും, കമ്മ്യൂണിസ്റ്റുകാർ സോവിയറ്റു പല്ലവി
+പാടുന്നതുമെല്ലാം ഈ ചിന്താഗതിയെ ആദരിച്ചാണു്. “ചേര തിന്നുന്ന നാട്ടിൽ ചെന്നാൽ ചേരയുടെ നടുമുറി
+തിന്നണം.” അതാണു ജനകീയ ഫിലോസഫി. ഇന്നലെ “ദാവിദ് പുത്രന്നു ഹോശാന” എന്നാർത്തട്ടഹസിച്ച
+യഹുദജനത തന്നെയാണു് ഇന്നു് “അവനെ ക്രൂശിക്ക” എന്നലറുന്നതും, യേശുവിനു് ആ ജനക്കൂട്ടത്തെപ്പറ്റി വല്ല
+വ്യാമോഹവുമുണ്ടായിരുന്നെങ്കിൽ “കർത്താവേ, അവർ ചെയ്യുന്നതെന്തെന്നറിയായ്കയാൽ അവരോടു
+ക്ഷമിക്കേണമേ,” എന്നു പ്രാർത്ഥിക്കില്ലായിരുന്നു. ആരെങ്കിലും വങ്കനാണെന്നു പറയുന്നതു
+ബഹുമാനസൂചകമായിട്ടല്ലല്ലോ. <ref target="https://en.wikipedia.org/wiki/Sophocles">സോഫോക്ലിസും</ref> <ref target="https://en.wikipedia.org/wiki/William_Shakespeare">ഷേക്സ്പിയറും</ref>
+<ref target="https://en.wikipedia.org/wiki/Henrik_Ibsen">ഇബ്സനു</ref> മെല്ലാം
+ഇതിലേറെ കയ്പേറിയ ഭാഷയിൽ ഈ സത്യം പറഞ്ഞിട്ടുണ്ടു്. ഭരണാധികാരിയുടെ മനോഭാവമനുസരിച്ചു്,
+പൗരന്മാരുടെ നീതിബോധം ആടിയുലയുന്നതു സോഫോക്ലിസ് ചിത്രീകരിച്ചിട്ടുണ്ടു്. ബ്രൂട്ടസ്സിന്റെയും
+ആന്റണിയുടെയും പുറകേ മാറിമാറി ചാഞ്ചാടുന്ന റോമൻ ജനത്തെ ഷേക്സ്പിയർ നൂറുവട്ടം അപഹസിച്ചിട്ടുണ്ടു്.
+ഇബ്സനിലെത്തിയപ്പോൾ സർവ്വലോകത്തേയും ചെറുത്തുകൊണ്ടു് ഏകാകിയായി എഴുന്നേറ്റുനിന്നു
+കല്ലേറുകൊള്ളുന്നവൻ മാത്രമാണു് മഹാൻ എന്നുവരെ എത്തി. കലാഭാസങ്ങളെ പുലർത്തുന്നതും, അർദ്ധരാത്രി
+സമയത്തു വണ്ടിയിറങ്ങുന്ന സിനിമാനടനെ കാണാൻ പതിനായിരക്കണക്കിനെത്തുന്നതും ബഹുജനമാണു്.
+ഭാഗ്യക്കുറിത്തട്ടിപ്പുകളെ പോഷിപ്പിക്കുന്നതവരാണു്. പുണ്യാത്മാക്കളെ അടിച്ചുകൊല്ലുന്നതും അവർ തന്നെ.
+“പൊതുജനം കഴുതയാണു്.”
+</p>
+          <figure rend="fright">
+            <graphic url="images/shakespeare.png" width="35mm" rendition="thumb"/>
+            <figDesc style="thumb">ഷേക്സ്പിയർ</figDesc>
+          </figure>
+          <p> മതസ്ഥാപകന്മാരും പരിഷ്കർത്താക്കളും രാഷ്ട്രീയനേതാക്കന്മാരുമെല്ലാം ഈ വാസ്തവം
+മനസ്സിലാക്കിയവരാണു്. അവരാരും പൊതുജനത്തെ വിശ്വസിക്കുന്നില്ല. പിന്നെ എന്തിനു മറ്റുള്ളവർ ആ സങ്കല്പം
+പുലർത്തണം? (ജനങ്ങളിൽ വിശ്വസിക്കുന്നുണ്ടെന്നും ജനാധിപത്യത്തിൽ വിശ്വസിക്കുന്നില്ലെന്നും
+പറയുന്നവരുണ്ടു്. അവരെപ്പറ്റി ഇവിടെ പ്രതിപാദിക്കുന്നില്ല.) അന്ധമായി ജനതയിൽ വിശ്വസിക്കുന്ന യാതൊരു
+ചിന്തകനും (<ref target="https://en.wikipedia.org/wiki/Peter_Kropotkin">ക്രോപോട്കിൻ</ref>
+ഒഴികെ) ലോകത്തിലുണ്ടായിട്ടില്ല. നേതൃത്വവും ശിക്ഷണവും എന്തുകാര്യത്തിനും ആവശ്യമാണെന്ന തത്ത്വത്തിന്റെ
+അടിയിൽ കിടക്കുന്നതെന്താണു്? ശരിയായി പ്രവർത്തിക്കാൻ ജനതയ്ക്കു് അറിഞ്ഞുകൂടാത്തതു് ഒരു കുറ്റമായി
+അവർ ഗണിക്കുന്നില്ല. അതൊരു കുറവു് മാത്രമാണു്. ഈ കുറവിനെ അംഗീകരിക്കുകയും അതിന്നുവേണ്ട
+പ്രതിവിധി നിർദ്ദേശിക്കുകയും മാത്രമാണു് അവർ ചെയ്യുന്നതു്. ഈശ്വരനെ ആരാധിക്കുന്നതുപോലും
+സാധാരണക്കാരനു് ചെയ്യാൻ അറിഞ്ഞുകൂടാത്തതുകൊണ്ടാണു് പുരോഹിതവർഗ്ഗമുണ്ടായതു്.
+പുരോഹിതത്തൊഴിൽ ഈശ്വരദത്തമാണെങ്കിൽ അവിടുന്നു പോലും പൊതുജനങ്ങളിൽ വിശ്വസിക്കുന്നില്ലെന്നു
+സ്പഷ്ടം. പൊതുജനങ്ങളിൽ വിശ്വസിക്കുന്നുവെന്നവകാശപ്പെടുന്ന രാഷ്ട്രീയനേതാക്കന്മാരും ഉറപ്പുള്ള രാഷ്ട്രീയ
+ഘടനകളെ പിന്താങ്ങുന്നുണ്ടു്. രാഷ്ട്രത്തിന്റെ സുസ്ഥിതിയെടുത്തു പൊതുജനം കുരങ്ങു കളിച്ചേക്കുമെന്നുള്ള
+ഭീതികൊണ്ടാണല്ലോ രാഷ്ട്രീയ രക്ഷാകവചങ്ങളുണ്ടാക്കുന്നതു്. <ref target="https://en.wikipedia.org/wiki/Plato">പ്ലേറ്റോ</ref> യുടെ
+ആദർശരാഷ്ട്രീയത്തിൽപ്പോലും ഭരണച്ചുമതലയുള്ള ഒരു പ്രത്യേകവിഭാഗമുണ്ടു്. സ്ഥിതി സമത്വവാദികളാകട്ടെ,
+സെൻസസ്സിൽ പേരുള്ളവരെയെല്ലാം പൊതുജനമായിട്ടെണ്ണുകയില്ല. ‘വർഗ്ഗബോധമുള്ളവർ’ മാത്രമാണു്
+ബഹുജനം. ബാക്കിയുള്ളവർ പിന്തിരിപ്പന്മാരും കരിങ്കാലികളുമാണു്. ഫാഷിസത്തിലാണെങ്കിൽ
+ഈശ്വരനിയോഗമുള്ള ഒരു നേതാവിന്റെ ഉപദേശമനുസരിച്ചാണു് ജനങ്ങൾ പെരുമാറേണ്ടതു്.
+ജനാധിപത്യഭരണഘടനകളിൽപ്പോലും ജനതയുടെ വീണ്ടുവിചാരമില്ലാത്ത വികാരങ്ങളിൽനിന്നു രാഷ്ട്രത്തെ
+രക്ഷിക്കുവാനുള്ള വകുപ്പുകൾ കാണുന്നുണ്ടു്. മതവും, കലയും, രാഷ്ട്രവും, ശാസ്ത്രവും ഒന്നും ബഹുജനത്തിന്റെ കയ്യിൽ
+സുരക്ഷിതമല്ല. അതാണു് പൊതുമതം, അതാണനുഭവം. ഈ വാസ്തവത്തിന്റെ മുമ്പിൽ സർവ്വപ്രധാനമായ
+രാഷ്ട്രത്തെ അവരുടെ കയ്യിൽ ഏല്പിച്ചുകൊടുക്കണമെന്നെങ്ങനെ പറയും? അവിടെയാണു് യുക്തി ഭംഗം
+കിടക്കുന്നതു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">രാഷ്ട്രം അവരുടേതു്</head>
+          <p style="noindent">യുക്തിയനുസരിച്ചുള്ള ഒരു നീതീകരണം ജനാധിപത്യത്തിനുണ്ടെന്നെനിക്കു
+തോന്നുന്നില്ല. ഉണ്ടെങ്കിൽ ഞാനതു കണ്ടെത്തിയിട്ടില്ല. എന്നെ സംബന്ധിച്ചിടത്തോളം അതൊരു വിശ്വാസം
+മാത്രമാണു്. ചില ന്യായങ്ങൾ മാത്രം പറയാം.
+</p>
+          <figure rend="fleft">
+            <graphic url="images/Ibsen.jpg" width="35mm" rendition="thumb"/>
+            <figDesc style="thumb">ഇബ്സൻ</figDesc>
+          </figure>
+          <p> ഒന്നാമതു്, രാഷ്ട്രം അവരുടെ സമ്പത്താണു്, തറവാട്ടുമുതലാണു്. അതവർക്കുവേണ്ടിത്തന്നെ
+സംഘടിക്കപ്പെട്ടതുമാണു്. അവരാണതിന്റെ ചട്ടക്കൂടിനുള്ളിൽ ജീവിക്കേണ്ടതു്. അതുകൊണ്ടു്
+അതെങ്ങനെയായിരിക്കണമെന്നു തീരുമാനിക്കാൻ അവർക്കവകാശം കൊടുത്തേ കഴിയൂ. അവർ അതു
+ശരിയായി നടത്തുന്നെങ്കിൽ നടത്തട്ടെ. അല്ലെങ്കിൽ നശിക്കട്ടെ. അറിയാവുന്നവർ അവർക്കു
+ബുദ്ധിയുപദേശിക്കുന്നതിൽ തെറ്റില്ല. പക്ഷേ, അവരതു് വകവെയ്ക്കുന്നില്ലെങ്കിൽ ബലാല്ക്കാരമായി ആരും അവരെ
+നന്നാക്കാൻ ശ്രമിക്കരുതു്. അതു രോഗത്തേക്കാളും ഭയങ്കരമായ ഔഷധത്തിലവസാനിക്കും. (ഇതൊന്നും കല
+മുതലായ കാര്യങ്ങളെപ്പറ്റി ഞാൻ പറയുകയില്ല.) രണ്ടാമതായി, ശാസ്ത്രത്തിനും, കലയ്ക്കും മറ്റും വേണ്ടത്ര
+സംസ്കാരനിലവാരം രാഷ്ടീയകാര്യങ്ങൾക്കു് ആവശ്യമില്ല. ഉത്തമകലാവസ്തു തെരഞ്ഞെടുക്കുന്നതിനേക്കാൾ
+എളുപ്പമാണല്ലോ വോട്ടുചെയ്യുന്നതു്. മൂന്നാമതു്, രാഷ്ട്രത്തെ സംബന്ധിച്ചേടത്തോളം ബഹുജനങ്ങൾ എന്തെങ്കിലും
+നശിപ്പിച്ചുകളയുമെന്നു ഭയപ്പെടാനില്ല. എന്താണു് നശിപ്പിക്കാനുള്ളതു്? ശാശ്വതമായി കാത്തുരക്ഷിക്കേണ്ട
+യാതൊരു രാഷ്ട്രീയസംഘടനയും മനുഷ്യനിതുവരെ ഉണ്ടാക്കിയിട്ടില്ല, ഒരിക്കലും ഉണ്ടാക്കുകയുമില്ല. നാലാമതു്,
+ജനാധിപത്യമെന്നതു് അവർ പരിചയിച്ചു പഠിക്കേണ്ട ഒന്നാണു്. വെള്ളത്തിലിറങ്ങാതെ നീന്താൻ പഠിക്കുകയില്ല.
+ഒരു കവിൾ വെള്ളം കുടിച്ചാലെന്തു്? ആവശ്യം അവനെ വിദഗ്ദ്ധനാക്കിക്കൊള്ളും. അഞ്ചാമതു്, ബഹുജനം
+എല്ലാക്കാര്യങ്ങളിലും കഴുതയല്ല. പലതിലും അവർ കഴിവുകേടു കാണിച്ചിട്ടുണ്ടെന്നുള്ളതു് ശരിയാണെങ്കിലും
+അവരുടെ തൊഴിലിൽ അവർ സമർത്ഥരാണു്. കൃഷിവകുപ്പിലുള്ള സകല ഉദ്യോഗസ്ഥന്മാരേക്കാളും,
+കാര്യമറിയാവുന്നവരാണു് നമ്മുടെ കൃഷിക്കാർ! രാഷ്ട്രീയകാര്യങ്ങൾ അവരുടെ ജീവിതവൃത്തികളിൽ
+ഒന്നായിക്കഴിയുമ്പോൾ അവരതു പഠിച്ചുകൊള്ളും. ആറാമതു്, ജനാധിപത്യത്തിൽ ഗൂഢാലോചനയും
+രഹസ്യചർച്ചകളും അനുവദിച്ചിട്ടില്ല. പൊതുകാര്യങ്ങൾ മറയ്ക്കു പിന്നിലേയ്ക്കു കൊണ്ടുപോകുന്നതു്
+സർവാധിപത്യത്തിനു വഴിതെളിയിക്കുകയാണു്. ഇതരരാഷ്ട്ര സമ്പ്രദായങ്ങളിൽ സാധാരണക്കാരനെ വിശ്വസിച്ചു
+പങ്കാളിയാക്കാൻ വയ്യാത്ത കാര്യങ്ങളുണ്ടു്. ശത്രുക്കളെ വഞ്ചിക്കുവാനെന്ന ഭാവത്തിൽ സ്വന്തം കുഞ്ഞാടുകളെ
+ചതിക്കുന്ന രംഗങ്ങളാണവ. സകല രാഷ്ട്രീയവഞ്ചനകളും ഇത്തരം രഹസ്യരംഗങ്ങളിൽവെച്ചാണു്
+രൂപമെടുക്കുന്നതു്. ജനാധിപത്യം ഈ സമ്പ്രദായത്തെ അംഗീകരിക്കുന്നില്ല. അവസാനമായി, ജനതയിൽ തിന്മ
+മാത്രമല്ല ഉള്ളതെന്ന കാര്യം ശ്രദ്ധിക്കണം. ജനതയുടെ രണ്ടു പ്രത്യേകതകൾ പരിഗണനാർഹങ്ങളാണു്.
+അവർക്കു പരിഷ്കാരം കുറവാണെങ്കിലും മനുഷ്യത്വം അവരിൽ വളരെയധികം കാണാൻ കഴിയും. ഭൂതദയ,
+സഹാനുഭൂതി മുതലായ ഗുണങ്ങൾ ഉയർന്ന വർഗ്ഗത്തെക്കാൾ കൂടുതലായി അവരിൽ കണ്ടെന്നുവരും. മറ്റൊന്നു്,
+അവരുടെ അന്ധമായ ഒരു വക ബുദ്ധിയാണു്. തലമുറകളായി മനുഷ്യൻ അനുഭവിച്ചറിഞ്ഞ കാര്യങ്ങളുടെ
+കലവറകളാണവർ. പലപ്പോഴും കാര്യകാരണബന്ധമറിയാതെതന്നെ ശരിയെന്തെന്നു് അവർ കണ്ടുപിടിക്കും.
+പാരമ്പര്യത്തിന്റെ രഹസ്യംതന്നെ ഇതാണു്. ഒരു ജനതയുടെ നിലനില്പിന്നു് അതൊഴിച്ചുകൂടാത്ത സമ്പത്താണു്.
+ഇതിൽനിന്നുണ്ടാവുന്ന യാഥാസ്ഥിതികമനഃസ്ഥിതി പരിഷ്കർത്താവിനൊരു വിലങ്ങുതടിയാണെങ്കിലും
+സമുദായത്തെ കണ്ണടച്ചു് ഓരോ ആപത്തിലേയ്ക്കു് വലിച്ചിഴയ്ക്കുന്ന കോളിളക്കങ്ങൾക്കു് കടിഞ്ഞാണും
+ഇതുതന്നെയാണു്.
+</p>
+          <p>‘കഴുത’യായ പൊതുജനത്തെപ്പറ്റി ഇത്ര നല്ലതായി പറയുന്നതു പൂർവ്വാപരവിരുദ്ധമല്ലേ എന്നു
+ചോദിക്കുന്നവരുണ്ടാകാം. അല്ല എന്നാണു മറുപടി. ശ്രദ്ധിച്ചാൽ ഇവ തമ്മിൽ വൈരുദ്ധ്യമില്ലെന്നറിയാം.
+</p>
+          <p>പ്രായോഗികവശത്തുനിന്നു ജനാധിപത്യത്തിനു മറ്റൊരു നീതീകരണമുണ്ടു്. യാതൊരുത്തനും മറ്റൊരാളെ
+ഭരിക്കാൻ മാത്രം യോഗ്യനല്ല എന്ന തത്ത്വം തെറ്റാണു്. പക്ഷേ, അതൊരാദർശമായി അംഗീകരിക്കാതിരുന്നാൽ
+ഭരിക്കാൻ യോഗ്യനാരെന്നതിനെക്കുറിച്ചുണ്ടാകുന്ന തർക്കം തീരുമാനിക്കാൻ സമരമല്ലാതെ മറ്റു
+മാർഗ്ഗമില്ലാതായിത്തീരും. അതു് കുരങ്ങു് അപ്പം പങ്കിട്ടതുപോലെ അവസാനിക്കുകയും ചെയ്യും. സകല
+സർവ്വാധിപതികൾക്കും, ഏറ്റവും ഭരിക്കാൻ പറ്റിയവർ അവരാണെന്നാണു വിശ്വാസം. ഈ ദുരന്തത്തിൽനിന്നു്
+ഒരു രക്ഷാമാർഗ്ഗമേയുള്ളു, സമ്മതത്തോടെ ഭരിക്കുകയെന്നതു്. അതിന്റെ ഫലമായി ലഭിക്കുന്നതു
+സ്വർഗ്ഗമല്ലായിരിക്കാം. പക്ഷേ, സങ്കല്പസ്വർഗ്ഗത്തിനുവേണ്ടി ആരും യഥാർത്ഥലോകം ഉപേക്ഷിക്കാറില്ലല്ലോ.
+
+</p>
+          <figure rend="fleft">
+            <graphic url="images/Peter_Kropotkin.jpg" width="35mm" rendition="thumb"/>
+            <figDesc style="thumb">ക്രോപോട്കിൻ</figDesc>
+          </figure>
+          <p> ആരാധിക്കത്തക്ക ഒരു ദേവതയല്ല ബഹുജനം എന്നു പറഞ്ഞതുകൊണ്ടു് അതിനെ
+വെറുക്കണമെന്നർത്ഥമില്ല. അവരെ പുച്ഛിക്കുന്നു എന്നുമില്ല. മഹാത്മാക്കൾ മറ്റൊരു മാർഗ്ഗമാണവലംബിച്ചതു്.
+അയൽക്കാരനെ സ്നേഹിക്കുവാനാണു് ക്രിസ്തു ഉപദേശിച്ചതു്. അവർ ശത്രുവായാലും സ്നേഹിക്കണമെന്നു്. ഇതു
+കാപട്യമില്ലാത്ത ഒരു നിലപാടാണു്. പൊതുജനം ചാണക്യനെക്കാൾ ബുദ്ധിയുള്ളതാണെന്നുപറഞ്ഞുവിരട്ടി
+വോട്ടുവാങ്ങി രാഷ്ട്രീയാധികാരം സമ്പാദിക്കുന്നവരോടു് താരതമ്യപ്പെടുത്തി നോക്കിയാൽ ഇബ്സനെപ്പോലുള്ള
+“പൊതുജനശത്രുക്കൾ” എത്ര ഭേദമാണു്. വോട്ടു കൈക്കലാക്കാനുള്ള മാർഗ്ഗവും നല്ല മനുഷ്യസമുദായം
+സൃഷ്ടിക്കാനുള്ള മാർഗ്ഗവും ഒന്നായിരിക്കണമെന്നു നിർബ്ബന്ധമില്ല. മേൽപറഞ്ഞ മനുഷ്യസ്നേഹത്തിന്റെ പേരിലും
+അസ്വാതന്ത്ര്യം നിലനിറുത്താം. അങ്ങനെയുള്ള മനുഷ്യസ്നേഹികളെയും ഒഴിച്ചുനിറുത്തുന്നതാണു് സമുദായത്തിനു
+നല്ലതു്. സ്വന്തസമ്മതത്തിനെതിരായി നിർബന്ധിച്ചു ഭക്ഷണം കഴിപ്പിക്കുന്നതുപോലും അംഗീകരിക്കാവുന്നതല്ല.
+അല്ലെങ്കിൽ സമുദായം മുഴുവൻ ഭ്രാന്തന്മാരും നേതാക്കന്മാരെല്ലാം വൈദ്യന്മാരുമായിരിക്കണം.
+അല്ലാത്തിടത്തോളം കാലം നിർബന്ധിച്ചു നടപ്പിൽ വരുത്തുന്ന സകലതിനെയും എതിർക്കാനുള്ള വാസനയാണു്
+മനുഷ്യരിൽ വളരുക, സഹകരിക്കാനുള്ള സന്നദ്ധതയല്ല.
+</p>
+          <p>ജനാധിപത്യം ഒരാദർശമാണു്. അതൊരിക്കലും പൂർണ്ണമായി നടപ്പാവുകയില്ല. അതു് അങ്ങനെ നടപ്പാക്കാൻ
+വേണ്ടിയുള്ളതുമല്ല. സംസ്കാരത്തിലേക്കുള്ള മനുഷ്യവർഗ്ഗത്തിന്റെ നിരന്തരപ്രയാണത്തിൽ ലക്ഷ്യനിർദ്ദേശം
+ചെയ്യുന്ന ഒരു പ്രകാശഗോപുരമാണതു്. അതു് അങ്ങനെ ചക്രവാളത്തിനു മുകളിൽ ജ്വലിച്ചു് പ്രകാശിക്കും. നാം
+ചക്രവാളത്തിലെത്തുമ്പോൾ ആ ദീപശിഖ അതിനടുത്ത ചക്രവാളത്തിലേയ്ക്കു നീങ്ങിയതായിക്കാണും. അതങ്ങനെ
+മാടിവിളിച്ചു കൊണ്ടു് നീങ്ങിക്കൊണ്ടിരിക്കും. അതിനെ അനുഗമിച്ചു നാം മുന്നോട്ടുപോകും. ഒരിക്കലും അവിടെ
+എത്തുകയുമില്ല. ഗംഗാജലത്തിലല്ല പുണ്യം, ഗംഗയിലേക്കുള്ള തീർത്ഥയാത്രയിലാണു്.
+</p>
+          <p>മാതൃഭൂമി വാരിക ജനുവരി 1954.
+</p>
+          <p>ധിക്കാരിയുടെ കാതൽ 1955.
+</p>
+          <p style="noindent">
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ യുടെ
+ജീവചരിത്ര സംഗ്രഹം</ref>
+          </p>
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  janādhipatyattinu oru
+māppusākshi (ml: ജനാധിപത്യത്തിനു് ഒരു മാപ്പുസാക്ഷി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Thomas CJ.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>
+ Mathrubhumi Weekly; Kozhikode, Kerala; 1954-01-01. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Thomas CJ,
+Janadhipathyathinu oru mappusakshi, സി ജെ തോമസ്, ജനാധിപത്യത്തിനു് ഒരു മാപ്പുസാക്ഷി, Open
+Access Publishing, Malayalalm, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 17, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+in the public domain. The text encoding and editorial notes were created and​/or prepared by
+the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Le_petit_chaperon_rouge.jpg">Little
+Red Riding Hood,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Albert_Anker">Albert Anker</ref>
+ (1831–1910). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Digitizer:</hi>  KB Sujith; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-mappusakshi.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-mappusakshi.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

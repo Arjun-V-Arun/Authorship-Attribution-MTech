@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചേലക്കരയുടെ അതീത (ദലിത്)
+സ്വപ്നങ്ങൾ</title>
+          <title xml:lang="en" type="main">Chelakkarayude Atheetha (Dalit)
+Swapnangal</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">February 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചേലക്കരയുടെ അതീത (ദലിത്)
+സ്വപ്നങ്ങൾ</title>
+              <title xml:lang="en" type="main">Chelakkarayude Atheetha (Dalit)
+Swapnangal</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Chelakkarayude Atheetha (Dalit) Swapnangal</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ചേലക്കരയുടെ അതീത (ദലിത്) സ്വപ്നങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Alfred_Roll_Marianne_Orfrey.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Alfred_Roll_-  _Marianne_Orfrey.jpg">Marianne Orfrey, crier of green,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Alfred_Philippe_Roll">Alfred
+Philippe Roll</ref>  (1846–1919). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചേലക്കരയുടെ അതീത (ദലിത്) സ്വപ്നങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചേലക്കരയുടെ അതീത (ദലിത്) സ്വപ്നങ്ങൾ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_sudhakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. സുധാകരൻ</figDesc>
+          </figure>
+          <p style="noindent"> 2006 മെയ് 18-ാം തീയതി വ്യാഴാഴ്ച വൈകിട്ടു് നാലുമണിക്കു് തിരുവനന്തപുരം
+സെൻട്രൽ സ്റ്റേഡിയത്തിൽ ആയിരങ്ങൾ ആർത്തിരമ്പവേ, സഖാവു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദൻ</ref> സത്യപ്രതിജ്ഞ ചെയ്തു. കേരളപ്പിറവിക്കുശേഷം പിന്നാക്കസമുദായത്തിൽനിന്നുള്ള
+മൂന്നാമത്തെ മുഖ്യമന്ത്രി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Seethi_sahib.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. സീതിസാഹിബ്</figDesc>
+          </figure>
+          <p> 1956 നവംബർ ഒന്നിനാണു് തിരുവിതാംകൂർ-കൊച്ചിയും മലബാറും ചേർന്നു് ഐക്യകേരളമുണ്ടായതു്. വിവിധ
+ഘട്ടങ്ങളിലായി നാലുവർഷത്തോളം സംസ്ഥാനം രാഷ്ട്രപതി ഭരണത്തിൻ കീഴിലായിരുന്നു. 1962 സെപ്റ്റംബർ 26
+മുതൽ ’64 സെപ്തംബർ 10 വരെ കഷ്ടിച്ചു് രണ്ടുവർഷമേ <ref target="https://ml.wikipedia.org/wiki/R._Sankar">ആർ. ശങ്കറി</ref> നു്
+മുഖ്യമന്ത്രിയായിരിക്കാൻ കഴിഞ്ഞുള്ളൂ. അപ്പോഴേക്കും ചോവന്റെ ഭരണം അസഹ്യമായി; നായന്മാരും
+നസ്രാണികളും ടാങ്കുവെച്ചു് മന്ത്രിസഭ പൊളിച്ചു. സ്വസമുദായത്തിൽനിന്നു് യാതൊരു പിന്തുണയും ശങ്കറിനു്
+കിട്ടിയില്ല. 1965-ൽ നിയമസഭയിലേക്കും ’67-ൽ ലോക്സഭയിലേക്കും മൽസരിച്ചപ്പോൾ ഡീസന്റായി തോറ്റു.
+പിന്നീടു് സീറ്റേ കിട്ടിയില്ല. ഇഷ്ടദാനബില്ല് പാസാക്കാൻ വേണ്ടി തട്ടിക്കൂട്ടിയുണ്ടാക്കിയതാണു് <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദ്കോയ</ref> യുടെ മന്ത്രിസഭ. ബില്ല് പാസായ ദിവസം മന്ത്രിസഭ അപ്രസക്തമായി. ആദ്യം <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref> കാലുവാരി,
+പിന്നാലെ ആദർശവാദി കോൺഗ്രസും, അധികാരമേറ്റു് 51-ാം ദിവസം (1.12.1979) മന്ത്രിസഭ മയ്യത്തായി. <ref target="https://ml.wikipedia.org/wiki/R._Sankar">ശങ്കർ</ref>, <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">കോയ</ref>
+ഭരണകാലവും രാഷ്ട്രപതി ഭരിച്ച നാലുകൊല്ലവുമൊഴിച്ചാൽ നാടുവാണതത്രയും നമ്പൂരി-നായർ-നസ്രാണി
+മുഖ്യരായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Radakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> ഈഴവരാദി പിന്നാക്ക ഹിന്ദുക്കളും പട്ടികജാതിക്കാരും കമ്യൂണിസ്റ്റ് പാർട്ടികളുടെ പരമ്പരാഗത
+വോട്ടുബാങ്കാണു്. മതിലെഴുതുന്നതും പോസ്റ്ററൊട്ടിക്കുന്നതും മുദ്രാവാക്യം വിളിച്ചു് ജാഥക്കു് പോകുന്നതും
+പൊലീസിന്റെ തല്ലുവാങ്ങുന്നതും അത്യാവശ്യഘട്ടങ്ങളിൽ വർഗശത്രുക്കളുടെ കുത്തേറ്റുചാകുന്നതും ഇക്കൂട്ടരാണു്.
+സംസ്ഥാനമുണ്ടായി അരനൂറ്റാണ്ടു തികയുന്ന വേളയിൽ ഇതാ അവരിൽനിന്നൊരാൾ മുഖ്യനുമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Alexander_Parambithara.jpg" rendition="gra"/>
+            <figDesc style="thumb">അലക്സാണ്ടർ പറമ്പിത്തറ</figDesc>
+          </figure>
+          <p> മുമ്പു മൂന്നുതവണ ഈഴവനേതാക്കൾ മുഖ്യമന്ത്രിപദത്തിന്റെ വക്കോളമെത്തിയിരുന്നു: 1980-ൽ <ref target="https://ml.wikipedia.org/wiki/T.K._Ramakrishnan">ടി. കെ.
+രാമകൃഷ്ണൻ</ref>, ;87-ൽ <ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">കെ. ആർ.
+ഗൗരിയമ്മ</ref>, ’96-ൽ സുശീലാഗോപാലൻ. മൂവരുടെയും സ്വപ്നങ്ങൾ തകർത്തതു് <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">ഇ. കെ. നായനാർ</ref>.
+<ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദൻ</ref>
+തന്നെയും മൂന്നാമത്തെ ചാൻസിലാണു് പാസാകുന്നതു്. 1996-ൽ മുന്നണി ജയിച്ചു, വി. എസ്. തോറ്റു; 2001-ൽ
+വി. എസ്. ജയിച്ചു. മുന്നണി തോറ്റു. ഇത്തവണ വി. എസ്. മുന്നണിയെ വിജയത്തിലേക്കു് നയിച്ചു, വിജയന്റെ
+തന്ത്രങ്ങളെ അതിജീവിച്ചും മുഖ്യമന്ത്രിപദത്തിലെത്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_M_C_Balayogi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. എം. സി. ബാലയോഗി</figDesc>
+          </figure>
+          <p> വി. എസ്. മന്ത്രിസഭയിൽ അവർണ സമുദായങ്ങൾക്കു് നല്ല പ്രാതിനിധ്യം കിട്ടിയിട്ടുണ്ടു്. സവർണർ
+ഏഴുപേരേയുള്ളൂ—അഞ്ചു നായന്മാർ, രണ്ടു സുറിയാനി ക്രിസ്ത്യാനികൾ. അവർണർ 12 പേരുണ്ടു്—ഈഴവർ 6,
+മുസ്ലീം 2, ലത്തീൻ 2, ധീവര 1, പട്ടികജാതി 1.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AP_Kurian.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. പി. കുര്യൻ</figDesc>
+          </figure>
+          <p> 1957 മുതൽക്കുള്ള ചരിത്രം പരിശോധിച്ചാൽ പിന്നാക്ക സമുദായങ്ങളുടെ (പട്ടികജാതിക്കാരൊഴികെ)
+മന്ത്രിസഭാ പ്രാതിനിധ്യം ക്രമാനുഗതമായി വർധിക്കുന്നതു് കാണാം. 1957-ലെ ഒന്നാം <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്.</ref> മന്ത്രിസഭയിൽ രണ്ടു്
+ഈഴവരും ഒരു മുസ്ലീമുമാണു് ഉണ്ടായിരുന്നതു്. മറുവശത്തു് സിറിയൻ ക്രിസ്ത്യാനികൾ 3, ബ്രാഹ്മണരും നായന്മാരും
+രണ്ടുവീതം. 1967-ലെ രണ്ടാം <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്.</ref> മന്ത്രിസഭയിൽ
+ഈഴവർ 2, മുസ്ലീം 4, ലത്തീൻ 1 എന്നാണു് പിന്നാക്ക പ്രാതിനിധ്യം, മുന്നാക്കക്കാർ-ബ്രാഹ്മണൻ 1, നായർ 2,
+സിറിയൻ ക്രിസ്ത്യൻ 2. 1996-ലെ മൂന്നാം നായനാർ സർക്കാറിൽ അഞ്ചു സവർണർ, 8 പിന്നാക്കക്കാർ.
+ഈഴവർക്കു മാത്രമല്ല, നാടാർ, ധീവര സമുദായംഗങ്ങൾക്കും മന്ത്രിസ്ഥാനം കിട്ടാൻ തുടങ്ങി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Sankaranarayanan_Thampi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ശങ്കരനാരായണൻ തമ്പി</figDesc>
+          </figure>
+          <p> ഇക്കണ്ട കാലത്തിനിടക്കു് പട്ടികജാതിക്കാർക്കുമാത്രം പുരോഗതിയുണ്ടായില്ല. 1957-ലെ <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസി</ref> ന്റെ മന്ത്രിസഭയിൽ ഒരു
+പട്ടികജാതിക്കാരൻ—<ref target="https://ml.wikipedia.org/wiki/P.K.Chathan">പി. കെ. ചാത്തൻ</ref>. 2006-ൽ
+വാഴ്ചയൊഴിഞ്ഞ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+മന്ത്രിസഭയിലും ഒരു പട്ടികജാതിക്കാരൻ—<ref target="https://ml.wikipedia.org/wiki/A.P._Anil_Kumar">എ. പി.
+അനിൽകുമാർ</ref>, <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ചി</ref> ന്റെ
+ഇഷ്ടദാനമന്ത്രിസഭയിലും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകർജി</ref> യുടെ
+കാസ്റ്റിംഗ് മന്ത്രിസഭയിലുമൊഴികെ എല്ലാത്തിലുമുണ്ടായിരുന്നു പട്ടികജാതി പ്രാതിനിധ്യം. ഒരുസമയത്തും
+രണ്ടാമതൊരു പട്ടികജാതിക്കാരനു് മന്ത്രിസ്ഥാനം കിട്ടിയിട്ടില്ലതാനും. നട്ടപ്പോഴും പറിച്ചപ്പോഴും ഒരു കുട്ട.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KE_ISMAIL.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ഇ. ഇസ്മായിൽ</figDesc>
+          </figure>
+          <p> ആഭ്യന്തരവകുപ്പ് നേരിട്ടു് ഭരിച്ച മുഖ്യമന്ത്രിമാർ പലരുണ്ടു്. എന്നാൽ പട്ടികജാതിക്ഷേമവകുപ്പ് നേരിട്ടു് ഭരിച്ച
+മുഖ്യൻ ഒന്നേയുണ്ടായിട്ടുള്ളൂ—<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>
+(1982–87). തൊഴിൽരഹിതരായ പട്ടികജാതിക്കാർക്കു് ആനയെ വാങ്ങിക്കൊടുത്തതും
+ബലാൽസംഗത്തിനിരയാകുന്നവർക്കു് അയ്യായിരം രൂപ ഇനാം പ്രഖ്യാപിച്ചതുമൊക്കെ അക്കാലത്താണു്.
+അഞ്ചുവർഷവും മുഖ്യൻ നാടൊട്ടുക്കു പാറിനടന്നു് പന്തിഭോജനത്തിൽ പങ്കുകൊണ്ടു. 1984-മാണ്ടു് സെപ്തംബറിൽ
+ആലുവാ ടൗൺഹാളിൽ നടന്ന സാഹിത്യപരിഷത്തു് സമ്മേളനത്തിൽ “നെല്ലിന്റെ ചോട്ടിൽ മുളയ്ക്കും പുല്ലല്ല,
+സാധുപുലയൻ” എന്നു് കവിത പാടി സാഹിത്യകാരന്മാരെ ഞെട്ടിക്കുകയുമുണ്ടായി. 1986 മാർച്ചിൽ
+രാജ്യസഭയിലേക്കു് വന്ന ഒഴിവിൽ പട്ടികജാതിക്കാരൻ തന്നെ വേണമെന്ന് ശാഠ്യം പിടിച്ചു് <ref target="https://ml.wikipedia.org/wiki/T.K.C._VADUTHALA">ടി. കെ. സി. വടുതല</ref>
+യെ തെരഞ്ഞെടുപ്പിച്ചയച്ചതും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>.
+(അങ്ങനെ <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">എ. എ.
+റഹിമി</ref> നെ ഒതുക്കി എന്നു മറ്റൊരു പരമാർഥം).
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PK_Chathan_Master.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. ചാത്തൻ</figDesc>
+          </figure>
+          <p> പട്ടികജാതിക്കാരുടെ കാലദോഷം എന്നേ പറയാവൂ. 1991-ൽ വീണ്ടും മുഖ്യമന്ത്രിയായപ്പോൾ കരുണാകരൻ
+തമ്പ്രാൻ അവരുടെ വകുപ്പു നേരിട്ടു് ഭരിക്കാതെ പന്തളം സുധാകരനെ ഏൽപിച്ചു. ലീഡറുടെ
+വാൽസല്യഭാജനമായിരുന്നു സുധാകരൻ. പക്ഷേ, ഉപ്പോളം വന്നില്ല ഉപ്പിലിട്ടതു്. 1986-ൽ വടുതലക്കുവേണ്ടി
+വാശിപിടിച്ച കരുണാകരൻ ’94-ൽ <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ. കുട്ടപ്പനെ</ref>
+രാജ്യസഭാംഗമാക്കാനുള്ള ആന്റണിഗ്രൂപ്പുകാരുടെ ശ്രമം വിഫലമാക്കി. കാരണം? ഞാൻ തന്നെ വഴിയും സത്യവും
+ജീവനുമാകുന്നു, എന്നിലൂടെയല്ലാതെ ഒരു പട്ടികജാതിക്കാരനും രാജ്യസഭയിലെത്തുകയില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AP_Anil_Kumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. പി. അനിൽകുമാർ</figDesc>
+          </figure>
+          <p> കരുണാകരന്റെ 1982–87 കാലത്തൊഴികെ എല്ലായ്പ്പോഴും പട്ടികജാതിക്കാർക്കു് ഭരിക്കാൻ കിട്ടിയ പ്രധാന
+വകുപ്പു് പട്ടിക ജാതി-പട്ടികവർഗ ക്ഷേമം ആയിരുന്നു. പുറമെ വല്ല ലൊട്ടുലൊടുക്കുവകുപ്പുകൂടി കിട്ടിയാലായി.
+<ref target="https://ml.wikipedia.org/wiki/K._Kunhambu">കെ. കുഞ്ഞമ്പു</ref>
+വിനു അങ്ങനെ കിട്ടിയതു് റജിസ്ട്രേഷൻ വകുപ്പായിരുന്നു. ചാത്തനു് തദ്ദേശ സ്വയംഭരണം, <ref target="https://ml.wikipedia.org/wiki/P.K._Raghavan">പി. കെ. രാഘവനു്</ref>
+ഭവനനിർമ്മാണം, <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണനു്</ref> ജലസേചനം, <ref target="https://en.wikipedia.org/wiki/Vella_Eacharan">വെള്ള ഈച്ചരനും</ref>
+
+<ref target="https://ml.wikipedia.org/wiki/Damodaran_Kalassery">ദാമോദരൻ
+കാളാശേരി</ref> ക്കും സാമൂഹികക്ഷേമം, <ref target="https://en.wikipedia.org/wiki/K._Radhakrishnan_(politician)">കെ.
+രാധാകൃഷ്ണനും</ref> <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ. കുട്ടപ്പനും</ref>
+യുവജനക്ഷേമം, <ref target="https://ml.wikipedia.org/wiki/A.P._Anil_Kumar">എ. പി.
+അനിൽകുമാറിനു്</ref> സാംസ്കാരികം, <ref target="https://ml.wikipedia.org/wiki/M._K._Krishnan">എം. കെ. കൃഷ്ണനു്</ref>
+1967-ൽ വനവും 1980-ൽ എക്സൈസും കിട്ടിയതാണു് അപവാദം. കരുണാകർജി പട്ടികജാതിക്ഷേമവകുപ്പു ഭരിച്ച
+കാലത്തു് <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണനു്</ref> കിട്ടിയതു് ഗതാഗതവകുപ്പാണു്. പകരക്കാരനായി വന്ന <ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">പി. കെ. വേലായുധനു്</ref>
+സാമൂഹികക്ഷേമം. പട്ടികജാതിക്കാരനെ ആഭ്യന്തരമോ ധനകാര്യമോ റവന്യൂവോ വ്യവസായമോ വിദ്യാഭ്യാസമോ
+ഏൽപിക്കാൻ ഒരു മുഖ്യമന്ത്രിക്കും ധൈര്യം വന്നിട്ടില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/VarkalaRadhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വർക്കല രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> 1957-ൽ പട്ടികജാതിക്കാർക്കു് സംവരണം ചെയ്തിരുന്ന മണ്ഡലങ്ങൾ 12 എണ്ണമായിരുന്നു. എല്ലാം
+ദ്വയാംഗമണ്ഡലങ്ങൾ. നിയമസഭയിലേക്കു് തെരഞ്ഞെടുക്കപ്പെട്ട പട്ടികജാതിക്കാർ 15 പേർ. കാരണം
+പൊന്നാനി, വടക്കാഞ്ചേരി, തൃക്കടവൂർ മണ്ഡലങ്ങളിൽ ഒന്നും രണ്ടും സ്ഥാനത്തെത്തിയതു്
+പട്ടികജാതിക്കാരായിരുന്നു. അത്തവണ പാലക്കാട് ലോക്സഭാ (ദ്വയാംഗ) മണ്ഡലത്തിലും ഇതുതന്നെ
+സംഭവിച്ചു. കോൺഗ്രസിന്റെയും കമ്യൂണിസ്റ്റ് പാർട്ടിയുടെയും പട്ടികജാതി സ്ഥാനാർഥികൾ—<ref target="https://en.wikipedia.org/wiki/Vella_Eacharan">വി. ഈച്ചരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/P._Kunjan">പി. കുഞ്ഞൻ</ref>—ജയിച്ചു.
+1960-ലെ നിയമസഭാ തെരഞ്ഞെടുപ്പിൽ ജനങ്ങൾ കൂടുതൽ ജാഗ്രത പുലർത്തി. എന്നിട്ടും ദേവികുളം ദ്വയാംഗ
+മണ്ഡലത്തിൽനിന്നു് രണ്ടു പട്ടികജാതിക്കാർ ജയിച്ചുകയറി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Kunhambu.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കുഞ്ഞമ്പു</figDesc>
+          </figure>
+          <p> 1960-ലെ തെരഞ്ഞെടുപ്പോടെ ദ്വയാംഗമണ്ഡലങ്ങൾ ഇല്ലാതായി. 1965-ൽ ഇപ്പോഴത്തെ സമ്പ്രദായം
+നിലവിൽവന്നു. അതോടെ, പട്ടികജാതിക്കാർക്കു് ജനറൽ സീറ്റിൽ ജയിക്കാനുള്ള വിദൂര സാധ്യതകൂടി ഇല്ലാതായി.
+ഇടതുമുന്നണിയാകട്ടെ വലതുമുന്നണിയാകട്ടെ നാലാലൊരു നിവൃത്തിയുണ്ടെങ്കിൽ പട്ടികജാതിക്കാരനു്
+സംവരണ സീറ്റല്ലാതെ പൊതുസീറ്റ് നൽകില്ല. ഇനി നൽകിയാലും പട്ടികജാതിക്കാരനു് ജനം വോട്ടുചെയ്യില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TKC_VADUTHALA.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. സി. വടുതല</figDesc>
+          </figure>
+          <p> 1967-ൽ സി. പി. ഐ. <ref target="https://ml.wikipedia.org/wiki/P.K.Chathan">ചാത്തൻ മാസ്റ്ററെ</ref>
+ചാലക്കുടിയിൽ മൽസരിപ്പിച്ചു. ചാലക്കുടി ദ്വയാംഗ മണ്ഡലമായിരുന്ന കാലത്തു് രണ്ടുതവണ ജയിച്ച ദേഹവും
+മുൻമന്ത്രിയുമായിരുന്നു മാസ്റ്റർ. അത്തവണ സംസ്ഥാനത്താകെ കനത്ത ഇടതുതരംഗവുമായിരുന്നു. പക്ഷേ,
+ചാലക്കുടിയിലെ പ്രബുദ്ധരായ വോട്ടർമാർ <ref target="https://ml.wikipedia.org/wiki/P._P._George">പി. പി. ജോർജിനെ</ref>
+യാണു് തെരഞ്ഞെടുത്തയച്ചതു്. അതോടെ സി. പി. ഐ.-ക്കാർക്കു് സൽബുദ്ധി തെളിഞ്ഞു. 1970-ൽ അവർ സഖാവു്
+
+ചാത്തനെ തിരുവനന്തപുരം ജില്ലയിലെ കിളിമാനൂർ നിറുത്തി ജയിപ്പിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_Vijayakumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വിജയകുമാർ</figDesc>
+          </figure>
+          <p> 1980-ലാണു് അടുത്ത സാഹസം. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> വിഭാഗം
+കോൺഗ്രസുകാർ കണ്ണൂർ പാർലമെന്റ് സീറ്റിൽ മുൻമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/K._Kunhambu">കുഞ്ഞമ്പു</ref> വിനെ
+മൽസരിപ്പിച്ചു. സ്ഥലം കണ്ണൂരായതുകൊണ്ടും എതിരാളി <ref target="https://ml.wikipedia.org/wiki/N._Ramakrishnan">എൻ. രാമകൃഷ്ണനാ</ref>
+യതുകൊണ്ടും സി. പി. എം. പിന്തുണയുണ്ടായതുകൊണ്ടും കുഞ്ഞമ്പു ജയിച്ചു. 1984-ൽ കോൺഗ്രസ് കുഞ്ഞമ്പുവിനെ
+അടൂർ സംവരണസീറ്റിലേക്കു് മാറ്റി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AA_Rahim.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എ. റഹിം</figDesc>
+          </figure>
+          <p> 2001-ലാണു് മൂന്നാമത്തെ ശ്രമം. സംസ്ഥാന തെരഞ്ഞെടുപ്പു കമീഷണറായിരുന്ന എം. എസ്.
+ജോസഫിനെക്കൊണ്ടു് ജോലി രാജിവെപ്പിച്ചു് ഇടുക്കിയിൽ ഇടതുസ്വതന്ത്രനാക്കി നിറുത്തി, സി. പി. എം.
+പട്ടികവർഗക്കാരനാണു് ജോസഫ്. എതിർസ്ഥാനാർഥി മാണിഗ്രൂപ്പിലെ <ref target="https://ml.wikipedia.org/wiki/Roshy_Augustine">റോഷി അഗസ്റ്റിൻ</ref>.
+തോമാശ്ലീഹായുടെ കാലത്തു് ജ്ഞാനസ്നാനം കൈകൊണ്ടവരുടെ പരമ്പരയിൽപ്പെട്ട സിറിയൻ കത്തോലിക്കൻ.
+സ്വാഭാവികമായും റോഷി വൻ ഭൂരിപക്ഷത്തോടെ വിജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Adoor_Prakash.jpg" rendition="gra"/>
+            <figDesc style="thumb">അടൂർ പ്രകാശ്</figDesc>
+          </figure>
+          <p> ഇത്തവണ സി. പി. എം. ഒന്നല്ല രണ്ടു് പട്ടികജാതിക്കാരെ ജനറൽ സീറ്റിൽ പരീക്ഷിച്ചു. കോന്നിയിൽ
+വി. ആർ. ശിവരാജൻ, തളിപ്പറമ്പിൽ സി. കെ. പി. പത്മനാഭൻ. സിറ്റിംഗ് എം. എൽ. എ.-യും മന്ത്രിയുമായ <ref target="https://ml.wikipedia.org/wiki/Adoor_Prakash">അടൂർ പ്രകാശി</ref> നോടു്
+ഏറ്റുമുട്ടി ശിവരാജൻ വീരചരമമടഞ്ഞു. പത്മനാഭൻ വൻ ഭൂരിപക്ഷത്തോടെ വിജയിച്ചു.
+പൊതുനിയോജകമണ്ഡലത്തിൽ പൊരുതി നിയമസഭയിലേക്കു് ജയിച്ച ആദ്യത്തെ പട്ടികജാതിക്കാരൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MAKuttappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എ. കുട്ടപ്പൻ</figDesc>
+          </figure>
+          <p> സി. കെ. പി. പത്മനാഭന്റെ വിജയകഥയോടു് ചേർത്തുവെച്ചു വായിക്കേണ്ട മറ്റൊരു സംഗതി കൂടെയുണ്ടു്.
+<ref target="https://ml.wikipedia.org/wiki/C.M._Sundaram">സി. എം.
+സുന്ദരവും</ref> കെ. എസ്. നാരായണൻ നമ്പൂതിരിയും അംഗങ്ങളല്ലാതായിത്തീർന്ന 1996 മുതൽ
+നിയമസഭയിൽ ബ്രാഹ്മണർക്കു് പ്രാതിനിധ്യം തീരെയുമില്ലായിരുന്നു. ഇത്തവണ രണ്ടു് മലയാള ബ്രഹ്മണർ
+മാർക്സിസ്റ്റ് ടിക്കറ്റിൽ മൽസരിച്ചു് ജയിച്ചു. പാലക്കാട്ട് കെ. കെ. ദിവാകരൻ, കൊട്ടാരക്കരയിൽ <ref target="https://ml.wikipedia.org/wiki/P._Aisha_Potti">ഐഷാപോറ്റി</ref>,
+കമ്യൂണിസ്റ്റ്, മാർക്സിസ്റ്റ് എം. എൽ. എ.-മാർ ഒന്നടങ്കം സഗൗരവ പ്രതിജ്ഞയെടുക്കുമ്പോൾ ഐഷ
+ദൈവനാമത്തിൽ സത്യം ചെയ്തതും അൽപമൊരു പുതുമയായി.
+
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_Aisha_Potty.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഐഷാപോറ്റി</figDesc>
+          </figure>
+          <p> സംസ്ഥാനത്തു് സംവരണമണ്ഡലങ്ങൾ 14 എണ്ണമാണു്. 2001-ൽ ഏഴെണ്ണം വീതം ഇരുമുന്നണികളും
+നേടിയിരുന്നു. ഇത്തവണ സിറ്റിംഗ് സീറ്റുകൾ ഏഴും—ഹോസ് ദുർഗ്, തൃത്താല, കുഴൽമന്ദം, ചേലക്കര, വൈക്കം,
+കുന്നത്തൂർ, കിളിമാനൂർ—ഇടതുമുന്നണി നിലനിറുത്തി. വടക്കേവയനാട്, ദേവികുളം, ഞാറക്കൽ, നെടുവത്തൂർ
+മണ്ഡലങ്ങൾ യു. ഡി. എഫിൽ നിന്നു് പിടിച്ചെടുക്കുകയും ചെയ്തു. കുന്ദമംഗലം, വണ്ടൂർ, പന്തളം സീറ്റുകൾ മാത്രമേ
+ഐക്യമുന്നണിക്കു് നിലനിറുത്താൻ കഴിഞ്ഞുള്ളൂ. സി. പി. എമ്മിലെ ഉൾപ്പോരാണു് കുന്ദമംഗലത്തു് <ref target="https://ml.wikipedia.org/wiki/U._C._Raman">യു. സി. രാമന്റെ</ref> യും
+പന്തളത്തു് കെ. കെ. ഷാജുവിന്റെയും വിജയത്തിനു് വഴിതെളിച്ചതു്. ആധികാരികമായ വിജയം നേടിയതു്
+വണ്ടൂരിൽ മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/A.P._Anil_Kumar">എ. പി.
+അനിൽകുമാർ</ref> മാത്രം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KK_Balakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കെ. ബാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> പതിനൊന്നാം കേരള നിയമസഭയിൽ കോൺഗ്രസിനു് പട്ടികജാതിക്കാരായ അഞ്ചംഗങ്ങൾ ഉണ്ടായിരുന്നു.
+പന്ത്രണ്ടാം നിയമസഭയിൽ അത് ഒരംഗമായി ചുരുങ്ങിയിരിക്കുന്നു. ദേവികുളത്തു് മുമ്പു് മൂന്നു തവണ തുടർച്ചയായി
+ജയിച്ച എം. കെ. മണിയും നെടുവത്തൂരിൽ രണ്ടുവട്ടം നേടിയ എഴുകോൺ നാരായണനും ഇത്തവണ പരാജയം
+ഏറ്റുവാങ്ങി. <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">കെ.
+മുരളീധരൻ</ref> മുസ്ലീംലീഗിനു് മറിച്ചുവിറ്റ വടക്കേ വയനാട് യു. ഡി. എഫിനു് കനത്ത തിരിച്ചടി നൽകി. 1970
+മുതൽ കോൺഗ്രസ്, സ്ഥാനാർഥികൾ മാത്രം ജയിച്ചുവന്ന മണ്ഡലത്തിൽ കഴിഞ്ഞതവണ <ref target="https://ml.wikipedia.org/wiki/Radha_raghavan">രാധാ രാഘവന്റെ</ref>
+ഭൂരിപക്ഷം 13,845 ആയിരുന്നു. ഇത്തവണ സി. പി. എമ്മിലെ കെ. സി. കുഞ്ഞിരാമൻ ജയിച്ചതു് 15,115 വോട്ടിന്റെ
+വ്യത്യാസത്തിൽ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Velayudan.png" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വേലായുധൻ</figDesc>
+          </figure>
+          <p> ഡോ. <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ.
+കുട്ടപ്പനു</ref> പകരം ദൽഹിയിൽനിന്നു് ഇറക്കുമതി ചെയ്യപ്പെട്ട <ref target="https://en.wikipedia.org/wiki/P._V._Srinijin">പി. വി. ശ്രീനിജൻ</ref>
+ഞാറക്കലിൽ തോറ്റുതുന്നംപാടി. സുപ്രീംകോടതി ജഡ്ജിയുടെ മകളുടെ ഭർത്താവു് എന്ന പരിഗണന പോലും
+വൈപ്പിൻകരക്കാർ പ്രകടിപ്പിച്ചില്ല: കേരള ദലിത് ഫെഡറേഷന്റെ ജീവാത്മാവും പരമാത്മാവുമായ പി. രാമഭദ്രൻ
+കുന്നത്തൂരിൽ തൊപ്പിയിട്ടു. <ref target="https://ml.wikipedia.org/wiki/Kovoor_Kunjumon">കോവൂർ
+കുഞ്ഞുമോന്റെ</ref> ഭൂരിപക്ഷം 22,573.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Radakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> ഇടതുപക്ഷത്തു്, സി. പി. എം. ഏഴു സംവരണ സീറ്റുകൾ നേടി—വടക്കേ വയനാട്, തൃത്താല, കുഴൽമന്ദം,
+
+ചേലക്കര, ദേവികുളം, ഞാറക്കൽ, നെടുവത്തുർ. സി. പി. ഐ. മൂന്നെണ്ണത്തിലും—ഹോസ് ദുർഗ്, വൈക്കം,
+കിളിമാനൂർ—ആർ. എസ്. പി. കുന്നത്തൂരും ജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CDivakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. ദിവാകരൻ</figDesc>
+          </figure>
+          <p> പത്താം കേരള നിയമസഭയിൽ സി. പി. ഐ.-ക്കു 18 അംഗങ്ങളുണ്ടായിരുന്നപ്പോൾ അതിൽ മൂന്നുപേർ
+പട്ടികജാതിക്കാരായിരുന്നു. പതിനൊന്നാം സഭയിൽ അംഗബലം ഏഴായി കുറഞ്ഞപ്പോഴും പട്ടികജാതിക്കാർ
+മൂന്നുപേർ. ഇത്തവണ എം. എൽ. എ.-മാർ 17 ആയി വർധിച്ചു. അപ്പോഴുമുണ്ടു് മൂന്നു സംവരണ മണ്ഡല
+പ്രതിനിധികൾ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kovoor_Kunjumon.jpg" rendition="gra"/>
+            <figDesc style="thumb">കോവൂർ കുഞ്ഞുമോൻ</figDesc>
+          </figure>
+          <p> സി. പി. ഐ.-ക്കു് നാലു മന്ത്രിസ്ഥാനം കിട്ടിയ നിലക്കു് ഒരു പട്ടികജാതിക്കാരനെങ്കിലും മന്ത്രിയാകുമെന്നു
+മോഹിച്ചു. ഏതു് മാനദണ്ഡം വെച്ചായാലും ദലിതരെ തഴയാൻ കഴിയില്ല. പാർട്ടിയിലെ
+സീനിയോറിറ്റിയാണെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Pallipram_Balan">പള്ളിപ്രം ബാലനെ</ref>
+മന്ത്രിയാക്കാം. സംസ്ഥാന എക്സിക്യൂട്ടീവ് അംഗം. ഈ തെരഞ്ഞെടുപ്പിൽ ഏറ്റവും ഉയർന്ന ഭൂരിപക്ഷം (34,939)
+നേടിയ സി. പി. ഐ.-ക്കാരൻ. വിദ്യാഭ്യാസ യോഗ്യതയോ നിയമസഭാ പരിചയമോ ആണു് മാനദണ്ഡമെങ്കിൽ
+<ref target="https://en.wikipedia.org/wiki/N._Rajan">എൻ. രാജനെ</ref>
+മന്ത്രിയാക്കിയേ മതിയാകൂ. എഞ്ചിനീയറിംഗ് ബിരുദധാരിയാണു് രാജൻ; മൂന്നാംതവണ എം. എൽ. എ.
+ആകുന്നയാളും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Binoy_vishwam.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബിനോയ് വിശ്വം</figDesc>
+          </figure>
+          <p> മാർക്സിസ്റ്റുകാരെപ്പോലെയല്ല, സി. പി. ഐ.-ക്കാർ ബുദ്ധിജീവികളാണു്. വിശദമായ ചർച്ചക്കും
+കൂടിയാലോചനക്കും ശേഷമേ അവർ ഏതുകാര്യവും തീരുമാനിക്കൂ. ആരൊക്കെയാകണം മന്ത്രിമാരെന്നു് ആദ്യം
+സ്റ്റേറ്റ് എക്സിക്യൂട്ടീവ് കൂടി ചർച്ച ചെയ്തു. പിന്നെ സ്റ്റേറ്റ് കൗൺസിൽ, വീണ്ടും എക്സിക്യൂട്ടീവ്, കൗൺസിൽ…
+ഒടുവിൽ വെള്ളപ്പുക കണ്ടു. നാലു യോഗ്യന്മാരുടെ പേരുവിവരം പ്രഖ്യാപിക്കപ്പെട്ടു.—<ref target="https://ml.wikipedia.org/wiki/K._P._Rajendran">കെ. പി. രാജേന്ദ്രൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Benoy_Viswam">ബിനോയ് വിശ്വം</ref>,
+<ref target="https://ml.wikipedia.org/wiki/V._Sasi">സി. ദിവാകരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Mullakkara_Ratnakaran">മുല്ലക്കര
+രത്നാകരൻ</ref>. നാലുപേരും ശ്രീനാരായണീയർ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KP_RAJENDRAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. പി. രാജേന്ദ്രൻ</figDesc>
+          </figure>
+          <p> നാനാജാതി മതസ്ഥരായ 24 പേർ ഒരു പാർട്ടിയുടെ സ്ഥാനാർഥികളായി മൽസരിക്കുക, അവരിൽ 17 പേർ
+ജയിക്കുക, അതിൽ നാലുപേർ മന്ത്രിമാരാകുക, സംഗതിവശാൽ നാലാളും ഒരേ സമുദായക്കാരാകുക—ഇതു്
+കേരള ചരിത്രത്തിലെ ആദ്യസംഭവമാണു്. (1991-ലും 2001-ലും നാലു വീതം ലീഗുകാർ മന്ത്രിമാരായിട്ടുണ്ടു്. അതു് വേറേ
+കഥ) കമ്യൂണിസ്റ്റുപാർട്ടി ആയതുകൊണ്ടു് ജനം തെറ്റിദ്ധരിക്കയില്ല എന്നു് സമാധാനിക്കുക.
+
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_R_Narayanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ആർ. നാരായണൻ</figDesc>
+          </figure>
+          <p> മന്ത്രിമാരെ തെരഞ്ഞെടുക്കുമ്പോൾ പ്രാദേശിക-സാമുദായിക പരിഗണനകളേക്കാൾ കഴിവിനും
+പ്രാഗല്ഭ്യത്തിനുമാണു് മുൻഗണന നൽകിയതെന്നു് പാർട്ടി വ്യക്തമാക്കിയിട്ടുണ്ടു്. ദലിതരേക്കാൾ കഴിവും
+പ്രാഗല്ഭ്യവുമുള്ളവരാണു് ഈഴവർ. പട്ടികജാതിക്കാർക്കു് തട്ടിക്കളിക്കാൻ കേവലം മൃഗസംരക്ഷണവകുപ്പെങ്കിലും
+നൽകാഞ്ഞതു് അതുകൊണ്ടാണു്. സി. പി. ഐ.-ക്കാർ തത്ത്വാധിഷ്ഠിത നിലപാടു് കൈക്കൊണ്ടതോടെ
+രണ്ടാമത്തെ ദലിത് മന്ത്രി എന്ന സ്വപ്നം പൊലിഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mullakkara_Retnakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുല്ലക്കര രത്നാകരൻ</figDesc>
+          </figure>
+          <p> സി. പി. എമ്മിൽനിന്നുള്ള പട്ടികജാതി പ്രതിനിധി <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">എ. കെ. ബാലനാ</ref>
+യിരിക്കും എന്നു് ഉറപ്പായിരുന്നു. സംസ്ഥാന സെക്രട്ടേറിയറ്റ് അംഗവും <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയന്റെ</ref> വിശ്വസ്തനുമാണു് ബാലൻ. ഐതിഹാസികമായ കേരള മാർച്ചിൽ
+ആദ്യവസാനക്കാരനായിരുന്നു. സ്റ്റുഡന്റ്സ് ഫെഡറേഷനിലൂടെ രാഷ്ട്രീയത്തിൽ വന്നു. എസ്. എഫ്. ഐ.
+സംസ്ഥാന പ്രസിഡന്റായിരിക്കെ 1980-ൽ ഒറ്റപ്പാലത്തുനിന്നു് പാർലമെന്റംഗമായി. 1984-ൽ <ref target="https://ml.wikipedia.org/wiki/K._R._Narayanan">കെ. ആർ.
+നാരായണനോ</ref> ടു തോറ്റു. ഒരിടവേളക്കുശേഷം 2001-ൽ കുഴൽമന്ദത്തുനിന്നു് നിയമസഭാംഗമായി.
+ഇത്തവണ വൻഭൂരിപക്ഷത്തോടെ വിജയം ആവർത്തിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Govindan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എൻ. ഗോവിന്ദൻ നായർ</figDesc>
+          </figure>
+          <p> പതിവുപട്ടികജാതിക്ഷേമവകുപ്പിനു് പുറമെ ബാലനു് കിട്ടിയ വകുപ്പ് കനപ്പെട്ടതാണു്—വൈദ്യുതി. <ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ.
+കൃഷ്ണയ്യർ</ref>, <ref target="https://ml.wikipedia.org/wiki/V.K._Velappan">വി. കെ. വേലപ്പൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/M._N._Govindan_Nair">എം. എൻ.
+ഗോവിന്ദൻ നായർ</ref>, <ref target="https://ml.wikipedia.org/wiki/P._K._Vasudevan_Nair">പി. കെ.
+വാസുദേവൻനായർ</ref>, <ref target="https://en.wikipedia.org/wiki/K._P._Prabhakaran">കെ. പി.
+പ്രഭാകരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ആർ.
+ബാലകൃഷ്ണപിള്ള</ref>, <ref target="https://en.wikipedia.org/wiki/T._Sivadasa_Menon">ടി.
+ശിവദാസമേനോൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/C.V._Padmarajan">സി. വി. പത്മരാജൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">ജി.
+കാർത്തികേയൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/S._Sharma">എസ്.
+ശർമ</ref>, <ref target="https://ml.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസൻ</ref>, <ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടൻ മുഹമ്മദ്</ref>
+എന്നീ പ്രഗല്ഭമതികൾ കൈകാര്യം ചെയ്തതാണു് വിദ്യുച്ഛക്തിവകുപ്പു്. മേൽപ്പറഞ്ഞവർ ആരെക്കാളും
+മോശമാവില്ല <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">ബാലൻ</ref> എന്നു്
+പ്രത്യാശിക്കുക.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AK_Balan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ബാലൻ</figDesc>
+          </figure>
+          <p> പിണറായി സഖാവിനെ സംബന്ധിച്ചിടത്തോളം ആഭ്യന്തരം കഴിഞ്ഞാൽ ഏറ്റവും പ്രധാന വകുപ്പാണു്
+വൈദ്യുതി. എസ്. എൻ. സി. ലാവ്ലിൻ ഡമോക്ലിസിന്റെ വാളായി തലക്കുമീതെ തൂങ്ങിനിൽക്കുന്നതുതന്നെ
+കാരണം. <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">ജി.
+സുധാകരനെയോ</ref> <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> യെയോ
+ഏൽപിക്കാതെ വിദ്യുച്ഛക്തിവകുപ്പ് <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">എ. കെ. ബാലനെ</ref>
+ഏൽപിച്ചതിന്റെ കാരണം ചിന്തനീയമാണു്. ഹിന്ദുസ്ഥാനികാരെയും തിരുവിതാംകൂറുകാരെയും വിശ്വസിക്കാൻ
+കൊള്ളില്ല. ബാലൻ വിശ്വസ്തരിൽ വിശ്വസ്തൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Vasudevan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വാസുദേവൻനായർ</figDesc>
+          </figure>
+          <p> മന്ത്രിസ്ഥാനത്തേക്കു ബാലനോടൊപ്പം പറഞ്ഞുകേട്ട പേരാണു് <ref target="https://en.wikipedia.org/wiki/K._Radhakrishnan_(politician)">കെ.
+രാധാകൃഷ്ണന്റേ</ref> തു്. സംസ്ഥാന സെക്രട്ടേറിയറ്റ് അംഗം പോലുമല്ലാത്ത രാധാകൃഷ്ണൻ എങ്ങനെ
+മന്ത്രിയാകാനാണു്? അതും പിണറായിയുടെ വിശ്വസ്തൻ ബാലനുള്ളപ്പോൾ? മന്ത്രിയാക്കിയില്ലെങ്കിലും തൃശൂർ
+ജില്ലാ പ്രാതിനിധ്യത്തിനുവേണ്ടി രാധാകൃഷ്ണനെ സ്പീക്കർ സ്ഥാനത്തേക്കു് പാർട്ടി നിർദ്ദേശിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/vr_krishna_iyyar.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ആർ. കൃഷ്ണയ്യർ</figDesc>
+          </figure>
+          <p> ബാലനെപ്പോലെ വിദ്യാർഥിരംഗത്തു നിന്നു് വന്നയാളാണു് രാധാകൃഷ്ണനും. കേരളവർമ കോളജിൽ
+എസ്. എഫ്. ഐ. സെക്രട്ടറിയായി, ചേലക്കര ഏരിയാസെക്രട്ടറിയും ജില്ലാക്കമ്മിറ്റി അംഗവുമായി.
+ശാസ്ത്രസാഹിത്യപരിഷത്തിലും സാക്ഷരതാപ്രസ്ഥാനത്തിലും മുന്നിട്ടു പ്രവർത്തിച്ചു. 1986–87 കാലത്തു് മന്ത്രിമാരെ
+വഴിതടഞ്ഞു് പോലീസിന്റെ അടി പൊതിരെ കൊണ്ടു. 1991 ജനുവരിയിൽ ജില്ലാ കൗൺസിലിലേക്കു്
+ആദ്യമൽസരം. വള്ളത്തോൾ നഗറിന്റെ പ്രതിനിധി, രാധാകൃഷ്ണൻ, പിന്നീടു് ഡി. വൈ. എഫ്. ഐ.-യിലും
+കർഷകത്തൊഴിലാളി യൂനിയനിലും പ്രവർത്തിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CV_PADMARAJAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. വി. പത്മരാജൻ</figDesc>
+          </figure>
+          <p> ഇടതുപക്ഷത്തെ സംബന്ധിച്ചിടത്തോളം കുഴൽമന്ദംപോലെ ഉറച്ച സീറ്റല്ല, ചേലക്കര. 1967-ൽ <ref target="https://ml.wikipedia.org/wiki/P._Kunjan">പി. കുഞ്ഞനും</ref> 1982-ൽ <ref target="https://ml.wikipedia.org/wiki/C.K._Chakrapani">സി. കെ. ചക്രപാണി</ref>
+യും ജയിച്ചതൊഴിച്ചാൽ 1996-വരെ മണ്ഡലത്തെ പ്രതിനിധാനം ചെയ്തതത്രയും കോൺഗ്രസുകാർ. ജയസാധ്യത
+നന്നെക്കുറഞ്ഞ ചേലക്കരയിൽ 1996-ൽ സ്ഥാനാർഥിയായി വന്നതു് <ref target="https://en.wikipedia.org/wiki/K._Radhakrishnan_(politician)">കെ.
+രാധാകൃഷ്ണൻ</ref>. എതിരാളി കോൺഗ്രസിലെ ടി. എ. രാധാകൃഷ്ണൻ. വാശിയേറിയ മൽസരത്തിനൊടുവിൽ
+ചേലക്കരയിൽ ചെങ്കൊടി പാറി. <ref target="https://en.wikipedia.org/wiki/K._Radhakrishnan_(politician)">കെ.
+രാധാകൃഷ്ണന്റെ</ref> ഭൂരിപക്ഷം 2323.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Muraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. മുരളീധരൻ</figDesc>
+          </figure>
+          <p> പത്താം കേരള നിയമസഭയിൽ ദലിത് എം. എൽ. എ.-മാർ പത്തുപേരാണു് ഇടതു പക്ഷക്കാരായി
+ഉണ്ടായിരുന്നതു്. സി. പി. എം. 6, സി. പി. ഐ. 3, ആർ. എസ്. പി. 1, കുന്ദമംഗലത്തുനിന്നു് മൂന്നാംതവണ
+തെരഞ്ഞെടുക്കപ്പെട്ട സി. പി. ബാലൻ വൈദ്യരും കുഴൽമന്ദത്തിനിന്നു് രണ്ടാമതും ജയിച്ച എം. നാരായണനും
+ഉണ്ടായിരുന്നെങ്കിലും കന്നിക്കാരൻ രാധാകൃഷ്ണനാണു് മന്ത്രിയായതു്. വകുപ്പു പഴയതുതന്നെ—പട്ടികജാതിക്ഷേമം.
+32-കാരൻ രാധാകൃഷ്ണനായിരുന്നു. മൂന്നാം നായനാർ മന്ത്രിസഭയിലെ ബേബി. യാതൊരു പരാതിക്കും
+ഇടനൽകാതെ കർത്തവ്യം നിർവഹിച്ച രാധാകൃഷ്ണൻ തന്നെയായിരുന്നു, ഏറ്റവും നല്ല മന്ത്രിയും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KADAVOOR_SIVADASAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടവൂർ ശിവദാസൻ</figDesc>
+          </figure>
+          <p> 2001-ലെ തെരഞ്ഞെടുപ്പിൽ ജനങ്ങളെ നേരിടാൻ മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാരാ</ref> കട്ടെ
+ഭരണധുരന്ധരന്മാരായ <ref target="https://en.wikipedia.org/wiki/T._Sivadasa_Menon">ശിവദാസമേനോൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/S._Sharma">ശർമ</ref>, <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലൊളി</ref>,
+സുശീല, രാമകൃഷ്ണന്മാരാകട്ടെ ധൈര്യപ്പെട്ടില്ല. <ref target="https://en.wikipedia.org/wiki/K._E._Ismail">കെ. ഇ. ഇസ്മായിലും</ref>
+<ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Krishnan_Kaniyamparambil">കൃഷ്ണൻ
+കണിയാമ്പറമ്പിലും</ref> മൽസരിച്ചു് വീരചരമമടഞ്ഞു. മടിയിൽ കനമില്ലാത്തവനു് വഴിയിൽ ഭയം വേണ്ട.
+ചേലക്കരയിൽ <ref target="https://en.wikipedia.org/wiki/K._Radhakrishnan_(politician)">കെ.
+രാധാകൃഷ്ണൻ</ref> വീണ്ടും മൽസരിച്ചു. ജയിച്ചു. ഭൂരിപക്ഷം 1475. ഇടതുപക്ഷത്തിന്റെ കൊട്ടകൊത്തളങ്ങൾ
+തകർന്നുവീണ ആ തെരഞ്ഞെടുപ്പിൽ, തൃശൂർ ജില്ലയിൽ സി. പി. എം. ജയിച്ച ഏക സീറ്റ് ചേലക്കര.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Balakrishna_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ബാലകൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> ഇടതുതരംഗം ആഞ്ഞടിച്ച ഇക്കഴിഞ്ഞ തെരഞ്ഞെടുപ്പിൽ രാധാകൃഷ്ണന്റെ ഭൂരിപക്ഷം
+പത്തിരട്ടിയായി—14,629. ചേലക്കരയിലെ എക്കാലത്തെയും ഏറ്റവും ഉയർന്ന ഭൂരിപക്ഷം. മൂന്നാംവരവിൽ,
+രാധാകൃഷ്ണൻ കേരള നിയമസഭയുടെ അധ്യക്ഷനുമാകുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Moideen_Kutty_Haji.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. മൊയ്തീൻകുട്ടിഹാജി</figDesc>
+          </figure>
+          <p> 1957 മുതൽ സ്പീക്കർമാരായിരുന്നവരുടെ പേരുവിവരം നോക്കുക. <ref target="https://ml.wikipedia.org/wiki/R._Sankaranarayanan_Thampi">ആർ.
+ശങ്കരനാരായണൻ തമ്പി</ref>, <ref target="https://ml.wikipedia.org/wiki/Seethi_Sahib">കെ. എം.
+സീതിസാഹിബ്</ref>, <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദ്കോയ</ref>, <ref target="https://ml.wikipedia.org/wiki/Alexander_Parambithara">അലക്സാണ്ടർ
+പറമ്പിത്തറ</ref>, <ref target="https://ml.wikipedia.org/wiki/D._Damodaran_potti">ഡി. ദാമോദരൻ
+പോറ്റി</ref>, <ref target="https://ml.wikipedia.org/wiki/K._Moideen_Kutty_Haji">കെ.
+മൊയ്തീൻകുട്ടിഹാജി</ref>, <ref target="https://en.wikipedia.org/wiki/T._S._John">ടി. എസ്. ജോൺ</ref>, ചാക്കീരി
+അഹമ്മദ്കുട്ടി, <ref target="https://ml.wikipedia.org/wiki/A.P._Kurian">എ. പി.
+കുര്യൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/A.C._Jose">എ. സി.
+ജോസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമൻ</ref>, <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Varkala_Radhakrishnan">വർക്കല
+രാധാകൃഷ്ണൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.P._Thankachan">പി. പി. തങ്കച്ചൻ</ref>,
+<ref target="https://en.wikipedia.org/wiki/Therambil_Ramakrishnan">തേറമ്പിൽ
+രാമകൃഷ്ണൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/M._Vijayakumar">എം. വിജയകുമാർ</ref>
+ഇക്കൂട്ടത്തിൽ നമ്പൂരിയുണ്ടു്, നായന്മാരുണ്ടു്, നസ്രാണികളുണ്ടു്, ഈഴവരും മുസ്ലീംകളുമുണ്ടു്. ദലിതർ മാത്രം ഇല്ല.
+(<ref target="https://ml.wikipedia.org/wiki/Bhargavi_Thankappan">ഭാർഗവി
+തങ്കപ്പൻ</ref> കുറച്ചുകാലം സ്പീക്കറായിരുന്നതു് മറക്കുന്നില്ല)
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_Karthikeyan.png" rendition="gra"/>
+            <figDesc style="thumb">ജി. കാർത്തികേയൻ</figDesc>
+          </figure>
+          <p> 2006 മെയ് 25 കേരളത്തിലെ ദലിത് മുന്നേറ്റങ്ങളുടെ ചരിത്രത്തിലെ സുപ്രധാന ദിവസമാണു്. അന്നാണു് <ref target="https://en.wikipedia.org/wiki/K._Radhakrishnan_(politician)">കെ.
+രാധാകൃഷ്ണൻ</ref> നിയമസഭാസ്പീക്കറായി തെരഞ്ഞെടുക്കപ്പെട്ടതു്. ഇടതുമുന്നണിക്കു് ഭൂരിപക്ഷം കിട്ടിയ 1980,
+87, 96 വർഷങ്ങളിലൊന്നും വലതുമുന്നണി സ്പീക്കർ സ്ഥാനത്തേക്കു് സ്ഥാനാർഥിയെ നിറുത്തുകയുണ്ടായില്ല.
+എന്നാൽ ഒരു ദലിതൻ എതിരില്ലാതെ ജയിക്കുന്നതിലുള്ള മനഃപ്രയാസം കൊണ്ടാകണം, ഇത്തവണ
+കോൺഗ്രസ് എതിർസ്ഥാനാർഥിയെ നിറുത്തി—എം. മുരളി. മാവേലിക്കര മെമ്പർ, കിരിയാത്തുനായർ. 40 വോട്ടേ
+മുരളിക്കു് കിട്ടിയുള്ളൂ. രാധാകൃഷ്ണൻ 93 വോട്ടുനേടി വിജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Aryadan_muhamed.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആര്യാടൻ മുഹമ്മദ്</figDesc>
+          </figure>
+          <p> ഇന്ത്യക്കു് സ്വാതന്ത്ര്യം കിട്ടി 51-ാം വർഷത്തിലാണു് ലോക്സഭയിൽ ആദ്യമായി പട്ടികജാതിക്കാരൻ—<ref target="https://ml.wikipedia.org/wiki/G._M._C._Balayogi">ജി. എം. സി.
+ബാലയോഗി</ref>—സ്പീക്കറായതു്. (പട്ടികവർഗക്കാരൻ <ref target="https://ml.wikipedia.org/wiki/PA_Sangma">പി. എ. സാംഗ്മ</ref> അതിനും
+രണ്ടുവർഷംമുമ്പു് തൽസ്ഥാനത്തു് എത്തിയിരുന്നു). കേരളപ്പിറവിയുടെ അമ്പതാംവാർഷികത്തിൽ ഒരു ദലിതൻ
+ഇതാദ്യമായി നിയമസഭാ സ്പീക്കറാകുന്നു. 2031-മാണ്ടിൽ, കേരളപ്പിറവിയുടെ വജ്രജൂബിലി ആഘോഷിക്കപ്പെടും.
+അതിനകം ഒരു ദലിതൻ സംസ്ഥാനത്തു് മുഖ്യമന്ത്രിയാകുമോ? കേരളം ഉറ്റുനോക്കുന്നതു് സഖാവു് <ref target="https://en.wikipedia.org/wiki/K._Radhakrishnan_(politician)">കെ.
+രാധാകൃഷ്ണനെ</ref> യാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Chelakkarayude Atheetha (Dalit)
+Swapnangal (ml: ചേലക്കരയുടെ അതീത (ദലിത്) സ്വപ്നങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Chelakkarayude Atheetha (Dalit) Swapnangal, കെ. രാജേശ്വരി, ചേലക്കരയുടെ അതീത (ദലിത്)
+സ്വപ്നങ്ങൾ, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Alfred_Roll__Marianne_Orfrey.jpg">Marianne Orfrey, crier of green,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Alfred_Philippe_Roll">Alfred
+Philippe Roll</ref>  (1846–1919). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-chelakkara.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-chelakkara.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

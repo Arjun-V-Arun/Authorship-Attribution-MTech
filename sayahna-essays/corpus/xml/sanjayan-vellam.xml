@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വെള്ളം വിറ്റ കഥ</title>
+          <title xml:lang="en" type="main">Vellam vitta katha</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">November 23, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വെള്ളം വിറ്റ കഥ</title>
+              <title xml:lang="en" type="main">Vellam vitta katha</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-11-22</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Vellam vitta katha</term>
+          <term>സഞ്ജയൻ</term>
+          <term>വെള്ളം വിറ്റ കഥ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-11-22</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Woman_and_Child.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Gerard_Dou__Woman_and_Child_by_a_Table_in_Candlelight_1082.jpg">A Woman engaged at the
+Supper-table,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Gerrit_Dou">Gerrit Dou</ref>
+ (1613–1675). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വെള്ളം വിറ്റ കഥ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വെള്ളം വിറ്റ കഥ</head>
+        <div type="lsection">
+          <p style="noindent">മഹാത്മാഗാന്ധി കോൺഗ്രസ്സു വിട്ടൊഴിയുമ്പോൾ പ്രസിദ്ധപ്പെടുത്തിയ
+വിജ്ഞാപനത്തിന്റെ ഒരു കോപ്പി ആരെങ്കിലും സഞ്ജയന്നു് ദയചെയ്തു് അയച്ചുതരുമോ? അത്തരത്തിലൊരു
+വിജ്ഞാപനമെഴുതി പത്രാധിപരുടെ കയ്യിൽ കൊടുത്തു് സഞ്ജയൻ പത്രികയിൽനിന്നു് വിട്ടൊഴിയുവാൻ
+പോകുന്നു. “ഇങ്ങനെ പരിഭവിച്ചാലോ?” എന്നു നിങ്ങൾ ചോദിക്കുന്നു. നോക്കിൻ, സർ, എന്തു്
+അപമാനിക്കലാണിത്! എന്റെ പാനയുടെ ബാക്കി ഭാഗം—പകുതി—ഉപേക്ഷിക്കേണ്ടിവന്നതിൽ “നിർവ്യാജം
+വ്യസനിക്കുന്നു” പോലും. ചെയ്യേണ്ടതു് ചെയ്തിട്ടു് “നിർവ്യാജം വ്യസനിക്കുന്നു” എന്നെഴുതി മാറിക്കളയുന്നതു നല്ല
+മര്യാദയല്ലേ? പത്രാധിപന്മാരുടെ “വ്യസന”ത്തിന്റെ രഹസ്യം നമ്മളൊക്കെ അറിയുന്നതല്ലേ?
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>വൃത്തമൊപ്പിച്ചു്, പ്രാസംവെച്ചു്, അലങ്കാരങ്ങളുടെ കാര്യത്തിൽ ശ്രദ്ധിച്ചു്, ഒരു പാനയെഴുതുന്നതു്
+മുഖപ്രസംഗമെഴുതുന്നതുപോലെയോ, നിർവ്യാജം വ്യസനിക്കുന്നതുപോലെയോ ഒരു എളുപ്പപ്പണിയാണെന്നു
+ചിലർ വിചാരിക്കുന്നുണ്ടായിരിക്കും. (ഞാൻ “ചിലർ” എന്നേ പറയുന്നുള്ളു. നിങ്ങൾ സാക്ഷിയാണു്) സഞ്ജയൻ
+പോയ്ക്കളയുന്ന അത്യാപത്തിൽനിന്നു് പത്രികയെ രക്ഷിക്കുവാൻ (!!!—പത്രാധിപർ) ഒരൊറ്റ മാർഗ്ഗമേയുള്ളു.
+പത്രാധിപർ സഞ്ജയനോടു് മാപ്പു ചോദിക്കണം. അഞ്ചു മിനുട്ടുനേരം “നിർവ്യാജം വ്യസനിക്കു”ന്ന സമ്പ്രദായം
+സഞ്ജയന്നു കാണുകയും വേണം. അതിന്നുശേഷം അക്കാര്യം ആലോചിക്കാം.
+</p>
+          <p>അസംബ്ലിത്തിരഞ്ഞെടുപ്പിൽ ഒരു പാർട്ടിക്കു് വോട്ടർമാരെ കൊണ്ടുവരുവാൻ കാറുകൾ കിട്ടരുതെന്ന
+സിദ്ധാന്തത്തോടുകൂടി മറ്റെ പാർട്ടിക്കാർ സകല വാഹനങ്ങളെയും കരസ്ഥമാക്കുവാൻ ഏർപ്പാടുകൾ
+ചെയ്തുവരുന്നുണ്ടത്രെ. ഇതു കേട്ടപ്പോൾ അയൽവക്കുകാർക്കു നേരം പുലരരുതെന്ന ദുഷ്ടവിചാരത്തോടുകൂടി തന്റെ
+നെരിപ്പോടും കേഴിയുമെടുത്തു് കാടുകയറിക്കളഞ്ഞ വൃദ്ധയെപ്പറ്റി മി: മൂർക്കോത്തു കുമാരൻ അദ്ദേഹത്തിന്റെ ഒരു
+പുസ്തകത്തിൽപ്പറഞ്ഞ കഥയാണു് ഓർമ്മവന്നതു്. വോട്ടുകൾ ഒരു കക്ഷിക്കു കിട്ടി; വാഹനങ്ങൾ മറ്റേ കക്ഷിക്കും
+കിട്ടി. ചോറു് ഒരാളുടെ കയ്വശം, കോരിക എതിരാളിയുടെ കയ്യിൽ. പെട്ടി കട്ടുപോയപ്പോൾ സാരമില്ല;
+താക്കോൽ എന്റെ കയ്യിൽത്തന്നെയുണ്ടു്. അതു തുറക്കാൻ കള്ളൻ ഇവിടെത്തന്നെ വരണ്ടേ?” എന്നു് ഒരു
+മഹാബുദ്ധിമാൻ ചോദിച്ചിരുന്നുപോലും. മറ്റെന്താണു് സഞ്ജയൻ ഇതിനെക്കുറിച്ചു പറയേണ്ടതു്?
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>കഴിഞ്ഞ ഞായറാഴ്ച ടൗൺഹാളിൽവെച്ചു മുനിസിപ്പാൽ കൗൺസിൽ മാനാഞ്ചിറ വെള്ളം ഒരു
+കമ്പനിക്കാർക്കു വിറ്റതിനെ പ്രതിഷേധിക്കുവാനായി ഒരു യോഗം കൂടുവാനാലോചിച്ചു. പക്ഷേ പ്രതിഷേധക്കാർ
+അവിടെ എത്തിയപ്പോഴേയ്ക്കും, പ്രതിഷേധക്കാരെ പ്രതിഷേധിക്കുവാൻ അവിടെ കുറേ ആളുകൾ
+ഹാജരായിക്കഴിഞ്ഞിരുന്നു. പ്രതിഷേധക്കാരെ ഒരക്ഷരം പോലും സംസാരിക്കാൻ അവർ സമ്മതിച്ചില്ല. ഒടുക്കം
+പ്രതിഷേധക്കാർ സ്വകാര്യമായി എവിടെയോ പോയി അവരുടെ പ്രതിഷേധം റിക്കാട്ടാക്കി. ഹാളിലുള്ളവർ
+പ്രസ്തുത വെള്ളംവില്പനയെ അനുകൂലിച്ചു കൊണ്ടു് ഒരു പ്രമേയവും പാസ്സാക്കി.
+</p>
+          <p>ടൗൺഹാളിൽ നടന്ന ഈ സംഭവം യാദൃച്ഛികമാണെന്നു നിങ്ങൾക്കു തോന്നുന്നുണ്ടായിരിക്കാം. എന്നാൽ
+അങ്ങനെയല്ല; അതിന്നിടയിൽ ഒരു രഹസ്യമുണ്ടു്.
+<list type="gloss"><label>പത്രാധിപർ:</label><item> എനിക്കു കേൾപ്പിക്കരുതോ രഹസ്യം? </item><label>സഞ്ജയൻ:</label><item> തനിക്കു കേൾപ്പിക്കരുതായ്കയല്ല; </item></list>
+
+</p>
+          <lg>
+            <l> ഇനി ക്രമാലന്യജനം ഗ്രഹിച്ചാ–</l>
+            <l> ലെനിക്കു കുററം വരുമെന്നു ദോഷം. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പ:</label>
+              <item> എന്നാൽ പറയേണ്ട. ഞങ്ങൾ എങ്ങനെയെങ്കിലും അറിഞ്ഞു കൊള്ളാം. </item>
+              <label>സ:</label>
+              <item> ശരി. അതാണു് നല്ലതു്. </item>
+            </list>
+          </p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>സഞ്ജയൻ ഈ സഭയിൽ ആദ്യം ഹാജരാകേണമെന്നു വിചാരിച്ചുവെങ്കിലും, സഞ്ജയനും ഒരു
+പ്രതിഷേധക്കാരനാണെന്നു കൗൺസിൽ വിചാരിച്ചേയ്ക്കുമെന്നു കരുതി പോകാതിരിക്കുകയാണു് ചെയ്തതു്.
+സഞ്ജയനും ഈ പ്രതിഷേധത്തെ പ്രതിഷേധിക്കുന്നു. കാരണം കേൾക്കുന്നതിന്നു മുമ്പു് ആരും നെറ്റി ചുളിക്കരുതു്.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഈ പ്രതിഷേധക്കാർക്കു് വേറെ പണിയൊന്നുമില്ലേ?
+</p>
+          <p>മുനിസിപ്പാലിറ്റിയുടെ ഒരു അഭ്യുദയകാംക്ഷി—മഹായോഗ്യൻ—പാലുപോലത്തെ
+മനുഷ്യൻ—കണക്കുവിശാരദൻ—കോഴിക്കോടു് മുനിസിപ്പാലിറ്റിയുടെ സാമ്പത്തികക്കുഴപ്പം കണ്ടു് സഹിക്കാതെ
+അതിനുള്ള പരിഹാരമാർഗ്ഗങ്ങളെക്കുറിച്ച് ആലോചിച്ചു അങ്ങനെയിരിക്കെ ബോധിവൃക്ഷത്തിന്റെ ചുവട്ടിലിരുന്ന
+ബുദ്ധന്നുണ്ടായതുപോലെ, അദ്ദേഹത്തിന്നു് ഒരുദയമുണ്ടായി. മാനാഞ്ചിറയിലെ വെള്ളം കരകവിഞ്ഞു വഴിഞ്ഞ്,
+പ്രവഹിച്ചു കടലിലേയ്ക്കു് ഒഴുകിപ്പോകുന്നതു് അദ്ദേഹം ഉൾക്കണ്ണുകൊണ്ടു കണ്ടു. “ഇതിന്റെ ഒരു ഭാഗം
+ആവശ്യമുളളവർക്കു വിൽക്കുന്നതു് എത്ര നന്നായിരിക്കും” എന്നു് അദ്ദേഹം ആലോചിച്ചു. അതുപ്രകാരം അദ്ദേഹം
+ഒരു പ്രവൃത്തിപദ്ധതിയെ രൂപീകരിച്ചു. (അങ്ങനെതന്നെയല്ലേ, സർ, പത്രഭാഷയിൽ പറയുക?)
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>അപ്പോഴേയ്ക്കും ആളുകൾക്കു് ആക്ഷേപമായി. ഒരൊറ്റ നല്ല കാര്യം ചെയ്വാൻ ഈ കോഴിക്കോട്ടുകാർ
+സമ്മതിക്കുകയില്ല. നിങ്ങൾ ഇങ്ങനെ ആക്ഷേപിച്ചു തുടങ്ങിയാൽ എങ്ങനെയാണു് ഭരണപരിഷ്കാരങ്ങൾ നടപ്പിൽ
+വരുത്തുക? എനിയും നമ്മുടെ ധനസ്ഥിതി നന്നാക്കുവാൻ കൗൺസിൽ എന്തൊക്കെ ചെയ്വാൻ
+വിചാരിച്ചിട്ടുണ്ടെന്നു് ആരു കണ്ട്! ഒരു പക്ഷേ, മാനാഞ്ചിറത്തോട്ടത്തിലെ മരങ്ങൾ ഒരു വിറകുകാരന്നു് അവർ
+കോൺട്രാക്ടു് കൊടുക്കുവാൻ ആലോചിക്കുമായിരിക്കാം: “നിഴലിന്നാണു് മരങ്ങൾ. വൈകുന്നേരമാണു് ആളുകൾ
+തോട്ടത്തിൽ പോയിരിക്കുക. വൈകുന്നേരത്തെ വെയിലിന്നു ചൂടില്ല; അതു് ആരോഗ്യപ്രദവുമാണു്. അതുകൊണ്ടു്
+മരങ്ങൾ ആവശ്യമില്ല” എന്നു് അവർ കണ്ടുപിടിക്കുമായിരിക്കും.
+</p>
+          <p>മാനാഞ്ചിറ വെള്ളത്തിനെപ്പറ്റി ഇത്ര കൃത്യമായി കണക്കുകൂട്ടി, കിഴിച്ചു, പെരുക്കി,ഹരിച്ചു, മാസത്തിൽ 65ക.
+യും രണ്ടു ലക്ഷത്തി പതിനായിരം ഗാലൻ വെള്ളവും മുനിസിപ്പാലിറ്റിക്കു് ആദായമുണ്ടാകുമെന്നു കാണിച്ചുകൊടുത്ത
+അഗാധബുദ്ധികൾക്കു് ഇതൊന്നും സാധിക്കാത്ത കാര്യമല്ല. ഒരു സമയം വേണ്ടിവന്നാൽ, അവർ കോഴിക്കോട്ടു
+ബീച്ചിലെ കടൽക്കാറ്റുകൂടി വിറ്റുമാറുകയില്ലെന്നു് ആർക്കു പറയുവാൻ കഴിയും?
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>പക്ഷെ, അമ്മയെത്തല്ലിയാലും പക്ഷം രണ്ടുണ്ടു്, എന്നല്ലേ പഴമൊഴി? പ്രതിഷേധക്കാർക്കു്, ഇതു പിടിച്ചിട്ടില്ല.
+“മാനാഞ്ചിറ വെള്ളത്തിന്നു പകരം കുറ്റിച്ചിറയിലേയും കണ്ടംകുളത്തിലേയും വെള്ളം എടുക്കാമത്രേ. അതു് ഏതു
+നിലയിലും ചെയ്തുകൂടേ? അതിന്നു കമ്പനിക്കാരുടെ സമ്മതം എന്തിനാണു്? കോരപ്പുഴയിലെ വെള്ളം കുടിക്കുവാൻ
+കോലത്തിരിയുടെ ശീട്ടുവേണോ? പണ്ടു് ഒരു കമ്പനി മാനാഞ്ചിറ വെള്ളത്തിന്നു ചോദിച്ചപ്പോൾ</p>
+          <lg>
+            <l> ‘പല്ലും കടിച്ചലറിക്കൊണ്ടു കൌൺസിലും</l>
+            <l> വേണ്ട, വേണ്ടെന്നുടൻ കമ്പനിയും തദാ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> പറഞ്ഞില്ലേ? ഇതെന്താണു് പുതിയ കൗൺസിലിന്റെ ആലോചനയ്ക്കു വിട്ടുകൊടുക്കാതിരുന്നതു? ഊർദ്ധ്വൻ
+വലിക്കുന്ന പഴയ കൌൺസിലിന്റെ വിരൽ മഷിയിൽമുക്കി ഈ ഒസ്യത്തിൽ വിരലടയാളം വെപ്പിച്ചതു്
+എന്തിനാണു് ? ഈ കണക്കൊക്കെ പുതിയ കൌൺസിലിന്നു മനസ്സിലാവുകയില്ലേ? മാനാഞ്ചിറയിൽ വെള്ളം
+കെട്ടിനിന്നാൽ കൊതു വർദ്ധിക്കുംപോലും! കൊതു വർദ്ധിക്കുന്നതു റോഡിന്നിരുവശവുമുള്ള
+ചളിച്ചാലുകളിൽനിന്നാണു്. ഇതൊക്കെ നിങ്ങൾ അറിയാഞ്ഞിട്ടാണോ എന്നൊക്കെയാണു് പ്രതിഷേധക്കാർ
+ചോദിക്കുന്നതു്.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഇതൊന്നും കൊള്ളരുതു്, കൂട്ടരേ! “ഏറിയ നോമ്പുനോറ്റു് അശ്വത്ഥപ്രദക്ഷിണംകഴിച്ച് ഒരു കുട്ടി ജനിച്ചപ്പോൾ
+‘അതിന്റെ അച്ഛനാരാണു്? നക്ഷത്രമെന്താണു്? എന്നൊക്കെ ചോദിക്കുവാൻ നിങ്ങൾക്കു ലജ്ജയില്ലേ?’ എന്നു്
+ഒരു പതിവ്രത ചോദിച്ചിരുന്നുപോലും. അതുപോലെ നാട്ടിന്നു് ഒരു നന്മ ചെയ്യുവാൻ ഒരാൾ പുറപ്പെടുമ്പോൾ,
+“അതിന്റെ ഉള്ളുകള്ളിയെന്താണു്? ആരാണതിന്റെ അടിയിൽ” എന്നൊക്കെ നിങ്ങൾ ചോദിക്കുന്നതിന്റെ
+അർത്ഥമെന്താണു്?
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>എന്തിനാണു് മറ്റുള്ളവരെ കുറ്റം പറയുന്നതു? നിങ്ങൾക്കിഷ്ടമില്ലാത്ത ഒരു പ്രമേയം നിങ്ങൾ
+തിരഞ്ഞെടുത്തയച്ചവർ പാസ്സാക്കിയതെങ്ങിനെയാണു്? ഇക്കാര്യങ്ങളൊക്കെ പണ്ടു്—ആ വോട്ടു
+ലേലക്കാലത്തു്—ആലോചിക്കേണ്ടതായിരുന്നു.</p>
+          <lg>
+            <l> “ആകാത്ത നാളിൽപ്പിറന്ന നാം കാശിയ്ക്കു</l>
+            <l> പോകാത്തതല്ലയോ കഷ്ടമെൻ വേടരേ?” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇപ്പോൾ ക്ഷോഭിക്കുന്നുപോലും! നിങ്ങളുടെ ആരുടേയും ശബ്ദം ഞങ്ങൾ കേൾക്കരുതു്.
+കൌൺസിലിനെസ്സംബന്ധിച്ചേടത്തോളം ഈ കണ്ണുകാണാത്ത രോഗത്തിന്നു് ഒരൌൺസ് പാന സഞ്ജയൻ
+തയാറാക്കീട്ടുണ്ടു്. അതു് അത്താഴാനന്തരം കഴിച്ചു്, ഈശ്വരവിചാരത്തോടുകൂടി കിടന്നുറങ്ങണം.</p>
+          <lg>
+            <l> പാടുണ്ടെന്നരുളീടുന്നതും ഭവാൻ</l>
+            <l> പാടില്ലെന്നു വിലക്കുന്നതും ഭവാൻ</l>
+            <l> രണ്ടുനാലാൾക്കു വേണ്ടുന്നതൊക്കെയും</l>
+            <l> വേണ്ടുംപോലെ നടത്തുന്നതും ഭവാൻ</l>
+            <l> പന്തിയല്ലിതെന്നോതുന്ന കൂട്ടരെ</l>
+            <l> ച്ചന്തത്തിൽച്ചെണ്ടകൊട്ടിപ്പതും ഭവാൻ</l>
+            <l> ആർക്കറിയാവു നിൻ മറിമായങ്ങ-</l>
+            <l> ളോർക്കുംതോറും മഹാവിസ്മയാവഹം.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഭവാൻ, ഭവാൻ, എന്നു് ഇതിൽപ്പറഞ്ഞതു് ഈശ്വരനെപ്പറ്റിയാണു്. കുസൃതിക്കാർ വേണ്ടാത്ത
+വ്യഖ്യാനങ്ങളൊന്നും ഉണ്ടാക്കരുതു്.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vellam vitta katha (ml: വെള്ളം വിറ്റ
+കഥ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-11-22. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, Vellam
+vitta katha, സഞ്ജയൻ, വെള്ളം വിറ്റ കഥ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 23, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Gerard_Dou__Woman_and_Child_by_a_Table_in_Candlelight_1082.jpg">A Woman engaged at the
+Supper-table,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Gerrit_Dou">Gerrit Dou</ref>
+ (1613–1675). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-vellam.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-vellam.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

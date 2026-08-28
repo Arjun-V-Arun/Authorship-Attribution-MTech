@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പ്രാകൃതനായ തോട്ടക്കാരൻ</title>
+          <title xml:lang="en" type="main">Prakrthanaya Thottakkaran</title>
+        </title>
+        <author>E. Harikumar</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 14, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പ്രാകൃതനായ തോട്ടക്കാരൻ</title>
+              <title xml:lang="en" type="main">Prakrthanaya Thottakkaran</title>
+            </title>
+            <author>E. Harikumar</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-08-15</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Short Story</term>
+          <term>E. Harikumar</term>
+          <term>Prakrthanaya Thottakkaran</term>
+          <term>ഇ. ഹരികുമാർ</term>
+          <term>പ്രാകൃതനായ തോട്ടക്കാരൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="short story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-08-15</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Maastricht_tuin_Lenculenstraat.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Maastricht,_tuin_Lenculenstraat_(A_Schaepkens).jpg">A
+garden in Lenculenstraat, Maastricht, the Netherlands,</ref> a painting by Alexander
+Schaepkens  (1815–1899). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പ്രാകൃതനായ തോട്ടക്കാരൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>ഇ. ഹരികുമാർ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പ്രാകൃതനായ തോട്ടക്കാരൻ</head>
+        <div type="lsection">
+          <p style="noindent">പ്രഭു തോട്ടക്കാരനോടു പറഞ്ഞു:
+</p>
+          <p>ഞാൻ നിങ്ങളെ എന്റെ തോട്ടക്കാരനാക്കിയിട്ടു് ഏതാണ്ടു രണ്ടു കൊല്ലമായി. തോട്ടം ഏല്പിച്ചു തന്നപ്പോൾ
+അതു വെറുമൊരേക്കർ തരിശുനിലമായിരുന്നെന്നു ഞാൻ സമ്മതിക്കുന്നു. അതുകൊണ്ടു തന്നെയാണു ഞാനതു
+നിങ്ങളെ ഏല്പിച്ചു തന്നതും. അവിടെ എന്റെ പുതിയ മാളികയുടെ ഔദ്ധത്യത്തിനുയോജ്യമായ ഒരുദ്യാനം
+ഉണ്ടാക്കണമെന്നായിരുന്നു ഞാൻ പറഞ്ഞതു്. അതിനു് എത്ര പണം വേണമെങ്കിലും ചെലവിടാൻ ഞാൻ
+തയ്യാറുമായിരുന്നു. നിങ്ങളോടു കിട്ടാവുന്നേടത്തോളം എല്ലാത്തരം പൂച്ചെടികളുടെയും വിത്തുകൾ നെഴ്സറിയിൽ
+നിന്നു വാങ്ങിക്കോളാൻ ഞാൻ പറഞ്ഞിരുന്നില്ലേ? അതുപോലെ ആവശ്യമുള്ള വളങ്ങളും വാങ്ങാൻ
+ഏല്പിച്ചിരുന്നില്ലേ?
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/eharikumar-pt-n-01.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>എന്റെ മനസ്സിലുണ്ടായിരുന്ന തോട്ടത്തിൽ റോസാപ്പൂക്കളും സൂര്യകാന്തികളും പാരിജാതവുമാണുള്ളതു്. എന്റെ
+ഓർമ്മ ശരിയാണെങ്കിൽ ഞാൻ നിങ്ങളോടു പറഞ്ഞിരുന്നതു് തോട്ടത്തെ കള്ളികളായി ഭാഗിച്ചു
+മൈലാഞ്ചിച്ചെടികൾകൊണ്ടു് ഒരേ ഉയരത്തിൽ മതിലിട്ടു് ഓരോ കള്ളിയിലും ഓരോ തരം പൂച്ചെടികൾ
+തടങ്ങളായി വളർത്താനായിരുന്നു.
+</p>
+          <p>ഇന്നലെ വൈകുന്നേരമാണു് ഞാൻ ആദ്യമായി തോട്ടത്തിൽ ഇറങ്ങി നോക്കിയതു്. ആദ്യമെല്ലാം എന്റെ
+മാളികയുടെ മട്ടുപ്പാവിലിരുന്നു നോക്കിയതല്ലാതെ തോട്ടത്തിനുള്ളിലേക്കു കടന്നിരുന്നില്ല. മട്ടുപ്പാവിലിരുന്നു
+നോക്കുമ്പോഴാകട്ടെ, തോട്ടത്തിൽ നിറയെ പച്ചപ്പുമുണ്ടായിരുന്നു. അവയെല്ലാം പൂച്ചെടികളായിരിക്കുമെന്നു ഞാൻ
+ന്യായമായും ഊഹിച്ചു. അവ മൊട്ടിടുവാനും പൂക്കുവാനും ഞാൻ കാത്തിരുന്നു. പക്ഷേ, പച്ചപ്പു്, ഋതുക്കളുടെ
+മാറ്റത്തിനനുസരിച്ചു് നിറം മാറി പഴുക്കുകയും കരിയിലകളാകുകയും, മഴയ്ക്കുശേഷം വീണ്ടും പ്രത്യക്ഷപ്പെടുകയും
+ചെയ്തു. വീണ്ടും ഞാൻ ആശയോടെ കാത്തിരുന്നതല്ലാതെ ഒരൊറ്റ പൂവും വിരിഞ്ഞില്ല.
+</p>
+          <p>ദിവസവും രാവിലെ ഉദയത്തിനു മുമ്പുതന്നെ നിങ്ങൾ കൈക്കോട്ടുമായി തോട്ടത്തിലെത്തി പണി തുടങ്ങുന്നതു
+ഞാൻ കാണാറുണ്ടു്. വളം വാങ്ങാൻ ഞാൻ തന്ന പണം കൊണ്ടു നിങ്ങൾ സത്യസന്ധമായി വളം വാങ്ങി
+തോട്ടത്തിൽ ഇടുന്നതു ഞാൻ കണ്ടിട്ടുണ്ടു്. അതുപോലെ, വിത്തുകൾക്കായി തരുന്ന പണംകൊണ്ടു നിങ്ങൾ
+വിത്തുകൾ വാങ്ങി പാകുന്നതും ഞാൻ കാണുന്നുണ്ടു്. നിങ്ങൾ സത്യസന്ധനാണെന്നു കാണുന്നതിൽ എനിക്കു
+സന്തോഷം തന്നെ. പക്ഷേ, എനിക്കു് സന്തോഷമുണ്ടാക്കാത്ത കാര്യം തോട്ടത്തിന്റെ കിടപ്പാണു്.
+</p>
+          <p>ഇന്നലെ വൈകുന്നേരം എന്റെ ക്ഷമയുടെ അവസാനവും കണ്ടപ്പോൾ ഞാൻ ബാൽക്കണിയിൽ നിന്നിറങ്ങി.
+മുറ്റത്തെ മണൽ എന്റെ കാലടികൾ വേദനിപ്പിച്ചുവെങ്കിലും അതു സാരമാക്കാതെ ഞാൻ നടന്നു. കാരണം, ഞാൻ
+അത്രയധികം അക്ഷമനും ഉൽക്കണ്ഠിതനുമായിരുന്നു.
+</p>
+          <p>തോട്ടത്തിലെത്തിയപ്പോൾ കണ്ടതെന്താണെന്നോ? പറയുന്നതിനേക്കാൾ ഭേദം നിങ്ങളെ കൊണ്ടുപോയി
+കാണിക്കലാണു്. പക്ഷേ ഇനിയും അതിനുവേണ്ടി മണൽ ചവിട്ടി കാലടികൾ വേദനിപ്പിക്കാൻ വയ്യ.
+പോരാത്തതിനു് നിങ്ങൾക്കറിയാത്തതൊന്നുമല്ലല്ലോ തോട്ടത്തിലുള്ളതു്!
+</p>
+          <p>ഞാൻ കണ്ടതെന്താണെന്നോ? വെറും കളകൾ മാത്രം! രാക്ഷസന്മാരെപ്പോലെ നിവർന്നു നില്ക്കുന്ന
+കള്ളിച്ചെടികൾ! തൊട്ടാൽ നാറ്റം പുറപ്പെടുവിക്കുന്ന അപ്പച്ചെടികൾ!
+
+</p>
+          <p>എവിടെ എന്റെ റോസാച്ചെടികൾ? എന്റെ സ്വപ്നങ്ങളിലെ സൂര്യകാന്തികൾ? എവിടെ എന്റെ സന്ധ്യകളിൽ
+ശ്വസിക്കാനുദ്ദേശിച്ച പാരിജാതം? എവിടെ ഞാൻ ആവശ്യപ്പെട്ട തോട്ടം?
+</p>
+          <p>ഞാൻ നിരാശനായിരിക്കുന്നു. ഞാനിനി ഏതാനും വർഷങ്ങളേ ജീവിച്ചിരിക്കൂ. അതിനിടയിൽ എന്റെ സ്വപ്നം
+യാഥാർത്ഥ്യമാക്കണമെന്നുള്ളതുകൊണ്ടു് ഞാൻ വേറൊരു തോട്ടക്കാരനെ നിയമിക്കാൻ
+തീർച്ചപ്പെടുത്തിയിരിക്കയാണു്. നിങ്ങൾക്കു പോകാം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/eharikumar-pt-n-02.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>മട്ടുപ്പാവിനുമീതെ അരിച്ചെത്തിയ വരണ്ട കാറ്റു് ഏതാനും കരിയിലകളേന്തി പ്രതിമപോലെ നിശ്ശബ്ദനായി
+നില്ക്കുന്ന തോട്ടക്കാരന്റെ അടുത്തെത്തി. തോട്ടക്കാരൻ അനങ്ങിയില്ല. അയാൾക്കു് അനങ്ങാനുള്ള ശക്തി
+നഷ്ടപ്പെട്ടിരുന്നു. പ്രഭു തോട്ടക്കാരനോടു തുടർന്നു പറഞ്ഞു.
+</p>
+          <p>എനിക്കു നിങ്ങളുടെ കഷ്ടപ്പാടുകൾ അറിയാം. ഈ ജോലി നഷ്ടപ്പെട്ടാൽ നിങ്ങളുടെ കെട്ടിയവളും മൂന്നു
+കുട്ടികളും പട്ടിണിയാവുമെന്നു് എനിക്കറിയാം. കാരണം, കഴിഞ്ഞ ഏതാനും മാസങ്ങളായി നിങ്ങൾ ജോലി ചെയ്തു
+കൊണ്ടിരുന്ന നാലു വീടുകളിൽ നിങ്ങളുടെ സേവനം ആവശ്യമില്ലെന്നു പറഞ്ഞു് നിങ്ങളെ പിരിച്ചു വിട്ടതു
+ഞാനറിയുന്നു. അവിടെയെല്ലാം നിങ്ങൾ പരാജയമായിരുന്നു. അവരെല്ലാം എന്നേക്കാൾ മുമ്പു നിങ്ങളുടെ
+പരാജയം ഗ്രഹിച്ചിരുന്നു. നിങ്ങളുടെ കെട്ടിയവളേയും കുട്ടികളേയും പറ്റി എനിക്കനുകമ്പയുണ്ടു്. പക്ഷേ, എന്റെ
+താൽപര്യങ്ങളെ നിലനിർത്തിക്കൊണ്ടു നിങ്ങളെ ഇനിയും ഇവിടെ നിർത്താൻ കഴിയില്ല.
+</p>
+          <p>തോട്ടക്കാരൻ നിശ്ചലനായി, നിശ്ശബ്ദനായി നിന്നു.
+അയാൾ സ്വയം മനസ്സിലാക്കിയിട്ടില്ലാത്ത, പ്രാകൃതനായ ഒരു തോട്ടക്കാരനായിരുന്നു. മോശക്കാരനായ
+പരാജയപ്പെട്ട ഒരു തോട്ടക്കാരൻ.
+</p>
+          <p>പ്രഭുവും മട്ടുപ്പാവിൽ നിന്നു. ഇത്രയും പറയുവാനുള്ള അദ്ധ്വാനം അദ്ദേഹത്തെ സംബന്ധിച്ചിടത്തോളം വളരെ
+ക്ഷീണിപ്പിക്കുന്നതായിരുന്നു. അദ്ദേഹത്തിന്റെ കാലുകൾക്കു നീങ്ങുവാനുള്ള ശക്തി നഷ്ടപ്പെട്ടിരുന്നു.
+</p>
+          <p>അവരുടെ തലയ്ക്കുമുകളിലൂടെ സൂര്യന്റെ ഘോഷയാത്ര കടന്നു പോയി. വെയിലിൽ പ്രഭു വാടി. തോട്ടക്കാരൻ
+വാടി. ഭൂമിയിലുള്ള സകല ജീവജാലങ്ങളും വാടി. പിന്നെ കാറ്റിൽ വാടിയ അപ്പച്ചെടികളുടെ ഗന്ധം അരിച്ചു
+വന്നപ്പോൾ തോട്ടക്കാരൻ ഉണർന്നു. അയാൾ ഇളകി. അയാൾ തിരിഞ്ഞു നടന്നു. വാടിയ അപ്പച്ചെടികളുടെ
+ഗന്ധം വന്നിരുന്നതു് അയാളുടെ തോട്ടത്തിൽ നിന്നായിരുന്നു. ഒരു നായയെപ്പോലെ മണം പിടിച്ചു് അയാൾ
+നടന്നു തോട്ടത്തിലെത്തി.
+</p>
+          <p>അയാൾ പാപഭാരത്തോടെ തോട്ടത്തിലേക്കു കടന്നു. രാവിലെ മുതൽ നനവില്ലാതെ ഉണങ്ങിക്കിടക്കുന്ന
+തോട്ടം. എന്തൊരക്രമമാണു താൻ കാണിച്ചതു്? അയാൾ വാത്സല്യത്തോടെ ചെടികളെ നോക്കി. ക്ഷീണിച്ചു
+വാടിയ അപ്പച്ചെടികളുടെ കുഴഞ്ഞു തൂങ്ങിയ തലകൾ കൈയിലെടുത്തു. മക്കളെ, ഇത്ര വേഗം വാടിയാലോ?
+അതിനടുത്തുതന്നെ ഒരാഴ്ചമുമ്പു സൂര്യകാന്തിപ്പൂ വിത്തു പാകിയ തടത്തിൽ തഴച്ചു വളരുന്ന ആര്യോഗ്യമുള്ള പുല്ലുകൾ
+അയാൾ കൗതുകപൂർവ്വം നോക്കി. പിന്നെ കള്ളിച്ചെടികൾ. അവ തോട്ടത്തിനകത്തും വേലിക്കരുകിലും
+അചഞ്ചലരായി നിലകൊണ്ടു. വെള്ളമില്ലായ്മ അവർക്കു് ഒരു വിഷമവും ഉണ്ടാക്കുന്നില്ല.
+</p>
+          <p>തോട്ടക്കാരൻ തൊട്ടിയെടുത്തു് കിണറ്റു കരയിലേക്കു നടന്നു. വെള്ളം മുക്കി തോട്ടത്തിൽ നന തുടങ്ങി. ചൂടുള്ള
+മണ്ണിൽ വെള്ളം വീണപ്പോൾ മാദകമായ മണം പൊങ്ങി. സാവധാനത്തിൽ അപ്പച്ചെടികൾ തലയുയർത്തി,
+ചിരിച്ചു്, കാറ്റിലാടി വാസന പുറത്തുവിട്ടു.
+</p>
+          <p>അയാൾ ചിരിച്ചു. അയാൾ ചുറ്റും മറന്നു. സ്വയം മറന്നു. തോട്ടത്തിലെ കാടന്മാരായ മക്കളെ അയാൾ
+പുണർന്നു. അവരെ ഉമ്മ വെച്ചു.
+</p>
+          <p>പിന്നെ സൂര്യൻ അസ്തമിക്കാൻ തയ്യാറായപ്പോൾ ആ തോട്ടക്കാരൻ വീണ്ടും പരിസരബോധമുള്ളവനായി ചുറ്റും
+നോക്കി. മാളികയുടെ മട്ടുപ്പാവിൽ പ്രഭു അനക്കമില്ലാതെ നില്ക്കുന്നു. സൂര്യപ്രകാശം പിന്നിൽനിന്നു വരുന്നതിനാൽ
+അദ്ദേഹത്തിന്റെ മുഖം വ്യക്തമല്ല. തോട്ടക്കാരൻ ഞെട്ടി. അയാൾ ഓർമ്മിച്ചു. അയാളുടെ ആഹ്ലാദം പറന്നു.
+ദുഃഖവും പേറി അയാൾ തോട്ടത്തിന്നു പുറത്തു കടന്നു്, മാളികയുടെ നേർക്കു് നടന്നു. മാളികയുടെ ഔന്നത്യം
+നിഴൽവിരിച്ച മുറ്റത്തു് അയാൾ നിന്നു; തലയുയർത്തി നോക്കി. പ്രഭുവിന്റെ മുഖം അപ്പോഴും സ്പഷ്ടമല്ല.
+തലകുനിച്ചുകൊണ്ടു തോട്ടക്കാരൻ പറഞ്ഞു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/eharikumar-pt-n-03.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p> പ്രഭോ! അവിടുന്നു് എന്റെ കുടുംബത്തെപ്പറ്റി പറഞ്ഞതു ശരിയാണു്. എന്റെ കെട്ടിയവളും മക്കളും
+ഇപ്പോൾത്തന്നെ പകുതിപ്പട്ടിണിയാണു്. അവിടുന്നു തരുന്ന ശമ്പളവും കിട്ടിയില്ലെങ്കിൽ അവർ മുഴുപ്പട്ടിണിയുമാകും.
+സാരമില്ല. അവർ അങ്ങനെ വളരുന്നതിൽ എനിക്കു വിഷമമില്ല. പക്ഷേ, ഈ തോട്ടം വിട്ടുപോകുന്നതിൽ എനിക്കു
+സങ്കടമുണ്ടു്. അങ്ങു് എനിക്കു ശമ്പളം തന്നില്ലെങ്കിലും വേണ്ടില്ല, ഞാൻ ഈ തോട്ടത്തിൽ പണി ചെയ്തോട്ടെ?
+</p>
+          <p>അയാൾ സ്വയം മനസ്സിലാക്കിയിട്ടില്ലാത്ത പ്രാകൃതനായ ഒരു തോട്ടക്കാരനായിരുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ഇ. ഹരികുമാർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/EHarikumar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent"> 1943 ജൂലൈ 13-നു് പൊന്നാനിയിൽ ജനനം. അച്ഛൻ മഹാകവി ഇടശ്ശേരി
+ഗോവിന്ദൻ
+നായർ. അമ്മ ഇടക്കണ്ടി ജാനകി അമ്മ. കൽക്കത്തയിൽ വച്ച് ബി. എ. പാസ്സായി. 1972-ൽ ലളിതയെ വിവാഹം
+ചെയ്തു. മകൻ അജയ് വിവാഹിതനാണു് (ഭാര്യ: ശുഭ). കൽക്കത്ത, ദില്ലി, ബോംബെ എന്നീ നഗരങ്ങളിൽ
+ജോലിയെടുത്തു. 1983-ൽ കേരളത്തിലേയ്ക്ക് തിരിച്ചു വന്നു. 1962 തൊട്ടു് ചെറുകഥകളെഴുതി തുടങ്ങി. ആദ്യത്തെ
+കഥാസമാഹാരം ‘കൂറകൾ’ 72-ൽ പ്രസിദ്ധപ്പെടുത്തി. പതിനഞ്ചു കഥാസമാഹാരങ്ങളും ഒമ്പതു് നോവലുകളും ഒരു
+അനുഭവക്കുറിപ്പും പ്രസിദ്ധപ്പെടുത്തിയിട്ടുണ്ടു്. 2020 മാർച്ചു മാസം 23-നു അദ്ദേഹം അന്തരിച്ചു.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">പുരസ്കാരങ്ങൾ</head>
+          <list rend="numbered">
+            <item n="">1988-ലെ കേരള സാഹിത്യ അക്കാദമി പുരസ്കാരം ‘ദിനോസറിന്റെ കുട്ടി’ എന്ന
+
+കഥാസമാഹാരത്തിനു്. </item>
+            <item n="">1997-ലെ പത്മരാജൻ പുരസ്കാരം ‘പച്ചപ്പയ്യിനെ പിടിക്കാൻ’ എന്ന കഥയ്ക്ക്. </item>
+            <item n="">1998-ലെ നാലപ്പാടൻ പുരസ്കാരം ‘സൂക്ഷിച്ചുവച്ച മയിൽപ്പീലി’ എന്ന കഥാസമാഹാരത്തിനു്.
+</item>
+            <item n="">2006-ലെ കഥാപീഠം പുരസ്കാരം ‘അനിതയുടെ വീടു്’ എന്ന കഥാസമാഹാരത്തിനു്. </item>
+            <item n="">2012-ലെ ഏറ്റവും മികച്ച കഥയ്ക്കുള്ള കേരള സ്റ്റേറ്റു് ചലച്ചിത്ര അക്കാദമി അവാർഡ്
+‘ശ്രീപാർവ്വതിയുടെ പാദം’ എന്ന കഥയ്ക്ക്. ആഡിയോ റിക്കാർഡിങ്, വെബ് ഡിസൈനിങ്, മൾട്ടിമീഡിയ
+പ്രൊഡക്ഷൻ, പുസ്തകപ്രസിദ്ധീകരണം എന്നിവയിൽ ഏർപ്പെട്ടിട്ടുണ്ടു്. 1998 മുതൽ 2004 വരെ കേരള സാഹിത്യ
+അക്കാദമി അംഗമായിരുന്നു. </item>
+          </list>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">കൃതികൾ</head>
+        </div>
+        <!--end of "section 0.0/1.4"-->
+        <div type="lsection" xml:id="sec1.5">
+          <head type="lsechead">ചെറുകഥാസമാഹാരങ്ങൾ</head>
+          <list rend="numbered">
+            <item n="">വൃഷഭത്തിന്റെ കണ്ണ് </item>
+            <item n="">കുങ്കുമം വിതറിയ വഴികൾ </item>
+            <item n="">ദിനോസറിന്റെ കുട്ടി </item>
+            <item n="">കാനഡയിൽ നിന്നൊരു രാജകുമാരി </item>
+            <item n="">ശ്രീപാർവ്വതിയുടെ പാദം </item>
+            <item n="">സൂക്ഷിച്ചുവച്ച മയിൽപ്പീലി </item>
+            <item n="">പച്ചപ്പയ്യിനെ പിടിക്കാൻ </item>
+            <item n="">ദൂരെ ഒരു നഗരത്തിൽ </item>
+            <item n="">കറുത്ത തമ്പ്രാട്ടി </item>
+            <item n="">അനിതയുടെ വീടു് </item>
+            <item n="">നഗരവാസിയായ ഒരു കുട്ടി </item>
+            <item n="">വെള്ളിത്തിരയിലെന്നപോലെ </item>
+          </list>
+        </div>
+        <!--end of "section 0.0/1.5"-->
+        <div type="lsection" xml:id="sec1.6">
+          <head type="lsechead">നോവലുകൾ</head>
+          <list rend="numbered">
+            <item n="">ഉറങ്ങുന്ന സർപ്പങ്ങൾ + ശാപശില </item>
+            <item n="">ആസക്തിയുടെ അഗ്നിനാളങ്ങൾ </item>
+            <item n="">ഒരു കുടുംബപുരാണം </item>
+            <item n="">എഞ്ചിൻഡ്രൈവറെ സ്നേഹിച്ച പെൺകുട്ടി </item>
+            <item n="">അയനങ്ങൾ </item>
+            <item n="">അറിയാത്തലങ്ങളിലേയ്ക്ക് </item>
+            <item n="">കൊച്ചമ്പ്രാട്ടി </item>
+            <item n="">പ്രണയത്തിനൊരു സോഫ്റ്റ്വെയർ </item>
+            <item n="">തടാകതീരത്ത് </item>
+          </list>
+        </div>
+        <!--end of "section 0.0/1.6"-->
+        <div type="lsection" xml:id="sec1.7">
+          <head type="lsechead">നോവലെറ്റ്</head>
+          <list rend="numbered">
+            <item n="">എപ്പോഴും സ്തുതിയായിരിക്കട്ടെ </item>
+          </list>
+        </div>
+        <!--end of "section 0.0/1.7"-->
+        <div type="lsection" xml:id="sec1.8">
+          <head type="lsechead">ഏകാങ്കം</head>
+          <list rend="numbered">
+            <item n="">സംവിധായകനെത്തേടി ഒരു കഥാപാത്രം </item>
+          </list>
+        </div>
+        <!--end of "section 0.0/1.8"-->
+        <div type="lsection" xml:id="sec1.9">
+          <head type="lsechead">ഓർമ്മകൾ, അനുഭവക്കുറിപ്പുകൾ, ലേഖനങ്ങൾ</head>
+          <list rend="numbered">
+            <item n="">നീ എവിടെയാണെങ്കിലും </item>
+            <item n="">ഈ ഓർമ്മകൾ മരിക്കാതിരിക്കട്ടെ </item>
+            <item n="">എന്റെ സ്ത്രീപക്ഷകഥകളെപ്പറ്റി </item>
+          </list>
+          <p style="noindent">കലിഗ്രഫി: എൻ. ഭട്ടതിരി
+</p>
+          <p>ചിത്രങ്ങൾ: വി. മോഹനൻ
+</p>
+        </div>
+        <!--end of "section 0.0/1.9"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Prakrthanaya Thottakkaran (ml:
+പ്രാകൃതനായ തോട്ടക്കാരൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  E. Harikumar.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-08-15. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Short Story, E. Harikumar,
+Prakrthanaya Thottakkaran, ഇ. ഹരികുമാർ, പ്രാകൃതനായ തോട്ടക്കാരൻ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 14, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Maastricht,_tuin_Lenculenstraat_(A_Schaepkens).jpg">A
+garden in Lenculenstraat, Maastricht, the Netherlands,</ref> a painting by Alexander
+Schaepkens  (1815–1899). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/eharikumar-pt.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/eharikumar-pt.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

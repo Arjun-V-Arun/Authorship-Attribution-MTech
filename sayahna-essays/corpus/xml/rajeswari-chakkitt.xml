@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചാക്കിട്ടുപിടിത്തം: കലയും ശാസ്ത്രവും</title>
+          <title xml:lang="en" type="main">Chakkittupidiththam: Kalayum
+Sasthravum</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">February 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചാക്കിട്ടുപിടിത്തം: കലയും ശാസ്ത്രവും</title>
+              <title xml:lang="en" type="main">Chakkittupidiththam: Kalayum
+Sasthravum</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Chakkittupidiththam: Kalayum Sasthravum</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ചാക്കിട്ടുപിടിത്തം: കലയും ശാസ്ത്രവും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Frost_Scene_Art_Project.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:William_Collins__Frost_Scene_-_Google_Art_Project.jpg">Frost Scene,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:William_Collins_(painter)">William
+Collins</ref>  (1788–1847). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചാക്കിട്ടുപിടിത്തം: കലയും ശാസ്ത്രവും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചാക്കിട്ടുപിടിത്തം: കലയും ശാസ്ത്രവും</head>
+        <quote>
+ചെങ്ങാരപ്പള്ളിയുടെ ഡയറിക്കുറിപ്പുകളെ മുൻനിറുത്തി ഒരന്വേഷണം.
+</quote>
+        <!--end of "quote"-->
+        <figure rend="fleft" type="gra">
+          <graphic url="images/Panampilly_Govinda_Menon.jpg" rendition="gra"/>
+          <figDesc style="thumb">പനമ്പിള്ളി ഗോവിന്ദമേനോൻ</figDesc>
+        </figure>
+        <p> ചാക്കിട്ടുപിടിത്തം എന്ന സുകുമാരകലയുടെ ഉപജ്ഞാതാവ് <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">പനമ്പിള്ളി
+ഗോവിന്ദമേനോൻ</ref> ആയിരുന്നു. മഹത്തായ ഇന്ത്യൻ ജനാധിപത്യത്തിനു് അദ്ദേഹം നൽകിയ
+നിസ്തുലമായ സംഭാവന.
+</p>
+        <p>1955 ഫെബ്രുവരിയിലാണു് ചാക്കിട്ടുപിടിത്തത്തിന്റെ ഒന്നാമങ്കം ഫെബ്രുവരി 8-നു് അവിശ്വാസപ്രമേയത്തിൽ
+പരാജിതനായ തിരു-കൊച്ചി മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടം
+താണുപിള്ള</ref> രാജികൊടുത്തു: നിയമസഭ പിരിച്ചുവിടാൻ രാജപ്രമുഖനെ ഉപദേശിക്കുകയും ചെയ്തു, രാജി
+സ്വീകരിച്ചെങ്കിലും രാജപ്രമുഖൻ ഉപദേശം ചെവിക്കൊണ്ടില്ല ഭൂരിപക്ഷമില്ലാത്ത മുഖ്യനു് സഭ പിരിച്ചുവിടാൻ
+പറയാൻ എന്തവകാശം? ഈ മഹനീയ മുഹൂർത്തത്തിലാണു് പനമ്പിള്ളി പി. എസ്. പി.-യിൽനിന്നു് രണ്ടു്
+എം. എൽ. എ.-മാരെ റാഞ്ചി ഭൂരിപക്ഷം തികക്കുന്നതും മന്ത്രിസഭയുണ്ടാക്കുന്നതും കൊടക്കര കേശവമേനോനും
+വയലാർ ഇടിക്കുളയുമായിരുന്നു പനമ്പിള്ളിയുടെ ചാക്കിൽ കയറിയതു്.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/Pattom_A_Thanu_Pillai.jpg" rendition="gra"/>
+          <figDesc style="thumb">പട്ടം താണുപിള്ള</figDesc>
+        </figure>
+        <p> ഏതാനും മാസങ്ങൾക്കകം പനമ്പിള്ളിയുടെ മന്ത്രിസഭയും തകർന്നു. 1956 മാർച്ച് 11-നു് രാജിക്കത്തു്
+കൊടുത്തെങ്കിലും പനമ്പിള്ളി നിയമസഭ പിരിച്ചുവിടാൻ ഉപദേശം നൽകിയില്ല. മാർച്ച് 22-നു് നടക്കുന്ന രാജ്യസഭാ
+തെരഞ്ഞെടുപ്പുവരെ പിടിച്ചുനിൽക്കേണ്ടിയിരുന്നു. അതിനിടെ എതിരാളികൾ മന്ത്രിസഭയുണ്ടാക്കാനും പാടില്ല.
+കമ്യൂണിസ്റ്റ്-പി. എസ്. പി., ആർ. എസ്. പി., കെ. എസ്. പി. കക്ഷികൾ യോജിച്ചു് മന്ത്രസഭയുണ്ടാക്കാൻ ശ്രമം
+തുടരവെ പനമ്പിള്ളി ചാക്കിടൽ തന്ത്രം വിജയകരമായി പ്രയോഗിച്ചു—ആർ. എസ്. പി.-യിലെ ചെങ്ങാരപ്പള്ളി
+നാരായണൻ പോറ്റിയായിരുന്നു ഇര.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/CHmohammedKoya.jpg" rendition="gra"/>
+          <figDesc style="thumb">മുഹമ്മദു കോയ</figDesc>
+        </figure>
+        <p> തിരു-കൊച്ചി രാഷ്ട്രീയത്തിൽ കോളിളക്കമുണ്ടാക്കിയ ചെങ്ങാരപ്പള്ളിയുടെ കാലുമാറ്റവും അതുമായി
+ബന്ധപ്പെട്ട അണിയറ നാടകങ്ങളുമെല്ലാം ഈയിടെ കറന്റു ബുക്സ് പ്രസിദ്ധീകരിച്ച ‘ചെങ്ങാരപ്പള്ളിയുടെ
+ഡയറിക്കുറിപ്പുകൾ അനാവരണം ചെയ്യുന്നു. 1940–56 കാലത്തു് എഴുതിയ കുറിപ്പുകളാണു്
+സമാഹരിക്കപ്പെട്ടിരിക്കുന്നതു്. തിരുവിതാംകൂർ രാഷ്ട്രീയത്തെപ്പറ്റി, വിശിഷ്യ കെ. എസ്. പി.-ആർ. എസ്. പി.
+കക്ഷികളുടെ ഉദ്ഭവത്തെയും വളർച്ചയെയുംപറ്റി പഠിക്കുന്നവർക്കു് അമൂല്യമായ വിവരങ്ങളാണു് ഈ
+ഗ്രന്ഥത്തിലുള്ളതു്.
+
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/N_Sreekantan_nair.png" rendition="gra"/>
+          <figDesc style="thumb">എൻ. ശ്രീകണ്ഠൻനായർ</figDesc>
+        </figure>
+        <p> അളവറ്റ സമ്പത്തിനുടമയും കലാ-സാഹിത്യ രസികനുമായ ഒരു മലയാള ഭൂസുരൻ സുരാപാനത്തിൻ
+വിപ്ലവസോഷ്യലിസത്തിനും അടിമയായി നശിക്കുന്നതിന്റെ സത്യസന്ധമായ ചിത്രം ഈ കുറിപ്പുകളിലുണ്ടു്.
+അടിസ്ഥാനപരമായി രാഷ്ട്രീയ ജീവിയല്ല നാരായണൻപോറ്റി ഗംഭീരമായ സദ്യകൾ നടത്തലും പുലരും വരെ
+കണ്ണിമയ്ക്കാതെ കഥകളി കാണലുമൊക്കെയാണു് അദ്ദേഹത്തിനു് ഹരം. 1946-ലാണു് പോറ്റി <ref target="https://ml.wikipedia.org/wiki/N._Sreekantan_Nair">എൻ.
+ശ്രീകണ്ഠൻനായരുടെ</ref> പാർശ്വവർത്തിയാകുന്നതും സോഷ്യലിസ്റ്റ് പ്രസ്ഥാനവുമായി ബന്ധപ്പെടുന്നതും.
+</p>
+        <p>1952-ലെ തെരഞ്ഞടുപ്പിൽ തകഴി നിയോജകമണ്ഡകത്തിൽനിന്നു് ആർ. എസ്. പി. സ്ഥാനാർത്ഥിയായാണു്
+ചെങ്ങാരപ്പള്ളി ആദ്യം നിയമസഭയിലെത്തുന്നതു്. 1954-ൽ വിജയം ആവർത്തിച്ചു. പോറ്റി ശ്രീകണ്ഠൻനായരിൽ
+നിന്നു് അകലുന്നതും പനമ്പിള്ളി ആ അകൽച്ച സമർഥമായി ചൂഷണം ചെയ്യുന്നതും ഡയറിക്കുറിപ്പുകളിൽ കാണാം.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/M_V_Raghavan.jpg" rendition="gra"/>
+          <figDesc style="thumb">എം. വി. രാഘവൻ</figDesc>
+        </figure>
+        <p> 1955 ഫെബ്രുവരി 14-നു് പനമ്പിള്ളിയുടെ നേതൃത്വത്തിൽ അഞ്ചംഗ മന്ത്രിസഭ അധികാരമേൽക്കുന്നു. ഏപ്രിൽ
+4-നു് പബ്ലിക് അകൗണ്ട്സ് കമ്മിറ്റിയിൽനിന്നു് ചെങ്ങാരപ്പള്ളിക്കു് പിന്മാറേണ്ടിവന്നു. നേരത്തെ തന്നെ <ref target="https://ml.wikipedia.org/wiki/Prakulam_bhasi">പ്രാക്കുളം ഭാസി</ref> ക്കു്
+തൽസ്ഥാനത്തു കയറണം എന്നാഗ്രഹമുണ്ടായിരുന്നുതാനും. ജൂൺ 15-നു് ശ്രീകണ്ഠൻ ചേട്ടനു് തന്നോടുള്ള
+താൽപര്യക്കുറവിനു കാരണം എന്താണെന്നു് അന്വേഷിച്ചുകൊണ്ടു് പോറ്റി മഹേശ്വരിയമ്മക്കു് കത്തെഴുതുന്നു.
+ജൂൺ 25 ആകുമ്പോഴേക്കും തന്നെ പാർട്ടിയുടെ ശത്രുവായിക്കാണുന്ന പുങ്കന്മാരുടെ വലയിൽ ശ്രീകണ്ഠൻനായർ
+കൂടി വീണോ എന്നും അദ്ദേഹത്തിനു് സംശയമായി. ആഗസ്റ്റ് 11-ആം തീയതി രാത്രി ശ്രീകണ്ഠൻനായർ വന്നു്
+രാഷ്ട്രീയവും വ്യക്തിപരവുമായ കുറെ കാര്യങ്ങൾ സംസാരിച്ചു. ശ്രീകണ്ഠൻനായർ തന്നെ ആക്രമിക്കാനുപയോഗിച്ച
+ആയുധങ്ങൾകൊണ്ടുതന്നെ പോറ്റി പ്രത്യസ്ത്ര പ്രയോഗം ചെയ്തു. “കണ്ട എരപ്പാളികളുടെ സൈഡ് പിടിച്ചു് എന്നെ
+കുത്താൻ വന്നാൽ ന്യായമാർഗത്തിൽനിന്നു് വ്യതിചലിക്കാത്ത എന്റെ പക്കൽ അവരെ കൊമ്പുകുത്തിക്കുവാനുള്ള
+ധാർമിക ശക്തിയെങ്കിലുമുണ്ടു്”.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/Babyjohn.jpg" rendition="gra"/>
+          <figDesc style="thumb">ബേബിജോൺ</figDesc>
+        </figure>
+        <p> സെപ്റ്റംബർ 17-നു് കൊല്ലത്തുകൂടിയ ആർ. എസ്. പി. പാർലമെന്ററി പാർട്ടി യോഗത്തിൽ പി. കെ.
+യശോധരനും മറ്റും ശ്രീകണ്ഠൻനായരുടെ ഒത്താശയോടെ പോറ്റിക്കെതിരെ വ്യക്തിപരമായ ആരോപണം
+ഉന്നയിച്ചു, നിങ്ങളൊരു യോഗ്യനാണെന്നു് ഹരിപ്പാട്ടുകാർ ആരെങ്കിലും കരുതുന്നുണ്ടോ എന്നായിരുന്നു
+യശോധരന്റെ ചോദ്യം. ഇതിനെ അപലപിച്ചു കൊണ്ടു് 19-ആം തീയതി പോറ്റി പാർലമെന്ററി പാർട്ടി സെക്രട്ടറി
+<ref target="https://en.wikipedia.org/wiki/K._Balakrishnan_(CPI-M)">കെ.
+ബാലകൃഷ്ണനു</ref> കത്തെഴുതി.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/Lonappan_Nambadan.jpg" rendition="gra"/>
+          <figDesc style="thumb">ലോനപ്പൻ നമ്പാടൻ</figDesc>
+        </figure>
+        <p> പോറ്റി ആർ. എസ്. പി.-യിൽ നിന്നു് രാജിവെയ്ക്കും എന്ന പത്രവാർത്തയുടെ പശ്ചാത്തലത്തിൽ സെപ്റ്റംബർ
+
+20-നു് കോൺഗ്രസുകാർ സംഭാവന പിരിവിനു് ഇല്ലത്തുചെന്നു. പാർട്ടിയോടുള്ള ബന്ധത്തിനു് അടുത്ത
+കാലത്തുണ്ടായ ഉലച്ചിലിനെപ്പറ്റി 26-നു് തീയതി കെ. ബാലകൃഷ്ണനോടും കെ. എസ്. കൃഷ്ണനോടും സംസാരിച്ചു.
+നിയമസഭാ സമ്മേളനം തുടരുംവരെ നിലവിലുള്ള സ്ഥിതി തുടരണമെന്ന അവരുടെ അഭ്യർഥന മാനിച്ചു.
+അതിനിടെ ചെങ്ങാരപ്പള്ളിയെ ചാക്കിൽ കയറ്റാനുള്ള ദൗത്യവുമായി “സ്ഥലത്തെ ഒരു മികച്ച ധനാഢ്യനും
+മുതലാളിയും അതുകൊണ്ടു് കോൺഗ്രസുകാരനുമായ” ഏവരത്തുകിഴക്കതിൽ മാത്തുക്കൂട്ടി (ഇ. കെ. മാത്യു)
+രംഗത്തിറങ്ങി.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/TMVargheese.jpg" rendition="gra"/>
+          <figDesc style="thumb">ടി. എം. വർഗീസ്</figDesc>
+        </figure>
+        <p> ഒക്ടോബർ അഞ്ചാം തീയതി നിയമസഭാ സമ്മേളനം ആരംഭിച്ചു. സെക്രട്ടറിയേറ്റിലേക്കു് ഇരച്ചുകയറിയ
+തൊഴിലാളി സഖാക്കളെ പോലീസ് പൊതിരെ തല്ലി. എന്തൊക്കെയാണുണ്ടാകാൻ പോകുന്നതെന്നു്
+പാർട്ടിക്കാരെ അറിയിക്കുകപോലും ചെയ്യാതെ പാർട്ടിയുടെ അംഗീകാരം വാങ്ങുന്നകാര്യം പറയുകയേ വേണ്ട.
+ശ്രീകണ്ഠൻനായർ ഇതൊക്കെ ചെയ്യുന്നതിൽ ചെങ്ങാരപ്പള്ളിക്കു കടുത്ത നീരസം. <ref target="https://ml.wikipedia.org/wiki/Baby_John">ബേബിജോൺ</ref>, ജി.
+ഗോപിനാഥൻ നായർ. <ref target="https://ml.wikipedia.org/wiki/Prakulam_bhasi">പ്രാക്കുളം ഭാസി</ref>
+തുടങ്ങിയ നന്ദികേശ്വര പ്രഭൃതികളായ ഭൂതഗണങ്ങളുടെ പിന്തുണയും നേതാവിനുണ്ടു്.
+</p>
+        <p>ഒക്ടോബർ 6-നു് മാത്തുക്കുട്ടി മുതലാളി വീണ്ടും പ്രത്യക്ഷനായി. അന്നു രാത്രി പി. സി. സി. പ്രസിഡന്റ് <ref target="https://ml.wikipedia.org/wiki/A._P._Udhayabhanu">എ. പി. ഉദയഭാനു</ref>
+വിന്റെ വസതിയിലേക്കും പിറ്റേന്നു് പാലാഴിയിൽ പള്ളികൊള്ളുന്ന പനമ്പിള്ളിയുടെ സന്നിധാനത്തിലേക്കും
+പോറ്റിയെ നയിച്ചു. വാഗ്ദാനങ്ങൾ പ്രലോഭനങ്ങൾ ആകർഷണങ്ങൾ—ആർ. എസ്. പി.-യുടെ നൈസർഗികമായ
+ദൗർബല്യങ്ങളെയും മഹത്തായ ഇന്ത്യൻ നാഷനൽ കോൺഗ്രസിന്റെ അപദാനങ്ങളെയും പറ്റി മൂർച്ചയേറിയ
+വാദമുഖങ്ങൾ!
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/K_Balakrishnan.jpg" rendition="gra"/>
+          <figDesc style="thumb">കെ. ബാലകൃഷ്ണൻ</figDesc>
+        </figure>
+        <p>ഏതായാലും ഒക്ടോബർ എട്ടിനു് ആർ. എസ്. പി.-യിൽനിന്നുള്ള രാജിക്കത്തു് ചെങ്ങാരപ്പള്ളി സ്പീക്കറെയും
+പാർട്ടി ലിഡർ <ref target="https://ml.wikipedia.org/wiki/T._K._Divakaran">ടി. കെ.
+ദിവാകരനെ</ref> യും ഏൽപിച്ചു. പാർട്ടിക്കാരെല്ലാവരും കണ്ണീർ പൊഴിച്ചുകൊണ്ടു് പിറകെ വരികയും
+യശോധരനും മറ്റും ഉന്നയിച്ച കുറ്റാരോപണങ്ങൾ പിൻവലിക്കുകയും ചെയ്തപ്പോൾ സ്പീക്കറെക്കണ്ടു് രാജിക്കത്തു്
+തിരികെ വാങ്ങി. ഒക്ടോബർ 13-നു് പനമ്പിള്ളിക്കെതിരെ <ref target="https://ml.wikipedia.org/wiki/T._K._Divakaran">ടി. കെ. ദിവാകരൻ</ref>
+അവതരിപ്പിച്ച അവിശ്വാസപ്രമേയം പരാജയപ്പെട്ടു. സെക്രട്ടറിയേറ്റു നടയിൽ ശ്രീകണ്ഠൻനായർ നടത്തിയ
+നിരാഹാര സത്യഗ്രഹം കൂടുതലൊന്നും നേടാതെ 150-ാം തീയതി അവസാനിച്ചു. ഒരു വിപ്ലവപ്പാർട്ടിയുടെ
+നേതൃത്വത്തിനു വേണ്ട യോഗ്യതകൾ അൽപംപോലുമില്ലാത്ത ഒരാളാണു് ശ്രീകണ്ഠൻ നായർ എന്നു് പോറ്റിക്കു
+തോന്നി.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/AP_udayabanu.jpg" rendition="gra"/>
+          <figDesc style="thumb">എ. പി. ഉദയഭാനു</figDesc>
+        </figure>
+        <p>1956 ഫെബ്രുവരി 27-നു് ബജറ്റു സമ്മേളനം ആരംഭിക്കുമ്പോഴേക്കും പനമ്പിള്ളിയുടെ നില പരിതാപകരമായി.
+പി. സി. സി. പ്രസിഡന്റ് സ്ഥാനത്തേക്കു് മൽസരിച്ചു് ഉദയഭാനുവിനോടു തോറ്റ <ref target="https://ml.wikipedia.org/wiki/Kumbalathu_Sanku_Pillai">കുമ്പളത്തു
+ശങ്കരപ്പിള്ള</ref> ചന്ദ്രഹാസമെടുത്തു. പനമ്പിള്ളിയോടു് എതിർപ്പുണ്ടായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/T.M._Varghese">ടി. എം. വർഗീസും</ref>
+കെ. എം. കോരയും കുമ്പളത്തോടൊപ്പം കൂടി. പെരുന്നയിൽ കോളേജുദ്ഘാടനത്തിനു് പൈപ്പിട്ടു് വെള്ളം
+എത്തിക്കാമെന്ന വാഗ്ദാനം നിറവേറ്റാൻ കഴിയാതെ വന്നപ്പോൾ മന്നത്തപ്പൻ വട്ടം ഉടക്കി. തിരുവിതാംകൂറിന്റെ
+തെക്കൻ താലൂക്കുകൾ തമിഴ്‌നാടിനു വിട്ടുകൊടുത്തതായിരുന്നു വിമതന്മാരുടെ തുറുപ്പുചീട്ടു്. അഖണ്ഡ കേരള
+വാദികളായ ആറു് എം. എൽ. എ.-മാർ—നാലു നായർ, രണ്ടു നസ്രാണി—പാലം വലിച്ചു.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/Kumbalath_sanku_pillai.png" rendition="gra"/>
+          <figDesc style="thumb">കുമ്പളത്തു ശങ്കരപ്പിള്ള</figDesc>
+        </figure>
+        <p> അഖണ്ഡന്മാർ അസംബ്ലിയിൽനിന്നു് വിട്ടുനിന്നിട്ടും പനമ്പിള്ളി പതിനെട്ടടവും പയറ്റി ധനവിനിയോഗ
+ബില്ലുകൾ പാസാക്കിയെടുത്തു. സഭയിൽ ഭൂരിപക്ഷമുള്ളപ്പോൾതന്നെ മാർച്ച് 11-നു് പനമ്പിള്ളി രാജികൊടുത്തു.
+കെയർടേക്കറായി തുടർന്നു. പട്ടത്തിന്റെ നേതൃത്വത്തിൽ ബദൽ മന്ത്രിസഭക്കു നീക്കം നടക്കവെ പനമ്പിള്ളി
+ചെങ്ങാരപ്പള്ളിയെ റാഞ്ചി. അതിനു മുമ്പുതന്നെ ഇ. കെ. മാത്യുവിനെയും എം. എൽ. എ.-മാരായ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>,
+ടി. വി. അച്യുതമേനോൻ എന്നിവരെയും ദൂതന്മാരായി പോറ്റിയുടെ അടുത്തേക്കയച്ചിരുന്നു.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+          <figDesc style="thumb">കെ. എം. മാണി</figDesc>
+        </figure>
+        <p> മാർച്ച് 17-നു്, ഇനിയും കോൺഗ്രസ് മന്ത്രിസഭ തന്നെ നിലവിൽവരുമെന്നും എങ്ങനെയെങ്കിലും സഹായിച്ചേ
+മതിയാവൂ എന്നും പറഞ്ഞു് ഏവരത്തു കിഴക്കതിൽ മാത്തുകുട്ടി വന്നു. നല്ലവണ്ണം ബോറടിച്ചു… രാത്രി
+അസമയങ്ങളിലാണു് ഈ വിവരം അവതിപ്പിക്കാൻ മാത്തുകുട്ടി സമയം കണ്ടുപിടിക്കുക! പട്ടത്തിനു നൽകിയ
+പിന്തുണ പിൻവലിക്കുന്നതായി ഒരു കത്തു് മാർച്ച് 21-നു് ക്ലിഫ് ഹൗസിലെത്തി മുഖ്യമന്ത്രിയെ ഏൽപിച്ചു.
+പാർട്ടിക്കാരുടെ സ്നേഹവായ്പിനെ ഭയന്നു് കന്യാകുമാരിയിലേക്കും അവിടെനിന്നു് നാഗർകോവിലിലേക്കും മുങ്ങി.
+ചെങ്ങാരപ്പള്ളിയെ പനമ്പിള്ളി ക്ലിഫ്ഹൗസിൽ തടവിലാക്കിയിരിക്കുന്നു എന്നു് പരാതിപ്പെട്ടു് ശ്രീകണ്ഠൻനായർ
+കോടതിയെ സമീപിച്ചു. തനിക്കു് അപകടമൊന്നുമില്ലെന്നു കാണിച്ചു പോറ്റി ഐ. ജി.-ക്കും ജില്ലാ മജിസ്ട്രേറ്റിനും
+കത്തുകളെഴുതി; പത്രങ്ങൾക്കു പ്രസ്താവനയും നൽകി. നാഗർകോവിലിൽനിന്നു തിരുനെൽവേലിയിലേക്കു
+പോയി. മാർച്ച് 22-നു് രാജ്യസഭാ തെരഞ്ഞെടുപ്പു് സമംഗളം കഴിഞ്ഞു; കോൺഗ്രസ് സ്ഥാനർത്ഥി വിജയിച്ചു. 24-നു്
+പനമ്പിള്ളിയുടെ ശിപാർശയനുസരിച്ചു് നിയമസഭ പിരിച്ചുവിടുകയും ചെയ്തു.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/AA_Rahim.jpg" rendition="gra"/>
+          <figDesc style="thumb">എ. എ. റഹീം</figDesc>
+        </figure>
+        <p> ഡയറിക്കുറിപ്പിൽ ചെങ്ങാരപ്പള്ളി പരാമർശിക്കാതെ വിട്ട നാമധേയം <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">എ. എ. റഹീമി</ref> ന്റേതാണു്.
+പനമ്പിള്ളി മന്ത്രിസഭയിൽ ആരോഗ്യ മന്ത്രിയായിരുന്നു റഹീം. ചാക്കിട്ടു പിടിത്തത്തിൽ താൻ വഹിച്ച
+പങ്കിനെപ്പറ്റി റഹിം അനുസ്മരിക്കുന്നു: “കോൺഗ്രസിലേക്കു വരാമെന്നു വാക്കുതന്ന ആർ. എസ്. പി.
+അംഗമായിരുന്ന ചെങ്ങാരപ്പള്ളി നാരായണൻ പോറ്റിയെ തന്ത്രത്തിൽ ഞാൻ പനമ്പിള്ളിയുടെ ഔദ്യോഗിക
+വസതിയെ ക്ലിഫ് ഹൗസിലെത്തിച്ചു. ആർ. എസ്. പി. മെമ്പറായിരുന്ന പോറ്റിയുടെ കാലുമാറ്റം
+പ്രതീക്ഷിക്കാതിരുന്ന ശ്രീകണ്ഠൻനായർ പോറ്റിയെ തട്ടിക്കൊണ്ടു് പോയെന്ന പരാതിയുമായി കോടതിയെ
+സമീപിച്ചു. കോടതിയുടെ വാറണ്ടുപ്രകാരം ക്ലിഫ്ഹൗസിൽ സെർച്ച് നടക്കുമെന്നു് മുൻകൂട്ടി മനസ്സിലാക്കിയ ഞാൻ
+ചെങ്ങാരപ്പള്ളി നാരായണൻ പോറ്റിയെ ഹോട്ടൽ അരിസ്റ്റോയിലെത്തിക്കുകയും അന്നു രാത്രി തന്നെ
+അവിടെനിന്നും നാഗർകോവിലിലേക്കു മാറ്റുകയും ചെയ്തു. രണ്ടുമൂന്നു ദിവസത്തിനു ശേഷം തിരുനെൽവേലിയിലെ
+
+ഒരു ലോഡ്ജിലേക്കു മാറ്റി താമസിപ്പിച്ചു. പോറ്റിയുടെ തിരോധാനം പ്രതിപക്ഷത്തെ പ്രത്യേകിച്ചു് ശ്രീകണ്ഠൻ
+നായരെ ജ്വലിപ്പിക്കാൻ പര്യാപ്തമായിരുന്നു.”
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+          <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+        </figure>
+        <p> സ്വതന്ത്ര തിരുവിതാംകൂറിന്റെ വക്താവായി പൊതുരംഗത്തു് വരികയും സ്വാതന്ത്ര്യാനന്തരം
+കോൺഗ്രസുകാരാനാവുകയും ചെയ്തയാളാണു് എ. എ. റഹിം. 1948-ലെ ആദ്യ തെരഞ്ഞടുപ്പിൽ കോൺഗ്രസോ
+മുസ്ലിംലിഗോ സീറ്റു കൊടുക്കാതിരുന്നപ്പോൾ ഇടതുപക്ഷപിന്തുണയോടെ മൽസരിച്ചു. അടുത്ത തവണ
+കോൺഗ്രസ് സ്ഥാനാർഥിയായിത്തന്നെ മൽസരിച്ചു തോറ്റു. മൂന്നാമത്തെ പരിശ്രമത്തിൽ (1954) വിജയിച്ചു.
+മന്ത്രിയുമായി. പനമ്പിള്ളിയെപ്പോലെ റഹീമും പിന്നിടു് കേന്ദ്രമന്ത്രിയായി.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+          <figDesc style="thumb">ഇ. എം. എസ്.</figDesc>
+        </figure>
+        <p> റഹീം-പനമ്പിള്ളിമാരുടെ മഹനീയ മാതൃക പിന്തുടരാൻ പിന്നെയും ആളുകളുണ്ടായി; ഒന്നാം <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്.</ref> മന്ത്രിസഭയുടെ കാലത്തു്
+കമ്യൂണിസ്റ്റ് എം. എൽ. എ.-മാരെ പിടിക്കാൻ ചാക്കും നോട്ടുകെട്ടുകളുമായി രംഗത്തിറങ്ങിയതു്. കുളത്തുങ്കൽ
+പോത്തൻ. ആര്യനാട്ടെ ബാലകൃഷ്ണപിള്ളയും വർക്കലനിന്നു ജയിച്ച ശിവദാസനും ഏറക്കുറെ ചാക്കിൽ
+കയറിയതുമായിരുന്നു. പക്ഷേ, കമ്യൂണിസ്റ്റ് പാർട്ടി സെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/M._N._Govindan_Nair">എം. എൻ. ഗോവിന്ദൻ
+നായർ</ref> അതിലും ഭയങ്കരനായിരുന്നു. “തന്തയില്ലായ്മത്തരം ആരു കാണിച്ചാലും ഞാൻ പൊറുക്കില്ല
+ഏതെങ്കിലും എം. എൽ. എ.-മാർ ഗവൺമെന്റിനെയോ പാർട്ടിയെയോ ഒറ്റിക്കൊടുക്കുമെന്നു ഞാൻ കരുതുന്നില്ല.
+അഥവാ ആരെങ്കിലും അങ്ങനെ ചെയ്താൽ അവരോടു് രാഷ്ട്രീയ ഭാഷയിലല്ല സംസാരിക്കുക”. എം. എന്നിന്റെ
+ഭീഷണിക്കുമുന്നിൽ എം. എൽ. എ.-മാർ ഒതുങ്ങി. കർണാടക സമിതിക്കാരനായ ഉമേഷറാവു മാത്രമേ
+കോൺഗ്രസിന്റെ ചാക്കിൽ കയറിയുള്ളു.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/MN_Govindan_Nair.jpg" rendition="gra"/>
+          <figDesc style="thumb">എം. എൻ. ഗോവിന്ദൻ നായർ</figDesc>
+        </figure>
+        <p> 1964-ൽ പതിനഞ്ചു് എം. എൽ. എ.-മാർ വേറെ ഗ്രൂപ്പായി മന്ത്രിസഭയെ അട്ടിമറിക്കാൻ ഒരുങ്ങിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/R._Sankar">ആർ. ശങ്കറിനും</ref> ചാക്കിന്റെ
+ഉപയോഗം പിടികിട്ടി. അവിശ്വാസപ്രമേയത്തിനു് നോട്ടിസു കൊടുത്ത <ref target="https://ml.wikipedia.org/wiki/P.K._Kunju">പി. കെ. കുഞ്ഞി</ref> നെത്തന്നെ
+റാഞ്ചിയെങ്കിലും വിരുദ്ധന്മാർ കുഞ്ഞിനെ തിരിച്ചുപിടിച്ചു. സ്വജാതിക്കാർഡുമായി <ref target="https://ml.wikipedia.org/wiki/P._Viswambharan">പി. വിശ്വംഭരനെ</ref>
+സമീപിച്ചവരും നിരാശപ്പെടേണ്ടി വന്നു എല്ലാ ശ്രമവും പരാജയമടഞ്ഞു: മന്ത്രിസഭ രാജിവെക്കേണ്ടിവന്നു.
+</p>
+        <p>പിന്നീടു് ഒന്നാം അച്യുതമേനോൻ മന്ത്രിസഭയുടെ കാലത്താണു് (1969–70) എം. എൽ. എ.-മാർക്കു്
+വിലകൂടിയതു്. എം. കെ. ജോർജിനെയും <ref target="https://ml.wikipedia.org/wiki/K.C._Zacharia">കെ. സി. സക്കറിയ</ref>
+യെയുമൊക്കെ ഭരണപക്ഷത്തു് ‘ഉറപ്പിച്ചു’ നിറുത്താൻ എത്ര പണമാണു്. എത്ര ലിറ്റർ മദ്യമാണു് ചെലവായതു്!
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/KC_Zacharia.jpg" rendition="gra"/>
+          <figDesc style="thumb">കെ. സി. സക്കറിയ</figDesc>
+        </figure>
+        <p> കേരള രാഷ്ട്രീയം കണ്ട ഏറ്റവും മനോഹരമായ ചാക്കിട്ടു പിടിത്തമുണ്ടായതു് (1986-ലെ ലോകകപ്പിൽ
+ഇംഗ്ലണ്ടിനെതിരെ മറഡോണ നേടിയ രണ്ടാമത്തെ ഗോൾപോലെയുള്ള ഒന്നു്) 1979-ൽ സി. എച്ച്. മന്ത്രിസഭയുടെ
+കാലത്താണു്. ഗോൾ നേടിയതു് പനമ്പിള്ളിയുടെ വൽസലശിഷ്യൻ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>.
+കഥാപുരുഷൻ റാന്നി എം. എൽ. എ.-യായിരുന്നു പ്രൊഫ. കെ. എ. മാത്യു. മാർക്സിസ്റ്റു പാർട്ടി മുഖ്യമന്ത്രിസ്ഥാനം
+വാഗ്ദാനം ചെയ്തപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref> യുടെ
+മനസ്സിളകി. അദ്ദേഹം മന്ത്രിസഭക്കുള്ള പിന്തുണ പിൻവലിച്ചു. <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">മുഹമ്മദു
+കോയ</ref> ത്രിശങ്കുവിലായി “രണ്ടും രണ്ടും കൂട്ടിയാൽ എപ്പോഴും നാലാകില്ല. രാഷ്ട്രീയത്തിൽ അതു
+ചിലപ്പോൾ മൂന്നും മറ്റുചിലപ്പോൾ അഞ്ചുമാകും” എന്നു് കരുണാകരൻ പറഞ്ഞപ്പോൾ മാണിസാറിനു കാര്യം
+മനസ്സിലായില്ല. താൻ മാണി ഗ്രൂപ്പിൽ ‘അനുസ്യൂതം’ ഉറച്ചുനിൽക്കുമെന്നു് ആണയിട്ട പ്രൊഫ. കെ. എ. മാത്യു
+നേരം പുലർന്നപ്പോൾ കരുണാകരന്റെ ചാക്കിൽ കയറി. വ്യവസായ വകുപ്പിന്റെ ചുമതലക്കാരാനായി
+പ്രൊഫസർ നവംബർ 16-നു് സത്യവാചകം ചൊല്ലി. എന്തുചെയ്യാം രണ്ടാഴ്ചയേ നീണ്ടുള്ളു മന്ത്രിയുദ്യോഗം. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref> യും
+കാലുവാരി. ഡിസംബർ ഒന്നാം തീയതി മന്ത്രിസഭ രാജിവെച്ചു. നിർണായക സമയത്തു് ചാക്കിൽ കയറിയ
+മാത്യുസാറിനെ കരുണാകരനും <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫും</ref>
+കൈയൊഴിഞ്ഞില്ല. 1980-ലെ തെരഞ്ഞെടുപ്പിൽ സുരക്ഷിതമായ കല്ലുപ്പാറ സീറ്റിൽ അദ്ദേഹത്തെ നിറുത്തി
+വിജയിപ്പിച്ചു.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/PK_Kunju.png" rendition="gra"/>
+          <figDesc style="thumb">പി. കെ. കുഞ്ഞ്</figDesc>
+        </figure>
+        <p> റാന്നിയുടെ തൊട്ടടുത്ത മണ്ഡലമാണു് പത്തനംതിട്ട. മന്ത്രിപദത്തിനു വേണ്ടിയാണു് പ്രൊഫ. കെ. എ. മാത്യു
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+ചാക്കിൽ കയറിയതെങ്കിൽ നാടിനും നാട്ടാർക്കും വേണ്ടിയാണു് <ref target="https://en.wikipedia.org/wiki/K._K._Nayar">കെ. കെ. നായർ</ref> അതേ
+ചാക്കിൽ ചെന്നുകയറിയതു്. 1981-ൽ ഒന്നാം നായനാർ മന്ത്രിസഭ തകർന്നു് നിയമസഭ സസ്പെൻഡു ചെയ്ത
+സമയം. ബദൽ മന്ത്രിസഭയുണ്ടാക്കാൻ കരുണാകരൻ ഓടിനടക്കുന്നു ആന്റണി മാണി ഗ്രൂപ്പുകളെയും
+ജനതാപാർട്ടിയിലെ ഒരു വിഭാഗത്തെയും <ref target="https://ml.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസനെ</ref> യും കൂട്ടിയാലും എഴുപതുപേരേ ആകുന്നുള്ളു. ഭൂരിപക്ഷത്തിനു് പിന്നെയും ഒരാൾ
+കൂടിവേണം <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref> <ref target="https://en.wikipedia.org/wiki/K._K._Nayar">കെ. കെ. നായരെ</ref>
+സമീപിച്ചു. 1965 മുതൽ പത്തനംതിട്ടയിൽ മാർക്സിസ്റ്റു സ്വതന്ത്രനായി മൽസരിക്കുന്നയാളാണു് നായർ. 1980-ൽ
+സീറ്റുകിട്ടാഞ്ഞതു കൊണ്ടു് റെബലായി മൽസരിച്ചു ജയിച്ചു. അതുവരെ ഇടതുപക്ഷത്തോടു സഹകരിച്ചു
+പ്രവർത്തിച്ചിരുന്ന കെ. കെ. നായർ ഒറ്റക്കൊരു വരമേ കരുണാകരനോടു ചോദിച്ചുള്ളു—പത്തനംതിട്ട ജില്ല
+വേണം. പത്തനംതിട്ട തലസ്ഥാനമായി സംസ്ഥാനം ചോദിച്ചിരുന്നെങ്കിലും കരുണാകരൻ കൊടുക്കുമായിരുന്നു.
+അങ്ങനെ ബദൽ മന്ത്രിസഭയുണ്ടായി പിന്നാലെ (1.11.1982) പത്തനംതിട്ട ജില്ലയും. അന്നുതൊട്ടിന്നോളം
+പത്തനംതിട്ട എം. എൽ. എ. <ref target="https://en.wikipedia.org/wiki/K._K._Nayar">കെ. കെ. നായർ</ref> തന്നെ.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/KADAVOOR_SIVADASAN.jpg" rendition="gra"/>
+          <figDesc style="thumb">കടവൂർ ശിവദാസൻ</figDesc>
+        </figure>
+        <p> ബദൽ മന്ത്രിസഭയുടെ അന്ത്യവും ചാക്കിട്ടു പിടിത്തത്തിൽതന്നെയായിരുന്നു. സഖാക്കൾ <ref target="https://ml.wikipedia.org/wiki/M._V._Raghavan">എം. വി. രാഘവനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/P.V._Kunjikannan">പി. വി.
+കുഞ്ഞിക്കണ്ണനും</ref> ചേർന്നാണു് മാണിഗ്രൂപ്പിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/Lonappan_Nambadan">ലോനപ്പൻ
+നമ്പാടനെ</ref> ചാക്കിട്ടതു്. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref> തിരെ
+ഇടതുമുന്നണിയുടെ സമനിലഗോൾ കാലുമാറ്റത്തിനു കളമൊരുക്കിയതോ ഒരു പ്രമുഖ പൊലീസുദ്യോഗസ്ഥൻ.
+ഏതായാലും കാസ്റ്റിംഗ് മന്ത്രിസഭ അതോടെ നിലംപൊത്തി. നമ്പാടൻ മാഷിനു സുരക്ഷിതമായ ഇരിങ്ങാലക്കുട
+മണ്ഡലം കിട്ടി, 1987-ൽ മന്ത്രിസ്ഥാനവും, പാവം പൊലീസുദ്യോഗസ്ഥന്റെ കാര്യം ഷൾഗവ്യത്തിലായി. ന്യായമായി
+ലഭിക്കേണ്ട പദവി കിട്ടിയില്ലെന്നു മാത്രമല്ല കണിക്കൽപെടാത്ത സ്വത്തു സമ്പാദനത്തിനു പ്രോസിക്യൂഷനും
+നേരിടേണ്ടിവന്നു.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/KK_Balakrishnan.jpg" rendition="gra"/>
+          <figDesc style="thumb">കെ. കെ. ബാലകൃഷ്ണൻ</figDesc>
+        </figure>
+        <p> 1983 അവസാനം കോൺഗ്രസ് (ഐ)യിൽനിന്നു് മൂന്നു് എം. എൽ. എ.-മാരെ റാഞ്ചാൻ കഴിഞ്ഞെങ്കിലും
+കരുണാകരൻ മന്ത്രിസഭയെ തകർക്കാൻ ഇടതുപക്ഷക്കാർക്കായില്ല. സഖാവു് ബേബിജോൺ അവതിരിപ്പിച്ച
+അവിശ്വാസ പ്രമേയം വോട്ടിനിടുന്നതിന്റെ തലേ രാത്രിയിലാണു് ജോസ് കുറ്റ്യാനിയും <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണും</ref>
+<ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണനും</ref> മറുകണ്ടം ചാടിയതു്. കൃത്യസമയത്തു് ജോസഫ് ഗ്രൂപ്പും മുന്നണി വിടുമെന്നും അങ്ങനെ
+അവിശ്വാസം പാസാകുമെന്നുമായിരുന്നു മനോരാജ്യം. എന്നാൽ <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം. ജേക്കബി</ref> നെ
+കോടാലിയാക്കി കരുണാകരൻ ആ നീക്കം തകർത്തു. മുന്നണി വിട്ടാൽ പാർട്ടി പിളരുമെന്നു വ്യക്തമായപ്പോൾ
+ജോസഫ് ഒതുങ്ങി.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/TM_Jacob.jpg" rendition="gra"/>
+          <figDesc style="thumb">ടി. എം. ജേക്കബ്</figDesc>
+        </figure>
+        <p> പനമ്പിള്ളിക്കളരിയിലെ പരീശിലനവും കേരള രാഷ്ട്രീയത്തിലെ പ്രായോഗിക പരിചയവും കരുണാകരനു
+അഖിലേന്ത്യാതലത്തിൽ പയറ്റിനേടാൻ സഹായകമായി. 1993 ജൂലായിൽ സകലമാന പ്രതിപക്ഷകക്ഷികളും
+ഒറ്റക്കെട്ടായി കേന്ദ്രമന്ത്രിസഭയെ എതിർത്തു് അവിശ്വാസം കൊണ്ടുവന്നപ്പോൾ ഝാർഖാണ്ഡ്
+മുക്തിമോർച്ചയിൽനിന്നും ജനതാദളത്തിൽനിന്നുമൊക്കെയായി ഡസൻകണക്കിനു എം. പി.-മാരെ ചാക്കിട്ടതു്
+കരുണാകരൻ. കോഴക്കേസിൽ കരുണാകരനെ പ്രതിചേർക്കാൻ തെളിവുകിട്ടിയതുമില്ല.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/P_Viswambharan.jpg" rendition="gra"/>
+          <figDesc style="thumb">പി. വിശ്വംഭരൻ</figDesc>
+        </figure>
+        <p> എന്തൊക്കെ സമ്മർദങ്ങൾ അനുഭവിച്ചു. എത്രയെത്ര വാഗ്ദാനങ്ങൾ ലഭിച്ചു. എന്തൊക്കെ പ്രലോഭനങ്ങൾ
+ഉണ്ടായി എന്നൊക്കെ വിശദീകരിക്കാൻ പ്രൊഫ. കെ. എ. മാത്യൂ ഇപ്പോൾ ജീവിച്ചിരിപ്പില്ല. ആരോഗ്യപരമായ
+കാരണങ്ങളാൽ നമ്പാടൻ മാഷും അതിനു് തുനിയാനിടയില്ല. <ref target="https://ml.wikipedia.org/wiki/C.R._Omanakuttan">സി. ആർ.
+ഓമനക്കുട്ടനും</ref> രവി ഡി. സി.-യും ചേർന്നു് അച്ചടിച്ചു പ്രസിദ്ധികരിക്കുമെന്നു് മുൻകൂട്ടികണ്ടിരുന്നെങ്കിൽ ഒരു
+പക്ഷേ, ചെങ്ങാരപ്പള്ളി നാരായണൻപോറ്റി ഡയറി എഴുതുമായിരുന്നുമില്ല. തിരു-കൊച്ചി ഭാഗത്തു് ജനാധിപത്യം
+പച്ചപിടിച്ചതെങ്ങനെയെന്നറിയണമെങ്കിൽ ഈ പുസ്തകം തന്നെ വായിക്കണം.
+</p>
+        <div type="lsection" xml:id="sec1.1">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Chakkittupidiththam: Kalayum
+Sasthravum (ml: ചാക്കിട്ടുപിടിത്തം: കലയും ശാസ്ത്രവും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Chakkittupidiththam: Kalayum Sasthravum, കെ. രാജേശ്വരി, ചാക്കിട്ടുപിടിത്തം: കലയും ശാസ്ത്രവും,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:William_Collins__Frost_Scene_-_Google_Art_Project.jpg">Frost Scene,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:William_Collins_(painter)">William
+Collins</ref>  (1788–1847). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-chakkitt.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-chakkitt.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

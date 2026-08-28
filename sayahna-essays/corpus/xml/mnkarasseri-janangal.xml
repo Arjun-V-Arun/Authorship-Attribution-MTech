@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ജനങ്ങളും ഭാഷയും</title>
+          <title xml:lang="en" type="main">Janangalum Bhashayum</title>
+        </title>
+        <author>M. N. Karasseri</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">February 12, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ജനങ്ങളും ഭാഷയും</title>
+              <title xml:lang="en" type="main">Janangalum Bhashayum</title>
+            </title>
+            <author>M. N. Karasseri</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2023-02-12</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karasseri</term>
+          <term>Janangalum Bhashayum</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ജനങ്ങളും ഭാഷയും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2023-02-12</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Negro_Boy_Dancing.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Study_for_Negro_Boy_Dancing.jpg">Study
+for “Negro Boy Dancing”: The Banjo Player,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Thomas_Eakins">Thomas Eakins</ref>
+ (1844–1916). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ജനങ്ങളും ഭാഷയും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ജനങ്ങളും ഭാഷയും </head>
+        <div type="lsection">
+          <p style="noindent">ജനങ്ങളാണു് ഭാഷ സൃഷ്ടിക്കുന്നതു് എന്നു പറയാറുണ്ടു്. പഴഞ്ചൊല്ലു്, കടംകഥ,
+ശൈലി, നാടൻപാട്ടു് തുടങ്ങിയവ ജനങ്ങളുടെ സൃഷ്ടിയാണു്; ജനങ്ങൾ ഇപ്പോഴും ഉണ്ടല്ലോ. എന്തുകൊണ്ടാണവർ
+ഇപ്പോൾ ഭാഷ സൃഷ്ടിക്കാത്തതു്?
+</p>
+          <p>ജനങ്ങൾ ഇപ്പോൾ ഭാഷ സൃഷ്ടിക്കുന്നില്ലെന്നാരു പറഞ്ഞു?
+</p>
+          <p>വ്യക്തി ഒറ്റയ്ക്കല്ലാതെ, അനേകം വ്യക്തികളുടെ കൂട്ടായ്മയായ സമൂഹം വല്ലതും സൃഷ്ടിക്കുമ്പോൾ അതിനെ
+‘സമൂഹസൃഷ്ടി’ എന്നു പറയുന്നു. ഇതിനെത്തന്നെയാണു് ജനങ്ങളുടെ സൃഷ്ടി എന്നു വിളിക്കുന്നതു്. ഈ
+അടുത്തകാലത്തു് പുതിയ അർത്ഥം കൈവന്ന ചെത്തു്, കത്തിച്ചു, കലക്കി തുടങ്ങിയ പ്രയോഗങ്ങൾ നോക്കുക.
+‘ചെത്തു്’ എന്ന വാക്കിനു് മൂർച്ചയുള്ള ആയുധംകൊണ്ടു് കല്ലോ മരമോ മറ്റോ മുറിക്കുക എന്ന അർത്ഥം
+നിലനില്ക്കെത്തന്നെ ‘ഉല്ലാസപൂർവ്വം ചുറ്റിത്തിരിയുക’ എന്നു് പുതിയൊരർത്ഥം ഉണ്ടായിവന്നിരിക്കുന്നു. കത്തിച്ചു,
+കലക്കി എന്നിവയ്ക്കു് പഴയ അർത്ഥം നിലനില്ക്കുമ്പോൾത്തന്നെ അതിനു് വിപരീതം എന്നു പറയാവുന്ന വളരെ
+നന്നായി, ഗംഭീരമായി എന്നീ താൽപര്യങ്ങൾ വന്നുചേർന്നിരിക്കുന്നു. ഉദാഹരണം:
+<list rend="numbered"><item n="">ഗാനമേള കത്തിച്ചു. </item><item n="">വേഷം കലക്കി. </item></list>
+
+</p>
+          <p>‘അടിപൊളി’ എന്നതു് പുതിയൊരു സമസ്തപദമാണു്—നേരത്തേയുള്ള അടി, പൊളി എന്നീ പദങ്ങൾ
+ചേർന്നുണ്ടായതു്. അർത്ഥത്തിനു് അടിയുമായോ പൊളിയുമായോ ബന്ധമില്ല. നേരത്തേ ‘തല്ലിപ്പൊളി’യേ ഉള്ളു.
+‘അടിപൊളി’യില്ല. തല്ലിപ്പൊളിക്കുള്ളതിന്റെ നേർവിപരീതമാണു് അടിപൊളിയുടെ അർത്ഥം—‘ജോർ’ എന്നു്!
+‘അടിപൊളി’ എന്ന വാക്കിനു് രൂപംകൊടുത്തതും മേൽപ്പറഞ്ഞ പദങ്ങൾക്കു് പുതിയ അർത്ഥം കല്പിച്ചതും
+ഏതെങ്കിലും വ്യക്തിയല്ല, ജനങ്ങളാണു്.
+</p>
+          <p>ജനങ്ങൾക്കു് ഭാഷയിലുള്ള സൃഷ്ടിശേഷി വെളിപ്പെടുന്ന വെറെ മേഖലകളുണ്ടു്. ചില മാതൃകകൾ
+<list type="gloss"><label>1. മുദ്രാവാക്യങ്ങൾ:</label><item> സമരങ്ങളോ പ്രതിഷേധങ്ങളോ ജാഥകളോ രൂപം കൊള്ളുമ്പോൾ ആളുകൾ ഒത്തുചേർന്നു് ഒരു
+പ്രത്യേകതാളത്തിൽ മുദ്രാവാക്യം വിളിക്കും. കേട്ടുപഠിച്ചതോ എഴുതിത്തയ്യാറാക്കിയതോ ആയ
+മുദ്രാവാക്യങ്ങൾക്കൊപ്പം ആ സമൂഹം സഹജവാസനകൊണ്ടെന്നപോലെ പുതിയ മുദ്രാവാക്യങ്ങൾ ഉണ്ടാക്കി
+വിളിക്കുന്നതു കാണാം. ഇതു് പിന്നെ പ്രചാരം നേടി നിലനില്ക്കുന്നു. അരനൂറ്റാണ്ടു മുമ്പു് നടന്ന
+വിമോചനസമരകാലത്തെ ‘അങ്കമാലിക്കല്ലറയിൽ ഞങ്ങടെ സോദരരുണ്ടെങ്കിൽ’ തുടങ്ങിയ മുദ്രാവാക്യങ്ങൾ
+ഇപ്പോഴും ജനങ്ങളുടെ ഓർമ്മയിലുണ്ടു്. അതിന്റെ സമ്പ്രദായത്തിൽ ഇപ്പൊഴും മുദ്രാവാക്യങ്ങൾ വാർന്നുവീഴുന്നുണ്ടു്.
+</item><label>2. സ്ഥലപ്പേരുകൾ:</label><item> ഇപ്പോഴും പുതിയ സ്ഥലപ്പേരുകൾക്കു് ജനങ്ങൾ രൂപം നല്കുന്നുണ്ടു്. ഈനാംപേച്ചിയെ പിടിച്ചതു് വലിയ
+വാർത്തയായി. അതിനെ കാണാൻവേണ്ടി ധാരാളം ആളുകൾ ഒരു സ്ഥലത്തു് ഇറങ്ങിയപ്പോൾ പിറവികൊണ്ട
+ബസ്സ്റ്റോപ്പിനു് നിമിഷംകൊണ്ടു് പേരായി ‘ഈനാംപേച്ചിമുക്കു്’ മതഭീകരവാദികളാൽ കൊല്ലപ്പെട്ട ചേകനൂർ
+മൗലവിയുടെ ഭൗതികാവശിഷ്ടങ്ങൾക്കുവേണ്ടി സി. ബി. ഐ. ചുവന്ന കുന്നിൽ മണ്ണുമാന്തുന്ന സന്ദർഭം. ധാരാളം
+അളുകൾ അതിനടുത്തു് ഇറങ്ങിയതിനാൽ അവിടെ ഒരു ബസ്സ്റ്റോപ്പ് ഉണ്ടായി. ജനങ്ങളിട്ട പേരു്: ‘ചേകനൂർപ്പടി.’
+
+കാലിക്കറ്റ് സർവ്വകലാശാലയ്ക്കു് സമീപമുള്ള ‘പടിക്കൽ’ ബസ്സ്റ്റോപ്പിന്റെ തൊട്ടപ്പുറത്തു് സർക്കാർ ആയുർവ്വേദ
+ആശുപത്രി വന്നു. അവിടെ ബസ്സ്റ്റോപ്പ് ഉണ്ടായതും ആളുകൾ പേരിട്ടു: ‘കഷായപ്പടി’ </item><label>3. മാറ്റപ്പേരുകൾ:</label><item> ചില വ്യക്തികളെ ബഹുമാനിച്ചോ പരിഹസിച്ചോ ഉരുവംകൊള്ളുന്ന പേരുകൾ സമൂഹത്തിന്റെ
+രചനയാണു്.
+‘സഖാവു് ’ എന്നുപറഞ്ഞാൽ പി. കൃഷ്ണപിള്ളയാണെന്നും ‘ലീഡർ’ എന്നു പറഞ്ഞാൽ കെ. കരുണാകരൻ
+ആണെന്നും വ്യവസ്ഥപ്പെടുത്തിയതു് ഏതെങ്കിലും വ്യക്തിയോ പാർട്ടിയോ അല്ല, ആളുകളാണു്.
+പണ്ടു് ഞങ്ങളുടെ അയൽദേശത്തു് തെങ്ങോലകൊണ്ടുണ്ടാക്കിയ ‘വാച്ചും’ കെട്ടി നടക്കുന്ന പാത്തു എന്നൊരു
+പിച്ചക്കാരിയുണ്ടായിരുന്നു. അവരിടയ്ക്കിടെ വാച്ച് നോക്കും. ആർ എപ്പോൾ സമയം ചോദിച്ചാലും പറയും: ‘പത്തര’
+അവർക്കു് ‘പത്തരപ്പാത്തു’ എന്നു് പേരായി.
+മാവിൻകൊമ്പത്തു് കയറുകെട്ടി ചാവാൻ ഒരുങ്ങുന്നതിനിടയിൽ രാമൻ കയറുപൊട്ടി നിലത്തുവീണു.
+ജീവിതത്തിലേക്കു് മടങ്ങിവന്ന അയാൾ ശിഷ്ടകാലം മുഴുവൻ ജനങ്ങൾ ചാർത്തിക്കൊടുത്ത ആ തമാശപ്പേരുമായി
+ജീവിക്കേണ്ടിവന്നു: ‘തൂങ്ങിച്ചത്തരാമൻ.’ </item><label>4. ഫലിതങ്ങൾ:</label><item> ഇപ്പോഴും ഫലിതങ്ങൾക്കു് സമൂഹം രൂപംകൊടുക്കുന്നുണ്ടു് എന്നതിനു് ‘സീതിഹാജിക്കഥകൾ’
+തെളിവുതരും. അവയിൽ മഹാഭൂരിപക്ഷവും സീതിഹാജിയെ കഥാപാത്രമാക്കി സമൂഹം
+പറഞ്ഞുണ്ടാക്കിയതാണു്.
+ഒരുദാഹരണം: മുസ്ലിംലീഗിന്റെ ഒരു കമ്മിറ്റിയോഗം. എന്തെങ്കിലും സമരം ഉണ്ടാക്കിയാൽ മാത്രമേ
+പ്രതിപക്ഷത്തിരിക്കുമ്പോൾ ജനശ്രദ്ധ കിട്ടൂ എന്നു് യൂത്ത്ലീഗുകാർ വാദിച്ചു: “കഴിഞ്ഞയാഴ്ച
+ഡി. വൈ. എഫ്. ഐ.ക്കാർ റെയിൽ തടഞ്ഞിരുന്നു. അതുപോലെ വല്ലതും.”
+ഉടനെ അധ്യക്ഷൻ സീതിഹാജി ചാടിയെണീറ്റു: “ജ്ജി ആ വർത്തമാനം മാത്രം പറ്യണ്ടാ. കമ്യൂണിസ്റ്റുകാരെ
+ചോന്ന കൊടി കണ്ടാലു് വണ്ടി ആടെ നിക്കും. ഞമ്മളെ പച്ചക്കൊടി കണ്ടാലു് വണ്ടി ങ്ങട്ടു് ബർആ ചെയ്യാ ആ
+സമരം ഞമ്മക്ക് മാണ്ട.” </item></list>
+ഇതുപോലെ സമൂഹത്തിനു് ഭാഷാപ്രയോഗങ്ങളിലുള്ള സർഗ്ഗസാമർത്ഥ്യം വെളിപ്പെടുന്ന വേളകൾ
+അനവധിയാണു്. അത്തരം ഉദാഹരണങ്ങൾ പലതും ചുറ്റിലും ഉണ്ടായിരിക്കെ, ജനങ്ങൾ ഇന്നു് ഭാഷ
+സൃഷ്ടിക്കുന്നില്ല എന്നു് എങ്ങനെ പറയും?
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/mnkarassery.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മലയാളത്തിലെ എഴുത്തുകാരനും ഭാഷാപണ്ഡിതനും സാമൂഹിക നിരീക്ഷകനും. മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ
+നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരിയിൽ 1951 ജൂലൈ 2-നു് എൻ. സി. മുഹമ്മദ് ഹാജിയുടെയും
+കെ. സി. ആയിശക്കുട്ടിയുടെയും മകനായി ജനിച്ചു. കോഴിക്കോട് മാതൃഭൂമിയിൽ സഹപത്രാധിപരായി ജോലി
+ചെയ്തിട്ടുണ്ടു് (1976–78). 1978-ൽ, കോഴിക്കോട് ഗവൺമെന്റ് ആർട്സ് ആന്റ് സയൻസ് കോളേജ് മലയാള
+വിഭാഗത്തിൽ അധ്യാപകനായി. തുടർന്ന് കോടഞ്ചേരി ഗവണ്മെന്റ് കോളേജ്, കോഴിക്കോട്, ഗവണ്മെന്റ്
+ഈവനിങ് കോളേജ് എന്നിവിടങ്ങളിൽ അദ്ധ്യാപകനായിരുന്നു. 1993-ൽ കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു
+ഡോക്റ്ററേറ്റ് ലഭിച്ചു. 1986 മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാല മലയാളവിഭാഗത്തിൽ അദ്ധ്യാപകനായിരുന്നു.
+അലീഗഡ് സർവകലാശാലയിലെ പേർഷ്യൻ സ്റ്റഡീസ് വിഭാഗത്തിൽ വിസിറ്റിങ് പ്രഫസറായി പ്രവർത്തിച്ചു.
+</p>
+          <p>മാപ്പിള സാഹിത്യം, മാപ്പിള ഫലിതം, മതം, വർഗീയത, മതേതരത്വം, സാഹിത്യം തുടങ്ങിയ വിഷയങ്ങളെ
+അധികരിച്ചു് ആനുകാലികങ്ങളിലും പത്രങ്ങളിലും ലേഖനങ്ങൾ എഴുതാറുണ്ടു്. എഴുപതിലധികം പുസ്തകങ്ങൾ
+രചിച്ചിട്ടുണ്ടു്.
+</p>
+          <p>ഭാര്യ: ഖദീജ. മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്. മരുമക്കൾ: ഷാജി, അശ്വതി സേനൻ, റൈഷ.
+പേരക്കുട്ടികൾ: അസീം, ഹംറാസ്, സൽമ.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Janangalum Bhashayum (ml:
+ജനങ്ങളും ഭാഷയും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karasseri.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2023-02-12. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karasseri,
+Janangalum Bhashayum, എം. എൻ. കാരശ്ശേരി, ജനങ്ങളും ഭാഷയും, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 12, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Study_for_Negro_Boy_Dancing.jpg">Study
+for “Negro Boy Dancing”: The Banjo Player,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Thomas_Eakins">Thomas Eakins</ref>
+ (1844–1916). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/mnkarasseri-janangal.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/mnkarasseri-janangal.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

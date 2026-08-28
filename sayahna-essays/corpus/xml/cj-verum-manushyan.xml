@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വെറും മനുഷ്യൻ</title>
+          <title xml:lang="en" type="main">Verum Manushyan</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">November 10, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വെറും മനുഷ്യൻ</title>
+              <title xml:lang="en" type="main">Verum Manushyan</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-01-27</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Verum Manushyan</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>വെറും മനുഷ്യൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-01-27</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Blue_and_Green.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Paul_Gauguin__The_Black_Pigs__Google_Art_Project.jpghttps://commons.wikimedia.org/wiki/File:Blue_and_Green_Music_by_Georgia_O%27Keeffe,_1921.jpg">The
+Black PigsBlue and Green Music,</ref> a paintinga painting by <ref target="https://en.wikipedia.org/wiki/en:Paul_Gauguinhttps://en.wikipedia.org/wiki/en:Georgia_O%27Keeffe">Paul
+GauguinGeorgia O’Keeffe</ref>  (1848–19031887–1986). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വെറും മനുഷ്യൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വെറും മനുഷ്യൻ</head>
+        <div type="lsection">
+          <p style="noindent">ഓരോ പുതിയ പ്രസ്ഥാനവും ഒരവതാരമാണു്. മലയാളസാഹിത്യത്തിലെ
+ശ്രദ്ധാർഹമായ ഒരവതാരത്തെപ്പറ്റി പറയാം.
+</p>
+          <p>“കവിതയുടെ കൂമ്പടഞ്ഞു”—ഒരു കവി പറഞ്ഞു. ആരും പറഞ്ഞില്ലെങ്കിലും അപ്പോഴേക്കും കഥയുടെ
+വേരുംകൂടി കരിഞ്ഞിരുന്നു. കവിതകളും കഥകളും ഉണ്ടായില്ലെന്നല്ല, ഉണ്ടായതു മിക്കതും ചാപിള്ളകളായിരുന്നു
+എന്നാണു വിവക്ഷ. ചരിത്രദൃഷ്ട്യാ മലയാള സാഹിത്യം ഒരന്ധകാരഘട്ടത്തിൽ പ്രവേശിച്ചു. ഉത്തമകവികൾ
+പലരും അന്തരിച്ചു. പലരും പ്രവർത്തനം നിർത്തി. അവശേഷിച്ചവർ സഹജമായ പദപ്രയോഗവൈദഗ്ദ്ധ്യം
+പ്രയോഗിച്ചിട്ടും ആത്മാവു വരണ്ടുപോയിരിക്കുന്നതുകൊണ്ടു് ആ ശാഖ പൂത്തില്ല, കാര്യമായി തളിർത്തതുമില്ല.
+നേരെ മുമ്പു കഴിഞ്ഞുപോയ കാലഘട്ടം ഭാവഗീതത്തിന്റേതായിരുന്നു. മലയാളഭാവഗീതങ്ങൾ ഇതരഭാഷകളിലെ
+ഗാനങ്ങളിൽനിന്നു കുറച്ചു ഭിന്നമാണു്. ഇംഗ്ലീഷിൽ ഇത്രവരി, ഇന്ന രൂപം എന്നെല്ലാം നിഷ്കർഷയുണ്ടു്. അംഗിയായ
+രസം പ്രേമമോ ചുരുക്കം ചിലപ്പോൾ ഭക്തിയോ ആയിരിക്കും. ഇവിടെ ദരിദ്രന്റെ യാതനയും, മർദ്ദിതന്റെ
+അമർഷവും വിപ്ലവകാരിയുടെ വെല്ലുവിളിയുമൊക്കെ ഭാവഗീതങ്ങളായി. രൂപമെന്തായാലും ഈ കാലഘട്ടത്തിൽ
+റൊമാന്റിസിസം ഒരന്തരീക്ഷമായിരുന്നതുകൊണ്ടു് എല്ലാ കലാസൃഷ്ടികളിലും ഭാവഗീതത്തിന്റെ സ്വഭാവങ്ങൾ
+കാണാം. ഈ കാലഘട്ടത്തെ പുരോഗമനത്തിന്റെ കാലം എന്നു ചിലർ ഗണിക്കാറുണ്ടു്. പുരോഗമനമെന്നതു് ഒരു
+സാഹിത്യത്തിലെ ഒരു സാങ്കേതികസംജ്ഞയല്ല, കലയെ രാഷ്ട്രീയച്ചില്ലിൽകൂടി നോക്കിക്കാണുമ്പോൾ തോന്നുന്ന
+ഒരു വകതിരിവാണു്. അതുകൊണ്ടു് ഈ കാലത്തെ റൊമാൻസിന്റെ കാലം എന്നു പറയുന്നതായിരിക്കും
+കുറേക്കൂടി ഉത്തമം. മലയാളത്തിൽ റൊമാന്റിക് കവിതവളരെ വിജയപ്രദമായിരുന്നു. ചെറുശ്ശേരിയോടോ
+എഴുത്തച്ഛനോടോ ചേർന്നു പാടാനുള്ള ഒരു കവി നമുക്കുണ്ടായില്ലെങ്കിലും ഈ കവിത രണ്ടാംതരമെന്നു വിധി
+കൽപിച്ചുകൂടാ. നമ്മുടെ വർഗ്ഗം തന്നെ തീവ്രവികാരത്തിനടിമയാണു്. ആ സ്ഥിതിക്കു് ഭാവഗീതം രചിക്കുവാനും
+രസിക്കുവാനും നമുക്കു പ്രത്യേകവാസനയുണ്ടായിരിക്കണമല്ലോ. പക്ഷേ, വികാരത്തിനും ബുദ്ധിക്കുമുള്ള
+ധർമ്മങ്ങൾ രണ്ടാണു്. വികാരപ്രധാനമായ ഗാനങ്ങൾ താല്ക്കാലികമായി നമ്മെ അനുഭൂതികളുടെ
+കൊടുമുടികളിലെത്തിക്കും. അതുപോലെത്തന്നെ താഴോട്ടിറക്കുകയും ചെയ്യും. ബുദ്ധിപ്രധാനമായവയാകട്ടെ,
+ആളിക്കത്തുകയില്ല, ഉമിത്തീപോലെ ശാന്തമായും നിത്യമായും നിരന്തരംദഹിപ്പിക്കുകയേയുള്ളു. ഈ സ്വഭാവം
+ക്ലാസ്സിസത്തിനുണ്ടു് ക്ലാസിക്കൽ കൃതികളിലും ഇടയ്ക്കിടയ്ക്കു് ഒരു മിന്നലോ, പൊട്ടലോ സംഭവിക്കാം. പക്ഷേ, അതു്
+അതിന്റെ അടിസ്ഥാനസ്വഭാവമല്ല. ക്ലാസിക്കൽ കല അതിവിശാലമായി ഭൂമിയിൽ അടിറയുറച്ചു സമുദ്രസമാനം
+സ്ഥിതിചെയ്യുന്നു. റൊമാന്റിസിസമാവടെ, വസന്തത്തിന്റെ കവിൾത്തുടുപ്പാണു്, വർഷകാലത്തിന്റെ
+മേഘഗർജ്ജനമാണു്. ആ മേഘഗർജ്ജനം കഴിഞ്ഞാൽപ്പിന്നെ എല്ലാം ശാന്തം. ആ ശാന്തതയാണെന്നു
+തോന്നുന്നു, മുമ്പു പറഞ്ഞ അന്ധകാരം.
+</p>
+          <p>കൂമ്പടഞ്ഞു എന്നു പറഞ്ഞ കവിതയിൽ ചിലതെല്ലാം പൊട്ടിമുളച്ചു. എത്രമാത്രം ഉത്കൃഷ്ടമാണെന്നു കാലം
+വിധിയെഴുതട്ടെ. അവയ്ക്കു് ഇന്നത്തെ ഒഴുക്കുചാലിൽനിന്നു ഭിന്നമായ ഒരു സവിശേഷതയുണ്ടായിരുന്നുവെന്നു
+നമുക്കംഗീകരിക്കാം. കഥാലോകത്തിലും ഇതിനു സമാനമായി ചില പ്രതിഭാസങ്ങൾ പൊങ്ങിവന്നു.
+അതിലൊന്നാണു് “കുഞ്ഞമ്മയും കൂട്ടുകാരും”.
+</p>
+          <p>ഇന്നത്തെ പ്രസിദ്ധ ചെറുകഥകളെല്ലാം ഒരുവക ഭാവഗീതങ്ങളാണെന്നാണു് എനിക്കു തോന്നിയിട്ടുള്ളതു്.
+അവയുടെ വികാരവായ്പും ആലേഖ്യരീതിയുമെല്ലാം ഭാവഗീതത്തിന്റേതാണു്. കാലഘട്ടവും
+ഭാവഗീതത്തിന്റേതുതന്നെ. അവയുടെ ആത്മാവു് റൊമാന്റിസിസമാണു്. പതിവായി കേൾക്കാറുള്ള ഒരു
+പരാതിയാണു് ഇന്നലത്തെപ്പോലെ നല്ല ചെറുകഥകൾ ഉണ്ടാവുന്നില്ലെന്നു്. കാര്യം വാസ്തവമാണു്. ഒരേ
+സാഹിത്യകാരനിൽനിന്നുതന്നെ പുറപ്പെടുന്ന കഥകൾ പഴയതിനോളം നന്നാവുന്നില്ല. തകഴിയുടെയും
+ദേവിന്റെയും കഥകൾ എടുത്തുനോക്കിയാൽ ഇതു സ്പഷ്ടമാകും. കഥയുടെ സുവർണ്ണകാലം കഴിഞ്ഞു.
+ഇനിയുണ്ടാകില്ലെന്നല്ല, ഇന്നില്ലെന്നുമാത്രം. അവിടവിടെ ഒരു കവിയോ, കഥാകൃത്തോ, നല്ല ഒരു കൃതി
+രചിക്കുന്നുവെന്നതുകൊണ്ടു് കാലം മാറിയില്ലെന്നില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Basheer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബഷീർ</figDesc>
+          </figure>
+          <p>പ്രമുഖ സാഹിത്യകാരന്മാരുടെ പ്രായാധിക്യവും മറ്റും ഈ അധഃപതനത്തിന്റെ കാരണമായി
+ചൂണ്ടിക്കാണിക്കപ്പെട്ടേക്കാം. അതിൽ കുറേ വാസ്തവമുണ്ടെന്നുതന്നെവയ്ക്കുക. എന്നാൽത്തന്നെപുതിയ
+എഴുത്തുകാർ എന്തുകൊണ്ടുണ്ടാകുന്നില്ല എന്ന ചോദ്യത്തിനുത്തരമില്ല. നിലവിലുള്ള കലാരീതി
+അസ്തമിക്കുമ്പോഴാണു് ഇത്തരം കലാദരിദ്രത വന്നുകൂടുക. ഒരു പുതിയ സമ്പ്രദായത്തോടിണങ്ങിച്ചേർന്നുവരാൻ
+കാലം കുറച്ചെടുക്കും. പരീക്ഷണങ്ങളും കുറെ വേണ്ടിവരും. റൊമാൻസ് അസ്തമിച്ചു. മറ്റെന്തോ ഒന്നുദിക്കുകയാണു്.
+അതിന്റെ പ്രണേതാക്കൾ ഒരു കാൽ ഇന്നലെയിലും ഒരുകാൽ ഇന്നിലുംവെച്ചു നില്ക്കുന്ന രണ്ടുപേരാണു്—<ref target="https://ml.wikipedia.org/wiki/Vaikom_Muhammad_Basher">ബഷീറും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Uroob">ഉറൂബും</ref>.
+ആവർത്തനംകൊണ്ടു മനംമടുത്തുപോയ കഥാശൈലിയിൽനിന്നു പൂർണ്ണമായി സ്വാതന്ത്ര്യം നേടിയ ഒരു
+സമ്പ്രദായം ഇവർ അംഗീകരിച്ചിരിക്കുന്നു. ഈ പുതിയ ലോകത്തിൽ ആദ്യം പ്രത്യക്ഷപ്പെട്ടതു് ബഷീറാണു്.
+അതിലത്ഭുതമില്ല. ഒന്നാമതു്, ഓരോ കൃതിക്കും പുതുമ വേണമെന്നു് ബഷീർ ശഠിക്കുന്നു. രണ്ടാമതു്,
+രാഷ്ട്രീയവികാരങ്ങളിൽ മൂക്കറ്റം മുങ്ങിയിട്ടു മുക്തിനേടിയ ആദ്യത്തെ സാഹിത്യകാരൻ ബഷീറാണു്. ഒറ്റക്കണ്ണൻ
+പോക്കറും, ഉണ്ടക്കണ്ണൻ അന്ത്രുവും, ‘ദുഷിച്ചുനാറിയ സമുദായവ്യവസ്ഥിതിയെ’ അത്ര കാര്യമാക്കാത്തവരാണു്.
+ബഷീറിന്റെ ആദ്യപരിശ്രമങ്ങളോടടുത്തുതന്നെ ‘താമരത്തൊപ്പി’ എന്ന പരീക്ഷണം നടത്തി. എന്തുകൊണ്ടോ
+അതുപേക്ഷിച്ചു് ‘കുഞ്ഞമ്മ’യെ സ്വീകരിക്കുകയാണു ചെയ്തതു്. ബഷീറിനു സ്ഥലമുണ്ടു്. ഉറൂബിനുമുണ്ടൊരു സ്ഥലം.
+ബഷീറിന്റെ കഥകൾ നടന്നതാണെന്നാരും വിശ്വസിക്കണമെന്നദ്ദേഹത്തിനു നിർബ്ബന്ധമില്ല
+(അതിനുവേണ്ടിയല്ലല്ലോ കഥകളെഴുതുന്നതും). ഉറൂബിനാണെങ്കിൽ കഥയേയില്ല. ചെറുമൻ ചാത്തപ്പൻ ഒരു
+ചോത്തിയെകെട്ടുന്നു. ചോത്തി പ്രസവിക്കുന്നു. ഇതൊരു കഥയാണോ? പിരിഞ്ഞുകെട്ടി വളഞ്ഞുകുത്തി പമ്പരം
+കറങ്ങുന്ന കഥകൾ വായിച്ചിട്ടുള്ളവർക്കു് ഈ പുസ്തകം ഒരു മിനക്കേടാണു്. എത്രയോ വിവാഹങ്ങളും പ്രസവങ്ങളും
+നാട്ടിൽ നടക്കുന്നു! ഈ പുസ്തകത്തിലെ സംഭവങ്ങളെല്ലാം യഥാർത്ഥത്തിൽ നടന്നതായിരിക്കാം. ആ
+ഗോപാലൻനായരെയും, ശുദ്ധാത്മാവായ നമ്പൂതിരിയെയും മറ്റും അടുത്തുപരിചയം തോന്നുന്നുണ്ടു്. പക്ഷേ,
+അവരാരും യഥാർത്ഥജീവികളായി തോന്നിയില്ലെന്നുവരാം. എന്താണെന്നുവെച്ചാൽ അനേകകാലമായി നാം
+പരിചയിച്ച പാത്രചിത്രീകരണസമ്പ്രദായവും മനുഷ്യരെ മനുഷ്യരായി കാണാൻ നമ്മെ
+കഴിവില്ലാതാക്കിയിരിക്കുന്നു. മുദ്രാവാക്യംകൊണ്ടു മുഖരിതമായ അന്തരീക്ഷത്തിൽ വെറും മനുഷ്യനെ എങ്ങനെ
+കാണും? ഇവിടെയാണെങ്കിൽ കഥയുമില്ല. പ്രശ്നവുമില്ല. മനുഷ്യരുടെ പ്രധാനകൃഷി രാഷ്ട്രീയമാണെങ്കിൽ ഈ
+പാത്രങ്ങളൊന്നും യഥാർത്ഥമല്ല. ഇവർക്കു് ഈശ്വരനുണ്ടാക്കിയ മുദ്രകളില്ല, മനുഷ്യനുണ്ടാക്കിയ
+യുണിഫോറവുമില്ല. മനുഷ്യരെ ചീത്തയാക്കിയ തത്ത്വങ്ങളും മനുഷ്യർ ചീത്തയാക്കിയ തത്ത്വങ്ങളും ഇവിടെയില്ല.
+ഗോപാലൻനായരുടെ നിഷ്പക്ഷത പിന്തിരിപ്പനും മറ്റുമാവും ചിലർക്കു്. അദ്ദേഹത്തെയാരും ‘മൂരാച്ചി’
+മുദ്രകുത്തിയിട്ടില്ലെന്നു കഥാകൃത്തു് അവകാശപ്പെടുന്നുണ്ടു്. അതു സത്യമാണെങ്കിൽ പുരോഗമനത്തിന്റെ
+ഉടമസ്ഥന്മാർ അദ്ദേഹത്തെ വിപ്ലവത്തിന്റെ ചാണയിൽ ഉരച്ചു നോക്കിയിട്ടില്ലെന്നർത്ഥം. ബഷീറിന്റെ
+കഥാപാത്രങ്ങൾ ഇടയ്ക്കിടെയെങ്കിലും ‘വിദേശസർക്കാരി’നോടു സമരം ചെയ്യാറുണ്ടു്. ബഷീർ
+അതിശയോക്തികൊണ്ടു സാധിക്കുന്നതുതന്നെയാണു് ഉറൂബ് നിശ്ശബ്ദതകൊണ്ടു സാധിക്കുന്നതു്. വെറും
+മനുഷ്യന്റെ ചിത്രീകരണം. ഗോപാലൻനായർ പറയുന്നതുപോലെ ഇതൊന്നും “കല്പിച്ചുകൂട്ടിയല്ല,
+മനുഷ്യജീവിതത്തിൽ രാഷ്ട്രീയത്തിനുള്ളസ്ഥാനത്തെ അതിരുകടന്നു വളർത്തി, ജീവിതം രാഷ്ട്രീയം
+മാത്രമാണെന്നുവരുത്തി “അതുകൊണ്ടരിശം തീരാഞ്ഞിട്ടപ്പുരയുടെ ചുറ്റും” മണ്ടിനടന്നു ഒരു കാലഘട്ടത്തിൽ
+വിവേകമുള്ളവർക്കങ്ങനെയേ എഴുതാവൂ എന്നുമാത്രം. ഗോപാലൻനായർ പറയുന്നു: എനിക്കിതൊന്നും
+മനസ്സിലാവില്ല. മനുഷ്യന്മാർക്കുവേണ്ടി എന്തെങ്കിലും ചെയ്യാനുള്ളപ്പോൾ ഇങ്ങോട്ടുവന്നോളൂ. ഞാനതുചെയ്യാം.
+ഒരു യവനകവി പാടിയതുപോലെ ഗോപാലൻനായർ ‘വെറുക്കാനല്ല, സ്നേഹിക്കാനാണു ജനിച്ചതു്’. അദ്ദേഹം
+നന്മയെ കാണുന്നുണ്ടു്. തിന്മയെ കാണുന്നില്ല. അതെല്ലാം അജ്ഞതയാണു്. തെറ്റുംകുറവും അദ്ദേഹത്തെ
+ക്ഷോഭിപ്പിക്കുകയില്ല. അദ്ദേഹം എപ്പോഴും മനുഷ്യന്റെ പക്ഷത്താണു്. മനുഷ്യനാണു് ഉറൂബിന്റെ ഈശ്വരൻ.
+മനുഷ്യനെ അദ്ദേഹം അപഗ്രഥിക്കുന്നില്ല. മനുഷ്യനെപ്പറ്റി ചർച്ചചെയ്യുന്നില്ല. മനുഷ്യന്റെ അടിയന്തരാവശ്യങ്ങൾ
+മുന്നോട്ടുവെയ്ക്കുന്നുമില്ല. അദ്ദേഹം മനുഷ്യന്റെ തുലികാചിത്രമെഴുതുകയാണു്. ആ ചിത്രത്തിൽ പല
+മനുഷ്യരുണ്ടായാലെന്തു്? എല്ലാവരിലും ജ്വലിക്കുന്ന ചൈതന്യമാണു് ഉറൂബിന്റെ മനുഷ്യൻ. അവനെ
+നിയമങ്ങൾക്കുവേണ്ടി പടച്ചതല്ല. നിയമം കൊണ്ടു് മനുഷ്യനെ അളക്കുകയല്ല, മനുഷ്യനെക്കൊണ്ടു
+തത്ത്വസംഹിതകളെ അളക്കുകയാണു വേണ്ടതു്. മനുഷ്യനാണു മൂല്യം, മനുഷ്യനാണു ലക്ഷ്യം. മാർഗ്ഗവും
+മനുഷ്യൻതന്നെ. സമത്വസുന്ദരമായ ഒരു നല്ല നാളേക്കുവേണ്ടി ‘മനുസ്യന്മാരെ’ കൊല്ലാൻ നടക്കുന്ന ആ
+സാധുവിലും ഉറൂബ് മനുഷ്യത്വം കാണുന്നുണ്ടു്. ഇന്നലത്തെ തത്ത്വസംഹിതയും, ഇന്നത്തെ വിശദീകരണവുമൊന്നും
+ഉറൂബിനു മനസ്സിലാവുകയില്ല. മതത്തിന്റെയും, വർഗ്ഗസമരത്തിന്റെയും മുകളിലെത്തിയില്ലെങ്കിൽ അബ്ദുൽ
+റഹിമാനെങ്ങനെ കുഞ്ഞമ്മയുടെ മഞ്ചൽ ചുമക്കും? അവിടെയെങ്ങും ചേരിയും കക്ഷിയും ഒന്നുമില്ല. ഈ
+അന്താരാഷ്ട്രീയ സ്വഭാവമാണു് ഈ നവീനകഥാപ്രസ്ഥാനത്തിന്റെ ഒരു പ്രധാനസ്വഭാവം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Uroob.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉറൂബ്</figDesc>
+          </figure>
+          <p>ഈ ചിന്താഗതിയിൽ നിന്നുത്ഭവിക്കുന്ന ‘വാഴക്കുല’ ചങ്ങമ്പുഴയുടേതിൽനിന്നു വ്യത്യസ്തമായിരിക്കും എന്നു
+പ്രത്യേകം പറയേണ്ടല്ലോ. ചങ്ങമ്പുഴയുടെ വാഴ ഒരു മർദ്ദിതച്ചേരി നട്ടുവളർത്തിയതാണു്. മാധവിയമ്മയുടെ വാഴ
+ചൂഷണത്തിന്റെ സന്തതിയാണു്. നാല്പതു വാഴയ്ക്കും സമാവകാശമുള്ള ചാമ്പൽ ഒരു വാഴയുടെ ചുവട്ടിലെത്തിയ വിദ്യ
+മുത്തപ്പയുടെ പുട്ടിൽ കോഴിമുട്ട ഒളിച്ചുവെച്ച സൈനബയ്ക്കേ വിശദീകരിക്കാനാവൂ. കുല വെട്ടിയതു ക്രൂരനായ
+മുതലാളിയല്ല. പട്ടിണിക്കാരനായ ഒരു നിർദ്ധനനാണു്. പിൻമുറക്കാർ നടത്തേണ്ട പ്രതികാരമെല്ലാം തേവങ്കര
+ഭഗവതിക്കു രണ്ടുറുപ്പികയായിട്ടവസാനിക്കുകയും ചെയ്തു. ഇതിൽനിന്നും എന്തു ഗുണപാഠമാണു പഠിക്കാനുള്ളതു്?
+ഏതു സമരമുന്നേറ്റത്തിനാണിതുത്തേജനം നൽകുന്നതു്? ഏതു സാമൂഹ്യസ്ഥിതിയാണിതു പ്രതിഫലിപ്പിക്കുന്നതു്?
+ഒരു ചുക്കുമില്ല. ഈ കഥ (ഇതൊരു കഥയാണെങ്കിൽ?) പെരുമ്പറയ്ക്കുപകരം ഉപയോഗിക്കാൻ കൊള്ളില്ല, തീർച്ച.
+</p>
+          <p>അങ്ങനെ പ്രശ്നനിരപേക്ഷമായ ഒരു പൊതുജനഡയറിയാണു് ‘കുഞ്ഞമ്മയും കൂട്ടുകാരും.’
+അതുകൊണ്ടുതന്നെയാണതു് ആദ്യന്തം ഫലിതമായിരിക്കുന്നതും, കൊടുമ്പിരികൊണ്ട വികാരത്തിനിടയിൽ
+ചിരിക്കാൻ കഴിയുകയില്ല. റൊമാന്റിസിസത്തിൽ ഫലിതമില്ല. കലാസൃഷ്ടി ഉപന്യാസമാക്കാതിരുന്നാൽ
+ഫലിതത്തിനു് വേണ്ടത്ര സൗകര്യം കിട്ടും.
+</p>
+          <p>ഈ പുസ്തകത്തിലെ ചില പ്രത്യേകതകൾ ക്ലാസ്സിക്കൽ കൃതികൾക്കുണ്ടെന്നു പറഞ്ഞതുകൊണ്ടു് ഇതൊരു
+ക്ലാസ്സിക്കൽ കൃതിയാണെന്നു വരുന്നില്ല, എങ്കിലും കഥാ-സാഹിത്യപ്രവണതകൾ ക്ലാസ്സിസത്തിന്റെ വഴിക്കാണോ
+പോകുന്നതു് എന്നൊരു സംശയം തോന്നുന്നുണ്ടു്. ആരറിഞ്ഞു? കലാചരിത്രം ‘ഷെഡ്യൂള’നുസരിച്ചല്ല
+സഞ്ചരിക്കുന്നതു്.
+</p>
+          <p>കഥാകഥനശൈലിയെക്കുറിച്ചു പ്രത്യേകമായിട്ടൊന്നും പറയാനില്ല. നമുക്കു വളരെ പരിചിതമായ ആ ശൈലി
+എത്ര തുലികാനാമംകൊണ്ടു മറച്ചാലും തിരിച്ചറിയാം. കൊള്ളാവുന്ന കലാകാരന്മാർ കൂലിപ്പണി
+എടുക്കുന്നതുപോലും സ്വന്തം വ്യക്തിത്വമുപേക്ഷിച്ചു വേണമെന്നു നിർബ്ബന്ധിക്കുന്ന സർക്കാർ, നെഹ്റുവിന്റെ
+പുസ്തകങ്ങൾതന്നെ കള്ളപ്പേരിൽ പ്രസിദ്ധീകരിക്കാൻ ഉത്തരവു കൊടുത്തേക്കും!
+</p>
+          <p>ചിത്രങ്ങളെപ്പറ്റി ഒരു വാക്കു്. കഥാഗ്രന്ഥങ്ങളിൽ ചിത്രങ്ങളുള്ളതു നല്ലതുതന്നെ. പക്ഷേ, ചിത്രകാരൻ
+പ്രതിഭാശാലിയാണെങ്കിൽ കഥാകൃത്തിനു പരാജയം സംഭവിക്കുമെന്നു് ഓർമ്മിക്കുന്നതു് നന്നു്.
+</p>
+          <p>
+മാതൃഭൂമി ആഴ്ചപ്പതിപ്പു് 7 ഫെബ്രുവരി 1954.
+</p>
+          <p>
+സി. ജെ. വിചാരവും വീക്ഷണവും 1985.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">സി. ജെ. തോമസ്</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/cjthomas.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മലയാളഭാഷയിലെ ഒരു നാടകകൃത്തും സാഹിത്യ നിരൂപകനുമായിരുന്നു സി. ജെ. തോമസ് (നവംബർ 14,
+1918–ജൂലൈ 14, 1960) എന്നറിയപ്പെടുന്ന ചൊള്ളമ്പേൽ യോഹന്നാൻ തോമസ്. മലയാള നാടകസാഹിത്യത്തെ
+ആധുനിക ഘട്ടത്തിലെത്തിക്കുന്നതിൽ നിർണ്ണായക പങ്കു് വഹിച്ച ഇദ്ദേഹം പത്രപ്രവർത്തകൻ, ചിത്രകാരൻ
+എന്നീ നിലകളിലും അറിയപ്പെട്ടിരുന്നു.
+
+</p>
+          <p>1918-ൽ കൂത്താട്ടുകുളത്തെ പ്രമുഖ ക്രിസ്തീയ വൈദികന്റെ മകനായി ജനിച്ച സി. ജെ. വൈദിക
+വിദ്യാർത്ഥിയായിരിയ്ക്കുന്ന സമയത്തു് ളോഹ ഉപേക്ഷിച്ചു് തിരിച്ചുപോന്നു് വിപ്ലവം സൃഷ്ടിച്ചു. രണ്ടു് വർഷക്കാലം
+വടകര സെന്റ് ജോൺസ് ഹൈസ്കൂളിലും തുടർന്നു് എം. പി. പോൾസ് കോളേജിലും അധ്യാപകനായി
+ജോലിനോക്കിയിരുന്ന അദ്ദേഹം പിന്നീടു് അവസാനം വരെ പത്രപ്രവർത്തനരംഗത്തു് സജീവമായിരുന്നു.
+സാഹിത്യ പ്രവർത്തക സഹകരണസംഘം, ആകാശവാണി, ദക്ഷിണഭാഷാ ബുക്ക് ട്രസ്റ്റ് എന്നിവയിലും
+പ്രവർത്തിച്ചു.
+</p>
+          <p>സാഹിത്യ പ്രവർത്തക സഹകരണസംഘം വക പുസ്തകങ്ങളുടെ പുറംചട്ടകൾക്കു് അത്യധികം
+ആകർഷകങ്ങളായ ചിത്രങ്ങൾ വരച്ചു് മലയാള പുസ്തകങ്ങളുടെ പുറംചട്ട രൂപകല്പനയുടെ രംഗത്തു് മാറ്റങ്ങളുടെ
+തുടക്കം കുറിച്ചതു് സി. ജെ.-യാണു്.
+</p>
+          <p>പ്രസിദ്ധ സാഹിത്യകാരനായിരുന്ന എം. പി. പോളിന്റെ മൂത്ത പുത്രി റോസിയെയാണു് വിവാഹം ചെയ്തതു്.
+റോസി തോമസ് സി. ജെ.-യുടെ മരണശേഷം അറിയപ്പെടുന്ന സാഹിത്യകാരിയായി.
+</p>
+          <p>പ്രശസ്ത കവയിത്രി മേരി ജോൺ കൂത്താട്ടുകുളം സി. ജെ. തോമസിന്റെ മൂത്ത സഹോദരിയായിരുന്നു. 1960
+ജൂലൈ 14-നു് 42-ാം വയസ്സിൽ സി. ജെ. അന്തരിച്ചു.
+
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Verum Manushyan (ml: വെറും
+മനുഷ്യൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-01-27. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas, Verum
+Manushyan, സി ജെ തോമസ്, വെറും മനുഷ്യൻ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 10, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Paul_Gauguin__The_Black_Pigs__Google_Art_Project.jpghttps://commons.wikimedia.org/wiki/File:Blue_and_Green_Music_by_Georgia_O%27Keeffe,_1921.jpg">The
+Black PigsBlue and Green Music,</ref> a paintinga painting by <ref target="https://en.wikipedia.org/wiki/en:Paul_Gauguinhttps://en.wikipedia.org/wiki/en:Georgia_O%27Keeffe">Paul
+GauguinGeorgia O’Keeffe</ref>  (1848–19031887–1986). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-verum-manushyan.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-verum-manushyan.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

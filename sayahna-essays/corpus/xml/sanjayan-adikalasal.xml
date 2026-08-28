@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അടികലശൽ</title>
+          <title xml:lang="en" type="main">Adikalasal</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">July 4, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അടികലശൽ</title>
+              <title xml:lang="en" type="main">Adikalasal</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-07-04</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Adikalasal</term>
+          <term>സഞ്ജയൻ</term>
+          <term>അടികലശൽ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-07-04</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Merry-Go-Round.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Mark_Gertler_-_Merry-GoRound_-_Google_Art_Project.jpg">Merry-Go-Round,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti">Mark
+Gertler</ref>  (1891–1939). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അടികലശൽ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അടികലശൽ</head>
+        <div type="lsection">
+          <p style="noindent">നിങ്ങൾക്കു് അടിയുടെ കണക്കു് അറിയാമോ? അറിയുകയില്ലെങ്കിൽ ഇതാ
+പഠിച്ചോളിൻ:
+</p>
+          <p>12 വാക്കു് = 1 വാക്കേറ്റം<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref>
+</p>
+          <p>2 വാക്കേറ്റം = 1 അടി
+</p>
+          <p>12 അടി = 1 അടികലശൽ
+</p>
+          <p>2 അടികലശൽ = 1 കശപിശ
+</p>
+          <p>12 കശപിശ = 1 ലഹള
+</p>
+          <p>12 ലഹള = 1 കലാപം
+</p>
+          <p>2 കലാപം = 1 യുദ്ധം
+</p>
+          <p>2 യുദ്ധം = 1 വിപ്ലവം
+</p>
+          <p>ഈ കണക്കു് നിങ്ങൾ കണക്കുപുസ്തകങ്ങളിലൊന്നും കാണുകയില്ല. മനുഷ്യന്നു് വായിക്കാൻ
+കൊള്ളുന്നതൊന്നും പാഠപുസ്തകക്കാർ സ്വീകരിക്കുകയില്ലെന്നു് ഉറപ്പിച്ചുകൊള്ളുവിൻ.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>നിങ്ങൾ കഴിഞ്ഞ ലക്കത്തിൽ വിവരിച്ച “അണ്ടലൂർക്കാവിലെ അടി” ഈ ടേബിളിൽ എവിടെയാണു്
+നില്ക്കുന്നതെന്നു ഞാൻ ചോദിച്ചുകൊള്ളട്ടെ? അതു് വെറും ഒരു അടികലശൽ മാത്രമായിരുന്നുവോ? അതോ,
+അതിന്നു് ഒരു കശപിശയുടെ “ഡിഗ്നിറ്റി” കൊടുക്കാമോ? എന്നാണു് എന്റെ ചോദ്യം. തീർച്ചയായും അതു്
+(നിങ്ങളുടെ തലവാചകം പറയും‌പോലെ) ഒരു വെറും “അടി” മാത്രമായിരിക്കുകയില്ല. ആണെങ്കിൽ അതിനെപ്പറ്റി
+ഒരു റിപ്പോർട്ടെഴുതുവാൻ ആരെങ്കിലും മിനക്കെടുമോ? അതു് ഒരു യുദ്ധമായിരിക്കുവാനും ഇടയില്ല:
+മെഷീൻതോക്കും, ഏറോപ്ലെയിനും, റൊയിട്ടരുടെ കമ്പിവാർത്തയും ഹെർ ഹിറ്റ്ലരും, മുസ്സോളിനിയുമില്ലാതെ
+അടുത്തകാലത്തൊന്നും ഒരു യുദ്ധമുണ്ടാവുകയില്ല; അതൊരു കശപിശ തന്നെ ആയിരിക്കണം.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഞാൻ ഈ കശപിശ കണ്ടിട്ടില്ല. രാത്രി ബസ്സു കിട്ടിയില്ല. സാറേ! ഈ വിവരം മുൻകൂട്ടി
+അറിഞ്ഞിരുന്നുവെങ്കിൽ ഒരു ചൂട്ടും കൂടിയില്ലാതെ സഞ്ജയൻ നടന്നുകളയുമായിരുന്നു. ഇത്രയും പറഞ്ഞതുകൊണ്ടു്
+ഞാൻ ഒരു കലാപിയോ, ലഹളക്കാരനോ ആണെന്നു് നിങ്ങൾ ശങ്കിക്കരുതു്. കഴിയുന്നേടത്തോളം ഞാൻ
+യാതൊരു കശപിശയിലും പങ്കു കൊള്ളാറില്ല. പക്ഷെ ദൂരെനിന്നു് ഒരു ഒന്നാന്തരം, “ജെന്വീൻ” അടികലശൽ
+വാച്ചു് ചെയ്യുന്നതു് എനിക്കു് കുട്ടിക്കാലം മുതല്ക്കേ വലിയ രസമാണു്. ഈ രസാസ്വാദനത്തിൽ സഞ്ജയൻ സഖാവു്
+നാരദനെപ്പോലെയാണെങ്കിലും, ആ താടിക്കാരനെപ്പോലെ വെറുതെ പെരുവഴി പോകുന്നവരെ ഏഷണി
+പറഞ്ഞു തമ്മിൽത്തല്ലിക്കുന്ന സ്വഭാവം സഞ്ജയന്നില്ല. ഉള്ള ലഹള കണ്ടു് ആസ്വദിക്കും; ഇല്ലാത്തതു്
+ഉണ്ടാക്കിത്തീർക്കുകയില്ല. (അതുകൊണ്ടു് പോലീസ് ഇൻസ്പെക്ടർമാർ എന്നെ ലിസ്റ്റിൽപ്പെടുത്തുകയും മറ്റും വേണ്ട.)
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>പൌരാണികകാലങ്ങളിൽ ഈ വിനോദത്തിന്നു് ടിക്കറ്റോ, മുനിസിപ്പാൽ വിനോദനികുതിയോ
+ഒന്നുമുണ്ടായിരുന്നില്ല. തച്ചോളി ഒതേനന്റെ പ്രധാനമന്ത്രിയായിരുന്ന സഖാവു് കണ്ടാച്ചേരിച്ചാപ്പന്റെ കാര്യം
+ആലോചിച്ചുനോക്കിൻ! വാസ്തവത്തിൽ സഞ്ജയൻ ചാപ്പന്റെ ജീവിതത്തെക്കുറിച്ചു് അസൂയപ്പെടുന്നു. എത്ര വമ്പിച്ച
+കശപിശകളാണു് ചാപ്പൻ കോംപ്ലിമെണ്ടറി ടിക്കറ്റിന്മേൽ കണ്ടു നിന്നതു്! ഏതു ലഹളയ്ക്കും ചാപ്പന്നു് റിസർവ്
+സീറ്റാണു്, എന്നിട്ടും ഒതേനക്കുറുപ്പു് തന്നെ ഒസ്യത്തിൽപ്പെടുത്താഞ്ഞതുകൊണ്ടു് ചാപ്പന്നു് കുറച്ചൊരു
+വല്ലായ്മയുണ്ടായിരുന്നു. മനുഷ്യന്റെ ആശയ്ക്കു് അതിരിട്ടവരുണ്ടോ? മെമ്പറായാൽപ്പോര, ആരുടെയെങ്കിലും കാലോ
+കയ്യോ പിടിച്ചു് പ്രസിഡണ്ടാവണം; പ്രസിഡണ്ടായാലും പോര എമ്മെൽസിയാകണം; എമ്മെൽസിയായാൽ
+ജസ്റ്റീസുകക്ഷിക്കാരനാണെന്നു പറഞ്ഞു് മിനിസ്റ്ററാവാം. മിനിസ്റ്റരായാൽ സായൂജ്യമായോ? നിർവ്വാണം
+കിട്ടിയോ? “തദപി ന മുഞ്ചത്യാ ശാപിണ്ഡം.” പിന്നേയുമുണ്ടു് പടവു്. ശമ്പളത്തുകയുടെ വലത്തെ അറ്റത്തു് പൂജ്യം
+കൂടിവരണം. നാരായണ! നാ-രാ-യ-ണാ!
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>അതു നില്ക്കട്ടെ. ചാപ്പന്റെ കഥയാണല്ലോ പറയുന്നതു്. പുലിമുണ്ടച്ചാത്തക്കുറുപ്പുമായുള്ള തലവെട്ടിക്കലാപം;
+കതിരൂരു ചുണ്ടുപ്പെരുമലയനുമായുള്ള “പടക്കോഴി തമ്മിൽ പിണങ്ങുമ്പോലെ” യുള്ള പയറ്റു്; സാക്ഷാൽ
+തലശ്ശേരി പൊന്ന്യംവയലിൽവെച്ചുണ്ടായ ഒതേനന്റെ മരണപ്പൊയ്ത്തു്; ഇതൊക്കെ കാൽപ്പൈസ്സ
+ചെലവില്ലാതെ കണ്ടിട്ടും ചാപ്പന്നു മതിയായില്ല. അവസാനം ആ അത്യാർത്തിക്കാരൻ ചോദിച്ചതു കേട്ടുവോ?
+</p>
+          <lg>
+            <l> “അന്നേരം ചാപ്പനല്ലേ ചോദിയ്ക്കുന്നൂ</l>
+            <l> തച്ചോളി എളയ കുറുപ്പന്നോരേ!</l>
+            <l> എല്ലാരെക്കൊണ്ടും പറഞ്ഞു നിങ്ങൾ:</l>
+            <l> എന്നെക്കൊണ്ടൊന്നും പഞ്ഞില്ലല്ലോ!” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>ഇതിന്നു് ഒതേനൻ പറഞ്ഞ മറുപടി ഭേഷായിരിയ്ക്കുന്നു:
+</p>
+          <lg>
+            <l> “ആ വാക്കു കേട്ടുള്ള കുഞ്ഞി ഒതേനൻ</l>
+            <l> ചാപ്പനോടല്ലേ പറയുന്നതു്:</l>
+            <l> കൊണ്ടുനടന്നതും നീയ്യേ ചാപ്പാ,</l>
+            <l> കൊണ്ടുപോയ്ക്കൊല്ലിച്ചതും നിയ്യേ ചാപ്പാ</l>
+            <l> നിനക്കു തരാനേതുമില്ല ചാപ്പാ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>അതാണു് ശരിയായ സ്പിരിറ്റ്: ഒതേനനാകുന്ന പൂവെടിക്കെട്ടിന്റെ കൂടെ ഇത്രയും കാലം “ഫ്രീ” യായി
+നടക്കുന്നതുകൊണ്ടു് തൃപ്തിപ്പെടാത്ത ചാപ്പനല്ലേ വെറും ചാപ്പൻ? ആ അസത്തിന്നു് ഒതേനന്റെ മരണത്തോടുകൂടി,
+പ്രസിദ്ധ നടനായ ഓച്ചിറ വേലുക്കുട്ടിനായർ ചെയ്തതുപോലെ, കാഷായമുടുത്തു് സന്യസിക്കാമായിരുന്നില്ലേ?
+ഒതേനന്റെ കൂടെ സഞ്ജയനായിരുന്നുവെങ്കിലോ ഒരൊറ്റ ഉരഞ്ഞ മുക്കാലിന്നു ചോദിക്കുകയില്ല; ദൈവത്താണേ
+
+ചോദിക്കുകയില്ല.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>സഞ്ജയന്നു് ഇടയ്ക്കു് “സബ്ജക്റ്റിൽ ഗ്രിപ്പ്” (വിഷയത്തിൽ പിടുത്തം) വിട്ടുപോകുന്നുണ്ടെന്നു സഞ്ജയന്റെ ഒരു
+ആത്മമിത്രം സസ്നേഹം ചൂണ്ടിക്കാണിച്ചിട്ടുണ്ടു്. അതുകൊണ്ടു് വിഷയത്തിന്റെ മെയിൻലൈനിലേയ്ക്കു്, വണ്ടിയഴിച്ച
+ഗുഡ്സ് എഞ്ചിൻ ചെയ്യുന്നതുപോലെ, സഞ്ജയൻ മടങ്ങുന്നു. (മേലിൽ ഇങ്ങനെ ചെയ്യുമ്പോൾ ഒരു വമ്പിച്ച കൂക്കി
+വിടുന്നതായിരിക്കും.)
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>സഞ്ജയന്നു ലഹള കാണുവാൻ ഇഷ്ടമുണ്ടെന്നു പറയുമ്പോൾ “എന്തൊരു തെമ്മാടിയാണീ വിദ്വാൻ!” എന്നു
+മനസ്സിൽ വിചാരിക്കുന്നവർ കൈ പൊന്തിക്കട്ടെ! (എത്ര ആളുകളാണു്!) നിങ്ങൾക്കാണോ കൂട്ടരേ, അതിൽ
+ഇഷ്ടമില്ലാത്തതു്? അടികലശൽ കാണുവാനുള്ള ആഗ്രഹം മനുഷ്യന്റെ രക്തത്തിലെ ചുകപ്പുനിറത്തോടൊന്നിച്ചു
+മാത്രമേ മാറുകയുള്ളൂ. ശക്തിയോടു ശക്തി കൂട്ടിമുട്ടുന്നതു കാണുകയാണു് കണ്ണിന്റെ പുണ്യമെന്നു ലോകം മുഴുവൻ
+പറയുന്നു. ഗുസ്തിയും ക്രിക്കറ്റുമാച്ചും, സിനിമയിലെ കുത്തുശണ്ഠകളും, റിവോൾവർ ഫയറിങ്ങും, കണ്ടു് ആളുകൾ
+(പോലീസിനെ പേടിച്ചു്) തൃപ്തിപ്പെടുന്നു. നിങ്ങളുടെ സമാധാനേച്ഛ! ഈ മാതിരി വങ്കത്തം ചങ്ങലം
+പരണ്ടയിൽവെച്ചാണു് നിങ്ങൾ പറഞ്ഞതെങ്കിൽ, സമാധാനേച്ഛയുടെ ഫലം ഒരു മാസത്തെ ആസ്പത്രി
+ജീവിതമായിരിക്കും.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>അതാണു് ചങ്ങലംപരണ്ടക്കാരുടെ ഗുണം. ഒരു കാവിൽ തിറയുണ്ടെങ്കിൽ, അവിടെ ചുരുക്കത്തിലെങ്കിലും
+ഒരടിയും വേണമെന്നുള്ളതു് ഒഴിച്ചു കൂടാത്ത ഒരു നിയമമാണു്. “അടിയും തിറയും” അവിടെ ചന്ദ്രികയും
+ചന്ദ്രനുംപോലെ, കയ്പും വേപ്പുംപോലെ, വെടിയും പടയും പോലെയാണു്. അടിയില്ലാത്ത തിറ മഴയില്ലാത്ത
+കാറുപോലെയാണു്: ആർക്കും കണ്ടുകൂടാ. മാവിലായി (പണ്ടു സൂര്യചന്ദ്രന്മാരുടെ കേസ്സിൽ മാദ്ധ്യസ്ഥം പറഞ്ഞു
+തടി ശുദ്ധമാക്കിയെടുത്ത മഹാവീരന്റെ നാടു്) മാവിലായി പ്രദേശത്തു് ഒരു കാവുണ്ടു്: അവിടെ തിറയെക്കാൾ
+പ്രാധാന്യം അടിക്കാണു്. ഈ കഥ ഗവർമ്മെണ്ടറിയും. പക്ഷേ, ഗവർമ്മെണ്ട് ഇതിനെതിരായി ഒന്നും പറയാറില്ല.
+പറഞ്ഞാൽ മതക്കാര്യങ്ങളിൽ കയ്യിടുകയില്ലെന്നുള്ള 1858-ലെ വിക്ടോറിയാ മഹാറാണിയുടെ വിളംബരമെടുത്തു
+ഞങ്ങൾ ഗവർമ്മെണ്ടിന്റെ മുമ്പാകെ ഉയർത്തിപ്പിടിക്കും. പിന്നീടു് ഗവർമ്മെണ്ടു് ഒരക്ഷരം പറയുകയില്ല.
+</p>
+          <p>
+3-3-35
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Adikalasal (ml: അടികലശൽ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-07-04. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, Adikalasal,
+സഞ്ജയൻ, അടികലശൽ, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 4, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Mark_Gertler_-_Merry-GoRound_-_Google_Art_Project.jpg">Merry-Go-Round,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti">Mark
+Gertler</ref>  (1891–1939). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-adikalasal.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-adikalasal.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

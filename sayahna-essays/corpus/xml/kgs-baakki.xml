@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കവിതകൾ</title>
+          <title xml:lang="en" type="main">Poems</title>
+        </title>
+        <author>KGS</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 16, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കവിതകൾ</title>
+              <title xml:lang="en" type="main">Poems</title>
+            </title>
+            <author>KGS</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-09-27</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>KGS</term>
+          <term>Poems</term>
+          <term>കെ. ജി. എസ്.</term>
+          <term>കവിതകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-09-27</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Raja_Ravi_Varma_The_Reaper.jpg" width="100%"/>
+          <figDesc> a painting by V. Mohanan  (na). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കവിതകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. ജി. എസ്.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ബാക്കി</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-baakki-02-t.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <lg>
+            <l> കരയ്ക്കടുപ്പിച്ചപ്പോൾ സത്യം</l>
+            <l> ഒരു ഭീമൻ അസ്ഥികൂടം.</l>
+            <l> അതുവരെയറിയാത്തൊരു</l>
+            <l> വിചാരതീരത്തായി സാന്ദിയാഗോ<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> </l>
+          </lg>
+          <lg>
+            <l> പലരും കടന്നതിന്റെ ബാക്കിയില്ലാതെ </l>
+            <l> ഏതു് കടൽ?</l>
+            <l> പലരും പോയതിന്റെ ബാക്കിയല്ലാതെ</l>
+            <l> ഏതു് യാത്ര?</l>
+            <l> പലരും കണ്ടതിന്റെ</l>
+            <l> ബാക്കിയല്ലാതെ</l>
+            <l> ഏതു് കാഴ്ച?</l>
+            <l> പലരും പറഞ്ഞതിന്റെ ബാക്കിയല്ലാതെ</l>
+            <l> ഏതു ഭാഷ? കഥ?</l>
+            <l> പലരും കേട്ടതിന്റെ ബാക്കിയല്ലാതെ</l>
+            <l> ഏതു രാഗം? ശകാരം?</l>
+            <l> പലരും ദഹിച്ചതിന്റെ ബാക്കിയല്ലാതെ</l>
+            <l> ഏതു് പ്രേമം?</l>
+            <l> പലരും രുചിച്ചതിന്റെ ബാക്കിയല്ലാതെ</l>
+            <l> ഏതു് സൗന്ദര്യം? സുഖം? വിഷം?</l>
+            <l> പലരും മരിച്ചതിന്റെ ബാക്കിയല്ലാതെ</l>
+            <l> ഏതു് മരണം?</l>
+            <l> ബാക്കികൾ നെയ്ത പരവതാനിയോ</l>
+            <l> ജീവിതം? പുതുമ? പ്രപഞ്ചം?</l>
+          </lg>
+          <lg>
+            <l> കടലിലെ സാഹസികവർഷങ്ങൾ കഴിഞ്ഞു്</l>
+            <l> കട്ടിലിലടിഞ്ഞപ്പോൾ വൃദ്ധൻ സാന്ദിയാഗോ</l>
+            <l> മയക്കത്തിലാണ്ട വലിയൊരെല്ലിൻകൂടു്;</l>
+            <l> ആർക്കൊക്കെയോ തീനായതിന്റെ ബാക്കി.</l>
+          </lg>
+          <lg>
+            <l> വൃദ്ധനുതോന്നി: മയക്കം അപാരത.</l>
+            <l> വെള്ളത്തിമിംഗലമായ്</l>
+            <l> മേഘം മേയും കയം കാണിക്കും</l>
+            <l> കടൽവെയിലിനേക്കാൾ,</l>
+            <l> കടൽപ്പാടി പാടി മായും</l>
+            <l> കടൽനിലാവിനേക്കാൾ,</l>
+            <l> തോണി പോലെ ബോധം</l>
+            <l> നോക്കെത്താ മറവിൽ മറയും</l>
+            <l> മറയലിനേക്കാൾ,</l>
+            <l> ഈ മയക്കം ധ്യാനം, അപാരത. </l>
+          </lg>
+          <lg>
+            <l> വൃദ്ധനുതോന്നി: മയക്കത്തിൽ</l>
+            <l> വന്ന് നിൽക്കുന്നെന്റെ ചുറ്റും</l>
+            <l> ഞാനറിഞ്ഞവയും എന്നെയറിഞ്ഞവയും</l>
+            <l> ഞാനുപേക്ഷിച്ചവയും എന്നെയുപേക്ഷിച്ചവയും. </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">രണ്ടു്</head>
+          <lg>
+            <l> ബുദ്ധന്‍, ക്രിസ്തു, മുഹമ്മദ്, ഗലീലിയോ,</l>
+            <l> മാര്‍ക്സ്, ഗാന്ധി, ഫ്രോയ്ഡ്,</l>
+            <l> കൊളംബസ്, മാര്‍ക്കോപോളോ, ഇബ്നുബത്തൂത്ത…</l>
+            <l> പുരാതന നാവികരും കടല്‍മണവും</l>
+            <l> കാടും കിളിപ്പാട്ടും സിംഹമൗനവും</l>
+            <l> വംശനാശം വന്ന ചിന്തകളും</l>
+            <l> ഭൂതഗണങ്ങളും.</l>
+            <l> ഇല്ല, ഞാന്‍ കാത്തിരിക്കുന്ന മരണം</l>
+            <l> ഈ മിത്രഗണത്തില്‍.</l>
+            <l> കാണും, ആര് വരുമ്പൊഴും</l>
+            <l> കൂടെ വരും മരണം.</l>
+            <l> ഉറപ്പു്.</l>
+            <l> മൂന്ന് മിത്രങ്ങളില്‍ ഒരാള്‍ മൃത്യു.</l>
+          </lg>
+          <lg>
+            <l> മിത്രങ്ങളേ,</l>
+            <l> കടലുകള്‍ താണ്ടിയോരേ,</l>
+            <l> കണ്ടുപിടിച്ചെന്നു് നിങ്ങള്‍</l>
+            <l> കൊണ്ടാടുന്ന ഭൂഖണ്ഡം</l>
+            <l> എന്തിന്റെ അസ്ഥികൂടം?</l>
+            <l> ആരൊക്കെ മേഞ്ഞതിന്റെ ബാക്കി? </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>]
+ഹെമിങ്വേയുടെ ‘കിഴവനും കടലും’ എന്ന നോവലിലെ കഥാപാത്രം.</note>
+          </noteGrp>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+      <div type="lchapter" xml:id="lchp2">
+        <head type="lchaphead">ഗോർക്കിയെക്കൊണ്ടു് പൊറുതി മുട്ടിയപ്പോൾ</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-baakki-03-t.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <lg>
+            <l> ഗോർക്കിയെക്കൊണ്ടു് പൊറുതി മുട്ടിയപ്പോൾ</l>
+            <l> ലെനിൻ പറഞ്ഞു:</l>
+            <l> ഒരു വാക്കു്, ഒരൊപ്പു്…</l>
+            <l> അവരെ വിടൂ ഇവരെ വിടൂ…</l>
+            <l> എന്നും പറഞ്ഞിങ്ങനെ നീ</l>
+            <l> ഓടിയോടി വരരുതു് ഗോർക്കീ.</l>
+          </lg>
+          <lg>
+            <l> ശത്രുവിന്റെ ശവശരീരത്തിനു്</l>
+            <l> തീരാസുഗന്ധം തോന്നുന്ന രാഷ്ട്രീയമൂക്കു് </l>
+            <l> പോരാ ലെനിൻ, അധികാരത്തിനു്. </l>
+          </lg>
+          <lg>
+            <l> തർക്കിക്കുമ്പോൾ ഗോർക്കീ, നീ,</l>
+            <l> റഷ്യൻ നേരിന്റെ പെരുക്കം.</l>
+            <l> ക്ഷോഭിക്കുമ്പോൾ പ്രളയം,</l>
+            <l> പാർട്ടിപ്പാപം ഓരോ മുറ്റത്തും</l>
+            <l> നിരത്തും കലക്കം.</l>
+            <l> ജീവനേതും പ്രിയമെന്നു് പറയുമ്പോൾ</l>
+            <l> ജൈവനീതി ഓർമ്മിപ്പിക്കുമ്പോൾ നീ</l>
+            <l> പുരാതന റഷ്യൻ ഋഷി.</l>
+            <l> ശരി വിധിക്കുമ്പോൾ നീ</l>
+            <l> പഴയ നിയമം.</l>
+            <l> വർഗ്ഗവിരുദ്ധം, ഗോർക്കീ, നിന്റെ</l>
+            <l> ആവിഷ്കാരസ്വാതന്ത്ര്യവാദം;</l>
+            <l> അഹിംസാവാദം.</l>
+          </lg>
+          <lg>
+            <l> പോയിരുന്നു് കഥയെഴുതൂ;</l>
+            <l> രക്ഷിക്കൂ സ്വന്തം ജീവൻ, </l>
+            <l> ക്ഷയത്തിന്റെ സൈബീരിയയിൽ</l>
+            <l> നരകിച്ചൊടുങ്ങാതെ.</l>
+          </lg>
+          <lg>
+            <l> എതിർമൊഴി കൊന്നൊടുക്കാമെന്നതു്</l>
+            <l> ഭീകരതയുടെ മതം.</l>
+            <l> ഭീകരമതക്കാരിൽ നിന്നു്</l>
+            <l> ജീവൻ രക്ഷിക്കുന്നതിലും നല്ല കഥ</l>
+            <l> ഇന്നെഴുതാനില്ലെനിക്കു്, വ്ലാഡിമർ.</l>
+            <l> വിശ്വാസം വിതച്ചു് സ്വാതന്ത്ര്യം കൊയ്യുന്നില്ല നാം,</l>
+            <l> അന്യോന്യം സംശയിക്കുന്നോർ</l>
+            <l> ഭയക്കുന്നോർ</l>
+            <l> മെരുക്കുന്നോർ.</l>
+          </lg>
+          <lg>
+            <l> ആര് മാറ്റിയെഴുതും നമ്മുടെ ക്രൂരകഥ?</l>
+            <l> ആ മാറ്റിയെഴുത്തിലും നല്ല</l>
+            <l> ക്ഷയമുക്തിയില്ല സഖാവേ. </l>
+          </lg>
+          <lg>
+            <l> സ്തുതിവാക്കിലാടുന്ന വാലല്ല</l>
+            <l> എതിർവാക്കിലാളുന്ന നീതി, കല. </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 0.0/2.1"-->
+        <div type="lsection" xml:id="sec2.2">
+          <head type="lsechead">രണ്ടു്</head>
+          <lg>
+            <l> ആരോഗ്യരക്ഷയുടെ കൂട്ടിൽ മോസ്കോ</l>
+            <l> ഗോർക്കിയെ ഇറ്റലിയിലടച്ചു. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 0.0/2.2"-->
+        <div type="lsection" xml:id="sec2.3">
+          <head type="lsechead">കെ. ജി. എസ്.</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kgs-3.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മലയാള കവി.
+</p>
+          <p>ചിത്രങ്ങൾ: വി. മോഹനൻ
+</p>
+        </div>
+        <!--end of "section 0.0/2.3"-->
+      </div>
+      <!--end of "chapter 0/2"-->
+      <!--END OF CHAPTER 0/2-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Poems (ml: കവിതകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  KGS.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-09-27. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, KGS, Poems, കെ. ജി.
+എസ്., കവിതകൾ, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 16, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>   a painting by V. Mohanan
+ (na). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kgs-baakki.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kgs-baakki.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

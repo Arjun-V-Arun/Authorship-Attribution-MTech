@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സന്മാർഗ്ഗഭാണ്ഡം</title>
+          <title xml:lang="en" type="main">Sanmargabhandam</title>
+        </title>
+        <author> CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">December 9, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സന്മാർഗ്ഗഭാണ്ഡം</title>
+              <title xml:lang="en" type="main">Sanmargabhandam</title>
+            </title>
+            <author> CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-12-13</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Sanmargabhandam</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>സന്മാർഗ്ഗഭാണ്ഡം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-12-13</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Henri_Rousseau_001.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Henri_Rousseau_001.jpg">Am
+Waldrand,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Henri_Rousseau">Henri
+Rousseau</ref>  (1844–1910)). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സന്മാർഗ്ഗഭാണ്ഡം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സന്മാർഗ്ഗഭാണ്ഡം</head>
+        <div type="lsection">
+          <p style="noindent">സദാചാരത്തെ തട്ടിമുട്ടിയിട്ടു മനുഷ്യർക്കു വഴിയിലൂടെ നടക്കാൻ വയ്യാതായിരിക്കുന്ന
+ഒരു കാലഘട്ടത്തിൽ അത്യാവശ്യമായി വായിക്കേണ്ട ഒരു പുസ്തകമാണു് ശ്രീ. വെട്ടൂർ രാമൻനായരുടെ
+‘ദേവദാസി.’ ഇതൊരു ചെറുകഥാസമാഹാരമാണു്. ആറു കഥകളുണ്ടു്. അതിൽ മൂന്നെണ്ണം സന്മാർഗ്ഗം
+പ്രതിപാദിക്കുന്നു. അവയിൽ ഗ്രന്ഥകാരനു് അതിപ്രധാനമായിത്തോന്നിയതു ദേവദാസിയുടെ കഥയാണു്.
+പുസ്തകത്തിനു് ആ പേരുതന്നെ കൊടുത്തിരിക്കുന്നതും അതുകൊണ്ടാവാം.
+</p>
+          <p>ഈയിടെ ഏതു പത്രമെടുത്താലും—അതു കമ്മ്യൂണിസ്റ്റുകാരോ കോൺഗ്രസ്സുകാരോ
+നടത്തുന്നതായിക്കൊള്ളട്ടെ—അതിലെല്ലാം ചർച്ചചെയ്യപ്പെടുന്ന വിഷയം ഒന്നുതന്നെയാണു്, സദാചാരം.
+തെരുവുപ്രസംഗക്കാരനായ ഒരു ഉപദേശിയുടെ ‘എരിവോടു കൂടിയാണുതാനും അതു പറയുന്നതു്. രാഷ്ട്രീയമായി
+വിരുദ്ധകോണുകളിൽ നില്ക്കുന്നവരാണെങ്കിലും അവർ പാടുന്ന പല്ലവി ഒന്നുതന്നെയാണു്. ഭാരതത്തിനു
+പുരാതനമായ ഒരു സാംസ്കാരികപാരമ്പര്യമുണ്ടു്. കേരളത്തിനു് ഒരു പ്രത്യേക സൗന്ദര്യബോധമുണ്ടു്. ‘നമുക്കു് ഒരു
+പ്രത്യേകത എന്തോ ഒക്കെയുണ്ടു്. എന്താണു് ഈ എന്തൊക്കെ? ആരൊക്കെയാണു് ഈ ‘നമുക്കു്’ എന്നവാക്കിൽ
+ഉൾക്കൊണ്ടിരിക്കുന്നതു് ആ ‘നമുക്കു്’ പ്രയോഗത്തിലാണു് കുഴപ്പം തങ്ങിനില്ക്കുന്നതു്. അതിൽ നമ്പൂതിരിയും
+നസ്രാണിയും ഉണ്ടോ? നായരേയും ഉൾപ്പെടുത്തുന്നുണ്ടോ? പാക്കിസ്ഥാനിലേക്കു ഓടിപ്പോകാത്ത മുസ്ലീമിനും ഈ
+സന്മാർഗ്ഗഭാണ്ഡത്തിലും സൗന്ദര്യബോധത്തിലും അതിന്റെയൊക്കെ ആകെത്തുകയായ ഭാരതീയ
+സാംസ്കാരികപാരമ്പര്യത്തിലും എന്തെങ്കിലും പങ്കുണ്ടോ? ഉണ്ടെങ്കിൽ വിവാഹം വെറും കോൺട്രാക്ട് മാത്രമായ
+മുസ്ലീമിനും, സംബന്ധപ്രിയനായ നമ്പൂരിക്കും, കൂട്ടുകുടുംബക്കാരനായ നായർക്കും, ദമ്പതികൾ തമ്മിലുള്ള
+ലൈംഗികബന്ധത്തെപ്പോലും അസന്മാർഗ്ഗികമായി ഗണിക്കുന്ന നസ്രാണിക്കും തമ്മിൽ
+പൊതുവായിട്ടുള്ളതെന്താണാവോ! ഇതെല്ലാംകൂടി എടുത്തു താരതമ്യപഠനം ചെയ്യുന്നയാളിനു ലഭിക്കുന്ന
+ഏകതത്ത്വം സദാചാരത്തെപ്പറ്റി പൊതുവായ യാതൊരു തത്ത്വവുമില്ലെന്നതു മാത്രമാണു്. ഈ ഉപദേശികളുടെ
+കണ്ണിൽപ്പെടാനുള്ള ചില പരമാർത്ഥങ്ങളാണു് ശ്രീ. വെട്ടൂർ ഈ കഥകളിൽ കൊടുത്തിരിക്കുന്നതു്.
+</p>
+          <p>‘ദേവദാസി’ തന്നെ ആദ്യമെടുക്കാം. ശ്രീരംഗത്തെ കഥയാണതു്. ഈശ്വരന്റെ രക്ഷാധികാരത്തിൽ അവിടെ
+നടത്തപ്പെടുന്ന ഇറച്ചിക്കച്ചവടം വെറും ദാരിദ്രത്തിന്റെ ഫലമെന്നു പറഞ്ഞു് തള്ളിക്കൂടാ. കരിങ്കല്ലിൽ
+രതിവൈകൃതങ്ങളുടെ ചിത്രങ്ങൾ കൊത്തിവെയ്ക്കുന്നതു ദാരിദ്ര്യംകൊണ്ടല്ലല്ലോ. പോരാ, വിവാഹമെന്ന ആശയം
+ശ്രീരംഗത്തെ ഒരു വേശ്യയ്ക്കു് എത്ര പാപകരമായി തോന്നുന്നുവെന്നു ശ്രീ. വെട്ടൂരിന്റെ കഥയിൽനിന്നു
+മനസ്സിലാക്കുക. ഇതും ഉയർത്തിപ്പിടിക്കപ്പെടുന്ന ആ സാംസ്കാരികപാരമ്പര്യത്തിന്റെ അവശ്യഘടകമാണു്.
+ഇക്കാര്യങ്ങളും അതുപോലെ ഒരു നൂറു പരമാർത്ഥങ്ങളും മുമ്പിലിരിക്കുമ്പോൾ പുരോഗാമികളും പശ്ചാൽ ഗാമികളും
+ഒരുപോലെ ഈ ചീത്ത പാരമ്പര്യം ചുമന്നുനടക്കുന്നതിന്റെ രഹസ്യമെന്തു്? കടംവാങ്ങിച്ച കൊടിയും, കട്ടെടുത്ത
+മുദ്രാവാക്യവും പുതിയ ഒരു ജീവിതവീക്ഷണത്തെ സൃഷ്ടിക്കുകയില്ലെന്നതുതന്നെ. അവർക്കു സ്വന്തം
+പാരമ്പര്യത്തിൽനിന്നു ഉയരാൻ കഴിഞ്ഞിട്ടില്ല. അതു അവരും സമ്മതിക്കും. പക്ഷേ, ആ പാരമ്പര്യം നല്ലതോ
+ചീത്തയോ എന്നതിനെപ്പറ്റിയാണു് അഭിപ്രായഭിന്നത.
+</p>
+          <p>ദേവദാസിയെപ്പറ്റി ശ്രീ. വെട്ടൂർ കൊടുത്ത ചിത്രം തെറ്റിദ്ധരിക്കപ്പെട്ടേക്കാം—ഒരു സന്മാർഗ്ഗപ്രസംഗമായിട്ടു്.
+അങ്ങിനെ സംഭവിച്ചാൽ ‘അവിവാഹിതനും’, ‘ഭർത്താവിന്റെ ത്യാഗ’വും വായിക്കണം. അലെക്ക്സിസ്
+പുണ്യവാളന്റെ അഭിപ്രായക്കാരനല്ല ശ്രീ. വെട്ടൂർ. ജീവിതം മുഴുവൻ അവിവാഹിതനായി കഴിച്ചു മാന്യൻ എന്ന
+സ്ഥാനത്തോടുകൂട്ടി പെൻഷൻ പറ്റുന്ന ഒരാളുടെ ഹൃദയത്തിന്റെ ആഴത്തിലേയ്ക്കു വെട്ടൂർ ഇറങ്ങിനോക്കുന്നു. അവിടെ
+ഒരു ശ്മശാനമാണു്. മരിച്ച പ്രേതങ്ങളുടെ പ്രേതങ്ങളും അമർത്തപ്പെട്ട വികാരങ്ങളുടെ എല്ലാംകൂടി
+അവിടെക്കാണുന്നതു്, ഒരു ‘ദുർമ്മാർഗ്ഗി’യുടെ പുറവശത്തേക്കാൾ നൂറിരട്ടി ബീഭത്സമായ ഒരു രംഗമാണു്.
+ശരീരത്തിന്റെ സഹജമായ ഒരു പ്രചോദനത്തെ മതത്തിനു വേണ്ടിയായാലും മാന്യതയ്ക്കു വേണ്ടിയായാലും
+തടഞ്ഞുനിറുത്തുന്നതു് ആരോഗ്യകരമല്ല—ശരീരത്തിനെന്നല്ല, മനസ്സിനും, ഇതാണു്, ശ്രീ. രാമൻനായരുടെ
+നിഗമനം. ഇക്കഥ പുരുഷന്റേതു മാത്രമല്ല. സ്ത്രീയുടെ കഥയും മേപ്പടിയാണു്. ഭാര്യയുടെ ജീവൻ
+അപകടത്തിലാകുമെന്നു കരുതിയാണു് ശുദ്ധഗതിക്കാരനായ ഹരീന്ദ്രൻ സ്വയം നിയന്ത്രിക്കുന്നതു്. പക്ഷേ, ഒന്നു
+പ്രസവിക്കാൻവേണ്ടി മരണത്തെ നേരിടുകയെന്നതു് അത്ര കാര്യമായി കണക്കാക്കാത്തവളാണു് സ്ത്രീ.
+സദാചാരബോധവും, നീണ്ട ഒരു വന്ധ്യജീവിതത്തിനുള്ള അവസരവും അവളെ ഗർഭവതിയാക്കുന്നതിൽനിന്നു
+തടയുവാൻ ശക്തമാകുന്നില്ല. ഇതൊക്കെ ഈ നാട്ടിൽ നടക്കുന്ന കാര്യങ്ങളാണു്. അവയുടെ നേരെ കണ്ണടച്ചിട്ടും
+അവയെ ചിത്രീകരിക്കാൻ ധൈര്യപ്പെടുന്ന റിയലിസ്റ്റ് സാഹിത്യകാരെന്മാരെ പുലഭ്യം പറഞ്ഞിട്ടും കാര്യമില്ല.
+‘ഇതെല്ലാം തെറ്റാണു്. ഇതെല്ലാം മാറണം എന്നു് ഒഴുക്കൻമട്ടിൽ പറയുന്നതുകൊണ്ടും നാം എവിടേയും
+
+എത്തുന്നില്ല. ഇതൊന്നും ശരിയല്ലെങ്കിൽ മറ്റെന്താണു് ശരിയെന്നാലോചിക്കണം. ആ പരിശ്രമത്തിനു
+സാമ്പത്തിക കാരണങ്ങൾ മാത്രം അന്വേഷിച്ചാൽ പോരാ. മനുഷ്യനു മാനസികമായി കൂടി ഒരു പരിവർത്തനം
+ആവശ്യമാണു്. ഇതു മതത്തിന്റെ മാനസാന്തരമല്ല. ജീവിതവീക്ഷണത്തിലുള്ള ഒരു സമൂലപരിവർത്തനമാണു്.
+പാരമ്പര്യഭാണ്ഡം തലയിൽനിന്നിറക്കിവച്ചിട്ടു ചിന്തിച്ചാൽ മാത്രമേ അതു കഴിയൂ. പുതിയ സന്മാർഗ്ഗമൂല്യമെന്തെന്നു
+ശ്രീ. രാമൻനായർ പറയുന്നില്ല. അതെന്തുതന്നെയായാലും, അവഗണിക്കാൻ കഴിയാത്ത ചില വാസ്തവങ്ങളെ
+ചൂണ്ടിക്കാണിച്ചിട്ടുണ്ടു്. ഒന്നാമതു്, ലൈംഗികത്വം മനുഷ്യജീവിയുടെ അടിസ്ഥാനസ്വഭാവമാണു്. രണ്ടാമതു്, ഈ
+വിഷയത്തെ സംബന്ധിച്ചു ശാശ്വതവും സാർവലൗകികവുമായ യാതൊരു തത്ത്വവും ഇന്നുവരെയുണ്ടായിട്ടില്ല.
+മൂന്നാമതു്, ഉണ്ടായേടത്തോളം ആചാരങ്ങളെല്ലാം (തത്ത്വങ്ങളല്ല) സമൂഹത്തിന്റെ പൊതുഗുണത്തിനുവേണ്ടി
+സൃഷ്ടിക്കപ്പെട്ടിട്ടുള്ളതാണു്. നാലാമതു്, അടിസ്ഥാനമായ സാമൂഹ്യ നിലവാരം മാറുന്നതോടുകൂടി അതിന്റെ
+മുകളിലുള്ള സദാചാരരീതികൾകൂടി മാറുകതന്നെ വേണം. ഇതെല്ലാം ഒരു തത്ത്വസംഹിതയിൽനിന്നു്
+അനുമാനിച്ചതല്ല. ചുറ്റും കണ്ട ജീവിതരംഗത്തിൽ പ്രതിഫലിച്ചു കണ്ടതു മാത്രമാണു്. ഈ
+ആധുനികകാലഘട്ടത്തിൽ അങ്ങിനെയുള്ള രംഗങ്ങൾ ഒട്ടുവളരെ കാണാനുണ്ടു്. സമൂലപരിവർത്തനത്തിന്റെ
+കാലമായതുകൊണ്ടാണതു്. ഈ പരിവർത്തനത്തിന്റെ രാഷ്ട്രീയ—സാമ്പത്തികവശങ്ങൾ പലരും കാണുന്നുണ്ടു്.
+പക്ഷേ, അതിന്റെ സാംസ്കാരികമായ വശം അധികമാരും കാണുന്നില്ല. ഇന്നുവരെ ശരിയെന്നുവെച്ചിരുന്ന പലതും
+തകരുകയാണു്. ഭൗതികവസ്തുക്കൾ മാത്രമല്ല, ആദ്ധ്യാത്മികഭാവങ്ങളും. ഇതു കണ്ണുതുറന്നു കാണുവാൻ
+ചങ്കുറപ്പില്ലാത്ത പുരോഗമനവാദികൾ കുറേനാൾ ചുറ്റിത്തിരിയും, പിന്നെ തലപൊക്കിനോക്കുമ്പോൾ
+മനസ്സിലാകും, പുരോഗതിയുടെ വണ്ടിതെറ്റിയെന്നു്.
+</p>
+          <p>ശ്രീ. വെട്ടൂർ ജീവിതത്തിന്റെ ഭൗതികരംഗത്തു വന്നുകൊണ്ടിരിയ്ക്കുന്ന മാറ്റത്തെ കാണുന്നില്ലെന്നോ
+ഗൗനിക്കുന്നില്ലെന്നോ ഇതുകൊണ്ടർത്ഥമാക്കേണ്ടതില്ല. “ബന്ധുഗൃഹത്തിൽ” എന്ന കഥ അതിനുമതിയായ
+തെളിവാണു്. തിരുവിതാംകൂറിലെ നായർ സമുദായത്തിന്റെ സാമ്പത്തികവും സാമൂഹ്യവുമായ തകർച്ച
+ചിത്രീകരിക്കുന്ന കഥകളിൽ ഇത്ര നല്ല ഒന്നു് ഇതുവരെ കണ്ടിട്ടില്ല. ദാരിദ്ര്യത്തെ നേരിട്ടു് വരച്ചുകാണിച്ചല്ല വെട്ടൂരിതു
+സാധിക്കുന്നതു്. ജീവശ്വാസമായി അവർ ഗണിക്കുന്ന അഭിമാനത്തെപ്പോലും അടക്കിനിറുത്തിക്കൊണ്ടാണു് അവർ
+പട്ടാളത്തിൽനിന്നു് പിരിഞ്ഞുവന്ന ബന്ധുവിനോടു് പണത്തിനു യാചിക്കുന്നതു്. വ്യസനകരമായ ആ രംഗങ്ങൾക്കു്
+വെളിച്ചം കൊടുത്തിട്ടാണു് അവരുടെ ദാരിദ്ര്യത്തെ നമുക്കു് മനസ്സിലാക്കിത്തരുന്നതു്. ഇതെല്ലാം വളരെ സൂക്ഷ്മമായ
+ഫലിതത്തോടുകൂടിയാണു് അദ്ദേഹം പറഞ്ഞൊപ്പിക്കുന്നതെന്നതിൽനിന്നു് ശ്രീ. വെട്ടൂരിന്റെ കഥാകഥനപാടവം
+കാണാം. ലഘ്വാക്ഷേപരീതിയിലാണു് അതിന്റെയടുത്ത കഥയും എഴുതിയിരിക്കുന്നതു്.
+സാമുദായികസംഘടനയുടെ ഗുണത്തിനെന്നു് പറഞ്ഞു പാവപ്പെട്ട നായരുടെ അവസാന ചില്ലികൾ മോഷ്ടിക്കുന്ന
+ഒരേർപ്പാടു് കുറെനാളായി തിരുവിതാംകൂറിൽ നടന്നുവരുന്നുണ്ടു്. അതാണു് ‘ഭക്തസംഘം’ എന്ന കഥയുടെ
+വിഷയം.
+</p>
+          <p>ശ്രീ. വെട്ടൂരിന്റെ കഥകളുടെ വിജയത്തിനു് രണ്ടു കാരണങ്ങൾ ഉണ്ടു്. അദ്ദേഹം ഒരു
+സാധാരണക്കാരനാണെന്നതാണതിലൊന്നു്. “ജനങ്ങളുടെ ഇടയിലേക്കിറങ്ങിച്ചെല്ലൂ” എന്നും മറ്റും വെട്ടൂരിനോടു്
+വിളിച്ചു കൂവേണ്ട. അദ്ദേഹം അവിടെയാണു് ജനിച്ചതു്. നില്ക്കുന്നതും അവിടെത്തന്നെ. അവിടെ നിന്നുകൊണ്ടു്
+കാണുന്നതെല്ലാം ജീവനുള്ളതായിരിക്കും. മറ്റൊരു കാരണം വെട്ടൂരിന്റെ സുന്ദരമായ ശൈലിയാണു്. അതിനു്
+തികഞ്ഞ രൂപഭദ്രതയുണ്ടു്.
+</p>
+          <p>
+വിലയിരുത്തൽ 1951.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sanmargabhandam (ml:
+സന്മാർഗ്ഗഭാണ്ഡം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>   CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-12-13. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Sanmargabhandam, സി ജെ തോമസ്, സന്മാർഗ്ഗഭാണ്ഡം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 9, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Henri_Rousseau_001.jpg">Am
+Waldrand,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Henri_Rousseau">Henri
+Rousseau</ref>  (1844–1910)). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-sanmargabhandam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-sanmargabhandam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

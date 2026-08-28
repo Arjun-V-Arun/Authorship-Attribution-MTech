@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ശ്രീചക്രത്തിനു ചുറ്റും ചില വരികൾ</title>
+          <title xml:lang="en" type="main">Srichakraththinu Chuttum Chila Varikal</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">August 5, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ശ്രീചക്രത്തിനു ചുറ്റും ചില വരികൾ</title>
+              <title xml:lang="en" type="main">Srichakraththinu Chuttum Chila Varikal</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Srichakraththinu Chuttum Chila Varikal</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ശ്രീചക്രത്തിനു ചുറ്റും ചില വരികൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 5, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Sri_Yantra.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Sri_Yantra_Correct_Colors_Johari_1974.jpg">Sri
+Yantra with correct traditional colors according to Harish Johari. The artwork is a silkscreen
+print made in 1974 at the Tantra Research Institute in Oakland, California,</ref> a
+photograph by Daniel Conrad  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ശ്രീചക്രത്തിനു ചുറ്റും ചില വരികൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ശ്രീചക്രത്തിനു ചുറ്റും ചില വരികൾ</head>
+        <div type="lsection">
+          <p style="noindent">ലൈംഗികതയുടെ നേർക്കു് ഭാരതീയദർശനം പുലർത്തിപ്പോന്ന നിലപാടു്
+ഒരിക്കലും നിഷേധപരമായിരുന്നില്ല. നിലനില്പിനെ നിഷേധിക്ക വയ്യാത്തതുകൊണ്ടു് ലൈംഗികതയെ ഒരു
+മൂല്യമായിത്തന്നെ ഭാരതീയർ അംഗീകരിച്ചു. ശിവലിംഗം പൂജാവിഗ്രഹമായി—സംഹാരമൂർത്തിയെപ്പോലും
+സൃഷ്ടിയുടെ പ്രതീകത്തിലൂടെ നാം മനസ്സിലാക്കി എന്നർത്ഥം.
+</p>
+          <p>ഏതു ശക്തനായ ദൈവത്തിനും ശക്തിക്കു നിദാനമായി ഒരു ‘പകുതി’യെക്കൂടി സങ്കല്പിക്കാനും ഭാരതീയർ
+മറന്നുപോയില്ല. സഹശയനമുപേക്ഷിച്ചുപോയ ബുദ്ധനുകൂടി ഒരു പകുതി കൊടുത്തിട്ടേ നാം തൃപ്തരായുള്ളു.
+‘സൗന്ദര്യലഹരി’യിലെ സ്ത്രീ എത്ര ശക്തയാണെന്നു നോക്കു:
+</p>
+          <p>“ഹേ ജനനി! ബ്രഹ്മാവു്, ഇന്ദ്രൻ മുതലായ സകല ദേവന്മാരും സർവ്വർക്കും ഭയജനകങ്ങളായ
+ജരാമരണങ്ങളെ ഇല്ലാതാക്കുന്ന അമൃതിനെ പാനം ചെയ്തിട്ടുകൂടി മരിച്ചു പോവുന്നു. അത്യുഗ്രമായ
+കാളകൂടവിഷത്തെ വിഴുങ്ങിയ ശിവനു മരണമില്ല എന്നതിന്റെ കാരണം അവിടത്തെ കർണ്ണാഭരണത്തിന്റെ
+മഹിമയാകുന്നു.” (ശ്ലോകം 28)
+</p>
+          <p>ഈ സങ്കല്പം സമകാലീനരായ എഴുത്തുകാരെ ആകർഷിക്കാൻ എളുപ്പമുണ്ടു്; അതിലടങ്ങിയ ലൈംഗികത
+എന്ന മൂല്യം വിശേഷിച്ചും. പ്രപഞ്ചത്തിന്റെ ആധാരമായി ശിവശക്തിസംയോഗത്തെ കാണുന്ന കണ്ണിനു
+ലൈംഗികതയിൽ പാപമില്ലല്ലോ. ജീവിവംശങ്ങൾ നിലനിന്നുപോരുന്നതു് പവിത്രമായ ഈ പരസ്പരാകർഷണം
+ഒന്നുകൊണ്ടത്രെ. അതുകൊണ്ടുതന്നെ, ജന്മവാസനകളെ പാപമായിക്കാണുന്ന ഏതു സദാചാരവും
+ലംഘിക്കപ്പെട്ടിട്ടുണ്ടു്; ലംഘിക്കപ്പെടുന്നുണ്ടു്.
+</p>
+          <p>അസ്തിത്വത്തിന്റെ സ്ത്രൈണമായ പ്രതീകമാണു് പാർവ്വതി. അമ്മ സ്ത്രീയാണു്. സ്ത്രീ അമ്മ കൂടിയാണെന്നും
+പറയാം. ഭാര്യയിലൂടെ നാം തന്നെയാണു് മകനായി ജനിക്കുന്നതു് എന്നുണ്ടു്. ദേവീസങ്കല്പങ്ങളിൽ മിക്കപ്പോഴും
+അമ്മയും കാമുകിയും കൂടിക്കുഴഞ്ഞു പോകുന്നു. ഈ കൂടിക്കുഴയൽ ‘സൗന്ദര്യലഹരി’യിൽ ഉടനീളം കാണാം. ആ
+കൃതിയുടെ തെളിനീരിൽ പേന മുക്കി എഴുതുന്ന കാക്കനാടൻ എന്ന ചെറുകഥാകൃത്തിന്റെ ലൈംഗികപൂജയ്ക്കു ഈ
+രണ്ടു മുഖങ്ങളുണ്ടു്. ഭക്തൻ അമ്മയോടു് പറയുന്നു:
+</p>
+          <p>“അമൃതരസം നിറഞ്ഞ മാണിക്യത്തോൽക്കുടങ്ങളായ വക്ഷോജങ്ങൾ കാണുകയാണു്. കുംഭീന്ദ്രരൂപനായ
+ഗജാസുരന്റെ മസ്തകത്തിൽ നിന്നെടുത്ത മുത്തുമണികൾ കോർത്ത മാല കാണുകയാണു്. ഗംഗാനദിയിലെ ചുഴിയും
+നീലരോമാവലിയാവുന്ന ലതക്കു് തടവും മന്മഥന്റെ പ്രതാപാഗ്നിക്കു് ഹോമകുണ്ഡവും രതീദേവിയുടെ ലീലാഗൃഹവും
+ശിവനേത്രങ്ങളുടെ തപഃസിദ്ധിക്കു് ഗുഹാദ്വാരവുമായ നാഭീപ്രദേശം കാണുകയാണു്.” (ശ്രീചക്രം)
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kakkanadan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കാക്കനാടൻ</figDesc>
+          </figure>
+          <p>‘സൗന്ദര്യലഹരി’യിലെ 73, 74, 78 ശ്ലോകങ്ങളിലെ ആശയമാണിതു്. ‘ശ്രീചക്രം’ എന്ന കഥയിൽ മാത്രമല്ല,
+‘നീലഗ്രഹണം’ എന്ന മറ്റൊരു കഥയിലും ‘പറങ്കിമല’ എന്ന നോവലിലും ഈ സങ്കല്പം <ref target="https://ml.wikipedia.org/wiki/Kakkanadan">കാക്കനാടനെ</ref>
+സ്വാധീനിക്കുന്നതായിക്കാണാം:
+</p>
+          <p>“എന്റെ അമ്മേ, എന്റെ കാമുകീ, പറയൂ. ഞാനെന്ന നീലാകാശം ഇടിഞ്ഞുവീഴാതിരിക്കാൻ, ഞാനെന്ന ലഹരി
+ഇല്ലാതാവാതിരിക്കാൻ, സർവ്വാംഗസുന്ദരി, മഹാത്രിപുരസുന്ദരീ, പറയൂ. എനിക്കു് പറഞ്ഞു തരൂ” (നീലഗ്രഹണം).
+</p>
+          <p>സ്നേഹം വറ്റിച്ചുകളയുന്ന സമകാലീനതാപത്തിൽ ഉഴലുന്ന എഴുത്തുകാരൻ, ഭൂതവുമായുള്ള, ഈ
+
+പൊക്കിൾക്കൊടിബന്ധം വീണ്ടെടുക്കാൻ ശ്രമിക്കുന്നു; പുറത്തെ വൈരൂപ്യത്തിൽ നിന്നു് ഉള്ളിലെ
+നിത്യഹരിതസൗന്ദര്യങ്ങളിലേക്കു് തിരിച്ചുചെല്ലുന്നു. കാക്കനാടൻ തിരിച്ചെത്തുന്നതു് അമ്മയുടെ
+സന്നിധിയിലേക്കാണു്.
+</p>
+          <p>അർദ്ധനാരീശ്വരസങ്കല്പം ദാമ്പത്യപ്രേമത്തിന്റെ ഉദാത്തീകരണം തന്നെയാണു്. ശിവനും ശക്തിയും
+ജഗത്തിന്റെ മാതാപിതാക്കളത്രെ. സൃഷ്ടി അവരുടെ ഇണക്കത്തിന്റെ ഫലമാണു്. എങ്കിലും സ്ത്രീക്കാണു ഇവിടെയും
+പ്രാമുഖ്യം. മൂന്നാം കണ്ണിലെ തീകൊണ്ടു ശിവൻ ദഹിപ്പിച്ച കാമനെ പുനരുജ്ജീവിപ്പിക്കാൻ അവൾക്കു്
+കഴിഞ്ഞുവല്ലോ.
+</p>
+          <p>പ്രപഞ്ചത്തിന്റെ കേന്ദ്രബിന്ദുവായ ഈ സ്ത്രീത്വത്തിനു രണ്ടു ഭാവങ്ങളുണ്ടു്—അമ്മ, കാമുകി.
+സൗന്ദര്യത്തികവിന്റെ ഭാഗത്തു് കാമുകിയും മറ്റംശങ്ങളിൽ അമ്മയുമായ അവളെ സാക്ഷാത്ക്കരിക്കാൻ വെമ്പുന്ന
+ഭക്തന്റെ മനസ്സിലെ സൂക്ഷ്മവും ഭ്രമാത്മകവുമായ ഭാവങ്ങൾക്കു് അക്ഷരരൂപം നല്കുകയാണു കാക്കനാടന്റെ
+‘ശ്രീചക്രം’ എന്ന കഥ ചെയ്യുന്നതു്.
+</p>
+          <p>ഈ ശക്തിയെ—അഭൗമമായ ഈ സങ്കല്പത്തെ—സാക്ഷാത്ക്കരിക്കാൻ ഭൗതികമായ
+ഉപാധികളാവശ്യമാണു്. അതുതന്നെയാണു് ചിത്രകാരന്റെ മുന്നിലെ മോഡൽ.
+</p>
+          <p>ആ മോഡലിനെക്കുറിച്ചുള്ള പരാമർശങ്ങളിതാ:
+</p>
+          <p>“വീണ്ടും ഭൗതികത കണ്ണുകൾ തുറന്നു.”
+</p>
+          <p>“അല്ല, ഒക്കെ ഭൗതികമാണു്. ഇവൾ വെറും മോഡലാണു്.”
+</p>
+          <p>“ഭൂമിയിൽ പിറന്ന അവൾ എന്ന ഭൗതികപദാർത്ഥത്തോടു് അയാൾക്കു് വെറുപ്പും ദേഷ്യവും തോന്നി.”
+</p>
+          <p>അനുഭവവും ഉൾവിളിയും ഒത്തുചേരുമ്പോൾ സ്വയം നഷ്ടപ്പെടാനാണു്, ‘അഹം’ എന്നതിൽ നിന്നു്
+രക്ഷപ്പെടാനാണു്, കലാകാരൻ ശ്രമിക്കുന്നതു്. ഈ രക്ഷപ്പെടലാണു് സത്യത്തിൽ കലാകാരന്റെ സ്വാതന്ത്ര്യം.
+തന്റെ കലാസങ്കല്പത്തെ പ്രാപിക്കാൻ കഴിയാതെ പോകുന്ന, എത്രമേൽ ശ്രമിച്ചിട്ടും സ്വയം നഷ്ടപ്പെടാൻ
+ആവാതെ പോകുന്ന, കലാകാരന്റെ കഥ കൂടിയാണു ‘ശ്രീചക്രം’. അയാളുടെ മുമ്പിൽ എല്ലായ്പോഴും മോഡലേയുള്ളു.
+</p>
+          <p>“നിന്നെ എനിക്കു് വരയ്ക്കാം. ഭൗതികമായ സ്ത്രീസൗന്ദര്യം അപ്പാടെ എണ്ണച്ചായത്തിൽ പകർത്താം.
+</p>
+          <p>പക്ഷേ, എനിക്കതു വേണ്ട. എനിക്കു് സ്ത്രീയുടെ ചിത്രം വേണ്ട.
+</p>
+          <p>ശക്തിയുടെ ചിത്രം മതി. നാദത്തിന്റെ ചിത്രം മതി. നാദബ്രഹ്മമേ, നിന്റെ ചിത്രം. നാദമാവുന്ന ശക്തീ,
+പരാശക്തി നിന്റെ ചിത്രം.”
+</p>
+          <p>ഈ ഉൽക്കടമായ ദാഹം വളർന്നു്, കലാപൂജയിലൂടെ അയാൾ ഉന്മാദത്തെത്തന്നെയാണു് പ്രാപിച്ചതു്.
+പിന്നെ അയാൾക്കു മോഡലുകളെ പൊറുപ്പിക്കാൻ കഴിയില്ല.
+</p>
+          <p>ഇവിടുത്തെ ശക്തി പ്രതിഭ തന്നെയാണു്. പ്രതിഭയെ “ശക്തി” എന്ന ഭാരതീയകാവ്യമീമാംസ പലപാടു്
+പരാമർശിച്ചിട്ടുണ്ടല്ലോ. പ്രതിഭയിൽ കണ്ണു് നട്ടു് ഇരുന്നു പോവുക എന്നതു് കലാകാരന്റെ ആത്മാർത്ഥതക്കു
+ഇണങ്ങുന്ന കാര്യം തന്നെ.
+</p>
+          <p>മോഡലിനെ “ഭൗതികത” എന്നു് കലാകാരൻ നിരന്തരം ആക്ഷേപിക്കുന്നതായി നാം കണ്ടു. എഴുത്തുകാരനു്
+നേരേ മോഡലുകൾ ഉയർത്തിക്കാട്ടുന്ന തത്വശാസ്ത്രപ്രസംഗകരെ ഇവിടെ ചേർത്തു വെച്ചു് ആലോചിക്കുക.
+ശിവശക്തിസംഗമമായ ‘ഒമ്പതി’ലെത്തുന്നതിൽ നിന്നു്, ആത്മാർത്ഥതയുടെ വഴിക്കു നടന്നു് പൂർണ്ണതയിലെത്താൻ
+ശ്രമിക്കുന്നതിൽനിന്നു്, കലാകാരനെ തടയുകയാണു പലപ്പോഴും മോഡലുകൾ ചെയ്യുന്നതു്.
+</p>
+          <p>കലാകാരന്റെ ഹൃദയം ഉപാധികളെ ഉല്ലംഘിക്കാൻ വെമ്പുന്നു. ലക്ഷ്യം പ്രാപിക്കാൻ മാർഗ്ഗം വേണം.
+എന്നാൽ ആ മാർഗ്ഗത്തെ മറികടക്കാതെ ലക്ഷ്യസ്ഥാനത്തെത്തുക വയ്യ.
+</p>
+          <p>ഇവിടത്തെ മാർഗ്ഗം മായയാണു്. അതു നമ്മുടെ മുമ്പിൽ നഗ്നയായിത്തന്നെ നില്ക്കുന്നു; നമ്മെ വശഗരാക്കുന്നു.
+ആ ഭൗതികതയെ ഞെക്കിക്കൊല്ലാതെ മായയെ അതിവർത്തിക്കുന്നതെങ്ങനെ? ആന്തരികശക്തിയെ
+കണ്ടെടുക്കുന്നതെങ്ങനെ?
+
+</p>
+          <p>ഇപ്പോൾ പ്രസക്തമായിത്തീരുന്ന ചിത്രം ഗുരുവിന്റേതാണു്. ആ ‘വെളുത്ത മുടി’ എന്ന പ്രയോഗം കൂടുതൽ
+ശ്രദ്ധേയമത്രെ. ആചാര്യനെ ദേവനായി പൂജിക്കുന്ന ഭാരതീയന്റെ ഗുരുസങ്കല്പത്തിനു വളരെയേറെ ആഴമുണ്ടു്.
+സാത്വികതയുടെ നിറമായ വെളുപ്പുമായി വരുന്ന ഈ ഗുരുവും ആ ആർഷസങ്കല്പത്തിൽ നിന്നു വരുന്നവൻ തന്നെ.
+പൂർവ്വാർജ്ജിത സംസ്കാരമില്ലാതെ മറ്റൊന്നുമല്ല. ചിത്രകാരന്റെ ചില്ലറ പാളിച്ചകളിൽ കൂടി അയാൾ ഊന്നുന്നു.
+അപ്പോഴും ‘ഒമ്പതി’ലെത്താൻ പ്രേരിപ്പിക്കുകയും ചെയ്യുന്നു.
+</p>
+          <p>ശിവശ്ശക്തികളുടെ സമന്വയം കൊണ്ടുണ്ടാകുന്ന പ്രപഞ്ചത്തിന്റെ പൂർണ്ണതയാണു് ശ്രീചക്രത്തിലെ ഒമ്പതു്.
+അതു് തന്നെ സാക്ഷാത്ക്കാരം. ശക്തിയുടെ ഭക്തൻ സ്വയം ശിവനാകാനാണു് ആഗ്രഹിക്കുന്നതു്. “ശിവോഹം”
+എന്ന മന്ത്രം ഓർമ്മിക്കുക. ശിവനിലൂടെ മാത്രമേ ശക്തിയെ സാക്ഷാത്ക്കരിക്കാൻ കഴിയൂ. ശക്തി കലയാണു്;
+ശിവൻ കലാകാരനും.
+</p>
+          <p>തന്ത്രികകലയുടെ പ്രതീകങ്ങളിൽ പ്രസിദ്ധമായ ഒന്നാണു് ശ്രീചക്രം. ഇതിൽ നാലും അഞ്ചും ത്രികോണങ്ങൾ
+പരസ്പരാഭിമുഖം നില്ക്കുമ്പോഴുണ്ടാകുന്ന നാല്പത്തിമൂന്നു് കോണുകളുണ്ടു്. അവയ്ക്കു നടുവിൽ ഒരു ബിന്ദു. ഇവയെ
+ചുറ്റിയുള്ള വൃത്തത്തിനു പുറത്തു താമരപ്പൂവു്. അതിനും പുറത്തു് നാലു് വൃത്തങ്ങളും.
+</p>
+          <p>ഈ ചിത്രത്തെ സൗന്ദര്യലഹരി വിവരിക്കുന്നു;
+</p>
+          <p>“ശിവമയങ്ങളായ നാലെണ്ണങ്ങളാലും ശിവഭിന്നങ്ങളും ശക്തിമങ്ങളുമായ അഞ്ചെണ്ണങ്ങളാലും കൂടിയ ഒമ്പതു്
+മൂലപ്രകൃതികളാൽ, അഷ്ടദളം, ഷോഡശദളം, വൃത്തത്രയം, ഭൂപുരത്രയം എന്നിവയോടുകൂടി അങ്ങയുടെ
+ചരണങ്ങളാകുന്ന കോണങ്ങൾ നാല്പത്തി മൂന്നായി പരിണമിക്കപ്പെട്ടിരിക്കുന്നു” (ശ്ലോകം 11).
+</p>
+          <p>“ശ്രീ ചക്രത്തിലെ വൃത്താകാരവും ഭേദശൂന്യവുമായ വലയത്രയം ലിംഗരൂപനായ ശിവനും
+വിഭിന്നകോണാത്മകമായ അംശം പ്രപഞ്ചയോനീരൂപമായ ശക്തിയുമാകുന്നു. സ്ത്രീയുടെ ജഘനത്തിനും
+ഗർഭപാത്രത്തിനും ത്രികോണച്ഛായയും. പുരുഷന്റെ ലിംഗത്തിനും ശിവലിംഗത്തിനും ശിവസ്ഥാണുരൂപത്തിനും
+ഹിമവാന്റെ കൊടുമുടിക്കും വലിയ ഛായാസാമ്യവും ഉണ്ടു്.”
+</p>
+          <p>ശ്രീചക്രത്തിലെ “കോണം വിഭിന്നതയേയും വൃത്തം ഭേദശൂന്യതയേയും കാണിക്കുന്നു.”
+</p>
+          <p>ആ താമരപ്പൂവു് യോഗദർശനത്തിലെ മസ്തിഷ്കമായ സഹസ്രാരപദ്മം തന്നെ.
+</p>
+          <p>ചക്രസങ്കല്പത്തെ ഇങ്ങനെ വ്യാഖ്യാനിച്ചു കാണുന്നു:
+</p>
+          <p>“ശൈവങ്ങളായ ജാഗ്രദാദിജ്ഞാനീയാവസ്ഥകളും പ്രാകൃതികങ്ങളായ പൃഥ്യപ്തേജോവായ്വാകാശാത്മക
+പഞ്ചഭൂതവിഷയങ്ങളും തമ്മിൽ ബോധകാലത്തിൽ പരസ്പരം വിഷയീഭവിക്കുകയും സംബന്ധിക്കുകയും
+സമ്മേളിക്കുകയും ചെയ്യുന്നതുകൊണ്ടാണു് ഈ പ്രപഞ്ചസംസാരചക്രം തിരിഞ്ഞുകൊണ്ടിരിക്കുന്നതു്.”
+</p>
+          <p>“കണ്ണാടിയിൽ കാണുന്നതുപോലെ ഇവിടെ ബിംബപ്രതിബിംബങ്ങൾ മുഖത്തോടു മുഖമായിട്ടാണു് നില്ക്കുന്നതു്.
+സർവ്വപ്രപഞ്ചചലനങ്ങൾക്കും ഈ അന്യോന്യാകർഷണശക്തിയാണു കാരണം.”
+</p>
+          <p>“ശ്രീചക്രം സർവ്വപ്രാപഞ്ചിക പ്രവർത്തനങ്ങളുടെയും ദിനരാത്രങ്ങളാൽ ചുറ്റിക്കറങ്ങുന്ന
+അണ്ഡകടാഹത്തിന്റെയും പ്രപഞ്ചത്തിന്റെ ആകെക്കൂടിയുള്ള തിരിച്ചിലിന്റെയും ചലനത്തിന്റെയും പ്രതീകമായ
+ഒരു ചക്രമാണു്.”
+</p>
+          <p>“പ്രകൃതി പുരുഷസമ്മേളനം എങ്ങിനെ ഹൃദയകമലത്തിൽ സദാകുടികൊള്ളമെന്നു് ശ്രീചക്രം
+കാണിച്ചുതരുന്നു.”
+</p>
+          <p>ഈ ചക്രത്തിൽ തന്റെ പ്രശ്നങ്ങളുടെ ചുറ്റിത്തിരിച്ചിൽ കാണാനാണു് കാക്കനാടന്റെ ശ്രമം. വാചാലമായ
+ഭാഷയിൽ അമ്മയുടെയും കാമുകിയുടെയും ചിത്രം വരച്ചു് അദ്ദേഹത്തിനു മത്തു് പിടിക്കുന്നു.
+</p>
+          <p>സൗന്ദര്യലഹരികാരന്റെ രൂപകചിത്രങ്ങൾ നിറഞ്ഞതാണു് ചെറുകഥ. ലൈംഗികതയെ
+പൂജനീയതയിലേക്കുയർത്തുന്ന അടിയൊഴുക്കു് ഇതിന്റെ ഭാഷയ്ക്കുണ്ടെന്നു് സമ്മതിക്കണം—അതിന്റെ
+വലിയൊരംശം ‘സൗന്ദര്യലഹരി’യിൽ നിന്നു് കടം കൊണ്ടതാണെങ്കിലും.
+</p>
+          <p>കഥാകൃത്തിന്റെ തനതുപ്രയോഗങ്ങളിൽ ഒന്നുരണ്ടെണ്ണം കാണുക:
+
+</p>
+          <p>“കറുത്ത കണ്ണുകൾ പ്രകാശം ചുരത്തി.”
+</p>
+          <p>ഈ ‘ചുരത്തൽ’ അമ്മയെത്തന്നെയാണു് കൊണ്ടുവരുന്നതു്.
+</p>
+          <p>“അധരങ്ങളിൽ നേർത്തൊരു പുഞ്ചിരി ആതിര നിലാവുപോലെ പുലർന്നു.”
+</p>
+          <p>ഭഗവാന്റെ തിരുനാളും ഭഗവതിയുടെ തിരുനോൽമ്പും കൂട്ടിച്ചേർത്ത ഒരു കേരളീയസങ്കല്പമാണു് ആതിരനാൾ.
+വിവാഹിതർക്കു് മംഗല്യത്തിനു ദൈർഘ്യം, അവിവാഹിതർക്കു് കെട്ടുതാലി—ഇവയ്ക്കുവേണ്ടിയുള്ള നൊയമ്പിന്റെ
+പ്രകാശമാണു് ആതിരനിലാവു്. ഇവിടെ ശിവൻ, ശക്തി, ദാമ്പത്യസുഖം എന്നിവയുമായി ഗാഢബന്ധമുള്ള ഒരു
+കേരളീയസങ്കല്പത്തെ ശക്തിയുടെ ചുണ്ടുകളിൽ പ്രകാശിപ്പിക്കുകയാണു കാക്കനാടൻ.
+</p>
+          <p>ഭക്തിയും ലൈംഗികതയും ലഹരിയാണു്. ലഹരി എന്ന വാക്കിനു ഓളം എന്നർത്ഥം. ഈ ലഹരി, കടം
+കൊണ്ടിട്ടാണെങ്കിലും, നില നിർത്താൻ കാക്കനാടനു് കഴിഞ്ഞിട്ടുണ്ടു്. ‘ശ്രീചക്ര’ത്തിലെ ഭാഷ
+ഒഴുകിയൊഴുകിപ്പോവുന്നു—ഓളം തന്നെ.
+</p>
+          <p>കഥ ഒടുങ്ങുംപോലെ, എല്ലാം ഒരുതരം നിലവിളിയായിത്തോന്നുന്നു. സൃഷ്ടിപ്രക്രിയയുമായി ബന്ധപ്പെടുന്ന
+എല്ലാറ്റിനുമുണ്ടു് ഈ സ്വഭാവം. ലൈംഗികതയിലെന്നപോലെ എല്ലാറ്റിലും പീഡയും വേദനയും അതിന്റെ
+ലഹരിയും ഉൾച്ചേർന്നിരിക്കുന്നു. ഇതിന്റെയെല്ലാം ആകത്തുകയായതുകൊണ്ടു ചിലപ്പോൾ ജീവിതം തന്നെ
+അങ്ങനെയാണെന്നു് തോന്നാം. പ്രകൃതിയുടെ ലൈംഗികതയും മനുഷ്യന്റെ നിസ്സഹായമായ കിശോരഭാവവും ഈ
+കഥക്കു് പശ്ചാത്തലമൊരുക്കിയിരിക്കുന്നു. ഈ കഥ ഒടുക്കം ഒരുതരം നിലവിളിയായിത്തീരുന്നുവല്ലോ.
+</p>
+          <p>ഗുരു പരിപൂർണ്ണതയെ സാക്ഷാത്ക്കരിച്ചവനായി ചിത്രീകരിക്കപ്പെട്ടിരിക്കുന്നു. ഉന്നതസങ്കല്പങ്ങളെ
+ചിലർക്കെങ്കിലും സാക്ഷാത്ക്കരിക്കാൻ കഴിയും എന്ന സമാന്തരസങ്കല്പമാണിതു്.
+</p>
+          <p>പക്ഷേ, വന്ദ്യഗുരുനാഥനു നേരെ പോലും ശിഷ്യന്റെ സംശയമുണരുന്നു. മോഡലിനെ നോവിക്കുകപോലും
+ചെയ്യാതെ എല്ലാം സാധിക്കാമെന്നു് ഗുരു ഉദാഹരിച്ചുകളയുന്നു. അവളെ ശകാരിച്ചതു് പോലും ഗുരുവിനു
+ഇഷ്ടപ്പെട്ടില്ല. പക്ഷേ, ആ ശിഷ്യൻ മോഡലിനെ കഴുത്തുഞെരിച്ചുകൊന്നു: “ഒടിഞ്ഞ കഴുത്തുമായി അവൾ
+കാലത്തിന്റെ ചുവന്ന മാറിലേക്കു വീണു.”
+</p>
+          <p>ഒടുവിൽ ശക്തി എന്ന സങ്കല്പവും കാളീസങ്കല്പവും ഒന്നായിപ്പോവുന്നു—കൊലയും രക്തവും.
+</p>
+          <p>“ചിത്രകാരൻ അവളെ പിച്ചിച്ചീന്താൻ തുടങ്ങി. രക്തം കുടിക്കണം. രക്തം, രക്തം.
+</p>
+          <p>അയാളുടെ ഗർജ്ജനം ദിക്കുകളെ നടുക്കി.”
+</p>
+          <p>സൗന്ദര്യലഹരിയിൽ നിന്നു് വാറ്റിയെടുത്ത സുരഭിസങ്കല്പമെവിടെ? ഈ കരാളരൂപമെവിടെ? അല്ലെങ്കിൽ
+ഗൗരിയുടെ മറുവശമല്ലയോ കാളി? ലൈംഗികതക്കു്, ക്രിയാത്മകതയ്ക്കു്, എന്തെന്തു രൂപങ്ങളില്ല?
+</p>
+          <p>കലാകാരനിലെ ക്രിയാത്മകതയുടെ നിലവിളി മാത്രം ബാക്കിയാവുന്നു: “മഹിഷാസുരമർദ്ദിനീ,
+ശക്തിസ്വരൂപിണീ, തായേ മഹാമായേ.”<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref>
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] അവലംബം:
+കെ. ആർ. നമ്പൂതിരി—സൗന്ദര്യലഹരീവ്യാഖ്യാനം, 1962. കാക്കനാടൻ—ശ്രീചക്രം: മാതൃഭൂമി ആഴ്ചപ്പതിപ്പു്, 17
+ജനുവരി 1971. കാക്കനാടൻ—നീലഗ്രഹണം: മാതൃഭൂമി ആഴ്ചപ്പതിപ്പു്, 5 സെപ്തംബർ 1971.</note>
+          </noteGrp>
+          <p>ബോധി റിപ്പബ്ലിക്ക് പതിപ്പു്, ജനുവരി–ഫെബ്രുവരി 1978.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Srichakraththinu Chuttum Chila
+Varikal (ml: ശ്രീചക്രത്തിനു ചുറ്റും ചില വരികൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Srichakraththinu Chuttum Chila Varikal, എം. എൻ. കാരശ്ശേരി, ശ്രീചക്രത്തിനു ചുറ്റും ചില വരികൾ,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 5, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Sri_Yantra_Correct_Colors_Johari_1974.jpg">Sri
+Yantra with correct traditional colors according to Harish Johari. The artwork is a silkscreen
+print made in 1974 at the Tantra Research Institute in Oakland, California,</ref> a
+photograph by Daniel Conrad  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karasseri-srichakra.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasseri-srichakra.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

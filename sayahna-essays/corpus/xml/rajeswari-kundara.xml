@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കുണ്ടറ മാഹാത്മ്യം</title>
+          <title xml:lang="en" type="main">Kundara Mahathmyam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 21, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കുണ്ടറ മാഹാത്മ്യം</title>
+              <title xml:lang="en" type="main">Kundara Mahathmyam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Kundara Mahathmyam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കുണ്ടറ മാഹാത്മ്യം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 21, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Predica-santantonio-ai.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Predicasant%27antonio-ai-pesci_-_Galleria_Borghese.jpg">St Anthony Preaching to the
+Fish,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Paolo_Veronese">Paolo Veronese</ref>
+
+ (1528–1588). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കുണ്ടറ മാഹാത്മ്യം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കുണ്ടറ മാഹാത്മ്യം</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/pk_sukumaraan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. സുകുമാരൻ</figDesc>
+          </figure>
+          <p style="noindent"> കുണ്ടറ ചിന്തിക്കുന്ന രീതിയിൽ കേരളം ചിന്തിക്കുമെന്നാണു് പ്രമാണം. കുണ്ടറ
+നിയോജകമണ്ഡലത്തിൽ കോൺഗ്രസ് ജയിച്ചാൽ സംസ്ഥാനത്തു് യു. ഡി. എഫിനു് ഭൂരിപക്ഷം കിട്ടും,
+കോൺഗ്രസുകാരൻ മുഖ്യമന്ത്രിയാകും. കുണ്ടറ പിടിക്കുന്നതു് മാർക്സിസ്റ്റ് സ്ഥാനാർഥിയാണെങ്കിലോ, ഹജൂർ
+കച്ചേരിക്കു മുകളിൽ ചെങ്കൊടി പാറും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mercy_kutty_Amma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജെ. മേഴ്സിക്കുട്ടിയമ്മ</figDesc>
+          </figure>
+          <p> കൊല്ലം-കൊട്ടാരക്കര റോഡിലാണു് കുണ്ടറ പട്ടണം. അലുമിനിയം, കളിമൺ, കശുവണ്ടി, സ്റ്റാർച്ച്
+ഫാക്ടറികൾ മിക്കതും പൂട്ടിപ്പോയെങ്കിലും വ്യവസായ കേന്ദ്രമെന്നാണു് സങ്കൽപം. തിരുവിതാംകൂർ ചരിത്രത്തിൽ
+കുണ്ടറക്കു് നിസ്തുലമായ സ്ഥാനമുണ്ടു്. ഇളമ്പള്ളൂർ ക്ഷേത്രനടയിൽ വെച്ചാണു് കൊല്ലവർഷം 984-മാണ്ടു്
+മകരമാസം ഒന്നാംതീയതി (11-1-1809) <ref target="https://ml.wikipedia.org/wiki/Veluthampi_Dhalava">വേലുത്തമ്പി
+ദളവ</ref> <ref target="https://ml.wikipedia.org/wiki/Kundara_Proclamation">കുണ്ടറ
+വിളംബരം</ref> പുറപ്പെടുവിച്ചതു്: “…രാജധർമത്തെ നടത്തി നാട്ടിൽ ഒള്ള മര്യാദക്കു് അഴിവുവരാതെ
+ഇരിക്കേണ്ടുന്നതിനു മനുഷ്യയത്നത്തിൽ ഒന്നു കുറഞ്ഞുപോയെന്നുള്ള അപഖ്യാതി ഒണ്ടാകാതെയിരിപ്പാൻ
+ആകുന്നെടത്തോളവും ഒള്ള പ്രയത്നങ്ങൾ ചെയ്യുകയും പിന്നത്തതിൽ ഈശ്വരാനുഗ്രഹംപോലെ
+വരുന്നതൊക്കെയും യുക്തമെന്നും നിശ്ചയിച്ചു അത്രെ അവർ തുടങ്ങിയിരിക്കുന്നതിനെ പ്രതിക്രിയയായിട്ടു
+ചെയ്യേണ്ടിവന്നു…”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AA_Rahim.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എ. റഹിം</figDesc>
+          </figure>
+          <p> ഇളമ്പള്ളൂർ, കൊറ്റംകര, കുണ്ടറ, നെടുമ്പന, പേരയം, പെരിനാട്, തൃക്കോവിൽ വട്ടം പഞ്ചായത്തുകൾ
+ചേർന്നാൽ കുണ്ടറ നിയോജകമണ്ഡലമായി. 1965-ലാണു് പഴയ തൃക്കടവൂർ ദ്വയാംഗമണ്ഡലം വിഭജിച്ചു് കുണ്ടറ
+നിലവിൽ വന്നതു്. അത്തവണ കോൺഗ്രസിലെ വി. ശങ്കരനാരായണപിള്ള ജയിച്ചു. 1967-ൽ സി. പി. എമ്മിലെ
+<ref target="https://ml.wikipedia.org/wiki/P.k._sukumaran">പി. കെ.
+സുകുമാരൻ</ref> വിജയിച്ചു. 1970-ലും ’77-ലും കോൺഗ്രസിലെ <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">എ. എ. റഹിം</ref>, ’80-ൽ
+മാർക്സിസ്റ്റ് പാർട്ടിയിലെ വി. വി. ജോസഫ്, ’82-ൽ കോൺഗ്രസിലെ തോപ്പിൽ രവി, 1987-ലും ’96-ലും
+സി. പി. എമ്മിലെ <ref target="https://ml.wikipedia.org/wiki/J._Mercykutty_Amma">ജെ.
+മേഴ്സിക്കുട്ടിയമ്മ</ref>, ’91-ൽ കോൺഗ്രസിലെ <ref target="https://ml.wikipedia.org/wiki/Alphonsa_John">അൽഫോൺസാ
+ജോൺ</ref>, 2001-ൽ കോൺഗ്രസിലെ തന്നെ <ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ ജി.
+
+ശിവദാസൻ</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KADAVOOR_SIVADASAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടവൂർ ജി. ശിവദാസൻ</figDesc>
+          </figure>
+          <p> കുണ്ടറയുടെ ചരിത്രവും സംസ്ഥാനത്തെ പൊതുവായ രാഷ്ട്രീയാന്തരീക്ഷവും വെച്ചുനോക്കിയാൽ ഇത്തവണ
+സി. പി. എമ്മാണു് ജയിക്കേണ്ടതു്. മാർക്സിസ്റ്റ് സ്ഥാനാർഥി കെങ്കേമനാണു്—സഖാവു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref>.
+നാട്ടുകാരനാണു്. കുണ്ടറ മണ്ഡലത്തിൽപെട്ട പ്രാക്കുളമാണു് സഖാവിന്റെ ജന്മദേശം. കൊല്ലം എസ്. എൻ.
+കോളജിൽവെച്ചാണു് ബേബി കമ്യൂണിസത്തിലേക്കു് സ്നാനപ്പെട്ടതു്. ബി. എ. പരീക്ഷ എഴുതിയപ്പോഴൊക്കെ
+തോറ്റെങ്കിലും രാഷ്ട്രീയത്തിൽ വിജയിച്ചു.
+</p>
+          <p>എസ്. എഫ്. ഐ.-യുടെ ദേശീയ പ്രസിഡന്റ്, ഡി. വൈ. എഫ്. ഐ.-യുടെ ദേശീയ പ്രസിഡന്റ്, സി. പി. എം.
+കേന്ദ്ര കമ്മിറ്റി അംഗം, രണ്ടുതവണ രാജ്യസഭാംഗം…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KS_George.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എസ്. ജോർജ്</figDesc>
+          </figure>
+          <p> സാംസ്കാരിക രംഗത്തു് വ്യക്തിമുദ്ര പതിപ്പിച്ച മഹാനേതാവാണു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref>. പുരോഗമന
+കലാസാഹിതിയുടെ ചുമതലക്കാരൻ, കൈരളി ടി. വി.-യുടെ മുഖ്യ ആസൂത്രകൻ, ‘മാനവീയം’ പരിപാടിയുടെ
+സംഘാടകൻ, സ്വരലയയുടെ തലതൊട്ടപ്പൻ. കമ്യൂണിസ്റ്റുകാരുടെ സംഗീതാഭിരുചിയെ <ref target="https://ml.wikipedia.org/wiki/K.S._George">കെ. എസ്. ജോർജിൽ</ref>
+നിന്നു് <ref target="https://ml.wikipedia.org/wiki/Fiyaz_Khan">ഉസ്താദ്
+ഫയാസ്ഖാനോ</ref> ളം എത്തിച്ച മഹാൻ. സാംസ്കാരിക നായകർക്കു് ഉറ്റതോഴൻ. തല്ലാനും
+തലോടാനുമറിയാം. മദമിളകിയ <ref target="https://ml.wikipedia.org/wiki/M._N._Vijayan">എം. എൻ. വിജയനെ</ref>
+വരെ ഒറ്റക്കു നേരിടും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ma_Baby.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എ. ബേബി</figDesc>
+          </figure>
+          <p> ബേബിയുടെ എതിരാളിയും മോശക്കാരനല്ല—അഡ്വക്കറ്റ് <ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ ജി.
+ശിവദാസൻ</ref>, മുൻ മന്ത്രി, സിറ്റിംഗ് എം. എൽ. എ., കൊല്ലം ബാറിലെ അഭിഭാഷകൻ, അഡ്വ. <ref target="https://ml.wikipedia.org/wiki/M._I._Shanavas">എം. ഐ.
+ഷാനവാസ്</ref>, അഡ്വ. <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>
+എന്നിവരെയൊക്കെപ്പോലെ കോടതികാണാത്ത വക്കീലല്ല. ധാരാളം കേസും ഫീസുമുള്ളയാൾ. എമ്മല്ലെയോ
+മന്ത്രിയോ ആയില്ലെങ്കിലും ജീവിക്കാൻ ചുറ്റുപാടുള്ള ദേഹം. വക്കീൽപണിയിലെന്നപോലെ രാഷ്ട്രീയത്തിലും
+വെന്നിക്കൊടി പാറിച്ചവൻ <ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">ശിവദാസൻ</ref>.
+നിയമസഭാംഗമായ നാലുതവണയും മന്ത്രിയായ മറ്റൊരാളില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/M_N_Vijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എൻ. വിജയൻ</figDesc>
+          </figure>
+          <p> വിപ്ലവ സോഷ്യലിസ്റ്റുകാരനായാണു് ശിവദാസന്റെ രംഗപ്രവേശം. പ്രോഗ്രസീവ് സ്റ്റുഡന്റ്സ് യൂനിയനിലും
+യു. ടി. യു. സി.-യിലും താരമായിരുന്നു. 1980-ൽ ആർ. എസ്. പി. ടിക്കറ്റിൽ നിയമസഭാംഗമായി. പാർട്ടി
+പിളർന്നപ്പോൾ ശ്രീകണ്ഠൻനായർക്കൊപ്പം നിന്നു. ശ്രീകണ്ഠൻ ചേട്ടന്റെ മരണശേഷം <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+മേൽക്കോയ്മ അംഗീകരിച്ചു് കോൺഗ്രസിൽ ചേർന്നു. ലീഡറും മകനും പിണങ്ങിപ്പിരിഞ്ഞപ്പോഴും പാർട്ടിയിൽ
+ഉറച്ചുനിൽക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MI_Shanavas.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ഐ. ഷാനവാസ്</figDesc>
+          </figure>
+          <p> മാർക്സിസ്റ്റ് പാർട്ടി, ലത്തീൻ കത്തോലിക്കർക്കു് സംവരണം ചെയ്ത മണ്ഡലമാണു് കുണ്ടറ. കോൺഗ്രസ്
+സ്ഥാനാർഥി മിക്കപ്പോഴും ഈഴവനായിരിക്കും. നായർ, ഈഴവ, ലത്തീൻ, മുസ്ലീം സമുദായങ്ങൾക്കു് നല്ല
+സംഖ്യാബലമുണ്ടു്. ലത്തീൻകാരധികവും കോൺഗ്രസുകാരാണു്; ഈഴവർ മാർക്സിസ്റ്റുകാരും.
+വിരുദ്ധപക്ഷത്തുനിന്നു് പരമാവധി വോട്ടുതട്ടുകയാണു് രണ്ടു മുന്നണികളുടെയും ലക്ഷ്യം. <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> യും <ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസനും</ref> നേർക്കുനേർ ഏറ്റുമുട്ടുമ്പോൾ ചരിത്രം ആവർത്തിക്കുകയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> എസ്. എൻ. കോളജിലെ വിദ്യാർഥിസമരത്തിൽ വഹിച്ച വിപ്ലവകരമായ പങ്കാണു് <ref target="https://ml.wikipedia.org/wiki/J._Mercykutty_Amma">മേഴ്സിക്കുട്ടിയമ്മ</ref>
+ക്കു് കഴിഞ്ഞതവണ വിനയായതു്. പ്രിൻസിപ്പാളിനെ ബന്ദിയാക്കി ഒത്തുതീർപ്പിൽ ഒപ്പിടുവിച്ചതിനു് സഖാവു് വലിയ
+വില നൽകേണ്ടിവന്നു. മേഴ്സിക്കുട്ടിക്കെതിരെ <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശൻ</ref> ഇടയലേഖനം പ്രസിദ്ധീകരിച്ചു. ഈഴവ വോട്ടുബാങ്ക് ചോർന്നു, കുണ്ടറ കൈവിട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p> ഇത്തവണ കടവൂരിനു് എസ്. എൻ. ഡി. പി.-യുടെ പരസ്യ പിന്തുണയില്ല. എൻ. എസ്. എസിന്റെ കാരുണ്യം
+പ്രതീക്ഷിക്കാനുമാവില്ല. മറുവശത്തു്, ബേബിക്കു് ലത്തീൻ കത്തോലിക്കാ ഐക്യവേദി പിന്തുണ പ്രഖ്യാപിച്ചിട്ടുണ്ടു്.
+കുണ്ടറയും ആലപ്പുഴയുമൊഴിച്ചു് 138 സീറ്റിലും ഐക്യവേദി യു. ഡി. എഫിനെ അനുകൂലിക്കുന്നു എന്നതും
+പ്രസ്താവ്യമാണു്. കാലാകാലങ്ങളായി കൈപ്പത്തിക്കു് വോട്ടുകുത്തുന്ന മുസ്ലീംകളിൽ ഒരുവിഭാഗമെങ്കിലും ഇത്തവണ
+ബേബിസഖാവിനെ സഹായിക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Vellappally_Natesan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെള്ളാപ്പള്ളി നടേശൻ</figDesc>
+          </figure>
+          <p> നീരീശ്വരവാദിയായ മകനു് യുക്തിവാദി സമ്മേളനത്തിൽ പങ്കെടുക്കാൻ ഈശ്വരവിശ്വാസിയായ അമ്മ
+
+അയൽവീട്ടിൽ നിന്നു് പണം കടംവാങ്ങിക്കൊടുത്തു, ആ സമ്മേളനത്തിൽ <ref target="https://ml.wikipedia.org/wiki/P.Govindapilla">പി. ഗോവിന്ദപിള്ള</ref>
+ചെയ്ത പ്രസംഗം കേട്ടു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ.
+ബേബി</ref> കമ്യൂണിസത്തിൽ ആകൃഷ്ടനായി എന്നാണു് ഐതിഹ്യം. അന്നും ഇന്നും നാസ്തികനാണു്
+ബേബിസഖാവ്. ബേബിക്കു് മകളെ കല്യാണം കഴിച്ചുകൊടുത്ത പാപത്തിനു് ലൂയീസിന്റെ മൃതദേഹം
+പള്ളിസെമിത്തേരിയിലടക്കാൻ വൈദികൻ വിസമ്മതിച്ചു, തൃശ്ശിവപേരൂരുനിന്നു തിരുവനന്തപുരത്തുകൊണ്ടുവന്നു്
+വൈദ്യുത ശ്മശാനത്തിൽ ദഹിപ്പിച്ചു എന്നുമുണ്ടു് പുരാവൃത്തം.
+</p>
+          <p>ദൈവവിശാസിയല്ലെങ്കിലും ജനാധിപത്യ വിശ്വാസിയാണു് ബേബി. കുണ്ടറ മണ്ഡലത്തിൽ നാസ്തികരേക്കാൾ
+ആൾബലം ഈശ്വരവിശ്വാസികൾക്കാണു്. യുക്തിചിന്തയോടു് അൽപമെങ്കിലും ചായ്വുള്ളതു് <ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസന്റെ</ref> ജാതിക്കാർക്കാണു്. ലത്തീൻകാരും നായന്മാരും മുസ്ലീംകളുമൊക്കെ തനി മൂരാച്ചികൾ!
+അതുകൊണ്ടു് സകല അമ്പലങ്ങളിലും പള്ളികളിലും കയറിയിറങ്ങി വോട്ടുപിടിക്കുകയാണു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PGovindapilla.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ഗോവിന്ദപിള്ള</figDesc>
+          </figure>
+          <p> ചിറ്റുമല ദുർഗാക്ഷേത്രത്തിൽ പൊങ്കാല നടക്കുമ്പോൾ സ്ഥാനാർഥി ഓടിയെത്തി. സഖാവു് ഭഗവതിയെ
+തൊഴുതു, ഭക്തകളെയും തൊഴുതു. പേരയം ഭരണിക്കാവ് ദേവീക്ഷേത്രത്തിലെ സപ്താഹ യജ്ഞത്തിലും
+സമൂഹസദ്യയിലും പങ്കെടുത്തു. ഏപ്രിൽ 11-നു് നബിദിന ഘോഷയാത്രയെ അഭിവാദ്യംചെയ്യാനെത്തിയ അതേ
+ആവേശത്തോടെ ദുഃഖവെള്ളിയാഴ്ച ദിവസമായ ഏപ്രിൽ 14-നു് കുരിശിന്റെ വഴിയിലും പങ്കെടുക്കാനെത്തി.
+കുരിശിന്റെ വഴി, വിലാപയാത്രയാണെന്നു് പറഞ്ഞു് നാന്തിരിക്കൽ സെന്റ് റീത്താസ് പള്ളിയിടവകയിലെ
+വിശ്വാസികൾ സഖാവിനെ മടക്കിയയച്ചു! (പിതാവേ, ഇവർ ചെയ്യുന്നതെന്തെന്നു് ഇവരറിയുന്നില്ല). തെരഞ്ഞെടുപ്പു്
+കഴിയുമ്പോൾ ബേബി <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസിനെ</ref>
+പ്പോലെ വേളാങ്കണ്ണിയിൽ പോയി തല മുണ്ഡനം ചെയ്യുമെന്നു് ചില കുബുദ്ധികൾ പ്രചരിപ്പിക്കുന്നുണ്ടു്.
+ഗോവിന്ദപിള്ളയദ്ദേഹത്തിനു് പുട്ടപർത്തിക്കുപോകാമെങ്കിൽ ബേബിക്കു് വേളാങ്കണ്ണിക്കും പോകാം.
+</p>
+          <p>കുണ്ടറയിൽ എല്ലാവരും അടക്കംപറയുന്നതു് അടിയൊഴുക്കുകളെക്കുറിച്ചാണു്. അഷ്ടമുടിക്കായലിലെ
+അടിയൊഴുക്കല്ല, രാഷ്ട്രീയത്തിലെ അടിയൊഴുക്കു്. എത്ര വോട്ട് നിർജീവമാകും, എത്ര വലത്തുനിന്നു് ഇടത്തോട്ടു്
+ഒഴുകും, എത്ര ഇടത്തുനിന്നു് വലത്തോട്ടു മാറും എന്നൊക്കെയുള്ള അഭ്യൂഹങ്ങൾ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_C_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. തോമസ്</figDesc>
+          </figure>
+          <p> കേരളാ കോൺഗ്രസോ മുസ്ലീംലീഗോ കാര്യമായില്ല, കുണ്ടറയിൽ. യു. ഡി. എഫ്. എന്നുപറഞ്ഞാൽ
+കോൺഗ്രസു മാത്രം. മുൻകാലങ്ങളിൽ കടവൂർജിയെ വിജയിപ്പിക്കാൻ ഓടിപ്പാഞ്ഞു നടന്ന കരുണാകരൻ
+ഗ്രൂപ്പുകാർ മുക്കാലും ഇപ്പോൾ ഡി. ഐ. സി.-യിലാണു്. ആ പാർട്ടി ഇപ്പോൾ ഐക്യമുന്നണിയിലുണ്ടോ എന്നു്
+അവർക്കുതന്നെ അറിയില്ല. കൊല്ലം ജില്ലയിൽ <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യുടെ
+പാർട്ടിക്കു് ഒരു സീറ്റും കൊടുത്തിട്ടില്ല. മുസ്ലീംലീഗ് മൽസരിക്കുന്ന ഇരവിപുരത്തല്ലാതെ ഒരിടത്തും അവർ
+സജീവവുമല്ല. മന്ത്രിസ്ഥാനം പോയശേഷം കരുണാകരനെ തള്ളിപ്പറഞ്ഞ <ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസനെ</ref> തറപറ്റിക്കേണ്ടതു് ഡി. ഐ. സി.-യുടെ ആവശ്യമാണു്. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref>-<ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref>-<ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+അച്ചുതണ്ടിന്റെ കാണാക്കരങ്ങൾ കുണ്ടറയിൽ ബേബിക്കു തുണയാകും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസൻ</ref> ജയിച്ചേ തീരൂ എന്ന നിർബന്ധമൊന്നും ഉമ്മൻകോൺഗ്രസിനുമില്ല. എറണാകുളത്തു് <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി. തോമസും</ref>
+ചാലക്കുടിയിൽ <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണനും</ref> നേരിടുന്ന പ്രതിസന്ധി കുണ്ടറയിൽ ശിവദാസനും അനുഭവിക്കുന്നു. പ്രചാരണവും
+പ്രവർത്തനവുമൊക്കെ ഏതാണ്ടൊരു മട്ടിൽ മുന്നോട്ടുപോകുന്നു എന്നുമാത്രം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Muraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. മുരളീധരൻ</figDesc>
+          </figure>
+          <p> പുറമേക്കു് ശാന്തമെങ്കിലും ഇതിനേക്കാൾ സ്ഫോടനാത്മകമാണു് ഇടതുമുന്നണിയിലെ കാര്യങ്ങൾ.
+സി. പി. എം., സി. പി. ഐ., ആർ. എസ്. പി. കക്ഷികൾക്കാണു് പ്രാബല്യം. കേരളാ കോൺഗ്രസ് ഗ്രൂപ്പുകളും
+ജനതാദളുമൊക്കെ തീർത്തും അപ്രസക്തം കൊല്ലം സീറ്റ് സി. പി. എം. പിടിച്ചുപറിച്ചതിലുള്ള അമർഷം
+പുകയുന്നുണ്ടു് ആർ. എസ്. പി.-യിൽ. അവർ മുൻകാല സഖാവു് കടവൂരിനു് വോട്ടുകുത്തിയാൽ പോലും
+അദ്ഭുതപ്പെടാനില്ല. സി. പി. ഐ.-ക്കാരും അസംതൃപ്തരാണു്. വിപ്ലവ സോഷ്യലിസ്റ്റുകളോളം പ്രകടമല്ല
+വികാരമെന്നേയുള്ളൂ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. വി. തോമസ്</figDesc>
+          </figure>
+          <p> വി. എസ്. പക്ഷക്കാരുടെ കൈലാസമാണു്, കുണ്ടറ. കടുത്ത <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദ</ref>
+പക്ഷക്കാരിയായ <ref target="https://ml.wikipedia.org/wiki/J._Mercykutty_Amma">മേഴ്സിക്കുട്ടിയമ്മ</ref>
+യുടെ സീറ്റ് കൈക്കലാക്കിയാണു് ബേബി സഖാവിന്റെ രംഗപ്രവേശം. വി. എസ്. പക്ഷക്കാർ പാരവെക്കും എന്ന
+സംസാരം പൊതുവെയുണ്ട്. മേഴ്സിക്കുട്ടിയമ്മയും പാർട്ടി ഏരിയാ സെക്രട്ടറി ജോസുകുട്ടിയും പെരിനാടു്
+പഞ്ചായത്ത് പ്രസിഡന്റു് സജികുമാറും സദാ സ്ഥാനാർഥിക്കൊപ്പമുണ്ടു്. ഗ്രൂപ്പ്വൈരം തെരഞ്ഞെടുപ്പുഫലത്തെ
+എത്രമാത്രം സ്വാധീനിക്കുമെന്നു് വോട്ടെണ്ണൽ കഴിഞ്ഞാലേ പറയാനാകൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PinarayiVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പിണറായി വിജയൻ</figDesc>
+          </figure>
+          <p> ഭാസുരേന്ദ്ര ബാബുവിന്റെ രംഗപ്രവേശമാണു് വി. എസ്. പക്ഷക്കാരെ അലോസരപ്പെടുത്തുന്ന മറ്റൊരു
+സംഗതി. അച്യുതാനന്ദനു് സീറ്റ് നിഷേധിച്ച നടപടിയെ ഏറ്റവും ശക്തമായി ന്യായീകരിച്ചയാളാണു് ഇദ്ദേഹം.
+മാർച്ച് 16-ാം തീയതി ഏഷ്യാനെറ്റ് ന്യൂസിലെ ചർച്ചക്കിടയിൽ ബാബു പ്രകടിപ്പിച്ച അഭിപ്രായം കുണ്ടറക്കാരും
+കേട്ടതാണു്. പിണറായിസം—കോടിയേരിസത്തിന്റെ കരുത്തനായ വക്താവും <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref>, <ref target="https://ml.wikipedia.org/wiki/Thomas_Isaac">തോമസ് ഐസക്ക്</ref>
+എന്നിവരുടെ സ്തുതിഗായകനുമാണു് ഭാസുരേന്ദ്ര ബാബു.
+</p>
+          <p>“എ. ഡി. ബി. വായ്പയുടെ കാര്യത്തിലും വിദേശ മൂലധന നിക്ഷേപത്തിന്റെ കാര്യത്തിലും നഷ്ടം
+വരുത്തിക്കൊണ്ടിരിക്കുന്ന പൊതുമേഖലാ സ്ഥാപനങ്ങളുടെ കാര്യത്തിലും ശാസ്ത്ര-വിദ്യാഭ്യാസ മേഖലകളിലും
+കാര്യമായ മാറ്റങ്ങൾക്കു് സി. പി. എം. വിധേയപ്പെട്ടുകൊണ്ടിരിക്കുകയാണു് എന്നു നമുക്കുകാണാം. ഒരു കമ്യൂണിസ്റ്റ്
+പാർട്ടി അതിന്റെ അടിസ്ഥാന വീക്ഷണങ്ങളിൽ മാറ്റങ്ങൾ വരുത്തുമ്പോൾ വർഗപരമായ അതിന്റെ
+പരിഗണനകളുടെ മണ്ഡലത്തിലാണു് മാറ്റങ്ങൾ വരുത്തുന്നതു് എന്നു് നാം തിരിച്ചറിയണം. ഏതെങ്കിലും ഒരു
+പ്രത്യേക വിഭാഗത്തിന്റെ താൽപര്യത്തിൽ മാത്രം ഊന്നിനിന്നുകൊണ്ടു് കേരള സംസ്ഥാനത്തിന്റെ ഭരണാധികാര
+നേതൃത്വത്തിലേക്കു് ഉയരാൻ ഇനി സാധ്യമല്ലെന്നു് കേരളത്തിന്റെ ഇന്നത്തെ വികസിതാവസ്ഥ മനസ്സിലാക്കുന്ന
+സി. പി. എം. നേതൃത്വം പഠിച്ചുകഴിഞ്ഞിട്ടുണ്ടു്…”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thomas_Issac.jpg" rendition="gra"/>
+            <figDesc style="thumb">തോമസ് ഐസക്ക്</figDesc>
+          </figure>
+          <p> മൂലധന നിക്ഷേപ താൽപര്യവുമായി ബന്ധപ്പെട്ട വ്യത്യസ്ത വിഭാഗങ്ങളെ നേരിൽ കാണാനും അവയുമായി
+ആശയവിനിമയം നടത്താനും വികസനത്തെ സംബന്ധിച്ചു് അവയ്ക്കുള്ള ആശങ്കകൾ ദൂരീകരിക്കാനും കേരളയാത്രാ
+വേളയിൽ <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref> നടത്തിയ ശ്രമത്തെ ശ്ലാഘിച്ചശേഷം “അതിവിപ്ലവകാരികൾക്കു് വികസനം
+കൊണ്ടുവരാനാകില്ല” എന്ന <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> യുടെ
+പ്രസ്താവനയോടു് ഭാസുരേന്ദ്ര ബാബു ഇപ്രകാരം പ്രതികരിക്കുന്നു:
+</p>
+          <p>“സമസ്ത രംഗങ്ങളെയും ആധുനികശാസ്ത്രസാങ്കേതിക വിദ്യകൊണ്ടു് ത്വരിപ്പിക്കാൻ പ്രാപ്തിയുള്ള സ്മാർട്ട്
+സിറ്റിപോലെയുള്ള വൈജ്ഞാനിക സംരംഭങ്ങളെയും എക്സ്പ്രസ് വേ പോലുള്ള സഞ്ചാരസാധ്യതകളെയും
+സ്വീകരിക്കുന്നതിനു പകരം ഇവയെയെല്ലാം കണ്ണടച്ചു് എതിർക്കുന്ന ഒരു രീതിയാണു് തീവ്രവിപ്ലവം പറയുന്നവർ
+കൈയേറ്റുകാണുന്നതു്.” <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനെ</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/M._N._Vijayan">എം. എൻ.
+വിജയനെ</ref> യും ലാക്കാക്കി ഇങ്ങനെയും ഒരു വെടിപൊട്ടിച്ചുകാണുന്നു; “പഴയ ഗൃഹാതുരത്വ
+സങ്കൽപങ്ങളിൽ ഉഴറി ആനുകാലിക വസ്തുനിഷ്ഠതകളെ വിസ്മരിക്കുന്ന കമ്യൂണിസ്റ്റുകാർ മാത്രമാണു് ഇതിനെ
+പരിഷ്കരണവാദമായി കാണുന്നതു്. ദൗർഭാഗ്യകരമെന്നു പറയട്ടെ, ഇടതുപക്ഷ പ്രസ്ഥാനത്തിനുള്ളിൽത്തന്നെ
+ഇത്തരമാളുകൾ കാലഹരണപ്പെട്ട ആശയങ്ങൾ പ്രചരിപ്പിച്ചുകൊണ്ടു് കമ്യൂണിസ്റ്റ് പാർട്ടിയുടെ ശാസ്ത്രീയമായ
+കൃത്യനിർവഹണത്തെ തടസ്സപ്പെടുത്തുന്നുണ്ടു്.”
+</p>
+          <p>എ. ഡി. ബി. വായ്പയുടെയും സ്മാർട്ട് സിറ്റി, എക്സ്പ്രസ് വേകളുടെയും ഈ അപ്പോസ്തലനാകുന്നു, കുണ്ടറയിൽ
+<ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> യുടെ
+പ്രധാന പ്രചാരകൻ. അലിൻഡും സ്റ്റാർച്ച് ഫാക്ടറിയുമൊക്കെ പൂട്ടി മുദ്രവെച്ച കുണ്ടറക്കാർക്കു് ഇനി
+കവിയൂർ-കിളിരൂർ മാതൃകയിലുള്ള വികസനം പ്രതീക്ഷിക്കാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TU_Kuruvilla.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. യു. കുരുവിള</figDesc>
+          </figure>
+          <p> സംസ്ഥാനത്തു് മൽസരിക്കുന്ന ഏറ്റവും സമ്പന്നനായ സ്ഥാനാർഥി ആരാണു്? കുട്ടനാട്ടിലെ കുവൈത്ത്
+ചാണ്ടി എന്നാണു് ഉത്തരം. ഇടതുമുന്നണിയിലെ സമ്പന്നസ്ഥനാർഥിയോ? കോതമംഗലത്തെ ഷെവലിയാർ
+<ref target="https://ml.wikipedia.org/wiki/T._U._Kuruvilla">ടി. യു.
+കുരുവിള</ref>. വല്ലാത്ത ഒരെളിമയുണ്ടു്. കുരുവിളയുടെ പ്രചാരണത്തിനു്. സൈക്കിളാണു് തെരഞ്ഞെടുപ്പു്
+ചിഹ്നം. (ആസ്തിവെച്ചു് നോക്കിയാൽ ബെൻസു കാറെങ്കിലും ആകേണ്ടതായിരുന്നു). രണ്ടുതരം പോസ്റ്ററുകൾ
+അച്ചടിപ്പിച്ചിട്ടുണ്ടു്: ഒന്നിൽ താടിവെച്ച കുരുവിള, മറ്റേതിൽ ക്ലീൻ ഷേവ് കുരുവിള.
+</p>
+          <p>കുണ്ടറയിൽ ചുറ്റിക അരിവാൾ നക്ഷത്രം അടയാളത്തിൽ മൽസരിക്കുന്ന സഖാവു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> ഇതിനകം
+
+ആറു വ്യത്യസ്ത ഇനം പോസ്റ്ററുകൾ പതിപ്പിച്ചുകഴിഞ്ഞു. ഇനിയും ഒന്നോ രണ്ടോ കൂടി വന്നേക്കാം.
+കൊടിതോരണങ്ങൾ, ഫ്ലക്സ് ബോർഡുകൾ, കമാനങ്ങൾ—എങ്ങും പണത്തിന്റെ പകിട്ടും പത്രാസും. രണ്ടു-രണ്ടര
+കോടി രൂപയെങ്കിലും മാർച്ച് 22-നകം ധൂളിയാകും എന്ന് വ്യക്തം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/vr_krishna_iyyar.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ആർ. കൃഷ്ണയ്യർ</figDesc>
+          </figure>
+          <p> എന്താണു് <ref target="https://ml.wikipedia.org/wiki/T._U._Kuruvilla">ടി. യു.
+കുരുവിള</ref> യും <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ.
+ബേബി</ref> യും തമ്മിലുള്ള വ്യത്യാസം? കുരുവിള ജോസഫ് ഗ്രൂപ്പ് കേരളാ കോൺഗ്രസുകാരനും
+യാക്കോബായ സുറിയാനി ക്രിസ്ത്യാനിയും; ബേബി മാർക്സിസ്റ്റുകാരനും ലത്തീൻ കത്തോലിക്കനും എന്നതാണോ?
+തീർച്ചയായും അല്ല. കുരുവിള ചെലവഴിക്കുന്ന പണം ടിയാന്റെ കാരണവന്മാർ സമ്പാദിച്ചതും, സ്വയം കച്ചവടം
+ചെയ്തുണ്ടാക്കിയതുമാണു്. മറിച്ചു് ബേബി പൊടിക്കുന്നതു് അർധപട്ടിണിക്കാർ മുതൽ അബ്കാരി മുതലാളിമാർ
+വരെയുള്ള പാർട്ടി ബന്ധുക്കൾ സംഭാവന നൽകിയ മുതലാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Onv.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒ. എൻ. വി.</figDesc>
+          </figure>
+          <p> വിദേശ മൂലധന നിക്ഷേപത്തെക്കുറിച്ചുള്ള തന്റെ കാഴ്ചപ്പാടു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> ഇപ്രകാരം
+വിശദീകരിക്കുന്നു: “മുതലാളിത്ത ചൂഷണ വ്യവസ്ഥക്കു് എതിരായി കമ്യൂണിസ്റ്റുകാർ പൊരുതുന്നതു് ആ
+മുതലാളിത്ത ചൂഷണവ്യവസ്ഥക്കകത്തു ജീവിച്ചുകൊണ്ടാണു് എന്ന് മാർക്സ് ചൂണ്ടിക്കാണിച്ചിട്ടുണ്ടു്. അങ്ങനെ
+ജീവിക്കുമ്പോൾ ആ വ്യവസ്ഥയുടെ പലതരം ദോഷങ്ങളും ആനുകൂല്യങ്ങളും അനുഭവിക്കേണ്ടിവരും. മൂലധനം
+വെള്ളത്തെപ്പോലെയാണു്. Water will always find its level. എവിടെ കൂടുതൽ ലാഭം ലഭിക്കുന്നുവോ
+അവിടേക്കു് മൂലധനം ഒഴുകും. ഇപ്പോൾ പണമൂലധനത്തിന്റെ ഒഴുക്കുമുണ്ടു്. അതാണു് ഈ Hot money, Hot
+investment എന്നൊക്കെ പറയുന്നതു്.”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kadaman.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടമ്മനിട്ട രാമകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> എന്തുകൊണ്ടാണു് സമീപത്തുള്ള കൂന്നത്തുർക്കോ നെടുവത്തൂർക്കോ ഇരവിപുരത്തേക്കോ ഒഴുകാതെ
+മൂലധനം കുണ്ടറയിലേക്കൊഴുകുന്നതു് എന്നു മനസ്സിലായില്ലേ? കുണ്ടറയിലാണു് ലാഭം. അതുമാത്രമാണു് ഹോട്ട്
+ഇൻവെസ്റ്റ്മെന്റ്.
+</p>
+          <p>നാലുവട്ടം മന്ത്രിയായിരുന്ന ആളാണു് <ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">ശിവദാസൻ</ref>.
+അതും വൈദ്യുതി, വനം, എക്സൈസുപോലുള്ള വകുപ്പുകളിൽ, എന്തുഫലം? സി. പി. എമ്മിനുള്ളതിന്റെ
+പകുതിയെങ്കിലും മൂലധനം കുണ്ടറയിലെത്തിക്കാൻ കഴിയുന്നില്ല. മുമ്പെങ്ങും ഉണ്ടാകാത്തവിധം
+ഐക്യമുന്നണിയുടെ കൊടിതോരണങ്ങളും ബോർഡുകളും നശിപ്പിക്കപ്പെടുന്നുമുണ്ടു്. ഭരണമാറ്റം
+ആസന്നമായതിനാൽ പൊലീസ് നിഷ്ക്രിയം. മനോരമ പോലും മൗനം. ശിവദാസനു് തലവിധിയെ പഴിക്കുകയേ
+ഗതിയുള്ളൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എസ്. അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> പണത്തിന്റെ ധാരാളിത്തത്തേക്കാൾ പ്രകടമായി മറ്റെന്തെങ്കിലും കുണ്ടറയിൽ കാണാമെങ്കിൽ അതു്
+സാംസ്ക്കാരിക നായകരുടെ സാന്നിധ്യമാണു്. കവികളെ തട്ടിയിട്ടു് വഴിനടക്കാൻ പറ്റാതായിരിക്കുന്നു. <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദൻ</ref> ഉദ്ഘാടനം ചെയ്ത തെരഞ്ഞെടുപ്പു് കൺവെൻഷനിൽ <ref target="https://ml.wikipedia.org/wiki/Kadammanitta_Ramakrishnan">കടമ്മനിട്ട
+രാമകൃഷ്ണനും</ref> <ref target="https://ml.wikipedia.org/wiki/D._Vinayachandran">ഡി.
+വിനയചന്ദ്രനും</ref> പങ്കെടുത്തിരുന്നു. മാർച്ച് 16-നു് അഞ്ചാലുമ്മൂട്ടിൽ ബേബിക്കു് ഐക്യദാർഢ്യം
+പ്രകടിപ്പിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/O._N._V._Kurup">ഒ. എൻ. വി.</ref> എത്തി.
+ബേബി സഖാവിന്റെ വെബ്സൈറ്റ് www.mababy.in ഉദ്ഘാടനം ചെയ്തതു് <ref target="https://ml.wikipedia.org/wiki/Thirunalloor_Karunakaran">തിരുനെല്ലൂർ
+കരുണാകരൻ</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/D_Vinayachandran.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡി. വിനയചന്ദ്രൻ</figDesc>
+          </figure>
+          <p> തിരുനെല്ലൂരും വിനയചന്ദ്രനും നാട്ടുകാർ, <ref target="https://ml.wikipedia.org/wiki/O._N._V._Kurup">ഒ. എൻ. വി.</ref>-യും <ref target="https://ml.wikipedia.org/wiki/Kadammanitta_Ramakrishnan">കടമ്മനിട്ട</ref>
+യും കമ്യൂണിസ്റ്റു സഹയാത്രികർ എന്നുകരുതി സമാധാനിക്കാം. ബേബിക്കു് വേണ്ടി മനുഷ്യസ്നേഹികൾ
+തോളോടുതോൾ ചേർന്നു് ചെറുത്തുനിൽക്കുന്ന പോരാട്ടഭൂമിയിൽ, വടകരയിൽനിന്നു് മീൻകച്ചവടത്തിനു്
+അവധികൊടുത്തു് വന്നിരിക്കുന്നു. കവി പവിത്രൻ തീക്കുനിയും കുടുംബവും. അവർ കുണ്ടറയിൽ ക്യാമ്പുചെയ്താണു്
+പ്രചാരണം. പകലന്തിയോളം ജീപ്പിൽ ചുറ്റിയടിച്ചു് മണ്ഡലത്തിലങ്ങോളമിങ്ങോളം കവിതചൊല്ലുന്നു, തീക്കുനി.
+(കവിതയുടെ കാഠിന്യംകൊണ്ടു <ref target="https://en.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസൻ</ref> ജയിച്ചുപോയേക്കുമെന്നു് ചില ദോഷൈകദൃക്കുകൾ പറയുന്നതു് കാര്യമാക്കാനില്ല).
+കവിതയെയും കലാകാരന്മാരെയും സ്നേഹിക്കുന്ന നമ്മുടെ പ്രിയപ്പെട്ടവനായ സഖാവു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> ക്കു്
+വോട്ടുചെയ്യണമെന്ന അഭ്യർഥന സഹൃദയസമക്ഷം വിതരണം ചെയ്യുന്നതു് കവിയുടെ പിഞ്ചുകുട്ടികൾ.
+വിത്തനാഥന്റെ ബേബിക്കു പാലും നിർധനച്ചെറുക്കനുമിനീരും എന്നു ചങ്ങമ്പുഴക്കവിത.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/BD_Dethan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബി. ഡി. ദത്തൻ</figDesc>
+          </figure>
+          <p> കവികൾ തെളിച്ച പാതയിലൂടെ വന്നൂ ചിത്രകാരന്മാർ. ഏപ്രിൽ 15-നു് സിൻഡിക്കേറ്റ് ബാങ്കിനുമുന്നിൽ
+ബേബി സഖാവിനു് പിന്തുണയർപ്പിച്ചുകൊണ്ടു നടന്ന ചിത്രകലാ ക്യാമ്പ്, സി. പി. എം. കേന്ദ്ര കമ്മിറ്റിയംഗം
+സുനിത് ചോപ്ര ഉദ്ഘാടനം ചെയ്തു. ബേബി ഒരു തൂപ്പുകാരനാണെന്നു് നോട്ടീസ് പറയുന്നു. മാറാലകൾ
+അടിച്ചുമാറ്റി പുതുമയിലേക്കു് നയിക്കുന്ന സുഹൃത്തും പുരോഗമനത്തിന്റെ ശക്തനായ വക്താവും തികഞ്ഞ ജനകീയ
+നേതാവും. തൂപ്പുകാരനു് അഭിവാദ്യമർപ്പിച്ചു് ബ്രഷ് ചലിപ്പിച്ച പ്രതിഭകൾ: <ref target="https://ml.wikipedia.org/wiki/C.N._Karunakaran">സി. എൻ.
+കരുണാകരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/B.D._Dethan">ബി. ഡി. ദത്തൻ</ref>,
+സത്യപാൽ, നന്ദൻ, പൊന്ന്യം ചന്ദ്രൻ, മുഹമ്മദ്ഷാ, ജയചന്ദ്രൻ, ഹോചിമിൻ…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Thirunaloor_karunakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിരുനെല്ലൂർ കരുണാകരൻ</figDesc>
+          </figure>
+          <p> തങ്ങളുടെ വാൽസല്യഭാജനമായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> ക്കു്
+വോട്ടുചെയ്യണമെന്നു് എസ്. എൻ. കോളജിലെ അധ്യാപകർ അഭ്യർഥന പുറപ്പെടുവിച്ചിട്ടുണ്ടു്. അതിലെ ഒപ്പുകാർ:
+ഡോ. പി. വിജയരാഘവൻ, ഡോ. എസ്. ബലരാമൻ, സി. എൻ. സത്യപാലൻ, ആര്യനാടു് ഗോപി, വെളിയം
+രാജൻ, എസ്. എസ്. ശ്രീനിവാസൻ, എസ്. വസന്തബാബു, <ref target="https://en.wikipedia.org/wiki/M._Balachandran">എം. ബാലചന്ദ്രൻ</ref>,
+ജെ. സോമദാസ്, എൻ. സതി, സി. വി. രാജഗോപാൽ, <ref target="https://ml.wikipedia.org/wiki/KPAppan">കെ. പി. അപ്പൻ</ref>, കാർട്ടൂണിസ്റ്റ്
+സോമനാഥൻ… തികഞ്ഞ അരാഷ്ട്രീയനും ശുദ്ധകലാവാദിയുമായതിനാലാകണം അപ്പൻ മാഷ്
+അഗണ്യകോടിയിൽ തള്ളപ്പെട്ടതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kpappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. പി. അപ്പൻ</figDesc>
+          </figure>
+          <p> ജനങ്ങളെ ദൈവങ്ങളായി പ്രഖ്യാപിക്കുന്ന രാഷ്ട്രീയ ദർശനമാണു് ബേബിയുടേതു്. ഇക്കാര്യത്തിൽ
+കുണ്ടറയിലെ ജനങ്ങൾ ഭാഗ്യംചെയ്തവരാണു് എന്നു് ഞങ്ങൾ കരുതുന്നു. നിങ്ങളുടെ വോട്ടുമാത്രമല്ല അനുഗ്രഹം,
+ഉപദേശം, തത്ത്വചിന്ത ഇതെല്ലാം <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> ക്കു്
+ആവശ്യമാണു്: അധ്യാപകരുടെ അഭ്യർഥന പറയുന്നു. ദൈവമില്ലെന്നു വിശ്വസിക്കുകയും പ്രചരിപ്പിക്കുകയും
+ചെയ്യുന്ന ബേബി എങ്ങനെ ജനങ്ങളെ ദൈവമായി കരുതും എന്നു ചോദിക്കരുതു്. ബലരാമനാദികൾക്കു് ബുദ്ധി
+കടുകട്ടിയാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CN_Karunakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എൻ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> ചലച്ചിത്ര രംഗത്തുനിന്നു് നടൻ <ref target="https://en.wikipedia.org/wiki/Murali_(Malayalam_actor)">മുരളി</ref>
+യും സംവിധായകൻ <ref target="https://ml.wikipedia.org/wiki/Renji_Panicker">രഞ്ജി പണിക്കരും</ref>
+വന്നു പോയി. <ref target="https://ml.wikipedia.org/wiki/John_Brittas">ജോൺ
+ബ്രിട്ടാസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Babu_Bharadwaj">ബാബു ഭരദ്വാജ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Prabha_Varma">പ്രഭാവർമ</ref>, <ref target="https://ml.wikipedia.org/wiki/G._S._Pradeep">അശ്വമേധം ജി. എസ്.
+പ്രദീപ്</ref> എന്നിങ്ങനെ കൈരളി ചാനലിലെ ഏതാണ്ടെല്ലാ പ്രതിഭകളും ശീമത്തമ്പുരാനുവേണ്ടി
+രംഗത്തുണ്ടു്. സന്തോഷ് പാലി ഉടനെയെത്തുമെന്നു് പ്രതീക്ഷിക്കുന്നു. ദേശാഭിമാനിയിൽനിന്നു് ആർ. എസ്. ബാബു
+വന്നിട്ടുണ്ടു്. പി. എം. മനോജ് കൂടിയായാൽ കോറം തികയും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Murali_actor.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരളി</figDesc>
+          </figure>
+          <p> സഖാവു് ബേബിക്കു് പിന്തുണ പ്രഖ്യാപിച്ചുകൊണ്ടു് ഏപ്രിൽ അഞ്ചിനു് മുൻകാല എസ്. എഫ്. ഐ.
+പ്രവർത്തകരുടെ കൺവെൻഷൻ മൂക്കട കല്ലറക്കൽ ഹാളിൽ നടന്നു. വെളിയം കെ. എസ്. രാജീവും സി.
+ബാൾഡ്വിനുമായിരുന്നു മുഖ്യസംഘാടകർ. പങ്കെടുത്തവർ—<ref target="https://ml.wikipedia.org/wiki/C._Bhaskaran">സി. ഭാസ്ക്കരൻ</ref>, സി. പി.
+
+അബൂബക്കർ, <ref target="https://ml.wikipedia.org/wiki/John_Brittas">ജോൺ
+ബ്രിട്ടാസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Prabha_Varma">പ്രഭാവർമ</ref>, ഡോ. എ.
+റസലുദീൻ, ഡോ. പി. ജെ. ചെറിയാൻ, പ്രൊഫ. ജയദേവൻ, അഡ്വ. ഷാനവാസ്ഖാൻ, അഡ്വ. പാരിപ്പിള്ളി
+രവീന്ദ്രൻ, കാഥികൻ <ref target="https://ml.wikipedia.org/wiki/V.Harshakumar">ഹർഷകുമാർ</ref>
+(സ്പാർട്ടക്കസ് ഫെയിം), ജീവിക്കുന്ന രക്തസാക്ഷി <ref target="https://ml.wikipedia.org/wiki/Simon_Britto">സൈമൺ ബ്രിട്ടോ</ref>,
+അബ്കാരി മുതലാളി അമ്പലക്കര അനിൽകുമാർ എന്നിത്യാദി പ്രതിഭകൾ. പ്രൊഫ. ജയദേവന്റെയും വെളിയം
+കെ. എസ്. രാജീവിന്റെയും നേതൃത്വത്തിൽ രണ്ടു് കാൽനട ജാഥകൾ ഏപ്രിൽ 11 മുതൽ മണ്ഡലത്തിൽ പ്രചാരണം
+നടത്തുകയാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Babu_Baradhawaj.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാബു ഭരദ്വാജ്</figDesc>
+          </figure>
+          <p> സ്ഥാനാർഥിയുടെ പടവും ചിഹ്നവുമുള്ള വിഷു-ഈസ്റ്റർ കാർഡുകൾ കുണ്ടറയിലെമ്പാടും പാറിനടക്കുകയാണു്.
+സഖാവു് ബേബി ഫിദൽ കാസ്ട്രോയോടൊപ്പം നിൽക്കുന്ന ചിത്രങ്ങളും സാർവത്രികമാണു്. ഇനി ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ.
+കൃഷ്ണയ്യരു</ref> ടെ വോട്ടഭ്യർഥനയും കൊല്ലം ബിഷപ്പ് സ്റ്റാൻലി റോമൻ തിരുമനസ്സിലെ കൽപനയുമാണു്
+വരാനുള്ളതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/John_Brittas.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോൺ ബ്രിട്ടാസ്</figDesc>
+          </figure>
+          <p> ഇന്ദുവദനേ നിന്നെ ലഭിച്ചു, ഇനിക്കിന്നുകേൾ പുരാപുണ്യം ഫലിച്ചു എന്ന രണ്ടാംദിവസത്തെ നളന്റെ
+അവസ്ഥയിലെത്തിയിരിക്കുന്നു, <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref>. നളനു്
+പിന്നെ വൈരിയായുണ്ടായിരുന്നതു് ദമയന്തിയുടെ ലജ്ജ; ബേബിക്കു് കുണ്ടറ നിവാസികളുടെ നിസ്സംഗത.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Prabha_varma.png" rendition="gra"/>
+            <figDesc style="thumb">പ്രഭാവർമ</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് പ്രചാരണത്തിന്റെ ഉദ്ഘാടനത്തിനു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനെ</ref>
+കാണാൻ ആൾ കൂടി. പൂഴി വാരിയിട്ടാൽ താഴാത്ത പുരുഷാരം. പിന്നീടു് നിസ്സംഗത, നിർവികാരത, പവിത്രൻ
+തീക്കുനി കവിത പാടിയിട്ടും മുൻകാല എസ്. എഫ്. ഐ.-ക്കാർ കാൽനട ജാഥ നടത്തിയിട്ടുമൊന്നും ജനം
+ഗൗനിക്കുന്നില്ല. സ്ഥാനാർഥിയുടെ ഗുണഗണങ്ങൾ അറിയാൻ വെബ്സൈറ്റ് സന്ദർശിക്കുന്നവരുടെ എണ്ണവും
+തുച്ഛം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/C_Bhaskaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. ഭാസ്ക്കരൻ</figDesc>
+          </figure>
+          <p> കാലാകാലങ്ങളായി ചുറ്റിക അരിവാൾ നക്ഷത്രത്തിൽ വോട്ടുകുത്തുന്ന കുറെ സാധുക്കളുണ്ടു് കുണ്ടറയിൽ.
+ഇവരാരും എം. എ., പി. എച്ച്. ഡി.-ക്കാരല്ല. വെറും സാധാരണക്കാർ. വിവരവും വിദ്യാഭ്യാസവും കുറഞ്ഞവർ.
+
+മൂലധന നിക്ഷേപത്തെക്കുറിച്ചുള്ള മാർക്സിന്റെ സിദ്ധാന്തമോ ഭാസുരേന്ദ്ര ഭാഷ്യമോ ബേബി-ഐസക്
+വ്യാഖ്യാനമോ അറിയാത്തവർ. അജ്ഞതയുടെ ആധിക്യംകൊണ്ടാവാം, വെറും നിഷ്കളങ്കതകൊണ്ടുമാവാം
+ഇക്കൂട്ടർക്കു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദ</ref> നാണു് കൺകണ്ട ദൈവം. വനംകൊള്ളയെ, സ്ത്രീപീഡനത്തെ, വൃക്കവാണിഭത്തെ
+ചെറുക്കുന്ന ധീരപോരാളി; ഈസ്റ്റിന്ത്യാ കമ്പനിയുടെ പിന്മുറക്കാരോടു് സന്ധിയില്ലാ സമരം ചെയ്യുന്ന
+വർത്തമാനകാല വേലുത്തമ്പി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Gs_pradeep.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. എസ്. പ്രദീപ്</figDesc>
+          </figure>
+          <p> വി. എസിനെ വികസനവിരുദ്ധനും ന്യൂനപക്ഷ വിരുദ്ധനുമാക്കി മുദ്രയടിച്ചു് സീറ്റ് നിഷേധിക്കാൻ
+പരിശ്രമിച്ചവരിൽ മുമ്പനാണു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> യെന്നു്.
+കുണ്ടറക്കാർ ധരിച്ചുവശായിരിക്കുന്നു. കേന്ദ്ര കമ്മിറ്റിയിലും സംസ്ഥാന സെക്രട്ടേറിയറ്റിലും നടന്ന
+ചർച്ചകളെക്കുറിച്ചു് ബുർഷ്വാ മാധ്യമങ്ങൾ പ്രചരിപ്പിച്ച നുണകൾ ഈ സാധുക്കൾ വിശ്വസിച്ചതാകാം കാരണം.
+മെക്കാളെ പ്രഭുവിനു് വിടുപണി ചെയ്ത മുളകുമടിശ്ശീലക്കാരൻ മാത്തുതരകന്റെ റോളിലാണോ കുണ്ടറക്കാർ
+ബേബിയെ കാണുന്നതു്? അങ്ങനെയെങ്കിൽ, സഖാവിന്റെ വാട്ടർലൂവാകും കുണ്ടറ.
+</p>
+          <p>അങ്ങനെയല്ലെങ്കിലോ? സഖാവു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> വൻ
+ഭൂരിപക്ഷത്തോടെ ജയിക്കും. മന്ത്രിയുമാകും. സാംസ്കാരിക വകുപ്പുതന്നെ ലഭിക്കാനാണു് സാധ്യത. <ref target="https://ml.wikipedia.org/wiki/Swathi_Thirunal">സ്വാതിതിരുനാളിന്റെ</ref>
+കാലത്തെന്നപോലെ സംഗീതസാന്ദ്രമാകും തിരുവനന്തപുരം. <ref target="https://ml.wikipedia.org/wiki/O._N._V._Kurup">ഒ. എൻ. വി.</ref>-ക്കും
+<ref target="https://ml.wikipedia.org/wiki/Kadammanitta_Ramakrishnan">കടമ്മനിട്ട</ref>
+ക്കും എഴുത്തച്ഛൻ പുരസ്ക്കാരം ലഭിക്കും. <ref target="https://ml.wikipedia.org/wiki/C.N._Karunakaran">സി. എൻ.
+കരുണാകരൻ</ref> ലളിതകലാ അക്കാദമി ചെയർമാനാകും; ആർ. എസ്. ബാബു പ്രസ് അക്കാദമി
+ചെയർമാനും. നാനാ വഴിക്കും മൂലധനം ഒഴുകിയെത്തും. സംസ്ഥാനം ഉത്തരോത്തരം പുരോഗമിക്കും. നൂറു പൂക്കൾ
+വിരിയും.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kundara Mahathmyam (ml: കുണ്ടറ
+മാഹാത്മ്യം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Kundara Mahathmyam, കെ. രാജേശ്വരി, കുണ്ടറ മാഹാത്മ്യം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 21, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Predicasant%27antonio-ai-pesci_-_Galleria_Borghese.jpg">St Anthony Preaching to the
+Fish,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Paolo_Veronese">Paolo Veronese</ref>
+ (1528–1588). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kundara.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kundara.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

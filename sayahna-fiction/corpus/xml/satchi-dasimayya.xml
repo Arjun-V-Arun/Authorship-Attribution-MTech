@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ദേവര ദാസിമയ്യയുടെ വചനങ്ങൾ</title>
+          <title xml:lang="en" type="main">Devara Dasimayyayude Vachanangal</title>
+        </title>
+        <author>K. Satchidanandan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 22, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ദേവര ദാസിമയ്യയുടെ വചനങ്ങൾ</title>
+              <title xml:lang="en" type="main">Devara Dasimayyayude Vachanangal</title>
+            </title>
+            <author>K. Satchidanandan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-12-10</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>K. Satchidanandan</term>
+          <term>Devara Dasimayyayude Vachanangal</term>
+          <term>കെ. സച്ചിദാനന്ദൻ</term>
+          <term>ദേവര ദാസിമയ്യയുടെ വചനങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-12-10</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/satchi-cover.jpg" width="100%"/>
+          <figDesc> Calligraphy by N. Bhattathiri  (na). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ദേവര ദാസിമയ്യയുടെ വചനങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. സച്ചിദാനന്ദൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ദേവര ദാസിമയ്യാ</head>
+        <div type="lsection">
+          <p style="noindent">ദേവര ദാസിമയ്യാ (ദൈവത്തിന്റെ ദാസിമയ്യ) ആദ്യത്തെ വചനകവികളിൽ
+ഒരാളായിരുന്നുവെന്നു ബസവ ഉൾപ്പെടെയുള്ള പിൽകാല കവികളുടെ സൂചനകളിൽ നിന്നു് മനസ്സിലാക്കാം.
+പത്താം നൂറ്റാണ്ടിൽ ക്ഷേത്രജനപദമായ മുഡനൂരിൽ അദ്ദേഹം ജനിച്ചുവെന്നും തന്റെ ഗ്രാമത്തിലെ
+ശിവക്ഷേത്രമായ രാമനാഥന്റെ (ശ്രീരാമന്റെ ആരാധനാമൂർത്തിയായ ശിവരൂപം) ഭക്തനായിരുന്നുവെന്നും
+ഐതിഹ്യം. ‘രാമനാഥൻ’ എന്നാണു അദ്ദേഹത്തിന്റെ വചനങ്ങളിലെ നാമമുദ്ര. കാട്ടിൽ തപം ചെയ്തു
+കൃശഗാത്രനായ അദ്ദേഹത്തിനു് മുന്നിൽ ശിവൻ പ്രത്യക്ഷനായി, തന്നെ പ്രാപിക്കാൻ ശരീരത്തെ
+പീഡിപ്പിക്കേണ്ടതില്ലെന്നും അദ്ധ്വാനത്തിലൂടെയും തന്നിൽ എത്താമെന്നും ഉപദേശിച്ചതനുസരിച്ചു ദാസിമയ്യാ ഒരു
+നെയ്ത്തുകാരനായി എന്നും ഐതിഹ്യം.
+</p>
+          <p>ദാസിമയ്യയെക്കുറിച്ചു് അനേകം കഥകളുണ്ടു്. വനവാസികളായിരുന്ന നായാട്ടുകാരെ അഹിംസാവാദികളാക്കി
+മാറ്റി അവരെ ചക്കാട്ടി എണ്ണയെടുത്തു് ജീവിക്കാൻ പഠിപ്പിച്ചതാണു് ഒന്നു്. ഭൂതനാഥനും ഭസ്മാവൃതനുമായ ശിവനെ
+ഉപേക്ഷിച്ചു് തങ്ങളുടെ വിഷ്ണുവിനെ ഭജിക്കാൻ ബ്രാഹ്മണർ ആവശ്യപ്പെട്ടപ്പോൾ, നിങ്ങളുടെ വിഷ്ണുവിന്റെ
+അവതാരങ്ങൾ പന്നിക്കു് പിറന്നതാണെന്നും, ഗ്രാമീണരുടെ വെണ്ണ കട്ടിരുന്നു എന്നും, ശിവൻ
+സർവ്വവ്യാപിയാണെന്നും അവരോടു ദാസിമയ്യ പറഞ്ഞത്രേ. എങ്കിൽ വിഷ്ണു ക്ഷേത്രത്തിൽ ശിവനെ കാണിച്ചു
+തരാമോ എന്നായി ബ്രാഹ്മണർ. അവർ ക്ഷേത്രത്തിൽ കടന്നപ്പോൾ വിഷ്ണുവിന്റെ വിഗ്രഹം ശിവലിംഗമായി
+മാറിയിരുന്നു. അതോടെ അവരെല്ലാം ശൈവരായി മാറി—ഇതാണു് മറ്റൊരു കഥ. വേറൊരു കഥ ദാസിമയ്യയുടെ
+വിവാഹത്തെക്കുറിച്ചാണു്. ശിവപുരത്തെ ദുഗ്ഗളെ എന്ന പെൺകുട്ടിയെ ദാസിമയ്യയ്ക്കു് ഇഷ്ടമായി. അവളുടെ ഭക്തി
+പരീക്ഷിക്കാൻ അവളുടെ വീട്ടിലെത്തി അൽപ്പം മണൽ വാരിക്കൊടുത്തു അതു് കൊണ്ടു് ചോറു് വെയ്ക്കാൻ പറഞ്ഞു.
+ദുഗ്ഗളെ ദാസിമയ്യയുടെ കാൽ കഴുകിയ വെള്ളം തളിച്ചു് ആ മണൽ വേവിച്ചപ്പോൾ ചോറായി. അദ്ദേഹം അവളെ
+വരിക്കുകയും ചെയ്തു. മറ്റൊരു കഥ ഇങ്ങിനെയാണു്: ഒരിക്കൽ തന്റെ തറിയിൽ ദാസിമയ്യ ശിവനു വേണ്ടി
+വിസ്മയകരമായ ഒരു തലപ്പാവു് നെയ്തെടുത്തു. വിൽക്കാൻ ഒരു മേളയിൽ കൊണ്ടുപോയെങ്കിലും അതിനു
+വിലയിടാൻ ആർക്കും കഴിഞ്ഞില്ല. ഒരു കള്ളൻ അതു് തട്ടിയെടുക്കാൻ ശ്രമിച്ചു, തലപ്പാവിൽ നിന്നു് മൂർച്ചയുള്ള ഒരു
+ചക്രം വന്നു അയാളുടെ കൈ അറുത്തു കളഞ്ഞു. ഇത്രയും പാവനവും ഐന്ദ്രജാലികവുമായ ആ തലപ്പാവു്
+വാങ്ങാൻ ആരും തയ്യാറായില്ല. തിരിച്ചു പോകുമ്പോൾ വഴിയിൽ തണുത്തു വിറച്ചു് നിന്ന ഒരു വൃദ്ധൻ ആ തുണി
+തനിക്കു തരുമോ എന്നു് ചോദിച്ചു, ദാസിമയ്യ അയാൾക്ക് അതു് കൊടുക്കുകയും ചെയ്തു. വൃദ്ധൻ ആ തുണി കീറി ഒരു
+കഷണം തലയിൽ കെട്ടി, ഒന്നെടുത്തു് ഉടൽ പൊതിഞ്ഞു, ഒന്നു് കയ്യിൽ കെട്ടി, ബാക്കി കൊണ്ടു് തന്റെ വടി
+ചുറ്റിക്കെട്ടി. ദാസിമയ്യ പറഞ്ഞു, ‘അതു് ഞാൻ നിങ്ങൾക്കു തന്നതാണു്, നിങ്ങൾക്കു് ഇഷ്ടമുള്ളതു് ചെയ്യാം.’ എന്നിട്ടു്
+വൃദ്ധനെ വീട്ടിൽ കൊണ്ടു വന്നു ഭക്ഷണം നൽകി എല്ലാ രീതിയിലും സത്കരിച്ചു. ആ വൃദ്ധൻ ശിവനായിരുന്നു.
+സന്തുഷ്ടനായ ശിവൻ ദുഗ്ഗളയ്ക്കു് ഒരു പിടി അരി കൊടുത്തു, വീട്ടിലുള്ള അരിയുമായി അതു് കൂട്ടിക്കലർത്താൻ പറഞ്ഞു.
+അതോടെ വീട്ടിലെ കലവറ അക്ഷയമായി, ഒഴിയുമ്പോൾ സ്വയം നിറഞ്ഞു.
+</p>
+          <p>ചാലൂക്യരാജാവായ ജയസിംഹന്റെ രാജ്യഭരണ കാലത്തു് ദാസിമയ്യ പ്രസിദ്ധനായ ഗുരുവായിത്തീർന്നു.
+രാജാവു് ജൈനനായിരുന്നു, രാജ്ഞി ശിവഭക്തയും. അവർ ദാസിമയ്യയിൽ നിന്നു് ദീക്ഷ സ്വീകരിച്ചു. ഇതിൽ ദേഷ്യം
+പിടിച്ച രാജാവും അനുചരരും ഗുരുവിനെ വാദത്തിൽ തോൽപ്പിക്കാൻ പരിപാടിയിട്ടു. ഒരിക്കൽ ഒരു കുട്ടിയെ ഒരു
+മരത്തിന്റെ പൊത്തിൽ ഒളിപ്പിച്ചു വെച്ചു്, തങ്ങളുടെ ദൈവം എല്ലായിടവുമുണ്ടെന്നും മരത്തിൽ നിന്നു പോലും വിളി
+കേൾക്കുമെന്നും അവകാശപ്പെട്ടു. പക്ഷേ, അവർ വിളിച്ചപ്പോൾ കുട്ടി വിളി കേട്ടില്ല, അവന്റെ അമ്മ
+അപേക്ഷിച്ചപ്പോൾ ദാസിമയ്യ കുട്ടിയ്ക്കു് വീണ്ടും ജീവൻ നൽകി. മറ്റൊരിക്കൽ ശത്രുക്കൾ ദാസിമയ്യായ്ക്കു് ചെളിയും
+വിഷവും നിറഞ്ഞ ഒരു കുളത്തിലെ വെള്ളം കുടിക്കാൻ നൽകി, പക്ഷേ, ശിവന്റെ സഹായത്താൽ ചെളിയും
+വിഷവും വകഞ്ഞു മാറ്റി ദാസിമയ്യ ശുദ്ധമായ വെള്ളം കുടിച്ചു.
+</p>
+          <p>രാജ്ഞിയുടെ ദീക്ഷയ്ക്കു് ശേഷം ജൈനക്ഷേത്രങ്ങൾ മുഴുവൻ ശിവക്ഷേത്രങ്ങളായി മാറുന്നതിനെപ്പറ്റി ഒരിക്കൽ
+ചിലർ രാജാവിനോടു് പരാതി പറഞ്ഞു. മാറിത്താമാസിച്ചിരുന്ന രാജ്ഞിയുമായി രാജാവു് തർക്കിച്ചു. ശിവനാണു്
+ശരിയായ ദൈവം എന്നുപറഞ്ഞു രാജ്ഞി, ശിവവിരോധികളെ ദാസിമയ്യയുമായി തർക്കത്തിനു ക്ഷണിച്ചു.
+എല്ലാത്തരം പണ്ഡിതന്മാരും കൊട്ടാരത്തിൽ യുദ്ധസജ്ജരായി വന്നു. പക്ഷേ, ദാസിമയ്യയുടെ വാദങ്ങൾ
+എല്ലാവരെയും നിശ്ശബ്ദരാക്കി. അപ്പോൾ ജൈനർ ഒരു കുടത്തിൽ ഒരു വിഷസർപ്പത്തെ കൊണ്ടു വെച്ചു് അതിൽ
+തന്റെ ദൈവത്തെ കാണിച്ചു കൊടുക്കാൻ ദാസിമയ്യയോടു പറഞ്ഞു. അടപ്പു് തുറന്നപ്പോൾ സർപ്പം പത്തി
+വിടുർത്തി ഊതി. ‘ശിവനാണു് ഒരേയൊരു ദൈവം’ എന്നു പറഞ്ഞു ഗുരു പാമ്പിനെ കയ്യിലെടുത്തു. അതു് ഒരു
+പളുങ്കുശിവലിംഗമായി മാറി, അവിടെ ദാസിമയ്യ ഒരു ക്ഷേത്രം പണിതു. അക്കാലത്തു എഴുന്നൂറു്
+
+ജൈനക്ഷേത്രങ്ങൾ ശിവ ക്ഷേത്രങ്ങളായി, തലസ്ഥാനത്തെ ഇരുപതിനായിരം നാഗരികർ ശൈവരായി.
+</p>
+          <p>ദാസിമയ്യ മുഡനൂരിൽ മടങ്ങിയെത്തി നെയ്ത്തു് തുടർന്നു. ലോകം ഉപേക്ഷിച്ചു് ദൈവത്തിൽ ലയിക്കാൻ
+സമയമായപ്പോൾ അദ്ദേഹം രാമനാഥക്ഷേത്രത്തിൽ പോയി രാമനാഥനോടു് പറഞ്ഞു: ‘ഞാൻ അങ്ങയുടെ
+അനുഗ്രഹത്താൽ ഇത്രകാലം ജീവിക്കുകയും പ്രവർത്തിക്കുകയും ചെയ്തു. ഇനി എന്നെ അങ്ങയിലേക്കു്
+തിരിച്ചെടുക്കുക.’ രാമനാഥൻ പ്രത്യക്ഷനായപ്പോൾ ദുഗ്ഗളയും തന്നെക്കൂടി സ്വീകരിക്കാൻ രാമനാഥനോടു്
+അപേക്ഷിച്ചു. ഇരുവരും പ്രാർത്ഥനയോടെ അനന്തതയിൽ വിലയം പ്രാപിച്ചു.
+</p>
+          <p>ഈ കഥകൾ എല്ലാം തന്നെ ദാസിമയ്യ വീരശൈവപ്രസ്ഥാനത്തിനു വേണ്ടി ചെയ്ത കാര്യങ്ങളും,
+അദ്ദേഹത്തിനു് നേരിടേണ്ടി വന്ന ആക്രമണങ്ങളും ശ്രീശൈലം വീരശൈവരുടെ പുണ്യസ്ഥാനമാകാനുള്ള
+കാരണങ്ങളും വ്യക്തമാക്കുന്നു. തനിക്കു മുൻപുണ്ടായിരുന്ന ശൈവരെപ്പറ്റി ദാസിമയ്യ പറയുന്നുണ്ടു്, പക്ഷേ,
+അവരുടെയൊന്നും വചനങ്ങൾ ലഭ്യമല്ല. ബീജാപ്പൂരിലെ റാവു ബഹാദൂർ ഹളകത്തിയാണു് ദാസിമയ്യയുടെ
+വചനങ്ങൾ ചിട്ടയായി പരിശോധിച്ചു് അടുക്കിയതു്. അദ്ദേഹത്തിന്റെ ക്രമം ആണു് ഇവിടെയും പിന്തുടർന്നിട്ടുള്ളതു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+      <div type="lchapter" xml:id="lchp2">
+        <head type="lchaphead">വചനങ്ങൾ</head>
+        <div type="lsection">
+          <lg>
+            <l> നീ നിന്നു പ്രളയത്തിൽ,</l>
+            <l> നിൻ തോളിൽ നീ താങ്ങി</l>
+            <l> ഭൂഗോളം, അലിയാതെ</l>
+            <l> കാത്തു നീയതിനെ.</l>
+          </lg>
+          <lg>
+            <l> നീ താങ്ങി നിർത്തി</l>
+            <l> തൂണില്ലാതെ, യുത്തര-</l>
+            <l> മില്ലാതെ, വാനിനെ.</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-dasimayya-6.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> ഹേ, രാമനാഥ,</l>
+            <l> നീയല്ലാതെ മറ്റൊരാൾ-</l>
+            <l> ക്കാവുമോ ചെയ്യുവാ-</l>
+            <l> നീ മഹാസാഹസം? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 4)</l>
+          </lg>
+          <lg>
+            <l> അറിവീല ഗർഭത്തി-</l>
+            <l> ലമ്മയുടെ മുഖം കുഞ്ഞി,-</l>
+            <l> നമ്മയ്ക്കുമറിവീല</l>
+            <l> കുഞ്ഞിന്റെ തൂമുഖം</l>
+          </lg>
+          <lg>
+            <l> ലൌകികം മായയിൽ</l>
+            <l> പെട്ട മനുഷ്യന്നു</l>
+            <l> ദൈവത്തെയതു പോലെ-</l>
+            <l> യാവില്ലയറിയുവാൻ</l>
+          </lg>
+          <lg>
+            <l> ആവില്ല ദൈവത്തി-</l>
+            <l> നവനേയുമറിയുവാൻ</l>
+          </lg>
+          <lg>
+            <l> ഹേ, രാമനാഥ!</l>
+          </lg>
+          <lg>
+            <l> (വചനം 23)</l>
+          </lg>
+          <lg>
+            <l> എന്റെയുടലെങ്കിലിതു</l>
+            <l> പിന്തുടരുകില്ലയോ</l>
+            <l> എന്റെ മനസ്സിനെ?</l>
+          </lg>
+          <lg>
+            <l> നിന്റെയുടലെങ്കിലിതു</l>
+            <l> പിന്തുടരുകില്ലയോ</l>
+            <l> നിന്റെ മനസ്സിനെ?</l>
+          </lg>
+          <lg>
+            <l> ഈയുടൽ നിന്റെയ,-</l>
+            <l> ല്ലെന്റെയുമല്ലിതു്,</l>
+          </lg>
+          <lg>
+            <l> ഹേ രാമനാഥ, ഈ</l>
+            <l> കത്തുമുലകത്തിനാൽ</l>
+            <l> നീ പണിതതിച്ചപല-</l>
+            <l> ദുർബ്ബലമാമുടൽ! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 24)</l>
+          </lg>
+          <lg>
+            <l> വിശപ്പെന്ന സർപ്പം</l>
+            <l> പിടിച്ചൂ സമസ്തം</l>
+            <l> വിഷം കേറിടുന്നൂ</l>
+            <l> പദം തൊട്ടു ശീർഷം</l>
+            <l> വരേയ്ക്കും, ഒരാളുണ്ടു്</l>
+            <l> പാമ്പാട്ടിയായി</l>
+            <l> വിശപ്പിന്നു തിന്നാ-</l>
+            <l> നൊരല്പം കൊടുത്തി-</l>
+            <l> ട്ടിറക്കാൻ വിഷം—</l>
+            <l> രാമനാഥൻ ശിവൻ താൻ. </l>
+          </lg>
+          <lg>
+            <l> (വചനം 25)</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-dasimayya-3.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> ഒരു തീ </l>
+            <l> വാക്കിൽ, നോക്കിൽ, ചെയ്തിയി-</l>
+            <l> ലോരോന്നിലുമൊരു തീ </l>
+            <l> ആണിനും അവന്റെ പെണ്ണിനുമിടയിൽ</l>
+            <l> ഒരു തീ</l>
+            <l> കാത്തിരുന്നു തിന്നു തീർത്ത</l>
+            <l> തീൻകിണ്ണത്തിൽ ഒരു തീ</l>
+            <l> നേടിയതു പോയതിലും</l>
+            <l> ഒരു തീ</l>
+            <l> ഇണചേരുംകാമത്തിൽ</l>
+            <l> ഒരു തീ</l>
+            <l> അഞ്ചു തീ നീ തന്നു ഞങ്ങൾ-</l>
+            <l> ക്കെന്റെ രാമനാഥാ!</l>
+            <l> പിന്നെ വായിൽ ചേറൊഴിച്ചു</l>
+            <l> തന്നു രാമനാഥാ! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 26)</l>
+          </lg>
+          <lg>
+            <l> കീറിയ ചാക്കിൽ ധാന്യം പേറി</l>
+            <l> രാവുടനീളമൊരാൾ പോകുന്നൂ</l>
+            <l> പേടി അയാൾക്കാ ചുങ്കക്കാരെ.</l>
+          </lg>
+          <lg>
+            <l> തുളകളിലൂടെച്ചോർന്നൂ ധാന്യം</l>
+            <l> ഒടുവിൽ കാലിച്ചാക്കേ കിട്ടീ</l>
+          </lg>
+          <lg>
+            <l> ഭീരുക്കൾ തൻ ഭക്തിയുമിങ്ങിനെ-</l>
+            <l> യാണല്ലോ, പ്രിയ നാഥാ, ശംഭോ! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 42)</l>
+          </lg>
+          <lg>
+            <l> ആൾക്കൂട്ടങ്ങൾക്കാമോ ചെയ്യാൻ</l>
+            <l> പാവപ്പെട്ട മനുഷ്യനു ദാനം?</l>
+          </lg>
+          <lg>
+            <l> അടരിനു പോകുവർ പലരുണ്ടാകാം,</l>
+            <l> മരണം തന്നേയവരുടെയന്ത്യം.</l>
+          </lg>
+          <lg>
+            <l> നൂറിൽ, ഒരായിരമൊന്നി, ലൊരാൾക്കേ</l>
+            <l> ഭാഗ്യം കിട്ടൂ രിപുവെ വധിക്കാൻ,<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> </l>
+          </lg>
+          <lg>
+            <l> പുളിമരമാകെപ്പൂവുകളതിലോ,</l>
+            <l> പുളിയായ് മാറുവതെത്ര ചുരുക്കം! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 43)</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> എന്തിനെനിക്കു കഠാരി,</l>
+            <l> ശിവാ, ഞാ-,</l>
+            <l> നെന്തിൽകുത്തും,</l>
+            <l> എന്തിൽ നിന്നതു്</l>
+            <l> പിന്നെ വലിച്ചൂരും,</l>
+            <l> നീയല്ലോ സർവ്വരും,</l>
+            <l> എന്തിനെനിക്കു കഠാരി? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 44)</l>
+          </lg>
+          <lg>
+            <l> പഞ്ചഭൂതങ്ങളുമൊന്നായ്.</l>
+            <l> നിന്നുടലല്ലയോ സൂര്യൻ,</l>
+            <l> ചന്ദ്രനും, ഹേ നന്ദികേശാ?</l>
+          </lg>
+          <lg>
+            <l> ഞാൻ നിന്നു കാണുന്നുവെല്ലാം</l>
+            <l> നിന്നിൽ നിറവു ലോകങ്ങൾ.</l>
+            <l> പിന്നെന്റെ രാമനാഥാ ഞാൻ</l>
+            <l> എങ്ങിനെ, ആരെ, ദ്രോഹിക്കാൻ? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 45)</l>
+          </lg>
+          <lg>
+            <l> നിന്റെ ഭക്തർക്കു ഞാൻ കാള,</l>
+            <l> നിന്റെ ഭക്തർക്കു ഞാൻ ഭൃത്യൻ,</l>
+            <l> പിന്നെപ്പടിക്കൽ ഞാൻ കാവൽ</l>
+            <l> നിന്നിടും നായ, അടിമ.</l>
+          </lg>
+          <lg>
+            <l> സർവ്വവും സൃഷ്ടിച്ച നാഥാ,</l>
+            <l> നിന്നെ വണങ്ങുവോർക്കെല്ലാം</l>
+            <l> പിൻപുറം മുൾവേലിയായി</l>
+            <l> ഞാൻ തുണ, എൻ രാമനാഥാ! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 49)</l>
+          </lg>
+          <lg>
+            <l> പതിനെട്ടു കണ്ണിയാൽ</l>
+            <l> ചങ്ങല തീർത്തു<ref xml:id="xfn2" target="#fn2" type="noteAnchor">[2]</ref>
+മനുജരാം ഞങ്ങളെ</l>
+            <l> നീ പൂട്ടിയിട്ടൂ</l>
+            <l> മുഴുവൻ തകർത്തു നീ</l>
+            <l> ഞങ്ങളെ, നാഥാ,</l>
+            <l> വെറുതെ നായ് പോൽ പൂട്ടി</l>
+            <l> ചങ്ങലക്കെട്ടിൽ! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 72)</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] ജനക്കൂട്ടങ്ങൾ
+ദാനം ചെയ്യാറില്ല, അതു് ഭരണാധിപന്റെ ആനുകൂല്യമാണ്</note>
+            <note xml:id="fn2" n="2" style="end">[<ref target="#xfn2">2</ref>] ‘പതിനെട്ടു
+കണ്ണികൾ’—പതിനെട്ടു ബന്ധനങ്ങൾ: ഭൂത-വർത്തമാന- ഭാവി പ്രവൃത്തികൾ, ശരീരം, മനസ്സു്, സമ്പത്തു്,
+വസ്തുക്കൾ, ജീവിതം, അവനവനോടുള്ള പരിഗണന, സ്വർണ്ണം, ഭൂമി, സ്ത്രീ, കാമം, ക്രോധം ലോഭം, മോഹം,
+അഹങ്കാരം, അസൂയ.</note>
+          </noteGrp>
+          <lg>
+            <l> ഭൂമി നിൻ ദാനം</l>
+            <l> പൊങ്ങും ധാന്യവും ദാനം</l>
+            <l> വീശും തെന്നലും ദാനം</l>
+          </lg>
+          <lg>
+            <l> നിന്നുടെ കയ്യിൽ നിന്നു</l>
+            <l> തിന്നിട്ടും മറ്റുള്ളോരെ-</l>
+            <l> ത്തന്നെ കീർത്തിക്കും ദുഷ്ടർ-</l>
+            <l> ക്കെന്തു പേർ നല്കേണം ഞാൻ? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 80)</l>
+          </lg>
+          <lg>
+            <l> ഭൂമിയെത്താവളമാക്കിയതേതോ</l>
+            <l> ലോകത്തെത്തൻ പ്രാണനാക്കിയതേതോ</l>
+            <l> കാറ്റിനെത്തന്റെ തൂണാക്കിയതേതോ</l>
+            <l> താമര, തിങ്കൾ—ഇവയെയൊരുക്കി-</l>
+            <l> ഏതാണു് വെച്ചതു്, പിന്നീടു തന്നെ-</l>
+            <l> ത്തന്നെയെല്ലാറ്റിന്നുമുള്ളിലിരുത്തി</l>
+            <l> വാനിൻ ഞൊറികളാൽ മൂടിയതേതോ,</l>
+            <l> ഭേദങ്ങളൊന്നുമേ മാനിച്ചിടാത്താ</l>
+            <l> ആദിരഹസ്യത്തിനെന്റെ പ്രണാമം! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 87)</l>
+          </lg>
+          <lg>
+            <l> അവനവരെ നീളെ തെരുവു് ചുറ്റിച്ചിടും</l>
+            <l> ഉരകല്ലിൽ മാറ്റു നോക്കാനായുരച്ചിടും</l>
+            <l> മണമുള്ള ചന്ദനം തേടിപ്പൊടിച്ചിടും</l>
+            <l> ഒരു കരിമ്പിൻതണ്ടു പോലെപ്പൊളിച്ചകം</l>
+            <l> മധുരം തിരഞ്ഞിടും: അപ്പോഴും വിറയാതെ,</l>
+            <l> മിഴിയൊന്നു ചിമ്മാതിരിക്കുകിൽ കൈകളാൽ</l>
+            <l> അവരെയെടുക്കും ഉയർത്തുമെന്നീശ്വരൻ.</l>
+          </lg>
+          <lg>
+            <l> (വചനം 90)</l>
+          </lg>
+          <lg>
+            <l> തമ്പുരാട്ടി തൻ പ്രാണനുണ്ടെന്നോ</l>
+            <l> നീൾമുടിയും മുലകളും?</l>
+            <l> തമ്പുരാനുടെ പ്രാണനുമുണ്ടോ</l>
+            <l> ആ വിശുദ്ധമാം പൂണുനൂൽ?</l>
+            <l> ഈ വരിയുടെയറ്റത്തു നിൽക്കും</l>
+            <l> ആദിവാസി തൻ പ്രാണനും</l>
+            <l> മെയ് വെടിയെത്തൻ ഗോത്രവടിയു-</l>
+            <l> മായിട്ടാകുമോ പോവുക?</l>
+          </lg>
+          <lg>
+            <l> ഈയുലകത്തിൻ വിഡ്ഢികളുണ്ടോ</l>
+            <l> കാണുന്നൂ നിൻ കെണികളെ? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 96)</l>
+          </lg>
+          <lg>
+            <l> ശിവനിൽ ലയിച്ചവർ-</l>
+            <l> ക്കില്ലാ പുലരികൾ,</l>
+            <l> ഇല്ലമാവാസി,</l>
+            <l> ഇല്ലുച്ച, സംക്രാന്തിയും,</l>
+            <l> ഇല്ലില്ല പൌർണ്ണമി,</l>
+            <l> ഇല്ലസ്തമയവും</l>
+          </lg>
+          <lg>
+            <l> രാമനാഥാ നിന്റെ</l>
+            <l> മുറ്റമല്ലാതില്ല</l>
+            <l> മറ്റൊരു കാശിയും </l>
+          </lg>
+          <lg>
+            <l> (വചനം 98)</l>
+          </lg>
+          <lg>
+            <l> ദേഹമെന്റേതു,</l>
+            <l> നിന്റേതാണു് ദേഹി, യെൻ</l>
+            <l> ദേഹരഹസ്യം നിനക്കറിയാം,</l>
+            <l> നിന്റെ ദേഹിയുടേതെനിക്കും, </l>
+            <l> അതു കൊണ്ടല്ലി</l>
+            <l> നിൻ ദേഹമെന്റെയാകുന്നു,</l>
+            <l> നിനക്കറിയാം, അറി-</l>
+            <l> യാമെനിക്കും രാമനാഥ</l>
+            <l> നിൻ ദേഹിയെൻ ദേഹത്തി-</l>
+            <l> ലാകുന്നൊരത്ഭുതം. </l>
+          </lg>
+          <lg>
+            <l> (വചനം 120)</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-dasimayya-2.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> ഉടലുള്ളവർക്കു പശിക്കും</l>
+            <l> ഉടലുള്ളവർ നുണകൾ പറയും</l>
+            <l> ഉടലുള്ളോനെന്നോതിയെന്നെ-</l>
+            <l> പ്പരിഹസിക്കേണ്ട, കുത്തേണ്ടാ</l>
+          </lg>
+          <lg>
+            <l> ഉടലെടുത്തൊന്നു വന്നാലും</l>
+            <l> ഒരു വട്ടം എൻ രാമനാഥാ</l>
+            <l> ഇവനെപ്പോൽ, അറിയും നീയപ്പോൾ</l>
+            <l> ഉടലുള്ളോർക്കുണ്ടാവതെല്ലാം! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 123)</l>
+          </lg>
+          <lg>
+            <l> വിശപ്പില്ലാത്തോനെ</l>
+            <l> വിളി, ച്ചവന്നു നീ</l>
+            <l> കൊടുക്കുമ്പോൾ ദാഹ-</l>
+            <l> മറിയാത്ത വെള്ളം,</l>
+            <l> പറയുമ്പോൾ അർത്ഥ-</l>
+            <l> രഹിതമാം ശബ്ദം</l>
+            <l> വിളിക്കുമ്പോൾ പേരു-</l>
+            <l> പറയാതെയൊന്നും</l>
+            <l> മറുവിളിയാരേ</l>
+            <l> വിളിക്കുന്നൂ, നാഥാ,</l>
+          </lg>
+          <lg>
+            <l> അതു നീയാകുമോ,</l>
+            <l> അതോ ഞാനാകുമോ? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 124)</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-dasimayya-1.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> പണിതില്ലെന്നാൽ വീടി-</l>
+            <l> ന്നകത്താവില്ലാ സ്ഥലം</l>
+          </lg>
+          <lg>
+            <l> മിഴിയാൽ കണ്ടില്ലെന്നാൽ</l>
+            <l> വരില്ലാ ഹൃത്തിൽ രൂപം,</l>
+          </lg>
+          <lg>
+            <l> വഴിയേയില്ലെന്നാകിൽ</l>
+            <l> എത്തില്ല അപരനിൽ</l>
+          </lg>
+          <lg>
+            <l> ഇതു, രാമനാഥാ, ആ-</l>
+            <l> രെങ്ങിനെയറിയുവാൻ? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 126)</l>
+          </lg>
+          <lg>
+            <l> തീയ്യിന്നു കത്താ, മെന്നാൽ</l>
+            <l> ആവില്ല ചലിക്കുവാൻ.</l>
+          </lg>
+          <lg>
+            <l> കാറ്റിനു ചലിച്ചീടാം,</l>
+            <l> കത്തുവാനാവില്ലെന്നാൽ.</l>
+          </lg>
+          <lg>
+            <l> തീ കാറ്റിൽ ചേർന്നില്ലെങ്കിൽ</l>
+            <l> പോവില്ലൊരടി പോലും.</l>
+          </lg>
+          <lg>
+            <l> അറിവും പ്രവൃത്തിയു-</l>
+            <l> മിങ്ങിനെ, അറിവതാർ? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 127)</l>
+          </lg>
+          <lg>
+            <l> കാറ്റിനാവുമോ കൊച്ചു</l>
+            <l> പൂമൊട്ടിൻ സുഗന്ധത്തെ-</l>
+            <l> യേറ്റി മറ്റുള്ളോർക്കായി</l>
+            <l> പ്രസിദ്ധീകരിക്കുവാൻ?</l>
+          </lg>
+          <lg>
+            <l> അച്ഛനമ്മമാർക്കാമോ</l>
+            <l> കൊച്ചു ബാലികയ്ക്കിന്നും</l>
+            <l> പൂക്കാത്ത മുലകൾ, നീൾ-</l>
+            <l> മുടിയും കാട്ടിത്തരാൻ?</l>
+          </lg>
+          <lg>
+            <l> പാകമാകണമെല്ലാം </l>
+            <l> കാണിക്കാൻ ഫലം, നാഥാ. </l>
+          </lg>
+          <lg>
+            <l> (വചനം 128)</l>
+          </lg>
+          <lg>
+            <l> സ്വയമേയാകാരമായ്</l>
+            <l> സ്ഥലമേ നിറമാക്കി</l>
+            <l> പറന്നു നടപ്പോന്റെ</l>
+            <l> മധുരസൌന്ദര്യമാർ</l>
+            <l> നുകരുന്നിതെൻ നാഥാ? </l>
+          </lg>
+          <lg>
+            <l> (വചനം 131)</l>
+          </lg>
+          <lg>
+            <l> മുലകൾ, നീൾമുടിയിവ</l>
+            <l> വരവുണ്ടു്, പെണ്ണെ-</l>
+            <l> ന്നതിനെ വിളിക്കുന്നു</l>
+            <l> അവർ, രാമനാഥാ</l>
+          </lg>
+          <lg>
+            <l> ഒരു താടി, മീശയും</l>
+            <l> വരവെങ്കിൽ ആണെന്നു</l>
+            <l> പറയുന്നു അതിനെയവർ</l>
+            <l> ഹേ രാമനാഥാ</l>
+          </lg>
+          <lg>
+            <l> അതിനിടെപ്പാറി</l>
+            <l> നടക്കുമാത്മാവു പെ-</l>
+            <l> ണ്ണതുമല്ല, ആണുമ-</l>
+            <l> ല്ലെൻ രാമനാഥാ! </l>
+          </lg>
+          <lg>
+            <l> (വചനം 133)</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-dasimayya-4.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> ഒരു മുള മുറിക്കുക</l>
+            <l> രണ്ടാക്കി, മുകൾ വശം</l>
+            <l> പുരുഷനാക്കുക, താഴെ</l>
+            <l> യുള്ളതൊരു സ്ത്രീയും</l>
+            <l> അവ കൂട്ടിയുരസുക</l>
+            <l> തീ വരും വരെ, പറ-</l>
+            <l> കതിൽ നിന്നുയർന്ന തീ</l>
+            <l> സ്ത്രീയോ പുരുഷനോ?</l>
+            <l> ഹേ രാമനാഥാ!</l>
+          </lg>
+          <lg>
+            <l> (വചനം 144)</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchidanandan-5.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>ഡ്രോയിങ്: വി. ആർ. സന്തോഷ്
+</p>
+          <p>കലിഗ്രഫി: എൻ. ഭട്ടതിരി
+
+</p>
+        </div>
+        <!--end of "section 0.0/2.1"-->
+      </div>
+      <!--end of "chapter 0/2"-->
+      <!--END OF CHAPTER 0/2-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Devara Dasimayyayude
+Vachanangal (ml: ദേവര ദാസിമയ്യയുടെ വചനങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Satchidanandan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-12-10. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, K. Satchidanandan,
+Devara Dasimayyayude Vachanangal, കെ. സച്ചിദാനന്ദൻ, ദേവര ദാസിമയ്യയുടെ വചനങ്ങൾ, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 22, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>   Calligraphy by N. Bhattathiri
+ (na). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/satchi-dasimayya.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/satchi-dasimayya.pdf">Download
+
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

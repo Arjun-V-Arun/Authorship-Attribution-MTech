@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മനം മയക്കുന്ന ആ ശബ്ദജാലം</title>
+          <title xml:lang="en" type="main">Manam Mayakkunna Aa Sabdajalam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 13, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മനം മയക്കുന്ന ആ ശബ്ദജാലം</title>
+              <title xml:lang="en" type="main">Manam Mayakkunna Aa Sabdajalam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Manam Mayakkunna Aa Sabdajalam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മനം മയക്കുന്ന ആ ശബ്ദജാലം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 13, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_load_of_brush.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:A_load_of_brush.jpg">A load
+of brush,</ref> a painting by Louis Paul Dessar  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മനം മയക്കുന്ന ആ ശബ്ദജാലം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മനം മയക്കുന്ന ആ ശബ്ദജാലം</head>
+        <div type="lsection">
+          <p style="noindent">എന്താണു് ഈ ശബ്ദജാലം? ആ അപകടം പിടിച്ച വാക്കു തന്നെ—മതം മതം!
+എവിടെയും നാം ആ പദം പ്രയോഗിക്കുന്നു. എന്തർഥവും നാം അതിനു കൊടുക്കുന്നു. ഇതുപോലെ
+അർത്ഥവിചാരമില്ലാതെയും വാദക്കുഴപ്പം വരുത്തിയും പ്രയോഗിക്കുന്ന യാതൊരു വാക്കും ഇല്ലെന്നു പറയാം.
+വാഗർത്ഥസംബന്ധമായ യാതൊരു വ്യവസ്ഥയും ഈ വാക്കു് ഉപയോഗിക്കുന്നവർ ആദരിക്കാറില്ല. എത്രയെത്ര
+വാദകോലാഹലങ്ങളാണു് തന്മൂലം ലോകരംഗത്തു പ്രത്യക്ഷപ്പെടാറുള്ളതു്! മനുഷ്യന്റെ വിചാരത്തിലും
+വിശ്വാസത്തിലും ഇത്രയും കലുഷത കലർത്തിയിട്ടുള്ള വേറൊരു പദം പ്രചാരത്തിലില്ലെന്നു തോന്നുന്നു മതം എന്ന
+വാക്കിന്റെ അർത്ഥവലയത്തിൽ എന്തെല്ലാം കടന്നുകൂടുന്നുണ്ടെന്നു നോക്കുക! പരബ്രഹ്മധ്യാനം മുതൽ
+ഹിന്ദു-മുസ്ലിം ലഹളവരെ അതിനകത്തു കാണാം. ജനനനിയന്ത്രണത്തിനും സ്പെയിനിലെ കലാപത്തിനും കൂടി
+അതിൽ സ്ഥാനമുണ്ടു്. ഇങ്ങനെ ഒരു വ്യവസ്ഥയും ഇല്ലാതെ ചുറ്റിക്കളിക്കുന്ന ഈ വാക്കിനു് ഒരു അർത്ഥപരിമിതി
+നിശ്ചിയിക്കേണ്ടതു് അത്യാവശ്യമായിരിക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Voltaire.jpg" rendition="gra"/>
+            <figDesc style="thumb">വാൾട്ടയർ</figDesc>
+          </figure>
+          <p> ആരാണു് മതം സൃഷ്ടിച്ചതു് എന്നു വാൾട്ടയറോടു് ഒരിക്കൽ ഒരാൾ ചോദിക്കുകയുണ്ടായി ഒന്നാമത്തെ മണ്ടനെ
+കണ്ടെത്തിയ ഒന്നാമത്തെ കള്ളൻ (The first rogue that met the first fool) എന്നദ്ദേഹം മറുപടി പറഞ്ഞു.
+ഇതിൽനിന്നു മതം എന്ന വാക്കുകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/Voltaire">വാൾട്ടയർ</ref> ഉദ്ദേശിച്ചിട്ടുള്ള
+അർത്ഥം എന്താണെന്നു നമുക്കു് ഊഹിക്കാം. അജ്ഞതയിൽ ആണ്ടുകിടക്കുന്ന മനുഷ്യവർഗത്തെ
+അന്ധവിശ്വാസത്താൽ ബന്ധിച്ചു ചൂഷണം ചെയ്യുന്ന പൗരോഹിത്യവും തത്സംബന്ധമായ ഏർപ്പാടുകളും മറ്റുമാണു്
+ആ വാക്യത്തിൽ വ്യഞ്ജിക്കുന്നതു്. എന്നാൽ <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+യോടു് ഒന്നു ചോദിക്കുക, മതം എന്താണെന്നു് ആർക്കും പിടികിട്ടാത്തതും കേട്ടാൽ അത്യുത്തമമെന്നു
+തോന്നുന്നതുമായ ഒരു വേദാന്തപ്പൊരുളായിരിക്കും അദ്ദേഹത്തിന്റെ വ്യാഖ്യാനം. മനുഷ്യനിൽ
+അന്തർലീനമായിരിക്കുന്ന ദിവ്യതയുടെ പ്രകാശനമാണു് മതമെന്നത്രെ <ref target="https://ml.wikipedia.org/wiki/Vivekananda">വിവേകാനന്ദന്റെ</ref>
+അഭിപ്രായം. ‘കമ്യൂണിസം’ പ്രസംഗിക്കുന്നവർ അതു മനുഷ്യരെ മയക്കുന്ന ഒരുതരം കറുപ്പാണെന്നു പറയും.
+മനുഷ്യരുടെ ലോകവ്യവഹാരങ്ങളിൽ മതപരമായ എന്തെങ്കിലും ഒരു ബന്ധം ഇല്ലാത്തവ കാണാൻ പ്രയാസം.
+നമ്മുടെ ജനനം, വളർച്ച, വിദ്യാഭ്യാസം, വിവാഹം, ആഹാരം, വിഹാരം, മരണം ഇത്യാദി സർവ്വത്തിലും മതം ഒരു
+തരം ഭരണം നടത്തുന്നു. ഇവയില്ലെല്ലാം അതു വിവിധരൂപത്തിലും ഭിന്നസ്ഥാനങ്ങളിലുമാണു് തല
+പൊന്തിക്കുന്നതു്. എഡ്വേർഡ് ചക്രവർത്തി സിംസൺ മദാമ്മയെ സ്നേഹിക്കുന്നതിൽപ്പോലും മതത്തിന്റെ
+ശബ്ദജാലം കടന്നുകൂടി ബഹളമുണ്ടാക്കുന്നു. ഈ ശബ്ദത്തെപ്പറ്റി മേൽ ഉദ്ധരിച്ച അഭിപ്രായങ്ങളിൽ
+ഓരോന്നിന്റെയും പിന്നിൽ നിൽക്കുന്നതു ഭിന്നഭിന്നമായ ഓരോ അർത്ഥമാണെന്നു കുട്ടികൾക്കു കൂടി എളുപ്പം
+മനസ്സിലാക്കാവുന്നതാണു് .
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Swami_Vivekananda.jpg" rendition="gra"/>
+            <figDesc style="thumb">വിവേകാനന്ദൻ</figDesc>
+          </figure>
+          <p> മതം എന്ന വാക്കിനു് ഇങ്ങനെ പ്രയോക്താവിന്റെ ഇഷ്ടംപോലെ ഓരോ അർത്ഥം കൊടുക്കാവുന്നതാണോ?
+അതിനുള്ള സ്വാതന്ത്ര്യം ശബ്ദശാസ്ത്രപരമായ നിയമം അനുവദിക്കുന്നുണ്ടോ? ഇല്ലെന്നു് ഉച്ചത്തിൽ
+പറയേണ്ടിയിരിക്കുന്നു. ഭാഷാപരമായ വിവേകവും മര്യാദയും ഉള്ളവർ ദുസ്സ്വാതന്ത്ര്യം സമ്മതിക്കുന്നതല്ല. മതം
+എന്ന വാക്കിന്റെ ആഗമം എങ്ങനെയിരുന്നാലും അതു് പ്രത്യേകാർത്ഥത്തിൽ രൂഢമായിത്തീർന്നിട്ടുണ്ടെന്നു
+
+ഓർമിക്കേണ്ടിയിരിക്കുന്നു. ആ അർത്ഥമാണു് നിലവിലിരിക്കുന്നതും സാമാന്യജനങ്ങളുടെ മനസ്സിൽ
+അങ്കുരിക്കുന്നതും. അതു് ഹിന്ദുമതം, ക്രിസ്തുമതം, ബുദ്ധമതം, മുഹമ്മദുമതം മുതലായവയെ
+സാമാന്യമായിക്കുറിക്കുന്ന ഒന്നത്രെ. ഇവയുടെയെല്ലാം സാമാന്യലക്ഷണങ്ങൾ എന്തെല്ലാമാണോ
+അവയെല്ലാമാണു് മതത്തിന്റെ നിർവചനത്തിൽ ഉൾപ്പെടുന്നതു്. ഈ മതങ്ങളുടെ സാമാന്യഘടകങ്ങൾ
+എന്തെല്ലാമാണു് ? വിശ്വാസം, ആചാരം, അനുഷ്ഠാനം, ആരാധന, സംഘടന, ഈശ്വരതത്ത്വം ഇങ്ങനെ ചില
+പ്രധാന ഘടകങ്ങളാണു് മതത്തെ വിശകലനം ചെയ്തു നോക്കുമ്പോൾ നാം കണ്ടെത്തുന്നതു്. മനുഷ്യരുടെ പ്രവൃത്തി
+രംഗത്തിൽ മിക്കവാറും ഇവയ്ക്കു സമപ്രാധാന്യം നൽകിയിട്ടുമുണ്ടു്. ഇവയുടെയെല്ലാം ആകെത്തുകയാണു് മതം.
+ഇവയിൽ ആദ്യഘടകങ്ങളെയെല്ലാം വിസ്മരിച്ചു് ഒടുവിൽ പറഞ്ഞ ഈശ്വരതത്ത്വത്തിന്റെ സാരാംശംമാത്രം
+എടുത്തുകൊണ്ടാണു് മഹാത്മാഗാന്ധിയെപ്പോലുള്ളവർ മതത്തെ വ്യാഖ്യാനിക്കുന്നതു്. ഇതു് മുഖത്തിനു പകരം മൂക്കു്
+എന്നോ മാവിനുപകരം മാമ്പഴം എന്നോ പറയുന്നതുപോലെ അബദ്ധമാകുന്നു. ഈശ്വരതത്ത്വം എല്ലാ
+മതങ്ങളുടെയും ആഭ്യന്തരാംശം ആണെങ്കിലും അതിന്നു മാത്രം മതം എന്ന പേരു് ഒരിക്കലും ലഭിക്കുന്നതല്ല.
+എന്തെന്നാൽ ഈ ആഭ്യന്തരാംശത്തെ ആധാരമാക്കി ബാഹ്യമായി വളർന്നുവന്നിട്ടുള്ള ഘടകങ്ങൾകൊണ്ടാണു്
+ലോകത്തിൽ ഭിന്നമതങ്ങളുണ്ടായിട്ടുള്ളതു്. അവയെല്ലാം നീക്കിനോക്കിയാൽ മതം എന്ന വ്യവഹാരമേ
+നശിച്ചുപോകുന്നതായി കാണാം. ക്രിസ്തുമതം ഹിന്ദുമതം മുതലായവ ഈ ബാഹ്യഘടകങ്ങളെമാത്രം
+അവലംബിച്ചാണു് പ്രത്യേകം പ്രത്യേകമായി നിലവിലിരിക്കുന്നതു്. അതുകൊണ്ടു് ആഭ്യന്തരാംശം
+ബീജസ്ഥാത്തുണ്ടെങ്കിലും വൃക്ഷസ്ഥാനീയമായ ബാഹ്യാംശത്തിനു തന്നെയാണു് മതം എന്ന വാക്കിനെ
+സംബന്ധിച്ചിടത്തോളം പ്രാധാന്യം. ഈ പ്രാധാന്യം ഗണിക്കാതെ അതിന്റെ അർത്ഥത്തിനു മാറ്റം വരുത്തി
+പ്രയോഗിക്കുന്ന സമ്പ്രദായം സാധാരണ കണ്ടുവരുന്നുണ്ടു്. ബുദ്ധിപരമായ സത്യസന്ധത (intellectual
+honesty) ഉള്ളവർ ഇത്തരം വക്രവാദങ്ങൾക്കു പുറപ്പെടുന്നതല്ല. അവർ ഏതെങ്കിലും പദം പ്രയോഗിക്കുമ്പോൾ
+ആ പദത്തിനു് നാട്ടിൽ നടപ്പുള്ള അർത്ഥം മാത്രമേ വിവക്ഷിക്കുകയുള്ളു. അഥവാ ഒരു പുതിയ നിർവചനം
+ഉദ്ദേശിക്കുന്നുണ്ടെങ്കിൽ അതു് മുഖവുരയായി വിവരിക്കുകയും ചെയ്യും. ഇന്നത്തെ ലേഖനങ്ങളിലും പ്രസംഗങ്ങളിലും
+എത്രപേർ ഈ സത്യസന്ധത പരിപാലിക്കാറുണ്ടു്? മതം മാത്രമല്ല ഈശ്വരൻ, ആത്മാവു് മുതലായ മറ്റനേകം
+വാക്കുകളെ സംബന്ധിച്ചും ഇതുപോലെ അർത്ഥപരമായ ഒരു വ്യക്തിയും വ്യവസ്ഥയും
+അത്യാവശ്യമായിത്തീർന്നിട്ടുണ്ടു്.
+</p>
+          <p>മതം മനുഷ്യനു് ആപല്ക്കരമാണെന്നു വാദിക്കുന്നവർ അതിന്റെ ഉള്ളിൽ ഒളിഞ്ഞുകിടക്കുന്ന ഈശ്വരാംശത്തെ
+അല്ല പ്രധാനമായി ലക്ഷ്യമാക്കുന്നത്. ഈശ്വരത്ത്വം മനുഷ്യനു് എത്രത്തോളം ആവശ്യമാണെന്ന പ്രശ്നം ഇവിടെ
+ചർച്ച ചെയ്യുന്നില്ല. അതെങ്ങനെയെങ്കിലുമിരിക്കട്ടെ. ഇതു് മതത്തെ സംബന്ധിച്ചിടത്തോളം ഒരു ചെറിയ അംശം
+മാത്രമാകുന്നു. മനുഷ്യവർഗത്തിന്റെ സർവജീവിതവശങ്ങളെയും ബാധിക്കുന്ന ആപല്ക്കരമായ ബാഹ്യാംശമാണു്
+മതം എന്ന വാക്കുകൊണ്ടു് അവർ അർത്ഥമാക്കുന്നതു് ഈ ബാഹ്യാംശം ലോകത്തിൽ ഭിന്ന മതങ്ങളെ സൃഷ്ടിച്ചു്
+മനുഷ്യരെ പരസ്പരം കലഹിപ്പിച്ചു് അനീതിയും ആക്രമവും വർദ്ധിപ്പിച്ചിട്ടുണ്ടു് എന്ന സംഗതിയിൽ
+ഈശ്വരവിശ്വാസികൾക്കുപോലും ഭിന്നാഭിപ്രായമുണ്ടാകാൻ വഴിയില്ല. അഥവാ ഉണ്ടായാൽ അവർ ലോകചരിത്രം
+പഠിക്കുകയും പരിശോധിക്കുകയും ചെയ്തിട്ടില്ലെന്നേ അതുകൊണ്ടു തെളിയുകയുള്ളു.
+</p>
+          <p>മതം ആവശ്യമാണെന്നു കാണിപ്പാനും തത്സംബന്ധമായ കലഹം ശമിപ്പിക്കുവാനും ഇപ്പോൾ ഒരു പുതിയ
+വാദം പ്രചരിച്ചു തുടങ്ങിയിട്ടുണ്ടല്ലോ; അതായതു് എല്ലാ മതങ്ങളും ഒന്നാണെന്നുള്ളതു്. ഇതും പരമാബദ്ധമായ ഒരു
+അഭിപ്രായമാകുന്നു. മതത്തിനു കല്പിക്കുന്ന അർത്ഥത്തിനു് ഇവിടെയും കുഴപ്പം വരുത്തുന്നുണ്ടു്. അതിന്റെ
+രൂഢിയായ അർത്ഥം സ്വീകരിക്കുകയാണെങ്കിൽ എല്ലാ മതങ്ങളും ഒന്നാകാൻ നിവൃത്തിയില്ല. അപ്രകാരം
+ഒന്നാകുമ്പോൾ മതം എന്നുള്ളതു് ഇല്ലാതായിപ്പോകുന്നതാണു്. ക്രിസ്തുവും കൃഷ്ണനും ഒന്നാണോ? അതുപോലെ
+പള്ളിയും അമ്പലവും ഒന്നാകുമോ? ഇതുപോലെ ആചാരാനുഷ്ഠാനങ്ങളിലും ഭിന്ന മതങ്ങൾക്കു തമ്മിൽ
+വ്യത്യാസങ്ങളില്ലേ? സർവ്വത്തിന്റെയും ആന്തരതത്ത്വം ഒന്നായതുകൊണ്ടു് എല്ലാം ഒന്നാണെന്നുള്ള വാദം
+ഒരിക്കലും സാധുവല്ല. ഇങ്ങനെ വാദിക്കുന്നവർ മനുഷ്യനും മൃഗവും മരവും ഒന്നാണെന്നു പറയുമോ? ഈ മൂന്നും
+സൂക്ഷ്മരൂപത്തിൽ വിദ്യുന്മയകണങ്ങളായി മാറി ഒന്നായിത്തീരാമെന്നു സയൻസ് പഠിപ്പിക്കുന്നതുകൊണ്ടു്
+വ്യാവഹാരികലോകത്തിൽ വ്യത്യാസം നശിച്ചുപോകുന്നുണ്ടോ? ഇതുപോലെതന്നെയാണു് മതങ്ങളുടെ നിലയും.
+ആചാരം, അനുഷ്ഠാനം വിശ്വാസം, സംഘടന, ഈശ്വരാവതാരങ്ങൾ മുതലായവയിൽ വ്യത്യാസങ്ങൾ
+ഉള്ളിടത്തോളം കാലം മതങ്ങളും ഭിന്നമായിരിക്കും. എന്തെന്നാൽ മേല്പറഞ്ഞവയുടെ ആകെത്തുകയാണു് മതം.
+അതുതന്നെയാണു് അതിന്റെ സാധാരണ അർത്ഥം. മതം എന്നു കേൾക്കുമ്പോൾ നാം എല്ലാവരും
+മനസ്സിലാക്കുന്നതും ഇതൊക്കെതന്നെയാണു്. അവയെല്ലാം മറച്ചുവെച്ചുകൊണ്ടു മതമാഹാത്മ്യം കാണിപ്പാൻ
+അവയുടെ ഉള്ളിൽ കിടക്കുന്ന സൂക്ഷ്മബീജമായ ഈശ്വരാംശംമാത്രം എടുത്തു് ഉദ്ഘോഷിക്കുന്നതു
+സാമാന്യജനതയെ വഞ്ചിക്കാനുള്ള ഒരു ശബ്ദജാലം തന്നെയാകുന്നു.
+</p>
+          <p>
+1937.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Manam Mayakkunna Aa
+Sabdajalam (ml: മനം മയക്കുന്ന ആ ശബ്ദജാലം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Manam Mayakkunna Aa Sabdajalam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മനം മയക്കുന്ന ആ
+ശബ്ദജാലം, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 13, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:A_load_of_brush.jpg">A load
+of brush,</ref> a painting by Louis Paul Dessar  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-sabdha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-sabdha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

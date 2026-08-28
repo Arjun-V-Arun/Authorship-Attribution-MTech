@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">എല്ലാവരും കടക്കാർ</title>
+          <title xml:lang="en" type="main">Ellavarum Kadakar</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">September 19, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">എല്ലാവരും കടക്കാർ</title>
+              <title xml:lang="en" type="main">Ellavarum Kadakar</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-09-19</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Ellavarum Kadakar</term>
+          <term>സഞ്ജയൻ</term>
+          <term>എല്ലാവരും കടക്കാർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-09-19</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Squatters.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:George_Caleb_Bingham__The_Squatters.jpg">The Squatters,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:George_Caleb_Bingham">George Caleb
+Bingham</ref>  (1811–1879). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">എല്ലാവരും കടക്കാർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">എല്ലാവരും കടക്കാർ</head>
+        <div type="lsection">
+          <p style="noindent">സഞ്ജയന്റെ വായനക്കാരുടെ ഇടയിൽ തങ്ങൾക്കു് ഒരു പൈപോലും കടമില്ലെന്നു്
+അഭിമാനിച്ചു ഞെളിയുന്നവർ വല്ലവരുമുണ്ടോ എന്നു സഞ്ജയൻ അറിയേണ്ടിയിരുന്നു. അവരുടെ ‘ഞെളിച്ചൽ’
+സഞ്ജയൻ മാറ്റുവാൻ പോകുന്നു; അവരുടെ ഇന്നത്തെ സുഖനിദ്രയെ സഞ്ജയൻ ഭഞ്ജിക്കുവാൻ പോകുന്നു.
+എന്നാലെ, സഞ്ജയൻ അങ്ങനെയുള്ള ‘അകട’ന്മാരോടു പറയുന്നതാവിതു്: നിങ്ങളിൽ ഓരോരുത്തർക്കും
+കൃത്യമായി 5ക. 7ണ. 3പ. വീതം കടമുണ്ടു്. എനി മേലിൽ കോടതിയിൽനിന്നു വക്കീലന്മാർ എതിർവിസ്താരത്തിൽ
+‘നിങ്ങൾക്കു കടമുണ്ടോ? ചോദ്യം മനസ്സിലായില്ലേ? കടം—കടം. കടം വല്ലതുമുണ്ടോ?’ എന്നു ചോദിക്കുമ്പോൾ
+‘ഇല്ല’ എന്നു പറയുന്നതു നല്ലവണ്ണം ആലോചിച്ചിട്ടുവേണം.
+</p>
+          <p>‘തനിക്കു ഭ്രാന്തുണ്ടോ? ഞാൻ ആർക്കാണു മേപ്പടി സംഖ്യ കൊടുക്കാനുള്ളതു്’ എന്നു നിങ്ങൾ ചോദിക്കുന്നു.
+ഞാൻ പറഞ്ഞുതരാം. ഇന്ത്യക്കാർ ഒട്ടാകെ ബ്രിട്ടീഷ് ഗവർമ്മേണ്ടിനു 150 കോടിയിൽ ചില്വാനം ഉറുപ്പിക
+കൊടുക്കുവാനുണ്ടു്. ഈ സംഖ്യ പണ്ടു തറവാട്ടാവശ്യമാണെന്നു പറഞ്ഞു് ഈസ്റ്റിന്ത്യാ കമ്പനിക്കാരുടെ കാലം
+മുതല്ക്കു് ഇന്ത്യാഗവർമ്മേണ്ടു് വസ്തുചൂണ്ടിപ്പണയത്തിന്മേൽ, ബ്രിട്ടീഷ് ഗവർമ്മേണ്ടിനോടു വാങ്ങിയതാണു്. ഇതിനെ
+ഇന്ത്യയിലെ ജനസംഖ്യകൊണ്ടു ഹരിച്ചാൽ ഓരോരുത്തർക്കു വീഴുന്ന ഓഹരിയാണു് മുൻഖണ്ഡികയിൽ
+കാണിച്ചിട്ടുള്ളതു്.
+</p>
+          <p>നിങ്ങൾ ഇതിനെക്കുറിച്ചു് എന്തുചെയ്വാൻ വിചാരിക്കുന്നു? സഞ്ജയൻ ചെയ്യേണ്ടതെന്തെന്നു
+തീർച്ചപ്പെടുത്തിക്കഴിഞ്ഞു. ഞാൻ ഈ കടം വീട്ടുവാൻ പോകുന്നു. നവവത്സരാരംഭത്തിനു മുൻപു് പ്രസ്തുതസംഖ്യ
+ഒരു കിഴിയാക്കി കെട്ടി സഞ്ജയൻ മലബാർ ട്രഷറി ആഫീസരുടെ മുൻപാകെ ഹാജരായി എന്റെ കടം വീട്ടി
+രശീതി വാങ്ങുവാൻ പോകുന്നു. ജനവരി ഒന്നാംതീയതി നിഷ്കടത്വംകൊണ്ടു മാത്രം ഉണ്ടാകുന്ന മുഖപ്രസാദത്തോടും,
+കൺതെളിവോടും ഉൾബലത്തോടും കൂടി കോഴിക്കോട്ടെ പുതിയ കോൺക്രീറ്റ് നിരത്തിൽക്കൂടി ഒരാൾ,
+യാതൊരാവശ്യവുമില്ലാതെ, അങ്ങോട്ടുമിങ്ങോട്ടും നടക്കുന്നതു നിങ്ങൾ കാണും. ആ ആൾ സഞ്ജയനായിരിക്കും.
+</p>
+          <p>ഒരുസമയം ട്രഷറി ആപ്പീസർ ഈ സംഖ്യ സ്വീകരിച്ചിട്ടില്ലെങ്കിലോ? എന്നാൽ എന്താണു്? ഞാൻ ഈ 5ക.
+7ണ. 3പൈ. മണിയോഡർ വഴിയായി സർ സാമുവൽ ഹോറിനയച്ചുകൊടുക്കും. അതു മടക്കുവാനുള്ള ധൈര്യം
+സർ സാമുവലിനു് ഉണ്ടാവുകയില്ലെന്നു് എനിക്കു നല്ല ഉറപ്പുണ്ടു്. ബ്രിട്ടീഷ് ഗവർമ്മേണ്ടിന്റെ ഇന്നത്തെ ധനസ്ഥിതി
+കിട്ടാനുള്ള പണം വേണ്ടെന്നു വെക്കത്തക്ക നിലയിലല്ലെന്നു സഞ്ജയനു് അറിയാം.
+</p>
+          <p>
+9-12-1934
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+      <div type="lchapter" xml:id="lchp2">
+        <head type="lchaphead">ഉദ്യോഗതിമിരം</head>
+        <div type="lsection">
+          <p style="noindent">മൂന്നു ദോഷങ്ങളും ഒന്നായി കോപിച്ചു കണ്ണിൽ വന്നിറങ്ങി കാഴ്ചയെ നശിപ്പിക്കുന്ന
+രോഗമാണു് ‘തിമിര’മെന്നു് അഷ്ടാംഗഹൃദയം പറയുന്നു. ആയിരിക്കാം. ഒരു രോഗത്തെക്കുറിച്ചു് ഇങ്ങനെയാണു്,
+എന്നു് അഷ്ടാംഗഹൃദയം പറയുമ്പോൾ, അങ്ങനെ അല്ലെന്നു പറയാൻ നമ്മളാരാണു്? പക്ഷേ, ഇതു സാധാരണ
+തിമിരമാണു്. ത്രിദോഷങ്ങൾ കോപിക്കാതെ, ബുദ്ധിയിൽച്ചെന്നിറങ്ങി വിവേകത്തെയും മനുഷ്യത്വത്തെയും
+നശിപ്പിക്കുന്ന വേറെയൊരു തരം തിമിരമുണ്ടു്. അതിന്റെ പേർ ഉദ്യോഗതിമിരമെന്നാണു്.
+</p>
+          <p>ഉദ്യോഗതിമിരം, ഉദ്യോഗത്തിന്റെ വലിപ്പത്തിനും, രീതിക്കും, രോഗിയുടെ മനഃസ്ഥിതിക്കും, ചുറ്റുമുള്ളവരുടെ
+പെരുമാറ്റത്തിനും അനുസരിച്ചു പല വകുപ്പുകളായി വിഭാഗിക്കപ്പെട്ടിട്ടുണ്ടു്. മണ്ഡൂകാചാര്യൻ ഇങ്ങനെ പറയുന്നു:
+</p>
+          <lg>
+            <l> ‘പ്രായശോദ്യോഗഭേദേന </l>
+            <l>സാഹചര്യാച്ച കുത്രചിൽ</l>
+            <l> ഉദ്യോഗതിമിരം ജ്ഞേയം </l>
+            <l>തദ്വിശേഷവിധേഃ ക്വചചിൽ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>ഇതിന്റെ അർത്ഥം ഇങ്ങനെയാണു്: പ്രായേണ ഉദ്യോഗഭേദംകൊണ്ടു് ഉദ്യോഗതിമിരം ജ്ഞേയമാകുന്നു
+(അറിയപ്പെടുന്നു). ചിലേടത്തു് അതിനെ സമീപത്തിലെ ആളുകളുടെ സ്ഥിതികൊണ്ടു് അറിയണം; ചിലേടത്തു
+വിശേഷവിധികൊണ്ടും അറിയണം. എനി ഇതിനെ വിവരിക്കുന്നു. അധികം രോഗികൾക്കും
+ഉദ്യോഗവലിപ്പത്തിനനുസരിച്ചാണു തിമിരത്തിന്റെ ശക്തി കൂടിവരുന്നതു്. ഞാനും നിങ്ങളും (അതായതു്, നിങ്ങൾ
+എന്നെപ്പോലെ വെറും ഒരു കാല്ക്കാശിനു കൊള്ളാത്ത അനുദ്യോഗസ്ഥനാണെങ്കിൽ) ഒരു സാധാരണ
+കൺസ്റ്റേബിളിനേയോ ഗുമസ്തനേയോ, മാസ്റ്റരേയോ, മസാൽച്ചിയേയോ അപേക്ഷിച്ചു് അതിമിരന്മാരാണു്.
+പക്ഷേ, കൺസ്റ്റേബിളിനേക്കാൾ ഹെഡ് കൺസ്റ്റേബിളിനും, ഗുമസ്തനെക്കാൾ ഹേഡ്ഗുമസ്തനും, മാസ്റ്റരേക്കാൾ
+ഹേഡ്മാസ്റ്റർക്കും, മസാൽച്ചിയേക്കാൾ ശിപായിക്കും, ശിപായിയേക്കാൾ ദഫേദാർക്കും തിമിരം കൂടും.
+</p>
+          <p>‘സാഹചര്യാച്ച കുത്രചിൽ’ എന്ന വരിക്കു് ഒന്നിലധികം വ്യാഖ്യാനങ്ങളുണ്ടു്. ചിലർ പറയുന്നതു് ഇതു വലിയ
+വലിയ ഉദ്യോഗസ്ഥന്മാരുടെ അടുത്തു പരിചയക്കാർക്കും, സംബന്ധികൾക്കും, സിൽബന്ധികൾക്കും മറ്റും,
+പ്രതിഫലന്യായപ്രകാരം, പകർന്നുപിടിച്ചുകാണുന്ന തിമിരഭേദത്തെ കുറിക്കുന്നു എന്നാണു്, കൈബർപാസായി
+അലഞ്ഞുനടക്കുന്ന വിദ്വാനാണെങ്കിൽക്കൂടി പെട്ടെന്നു് ഒരു ജഡ്ജിയുടേയോ ഹേഡിന്റേയോ അളിയനോ മകളുടെ
+ഭർത്താവോ മറ്റോ ആയിപ്പോവുകയാണെങ്കിൽ ചിലർക്കു വന്നു ചേരുന്ന അന്തസ്സും അവസ്ഥയും ഇതിനു്
+ഉദാഹരണങ്ങളായി പറയപ്പെട്ടിട്ടുണ്ടു്. മജിസ്ട്രേട്ടെജമാനന്റെ വാല്യക്കാരൻ പീടികയിൽച്ചെന്നാൽ അവിടെ എത്ര
+ആളുകളുണ്ടെങ്കിലും അവൻ ആദ്യം സാമാനം കെട്ടിക്കൊടുക്കേണമെന്നുള്ള നിബന്ധനയും, പോലീസ്
+ഇൻസ്പെക്ടറുടെ അളിയനുവേണ്ടി മെയിൽ ബസ്സാണെങ്കിൽക്കൂടി താമസിച്ചു, വഴി വളച്ചു്, മുൻപിലത്തെ സീറ്റ്
+ഒഴിച്ചുവെച്ചു് അദ്ദേഹത്തിന്റെ വീടിന്റെ പടിക്കൽക്കൂടി ഓടിക്കൊള്ളേണമെന്നുള്ള ഏർപ്പാടും ഈ
+വ്യാഖ്യാനത്തിനനുകൂലമായി ഉദ്ധരിക്കപ്പെട്ടിട്ടുണ്ടു്.
+</p>
+          <p>പക്ഷേ, മഹാവിദ്വാനായ മണ്ടോത്തു് മാടൻഗുരുക്കളുടെ ‘ഗുഡ്ദാർഥ ബോധിനീ’ വ്യാഖ്യാനത്തിൽ ഈ വരിക്കു
+വേറെ ഒരർത്ഥം പറഞ്ഞുകാണുന്നു. അദ്ദേഹം പറയുന്നതു് ഉദ്യോഗത്തിന്റെ മേൽക്കീഴുഭേദംകൊണ്ടു് തിമിരഭേദം
+ഗണിക്കപ്പെടണമെന്നാണു്. ഉദാഹരണമായി, അധികാരിയുടെ കാര്യത്തിൽ അംശം കോലക്കാരനെ ഇടയ്ക്കു്
+അദ്ദേഹം കാണാതിരിക്കുന്നതു് ഈ തിമിരത്തിന്റെ ശക്തികൊണ്ടാണു്. പക്ഷേ, അദ്ദേഹത്തിന്റെ തിമിരം
+തഹസിൽദാരുടെ നേരെ പ്രവർത്തിക്കുകയുമില്ല. അങ്ങനെതന്നെ ഇടയ്ക്കു് നട്ടുച്ചയ്ക്കു് നിരത്തിന്മേൽ അന്യോന്യം
+വെട്ടുമുട്ടിപ്പോയാലും തഹസിൽദാർ അധികാരിയെ തിമിരബാധകൊണ്ടു് കണ്ടില്ലെങ്കിലും, അതേ തഹസിൽദാർ
+ഇരുട്ടത്തു് ഒരു നാഴികദൂരെ കലക്ടറെ കണ്ടറിഞ്ഞു് സലാം കൊടുത്തേക്കുമെന്നും ഗുരുക്കൾ വ്യാഖ്യാനിക്കുന്നു.
+വേറെയൊരു സംഗതി അടുത്തു കീഴെയുള്ള ഉദ്യോഗസ്ഥന്റെ നേരെയുള്ളതിനെക്കാൾ തിമിരം അധികം
+കീഴെയുള്ള ഉദ്യോഗസ്ഥന്റെ നേരെ ബാധിക്കുമെന്നുള്ളതാണു്. അതുകൊണ്ടു തിമിരത്തിന്റെ ഏറ്റക്കുറവു്
+
+ഉദ്യോഗസ്ഥാനങ്ങളുടെ സാഹചര്യത്തിനനുസരിച്ചു മാറുമെന്നത്രേ മാടസിദ്ധാന്തമാകുന്നതു്.
+</p>
+          <p>‘തദ്വിശേഷവിധേഃ ക്വചിൽ’ എന്നതിനു് ഏറ്റവും ഭംഗിയായ അർത്ഥകല്പന ലക്കറ്റേടത്തു് വാസുകൈമളുടെ
+ടീകയിലാണു കാണപ്പെടുന്നതു്. അദ്ദേഹം ഇങ്ങനെ പറയുന്നു: ‘തിമിരവിഷയത്തിൽ എല്ലാ ഉദ്യോഗങ്ങളും
+ഒരുപോലെയല്ല, വിശേഷവിധിയുണ്ടു്. ഇൻസ്പെക്ടരുടെ ഉദ്യോഗം എടുക്കുക.
+</p>
+          <p>‘പോലീസും, റവന്യു, പിന്നെയുപ്പു, കുപ്പ, കുരിപ്പ പിന്നെ സ്കൂളെന്നാറുവിധം പ്രോക്തമിൻസ്പെക്ടർപ്പണി
+മുഖ്യമായ്.’ എന്നു കല്ക്കിപുരാണത്തിൽ പറഞ്ഞിട്ടുണ്ടു്. ഈ ശ്ലോകപ്രകാരം ഇൻസ്പെക്ടർമാരെ, പോലീസ്, റവന്യൂ,
+ഉപ്പു് (സാൾട്ട് ), കുപ്പ (സാനിറ്ററി), കുരിപ്പു് (വാക്സിനേഷൻ), സ്കൂൾ—ഇങ്ങനെ ആറു തരമായി വിഭാഗിക്കാം. പക്ഷേ,
+പട്ടർക്കുമുണ്ടു് പൂണൂൽ, ചെട്ടിക്കുമുണ്ടു് പൂണൂൽ: എന്തു വ്യത്യാസം!’ എന്നു പാതിരി സായ്പു് ചോദിച്ചതുപോലെ,
+‘എന്തു വ്യത്യാസാ!’ പോലീസ് ’ ഇൻസ്പെക്ടരെ കണ്ടാൽ അല്പം വഴി നാട്ടുപ്രമാണികൾ കൂടി വിട്ടുകൊടുക്കുമെങ്കിൽ,
+‘കുരിപ്പു് ഇൻസ്പെക്ടരെക്കണ്ടാൽ കൂലിക്കാരൻകൂടി തലയിൽനിന്നു മുണ്ടെടുക്കുകയില്ല.’ ഈ വ്യത്യാസം ഇവരുടെ
+തിമിരത്തിനുമുണ്ടെന്നാണു് ഈ വരിയുടെ അർത്ഥമെന്നു കൈമളവർകൾ യുക്തിയുക്തമായി വാദിക്കുന്നു. ഈ
+വാദത്തോടു സഞ്ജയൻ പൂർണ്ണമായി യോജിക്കുന്നുണ്ടു്. ഈ വരിയെപ്പറ്റി വേറൊരു വ്യാഖ്യാനമുള്ളതു ഗുരുവായൂർ
+കാളിദാസരുടെ വകയാണു്. അദ്ദേഹം ഈ വിശേഷവിധികൊണ്ടു മനസ്സിലാക്കേണ്ടുന്നതു നഗരവും നാട്ടുപുറവും—
+ആപ്പീസും വീടും—ഇത്യാദിയായ സ്ഥലഭേദത്തെയാണു് എന്നു സമർത്ഥിക്കുന്നു. നഗരത്തിലേക്കാൾ നാട്ടുപുറത്തു
+തിമിരത്തിനു ശക്തി കൂടുമത്രേ, ആപ്പീസിലേയും വീട്ടിലെയും കാര്യത്തിൽ വ്യത്യാസമുണ്ടെന്നും അദ്ദേഹം പറയുന്നു.
+കീഴുദ്യോഗസ്ഥന്മാർക്കു് ആപ്പീസുകളിലേക്കാൾ വീടുകളിലും മേലുദ്യോഗസ്ഥന്മാർക്കു് ആപ്പീസിലും വീട്ടിലും
+ഒരുപോലെയും, തറവാടുകളിലെ അനന്തരവന്മാർക്കു വീടുകളിലേക്കാൾ ആപ്പീസിലുമാണുപോലും തിമിരബാധ
+കലശലായുണ്ടാവുക. പക്ഷേ ‘ഭാര്യയുടെ മുൻപാകെ അസ്തമിക്കാത്ത തിമിരമില്ല’ എന്നു് ഒരു കൈയെഴുത്തുകുറിപ്പു
+കാളിദാസരുടെ വ്യാഖ്യാനത്തിന്റെ മാർജിനിൽ കാണപ്പെടുന്നുണ്ടു്.
+</p>
+          <p>സത്യാവസ്ഥ ആർക്കറിയാം? സഞ്ജയൻ ഉദ്യോഗസ്ഥനല്ല; ഉദ്യോഗസ്ഥന്മാരുടെ സാഹചര്യത്തെ സഞ്ജയൻ
+ഉപയോഗിച്ചിട്ടുമില്ല. അതുകൊണ്ടു് ഇതൊക്കെ ഇങ്ങനെയൊക്കെയാണോ എന്നു് അനുഭവരസികന്മാർതന്നെ
+പറയണം. ശാസ്ത്രത്തിൽ കണ്ടതു പകർത്തിയെഴുതിയ ബന്ധവും കൈമളവർകളുടെ ടീകയിലെ യുക്തിയോടു
+യോജിച്ച ഒരപരാധവും മാത്രമേ സഞ്ജയനുള്ളൂ. ഏതുദ്യോഗത്തിൽ എത്ര വലിയ പദവിയിലിരുന്നാലും ലവലേശം
+തിമിരബാധയില്ലാത്ത ചില ഒന്നാന്തരം യോഗ്യന്മാരെ സഞ്ജയൻ നേരിട്ടും, അല്ലാതെയും അറിയുമെന്നു് ഒരു
+ശാസ്ത്രവും ‘വ്യാഖ്യാനവും നോക്കാതെ സഞ്ജയൻ ധൈര്യപ്പെട്ടു പറയുമെന്നുകൂടി: പ്രസ്താവിച്ചു് ഈ ഗവേഷണം—
+പത്രഭാഷയെങ്ങനെ മതിയാക്കുന്നു.’
+</p>
+          <p>
+12-12-1934
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/2.1"-->
+      </div>
+      <!--end of "chapter 0/2"-->
+      <!--END OF CHAPTER 0/2-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ellavarum Kadakar (ml: എല്ലാവരും
+കടക്കാർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-09-19. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, Ellavarum
+Kadakar, സഞ്ജയൻ, എല്ലാവരും കടക്കാർ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 19, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:George_Caleb_Bingham__The_Squatters.jpg">The Squatters,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:George_Caleb_Bingham">George Caleb
+Bingham</ref>  (1811–1879). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-kadakkar.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-kadakkar.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

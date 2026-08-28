@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മകളുടെ മകൾ</title>
+          <title xml:lang="en" type="main">Makalude makal</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>JS Aswathy</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">September 24, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മകളുടെ മകൾ</title>
+              <title xml:lang="en" type="main">Makalude makal</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Prasannakeralam</publisher>
+            <pubPlace>Kerala</pubPlace>
+            <date>06-09-1946</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Makalude makal</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>മകളുടെ മകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Kerala, India</name>
+          <time>06-09-1946</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/camargolancret.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:CamargoLancret.jpg">Marie
+Camargo,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Nicolas_Lancret">Nicolas Lancret</ref>
+ (1690–1743). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മകളുടെ മകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മകളുടെ മകൾ</head>
+        <div type="lsection">
+          <p style="noindent">തകഴിയുടെ കഥകൾക്കെല്ലാമുള്ളതാണു് ആ സ്വഭാവം—
+ബൃഹദ്ഗ്രന്ഥത്തിലടങ്ങേണ്ട കാര്യങ്ങളെല്ലാംകൂടി വാറ്റിയെടുത്തു ഗുളികപ്രായമാക്കി മധുരവും ചേർത്തു്
+ചെറുകഥയാക്കി വിളമ്പുകയെന്നതു്. ഈ സമാഹാരത്തിലെ ഒമ്പതു കഥകളെക്കുറിച്ചും ഈ പ്രസ്താവന
+അന്വർത്ഥമാണു്. എല്ലാറ്റിനേയും സ്പർശിച്ചു് ഒരു നിരൂപണമെഴുതിയാൽ അതു വലിപ്പംകൊണ്ടു് എ.
+ബാലകൃഷ്ണപ്പിള്ളയുടെ അവതാരികകളെയും ലജ്ജിപ്പിക്കും. പ്രായോഗികമായിട്ടുള്ളതു് ഒന്നോ രണ്ടോ
+കഥകളെടുത്തു് അവയിലെ പ്രതിപാദ്യവിഷയത്തെ പരിശോധിക്കുക എന്നതുമാത്രമാണു്.
+</p>
+          <p>ഇതിലെ ‘തങ്കമ്മ’ എന്ന കഥ വായിച്ചു നോക്കുമ്പോൾ വായനക്കാരൻ പുസ്തകത്തിന്റെ ആദ്യത്തെ പുറം ഒന്നു
+മറിച്ചുനോക്കിപ്പോകും. ഗ്രന്ഥകാരന്റെ പേരിനെ സംബന്ധിച്ച വല്ല അച്ചടിപ്പിഴകളും വന്നിട്ടുണ്ടോ എന്ന
+സംശയമാണതിനു കാരണം. പക്ഷേ, തെറ്റൊന്നുമില്ല. പുസ്തകം പൊൻകുന്നം വർക്കിയുടേതല്ല, തകഴിയുടേതു
+തന്നെയാണു്. കന്യകാമാത്തിന്റെ കരിങ്കൽഭിത്തിക്കുള്ളിൽ ഞരങ്ങിയും ഇഴഞ്ഞും കഴിയുന്ന
+സചേതനപ്രേതങ്ങളുടെ ദുരന്തം വർക്കിക്കു മാത്രം മനസ്സിലാക്കാവുന്ന ഒരു പരമാർത്ഥം. സ്ത്രീത്വത്തിന്റെ മഹിമ
+അമ്മ പെറ്റമക്കൾക്കെല്ലാം അറിവുള്ളതാണല്ലോ. മാതൃത്വം നിരോധിക്കപ്പെട്ട സ്ത്രീജന്മത്തിന്റെ അഭിശപ്തത
+കണ്ണുള്ളവനു കാണാനും പ്രയാസമില്ല. കൃത്രിമവും പ്രകൃതിവിരുദ്ധവുമായ ഒരു ജീവിതരീതി തെറ്റിദ്ധാരണകളുടെ
+സഹകരണത്തോടുകൂടി മതം മനുഷ്യന്റെമേൽ കെട്ടിവെയ്ക്കുമ്പോൾ വ്യക്തിക്കുണ്ടാകുന്ന അധഃപതനവും
+വർക്കിക്കെന്നപോലെ തകഴിക്കും മനസ്സിലാകുന്ന ഒന്നാണു്. സ്വതസ്സിദ്ധമായ കലാചാതുരിയോടെ തകഴി അതു
+പ്രകടിപ്പിച്ചിരിക്കുന്നു എന്നുമാത്രം.
+</p>
+          <p>തങ്കമ്മ ഒരനിയത്തിയാണു്. ചേട്ടത്തിയുടെ വിവാഹജീവിതത്തിലെ കഷ്ടതകൾ അവൾ കാണുന്നുണ്ടു്.
+സ്ത്രീത്വത്തിന്റെ സ്പർശമേൽക്കാത്ത ആ കൊച്ചുകുട്ടി വിവാഹത്തെ ഭയപ്പെടുകയും ചെയ്യുന്നു. സാഹചര്യങ്ങൾ
+അവളുടെ ആശങ്കകളെ ബലപ്പെടുത്തുന്നു. വിവാഹത്തിനുമുമ്പുതന്നെ അതിന്റെ ആനന്ദം അറിയുവാൻ
+കഴിവില്ലാത്തതുകൊണ്ടു് ഈ ചിത്രത്തിന്റെ മറുവശം അവൾ കാണുന്നുമില്ല. വാലുപോയ കുറുക്കനെ
+അനുകരിച്ചുകൊണ്ടു് ഫ്രാൻസിസ്ക്കാമ്മ ആ പാവം പെണ്ണിനെ കൽത്തുറുങ്കിന്റെ അന്ധകാരത്തിലേക്കു
+വലിച്ചിഴയ്ക്കുന്നു. അജ്ഞതയുടെയും തെറ്റിദ്ധാരണയുടെയും ഫലമായി അങ്ങനെ തങ്കമ്മ ഒരു തീരുമാനത്തിൽ
+എത്തിച്ചേരുന്നു—അതാണു വിവാഹം വേണ്ടയെന്നതു്. സ്വന്തം സൗന്ദര്യക്കുറവിനെപ്പറ്റിയുള്ള ബോധവും ഈ
+തീരുമാനത്തിനു് ഉപോൽബലകമാണു്.
+</p>
+          <p>പക്ഷേ, പ്രകൃതിക്കൊരു വഴിയുണ്ടു്. മനുഷ്യ നിർമ്മിതമായ നീതിയും നിയമവും മതവും മാമൂലും വകവെക്കാതെ
+അതു് അതിന്റെ ജൈത്രയാത്ര തുടരും. വിവാഹത്തെ എതിർക്കാനുള്ള ധൈര്യം സമ്പാദിക്കുന്നതിനുവേണ്ടി
+പ്രാർത്ഥനയിലേർപ്പെട്ട തങ്കമ്മയ്ക്കു പ്രകൃതി സമ്മാനിക്കുന്നതു് അതിനുനേരെ വിരുദ്ധമായ ഒരു ധൈര്യമാണു്.
+തരളിത ഹൃദയത്തോടെ അവൾ ഉണ്ണിയേശുവിന്റെ പ്രതിമ കാണുന്നു. വികാരം വികാരത്തിനു വഴിതെളിച്ചു.
+തങ്കമ്മയിൽ സ്ത്രീത്വം ഉണർന്നു. അവൾ കണ്ട രൂപം ഈശ്വരന്റെയോ ചെകുത്താന്റെയോ എന്നു് അവൾ
+ആലോചിച്ചില്ല. അതൊരു ശിശുവിന്റെ രൂപമായിരുന്നു എന്നതായിരുന്നു അവൾക്കു പ്രധാനം. അവൾ
+ശിശുവിനെ വാരിയെടുക്കുവാൻ മുന്നോട്ടാഞ്ഞു. മതനിബന്ധനകളുടെ കൊടുമ്പിരിക്കൊണ്ടു് തത്ത്വാഭാസങ്ങൾ
+ഓടിയൊളിച്ചു. മാതൃത്വത്തിന്റെ പാവനസ്വപ്നങ്ങൾ അവളുടെ ഹൃദയത്തിൽ അങ്കുരിച്ചു. ഇതുപോലെയുള്ള
+ശിശുക്കളെ ലഭിക്കുന്ന സമ്പ്രദായം എത്ര പൂരിതമായിരുന്നാലും കാമ്യമാണു്. വിവാഹം തടുക്കേണ്ടതല്ല.
+തഴുകേണ്ടതാണെന്നു് തങ്കമ്മയ്ക്കു തോന്നി. വർഷങ്ങളും രണ്ടുമൂന്നു കഴിഞ്ഞിരുന്നല്ലോ. ഫ്രാൻസിസ്ക്കാമ്മ
+ആശിച്ചതിൽനിന്നു ഭിന്നമായ ലക്ഷ്യത്തോടെ അവൾ വീട്ടിലേക്കു തിരിച്ചു.
+</p>
+          <p>പല്ലുപൊങ്ങിയ തങ്കമ്മയ്ക്കു ചെറുക്കനുണ്ടായി. അവളുടെ അപ്പന്റെ പണത്തിനു് ആ കുറവിനെ മറയ്ക്കത്തക്ക
+ഉയരമുണ്ടായിരുന്നു. പക്ഷേ, പിന്നെയും വിധി ഒന്നിടപെട്ടു. ഭർത്താക്കന്മാരുടെ സംശയദൃഷ്ടി എന്ന അത്ഭുതം
+തങ്കമ്മയെ അലട്ടി. പെണ്ണിനെ പിടിച്ചില്ല എന്ന കിംവദന്തി അവളെ നിരാശപ്പെടുത്തി. ഫ്രാൻസിസ്ക്കാമ്മയുടെ
+മൂത്തുനരച്ച വിദ്വേഷം തന്നെ ജയിച്ചു. ജീവിക്കാനും മരിക്കാനും ഒരുപോലെ അസാദ്ധ്യമായ ആ കല്ലറയിലേക്കു
+തങ്കമ്മ ഇഴഞ്ഞുകയറി. അതോടുകൂടി ഈശ്വരൻ സ്ത്രീയെ സൂക്ഷിച്ചതിന്റെ പരമോദ്ദേശ്യവും അവൾ കൈവെടിഞ്ഞു.
+അവളുടെ പ്രവൃത്തി തന്നെ സൗന്ദര്യമില്ലാത്തവളായി സൃഷ്ടിച്ച ദൈവത്തോടുള്ള പ്രതികാരമാണോ,
+ഈശ്വരാരാധനയ്ക്കുള്ള മാർഗ്ഗമാണോ എന്നു് അവൾക്കു തന്നെ നിശ്ചയമുണ്ടാകാൻ മാർഗ്ഗമില്ല.
+</p>
+          <p>ജീവശാസ്ത്രപരമായ ഒരു നിയമത്തെ ലംഘിച്ചു മാനസികമായും ശാരീരികമായും അധഃപതിക്കുന്ന ഒരു
+രീതിയിൽ ജീവിക്കുന്നതു് ഈശ്വരാരാധനയാണെന്നു പറഞ്ഞുപോലും നീതീകരിക്കാൻ കഴിയാത്ത ഒരു
+
+പാതകമാണു്. സൃഷ്ടികർത്താവെന്നു സകല മതങ്ങളും ഉദ്ഘോഷിക്കുന്ന ഈശ്വരന്റെ മഹത്വത്തിനു സൃഷ്ടിയുടെ
+സ്വാഭാവികഗതിയെ തടഞ്ഞു നിർത്തി പാവപ്പെട്ട സ്തീകളെ വീർപ്പുമുട്ടിക്കുന്നതും ആവശ്യമായിരിക്കാനിടയില്ലല്ലോ.
+</p>
+          <p>ദുഷിച്ച ഈ സമ്പ്രദായത്തിന്റെ മാനസിക—സാന്മാർഗികവശങ്ങൾ മാത്രമല്ല തകഴിയെ ആകർഷിക്കുന്നതു്.
+അതിന്റെ സാമ്പത്തിക പ്രത്യാഘാതങ്ങളും അദ്ദേഹം ചിത്രീകരിക്കുന്നുണ്ടു്. ‘അവന്റെ മുതൽ മുഴുവനും നമുക്കല്ലേ’
+എന്ന ഒരു ചോദ്യം തകഴി കൊണ്ടുവരുന്നു. സഹോദരന്മാരെയും സഹോദരികളെയും പുരോഹിതന്മാരും
+കന്യാസ്ത്രീകളുമാക്കി വിട്ടിട്ടു് അവരുടെ നശ്വരമായ ഇഹലോകസമ്പത്തു കൈവശപ്പെടുത്തുന്ന ജനം തകഴിയോടു
+പിണങ്ങിയേക്കും. പലപ്പോഴും സ്ത്രീധനം കൊടുത്തു വിവാഹംചെയ്യാൻ നിവൃത്തിയില്ലാത്ത യുവതികളെയാണു്
+ഇങ്ങനെ കുരുതികഴിക്കേണ്ടിവരുന്നതു്. സ്ത്രീധനത്തിനു വേണ്ട തുകയിൽനിന്നു വളരെ കൂടുതലായ ഒരുസംഖ്യ
+പലതവണകളായി മഠാധിപതികൾ ഈടാക്കിക്കൊള്ളുമെന്നതു് സാധുവായ പിതാവു ശങ്കിച്ചിരിക്കാത്ത
+കാര്യമാണു്.
+</p>
+          <p>‘തെണ്ടിച്ചെറുക്കൻ’ എന്ന കഥയിൽ വളരെ കുഴഞ്ഞ ഒരു പ്രശ്നത്തിന്റെ ഉത്തരം പറയാനാണു് തകഴി
+ശ്രമിക്കുന്നതു്; അതു് ഒട്ടൊക്കെ സാധിക്കുന്നുണ്ടുതാനും. ലോകത്തിലെ അവശരെ കാണുകയും അത്തരം
+കൃമികളെ സൃഷ്ടിക്കുന്ന സമുദായവ്യവസ്ഥിതിയെ അപലപിക്കുകയും ചെയ്യുന്ന സഹൃദയാലുക്കളുടെ മുമ്പിലേക്കു്
+അന്ധരായ ചിലർ വലിച്ചിഴച്ചുകൊണ്ടു ചെല്ലുന്ന ചോദ്യചിഹ്നമാണു് തെണ്ടി. അവൻ ജോലിചെയ്യാൻ
+ഇഷ്ടപ്പെടുന്നില്ല. അവൻ തരംകിട്ടിയാൽ മോഷ്ടിക്കും; ചുരുക്കത്തിൽ തെറ്റെന്നു വിളിക്കാവുന്നവയെല്ലാം അവൻ
+ചെയ്യും. അവനും കള്ളനും ഒരു വർഗ്ഗത്തിന്റെ രണ്ടു വിഭാഗങ്ങൾ മാത്രമാണു്. നമ്മുടെ നാട്ടിലെ ഒരു വിഭാഗക്കാർ
+സാമ്പത്തികസമത്വവാദികളുടെ മുമ്പിൽചെന്നു് ഈ വർഗ്ഗത്തെ ചൂണ്ടിക്കാണിച്ചുകൊണ്ടു് സർവജ്ഞഭാവത്തിൽ
+ചോദിക്കുകയാണു്, ‘ഈ കള്ളന്മാർക്കുവേണ്ടിയാണോ നിങ്ങൾ വാദിക്കുന്നതു്’ എന്നു്. ഉത്തരം പറയാൻ പലരും
+വിഷമിച്ചേക്കും. തകഴി ആ വർഗ്ഗത്തിലൊന്നിനെ എടുത്തു പരിശോധിക്കുന്നു. അവൻ കള്ളനാണു്. തെണ്ടി
+ജീവിക്കുന്നതാണു്, ജോലിചെയ്യുന്നതിനേക്കാൾ അവനിഷ്ടം. അവൻ പലിശയ്ക്കു കൊടുക്കുന്ന വർഗ്ഗമാണു്. അവൻ
+വഴക്കാളിയാണു്. കോടതിയിൽ കയറി പണമുണ്ടാക്കുന്നതും അവനു രസമാണു്. ഇക്കാലത്തിനിടയ്ക്കു് അവനിൽ
+കാര്യമായ വ്യത്യാസങ്ങൾ ഒന്നും വരുന്നില്ല. തെണ്ടലും നേരിട്ടുള്ള മോഷണവും അവൻ നിർത്തി. ഇപ്പോൾ പുതിയ
+മാർഗ്ഗങ്ങളാണു്. പക്ഷേ, അടിസ്ഥാനപരമായി അവന്റെ ജീവിതതത്ത്വം പഴയതുതന്നെയാണു്—ധനസമ്പാദനം.
+തകഴിയുടെ ശ്രമം അവന്റെ അച്ഛനാരെന്നു കണ്ടുപിടിക്കാനായിരുന്നു. ഇത്രയുമായപ്പോഴേക്കു് ആ
+തെണ്ടിച്ചെറുക്കന്റെ തന്ത മുതലാളിത്തമാണെന്നു തെളിഞ്ഞു. തെണ്ടിയേയും കള്ളനേയും മടിയനേയും
+സൃഷ്ടിക്കുന്നതും അവരുടെ ചിന്താഗതി രൂപീകരിക്കുന്നതും മുതലാളിത്തമാണെന്നു തെളിഞ്ഞു. സമത്വവാദിയുടെ
+മുമ്പിൽ കൊണ്ടുവരപ്പെട്ടിരിക്കുന്ന ആ ചോദ്യം, കൊണ്ടുവന്ന ആളിന്റെ സന്താനമാണു്. അതുകൊണ്ടു് അവനു
+ധൈര്യമായി പറയാം. ‘ഇവനു വേണ്ടിയല്ല ഞാൻ വാദിക്കുന്നതു്. ഇവൻ നിന്റെ സന്താനമാണു്. ഇവനും നീയും
+ഇല്ലാതാകുവാനാണു്, ഇവനെയും നിന്നെയും പുലർത്തുവാനല്ല ഞാൻ പണിയെടുക്കുന്നതു്!’ വളരെ കുഴഞ്ഞ ഒരു
+പ്രശ്നത്തിനു് തകഴി ഉത്തരം നൽകിക്കഴിഞ്ഞു. ‘മകളുടെ മകൾ’ എന്ന നിർദ്ദോഷമായ പേരിട്ടിരിക്കുന്ന കഥ
+തകഴിയുടെ ആവനാഴിയിലെ പാശുപതമാണെന്നു തോന്നുന്നു. ഇത്രയും ഹൃദയഭേദിയായ മറ്റൊരു കഥ തകഴി
+എഴുതിയിട്ടുണ്ടെന്നു തോന്നുന്നില്ല. പല പരിശുദ്ധന്മാരും കലികൊണ്ടു വിറയ്ക്കുന്നുണ്ടായിരിക്കും. പക്ഷേ, ആ
+കഥയുടെ ഫലമെന്താണെന്നു് ആലോചിച്ചു നോക്കാനുള്ള ബുദ്ധിയും ശാന്തതയുമുള്ളവർക്കു വേറൊരു
+അഭിപ്രായമാണു് തോന്നാവുന്നതു്. ആ അച്ഛനും മകളും അനുഭവിക്കുന്ന ഹൃദയവ്യഥയുടെ ഭയങ്കരത്വം
+വായനക്കാരന്റെ ഹൃദയത്തിൽ പതിയുന്നു. അയാളുടെ തെറ്റിന്റെ ഗൗരവം മനസ്സിലാക്കുന്നതിൽ കൂടുതലായി നല്ല
+ഒരുപദേശം കൊടുക്കാനില്ലല്ലോ. അതിൽ തകഴി പരിപൂർണ്ണമായി വിജയിച്ചിട്ടുണ്ടു്. ഈ കഥയിലെ
+സാങ്കേതികമാർഗ്ഗമാണെന്നു തോന്നുന്നു ആ വിജയത്തിന്റെ മുഖ്യകാരണം.
+</p>
+          <p>കണ്ണുള്ള ഒരു വായനക്കാരനു് പലവുരു വായിച്ചാലും മതിവരാത്ത ഒമ്പതു കഥകൾ അടങ്ങിയ ഈ
+സമാഹാരത്തിനു വിജയമാശംസിക്കാനേ കഴിയൂ.
+</p>
+          <p>
+പ്രസന്നകേരളം, 6 സെപ്തംബർ 1946.
+</p>
+          <p>
+സി. ജെ. വിചാരവും വീക്ഷണവും 1985.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Makalude makal (ml: മകളുടെ
+മകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>
+ Prasannakeralam; Kerala; 06-09-1946. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Makalude makal, സി ജെ തോമസ്, മകളുടെ മകൾ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 24, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:CamargoLancret.jpg">Marie
+Camargo,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Nicolas_Lancret">Nicolas Lancret</ref>
+ (1690–1743). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  JS Aswathy; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-makal.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-makal.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

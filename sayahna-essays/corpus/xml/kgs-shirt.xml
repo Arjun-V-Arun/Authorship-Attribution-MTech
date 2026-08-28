@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അച്ഛന്റെ ഷർട്ടുകൾ</title>
+          <title xml:lang="en" type="main">Achante shirtukal</title>
+        </title>
+        <author>KGS</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">September 29, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അച്ഛന്റെ ഷർട്ടുകൾ</title>
+              <title xml:lang="en" type="main">Achante shirtukal</title>
+            </title>
+            <author>KGS</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-09-29</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>poem</term>
+          <term>KGS</term>
+          <term>Achante shirtukal</term>
+          <term>കെ. ജി. എസ്.</term>
+          <term>അച്ഛന്റെ ഷർട്ടുകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-09-29</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/WGA19304.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:Guido_Reni__St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg">St Joseph with the Infant
+Jesus,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Guido_Reni">Guido Reni</ref>
+ (1575–1642). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അച്ഛന്റെ ഷർട്ടുകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. ജി. എസ്.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അച്ഛന്റെ ഷർട്ടുകൾ</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="grc">
+            <graphic url="images/shirt-2-t.png" rendition="grc"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <lg>
+            <l> മോർച്ചറിയിലെ മഞ്ഞിൽ നിന്നിറങ്ങി </l>
+            <l> അച്ഛൻ ചിതയിലെ സൂര്യനിൽ മറഞ്ഞു; </l>
+            <l> അപ്പോൾ ചിറകുണ്ടായിരുന്നു</l>
+            <l> അച്ഛനെന്നു് തോന്നി,</l>
+            <l> അതു് അയഞ്ഞ ജൂബ പോലെന്നും തോന്നി.</l>
+          </lg>
+          <lg>
+            <l>
+പേടിച്ചും ശങ്കിച്ചുമൊരുനാൾ </l>
+            <l> അച്ഛന്റെ അലമാര തുറന്നു.</l>
+            <l> നിറയെ കുപ്പായങ്ങൾ;</l>
+            <l> ഇപ്പോഴും അച്ഛൻ മണക്കുന്നവ</l>
+            <l> പത്തി താഴും മുൻപു് </l>
+            <l> അച്ഛൻ പൊഴിച്ച പടങ്ങൾ, </l>
+            <l> ഉലഞ്ഞും ചുളിഞ്ഞും തളർന്നും.</l>
+            <l> ഒന്നും മിണ്ടാതെയും.</l>
+          </lg>
+          <lg>
+            <l>
+എന്നോടു് സംസാരിച്ചിരുന്നു പണ്ടിവ:</l>
+            <l> സ്കൂളിലേക്കു് പോകുന്നു</l>
+            <l> വയലിൽ പോകുന്നു</l>
+            <l> വിയർത്തൊലിച്ചു</l>
+            <l> മഴ നനഞ്ഞു… എന്നിങ്ങനെ.</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="grc">
+            <graphic url="images/shirt-3-t.png" rendition="grc"/>
+          </figure>
+          <lg>
+            <l> അച്ഛന്റെ ഷർട്ടിടാൻ പെരുത്തിഷ്ടം</l>
+            <l> കുഞ്ഞുന്നാളിൽ.</l>
+            <l> അച്ഛനെപ്പോലവ എന്നെ കവിഞ്ഞു് </l>
+            <l> മൂടിപ്പുണർന്നു. </l>
+            <l> പെരുമഴക്കാലവും </l>
+            <l> കൊടും മഞ്ഞുകാലവും കടക്കാൻ</l>
+            <l> ആ ഷർട്ടുകളായിരുന്നു എനിക്കു് പായ്ക്കപ്പൽ…</l>
+          </lg>
+          <lg>
+            <l>
+വേഷങ്ങളെഴുതുന്നുണ്ടു്, നാം അരങ്ങിലാടുന്ന</l>
+            <l> വിശ്വാസത്തിന്റെ ചരിത്രം.</l>
+          </lg>
+          <lg>
+            <l>
+ഇപ്പോഴെങ്കിലും ചിലതെനിക്കു് </l>
+            <l>പാകമായാലോ…?</l>
+            <l> ചിലതിൽ ഞാൻ കേറിക്കൂടി.</l>
+            <l> ചിലതെന്നെ സ്കൂൾമാഷാക്കി.</l>
+            <l> ചിലതു് കർഷകനും.</l>
+            <l> ചിലതെന്നെ പുരാതനനാക്കി</l>
+            <l> ചിലതു് നവോത്ഥാനി</l>
+            <l> ചിലതു് ദേശീയവാദി</l>
+            <l> ചിലതു് ഗാന്ധിയൻ</l>
+            <l> ചിലതു് കമ്യൂണിസ്റ്റ്</l>
+            <l> ചിലതു് തോറ്റ കോമാളി.</l>
+            <l> ചിലതണിയുമ്പോൾ മറ്റൊന്നിനി ഞാൻ</l>
+            <l> മാറിയണിയില്ലെന്നു് തോന്നി.</l>
+            <l> മന്ത്രം പോലെ മുറുകിയ കട്ടിക്കോട്ടിലെ</l>
+            <l> ചന്ദനം തുളസി കർപ്പൂരസാന്ദ്രതയെന്നെ</l>
+            <l> ശ്വാസം മുട്ടിച്ചു.</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="grc">
+            <graphic url="images/shirt-1-t.png" rendition="grc"/>
+          </figure>
+          <lg>
+            <l> അവസാനകാലത്തു് അച്ഛനിഷ്ടം</l>
+            <l> എന്റെ ടീ ഷേർട്ടിട്ടു് പയ്യനാവാൻ.</l>
+          </lg>
+          <lg>
+            <l>
+മനസ്സിലായെനിക്കു്:</l>
+            <l> മരിച്ച പിതാക്കളുടെ വേഷം</l>
+            <l> ചേരില്ല മക്കൾക്കു്. </l>
+            <l> വളരുന്ന മക്കളുടെ വേഷം</l>
+            <l> വൃദ്ധപിതാക്കൾക്കും.</l>
+          </lg>
+          <lg>
+            <l>
+അവരണിഞ്ഞ കോലം</l>
+            <l> അവരുടെ കാലം.</l>
+            <l> അച്ഛന്റെ പുളുവും ഫലിതവും</l>
+            <l> അന്നേ പഴകി. </l>
+            <l> അവർ, പിന്നിലേക്കു് പൊരുത്തപ്പെട്ടവർ.</l>
+            <l> അച്ഛനു് ഗരിമ </l>
+            <l> എനിക്കു് പഴമ…</l>
+          </lg>
+          <lg>
+            <l>
+മാർക്സ് അച്ഛനെഴുതിയ യുക്തികൾ പോലെയോ</l>
+            <l> കാഫ്ക അച്ഛനെഴുതിയ മനസ്സു് പോലെയോ</l>
+            <l> ചേരുന്നേയില്ല പലതുമെനിക്കു്.</l>
+          </lg>
+          <lg>
+            <l>
+ഉടൽ ചേർന്നാൽ കൈ ചേരില്ല.</l>
+            <l> ഉടലും കൈയും ചേരുന്നതിന്റെ കോളർ </l>
+            <l> വാടിയ കുഞ്ഞാടിൻ ചെവികൾ… </l>
+            <l> അച്ഛന്റെ മാറത്തവ </l>
+            <l>ഇണങ്ങിച്ചേർന്നു് കണ്ടിട്ടുണ്ടു്.</l>
+            <l> ബുദ്ധന്റെ മാറത്തെന്ന പോലെ.</l>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="grc">
+            <graphic url="images/kgs-santhosh-t.png" rendition="grc"/>
+          </figure>
+          <p>ഡ്രോയിങ്: വി. ആർ. സന്തോഷ്
+</p>
+          <p>ചിത്രങ്ങൾ: പോൾ ക്ലീ
+
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/kgs-bio.html">കെ. ജി. എസിന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Achante shirtukal (ml: അച്ഛന്റെ
+ഷർട്ടുകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  KGS.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-09-29. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  poem, KGS, Achante
+shirtukal, കെ. ജി. എസ്., അച്ഛന്റെ ഷർട്ടുകൾ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 29, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:Guido_Reni__St_Joseph_with_the_Infant_Jesus_-_WGA19304.jpg">St Joseph with the Infant
+Jesus,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Guido_Reni">Guido Reni</ref>
+ (1575–1642). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kgs-shirt.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kgs-shirt.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

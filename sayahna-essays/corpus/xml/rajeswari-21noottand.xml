@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ദാവീദും ബത്ശേബയും 21-ാം
+നൂറ്റാണ്ടിൽ</title>
+          <title xml:lang="en" type="main">Davidum Bathshebayum 21-am Noottandil</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">April 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ദാവീദും ബത്ശേബയും 21-ാം
+നൂറ്റാണ്ടിൽ</title>
+              <title xml:lang="en" type="main">Davidum Bathshebayum 21-am Noottandil</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Davidum Bathshebayum 21-am Noottandil</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ദാവീദും ബത്ശേബയും 21-ാം നൂറ്റാണ്ടിൽ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Young_Lady_looking_at_the_Summer_Night_from_an_Open_Door_of_a_veranda.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:J%C3%B8rgen_Walentin_Sonne__Young_Lady_looking_at_the_Summer_Night_from_an_Open_Door_of_a_veranda__NG.M.04414_-_National_Museum_of_Art,_Architecture_and_Design.jpg">Young
+Lady looking at the Summer Night from an Open Door of a veranda,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:J%C3%B8rgen_Sonne_(painter)">Jørgen
+Sonne</ref>  (1801–1890). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ദാവീദും ബത്ശേബയും 21-ാം നൂറ്റാണ്ടിൽ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ദാവീദും ബത്ശേബയും
+21-ാം നൂറ്റാണ്ടിൽ</head>
+        <div type="lsection">
+          <p style="noindent">2002-മാണ്ടു് ഡിസംബർ 16-നു് ദൽഹിയിൽ നടന്ന നാഷനൽ കൗൺസിൽ ഫോർ
+എജുക്കേഷനൽ റിസർച്ച് ആന്റ് ട്രെയിനിംഗിന്റെ (എൻ. സി. ഇ. ആർ. ടി.) വാർഷിക പൊതുയോഗത്തിൽനിന്നു്
+എൻ. ഡി. എ. ഇതര സംസ്ഥാന വിദ്യാഭ്യാസമന്ത്രിമാർ ഇറങ്ങിപ്പോക്കു് നടത്തി. ഇറങ്ങിപ്പോക്കിനു് നേതൃത്വം
+നൽകിയതു് പശ്ചിമ ബംഗാളിൽനിന്നുള്ള സഖാവു് <ref target="https://en.wikipedia.org/wiki/Kanti_Biswas">കാന്തിബിശ്വാസ്</ref>.
+പാഠപുസ്തങ്ങളിലൂടെ വർഗീയ അജണ്ട നടപ്പാക്കാനുള്ള നീക്കം തങ്ങളുടെ സംസ്ഥാനങ്ങളിൽ അനുവദിക്കില്ലെന്നു്
+ഇറങ്ങിപ്പോയ മന്ത്രിമാർ പ്രഖ്യാപിച്ചു.
+</p>
+          <p>പറയുമ്പോൾ എല്ലാം പറയണമല്ലോ? ഇറങ്ങിപ്പോയവരുടെ കൂട്ടത്തിൽ കേരള വിദ്യാഭ്യാസമന്ത്രി ജനാബ്
+<ref target="https://ml.wikipedia.org/wiki/Nalakath_Soopy">നാലകത്തു്
+സൂപ്പി</ref> യും ഉണ്ടായിരുന്നു. വളച്ചൊടിക്കപ്പെട്ടതും അസത്യജടിലവുമായ പാഠപുസ്തകങ്ങളെ
+അപലപിക്കുന്ന പ്രമേയത്തിൽ അദ്ദേഹവും ഒപ്പിട്ടു.
+</p>
+          <p>ദൽഹിയിലെ യോഗം കഴിഞ്ഞു് നാലാംദിവസം ഒമ്പതാംതരത്തിലെ മലയാള പാഠാവലിയിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/C.J._Thomas">സി. ജെ. തോമസി</ref> ന്റെ
+‘ആ മനുഷ്യൻ നീ തന്നെ’ പുറത്തായി. ആ മനുഷ്യൻ പുറത്തായതോടെ പാഠങ്ങളുടെ എണ്ണം 24 ആയി കുറഞ്ഞു.
+നിരങ്ങിപ്പാസുകാരായ വാധ്യാന്മാരുടെ ഭാഗ്യം—അത്രയും കുറച്ചു് പഠിപ്പിച്ചാൽ മതി. കുട്ടികൾക്കും
+സുഖം—ദാവീദിന്റെ സ്വഭാവം വർണിക്കുക മുതലായ ചോദ്യങ്ങൾ ഒഴിവായി.
+</p>
+          <p>ബൈബിൾ പഴയ നിയമത്തിൽ സാമുവലിന്റെ രണ്ടാംപുസ്തകം 11, 12 അധ്യായങ്ങളിൽ വിവരിച്ചിട്ടുള്ളതാണു്
+ദാവീദിന്റെ ബത്ശേബാ പരിണയകഥ. ഒരുനാൾ സന്ധ്യയാകാറായ സമയത്തു് ദാവീദ് മെത്തയിൽനിന്നു്
+എഴുന്നേറ്റു് രാജധാനിയുടെ മാളികമേൽ ഉലാവിക്കൊണ്ടിരിക്കുമ്പോൾ ഒരു സ്ത്രീ കുളിക്കുന്നതു് മാളികയിൽനിന്നു്
+കണ്ടു. ആ സ്ത്രീ അതിസുന്ദരിയായിരുന്നു. ദാവീദ് ആളയച്ചു് ആ സ്ത്രീയെപ്പറ്റി അന്വേഷിപ്പിച്ചു. അവൾ എലീയാമിന്റെ
+മകളും ഹിത്യനായ ഊരിയാവിന്റെ ഭാര്യയുമായ ബത്ത്-ശേബാ എന്നു് അറിഞ്ഞു. ദാവീദ് ദൂതന്മാരെ അയച്ചു്
+അവളെ വരുത്തി; അവൾ അവന്റെ അടുക്കൽവന്നു; അവൾക്കു് ഋതുശുദ്ധി വന്നിരുന്നതുകൊണ്ടു് അവൻ അവളോടു്
+കൂടെ ശയിച്ചു; അവൾ തന്റെ വീട്ടിലേക്കു് മടങ്ങിപ്പോയി. ആ സ്ത്രീ ഗർഭം ധരിച്ചു. താൻ ഗർഭിണിയായിരിക്കുന്നു
+എന്നു് ദാവീദിനു് വർത്തമാനം അയച്ചു. അപ്പോൾ ദാവീദ് ഊരിയാവെ തന്റെ അടുക്കൽ അയപ്പാൻ യോവാബിനു്
+കൽപന അയച്ചു… ഊരിയാവ് തന്റെ വീട്ടിൽ പോകാതെ യജമാനന്റെ സകല ഭൃത്യന്മാരോടും കൂടെ
+രാജധാനിയുടെ വാതിൽക്കൽ കിടന്നുറങ്ങി… ദാവീദ് യോവാബിനു് ഒരു എഴുത്തു് എഴുതി ഊരിയാവിന്റെ
+കൈയിൽ കൊടുത്തയച്ചു. എഴുത്തിൽ പട കഠിനമായിരിക്കുന്നിടത്തു് ഊരിയാവെ മുന്നണിയിൽ നിറുത്തി
+വെട്ടുകൊണ്ടു് മരിക്കത്തക്കവണ്ണം അവനെവിട്ടു് പിന്മാറുവിൻ എന്നു് എഴുതിയിരുന്നു. ഊരിയാവിന്റെ ഭാര്യ തന്റെ
+ഭർത്താവു് മരിച്ചുപോയി എന്നുകേട്ടപ്പോൾ വിലപിച്ചു. വിലാപകാലം കഴിഞ്ഞശേഷം ദാവീദ് ആളയച്ചു് അവളെ
+അരമനയിൽ വരുത്തി; അവൾ അവന്റെ ഭാര്യയായി, അവനു് ഒരു മകനെ പ്രസവിച്ചു. എന്നാൽ ദാവീദ് ചെയ്തതു്
+യഹോവക്കു അനിഷ്ടമായിരുന്നു. അനന്തരം യഹോവ നാഥാനെ ദാവീദിന്റെ അടുക്കൽ അയച്ചു. അവൻ
+ദാവീദിന്റെ അടുക്കൽച്ചെന്നു് പറഞ്ഞതു്: ഒരു പട്ടണത്തിൽ രണ്ടു് പുരുഷന്മാർ ഉണ്ടായിരുന്നു. ഒരുത്തൻ ധനവാൻ,
+മറ്റവൻ ദരിദ്രൻ. ധനവാനു് ആടുമാടുകൾ അനവധി ഉണ്ടായിരുന്നു ദരിദ്രനോ താൻ വിലയ്ക്കുവാങ്ങി വളർത്തിയ ഒരു
+പെൺകുഞ്ഞാടല്ലാതെ ഒന്നും ഇല്ലായിരുന്നു… ധനവാന്റെ അടുക്കൽ ഒരു വഴിയാത്രക്കാരൻ വന്നു. തന്റെ
+അടുക്കൽ വന്ന വഴിപോക്കനുവേണ്ടി പാകംചെയ്വാൻ സ്വന്തം ആടുകളിൽ ഒന്നിനെ എടുപ്പാൻ മനസ്സാകാതെ
+അവൻ ആ ദരിദ്രന്റെ കുഞ്ഞാടിനെ പിടിച്ചു് തന്റെ അടുക്കൽവന്ന ആൾക്കുവേണ്ടി പാകം ചെയ്തു.
+</p>
+          <p>അപ്പോൾ ദാവീദിന്റെ കോപം ആ മനുഷ്യന്റെ നേരെ ഏറ്റവും ജ്വലിച്ചു. അവൻ നാഥാനോടു്, യഹോവയാണേ,
+ഇതു് ചെയ്തവൻ മരണയോഗ്യൻ. അവൻ കനിവില്ലാതെ ഈ കാര്യം പ്രവർത്തിച്ചതുകൊണ്ടു് ആ ആടിനുവേണ്ടി
+നാലിരട്ടി പകരം കൊടുക്കേണം എന്നുപറഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Chakkeeri.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചാക്കീരി അഹമ്മദ് കുട്ടി</figDesc>
+          </figure>
+          <p> നാഥാൻ ദാവീദിനോടു് പറഞ്ഞതു്: ആ മനുഷ്യൻ നീ തന്നെ. യിസ്രായേലിന്റെ ദൈവമായ യഹോവ
+ഇപ്രകാരം അരുളിചെയ്യുന്നു: ഞാൻ നിന്നെ യിസ്രായേലിനു രാജാവായിട്ടു് അഭിഷേകം ചെയ്തു. നിന്നെ ശൗലിന്റെ
+കൈയിൽനിന്നു് വിടുവിച്ചു. ഞാൻ നിനക്കു് നിന്റെ യജമാനന്റെ ഗൃഹത്തെയും നിന്റെ മാർവിടത്തിലേക്കു് നിന്റെ
+യജമാനന്റെ ഭാര്യമാരെയും തന്നു. യിസ്രായേൽ ഗൃഹത്തെയും യഹൂദാഗൃഹത്തെയും നിനക്കുതന്നു.
+പോരായെങ്കിൽ ഇന്നിന്നതും കൂടെ ഞാൻ നിനക്കുതരുമായിരുന്നു. നീ യഹോവയുടെ കൽപന നിരസിച്ചു. അവനു്
+അനിഷ്ടമായുള്ളതു് ചെയ്തതെന്തിനു്? ഹിത്യനായ ഊരിയാവെ വാൾകൊണ്ടുവെട്ടി അവന്റെ ഭാര്യയെ നിനക്കു്
+ഭാര്യയായിട്ടു് എടുത്തു. അവനെ അമ്മോന്യരുടെ വാൾകൊണ്ടു് കൊല്ലിച്ചു. നീ എന്നെ നിരസിച്ചു് ഹിത്യനായ
+ഊരിയാവിന്റെ ഭാര്യയെ നിനക്കു് ഭാര്യയായിട്ടു് എടുത്തതുകൊണ്ടു് വാൾ നിന്റെ ഗൃഹത്തെ ഒരിക്കലും
+വിട്ടുമാറുകയില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Babyjohn.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബേബിജോൺ</figDesc>
+          </figure>
+          <p> യഹോവ ഇപ്രകാരം അരുളിച്ചെയ്യുന്നു. നിന്റെ സ്വന്തഗൃഹത്തിൽനിന്നു് ഞാൻ നിനക്കു് അനർഥം വരുത്തും.
+നീ കാൺകെ ഞാൻ നിന്റെ ഭാര്യമാരെ എടുത്തു് നിന്റെ കൂട്ടുകാരനു് കൊടുക്കും. അവൻ ഈ സൂര്യന്റെ
+വെട്ടത്തുതന്നെ നിന്റെ ഭാര്യമാരോടുകൂടെ ശയിക്കും. നീ അതു് രഹസ്യത്തിൽ ചെയ്തു; ഞാനോ ഈ കാര്യം
+യിസ്രായേലൊക്കെയും കാൺകെ സൂര്യന്റെ വെട്ടത്തുതന്നെ നടത്തും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jnehru.jpg" rendition="gra"/>
+            <figDesc style="thumb">നെഹ്റു</figDesc>
+          </figure>
+          <p> പാഠപുസ്തകകമ്മിറ്റിയിൽ ‘ആ മനുഷ്യ’നെതിരെ വാളെടുത്തതു് കോഴിക്കോട്ടെ ഒരു ട്രെയിനിംഗ് കോളേജ്
+പ്രിൻസിപ്പൽ. ദാവീദ് രാജാവു് യഹോവയുടെ ആറാംപ്രമാണം ലംഘിച്ചു് ശിക്ഷാർഹനായ നാടകം പഠിച്ചാൽ
+ചെറുബാല്യക്കാർ ‘പേച്ചുപോം’ എന്ന കാരണമാണു്. അദ്ദേഹത്തിൽനിന്നു് നാം പ്രതീക്ഷിച്ചതു്. പക്ഷേ,
+ദാർശനികവും ദൈവശാസ്ത്രപരവുമാണു് പ്രിൻസിപ്പലദ്ദേഹത്തിന്റെ ആക്ഷേപങ്ങൾ. ദാവീദ്
+പ്രവാചകന്മാരിലൊരാളാണെന്നും പ്രവാചകന്മാർ തെറ്റുചെയ്യാറില്ലെന്നും നാടകത്തിൽ ദാവീദ് തെറ്റുചെയ്തുവെന്നു്
+പറയുന്നതു് മതവിശ്വാസത്തിനെതിരാണെന്നുമാണു് പ്രിൻസിപ്പലിന്റെ പക്ഷം. പാഠഭാഗങ്ങൾ തെരഞ്ഞെടുത്ത
+ഉപസമിതിയിൽ കാകദൃഷ്ടി ബകധ്യാനക്കാരനായ ഒരു കഥാകൃത്തും ഇടതുകാലിലെ മന്തു് വലതുകാലിലേക്കു്
+മാറ്റുന്ന കാസറ്റ് മഹാകവിയും അംഗങ്ങളായിരുന്നു. മതവികാരത്തെ പേടിച്ചാകണം, ഇരുവരും മൗനം പാലിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Netaji_Subhas_Chandra_Bose.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുഭാഷ് ചന്ദ്രബോസ്</figDesc>
+          </figure>
+          <p> “അരഹാജി ദീൻകൊല്ലും” എന്നൊരു ചൊല്ലുണ്ടു് ഞങ്ങളുടെ നാട്ടിൽ. “അടുക്കള വിട്ടുപോയില്ല,
+അറിവുള്ളോരെ കണ്ടില്ല, കിത്താബൊന്നും ഓതീല്ല, ഫത്വാക്കൊട്ടും കുറവീല” എന്നുമുണ്ടു് ഒരു കിസ്സ.
+(ഏറനാടൻ വാമൊഴിയിലെഴുതുന്നതു് മുസൽമാൻമാരെ പരിഹസിക്കാനാണെന്ന ആക്ഷേപമുന്നയിച്ചുകൊണ്ടു്
+ഡിസംബർ 20-ന്റെ ചന്ദ്രികയിൽ ഒരു പുമാൻ ലേഖനമെഴുതിയിരിക്കുന്നു. കുളിക്കാത്ത, താടിവടിക്കാത്ത
+പ്രാകൃതനായ ഒരു പത്രലേഖകനാണു് രാജേശ്വരി എന്ന ഹിന്ദുസ്ത്രീനാമം ധരിച്ചു് സാഹിത്യരചന നടത്തുന്നതെന്ന
+കണ്ടുപിടിത്തവും ടിയാൻ നടത്തിയിട്ടുണ്ടു്. ഖിയാമത്തിന്റെ അലാമത്തുകൾ എന്നല്ലാതെ എന്തുപറയാൻ?)
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Arnold_J_Toynbee.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർണോൾഡ് ടോയൻബി</figDesc>
+          </figure>
+          <p> കാക്കാകാരണവന്മാരുടെ കാലംമുതൽ പാഠഭാഗങ്ങളുടെ കാര്യത്തിൽ തൽപരരാണു് മുസ്ലീംലീഗുകാർ.
+ഒന്നാമത്തെ കമ്യൂണിസ്റ്റ് മന്ത്രിസഭയുടെ കാലത്തു് ‘ന്റുപ്പൂപ്പാക്കൊരനെണ്ടാർന്നു്’ ഹൈസ്കൂളിൽ
+ഉപപാഠപുസ്തകമാക്കിയപ്പോൾ എന്തൊക്കെ പുക്കാറാണുണ്ടായതു്! ഹൈക്കോടതിയിൽ മുസ്ലീം ജഡ്ജിയില്ല,
+ജില്ലാ ജഡ്ജിമാരിലും മുസ്ലീംകളില്ല. പബ്ലിക്ക് സർവീസ് കമീഷനിലും അംഗമായി മുസ്ലീംകളാരുമില്ല എന്നു
+പ്രസംഗിച്ചു നടന്ന <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദ്കോയ</ref> വരെ ‘ന്റുപ്പൂപ്പ… ’ പാഠപുസ്തകമാക്കിയതിനെ അപലപിച്ചു. “… <ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">ബഷീറിന്റെ</ref>
+‘<ref target="https://ml.wikipedia.org/wiki/Ntuppuppaakkoraanaendaarnnu">ന്റുപ്പൂപ്പാക്കൊരാനേണ്ടാർന്നു</ref>’
+എന്ന പുസ്തകം ഇന്നു് ഹൈസ്ക്കൂൾ ക്ലാസിൽ പഠിപ്പിക്കുന്നതിനു് എടുത്തിട്ടുണ്ടു്. കെട്ടിക്കാറായ ഒരു പെൺകുട്ടി
+കുപ്പായം അഴിച്ചുവെക്കുന്നതും പിന്നെ തുണി അഴിഞ്ഞുപോകുന്നതും നഗ്നമായ തുടയിൽ ഒരട്ട മിനുസമായി
+ഉരസുന്നതും കുട്ടികളെ പഠിപ്പിക്കുന്ന ഒരു പുസ്തകത്തിൽ എഴുതാൻ പാടില്ല. ആ പുസ്തകം ഒരു നോവലാണു്. മി.
+ബഷീർ ഒരു നല്ല നോവലെഴുത്തുകാരനും സാഹിത്യകാരനുമാണു്. അദ്ദേഹത്തെ വിമർശിക്കാൻ എനിക്കു്
+കഴിവില്ല, ആഗ്രഹവുമില്ല. അദ്ദേഹത്തെപ്പോലെ നോവലെഴുത്തിലോ സാഹിത്യത്തിലോ കഴിവുള്ളവർ വളരെ
+ചുരുക്കവുമാണു്. പക്ഷേ, ആ പുസ്തകം പാഠപുസ്തകമാക്കിയതിലാണു് എനിക്കു് വിയോജിപ്പു്. ഇപ്പോൾ
+പാഠപുസ്തകമാക്കിയ കൃതിയിലെ ചില വാചകങ്ങൾ ഈ നിയമസഭയിൽ വായിക്കാൻ കൊള്ളാത്തതായതു
+കൊണ്ടു് ഞാൻ വായിക്കുന്നില്ല… ”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CHmohammedKoya.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എച്ച്. മുഹമ്മദ്കോയ</figDesc>
+          </figure>
+          <p> 1974 കാലത്തു് ഒമ്പതാംതരത്തിൽ ഉപപാഠ പുസ്തകമായിരുന്ന ‘ഭാരതരത്നം’ എന്ന പുസ്തകത്തോടായിരുന്നു
+അടുത്ത പരാക്രമം. <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">പണ്ഡിറ്റ് നെഹ്റു</ref>
+വിന്റെ ജീവചരിത്രമാണു് ‘ഭാരതരത്നം’. 1946 ആഗസ്റ്റിൽ ‘പ്രത്യക്ഷസമരം’ നടത്തി കൽക്കത്തയിലും മറ്റും ഒട്ടേറെ
+മനുഷ്യരെ മയ്യത്താക്കി എന്ന പരാമർശം ഇവിടത്തെ ലീഗുകാരെ അരിശം കൊള്ളിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Chakkeeri_Ahamed_Kutty">ചാക്കീരി അഹമ്മദ്
+കുട്ടി</ref> യാണു് അന്നു് വിദ്യാഭ്യാസമന്ത്രി. ‘ഭാരതരത്നം’ പിൻവലിക്കപ്പെട്ടു. കെ. എസ്. യു.-ക്കാരും യൂത്ത്
+കോൺഗ്രസുകാരും കഠിനമായി പ്രതിഷേധിച്ചെങ്കിലും ഫലിച്ചില്ല. <ref target="https://ml.wikipedia.org/wiki/Subhash_Chandra_Bose">സുഭാഷ്
+ചന്ദ്രബോസി</ref> ന്റെ ജീവചരിത്രം ഒമ്പതാം സ്റ്റാൻഡേർഡിൽ ഉപപാഠപുസ്തകമായി വന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Sankar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ശങ്കർ</figDesc>
+          </figure>
+          <p> എൺപതുകളുടെ തുടക്കത്തിൽ കേരള സർവകലാശാലയിലെ ഒന്നാംവർഷഡിഗ്രി വിദ്യാർഥികൾക്കു്
+ഇംഗ്ലീഷ് പാഠപുസ്തകമായിരുന്നു ‘എ ടോയൻ ബി’ ആന്തോളജി’ അതിൽ <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+യെക്കുറിച്ചുള്ള ലേഖനം പഠിപ്പിക്കരുതെന്നായി മുസ്ലീം സ്റ്റുഡന്റ്സ് ഫെഡറേഷൻ. കാരണം, ഗാന്ധിജിയെ
+ടോയൻ ബി പ്രവാചകനോടു് താരതമ്യം ചെയ്തിരിക്കുന്നു! നയകോവിദനായ സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Baby_John">ബേബിജോൺ</ref> (അന്നത്തെ
+വിദ്യാഭ്യാസമന്ത്രി)ഇടപെട്ടു് തർക്കം സബൂറാക്കി: പ്രവാചകനോടു് മഹാത്മാവിനെ തുലനം ചെയ്യുന്ന അവസാന
+ഖണ്ഡിക ക്ലാസിൽ എടുക്കേണ്ട. വേണമെന്നുള്ളവർ സ്വന്തമായി വായിച്ചുപഠിക്കട്ടെ. കേരളത്തിൽ
+എം. എസ്. എഫുകാരെന്നൊരു കൂട്ടരുള്ളതായി അറിഞ്ഞിരുന്നെങ്കിൽ ചരിത്രമേ എഴുതുമായിരുന്നില്ല, <ref target="https://ml.wikipedia.org/wiki/Arnold_J._Toynbee">ആർണോൾഡ്
+ടോയൻബി</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mundassery.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോസഫ് മുണ്ടശ്ശേരി</figDesc>
+          </figure>
+          <p> സാഹിത്യത്തിന്റെ അലിഫ്ബാ അറിയാത്തതുകൊണ്ടാണോ അതോ മുല്ലാ ഉമറിന്റെ താവഴിയിൽപ്പെട്ട
+താലിബാൻ ചിന്താഗതിക്കാരനായതുകൊണ്ടാണോ നമ്മുടെ ട്രെയ്നിംഗ് കോളേജ് പ്രിൻസിപ്പൽ ‘ആ മനുഷ്യനെ’
+പാഠപുസ്തകത്തിൽനിന്നു് ചവിട്ടി പുറത്താക്കിയതു്. ഒരു സമുന്നത ലീഗ് നേതാവിന്റെ സമീപകാല ചെയ്തികളെ
+ഓർമിപ്പിക്കുന്നതാണു് നാടകത്തിന്റെ ഇതിവൃത്തം എന്ന കാരണവും കണ്ടേക്കാം. ഒട്ടേറെ ആടുമാടുകളെ പോറ്റുന്ന
+അഭിനവ ദാവീദ്, ഒരു സിവിൽ സർവീസുകാരന്റെ കുഞ്ഞാടിനെ അറുത്തു് ബിരിയാണി വെച്ചിട്ടു് അധികം
+കാലമായില്ലല്ലോ? <ref target="https://ml.wikipedia.org/wiki/C.J._Thomas">സി. ജെ.</ref>-യുടെ സുപ്രസിദ്ധ
+സംഭാഷണം കടമെടുത്താൽ: “നാവുകൾ ചിലയ്ക്കും. ചിലയ്ക്കട്ടെ. അതിനെ അവഗണിക്കാൻ മാത്രം ശക്തനാണു്
+ദാവീദ് രാജാവു്. ആശങ്കകളെല്ലാം ഞാൻ തെക്കൻ കാറ്റിൽ പറപ്പിക്കുന്നു. ഞാൻ യോർദ്ദാനെപ്പോലെ ഒഴുകും.
+സ്വതന്ത്രമായി, ശക്തിയോടെ…”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/C_J_Thomas-5.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. ജെ. തോമസ്</figDesc>
+          </figure>
+          <p> മലയാളത്തിലുണ്ടായ എക്കാലത്തെയും ഏറ്റവും മികച്ച നാടകങ്ങളിൽ ഒന്നാമത്തേതാണു് ആ മനുഷ്യൻ നീ
+തന്നെ. അതിലെ നാലാമങ്കം ഒമ്പതാംതരത്തിലെ കുട്ടികളെ തല്ലിപ്പഠിപ്പിക്കാഞ്ഞതുകൊണ്ട് നാടകത്തിനോ
+നാടകകൃത്തിനോ ഒരു അപകർഷവും സംഭവിക്കയില്ല. ടാറ്റയുടെ സകല യന്ത്രങ്ങളും മുതലും മുടക്കിയാലും ഒരു
+ചെറിയ പനിനീർപ്പൂവുണ്ടാക്കാൻ കഴികയില്ല എന്നും പറഞ്ഞുവെച്ചിട്ടുണ്ടു് <ref target="https://ml.wikipedia.org/wiki/C.J._Thomas">സി. ജെ. തോമസ്</ref>.
+ശ്രേഷ്ഠാചാര്യ <ref target="https://ml.wikipedia.org/wiki/Nalakath_Soopy">സൂപ്പി</ref>
+മുതൽക്കിങ്ങോട്ടുള്ള സകലമാന ലീഗുകാരും ഒത്തുചേർന്നു് ശ്രമിച്ചാലും ‘ആ മനുഷ്യൻ നീ തന്നെ’ പോലുള്ള ഒരു
+കൃതി ഉണ്ടാവുമോ? ഒരിക്കലുമില്ല. അതിനു സിദ്ധി വേണം. സാധന വേണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mahatma-Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മഹാത്മാഗാന്ധി</figDesc>
+          </figure>
+          <p> 1958–59 കാലത്തു് ‘ന്റുപ്പൂപ്പ…’ക്കെതിരെ കത്തോലിക്കരും കരയോഗക്കാരും ലീഗുകാരുമൊക്കെ
+വാളെടുത്തപ്പോഴും വിദ്യാഭ്യാസ മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Joseph_Mundassery">ജോസഫ്
+മുണ്ടശ്ശേരി</ref> കുലുങ്ങിയില്ല. ഏതാനും വർഷങ്ങൾക്കുശേഷം <ref target="https://ml.wikipedia.org/wiki/P.Kesavadev">കേശവദേവി</ref> ന്റെ
+‘ഓടയിൽ നിന്നു് ’ അശ്ലീല കൃതിയാണെന്നും പാഠപുസ്തകമാക്കരുതെന്നും അഭിപ്രായമുണ്ടായപ്പോൾ അന്നത്തെ
+മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/R._Sankar">ആർ. ശങ്കർ</ref>
+തന്നെ ദേവിന്റെ രക്ഷക്കെത്തി. ഇപ്പോഴോ?
+</p>
+          <lg>
+            <l> പൃത്ഥിയിലന്നുമനുഷ്യർ നടന്ന പ-</l>
+            <l> ദങ്ങളിലിപ്പോഴധോമുഖവാമനർ</l>
+            <l> ഇത്തിരിവട്ടം മാത്രം കാണ്മവർ</l>
+            <l> ഇത്തിരിവട്ടം ചിന്തിക്കുന്നവർ.</l>
+            <l>
+വൈലോപ്പിള്ളി—ഓണപ്പാട്ടുകാർ. </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Davidum Bathshebayum 21-am
+Noottandil (ml: ദാവീദും ബത്ശേബയും 21-ാം നൂറ്റാണ്ടിൽ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Davidum Bathshebayum 21-am Noottandil, കെ. രാജേശ്വരി, ദാവീദും ബത്ശേബയും 21-ാം നൂറ്റാണ്ടിൽ,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:J%C3%B8rgen_Walentin_Sonne__Young_Lady_looking_at_the_Summer_Night_from_an_Open_Door_of_a_veranda__NG.M.04414_-_National_Museum_of_Art,_Architecture_and_Design.jpg">Young
+Lady looking at the Summer Night from an Open Door of a veranda,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:J%C3%B8rgen_Sonne_(painter)">Jørgen
+Sonne</ref>  (1801–1890). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-21noottand.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-21noottand.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പൂക്കൈത</title>
+          <title xml:lang="en" type="main">Pookkaitha</title>
+        </title>
+        <author>KGS</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 22, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പൂക്കൈത</title>
+              <title xml:lang="en" type="main">Pookkaitha</title>
+            </title>
+            <author>KGS</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-12-02</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>KGS</term>
+          <term>Pookkaitha</term>
+          <term>കെ. ജി. എസ്.</term>
+          <term>പൂക്കൈത</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-12-02</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Antonio_Muniz.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Antonio_Mu%C3%B1iz__Untitled.jpg">Untitled,</ref> a painting by Humberto Antonio Muniz  .
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പൂക്കൈത</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. ജി. എസ്.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പൂക്കൈത</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-pookkaitha-04.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <lg>
+            <l> വൃദ്ധൻ ഒറ്റയ്ക്കു് താമസം, ഒറ്റമുറിവീട്ടിൽ;</l>
+            <l> വൈക്കം കായലിന്റെ ഓരത്തു്.</l>
+            <l> എങ്ങുന്നോ എന്നോ വന്നൊരാൾ; സിദ്ധനോ </l>
+            <l> മുൻനക്സലൈറ്റോ മായാവിയോ. </l>
+            <l> കാണാൻ വരുന്നു പലരും. </l>
+            <l> ഭാവനയിൽ വൈക്കം പലരാക്കി വൃദ്ധനെ.</l>
+            <l> നിലാവത്തു് കായലിനു് മേലേ ഉലാത്തുന്നൊരാൾ, </l>
+            <l> ചിലർ കണ്ടു. </l>
+            <l> കായൽക്കാറ്റിൽ ആ ജുബ </l>
+            <l> കാണാത്തോണിക്കു് പായ; </l>
+            <l> ചിലർ കണ്ടു. ചിതറി വൃദ്ധൻ </l>
+            <l> ചരിത്രത്തിൽ നിന്നു് കെട്ടുകഥകളിലേക്കു്.</l>
+            <l> കെടുന്നില്ലൊരു വീട്ടിലും</l>
+            <l> കെട്ടുകഥ വേവും അടുപ്പു്.</l>
+          </lg>
+          <lg>
+            <l> സ്കൂൾ വിട്ടു് മടങ്ങും വഴി മൂന്നദ്ധ്യാപകർ </l>
+            <l> സാഹസികരായി: ഇന്നറിയണം നിജം.</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">രണ്ടു്</head>
+          <lg>
+            <l> വൃദ്ധൻ പറഞ്ഞു: സാറുമ്മാരെ, എന്റെ പേർ സംഭവൻ.</l>
+            <l> മുംബൈയിലും അഹമ്മാദാബാദിലും</l>
+            <l> തുണിമിൽത്തൊഴിലാളി.</l>
+            <l> ദത്താസാമന്ത് എന്ന ഡോക്ടർ സാബിന്റെ </l>
+            <l> യൂണിയനിലെ രണ്ടര ലക്ഷത്തിലൊരു കനൽ.</l>
+            <l> ഗുജറാത്തി, മറാത്തി, ഹിന്ദി, അന്നു് വശമായി.</l>
+            <l> എന്നെപ്പറ്റിപ്പറയാൻ ദലിത് കവി </l>
+            <l> യശ്വന്ത് വഗേലയുടെ രീതിയാണെളുപ്പം:</l>
+          </lg>
+          <lg>
+            <l> എന്റെ കുലം അയ്യങ്കാളിയുടെ</l>
+            <l> തല ശംബൂകന്റെ </l>
+            <l> കൈ ഏകലവ്യന്റെ</l>
+            <l> മനസ്സു് കബീറിന്റെ</l>
+            <l> സ്വപ്നം നെരൂദയുടെ</l>
+            <l> വെളിവു് നീതിവംശത്തിന്റെ. </l>
+            <l> നേരം പോയ് നേരം പോയ് പാടി ഞാൻ</l>
+            <l> വിലങ്ങില്ലാ വാക്കു് വിതയ്ക്കാൻ കൂടി </l>
+            <l> തീണ്ടലില്ലാ കൂടൽ വളർത്താൻ കൂടി</l>
+            <l> ഓരു്വെള്ളം പോലെ ദുർഭൂതം </l>
+            <l> ഭാവിക്കണ്ടത്തിലേക്കൊഴുകുന്നതു് തടയാൻ കൂടി</l>
+            <l> രാജ്യം നീതിക്കവിതയാക്കാൻ കൂടി. </l>
+          </lg>
+          <lg>
+            <l> കൂട്ടക്കൊലയുടെ കാലത്തു്</l>
+            <l> ഗുജറാത്ത് ചോദിച്ചു:</l>
+            <l> ബീവീം മോളും വെന്തു; നിനക്കെന്തു് വേണം?</l>
+            <l> ചാവണോ കൈകാൽ വെട്ടി വിടണോ?</l>
+          </lg>
+          <lg>
+            <l> ഓടിയോടി വെറുപ്പിന്റെ തീപ്പുരയിൽ നിന്നു്</l>
+            <l> പുറത്തെത്തിയപ്പോൾ ഞാനൊരു പുകച്ചുരുൾ. </l>
+            <l> ഞാനെന്റെ മായൽ കാണുകയാണെന്നു് തോന്നി.</l>
+            <l> കോശങ്ങളിൽ ലോകമെഴുതിയ </l>
+            <l> ക്ഷോഭപ്രമാണങ്ങൾ മായുന്നെന്നു് തോന്നി.</l>
+            <l> എഴുത്തെല്ലാം മാഞ്ഞ കൽത്താളുമായി </l>
+            <l> എന്റെ മോശ മരുഭൂമിയിൽ ഒറ്റപ്പെട്ടെന്നു് തോന്നി.</l>
+            <l> ഒറ്റപ്പെടലും കൊല്ലപ്പെടലെന്നു് തോന്നി.</l>
+            <l> ഏറ്റുവിളിക്കാനാള് വേണം</l>
+            <l> മുദ്രാവാക്യത്തിനു് ജീവിക്കാൻ.</l>
+            <l> കൂട്ടു് വേണം പാട്ടിനു് ജീവിക്കാൻ.</l>
+          </lg>
+          <lg>
+            <l> പട്ടിക്കതിന്റെ വാൽ പിടികിട്ടുന്നില്ല;</l>
+            <l> എനിക്കെന്റെ മനസ്സും; </l>
+            <l> ആ സമരവട്ടത്തിൽ ചുറ്റിക്കറങ്ങി,</l>
+            <l> സൂചിപ്പെരുപ്പം കൊണ്ടു് </l>
+            <l> നേരഭ്രമം ബാധിച്ച എന്റെ ഘടികാരം. </l>
+          </lg>
+          <lg>
+            <l> ആളിന്റെ തെളിമ നോക്കി</l>
+            <l> വാഴ്‌വിന്റെ എളിമ നോക്കി</l>
+            <l> പുസ്തകങ്ങളെ നോക്കി,</l>
+            <l> മനസ്സിലാകായ്കയിലും മതിപ്പു് തോന്നി, </l>
+            <l> മാഷന്മാർ മടങ്ങി.</l>
+            <l> കണ്ടോ കേട്ടോ മനസ്സിൽ നിന്ന </l>
+            <l> ഗാന്ധിയൻ/ മാർക്സിയൻ/അംബേദ്കേറിയൻ</l>
+            <l> ഛായകളിൽ കുടയൂന്നി,</l>
+            <l> വൃദ്ധന്റെ കൊമ്പും തുമ്പിയും ചെവിയും കാലും </l>
+            <l> വർണ്ണിച്ചും തർക്കിച്ചും മാഷന്മാർ </l>
+            <l> കടവത്തേക്കു് നടന്നു. </l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"/>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-pookkaitha-03.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">മൂന്നു്</head>
+          <lg>
+            <l> ഞാനറിയും മൂപ്പരെ,</l>
+            <l> മാങ്ങാടു് രത്നാകരൻ പറഞ്ഞു;</l>
+            <l> പോയിട്ട്ണ്ടു് ഞാനാ ഒറ്റമുറിയിൽ</l>
+            <l> ചിന്തരവിക്കൊപ്പം.</l>
+            <l> കെ. പി. ആറിന്റെയോ പാറയുടേയോ</l>
+            <l> വടിവിലൊരു വൃദ്ധകനൽ. </l>
+          </lg>
+          <lg>
+            <l> രവി ചോദിച്ചു:</l>
+            <l> എപ്പോഴും സന്ദർശകർ; ആളൊഴിഞ്ഞെപ്പൊഴാ </l>
+            <l> കള്ളച്ചരിത്രത്തിനെതിരേ</l>
+            <l> നേർച്ചരിത്രമെഴുത്തു? </l>
+          </lg>
+          <lg>
+            <l> വേണേൽ നേരം വേരിലും കായ്ക്കും, രവീ;</l>
+            <l> വേണംന്നു് തോന്നണം.</l>
+            <l> ആൾവരവു് വിശ്വാസ, സംശയ, വരവു്.</l>
+            <l> ഞാനതു് രസിക്കുന്നു.</l>
+            <l> കാണുമ്പോൾ ഏകവചനം</l>
+            <l> കേൾക്കുമ്പോൾ ബഹുവചനം, വരുന്നവർ. </l>
+            <l> നേടുന്നു വരവേതിലും ഞാൻ, വൃദ്ധൻ ചിന്താസക്തൻ,</l>
+            <l> തത്വസുഖമെന്തെങ്കിലും;</l>
+            <l> തേടുന്നു പ്രത്യാശ, മൃത്യുഞ്ജയ രഹസ്യവും. </l>
+            <l> കോരുന്ന മീനെല്ലാം ചോരുന്നു</l>
+            <l> വാർദ്ധക്യത്തിന്റെ വലിയ വലക്കണ്ണിയിലെങ്കിലും. </l>
+          </lg>
+          <lg>
+            <l> ആരും വരാനില്ലാത്തപ്പോൾ വരും</l>
+            <l> തോണിക്കാരന്റെ കൂക്കു്, സമയം തുഴയും</l>
+            <l> നീണ്ടു് നീണ്ടൊരു വാക്കു്;</l>
+            <l> ഉച്ചഭാഷിണിയിലൂടെ വരും സക്കറിയയോ</l>
+            <l> ഇളയിടമോ കപിക്കാടോ ചുള്ളിക്കാടോ</l>
+            <l> രാജീവനോ സച്ചിയോ കാരശ്ശേരിയോ </l>
+            <l> സമയം തുറക്കും വെയിൽ.</l>
+            <l> നാളെ വരും ശ്രീരാമനും ക്യാമറയുമെന്നെ</l>
+            <l> വേറിട്ട കാഴ്ചയാക്കാനെന്നോർമ്മ വരും.</l>
+            <l> കായൽക്കയം മുഴക്കി വരും വാനമ്പാടി</l>
+            <l> ജീവനെരിഞ്ഞു് പാടി വരും രാപ്പാടി, വരും</l>
+            <l> ഉള്ളിലൊരു കിളി പാടും വാക്കു്, കവിത; </l>
+            <l> പൊയ് കീറും വജ്രം</l>
+            <l> നേരൂറും ഉറവ </l>
+            <l> നാലും ആറും നാനോപ്പൊരുളുമാടും വാക്കു്. </l>
+          </lg>
+          <lg>
+            <l> കായലറിയുമാദ്യം</l>
+            <l> ഇരുളിന്റെ വെളിവിന്റെ വരവു്;</l>
+            <l> വാക്കിലറിയുമാദ്യം</l>
+            <l> ഭ്രാന്തിന്റെ പ്രിയത്തിന്റെ വരവു്.</l>
+            <l> ദുരന്ത ശുഭാന്തങ്ങൾ.</l>
+            <l> വെറുപ്പല്ല സ്നേഹത്തിന്റെ വിപരീതപദം</l>
+            <l> ഭ്രാന്തെന്നു് കേഴും ഭാഷ.</l>
+            <l> പെണ്ണും ദളിതും നീതിയും തെളിക്കപ്പെടുന്നതു് </l>
+            <l> ബലിക്കുറ്റിയിലേക്കെന്നു് കാണിക്കും.</l>
+            <l> ആത്മഹത്യയ്ക്കുള്ള ഭ്രാന്തൻ തയ്യാറെടുപ്പിലാണു്</l>
+            <l> ലോകമെന്നു് തോന്നിക്കും.</l>
+            <l> ഞാനെന്നിൽ പതുങ്ങിയിരിക്കുന്നെന്നു് </l>
+            <l> തോന്നിക്കും. </l>
+            <l> ചരിത്രം കൊള്ളിവാക്കു് കൊണ്ടെന്നെ</l>
+            <l> പൊള്ളിക്കുന്നെന്നു് തോന്നും.</l>
+            <l> പകൽ വീഴ്ത്താനാവാഞ്ഞ വന്യമൃഗങ്ങളെ </l>
+            <l> ഗുഹയുടെ രാച്ചുമരിൽ ഞാൻ കോറി വീഴ്ത്തും.</l>
+            <l> പീഡിപ്പിച്ച ബോസിനെ പെൺവാക്കു്</l>
+            <l> നീതിമുനയിൽ തറച്ചെന്നു് കേൾക്കും. </l>
+            <l> പീഡനത്തുറുങ്കിൽ നിന്നു് നീതി</l>
+            <l> മോചിതസുന്ദരിയായി ഇറങ്ങി വരുന്നെന്നു് തോന്നും.</l>
+            <l> മുറ്റത്തൊഴിഞ്ഞു് നിൽക്കുന്ന </l>
+            <l> നിഴലിന്റെ മൌനത്തിലെ തീയുടെ തഴമ്പു്</l>
+            <l> സി. അയ്യപ്പന്റെ കഥ കാണിക്കും.</l>
+            <l> വരാനാരുമില്ലാത്തപ്പോളിങ്ങനെ മുനകളായ് </l>
+            <l> വന്നു തറയാറുണ്ടെന്റെ </l>
+            <l> രാക്കാതിൻ പനമ്പുവാതിലിൽ വാക്കു്. </l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">നാലു്</head>
+          <lg>
+            <l> മനസ്സുരുകി ഞാൻ തുക്കാറാമിനോടു് ചോദിച്ചു: </l>
+            <l> തുക്കാറാം, </l>
+            <l> ഈ വാക്കുകളോ നീ ചൂടുന്ന</l>
+            <l> ഒരേയൊരാഭരണം?</l>
+            <l> നിന്നെ ജീവിപ്പിക്കുന്ന</l>
+            <l> ഒരേയൊരന്നം?</l>
+            <l> നീയണിയുന്ന </l>
+            <l> ഒരേയൊരു വസ്ത്രം?</l>
+            <l> നീ വാരിവിതറുന്ന </l>
+            <l> ഒരേയൊരു ധനം? </l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 0.0/1.4"-->
+        <div type="lsection" xml:id="sec1.5">
+          <head type="lsechead">അഞ്ചു്</head>
+          <lg>
+            <l> പറയില്ല ഞാൻ പൂക്കൈതയെ<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> സൂര്യനാക്കിയ </l>
+            <l> പഴയ പോരാട്ടം പാഴായെന്നു്; വേദികളിൽ </l>
+            <l> ആളിക്കുന്നുണ്ടു് വിവേകികൾ </l>
+            <l> നേരം പോയ് നേരം പോയ് എന്ന </l>
+            <l> നീതിപ്പാട്ടിലെ തുല്യനീതിയുടെ എതിർജ്യോതി.</l>
+          </lg>
+          <lg>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"/>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] “അവരുടെ
+പൂക്കൈതയ്ക്കു് ഇവിടെ സൂര്യൻ എന്നു് തന്നെയാണു് അർത്ഥം.”—കവിയൂർ മുരളി. ദലിത് ഭാഷ, പേജ് 106.</note>
+          </noteGrp>
+          <figure rend="fcenter" type="grd">
+            <graphic url="images/kgs-santhosh-t.png" width="142.26378pt" rendition="grd"/>
+          </figure>
+          <p>ഡ്രോയിങ്: വി. ആർ. സന്തോഷ്
+</p>
+          <p>ചിത്രങ്ങൾ: വി. മോഹനൻ
+
+</p>
+        </div>
+        <!--end of "section 0.0/1.5"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Pookkaitha (ml: പൂക്കൈത).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  KGS.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-12-02. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, KGS, Pookkaitha, കെ.
+ജി. എസ്., പൂക്കൈത, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 22, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Antonio_Mu%C3%B1iz__Untitled.jpg">Untitled,</ref> a painting by Humberto Antonio Muniz  . The
+image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kgs-pookkaitha.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kgs-pookkaitha.pdf">Download Phone
+
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

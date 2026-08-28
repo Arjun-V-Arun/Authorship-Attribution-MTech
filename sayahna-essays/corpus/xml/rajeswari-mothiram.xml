@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">എട്ടാമത്തെ മോതിരം തനിത്തങ്കം</title>
+          <title xml:lang="en" type="main">Ettamaththe Mothiram Thanithankam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2026">April 11, 2026</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">എട്ടാമത്തെ മോതിരം തനിത്തങ്കം</title>
+              <title xml:lang="en" type="main">Ettamaththe Mothiram Thanithankam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Ettamaththe Mothiram Thanithankam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>എട്ടാമത്തെ മോതിരം തനിത്തങ്കം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 11, 2026</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Laurits_Andersen_Ring_En_Dreng.png" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Laurits_Andersen_Ring__En_Dreng,_der_l%C3%A6ser_Lektier_-_1893.png">A boy doing his
+homework,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:L._A._Ring">Laurits Andersen
+
+Ring</ref>  (1854–1933). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">എട്ടാമത്തെ മോതിരം തനിത്തങ്കം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">എട്ടാമത്തെ മോതിരം തനിത്തങ്കം</head>
+        <div type="lsection">
+          <p style="noindent">1953 ഡിസംംബർ 31-നും 1954 ജനുവരി ഒന്നിനുമിടക്കുള്ള രാത്രിയിലാണു് <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">കെ. സി. മാമ്മൻ
+മാപ്പിള</ref> ഇഹലോകവാസം വെടിഞ്ഞതു്. ഏതാനും മാസങ്ങൾക്കുമുമ്പു് അദ്ദേഹത്തിന്റെ സഹധർമിണി
+മാമിമരണമടഞ്ഞിരുന്നു. മാമ്മൻ മാപ്പിള ഭാര്യയുടെ സ്വർണാഭരണങ്ങൾ ഉരുക്കി മോതിരം പണിയിച്ചു്
+മക്കൾക്കുകൊടുത്തു എന്നാണു് ഐതിഹ്യം.
+</p>
+          <p>ശതാബ്ദി വേളയിൽ (1988) മലയാള മനോരമ പ്രസിദ്ധീകരിച്ചു പുസ്തകമാണു് സംസ്കാരിക നവോത്ഥാനം.
+<ref target="https://ml.wikipedia.org/wiki/N._V._Krishna_Warrier">എൻ. വി.
+കൃഷ്ണവാര്യരു</ref> ടെ അവതാരികയും <ref target="https://ml.wikipedia.org/wiki/K._M._Mathew">കെ. എം. മാത്യു</ref> വിന്റെ
+ആമുഖവും ഗ്രന്ഥകാരൻ <ref target="https://en.wikipedia.org/wiki/Murkot_Kunhappa">മൂർക്കോത്തു
+കുഞ്ഞപ്പ</ref> യുടെ പ്രസ്താവനയും കഴിഞ്ഞു് ഒന്നാമധ്യായത്തിനു തൊട്ടുമുമ്പായി മോതിരങ്ങളുടെ കഥ
+സൂചിപ്പിച്ചിട്ടുണ്ടു്. “മാമ്മൻ മാപ്പിളയുടെ സഹധർമിണിയുടെ നിര്യാണത്തിനുശേഷം അവരുടെ ആഭരണങ്ങൾ
+ഉരുക്കി ഏഴുമോതിരങ്ങളുണ്ടാക്കി ഏഴുപുത്രന്മാർക്കും കൊടുത്തു. ആ മോതിരം ധരിക്കുമ്പോൾ ഈ പ്രതിജ്ഞ
+ചെയ്യണമെന്നായിരുന്നു അദ്ദേഹത്തിന്റെ നിർദേശം.
+</p>
+          <p>I humbly undertake to pray God constantly—especially when any difficulty or temptation confronts
+me—for divine guidance and help to conduct myself in thought, word and deed in such a manner as would
+have been pleasing to our dearest mother had she been alive—as would be pleasing to our dearest mother
+now resting in God’s presence—I shall cherish this ring as an ever present help and inspiration.
+
+</p>
+          <p>പരിഭാഷ: എല്ലായ്പ്പോഴും പ്രത്യേകിച്ചു് ഏതെങ്കിലും പ്രയാസവും പ്രലോഭനവും എന്നെ നേരിടുന്ന
+സന്ദർഭങ്ങളിൽ, ഞങ്ങളുടെ പ്രിയപ്പെട്ട അമ്മ ഇപ്പോൾ ജീവിച്ചിരുന്നെങ്കിൽ അമ്മക്കു സന്തോഷമാകുമായിരുന്ന
+വിധത്തിലും—ഇപ്പോൾ ദൈവസന്നിധിയിൽ വിശ്രമിക്കുന്ന ഞങ്ങളുടെ ഏറ്റവും പ്രിയപ്പെട്ട അമ്മയ്ക്കു
+സന്തോഷകരമായ വിധത്തിലും—പെരുമാറത്തക്ക ദൈവിക സഹായത്തിനും മാർഗ്ഗദർശനത്തിനും വേണ്ടി
+പ്രാർത്ഥിക്കുമെന്നു സവിനയം ഞാൻ പ്രതിജ്ഞ ചെയ്യുന്നു.
+</p>
+          <p>ആ സഹായവും ആശയ പ്രചോദനവും എപ്പോഴും എന്റെ കൂടെത്തന്നെ ഉണ്ടെന്നുള്ളതിന്റെ വിലയേറിയ
+അടയാളമായി ഞാൻ ഈ മോതിരം ധരിക്കുന്നതാണു്.”
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">മാമ്മൻ
+മാപ്പിള</ref> യുടെ കൈപ്പടയിലുള്ള കുറിപ്പിന്റെ പകർപ്പു് തൊട്ടടുത്ത പേജിലും പ്രസിദ്ധീകരിച്ചുകാണുന്നു.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">മാമ്മൻ
+മാപ്പിള</ref>-മാമ്മി ദമ്പതികൾക്കു് ഒമ്പതു മക്കളാണു് ഉണ്ടായിരുന്നതു്. എട്ടാണും ഒരു പെണ്ണും <ref target="https://en.wikipedia.org/wiki/K._M._Cherian_(journalist)">കെ. എം.
+ചെറിയാൻ</ref>, കെ. എം. ഉമ്മൻ, കെ. എം. ഈപ്പൻ, കെ. എം. വർഗീസ് മാപ്പിളാ, കെ. എം. ജേക്കബ്,
+<ref target="https://ml.wikipedia.org/wiki/K._M._Mathew">കെ. എം. മാത്യു</ref>,
+<ref target="https://ml.wikipedia.org/wiki/K.M._Philip">കെ. എം. ഫിലിപ്പ്</ref>,
+മറിയക്കുട്ടി, <ref target="https://ml.wikipedia.org/wiki/K._M._Mathew">കെ. എം.
+മാത്യു</ref>, <ref target="https://en.wikipedia.org/wiki/K._M._Mammen_Mappillai">കെ. എം. മാമ്മൻ
+മാപ്പിള</ref>. ഇവരിൽ ചാക്കോച്ചൻ എന്നു വിളിച്ചിരുന്ന കെ. എം. ജേക്കബ് ചെറുപ്പത്തിലേ മരണമടഞ്ഞു.
+അദ്ദേഹത്തിന്റെ ഭാര്യ സാറാമ്മ കുട്ടികുളുമൊത്തു് പിതൃഭവനത്തിലേക്കു് മടങ്ങിപ്പോയി. മാമ്മൻ മാപ്പിളയുടെ ഏക
+മകൾ മറിയക്കുട്ടി ഭർത്താവു് കുര്യൻമാത്തനോടൊപ്പം ബാംഗ്ലൂരിലായിരുന്നു സ്ഥിരതാമസം.
+</p>
+          <p>ഏഴു മോതിരങ്ങൾ പണിയിച്ചു് ഏഴു പുത്രന്മാർക്കുകൊടുത്തതിൽ അസ്വാഭവികമായി ഒന്നുമില്ല. ഒന്നാമതു്
+
+സുറിയാനി ക്രിസ്ത്യാനികൾക്കു് മക്കളെന്നു പറഞ്ഞാൽ ആൺമക്കളാണു്. പെൺമക്കൾക്കു് പിതൃസ്വത്തിൽ
+അവകാശമില്ല. <ref target="https://ml.wikipedia.org/wiki/Mary_Roy">മേരി
+റോയ്</ref> കേസുണ്ടായതും തിരു-കൊച്ചി ഭാഗത്തു് ഇന്ത്യൻ പിന്തുടർച്ചവകാശം ബാധകമായതുമൊക്കെ
+<ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">മാമ്മൻ
+മാപ്പിള</ref> യുടെ കണ്ണടഞ്ഞു് നാലുപതിറ്റാണ്ടിനു ശേഷമാണു്. രണ്ടാമതു് മോതിരമല്ല പ്രതിജ്ഞയാണു് മുഖ്യം.
+മറിയക്കുട്ടിയോ സാറാമ്മയോ പ്രയാസങ്ങളും പ്രലോഭനങ്ങളും നേരിടാനുള്ള സാധ്യത കുറവാണു്
+അതുകൊണ്ടുതന്നെ അവർ മോതിരം ധരിക്കേണ്ട, പ്രതിജ്ഞയും എടുക്കേണ്ട. സംഗതി തികച്ചും ന്യായം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KM_Mathew_AutoBiography.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. മാത്യു</figDesc>
+          </figure>
+          <p> മനോരമയുടെ ശതാബ്ദിയും സാംസ്കാരിക നവോത്ഥാനത്തിന്റെ പ്രസിദ്ധീകരണവും കഴിഞ്ഞു് 20
+കൊല്ലത്തിനുശേഷം മോതിരങ്ങളുടെ എണ്ണം ഏഴിൽ നിന്നു് ഒമ്പതായി ഉയർന്നിരിക്കുന്നു. ഡി. സി. ബുക്ക്സ്
+പ്രസിദ്ധീകരിച്ച <ref target="https://ml.wikipedia.org/wiki/K._M._Mathew">കെ. എം.
+മാത്യു</ref> വിന്റെ ആത്മകഥയുടെ പേരുതന്നെ ‘എട്ടാമത്തെ മോതിരം’ എന്നാണു്. നഷ്ടജാതകം എന്ന
+ആമുഖക്കുറിപ്പിൽ മോതിരവൃത്താന്തം വിവരിച്ചിട്ടുള്ളതു് ഇപ്രകാരമാണു്.
+</p>
+          <p>“ഓർമകളിലൂടെയുള്ള ദീർഘയാത്ര തുടങ്ങും മുൻപു് മോതിരവിരലിലെ ആ വഴിവെളിച്ചത്തെക്കുറിച്ചുകൂടി
+പറയണം. മക്കൾക്കു <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">കെ. സി. മാമ്മൻ
+മാപ്പിള</ref> നൽകിയ അനർഘമായ സ്വത്തു് എന്തായിരുന്നുവെന്നോ? ഓരോ സ്വർണമോതിരം! ഇന്നത്തെ
+കംപ്യൂട്ടർ യുഗത്തിൽ ‘നെറ്റ് വർക്കിങ്’ എന്നു പറയാവുന്ന ഒരു സമ്മാനം എന്റെ അമ്മച്ചി മാമ്മിയുടെ
+നിര്യാണത്തിനുശേഷം അമ്മച്ചിയുടെ സ്വർണാഭരണങ്ങൾ ഉരുക്കി ഒൻപതു മോതിരങ്ങൾ ഉണ്ടാക്കി.
+ജീവിച്ചിരിക്കുന്ന ഞങ്ങൾ ഏഴു സഹോദരന്മാർക്കും പരേതനായ സഹോദരൻ കെ. എം. ജേക്കബ്ബിന്റെ പത്നിക്കും
+ഞങ്ങളുടെ ഏക സഹോദരിക്കും വീതിച്ചുതന്നു. എട്ടാമനുകിട്ടിയ മോതിരം ആദ്യമണിഞ്ഞപ്പോൾ തന്നെ എനിക്കു
+തോന്നി, മോതിരവിരലിലൊരു കാവൽ മാലാഖ ഉണ്ടെന്നു്.
+</p>
+          <p>ആ മോതിരം ധരിക്കുമ്പോൾ ഞങ്ങൾ എടുക്കേണ്ട പ്രതിജ്ഞാവാചകവും അപ്പച്ചൻ സ്വന്തം കൈപ്പടയിൽ
+എഴുതിത്തന്നിരുന്നു. പ്രതിജ്ഞ ഇതായിരുന്നു… ഇതെഴുതുന്ന പേനയ്ക്കടുത്തു് എട്ടാമത്തെ മോതിരം ഇപ്പോഴും
+പ്രകാശിപ്പിക്കുന്നുണ്ടു്.”
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mary_Roy">മേരി റോയ്</ref>
+കേസിലെ സുപ്രീംകോടതി വിധിക്കു പൂർവകാല പ്രാബല്യം നൽകരുതെന്നാവശ്യപ്പെട്ടു് അച്ചടിമഷി ഒരുപാടു
+വറ്റിച്ചയാളാണു് അച്ചായൻ. അപ്പച്ചൻ മരിച്ച 55 കൊല്ലത്തിനു ശേഷം രണ്ടുമോതിരങ്ങൾ കൂടി പണിയിച്ചു
+സഹോദരിയെയും സഹോദരപത്നിയെയും അണിയിക്കുകയും അവരെക്കൊണ്ടുകൂടി പ്രതിജ്ഞയെടുപ്പിക്കുകയും
+ചെയ്തിരിക്കുന്നു. ആറാമത്തെ മോതിരത്തെ എട്ടാമത്തെ മോതിരമാക്കാനുള്ള കൈയടക്കവും
+കർമകുശലതയുമാണു് ഈ ഗ്രന്ഥത്തെ ശ്രദ്ധേയമാക്കുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CPRamaswami_Aiyar.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. പി. രാമസ്വാമി അയ്യർ</figDesc>
+          </figure>
+          <p> ‘എട്ടാമത്തെ മോതിര’ത്തിന്റെ ഒമ്പതു മുതൽ പതിനെട്ടുവരെ അധ്യായങ്ങൾ (110 പേജുകൾ)
+വിനിയോഗിച്ചിരിക്കുന്നതു് <ref target="https://ml.wikipedia.org/wiki/C._P._Ramaswami_Iyer">സി. പി. രാമസ്വാമി
+അയ്യരെ</ref> ദുഷിക്കാനും <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">കെ. സി. മാമ്മൻ
+മാപ്പിള</ref> യുടെ നിരപരാധിത്വം ആവർത്തിച്ചാവർത്തിച്ചു വ്യക്തമാക്കാനുമാണു്. ട്രാവൻകൂർ നാഷനൽ
+ആന്റ് ക്വയിലോൺ ബാങ്കിന്റെ തകർച്ചയും ഉടമസ്ഥരുടെ വിചാരണയും തടവുശിക്ഷയുമൊക്കെ
+പ്രതിപാദിക്കുമ്പോൾ സഹജമായ നയവും വിനയവും അഭിനയവും ഗ്രന്ഥകാരനെ വിട്ടുപിരിയുന്നു. സ്വരം
+പരുഷമാകുന്നു വാക്കുകൾക്കു മൂർച്ച കൂടുന്നു. വ്യാജരേഖയുണ്ടാക്കി ഇടപാടുകാരെ വഞ്ചിച്ചതിനാണു് <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">മാമ്മൻ
+മാപ്പിള</ref> യെയും കൂട്ടരെയും വിചാരണചെയ്തു ശിക്ഷിച്ചതു് എന്ന പ്രാഥമിക വസ്തുത വിസ്മരിക്കുന്നു. പകരം
+സി. പി.-യുടെ പൊലീസ്, സി. പി.-യുടെ കോടതി, സി. പി.-യുടെ പീനൽകോഡ്, സി. പി.-യുടെ ജയിൽ, സി. പി.
+അനുകൂല ചരിത്രകാരന്മാർ എന്നിവർക്കൊക്കെ നേരെ കുരച്ചു ചാടുന്നു. പ്രൊഫ. <ref target="https://ml.wikipedia.org/wiki/A._Sreedhara_Menon">എ.
+ശ്രീധരമേനോനെ</ref> പ്പോലും വിട്ടിട്ടില്ല. മനോരമ പൂട്ടിച്ചതിന്റെയും ബാങ്ക് തകർത്തതിന്റെയും
+ഉത്തരവാദിത്തം അമ്മ മഹാറാണിക്കാണെന്ന തിയറിയെപാടേ നിരാകരിക്കുന്നു (മറിച്ചു തെളിയിക്കാനുള്ള
+വ്യഗ്രതകൊണ്ടാവണം മാർത്താണ്ഡവർമ്മ മഹാരാജാവിനെക്കൊണ്ടു് മോതിരം പ്രകാശിപ്പിച്ചതു്)
+തിരുവിതാംകൂറിന്റെ വ്യവസായ പുരോഗതിക്കുവേണ്ടി <ref target="https://ml.wikipedia.org/wiki/C._P._Ramaswami_Iyer">സി. പി. രാമസ്വാമി
+അയ്യർ</ref> ഒരു ചുക്കും ചെയ്തില്ല എന്നു വാദിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_Sreedhara_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. ശ്രീധരമേനോൻ</figDesc>
+          </figure>
+          <p> സത്യത്തിൽ ഒമ്പതുമുതൽ പതിനെട്ടുവരെ അധ്യായങ്ങളിൽ വിവരിക്കുന്ന സംഗതികളിൽ മുക്കാൽപങ്കും
+<ref target="https://ml.wikipedia.org/wiki/K._M._Mathew">കെ. എം. മാത്യു</ref>
+വിനു് നേരിട്ടു് അറിവുള്ള കാര്യങ്ങളല്ല. ഇതേ കാര്യങ്ങൾ ഇതിനേക്കാൾ വ്യക്തതയോടെ കുറെക്കൂടി
+സത്യസന്ധമായി <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">കെ. സി. മാമ്മൻ
+മാപ്പിള</ref> യുടെ ‘ജീവിതസ്മരണകളി’ൽ പ്രതിപാദിച്ചിട്ടുള്ളതുമാണു്.
+</p>
+          <p>ബാങ്കു തട്ടിപ്പുകേസിലെ പ്രതികളെ എട്ടുകൊല്ലത്തെ തടവിനാണു് വിചാരണക്കോടതി ശിക്ഷിച്ചതു്. അപ്പീൽ
+പരിഗണനയിലിരിക്കെ കെ. സി. ഈപ്പൻ മരിച്ചു. കെ. വി. വർഗീസിനെ ഹൈക്കോടതി വെറുതെവിട്ടു. ബാക്കി
+മൂന്നുപേരുടെയും ശിക്ഷ ശരിവെച്ചു. <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">കെ. സി. മാമ്മൻ
+മാപ്പിള</ref> യും മകൻ കെ. എം. ഈപ്പനും നിരുപാധികം കുറ്റം സമ്മതിക്കുകയും ക്ഷമ യാചിക്കുകയും
+അനാരോഗ്യം പരിഗണിച്ചു് ജയിൽവിമുക്തരാക്കണമെന്നു് അന്നദാതാവായ പൊന്നുതമ്പുരാനോടു്
+താണപേക്ഷിക്കുകയും ചെയ്തു. മാപ്പപേക്ഷയിൽ <ref target="https://ml.wikipedia.org/wiki/Chithira_Thirunal">ചിത്തിര
+തിരുനാൾ</ref> തൃക്കൈവിളയാടി 1941 സെപ്റ്റംബർ 11-നു് <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">മാമ്മൻ
+മാപ്പിള</ref> യും മകനും ജയിൽമോചിതരായി. താമസം മദ്രാസിലേക്കു മാറ്റി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chalakuzhy_Paulose_Mathen.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. പി. മാത്തൻ</figDesc>
+          </figure>
+          <p> അവശേഷിച്ച പ്രതി, ചാലക്കുഴിയിൽ <ref target="https://ml.wikipedia.org/wiki/Chalakuzhy_Paulose_Mathen">സി. പി.
+മാത്തൻ</ref> കുറ്റം സമ്മതിച്ചു് ക്ഷമായാചനം നടത്താൻ തയാറായില്ല. <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">മാമ്മൻ
+മാപ്പിള</ref> യും മകനും തടികഴിച്ചിലാക്കിയ ശേഷവും അദ്ദേഹം പൂജപ്പുര ജയിലിൽ ഉണ്ടതിന്നുകഴിഞ്ഞു,
+മാത്തന്റെ ഭാര്യ അന്നത്തെ
+അഡ്വക്കറ്റ് ജനറൽ സർ. ബി. എൽ. മിത്തറുടെ നിയമോപദേശം സഹിതം വൈസ്രോയിക്കു് സമ്മർദത്താൽ <ref target="https://ml.wikipedia.org/wiki/Chalakuzhy_Paulose_Mathen">മാത്തനും</ref>
+മോചിതനായി എന്നാണു് ചരിത്രം.
+</p>
+          <p>ഇനി <ref target="https://ml.wikipedia.org/wiki/K._M._Mathew">കെ. എം.
+മാത്യു</ref> വിന്റെ ഭാഷ്യം കേൾക്കുക. കുറ്റസമ്മതം ക്ഷമായാചനം തുടങ്ങിയ പദങ്ങളൊന്നും അദ്ദേഹം
+കേട്ടിട്ടേയില്ല:
+
+</p>
+          <p>“കേസിനോടു ബന്ധപ്പെട്ട കാര്യങ്ങളോടൊപ്പം വിധിന്യായവും ചേർത്തു് കെ. പി. എബ്രഹാം മുഖേന അയച്ച
+അഭ്യർത്ഥനയിലൂടെ <ref target="https://ml.wikipedia.org/wiki/Chalakuzhy_Paulose_Mathen">സി. പി.
+മാത്തന്റെ</ref> പത്നി ഏലിയാമ്മ (കുഞ്ഞു), ഫെഡറൽ കോടതിയിലെ റിട്ടയേഡ് ജഡ്ജി ബി. എൽ.
+മിത്തറിനോടു് വിധിയെക്കുറിച്ചുള്ള വിദഗ്ദ്ധനിയമോപദേശം തേടി. വിശദമായ തെളിവുകളോടെ ബാർവെല്ലും
+കെ. ജി. നായരും കെ. പി. എബ്രഹാമും നടത്തിയ വാദവും മറ്റും പരിശോധിച്ചു ബോധ്യപ്പെട്ട മിത്തറിന്റെ
+അഭിപ്രായം കേസിനു് നിലനില്പില്ലെന്നും വിധി പക്ഷപാതപരമാണെന്നുമായിരുന്നു. വൈസ്രോയിക്കും
+ബന്ധപ്പെട്ട മറ്റുള്ളവർക്കും മിത്തറിന്റെ ആ അഭിപ്രായം മിസിസ് മാത്തൻ അയച്ചുകൊടുത്തു. സി. പി.
+പ്രതിക്ഷിക്കാത്ത ഒരു നീക്കമായിരുന്നു ഇതു്.
+</p>
+          <p>ഇതേത്തുടർന്നു് കേസിൽ വിധിന്യായം നടത്തിയ ജഡ്ജിമാർക്കെതിരെയും സി. പി.-ക്കെതിരെയും
+കൊട്ടാരത്തിനെതിരായിപ്പോലും പൊതുജങ്ങൾക്കിടയിലും ബ്രിട്ടീഷ് അധികാരകേന്ദ്രങ്ങളിലും അഭിപ്രായ
+രൂപികരണം ഉണ്ടാവുമെന്ന ഭീതിയിൽ ശിക്ഷാകാലാവിധി തീരുംമുൻപേ 1941 സെപ്തംബർ 11-നു് <ref target="https://ml.wikipedia.org/wiki/Chalakuzhy_Paulose_Mathen">സി. പി.
+മാത്തനൊ</ref> ഴികെയുള്ള എല്ലാവരെയും വിട്ടയക്കുകയായിരുന്നു. <ref target="https://ml.wikipedia.org/wiki/Chalakuzhy_Paulose_Mathen">സി. പി.
+മാത്തനെ</ref> വീണ്ടും പ്രകോപിപ്പിക്കുവാൻ വേണ്ടിയായിരുന്നു അപ്പച്ചനെയും മറ്റുള്ളവരെയും ആദ്യം
+വിട്ടയച്ചതു്. ഇതിൽ മാത്തൻ കുലുങ്ങില്ലെന്നു് ബോധ്യപ്പെട്ട സി. പി. വൈകാതെ മാത്തനെയും വിട്ടയച്ചു.”
+</p>
+          <p>‘സി. പി. മാത്തനൊഴികെയുള്ള എല്ലാവരെയും,’ ‘അപ്പച്ചനെയും മറ്റുള്ളവരെയും’ എന്നീ പ്രയോഗങ്ങൾ
+ശ്രദ്ധിക്കുക. <ref target="https://ml.wikipedia.org/wiki/Chalakuzhy_Paulose_Mathen">സി. പി.
+മാത്തനെ</ref> ക്കൂടാതെ 10–15 പ്രതികളെങ്കിലും ഉണ്ടായിരുന്നു എന്ന പ്രതീതി സൃഷ്ടിക്കാനാണിതു് മാത്തനെ
+കൂടാതെ രണ്ടു പ്രതികളേ ജയിലിലുണ്ടായിരുന്നുള്ളു—<ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">മാമ്മൻ
+മാപ്പിള</ref> യും മകൻ കെ. എം. ഈപ്പനും മാത്രം. അവർ മാപ്പെഴുതിക്കൊടുത്തി ഇറങ്ങിപ്പോകുകയും ചെയ്തു.
+</p>
+          <p>ഇതിനേക്കാൾ രസകരമാണു് മലയാള മനോരമ അടിയന്തരാവസ്ഥയെ എതിർത്ത കഥ. അച്ചായന്റെ
+വാക്കുകൾ ശ്രവിപ്പിൻ:
+</p>
+          <p>“…1957-ലെ അടിയന്തരാവസ്ഥാ പ്രഖ്യാപനത്തെക്കുറിച്ചു് കയ്പോടെയല്ലാതെ ഓർക്കാൻ വയ്യ.
+സി. പി.-യെ എതിർത്തതിന്റെ പേരിൽ ശ്വാസംമുട്ടിച്ചു് നിശബ്ദമാക്കപ്പെട്ട മനോരമ മറ്റൊരു ഏകാധിപത്യ
+നടപടിക്കെതിരെ എന്തു നിലപാടാണു് എടുക്കേണ്ടതു് എന്ന കാര്യത്തിൽ കാര്യമായ ആലോചനകൾ തന്നെ
+വേണ്ടിവന്നു. മനോരമയിലെ മുതിർന്ന പത്രാധിപസമിതി അംഗങ്ങളെയും മാനേജർമാരെയുമൊക്കെ
+വിളിച്ചുവരുത്തി ഞാനിക്കാര്യം ചർച്ച ചെയ്തു. ജനാധിപത്യത്തിനു നേരെയുള്ള വെല്ലുവിളിയെ എതിർക്കേണ്ടതു്
+മനോരമയുടെ പ്രഖ്യാപിതനയം തന്നെയാണു്. പക്ഷേ, എതിർത്താൽ 24 മണിക്കൂറിനകം എന്തെങ്കിലും നടപടി
+ഉണ്ടാവുമെന്നുറപ്പു്. സി. പി.-യുടെ കാലത്തു് മനോരമയെ ആശ്രയിച്ചു ജീവിക്കുന്നവരുടെ എണ്ണം തീരെ
+കുറവായിരുന്നു. ഇപ്പോൾ അങ്ങനെയല്ല കാര്യങ്ങൾ എന്നു ചർച്ചയിൽ പലരും ചൂണ്ടിക്കാണിച്ചു.
+അടിയന്തരാവസ്ഥയെ എതിർക്കണമെന്ന തീരുമാനമെടുത്താൽ മനോരമയെ ആശ്രയിച്ചു ജീവിക്കുന്ന
+നൂറുകണക്കിനു കുടുംബങ്ങളാണു പട്ടിണിയിലാവുക. ചർച്ചക്കിടയിൽ പത്രാധിപസമിതിയിലെ വി. കെ. ബി.
+നായർ മാനേജ്മെന്റിനോടു് ഉറപ്പിച്ചു പറഞ്ഞു: പത്രം നിർത്തിയിട്ടു വീട്ടിൽ പോയി ഇരുന്നാലും നിങ്ങൾക്കാർക്കും
+ഒരു പ്രശ്നവുമുണ്ടാവില്ല. പക്ഷേ, അതോടെ ഞങ്ങളൊക്കെ പട്ടിണിയാവുമെന്നു് ഉറപ്പു്.
+</p>
+          <p>അങ്ങനെ ആ ചർച്ചയിൽ ഇങ്ങനെയൊരു തീരുമാനമെടുത്തു അടിയന്തരാവസ്ഥയെ മനോരമ
+അനുകൂലിക്കുന്നുമില്ല; പ്രത്യക്ഷത്തിൽ എതിർക്കുന്നുമില്ല.
+</p>
+          <p>അടിയന്തരാവസ്ഥ അധികകാലം ഉണ്ടാവില്ലെന്ന നിഗമനത്തിൽ അതുവരെ നമുക്കു് നീന്തിത്തുടിച്ചുകിടക്കാം
+എന്നായിരുന്നു എല്ലാവരുംകൂടി എടുത്ത തീരുമാനം…”
+</p>
+          <p>നീന്തിത്തുടിച്ചുകിടന്ന ആ കിടപ്പു്! കർത്താവേ അതെന്നാ കിടപ്പായിരുന്നു? ഇരുപതിനപരിപാടിക്കുംം
+അഞ്ചിന പരിപാടിക്കും, “നാവടക്കൂ പണിയെടുക്കൂ” തുടങ്ങിയ മുദ്രാവാക്യങ്ങൾക്കും നൽകിയ ധീരമായ പിന്തുണ,
+ജയിലിൽ അടയ്ക്കപ്പെട്ട പ്രതിപക്ഷ നേതാക്കളോടുള്ള വിദ്വേഷം, ആഫ്രിക്കൻ പായൽ
+നിർമാർജനത്തെക്കുറിച്ചെഴുതിയ അത്യുഗ്രൻ റിപ്പോർട്ടുകൾ…
+</p>
+          <p>1977 ജനുവരിയിൽ സെൻസർഷിപ്പിനു് ഇളവുവരുത്തിയപ്പോൾ ഒരു വിഭാഗം പത്രങ്ങൾ സർക്കാറിനെ
+
+എതിർക്കാൻ തുടങ്ങി. മലയാള മനോരമ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാജി</ref> ക്കു് പിന്നിൽ
+പാറപോലെ ഉറച്ചുനിന്നു. പ്രിയദർശിനിയുടെയും പ്രിയപുത്രന്റെയും അപദാനങ്ങൾ വാഴ്ത്തി. അടിയന്തരാവസ്ഥയുടെ
+സൽഫലങ്ങളെ പ്രകീർത്തിച്ചു. അവയെ ശാശ്വതമാക്കാൻ നാടിനെ നാകമാക്കാൻ ‘പശുവും കിടാവും’
+ചിഹ്നത്തിൽ വോട്ടുചെയ്യാൻ വായനക്കാരെ ഉദ്ബോധിപ്പിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mohsina_Kidwai.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുഹ്സിനാ കിദ്വയി</figDesc>
+          </figure>
+          <p> 1977 മാർച്ച് 21-നു ശേഷം ഇന്ദിര-സഞ്ജയ് സ്തുതി നിറുത്തിവെച്ചു കോൺഗ്രസിനുള്ള പിന്തുണ മുമ്പേപോലെ
+തുടർന്നു. 1978 ജനുവരി ഒന്നിനു് കോൺഗ്രസ് പിളർത്തി <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിര</ref> പുതിയ
+പാർട്ടിയുണ്ടാക്കിയപ്പോൾ മനോരമ ശക്തമായി എതിർത്തു. സ്വേച്ഛാധിപത്യത്തിനും കുടുംബാധിപത്യ
+പ്രവണതക്കുമെതിരെ മുഖപ്രസംഗങ്ങൾ വന്നു. അസംഗഡ്മണ്ഡലത്തിൽ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിര</ref> നിറുത്തിയ <ref target="https://en.wikipedia.org/wiki/Mohsina_Kidwai">മുഹ്സിനാ കിദ്വയി</ref>
+ജനതാപാർട്ടിയിലെ രാംബച്ചൻ സിംഗ് യാദവിനെയും കോൺഗ്രസിലെ <ref target="https://en.wikipedia.org/wiki/Chandrajit_Yadav">ചന്ദ്രജിത് യാദവി</ref>
+നെയും മലർത്തിയടിച്ചപ്പോൾ മനോരമക്കു വീണ്ടുംവിചാരമുണ്ടായി. ആ വർഷാവസാനം <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരഗാന്ധി</ref>
+ചിക്മഗളൂർ ഉപതെരഞ്ഞെടുപ്പു് ജയിച്ചു് ലോക്സഭയിൽ തിരിച്ചെത്തിയപ്പോൾ കന്മഷം തീർത്തും മാറി. 1979 ആദ്യം
+കർണാടകത്തിലും ആന്ധ്രയിലും ഇന്ദിരാ കോൺഗ്രസ് അധികാരം പിടിച്ചപ്പോൾ വീണ്ടും ആരാധനയായി
+കണ്ടിട്ടില്ല, ഞാനീവിധം മലർച്ചെണ്ടുപോലൊരു മാനസം!
+</p>
+          <p>‘എട്ടാമത്തെ മോതിര’ത്തിലുള്ള അസത്യങ്ങളും അർധസത്യങ്ങളും എണ്ണിപ്പറയാൻ ഒരുമ്പെട്ടാൽ
+അതിനേക്കാൾ വലിയ ഗ്രന്ഥം എഴുതേണ്ടിവരും. ഒറ്റക്കൊരു തമാശകൂടി കേൾക്കുവിൻ:
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PC_Alexander.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. അലക്സാണ്ടർ</figDesc>
+          </figure>
+          <p> “<ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref>
+പ്രധാനമന്ത്രിയായിരുന്ന കാലം. <ref target="https://ml.wikipedia.org/wiki/PC_Alexander">പി. സി. അലക്സാണ്ടർ</ref>
+അന്നു് <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിര</ref>
+യുടെ പ്രിൻസിപ്പൽ സെക്രട്ടറിയാണു്. ഒരു ദിവസം ദൽഹിയിൽ നിന്നു് അലക്സാണ്ടർ എന്നെ വിളിച്ചു:
+</p>
+          <p>—മാത്തുക്കുട്ടിക്കു പത്മഭൂഷൻ ബഹുമതി ലഭിക്കാനുള്ള എല്ലാ രേഖകളും ശരിയായിക്കഴിഞ്ഞു. ഇനി
+പ്രഖ്യാപിച്ചാൽ മാത്രം മതി.
+</p>
+          <p>കോൺഗ്രസ് പിളർന്നതിനെത്തുടർന്നു് (1969) <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരഗാന്ധി</ref> യുടെ
+കൂടെയാണു് മനോരമ നിൽക്കേണ്ടതെന്നു് ഉണ്ണുണ്ണിച്ചായൻ തീരുമാനിച്ചിരുന്നു. തുടർന്നും ഇന്ദിരാഗാന്ധിക്കു
+നിർലോഭമായ പിന്തുണയാണു നൽകിക്കൊണ്ടിരുന്നതു്. അതിനകം മനോരമയുടെയും ഞങ്ങളുടെയും നല്ല
+സുഹൃത്തായി ഇന്ദിര മാറിക്കഴിഞ്ഞിരുന്നു. ഇക്കാര്യങ്ങളെല്ലാം മനസ്സിലോർമിച്ചു് ഞാൻ അലക്സാണ്ടറോടു് പറഞ്ഞു:
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Inder_Kumar_Gujral.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദർകുമാർ ഗുജ്റാൽ</figDesc>
+          </figure>
+          <p> —വേണ്ട <ref target="https://ml.wikipedia.org/wiki/PC_Alexander">അലക്സാണ്ടർ</ref> <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> യെ
+ഇത്രയും കാലം പല കാര്യങ്ങളിലും മനോരമ പിന്താങ്ങിയതു് എനിക്കു പത്മ അവാർഡു കിട്ടാൻ
+വേണ്ടിയായിരുന്നുവെന്നോ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> ഈ
+അവാർഡ് സമ്മാനിക്കുന്നതു് ആ പിന്തുണയുടെ പേരിലാണെന്നോ ആളുകൾ പറയാനിടവരരുതു്. മനോരമയുടെ
+വിശ്വാസ്യതക്കു് അതു് നന്നല്ല. എന്നെ അതിൽനിന്നു ഒഴിവാക്കണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Atal_Bihari_Vajpayee.jpg" rendition="gra"/>
+            <figDesc style="thumb">അടൽബിഹാരി വാജ്പേയി</figDesc>
+          </figure>
+          <p> തീരുമാനം മാറ്റണമെന്നു് അഭ്യർത്ഥിച്ചു് <ref target="https://ml.wikipedia.org/wiki/PC_Alexander">അലക്സാണ്ടർ</ref> എനിക്കു്
+കത്തെഴുതുകയും അന്നു് ഫോണിൽ പറഞ്ഞ കാര്യങ്ങൾ ഞാൻ മറുപടിയിൽ വിശദമാക്കുകയും ചെയ്തു. പിന്നീടു്
+ബി. ജെ. പി. സർക്കാർ അധികാരത്തിലെത്തിയപ്പോൾ 1998-ൽ എനിക്കു പത്മഭൂഷൻ പ്രഖ്യാപിക്കുകയും ഞാൻ
+ആ ബഹുമതി സ്വീകരിക്കുകയും ചെയ്തു. ബി. ജെ. പി. സർക്കാരിനോടുള്ള വിയോജിപ്പുകൾ മനോരമ
+തുറന്നെഴുതുന്ന കാലത്തായിരുന്നു. എനിക്കു് പത്മഭൂഷൺ ലഭിച്ചതു്…”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_R_Narayanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ആർ. നാരായണൻ</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-ക്കാർക്കു് ഇത്ര ഹൃദയവിശാലതയോ എന്നു് അദ്ഭുതപ്പെടാൻ വരട്ടെ. പത്മ അവാർഡുകൾ
+പ്രഖ്യാപിക്കുന്നതു് ജനുവരി 26-നാണു്. 1998-ലും അതിനു മാറ്റമൊന്നുമില്ല. അന്നു ഇന്ത്യൻ പ്രധാനമന്ത്രി <ref target="https://en.wikipedia.org/wiki/Inder_Kumar_Gujral">ഇന്ദർകുമാർ
+ഗുജ്റാൽ</ref> ആണു്. രാഷ്ട്രപതി, മനോരമയുടെയും മാത്തുക്കുട്ടിച്ചായന്റെയും അഭ്യുദയകാംക്ഷി <ref target="https://ml.wikipedia.org/wiki/K._R._Narayanan">കെ. ആർ.
+നാരായണൻ</ref>. <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">അടൽബിഹാരി
+വാജ്പേയി</ref> യുടെ മന്ത്രിസഭ സത്യ പ്രതിജ്ഞ ചെയ്തു് അധികാരമേറ്റതു് മാർച്ച 19-നാണു്.
+</p>
+          <p>എട്ടാമത്തെ മോതിരം തനിത്തങ്കമാണു്. ചെമ്പു് തീരെയുമില്ലെന്നർഥം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ettamaththe Mothiram
+Thanithankam (ml: എട്ടാമത്തെ മോതിരം തനിത്തങ്കം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Ettamaththe Mothiram Thanithankam, കെ. രാജേശ്വരി, എട്ടാമത്തെ മോതിരം തനിത്തങ്കം, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 11, 2026.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Laurits_Andersen_Ring__En_Dreng,_der_l%C3%A6ser_Lektier_-_1893.png">A boy doing his
+homework,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:L._A._Ring">Laurits Andersen
+Ring</ref>  (1854–1933). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-mothiram.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-mothiram.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നീലനിൽനിന്നു് നീലനിലേയ്ക്കു്</title>
+          <title xml:lang="en" type="main">Neelanilninnu Neelanileyk</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 3, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നീലനിൽനിന്നു് നീലനിലേയ്ക്കു്</title>
+              <title xml:lang="en" type="main">Neelanilninnu Neelanileyk</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Neelanilninnu Neelanileyk</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>നീലനിൽനിന്നു് നീലനിലേയ്ക്കു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 3, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Glass_and_Water_Bottle.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Juan_Gris__Glass_and_Water_Bottle_-_Google_Art_Project.jpg">Glass and Water Bottle,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Juan_Gris">Juan
+Gris</ref>  (1887–1927). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നീലനിൽനിന്നു് നീലനിലേയ്ക്കു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നീലനിൽനിന്നു് നീലനിലേയ്ക്കു്</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Hemwati_Nandan_Bahuguna.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹേമാവതി നന്ദൻ ബഹുഗുണ</figDesc>
+          </figure>
+          <p style="noindent"> പണ്ടു് <ref target="https://en.wikipedia.org/wiki/Hemwati_Nandan_Bahuguna">ഹേമാവതി
+നന്ദൻ ബഹുഗുണ</ref> എന്നൊരു നേതാവുണ്ടായിരുന്നു. ദീർഘകാലം യു. പി. വിധാൻസഭയിലും
+ലോക്സഭയിലും അംഗമായിരുന്ന ബഹുഗുണയെ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> 1973
+നവംബറിൽ ഉത്തർപ്രദേശ് മുഖ്യമന്ത്രിയായി നിയോഗിച്ചു. അടിയന്തരാവസ്ഥയുടെ ആദ്യനാളുകളിൽ ബഹുഗുണ
+<ref target="https://ml.wikipedia.org/wiki/Sanjay_Gandhi">സഞ്ജയ്ഗാന്ധി</ref>
+യുടെ കണ്ണിലെ കരടായി. അചിരേണ ടിയാന്റെ കസേരയും പോയി. അമർഷം ഉള്ളിലൊതുക്കി
+തക്കംപാർത്തിരുന്ന ബഹുഗുണക്കു് അടുത്തവർഷം തുല്യദുഃഖിതയായ ഒരു കൂട്ടുകാരിയെ കിട്ടി—<ref target="https://ml.wikipedia.org/wiki/Nandini_Satpathy">നന്ദിനി സത്പതി</ref>.
+1977 ജനുവരിയിൽ തെരഞ്ഞെടുപ്പു് പ്രഖ്യാപിച്ചതിനു് തൊട്ടുപിന്നാലെ <ref target="https://ml.wikipedia.org/wiki/Jagjivan_Ram">ജഗ്ജീവൻ റാമും</ref> <ref target="https://en.wikipedia.org/wiki/Hemwati_Nandan_Bahuguna">ബഹുഗുണ</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/Nandini_Satpathy">നന്ദിനി</ref>
+യും കോൺഗ്രസ് വിട്ടു. അവർ കോൺഗ്രസ് ഫോർ ഡമോക്രസി (സി. എഫ്. ഡി.) എന്നൊരു കക്ഷി
+രൂപവത്ക്കരിച്ചു് ജനതാപാർട്ടിയോടു് സഖ്യം ചെയ്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Indira_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദിരാഗാന്ധി</figDesc>
+          </figure>
+          <p> ഉത്തർപ്രദേശിലെ ഗഡ്വാൾ സ്വദേശി ബഹുഗുണക്കു് ഇങ്ങു് തെക്കു് തിരുവനന്തപുരം ജില്ല നെയ്യാറ്റിൻകര
+താലൂക്കിൽ ഒരു അനുചരനെ കിട്ടി—<ref target="https://en.wikipedia.org/wiki/Neelalohithadasan_Nadar">എ.
+നീലലോഹിതദാസൻ നാടാർ</ref>. യുവ കോൺഗ്രസ് നേതാവു്, കേരള സർവകലാശാലാ യൂനിയൻ
+മുൻചെയർമാൻ, കോൺഗ്രസ് ഫോർ ഡമോക്രസിയുടെ സംസ്ഥാന പ്രസിഡന്റായി തെരഞ്ഞെടുക്കപ്പെട്ട നീലൻ
+കോവളം നിയോജക മണ്ഡലത്തിൽനിന്നു് നിയമസഭയിലേക്കു് ജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sanjay_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">സഞ്ജയ്ഗാന്ധി</figDesc>
+          </figure>
+          <p> 1977 മേയിൽ <ref target="https://ml.wikipedia.org/wiki/Jagjivan_Ram">ജഗ്ജീവൻ റാമും</ref> <ref target="https://en.wikipedia.org/wiki/Hemwati_Nandan_Bahuguna">ബഹുഗുണ</ref>
+യും സി. എഫ്. ഡി.-യെ ജനതാപാർട്ടിയിൽ ലയിപ്പിച്ചപ്പോൾ നീലനും ജനതയിൽ ചേർന്നു. 1979 മധ്യത്തിൽ
+ജനതാപാർട്ടി പിളർന്നു, <ref target="https://ml.wikipedia.org/wiki/Charan_Singh">ചരൺസിംഗും</ref> കൂട്ടരും
+ജനതാപാർട്ടി (എസ്) രൂപവത്ക്കരിച്ചു. ബഹുഗുണ ചരൺസിംഗിനൊപ്പം നിന്നു. നീലനും ഒപ്പംനിന്നു.
+
+മൂന്നുമാസത്തിനകം ചരൺസിംഗുമായി തെറ്റി ബഹുഗുണ കോൺഗ്രസ്-ഐയിലേക്കു് തിരിച്ചുപോയി.
+സംശയമേതുമില്ലാതെ നീലനും കൂടെ പോയി. ആയിടക്കു് ഏതാനും ദിവസം സി. എച്ചിന്റെ മന്ത്രിസഭയിൽ
+അംഗമാകാനും കഴിഞ്ഞു. നിയമം, വിദ്യുച്ഛക്തി, ജലസേചനം, തൊഴിൽ, ഭവനനിർമാണം എന്നിങ്ങനെയുള്ള
+വകുപ്പുകളാണു് കൈയാളിയതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Nandini_Satpathy.jpg" rendition="gra"/>
+            <figDesc style="thumb">നന്ദിനി സത്പതി</figDesc>
+          </figure>
+          <p> 1979 അവസാനം ലോക്സഭയിലേക്കു് ഇടക്കാല തെരഞ്ഞെടുപ്പു് നടന്നു. തിരുവനന്തപുരത്തു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+അവതരിപ്പിച്ച യുവപോരാളി—<ref target="https://en.wikipedia.org/wiki/Neelalohithadasan_Nadar">നീലലോഹിതദാസൻ
+നാടാർ</ref>. എതിരാളി സുപ്രസിദ്ധ കമ്യൂണിസ്റ്റ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/M._N._Govindan_Nair">എം. എൻ.
+ഗോവിന്ദൻനായർ</ref>, നാടാർ സമുദായം നീലനുപിന്നിൽ ഉറച്ചുനിന്നപ്പോൾ തിരുവനന്തപുരത്തു് എം. എൻ.
+മലർന്നടിച്ചുവീണു. ഭൂരിപക്ഷം ഒരുലക്ഷം കടന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Jagjivan_Ram.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജഗ്ജീവൻ റാം</figDesc>
+          </figure>
+          <p> കേന്ദ്രമന്ത്രിസഭയിലോ കോൺഗ്രസ് ഹൈക്കമാന്റിലോ അർഹമായ സ്ഥാനം ലഭിക്കാതെ
+അപമാനിതനായ ബഹുഗുണ 1980-മാണ്ടിൽ ചരൺസിംഗിന്റെ ലോക്ദളിലേക്കു് മടങ്ങിപ്പോയി. രണ്ടാമതൊന്നു്
+ആലോചിക്കാതെ നീലനും ലോക്ദളിൽ ചേക്കേറി. 1982-ൽ ബഹുഗുണ ഡമോക്രാറ്റിക് സോഷ്യലിസ്റ്റ്
+പാർട്ടിയുണ്ടാക്കിയപ്പോൾ നീലൻ ഡി. എസ്. പി.-യുടെ സംസ്ഥാന ചെയർമാനായി. രണ്ടുവർഷം കഴിഞ്ഞു്
+ബഹുഗുണയും നീലനും ലോക്ദളിലേക്കു മടങ്ങി. ബഹുഗുണയുടെ വാലായി പാർട്ടി വിട്ടു് പാർട്ടി മാറുന്ന നാടാരെ
+കോൺഗ്രസ് നേതാവു് പീതാംബരകുറുപ്പ് ‘ചെറുഗുണ’ എന്നു് പരിഹസിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Chowdhary_Charan_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചരൺസിംഗ്</figDesc>
+          </figure>
+          <p> 1984-ൽ തിരുവനന്തപുരത്തു് ശക്തമായ ത്രികോണമൽസരം നടന്നു. സവർണ വോട്ടുകളിൽ നല്ലപങ്കു്
+ഹിന്ദുമുന്നണി പിടിച്ചു. ക്രിസ്ത്യൻ, മുസ്ലീം വോട്ടുകൾ കോൺഗ്രസും കൊണ്ടുപോയി. നാടാർ വോട്ട് നീലനും
+ചാൾസിനുമിടക്കു് ഭിന്നിച്ചു. ഫലം <ref target="https://ml.wikipedia.org/wiki/A._Charles">എ. ചാൾസ്</ref> ജയിച്ചു; നീലൻ
+തോറ്റു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 1987-ൽ ലോക്ദൾ ടിക്കറ്റിൽ കോവളത്തു് മൽസരിച്ചു് എം. എൽ. എ. ആയി. <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാരു</ref> ടെ
+മന്ത്രിസഭയിൽ സ്പോർട്സ്—യുവജനക്ഷേമ വകുപ്പുകൾ ഭരിച്ചു. 1988 മാർച്ച് 17-നു് <ref target="https://en.wikipedia.org/wiki/Hemwati_Nandan_Bahuguna">എച്ച്. എൻ.
+ബഹുഗുണ</ref> ദിവംഗതനായി. അതോടെ നീലനു് രാഷ്ട്രീയഗുരുവും വഴികാട്ടിയും നഷ്ടമായി. 1989
+
+ആകുമ്പോഴേക്കും ലോക്ദൾ ജനതാദളിൽ ലയിച്ചു. നീലൻ ജനതാദൾകാരനായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MN_Govindan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എൻ. ഗോവിന്ദൻനായർ</figDesc>
+          </figure>
+          <p> 1991-ൽ കോവളത്തുനിന്നു് വീണ്ടും ജയിച്ചെങ്കിലും കോടതി തെരഞ്ഞെടുപ്പു് അസാധുവാക്കി,
+എതിർസ്ഥാനാർഥി ജോർജ് മസ്ക്രീനെ വിജയിയായി പ്രഖ്യാപിച്ചു.
+</p>
+          <p>1996-ൽ മസ്ക്രീനെ മലർത്തിയടിച്ചു് വീണ്ടും നിയമസഭയിലെത്തിയെങ്കിലും മന്ത്രിയാകാനൊത്തില്ല.
+ജനതാദളിനു് ആകെ കിട്ടിയ മന്ത്രിസ്ഥാനം വയോധികനായ <ref target="https://ml.wikipedia.org/wiki/P.R._Kurup">പി. ആർ. കുറുപ്പ്</ref>
+കൈയടക്കി. വകുപ്പുകൾ വനം, ഗതാഗതം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_Charles.png" rendition="gra"/>
+            <figDesc style="thumb">എ. ചാൾസ്</figDesc>
+          </figure>
+          <p> സോഷ്യലിസ്റ്റുകളെപ്പോലെ കലഹപ്രിയർ മറ്റൊരു പാർട്ടിയിലും കാണില്ല. അധികാരത്തിലേറി
+ഒരുവർഷത്തിനകം <ref target="https://ml.wikipedia.org/wiki/P.R._Kurup">പി. ആർ.
+കുറുപ്പിനു്</ref> <ref target="https://ml.wikipedia.org/wiki/M._P._Veerendra_Kumar">വീരേന്ദ്രകുമാർ</ref>
+ചതുർഥിയായി. ശണ്ഠ പരസ്യവിഴുപ്പലക്കലിലേക്കും അഴിമതിയാരോപണങ്ങളിലേക്കും നീണ്ടു. കുറുപ്പിന്റെ
+വിശ്വസ്തൻ പ്രൊഫ. രാമൻ കർത്തയെ ഗുരുവായൂർ ദേവസ്വം അധ്യക്ഷസ്ഥാനത്തുനിന്നു പുകച്ചുപുറത്താക്കുന്നതിൽ
+വീരൻ വിജയിച്ചു. 1999 ജനുവരി ആകുമ്പോഴേക്കും രാജിവെക്കുകയല്ലാതെ കുറുപ്പിനുമുന്നിൽ ഒരു വഴിയുമില്ലാതായി.
+</p>
+          <p>കുറുപ്പിന്റെ ഒഴിവിൽ മന്ത്രിയാകാൻ <ref target="https://ml.wikipedia.org/wiki/C.K._Nanu">സി. കെ. നാണു</ref> വും
+സുലൈമാൻ റാവുത്തറും സന്നദ്ധത പ്രകടിപ്പിച്ചെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/M._P._Veerendra_Kumar">വീരേന്ദ്രകുമാർ</ref>
+പിന്തുണച്ചതു് <ref target="https://en.wikipedia.org/wiki/Neelalohithadasan_Nadar">നീലലോഹിതദാസനെ</ref>
+യാണു്. അങ്ങനെ നീലൻ മൂന്നാംതവണയും മന്ത്രിയായി. പതിമൂന്നുമാസമേ മന്ത്രിപദത്തിനു് ആയുസ്സുണ്ടായുള്ളൂ.
+2000 ഫെബ്രുവരിയിൽ <ref target="https://en.wikipedia.org/wiki/Nalini_Netto">നളിനി നെറ്റോ</ref> യും
+പ്രകൃതി ശ്രീവാസ്തവയും മന്ത്രിക്കെതിരെ ആരോപണമുന്നയിച്ചു് മുഖ്യനു് പരാതി നൽകി. പിന്നാക്കസമുദായക്കാരൻ
+മന്ത്രിക്കെതിരെ സവർണ ഗൂഢാലോചന എന്നൊക്കെ കേരള കൗമുദി വിലപിച്ചെങ്കിലും വിലപ്പോയില്ല.
+സി. പി. എം. ഉറച്ചുനിന്നു മുഖ്യമന്ത്രി നീലന്റെ രാജി ചോദിച്ചുവാങ്ങി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PR_Kurup.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ആർ. കുറുപ്പ്</figDesc>
+          </figure>
+          <p> നീലൻ-നളിനി വിവാദത്തെക്കുറിച്ചു് അന്വേഷണം നടത്താൻ ജസ്റ്റിസ് ജി. ശശിധരനെ കമീഷനായി
+നിയമിച്ചതും വിവാദമായി. ‘അടഞ്ഞ കോടതി’ വിചാരണക്കായി നളിനി സമർപ്പിച്ച അപേക്ഷ കമീഷൻ
+നിഷ്കരുണം തള്ളി. പക്ഷപാതപരമായ തീരുമാനങ്ങളിൽ പ്രതിഷേധിച്ചു് നളിനി നെറ്റോ അന്വേഷണം
+ബഹിഷ്ക്കരിച്ചു, മഹിളാ സംഘടനകൾ ജസ്റ്റിസ് ശശിധരന്റെ കോലം കത്തിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p>2001 മേയിൽ വീണ്ടും തെരഞ്ഞെടുപ്പു്. ജനാധിപത്യ മഹിളാഅസോസിയേഷന്റെ വരെ എതിർപ്പിനെ
+വിഗണിച്ചു് കോവളത്തു് നീലനെ സ്ഥാനാർഥിയാക്കാൻ ജനതാദൾ തീരുമാനിച്ചു. എതിരാളി കോൺഗ്രസിലെ
+<ref target="https://ml.wikipedia.org/wiki/Alphonsa_John">അൽഫോൽസാ
+ജോൺ</ref>. ഭൂരിപക്ഷത്തിൽ ഇടിവുണ്ടായെങ്കിലും നീലൻതന്നെ ജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> അധികാരത്തിലേറിയ ഉടൻ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ചെയ്ത സൽക്കർമം
+ജസ്റ്റിസ് ശശിധരൻ കമീഷന്റെ പ്രവർത്തനം അവസാനിപ്പിച്ചുകൊണ്ടു് ഉത്തരവു് പുറപ്പെടുവിക്കലായിരുന്നു.
+സർക്കാർനടപടിയെ നീലൻ കോടതിയിൽ ചോദ്യം ചെയ്തെങ്കിലും ഫലവത്തായില്ല. ക്രിമിനൽകേസിലെ
+കുറ്റപത്രം അസ്ഥിരപ്പെടുത്താൻ നൽകിയ ഹർജിയും കോടതി നിഷ്കരുണം നിരാകരിച്ചു. വിചാരണ
+നീട്ടിക്കൊണ്ടുപോകാൻ പയറ്റിയ സകല അടവുകളും പൊളിഞ്ഞു. പ്രകൃതി ശ്രീവാസ്തവയെ പീഡിപ്പിച്ചതിനു്
+ഒരുവർഷവും <ref target="https://en.wikipedia.org/wiki/Nalini_Netto">നളിനി
+നെറ്റോ</ref> യെ കൈയേറ്റം ചെയ്തതിനു് മൂന്നുമാസവും തടവുശിക്ഷ വിധിക്കപ്പെട്ടു. പ്രകൃതി കേസിൽ അപ്പീലും
+തള്ളി; റിവിഷൻ ഹർജി ഹൈക്കോടതിയുടെ പരിഗണനയിലിരിക്കുന്നു. നളിനിയുടെ കേസ്
+അപ്പീൽഘട്ടത്തിലാണു്.
+</p>
+          <p>സവർണലോബിയും വനം മാഫിയയും കെട്ടിച്ചമച്ചതാണു് നളിനി-പ്രകൃതി കേസുകളെന്നു് നീലനു് അറിയാം.
+ജമീലക്കും പെൺമക്കൾക്കും കേരള കൗമുദി പത്രാധിപർക്കും അറിയാം. നീലനെ സ്നേഹിക്കുന്ന എല്ലാവർക്കും
+അറിയാം. ഇന്നല്ലെങ്കിൽ നാളെ നീതിപീഠം തന്റെ നിരപരാധിത്വം അംഗീകരിക്കും; കള്ളപ്പരാതി നൽകിയ
+മഹിളാമണികളെ മാതൃകാപരമായി ശിക്ഷിക്കും എന്നും നീലനു് ഉറപ്പുണ്ടു്. അതുകൊണ്ടുതന്നെ നിയമസഭാ
+തെരഞ്ഞെടുപ്പിൽ മൽസരിക്കാതിരിക്കാൻ ഒരു കാരണവും അദ്ദേഹം കാണുന്നില്ല.
+</p>
+          <p>ഭരണഘടനാപരമായോ ജനപ്രാതിനിധ്യനിയമത്തിലെ ഏതെങ്കിലും വകുപ്പു് പ്രകാരമോ നീലനു്
+മൽസരിക്കാൻ അയോഗ്യതയില്ല. സ്ത്രീപീഡനക്കേസിലെ ശിക്ഷ നിയമസഭാംഗമാകാൻ
+അധികയോഗ്യതയാണുതാനും. ഇടമലയാർ, ഗ്രാഫൈറ്റ് കേസുകളിൽ ശിക്ഷിക്കപ്പെട്ടതിനു ശേഷമാണല്ലോ
+കഴിഞ്ഞതവണ മഹാരാജ രാജമാന്യ ശ്രീ. <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+കൊട്ടാരക്കരയിൽ മൽസരിച്ചതു്! അദ്ദേഹത്തിന്റെ പത്രിക തള്ളിയില്ല. നേതാവിനെ നന്നായി അറിയുന്ന
+കൊട്ടാരക്കരക്കാരും തള്ളിയില്ല. കൂടിയ ഭൂരിപക്ഷത്തോടെ അവർ പിള്ളയെ തെരഞ്ഞെടുത്തയച്ചു. തോറ്റ
+സ്ഥാനാർഥി തെരഞ്ഞെടുപ്പു് ഹർജി കൊടുത്തിട്ടും ഗുണം കിട്ടിയില്ല. സുപ്രീംകോടതിയും ഹൈക്കോടതിയും
+പിന്നീടു് ബാലകൃഷ്ണപിള്ളയെ നിരപരാധിയെന്നുകണ്ടു് വിട്ടയച്ചു; ആദർശധീരൻ അദ്ദേഹത്തെ മന്ത്രിസ്ഥാനത്തു്
+പുനഃപ്രതിഷ്ഠിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CK_Nanu.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കെ. നാണു</figDesc>
+          </figure>
+          <p> ബാലകൃഷ്ണപിള്ള സ്ഥാനിനായരായതുകൊണ്ടും മുന്നണി യു. ഡി. എഫ്. ആയതുകൊണ്ടും അതൊക്കെ
+സാധിച്ചു. പാവം നീലൻ നാടാരാണു്. മുന്നണി എൽ. ഡി. എഫ്.; പരമോന്നത നേതാവു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദൻ</ref>. മഹിളാസംഘടനകളും കപടസദാചാരവാദികളും നീലനു് സീറ്റ് കൊടുക്കരുതെന്നു്
+വാദിച്ചതു് സ്വാഭാവികം. പെണ്ണുപിടിയനെ മൽസരിപ്പിക്കില്ലെന്നു് വി. എസ്. ഗർജിച്ചതു് അതിനേക്കാൾ
+
+സ്വാഭാവികം.
+</p>
+          <p>ജനതാദൾ സംസ്ഥാന കമ്മിറ്റി കോവളത്തേക്കു് പ്രഖ്യാപിച്ച സ്ഥാനാർഥി എ. നീലലോഹിതദാസൻ
+നാടാരാണു്. സ്ഥാനാർഥിത്വം പ്രഖ്യാപിച്ച ശേഷം സ്വയം പിന്മാറാമെന്നു് നീലൻ വാക്കുകൊടുത്തിരുന്നുവെന്നാണു്
+<ref target="https://ml.wikipedia.org/wiki/M._P._Veerendra_Kumar">വീരേന്ദ്രകുമാർ</ref>
+പറയുന്നതു്. തന്നെ അവഹേളിക്കാൻവേണ്ടി വീരൻ കള്ളംപറയുന്നുവെന്നാണു് <ref target="https://en.wikipedia.org/wiki/Neelalohithadasan_Nadar">നീലലോഹിതന്റെ</ref>
+ഭാഷ്യം. ഏപ്രിൽ മൂന്നാംതീയതി അദ്ദേഹം എം. എൽ. എ. സ്ഥാനം രാജിവെച്ചു. അന്നുതന്നെ കോവളത്തു്
+സ്വതന്ത്രസ്ഥാനാർഥിയായി പത്രിക കൊടുത്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Balakrishna_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാലകൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> ഏതായാലും റൂഫസ് ദാനിയേൽ എന്നൊരു പുമാനാണു് ജനതാദൾ സ്ഥാനാർത്ഥിയായി ‘കറ്റയേന്തിയ
+കർഷകസ്ത്രീ’ അടയാളത്തിൽ കോവളത്തു് മൽസരിക്കുന്നതു്. വെങ്ങാന്നൂർ ഗ്രാമപഞ്ചായത്തു്
+പ്രസിഡന്റായിരുന്നിട്ടുള്ളയാളാണു് റൂഫസ്. കോൺഗ്രസുകാരൻ. യു. ഡി. എഫ്. സ്ഥാനാർഥിയാകാൻ അപേക്ഷ
+കൊടുത്തു് നിരാശനായി നിൽക്കുമ്പോഴാണു് ജനതാദളുകാർ പിടികൂടി സ്ഥാനാർഥിയാക്കിയതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MP_VEERENDRAKUMAR.jpg" rendition="gra"/>
+            <figDesc style="thumb">വീരേന്ദ്രകുമാർ</figDesc>
+          </figure>
+          <p> നീലനു പകരം വി. ഗംഗാധരൻ നാടാരെ സ്ഥാനാർഥിയാക്കാനാണു് <ref target="https://ml.wikipedia.org/wiki/M._P._Veerendra_Kumar">വീരേന്ദ്രകുമാർ</ref>
+ഉദ്ദേശിച്ചിരുന്നതു്. പക്ഷേ, ഗംഗാധരൻ ഒഴിഞ്ഞുമാറി. വടകരയിൽനിന്നു് കുടിയൊഴിപ്പിക്കപ്പെടുന്ന <ref target="https://ml.wikipedia.org/wiki/C.K._Nanu">സി. കെ. നാണു</ref> വിനോടു്
+കോവളത്തു് നിൽക്കാമോ എന്നു ചോദിച്ചു. നാണുവേട്ടൻ സവിനയം നിരസിച്ചു. അങ്ങനെയാണു് റൂഫസ്
+ദാനിയേലിനെ തേടിപ്പോകേണ്ടിവന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എസ്. അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> ഐക്യജനാധിപത്യമുന്നണി, ലത്തീൻ കത്തോലിക്കർക്കു് സംവരണം ചെയ്ത മണ്ഡലമാണു് കോവളം.
+1991-ലും 96-ലും ജോർജ് മസ്ക്രീൻ, 2001-ൽ <ref target="https://ml.wikipedia.org/wiki/Alphonsa_John">അൽഫോൺസാ
+ജോൺ</ref>. ഇത്തവണ <ref target="https://ml.wikipedia.org/wiki/George_Mercier">ജോർജ് മെഴ്സിയർ</ref>
+ആണു് യു. ഡി. എഫ്. സ്ഥാനാർഥി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Gerorge_Mercier.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ് മേഴ്സിയർ</figDesc>
+          </figure>
+          <p> രാഷ്ട്രീയത്തേക്കാൾ സാമുദായിക വികാരമാണു് കോവളത്തെ നയിക്കുക. ലത്തീൻകാരൻ <ref target="https://ml.wikipedia.org/wiki/George_Mercier">ജോർജ് മേഴ്സിയർ</ref>,
+
+ക്രിസ്ത്യൻ നാടാർ റൂഫസ് ദാനിയേൽ, ഹിന്ദു നാടാർ <ref target="https://en.wikipedia.org/wiki/Neelalohithadasan_Nadar">നീലലോഹിതദാസൻ</ref>.
+തുല്യശക്തികൾ തമ്മിലുള്ള മല്ലയുദ്ധപ്പോരാട്ടം!
+</p>
+          <p>ജനതാദളിന്റെ പ്രാദേശിക നേതാക്കൾ ഒന്നടങ്കം പാർട്ടിയിൽനിന്നു് രാജിവെച്ചു് നീലന്റെ വിജയത്തിനായി
+രംഗത്തിറങ്ങിയിട്ടുണ്ടു്. നീലന്റെ വ്യക്തിപ്രഭാവവും നാടാർ സമുദായ വികാരവും വോട്ടായി മാറിയാൽ,
+ക്രിസ്ത്യാനികൾക്കെതിരെ ഹിന്ദുവിനെ സഹായിക്കാൻ ബി. ജെ. പി. കൂടി തയ്യാറായാൽ കോവളത്തു് അട്ടിമറി
+നടക്കും. മുമ്പൊരിക്കൽ <ref target="https://ml.wikipedia.org/wiki/M._Kunjukrishnan_Nadar">എം. കുഞ്ഞു
+കൃഷ്ണനാടാർ</ref> കോൺഗ്രസ് റെബലായി കോവളത്തുനിന്നു് ജയിച്ചിട്ടുണ്ടു്. തൊട്ടടുത്ത പാറശ്ശാല
+മണ്ഡലത്തിൽ <ref target="https://en.wikipedia.org/wiki/N._Sundaran_Nadar">സുന്ദരൻ നാടാരും</ref>
+റെബലായി മൽസരിച്ചു് ജയിച്ചിട്ടുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/M_Kunjukrishnan_Nadar.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കുഞ്ഞു കൃഷ്ണനാടാർ</figDesc>
+          </figure>
+          <p> കോവളത്തെ അങ്കത്തട്ടിൽ പതറാതെ നിൽക്കുന്നു, <ref target="https://en.wikipedia.org/wiki/Neelalohithadasan_Nadar">നീലലോഹിതദാസൻ
+നാടാർ</ref>. <ref target="https://en.wikipedia.org/wiki/Nalini_Netto">നളിനി
+നെറ്റോ</ref> ചീഫ് ഇലക്ടറൽ ഓഫീസറായി പ്രവർത്തിക്കുന്ന ഈ തെരഞ്ഞെടുപ്പു് ജയിക്കേണ്ടതു് നീലന്റെ
+അഭിമാനപ്രശ്നമാണു്. <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> യുമായി
+പിണങ്ങിപ്പിരിഞ്ഞ ശേഷം (1980) പ്രതികൂല സാഹചര്യങ്ങളോടു് പടവെട്ടി ഗഡ്വാളിൽനിന്നു് ജയിച്ച <ref target="https://en.wikipedia.org/wiki/Hemwati_Nandan_Bahuguna">ബഹുഗുണ</ref>
+യുടെ വീരസ്മരണ ചെറുഗുണക്കു് ആവേശം പകരും, തീർച്ച!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Neelanilninnu Neelanileyk (ml:
+നീലനിൽനിന്നു് നീലനിലേയ്ക്കു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Neelanilninnu Neelanileyk, കെ. രാജേശ്വരി, നീലനിൽനിന്നു് നീലനിലേയ്ക്കു്, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 3, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Juan_Gris__Glass_and_Water_Bottle_-_Google_Art_Project.jpg">Glass and Water Bottle,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Juan_Gris">Juan
+Gris</ref>  (1887–1927). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-neelan.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-neelan.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

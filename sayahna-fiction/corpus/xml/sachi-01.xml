@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വൃത്തം; കവിതാ വിവര്‍ത്തനം</title>
+          <title xml:lang="en" type="main">Vrttam; Kavitha Vivarttanam</title>
+        </title>
+        <author>K. Satchidanandan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">November 2, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വൃത്തം; കവിതാ വിവര്‍ത്തനം</title>
+              <title xml:lang="en" type="main">Vrttam; Kavitha Vivarttanam</title>
+            </title>
+            <author>K. Satchidanandan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-05-14</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poems</term>
+          <term>K. Satchidanandan</term>
+          <term>Vrttam; Kavitha Vivarttanam</term>
+          <term>സച്ചിദാനന്ദന്‍</term>
+          <term>വൃത്തം; കവിതാ വിവര്‍ത്തനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-05-14</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Paul_Gauguin_094.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Paul_Gauguin_094.jpg">Landscape
+with Tall Trees or Poplar-Lined Lane, Osny,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Paul_Gauguin">Paul Gauguin</ref>
+ (1848–1903). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വൃത്തം; കവിതാ വിവര്‍ത്തനം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സച്ചിദാനന്ദന്‍</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapter" n="1" xml:id="chp1">
+        <head type="chaphead">വൃത്തം</head>
+        <div type="lsection">
+          <lg>
+            <l> രണ്ടു വേദനകൾക്കിടയിലുള്ള</l>
+            <l> ഒരിടുങ്ങിയ സ്ഥലമാണ് ആനന്ദം.</l>
+            <l> സൂര്യകാന്തി പോലെ</l>
+            <l> പൂത്ത ഇളം വെയിലുള്ള ഒരിടം.</l>
+            <l> ഒരാൾക്ക്, ഏറിയാൽ രണ്ടാൾക്ക്</l>
+            <l> മാത്രം ഇരിക്കാവുന്നത്,</l>
+            <l> ഏറെ നിറങ്ങളില്ലാത്ത ഒരു പൂമ്പാറ്റയ്ക്കും.</l>
+          </lg>
+          <lg>
+            <l> ആ ഇടുങ്ങിയ ഇടത്തിൽ പറ്റുന്നത്ര </l>
+            <l> ചലനങ്ങളും ചേഷ്ടകളുമായി</l>
+            <l> നിങ്ങൾക്ക് നൃത്തം ചെയ്യാം .</l>
+            <l> ഒച്ച ഉയർത്താതെ പാടാം.</l>
+            <l> വെയിൽ ശിശുവിനെ ഇക്കിളിയാക്കി</l>
+            <l> മെല്ലെ ചിരിക്കുകപോലുമാകാം.</l>
+          </lg>
+          <lg>
+            <l> പക്ഷേ, ഏറെ സമയമില്ല, </l>
+            <l> അത് നിങ്ങൾക്കുമറിയാം. </l>
+            <l> വെയിൽ മൂത്തേക്കാം,</l>
+            <l> ഇരുപുറവുമുള്ള വേദനകൾ </l>
+            <l> തിങ്ങി അടുത്തുവന്നു ശ്വാസം മുട്ടിക്കാം</l>
+            <l> ഏതുസമയവും അവയ്ക്കിടയിൽ </l>
+            <l> പുറത്തുകടക്കാനാകാതെ</l>
+            <l> നിങ്ങൾ കുടുങ്ങിപ്പോയെന്നുവരാം.</l>
+            <l> ദേഹം മുഴുവൻ ചോരപൊടിയുമ്പോൾ, </l>
+            <l> ആനന്ദം ഒരുകെണിയാണോ</l>
+            <l> എന്ന് സംശയിച്ചെന്നും വരാം.</l>
+            <l> അത് തീർത്തും തെറ്റല്ല.</l>
+            <l> എന്നാലും പൂ കണ്ടല്ലോ.</l>
+            <l> നൃത്തം ചെയ്തല്ലോ.</l>
+            <l> പക്ഷേ വേദനകൾ, അവ</l>
+            <l> ശാശ്വതമാണ്, അവയുടെ</l>
+            <l> ഇടം വിശാലവും. </l>
+            <l> ഭൂമിയെ കെണിയിലാക്കിയ</l>
+            <l> ശൂന്യാകാശം പോലെ.</l>
+          </lg>
+          <lg>
+            <l> അവിടെയും നക്ഷത്രങ്ങളുണ്ടെന്നു കാണാൻ </l>
+            <l> ഭൂമി ഉപേക്ഷിക്കേണ്ടി വരും. </l>
+            <l> ആർക്കറിയാം, പ്രകാശവർഷങ്ങൾ സഞ്ചരിച്ച്</l>
+            <l> നിങ്ങളുടെ ആത്മാവ്</l>
+            <l> ഒരു നക്ഷത്രത്തിൽ ചേക്കേറിയേക്കാം </l>
+            <l> അവിടെ അതിന് പുതിയ ഒരുടൽ കൈവരും </l>
+          </lg>
+          <lg>
+            <l> അപ്പോൾ നിങ്ങൾ അറിയും,</l>
+            <l> രണ്ടു വേദനകൾക്കിടയിലുള്ള</l>
+            <l> ഒരിടുങ്ങിയ സ്ഥലമാണ് ആനന്ദം. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 1.0/0.1"-->
+      </div>
+      <!--end of "chapter 1/0"-->
+      <!--END OF CHAPTER 1/0-->
+      <div type="chapter" n="2" xml:id="chp2">
+        <head type="chaphead">കവിതാ വിവര്‍ത്തനം</head>
+        <div type="lsection">
+          <lg>
+            <l> കവിതാവിവര്‍ത്തനം</l>
+            <l> ഒരു കൂടു വിട്ടു കൂടുമാറ്റമാണ്</l>
+            <l> മത്സ്യം വെള്ളത്തിലൂടെ ഊളിയിടുന്നതുപോലെ</l>
+            <l> വിവര്‍ത്തകന്‍ മനസ്സുകളിലൂടെ ഊളിയിടുന്നു</l>
+            <l> ഓരോ വാക്കിന്റെയും തീരത്ത്</l>
+            <l> അവന്‍ തരിമണലില്‍ കുനിഞ്ഞിരിക്കുന്നു</l>
+            <l> ഓരോ കക്കയുടെയും നിറം പഠിക്കുന്നു</l>
+            <l> ഓരോ ശംഖും ഊതിനോക്കുന്നു.</l>
+            <l> കവിതാവിവര്‍ത്തനം വിക്രമാദിത്യന്‍ കഥയിലെ</l>
+            <l> അമ്പരപ്പിക്കുന്ന തല മാറ്റിവെയ്ക്കലാണ്</l>
+            <l> വിവര്‍ത്തകന്‍ തന്റെ ഉടലില്‍</l>
+            <l> മറ്റൊരു കവിയുടെ ശിരസ്സു താങ്ങി നിര്‍ത്തുന്നു</l>
+            <l> ഓരോ വരിയും ഓരോ വഴിയാണ്</l>
+            <l> ദുഃഖവും യുദ്ധവും മടുപ്പുംകൊണ്ടു</l>
+            <l> കീറിപ്പറിഞ്ഞ ഒരു വഴി</l>
+            <l> അനശ്വരരായ മനുഷ്യരും ദൈവങ്ങളും</l>
+            <l> മരങ്ങളും വിഹരിക്കുന്ന</l>
+            <l> സംഗീതാത്മകമായ ഒരു പിന്‍വഴി.</l>
+            <l> ഒരു വരി അവസാനിക്കുന്നിടത്ത്</l>
+            <l> ഒരഗാധത പൊട്ടിത്തുറക്കുന്നു</l>
+            <l> അവിടെ മരിച്ചവരുടെ ആത്മാക്കള്‍</l>
+            <l> ദാഹം തീര്‍ക്കാനെത്തുന്നു.</l>
+            <l> വിശുദ്ധമായ ഈ വഴിയേ പോരുന്നവര്‍</l>
+            <l> ചെരിപ്പും ഉടുപ്പും അഴിച്ചുവെയ്ക്കണം</l>
+            <l> അടിവാരത്തിലെ കാറ്റുകളെപ്പോലെ</l>
+            <l> നഗ്നരായി നൂണുപോകണം.</l>
+            <l> ഒരു ദിവസം ഞാന്‍ എന്റെ കവിത</l>
+            <l> എന്റെതന്നെ ഭാഷയിലേയ്ക്കു</l>
+            <l> വിവര്‍ത്തനം ചെയ്യുന്നതായി സ്വപ്നം കണ്ടു</l>
+          </lg>
+          <lg>
+            <l> നാമേവരും ഓരോ കവിതയും</l>
+            <l> നമ്മുടെ ഭാഷയിലേയ്ക്ക് വിവര്‍ത്തനം ചെയ്യുന്നു</l>
+            <l> പിന്നെ നാം അര്‍ത്ഥത്തെച്ചൊല്ലി വഴക്കിടുന്നു</l>
+          </lg>
+          <lg>
+            <l> എനിക്കു തോന്നുന്നു,</l>
+            <l> ബാബേല്‍ ഒരിക്കലും പണിതീരുകയില്ല. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <p style="noindent">ഏപ്രില്‍, 1977
+</p>
+        </div>
+        <!--end of "section 2.0/0.2"-->
+        <div type="lsection" xml:id="sec0.3">
+          <head type="lsechead">സച്ചിദാനന്ദന്‍</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/satchi.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent"> മലയാളത്തിലെ പ്രമുഖ കവിയായ സച്ചിദാനന്ദൻ (ജനനം: മേയ് 28, 1946) തൃശൂർ
+ജില്ലയിലെ കൊടുങ്ങല്ലൂരിലാണ് ജനിച്ചത്. ജനകീയ സാംസ്കാരിക വേദിയിലെ സജീവ പങ്കാളിയായിരുന്ന
+സച്ചിദാനന്ദൻ കേന്ദ്ര സാഹിത്യ അക്കാദമിയുടെ സെക്രട്ടറിയായും പ്രവർത്തിച്ചിട്ടുണ്ട്. 2010-ൽ കേരളസാഹിത്യ
+അക്കാദമി വിശിഷ്ടാംഗത്വം നൽകി ആദരിച്ചു. 2012-ൽ കേന്ദ്രസാഹിത്യ അക്കാദമി അവാർഡ് മറന്നു വച്ച
+വസ്തുക്കൾ എന്ന കവിതാസമാഹാരത്തിനു ലഭിച്ചു. കേന്ദ്രസാഹിത്യ അക്കാദമി പ്രസിദ്ധീകരണമായ ഇന്ത്യൻ
+ലിറ്ററേച്ചറിന്റെ എഡിറ്ററായിരുന്നു.
+</p>
+        </div>
+        <!--end of "section 2.0/0.3"-->
+        <div type="lsection" xml:id="sec0.4">
+          <head type="lsechead">ജീവിതരേഖ</head>
+          <p style="noindent">സച്ചിദാനന്ദൻ തർജ്ജമകളടക്കം അമ്പതോളം പുസ്തകങ്ങൾ രചിച്ചു. തന്റെ
+തനതായ ശൈലിയിലൂടെ, വിശ്വസാഹിത്യത്തിലെ പുരോഗമന ശബ്ദങ്ങളായ അന്റോണിയോ ഗ്രാംഷി, പാബ്ലോ
+നെരൂദ, മെഹ്മൂദ് ഡാർവിഷ്, യെഹൂദ അമിച്ചായി, യൂജിനിയോ മൊണ്ടേൽ തുടങ്ങിയവരുടെ രചനകളെ,
+കേരളത്തിലെ സാഹിത്യ പ്രേമികൾക്കു പരിചയപ്പെടുത്തി. 1989, 1998, 2000, 2009, 2012 വർഷങ്ങളിൽ കേരള
+സാഹിത്യ അക്കാദമി അവാർഡിന് അർഹനായി. 1995 വരെ ഇരിങ്ങാലക്കുട ക്രൈസ്റ്റ് കോളെജിൽ ഇംഗ്ലിഷ്
+പ്രൊഫെസർ ആയി ജോലി നോക്കി. 1996 മുതൽ 2006 വരെ കേന്ദ്ര സാഹിത്യ അക്കാദമിയുടെ സെക്രട്ടറിയായി
+സേവനമനുഷ്ഠിച്ചു. 2011 വരെ ഇന്ദിരാഗാന്ധി ഓപ്പൺ യൂണിവേർസിറ്റിയിൽ ട്രാൻസ്ലേഷൻ വകുപ്പിൽ പ്രൊഫസ്സറും
+വകുപ്പു മേധാവിയും ആയിരുന്നു.
+</p>
+        </div>
+        <!--end of "section 2.0/0.4"-->
+        <div type="lsection" xml:id="sec0.5">
+          <head type="lsechead">കൃതികൾ</head>
+          <p style="noindent">എഴുത്തച്ഛനെഴുതുമ്പോൾ, സച്ചിദാനന്ദന്റെ കവിതകൾ, ദേശാടനം, ഇവനെക്കൂടി,
+കയറ്റം, സാക്ഷ്യങ്ങൾ, അപൂർണ്ണം, വിക്ക്, മറന്നു വച്ച വസ്തുക്കൾ, വീടുമാറ്റം, മലയാളം, കവിബുദ്ധൻ,
+സംഭാഷണത്തിനൊരു ശ്രമം, അഞ്ചു സൂര്യൻ, പീഡനകാലം, വേനൽമഴ, തുടങ്ങി ഇരുപത്
+കവിതാസമാഹാരങ്ങൾ; 1965 മുതൽ 2005 വരെ എഴുതിയ തെരഞ്ഞെടുത്ത കവിതകളുടെ സമാഹാരങ്ങളായ
+അകം, മൊഴി, എന്നിവ; കവിതയും ജനതയും, അന്വേഷണങ്ങൾ, പാബ്ലോ നെരൂദാ എന്നീ പഠനങ്ങൾ;
+കുരുക്ഷേത്രം, സംവാദങ്ങൾ സമീപനങ്ങൾ, സംസ്കാരത്തിന്റെ രാഷ്ട്രീയം, വീണ്ടുവിചാരങ്ങൾ, മാർക്സിയൻ
+സൗന്ദര്യശാസ്ത്രം: ഒരു മുഖവുര, തുടങ്ങിയ ലേഖനസമാഹാരങ്ങൾ പ്രധാന കൃതികളാണ്.
+</p>
+          <p>(ചിത്രങ്ങൾക്ക് വിക്കിപ്പീഡിയയോട് കടപ്പാട്)
+</p>
+        </div>
+        <!--end of "section 2.0/0.5"-->
+      </div>
+      <!--end of "chapter 2/0"-->
+      <!--END OF CHAPTER 2/0-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vrttam; Kavitha Vivarttanam (ml:
+വൃത്തം; കവിതാ വിവര്‍ത്തനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Satchidanandan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-05-14. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poems, K. Satchidanandan,
+Vrttam; Kavitha Vivarttanam, സച്ചിദാനന്ദന്‍, വൃത്തം; കവിതാ വിവര്‍ത്തനം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 2, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Paul_Gauguin_094.jpg">Landscape
+with Tall Trees or Poplar-Lined Lane, Osny,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Paul_Gauguin">Paul Gauguin</ref>
+ (1848–1903). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sachi-01.xml">Download document sources
+
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sachi-01.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

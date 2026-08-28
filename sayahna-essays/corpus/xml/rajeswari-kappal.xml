@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പേരാവൂർ, വടക്കേക്കര, ആറന്മുള വഴി ഒരു
+കപ്പൽ</title>
+          <title xml:lang="en" type="main">Peravoor, Vadakkekara, Aranmula Vazhi Oru
+Kappal</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പേരാവൂർ, വടക്കേക്കര, ആറന്മുള വഴി ഒരു
+കപ്പൽ</title>
+              <title xml:lang="en" type="main">Peravoor, Vadakkekara, Aranmula Vazhi Oru
+Kappal</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Peravoor</term>
+          <term>Vadakkekara</term>
+          <term>Aranmula Vazhi Oru Kappal</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>പേരാവൂർ</term>
+          <term>വടക്കേക്കര</term>
+          <term>ആറന്മുള വഴി ഒരു കപ്പൽ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/An_elephant_carrying.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:An_elephant_carrying_fodder..jpg">An
+elephant carrying fodder,</ref> a painting by Unknown artist  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പേരാവൂർ, വടക്കേക്കര, ആറന്മുള വഴി ഒരു കപ്പൽ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പേരാവൂർ, വടക്കേക്കര, ആറന്മുള വഴി ഒരു കപ്പൽ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/KA_Balan_.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എ. ബാലൻ</figDesc>
+          </figure>
+          <p style="noindent"> പെരിയാറിന്റെ വടക്കേക്കരയിൽ, പഴയ തിരുവിതാംകൂറിന്റെ വടക്കുപടിഞ്ഞാറേ
+മൂലയിലാണു് വടക്കേക്കര നിയോജക മണ്ഡലം. വടക്കേക്കര, ചിറ്റാറ്റുക്കര, പുത്തൻവേലിക്കര, കുന്നുകര,
+പാറക്കടവ്, നെടുമ്പാശ്ശേരി, ചെങ്ങമനാട് എന്നീ ഏഴു ഗ്രാമപഞ്ചായത്തുകൾ ചേർന്നാൽ വടക്കേക്കര
+മണ്ഡലമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_balanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. ബാലാനന്ദൻ</figDesc>
+          </figure>
+          <p> മാർക്സിസ്റ്റ് കോട്ടയായാണു് വടക്കേക്കര അറിയപ്പെടുന്നതു്. 1957-ൽ മണ്ഡലം രൂപവത്ക്കരിക്കപ്പെട്ടതു മുതൽ
+ഇന്നോളം (ഒരിക്കലൊഴികെ) അവിഭക്ത കമ്യൂണിസ്റ്റ് പാർട്ടിയുടെയോ മാർക്സിസ്റ്റ് പാർട്ടിയുടെയോ
+സ്ഥാനാർത്ഥികൾ മാത്രമേ വടക്കേക്കരയിൽ ജയിച്ചിട്ടുള്ളൂ. 1957-ൽ <ref target="https://ml.wikipedia.org/wiki/K.A._Balan">കെ. എ. ബാലൻ</ref>, 1965-ൽ
+അബ്ദുൽ ജലീൽ, 1967-ലും 79-ലും <ref target="https://ml.wikipedia.org/wiki/E._Balanandan">ഇ. ബാലാനന്ദൻ</ref>,
+1977-ലും 80-ലും 82-ലും <ref target="https://ml.wikipedia.org/wiki/T._K._Abdu">ടി. കെ.
+അബ്ദു</ref>. 1987-ലും 91-ലും 96-ലും <ref target="https://ml.wikipedia.org/wiki/S._Sharma">എസ്. ശർമ</ref>.
+വിമോചനസമരത്തെ തുടർന്ന് 1960-ൽ നടന്ന തെരഞ്ഞെടുപ്പിൽ കോൺഗ്രസിലെ <ref target="https://ml.wikipedia.org/wiki/K.R._Vijayan">കെ. ആർ. വിജയൻ</ref>
+ജയിച്ചതു് മാത്രമാണു് ഏക അപവാദം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TK_Abdu.png" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. അബ്ദു</figDesc>
+          </figure>
+          <p> കമ്യൂണിസ്റ്റ്-മാർക്സിസ്റ്റ് കക്ഷിയോടു് ഇത്രയേറെക്കാലം കൂറുപുലർത്തിയ ഒരു മണ്ഡലവും തിരു-കൊച്ചി
+ഭാഗത്തില്ല. കുഴൽമന്ദവും മലമ്പുഴയുമൊഴികെ മറ്റേതെങ്കിലും മണ്ഡലം കേരള സസ്ഥാനത്തുതന്നെ കാണില്ല.
+ഈയടുത്ത കാലംവരെ വികസനപ്രവർത്തനങ്ങളോ നിയമസഭയിലെ പ്രകടനമോ ഒന്നും വടക്കേക്കരയിൽ
+തെരഞ്ഞെടുപ്പു വിഷയങ്ങളായിരുന്നില്ല. പൊതുജനാരോഗ്യ വകുപ്പിനെപ്പറ്റിയുള്ള ചോദ്യത്തിനു് പൊതുമരാമത്തു്
+വകുപ്പിന്റെ പ്രവർത്തനത്തെപ്പറ്റി ഉപചോദ്യം ചോദിച്ച ഒരു സഖാവു് മൂന്നുവട്ടം വടക്കേക്കരയിൽനിന്നു്
+പുഷ്പംപോലെ ജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 1987 മുതൽ സ്ഥിതി കുറച്ചൊന്നു മാറി. നേരിയ ഭൂരിപക്ഷത്തോടെയാണു് <ref target="https://ml.wikipedia.org/wiki/S._Sharma">എസ്. ശർമ</ref> മൂന്നു വട്ടവും
+നിയമസഭയിലെത്തിയതു്. അദ്ദേഹം മണ്ഡലത്തിൽ നിറഞ്ഞുനിന്നു് പ്രവർത്തിക്കുകയും ചെയ്തു. മന്ത്രിയായതോടെ
+സഖാവിന്റെ ഗ്ലാമർ വല്ലാതെ മങ്ങി. 1999-ലെ പാർലമെന്റ് തെരഞ്ഞെടുപ്പിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരനു്</ref>
+വടക്കേക്കരയിൽ മൂവായിരത്തിൽപരം വോട്ടിന്റെ ലീഡ് കിട്ടി. പഞ്ചായത്തു് തെരഞ്ഞെടുപ്പിലും സഖാക്കൾക്കു്
+തിരിച്ചടിയുണ്ടായി. ചെങ്ങമനാട്, നെടുമ്പാശ്ശേരി, കുന്നുകര ഗ്രാമപഞ്ചായത്തുകൾ എൽ. ഡി. എഫിനെ കൈവിട്ടു.
+കുന്നുകര ബ്ലോക്ക് പഞ്ചായത്തിലും യു. ഡി. എഫ്. അധികാരത്തിലെത്തി. ജില്ലാ പഞ്ചായത്തു് ഡിവിഷനുകൾ
+മൂന്നും നെടുമ്പാശ്ശേരി, പാറക്കടവ്, ചേന്ദമംഗലം യു. ഡി. എഫ്. നേടി. ശർമയുടെ സന്തതസഹചാരി കെ. എ.
+ചാക്കോച്ചൻ നെടുമ്പാശ്ശേരി ഡിവിഷനിൽ മലർന്നടിച്ചുവീണപ്പോൾ കോൺഗ്രസ്സുകാർപോലും ഞെട്ടി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/S_Sharma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. ശർമ</figDesc>
+          </figure>
+          <p> സംഗതികളുടെ പോക്കു് സഖാവിനും പിടികിട്ടി. ഇനി വടക്കേക്കരയിലേക്കില്ല എന്നു് അദ്ദേഹം തീരുമാനിച്ചു.
+പള്ളുരുത്തിയിലും ഇരിങ്ങാലക്കുടയിലും ശ്രമിച്ചെങ്കിലും നടന്നില്ല. അങ്ങനെ പൊരുതുന്ന യുവത്വത്തിന്റെ
+പടനായകൻ കളത്തിനു് പുറത്തായി. ശർമയുടെ പിൻഗാമിയായി <ref target="https://en.wikipedia.org/wiki/P._Rajeeve">പി. രാജീവ്</ref> വന്നു. രാജീവ്
+നേരത്തേ പ്രചാരണം തുടങ്ങി, യുവപോരാളിയെ കിട്ടിയപ്പോൾ അണികളും ഉഷാറായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_Rajeev1.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. രാജീവ്</figDesc>
+          </figure>
+          <p> രാജീവിന്റെ പ്രചാരണം ഒരുറൗണ്ട് പൂർത്തിയായപ്പോഴും മറുഭാഗത്തു് അനിശ്ചിതത്വം നിലനിന്നു. ഒട്ടേറെ
+ഭൈമീകാമുകർ രംഗത്തുവന്നു—<ref target="https://ml.wikipedia.org/wiki/M._I._Shanavas">എം. ഐ.
+ഷാനവാസ്</ref>, <ref target="https://en.wikipedia.org/wiki/Benny_Behanan">ബെന്നി ബഹനാൻ</ref>,
+അജയ് തറയിൽ, ടി. പി. ഹസൻ, <ref target="https://ml.wikipedia.org/wiki/K._P._Dhanapalan">കെ. പി.
+ധനപാലൻ</ref>, എം. എ. ചന്ദ്രശേഖരൻ… ചാലക്കുടിയിൽ <ref target="https://en.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജ</ref>
+മത്സരിക്കുന്നപക്ഷം വടക്കേക്കരയിൽ <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണനാ</ref> കും സ്ഥാനാർഥിയെന്നും കേട്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KR_vijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ആർ. വിജയൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._P._Dhanapalan">ധനപാലനാ</ref> ണു്
+സ്ഥാനാർത്ഥിയെന്നു് ദൽഹിയിൽനിന്നു് പ്രഖ്യാപനം വന്നപ്പോൾ സഖാക്കൾ ഞെട്ടി. കാരണം, വടക്കേക്കരയിൽ
+കോൺഗ്രസിനു് നിർത്താവുന്നതിൽ ഏറ്റവും മികച്ച സ്ഥാനാർഥിയാണു് <ref target="https://ml.wikipedia.org/wiki/K._P._Dhanapalan">കെ. പി.
+ധനപാലൻ</ref>, കെ. എസ്. യു.-വിലൂടെ രംഗത്തു വന്ന ധനപാലൻ. ആലുവ യു. സി. കോളേജിൽ യൂനിയൻ
+ചെയർമാനായിരുന്നു. പിന്നീടു് പറവൂർ മുനിസിപ്പൽ കൗൺസിലറും. 1987-ൽ കൊടുങ്ങല്ലൂരിൽ ഒരവസരം
+കിട്ടിയതാണു്. തീപാറുന്ന പോരാട്ടം കാഴ്ചവെച്ചെങ്കിലും കമ്യൂണിസ്റ്റ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/V.K._Rajan">വി. കെ. രാജനെ</ref>
+കീഴ്പ്പെടുത്താനായില്ല. വടക്കേക്കര മണ്ഡലവുമായി ഉറ്റബന്ധം പുലർത്തുന്നയാളാണു് ധനപാലൻ;
+കോൺഗ്രസുകാർക്കു് പതിവുള്ള ‘ശീലങ്ങൾ’ പലതുമില്ലാത്ത വ്യക്തിയും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MI_Shanavas.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ഐ. ഷാനവാസ്</figDesc>
+          </figure>
+          <p> വടക്കേക്കരയിലെ സ്ഥാനാർത്ഥിയുടെ പേരുകേട്ടു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>
+പൊട്ടിത്തെറിച്ചു. കഴിഞ്ഞ പാർലമെന്റ് തെരഞ്ഞെടുപ്പിൽ എനിക്കു് പാരവെച്ചവനാണു് കോൺഗ്രസ്
+സ്ഥാനാർത്ഥി. എന്റെ മണ്ഡലമായ മുകുന്ദപുരത്തു് ഞാൻ ചോദിച്ചിട്ടു് ഒരു സീറ്റുതന്നില്ല. എന്നെ വിജയിപ്പിക്കാൻ
+പരിശ്രമിച്ച ചെറുപ്പക്കാരനു് ഒരു സീറ്റ് കൊടുത്തില്ല…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Padmaja.jpg" rendition="gra"/>
+            <figDesc style="thumb">പത്മജ</figDesc>
+          </figure>
+          <p> മുകുന്ദപുരം ലോക്സഭാ മണ്ഡലത്തിലെ ഏഴു നിയമസഭാ സീറ്റുകളിൽ ജെ. എസ്. എസിനു് കൊടുത്ത
+കൊടുങ്ങല്ലൂരും മാണി ഗ്രൂപ്പിന്റെ ഇരിങ്ങാലക്കുടയും കഴിച്ചു് ബാക്കി അഞ്ചിൽ നാലും ലീഡറുടെ
+നോമിനികൾക്കാണു് കിട്ടിയതു്. മാളയിൽ <ref target="https://ml.wikipedia.org/wiki/T.U._Radhakrishnan">ടി. യു.
+രാധാകൃഷ്ണൻ</ref>, ചാലക്കുടിയിൽ <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണൻ</ref>, അങ്കമാലിയിൽ <ref target="https://en.wikipedia.org/wiki/P._J._Joy">പി. ജെ. ജോയി</ref>,
+പെരുമ്പാവൂരിൽ <ref target="https://ml.wikipedia.org/wiki/P.P._Thankachan">പി. പി. തങ്കച്ചൻ</ref>.
+‘എ’ ഗ്രൂപ്പിനു് വെച്ച വടക്കേക്കര സീറ്റാണു് പക്ഷേ, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+‘ചോദിച്ച’ മണ്ഡലം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/BENNY_BEHANAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബെന്നി ബഹനാൻ</figDesc>
+          </figure>
+          <p> ധനപാലന്റെ തെരഞ്ഞെടുപ്പു കൺവെൻഷൻ മേലാവിൽനിന്നുള്ള നിർദേശാനുസരണം ‘ഐ’ ഗ്രൂപ്പുകാർ
+ബഹിഷ്ക്കരിച്ചു. തിരുത്തൽവാദികളും നാലാം ഗ്രൂപ്പുകാരും വിട്ടുനിന്നു; ‘എ’ ഗ്രൂപ്പിലാണെന്നു കരുതപ്പെടുന്ന <ref target="https://ml.wikipedia.org/wiki/M._I._Shanavas">എം. ഐ.
+ഷാനവാസി</ref> ന്റെ അനുയായികളും. യോഗത്തിൽ പങ്കെടുത്തില്ല. കൺവെൻഷൻ ഉദ്ഘാടനം ചെയ്ത
+ഷാനവാസ്, സ്ഥാനാർഥി പിറകേവരും എന്നു് ചിലർ പ്രചരിപ്പിക്കുന്നതിനിടയിലും ധനപാലന്റെ വോട്ടഭ്യർഥന
+മതിലുകളിൽ നിറഞ്ഞു: വർണപോസ്റ്ററുകൾ നിരന്നു. നേതാക്കൾ ഇടംതിരിഞ്ഞുനിന്നപ്പോഴും പ്രവർത്തകർ ഗ്രൂപ്പ്
+ഭേദമന്യേ രംഗത്തിറങ്ങി. മൽസരം കൊഴുത്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pj_joy.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോയി</figDesc>
+          </figure>
+          <p> വടക്കേക്കരയുടെ കമ്യൂണിസ്റ്റ് അനുഭാവത്തിനു് സാമുദായികമായ അടിത്തറയുമുണ്ടു്. ക്രിസ്ത്യാനികൾ,
+വിശേഷിച്ചു് സിറിയൻ കത്തോലിക്കർ എറണാകുളം ജില്ലയിൽ ഏറ്റവും കുറവുള്ള മണ്ഡലമാണു് വടക്കേക്കര.
+നായന്മാരും കുറവാണു്. ഈഴവരും മറ്റു പിന്നാക്ക ഹിന്ദുക്കളുമാണു് മഹാഭൂരിപക്ഷം. പിന്നീടു് മുസ്ലീംകളും. 1970-ൽ
+<ref target="https://ml.wikipedia.org/wiki/E._Balanandan">ബാലാനന്ദൻ</ref>
+വിജയിച്ച ശേഷം ഒരൊറ്റ ഈഴവനും വടക്കേക്കരയിൽ ഏതെങ്കിലും മുന്നണി സ്ഥാനാർഥിയായി മൽസരിച്ചിട്ടില്ല.
+ഇത്തവണത്തെ മാർക്സിസ്റ്റ് സ്ഥാനാർഥി നായരാണു്; കോൺഗ്രസ് സ്ഥാനാർഥി ഈഴവനും. മൂന്നു
+പതിറ്റാണ്ടിനുശേഷം വീണ്ടുമൊരു ഈഴവൻ എന്ന നിലക്കും പ്രചാരണം മുന്നേറി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ghulam_Nabi_Azad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗുലാംനബി ആസാദ്</figDesc>
+          </figure>
+          <p> അപ്പോഴാണു് <ref target="https://en.wikipedia.org/wiki/Ghulam_Nabi_Azad">ഗുലാംനബി
+ആസാദും</ref> <ref target="https://ml.wikipedia.org/wiki/Motilal_Vora">മോത്തിലാൽ വോറ</ref> യും
+ദൂതന്മാരായി എത്തിയതും എന്തു ത്യാഗത്തിനും സന്നദ്ധനാണെന്നു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref>
+അറിയിച്ചതും. ലീഡറുടെ പിടിവാശി ജയിച്ചു. വടക്കേക്കരയിൽ എം. എ. ചന്ദ്രശേഖരൻ സ്ഥാനാർഥി.
+(ചെറുപ്പക്കാരനു് വയസ്സു് അമ്പത്തിയഞ്ചായി!). കോൺഗ്രസുകാർക്കു് ചെയ്യാവുന്നതു് അവരും ചെയ്തു—പാർട്ടി
+ഓഫീസ് അടിച്ചുപൊളിച്ചു. കരുണാകരന്റെ കോലം കത്തിച്ചു. തെരഞ്ഞെടുപ്പു് പ്രവർത്തനം അതോടെ
+അവസാനിച്ചു. ധനപാലന്റെ പോസ്റ്ററുകൾ ‘ഐ’ ഗ്രൂപ്പ് സ്ഥാനാർത്ഥികൾ മൽസരിക്കുന്ന മാള, ചാലക്കുടി,
+പെരുമ്പാവൂർ, എറണാകുളം മണ്ഡലങ്ങളിൽ കൊണ്ടുപോയി പതിച്ചു. ഒളിച്ചും പതുങ്ങിയുമാണു് പുതിയ
+സ്ഥാനാർത്ഥി മണ്ഡലത്തിലെത്തുന്നതു്. <ref target="https://en.wikipedia.org/wiki/P._Rajeeve">പി. രാജീവി</ref> ന്റെ ഭൂരിപക്ഷം
+പതിനായിരത്തിൽ കവിയുമോ എന്നതാണു് ഇപ്പോൾ വടക്കേക്കരയിലെ ചർച്ചാവിഷയം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Motilal_Vora.jpg" rendition="gra"/>
+            <figDesc style="thumb">മോത്തിലാൽ വോറ</figDesc>
+          </figure>
+          <p> 1977-ൽ പേരാവൂർ മണ്ഡലമുണ്ടായതു് മുതൽ <ref target="https://ml.wikipedia.org/wiki/K_P_Nurudheen">കെ. പി. നൂറുദ്ദീനാ</ref> ണു്
+കോൺഗ്രസ് സ്ഥാനാർത്ഥി. 1996 വരെ വിജയിയും അദ്ദേഹം തന്നെയായിരുന്നു. കഴിഞ്ഞ തവണ
+കോൺഗ്രസ്-എസിലെ കെ. ടി. കുഞ്ഞഹമ്മദിനോടു് 186 വോട്ടിനു് തോറ്റ നൂറുദ്ദീൻ ഇത്തവണ യുവനേതാവു് <ref target="https://en.wikipedia.org/wiki/Satheeshan_Pacheni">സതീശൻ
+പാച്ചേനി</ref> ക്കുവേണ്ടി വഴിമാറുമെന്നു കേട്ടിരുന്നു. സ്ഥാനാർഥിപ്രഖ്യാപനം വന്നപ്പോൾ പേരാവൂരിൽ
+നൂറുദ്ദീൻ തന്നെ. പാച്ചേനിക്കു് കിട്ടിയതു് മലമ്പുഴ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ആന്റണി</figDesc>
+          </figure>
+          <p> കരുണാകരന്റെ പിടിവാശി ലിസ്റ്റിൽ വടക്കേക്കരക്കും ആറന്മുളക്കും കോട്ടയത്തിനും കായംകുളത്തിനും
+ശേഷമായിരുന്നു പേരാവൂർ. കോട്ടയത്തു് <ref target="https://ml.wikipedia.org/wiki/Mercy_Ravi">മേഴ്സി രവി</ref> യേയോ
+കായംകുളത്തു് <ref target="https://ml.wikipedia.org/wiki/M.M._Hassan">എം. എം.
+ഹസനെ</ref> യോ തൊടാൻ പറ്റാത്ത സാഹചര്യത്തിൽ നൂറുദ്ദീനെ കുരുതികൊടുക്കാനാണു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> സമ്മതം മൂളിയതു്.
+മണിയറയിൽനിന്നു് പുറത്താക്കപ്പെട്ട പുതിയാപ്ലയെപ്പോലെ സ്വന്തം നാട്ടുകാർക്കുമുന്നിൽ അപഹാസ്യനായി,
+
+<ref target="https://ml.wikipedia.org/wiki/K_P_Nurudheen">നൂറുദ്ദീൻ
+സാഹിബ്</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/M_M_Hassan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. ഹസൻ</figDesc>
+          </figure>
+          <p> 1991-ൽ തലശ്ശേരിയിലും 96-ൽ എടക്കാട്ടും മൽസരിച്ചു് ഡീസന്റായി തോറ്റ എ. ഡി. മുസ്തഫ ഇനി പേരാവൂര്
+നിന്നാലും ജയിക്കില്ല എന്നു തിരിച്ചറിയാനുള്ള രാഷ്ട്രീയ വിവേകം തീർച്ചയായും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു</ref> ണ്ടു്.
+എന്നാൽ, <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>
+യെ പിന്താങ്ങാനിടയുള്ള എം. എൽ. എ.-മാരുടെ എണ്ണത്തിൽ ഒരാളുടെ കുറവുവരുത്താൻ കഴിഞ്ഞതിൽ
+ലീഡർക്കു് ആഹ്ലാദിക്കാം. നൂറുദ്ദീനെ അപമാനിച്ചു് പുറത്താക്കുന്നതിലൂടെ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ വിശ്വാസ്യത
+ഇല്ലാതാക്കാൻ കഴിഞ്ഞതിൽ അഭിമാനിക്കുകയും ആകാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mercy_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മേഴ്സി രവി</figDesc>
+          </figure>
+          <p> നൂറുദ്ദീനെ മാറ്റിയതിൽ പ്രതിഷേധിച്ചു് പേരാവൂരെ കോൺഗ്രസുകാർ ആരുടെയെങ്കിലും കോലം കത്തിച്ചോ
+എന്നറിയില്ല. കത്തിക്കുന്നപക്ഷം കരുണാകരന്റെയല്ല. ആന്റണിയുടെ കോലമാണു് കത്തിക്കേണ്ടതു്. കാരണം,
+നൂറുദ്ദീനെ മാനംകെടുത്തിയതിന്റെ പ്രധാന ഉത്തരവാദി ആദർശധീരനാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Aryadan_muhammad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആര്യാടൻ മുഹമ്മദ്</figDesc>
+          </figure>
+          <p> എത്രയോ വർഷമായി ആന്റണിയുടെ ഉറ്റ അനുയായിയും സഹപ്രവർത്തകനുമാണു് നൂറുദ്ദീൻ. ആന്റണി
+പ്രസിഡന്റായിരുന്നപ്പോൾ കെ. പി. സി. സി. ട്രഷററായിരുന്നു അദ്ദേഹം. 1982–87 കാലത്തു് കരുണാകരൻ
+മന്ത്രിസഭയിൽ ആന്റണി ഗ്രൂപ്പിനെ പ്രതിനിധാനം ചെയ്തയാളുമാണു്. സ്ഥാനാർത്ഥിനിർണയം
+നടക്കുമ്പോൾതന്നെ നൂറുദ്ദീനെ ഒഴിവാക്കി പുതുമുഖത്തിനു് അവസരം നൽകിയിരുന്നെങ്കിൽ അതിനൊരു
+മാന്യതയുണ്ടായേനെ. (<ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടൻ മുഹമ്മദ്</ref>
+ഒമ്പതാം തവണയും <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> എട്ടാം
+വട്ടവും മൽസരത്തിനിറങ്ങുമ്പോൾ ഏഴാംതവണക്കാരനായ നൂറുദ്ദീനെ എങ്ങനെ മാറ്റും എന്നതു് മറ്റൊരു കാര്യം).
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/K_P_Nurudheen">കെ. പി.
+നൂറുദ്ദി</ref> നെ വഴിയിലുപേക്ഷിച്ച ആന്റണി. നാളെ കാര്യസാധ്യത്തിനായി ഉമ്മൻചാണ്ടിയെയും
+തള്ളിപ്പറയും. <ref target="https://en.wikipedia.org/wiki/Cherian_Philip">ചെറിയാൻ ഫിലിപ്പ്</ref>
+പറഞ്ഞതു് എത്ര സത്യം. (വാക്കുകൾ കൂട്ടിച്ചൊല്ലാൻ വയ്യാത്ത കിടാങ്ങളേ, ദീർഘദർശനം ചെയ്യും
+‘ദൈവജ്ഞരല്ലോ നിങ്ങൾ!). എങ്ങനെയും മുഖ്യമന്ത്രിയാകുക എന്ന ഏകയിന പരിപാടിയേ അദ്ദേഹത്തിനുള്ളൂ.
+അശ്വത്ഥാമാ ഹത എന്നുറക്കെപ്പറഞ്ഞ ധർമപുത്രരുടെ പുനർജന്മമാണു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Oommen_Chandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമ്മൻചാണ്ടി</figDesc>
+          </figure>
+          <p> ആറന്മുളയുടെ കാര്യം ലേശം വ്യത്യസ്തമാണു്. മധ്യതിരുവിതാംകൂറിലെ ഏറ്റവും ഉറച്ച കോൺഗ്രസ്
+സീറ്റുകളിലൊന്നാണു് ആറന്മുള. കേരള കോൺഗ്രസ് രൂപവത്ക്കരണത്തെത്തുടർന്നു് ശക്തമായ
+ത്രികോണമൽസരം നടന്ന 1965, 67, 70 തെരഞ്ഞെടുപ്പുകളിലൊഴികെ എക്കാലത്തും ആറന്മുള
+കോൺഗ്രസിനൊപ്പം നിന്നു. 1980-ൽ ആന്റണിപക്ഷക്കാർ സി. പി. എമ്മിനോടൊപ്പം നിന്നപ്പോൾപോലും
+കോൺഗ്രസ്-ഐ സ്ഥാനാർത്ഥി കെ. കെ. ശ്രീനിവസനാണു് ജയിച്ചതു്. 1982-ലും ’87-ലും ശ്രീനിവാസൻ വിജയം
+ആവർത്തിച്ചു. 1991-ൽ ചെങ്ങന്നൂരിനു പകരം ആറന്മുള സീറ്റ് എൻ. ഡി. പി.-ക്കു് നൽകി; <ref target="https://en.wikipedia.org/wiki/R._Ramachandran_Nair">ആർ. രാമചന്ദ്രൻ
+നായർ</ref> വിജയിക്കുകയും ചെയ്തു. എൻ. ഡി. പി. പിണങ്ങിപ്പിരിഞ്ഞ ഒഴിവിലാണു് <ref target="https://ml.wikipedia.org/wiki/M._V._Raghavan">എം. വി. രാഘവൻ</ref>
+ആറന്മുളയിൽ സ്ഥാനാർത്ഥിയായതു്. നേതൃമാറ്റ സമയത്തും കരുണാകരനെത്തുണച്ച രാഘവനെ ആന്റണി
+ഗ്രൂപ്പുകാർ കാലുവാരി; ഇടതുപക്ഷസ്വതന്ത്രൻ <ref target="https://ml.wikipedia.org/wiki/Kadammanitta_Ramakrishnan">കടമ്മനിട്ട
+രാമകൃഷ്ണൻ</ref> 2,687 വോട്ടിന്റെ ഭൂരിപക്ഷത്തോടെ വിജയിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kadaman.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടമ്മനിട്ട രാമകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> ഏതു നിലക്കും ‘ഐ’ ഗ്രൂപ്പിനു കിട്ടേണ്ട മണ്ഡലമാണു് ആറന്മുള. <ref target="https://en.wikipedia.org/wiki/Malethu_Sarala_Devi">മാലേത്തു്
+സരളാദേവി</ref> യാണെങ്കിൽ കോൺഗ്രസിന്റെ തീപ്പൊരി നേതാവും ലീഡറുടെ ഉറച്ച അനുയായിയും.
+ആറ്റുകാൽ ക്ഷേത്രത്തിൽ പൊങ്കാലയിടാൻ പത്മജക്കു് അങ്കത്തുണ പോയതു് സരളാദേവിയാണു്; പാണക്കാടു
+തങ്ങളുടെ ജൂബിലിയാഘോഷത്തിനു് <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയാജി</ref>
+കോഴിക്കോട്ട് വന്നപ്പോൾ ആറന്മുളക്കണ്ണാടി തിരുമുൽക്കാഴ്ച വച്ചതും മറ്റാരുമല്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_V_Raghavan_.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വി. രാഘവൻ</figDesc>
+          </figure>
+          <p> വിജയസാധ്യത കൂടുതലുള്ള ആറന്മുള സീറ്റിൽ പത്തനംതിട്ട ഡി. സി. സി. പ്രസിഡന്റ് ഫിലിപ്പോസ് തോമസ്
+കണ്ണുവച്ചപ്പോൾ കളിമാറി. ആന്റണിയുടെ ഉറ്റ അനുയായിയാണു് ഫിലിപ്പോസ്. പോലീസ് സഹായത്തോടെ
+കരുണാകരൻ സംഘടനാ തെരഞ്ഞെടുപ്പു് നടത്തിയപ്പോൾപോലും പത്തനംതിട്ട ഡി. സി. സി.-യെ കൂടെ
+നിർത്തിയയാൾ. കഴിഞ്ഞ തവണ ഷുവർസീറ്റായ റാന്നിയിൽ മൽസരിച്ചു; പക്ഷേ, ക്നാനായ സമുദായക്കാർ
+ജാതിനോക്കി വോട്ടുചെയ്തതുകൊണ്ടു് സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Raju_Abraham">രാജു എബ്രഹാം</ref>
+വിജയിച്ചു. അതുകൊണ്ടു് ഇത്തവണ ആറന്മുളയിൽ നോട്ടമിട്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sonia_Gandhi1.jpg" rendition="gra"/>
+            <figDesc style="thumb">സോണിയാജി</figDesc>
+          </figure>
+          <p> സാമുദായിക പ്രാതിനിധ്യത്തിന്റെ പ്രശ്നം വന്നപ്പോൾ ഫിലിപ്പോസ് തോമസിന്റെ സാധ്യത മങ്ങി.
+മാർത്തോമ സഭക്കാരൻ തന്നെയായ ബിജിലി പനവേലിക്കു് റാന്നി സീറ്റു കിട്ടിയപ്പോൾ ഫിലിപ്പോസ്
+ഓട്ടോമാറ്റിക്കായി ലിസ്റ്റിൽനിന്നു് പുറത്തുപോയി. കരുണാകരൻ സരളക്കുവേണ്ടി അവസാനംവരെ വാദിച്ചു.
+പക്ഷേ, എ ഗ്രൂപ്പുകാർ തിണ്ണമിടുക്കുകാട്ടി <ref target="https://en.wikipedia.org/wiki/K._Sivadasan_Nair">കെ. ശിവദാസൻ
+
+നായരെ</ref> സ്ഥാനാർഥിയാക്കി. പത്തനംതിട്ട ബാറിലെ അഭിഭാഷകനും സംസ്ഥാന കാർഷിക വികസന
+ബാങ്ക് പ്രസിഡന്റുമാണു് ശിവദാസൻ നായർ. അഴിമതി നിരോധന കമീഷൻ പ്രഥമദൃഷ്ട്യാ കുറ്റക്കാരെന്നു്
+കണ്ടെത്തിയ ശിവദാസൻ നായരെയും വൈസ് പ്രസിഡന്റ് സി. പി. മൂസാൻകുട്ടിയെയും അയോഗ്യരാക്കാൻ
+വേണ്ടി സർക്കാർ കേരള സഹകരണ ചട്ടങ്ങളിലെ റൂൾ 44 ഭേദഗതി ചെയ്തതാണു്. ഹൈക്കോടതിസ്റ്റേയുടെ
+ബലത്തിൽ ഇരുവരും തൽസ്ഥാനങ്ങളിൽ തുടരുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Cheriyan_Philip.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചെറിയാൻ ഫിലിപ്പ്</figDesc>
+          </figure>
+          <p> ശിവദാസൻ നായർക്കാണു് സീറ്റെന്നറിഞ്ഞ സരളാദേവി പൊട്ടിത്തെറിച്ചു. പത്രസമ്മേളനം വിളിച്ചുകൂട്ടി
+തന്റെ സ്ഥാനാർത്ഥിത്വം പ്രഖ്യാപിച്ചു. <ref target="https://en.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> യെയും <ref target="https://ml.wikipedia.org/wiki/P.J._Kurian">പി. ജെ. കുര്യനെ</ref> യും
+കള്ളന്മാരെന്നു് വിളിക്കാനും മറന്നില്ല. കരുണാകരൻ ഗ്രൂപ്പുക്കാരൊന്നടങ്കം സരളാദേവിക്കു് പിന്തുണ പ്രഖ്യാപിച്ചു.
+ബി. ജെ. പി.-യുടെ പിന്തുണ തേടാനും അവർ മടിച്ചില്ല. കടിച്ച പാമ്പിനെക്കൊണ്ടുതന്നെ കരുണാകരൻ
+വിഷമിറക്കിച്ചപ്പോൾ ആന്റണി ഗ്രൂപ്പുകാർ അസാരം ഇളിഭ്യരായി. കരുണാകരന്റെയും ആന്റണിയുടെയും കോലം
+കത്തിക്കാനുള്ള വകതിരിവു് അവർക്കുണ്ടായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/RajuAbraham.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജു എബ്രഹാം</figDesc>
+          </figure>
+          <p> മുമ്പു് കോന്നിയിൽ എം. എൽ. എ. ആയിരുന്ന എ. പത്മകുമാറാണു് സരളാദേവിയുടെ എതിരാളി.
+ബി. ജെ. പി. സഹായിക്കുന്നപക്ഷം അവർക്കു് ഇപ്പോഴും ജയിക്കാവുന്നതേയുള്ളൂ. സരളാദേവി വെറ്റിലപാക്കും
+വെള്ളിയുറുപ്പികയും ലീഡറുടെ കാൽക്കൽ ദക്ഷിണവെക്കുന്ന ചിത്രം പത്രത്തിൽ കണ്ടപ്പോൾ
+കണ്ണുനിറഞ്ഞുപോയി. അനാഥരക്ഷകനേ, ആപൽബാന്ധവനേ, സേവിപ്പവർക്കാനന്ദസ്വരൂപനേ,
+ഹരിഹരസുതനയ്യനയ്യപ്പ സ്വാമിയേ ശരണമയ്യപ്പാ!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ramesh_Chennithala.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമേശ് ചെന്നിത്തല</figDesc>
+          </figure>
+          <p> വടക്കേക്കരയിലും പേരാവൂരും ആറന്മുളയിലും സ്ഥാനാർഥികളെ മാറ്റിയതു് മേലാവിൽനിന്നുള്ള
+തിട്ടൂരമനുസരിച്ചാണെങ്കിൽ തൃത്താലയിൽ നേതൃത്വം നിശ്ചയിച്ച സ്ഥാനാർഥിയെ പ്രവർത്തകർ
+മാറ്റുകയാണുണ്ടായതു്. 1970 മുതൽ 1987 വരെ കോൺഗ്രസ് സ്ഥിരമായി ജയിച്ചു വന്നതാണു് തൃത്താല മണ്ഡലം
+<ref target="https://en.wikipedia.org/wiki/Vella_Eacharan">വെള്ള
+ഈച്ചരനും</ref> <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണനും</ref> <ref target="https://ml.wikipedia.org/wiki/M.P._Thami">എം. പി. താമി</ref> യുമൊക്കെ
+ഈ മണ്ഡലത്തെ പ്രതിനിധാനം ചെയ്തവരാണു്. 1991-ൽ തൃത്താല സീറ്റ് മുസ്ലീംലീഗിനു് അനുവദിച്ചപ്പോഴാണു്
+ഇടതുമുന്നണി ആദ്യം വിജയിച്ചതു്. 1996-ൽ വീണ്ടും കോൺഗ്രസ് മൽസരിച്ചിട്ടും ഫലമുണ്ടായില്ല. സി. പി. എമ്മിലെ
+വി. കെ. ചന്ദ്രൻ കോൺഗ്രസ് യുവ നേതാവ് <ref target="https://ml.wikipedia.org/wiki/A.P._Anil_Kumar">എ. പി.
+അനിൽകുമാറി</ref> നെ 4401 വോട്ട് വ്യത്യാസത്തിൽ പരാജയപ്പെടുത്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_J_Kurien.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. കുര്യൻ</figDesc>
+          </figure>
+          <p> ഇത്തവണ സ്ഥലത്തെ യുവ കോൺഗ്രസുകാരനായ <ref target="https://ml.wikipedia.org/wiki/P._Balan">പി. ബാലനെ</ref>
+സ്ഥാനാർത്ഥിയാക്കാനായിരുന്നു പ്രവർത്തകർക്കു് താൽപര്യം. ഒരു പെയിന്റിംഗ് തൊഴിലാളി കോൺഗ്രസ്
+സ്ഥാനാർഥിയാകുന്നതു് മഹാ കുറച്ചിലല്ലേ? മുൻമന്ത്രി വെള്ള ഈച്ചരന്റെ മകൾ ഇ. വി. രാജമ്മക്കാണു് ടിക്കറ്റ്
+കിട്ടിയതു്. തൃത്താലക്കാർ അസ്സലുള്ളവരാണു്. അവർ രാജമ്മയെ മണ്ഡലത്തിൽ കാലുകുത്താൻ അനുവദിച്ചില്ല.
+ബാലനു പിന്നിൽ യു. ഡി. എഫ്. മൊത്തം അണിനിരക്കുകയും ചെയ്തു. തീരുമാനം മാറ്റാൻ നേതൃത്വം
+നിർബന്ധിതമായി. റിബൽ ഔദ്യോഗിക സ്ഥാനാർഥിയായി മാറി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KK_Balakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കെ. ബാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> കോൺഗ്രസുകാർ നാളികേരമുടക്കുമ്പോൾ ലീഗുകാർ ചിരട്ടയെങ്കിലും ഉടക്കണമല്ലോ. കഴക്കൂട്ടത്തെ
+സ്ഥാനാർഥി എം. അൽതാഫിനെ അവരും മാറ്റി. മുഹമദലി നിഷാദ് എന്ന പുതുമുഖമാണു് പുത്തൻ സ്ഥാനാർഥി.
+കഴക്കൂട്ടത്തെ കോൺഗ്രസുകാരൊന്നടങ്കം റിബൽ സ്ഥാനാർഥി <ref target="https://ml.wikipedia.org/wiki/M._A._Vaheed">എം. എ. വാഹിദി</ref>
+നൊപ്പം നിലയുറപ്പിച്ചതിനാൽ നിഷാദപർവം കണ്ണീരിൽ അവസാനിക്കാനാണു് സാധ്യത. സി. പി. എമ്മിലെ
+ബിന്ദു ഉമ്മറും കോൺഗ്രസ് റിബൽ വാഹിദും പ്രചാരണരംഗത്തു് ബഹുദൂരം മുന്നേറിക്കഴിഞ്ഞിരിക്കുന്നു. ലീഗ്
+സ്ഥാനാർഥിക്കു് കെട്ടിവെച്ച കാശ് തിരിച്ചുകിട്ടിയാൽ പടച്ചവന്റെ കൃപ.
+</p>
+          <p>മാവേലിക്കരയിൽ എം. മുരളിക്കെതിരെ ഒരു സാധ്യതയുമില്ല എന്നു് മനസ്സിലായതുകൊണ്ടാണു്
+മാർക്സിസ്റ്റുകാർ എൻ. സി. പി.-യിൽനിന്നു് ചെങ്ങന്നൂർ സീറ്റ് പിടിച്ചുവാങ്ങിയതു്. കേരള രാഷ്ട്രീയത്തിൽ
+എൻ. സി. പി.-ക്കു് എന്തു് വിലപേശൽ ശക്തിയാണുള്ളതു്? അങ്ങനെ മാവേലിക്കര അവരുടെ പിടലിയിലായി.
+മുരളിയുടെ രാഷ്ട്രീയ ഗുരുവായ പ്രൊഫ. പി. കെ. കേരളവർമക്കാണു് കുറിവീണതു്. അതോടെ യുവജനരോഷം
+ഇരമ്പി. നാഷനലിസ്റ്റ് യൂത്ത് കോൺഗ്രസിനുവേണം സീറ്റ് കൊടുക്കാൻ. കേരളവർമസാർ സന്തോഷത്തോടെ
+തന്നെ ഒഴിവായി; എൻ. വി. പ്രദീപ്കുമാർ പുത്തരിയങ്കം കുറിച്ചു. പ്രഖ്യാപിച്ച സ്ഥാനാർഥിയെ മാറ്റുന്ന കാര്യത്തിൽ
+സോണിയാ കോൺഗ്രസിനു് ഒപ്പമെത്തിയതിൽ ദേശീയവാദികൾക്കു് അഭിമാനം കൊള്ളാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AP_Anil_Kumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. പി. അനിൽകുമാർ</figDesc>
+          </figure>
+          <p> ഒരു സ്ഥാനാർഥിയെ മാറ്റാൻ പഠിച്ചപണി പത്തൊമ്പതും പയറ്റിയിട്ടും നടക്കാതെപോയതു് വടകരയിലാണു്.
+അഡ്വ. എം. പി. പ്രേംനാഥിനെ മതി സ്ഥാനാർഥിയായിട്ടെന്നു് വടകരയിലെ ജനതാദളക്കാർ; അതുപോരാ, <ref target="https://ml.wikipedia.org/wiki/C.K._Nanu">സി. കെ. നാണു</ref> തന്നെ
+വേണം എന്നു് സംസ്ഥാന നേതൃത്വം. ദേശീയ നേതൃത്വത്തിൽ അപ്പീലുപോയിട്ടും ഫലമുണ്ടായില്ല, നാണു തന്നെ
+സ്ഥാനാർഥി. സി. പി. എം. പിന്തുണയുള്ളിടത്തോളം കാലം നാണുവേട്ടനു് പേടിക്കാനില്ല. സ്വന്തം
+സ്ഥാനാർഥിയെ കോൺഗ്രസുകാർ തന്നെ അടിച്ചോടിക്കുന്ന സാഹചര്യത്തിൽ പ്രത്യേകിച്ചും.
+</p>
+          <p>സ്ഥാനാർഥികളെ മാറ്റണം എന്നാവശ്യപ്പെട്ടു് ലഹളയുണ്ടാക്കിയവരെ കോഴി മൂന്നുവട്ടം കൂവുംമുമ്പു് ഒതുക്കി
+മൂലക്കിരുത്തിയതിന്റെ ക്രെഡിറ്റോ. അതു് മാണിസാറിനുള്ളതാകുന്നു. കടുത്തുരുത്തിയിലെയും ഇടുക്കിയിലെയും
+വിമതർ എത്ര പെട്ടെന്നാണു് മാളത്തിൽ ഒളിച്ചതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CK_Nanu.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കെ. നാണു</figDesc>
+          </figure>
+          <p> നടുക്കടലിൽവെച്ചു് കപ്പിത്താനെ മാറ്റരുതു് എന്നൊരു പഴഞ്ചൊല്ലുണ്ടു് നാവികർക്കിടയിൽ. മൂന്നു്
+മണ്ഡലങ്ങളിൽ സ്ഥാനാർഥികളെ മാറ്റിച്ചതൊടെ ലീഡർ ശക്തനായിരിക്കുന്നു. കരുണാകരനെ പിണക്കാൻ
+ആന്റണിക്കോ ഹൈക്കമാൻഡിനോ ധൈര്യമില്ല. സീറ്റല്ല മനോഭാവമാണു് പ്രധാനമെന്നാണു് കാരണവരുടെ
+ഇപ്പോഴത്തെ ലൈൻ. മുഖ്യമന്ത്രിയാകാൻ എം. എൽ. എ ആകണമെന്നില്ല എന്നു് ഉദാഹരണങ്ങൾ നിരത്തി
+അദ്ദേഹം സമർഥിക്കുന്നു. കോൺഗ്രസ് നിയമസഭാകക്ഷി നേതാവിനെ ഹൈക്കമാൻഡ് നിർദ്ദേശിക്കുമെന്നു്
+മഹാജനാധിപത്യവാദിയായ ആന്റണിയും എം. എൽ. എ.-മാർ തെരഞ്ഞെടുക്കുമെന്നു് ഹൈക്കമാൻഡ് ഭക്തൻ
+കരുണാകരനും പറയുമ്പോൾ ജനം ചിരിക്കാതെന്തുചെയ്യും?
+</p>
+          <p>പ്രക്ഷുബ്ധമായ രാഷ്ട്രീയ കാലാവസ്ഥ മുതലെടുത്തു് ഐക്യമുന്നണിയുടെ വലിയ കപ്പിത്താനെ മാറ്റുകയാണു്
+കരുണാകരന്റെ ലക്ഷ്യം. 20 എം. എൽ. എ.-മാരെ കിട്ടിയാൽ ഒരു കളികളിക്കാം. ഒന്നുകിൽ തനിക്കു്
+മുഖ്യമന്ത്രിസ്ഥാനം അല്ലെങ്കിൽ മകനു് കെ. പി. സി. സി. അധ്യക്ഷ സ്ഥാനം സമ്മതമല്ലെങ്കിൽ കപ്പൽ
+മുങ്ങിയതുതന്നെ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Peravoor, Vadakkekara,
+Aranmula Vazhi Oru Kappal (ml: പേരാവൂർ, വടക്കേക്കര, ആറന്മുള വഴി ഒരു കപ്പൽ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Peravoor, Vadakkekara, Aranmula Vazhi Oru Kappal, കെ. രാജേശ്വരി, പേരാവൂർ, വടക്കേക്കര,
+ആറന്മുള വഴി ഒരു കപ്പൽ, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:An_elephant_carrying_fodder..jpg">An
+elephant carrying fodder,</ref> a painting by Unknown artist  . The image is taken
+from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kappal.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kappal.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

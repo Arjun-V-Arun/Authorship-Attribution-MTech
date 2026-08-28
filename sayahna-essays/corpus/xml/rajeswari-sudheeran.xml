@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പ്രശ്നവശാൽ സുധീരൻ...</title>
+          <title xml:lang="en" type="main">Prasnavasal Sudheeran...</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പ്രശ്നവശാൽ സുധീരൻ...</title>
+              <title xml:lang="en" type="main">Prasnavasal Sudheeran...</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Prasnavasal Sudheeran...</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>പ്രശ്നവശാൽ സുധീരൻ...</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Drummer_Boy.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:The_Drummer_Boy_William_Morris_Hunt.jpeg">The
+Drummer Boy,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:William_Morris_Hunt">William Morris
+Hunt</ref>  (1824–1879). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പ്രശ്നവശാൽ സുധീരൻ...</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പ്രശ്നവശാൽ സുധീരൻ…</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധീരൻ</figDesc>
+          </figure>
+          <p style="noindent"> പോയ നൂറ്റാണ്ടു കണ്ട ക്രാന്തദർശികളിലൊരാളായിരുന്നു കണ്ടശ്ശാംകടവിലെ
+വി. എസ്. മാമമാസ്റ്റർ അതുകൊണ്ടാണു് അദ്ദേഹം 1948 മെയ് 26-ാം തീയതി ജനിച്ച തന്റെ മകനു് <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref> എന്നു
+പേരിട്ടതു്. സുശീലൻ എന്നോ സുന്ദരൻ എന്നോ ആയിരുന്നെങ്കിലും മാസ്റ്ററെ ഒരാളും കുറ്റപ്പെറ്റുത്തുമായിരുന്നില്ല.
+എങ്കിലും സുധീരൻ എന്ന പേരാകും തന്റെ പുത്രനു് യോജിക്കുക എന്നു് മാസ്റ്റർക്കു് അന്നേ തോന്നി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> ചെത്തുതൊഴിലാളി പ്രസ്ഥാനത്തിന്റെ ഈറ്റില്ലമായ അന്തിക്കാട്ടു് ജനിച്ചിട്ടു സുധീരൻ രാഷ്ട്രീയപ്രവർത്തനം
+തുടങ്ങിയതു് കെ. എസ്. യു.-വിലൂടെയായിരുന്നു. 1971-ൽ കെ. എസ്. യു.-വിന്റെയും 74-ൽ യൂത്ത്
+കോൺഗ്രസിന്റെയും പ്രസിഡന്റായി തെരഞ്ഞെടുപ്പിൽ കമ്യുണിസ്റ്റ് കോട്ടയായ ആലപ്പുഴ പാർലമെന്റ് സീറ്റിലെ
+കോൺഗ്രസ് സ്ഥാനാർത്ഥിയായി, സുധീരൻ. എതിർസ്ഥാനാർത്ഥി സഖാവ് <ref target="https://ml.wikipedia.org/wiki/E._Balanandan">ഇ. ബാലാനന്ദൻ</ref>
+വോട്ടെണ്ണിത്തീർന്നപ്പോൾ ചെങ്കൊടി താണു. 1948-നു ശേഷം ആലുപ്പുഴ നിന്നു് ദില്ലിയിലേക്കു് വണ്ടികയറിയ
+ആദ്യത്തെ കോൺഗ്രസുകാരൻ <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരൻ</ref>.
+ആലപ്പുഴക്കു് തീവണ്ടിയോടിക്കാൻ ഏറ്റവുമധികം പ്രയത്നിച്ചതും കണ്ടശ്ശാം കടവുകാരൻതന്നെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_balanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. ബാലാനന്ദൻ</figDesc>
+          </figure>
+          <p> 1980-ൽ നിയമസഭയിലേക്കുള്ള പുത്തരിയങ്കം. മണ്ഡലം തന്റെ ജന്മസ്ഥലം ഉൾപ്പെടുന്ന മണലൂർ. എതിരാളി
+1967-ലെ ഇടതു തരംഗത്തെ വരെ അതിജീവിച്ച <ref target="https://ml.wikipedia.org/wiki/N.I._Devassykutty">എൻ. ഐ.
+ദേവസ്സിക്കുട്ടി</ref>. പ്രമുഖ പാർലമെന്റേറ്റിയനും വാഗ്മിയുമായിരുന്നു ദേവസ്സിക്കുട്ടി. നല്ലോരു പങ്കു് സുറിയാനി
+ക്രിസ്ത്യാനികളുള്ള മണലൂർ മണ്ഡലത്തിൽ ബിഷപ്പ് കുണ്ടുകുളത്തിന്റെ പിന്തുണയുമുണ്ടായിരുന്നു ദേവസ്സിക്കുട്ടിക്കു്
+കടുത്ത പോരാട്ടത്തിനൊടുവിൽ സുധീരൻ ജയിച്ചു. ഭൂരിപക്ഷം 7,932. 1982-ലും 87-ലും 91-ലും ജയം
+സുധീരനോടോപ്പം തന്നെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p> 1980-ൽ മന്ത്രിസ്ഥാനത്തേക്കു് പരിഗണിക്കപ്പെടേണ്ടിയിരുന്ന പേരാണു് സുധീരന്റേതു്. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ഗ്രൂപ്പിനെ
+പ്രതിനിധാനം ചെയ്തു് ഈഴവരായ <ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമനും</ref> <ref target="https://ml.wikipedia.org/wiki/A._C._Shanmugha_das">ഷൺമുഖദാസും</ref>
+മന്ത്രിമാരായപ്പോൾ <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref> സവിനയം
+മാറിനിന്നു. 1982-ൽ ഈഴവമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>, സ്പീക്കർ
+<ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമൻ</ref>. അപ്പോഴുമില്ല സുധീരനു് പരിഭവം. വക്കം പാർലമെന്റംഗമായിപ്പോയപ്പോൾ
+സ്പീക്കറായത് <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref>.
+കേരളനിയമസഭ കണ്ട ഏറ്റവും നിഷ്പക്ഷമതിയായ സ്പീക്കർ സുധീരനായിരുന്നു. അദ്ദേഹത്തിന്റെ സുധീരമായ
+റൂളിംഗുകൾ ഭരണപക്ഷക്കാരെ വിശിഷ്യ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+വിറളിപ്പിടിപ്പിച്ചു. പ്രിവിലേജ് കമ്മിറ്റി ചെയർമാനായി ഡെപ്യൂട്ടി സ്പീക്കറെ നിയമിച്ചതും നിയമസഭാ
+സമ്മേളനത്തിനു് തൊട്ടുമുമ്പും ശേഷവും ഓർഡിനൻസ് പുറപ്പെടുവിക്കുന്നതിനെ വിമർശിച്ചതുമൊക്കെ ലീഡർക്ക്
+സഹിക്കാവുന്നതിലപ്പുറമായിരുന്നു ഈ കാട്ടിൽ മറ്റൊരു സിംഹമോ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_C_Shanmugha_das.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷൺമുഖദാസ്</figDesc>
+          </figure>
+          <p> 1991-ൽ ലീഡർ പകവീട്ടി <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരനെ</ref>
+ഒരുകാരണവശാലും മന്ത്രിയാക്കാൻ പറ്റില്ല എന്നു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+വെട്ടിത്തുറന്നു പറഞ്ഞു. മന്ത്രിയാകാൻ വേണ്ടി <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">മുസ്തഫ</ref> യെപ്പോലെ
+ലീഡറുടെ കാൽക്കൽ വീഴാനൊന്നും പോയില്ല സുധീരൻ. 1995-ൽ രാജ്യഭാരമൊഴിഞ്ഞു് കരുണാകർജി വടക്കോട്ടു്
+വണ്ടികയറിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> മുഖ്യനായി; <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref>
+ആരോഗ്യമന്ത്രിയും. ആരോഗ്യവകുപ്പാകുന്ന ഈജിയൻതൊഴുത്തു് വൃത്തിയാക്കാനും സുധീരമായ ശ്രമങ്ങളുണ്ടായി
+മാനദണ്ഡം ലംഘിച്ചു് ഒറ്റ സ്ഥലം മാറ്റമെങ്കിലും നടന്നില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KADAVOOR_SIVADASAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടവൂർ ശിവദാസൻ</figDesc>
+          </figure>
+          <p> ആന്റണി മന്ത്രിസഭയുടെ കാലത്താണു് ശിവഗിരിയിലെ പൊലീസ് നടപടി. കോടതിവിധി
+നടപ്പാക്കാൻവേണ്ടി ശിവഗിരിയിലേക്കു് പൊലീസിനെ അയക്കുന്നതിൽ തെറ്റില്ല എന്ന പക്ഷക്കാരനായിരുന്നു
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref>.
+<ref target="https://ml.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസനും</ref> <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref> <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> യും <ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരിയമ്മ</ref> യും <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനു</ref>
+മൊക്കെ <ref target="https://ml.wikipedia.org/wiki/Swami_Saswathikananda">സ്വാമി
+
+ശാശ്വതീകാനന്ദ</ref> ക്കൊപ്പം നിലയുറപ്പിച്ചപ്പോഴും സുധീരനു് കുലുക്കമുണ്ടായില്ല. അതോടെ കേരള
+കൗമുദിയും സുധീരനു് എതിരായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 1996-ലും സുധീരനു് പാട്ടുംപാടി ജയികവുന്ന അന്തരീക്ഷമായിരുന്നു മണലൂരിൽ പക്ഷേ, ചേർത്തലയിൽ തന്റെ
+വിജയം ഉറപ്പാക്കണമെങ്കിൽ സുധീരനും കൂടെ വേണമെന്നു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കു് തോന്നി
+അങ്ങനെ <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref> ആലുപ്പുഴ
+ലോക് സഭാ സീറ്റിൽ സ്ഥാനാർത്ഥിയായി. എതിരാളി സിറ്റിംഗ് എം. പി. കൂടിയായ <ref target="https://ml.wikipedia.org/wiki/T._J._Anjalose">ടി. ജെ. ആഞ്ചലോസ്</ref>.
+<ref target="https://ml.wikipedia.org/wiki/Swami_Saswathikananda">ശാശ്വതീകാനന്ദ</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/P.K._Narayana_Panicker">നാരായണപ്പണിക്കരും</ref>
+ദിനകരനും ഒത്തുപിടിച്ചു് എതിർത്തിട്ടും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+കഴിവിനൊത്തവിധം പാരകൾ പണിഞ്ഞിട്ടും സംസ്ഥാനമാകെ ആഞ്ഞടിച്ച ഇടതുപക്ഷതരംഗത്തെ
+തടഞ്ഞുനിർത്താൻ <ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരിയമ്മ</ref>-<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref>-<ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> കൂട്ടുകെട്ടിനു്
+കഴിഞ്ഞു. ഇരുപത്താറായിരത്തോളം വോട്ടിന്റെ ഭൂരിപക്ഷത്തോടെ സുധീരൻ ജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/NTRamaRao.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. ടി. രാമറാവു</figDesc>
+          </figure>
+          <p> 1996-ലെ തെരഞ്ഞെടുപ്പു് മുന്നിൽകണ്ടു കൊണ്ടാണു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ചാരായം
+നിരോധിച്ചതു്. ആന്ധ്രയിൽ <ref target="https://ml.wikipedia.org/wiki/N._T._Rama_Rao">എൻ. ടി. രാമറാവു</ref>
+ചാരായനിരോധ വാഗ്ദാനത്തിലൂടെ സ്ത്രീവോട്ടർന്മാരെ വശത്താക്കിയതായിരുന്നു പ്രകോപനം. ചാരായം
+നിരോധിച്ചതോടെ കേരളം ഭൂലോക വൈകുണ്ഠമായെന്നു് മലയാള മനോരമയും ദീപികയും പ്രചരിപ്പിച്ചു.
+തെരഞ്ഞെടുപ്പു് കഴിഞ്ഞു് വിദേശമദ്യം നിരോധിക്കുമെന്നായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ ഡാവ്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KR_Gouriamma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗൗരിയമ്മ</figDesc>
+          </figure>
+          <p> വ്യാജമദ്യത്തിന്റെ ഒഴുക്കു് തടയാൻ ചാരായഷാപ്പുകൾ പുനഃസ്ഥാപിക്കുകയേ വഴിയുള്ളുവെന്നു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദനും</ref> കേരള കൗമുദിയും ആത്മഗതം ചെയ്തപ്പോഴൊക്കെ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>
+ഉറഞ്ഞുതുള്ളി—ചാരായനിരോധനത്തിൽ തൊട്ടുകളിക്കരുതു്. പള്ളിയും പട്ടക്കാരും വിശ്വാസികളെ
+തെരുവിലിറക്കി മദ്യവിപത്തിനെതിരെ പ്രക്ഷോഭം നടത്തി. ചാരായം ഇല്ലാതായതോടെ കള്ളിന്റെ പ്രസക്തി
+
+വർധിച്ചു. കള്ളുഷാപ്പുകൾ ലേലംകൊള്ളാൻ തലക്കിടിയായി സിലോൺപൊടി കലക്കി കള്ളുണ്ടാകുന്ന
+വിദ്യപ്രചരിച്ചതോടെ ‘കള്ളു് ചെത്തരുതു്’ എന്ന ശ്രീ നാരായണസൂക്തം പ്രയോഗികമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Swami_Saswathikananda.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശാശ്വതീകാനന്ദ</figDesc>
+          </figure>
+          <p> കള്ളുകച്ചവടക്കാരിൽ അഗ്രഗണ്യനായ <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശൻ</ref> ധർമപരിപാലന യോഗം സെക്രട്ടറിയായി. ആനമയക്കി കലക്കി വിഷക്കള്ളുണ്ടാക്കിയവരിൽ
+പലരും ഡയറക്ടർമാരുമായി. എസ്. എൻ. ഡി. പി.-യുടെ യോഗം! സാംസ്കാരികമന്ത്രിയുടെ ജാമാതാവിനു് ബാർ
+നടത്താൻവേണ്ടി ചട്ടങ്ങൾ മാറ്റപ്പെടുന്നതും അബ്കാരികളുടെ മണിയറപൂകാൻ സിനിമാ-ടി. വി. താരങ്ങൾ
+മൽസരിക്കുന്നതും മലയാളികൾ കണ്ടു. മദ്യനിരോധത്തെ അട്ടിമറിക്കുന്നുവെന്നു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> വിലപിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എസ്. അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> 1997-ൽ മറ്റം ഫിനാൻസ് കേസുമായി ബന്ധപ്പെട്ടാണു് <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">നടേശനും</ref>
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരനും</ref>
+തമ്മിൽ ഉടക്കുന്നതു് കേസ് സി. ബി. ഐ.-ക്കു് വിടണമെന്നു് <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref>
+ആവശ്യപ്പെട്ടു. അനുയായികൾ ഹൈക്കോടതിയെ സമീപിച്ചു് അനുകൂല ഉത്തരവും വാങ്ങി. അമ്പടാ, ഒരു ചോവനു്
+ഇത്ര ധിക്കാരമോ എന്നായി <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി</ref>.
+<ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">കുമാരനാശാനെ</ref>
+ക്കാളും <ref target="https://ml.wikipedia.org/wiki/R._Sankar">ആർ. ശങ്കറി</ref>
+നെക്കാളും പ്രഗല്ഭൻ എന്നു് സ്വയം അവകാശപ്പെടുന്ന <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">നടേശന്റെ</ref>
+അന്നത്തെ ഉറ്റതോഴൻ വയലാർ സമരനായകൻ <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദൻ</ref>. <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref> ഇനി
+ലോക് സഭ കാണില്ല എന്നു് നടേശനും കള്ളുമുതലാളിയുടെ ധാർഷ്ട്യത്തിനുമുന്നിൽ തലകുനിക്കില്ല എന്നു്
+സുധീരനും പ്രഖ്യാപിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Veliyam_Bhargavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെളിയം ഭാർഗവൻ</figDesc>
+          </figure>
+          <p> 1998 ഫെബ്രുവരിയിലെ തെരഞ്ഞെടുപ്പിൽ ആലപ്പുഴയിലെ മാർക്സിസ്റ്റ് സ്ഥാനാർത്ഥി <ref target="https://ml.wikipedia.org/wiki/C.S._Sujatha">സി. എസ്. സുജാത</ref>
+യായിരുന്നെങ്കിലും യഥാർഥമൽസരം <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശനു</ref> മായിട്ടായിരുന്നു. കാശും കള്ളും വെള്ളം പോലെ ഒഴുകി. ഒറ്റ ഈഴവനും സുധീരനു്
+വോട്ടുകൊടുക്കരുതെന്നു് നടേശൻ മുതലാളി ഉത്തരവിറക്കി. സുധീരൻ വിജയിച്ചെന്നു മാത്രമല്ല, ഭൂരിപക്ഷം
+ഇരട്ടിച്ചു. തെരഞ്ഞെടുപ്പിനുശേഷം <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">നടേശനും</ref>
+തമ്മിൽ അകന്നു. പിന്നെ <ref target="https://ml.wikipedia.org/wiki/Veliyam_Bharghavan">വെളിയം
+ഭാർഗവനും</ref> <ref target="https://ml.wikipedia.org/wiki/Krishnan_Kaniyamparambil">കൃഷ്ണൻ
+കണിയാംപറമ്പിലു</ref> മായി <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">നടേശന്റെ</ref>
+സഹകാരികൾ. അതും അധികം നീണ്ടില്ല. <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">നടേശൻ</ref>
+ബി. ജെ. പി. ക്യാമ്പിലേക്കു കൂടുമാറി. 1999-ലെ തെഞ്ഞെടുപ്പിൽ <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരനെ</ref>
+തോൽപിക്കാൻ പ്രത്യേക ശ്രമമൊന്നും മുതലാളിയുടെ ഭാഗത്തുനിന്നുണ്ടായില്ല. വെറുതെ ഇരുമ്പിൽ കടിച്ചു്
+പല്ലുകളയുന്നതെന്തിനു്?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Sankar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ശങ്കർ</figDesc>
+          </figure>
+          <p> കല്ലുവാതുക്കൽ ദുരന്തത്തോടെ സഖാക്കളുടെ കണ്ണുതുറന്നു. വിദേശമദ്യവിൽപന ബീവറേജസ്
+കോർപറേഷൻ വഴിയാക്കി. കള്ളിന്റേതു് ചെത്തുതൊഴിലാളികളുടെ സഹകരണസംഘം വഴിയും അതോടെ
+അബ്കാരികളുടെ വെള്ളംകുടി മുട്ടി. അക്കൂട്ടർ ഒന്നടങ്കം ഇടതുമുന്നണിക്കെതിരായി. പുതിയ മദ്യനയത്തെ
+കോടതിയിൽ ചോദ്യം ചെയ്തെങ്കിലും ഫലമുണ്ടായില്ല—കള്ളുകച്ചവടം നടത്താൻ മൗലികാവകാശമൊന്നുമില്ല
+എന്നു് ഹൈക്കോടതി വിധിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Sankaranarayanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശങ്കരനാരായണൻ</figDesc>
+          </figure>
+          <p> പുതിയ മദ്യനയം ഈഴവസമുദായത്തിനെതിരാണെന്നു് വീരശ്രീ <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശൻ</ref> പ്രഖ്യാപിച്ചു. കള്ളുചെത്താതെയും കൊടുക്കാതെയും കുടിക്കാതെയും എന്തു്
+ശ്രീനാരായണധർമ്മം? അബ്കാരികൾ ആളും അർഥവും കൊണ്ടു് ഐക്യമുന്നണിയെ സഹായിച്ചു. അടുത്ത
+എക്സൈസ് മന്ത്രി താനായിരിക്കുമെന്നു് അവകാശപ്പെട്ടു് ഒരു ധീരവനിത മുൻകൂർ പണപ്പിരിവു് നടത്തി.
+മദ്യവ്യാപാരവുമായി നേരിട്ടു് ബന്ധമുള്ള മൂന്നു സ്ഥാനാർത്ഥികളെ യു. ഡി. എഫ്. രംഗത്തിറക്കി. അവർ മൂന്നാളും
+വിജയിച്ചു എന്നുമാത്രമല്ല, അവരിലൊരാൾ <ref target="https://ml.wikipedia.org/wiki/Sreenarayana_Guru">ശ്രീനാരായണഗുരു</ref>
+വിന്റെ പേരിൽ സത്യവാചകം ചൊല്ലി ചരിത്രം സൃഷ്ടിച്ചു. (<ref target="https://ml.wikipedia.org/wiki/C._Kesavan">സി. കേശവൻ</ref> മുതൽ <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരൻ</ref>
+വരെയുള്ള ഏതെങ്കിലും ഈഴവനു് ഈ ‘ബുദ്ധി’ തോന്നിയോ?)
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Vellappally_Natesan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെള്ളാപ്പള്ളി നടേശൻ</figDesc>
+          </figure>
+          <p> ഐക്യമുന്നണി വൻ ഭൂരിപക്ഷത്തോടെ വിജയിച്ചു. മഹാഗാന്ധിയനായ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> മുഖ്യമന്ത്രിയും
+വളരെക്കാലം <ref target="https://ml.wikipedia.org/wiki/Morarji_Desai">മൊറാർജി</ref>
+ശിഷ്യനായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/K._Sankaranarayanan">ശങ്കരനാരായണൻ</ref>
+എക്സൈസ് മന്ത്രിയുമായി. ഐക്യമുന്നണി ജയിച്ചാൽ ആദ്യത്തെ പരിപാടി കള്ളുസംഘം
+പിരിച്ചുവിടലായിരിക്കുമെന്നു് മലയാള മനോരമ പ്രവച്ചിരുന്നു. മാത്തുക്കുട്ടിച്ചായൻ പറയുന്നതാണു് യു. ഡി. എഫ്.
+കൺവീനർക്കു് പ്രമാണം; <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">കുഞ്ഞുഞ്ഞു</ref>
+പറയുന്നതിനപ്പുറമില്ല തങ്കച്ചൻ. അങ്ങനെ മദ്യമുതലാളിമാരെ തിരികെ കൊണ്ടുവരാൻ തീരുമാനമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PKNarayanaPanicker.jpg" rendition="gra"/>
+            <figDesc style="thumb">നാരായണപ്പണിക്കർ</figDesc>
+          </figure>
+          <p> സംഘങ്ങളുടെ സ്ഥാനത്തു് മുതാലാളിമാരെണെങ്കിൽ കള്ളിന്റെ ഉൽപാദനം കൂടും സംസ്ഥാനത്തിന്റെ
+ഖജനാവു് നിറയുമെന്നാണു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+സിദ്ധാന്തം മുതലാളിമാരോടുള്ള ബഹുമാനംകൊണ്ടു് തെങ്ങും പനയും കൂടുതൽ കള്ളുചുരത്തും. പിന്നെ വല്ല
+പോരായ്മയുമുണ്ടെങ്കിലും ആനമയക്കി കലക്കുകയുമാകാം. മനുഷ്യർ വിഷക്കള്ളു് കുടിച്ചു് ചത്താലും കുഴപ്പമില്ല,
+മുതലാളിമാർക്കു് ലാഭം കിട്ടണം. ഖജനാവു് നിറയണം <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ സൽപേരു്
+ആ ചന്ദ്രതാരം നിലനിൽക്കണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CKeshavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കേശവൻ</figDesc>
+          </figure>
+          <p> ഗാന്ധിശിഷ്യന്മാരുടെ ഈ പുതുപുത്തൻ മദ്യനയം തെറ്റാണെന്നു് തിരുത്തൽ ശക്തിയായി പ്രവർത്തിക്കുന്ന
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു</ref>
+തോന്നിയില്ല. മദ്യം ഹറാമായ മുസ്ലിംലീഗുകാർക്കും തോന്നിയില്ല. മദ്യനയം ധിറുതിപിടിച്ചു
+നടപ്പാക്കിയതുകൊണ്ടല്ലേ ഇടതുമുന്നണി തോറ്റമ്പിയതു് എന്നു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനു്</ref>
+സന്ദേഹം. ഇടതരുടെ മദ്യനയത്തിനെതിരെ ചന്ദ്രഹാസമെടുത്ത <ref target="https://en.wikipedia.org/wiki/Soosa_Pakiam">ബിഷപ്പ് സൂസപാക്യ</ref>
+ത്തിനു് മിണ്ടാട്ടമില്ല കുടിയന്മാരുടെ ഭാഗ്യം!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Soosa_Pakiam.jpg" rendition="gra"/>
+            <figDesc style="thumb">സൂസപാക്യം</figDesc>
+          </figure>
+          <p> മദ്യമാഫിയയാൽ സംസ്ഥാനം ഗ്രസിക്കപ്പെടുമ്പോൾ അതാ സുധീരന്റെ ഒറ്റപ്പെട്ടതെങ്കിലും ഉറച്ച ശബ്ദം
+കേൾക്കുന്നു—മദ്യനയത്തിൽ ധിറുതിപിടിച്ചു് മാറ്റം വരുത്തരുതു്. മദ്യമുതലാളിമാരെ തിരിച്ചു കൊണ്ടുവരികയുമരുതു്.
+മാനിഷാദ! എന്നു വിലക്കാൻ ഇവനാരു് <ref target="https://ml.wikipedia.org/wiki/Valmiki">വാല്മികി മഹർഷി</ref> യോ
+എന്നായി ഭരണക്കാർ. <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരനു്</ref>
+എതിരഭിപ്രായമുണ്ടെങ്കിൽ പാർട്ടി വേദിയിൽ ഉന്നയിക്കണമെന്നു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>.
+പാർട്ടിയിൽ ചർച്ചയേ ഉണ്ടായില്ല. ഐക്യജനാധിപത്യമുന്നണി ചാടിക്കയറി തീരുമാനിക്കുകയായിരുന്നുവെന്നു്
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref>.
+<ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ഇതെല്ലാം
+
+കേട്ടു് ഞാൻ മാവിലായിക്കാരനാണേ എന്ന മട്ടിലിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TJ_ANJELOSE.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. ജെ. ആഞ്ചലോസ്</figDesc>
+          </figure>
+          <p> മദ്യനിരോധം ‘ഘട്ടം ഘട്ടമായി’ നടപ്പാക്കുമെന്നാണു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+ഉറപ്പുതരുന്നതു്. അതു് കേവലം കുറുപ്പിന്റെ ഉറപ്പാകില്ല എന്നു പ്രത്യാശിക്കുക. അടുത്തഘട്ടത്തിൽ ബിവറേജസ്
+കോർപറേഷൻ പിരിച്ചുവിട്ടു് വിദേശമദ്യ വിൽപനയും അബ്കാരികളെ ഏൽപിക്കും. അതിനടുത്ത ഘട്ടത്തിൽ
+കള്ളുവാറ്റു് കുടിൽവ്യവസായമായി അംഗീകരിക്കും; എക്സൈസ് വകുപ്പു് പിരിച്ചുവിടും.
+</p>
+          <p>അങ്കുശമില്ലാത്ത കാപട്യമേ മണ്ണിൽ ആന്റണിയെന്നു വിളിക്കുന്നു നിന്നെ ഞാൻ!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Prasnavasal Sudheeran... (ml:
+പ്രശ്നവശാൽ സുധീരൻ...).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Prasnavasal Sudheeran..., കെ. രാജേശ്വരി, പ്രശ്നവശാൽ സുധീരൻ..., Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:The_Drummer_Boy_William_Morris_Hunt.jpeg">The
+Drummer Boy,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:William_Morris_Hunt">William Morris
+Hunt</ref>  (1824–1879). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-sudheeran.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-sudheeran.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പൂക്കാലം വരവായി</title>
+          <title xml:lang="en" type="main">Pookkalam Varavaayi</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 9, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പൂക്കാലം വരവായി</title>
+              <title xml:lang="en" type="main">Pookkalam Varavaayi</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Pookkalam Varavaayi</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>പൂക്കാലം വരവായി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 9, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/House_and_Garden.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:John_Glover__The_Artist%27s_House_and_Garden_-_WGA09638.jpg">The Artist’s House and
+Garden,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/John_Glover_(artist)">John
+Glover</ref>  (1767–1849). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പൂക്കാലം വരവായി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പൂക്കാലം വരവായി</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sugathakumari1.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുഗതകുമാരി</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>“കേരളത്തിൽ ഇന്നു് പെണ്ണു് പിറന്നുവീഴുമ്പോൾ സന്തോഷമുണ്ടാകുന്നതു് കന്നുകാലിത്തൊഴുത്തിൽ
+മാത്രമാണു്. പശുക്കിടാവിനെക്കൊണ്ടു് ആദായമുള്ളതിനാൽ അവിടെ സ്വീകാര്യമാണു്. എന്നാൽ, മനുഷ്യനു്
+പെണ്ണുപിറന്നാൽ പാപമായി കാണുന്ന അവസ്ഥ വന്നിരിക്കുന്നു” പരിഭവിക്കുന്നതു് നിങ്ങൾ ഉദ്ദേശിച്ചയാൾ
+തന്നെ—<ref target="https://ml.wikipedia.org/wiki/Sugathakumari">സുഗതകുമാരി</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Raja_Raja_Varma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. ആർ. രാജരാജവർമ്മ</figDesc>
+          </figure>
+          <p>ഇതാണു് ‘<ref target="https://books.sayahna.org/ml/pdf/bbh-web.pdf">ഭാഷാഭൂഷണ</ref>’ത്തിൽ
+<ref target="https://ml.wikipedia.org/wiki/A._R._Raja_Raja_Varma">എ. ആർ.
+രാജരാജവർമ്മ കോയിത്തമ്പുരാൻ</ref> നിർവചിച്ച അതിശയോക്തി അലങ്കാരം. “ചൊല്ലുള്ളതിൽ
+കവിഞ്ഞുള്ളതെല്ലാമതിശയോക്തിയാം” എന്ന നിർവചനത്തോടു്
+“തെല്ലതിൻസ്പർശമില്ലാതെയില്ലലങ്കാരമൊന്നുമേ” എന്നു് തിടുക്കത്തിൽ കൂട്ടിച്ചേർത്തിരിക്കുന്നു, തമ്പുരാൻ.
+“ഉള്ളതിലധികമോ കുറച്ചോ പറയുന്നതു് അതിശയോക്തി. സാമ്യാദിമൂലകങ്ങളായ മറ്റു മൂന്നുമാതിരി
+അലങ്കാരങ്ങളിലും ഇതിന്റെ ഒരു ബിന്ദു തൊട്ടുതേച്ചുമിനുക്കിക്കാണും. ലൗകികാലങ്കാരങ്ങൾക്കു് പകിട്ടു
+തോന്നണമെങ്കിൽ നിറം കാച്ചേണ്ടതുപോലെ, കാവ്യാലങ്കാരങ്ങൾക്കും ഫളഫളായമാനത വേണമെങ്കിൽ
+അതിശയോക്തിയുടെ സ്പർശം വേണമെന്നു് താൽപര്യം. ശുദ്ധമായ വാസ്തവം
+ചമൽക്കാരകാരിയാകാഞ്ഞതിനാൽ അതിശയോക്തിയുടെ ഗന്ധം മറ്റലങ്കാരങ്ങളിലും ഗൂഢമായിട്ടാണെങ്കിലും
+കാണും; അതിനെ ഗൗനിക്കേണ്ടതില്ല” എന്നു് വിശദീകരിക്കുകയും ചെയ്തിരിക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shobhana_George.png" rendition="gra"/>
+            <figDesc style="thumb">ശോഭനാജോർജ്</figDesc>
+          </figure>
+          <p>ഫളഫളായമാനത (!) മാറ്റിനിറുത്തി ആലോചിക്കുക. മലയാളി മങ്കമാർക്കു് പ്രശ്നങ്ങളുണ്ടു്. പെൺവാണിഭം,
+സ്ത്രീപീഡനം, സൗന്ദര്യമൽസരം, സ്ത്രീധനമരണം, ‘സ്ത്രീ’ മുതലായ സീരിയലുകൾ, പെൺ ഭ്രൂണഹത്യ…
+അങ്ങനെ പലതും. എന്നാലും സുഗതകുമാരി പറയുന്നത്ര മോശമാണോ കേരളത്തിലെ സ്ഥിതി?
+നാദാപുരത്തങ്ങാടിയിലെ ജോനകർക്കെതിരെ ഉറുമിവീശിയ <ref target="https://en.wikipedia.org/wiki/Unniyarcha">ഉണ്ണിയാർച്ച</ref> മുതൽ
+പുൽപ്പള്ളി സ്റ്റേഷനിലെ പൊലിസുകാർക്കുനേരെ കൊടുവാളോങ്ങിയ അജിത വരെ പിറന്നതു് ഈ മണ്ണിലല്ലേ?
+
+<ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരിയമ്മ</ref>
+മുതൽ <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാജോർജ്</ref>
+വരെയുള്ളപ്പോൾ നമ്മൾക്കെന്തിനു് സന്താപം?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Padmaja.jpg" rendition="gra"/>
+            <figDesc style="thumb">പത്മജ</figDesc>
+          </figure>
+          <p>ഇനി ഇവരൊന്നും പോരാ എന്നാണെങ്കിൽ ഇതാ <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജ</ref>
+അവതരിക്കുകയായി. കേരളരാഷ്ട്രീയത്തിലെ ഭീഷ്മപിതാമഹൻ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരന്റെ</ref>
+ഏകമകൾ, <ref target="https://ml.wikipedia.org/wiki/KPCC">കെ. പി. സി. സി.</ref>
+പ്രസിഡന്റിന്റെ നേർപെങ്ങൾ. രാഷ്ട്രീയത്തിൽ കച്ചകെട്ടി അഭ്യാസം തുടങ്ങിയിട്ടു് നാളേറെയായില്ല. എങ്കിലും വാഗ്
+വൈഭവത്തിനോ മെയ് വഴക്കത്തിനോ കുറവേതുമില്ല. മുഖം പത്മദളാകാരം, വാചാചന്ദനശീതളം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_K_Stalin.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്റ്റാലിൻ</figDesc>
+          </figure>
+          <p>ഏഷ്യാ വൻകരയിലിപ്പോൾ വനിതാ നേതാക്കളുടെ വസന്തമാണു്. മിക്കവരും മുൻകാല രാഷ്ട്രനായകരുടെ
+മക്കൾ. <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> യാണു്
+ഈ ട്രെൻഡ് തുടങ്ങിവച്ചതു്. പിന്നീടു് പാക്കിസ്ഥാനിലെ <ref target="https://ml.wikipedia.org/wiki/Zulfikar_Ali_Bhutto">ഭൂട്ടോ</ref> യുടെ
+മകൾ <ref target="https://ml.wikipedia.org/wiki/Benazir_Bhutto">ബേനസീർ</ref>, ശ്രീലങ്കൻ
+<ref target="https://ml.wikipedia.org/wiki/Sirimavo_Bandaranaike">ബണ്ഡാരനായകെ</ref>
+യുടെ മകൾ <ref target="https://ml.wikipedia.org/wiki/Chandrika_Kumaratunga">ചന്ദ്രിക</ref>,
+ബംഗ്ലാദേശിൽ മുജീബിന്റെ പുത്രി ശൈഖ്ഹസീന, മ്യാൻമറിൽ <ref target="https://ml.wikipedia.org/wiki/Aung_San">ആങ്സാന്റെ</ref> മകൾ <ref target="https://ml.wikipedia.org/wiki/Aung_San_Suu_Kyi">ആങ്സാൻസൂചി</ref>,
+ഫിലിപ്പിൻസിൽ മുൻ പ്രസിഡന്റ് <ref target="https://en.wikipedia.org/wiki/Diosdado_Macapagal">ഡയസ് ഡാഡോ
+മകാപഗലി</ref> ന്റെ മകൾ <ref target="https://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo">ഗ്ലോറിയ</ref>,
+ഏറ്റവുമൊടുവിൽ ഇന്തോനേഷ്യയിൽ സുകർണോപുത്രി മെഗാവതി. ഇവരിൽ ആങ്സാൻസൂചിയൊഴികെ
+മറ്റെല്ലാവരും ഒരുവട്ടമെങ്കിലും അധികാരസോപാനത്തിലേറിയവരാണു്. ബേനസീറൊഴികെയുള്ളവർ ഇപ്പോൾ
+ഭരണത്തിൽ തുടരുകയുമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Arroyo.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗ്ലോറിയ</figDesc>
+          </figure>
+          <p>വനിതാ നേതാക്കൾ എല്ലാവരും തന്നെ നീണ്ട സമരങ്ങളിലൂടെ അധികാരത്തിലെത്തിയവരാണു്. പട്ടാള
+മേധാവിത്വത്തിനെതിരെ ഒരുപതിറ്റാണ്ടോളം പോരടിച്ചിട്ടാണു് ബേനസീർ ഭൂട്ടോ ഭരണത്തിൽ വന്നതു്.
+സമരതീക്ഷ്ണമായ യൗവനത്തിൽ അവരുടെ വിവാഹംപോലും വളരെ വൈകിയാണു് നടന്നതു്.
+ഹസീനയാണെങ്കിൽ രാഷ്ട്രീയത്തിലിറങ്ങാൻ വേണ്ടി ഭർത്താവിനെ ഉപേക്ഷിക്കുകയാണുണ്ടായതു്.
+“അദ്ദേഹത്തിനൊരു ഭാര്യയുടെ ആവശ്യമേയുള്ളു; ബംഗ്ലാദേശിനു് എന്നെത്തന്നെ വേണം” എന്നായിരുന്നു
+ഹസീനയുടെ വെളിപാടു്. തന്റെ പിതാവിനെ അട്ടിമറിച്ച സുഹാർത്തോവിനെയും പിൻഗാമി അബ്ദുറഹ്മാൻ
+വാഹിദിനെയും തള്ളിപ്പുറത്താക്കിയാണു് മെഗാവതി അധികാരം പിടിച്ചതു്. ലോകത്തിൽ ഏറ്റവുമധികം
+മുസ്ലിംകളുള്ള രണ്ടു് രാജ്യങ്ങളിലും—ഇന്തോനേഷ്യ, ബംഗ്ലാദേശ്—പെൺഭരണമാണു്.
+(ഉമ്മപ്പെണ്ണുങ്ങൾക്കുവേണ്ടി സങ്കടഹരജി എഴുതുന്ന <ref target="https://ml.wikipedia.org/wiki/M.N._Karessery">എം. എൻ. കാരശേരി</ref>
+ഇതറിയുന്നുണ്ടോ?)
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Joseph_Estrada_portrait.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോസഫ് എസ്ട്രാഡ</figDesc>
+          </figure>
+          <p>ഏകാധിപത്യത്തിലേക്കു് വഴുതി നീങ്ങിയ പ്രസിഡന്റ് <ref target="https://en.wikipedia.org/wiki/Joseph_Estrada">ജോസഫ്
+എസ്ട്രാഡയെ</ref> ജനകീയ അട്ടിമറിയിലൂടെയാണു് ഗ്ലോറിയ പുറത്താക്കിയതു്. ചന്ദ്രികയാണെങ്കിൽ
+തമിഴ്പുലികളുടെ ആക്രമണത്തിൽ ഒരു കണ്ണുപോയിട്ടും പതറാതെ നിൽക്കുന്നു. ആങ്സാൻസൂചിയുടെ പോരാട്ടം
+ഇനിയും ഫലപ്രാപ്തിയിലെത്തിയിട്ടില്ല. സ്റ്റോക് ഹോമിൽചെന്നു് നോബൽ സമ്മാനം കൈപ്പറ്റാനോ കാൻസർ
+ബാധിച്ചു് മരിച്ച ഭർത്താവിന്റെ ദേഹം ലണ്ടനിൽചെന്നു് ഒരു നോക്കു കാണാനോ അവർക്കായില്ല. വീട്ടുതടങ്കലിലും
+ജയിലിലുമായി സമരം തുടരുകതന്നെയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunanidhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാനിധി</figDesc>
+          </figure>
+          <p>ഇന്ദിരാഗാന്ധിയുടെ മഹനീയ പാരമ്പര്യമുണ്ടായിട്ടും ഇന്ത്യാ മഹാരാജ്യത്തു് നേതാക്കന്മാരുടെ പെൺമക്കൾ
+രാഷ്ട്രീയപ്പയറ്റിനിറങ്ങുന്നതു് അപൂർവമത്രേ. <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> ജിക്കു്
+ആൺമക്കളില്ലാഞ്ഞതുകൊണ്ടാണു് ഇന്ദിരതന്നെയും രാഷ്ട്രീയത്തിൽ വന്നതു്. <ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽജി</ref>
+നാട്ടിലില്ലാത്തതുകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/Priyanka_Gandhi">പ്രിയങ്കാജി</ref> <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയ</ref> ക്കും
+തുണപോകുന്നു. <ref target="https://ml.wikipedia.org/wiki/Jagjivan_Ram">ജഗജീവൻറാമിന്റെ</ref> മകൾ
+<ref target="https://en.wikipedia.org/wiki/Meira_Kumar">മീരാകുമാർ</ref>
+ആയിരിക്കണം അഖിലേന്ത്യാതലത്തിൽ സാമാന്യനിയമത്തിനു് ഏക അപവാദം. ആൺമക്കളെ
+രാഷ്ട്രീയത്തിലിറങ്ങാൻ പ്രോൽസാഹിപ്പിക്കുന്ന നേതാക്കൾ നിരവധിയുണ്ടു്. പെൺമക്കൾക്കാണു് രാഷ്ട്രീയം
+നിഷിദ്ധം. <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">കലൈഞ്ജർ
+കരുണാനിധി</ref> യുടെ മക്കൾ <ref target="https://en.wikipedia.org/wiki/M._K._Alagiri">അളഗിരി</ref> യും <ref target="https://ml.wikipedia.org/wiki/M._K._Stalin">സ്റ്റാലിനും</ref> തി. മു. ക.-യുടെ
+
+പ്രമുഖ നേതാക്കളായി വിലസുന്നു. പെൺകുഴന്തകൾ ശെൽവിയോ <ref target="https://en.wikipedia.org/wiki/Kanimozhi">കനിമൊഴി</ref> യോ
+രാഷ്ട്രീയത്തിന്റെ ഏഴയലത്തുപോലുമില്ല. ഗ്വാളിയോർ രാജമാതാവാണെങ്കിൽ മകൻ മാധവറാവുമായി
+തെറ്റിപ്പിരിഞ്ഞശേഷമാണു് പെൺമക്കളായ വസുന്ധരയെയും യശോധരയെയും രാഷ്ട്രീയത്തിൽ കൊണ്ടുവന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Meira_Kumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">മീരാകുമാർ</figDesc>
+          </figure>
+          <p>കരുണാനിധിയെ പോലെയല്ല <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>.
+അദ്ദേഹത്തിനു് മകനും മകളും ഒരുപോലെയാണു്. <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref>
+രാഷ്ട്രീയത്തിലിറങ്ങിയപ്പോൾ കരുണാകർജി തടസ്സം പറഞ്ഞില്ല. മകൻ സേവാദൾ ചെയർമാനായി,
+പാർലമെന്റംഗമായി, കെ. പി. സി. സി. ജനറൽ സെക്രട്ടറിയായി, ഏക വൈസ് പ്രസിഡന്റായി ഇപ്പോഴിതാ
+പ്രസിഡന്റുമായി. പത്മജ രാഷ്ട്രീയത്തിലിറങ്ങുമ്പോഴും ലീഡർക്കു് യാതൊരു വേവലാതിയുമില്ല. ജനാധിപത്യ
+പ്രക്രിയയിൽ പങ്കാളിയാകാൻ ഓരോ ഇന്ത്യൻ പൗരനും അവകാശമുണ്ടു്. ഭരണഘടനാപരമായ ആ
+അവകാശത്തിനു് മുതിർന്ന കോൺഗ്രസ് നേതാവും സ്വാതന്ത്ര്യസമര സേനാനിയുമായ കരുണാകരൻ
+എതിരുനിൽക്കുമോ? ഒരിക്കലുമില്ല. തന്റെ മകളായതുകൊണ്ടുമാത്രം <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജ</ref> യുടെ
+അവസരം ഇല്ലാതായിപ്പോകരുതെന്നു് കാരണവർക്കു് നിർബന്ധമുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Benazir_Bhutto.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബേനസീർ</figDesc>
+          </figure>
+          <p>രണ്ടുവർഷം മുമ്പു് അച്ഛൻ മുകുന്ദപുരത്തു് മൽസരിച്ചപ്പോഴായിരുന്നു പത്മജയുടെ അരങ്ങേറ്റം. പഴയതുപോലെ
+ഓടിപ്പാഞ്ഞുനടക്കാൻ പറ്റിയ പ്രായമല്ല കാരണവർക്കു്. മുന്നിൽനിന്നും പിന്നിൽനിന്നും കുത്താൻ തയാറായി
+നിൽക്കുകയാണു് കുത്തുവിളക്കിന്റെ തണ്ടുമായി അനന്തരവന്മാർ. മുരളീധരനാണെങ്കിൽ കോഴിക്കോട്ടു്
+ജീവന്മരണപ്പോരാട്ടത്തിൽ. വൃദ്ധനും വിധുരനുമായ നേതാവിനു് അങ്കത്തുണ പോകാൻ പത്മജയല്ലാതെ
+ആരുണ്ടു്?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jagjivan_Ram.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജഗജീവൻറാം</figDesc>
+          </figure>
+          <p>ഇക്കഴിഞ്ഞ നിയമസഭാ തെരഞ്ഞെടുപ്പിൽ പത്മജക്കൊരു സീറ്റുകിട്ടും എന്നു് രാഷ്ട്രീയ ജ്യോതിഷികൾ
+പ്രവചിച്ചു. ചാലക്കുടിയിലാവും കുടിവെപ്പെന്നു് മാധ്യമങ്ങൾ പ്രചരിപ്പിച്ചു. വടക്കേക്കരയിലേക്കോ വടക്കൻ
+പറവൂർക്കോ മാറാൻ സിറ്റിംഗ് എം. എൽ. എ. <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണൻ</ref> വട്ടംകൂട്ടി. ചാലക്കുടിയിലെ സ്ഥാനാർത്ഥി ലിസ്റ്റ് പരിഗണനയ്ക്കെടുത്തപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> മിണ്ടിയില്ല.
+കരുണാകരൻ തറവാടിയാണു്. മകളുടെ പേരു് അദ്ദേഹം പറയുന്ന പ്രശ്നമില്ല. സാവിത്രി ലക്ഷ്മണൻ—ഒരുതരം,
+രണ്ടുതരം, മൂന്നുതരം. ലേലം ഉറപ്പിച്ചു. പത്മജക്കു് സീറ്റില്ല.
+
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sirimavo_Bandaranayaka.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബണ്ഡാരനായകെ</figDesc>
+          </figure>
+          <p>ചാലക്കുടി സീറ്റുവെച്ചു് തന്നെ ബ്ലാക്ക്മെയിൽ ചെയ്യാൻ ചിലർ ശ്രമിച്ചപ്പോൾ ലീഡർ പൊട്ടിത്തെറിച്ചു.
+ഇന്ദിരാഗാന്ധിയുടെ മകന്റെ ഭാര്യ വിരണ്ടു. സമാധാനദൗത്യവുമായി ദൂതന്മാരെ അയച്ചു. ആറന്മുളയിലെയും
+വടക്കേക്കരയിലെയും പേരാവൂരിലെയും സ്ഥാനാർത്ഥികളെ മാറ്റി പ്രശ്നം ഒതുക്കി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Therambil_Ramakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തേറമ്പിൽ രാമകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p>തെരഞ്ഞെടുപ്പു് കഴിഞ്ഞു. കെ. പി. സി. സി. പ്രസിഡന്റ് സ്ഥാനത്തു് മുരളീധരന്റെ അരിയിട്ടുവാഴ്ചയും നടന്നു.
+മകനെപ്പറ്റി കരുണാകരനു് ഇനി ഉത്കണ്ഠ വേണ്ട. മകളെക്കൂടി ഒരു നിലയിലാക്കിയാൽ മനസ്സമാധാനത്തോടെ
+കണ്ണടയ്ക്കാം. മുരളി ഗ്രൂപ്പിസത്തിനതീതനായ യു. എൻ. സെക്രട്ടറി ജനറലിനെപ്പോലെ നിഷ്പക്ഷനായപ്പോൾ
+ഗ്രൂപ്പിന്റെ നേതൃത്വം പത്മജയ്ക്കായി. പത്മജയെ അംഗീകരിക്കാത്തവർ ‘ഐ’ ഗ്രൂപ്പിൽ വേണ്ട. <ref target="https://en.wikipedia.org/wiki/Therambil_Ramakrishnan">തേറമ്പിൽ
+രാമകൃഷ്ണൻ</ref> മുതൽ എം. എ. ചന്ദ്രശേഖരൻ വരെയും <ref target="https://en.wikipedia.org/wiki/Malethu_Sarala_Devi">മാലേത്തു്
+സരളാദേവി</ref> മുതൽ <ref target="https://ml.wikipedia.org/wiki/P._P._George">പി. പി. ജോർജു</ref>
+വരെയുമുള്ളവർക്കു് പത്മജയായി നേതാവു്. നാടൊട്ടുക്കു് പത്മജയുടെ പടമുള്ള പോസ്റ്ററുകൾ നിറഞ്ഞു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MKAlagiri.jpg" rendition="gra"/>
+            <figDesc style="thumb">അളഗിരി</figDesc>
+          </figure>
+          <p>കന്റോൺമെന്റ് ഹൗസിൽ താമസിക്കുന്നതു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനാ</ref>
+ണെങ്കിലും സംസ്ഥാനത്തെ യഥാർത്ഥ പ്രതിപക്ഷനേതാവു് കരുണാകരനാണെന്നു് ആന്റണിക്കുമറിയാം.
+സ്ഥാനത്തും അസ്ഥാനത്തുമൊക്കെ ആന്റണിയുടെ മണ്ടയ്ക്കുമേടാനാണു് കാരണവർക്കിഷ്ടം. തൃശൂർ ജില്ലയെ
+അവഗണിക്കുന്നു. ‘ഐ’ ഗ്രൂപ്പുകാരെ മാനിക്കുന്നില്ല, നയപരമായ കാര്യങ്ങൾ തന്നോടാലോചിക്കുന്നില്ല…
+അങ്ങനെ പോകുന്നു പരാതികൾ. മന്ത്രിസഭ തയാറാക്കിക്കൊടുത്ത നയപ്രഖ്യാപന പ്രസംഗത്തിലെ ഒരു
+ഖണ്ഡിക ഗവർണർ വായിക്കാതെ വിട്ടതു് ആന്റണിയുടെ പിടിപ്പുകേടുകൊണ്ടാണു്. മന്ത്രിസഭാരഹസ്യം
+ചോർന്നതിനുത്തരവാദി മുഖ്യമന്ത്രിയാണു്, തൃശ്ശിവപേരൂരിൽ കലക്ടറായി നാലാം വേദക്കാരനെ നിയമിച്ചതു്
+പൂർവാചാരലംഘനമാണു്—എന്നിങ്ങനെ കുത്തുവാക്കുകളും. കെ. പി. സി. സി.-യും ഡി. സി. സി.-കളും
+പുനഃസംഘടിപ്പിക്കുമ്പോൾ കരുണാകർജി പരമാവധി വിലപേശും. കോർപറേഷനുകളുടെയും
+ബോർഡുകളുടെയും കാര്യവും തഥൈവ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Aung_San_Suu_Kyi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആങ്സാൻസൂചി</figDesc>
+          </figure>
+          <p>ടൂറിസം വികസന കോർപറേഷന്റെ ചെയർപേഴ്സനാകണമെന്നു് പത്മജക്കു് മോഹം. അമ്മയില്ലാത്ത
+കുഞ്ഞല്ലേ, അമ്പിളിയമ്മാവനെ വേണമെന്നു് പറഞ്ഞാലും അച്ഛൻ പിടിച്ചുകൊടുക്കും. വകുപ്പുമന്ത്രിയാണെങ്കിൽ
+നമ്മുടെ വിധേയൻ തൊമ്മി. 1984-ൽ വരാപ്പുഴമെത്രാനെവരെ ധിക്കരിച്ചിട്ടാണു് തോമസ് മാഷിനു് എറണാകുളത്തു്
+സീറ്റ് തരപ്പെടുത്തിയതു്. ഫ്രഞ്ചുചാരക്കേസിൽപ്പെട്ടു് പ്രതിച്ഛായപോയ മാഷിനെ ഡി. സി. സി.
+പ്രസിഡന്റാക്കിയതും പിന്നെ എം. എൽ. എ.-യാക്കിയതും ലീഡർ തന്നെ. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+പേരുവെട്ടിയിട്ടാണു് തോമസിനെ മന്ത്രിസഭയിൽ ഉൾപ്പെടുത്തിയതു്. ഇത്രയൊക്കെയായിട്ടും “കെ. ടി. ഡി. സി.
+ചെയർമാനെ യു. ഡി. എഫ്. തീരുമാനിക്കും” എന്നു് മന്ത്രി പറഞ്ഞാൽ ആർക്കാണു് ദേഷ്യം വരാത്തതു്?
+കിട്ടേണ്ടതു് കിട്ടിയപ്പോൾ തോമസിനു് തോന്നേണ്ടതുതോന്നി. യു. ഡി. എഫ്. തീരുമാനത്തിനോ മുഖ്യന്റെ
+അംഗീകാരത്തിനോ കാത്തുനിന്നില്ല. പത്മജാ വേണുഗോപാൽ കെ. ടി. ഡി. സി. ചെയർപേഴ്സനായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kanimozhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">കനിമൊഴി</figDesc>
+          </figure>
+          <p>തിരുത്തൽവാദികൾക്കു് ലീഡറുടെ കുടുംബസ്നേഹത്തോടു് എതിർപ്പുണ്ടായതു് സ്വാഭാവികം. നാലാം
+ഗ്രൂപ്പുമുണ്ടാക്കി, ഭാര്യയെ എം. എൽ. എ.-യുമാക്കി, പിന്നെയും വയലാർ രവിക്കാണു് മുറുമുറുപ്പു്. (കെ. മുരളീധരനെ
+കെ. പി. സി. സി. ജനറൽ സെക്രട്ടറിയായി നാമനിർദ്ദേശം ചെയ്തതു് രവി തന്നെ) ഏതായാലും ആന്റണി
+അവസരത്തിനൊത്തുയർന്നു. കരുണാകരന്റെ കുടുംബാംഗങ്ങളൊക്കെ പരമയോഗ്യരാണെന്ന സത്യം
+വെട്ടിത്തുറന്നുപറഞ്ഞു. അല്ലെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയാഗാന്ധി</ref> ക്കു്
+എ. ഐ. സി. സി. പ്രസിഡന്റും ലോക്സഭയിലെ പ്രതിപക്ഷ നേതാവുമായിരിക്കാമെങ്കിൽ പത്മജക്കു് കേവലം
+കെ. ടി. ഡി. സി. ചെയർപേഴ്സനാകാൻ എന്തു് അയോഗ്യത?
+</p>
+          <p>ടൂറിസം മന്ത്രി കെ. വി. തോമസാണെങ്കിലും ഭരണം പത്മജയാകാനാണിട.
+</p>
+          <lg>
+            <l> “രാജ്യാഭിഷേകം കൃതം രാമനെങ്കിലോ</l>
+            <l> രാജ്യാനുഭൂതി സൗമിത്രിക്കു നിർണയം” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നാണല്ലോ കവി വചനം. പത്മജക്കു് ഭരണപരിചയമില്ല എന്നു് ഭാവിയിലാരും പരാതിപ്പെടുകയുമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/saswathikananda.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശാശ്വതികാനന്ദ</figDesc>
+          </figure>
+          <p>തഴക്കം വന്ന നേതാവിനെപ്പോലെയാണു് പത്മജയുടെ വാക്കും പ്രവൃത്തികളും. കെ. ടി. ഡി. സി.
+ചെയർപേഴ്സനായയുടൻ ജ്യോത്സ്യരെക്കാണാനോടിയതു് ഉദാഹരണം. അച്ഛന്റെ സ്ഥിരം ജ്യോത്സ്യനായ
+പൂഞ്ഞാർ മിത്രൻ നമ്പൂതിരിയെയല്ല പരപ്പനങ്ങാടി ഉണ്ണികൃഷ്ണപ്പണിക്കരെയാണു് പത്മജക്കു് വിശ്വാസം. <ref target="https://ml.wikipedia.org/wiki/Chandrika_Kumaratunga">ചന്ദ്രികാ
+കുമാരതുംഗ</ref> യുടെയും <ref target="https://ml.wikipedia.org/wiki/Jayalalita">ജയലളിത</ref> യുടെയുമൊക്കെ
+ഗ്രഹനില നോക്കുന്നതും പണിക്കരാണു് (പണിക്കരുടെ ശുക്രൻ ഏഴിലും വ്യാഴം പന്ത്രണ്ടിലുമാണു്). ഇനി ഏതേതു്
+ക്ഷേത്രങ്ങളിൽ ആനയെ നടക്കിരുത്തും ഏതൊക്കെ ദേവന്മാർക്കു് കിരീടം ചാർത്തും എന്നേ നോക്കാനുള്ളു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shihab_Thangal.jpg" rendition="gra"/>
+            <figDesc style="thumb">സയ്യിദ് മുഹമ്മദാലി ശിഹബ് തങ്ങൾ</figDesc>
+          </figure>
+          <p>പരപ്പനങ്ങാടിയിൽ നിന്നു് മടങ്ങുംവഴി പാണക്കാട്ടെത്തി <ref target="https://ml.wikipedia.org/wiki/Panakkad_Sayyid_Muhammad_Ali_Shihab_Thangal">സയ്യിദ്
+മുഹമ്മദാലി ശിഹബ് തങ്ങളെ</ref> ക്കണ്ടു് അനുഗ്രഹം വാങ്ങാനും പത്മജ മറന്നില്ല. വൈകാതെ സ്വാമി
+<ref target="https://ml.wikipedia.org/wiki/Swami_Saswathikananda">ശാശ്വതികാനന്ദ</ref>
+യുടെയും <ref target="https://ml.wikipedia.org/wiki/Varkey_Vithayathil">മാർ
+വർക്കി വിതയത്തിലി</ref> ന്റെയും അനുഗ്രഹവും തേടാവുന്നതാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Varkey_Vithayathil.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാർ വർക്കി വിതയത്തിൽ</figDesc>
+          </figure>
+          <p>ഇരുപത്തേഴു് എം. എൽ. എ.-മാരും മൂന്നു് മന്ത്രിമാരുമുള്ള ഏഴു് ഡി. സി. സി. പ്രസിഡന്റുമാരുണ്ടാകാൻ
+പോകുന്ന ‘ഐ’ ഗ്രൂപ്പിന്റെ അനിഷേധ്യനേതാവു് ഇപ്പോൾ പത്മജയാണു്. ഒരു ഗ്രൂപ്പിന്റെയോ കോൺഗ്രസ്സ്
+പാർട്ടിയുടെയോ നാലതിരിനുള്ളിൽ ഒതുങ്ങുന്ന വ്യക്തിത്വമല്ല അവരുടേതു്. ഇനിയങ്ങോട്ടു് പത്മജയുടെ യുഗമാണു്.
+പൂക്കാലം വരവായി!
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Pookkalam Varavaayi (ml:
+പൂക്കാലം വരവായി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Pookkalam Varavaayi, കെ. രാജേശ്വരി, പൂക്കാലം വരവായി, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 9, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:John_Glover__The_Artist%27s_House_and_Garden_-_WGA09638.jpg">The Artist’s House and
+Garden,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/John_Glover_(artist)">John
+Glover</ref>  (1767–1849). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-pookkalam.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-pookkalam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

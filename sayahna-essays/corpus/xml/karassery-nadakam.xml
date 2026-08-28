@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നാടകം</title>
+          <title xml:lang="en" type="main">Nadakam</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 5, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നാടകം</title>
+              <title xml:lang="en" type="main">Nadakam</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Nadakam</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>നാടകം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 5, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/the_Garden_of_Eden_1828.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg">Expulsion
+from the Garden of Eden,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Cole">Thomas Cole</ref>
+ (1801–1848). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നാടകം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നാടകം</head>
+        <div type="lsection">
+          <p style="noindent">നിരവധി നാടകീയ മുഹൂർത്തങ്ങൾ കൊണ്ടു് സമ്പന്നമാണു് <ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">ബഷീറി</ref>
+ന്റെ ജീവിതം. എങ്കിലും അദ്ദേഹം സാമാന്യമായി നാടകം എന്ന സാഹിത്യരൂപത്തെയോ നാടകീയത എന്ന
+സാഹിത്യസങ്കേതത്തേയോ ഉപയോഗപ്പെടുത്തുവാൻ ഉത്സാഹിച്ചിട്ടില്ല. നാടകവേദിയുമായി ബഷീർ ഒരിക്കലും
+ബന്ധപ്പെട്ടിട്ടില്ല. രാഷ്ട്രീയപ്രവർത്തകനായിരുന്ന കാലത്തു് തിരുവിതാംകൂർ സ്റ്റേറ്റ് കോൺഗ്രസ് നേതാക്കന്മാരെ
+പരിഹസിക്കുന്നതിനുവേണ്ടി എഴുതിയ ‘പട്ടത്തിന്റെ പേക്കിനാവു്’ എന്ന പത്തു പേജുള്ള രചന
+ഏകാങ്കരൂപത്തിലാണു്. രക്തസാക്ഷികൾ നേതാക്കന്മാരെ ചോദ്യം ചെയ്യുന്ന ആ രചന രാഷ്ട്രീയ
+ലഘുലേഖയാണു്. <ref target="https://ml.wikipedia.org/wiki/M.P._Paul">എം. പി.
+പോളി</ref> ന്റെ മക്കളെ കഥാപാത്രങ്ങളാക്കി ‘പ്രിൻസിപ്പലിന്റെ മക്കൾ’ എന്നൊരു തമാശനാടകം ബഷീർ
+എഴുതിയിട്ടുണ്ടു്. മിസ്സിസ് പോളിനു് അംഗത്വമുണ്ടായിരുന്ന ഒരു വനിതാസമാജത്തിൽ പോളിന്റെ മക്കൾ
+റോസിയും ബേബിയും അതു കളിച്ചു. അച്ചടിച്ചിട്ടില്ല. ‘<ref target="https://ml.wikipedia.org/wiki/Ntuppuppaakkoraanaendaarnnu">ന്റുപ്പുപ്പാക്കൊരാനേണ്ടാർന്നു!</ref>’
+നാടകമാക്കി കോഴിക്കോട്ട് അവതരിപ്പിച്ചിട്ടുണ്ടു്. ആ നാടകമെഴുതിത്തുടങ്ങിയതു് ബഷീറാണെങ്കിലും
+പൂർത്തിയാക്കിയതു സംവിധായകൻ <ref target="https://ml.wikipedia.org/wiki/K.T.Muhammad">കെ. ടി. മുഹമ്മദാ</ref> ണു്.
+ഇതും അച്ചടിച്ചിട്ടില്ല.
+</p>
+          <p>‘കഥാബീജം’ എന്നു പേരായി ബഷീർ ഒരു നാടകം എഴുതിയിട്ടുണ്ടു്. എറണാകുളത്ത് സമസ്ത കേരള
+സാഹിത്യപരിഷത്തിന്റെ 16-ാം വാർഷിക സമ്മേളനത്തിൽ അവതരിപ്പിക്കുന്നതിനു് വേണ്ടിയാണു്
+അതെഴുതിയതു്. 1945-ൽ പുസ്തകമായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ibsen.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹെന്റിക്ക് ഇബ്സൻ</figDesc>
+          </figure>
+          <p> പുരാണകഥാപരാമർശകങ്ങളായ സംഗീതനാടകങ്ങളുടെ കാലഘട്ടം പിന്നിട്ടു് സാമൂഹ്യരാഷ്ട്രീയ പ്രശ്നങ്ങൾ
+നാടകത്തിൽ ഇടം കണ്ടെത്തിക്കൊണ്ടിരിക്കുന്ന കാലമായിരുന്നു അതു്. നോർവീജിയൻ നാടകകൃത്തു് <ref target="https://en.wikipedia.org/wiki/Henrik_Ibsen">ഹെന്റിക്ക് ഇബ്സന്റെ</ref>
+പ്രശ്നനാടകങ്ങൾ മലയാളത്തിൽ സ്വാധീനം ചെലുത്തിക്കൊണ്ടിരിക്കുന്ന സന്ദർഭം. ആശയപ്രചാരണത്തിന്റെ
+മാധ്യമം എന്ന നിലയിലും രസകരമായ കലാരൂപം എന്ന നിലയിലും മലയാളികൾക്കിടയിൽ നാടകം ജനപ്രീതി
+നേടിക്കൊണ്ടിരുന്ന അവസരം. റിയലിസം ആ കാലത്തെ മലയാളനാടകത്തിന്റെ മുഖമുദ്രയായിരുന്നു.
+</p>
+          <p>നിത്യദാരിദ്ര്യത്തിൽ കഴിഞ്ഞുകൂടുന്ന ഒരെഴുത്തുകാരന്റെ കഥയാണിതു്. പേരു്: സദാശിവൻ. ധർമം ചോദിച്ചു
+വരുന്ന യാചകനോടു് ‘ഒന്നും ഇല്ലല്ലോ അമ്മാവാ’ എന്നു് സദാശിവൻ കൈമലർത്തുന്നതോടെയാണു് നാടകം
+ആരംഭിക്കുന്നതു്. അയാൾ വാടകമുറിയിൽ താമസിക്കുന്നു. ഹോട്ടലിൽ നിന്നാണു് ഭക്ഷണം. വാടകയും
+ഹോട്ടലിലെ പറ്റും കൊടുക്കാൻ കാശില്ലാത്തതിനാൽ വളരെ അപമാനങ്ങൾ സഹിച്ചും പട്ടിണി കിടന്നും ജീവിതം
+ഉന്തിത്തള്ളി മുന്നോട്ടു് കൊണ്ടുപോവുകയാണു്. വാടകമുറിയുടെ ഉടമസ്ഥന്റെ മകൾ മാധവിക്കും ഹോട്ടലിൽ നിന്നു്
+പകർച്ച കൊണ്ടുവരുന്ന പയ്യൻ പ്രഭാകരനും മാത്രമേ അയാളോടു് അല്പമെങ്കിലും അനുഭാവമുള്ളൂ. വാടകമുറിയുടെ
+ഉടമസ്ഥനും ഹോട്ടൽകാരനുമൊക്കെ അയാളെ ഒരു ബാധ്യതയായിട്ടാണു് കരുതുന്നതു്.
+</p>
+          <p>അയാൾക്കാകെ അറിയുന്ന പണി കഥയെഴുത്താണു്. വായനക്കാർ വളരെ ഇമ്പത്തോടെ അയാൾ
+എഴുതുന്നതെന്തും വായിക്കും. പക്ഷേ, പത്രാധിപരും പുസ്തകപ്രസിദ്ധീകരണശാലക്കാരും അയാൾക്കു് ഒന്നും
+കൊടുക്കുകയില്ല. പേരും പ്രശസ്തിയും അംഗീകാരവും വേണ്ടുവോളമുണ്ടു്. പക്ഷേ, തിന്നാനും കുടിക്കാനും ഉടുക്കാനും
+തേക്കാനും ഒന്നുമില്ല.
+</p>
+          <p>സാഹിത്യരചനയ്ക്കു് പ്രതിഫലം ചോദിക്കുന്നതും വാങ്ങുന്നതും ഏതോ മോശപ്പെട്ട കാര്യമാണു് എന്നു്
+
+എഴുത്തുകാർ തെറ്റിദ്ധരിച്ചിരുന്ന കാലം. ആ ആന്ധ്യം ഉപയോഗപ്പെടുത്തി പത്രാധിപന്മാരും
+പുസ്തകപ്രസിദ്ധീകരണശാലക്കാരും അവരെ ചൂഷണം ചെയ്തുപോന്നു. ഇക്കാര്യത്തിൽ എഴുത്തുകാരെയും
+പ്രസാധനക്കാരെയും വായനക്കാരെയും ബോധവൽക്കരിക്കുന്നതിനു് വേണ്ടിയാണു് ബഷീർ നാടകമെഴുതിയതു്.
+</p>
+          <p>മാധവി എന്ന പെൺകുട്ടി, അവളുടെ അച്ഛനായ വീട്ടുടമസ്ഥൻ, പ്രഭാകരൻ എന്ന പയ്യൻ, അവന്റെ
+മുതലാളിയായ ഹോട്ടൽ ഉടമ, പത്രാധിപർ, പ്രസിദ്ധീകരണശാലക്കാരൻ, പത്രത്തിന്റെ ഏജന്റ്, യാചകൻ
+തുടങ്ങിയ കഥാപാത്രങ്ങളിലൂടെ സാമൂഹ്യജീവിതത്തിന്റെ ഒരു കുറുമുറി ഇവിടെ അവതരിപ്പിക്കുന്നുണ്ടു്.
+നിഷ്കളങ്കമായ മാധവിയുടെ അച്ഛൻ കുടിയനും വിഷയലമ്പടനുമാണു്. അഗതിയായ ഒരു സ്ത്രീക്കു് ഏതോ
+അവിഹിതബന്ധത്തിൽ പിറന്ന കുഞ്ഞാണു് പ്രഭാകരൻ. രണ്ടാമത്തെ ഗർഭം ഉണ്ടായപ്പോൾ പട്ടിണി കിടന്നാണു്
+ആ പാവം സ്ത്രീ മരിച്ചുപോയതു്. അതിനെല്ലാം ഉത്തരവാദി മാധവിയുടെ അച്ഛനാണു് എന്നു് നാടകത്തിൽ
+സൂചനയുണ്ടു്. ആ സ്ത്രീയെയും കുഞ്ഞിനെയും അയാൾ തിരിഞ്ഞുനോക്കിയിട്ടില്ല. ഹോട്ടൽ ഉടമസ്ഥനാകട്ടെ,
+പ്രഭാകരനു് കൂലി കൊടുക്കുന്നില്ല. അവൻ ഒളിച്ചോടിയപ്പോൾ തന്റെ പരിചയക്കാരായ പോലീസുകാരെ
+ഉപയോഗിച്ചു് അയാൾ മടക്കിക്കൊണ്ടുവന്നു. മാധവിയുടെ അച്ഛനും ഹോട്ടൽ ഉടമസ്ഥന്റെ ഭാര്യയും ഒന്നിച്ചു
+കുടിക്കുന്നതിന്റെയും ഒന്നിച്ചുറങ്ങുന്നതിന്റെയും സൂചനകൾ വേറെ. പത്രാധിപർ സാഹിത്യകാരനു് കഥകൾക്കു്
+പ്രതിഫലം കൊടുക്കുന്നില്ല എന്നു മാത്രമല്ല, അങ്ങനെ പ്രതിഫലം ചോദിക്കുന്നതും കൊടുക്കുന്നതും
+സാഹിത്യ‘ക്ഷേത്ര’ത്തെ കളങ്കപ്പെടുത്തലാണു് എന്നു് പ്രഖ്യാപിക്കുകയും ചെയ്യുന്നു. പ്രസിദ്ധീകരണശാലക്കാരനു്
+വേണ്ടതു് കഥകളല്ല, സർക്കാർ പുസ്തകക്കമ്മിറ്റി അംഗീകരിക്കാനിടയുള്ള സോപ്പു നിർമ്മാണം, അങ്കഗണിതം
+മുതലായ പാഠപുസ്തകങ്ങളാണു്. ആരാധകനായ പത്രഏജന്റും സാഹിത്യകാരനെ മുതലാക്കാൻ വരുന്ന
+ഒരാളാണു്—അയാൾക്കു് പുസ്തകങ്ങൾ വെറുതെ കിട്ടണം; മംഗളപത്രം സൗജന്യമായി എഴുതിക്കിട്ടണം;
+അയാളുടെ വായനശാലയുടെ ഉദ്ഘാടനത്തിനു് കുറുക്കുവഴിക്കു് പതിനഞ്ചു് മൈൽ നടന്നു് ചെന്നു് സാഹിത്യകാരൻ
+പ്രസംഗിക്കണം! യാചകൻ സാഹിത്യകാരന്റെ തൂവാല മോഷ്ടിക്കുന്നു.
+</p>
+          <p>സദാശിവനു് സ്വന്തമെന്നു് പറയാൻ രോഗശയ്യയിൽ കിടക്കുന്ന അച്ഛനും പട്ടിണിയോടു് മല്ലിട്ടു് ജീവിക്കുന്ന
+അമ്മയും മാത്രമേയുള്ളൂ. മരിച്ചുപോയ കാമുകിയുടെ ഓർമ്മയാണു് ഏക ആശ്വാസം. അവളുടെ
+പ്രണയോപാഹാരമായ പേനകൊണ്ടാണു് താൻ എല്ലാ കഥകളും എഴുതിയതു് എന്നു് അയാൾ ആഹ്ലാദത്തോടെ
+പറയുന്നുണ്ടു്. പണം കൊടുക്കാത്തതിന്റെ പേരിൽ വീട്ടുടമസ്ഥനും ഹോട്ടലുടമയും ചേർന്നു് അയാളെ
+കുടിയിറക്കുന്നു. അപ്പോൾ ആ പേന ഹോട്ടലുടമസ്ഥൻ തട്ടിപ്പറിക്കുന്നു.
+</p>
+          <p>കഥകളെഴുതി അയാൾ ധാരാളം പണം സമ്പാദിക്കുന്നുണ്ടു് എന്നാണു് എല്ലാവരുടെയും വിചാരം.
+സ്നേഹിക്കുവാനും മനസ്സിലാക്കുവാനും സഹായിക്കുവാനും ആരും ഇല്ലാത്ത ആ അവസ്ഥയിലും സ്വന്തം
+ചോരയിൽ തൂലിക മുക്കി കഥയെഴുതുക എന്ന നിഷ്ഠയിൽ നിന്നു് സദാശിവൻ മാറുന്നില്ല. എല്ലാം നഷ്ടപ്പെട്ടു്
+എങ്ങോട്ടെന്നില്ലാതെ നടന്നു് സാഹിത്യകാരൻ ഇരുളിൽ മറയുന്നിടത്തു് നാടകത്തിനു് തിരശ്ശീല വീഴുന്നു.
+</p>
+          <p>ബഷീറിന്റെ മറ്റെല്ലാ രചനകളും പോലെ ആത്മകഥാംശം മുറ്റി നിൽക്കുന്ന ഒന്നാണു് ‘കഥാബീജ’വും. പട്ടിണി
+കിടന്നും അഗതിയായി അലഞ്ഞും കലാപൂർത്തിക്കുവേണ്ടി ജീവിതം ഹോമിക്കുന്ന സദാശിവൻ ബഷീറിന്റെ നിഴൽ
+തന്നെയാണു്. ‘മരണത്തിന്റെ നിഴലിൽ’ എന്ന ലഘുനോവലിൽ ‘ഞാൻ’ ആയിത്തന്നെ ഈ കഥാപാത്രം
+കടന്നുവരുന്നുണ്ടു്. അവിടത്തെ പാൽക്കാരി കുഞ്ഞമ്മയുടെ രൂപാന്തരം തന്നെയാണു് മാധവി.
+</p>
+          <p>സമൂഹം കലാകാരനോടു് കാണിക്കുന്ന നിന്ദയ്ക്കും നന്ദികേടിനുമെതിരെ ബഷീർ നടത്തുന്ന
+പൊട്ടിത്തെറിയാണു് ‘കഥാബീജം’. വിറ്റു് കാശാക്കാൻ എളുപ്പമുള്ള പുസ്തകങ്ങൾ എഴുതുവാൻ പ്രേരിപ്പിക്കുന്ന
+പ്രസിദ്ധീകരണശാലക്കാരനെ ഇടിക്കാൻ കൈചുരുട്ടി സാഹിത്യകാരൻ ചെല്ലുന്ന ഒരു രംഗമുണ്ടു് ഈ
+നാടകത്തിൽ. യാചകനോടു് അവസാനമായി സാഹിത്യകാരൻ പറയുന്ന കാര്യം ഇതാണു്:
+</p>
+          <p>“പൊയ്ക്കൊളൂ, പോയി എല്ലാ യാചകന്മാരേയും എല്ലാ പതിതരേയും വിളിച്ചുണർത്തി ലോകത്തിനോടു്
+പോരിനൊരുങ്ങൂ! അമ്മാവൻ മുമ്പേ പോവൂ!”
+</p>
+          <p>ഒരു രംഗം മാത്രമുള്ള നാടകമാണിതു്—നീണ്ട ഏകാങ്കം എന്നു പറയാം. രംഗത്തു് അവതരിപ്പിക്കാൻ
+എത്രനേരം വേണോ, അത്രയും നേരത്തെ സംഭവങ്ങൾ മാത്രമേ ചിത്രീകരിച്ചിട്ടുള്ളൂ. അതിനിടയിൽത്തന്നെ
+സാമൂഹ്യജീവിതത്തിന്റെ പലതരം കൊള്ളരുതായ്മകളും ക്രൂരതകളും കപടനാട്യങ്ങളും ക്രിയയിലൂടെയോ
+സംഭാഷണത്തിലൂടെയോ അവതരിപ്പിക്കുന്നുമുണ്ടു്.
+</p>
+          <p>ബഷീറിനു് സഹജമായ നർമബോധം ഈ ദുഃഖകഥയിലും ഇടംകണ്ടെത്തുന്നു. ഉദാഹരണം: സ്വയം
+ജർണലിസ്റ്റ് എന്നു് വിളിക്കുന്ന പത്രഏജന്റ് ‘ദേവയാനി’ കണ്ടാൽ കൊള്ളാവുന്ന സ്ത്രീയാണോ എന്ന ചോദ്യത്തിനു്
+മറുപടി കൊടുക്കുന്നു: ‘അതു ചോദിക്കാനുണ്ടോ സാർ, എന്റെ ലൗവിന്റെ ജ്യേഷ്ഠത്തിയല്ലേ?’
+</p>
+          <p>നാടകരൂപം എന്ന നിലയിൽ പരീക്ഷണമോ പുതുമയോ അവകാശപ്പെടാനില്ലാത്തതെങ്കിലും ‘കഥാബീജം’,
+
+ബഷീറിന്റെ ചിരന്തനപ്രമേയമായ ദാരിദ്ര്യത്തെ കണ്ണീരും ഇളംചിരിയും ചാലിച്ചു് രേഖപ്പെടുത്തുന്നുണ്ടു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Nadakam (ml: നാടകം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Nadakam, എം. എൻ. കാരശ്ശേരി, നാടകം, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 5, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg">Expulsion
+from the Garden of Eden,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Cole">Thomas Cole</ref>
+ (1801–1848). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-nadakam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-nadakam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

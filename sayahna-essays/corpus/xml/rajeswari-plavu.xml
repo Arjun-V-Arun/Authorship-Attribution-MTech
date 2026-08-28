@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തടിയുണങ്ങിയ പ്ലാവു് ചുളയില്ലാത്ത
+ചക്ക</title>
+          <title xml:lang="en" type="main">Thadiyunangiya Plavu Chulayillaththa
+Chakka</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തടിയുണങ്ങിയ പ്ലാവു് ചുളയില്ലാത്ത
+ചക്ക</title>
+              <title xml:lang="en" type="main">Thadiyunangiya Plavu Chulayillaththa
+Chakka</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Thadiyunangiya Plavu Chulayillaththa Chakka</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>തടിയുണങ്ങിയ പ്ലാവു് ചുളയില്ലാത്ത ചക്ക</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Tornai_The_Jewelry_Maker.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Tornai_The_Jewelry_Maker.jpg">The
+Jewelry Maker,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Gyula_Tornai">Gyula Tornai</ref>
+ (1861–1928). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തടിയുണങ്ങിയ പ്ലാവു് ചുളയില്ലാത്ത ചക്ക</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തടിയുണങ്ങിയ പ്ലാവു് ചുളയില്ലാത്ത ചക്ക</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Abdu_Nasser_Mahdany.jpg" rendition="gra"/>
+            <figDesc style="thumb">അബ്ദുന്നാസിർ മഅദനി</figDesc>
+          </figure>
+          <p style="noindent"> 2007 ആഗസ്റ്റ് 1. കേരള മുസ്ലീം രാഷ്ട്രീയ ചരിത്രത്തിലെ ഒരു സുപ്രധാന ദിനം.
+ഐ. സി. എസ്. <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">അബ്ദുന്നാസിർ
+മഅദനി</ref> കുറ്റക്കാരനല്ലെന്നു് കോടതി കണ്ടെത്തി. ഒമ്പതര വർഷം നീണ്ട കാരാഗൃഹവാസം
+അവസാനിച്ചു, മഅദനി കേരളത്തിൽ തിരിച്ചെത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> പത്ര-ദൃശ്യ മാധ്യമങ്ങളും രാഷ്ട്രീയ നിരീക്ഷകരും മനുഷ്യാവകാശ പ്രവർത്തകരും സ്വാഭാവികമായി
+മഅദനിക്കു പിന്നാലെ കൂടി. പത്രങ്ങളായ പത്രങ്ങളൊക്കെ മുഖപ്രസംഗമെഴുതി. മാധ്യമത്തിലും തേജസിലും
+സിറാജിലും മാത്രമല്ല മനോരമയിലും മാതൃഭൂമിയിലും കേരളകൗമുദിയിലുമൊക്കെ മഅദനി നിറഞ്ഞുതുളുമ്പി.
+വികലാംഗനും രോഗിയുമായ ഈ മനുഷ്യനു് ആരു്, എത്ര നഷ്ടപരിഹാരം നൽകുമെന്നു് മനുഷ്യാവകാശ
+പ്രവർത്തകർ മാറത്തലച്ചുകരഞ്ഞു. ഇനിയങ്ങോട്ടുള്ള ചികിൽസ സർക്കാർ നടത്തുമെന്നു് ആരോഗ്യമന്ത്രി
+പ്രഖ്യാപിച്ചു. ശംഖുമുഖം കടപ്പുറത്തെ യോഗം സകല ചാനലുകളും തൽസമയം സംപ്രേക്ഷണം ചെയ്തു.
+ഇറച്ചിക്കടയിൽ പട്ടിതൂങ്ങിയപോലെ മൂന്നുമന്ത്രിമാർ യോഗത്തിൽ ആദ്യവസാനം പങ്കെടുത്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CHmohammedKoya.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എച്ച്. മുഹമ്മദ്കോയ</figDesc>
+          </figure>
+          <p> മഅദനിയുടെ മടങ്ങിവരവിൽ അത്യാവേശം കാണിക്കാതിരുന്ന പത്രം ചന്ദ്രിക ഒന്നാംപേജിൽ വാർത്ത
+കൊടുത്തു. ലീഗ് നേതാക്കളുടെ സന്തോഷപ്രകടനവും കൊടുത്തു. പിന്നെ മുഖപ്രസംഗവും ചിത്രങ്ങളും
+പ്രസിദ്ധീകരിച്ചു. മഅദനിയെ തമിഴ്‌നാട് പോലീസിനു് പിടിച്ചുകൊടുത്തതു് <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാർ</ref>
+സർക്കാറാണെന്നു് അനുസ്മരിപ്പിച്ചു. മഅദനി മഹാനാണെന്നോ മുസ്ലീംകളുടെ ഏക രക്ഷകനാണെന്നോ
+ചന്ദ്രികക്കു് പണ്ടും അഭിപ്രായമില്ല. ഇപ്പോഴുമില്ല അഭിപ്രായം. തീവ്രവാദത്തിനു് ലീഗും ചന്ദ്രികയും എതിരാണു്.
+ജയിൽമോചിതനായ മഅദനി ഇടതുപക്ഷത്തോടൊപ്പം കൂടി നമ്മുടെ പുരത്തറമാന്തും എന്നു് തിരിച്ചറിയാനുള്ള
+വിവേകവും ഉണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sayed_Ummer_Bafakhy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമർ ബാഫഖി തങ്ങൾ</figDesc>
+          </figure>
+          <p> മുസ്ലീംലീഗിനെ തകർക്കാനുള്ള ശ്രമങ്ങൾ ഇന്നോ ഇന്നലെയോ തുടങ്ങിയതല്ല. സ്വാതന്ത്ര്യസമരകാലത്തു്
+ലീഗിനു് ബദലായി കോൺഗ്രസുകാരായ ചില അഞ്ചാം പത്തികൾ മുസ്ലീം മജ്ലിസുണ്ടാക്കി. ഏറനാടൻ
+
+മാപ്പിളമാർ അസ്സലുള്ളവരാണു്. അവർ മജ്ലിസിനെ സുക്കൂത്തുപാടിച്ചു. 1957–60 കാലഘട്ടത്തിൽ കമ്യൂണിസ്റ്റ്
+സ്വാധീനത്തിൽ പ്രോഗ്രസീവ് മുസ്ലീംലീഗുണ്ടായി. അതും ക്ലച്ചുപിടിച്ചില്ല. പോർക്കിറച്ചി ലീഗെന്നു് പരിഹസിക്കപ്പെട്ടു്
+കാലയവനികക്കു് പിന്നിൽ മറഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/EK_Aboobacker_Musliyar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. കെ. അബൂബക്കർ മുസ്ലിയാർ</figDesc>
+          </figure>
+          <p> ലീഗിലെ <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.</ref>
+ആധിപത്യത്തിനെതിരെയുള്ള കലാപം 1973-ലെ പിളർപ്പിൽ കലാശിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Sayyid_Abdur_Rahman_Bafaqi_Thangal">ബാഫഖി
+തങ്ങളെ</ref> സ്വാധീനിച്ചു് <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">മുഹമ്മദ്കോയ</ref>
+യെ മന്ത്രിപദത്തിൽനിന്നൊഴിവാക്കാൻ സാധിച്ചെങ്കിലും തൽസ്ഥാനം കരസ്ഥമാക്കാൻ <ref target="https://ml.wikipedia.org/wiki/Sayed_Ummer_Bafakhy">ഉമർ ബാഫഖി</ref>
+ക്കു് കഴിഞ്ഞില്ല. വലിയ തങ്ങളുടെ മരണശേഷം പാർട്ടി നേതൃത്വം കൈപ്പിടിയിലൊതുക്കാൻ ചെറിയ
+മമ്മൂക്കേയിക്കോ ബാവാഹാജിക്കോ സാധിച്ചില്ല. <ref target="https://en.wikipedia.org/wiki/Pukkoya_Tangal">പൂക്കോയത്തങ്ങളും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Panakkad_Sayyid_Muhammad_Ali_Shihab_Thangal">ശിഹാബ്
+തങ്ങളും</ref> <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ചി</ref> ന്റെ
+വരുതിയിൽനിന്നു. നമ്പൂതിരിപ്പാടിന്റെ കൈപിടിച്ചു് <ref target="https://ml.wikipedia.org/wiki/Sayed_Ummer_Bafakhy">ഉമർ ബാഫഖി
+തങ്ങൾ</ref> പ്രതിപക്ഷത്തേക്കു് നീങ്ങി. ബാവാഹാജിയുടെ സ്പീക്കർ സ്ഥാനം ആടുകടിച്ചതു് ലാഭം.
+അടിയന്താവസ്ഥക്കാലത്തു് മമ്മൂക്കേയിയും കൂട്ടരും കണ്ണൂർ ജയിലിൽ ഗോതമ്പുണ്ട തിന്നു് സുഖവാസമനുഭവിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Pookoya_Thangal.jpg" rendition="gra"/>
+            <figDesc style="thumb">പൂക്കോയത്തങ്ങൾ</figDesc>
+          </figure>
+          <p> 1977-ലെ തെരഞ്ഞെടുപ്പിൽ കോയാലീഗ് കൊടി നാട്ടി. വിമതന്മാർ നിലംപരിശായി; ബാവാഹാജി തിരൂര്
+പോയി തൊപ്പിയിട്ടു. <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.</ref>
+പൂർവാധികം ശോഭയോടെ മന്ത്രിസ്ഥാനത്തു് തിരിച്ചെത്തി. 51 ദിവസത്തേക്കാണെങ്കിൽപോലും കേരള
+സുൽത്താനുമായി. <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">മുഹമ്മദുകോയ</ref>
+യുടെയും എം. കെ. ഹാജിയുടെയും കാലശേഷം ലീഗുകൾ രണ്ടും കൂടി ഇമ്മിണി വല്യ ഒന്നായി. ഒരുമക്കു്
+ഒമ്പതാണു് ബർക്കത്തു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mk_haji_sahib.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കെ. ഹാജി</figDesc>
+          </figure>
+          <p> കേരളത്തിലെ, വിശിഷ്യ മലബാറിലെ മുസ്ലീംകളിൽ മുക്കാലേ മുണ്ടാണിയും സുന്നികളാണു്. മുസ്ലീംലീഗിന്റെ
+നേതാക്കളിൽ ഏറിയപങ്കും മുജാഹിദുക്കളായ സുജായികൾ. അഴുക്കുവെള്ളത്തിൽ മുഴക്കാളെ പറ്റിക്കുന്ന
+പരിപാടിക്കെതിരെ സുന്നിവികാരം ആളിക്കത്തി. 1983-മാണ്ടിൽ മുസ്ലീം ഡെമോക്രാറ്റിക് പാർട്ടി
+രൂപവത്കൃതമായി. 1984-ലെ മഞ്ചേരി ഉപതെരഞ്ഞെടുപ്പിൽ എം. ഡി. പി. വീരചരമം പ്രാപിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shihab_Thangal.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശിഹാബ് തങ്ങൾ</figDesc>
+          </figure>
+          <p> സമസ്ത കേരള ജംഇയ്യത്തുൽ ഉലമയിലെ പിളർപ്പു് ലീഗ് നേതൃത്വത്തിനു് തലവേദനയുണ്ടാക്കി. പാണക്കാട്ട്
+തങ്ങന്മാർ <ref target="https://en.wikipedia.org/wiki/E._K._Aboobacker_Musliyar">ഇ. കെ.
+അബൂബക്കർ മുസ്ലിയാർ</ref> ക്കും ഔദ്യോഗിക വിഭാഗത്തിനുമൊപ്പം ഉറച്ചുനിന്നു. ആൾസ്വാധീനം കൂടുതലുള്ള
+<ref target="https://ml.wikipedia.org/wiki/Sheikh_Abubakr_Ahmad">എ. പി.
+അബൂബക്കർ മുസ്ലിയാർ</ref> കടുത്ത ലീഗ് വിരോധിയായി, മാർക്സിസ്റ്റ് പാളയത്തിൽ കുടിയേറി. വിമതവിഭാഗം
+അരിവാൾ സുന്നികൾ എന്നു് അറിയപ്പെട്ടു. എ. പി. വിഭാഗത്തെ വത്തക്ക സുന്നികളെന്നു് ലീഗുകാർ പരിഹസിച്ചു.
+തണ്ണിമത്തൻ പോലെ പുറം പച്ച. അകം ചുവപ്പു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Seethi_sahib.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. സീതിസാഹിബ്</figDesc>
+          </figure>
+          <p> കമ്യൂണിസ്റ്റ് പാർട്ടികളും കാന്തപുരം മുസ്ല്യാരും ഒത്തുപിടിച്ചു് ശ്രമിച്ചിട്ടും മുസ്ലീംലീഗിന്റെ കനത്ത പോർച്ചട്ടയിൽ
+ഒരു പോറലെങ്കിലും ഏൽപിക്കാൻ കഴിഞ്ഞില്ല. യു. ഡി. എഫ്. തകർന്നടിഞ്ഞ 1987-ൽ പോലും മലപ്പുറം കോട്ട
+കുലുങ്ങിയില്ല. തൊണ്ണൂറുകളുടെ തുടക്കത്തിൽ മണ്ഡൽ കമീഷൻ റിപ്പോർട്ടും കുവൈത്ത് യുദ്ധവും അൽപം
+കുഴപ്പമുണ്ടാക്കിയെങ്കിലും 1991-ൽ ലീഗ് അധികാരത്തിൽ തിരിച്ചെത്തി. അതും കനപ്പെട്ട വകുപ്പുകളോടെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_Ahammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. അഹമ്മദ്</figDesc>
+          </figure>
+          <p> ഹാജി അബ്ദുസത്താർ സേട്ട്, അബ്ദുറഹ്മാൻ ആലിരാജ, സി. പി. മമ്മുക്കേയി, പോക്കർസാഹിബ്, <ref target="https://ml.wikipedia.org/wiki/Seethi_Sahib">കെ. എം.
+സീതിസാഹിബ്</ref>, <ref target="https://en.wikipedia.org/wiki/K._Uppi_Saheb">കെ. ഉപ്പിസാഹിബ്</ref>
+മുതലായ ഗംഭീരന്മാർ ചേർന്നാണു് 1937-ൽ മലബാർ ജില്ലാ മുസ്ലീംലീഗ് കമ്മിറ്റിയുണ്ടാക്കിയതും
+അതിനടുത്തവർഷം ചന്ദ്രിക പ്രസിദ്ധീകരിക്കാൻ തുടങ്ങിയതും. ആലിരാജാവിന്റെ മരണത്തിനും
+സത്താർസേട്ടുവിന്റെ പാക്കിസ്ഥാൻ പൗരത്വ സ്വീകരണത്തിനും ശേഷവും മലബാറിൽ ലീഗിനു് സുശക്തമായ
+നേതൃനിര ഉണ്ടായിരുന്നു. സ്വാതന്ത്ര്യപ്രാപ്തിക്കുശേഷം <ref target="https://ml.wikipedia.org/wiki/Sayyid_Abdur_Rahman_Bafaqi_Thangal">സയ്യിദ്
+അബ്ദുറഹ്മാൻ ബാഫഖി തങ്ങളും</ref> ശിഷ്യൻ <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">മുഹമ്മദ്കോയ</ref>
+യും പാർട്ടിയെ നയിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Abu_Backer.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. എം. അബൂബക്കർ</figDesc>
+          </figure>
+          <p> 1971-ൽ ബാഫഖി തങ്ങളും 1984-ൽ <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദ്കോയ</ref> യും കണ്ണടച്ചു. സി. എച്ചിനുശേഷം ആരു് എന്ന ചോദ്യം ലീഗിനെ തുറിച്ചുനോക്കി. 1984-ൽ
+അവുക്കാദർകുട്ടിനഹ പാർലമെന്ററിപാർട്ടി ലീഡറായി, ഉപമുഖ്യമന്ത്രിയും. 1987-ൽ ബാവാഹാജിയായി
+നിയമസഭാകക്ഷി നേതാവു്. 1991-ൽ പാവം ഹാജിക്കു് സീറ്റേ കിട്ടിയില്ല. <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">ഇ. അഹമ്മദി</ref> നെ
+അഖിലേന്ത്യാ നേതാവാക്കി പാർലമെന്റിലേക്കയച്ചു. <ref target="https://ml.wikipedia.org/wiki/P._M._Abubacker">പി. എം.
+അബൂബക്കറും</ref> <ref target="https://ml.wikipedia.org/wiki/U._A._Beeran">യു. എ. ബീരാനും</ref>
+തഴയപ്പെട്ടു. മുസ്ലീംലീഗിൽ പുതിയ സൂര്യനുദിച്ചു—<ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">പി. കെ.
+കുഞ്ഞാലിക്കുട്ടി</ref>. മലപ്പുറത്തുകാരുടെ സ്വന്തം കുഞ്ഞാപ്പ. നിയമസഭാകക്ഷി നേതാവും
+വ്യവസായമന്ത്രിയും. <ref target="https://ml.wikipedia.org/wiki/Panakkad_Sayyid_Muhammad_Ali_Shihab_Thangal">ശിഹാബ്
+തങ്ങളുടെ</ref> വാൽസല്യഭാജനം, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+വലംകൈ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> ഏതാണ്ടു് ഇതേ കാലത്തു് തെക്കേ ചക്രവാളത്തിൽ ശുക്രനക്ഷത്രമുദിച്ചു—<ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">അബ്ദുന്നാസിർ
+മഅദനി</ref>. അത്യുജ്വലപ്രസംഗകൻ, കടുത്ത ലീഗ് വിരോധി. ആർ. എസ്. എസ്. മാതൃകയിൽ ഇസ്ലാമിക
+സേവൿസംഘ് രൂപവത്ക്കരിച്ചു. നാടൊട്ടുക്കു് നടന്നു് സിറാജുന്നിസയെക്കുറിച്ചു് പ്രസംഗിച്ചു. മഅദനി ഉസ്താദിന്റെ
+വ്അള് കേൾക്കാൻ ആളെറേക്കൂടി. താടിയും മോടിയുമുള്ള സുജായികളത്രയും ലീഗിൽ തുടർന്നെങ്കിലും പണിയും
+തൊരവുമില്ലാത്ത ചെറുബാല്യക്കാർ കുറേപ്പേർ അയ്യെസ്സായി കവാത്തടിച്ചുനടന്നു. ഉസ്താദിനെതിരെ ഒട്ടേറെ
+കേസുകളുണ്ടായി. ആർ. എസ്. എസുകാരുടെ ആക്രമണത്തിൽ മഅദനിയുടെ വലതുകാൽ പോയി. ഇന്ത്യാ
+രാജ്യത്തെ മൊത്തം മുസ്ലീംകളെയും രക്ഷിക്കാൻ ഇറങ്ങിപ്പുറപ്പെട്ടയാൾക്കു് സ്വന്തം കാൽപോലും
+കാത്തുസൂക്ഷിക്കാൻ കഴിഞ്ഞില്ലെന്നു് മന്ത്രി <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">മുസ്തഫ</ref> പരിഹസിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 1992 ഡിസംബർ 6. കറുത്ത ഞായറാഴ്ച. ബാബരി മസ്ജിദിന്റെ മിനാരങ്ങൾ തകർന്നു. പിന്നാലെ
+ഐ. എസ്. എസ്. നിരോധിക്കപ്പെട്ടു. മഅദനി ഒളിവിൽ പോയി. ഒളിവിലിരുന്നുകൊണ്ടു് ഐ. എസ്. എസ്.
+പിരിച്ചുവിട്ട <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">മഅദനി</ref>,
+വെളിയിൽ വന്നു് പീപ്പിൾസ് ഡെമോക്രാറ്റിക് പാർട്ടി രൂപവത്ക്കരിച്ചു. മുസ്ലീം-പിന്നാക്ക-ദലിത് ഐക്യത്തിന്റെ
+പ്രവാചകനായാണു് ഉസ്താദിനെ പിന്നെ നാം കാണുന്നതു്. ബാബരി മസ്ജിദ് പൊളിച്ചതു് ബി. ജെ. പി.,
+പൊളിക്കാൻ കൂട്ടുനിന്നതു് കോൺഗ്രസ്, ഒത്താശ ചെയ്തതു് മുസ്ലീംലീഗ്, <ref target="https://ml.wikipedia.org/wiki/P._V._Narasimha_Rao">നരസിംഹറാവു</ref>
+വിനെ ദജ്ജാലിനോടുപമിക്കുന്ന മഅദനിയുടെ ‘മുസ്ലീംലീഗ് മറുപടി പറയണം’ എന്ന പ്രസംഗക്കാസറ്റ്
+കച്ചവടത്തിൽ റെക്കോർഡിട്ടു. ഭരണത്തിന്റെ തിരക്കിൽ മഅദനിക്കു് മറുപടി പറയാൻ ലീഗുകാർക്കെവിടെ
+സമയം, സൗകര്യം? ചുളയില്ലാത്ത ചക്കയാണു് പി. ഡി. പി.-യെന്നു് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+പരിഹസിച്ചു.
+</p>
+          <p>പള്ളി പൊളിഞ്ഞപ്പോഴും കുഞ്ഞാപ്പയും കൂട്ടരും മന്ത്രിക്കസേരയിൽ അള്ളിപ്പിടിച്ചിരുന്നു. കോൺഗ്രസ് ബന്ധം
+പുനഃപരിശോധിക്കണം എന്നു് <ref target="https://ml.wikipedia.org/wiki/Ebrahim_Sulaiman_Sait">ഇബ്രാഹിം
+സുലൈമാൻസേട്ട്</ref> അഭിപ്രായപ്പെട്ടപ്പോൾ കുഞ്ഞാപ്പ കുപിതനായി. പള്ളി വേറേ, സ്രാമ്പി വേറെ.
+മന്ത്രിസ്ഥാനമില്ലാതെ ദുനിയാവുമില്ല, ആഖിറവുമില്ല. വ്രണിതഹൃദയനായ സേട്ടുസാഹിബ് ലീഗിന്റെ പടിക്കു്
+
+പുറത്തായി. നിരാശാബാധിതരായ ബീരാനും അബൂബക്കറും സേട്ടിനൊപ്പം പോയി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pvnarshimarao.jpg" rendition="gra"/>
+            <figDesc style="thumb">നരസിംഹറാവു</figDesc>
+          </figure>
+          <p> കലങ്ങിയ വെള്ളത്തിൽ മീൻപിടിക്കാൻ കമ്യൂണിസ്റ്റുകാരോളം വിരുതു് മറ്റാർക്കുമില്ല. നാഷനൽ ലീഗ്
+ദേശീയം, യൂനിയൻ ലീഗ് വർഗീയമെന്നു് മാർക്സിസ്റ്റാചാര്യൻ ഗ്രന്ഥം നോക്കി കണ്ടുപിടിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">മഅദനി</ref> യെ
+<ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+യോടുപമിച്ചു. ഒറ്റപ്പാലം ഉപതെരഞ്ഞെടുപ്പിൽ പി. ഡി. പി.-യും ഐ. എൻ. എല്ലും ഇടതുപക്ഷത്തെ സഹായിച്ചു.
+സർവാദരണീയനായ <ref target="https://ml.wikipedia.org/wiki/Panakkad_Sayyid_Muhammad_Ali_Shihab_Thangal">പാണക്കാട്
+മുഹമ്മദലി ശിഹാബ് തങ്ങൾ</ref> നൂറിലേറെ വേദികളിൽ പ്രസംഗിച്ചിട്ടും ഐക്യമുന്നണി സ്ഥാനാർഥി
+അതിഭയങ്കരതോൽവി ഏറ്റുവാങ്ങി. ഗുരുവായൂരിൽ ഒറ്റപ്പാലം ആവർത്തിച്ചു. പി. ഡി. പി പിടിച്ച വോട്ട് ലീഗിന്റെ
+കുഴി തോണ്ടി, <ref target="https://ml.wikipedia.org/wiki/M.P._Abdussamad_Samadani">അബ്ദുസ്സമദ്
+സമദാനി</ref> യെ തോൽപിച്ചു് ഇടതു സ്വതന്ത്രൻ <ref target="https://ml.wikipedia.org/wiki/P.T._Kunhimohammed">പി. ടി.
+കുഞ്ഞുമുഹമ്മദ്</ref> തിരുവനന്തപുരത്തേക്കു് വണ്ടികയറി. സമദാനിയെ രാജ്യസഭാംഗമാക്കിക്കൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+ഗുരുവായൂർക്കാരെ തോൽപിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sulaiman_sait.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇബ്രാഹിം സുലൈമാൻസേട്ട്</figDesc>
+          </figure>
+          <p> ഒറ്റപ്പാലം, ഗുരുവായൂർ തോൽവികളുടെ പാപഭാരം <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref> മേൽ
+ചുമത്തി <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+തടി സലാമത്താക്കി. കാരണവരുടെ സ്ഥാനത്തു് ആദർശധീരൻ വന്നിട്ടും ലീഗുകാരുടെ ‘വികസന’നയത്തിനു്
+യാതൊരു മാറ്റവും ഉണ്ടായില്ല. മൽസരിക്കാൻ തിരൂരങ്ങാടി സീറ്റ് കിട്ടിയതോടെ അന്തപ്പന്റെ തല തികച്ചും
+കുഞ്ഞാപ്പയുടെ കക്ഷത്തിലായി. പി. ഡി. പി.-യും ഐ. എൻ. എല്ലും വെവ്വേറെ സ്ഥാനാർഥികളെ നിറുത്തി
+ഗണ്യമായി വോട്ടുപിടിച്ചെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യെ
+തോൽപിക്കാൻ കഴിഞ്ഞില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/abdussamad_samadani.jpg" rendition="gra"/>
+            <figDesc style="thumb">അബ്ദുസ്സമദ് സമദാനി</figDesc>
+          </figure>
+          <p> 1996-ലെ തെരഞ്ഞെടുപ്പിൽ ഒറ്റക്കു് മൽസരിച്ച പി. ഡി. പി. ചുള പോയിട്ടു് പൊല്ലപോലുമില്ലാത്ത ചക്കയെന്നു്
+തെളിഞ്ഞു. എല്ലാ സീറ്റിലും മഅദനിപാർട്ടിക്കു് ജാമ്യ സംഖ്യ നഷ്ടമായി. ഇടതരുമായി ധാരണയിൽ മൽസരിച്ചിട്ടും
+നാഷനൽ ലീഗ് നിലംതൊട്ടില്ല. യൂനിയൻ ലീഗിനു് തിരു-കൊച്ചി മണ്ഡലങ്ങൾ നഷ്ടമായെങ്കിലും മലപ്പുറം കോട്ട
+സുരക്ഷിതം, നിയമസഭാകക്ഷിക്കു് അമരക്കാരൻ പാണ്ടിക്കടവത്തു കുഞ്ഞാപ്പ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_T_Kunjhimohammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ടി. കുഞ്ഞുമുഹമ്മദ്</figDesc>
+          </figure>
+          <p> 1998-ലെ ലോക്സഭാ തെരഞ്ഞെടുപ്പിനു് തൊട്ടുമുമ്പായാണു് കോഴിക്കോട് ഐസ്ക്രീം പാർലർ
+പെൺവാണിഭക്കേസ് പുറത്തുവരുന്നതു്. ഈ തെരഞ്ഞെടുപ്പു് കഴിഞ്ഞാൽ ഒരു പ്രമുഖ നേതാവു്
+ജയിലിലാകുമെന്നു് <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">മഅദനി</ref>
+പ്രസംഗിച്ചുനടന്നു. <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">ഇ. കെ. നായനാരാ</ref> ണു്
+അക്കാലത്തു് മുഖ്യമന്ത്രി, പി. ശശി പൊളിറ്റിക്കൽ സെക്രട്ടറി. മലക്കുൽ മൗത്തിന്റെ റൂഹിനെ പിടിച്ചവൻ കുഞ്ഞാപ്പ.
+തെരഞ്ഞെടുപ്പു് കഴിഞ്ഞപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">മഅദനി</ref>
+അകത്തു്, <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലി</ref>
+പുറത്തു്! കോയമ്പത്തൂർ സ്ഫോടനക്കേസിൽ പ്രതിയായി അന്നു് പിടിക്കപ്പെട്ട മഅദനി പിന്നെ കേരളം കാണുന്നതു്
+2007 ആഗസ്റ്റ് ഒന്നിനാണു്. അഡ്വക്കറ്റ് ജനറൽ എം. കെ. ദാമോദരന്റെ നിയമോപദേശത്തിൽ ഐസ്ക്രീം കേസ്
+അട്ടിമറിഞ്ഞു <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+പ്രതിയായില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> 2001-ലെ തെരഞ്ഞെടുപ്പാകുമ്പോഴേക്കും മഅദനിക്കു് മാനസാന്തരമുണ്ടായി. ഐക്യജനാധിപത്യമുന്നണിക്കു്
+പിന്തുണ പ്രഖ്യാപിച്ചു. പി. ഡി. പി. പ്രവർത്തകർ വീടുവീടാന്തരം കയറി വോട്ടുപിടിച്ചു: <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> അധികാരത്തിൽ
+വന്നാലുടൻ ഉസ്താദിനെ മോചിപ്പിക്കും! ആദർശധീരൻ വീണ്ടും മുഖ്യമന്ത്രിയായി, വികസനനായകൻ
+വ്യവസായമന്ത്രിയും. <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">മഅദനി</ref>
+ജയിലിൽതന്നെ. പഹയനു് പരോൾ കൊടുത്താൽ നാട്ടിൽ സാമുദായിക ലഹളയുണ്ടാകുമെന്നു് പോലീസ്
+മേധാവി റിപ്പോർട്ട് കൊടുത്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. കെ. നായനാർ</figDesc>
+          </figure>
+          <p> ലീഗിനകത്തു് കുഞ്ഞാപ്പ പരമശക്തനായി. ഉചിതമായ സമയത്തു് യുക്തമായ തീരുമാനം കൈകൊള്ളാൻ
+സംസ്ഥാനകമ്മിറ്റി <ref target="https://ml.wikipedia.org/wiki/Panakkad_Sayyid_Muhammad_Ali_Shihab_Thangal">ശിഹാബ്
+തങ്ങളെ</ref> ചുമതലപ്പെടുത്തും, തങ്ങൾ എന്തു് തീരുമാനിക്കണമെന്നു് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+തീരുമാനിക്കും. വ്യവസായ-വിവര സാങ്കേതിക വകുപ്പുകളിൽ വികസനം ജിൽജില്ലായി നടന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KR_Gouriamma.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ.ആർ. ഗൗരിയമ്മ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Ebrahim_Sulaiman_Sait">സുലൈമാൻ
+സേട്ടു</ref> വിന്റെ അതേ വിധിയുണ്ടായി ബനാത്ത്വാലക്ക്. 2004-ലെ തെരഞ്ഞെടുപ്പിൽ അഖിലേന്ത്യാ
+പ്രസിഡന്റിനു് സീറ്റില്ല. അഹമ്മദിനെ പൊന്നാനിക്കു് മാറ്റി, മഞ്ചേരി മജീദിനും രാജ്യസഭാസീറ്റ് കോടീശ്വരൻ
+വഹാബിനും കൊടുത്തു. ഹംക്കുൽ ബഡ്ക്കൂസുകളായ മഞ്ചേരിക്കാർ മജീദിനെ തോൽപിച്ചു് കൈയിൽ
+വെച്ചുകൊടുത്തപ്പോഴും <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+ക്കു് കൂസലുണ്ടായില്ല. കുന്നു കുലുങ്ങും; കുഞ്ഞാപ്പ കുലുങ്ങില്ല. ലോക്സഭാ തെരഞ്ഞെടുപ്പുപരാജയം ആദർശധീരന്റെ
+പിടലിക്കുവെച്ചു് വികസനനായകൻ കൈകഴുകി. കൊരമ്പയിൽ ഹാജി മരിച്ച ഒഴിവിൽ സംസ്ഥാന ജനറൽ
+സെക്രട്ടറിയുമായി. അന്തപ്പന്റെ സ്ഥാനത്തു് കുഞ്ഞൂഞ്ഞു് വന്നപ്പോഴും ലീഗുകാരുടെ ഖുറൈശിത്തരത്തിനു്
+കുറവേതുമുണ്ടായില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാണി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+സായ്വ് അങ്ങനെ ബാഗ്ദാദിലെ ഖലീഫയെക്കാൾ പ്രതാപത്തിലിരിക്കും കാലത്താണു് റജീനയുടെ പുറപ്പാടു്.
+ഇന്ത്യാവിഷൻ പിന്നിൽനിന്നും മാതൃഭൂമി മുന്നിൽനിന്നും കുത്തി. വിനീതനെ പിന്തുണക്കാൻ ചന്ദ്രികയല്ലാതെ ഒരു
+പത്രവും ഉണ്ടായില്ല. സ്വയം പ്രവാചകനായി വിശേഷിപ്പിച്ചപ്പോൾ, ദീനുൽ ഇസ്ലാമിനെതിരായ ഗൂഢാലോചന
+എന്നാക്രോശിച്ചപ്പോൾ മലപ്പുറം കാക്കമാർ വാപൊത്തിച്ചിരിച്ചു.
+</p>
+          <p>പാണ്ടിക്കടവത്തു് കുഞ്ഞാപ്പയുടെ പതനം പഴുപ്ലാച്ചക്കയുടേതുപോലെ പരിതാപകരമായിരുന്നു. ആദ്യം
+കാക്ക കൊത്തി. പിന്നെ അണ്ണാൻ തുരന്നു. മഴ പെയ്തു വെള്ളമിറങ്ങി കുരു മുളച്ചു. ചീഞ്ഞളിഞ്ഞു് ഈച്ചയാർത്തു.
+ഒടുവിൽ നിലത്തുവീണു് പൊട്ടി. മകന്റെ നിക്കാഹ് കഴിയുംവരെ പിടിച്ചുനിന്നു. പിന്നെ രാജിക്കത്തു് കൊടുത്തു്
+കൊടപ്പനക്കലേക്കു് തിരിച്ചുചെന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PKNarayanaPanicker.jpg" rendition="gra"/>
+            <figDesc style="thumb">നാരായണപ്പണിക്കർ</figDesc>
+          </figure>
+          <p> സാക്ഷികൾ കൂറുമാറി, പ്രോസിക്യൂട്ടർ പ്രതിഭാഗം ചേർന്നു, തെളിവുകൾ ശങ്കാപങ്കിലമായി.
+കേസ് ഐസ്ക്രീം പോലെ അലിഞ്ഞുപോയി. കുഞ്ഞാപ്പ പുലിയാണെന്നു് ലീഗുകാർ പാടിനടന്നു. 2006-മാണ്ടിൽ <ref target="https://ml.wikipedia.org/wiki/P.K._Narayana_Panicker">നാരായണപ്പണിക്കർ</ref>
+ക്കു് സ്വീകാര്യമായ രീതിയിൽ നരേന്ദ്രൻ കമീഷൻ റിപ്പോർട്ട് നടപ്പാക്കി. അനന്തരം <ref target="https://ml.wikipedia.org/wiki/Nalakath_Soopy">നാലകത്ത് സൂപ്പി</ref> ക്കും
+<ref target="https://ml.wikipedia.org/wiki/Ishaq_kurikkal">ഇസ്ഹാക്ക്
+കുരികൾ</ref> ക്കും സീറ്റ് നിഷേധിച്ചു. സുരക്ഷിതമായ മലപ്പുറത്തുനിന്നു് <ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">എം. കെ. മുനീറി</ref> നെ
+ജയസാധ്യത കുറഞ്ഞ മങ്കടയിലേക്കു് പറഞ്ഞുവിട്ടു. തിരുവമ്പാടി മായിൻഹാജിക്കും കൊടുവള്ളി മുരളിക്കും
+കൊടുത്തു. കുറ്റിപ്പുറത്തു് പുലിയുടെ മീശപറിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/K.T._Jaleel">കെ. ടി. ജലീൽ</ref> എന്നൊരു
+ചെറുബാല്യക്കാരൻ കളത്തിലിറങ്ങി. കാന്തപുരം മുസ്ല്യാരു മുതൽ <ref target="https://ml.wikipedia.org/wiki/Kamala_Surayya">കമലാ സുറയ്യ</ref> വരെ
+ജലീലിനു് പിന്തുണക്കാർ. ജമാഅത്തെ ഇസ്ലാമിയും പി. ഡി. പി.-യും സംസ്ഥാന വ്യാപകമായി ഇടതുപക്ഷത്തെ
+പിന്തുണച്ചു. ഒടുവിൽ മുസീബത്തിന്റെ നായ മൂത്താപ്പാനേം കടിച്ചു. <ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">മുനീറും</ref> മുഹമ്മദ് ബഷീറും
+തോറ്റു, മുരളിയും മായിൻഹാജിയും തോറ്റു; പാണ്ടിക്കടവത്തു് കുഞ്ഞാപ്പയും തോറ്റു!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MK_Muneer.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കെ. മുനീർ</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് തോറ്റതിന്റെ ഉത്തരവാദിത്തം <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+സാഹിബിനാണെന്നു് ചില ലോക ഹറാമികൾ കണ്ടുപിടിച്ചു. തൊട്ടുതലേന്നുവരെ കുഞ്ഞാപ്പ പുലിയാണു്,
+കടുവയാണു്, കാട്ടുപോത്താണു്, കാണ്ടാമൃഗമാണെന്നു് പാടിനടന്ന ചില പടുജാഹിലുകളുമുണ്ടായിരുന്നു.
+അക്കൂട്ടത്തിൽ. തെരഞ്ഞെടുപ്പു് ഫുട്ബാൾ കളിപോലെയാണു്. രണ്ടിലൊരു കൂട്ടർ ജയിച്ചേ മതിയാകൂ. ഒരുഭാഗം
+ജയിച്ചാൽ മറ്റവർ തോൽക്കും. അതിലിത്ര തൊള്ള പൊളിക്കാനൊന്നുമുണ്ടായിരുന്നില്ല. പിന്നെ, ലീഗ് മാത്രമല്ല
+തോറ്റതു്. ഐക്യമുന്നണിയിലെ സകല കക്ഷികൾക്കുമുണ്ടായി തിരിച്ചടി. <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> യോ ഉമ്മനോ സ്ഥാനമൊഴിഞ്ഞില്ല. <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> യോ പിള്ളയോ
+<ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരി</ref> യോ
+രാഘവനോ രാഷ്ട്രീയമുപേക്ഷിച്ചു് കാശിക്കു് പോയില്ല. അവരുടെയൊന്നും രാജി ആരും ചോദിച്ചുമില്ല. തീർന്നില്ല,
+യൂനിയൻ ലീഗിന്റെ സകല തീരുമാനങ്ങളും കൈക്കൊണ്ടിരുന്നതു് <ref target="https://en.wikipedia.org/wiki/Pukkoya_Tangal">പാണക്കാടു് തങ്ങളു</ref>
+ടെ തിരുനാമത്തിലായിരുന്നല്ലോ? പരാജയത്തിന്റെ കാര്യത്തിൽ സംസ്ഥാന പ്രസിഡന്റിനു് യാതൊരു
+ഉത്തരവാദിത്തവുമില്ലേ? പാണ്ടിക്കടവത്തു് കുഞ്ഞാപ്പ ന്യായവാദത്തിനൊന്നും നിന്നില്ല. ലീഗിന്റെ ജനറൽ
+സെക്രട്ടറിപദം ചുമ്മാ ഒഴിഞ്ഞുകൊടുത്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KT_Jaleel.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ടി. ജലീൽ</figDesc>
+          </figure>
+          <p> പാണ്ടിക്കടവത്തു് മുഹമ്മദ്ഹാജിയുടെ മകനു് പകരംവെക്കാൻ മറ്റേതു് നേതാവുണ്ടു് മുസ്ലീംലീഗിൽ? ആരുമില്ല
+സാർ. നോവൺ. <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ചി</ref> ന്റെ
+മകനെയും <ref target="https://ml.wikipedia.org/wiki/K._Avukkaderkutty_Naha">നഹ
+സായ്വി</ref> ന്റെ മകനെയും കൂട്ടി മൂന്നുകൊണ്ടു് ഗുണിച്ചാലും അരകുഞ്ഞാപ്പയാകില്ല.
+</p>
+          <p>ജനറൽ സെക്രട്ടറി സ്ഥാനത്തു് ആദ്യം <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">അഹമ്മദ് സാഹിബി</ref> നെ
+അവരോധിച്ചു. പിന്നെ <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+ക്കു് അധികച്ചുമതല നൽകി. ഇപ്പോഴിതാ, <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">അഹമ്മദ് സാഹിബ്</ref> തടി
+സേഫാക്കുന്നു, സഫറാളിയായിപ്പോയ മഅദനി മടങ്ങിവരുന്നു. ഇനിയെന്തു കരണീയം? പാണ്ടിക്കടവത്തു്
+കുഞ്ഞാപ്പതന്നെ ലീഗിനു് വീണ്ടും നേതാവു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_Avukkaderkutty_Naha.jpg" rendition="gra"/>
+            <figDesc style="thumb">നഹ സായ്വ്</figDesc>
+          </figure>
+          <p> 2007 ആഗസ്റ്റ് 2. കേരള മുസ്ലീം ചരിത്രത്തിലെ പരമപ്രധാനമായ ദിവസം. കോഴിക്കോട്ട് ചേർന്ന ലീഗ്
+സംസ്ഥാനകമ്മിറ്റി <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">പി. കെ.
+കുഞ്ഞാലിക്കുട്ടി</ref> യെ ജനറൽ സെക്രട്ടറിയായും <ref target="https://ml.wikipedia.org/wiki/Sayed_Ummer_Bafakhy">ഉമർബാഫഖി
+തങ്ങളെ</ref> ട്രഷററായും ഐകകണ്ഠ്യേന തെരഞ്ഞെടുത്തു. <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">അബ്ദുന്നാസിർ
+
+മഅദനി</ref> യല്ല അക്ബർ പാദുഷ വന്നാലും ലീഗുകാർക്കിനി പേടിക്കാനില്ല.
+</p>
+          <p>പി. ഡി. പി. പോലെ കേവലം ഒരാൾക്കൂട്ടമല്ല മുസ്ലീംലീഗ്, സുസംഘടിതമായ ഒരു രാഷ്ട്രീയപാർട്ടി. <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+ക്കു് സമശീർഷനല്ല, <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">മഅദനി</ref>,
+കുഞ്ഞാപ്പക്കു് കുഞ്ഞാപ്പയുടെ വഴി, മഅദനിക്കു് മഅദനി മാർഗം. പശു നിൽക്കുന്നിടത്തു് പശുവും അമ്മോശൻ
+നിൽക്കുന്നിടത്തു് അമ്മോശനും നിൽക്കുന്നതാണു് ഉചിതം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ramesh_Chennithala.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമേശ് ചെന്നിത്തല</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+ശൈലി മാറ്റുമോ എന്നു് ചോദിക്കുന്നവരുണ്ടു്. ബദർ മുഴുവൻ പാടിക്കേട്ടശേഷം അബുജാഹിൽ ദീനിൽ കൂടിയോ
+എന്നു് ചോദിക്കുന്നതു് പോലെയാണതു്. എടുത്തതിനു് അടുത്ത കൂലികൊടുക്കുന്നവനും വഴിപ്പെട്ടോർക്കും
+വഴിപ്പെടാത്തവർക്കും ഒതുക്കം ചെയ്യുന്നവനുമായ അല്ലാഹു കുഞ്ഞാപ്പയെയും പാർട്ടിയെയും കാത്തുരക്ഷിക്കട്ടെ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thadiyunangiya Plavu
+Chulayillaththa Chakka (ml: തടിയുണങ്ങിയ പ്ലാവു് ചുളയില്ലാത്ത ചക്ക).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Thadiyunangiya Plavu Chulayillaththa Chakka, കെ. രാജേശ്വരി, തടിയുണങ്ങിയ പ്ലാവു് ചുളയില്ലാത്ത
+ചക്ക, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Tornai_The_Jewelry_Maker.jpg">The
+Jewelry Maker,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Gyula_Tornai">Gyula Tornai</ref>
+ (1861–1928). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-plavu.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-plavu.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

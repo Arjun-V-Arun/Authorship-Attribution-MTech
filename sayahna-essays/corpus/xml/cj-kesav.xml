@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കേശവദേവിന്റെ നാടകരീതി</title>
+          <title xml:lang="en" type="main">Kesavadevinte Nadakarithi</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>JS Aswathy</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Lalitha Gouri</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">April 7, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കേശവദേവിന്റെ നാടകരീതി</title>
+              <title xml:lang="en" type="main">Kesavadevinte Nadakarithi</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-04-08</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Kesavadevinte Nadakarithi</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>കേശവദേവിന്റെ നാടകരീതി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-04-08</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Supplication.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:In%C3%AAs_de_Castro%27s_Supplication.jpg">Appeal
+by In\^es de Castro,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Vieira_Portuense">Vieira
+Portuense</ref>  (1765–1805). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കേശവദേവിന്റെ നാടകരീതി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കേശവദേവിന്റെ നാടകരീതി</head>
+        <div type="lsection">
+          <p style="noindent">ചെറുകഥാസാഹിത്യത്തിൽ നാം കാണുന്ന കേശവദേവിനെയല്ല, ദേവിന്റെ
+നാടകങ്ങളിൽ നാം കാണുന്നതു്. അദ്ദേഹത്തിനു സംഗീതനാടകസംഘങ്ങളുമായി
+ദീർഘകാലസമ്പർക്കമുണ്ടായിരുന്നിട്ടുണ്ടു്. വേദനാകരമായ പല അനുഭവങ്ങളും അവിടെ
+അദ്ദേഹത്തിനനുഭവിക്കേണ്ടിവന്നിട്ടുണ്ടു്. ‘സുഹൃത്തു്’, ‘ജാതി’ എന്നീ രണ്ടു സംഗീത നാടകങ്ങൾ അദ്ദേഹം
+എഴുതുകയും പരിശീലിപ്പിക്കുകയും ചെയ്തു. ഈ രണ്ടു നാടകങ്ങളുടെയും ദയനീയമായ പരാജയം കാണുമ്പോൾ
+അതിൽ ദേവിനു പൂർണ്ണനിർമ്മാണ സ്വാതന്ത്ര്യമുണ്ടായിരുന്നില്ലെന്നു വ്യക്തമാകുന്നതാണു്. കച്ചവടത്തിനും
+സ്ത്രീകളുമായുള്ള സ്വൈരവിഹാരത്തിനും വേണ്ടി മാത്രം നാടകക്കമ്പനികളുണ്ടാക്കുന്ന ചിലരുടെ വലയിലാണു് ദേവ്
+കുടുങ്ങിയതു്. അവസാനം ഒരുതരത്തിൽ ദേവ് അതിൽനിന്നു തലയൂരി. ഈ അനുഭവങ്ങളുടെ പാടുകൾ ദേവിന്റെ
+നാടകസാഹിത്യത്തിൽ ഉടനീളം കാണാവുന്നതാണു്—കുറവുകളിലും കഴിവുകളിലും ഒന്നുപോലെ. ഈ
+അനുഭവങ്ങളുടെ നേരിട്ടുള്ള സന്താനമാണു് ‘നാടകകൃത്തു്’. മലയാളസംഗീതനാടകവേദിയെപ്പറ്റി അതൊരു നല്ല
+പഠനവുമാണു്. അതിലുപരിയായി, ഗുണങ്ങളും ദോഷങ്ങളും ശരിയായി ഉയർത്തിക്കാണിക്കുന്നതരത്തിലുള്ള ഒരു
+വിമർശനം കൂടിയാണതു്—ദേവിന്റെ നാടകകലയെപ്പറ്റിത്തന്നെ.
+</p>
+          <p>വെറും കച്ചവടമനഃസ്ഥിതിക്കാരനായ ഒരു ‘പ്രൊപ്രൈറ്ററു’ടെ മുമ്പിൽ ആദർശശാലിയായ ഒരു
+നാടകകൃത്തിനു വേണ്ടിവരുന്ന എതിർപ്പുകളാണു് ഇതിവൃത്തം. കൈത്തോക്കുകളും അട്ടഹാസങ്ങളും,
+പൊട്ടലുകളും ധാരാളമായിട്ടുള്ള ഒരു ‘ചരിത്രം’ എഴുതിക്കിട്ടാൻ ആവശ്യപ്പെടുന്ന കമ്പനിയുടമസ്ഥനും, നാടകവും
+ഭ്രാന്തും തമ്മിൽ വേർതിരിപ്പാൻ കഴിവില്ലാത്ത നടീനടന്മാരും ചേർന്ന ആ സംഘത്തിന്റെ ചിത്രത്തേക്കാൾ നല്ല
+ഒരു വിമർശനം സംഗീതനാടകപ്രസ്ഥാനത്തെപ്പറ്റി മലയാളസാഹിത്യത്തിലുണ്ടായിട്ടില്ല. നായിക, നായകൻ,
+വില്ലൻ കൊമേഡിയൻ മുതലായ ടൈപ്പു് പാത്രങ്ങളും. അവരുടെ യാന്ത്രികസ്വഭാവവും വിചിത്രകലാബോധവും
+എല്ലാം തികഞ്ഞ റിയലിസത്തോടുകൂടി ചിത്രീകരിക്കാൻ ദേവിനു കഴിഞ്ഞിട്ടുണ്ടു്. നോട്ടിസെഴുത്തും. ‘ചരിത്രത്തിനു’
+പേരിടീലും ‘വർണ്ണമട്ടു’കൾ തിരഞ്ഞെടുക്കുന്നതിലുള്ള ജാഗ്രതയും എല്ലാം കൂടി നോക്കിയാൽ ഹാസ്യനാടക
+പ്രസ്ഥാനത്തിൽ ദേവിന്റെ അദ്വീതിയസ്ഥാനം വ്യക്തമാകും. ഈ നാടകത്തിൽ പ്രത്യേകം ശ്രദ്ധിക്കുവാനുള്ള
+മറ്റൊന്നുണ്ടു്—നാടകകൃത്തിന്റെ നാടകീയവീക്ഷണം. സംഗീതനാടകത്തിന്റെ അനുഭവം കൊണ്ടു് ദേവിനു
+രംഗസ്ഥലത്തിന്റെ പരിമിതികളും സാദ്ധ്യതകളും വ്യക്തമായി മനസ്സിലായിട്ടുണ്ടു്. അദ്ദേഹത്തിന്റെ നാടകങ്ങൾ
+അഭിനയിക്കുമ്പോൾ രംഗത്തിന്റെ ഭൂരിഭാഗവും തരിശായിക്കിടക്കുന്ന പതിവില്ല. എന്നാൽ, രംഗത്തു വേണ്ടത്ര
+സ്ഥല സൗകര്യമില്ലെന്നു തോന്നുകയുമില്ല. എവിടെ നിന്നു പ്രവേശിക്കണം, ഏതു വഴി ഇറങ്ങിപ്പോകണം. ഈ
+പ്രശ്നങ്ങളൊന്നും അവിടെയില്ല. അതെല്ലാം മുൻകൂട്ടി കണ്ടുതന്നെയാണു് അദ്ദേഹം നാടകങ്ങൾ എഴുതുന്നതു്.
+അദ്ദേഹത്തിന്റെ കൃതികളിലെല്ലാം അഭിനയിക്കാനുള്ളതെന്തെങ്കിലുമുണ്ടായിരിക്കും. ഇത്രയധികം
+രംഗബോധമുള്ള മറ്റൊരു നാടകകൃത്തു് മലയാളത്തിലുണ്ടോ എന്നു സംശയമാണു്. ചിലതരം പാത്രങ്ങളെ
+സൃഷ്ടിക്കുന്നതിലും ദേവിനു് അസാമാന്യവൈദഗ്ദ്ധ്യമുണ്ടു്. പ്രത്യേകിച്ചും ഹാസ്യപാത്രങ്ങൾ. സംഭാഷണ രചനയിലും
+ദേവ് സമർത്ഥനാണു്. അദ്ദേഹത്തിന്റെ ചെറുകഥകളിൽ കാണുന്ന നിസ്സീമമായ സംഭാഷണശൈലി
+നാടകത്തിലേക്കും സംക്രമിച്ചിട്ടുണ്ടു്. കഴിവുള്ള നടന്മാരുടെ കൈയിൽ ദേവിന്റെ ചില പാത്രങ്ങൾ
+അതിപ്രഭയോടുകൂടി ശോഭിക്കും. ദേവിന്റെ ഫലിതവും ഉത്തമമാണു്. ഇത്രമാത്രമായിരുന്നെങ്കിൽ ദേവിനെ ഒരു
+തികഞ്ഞ നാടകകൃത്തായി ഗണിക്കാമായിരുന്നു. എന്നാൽ, നിർഭാഗ്യവശാൽ സംഗീതനാടകത്തിന്റെ
+സ്വാധീനശക്തി അദ്ദേഹത്തെ ചില പരാജയങ്ങളിലേക്കും നയിച്ചിട്ടുണ്ടു്.
+</p>
+          <p>‘നാടകകൃത്തി’ലെ നായകൻ ഏറ്റവും കൃത്രിമമായ ഒരു ജീവിയാണു്. ‘കലാകാരൻ’ എന്നു പറഞ്ഞു് ഒരു
+പ്രത്യേകതരം ജീവിയുണ്ടെന്നു മനുഷ്യരെ തെറ്റിദ്ധരിപ്പിക്കുന്ന ഒരു മനുഷ്യൻ. പ്രൊപ്രൈറ്ററുടെ ചിത്രവും വളരെ
+സ്വാഭാവികമായിട്ടുണ്ടെന്നു പറഞ്ഞുകൂടാ. ഇവർ രണ്ടും കഥകളിയിലെ സല്പാത്രവും ദുഷ്പാത്രവും പോലെ
+അതിശയോക്തിപരമായിട്ടുണ്ടു്. ദേവിന്റെ നാടകസമ്പ്രദായത്തിൽ അതു കടുത്ത ഒരു അപരാധമല്ലെന്നു
+വേണമെങ്കിൽ പറയാം. കാരണം, ദേവിന്റെ നാടകങ്ങൾ പ്രൗഢനാടകങ്ങളല്ല. ‘ബർലെസ്കുകളാ’ണു് (ഒരുതരം
+ഹാസ്യനാടകം). പാത്രങ്ങൾക്കെല്ലാം അല്പം കൂടുതൽ ചായംതേച്ചു് രംഗത്തിറക്കുക. അവർ വ്യക്തികളായിട്ടല്ല
+അവതരിക്കുന്നതു്; ഓരോ ആശയത്തിന്റെ പ്രതിനിധികൾ അഥവാ പ്രതീകങ്ങൾ ആയിട്ടാണു്.
+ചിത്രീകരിക്കപ്പെടുന്ന സംഭവങ്ങളും യഥാർത്ഥത്തിൽനിന്നു കുറേക്കൂടി മുഴുപ്പിച്ചുകാണിക്കുന്നു. ഫലിതമാണു്
+ഈവക നാടകങ്ങളുടെ ജീവനാഡി. വെറുതെ ചിരിപ്പിക്കാനുള്ള ഫലിതമല്ല. വിമർശനപരമായ
+ആക്ഷേപഹാസ്യം. ഇതു സാധിക്കുന്നതിനുവേണ്ടിയാണു് വില്ലന്റെ മെലോഡ്രാമയും, കൊമേഡിയന്റെ വങ്കത്തവും
+രംഗത്തു് ഉദാഹരിച്ചുകാണിക്കുന്നതു്. ആ ലക്ഷ്യത്തിൽ ദേവ് തികച്ചും വിജയിക്കുന്നുണ്ടു്. അത്തരം രംഗങ്ങളിൽ
+നിന്നു പെട്ടെന്നു മൃദുലവികാരങ്ങളിലേക്കു സംക്രമിച്ചാൽ പ്രായേണ പരാജയമായിരിക്കും ഫലം. നാടകം മുഴുവനും
+
+ഫലിതമയമായി എഴുതാൻ അദ്ദേഹം തുനിഞ്ഞിരുന്നെങ്കിൽ വിശ്വോത്തരമായ കോമഡികൾ സൃഷ്ടിക്കാൻ
+അദ്ദേഹത്തിനു കഴിഞ്ഞേനെ. മെലോഡ്രാമയെ പരിഹസിച്ചുകൊണ്ടെഴുതിയ നാടകത്തിൽത്തന്നെ
+അല്പമൊക്കെ മെലോഡ്രാമയുണ്ടു്. സംഗീതനാടകത്തെ സംബന്ധിച്ചിടത്തോളം, മെലോഡ്രാമ അത്രയൊരു
+തെറ്റല്ല. സംഗീതം തന്നെ അസ്വാഭാവികമാണു്. അക്കൂട്ടത്തിൽ കുറച്ചു് മെലോഡ്രാമയും കൂടിച്ചേർന്നാൽ വളരെ
+കൃത്രിമമാകയില്ല. പക്ഷേ, ഗദ്യനാടകത്തിനും സംഗീതനാടകത്തിനും രണ്ടാണല്ലോ മാനദണ്ഡം. ശബ്ദസാധകം
+ചെയ്യുകയെന്ന പതിവില്ലാത്ത നമ്മുടെ രംഗവേദിയിൽ ഇടയ്ക്കിടയ്ക്കെങ്കിലും കുറച്ചു ശബ്ദമുയർത്തി പറയുവാൻ
+അവസരം കൊടുത്തില്ലെങ്കിൽ അഭിനയം തീരെ നിർജജീവമായിത്തീരും. കാണികൾക്കെന്നല്ല നടനുതന്നെയും
+അതു ദുസ്സഹവുമാണു്. എങ്കിലും, ഗദ്യനാടകത്തിൽ മെലോഡ്രാമ പ്രയോഗിച്ചാൽത്തന്നെ അതിനു വളരെ
+പരിമിതികളുണ്ടു്. ചില സ്ഥലങ്ങളിൽ ദേവ് ഈ പരിധികൾ ലംഘിക്കുന്നില്ലേ എന്നു സംശയിക്കുവാൻ
+അവകാശമുണ്ടു്. ഇതിനും പുറമെ, ‘നാടകകൃത്തി’ൽ പാട്ടുകൾ ചേർത്തതു് ക്ഷന്തവ്യമല്ല. അതിൽനിന്നു്
+ഒളിച്ചോടിയിട്ടും സംഗീതനാടകത്തിന്റെ ദുർഭൂതം ദേവിനെ ബാധിച്ചു എന്നുമാത്രമാണതിനർത്ഥം.
+‘നാടകകൃത്തിനൊ’രു ചരിത്രമുണ്ടു്. ആ കഥ ദേവിന്റെ വിജയത്തെയും പരാജയത്തെയും ഒരുപോലെ
+കാണിക്കുന്നുണ്ടു്. സംഗീതനാടകത്തോടുള്ള തീവ്രപ്രതിഷേധത്തിന്റെ ഫലമായി ദേവ് ‘റിഹേഴ്സൽ ക്യാമ്പ്’
+എന്ന പേരിൽ ഒരു ഏകാങ്കനാടകമെഴുതി. സർവഥാ പരിപൂർണ്ണമായ ആ ഏകാങ്കിയുടെ ഊതിവീർപ്പിച്ച
+രൂപമാണു് ‘നാടകകൃത്തു്’. രവിയുടെ ജീവിതത്തിന്റെ ചില വശങ്ങൾകുടി കൂട്ടിച്ചേർത്തപ്പോൾ നാടകത്തിന്റെ
+അംഗിയായ രസം ഫലിതത്തിൽനിന്നു മറ്റെന്തിലേക്കോ മാറി. അവിടെ പരാജയവും ആരംഭിച്ചു.
+</p>
+          <p>ദേവിന്റെ മറ്റു നാടകങ്ങളും പ്രതിഷേധത്തിന്റെ നാടകങ്ങളാണു്. ‘മുന്നോട്ടു്’ ചിത്രീകരിക്കുന്നതു്
+ദേശീയവാദത്തിന്റെ അടിസ്ഥാനസ്വഭാവമായ സ്വാർത്ഥതയെയാണു്. ഉള്ളവനും ഇല്ലാത്തവനും കൂടിച്ചേർന്നു
+സ്വാതന്ത്ര്യസമരം നടത്തി. വിജയത്തിലെത്തിയപ്പോൾ കാണാം, ദേശീയമുതലാളി തലേന്നുവരെ വിദേശീയരോടു
+സമരം ചെയ്തുകൊണ്ടിരുന്ന തൊഴിലാളിയുടെമേൽ കുതിര കയറുന്നതു്. ദേവിന്റെ ഏറ്റവും വിജയകരമായ നാടകം
+ഇതാണു്. ഈ നാടകത്തിൽ സംഗീതനാടകത്തിന്റെ പാരമ്പര്യമേ കാണുന്നില്ല. പലയിടങ്ങളിലും പാത്രസൃഷ്ടി
+കുറേക്കൂടി നന്നാക്കാൻ കഴിയുമായിരുന്നു. എങ്കിലും, ആകെകൂടി എടുത്തുനോക്കിയാൽ മലയാളത്തിലെ ഏറ്റവും
+നല്ല നാടകങ്ങളിൽ ഒന്നു് ‘മുന്നോട്ടു്’ ആണെന്നു പറയാം. അഭിനയിക്കുവാനും ‘മുന്നോട്ടു്’ ഉത്തമമാണു്. പക്ഷേ,
+അഭിനയത്തിന്റെ കാര്യത്തിൽ നാടകത്തിന്റെ മേന്മ മാത്രമല്ലല്ലോ നോക്കേണ്ടതു്. സാധാരണക്കാരന്റെ
+കലാബോധവും നാട്ടിലെ പൗരസ്വാതന്ത്ര്യത്തിന്റെ നിലവാരവുമാണു് ആദ്യത്തെ നിബന്ധനകൾ.
+</p>
+          <p>‘പ്രധാനമന്ത്രി’ അത്രയധികം വിജയിച്ചിട്ടുണ്ടെന്നു പറയുക സാദ്ധ്യമല്ല. നീറുന്ന ഒരു അനീതിയാണു് വിഷയം.
+പക്ഷേ, അതിനുവേണ്ടത്ര ശക്തി ചെലുത്താൻ കഴിഞ്ഞിട്ടില്ല. പാത്രങ്ങളുടെ ഹാസ്യചിത്രങ്ങളാണു്
+പ്രധാനമന്ത്രിയിൽ കാണുന്നതു്. ഈ നാടകത്തിൽ അദ്ദേഹം ശ്രമിച്ചതു് ഗംഭീരമായ ഒരു ദുരന്തനാടകം
+രചിക്കാനാണു്. സാധിച്ചതോ ഒരു പ്രഹസനസൃഷ്ടിയും. ദേവ് ‘പ്രധാനമന്ത്രി’യെ വെറുക്കുന്നു.
+ബഹുജനപ്രാതിനിധ്യവും പേറി ചൂഷണത്തിനു നടക്കുന്ന സകല സ്വാർത്ഥമതികളെയും വെറുക്കുന്നു. അതു
+ന്യായവുമാണു്. പക്ഷേ, ഒരു നാടകകൃത്തു് തന്റെ പാത്രങ്ങളോടു നിഷ്പക്ഷതയുള്ളവനായിരിക്കണം. അയാൾക്കു
+കക്ഷിപിടിക്കാൻ അവകാശമില്ല. തന്റെ പാത്രങ്ങൾക്കു പച്ചയും താടിയും കൊടുത്തു പുറത്തിറക്കിയാൽ അതു
+യാഥാർത്ഥ്യത്തിന്റെ ചിത്രമായിരിക്കുകയില്ല, കാരിക്കേച്ചറായിരിക്കും, ഫലിതമെന്ന നിലയിൽ അതു വിജയിക്കും.
+അതിനു് ആശയപരമായ മൂല്യവുമുണ്ടു്. പക്ഷേ, പ്രൗഢനാടകമെന്നനിലയിൽ അതിനു മെച്ചം കുറവാണു്. അഥവാ
+ഒട്ടും തന്നെയില്ല. പ്രധാനമന്ത്രിയുടെ മക്കളാണു് ‘തസ്കരസംഘ’വും, ‘മന്ത്രിയാക്കല്ലേ’യും. ഇവയിലെല്ലാം പൊതുവേ
+പാത്രസൃഷ്ടിയിൽ പരാജയം സംഭവിച്ചിട്ടുണ്ടു്. ചില പ്രത്യേകവ്യക്തികളുടെ ചിത്രീകരണത്തിനു
+ശ്രമിച്ചതുകൊണ്ടാണിങ്ങനെ വന്നതു്. പാത്രസൃഷ്ടിയിൽ മാതൃക കണ്ടെടുക്കുന്ന സമ്പ്രദായം തെറ്റല്ല. എങ്കിലും.
+മാതൃകകളുടെ ആന്തരികസ്വഭാവമല്ലാതെ പുറമെയുള്ളതൊന്നും അനുകരണയോഗ്യമല്ല. പ്രത്യേകിച്ചും പേരുകൾ
+അനുകരിക്കുന്ന സമ്പ്രദായം നിഷിദ്ധമാണു്. അതിൽ ബ്ലാക്ക് മെയിലിങ്ങിന്റെ ചുവ വരുന്നുവെന്നു മാത്രമല്ല കുഴപ്പം.
+താൽക്കാലികമായ അതിന്റെ പ്രാധാന്യം കുറഞ്ഞുകഴിഞ്ഞാൽ കൃതിതന്നെ വിസ്മരിക്കപ്പെട്ടേക്കാം. എന്നല്ല,
+മാതൃകയായി എടുത്ത വ്യക്തിതന്നെ സാഹചര്യത്തിനടിമപ്പെട്ടു സമൂലം മാറിക്കൂടെന്നുമില്ല.
+</p>
+          <p>നാടകങ്ങളിൽനിന്നു് ഏകാങ്കികളിലെത്തുമ്പോൾ ചെറുകഥകളിലെ ദേവിനെ നാം ഒരിക്കൽക്കൂടി കാണുന്നു.
+‘സമരകവി’ എന്ന സമാഹാരത്തിലെ രണ്ടെണ്ണം സംഭാഷണപ്രധാനമായ ചെറുകഥകളാണെന്നുതന്നെ പറയാം.
+‘ഇരുളിന്റെ മറവിൽ’ എന്ന കൃതി ജീവിതാവശ്യത്തിനു വേണ്ടത്ര കൂലി കിട്ടാതെയും, എന്നാൽ ആശകൾ
+അമർത്താനും കഴിയാതെ ഒരു ചില്ലറമോഷണത്തിനു പ്രേരിതനാകുന്ന ഒരു തൊഴിലാളിയുടെ ചിത്രമാണു്. ശങ്കു
+ഒരു കോഴിയെ മോഷ്ടിക്കുന്നു. പക്ഷേ, അതു പാകംചെയ്യുവാൻ വേണ്ടത്ര മുളകുപോലും അയാളുടെ കുടിലില്ല. ഒരു
+തരത്തിൽ അതു ചവച്ചിറക്കിക്കൊണ്ടിരിക്കുന്നതിനിടയിൽ മറ്റൊരു ‘ദരിദ്രവാസി’ വലിഞ്ഞുകയറി വരികയാണു്.
+ഒടുവിൽ ശങ്കുവും പൊറിഞ്ചുവും ‘മാവുംതറ ഭഗവതി’യേയും ‘മാതാവി’നേയും സാക്ഷി നിർത്തി ഭക്ഷിക്കലാണോ
+ഛർദ്ദിക്കലാണോ എന്നു തീർത്തു പറഞ്ഞുകൂടാത്ത ഒരു വിരുന്നു കഴിക്കുന്നു. ഈ കഥയ്ക്കു നാടകത്തിന്റെ രൂപമുണ്ടു്.
+പക്ഷേ, നാടകമായി അതു വിജയിക്കാൻ വിഷമമാണു്. പ്രത്യേകിച്ചും അവർ ഛർദ്ദിക്കുന്ന രംഗം അഭിനയിക്കാൻ
+എളുപ്പമല്ല. ചെറുകഥയെന്ന നിലയിലാണെങ്കിൽ ‘ഇരുളിന്റെ മറവിൽ’ ഒരു ഉത്തമസൃഷ്ടിയായിരുന്നേനെ.
+</p>
+          <p>‘ഫാക്ടറിയിലേക്കു്’ എന്നതിന്റെ കഥയും ഇതുതന്നെ. റീത്തയുടെയും ലക്ഷ്മിയുടെയും അതിരുകടന്ന
+
+സന്മാർഗ്ഗബോധം ദുസ്സഹമാണു്. പരാജയപ്രസ്ഥാനത്തിലേക്കു് ഒളിച്ചുകടത്തപ്പെട്ട റൊമാന്റിസിസമാണതു്.
+അതിനും പുറമെ അതൊരു നാടകമേയല്ല. ഒരൊന്നാന്തരം ചിത്രമാണു്. ‘പുളുവൻ’ ആണു് സമരകവിയിലെ
+ഏറ്റവും നല്ല ഏകാങ്കി. ദേവിന്റെ ഫലിതത്തിനും പാത്രസൃഷ്ടിക്കും വേണ്ട അവസരം നൽകുന്ന ഒരു കഥയാണതു്.
+അഭിനയത്തിനു് അതു നല്ലതാണു്. അതിലെ ‘കോലോത്തു്’ എന്ന ജന്തു, നിർഭാഗ്യവശാൽ
+സാധാരണജീവിതത്തിൽ പലപ്പോഴും കാണേണ്ടതായി വരുന്ന ഒന്നാണു്. ഖദർ, സഹകരണസംഘം, പ്രണയം,
+അക്രമരാഹിത്യം, പത്രപ്രവർത്തനം എന്നിങ്ങനെ പല ശരങ്ങളും ആവനാഴിയിലുള്ള ഒരു വിചിത്രസൃഷ്ടിയാണതു്.
+തലയുടെ ഒരു വശത്തു് കൈകൾകൂപ്പി വഴിയിൽ കാണുന്നവരുടെയെല്ലാം തലയ്ക്കു്
+‘നമസ്തെ’യുമെറിഞ്ഞുപിടിപ്പിച്ചുകൊണ്ടു വരുന്ന ആ സ്വരൂപത്തിനു പല്ലു വാടിപ്പോകാത്തതു് ഒരത്ഭുതമാണു്.
+പലരും ഈയാളെ ചിത്രീകരിച്ചിട്ടുണ്ടു്. എങ്കിലും, ദേവിന്റെ കോലോത്തും ബഷീറിന്റെ ജേർണലിസ്റ്റും ആണു്
+ഏറ്റവും മെച്ചപ്പെട്ടതു്. ‘അദ്ധ്യാപിക’യുടെ കാര്യത്തിൽ ഒന്നു പറയേണ്ടതുണ്ടു്. കമലാക്ഷിയുടെ നിലയിലെത്തിയ
+ഏതെങ്കിലും സ്ത്രീ ആ ഭയങ്കരമരുന്നു നിഷേധിക്കുമോ എന്നു സംശയമാണു്. അങ്ങനെ ചെയ്യുന്നതിനു
+സമാധാനമായി അവളും നാടകകൃത്തുംകൂടി ഉന്നയിക്കുന്ന തത്ത്വശാസ്ത്രം ഏട്ടിൽ മാത്രമേ നിലനിൽക്കുന്നുള്ളൂ
+എന്നു പറയാം. ദേവിന്റെ ഫലിതബോധത്തിന്റെ മറ്റൊരു സന്താനമാണു് ‘വക്കീലും ഗുമസ്തനും.’ സമരകവിയിലെ
+കവി കവിയല്ല. ഒരു ഭയങ്കര യുദ്ധരംഗത്തിലെ ബഹളത്തിന്റെ നടുവിൽ സകലതും മറന്നു് പ്രഭാതാരുണിമയിൽ
+ലക്ഷോപലക്ഷം ഭടന്മാരുടെ രക്തവും കണ്ടു് അങ്ങനെ ‘കഞ്ചാവു്’ പോലെയിരിക്കുന്നവൻ കവിയല്ല; ഭ്രാന്തനാണു്.
+യുദ്ധരംഗത്തിന്റെ നടുവിൽ പ്രഭാതത്തിന്റെ മനോഹാരിതയിൽ ലയിച്ചു് എങ്ങനെ ഒരു മനുഷ്യൻ ഇരിക്കും?
+ദേവിന്റെ കവിക്കു സമരമെന്താണെന്നു നിശ്ചയമില്ല. അഞ്ചാംപത്തിക്കാർ പാരച്യൂട്ടു വഴി ഇറങ്ങുന്ന ആ
+രംഗത്തിൽ തൂലികയും ഉയർത്തിപ്പിടിച്ചുകൊണ്ടുനടക്കുന്ന കവി എന്തൊരു ‘നൊസ്സ’ നാണു്. പോരെങ്കിൽ
+പാസ്പോർട്ടും കൈയിൽവെച്ചുകൊണ്ടു് അയാൾ കൃത്യനിർവഹണത്തിലേർപ്പെട്ടിരിക്കുന്ന ഭടന്മാരെ
+മിനക്കെടുത്തുകയാണു്. ഇതു കണ്ടാൽ തോന്നും സകല കവികളുടെയും നെറ്റിയിൽ എന്തോ
+പരസ്യപ്പലകയുണ്ടെന്നു്. ഈ നാടകത്തിൽ അന്തരീക്ഷസൃഷ്ടിയും വളരെ മോശമാണു്.
+രംഗനിർദ്ദേശങ്ങളിലല്ലാതെ യുദ്ധത്തിന്റെ പുകയും തീയും കാണാനില്ല. ദീർഘമായ ഒരു വാദപ്രതിവാദത്തിനോ
+തത്ത്വചിന്തയ്ക്കോ ഉള്ള അവസരം അവിടെയുണ്ടാകയില്ല. മുറിഞ്ഞ വാചകങ്ങളും വാക്കുകളും, സദാ ചലനാത്മക
+സംഭവങ്ങളുമില്ലെങ്കിൽ ഒരു യുദ്ധത്തിന്റെ പ്രതീതിയുണ്ടാകാൻ പ്രയാസമാണു്.
+</p>
+          <p>അവയുടെ കുറവുകളും മേന്മകളുമുൾപ്പെടെ ദേവിന്റെ നാടകങ്ങൾക്കു് ഒരു വ്യക്തിമുദ്രയുണ്ടു്.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kesavadevinte Nadakarithi (ml:
+കേശവദേവിന്റെ നാടകരീതി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-04-08. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Kesavadevinte Nadakarithi, സി ജെ തോമസ്, കേശവദേവിന്റെ നാടകരീതി, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 7, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:In%C3%AAs_de_Castro%27s_Supplication.jpg">Appeal
+by In\^es de Castro,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Vieira_Portuense">Vieira
+Portuense</ref>  (1765–1805). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  JS Aswathy; <hi rend="bold">Proofing:</hi>  Lalitha Gouri; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-kesav.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-kesav.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

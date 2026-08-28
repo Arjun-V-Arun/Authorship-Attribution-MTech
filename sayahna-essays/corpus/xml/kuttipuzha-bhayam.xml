@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഭയം</title>
+          <title xml:lang="en" type="main">Bhayam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">January 30, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഭയം</title>
+              <title xml:lang="en" type="main">Bhayam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Bhayam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഭയം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 30, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Man_Made_Mad_with_Fear.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:The_Man_Made_Mad_with_Fear_by_Gustave_Courbet_%28detail%29.jpg">The
+Man Made Mad with Fear,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Gustave_Courbet">Gustave
+Courbet</ref>  (1819–1877). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഭയം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഭയം</head>
+        <div type="lsection">
+          <p style="noindent">മനുഷ്യന്റെ കൂടപ്പിറപ്പാണു് ഭയം. അതു് ഒരു കടുത്ത മനോരോഗമായിരുന്നു.
+മനസ്സിനേല്ക്കുന്ന വൈകാരികാഭിഘാതമെന്നും അതിനെ വ്യാഖ്യാനിക്കാം. പ്രപഞ്ചപരിണാമഗതിയിൽ, ലക്ഷം
+ലക്ഷം കൊല്ലങ്ങൾക്കു് മുമ്പു് മർത്ത്യവർഗം ഉരുത്തിരിഞ്ഞകാലംമുതൽ ഈ രോഗം മാനവമനസ്സിൽ
+കുടികൊണ്ടിരുന്നു. അജ്ഞതയാണു് ഭയത്തിന്റെ മൂലകാരണം. പ്രകൃതിരഹസ്യങ്ങളെപ്പറ്റി യാതൊരു
+ബോധവുമില്ലാതെ കേവലം വികാരജീവിയായി വെറും കാടത്തത്തിൽ ജീവിച്ചിരുന്ന കാലത്തു് മനുഷ്യൻ
+ഇടിമിന്നൽ, കൊടുങ്കാറ്റു്, കാട്ടുതീ, പേമാരി തുടങ്ങിയ പ്രകൃതിവിക്ഷോഭങ്ങൾ കണ്ടു് അവയുടെ കാരണം
+അറിയാതെ പേടിച്ചുവിറച്ചിരുന്നു. വെയിലത്തു് സ്വന്തം നിഴൽ കണ്ടു് കാട്ടാറുകളിൽ സ്വശരീരത്തിന്റെ പ്രതിച്ഛായ
+കണ്ടും അവൻ ഭയപ്പെട്ടു. ആകാശം മുട്ടിനിൽക്കുന്ന വമ്പിച്ച വൃക്ഷങ്ങളും കൂറ്റൻ പാറക്കൂട്ടങ്ങളും അവനെ
+ഭയപ്പെടുത്തി.
+</p>
+          <p>ഇത്തരം ഭയത്തിൽനിന്നാണു് പ്രാകൃതദേവതാസങ്കല്പങ്ങളും അന്ധാചാരവിശ്വാസങ്ങളും മറ്റും
+രൂപംകൊണ്ടതു്. കാട്ടുമൃഗങ്ങളെ വേട്ടയാടിയും പച്ചമാംസം ഭക്ഷിച്ചും ജീവിച്ചിരുന്നപ്പോൾ ഹിംസ്രജന്തുക്കളും
+ഇന്നത്തേക്കാൾ കൂടുതൽ മനുഷ്യർക്കു് ഭീകരങ്ങളായിരുന്നു. ഒറ്റതിരിഞ്ഞുള്ള ഈ കിരാതജിവിതം
+കാലാന്തരത്തിൽ സമൂഹജീവിതമായിപ്പരിണമിച്ചു. അങ്ങനെ ഭിന്നവർഗ്ഗങ്ങളും ഗോത്രങ്ങളും നിലവിൽവന്നു.
+ഇവയെല്ലാം പരസ്പരം കലഹിക്കാനും പടവെട്ടാനും തുടങ്ങി. തൽഫലമായി ശത്രുഭയം പൂർവാധികം വർദ്ധിച്ചു.
+ഇക്കാലമത്രയും ഇരുട്ടടഞ്ഞു് കിടന്നിരുന്ന മനുഷ്യന്റെ ബോധതലത്തിൽ ക്രമേണ അല്പാല്പം വെളിച്ചം
+വീണതോടെ ഈവക ഭീതികളുടെ ഉൽക്കടതയ്ക്കു് കുറേ കുറവുണ്ടായി. എങ്കിലും ഈ ശാസ്ത്രയുഗത്തിൽപ്പോലും
+ഭയത്തിൽനിന്നു് തീരെ മുക്തനാകാൻ മനുഷ്യനു് കഴിവുണ്ടായിട്ടില്ല. കഴിവുണ്ടാകുമോ എന്നുതന്നെ
+സംശയിക്കേണ്ടിയിരിക്കുന്നു. ശാസ്ത്രവിജ്ഞാനം ഏറിവരുംതോറും ഭയത്തിന്റെ ചില മുഖങ്ങൾ
+മാഞ്ഞുപോകുന്നുണ്ടെങ്കിലും തൽസ്ഥാനത്തു് മറ്റു് ചിലതു് തലപൊക്കിയിട്ടുണ്ടു്.
+</p>
+          <p>എന്നും വിട്ടുമാറാതെ മനുഷ്യനെ പിടികൂടിയിരിക്കുന്നതു് മരണഭീതിയാണല്ലൊ. സർവജീവികളിലും കാണുന്ന
+ആത്മസംരക്ഷണവ്യഗ്രത മനുഷ്യരിലും ഉണ്ടു്. നിസർഗസിദ്ധമായ ഈ ശീലത്തിൽനിന്നാണു്
+മരണഭീതിയുണ്ടാകുന്നതു്. ജീവിക്കാനാഗ്രഹിക്കാത്തവൻ മരണത്തെ ഭയപ്പെടുകയില്ലല്ലോ. മരണഭയത്തിൽനിന്നു്
+താൽക്കാലികമായിട്ടെങ്കിലും ഒരാശ്വാസം നേടാൻവേണ്ടിയാണു് മനുഷ്യൻ പുനർജന്മം, ഈശ്വരൻ, ആത്മാവു്
+മുതലായ അന്ധസങ്കല്പങ്ങളിൽച്ചെന്നു് ചാടിയതു്. മതവും തത്ത്വചിന്തയും നിലവിൽവന്നതും ഈ വഴിക്കത്രെ.
+പക്ഷേ, ഇതുകൊണ്ടൊന്നും ഫലമുണ്ടായില്ല. മനുഷ്യന്റെ കർമശക്തിയും ജീവിതവും പാഴാക്കാനേ ഇപ്പോൾ ഇവ
+ഉപകരിക്കുന്നുള്ളു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Upton_Sinclair.jpg" rendition="gra"/>
+            <figDesc style="thumb">അപ്ടൺ സിങ്ക്ളിയർ</figDesc>
+          </figure>
+          <p> ഈ പരിഷ്കൃതയുഗത്തിലും നമ്മെ അലട്ടിക്കൊണ്ടിരിക്കുന്ന വേറെ രണ്ടുതരം ഭീതികളെപ്പറ്റി പറയേണ്ടതുണ്ടു്.
+ഒന്നു്. സാമ്പത്തികഭീതി; മറ്റേതു്. യുദ്ധഭീതി. മുതലാളിത്തവ്യവസ്ഥിതിയുടേയും സാമ്രാജ്യദുർമോഹത്തിന്റേയും
+ദുഷ്ഫലങ്ങളാണു് ഈ രണ്ടും. മുതലാളിത്തരാജ്യങ്ങളിൽ കുബേരനും കുചേലനും ഒന്നുപോലെ സാമ്പത്തികഭീതിക്കു്
+ഇരയായിത്തീരുന്നു. അവിടെ ഇന്നത്തെ കോടീശ്വരൻ നാളെ പാപ്പരായിപ്പോകുമോ എന്നു് ഭയപ്പെടുന്നു.
+സാമ്പത്തികശക്തികൾ അവിടെ അനിയന്ത്രിതമായി വ്യാപരിക്കുന്നതുമൂലമാണു് ഇങ്ങനെ സംഭവിക്കുന്നതു്.
+ഭരണകേന്ദ്രത്തിനുപോലും ഈ അദൃശ്യശക്തികളെ നിയന്ത്രിക്കാൻ സാധിക്കുന്നില്ല. നേരേമറിച്ചു് സോഷ്യലിസ്റ്റ്
+വ്യവസ്ഥിതിയിൽ സമ്പദ്ഘടന ഭരണാധികാരികളുടെ പരിപൂർണനിയന്ത്രണത്തിലായിരുന്നതുകൊണ്ടും
+എല്ലാവർക്കും തുല്യമായി ജീവിതസൗകര്യം ലഭിക്കുന്നതുകൊണ്ടും ഈ ഭയം മന്ദീഭവിക്കുക മാത്രമല്ല മിക്കവാറും
+ഇല്ലാതാകുകതന്നെചെയ്യും. മനുഷ്യവർഗത്തിനു് നാനാപ്രകാരേണ വിനാശകാരിയായിത്തീരുന്ന ഒന്നാണു്
+സാമ്പത്തികഭീതി. എത്ര നല്ല മനുഷ്യന്റെയും സ്വഭാവത്തെ അതു് അധഃപതിപ്പിക്കുന്നു. കരിഞ്ചന്തയും
+മായംചേർക്കലും മറ്റു് ചൂഷണതന്ത്രങ്ങളുമെല്ലാം അതുകൊണ്ടുണ്ടാകുന്നവയാണു്. ‘സ്വന്തം ജാതിയെചൂഷണം
+ചെയ്യുക എന്നതു് ഒരു പതിവാക്കിത്തീർക്കുന്ന ഏകജന്തു മനുഷ്യനാണു്’ (The only beast that makes a
+regular practice of exploiting his own kind is man) എന്നു് <ref target="https://en.wikipedia.org/wiki/Upton_Sinclair">അപ്ടൺ സിങ്ക്ളിയർ</ref>
+പറഞ്ഞിട്ടുള്ളതു് വെറുതെയല്ല.
+</p>
+          <p>യുദ്ധഭീതിയെപ്പറ്റി ഇവിടെ വിസ്തരിക്കേണ്ടതില്ല. ഇന്നു് എല്ലാ രാഷ്ട്രങ്ങളേയും ബാധിച്ചിരിക്കുന്ന ഒന്നാണു് അതു്.
+വിശേഷിച്ചു് വമ്പിച്ച രാഷ്ട്രങ്ങൾ പരസ്പരം ശങ്കിക്കുകയും ഭയപ്പെടുകയും ചെയ്തുകൊണ്ടിരിക്കുന്നു.
+മനുഷ്യവംശത്തിന്റെ ഉന്മൂലനാശത്തിനുപോലും ഉതകുന്ന ഭീകരായുധങ്ങളുടെ സംഭരണത്തിൽ ഇന്നു് നടക്കുന്ന
+ബീഭത്സമത്സരങ്ങളുടെ പിന്നിൽ കാണുന്നതു് ഈ ഭയാശങ്കകളല്ലേ? ചുരുക്കത്തിൽ ഭയം ഏതു് രൂപത്തിലും
+മനുഷ്യനെ കെടുത്തിക്കളയുന്നു. അതിന്റെ മൂർച്ഛയിൽ മനുഷ്യൻ പിശാചായി മാറുന്നു. അവന്റെ വിചാരശക്തിയും
+വിവേകവും നശിക്കുന്നു. അന്ധത നിറഞ്ഞ കാട്ടാളയുഗത്തിലേക്കു് അതു് നമ്മെ തിരിച്ചുകൊണ്ടുപോകുന്നു.
+‘ഭയത്തെപ്പോലെ മനസ്സിന്റെ സകല പ്രവർത്തനശക്തിയേയും യുക്തിവിചാരക്ഷമതയേയും ഇത്ര സമർത്ഥമായി
+മറ്റൊരു വികാരവും അപഹരിക്കുന്നില്ല.’ (No passion so effectively robs the mind of all its powers of
+acting and resoning as fear) എന്ന ബർക്കിന്റെ അഭിപ്രായത്തിനു് ഇതുവരെയുള്ള മനുഷ്യചരിത്രം
+സാക്ഷിയായി നിൽക്കുന്നില്ലേ?
+</p>
+          <p>ഉപനിഷത്തുകളിൽ മോക്ഷത്തിനു് തുല്യമായോ അതിൽ കൂടുതലായോ പ്രാധാന്യം കല്പിച്ചിട്ടുള്ളതു്
+അഭയത്തിനാണു്. വാസ്തവത്തിൽ സാക്ഷാൽ മോക്ഷം പരിപൂർണ്ണമായ ഭയവിമുക്തിതന്നെയാകുന്നു.
+ജീവിതസിദ്ധികളിൽ ഏറ്റവും മുഖ്യവും എന്നാൽ ദുസ്സാധ്യവുമായിട്ടുള്ളതും ഇതുതന്നെയത്രെ. വ്യക്തിയിലും
+സമൂഹത്തിലും അഭയം രൂഢമൂലമായെങ്കിൽ മാത്രമേ ഇന്നത്തെ ലോകത്തിനു് സ്ഥിരമായ ശാന്തിയും
+സമാധാനവും കൈവരികയുള്ളു.
+</p>
+          <p>
+(യുക്തിവിഹാരം 1970)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Bhayam (ml: ഭയം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Bhayam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഭയം, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 30, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:The_Man_Made_Mad_with_Fear_by_Gustave_Courbet_%28detail%29.jpg">The
+Man Made Mad with Fear,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Gustave_Courbet">Gustave
+Courbet</ref>  (1819–1877). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-bhayam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-bhayam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

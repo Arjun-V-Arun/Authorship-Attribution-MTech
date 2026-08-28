@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സയൻസിന്റെ വികാസം</title>
+          <title xml:lang="en" type="main">Sciencinte vikasam</title>
+        </title>
+        <author>Kesari Balakrishna Pillai</author>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Digitized by</resp>
+          <name>KB Sujith</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">October 1, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സയൻസിന്റെ വികാസം</title>
+              <title xml:lang="en" type="main">Sciencinte vikasam</title>
+            </title>
+            <author>Kesari Balakrishna Pillai</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-10-03</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kesari</term>
+          <term>Sciencinte vikasam</term>
+          <term>കേസരി ബാലകൃഷ്ണപിള്ള</term>
+          <term>സയൻസിന്റെ വികാസം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-10-03</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Christmas_Tree_Decoration.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Christmas_Tree_Decoration.jpg">Christmas
+Tree Decoration,</ref> a painting by anonymous  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സയൻസിന്റെ വികാസം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കേസരി ബാലകൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സയൻസിന്റെ വികാസം</head>
+        <div type="lsection">
+          <figure rend="fright">
+            <graphic url="images/Charles_Darwin.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ഡാർവിൻ</figDesc>
+          </figure>
+          <p style="noindent"> “എങ്കിൽ, ആരാണു് യഥാർത്ഥ ലോകവിപ്ലവകാരികൾ? തങ്ങളുടെ
+ജീവിതകാലത്തിനുശേഷം വരുന്ന മാനുഷികജീവിതത്തെ പഴയതിൽനിന്നു പാടെ വ്യത്യാസപ്പെടുത്തുന്നവർ
+ആരാണു് ? ഇവരിൽ മുക്കാലേ മുണ്ടാണിയും തങ്ങളുടെ തൊഴിലിനെപ്പറ്റി ചിന്തിച്ചിരുന്ന വിദഗ്ദ്ധരായ
+കൈവേലക്കാരാണെന്നു ഞാൻ വിചാരിക്കുന്നു. ഇവരിൽ ഏറ്റവുമധികം മഹത്വമുളളവർ
+യഥാർത്ഥനാമങ്ങൾപോലും ഇന്നത്തെ ലോകർ മറന്നു കളഞ്ഞിരിക്കുന്ന രണ്ടുപേരാണു്. മനുഷ്യരെ
+അഗ്നിനിർമ്മാണ വിദ്യ ഇദംപ്രഥമമായി പഠിപ്പിച്ച <ref target="https://en.wikipedia.org/wiki/Prometheus">പ്രൊമെഥെയുസും</ref>, കൃഷി
+വിദ്യ ഇദംപ്രഥമമായഭ്യസിപ്പിച്ച ത്രിതോലേമസ്സുമാണു് ഇവർ… ഇവയിൽനിന്നു് ഉടനടിയുണ്ടായ ഫലം
+പരിഷ്കാരത്തിനു വളർന്നുവരാവുന്ന നിബിഡമായി സ്ഥിരവാസമുള്ള ഒരു ജനതതിയുടെ സൃഷ്ടിയാണു്.
+ഉപകാരപ്രദമാകയാൽ ലോകമൊട്ടുക്കു പരക്കാതെ ഗത്യന്തരമില്ലാത്ത ശ്രേഷ്ഠമായ കണ്ടുപിടുത്തങ്ങൾ
+ചരിത്രകാലത്തു മുഴുവനും ഉണ്ടായിക്കൊണ്ടിരുന്നു. ബുദ്ധിപരമായ മേത്തരം കണ്ടുപിടുത്തങ്ങളും ഇക്കാലത്തു
+ഉണ്ടായിട്ടുണ്ടെങ്കിലും, യാതൊരു പ്രായോഗികഫലത്തിലും ചെന്നു കലാശിക്കായ്കയാൽ, ഇവയിൽ മിക്കവയേയും
+ലോകർ മറന്നു കളഞ്ഞു. പ്രാചീന ഈജിപ്തുകാർക്കു് ഒരുതരം പ്രാഥമികബീജഗണിതം അറിയാമായിരുന്നു…
+പക്ഷേ, ഇതു പില്ക്കാല തലമുറകൾ മറന്നുകളഞ്ഞു. കാരണം ഇതു യാതൊരു പ്രായോഗികകാര്യത്തിനും
+പ്രയോഗിക്കാതെയിരുന്നതാണു്. നേരെമറിച്ചു, പ്രാചീന ഈജിപ്തുകാരുടെ സർവ്വേ രീതികൾ ഇന്നു
+നടപ്പിലിരിക്കുന്ന സർവ്വേ രീതികളായി വളർന്നുവരുകയും ചെയ്തു. ഇന്നു സയൻസിന്നു പ്രാധാന്യം സിദ്ധിച്ചിട്ടുള്ളതു
+അതു പ്രായോഗികമായിരിക്കുന്നതു (അപ്ലൈഡ്) നിമിത്തമാണു്. സയൻസിന്റെ പ്രയോഗക്ഷമമായ
+മാർഗ്ഗങ്ങൾക്കു മാത്രമേ ചിരഞ്ജീവിത്വം ലഭിക്കുകയുള്ളു എന്നു ഖണ്ഡിച്ചു പറഞ്ഞാൽ, ഇതിൽ വലിയ
+തെറ്റുണ്ടായിരിക്കുന്നതല്ല.
+</p>
+          <p style="noindent"/>
+          <figure rend="fleft">
+            <graphic url="images/Louis_Pasteur.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">പാസ്ച്ചുർ</figDesc>
+          </figure>
+          <p style="noindent"> “കഴിഞ്ഞ ശതാബ്ദത്തിലെ ജീവശാസ്ത്രജ്ഞരിൽ മഹത്വം ഏറ്റവുമുള്ള <ref target="https://en.wikipedia.org/wiki/Louis_Pasteur">പാസ്ച്ചുറേയും</ref> <ref target="https://en.wikipedia.org/wiki/Charles_Darwin">ഡാർവിനേയും</ref>
+എടുത്തു നമുക്കു താരതമ്യപ്പെടുത്തി നോക്കാം. പാസ്ച്ചുറുടെ മൗലികാശയങ്ങൾ ചിരഞ്ജീവികളായിരിക്കുമെന്നു്
+ഏറക്കുറെ ഖണ്ഡിച്ചു പറയാം. കാരണം അവയിൽ വിശ്വാസമില്ലാത്ത രാജ്യക്കാർ ഈ അവിശ്വാസം
+പ്രയോഗത്തിൽ വരുത്തുന്നതായാൽ, അവരുടെ മരണനിരക്കു ഇരട്ടിക്കുമെന്നുള്ളതാണു്. എന്നാൽ ഡാർവിന്റെ
+പ്രധാനാശയങ്ങളെ മിക്ക ശാസ്ത്രജ്ഞരും സ്വീകരിച്ചിട്ടുണ്ടെങ്കിലും, ഇവയെ തിരസ്ക്കരിച്ചാൽ ആകാശം ഇടിഞ്ഞു
+വീഴുന്നതല്ല… ഞാൻ മാർപ്പാപ്പയാകുകയാണെങ്കിൽ—ഇതിനു ഇന്നത്തെ നിലയ്ക്കു് അധികം ഇടയില്ല—ഒരു
+വിശ്വാസിയായ കത്തോലിക്കനായിരുന്ന പാസ്ച്ചുറെ ഒരു പുണ്യവാനാക്കുന്നതിനു (കാനൊണൈസേഷനു)
+എന്റെ സർവ്വശക്തിയുമുപയോഗിച്ചു ശ്രമിക്കുമായിരുന്നു… പാസ്ച്ചുർ ഒരു ശ്രേഷ്ഠനായ ചിന്തകൻ മാത്രമല്ല,
+പിന്നെയോ, കൈവേലയിൽ അതിയായ സാമർത്ഥ്യമുള്ള ഒരുത്തനും കൂടിയായിരുന്നു. സാധനങ്ങളെ
+മൈക്രോബുകളിൽ (വിഷകൃമികളിൽ) നിന്നു രക്ഷിച്ചുവെച്ചുകൊണ്ടിരിക്കുന്നതിനും, ഒരുതരം മൈക്രോബുകളെ
+
+മറ്റുള്ളവയുടെ സമ്പർക്കമേല്ക്കാതെ വളർത്തുന്നതിനുമുള്ള സങ്കീർണ്ണമായ ടെൿനിക്കിന്റെ ഒരു വലിയ ഭാഗം
+സൃഷ്ടിച്ച ദേഹവും പാസ്ച്ചുറാണു്. ബാക്ടീരിയോളോജിക്കൽ തിയറിയുടെ ഭൂരിഭാഗവും ഈ ടെക്നിക്കിന്റെ
+ശബ്ദീകരണം മാത്രമാണു്. പാസ്ച്ചുർ തന്റെ കൈകൊണ്ടു വളരെയധികം ചിന്തിച്ചിരുന്നു; ഡാർവിനാകട്ടെ,
+കൈകൊണ്ടു വളരെ കുറച്ചു മാത്രമേ ചിന്തിച്ചിരുന്നുള്ളു.”
+</p>
+          <figure rend="fright">
+            <graphic url="images/J._B._S._Haldane.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ജെ. ബി. എസ്സ്. ഹാൽഡെയിൻ</figDesc>
+          </figure>
+          <p> ‘ചരിത്രം കള്ളമാണോ?’ എന്ന തലക്കെട്ടിൽ പരേതനായ <ref target="https://en.wikipedia.org/wiki/J._B._S._Haldane">ജെ. ബി. എസ്സ്.
+ഹാൽഡെയിൻ</ref> എഴുതിയിരുന്ന ഒരു ലേഖനത്തിൽ നിന്നാണു് മുകളിൽ ചേർത്തിരിക്കുന്ന ഭാഗം
+ഉദ്ധരിച്ചിട്ടുളളതു്. ശ്രേഷ്ഠരായ രാഷ്ട്രീയപ്രവർത്തകരോ, ആദർശവാദികളായ കവികളോ, തത്വജ്ഞാനികളോ
+മതസ്ഥാപകരോ അല്ല ലോകവിപ്ലവകാരികളായ മഹാന്മാർ എന്നു സ്ഥാപിച്ചതിനു ശേഷമാണു് ഹാൽഡെയിൻ
+മുകളിലുദ്ധരിച്ചതു പറഞ്ഞിരിക്കുന്നതു്. ലോകവിപ്ലവകാരികളിൽ അഗ്രഗണ്യരായി ഹാൽഡെയിൻ
+പ്രസ്താവിച്ചിട്ടുള്ള പ്രൊമെഥെയുസ് മഹാവിഷ്ണുവും, ത്രിതോലേമസ് സോമബ്രഹ്മാവുമാണു്. ഹാൽഡെയിൻ
+പറഞ്ഞിട്ടുള്ള ശുദ്ധശാസ്ത്രജ്ഞനേയും പ്രായോഗികശാസ്ത്രജ്ഞനേയുംപോലെ, ശാസ്ത്രത്തെപ്പറ്റി എഴുതുന്നവരിലും
+രണ്ടു തരക്കാരുണ്ടു്. ഇവർക്കു സയൻസിനോടുള്ള മനഃസ്ഥിതികളെ പുരുഷന്മാർക്കു സ്ത്രീകളോടുള്ള
+മനഃസ്ഥിതികളോടു സദൃശപ്പെടുത്തി വിശദീകരിക്കാം. “സ്ത്രീയോടുകൂടി പാർക്കുവാനും വയ്യാ, അവളെ കൂടാതെ
+പാർക്കുവാനും വയ്യാ” എന്നു പറഞ്ഞ ഫ്രഞ്ചുകാരന്റെ സ്ഥിതിയാണു് ഇവരിൽ ഒരു കൂട്ടർക്കുള്ളതു്. ഈ
+മനസ്ഥിതക്കു കാരണം മറ്റൊരു ഫ്രഞ്ചുകാരനായ മഹാകവി <ref target="https://en.wikipedia.org/wiki/Charles_Baudelaire">ബാദ്ലെയർ</ref>,
+</p>
+          <figure rend="fright">
+            <graphic url="images/Charles_Baudelaire.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ബാദ്ലെയർ</figDesc>
+          </figure>
+          <p> “സ്ത്രീ പ്രകൃതിക്കനുരൂപമായ സൃഷ്ടിയാണു്; അതായതു്, ജുഗുപ്സ ജനിപ്പിക്കുന്നവൾ” എന്ന വാക്കുകളിൽ
+പറഞ്ഞിരിക്കുന്നു. ഇവരാണു് എഴുത്തുകാരിൽ ശുദ്ധശാസ്ത്രജ്ഞർ. ശേഷിച്ച ശാസ്ത്രമെഴുത്തുകാർ, ശേഷിച്ച പുരുഷർ,
+സ്ത്രീയെപ്പറ്റി വിചാരിക്കുന്നതുപോലെ, ശാക്തേയമനഃസ്ഥിതിപൂർവ്വം സയൻസിനെ സർവ്വമോക്ഷദായിനിയായ
+ദേവിയായി ആരാധിച്ചുവരികയും ചെയ്യുന്നു.
+</p>
+          <figure rend="fleft">
+            <graphic url="images/Paul_Vinogradoff.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">വിനോഗ്രഡോവ്</figDesc>
+          </figure>
+          <p> ഭാഷാസാഹിത്യത്തിൽ നാച്ചുറൽ സയൻസുകളെപ്പറ്റി എഴുതുന്ന അംഗുലീപരിമിതരായ നല്ല എഴുത്തുകാരിൽ
+പ്രസ്തുത ഫ്രഞ്ചുഫലിതക്കാരനോടു സാദൃശമുള്ള ഒരു ദേഹം ശ്രീ. കെ. ഭാസ്കരൻനായരാണു്. പ്രകൃതഗ്രന്ഥത്തിന്റെ
+കർത്താവായ ശ്രീ. <ref target="https://en.wikipedia.org/wiki/M._C._Nambudiripad">എം. സി.
+നമ്പൂതിരിപ്പാടിനു</ref> പ്രസ്തുത ശാക്തേയനോടാണു് സാദൃശമുള്ളതു്. ഇന്നു വേണ്ടതായ ഒരു
+അടിയന്തിരകാര്യം കേരളത്തിലെ അർദ്ധമിസ്റ്റിക്കുകളായ ജനസാമാന്യത്തിൽ ശാസ്ത്രീയമനഃസ്ഥിതി
+ജനിപ്പിക്കുന്നതാണു്. പൊതുവേ ഇവിടെ പ്രായോഗിക ശാസ്ത്രവാസന വളർത്തുകയും വേണം. ഈ രണ്ടു
+കാര്യങ്ങൾക്കും ശ്രീ. ഭാസ്കരൻനായരുടെ കൃതികളെക്കാൾ വളരെയധികം സഹായകമായിത്തീരുന്നതു
+
+സയൻസിന്റെ ഇന്നത്തെ പുതിയ വികാസങ്ങൾ കണ്ടു ഭ്രമിച്ചു മിസ്റ്റിസിസത്തിൽ ചാടാതെ പൊതുജനങ്ങൾക്കു
+എളുപ്പം ഗ്രഹിക്കാവുന്ന അകൃത്രിമവും അതിപ്രസന്നവുമായ ഭാഷയിൽ സയൻസിനെപ്പറ്റി പ്രതിപാദിച്ചിട്ടുള്ള
+പ്രകൃതഗ്രന്ഥകാരന്റെ ഈ കൃതിയാണു്.
+</p>
+          <lg>
+            <l> “ആശാനക്ഷരമൊന്നു പിഴച്ചാൽ </l>
+            <l> അമ്പത്തൊന്നു പിഴയ്ക്കും ശിഷ്യനു്” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>എന്നു <ref target="https://en.wikipedia.org/wiki/Kunchan_Nambiar">കുഞ്ചൻനമ്പ്യാർ</ref>
+പറഞ്ഞിട്ടുള്ളതിന്റെ പരമാർത്ഥം പ്രകൃത ഗ്രന്ഥകാരൻ ഇന്നത്തെ സയൻസിന്റെ മിസ്റ്റിക്ക് പുറംചട്ടയെ
+സംബന്ധിച്ചു നല്ലപോലെ മനസ്സിലാക്കിയിരിക്കുന്നു.
+</p>
+          <figure rend="fleft">
+            <graphic url="images/Tolman_E.C.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ടോൾമാൻ</figDesc>
+          </figure>
+          <p> ‘സയൻസ് എന്നാൽ എന്തു്?’ എന്നും ‘സയൻസിന്റെ നേട്ടങ്ങൾ’ എന്നും രണ്ടു ഭാഗങ്ങളായി
+പ്രകൃതഗ്രന്ഥത്തെ വിഭജിച്ചിരിക്കുന്നു. ആദ്യത്തെ ഭാഗത്തിൽ, സയൻസിന്റെ അർത്ഥം ജനനം, വളർച്ച
+എന്നിവയേയും, ഇന്നത്തെ സയൻസിനേയും സയൻസിനോടുള്ള വെല്ലുവിളികളേയുമാണു് പ്രതിപാദിച്ചിരിക്കുന്നതു്.
+ഇന്നത്തെ സയൻസിന്റെ നില ഭംഗിയായും സുഗ്രഹമായും ഇതിൽ സംക്ഷേപിച്ചു വിവരിച്ചിട്ടുണ്ടു്. സാമ്രാജ്യത്വം,
+ഫാഷിസം, സോഷ്യലിസം എന്നീ മൂന്നുതരം സമുദായഘടനകളുടേയും കീഴിൽ സയൻസിനുള്ള നിലയെ
+വിജ്ഞാനപ്രദമായ രീതിയിൽ ഇതിൽ വർണ്ണിക്കുകയും ചെയ്തിരിക്കുന്നു. രണ്ടാം ഭാഗത്തിലാകട്ടെ, ആറ്റംബോംബ്,
+ആറ്റംശക്തിയും ആരോഗ്യവും, ഇലക്ട്രോണിക്സ്, യുദ്ധകാലത്തെ ചില ശാസ്ത്രീയ നേട്ടങ്ങൾ, വാതകങ്ങളിൽനിന്നും
+പെട്രോളുണ്ടാക്കുന്നതു്, വാർദ്ധക്യം ശമിപ്പിക്കാവുന്ന ഒരു രോഗമാണെന്നു ബൊഗോമലറ്റ്സ് എന്ന സോവിയറ്റ്
+റഷ്യൻ ശാസ്ത്രജ്ഞൻ കണ്ടുപിടിച്ചിട്ടുള്ളതു്, ഏതു ഋതുവിലും ഏതു സ്ഥലത്തും വിളയുന്ന “സീറ്റ്സിൻ ഗോതമ്പു്”
+എന്നിവയാണു് പ്രതിപാദ്യ വിഷയങ്ങൾ. പകരം ഉപയോഗിക്കാവുന്ന പലതും യുദ്ധകാലത്തുണ്ടാക്കിയതുകൂടി
+ഇതിൽ ഉൾക്കൊള്ളിക്കാമായിരുന്നു. സയൻസിന്റെ ഓരോ കണ്ടുപിടുത്തത്തിന്റേയും സാമുദായിക ഫലങ്ങളെ
+ബലപ്പെടുത്തി അവയെ ഏറ്റവും പ്രസന്നമായ രീതിയിൽ വിവരിച്ചിട്ടുള്ള മറ്റൊരു കൃതി ഭാഷാസാഹിത്യത്തിലുണ്ടോ
+എന്നു സംശയമാണു്. ഇതുനിമിത്തമാണു് സാധാരണ ജനങ്ങളിൽ സയൻസ് മനഃസ്ഥിതി ജനിപ്പിക്കുവാൻ
+പ്രകൃതകൃതി ഏറ്റവും പറ്റിയതാണെന്നു മുകളിൽ പറഞ്ഞിട്ടുള്ളതു്. ഇന്നത്തെ സയൻസിന്റെ വിചിത്രമായ
+വികാസം ഈ കൃതിയുടെ “ഇന്നത്തെ സയൻസ്” എന്ന അദ്ധ്യായത്തിൽ വിവരിച്ചിട്ടുള്ളതുപോലെ വിശദമായും
+മിസ്റ്റിസിസത്തിന്റെ കലർപ്പില്ലാതെയും ഭാഷയിലെ മറ്റൊരു ശാസ്ത്രകൃതിയിലും വിവരിച്ചിട്ടുണ്ടെന്നു തോന്നുന്നില്ല.
+മിസ്റ്റിക്കായ ജീൻസിന്റെ പ്രപഞ്ചത്തെപ്പറ്റിയുള്ള വീക്ഷണകോടിക്കെതിരായി മറ്റു ശാസ്ത്രജ്ഞരായ <ref target="https://en.wikipedia.org/wiki/Edward_C._Tolman">ടോൾമാൻ</ref>,
+ഫെസ്സെൻകോവ്, ബാനർജി, സെൻ, മിൽനു് എന്നിവർ അഭിപ്രായങ്ങൾ പുറപ്പെടുവിച്ചിട്ടുള്ള കാര്യവും ശ്രീ.
+നമ്പൂതിരിക്കു് ഈ അദ്ധ്യായത്തിൽ പ്രസ്താവിക്കാമായിരുന്നു. ആറ്റംബോമ്പിനെ വിവരിച്ചിരിക്കുന്ന ഇതിലെ
+അദ്ധ്യായവും വളരെ നന്നായിട്ടണ്ടു്.
+</p>
+          <figure rend="fleft">
+            <graphic url="images/David_E_Lilienthal.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ഡേവിഡ് ലിലിയെന്താൽ</figDesc>
+          </figure>
+          <p> പ്രകൃതകൃതി വളരെ ചുരുക്കിക്കളഞ്ഞു എന്നതാണു് ഞാൻ ഇതിൽ കാണുന്ന ഏക കുറവു്. ഈയ്യിടെ ഒരു
+റേഡിയൊ ബ്രോഡ്കാസ്റ്റിൽ യുണൈറ്റഡ് സ്റ്റേറ്റ്സ് അറ്റൊമിക്ക് എനർജി കമ്മീഷന്റെ അദ്ധ്യക്ഷനായ <ref target="https://en.wikipedia.org/wiki/David_E._Lilienthal">മി. ഡേവിഡ്
+ലിലിയെന്താൽ</ref> സമാധാനകാലത്തു് ആറ്റംശക്തികൊണ്ടുണ്ടാകാവുന്ന ഉപകാരങ്ങളെ
+വിശദീകരിക്കുകയുണ്ടായി. രോഗത്തിന്റെ നിയന്ത്രണവും ചികിത്സയും, കൂടുതൽ ആഹാരസാധനോല്പാദനത്തിനും
+ആരോഗ്യകരമായ ഭക്ഷണം കഴിക്കലിനും വഴിതെളിക്കുന്ന സസ്യമൃഗാദികളുടെ വളർച്ചയെപ്പറ്റിയുള്ള പുതിയ
+വിജ്ഞാനം. മനുഷ്യരുടെ അതിയായ കായികാദ്ധ്വാനത്തിനു കുറവു വരുത്തുക, എന്നിവയാണു് ലിലിയെന്താൽ
+പ്രസ്താവിച്ച ഉപകാരങ്ങൾ. ആറ്റംശക്തി ആറ്റംബോമ്പുണ്ടാക്കുന്നതിനു മാത്രമേ കൊള്ളുകയുള്ളു എന്ന കെട്ടുകഥ
+വിശ്വസിച്ചുപോകരുതെന്നും അദ്ദേഹം അമേരിക്കക്കാരോടു് ഉപദേശിച്ചു.
+</p>
+          <figure rend="fright">
+            <graphic url="images/HeinrichStruve.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">സ്ട്രൂവ്</figDesc>
+          </figure>
+          <p> ഈയ്യിടെ കട്ടക്കിൽവെച്ചു നടന്ന ഇന്ത്യൻ അക്കാഡമി ഓഫ് സയൻസിന്റെ പതിമൂന്നാം
+വാർഷികയോഗത്തിൽ വെച്ചു ഒരു ശുദ്ധശാസ്ത്രജ്ഞപക്ഷപാതിയായ സർ <ref target="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar">ചന്ദ്രശേഖരൻ</ref>
+ആറ്റംബോമ്പുണ്ടാക്കുന്ന പാശ്ചാത്യരെപ്പറ്റി പുച്ഛിച്ചു പ്രസംഗിക്കുകയുണ്ടായി. ഭാരതീയ ശാസ്ത്രജ്ഞന്മാർ ഇതിൽ
+നിന്നു പിന്തിരിഞ്ഞു സാധാരണ മനുഷ്യന്റെ കൃഷിക്കു് അന്തിമമായി ഉപകരിക്കുന്ന, സമ്മേളനാദ്ധ്യക്ഷൻ സർ
+<ref target="https://en.wikipedia.org/wiki/C._V._Raman">സി. വി. രാമന്റെ</ref>
+ഇൻഫ്രാ-റെഡ്സ്പെക്ട്രം ഗവേഷണംപോലെയുള്ളവയിൽ ഏർപ്പെടണമെന്നും അദ്ദേഹം നിർദ്ദേശിച്ചു. ഇതിൽ
+സാധാരണ മനുഷ്യന്റെ കാര്യം എടുത്തു വിളമ്പിയതു ലോകരുടെ കണ്ണിൽ മണ്ണിടാനായിരിക്കാം. ഇത്തരക്കാരുടെ
+മുഖത്തു കരിതേയ്ക്കുവാനായി പ്രകൃതഗ്രന്ഥകാരനു്, പുസ്തകം ചുരുക്കണമെന്ന വിചാരമില്ലായിരുന്നുവെങ്കിൽ,
+അറ്റോമിക്ക് പൈൽസിനെപ്പറ്റി പല കാര്യങ്ങളും ഇതിൽ ചേർക്കാമായിരുന്നു. ബോമ്പുണ്ടാക്കുന്ന അറ്റോമിക്ക്
+പൈൽസിൽനിന്നു മാത്രമേ കൃഷിയുടെ പോഷണത്തിനു വേണ്ടതായ അളവിൽ റേഡിയോ ആക്ടിവിറ്റി
+ശേഖരിക്കുവാൻ സാധിക്കുകയുള്ളു എന്നു റഷ്യൻ ശാസ്ത്രജ്ഞനായ പ്രൊഫസ്സർ <ref target="https://en.wikipedia.org/wiki/Paul_Vinogradoff">വിനോഗ്രഡോവ്</ref>
+ചൂണ്ടിക്കാണിച്ചിട്ടുണ്ടു്. അമേരിക്കയിലെ <ref target="https://en.wikipedia.org/wiki/X-10_Graphite_Reactor">ടെനെസ്സേയിലെ
+ഓക്ക്റിഡ്ജ് അറ്റോമിക്ക് ഫിഷൺ പൈൽസിൽ</ref> നിന്നു കിട്ടിയ കുറച്ചു റേഡിയോ ആക്ടീവ് അയോഡീൻ
+വെള്ളത്തിൽ കലക്കിക്കൊടുത്തു ഹൈപ്പർതയറോയിഡിസം എന്ന രോഗം പിടിപെട്ടിരുന്ന പലരുടേയും വ്യാധി
+ശമിപ്പിച്ചതിനെക്കുറിച്ചു വടക്കേ അമേരിക്കയിലെ റേഡിയോളോജിക്കൽ സൊസൈറ്റിക്കു് മൂന്നു ഡാക്ടർമാർ
+കൂടിച്ചേർന്നു് ഒരു റിപ്പോർട്ടു സമർപ്പിച്ചിരുന്നു. ഇലക്ക്ട്രോൺ മൈക്രോസ്കോപ്പിനെക്കുറിച്ചു ഗ്രന്ഥകാരൻ
+പറയുന്നുണ്ടെങ്കിലും, ജ്യോതിശ്ശാസ്ത്രത്തിൽ ഇലക്ക്ട്രോണിക്ക് ഉപകരണങ്ങൾ ഭാവിയിൽ ടെലെസ്കോപ്പിന്റെ
+പ്രയോജനം കുറയ്ക്കുമെന്ന ചിക്കാഗൊ സർവ്വകലാശാലാ പ്രൊഫസ്സർ <ref target="https://en.wikipedia.org/wiki/Heinrich_Wilhelm_von_Struve">സ്ട്രൂവ്</ref>
+അഭിപ്രായപ്പെട്ടതു ഗ്രന്ഥകാരൻ പ്രസ്താവിച്ചില്ല. ഇത്തരം രസകരങ്ങളായ വിവരങ്ങളുംകൂടി ചുരുക്കണമെന്ന
+വിചാരമില്ലായിരുന്നുവെങ്കിൽ ഗ്രന്ഥകാരനു പ്രകൃതകൃതിയിൽ കൊണ്ടുവരാമായിരുന്നു. ശ്രീ.
+നമ്പൂതിരിപ്പാടിൽനിന്നു മേലാലും ശാസ്ത്രീയകൃതികൾ പുറപ്പെട്ടാൽ, അതു കേരളത്തിലെ ജനസാമാന്യത്തിനു്
+അത്യന്തം ഉപകാരപ്രദമായിരിക്കുന്നതാണു്.
+</p>
+          <p>ഗ്രന്ഥകർത്താ: എം. സി. നമ്പൂതിരിപ്പാടു്
+</p>
+          <p>പ്രസാധകർ: മംഗളോദയം ലിമിറ്റഡ്, തൃശ്ശിവപേരൂർ.
+</p>
+          <p>വില: 1 ക. 8 ണ.—മംഗളോദയം, 1123 ധനു &amp; മകരം.
+</p>
+          <p>(എം. സി. നമ്പൂതിരിപ്പാടിന്റെ ശാസ്ത്രീയകൃതിയ്ക്കു് കേസരി ബാലകൃഷ്ണപിള്ള എഴുതിയ നിരൂപണം.)
+
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/kesari-bio.html">കേസരിയുടെ
+ലഘുജീവചരിത്രം.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sciencinte vikasam (ml:
+സയൻസിന്റെ വികാസം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kesari Balakrishna
+Pillai.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-10-03. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kesari, Sciencinte
+vikasam, കേസരി ബാലകൃഷ്ണപിള്ള, സയൻസിന്റെ വികാസം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 1, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Christmas_Tree_Decoration.jpg">Christmas
+Tree Decoration,</ref> a painting by anonymous  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Digitizer:</hi>  KB Sujith; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kesari-science.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kesari-science.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

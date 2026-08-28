@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കല്ലേറിന്റെ സുവിശേഷം</title>
+          <title xml:lang="en" type="main">Kallerinte Suvishesham</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2026">April 9, 2026</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കല്ലേറിന്റെ സുവിശേഷം</title>
+              <title xml:lang="en" type="main">Kallerinte Suvishesham</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Kallerinte Suvishesham</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കല്ലേറിന്റെ സുവിശേഷം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 9, 2026</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Children_Playing_on_the_Beach_A14816.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Children_Playing_on_the_Beach_A14816.jpg">Children
+Playing on the Beach,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Mary_Cassatt">Mary Cassatt</ref>
+
+ (1844–1926). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കല്ലേറിന്റെ സുവിശേഷം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കല്ലേറിന്റെ സുവിശേഷം</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/T_Jefferson.jpg" rendition="gra"/>
+            <figDesc style="thumb">തോമസ് ജെഫേഴ്സൺ</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>“അധ്വാനിക്കുന്ന കർഷകനാണു് രാജ്യത്തെ ഏറ്റവും നല്ല പൗരൻ അവൻ തനിക്കും മറ്റുള്ളവർക്കും വേണ്ട
+ആഹാരം ഉൽപാദിപ്പിക്കുന്നു” എന്നു് അഭിപ്രായപ്പെട്ടതു് അമേരിക്കൻ സ്വാതന്ത്ര്യ പ്രഖ്യാപനത്തിന്റെ കർത്താവും
+ഐക്യനാടുകളുടെ മൂന്നാമത്തെ പ്രസിഡന്റുമായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Thomas_Jefferson">തോമസ്
+ജെഫേഴ്സൺ</ref>. ഉൽപനങ്ങൾക്കു് ന്യായമായ വിലകിട്ടാൻ ആദ്യമായി കർഷകർ
+സംഘടനകളുണ്ടാക്കിയതും രാഷ്ട്രീയ പാർട്ടികൾ രൂപവത്കരിച്ചതും ജെഫേഴസൺ സായ്പിന്റെ നാട്ടിൽത്തന്നെ.
+</p>
+          <p>ആഭ്യന്തര യുദ്ധത്തിനും തെക്കൻ സംസ്ഥാനങ്ങളുടെ പുനർ നിർമാണത്തിനും ശേഷമുള്ള കാലഘട്ടം
+അമേരിക്കയിൽ വ്യവസായ കാർഷിക വിപ്ലവങ്ങളുടേതായിരുന്നു. വിശാലമായ പ്രയറിസമതലങ്ങളിൽ
+ഗോതമ്പും ചോളവും കൃഷി ചെയ്തു; കന്നുകാലി വളർത്തൽ വ്യാപകമായി 1860-ൽ ഉൽപാദിപ്പിച്ചതിന്റെ മൂന്നിരട്ടി
+ഗോതമ്പും ചോളവുമായിരുന്നു 1895-ൽ വിളഞ്ഞതു്. ജലസേചന സൗകര്യങ്ങളുടെയും റെയിൽവേയുടെയും
+വ്യാപനം കാർഷിക പുരോഗതിയെ ത്വരിതപ്പെടുത്തി. എല്ലാ സംസ്ഥാനങ്ങളിലും കാർഷിക കോളേജുകളും കൃഷി
+ഗവേഷണ കേന്ദ്രങ്ങളുമുണ്ടായി. പത്തൊമ്പതാം നൂറ്റാണ്ടു് അവസാനിക്കുമ്പോഴും അമേരിക്കയിലെ പ്രധാന
+തൊഴിൽ കൃഷിയായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p> കാർഷികോൽപാദനം വർധിച്ചതനുസരിച്ചു് ഉൽപന്നങ്ങളുടെ വിലയിടിഞ്ഞു. 1870–73 കാലയളവിൽ ഒരു
+ബുഷൽ ഗോതമ്പിനു് ശരാശരി 106.7 സെന്റ് വിലകിട്ടിയിരുന്നെങ്കിൽ 1886–89ൽ 74.8 സെന്റും 1894–97ൽ 63.3
+സെന്റുമായി കുറഞ്ഞു. ചോളത്തിന്റെയും പരുത്തിയുടെയും വിലയും കുത്തനെ ഇടിഞ്ഞു. ലോകവിപണിയിൽ
+കനേഡിയൻ, റഷ്യൻ, ആസ്ത്രേലിയൻ ഉൽപാദകരുമായി മൽസരിച്ചു് ജയിക്കാൻ അമേരിക്കൻ കർഷകർക്കു്
+ത്രാണിയുണ്ടായിരുന്നില്ല. വരൾച്ച, മണൽക്കാറ്റു്, മണ്ണൊലിപ്പു്, വെട്ടുകിളി എന്നിവയെക്കൊണ്ടുണ്ടായ നാശം;
+ദുർവഹമായ കടത്തുകൂലി ചുമത്തിയ റെയിൽവേ കമ്പനികളും കൊളളപ്പലിശ ഈടാക്കിയ ധനകാര്യ
+സ്ഥാപനങ്ങളും—കർഷകരുടെ ജീവിതം ദുഃസഹമായി.
+</p>
+          <p>പ്രക്ഷോഭമല്ലാതെ ഒരു മാർഗവും കൃഷിക്കാരുടെ മുന്നിലില്ലാതായി. മധ്യഅമേരിക്കയിൽ പേട്രൺസ് ഒഫ്
+ഹസ്ബൻഡറി (ഗ്രാഞ്ച്) എന്ന സംഘടനയും പശ്ചിമ തീരത്തു്. ഗ്രീൻബാക്ക് പാർട്ടിയുമായിരുന്നു കർഷക
+മുന്നേറ്റത്തെ നിയന്ത്രിച്ചതും നയിച്ചതും. സംസ്ഥാന നിയമസഭകളിലും കോൺഗ്രസിലും ഏതാനും അംഗങ്ങളെ
+നേടാൻ ഈ സംഘടനകൾക്കായി: കടത്തുകൂലി നിയന്ത്രിക്കാൻ ചില്ലറ നിയമനിർമാണങ്ങളും ഉണ്ടായി. പക്ഷേ,
+ദേശീയ രാഷ്ട്രീയത്തിന്റെ ചുക്കാൻ വൻകിട വ്യവസായികളുടെയും ബാങ്കുടമകളുടെയും ബലിഷ്ഠകരങ്ങളിൽത്തന്നെ
+അമർന്നിരുന്നു. കർഷകരുടെ കഷ്ടപ്പാടുകളോടു് ഡമോക്രാറ്റ്. റിപ്പബ്ളിക്കൻ പാർട്ടികൾ ഒരുപോലെ അലംഭാവം
+പ്രകടിപ്പിച്ച സാഹചര്യത്തിൽ പോപ്പുലിസ്റ്റ് പാർട്ടി എന്നൊന്നു് ദേശീയ തലത്തിൽതന്നെ രൂപവത്കരിക്കപ്പെട്ടു.
+ബിഗ് ബിസിനസിനോടും റിപ്പബ്ലിക്കൻ പാർട്ടിയോടുമുള്ള അന്ധമായ എതിർപ്പായിരുന്നു പോപ്പുലിസത്തിന്റെ
+കാതൽ. എട്ടുമണിക്കൂർ ജോലി റെയിൽവേ ദേശസാത്കരണം, പോസ്റ്റ്ഓഫീസ് സേവിംഗ്സ് ബാങ്കുകൾ,
+പുത്തൻ ആദായ നികുതിനിയമം. സ്വതന്ത്രമായ വെള്ളിനാണയം… അങ്ങനെ പോയി അവരുടെ
+വാഗ്ദാനങ്ങൾ 1892-ലെ പ്രസിഡന്റ് തെരഞ്ഞെടുപ്പിൽ പോപ്പുലിസ്റ്റ് സ്ഥാനാർഥി പത്തുലക്ഷം വോട്ടുപിടിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/William_Jennings_Bryan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വില്യം ജെന്നിംഗ്സ് ബ്രയാൻ</figDesc>
+          </figure>
+          <p>1896 ആകുമ്പോഴേക്കും സ്ഥിതിഗതികൾ തീരെ വഷളായി. കടുത്ത സാമ്പത്തിക മാന്ദ്യത്തിന്റെ ഫലമായി
+അഞ്ഞൂറോളം ബാങ്കുകൾ തകർന്നു. ദശലക്ഷക്കണക്കിനാളുകൾക്കു് തൊഴിൽ നഷ്ടപ്പെട്ടു. 1895-ൽ ഫെഡറൽ
+ഇൻകംടാക്സ് നിയമം ഭരണഘടനാ വിരുദ്ധമാണെന്നുകണ്ടു് സുപ്രിംകോടതി റദ്ദാക്കി. കുത്തകകൾക്കുമീതെ
+പരുന്തും പറക്കില്ല എന്നു് തെളിഞ്ഞു. 1896-ലെ തെരഞ്ഞെടുപ്പിൽ ഡെമൊക്രാറ്റ് കക്ഷി ഹെബ്രസ്കയിൽ നിന്നുള്ള
+<ref target="https://en.wikipedia.org/wiki/William_Jennings_Bryan">വില്യംജെന്നിംഗ്സ്
+ബ്രയാനെ</ref> സ്ഥാനാർഥിയാക്കി. ദരിദ്രവർഗത്തോടു് പ്രതിബദ്ധതയുള്ളയാളായിരുന്നു
+മുപ്പത്തിയാറുകാരനായ ബ്രയാൻ. പോപ്പുലിസ്റ്റ് പാർട്ടി ബ്രയാനെ പിന്താങ്ങി. മറുഭാഗത്തു് വ്യവസായികളും
+ഹുണ്ടികക്കാരും <ref target="https://ml.wikipedia.org/wiki/William_McKinley">വില്യം മക്കെൻലി</ref>
+യെ പിന്തുണച്ചു. പണം പച്ചവെള്ളം പോലെ ഒഴുക്കി ബ്രയാനെതിരായ അപവാദ പ്രചാരണം മുൻനിരപത്രങ്ങൾ
+ഏറ്റെടുത്തു. കർഷകരുടെയും തൊഴിലാളികളുടെയും ഉറച്ച പിന്തുണയുണ്ടായിട്ടും ബ്രയാൻ വിജയിച്ചില്ല.
+1900-ത്തിലും 1906-ലും ബ്രയാൻ പരാജയം ആവർത്തിച്ചു.
+</p>
+          <p>ഒരു നൂറ്റാണ്ടിനുശേഷം ഭൂഗോളത്തിന്റെ മറ്റേപ്പകുതിയിൽ ഹരിത-ധവള പതാകകളേന്തി കർഷകർ
+പ്രതിഷേധ റാലി നടത്തുന്നതുകണ്ടു് <ref target="https://en.wikipedia.org/wiki/William_Jennings_Bryan">വില്യം
+ജെന്നിംഗ്സ് ബ്രയാന്റെ</ref> ആത്മാവു് പുളകം കൊണ്ടിരിക്കണം സെപ്റ്റംബർ 23-അം തീയതി ചൊവ്വാഴ്ച
+പതിനായിരക്കണക്കിനു് കർഷകരാണു് കോട്ടയത്തു് പ്രതിഷേധ പ്രകടനം നടത്തിയതു്. ഇന്ത്യൻ ഫാർമേഴ്സ്
+മൂവ്മെന്റ് (ഇൻഫാം) ആയിരുന്നു സംഘാടകർ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/William_McKinley.jpg" rendition="gra"/>
+            <figDesc style="thumb">വില്യം മക്കെൻലി</figDesc>
+          </figure>
+          <p> പത്തൊമ്പതാം നൂറ്റാണ്ടിന്റെ അന്ത്യത്തിൽ മിസൗറിയിലെയും നെബ്രാഡ്കയിലെയും കർഷകർ
+അനുഭവിച്ചതിലും എത്രയോ വലിയ യാതനയാണു് ഇപ്പോൾ കേരളത്തിലെ കൃഷിക്കാർ അനുഭവിക്കുന്നതു്.
+റബറിനു വിലയില്ല. നാളികേരത്തിനു വിലയേയില്ല. നാളികേരത്തിനു് വിലയേയില്ല. സുഗന്ധ ദ്രവ്യങ്ങൾക്കു്
+ആഗോള വിപണിയിൽ വിലയുണ്ടു്. ആഭ്യന്തര വിപണിയിൽ വിലയില്ല. കർഷകർക്കു് കഷ്ടകാലം.
+കയറ്റുമതിക്കാർക്കു് കൊയ്ത്തു മെതിയും. കർഷകർക്കു് സംഘടനയില്ല. വോട്ടുബാങ്കുമില്ല. സംഭാവേന
+ഋജുബുദ്ധികളായതുകൊണ്ടു് പറഞ്ഞുപറ്റിക്കാനും എളുപ്പം. റബറിന്റെ വിലയിടിഞ്ഞതു് കോൺഗ്രസിന്റെ
+കൊള്ളരുതായ്മകൊണ്ടാണെന്നു് മാർക്സിസ്റ്റുകാർ പറഞ്ഞപ്പോൾ <ref target="https://en.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> യെ തോൽപിച്ചു് <ref target="https://ml.wikipedia.org/wiki/K._Suresh_Kurup">സുരേഷ് കുറുപ്പി</ref> നെ
+ജയിപ്പിച്ചു. <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ.
+ജോസഫി</ref> ന്റെ പിടിപ്പില്ലായ്മ കൊണ്ടാണു് തേങ്ങക്കു് വിലയില്ലാത്തതെന്നു് <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> സാറ് പറഞ്ഞപ്പോൾ
+ഔസേപ്പച്ചനെയും തോൽപിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ramesh_Chennithala.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമേശ് ചെന്നിത്തല</figDesc>
+          </figure>
+          <p> ഭരണചക്രം ആരു് തിരിച്ചാലും കാർഷികോൽപ്പന്നങ്ങൾക്കു് വില കൂടില്ല എന്നു് ജനം തിരിച്ചറിയുമ്പോഴാണു്
+കത്തനാന്മാരുടെ വരവു്. പത്രോസ് ശ്ലീഹയുടെ റോളെടുത്തതു് ഫാ. മാത്യു വടക്കേമുറി. മറ്റു ശിഷ്യന്മാരായവർ ഫാ.
+ആന്റണി കൊഴുവനാൽ, ഫാ. ഗ്രിഗറി ഓണകുളം മുതൽ പേർ. മുക്കോളം മുങ്ങിയ കർഷകർ വടക്കേമുറിയെയല്ല
+<ref target="https://ml.wikipedia.org/wiki/Bal_Thackeray">ബാൽതാക്കറെ</ref>
+യെവരെ സ്വീകരിക്കാവുന്ന അവസ്ഥയിലായതുകൊണ്ടു് ഫാർമേഴ്സ് മൂവ്മെന്റ് പച്ചപിടിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Suresh_Kurup.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുരേഷ് കുറുപ്പ്</figDesc>
+          </figure>
+          <p>ഫാർമേഴ്സ് മൂവ്മെന്റും ഹരിത-ധവള പതാകകളുമായാൽ പിന്നെ എന്തുചെയ്യാം? പ്രതിഷേധ പ്രകടനം,
+പൊതുസമ്മേളനം ഗംഭീരമായ പ്രമേയങ്ങൾ അങ്ങനെ പലതും തൊപ്പിപ്പാള ധാരികളായ കർഷകർ
+നാഗമ്പടത്തുനിന്നു് നഗരം ചുറ്റി തിരുനക്കര മൈതാനത്തെത്തി ആർച്ചുബിഷപ്പിന്റെ പ്രസംഗം കേട്ടു്
+നിർവൃതിയടഞ്ഞു പിന്നെ വന്ന വാഹനങ്ങളിൽ കയറി സ്വദേശത്തേക്കു് മടങ്ങി. പ്രകടനത്തിനിടെ അസാരം
+കലാകായിക പ്രകടനങ്ങളുമുണ്ടായി. റബർ ബോർഡിനും മലയാള മനോരമക്കുമെതിരായ മുദ്രാവാക്യങ്ങൾ
+മുഴങ്ങി; രണ്ടു് സ്ഥാപനങ്ങൾക്കുനേരെയും കല്ലേറുമുണ്ടായി.
+</p>
+          <p>റബർ ബോർഡിനുനേരെ നടന്ന കല്ലേറിനെ ജീവനക്കാരുടെ സംഘടന ശക്തമായി അപലപിച്ചു.
+ഇന്ത്യയിലെ റബർകൃഷി വികസിപ്പിക്കുന്നതിനായി അരനൂറ്റാണ്ടിലേറെയായി അക്ഷീണം
+പരിശ്രമിച്ചുകൊണ്ടിരിക്കുന്ന റബർബോർഡിനെയും ജീവനക്കാരെയും കടന്നാക്രമിക്കാൻ ശ്രമിക്കുന്ന
+പ്രവർത്തശൈലി ഇൻഫാം പ്രവർത്തകർ ഉപേക്ഷിക്കുന്നതാണു് നല്ലതെന്നു് എംപ്ലോയീസ് ഓർഗനൈസേഷൻ
+ജനറൽ സെക്രട്ടറി താക്കിതു് ചെയ്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാണി</figDesc>
+          </figure>
+          <p> മനോരമയോ? കല്ലേറിൽ ചില്ലു് ജാലകങ്ങളുടയുന്ന ശബ്ദം പത്രാധിപർ കേട്ടില്ല. പത്രം കത്തിക്കുന്ന കാഴ്ച
+ലേഖകരാരും കണ്ടതുമില്ല. “നിങ്ങളുടെ ശത്രുക്കളെ സ്നേഹിപ്പിൻ; നിങ്ങളെ ഉപദ്രവിക്കുന്നവർക്കുവേണ്ടി
+പ്രാർഥിപ്പിൻ” എന്ന തിരുവചനം ഓർത്തു് കർഷകരോടു് അപ്പോൾതന്നെ ക്ഷമിച്ചു. 24-നു് ഒന്നാംപേജിൽ
+വർണചിത്രം സഹിതം വാർത്തകൊടുക്കുകയും ചെയ്തു. “ഞാനോ നിങ്ങളോടു് പറയുന്നതു് ദുഷ്ടനോടു്
+എതിർക്കരുതു്; നിന്റെ വലത്തേ ചെകിട്ടത്തു് അടിക്കുന്നവനു് മറ്റേതും തിരിച്ചുകാണിക്ക. നിന്നോടു വ്യവഹരിച്ചു്
+നിന്റെ വസ്ത്രം എടുപ്പാൻ ഇച്ഛിക്കുന്നവനു് നിന്റെ പുതപ്പും വിട്ടുകൊടുക്ക…”(മത്തായി 5:39–40).
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Bal_Thackeray.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാൽതാക്കറെ</figDesc>
+          </figure>
+          <p> ഒന്നാലോചിച്ചാൽ റബർ കർഷകരോടു് എന്തുപാതകമാണു് മലയാളമനോരമ ചെയ്തതു്? <ref target="https://ml.wikipedia.org/wiki/Kandathil_Varghese_Mappillai">കണ്ടതിൽ
+വർഗീസുമാപ്പിള</ref> യുടെ കാലം മുതൽക്കിങ്ങോട്ടു് എത്ര ഏക്കർ പത്രസ്ഥലമാണു്, എത്രടൺ
+അച്ചടിമഷിയാണു് റബർ കൃഷിക്കായി മനോരമ ചെലവിട്ടതു്? <ref target="https://ml.wikipedia.org/wiki/C.K._Kareem">ഡോ. സി. കെ. കരീം</ref>
+എഴുതിയ ‘മലയാളത്തിന്റെ മഹാവൃക്ഷം’ (തെറ്റിദ്ധരിക്കരുതേ, റബറല്ല, മനോരമയാണു് വൃക്ഷം) എന്ന ഗ്രന്ഥം
+വായിപ്പിൻ. “റബർതോട്ടങ്ങൾ ആരംഭിക്കേണ്ടതിന്റെ ആവശ്യകതയെയും അതിനാൽ ഉണ്ടാകുന്ന ലാഭത്തെയും
+കർഷകർക്കു് മനസ്സിലാക്കിക്കൊടുക്കാൻ മനോരമ അതിന്റെ മുഖപ്രസംഗങ്ങളിലൂടെയും ലേഖനങ്ങളിലൂടെയും
+കഠിനയത്നം നടത്തിയിട്ടുണ്ടു് 1905 ഡിസംബർ 2-നും 1907 ഫെബ്രുവരി 17-നും വന്ന മുഖലേഖനങ്ങളിൽ
+റബർതോട്ടങ്ങൾക്കായി യുറോപ്യൻ കമ്പനികൾ കാണിക്കുന്ന ആവേശത്തിന്റെ നേരിയ ഒരംശംപോലും
+
+നാട്ടുകാരിൽ ഇല്ലാത്തതിൽ ഖേദിക്കുകയും സ്വർണഖനികളേക്കാൾ ലാഭം റബറിൽ നിന്നുണ്ടാകുന്നതാണെന്നു്
+ഉദ്ബോധിപ്പിക്കുകയും ചെയ്തിരുന്നു… മലയാള മനോരമ നിരന്തരം നടത്തിയ ഈ പ്രവർത്തനങ്ങളുടെ
+ഫലമായി 1910-ൽ മലങ്കര റബർ ആന്റ് പ്രൊഡ്യുസേഴ്സ് കമ്പനി രൂപംകൊണ്ടു. അതായിരുന്നു കേരളീയരുടേതായ
+ആദ്യത്തെ റബർ കമ്പനി.”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kandathil.png" rendition="gra"/>
+            <figDesc style="thumb">കണ്ടതിൽ വർഗീസുമാപ്പിള</figDesc>
+          </figure>
+          <p> മലയാളിയുടേതായ ആദ്യത്തെ ടയർ കമ്പനിയും കണ്ടത്തിൽ കുടുംബക്കാരുടേതായതു് തികച്ചും
+സ്വാഭാവികം. അതാണു് മലനാട്ടിലും മറുനാട്ടിലും പേരുകേട്ട മദ്രാസ് റബർ ഫാക്ടറി എം. ആർ. എഫ്. ടയറുകൾ
+ആഭ്യന്തര വിപണി കീഴടക്കി, വിദേശത്തും കുതിക്കുകതന്നെയാണു്.
+</p>
+          <p>ടയർ വ്യവസായികളുടെ കുത്തിത്തിരിപ്പു് കൊണ്ടാണു് റബറിനു് വിലയിടിയുന്നതെന്നാണു് ദീപികയും
+മാതൃഭൂമിയും പ്രചരിപ്പിക്കുന്നതു്. “ടയർ കമ്പനികൾ അഞ്ചുകൊല്ലം മുമ്പു് അവരുടെ ഉൽപനങ്ങൾക്കു് വിലകൂട്ടി.
+റബറിനു് 65 രൂപ വിലയുള്ള കാലമായിരുന്നു അതു് . ഉൽപാദന ചെലവിന്റെ പകുതിയിലധികം അസംസ്കൃത
+വസ്തുവിന്റെ വിലയാണെന്നാണു് അതിനവർ പറഞ്ഞ ന്യായം. ഇന്നു് റബർ വില മുന്നിലൊന്നാളമായി
+കുറഞ്ഞിരിക്കുകയാണു് ടയറിന്റെ വില അൽപംപോലും കുറച്ചിട്ടില്ലെന്നു് മാത്രമല്ല. ചില ഇനങ്ങൾക്കു് വില
+കൂടിയിട്ടുമുണ്ടു്. ആഭ്യന്തര വിപണിയിൽ വില അൽപമൊന്നു് മെച്ചപ്പെട്ടാൽ അതിടിക്കാൻ റബർ ഇറക്കുമതി
+ചെയ്യുകയെന്ന തന്ത്രവും വ്യവസായികൾ പ്രയോഗിക്കുന്നുണ്ടു്. ഉൽപാദനം കുറയുന്നമഴക്കാലത്തു് ലൈസൻസ്
+നേടും; കൂടുന്ന കാലത്തു് അതുപയോഗിച്ചു് ഇറക്കുമതി നടത്തുകയും ചെയ്യും. ആഭ്യന്തര വിപണിയിൽനിന്നു് കുറഞ്ഞ
+വിലയ്ക്കു റബർ വൻതോതിൽ വാങ്ങിക്കൂട്ടാനുള്ള തന്ത്രമാണിതു്…” മാതൃഭൂമി കുറ്റപ്പെടുത്തുന്നു,
+“വ്യവസായികൾ അഹന്തയോടെ നടത്തുന്ന ചൂഷണം അവസാനിപ്പിക്കാൻ ഇറക്കുമതി കർശനമായും
+വിലക്കിയേ മതിയാകൂ. അതിനാണു് കേന്ദ്രസർക്കാർ ഇറക്കുമതിച്ചുങ്കം 75 ശതമാനമായി
+ഉയർത്തേണ്ടതു് ”—ദീപിക ധർമരോഷം കൊള്ളുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CK_Kareem.png" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. സി. കെ. കരീം</figDesc>
+          </figure>
+          <p> ഇൻഫാമിന്റെ സെക്രട്ടറി കടുത്ത അന്ത്യോഖ്യാ ഭക്തനും അക്കാരണം കൊണ്ടുതന്നെ മനോരമ
+വിരുദ്ധനുമാകുന്നു. മോശയുടെ കാലത്തു് മനോരമയുണ്ടായിരുന്നെങ്കിൽ ദൈവം പതിനൊന്നു കൽപനകൾ
+നൽകുമായിരുന്നു എന്നു് പ്രസംഗിച്ചതു് ഇദ്ദേഹമാണു് പതിനൊന്നാം കൽപന—“മനോരമ വായിക്കരുതു്”
+എന്നായിരിക്കും!
+</p>
+          <p>കർഷകരെയും പുരോഹിതരെയും തിരുനക്കര മൈതാനത്തുവിട്ടു് നമുക്കു് ഐക്യനാടുകളിലേക്കു് മടങ്ങാം.
+ഇരുപതാം നൂറ്റാണ്ടിന്റെ ആദ്യപാദത്തിലും കർഷകരുടെ നില പരിതാപകരമായി തുടർന്നു. ഒന്നാം ലോക
+യുദ്ധത്തിനുശേഷം അമേരിക്കയിലുണ്ടായ സാമ്പത്തികാഭിവൃദ്ധി കൃഷിക്കാർക്കു് അനുഭവവേദ്യമായില്ല. 1928-ൽ
+ആരംഭിച്ച സാമ്പത്തിക മാന്ദ്യമാകട്ടെ അവരെ തകർക്കുകയും ചെയ്തു. ദുരിതത്തിന്റെ പരമകാഷ്ടയിലാണു് 1932-ലെ
+തെരഞ്ഞെടുപ്പു് നടന്നതും <ref target="https://ml.wikipedia.org/wiki/Franklin_D._Roosevelt">ഫ്രാങ്ക്ളിൻ ഡി.
+റൂസ്വെൽറ്റ്</ref> അധികാരമേറ്റതും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/FDR.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഫ്രാങ്ക്ളിൻ ഡി. റൂസ്വെൽറ്റ്</figDesc>
+          </figure>
+          <p> കാർഷികോൽപന്നങ്ങളുടെ വിദേശ വിപണി തീരെ ഇല്ലാതായിരിക്കുന്ന സാഹചര്യത്തിൽ ഉൽപാദനം
+കുറക്കുകയല്ലാതെ കർഷകർക്കു് ന്യായവില കിട്ടാൻ ഒരു മാർഗവുമില്ലെന്നു് <ref target="https://ml.wikipedia.org/wiki/Franklin_D._Roosevelt">റൂസ്വെൽറ്റ്</ref>
+
+കണ്ടു. 1933-ൽ ഫാർമേഴ്സ് റിലീഫ് ആക്റ്റ് പാസായി; അഗ്രികൾച്ചറൽ അഡ്ജസ്റ്റ്മെന്റ് അഡ്മിനിസ്ട്രേഷൻ നിലവിൽ
+വന്നു. കൃഷി ചെയ്യുന്ന ഭൂമിയുടെ അളവു് കുറക്കുന്നവർക്കും വളർത്തുമൃഗങ്ങളുടെ എണ്ണം കുറവു് ചെയ്യുന്നവർക്കും
+സർക്കാർ നഷ്ടപരിഹാരം നൽകി. അതിനുള്ള പണം പ്രോസസിംഗ് ടാക്സ് പിരിവിലൂടെ കണ്ടെത്തി.
+തുണിനെയ്ത്തുകാരിൽനിന്നു് പിരിച്ച നികുതി പരുത്തി കർഷകർക്കും ധാന്യമില്ലുകളിൽ നിന്നുള്ള നികുതി ഗോതമ്പു്
+കൃഷിക്കാർക്കും വീതിച്ചുകൊടുത്തു. ഉൽപാദനം കുറഞ്ഞമുറക്കു് വിലകൂടി 1934-ലും 36-ലും വരൾച്ചമൂലം
+കാർഷികോൽപാദനം സ്വാഭാവികമായിത്തന്നെ കുറഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Alf_Landon.jpg" rendition="gra"/>
+            <figDesc style="thumb">അൽഫ് ലാൻഡൻ</figDesc>
+          </figure>
+          <p>കുത്തകകൾ അടങ്ങിയിരുന്നില്ല. അഗ്രികൾച്ചറൽ അജ്ഡസ്റ്റ്മെന്റ് അഡ്മിനിസ്ട്രേഷനും പ്രോസസിംഗ് ടാക്സും
+ഭരണഘടനാവിരുദ്ധമാണെന്നു് സുപ്രിംകോടതി വിധിച്ചു. പിന്തിരിപ്പന്മാരായ ജഡ്ജിമാരെ
+പുകച്ചുപുറത്താക്കാനായി <ref target="https://ml.wikipedia.org/wiki/Franklin_D._Roosevelt">റൂസ്വെൽറ്റി</ref>
+ന്റെ ശ്രമം. “ജുഡിഷ്യറിയിൽനിന്നു രാജ്യത്തെയും ജുഡിഷറിയെത്തന്നെയും രക്ഷിക്കേണ്ടിയിരിക്കുന്നു.” എന്നായി
+പ്രസിഡന്റ് വലിയ പുകിലായി ഒടുവിൽ സുപ്രിംകോടതി വഴങ്ങി ന്യുഡിൽ നിയമനിർമാണങ്ങൾ സാധുവാണെന്നു്
+വിധികളുണ്ടായി പ്രോസസിംഗ് ടാക്സിന്റെ അതേ മാതൃകയിൽ സോയിൽ കൺസർവേഷൻ ആക്റ്റ് ഉണ്ടാക്കി
+മണ്ണൊലിപ്പു് തടയാൻ വേണ്ടി നികുതി പിരിച്ചു: അതിന്റെ വിഹിതം കർഷകർക്കു് നൽകുകയും ചെയ്തു.
+</p>
+          <p>18-നും 25-നുമിടക്കു് പ്രായമുള്ള തൊഴിൽരഹിതരെ ചേർത്തു് സിവിലിയൻ കൺസർവേഷൻ കോർ
+രൂപവത്കരിച്ചു. അവർക്കു് വനവത്കരണം കാട്ടുതീ നിയന്ത്രണം, മണ്ണൊലിപ്പു് നിവാരണം എന്നിവയിലൊക്കെ
+പരിശീലനം നൽകി വനവത്കരണത്തിലൂടെ മണ്ണൊലിപ്പും പൊടിക്കാറ്റും ഫലപ്രദമായി തടഞ്ഞു. 1932-നും
+1937-നുമിടക്കു് കൃഷിക്കാരുടെ മൊത്തവരുമാനം ഇരട്ടിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Albert_Einstein_Head.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആൽബർട്ട് ഐൻസിറ്റിൻ</figDesc>
+          </figure>
+          <p> 1933-ൽ സ്ഥാപിക്കപ്പെട്ട <ref target="https://en.wikipedia.org/wiki/Tennessee_Valley">ടെന്നസി വാലി</ref>
+അതോറിറ്റി <ref target="https://ml.wikipedia.org/wiki/Franklin_D._Roosevelt">ഫ്രാങ്ക്ളിൻ
+റൂസ്വെൽറ്റി</ref> ന്റെ രാജ്യതന്ത്രജ്ഞതയുടെ ശാശ്വത സ്മാരകമായി പരിലസിക്കുന്നു. ടെന്നസി നദിയിൽ
+അണക്കെട്ടുകളുണ്ടാക്കി വെള്ളപ്പൊക്കം നിയന്ത്രിച്ചു. കർഷകർക്കു് കുറഞ്ഞ ചെലവിൽ വൈദ്യുതി ലഭ്യമാക്കി
+ടെന്നസി തടത്തിലെ ഏഴു് സംസ്ഥാനങ്ങളിലെ ജലസേചനം സുഗമമായി പുതിയവളം നിർമാണ ശാലകൾ
+സ്ഥാപിച്ചു: മണ്ണൊലിപ്പു് തടയാൻ വൃക്ഷങ്ങൾ നടുപിടിപ്പിച്ചു: നദിയിൽ കപ്പൽച്ചാലുകളുണ്ടാക്കി.
+</p>
+          <p>ഏതാണ്ടിതേ കാലത്തുതന്നെ ട്രേഡ് യൂണിയനുകൾ നിയമവിധേയമാക്കി തൊഴിലാളികളുടെ സേവന
+വേതന വ്യവസ്ഥകൾ നിയന്ത്രിച്ചുകൊണ്ടും നിയമനിർമാണങ്ങളുണ്ടായി തൊഴിലില്ലായ്മ പരിഹരിക്കാനും
+ഋണബാധ്യത ലഘൂകരിക്കാനും സർക്കാർ നടപടിയെടുത്തു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ആന്റണി</figDesc>
+          </figure>
+          <p> റിപ്പബ്ലിക്കൻ പാർട്ടിയും യാഥാസ്ഥിതിക പത്രങ്ങളും മാത്രമല്ല ഡെമോക്രാറ്റ് പാർട്ടിയിലെ തന്നെ ഒരു
+പ്രബല വിഭാഗവും <ref target="https://ml.wikipedia.org/wiki/Franklin_D._Roosevelt">റൂസ്വെൽറ്റി</ref>
+നെ നിരന്തരമായി എതിർത്തു. 1936-ലെ തെരഞ്ഞെടുപ്പിൽ കൻസാസ് ഗവർണർ <ref target="https://en.wikipedia.org/wiki/Alf_Landon">അൽഫ് ലാൻഡൻ</ref>
+റൂസ്വെൽറ്റിനെതിരെ രംഗത്തുവന്നു. വ്യവസായികളും പത്രമുടമകളും ലാൻഡനുവേണ്ടി അവിശ്രമം പ്രവർത്തിച്ചു.
+എന്നിട്ടും റൂസ്വെൽറ്റ് വിജയിച്ചു. അന്നുണ്ടായിരുന്ന 48 സംസ്ഥാനങ്ങളിൽ 46-ഉം അദ്ദേഹം നേടി.
+</p>
+          <p>ഒരു വർഷത്തിലേറെ നീണ്ട തെരച്ചിലിനുശേഷം ടൈം മാഗസീൻ ഇരുപതാംനൂറ്റാണ്ടിലെ വ്യക്തിയായി
+തെരഞ്ഞെടുത്തതു് <ref target="https://ml.wikipedia.org/wiki/Albert_Einstein">ആൽബർട്ട്
+ഐൻസിറ്റിനെ</ref> യായിരുന്നു തൊട്ടുപിന്നിലെത്തിയവർ <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മോഹൻദാസ് ഗാന്ധി</ref>
+<ref target="https://ml.wikipedia.org/wiki/Franklin_D._Roosevelt">ഫ്രാങ്കളിൻ
+റൂസ്വെൽറ്റ്</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KR_Gouriamma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗൗരിയമ്മ</figDesc>
+          </figure>
+          <p> ഓരോ ജനതക്കും അവരർഹിക്കുന്ന നേതാക്കളെ കിട്ടുമെന്നു് പറഞ്ഞതു് ആരാണാവോ? ഏതായാലും
+ഫ്രാങ്ക്ളിൻ റൂസ്വെൽറ്റല്ല <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref>
+യാണിവിടെ മുഖ്യമന്ത്രി കൃഷിയും മൃഗസംരക്ഷണവും <ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരിയമ്മ</ref>
+വളത്തിന്റെയും കീടനാശിനികളുടെയും വിലയും തൊഴിലാളി സഖാക്കളുടെ കൂലിയും കൂടിക്കൊണ്ടേയിരിക്കുന്നു.
+വൈദ്യുതി ചാർജ്ജ് വാനത്തോളം ഉയർന്നിട്ടുണ്ടു്. കാർഷികോൽപന്നങ്ങളുടെ വിലമാത്രം കീഴ്ക്കാം തൂക്കായി
+താഴോട്ടു്. കടബാധ്യത മൂലം ജീവനൊടുക്കുന്ന കർഷകരുടെ കദനകഥ പത്രത്താളുകൾ നിറക്കുന്നു ഒരാൾ
+മരിച്ചാൽ ഒരു ശവത്തൂക്കം വാർത്ത.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kallerinte Suvishesham (ml:
+കല്ലേറിന്റെ സുവിശേഷം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Kallerinte Suvishesham, കെ. രാജേശ്വരി, കല്ലേറിന്റെ സുവിശേഷം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 9, 2026.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Children_Playing_on_the_Beach_A14816.jpg">Children
+Playing on the Beach,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Mary_Cassatt">Mary Cassatt</ref>
+ (1844–1926). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kalleru.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kalleru.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

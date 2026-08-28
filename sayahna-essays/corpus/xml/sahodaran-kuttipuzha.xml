@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സഹോദരനയ്യപ്പൻ</title>
+          <title xml:lang="en" type="main">Sahodaranayyappan</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">July 19, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സഹോദരനയ്യപ്പൻ</title>
+              <title xml:lang="en" type="main">Sahodaranayyappan</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Sahodaranayyappan</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>സഹോദരനയ്യപ്പൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 19, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/sahodaranayyappan.jpg" width="100%"/>
+          <figDesc>Sahodaran Ayyappan, Memorial, Kochi, a photograph by Challiyan  .
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സഹോദരനയ്യപ്പൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സഹോദരനയ്യപ്പൻ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Narayana_Guru.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശ്രീനാരായണഗുരു</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>എനിക്കു നിത്യസ്മരണീയനായ ഉത്തമസുഹൃത്തായിരുന്നു പരേതനായ <ref target="https://ml.wikipedia.org/wiki/Sahodaran_Ayyappan">സഹോദരനയ്യപ്പൻ</ref>.
+അദ്ദേഹത്തിന്റെ സപ്തതി പ്രമാണിച്ചു് പുറപ്പെട്ട ഉപഹാര ഗ്രന്ഥത്തിൽ ഞാൻ ഒരു ലേഖനമെഴുതിയിരുന്നു.
+സന്ദർഭോചിതമായ വ്യതിയാനത്തോടെ സ്മരണരൂപത്തിൽ അതു് ഇവിടെ ചേർക്കുകയാണു്. ഏതാണ്ടു്
+നാൽപ്പത്തഞ്ചുകൊല്ലം മുമ്പാണെന്നു തോന്നുന്നു, ഞാൻ സഹോദരനുമായി ആദ്യം പരിചയപ്പെട്ടതു്; ആലുവാ
+അദ്വൈതാശ്രമം സംസ്കൃതപാഠശാലയിൽവച്ചു്. അന്നു് ഞാൻ അവിടെ ഒരധ്യാപകനായിരുന്നു. <ref target="https://ml.wikipedia.org/wiki/Sreenarayana_Guru">ശ്രീനാരായണഗുരു</ref>
+വിനെ കാണാനും മറ്റുമായി സഹോദരൻ അക്കാലത്തു കൂടെക്കൂടെ ആശ്രമത്തിൽ വന്നുകൊണ്ടിരുന്നു. അന്നത്തെ
+ഞങ്ങളുടെ അഭിമുഖപരിചയം പിന്നീടു ദീർഘകാലസമ്പർക്കം, ആശയവിനിമയം, അഭിപ്രായൈക്യം
+മുതലായവവഴി സുദൃഢസുഹൃദ്ബന്ധമായി വികസിച്ചു. ആ ബന്ധം സഹോദരന്റെ മരണം വരെ അഭേദ്യമായി
+നിലനിന്നു. അദ്ദേഹവുമായുള്ള സംസർഗ്ഗം എന്റെ മതപരവും സാമുദായികവുമായ ചിന്താഗതിയിൽ പല
+മാറ്റങ്ങളും വരുത്തിയിട്ടുണ്ടെന്നുള്ള വസ്തുത ഞാൻ ഇവിടെ കൃതജ്ഞതാപൂർവ്വം സ്മരിക്കട്ടെ.
+യുക്തിവാദമണ്ഡലത്തിൽ എം. സി.യെപ്പോലെതന്നെ സഹോദരനും എനിക്കു ധാരാളം പ്രചോദനം
+നൽകിയിട്ടുണ്ടു്. ഞാൻ ആദ്യമായിക്കണ്ട ആ രൂപം—ചൊടിയും ചുണയും ചോരത്തിളപ്പും തത്തിക്കളിച്ചിരുന്ന
+നീണ്ടുനിവർന്ന ആ വെളുത്ത ശരീരം—ഇന്നും മനസ്സിൽ പതിഞ്ഞുകിടക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Portrait_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മഹാത്മാഗാന്ധി</figDesc>
+          </figure>
+          <p> സഹോദരനു പുലയനയ്യപ്പനെന്നും ഒരു പേരു് പ്രസിദ്ധമായിരുന്നുവല്ലോ—സഹോദരപ്രസ്ഥാനം
+ആരംഭിച്ചുകാലത്തു സ്വസമുദായത്തിൽനിന്നുതന്നെ ആക്ഷേപസൂചകമായി പുറപ്പെട്ട പേരാണു് അതു്. ആ പേരിൽ
+അഭിമാനം കൊള്ളുകയാണു് അദ്ദേഹം ചെയ്തിരുന്നതു്. എന്നാൽ സഹോദരനയ്യപ്പൻ എന്ന പേരു് കുറെകൂടി
+ആലോചനാമൃതമാണു്. പുലയപ്പേരിനില്ലാത്ത വിശ്വവിശാലത സഹോദരനാമത്തിനുണ്ടല്ലോ. ഏതുദേശത്തും
+ഏതു കാലത്തും മനുഷ്യവർഗ്ഗമുള്ളിടത്തെല്ലാം ആ സഹോദര്യമാധുര്യം ആസ്വാദ്യമായിരിക്കും. ജാതിയുടേയോ
+മതത്തിന്റേയോ വർഗ്ഗത്തിന്റേയോ പേരിൽ എവിടെ മനുഷ്യൻ താഴ്ത്തപ്പെട്ടുകിടക്കുന്നുവോ അവിടെ ആ നാമധേയം
+ഒരു ഉത്തേജകശക്തിയായി പ്രവർത്തിക്കും. സഹോദരൻ ജാതി ധ്വംസനത്തിനായി പുറപ്പെട്ടു് പുലയനെ
+ആശ്ലേഷിച്ച കാലം ഏതാണെന്നു് ആലോചിക്കണം. ഒരു പരിവർത്തനഘട്ടമായി കേരളചരിത്രത്തിൽ അതു്
+എന്നെന്നും സ്മരിക്കപ്പെടും. നായരും നമ്പൂതിരിയും ഈഴവനും മറ്റും അതതു ജാതിക്കകത്തുതന്നെ വേർതിരിഞ്ഞു
+നിന്നു് ഉച്ചനീചത്വം പുലർത്തിയിരുന്ന കാലമായിരുന്നു അതു്. ജാതിനശിക്കണമെന്നു് ഉദ്ഘോഷിക്കാൻ അന്നു്
+ആർക്കാണു് ധൈര്യം ഉണ്ടാവുക. സാമൂഹ്യപരിഷ്ക്കർത്താക്കളിൽ അഗ്രേസരന്മാർപോലും അന്നു് അത്രത്തോളം
+ചിന്തിച്ചില്ല. സഹോദരൻമാത്രം ഇടയ്ക്കെങ്ങും തങ്ങിനിൽക്കാതെ മനുഷ്യത്വത്തിന്റെ പരമോന്നത ശൃംഗത്തിലേയ്ക്കു
+പാഞ്ഞുകയറി. സമഗ്രവും സർവ്വങ്കഷവുമായിരുന്നു ഈ ധീരനേതാവിന്റെ ജാതിനാശകസമരം. മറ്റു ചില
+പരിഷ്കൃതാശയന്മാർ ജാതി വൃക്ഷത്തിന്റെ കുറെ പുറം പടർപ്പുകൾമാത്രം നീക്കം ചെയ്യാനൊരുങ്ങിയപ്പോൾ
+സഹോദരൻ അതിന്റെ നാരായവേരുതന്നെ മുറിച്ചു. മിശ്രവിവാഹം കൊണ്ടു വിരോധമില്ല എന്നു
+സൗമ്യസ്വരത്തിലേ ശ്രീനാരായണഗുരു ഉപദേശിച്ചുള്ളു. എന്നാൽ മിശ്രവിവാഹംകൊണ്ടേ ജാതി നശിക്കു. അതു
+പ്രചരിപ്പിക്കുക തന്നെ വേണം എന്നു വിധിരൂപത്തിൽ ഇടിനാദം മുഴക്കിയതു സഹോദരനാണു്.
+ആബ്രാഹ്മണചണ്ഡാലം ആർക്കും ഞെട്ടലുണ്ടാക്കുന്ന ഒരു വീരാട്ടഹാസമായിരുന്നു അതു്. ജാതി, മതം, വർഗ്ഗം
+മുതലായ ഏതിന്റെയെങ്കിലും പേരിൽ മനുഷ്യൻ ആഢ്യതാനാട്യം നടത്തുന്ന കാലത്തോളം ആ നാദത്തിനു പുതുമ
+
+ഉണ്ടായിരിക്കും. അതൊരു വിപ്ലവ കാഹളമായിരിക്കയും ചെയ്യും. ജാതി വേണ്ടെന്നു പറയുന്നവർ ഇന്നു
+ധാരാളമുണ്ടു്. എന്നാൽ സഹോദരനെപ്പോലെ വിചാരത്തിലും വാക്കിലും പ്രവൃത്തിയിലും മാത്രമല്ല
+വൈകാരികമായിട്ടുപോലും ജാതിയില്ലാതെ ജീവിക്കാൻ എത്രപേർക്കു കഴിയുന്നുണ്ടെന്നു നിശ്ചയമില്ല.
+നൂറ്റാണ്ടുകളുടെ പാരമ്പര്യത്തിൽ അകത്തു് ഇഴുകിപ്പിടിച്ചിരിക്കുന്ന ജാതിപ്പശ മുഴുവൻ തുടച്ചു നീക്കുക അത്ര
+എളുപ്പമല്ല. അതിന്റെ മുര, സൂക്ഷിച്ചുനോക്കിയാൽ ഇനിയും നമ്മളിൽക്കാണാം. മഹാത്മാഗാന്ധിയുടെ
+ഉപബോധമനസ്സിൽപ്പോലും ജാതി ഭേദം ഒളിച്ചുകളിനടത്തിയിരുന്നു. വർണ്ണ വ്യവസ്ഥയെ തത്ത്വദൃഷ്ട്യാ
+സാധൂകരിക്കാൻ അദ്ദേഹം പണിപ്പെടുകയുണ്ടായി. അന്നൊക്കെ ഒരു വിട്ടു വീഴ്ചയുംകൂടാതെ സഹോദരൻ,
+ഗാന്ധിജിയെ എതിർത്തിരുന്നു. അതൊരു ധിക്കാരമായിട്ടുപോലും അക്കാലത്തു പലരും തെറ്റിദ്ധരിച്ചിട്ടുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jnehru-1.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജവഹർലാൽനെഹ്റു</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാൽനെഹ്റു</ref>
+വും തമ്മിലുണ്ടായിരുന്ന ബന്ധം സർവവിദിതമാണല്ലോ. ഏകദേശം അതുപോലെയുള്ള ഒരു ബന്ധമായിരുന്നു
+ശ്രീനാരായണഗുരുവും സഹോദരനയ്യപ്പനും തമ്മിലുണ്ടായിരുന്നതു്. വേണ്ടിവന്നാൽ ഗുരുവിന്റെ അഭിപ്രായങ്ങളെ
+നിരൂപണം ചെയ്യാൻ ശിഷ്യൻ മടിച്ചിരുന്നില്ല. ശിഷ്യന്റെ ആത്മാർത്ഥതയും അഭിപ്രായധീരതയും
+സ്വതന്ത്രചിന്തയും ഗുരുവിനെ സന്തോഷിപ്പിച്ചതേ ഉള്ളൂ. യുക്തിവാദത്തിൽ കൂടി നിർമ്മതത്വത്തിലേയ്ക്കും
+നിരീശ്വരത്വത്തിലേയ്ക്കും സഹോദരൻ ചെന്നെത്തിയപ്പോഴും സ്വാമിക്കു് അപ്രീതിയല്ല ഉണ്ടായതു്.
+മതഗ്രന്ഥങ്ങൾക്കും ആചാര്യന്മാർക്കും അടിമയാകാതെ യുക്തിമാർഗ്ഗത്തെ അവലംബിച്ചുള്ള സഹോദരന്റെ
+സ്വതന്ത്രചിന്താശീലത്തെ ഗുരു ഏറ്റവും വിലമതിച്ചിരുന്നു. ഈഴവസമുദായനേതാക്കളിൽ മറ്റാരോടും തോന്നാത്ത
+സ്നേഹവാത്സല്യങ്ങൾ സ്വാമിക്കു് ഈ ശിഷ്യനോടുണ്ടായിരുന്നു. സഹോദരൻ സന്ന്യാസം സ്വീകരിച്ചു തന്റെ
+പിൻഗാമിയായിത്തീരണമെന്നുകൂടി ഗുരു പാദർക്കു അഭിലാഷമുണ്ടായിരുന്നുവത്രേ. കേരളീയരുടെ ഭാഗ്യംകൊണ്ടു്
+അങ്ങനെ സംഭവിച്ചില്ല. ഏറെക്കാലം അഗേഹനായി ചുറ്റിസഞ്ചരിച്ച സഹോദരൻ ഒടുവിൽ ഗൃഹസ്ഥാശ്രമം
+സ്വീകരിച്ചു. മനോഹരവും മാതൃകാപരവുമായ ഒരു കുടുംബജീവിതം അതിൽനിന്നു പൊന്തിവന്നു. അവിടെ
+നിറഞ്ഞുതുളുമ്പിയിരുന്ന ശാന്തിസന്തോഷസൗഭാഗ്യങ്ങൾ നേരിട്ടു കണ്ടാഹ്ലാദിക്കാനും സ്നേഹമധുരമായ ആതിഥ്യം
+ആസ്വദിക്കാനും എനിക്കു പലപ്പോഴും അവസരം ലഭിച്ചിട്ടുണ്ടു്. ദാമ്പത്യത്തിന്റെ പരാജയപതാകയല്ല,
+വിജയപതാകയാണു് അവിടെ പാറിക്കളിച്ചിരുന്നതു്. ഗൃഹസ്ഥർക്കു പലതും കണ്ടു പഠിക്കാനുള്ള ഒരു
+വിദ്യാലയമായിരുന്നു ആ കുടുംബം. ശ്രീമതി പാർവ്വതിഅയ്യപ്പനും ഭർത്താവിനെപ്പോലെതന്നെ സദാപി
+പ്രവർത്തനനിരതയാണു്. സാമൂഹികസേവനത്തിൽ അവരും തന്റേതായൊരു മാർഗ്ഗം വെട്ടിത്തുറന്നിരിക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Dr_Bhimrao_Ambedkar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. അംബേദ്കർ</figDesc>
+          </figure>
+          <p>സഹോദരൻ ഒരു കടുത്ത വർഗ്ഗീയവാദിയായിരുന്നുവെന്നു് ആക്ഷേപിക്കുന്ന ചില ദേശീയവാദികളുണ്ടു്.
+അവർക്കു് അവരുടെ നാണയത്തിൽതന്നെ ചുട്ടമറുപടി കൊടുക്കാൻ വിദഗ്ദ്ധനായിരുന്നു അദ്ദേഹം. അതു
+കേൾക്കാൻ രസമുണ്ടു്; ആലോചനയ്ക്കും വകനൽകും. ഇക്കൂട്ടരുടെ സങ്കുചിതമായ ദേശീയവാദത്തിന്റെ തനിനിറം
+വെറും വർഗ്ഗീയമാണെന്നും ശാസ്ത്രീയമായ ദേശീയവാദമാണു് തന്റേതെന്നും അദ്ദേഹം യുക്തിയുക്തം
+സമർത്ഥിച്ചിരുന്നു. അതു ഖണ്ഡിക്കാൻ അത്ര എളുപ്പവുമല്ല. അവശ സമുദായങ്ങളുടെ സാമ്പത്തികവും
+സാമൂഹികവുമായ പരാധീനത നിശ്ശേഷം നീങ്ങിയെങ്കിലേ ശുദ്ധദേശീയഭാവം സാർവ്വത്രികമായി പുലരുകയുള്ളു
+എന്നതു് ആർക്കും നിഷേധിക്കവയ്യാ. അധഃകൃത നേതാവായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/B._R._Ambedkar">ഡോ. അംബേദ്കറും</ref>
+ഇത്തരം ആക്ഷേപങ്ങൾക്കു് പാത്രമായിട്ടുണ്ടു്. ഒടുവിൽ അദ്ദേഹത്തിന്റെ നിലപാടാണു് ശരിയെന്നു പലർക്കും
+ബോധ്യമായി. ഇതേ രീതിയിലായിരുന്നു സഹോദരന്റെ സാമുദായിക വീക്ഷണവും. ഏതായാലും അദ്ദേഹത്തിന്റെ
+ഏതാദൃശവാദങ്ങൾ മലയാളഭാഷയിലെ പദസമ്പത്തു വർദ്ധിപ്പിച്ചിട്ടുണ്ടു്. കുറിക്കുകൊള്ളുന്ന അർത്ഥശക്തിയുള്ള
+പല പുതിയ പ്രയോഗങ്ങളും ആ തൂലിക സൃഷ്ടിച്ചു നടപ്പാക്കിയിരിക്കുന്നു. ജാതിക്കുശുമ്പു്, കുത്തകസമുദായം
+
+തുടങ്ങിയ പ്രയോഗ വിശേഷങ്ങൾ ഇക്കൂട്ടത്തിൽപ്പെട്ടവയത്രേ. സഹോദരമുദ്രപതിഞ്ഞിട്ടുള്ള ഇത്തരം പദങ്ങൾ
+ഇപ്പോൾ പ്രചുര പ്രചാരത്തിലായിട്ടുണ്ടു്. ആവശ്യമാണെന്നു വന്നാൽ വ്യാകരണനിയമത്തേയും ലംഘിച്ചു്
+ആശയപ്രകാശനത്തിനു പറ്റുന്ന ഒരു പുതിയ വാക്കു വാർത്തെടുക്കാൻ സഹോദരൻ മടിക്കാറില്ല. ശാബ്ദികന്മാർ
+ഇതൊരു ദുസ്സ്വാതന്ത്ര്യമാണെന്നു ശഠിച്ചേയ്ക്കാം. എന്നാലും ഭാഷയിലെ ശബ്ദശക്തി വികസിക്കാൻ ഇത്തരം
+നിയമരഹിതമായ ഗതിയും ഒരളവുവരെ അനുവദനീയമാണെന്നു സമ്മതിക്കണം.
+</p>
+          <p>എന്നെ ഏറ്റവും ആകർഷിച്ചിട്ടുള്ളതു സഹോദരന്റെ സ്വതന്ത്ര ചിന്താശീലവും യുക്തിവാദവുമാണു്.
+അതോടൊപ്പംതന്നെ അദ്ദേഹത്തിന്റെ എന്തും തുറന്നു പറയുന്ന സ്വഭാവവും. മറ്റുള്ളവരെപ്പോലെ സഹോദരനും
+സംഭാഷണത്തിലും പ്രസംഗത്തിലും മറ്റും വികാരഭരിതനായി കാണപ്പെട്ടേയ്ക്കാം. എന്നാൽ വികാരത്തിന്റെ
+വേലിയേറ്റം വിചാരശക്തിയെ ദുർബ്ബലമാക്കാതിരിക്കാൻ അദ്ദേഹം പ്രത്യേകം ശ്രദ്ധിക്കാറുണ്ടു്. സംശയിക്കുക,
+ചോദ്യം ചെയ്യുക, ചിന്തിക്കുക ഇതായിരുന്നു അദ്ദേഹത്തിന്റെ പതിവു്. ആലോചിക്കാതെ ഒരഭിപ്രായം
+ഒന്നിനെപ്പറ്റിയും സഹോദരൻ പറയുകയില്ല. ഏതിലും തുളച്ചുകയറുന്ന യുക്തിവാദം അദ്ദേഹത്തിൽ
+മുന്നിട്ടുനിന്നിരുന്നു. മനുഷ്യന്റെ ചിന്താവ്യാപാരത്തെ പിടിച്ചുവളയ്ക്കുന്ന മാനസിക പ്രവണതകളെപ്പറ്റി സഹോദരനു
+നല്ല ബോധമുണ്ടായിരുന്നു. അതുകൊണ്ടു്, വാദപ്രതിവാദവേളയിൽ അവയുടെ പിടിയിൽ നിന്നു് ഒഴിഞ്ഞുമാറാനും
+പ്രതിയോഗികളുടെ വാദവൈകല്യങ്ങൾ കണ്ടുപിടിച്ചു വെളിച്ചത്തുകൊണ്ടുവരുവാനും അദ്ദേഹത്തിനു നിഷ്പ്രയാസം
+സാധിച്ചിരുന്നു. പ്രാമാണികനായ രാഷ്ട്രീയചിന്തകൻ എന്ന നിലയിലും സഹോദരൻ അടുത്ത കാലത്തു
+പൂർവ്വാധികം പ്രശസ്തി നേടിയിരുന്നു. ഇത്രത്തോളം നിഷ്പക്ഷമായും നിർബാധമായും നിർഭയമായും രാഷ്ട്രീയ
+നിരൂപണം നിർവ്വഹിക്കുന്നവർ കേരളത്തിൽ ചുരുക്കമാണെന്നുവേണം പറയാൻ. അദ്ദേഹത്തിന്റെ
+ആഴ്ച്ചക്കുറിപ്പുകൾക്കു പത്രലോകത്തിൽ പ്രമുഖസ്ഥാനം ലഭിച്ചിരുന്നതു് ഈ ഗുണം കൊണ്ടത്രേ. ഒരു
+രാഷ്ട്രീയപാർട്ടിയിലും അദ്ദേഹം ഒട്ടിനിന്നിരുന്നില്ല. എല്ലാ പാർട്ടികളിലും ഉള്ള ഗുണവും ദോഷവും അദ്ദേഹം
+നിരൂപണ വിഷയമാക്കിയിരുന്നു.
+</p>
+          <p>സഹോദരനുമായി സംഭാഷണത്തിലേർപ്പെടുക എന്നതു് എന്റെ മനസ്സിനൊരു ഔഷധസേവയായിരുന്നു.
+അതിനുവേണ്ടിത്തന്നെ ഞാൻ ഇടയ്ക്കിടയ്ക്കു് അദ്ദേഹത്തിന്റെ വസതിയിൽ പോകാറുണ്ടായിരുന്നു. ബഹുരസമാണു്
+അദ്ദേഹവുമായി തർക്കിക്കാൻ. ആ കുശാഗ്രബുദ്ധി കുത്തിക്കുത്തി ചോദിക്കൂന്ന ചോദ്യങ്ങളിൽക്കൂടി അതുവരെ നാം
+കാണാതിരുന്ന ചില വാദമുഖങ്ങൾ തെളിഞ്ഞുവരും. തികച്ചും ശരിയെന്നു നാം ധരിച്ചുവെച്ചിരുന്ന പല
+അഭിപ്രായങ്ങളും പുനഃപരിശോധനചെയ്യേണ്ടവയാണെന്നു വെളിപ്പെടും. സംഭാഷണത്തിനിടയിൽ ചിലപ്പോൾ
+ഒരു വേദാന്തിയോ തത്വജ്ഞാനിയോ അദ്ദേഹത്തിൽ നിന്നു് ഉണർന്നുവരുന്നതു കാണാം. അപ്പോൾ നമ്മളും
+അദ്ദേഹത്തോടൊപ്പം പ്രൗഢമായ ജീവിതചിന്തയിൽ മുഴുകിപ്പോകുന്നു. പ്രപഞ്ചം, മനുഷ്യൻ, ആത്മാവു് തുടങ്ങിയ
+ഗഹനവിഷയങ്ങളെപ്പറ്റി എത്രയോ തവണ ഞങ്ങൾ വിചാരണചെയ്തിട്ടുണ്ടു്. ഏതു കാര്യവും വസ്തുനിഷ്ഠമായി
+വിശകലനംചെയ്തു നോക്കുന്നതിൽ ഈ താർക്കികനു് ഒരു പ്രത്യേക പാടവമുണ്ടായിരുന്നു.
+</p>
+          <p>യാവനകാലത്തു്, സാമൂഹികവിപ്ലവത്തിന്റെ ഒരു കൊടുങ്കാറ്റു തന്നെയായിരുന്നു സഹോദരൻ.
+വാർദ്ധക്യത്തിൽ അതു ശാന്തമായി എങ്കിലും അതിന്റെ ഇരമ്പം ഇന്നും കേരളത്തിൽ മാറ്റൊലിക്കൊള്ളുന്നുണ്ടു്.
+ഇതിനൊക്കെപ്പുറമേ അദ്ദേഹം നല്ലൊരു കവിയുമായിരുന്നു. പക്ഷേ, എന്തു കൊണ്ടോ സഹോദരന്റെ
+കവിതകൾക്കു് അവയർഹിക്കുന്ന പ്രചാരം ലഭിച്ചിട്ടില്ല. എനിക്കു് ഏറ്റവും ഇഷ്ടപ്പെട്ട—പലപ്പോഴും ഞാൻ
+അയവിറക്കാറുള്ള—അദ്ദേഹത്തിന്റെ രണ്ടു ശ്ലോകംകൂടെ ഉദ്ധരിച്ചിട്ടു് ഈ സ്മരണ അവസാനിപ്പിക്കാം.
+</p>
+          <lg>
+            <l> എങ്ങുനിന്നോ പുറപ്പെട്ടു</l>
+            <l> മെങ്ങോട്ടോ മുഖമാക്കിയും</l>
+            <l> എന്തിനെന്നാരുമോരാതെ</l>
+            <l> പോകുന്നു ലോകജീവിതം.</l>
+          </lg>
+          <lg>
+            <l>
+അനന്തകോടി ജീവങ്ങ-</l>
+            <l> ളുൾക്കൊണ്ട യുഗകോടികൾ</l>
+            <l> കടന്ന പരിണാമത്തിൽ</l>
+            <l> പ്രവാഹം ലോകജീവിതം. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+—സ്മരണമഞ്ജരി.</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sahodaranayyappan (ml:
+സഹോദരനയ്യപ്പൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Sahodaranayyappan, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, സഹോദരനയ്യപ്പൻ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 19, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Sahodaran Ayyappan, Memorial,
+Kochi, a photograph by Challiyan  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sahodaran-kuttipuzha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sahodaran-kuttipuzha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സാമുദായിക കാര്യങ്ങൾ</title>
+          <title xml:lang="en" type="main">Samudayika Karyangal</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">February 8, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സാമുദായിക കാര്യങ്ങൾ</title>
+              <title xml:lang="en" type="main">Samudayika Karyangal</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-02-06</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Samudayika Karyangal</term>
+          <term>സഞ്ജയൻ</term>
+          <term>സാമുദായിക കാര്യങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-02-06</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Caricatura.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Caricatura_de_Ram%C3%B3n_Subercaseaux__1906.jpg">Caricatura de Ram\’on Subercaseaux,</ref> a painting by Lustig - Seudónimo
+de Pedro Subercaseaux  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സാമുദായിക കാര്യങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സാമുദായിക കാര്യങ്ങൾ</head>
+        <div type="lsection">
+          <p style="noindent">സഞ്ജയന്റെ ബഹുമാനാദരങ്ങൾക്കു പാത്രമായ ഒരു മഹാശയൻ സഞ്ജയനു
+പത്രികയാപ്പീസിലൂടെ അയച്ചു ഒരെഴുത്തു കിട്ടിയിരിക്കുന്നു. സഞ്ജയൻ പത്രികയിൽ എഴുതിവരുന്ന
+കുറിപ്പുകളെക്കുറിച്ചു് അദ്ദേഹം രേഖപ്പെടുത്തിയിട്ടുള്ള അഭിനന്ദനത്തെ അവ അർഹിക്കുന്നില്ലെന്നു സഞ്ജയനു
+നല്ലപോലെ അറിയാമെങ്കിലും, അതിനെ ഒരു പ്രോത്സാഹനമായും അനുഗ്രഹമായും സഞ്ജയൻ സ്വീകരിക്കുന്നു.
+പക്ഷേ, സാമുദായികകാര്യങ്ങളെക്കുറിച്ചും, ചില്ലറ ഉദ്യോഗസ്ഥന്മാർ നാട്ടുകാരുടെ നേരെ കാണിക്കുന്ന
+അഴിമതികളെക്കുറിച്ചും സഞ്ജയൻ യാതൊന്നും എഴുതുന്നില്ലെന്നു് അദ്ദേഹം പറയുന്നതിനെപ്പറ്റി രണ്ടു വാക്കു്
+ഇവിടെ പറഞ്ഞു കൊള്ളട്ടെ?
+</p>
+          <p>പറയുന്നതിനിടയ്ക്കു്, ‘രണ്ടു വാക്കു് ’ എന്നു പറഞ്ഞതു് ലോകാചാരത്തിനു വഴിപ്പെട്ടിട്ടാണേ! വാസ്തവത്തിൽ ‘രണ്ടു
+വാക്കു്’ പറയാൻ സമ്മതം ചോദിക്കുന്ന മഹാരഥന്മാർ രണ്ടായിരം വാക്കുകൊണ്ടുകൂടി കാര്യം
+അവസാനിപ്പിക്കുന്നവരല്ല. അതു പോകട്ടെ, തിരുമേനി! സഞ്ജയൻ ഒരു കാര്യം നല്ലപോലെ പഠിച്ചിട്ടുണ്ടു്. അതു്
+മറ്റെന്തു വിഡ്ഢിത്തം ചെയ്താലും, കേരളഭൂമിയിൽവെച്ചു് സാമുദായികകാര്യങ്ങളെക്കുറിച്ചു് പറവാൻ വിചാരിക്കുന്ന
+മനുഷ്യൻ രാത്രി ഒറ്റയ്ക്കു നടക്കാൻ ഒരുങ്ങരുതെന്നുള്ളതാണു്. ‘സഞ്ജയൻ ആരായിരുന്നാലും ശരി… അദ്ദേഹം
+അവർണ്ണസമുദായക്കാർ കവിതയെഴുതി, നന്നായിപ്പോകുന്നതിൽ അത്യധികം അസൂയയുള്ള ഒരു
+വ്യക്തിയാണെന്നു് പണ്ടൊരു മഹാനിഷ്പക്ഷപാതി പറഞ്ഞതു് അവിടുന്നു കണ്ടിരുന്നുവോ? അങ്ങനെ ഒരാൾ
+പറഞ്ഞു. ഭഗവാനാണേ പറഞ്ഞു. ആ സ്ഥിതിക്കു് ഏതു സമുദായത്തെക്കുറിച്ചെങ്കിലും, എത്ര
+സ്നേഹത്തോടുകൂടിയെങ്കിലും സഞ്ജയൻ എന്തെങ്കിലും പറഞ്ഞാൽ ആ സമുദായത്തിൽപ്പെട്ടവരും, ഒരു
+കക്ഷിക്കാരെ സപ്പോർട്ടുചെയ്താൽ മറ്റു കക്ഷിക്കാരും പറയുന്നതു് എന്തൊക്കെയായിരിക്കും! ‘ഭയങ്കരം!’
+</p>
+          <p>അതുകൊണ്ടാണു് സഞ്ജയൻ ഒരു സമുദായത്തിലേയും കക്ഷിവഴക്കിനെപ്പറ്റിയും, ഭിന്നസമുദായങ്ങൾ
+തമ്മിലുള്ള വഴക്കുകളെപ്പറ്റിയും, ഗുണം വാ ദോഷം വാ മറ്റെന്തെങ്കിലും വാ, ഒരക്ഷരം മിണ്ടാത്തതു്. സഞ്ജയൻ
+കാര്യമറിയാഞ്ഞിട്ടല്ല; ന്യായം തോന്നാഞ്ഞിട്ടല്ല, വാക്കിനുവാക്കു പറയുവാൻ കഴികയില്ലെന്നു പേടിച്ചിട്ടല്ല.
+</p>
+          <lg>
+            <l>‘പലരൊടൊരുവൻതാൻ കലഹമതു ചെയ്താൽ</l>
+            <l> പലതരമപായം ഫലമറിക, രാജൻ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>എന്നല്ലേ സഞ്ജയന്റെ പഴയ ‘ചങ്ങാതിയായ മിസ്റ്റർ വിദുരൻ പറഞ്ഞിരിക്കുന്നതു്?
+</p>
+          <p>ഉദ്യോഗസ്ഥന്മാരേയോ മറ്റേതെങ്കിലും വർഗ്ഗക്കാരേയോ കുറിച്ചു പറയുമ്പോഴും ഈ തകരാറുണ്ടു്; പക്ഷേ,
+മറ്റൊരു രൂപത്തിലാണു്. സമുദായങ്ങളുടെ കാര്യം പറയുമ്പോൾ സമുദായസ്പർധകൊണ്ടു പറയുന്നതാണെന്നു
+വിചാരിക്കുന്ന കൂട്ടർ, വർഗ്ഗങ്ങളെപ്പറ്റി പറയുമ്പോൾ വ്യക്തിമാത്തര്യംകൊണ്ടു പറയുന്നതാണെന്നും വിചാരിക്കും.
+സഞ്ജയനെ ശപിക്കുന്ന കമ്മീഷണർമാരുണ്ടു്; ചേർമാന്മാരുണ്ടു്; സന്ന്യാസിമാരുണ്ടു്; സ്കൂൾ മാനേജർമാരുണ്ടു്;
+മജിസ്ട്രേട്ടെജമാനന്മാരുണ്ടു്; ഹെൽത്താപ്പീസർമാരുണ്ടു്; കൊതുകുകളുണ്ടു്; ബഹുമതികൾ സിദ്ധിച്ച
+രാജാക്കന്മാരുണ്ടു്; മഹാകവികളാകുവാൻ വേണ്ടി തല കിഴുക്കാംതൂക്കമായി നില്ക്കുന്ന ചില്ലറക്കവികളുണ്ടു്;
+വിവാഹമംഗളക്കാരുണ്ടു്; വിദ്യു ച്ഛക്തിക്കാരുണ്ട്, പാഠപുസ്തകകാരന്മാരുണ്ടു്; പാഠ്യപുസ്തകക്കമ്മിറ്റിക്കാരുണ്ടു്;
+ആലോല നീലമിഴിമാരുണ്ടു്; (എന്തൊരു സംഘം)
+</p>
+          <lg>
+            <l>‘വീരഭദ്രൻ പണ്ടു ദക്ഷനെക്കൊല്ലുവാൻ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>വീറോടുകൂടിയിരുന്നതുപോലെയിരിക്കുന്ന ഒരു കൗൺസിലധ്യക്ഷനുമുണ്ടു്. അദ്ദേഹത്തിന്റെ കൂടെ സഞ്ജയൻ
+ഒരു രാത്രി ഉറങ്ങിയെങ്കിൽ, പിറ്റേ ദിവസത്തേക്കു തിരുമനസ്സിലെ വിധേയൻ ചങ്ങലംപരണ്ട അംശദേശത്തു
+‘പാറപ്പുറത്തു് സഞ്ജയൻ’ പരേതനായ ശ്രീമാനായിപ്പോകും. ‘ നിര്യാതന്റെ ആത്മാവിനു്, കേരളപത്രികയും
+അവളുടെ മാന്യസഹജീവികളും ‘നിത്യശാന്തി’യെ പ്രാർത്ഥിക്കുമായിരിക്കും. സഞ്ജയന്റെ യുക്തിവാദികളായ
+സ്നേഹിതന്മാർ പരിണാമച്ചങ്ങലയിലെ ഒരു കണ്ണികൂടെ തെറിച്ചുപോയതോർത്തു്, അവരുടെ അഭിപ്രായപ്രകാരം
+ഇല്ലെന്നല്ലെങ്കിലും ഉണ്ടെന്നില്ലാത്ത ദൈവത്തോടു് ഒന്നും പ്രാർത്ഥിക്കാതിരിക്കും. സന്തോഷത്തിൽ മതിമറന്ന
+വനിതാലോകം കൈകൊട്ടിക്കളി നടത്തും, ‘എന്റെ ഭാഗ്യം, യജമാനനേ, എന്റെ ഭാഗ്യം!’ എന്നു പറഞ്ഞു് ഓരോ
+കച്ചട്ടിസ്വാമിയും കളഭം ചാർത്തൽ കഴിപ്പിക്കും; കൊതുകുകൾ ‘മുനിസിപാലിറ്റി കീ ജേയ്! എന്നു്
+ആർത്തുവിളിച്ചുംകൊണ്ടു കാഹളമൂതിപ്പറക്കും.
+</p>
+          <p>സഞ്ജയനെ കൗൺസിലധ്യക്ഷൻ സിദ്ധുകൂട്ടിയാൽ ആരും വ്യസനിക്കുകയില്ലേ? എന്നു തിരുമേനി ചോദിക്കും.
+വ്യസനിക്കും. ചങ്ങലംപരണ്ടയിലെ ‘ടോട്ടൽ’ നിവാസികളിൽ ഒന്നര ഡസൻ പേർ ഒന്നര മണിക്കുറു വീതം
+വ്യസനിക്കും; ഒന്നര മാസത്തോളം വ്യസനിക്കുന്നുണ്ടെന്നു വിശ്വസിക്കും; ഒന്നരക്കൊല്ലത്തോളം
+വ്യസനിക്കുന്നുണ്ടെന്നു പറയും. പിന്നീടു് സഞ്ജയൻ ‘വൺസപ്പോണെ ടൈ’മായി.
+</p>
+          <lg>
+            <l>‘പുരാ വിശ്രവസഃ പുത്രോ രാവണോ </l>
+            <l>നാമ രാക്ഷസഃ ആസിൽ…’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>എന്നു പറഞ്ഞ കവി മേപ്പടി ‘രാവണോനാമ’നെക്കുറിച്ചു കണ്ണിൽ വെള്ളം നിറച്ചുകൊണ്ടാണോ എഴുതിയതു്?
+യുക്തിവാദിയെപ്പോലെ: ഞാൻ വിശ്വസിക്കുന്നില്ല തിരുമേനീ, എനിക്കു വിശ്വസിപ്പാൻ കഴിയുന്നില്ല.
+</p>
+          <p>വിഷയം, സമർഥനായ വൈദ്യൻ ചികിത്സിക്കുന്ന രോഗത്തെപ്പോലെ, ഒരു സ്ഥലത്തെ കമ്മീഷണർ മറ്റൊരു
+സ്ഥലത്തേക്കെന്നപോലെ, ഓന്തിന്റെ നിറംപോലെ, മന്ത്രവാദിയെക്കണ്ട ഗന്ധർവനെപ്പോലെ,
+ആഴ്‌വാഞ്ചേരിത്തമ്പ്രാക്കളുടെ മുൻപിൽ നിന്ന പാക്കനാരെപ്പോലെ, മാറിപ്പോകുന്നു. ഉദ്യോഗസ്ഥന്മാരേയോ, മറ്റു
+ഗ്രൂപ്പുകളേയോ കുറിച്ചു് എഴുതിയാലും മുഷിയുന്നവരും, മുഖം തിരിക്കുന്നവരും, പല്ലു കടിക്കുന്നവരും ഉണ്ടാകുമെന്നു
+പറഞ്ഞ സ്ഥലത്തുനിന്നാണു് സഞ്ജയൻ ലൈൻ മാറിപ്പോയതു്. എന്നാലും സഞ്ജയൻ അതൊന്നും
+വകവെക്കാതെ കുറ്റമോ കുറവോ കണ്ടാൽ പറയാറുണ്ടെന്നാണു് സഞ്ജയനു ബോധിപ്പിക്കുവാനുള്ളതു്.
+</p>
+          <lg>
+            <l>‘ബലികളൊടു വൈരം കരുതരുതു ധീമൻ!</l>
+            <l> കുലഹരമിതെല്ലാം പ്രണമത മുകുന്ദം!’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>എന്നും മിസ്റ്റർ വിദുരൻ സഞ്ജയനോടല്ലെങ്കിലും, പറഞ്ഞിട്ടുമുണ്ടു്. പക്ഷേ, അതു സഞ്ജയൻ വകവെച്ചില്ല.
+ഉണ്ടെന്നു് അവിടുന്നു വിചാരിക്കുന്നുണ്ടോ?
+</p>
+          <p>
+27-1-1935
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Samudayika Karyangal (ml:
+സാമുദായിക കാര്യങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-02-06. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan,
+Samudayika Karyangal, സഞ്ജയൻ, സാമുദായിക കാര്യങ്ങൾ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 8, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Caricatura_de_Ram%C3%B3n_Subercaseaux__1906.jpg">Caricatura de Ram\’on Subercaseaux,</ref> a painting by Lustig - Seudónimo
+de Pedro Subercaseaux  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-samudayika.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-samudayika.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

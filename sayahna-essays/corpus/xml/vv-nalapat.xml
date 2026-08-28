@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നാലപ്പാട്ടു നാരായണമേനോൻ</title>
+          <title xml:lang="en" type="main">Nalapat Narayanamenon</title>
+        </title>
+        <author>Vallathol Vasudevamenon B. A.</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 18, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നാലപ്പാട്ടു നാരായണമേനോൻ</title>
+              <title xml:lang="en" type="main">Nalapat Narayanamenon</title>
+            </title>
+            <author>Vallathol Vasudevamenon B. A.</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Vallathol Vasudevamenon B. A.</term>
+          <term>Nalapat Narayanamenon</term>
+          <term>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</term>
+          <term>നാലപ്പാട്ടു നാരായണമേനോൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 18, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Flower_girls.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Augustus_Edwin_Mulready_Flower_girls__a_summers_night_1885.jpg">Flower girls—a summers night,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Augustus_Edwin_Mulready">Augustus
+Edwin Mulready</ref>  (1844–1905). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നാലപ്പാട്ടു നാരായണമേനോൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നാലപ്പാട്ടു നാരായണമേനോൻ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Nalapat_Narayana_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">നാലപ്പാട്ടു നാരായണമേനോൻ</figDesc>
+          </figure>
+          <p style="noindent"> വ്യക്തിമാഹാത്മ്യം സമൃദ്ധമായുള്ള ഒരാൾക്കു്, പൊതുജീവിതത്തിൽ
+പ്രവേശിക്കാതെതന്നെ, ജനങ്ങളുടെ വിചാരഗതിയെ എങ്ങനെ സ്പർശിക്കാൻ കഴിയുമെന്നുള്ളതിന്നു് ലക്ഷ്യങ്ങൾ
+പല രാജ്യത്തും പലതോതിലും നിലനിൽപ്പുണ്ടു്. മലയാളത്തിനു് അതിനു മിസ്റ്റർ <ref target="https://ml.wikipedia.org/wiki/Nalappat_Narayanamenon">നാലപ്പാട്ടി</ref>
+നെപ്പോലെ നല്ലൊരുദാഹരണം കിട്ടാൻ പ്രയാസമാണു്. സ്വതേ കവികളെ പ്രോത്സാഹിപ്പിക്കാത്ത ഒരു രാജ്യം;
+അത്ര തന്നെ മാതൃഭാഷയോടു മമതകാണിക്കാൻ മനസ്സില്ലാത്ത രാജ്യക്കാർ. ഇവരുടെ ഇടയിലേക്കാണു്,
+യാതൊരു ബാഹ്യശക്തികളുടെയും സഹായമില്ലാതെ, പാരമ്പര്യങ്ങളോടെല്ലാം കയർത്തു കൊണ്ടു്, മിസ്റ്റർ
+നാലപ്പാട്ട് ഉയർന്നുവന്നതു്. പഴയ രീതികളോടു പൊതുവിൽ ഒരെതിർപ്പു നടന്നിരുന്ന ഒരു കാലമായിരുന്നു അതു്.
+എന്നാൽ ദേശീയമായ ഒരൈക്യബോധവും മറ്റു ലൗകികവിഷയങ്ങളിലുള്ള പുരോഗമനോത്സുകമായ താൽപര്യവും
+പശ്ചാത്തലമായി നിന്നിരുന്ന ആ എതിർപ്പിൽ ബുദ്ധിപരമായ വിപ്ലവത്തിന്റെ അംശം തുച്ഛമായിരുന്നു.
+സാഹിത്യത്തിന്റെ സങ്കേതങ്ങളെ ഒന്നു മാറ്റിപ്പണി ചെയ്തു്, വീക്ഷണഗതികൾ ഒന്നു പുതുക്കി, പ്രതിപാദനരീതി
+ഒന്നുടച്ചു വാർത്തു് കുറേക്കൂടി ലളിതവും മനോഹരവുമാക്കാൻ ശ്രമിച്ചു. ഇതുകൊണ്ടു സാഹിത്യകാരന്മാരും
+സാഹിത്യാഭിരുചിയുള്ളവരും തൃപ്തിപ്പെട്ടപോലെ തോന്നി. എന്നാൽ അതിൽ മുഴുവൻ തൃപ്തിപ്പെടാതെ
+ഒരാളുണ്ടായിരുന്നു—നാലപ്പാട്ട്. അദ്ദേഹം ആ കൂട്ടത്തിൽനിന്നു്, താനിന്നു പൊതുജീവിതത്തിൽനിന്നു
+വേറിട്ടുനില്ക്കുന്നതുപോലെ, ഒന്നൊഴിഞ്ഞുനില്ക്കുകയാണു ചെയ്തതു്. അതിൽ ആദ്യമാരും അത്ര ശ്രദ്ധിച്ചില്ല എന്നാൽ,
+ക്രമേണ നാലപ്പാട്ടും ആ പുതിയ പ്രസ്ഥാനങ്ങളും തമ്മിൽ അകന്നകന്നുപോവുകയും ഇന്നു സമകാലീനത
+എന്നൊരു സാമാന്യസ്വഭാവമൊഴിച്ചു് അവർക്കു മറ്റു യാതൊരൈകരൂപ്യവുമില്ലാതെ വരികയും ചെയ്തിരിക്കുന്നു.
+</p>
+          <p>വികാരപരമായ പ്രതിഭയേക്കാൾ വിചാരപരമായ പ്രതിഭയാണു നാലപ്പാട്ടിന്റേതു് എന്നതാണു് ഇതിന്നു
+കാരണമെന്നു ഞാൻ കരുതുന്നു. ‘കണ്ണുനീർത്തുള്ളി’യിൽ മാത്രമേ വികാരപരമായ നാലപ്പാട്ടിനെ ഒന്നു വെളിക്കു
+കാണാൻ കിട്ടുന്നുള്ളു. അവിടെയും ഉടനീളം സുലഭമായി കാണാൻ കഴിയില്ലതാനും. എനിക്കു തോന്നുന്നതു്,
+അക്കാലത്തുതന്നെ നാലപ്പാട്ടും സ്വകാര്യങ്ങളായ തന്റെ വികാരങ്ങൾ പുറമേ പ്രകാശിപ്പിക്കുന്നതിൽ
+വിമുഖനായിരുന്നു എന്നാണു്. ലൈംഗിക വിഷയങ്ങളെപ്പറ്റി മലയാളത്തിലെ ഒന്നാമത്തെ ഒന്നാന്തരം
+പുസ്തകമെഴുതിയ ‘കണ്ണുനീർത്തുള്ളി’യുടെ കർത്താവു്, തന്റെ വികാര തീക്ഷ്ണതയെസ്സംബന്ധിച്ചേടത്തോളം
+ഇങ്ങനെ ഒരാത്മനിയന്ത്രണം സ്വീകരിച്ചതു് അനാവശ്യമായിപ്പോയില്ലേ എന്നു് എനിക്കു് ഇടയ്ക്കു തോന്നാറുണ്ടു്.
+തീക്ഷ്ണമായ വികാരപ്രകടനങ്ങളുള്ളേടത്തെല്ലാം അതിനൊരു ക്ഷമാപണമെന്നോ ആവരണമെന്നോ പോലെ
+‘കണ്ണുനീർത്തുള്ളി’യിൽ തത്ത്വവിചാരങ്ങൾ അകമ്പടിനില്ക്കുന്നുണ്ടു്. കാളിദാസന്റെ അമാനുഷമായ കലാസൗന്ദര്യം
+കൂടി വിലാപ സമയത്തിനിടയ്ക്കു ചിലപ്പോൾ അസഹ്യമായിപ്പോവാറുണ്ടെന്നു കരുതി, ശോകരസത്തിന്നു്
+ഉത്തമമാതൃകയായി ഭവഭൂതിയെ ആരാധിക്കുന്ന ഒരാൾക്കു് ‘കണ്ണുനീർത്തുള്ളി’യിലെ വിലാപാലാപത്തിൽ
+അതിലെ അതിസുലഭങ്ങളായ ഈ തത്ത്വജ്ഞാനപരമ്പരകളെ ഒരപശ്രുതിയായി തീർച്ചയായും എണ്ണാൻ
+കഴിയും. എന്നിട്ടും ‘കണ്ണുനീർത്തുള്ളി’യെ അതിശയിക്കുന്ന വിലാപകാവ്യം മലയാളത്തിലുണ്ടായിട്ടില്ലല്ലോ
+എന്നോർക്കുമ്പോൾ, ഞാൻ ഇടയ്ക്കാലോചിക്കാറുണ്ടു്, “അതിന്റെ കർത്താവു് തന്റെ വികാര രഹസ്യങ്ങൾ
+കുറേക്കൂടി തീക്ഷ്ണരൂപത്തിൽ നമ്മളുമായി പങ്കിട്ടിരുന്നുവെങ്കിൽ!…”
+</p>
+          <p>നാലപ്പാട്ടിനെ ഞാൻ കണ്ടിട്ടുള്ളതു് വളരെ വളരെ മുൻപാണു്. ഒരു പത്തുപതിന്നാലു
+സംവത്സരമായിക്കാണും. ഞങ്ങളുടെ വീട്ടിന്റെ പൂമുഖത്തു് നിലത്തു പുല്പായിൽ ചമ്മണപ്പടിയിട്ടു കാലിന്മേൽ
+കാലേറ്റിക്കൊണ്ടുള്ള ആ ഇരിപ്പും, സംഭാഷണരസവും നേരമ്പോക്കും പ്രകാശിക്കുന്ന ആ കണ്ണുകളും, രാശി
+പരത്തുന്ന ജ്യോത്സ്യന്റെ കൈവേഗത്തെക്കൂടി തോല്പിക്കുന്ന ശീഘ്രഗതിയിൽ ചിലപ്പോൾ കൈപ്പടം കൊണ്ടു
+തന്റെ മൊട്ടത്തല തിരുമ്മുന്ന തിരുമ്മലും, രസം പിടിച്ചാൽ ‘ഹ’ എന്നു് ആഹ്ലാദസൂചകമായി ചിരിച്ചും വലത്തെ
+കൈപ്പടം തുടയ്ക്കു തല്ലി തൽക്ഷണം പിൻവലിച്ചുകൊണ്ടുള്ള ആ ഫലിതം പറയലും മറ്റും മറ്റും, ഒരു പതിന്നാലു
+സംവത്സരം മുൻപു കഴിഞ്ഞ സംഭവങ്ങളാണെങ്കിലും അവയുടെ പ്രത്യേകത മറ്റൊരാളുടെ അംഗവിക്ഷേപങ്ങളിലും
+കണ്ടിട്ടില്ലാത്തതുകൊണ്ടു്, ഇന്നും മായാത്ത ചിത്രങ്ങളായിത്തന്നെ മുൻപിൽ നില്ക്കുന്നു. അന്നു ഞാൻ കണ്ട
+നാലപ്പാട്ട് ഏതാണ്ടു ചന്ദനമുട്ടിയുടെ നിറമാണു്. അരച്ചരച്ചു നടുവു കുഴിഞ്ഞുപോയ ഒരു ചന്ദനമുട്ടിയുടെ വളവും
+
+അദ്ദേഹത്തിന്നു കിട്ടിയിട്ടുണ്ടു്. മദ്ധ്യവയസ്സേ അദ്ദേഹത്തിന്നായിട്ടുള്ളുവെങ്കിലും, ആ അടങ്ങാത്ത പൊട്ടിച്ചിരിയുടെ
+ആഹ്ലാദം തലയിലെ ചില കുറ്റിരോമങ്ങളെക്കൂടി ചിരിപ്പിച്ചിരിക്കുന്നു. അദ്ദേഹത്തിന്റെ മുഖത്തിന്റെ ആകൃതി
+വട്ടത്തേക്കാളധികം ചതുരമാണു്. നല്ല പ്രാമാണ്യം സിദ്ധിച്ചിട്ടുള്ള താടിയെല്ലുകളുള്ളതുകൊണ്ടാവാം, കാഴ്ചയിൽ
+ഈ പ്രതീതി ജനിക്കുന്നതു്. നല്ല ഉറച്ച താടിയെല്ലുകൾ അസാമാന്യമായ ബുദ്ധിശക്തിയുടെ അടയാളമാണെന്നു
+പറയുന്നതു കേട്ടിട്ടുണ്ടു്. അതു ശരിയാണെങ്കിൽ നാലപ്പാട്ടിന്റെ കവിതകൾ വായിക്കാനൊരുങ്ങുന്ന
+ഭാഷാപ്രണയിയുടെ ഒന്നാമത്തെ ഉദ്യമം, തനിക്കു നല്ല ഉറച്ച താടിയെല്ലുകളുണ്ടോ എന്നു
+പരീക്ഷിച്ചറിയലാകേണ്ടതാണെന്നു ഞാൻ നിസ്സംശയം മുന്നറിയിപ്പു നല്കാം.
+</p>
+          <p>പൊന്നാനിക്കു തെക്കു്, പത്തുപന്തിരണ്ടു നാഴികയകലെ, വന്നേരി എന്ന പ്രദേശത്തു താമസിക്കുന്ന ഈ
+പ്രതിഭാശാലിയെ അതിപരിചയമുള്ളവർ കുറയും. അദ്ദേഹം അങ്ങനെ പുറത്തിറങ്ങാറില്ല. ഇറങ്ങിയിരുന്നു പണ്ടു്.
+ഇപ്പോൾ പുസ്തകങ്ങളുമായി കഴിഞ്ഞുകൂടുന്നതാണിഷ്ടം. തന്റെ പ്രതിഭാവികാസത്തിൽ വ്യാപൃതനായ
+അദ്ദേഹത്തിന്നു ബാഹ്യലോകവുമായി ഇടപെട്ടു സമയം കളയാനില്ലെന്നുമാത്രം. തന്റെ വ്യക്തിവിലാസത്തിൽ
+മുഴുക്കെ മുങ്ങിനില്ക്കുന്ന അദ്ദേഹം മറ്റുള്ളവരെയോ അവരുടെ കഴിവുകളെയോപറ്റി അധികം ശ്രദ്ധിക്കയില്ല.
+ഉദാഹരണമായി, തന്റെ മരുമകൾക്കു കവിതയുണ്ടെന്ന വർത്തമാനം അദ്ദേഹമറിഞ്ഞതു് ആ മഹതി
+കവിതയെഴുതിത്തുടങ്ങിയിട്ടു് എത്രയോ കാലം കഴിഞ്ഞിട്ടാണത്രേ! ഈ ഉദാസീനതയും ഉപേക്ഷയും,
+ലൗകികനിലയ്ക്കു നോക്കുമ്പോൾ, അല്പം പരിഹാസ്യവും അതിലധികം ആക്ഷേപാർഹവുമായിത്തോന്നും. പക്ഷേ,
+നാലപ്പാട്ടിന്റെ പ്രതിഭയുടെ പ്രത്യേകത അറിഞ്ഞിട്ടുള്ള ഒരാൾക്കു് ഇതിൽ അത്ഭുതപ്പെടത്തക്കതായി
+യാതൊന്നുമില്ല. സ്നേഹം, ഔദാര്യം മുതലായി ലൗകികങ്ങളായ മറ്റെല്ലാ മനോവിനോദപ്രകടനങ്ങളോടും
+അദ്ദേഹത്തിന്റെ നിലയിതാണു്. അതിലൊന്നാണു പ്രേമം. ഒരിക്കൽ അദ്ദേഹവും ഒരു സ്നേഹിതനും കൂടി
+തിരുവനന്തപുരത്തുനിന്നു മടങ്ങുകയാണു്. സ്നേഹിതൻ പ്രേമത്തെപ്പറ്റി വലിയ മതിപ്പും വിശ്വാസവുമുള്ള ആളാണു്.
+അദ്ദേഹം അതിനുവേണ്ടി ശക്തിയായി വാദിച്ചുകൊണ്ടു പറഞ്ഞു, “സർ, ഞാനതിൽ വിശ്വസിക്കുന്നു.
+തിരുവനന്തപുരത്തിരിക്കുന്ന ഒരു പുരുഷനും ആലുവായിലുള്ള ഒരു സ്ത്രീക്കും വിവാഹം കഴിയ്ക്കാതെ തന്നെ
+ആജീവനാന്തം പരസ്പരം സ്നേഹിച്ചു കഴിച്ചു കൂട്ടിക്കൂടേ?”
+</p>
+          <p>ഉത്തരം കേൾക്കാൻ അക്ഷമനായി സ്നേഹിതൻ നാലപ്പാട്ടിന്റെ മുഖത്തു നോക്കി: ‘തിരുവനന്തപുരത്തിരിക്കുന്ന
+ആൾക്കു നിവൃത്തിയുണ്ടു്. ആലുവായിലുള്ള ആൾക്കോ?’ എന്നായിരുന്നു നാലപ്പാട്ടിന്റെ മറുപടി.
+</p>
+          <p>ഇത്രയുമായപ്പോഴേക്കും അവർ ആലുവാ സ്റ്റേഷനിലെത്തി. സംഭാഷണം നിർത്തി, ടിക്കറ്റുവാങ്ങലും മറ്റും
+കഴിച്ചു വണ്ടിയിൽക്കയറി. സ്നേഹിതൻ അപ്പോഴും നാലപ്പാട്ടിന്റെ മറുപടിയെപ്പറ്റി ആലോചിച്ചു് അർത്ഥം
+മനസ്സിലാവാതെ കുഴങ്ങുകയായിരുന്നു. ഒടുവിൽ അദ്ദേഹം ഗത്യന്തരമില്ലാതെ നാലപ്പാട്ടിനോടുതന്നെ ചോദിച്ചു:
+“നിങ്ങൾ നടേ പറഞ്ഞതിന്റെ അർത്ഥം എനിക്കു മനസ്സിലായില്ല.”
+</p>
+          <p>“അതോ,” നാലപ്പാട്ടിന്റെ മറുപടി ഇതായിരുന്നു: “തിരുവനന്തപുരത്തുള്ള ആൾക്കു ഭ്രാന്താസ്പത്രി ശരണമുണ്ടു്.
+ആലുവായിൽ ഭ്രാന്താസ്പത്രി ഇല്ലല്ലോ.”
+</p>
+          <p>ഇതാണു് അദ്ദേഹത്തിന്റെ ഫലിതത്തിന്റെ രൂപവും പോക്കും. ഇതിൽപ്പോലും ഒരു
+പ്രത്യേകത—ബുദ്ധിപരമായ ഒരു സവിശേഷത—കാണാം. ഈ പ്രത്യേകതയാണു്, നാലപ്പാട്ടു സർവ്വോപരി.
+അതിനെ നിഷേധിക്കുന്നതു് നാലപ്പാട്ടിന്റെ പ്രതിഭയെ മനസ്സിലാക്കാത്തതിനു തുല്യമാണു്, എനിക്കും നിങ്ങൾക്കും.
+സാമാന്യാഭിപ്രായങ്ങളുള്ള പലതിനെപ്പറ്റിയും നാലപ്പാട്ടിനുള്ള അഭിപ്രായം ഭിന്നമായിരിക്കകൊണ്ടും, അതു
+പ്രകാശിപ്പിക്കുന്ന സംഭാഷണരീതിയുടെ പ്രത്യേക ചാതുരികൊണ്ടും, നാലപ്പാട്ട് ഒരൊന്നാന്തരം
+സംഭാഷണവിദഗ്ദ്ധനായി ക്ഷണത്തിൽ അനുഭവപ്പെടും. എല്ലാവരോടും പക്ഷേ, അദ്ദേഹം ഈ രീതിയിൽ
+സംസാരിച്ചെന്നുവരില്ല. തന്റെ പ്രതിഭയെ മനസ്സിലാക്കുകയും അതിനെ തട്ടിയുണർത്തുകയും ആദരിക്കുകയും
+ചെയ്യുന്ന സ്നേഹിതന്മാരോടു പ്രത്യേകതാൽപര്യം കാണിക്കുകയെന്ന മനുഷ്യസഹജമായ ജന്മവാസന ഇതിൽ
+അദ്ദേഹവും പ്രദർശിപ്പിച്ചു എന്നുവരാം.
+</p>
+          <p>നടേ പറഞ്ഞപോലെ പ്രത്യേകതയാണു്, നാലപ്പാട്ട് സർവ്വോപരി. അദ്ദേഹം ചെരിപ്പിട്ടു നടക്കുന്നതു ഞാൻ
+കണ്ടിട്ടില്ല. മെതിയടിയാണു് എവിടെ പോവുമ്പോഴും പാദരക്ഷകൾ. പത്തിരുപത്തിനാലു നാഴികയോ
+അതിലധികമോ അതിട്ടു നടക്കാൻ അദ്ദേഹത്തിന്നു് ഒരു കൂസലുമില്ല. ഇങ്ങനെ സാധാരണക്കാരെ
+വിഷമിപ്പിക്കുന്നതരത്തിലാണു് അദ്ദേഹത്തിന്റെ നടത്തമെങ്കിൽ, അതിലധികം വിഷമിപ്പിക്കുന്നതാണു്
+അദ്ദേഹത്തിന്റെ കവിതയിലെ പോക്കു്. ‘ചക്രവാള’ത്തിലെ നാലപ്പാട്ടിനെ, കവിതയെസ്സംബന്ധിച്ചേടത്തോളം
+അദ്ദേഹത്തിന്റെ പൂർണ്ണവളർച്ചയെത്തിയ ഒരു പ്രതിനിധിയായി കണക്കാക്കാമെങ്കിൽ—ഇതിനു് അദ്ദേഹത്തിന്റെ
+സമ്മതമുണ്ടാകുമെന്നു ഞാൻ കരുതുന്നു—അദ്ദേഹം നിസ്സംശയം ഒരു പ്രത്യേക ഉന്നതിയിൽ നില്ക്കുന്ന ആളാണു്.
+ആ നാലപ്പാട്ടിന്റെ കൂടെ നടന്നെത്തുന്നതു്, ഐഹികമായ അദ്ദേഹത്തിന്റെ പ്രതിരൂപത്തിന്റെ കൂടെ മെതിയടിയിട്ടു
+നാല്പതു നാഴിക നടക്കുന്നതിലും ക്ലേശകരമാണു്. മെതിയടിയിട്ടു കുറെ ദൂരം നടക്കാം. അപ്പോഴേക്കു നമ്മുടെ കാൽ
+തളരുന്നു. പിന്തിരിയാനുള്ള അധികാരം നമുക്കുണ്ടു്. അതിനെ വിലക്കുന്ന ലൗകികനായ നാലപ്പാട്ടിനോടു നമുക്കു്
+എതിർത്തുനില്ക്കാനും കഴിയും. കാരണം, അദ്ദേഹം ഒരു കൃശഗാത്രനും ദുർബ്ബലനുമാണു്. എന്നാൽ
+
+‘ചക്രവാള’ത്തിലെ നാലപ്പാട്ട് അങ്ങനെയൊന്നുമല്ല. അദ്ദേഹം നമ്മെക്കാളെല്ലാം പതിന്മടങ്ങു ബലവാനാണു്.
+അതിന്റെ അവതാരികാകാരൻ പറയുന്നതുപോലെ, നാമെങ്ങോട്ടാണു പോകുന്നതെന്നറിയുന്നതിന്നുമുമ്പുതന്നെ
+നമ്മെ തന്റെ ആലോചനയുടെ നൂൽച്ചരടുകൊണ്ടു വരിഞ്ഞുകെട്ടി പല പിരിയൻകോണികളുടെ മുകളിൽക്കൂടിയും
+യുഗയുഗാന്തരങ്ങളിലേക്കു വലിച്ചെറിയുന്നതിനുള്ള കെല്പു് ‘ചക്രവാള’ത്തിലെ നാലപ്പാട്ടിനുണ്ടു്. ഈ നാലപ്പാട്ടിനെ
+അകലെനിന്നു ബഹുമാനിക്കുവാനല്ലാതെ, അദ്ദേഹത്തിന്റെ കൂടെ സുഖമായ ഒരു യാത്രചെയ്വാൻ എനിക്കു
+കഴിഞ്ഞിട്ടില്ല. അതദ്ദേഹത്തിന്റെ സഹായത്തോടു കൂടിയല്ലാതെ ആർക്കും കഴിയുമെന്ന വിശ്വാസവും എനിക്കില്ല.
+‘ചക്രവാള’ത്തിലെ വിചാരസമൂഹങ്ങളുടെ രാജ്യത്തിലെ പ്രസിഡണ്ടാണു നാലപ്പാട്ട്. അവിടുത്തെ രാജാവു
+പരിണാമവാദത്തിന്റെ കർത്താവും. പക്ഷേ, രാജാവും പ്രസിഡണ്ടിന്റെ പ്രമാണങ്ങളും തീർപ്പുകളും
+അനുസരിച്ചുകൊള്ളണമെന്നൊരു കരാറു് അവർ തമ്മിലുണ്ടോ എന്നു തോന്നും. ഇങ്ങനെയൊക്കെയാണെങ്കിലും,
+‘ചക്രവാള’ത്തിനുള്ള ആകർഷകത ഒന്നു പ്രത്യേകമാണു്. അതിന്റെ ധിക്കാരപരമായ തട്ടിക്കയറ്റം
+സഹിക്കുന്നതുകൂടി ഒരു രസമാണു്. ആ കവിതാരീതി ഒരു പ്രത്യേക വശീകരണ ശക്തി സമ്പാദിച്ചിട്ടുണ്ടു്.
+</p>
+          <p>വിചാരപരമോ ബുദ്ധിപരമോ ആയ ഈ ഒരേകാന്തത, അല്ലെങ്കിൽ വേറിട്ടുനില്പു്, ‘പാവങ്ങ’ളുടെ
+തർജ്ജമക്കാരൻ സ്ഥായിയായി പുലർത്തിക്കൊണ്ടു പോന്നതു് ഒരത്ഭുതമാണു്. മേല്പറഞ്ഞ പുസ്തകത്തിന്റെ
+ഹൃദയം, ഹൃദയഹീനമായ സാമുദായിക ക്രമങ്ങളുടെ ക്രൂരതയിൽ പാവങ്ങൾ കഷ്ടപ്പെടുന്നതും, അവർ
+വിപ്ലവത്തിലുയർന്നെഴുന്നേറ്റു ജീവിതത്തിന്റെ രീതികളെയും മൂല്യങ്ങളെയും അമ്പേ മാറ്റാൻ ശ്രമിക്കുന്നതുമാണു്.
+ഫ്രഞ്ചുവിപ്ലവത്തിന്റെ ഹൃദയഹാരിത വശ്യവചസ്സായ യൂഗോവിന്റെ കൈയിൽ കിട്ടിയപ്പോൾ വിശേഷിച്ചും,
+ഹൃദയസ്പർശിയായിത്തീർന്നു. അതങ്ങനെതന്നെ, മലയാളഭാഷയ്ക്കു പകർത്താൻ കഴിയുന്ന ഏറ്റവും മനോഹരമായ
+ഉജ്ജ്വലഭാഷയിൽ, മിസ്റ്റർ നാലപ്പാട്ട് പകർത്തി നമുക്കു സമ്മാനിക്കുകയും ചെയ്തു. എന്നാൽ, അദ്ദേഹം അതിൽ
+നിന്നൊന്നും പഠിച്ചില്ലെന്നു തോന്നുന്നു. അതിന്റെ ഹൃദയം സ്വായത്തമാക്കാൻ ശ്രമിച്ചിട്ടേയില്ല. ഉണ്ടെങ്കിൽ,
+‘പാവങ്ങ’ളുടെ തർജ്ജമയ്ക്കു ശേഷം ‘ചക്രവാള’ത്തിൽ കാണുന്ന ചിന്താഗതിക്കു പകരം കുറേക്കൂടി നമ്മെ
+ബാധിക്കുന്ന അത്യാവശ്യമായ സാമുദായിക വിഷയങ്ങളുടെ സജീവമായ ഒരു ചർച്ച, ഒരു ചിത്രം, അദ്ദേഹം നമുക്കു
+സമ്മാനിക്കുമായിരുന്നില്ലേ എന്നു ഞാൻ ഇടയ്ക്കാലോചിക്കാറുണ്ടു്. ഇതു് അനാവശ്യവും പക്ഷേ, നിരർത്ഥകവുമായ
+ഒരാലോചനാഗതിയാവാം; എന്നാൽ എത്ര ‘പക്ഷേ’കൾക്കു ചരിത്രത്തിൽ സ്ഥാനം കൊടുത്തു കാണാറുണ്ടു്.
+അതുകൊണ്ടു് ഞാനാലോചിക്കുകയാണു്. പാവങ്ങളുടെ തർജ്ജമക്കാരൻ അദ്ദേഹത്തിന്റെ രാജ്യക്കാരെല്ലാം
+നില്ക്കുന്ന സമനിരപ്പിൽനിന്നും ചക്രവാളത്തിലേക്കോടിപ്പോവാതെ, പാവങ്ങളുടെ ഹൃദയം
+മനസ്സിലാക്കിയിരുന്നെങ്കിൽ, വശ്യവചസ്സായ ആ കവിക്കു ദുഷ്ടവും ദയനീയവുമായ ഇന്നത്തെ സാമുദായിക
+ക്രമങ്ങളിൽ എന്തെന്തു കോളിളക്കങ്ങളുണ്ടാക്കാൻ കഴിഞ്ഞേനേ!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/vvmenon.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>കുറ്റിപ്പുറത്തു് കേശവൻ നായരുടെയും വള്ളത്തോൾ അമ്മാളുക്കുട്ടി അമ്മയുടെയും മകനായി 1916-ൽ ജനിച്ചു.
+1968-ൽ ഒരു കാറപകടത്തിൽ മരിച്ചു. മലയാളത്തിൽ വളരെയധികം എഴുതീട്ടില്ലെങ്കിലും ശ്രദ്ധിക്കപ്പെട്ട
+എഴുത്തുകാരനായിരുന്നു വി വി. കേസരി ബാലകഷ്ണപിള്ള ഇദ്ദേഹത്തിന്റെ <ref target="https://books.sayahna.org/ml/pdf/kesarikalavandi.pdf">കാളവണ്ടി</ref> എന്നകഥയെപ്പറ്റി ഒരു വിമർശനം
+എഴുതീട്ടുണ്ടു്.
+</p>
+          <div type="subsection" xml:id="sec0.0.0.0.1" n="0.0.0.0.1">
+            <head type="subsechead">കൃതികൾ</head>
+            <list rend="bulleted">
+              <item>കാളവണ്ടി </item>
+              <item>മാരാരും കൂട്ടരും </item>
+              <item>രംഗമണ്ഡപം </item>
+              <item>എവറസ്റ്റാരോഹണം </item>
+              <item>ഇന്നത്തെ റഷ്യ </item>
+              <item>സന്ധ്യ </item>
+              <item>Quest—(ജി. ശങ്കരക്കുറുപ്പിന്റെ ഓടക്കുഴൽ എന്ന സമാഹാരത്തിന്റെ ഇംഗ്ലീഷ് പരിഭാഷ) </item>
+            </list>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.1/1.2.0"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Nalapat Narayanamenon (ml:
+നാലപ്പാട്ടു നാരായണമേനോൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Vallathol Vasudevamenon B.
+A..</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Vallathol
+Vasudevamenon B. A., Nalapat Narayanamenon, വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ., നാലപ്പാട്ടു
+നാരായണമേനോൻ, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 18, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Augustus_Edwin_Mulready_Flower_girls__a_summers_night_1885.jpg">Flower girls—a summers night,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Augustus_Edwin_Mulready">Augustus
+Edwin Mulready</ref>  (1844–1905). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/vv-nalapat.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/vv-nalapat.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

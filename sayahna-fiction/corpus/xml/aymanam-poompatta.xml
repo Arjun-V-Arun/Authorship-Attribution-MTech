@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വൃദ്ധന്മാര്‍ പൂമ്പാറ്റകളെ
+പിടിക്കാത്തതെന്തു്?</title>
+          <title xml:lang="en" type="main">Vridhanmar poompattakale
+pidikkaththathenthu?</title>
+        </title>
+        <author>Aymanam John</author>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Illustrated by</resp>
+          <name>VP Sunilkumar</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Digitized by</resp>
+          <name>KB Sujith</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">October 12, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are
+licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+Commons Attribution By NonCommercial ShareAlike 4​.0 International License</ref>
+ (CC BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the
+material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വൃദ്ധന്മാര്‍ പൂമ്പാറ്റകളെ
+പിടിക്കാത്തതെന്തു്?</title>
+              <title xml:lang="en" type="main">Vridhanmar poompattakale
+pidikkaththathenthu?</title>
+            </title>
+            <author>Aymanam John</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-10-12</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Shortstory</term>
+          <term>Aymanam John</term>
+          <term>Vridhanmar poompattakale pidikkaththathenthu?</term>
+          <term>അയ്മനം ജോൺ</term>
+          <term>വൃദ്ധന്മാര്‍ പൂമ്പാറ്റകളെ പിടിക്കാത്തതെന്തു്?</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="short story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-10-12</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/View_of_Fort_Putnam.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:View_of_Fort_Putnam.jpg">View
+of Fort Putnam,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Cole">Thomas Cole</ref>
+ (1801–1848). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വൃദ്ധന്മാര്‍ പൂമ്പാറ്റകളെ പിടിക്കാത്തതെന്തു്?</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>അയ്മനം ജോൺ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വൃദ്ധന്മാര്‍ പൂമ്പാറ്റകളെ പിടിക്കാത്തതെന്തു്?</head>
+        <div type="lsection">
+          <p style="noindent">ഈ ഉദ്യാനം എന്റെ ജീവിതവുമായി അത്യധികം ബന്ധപ്പെട്ടിരിക്കുന്നു.
+ഇവിടത്തെ പൂമരങ്ങളും പുൽത്തകിടികളും ഒറ്റയടിപ്പാതകളും ഏകാന്തമായ മരച്ചുവടുകളും ശബ്ദരേഖ
+നഷ്ടപ്പെട്ട ഒരു ചലച്ചിത്രത്തിലെന്നപോലെ എന്റെ മനസ്സിലൂടെ പലപ്പോഴും കടന്നുപോകുന്നു.
+</p>
+          <p style="indent">ഒരിക്കലും വറ്റാത്ത ഒരു തടാകത്തിനു ചുറ്റും നിർമ്മിക്കപ്പെട്ടിരിക്കുന്ന ഈ
+ഉദ്യാനത്തിലേക്കു വേനൽക്കാലം കടന്നുവരാറേയില്ല. മേഘങ്ങളെ സ്വപ്നം കണ്ടു കിടക്കുന്ന തടാകം
+വർഷകാലങ്ങളിൽ ആഹ്ലാദം നിറഞ്ഞ മനസ്സുപോലെ തുളുമ്പിക്കിടക്കും.
+</p>
+          <p style="indent">ഓരോ കാലത്തും ഈ ഉദ്യാനത്തിലേയ്ക്കു കാറ്റുകളെത്തിക്കുന്ന ദിക്കുകളും
+ഇവിടത്തെ മരങ്ങളും ചെടികളും പൂക്കുന്ന ഋതുക്കളും മരച്ചില്ലകളിൽ കിളികൾ കൂടുകൂട്ടുന്ന മാസങ്ങളും
+ഏതെന്നു് എനിക്കറിയാം. ഇവിടെക്കാണുന്ന ഈ വലിയ തണൽമരങ്ങൾ പിടിച്ചൊടിക്കാവുന്നത്ര ചെറിയ
+ചെടികളായിരുന്ന കാലത്താണു് ഞാൻ ഒരു കുട്ടിയായി ഈ ഉദ്യാനമാകെ ഓടിച്ചാടി നടന്നതു്.
+തടാകത്തിന്റെ കിഴക്കേ കോണിൽ, ഞാങ്ങണക്കാടുകൾക്കിടയിൽ, ജലനിരപ്പിലേയ്ക്കു കൂടെക്കൂടെ പഴുത്ത
+ഇലകൾ വീഴ്ത്തിക്കൊണ്ടുനിന്നിരുന്ന, ശിഖരങ്ങളിൽ വലിയ മുഴകളുണ്ടായിരുന്ന കൂറ്റൻ കുളമാവു്
+കടപുഴകിവീണ വർഷകാല വൈകുന്നേരം ഞാൻ ഇന്നും ഓർമ്മിച്ചിരിക്കുന്നു. പള്ളിമതിൽക്കെട്ടിലെ
+വാഴത്തോപ്പുകൾ ചവുട്ടിമെതിച്ചു് ഭീകരമായ മുഴക്കത്തോടെയെത്തിയ കൊടുങ്കാറ്റിന്റെ വരവു നോക്കി,
+പുൽത്തകിടിക്കപ്പുറത്തു് അന്നുണ്ടായിരുന്ന കളിത്തട്ടിന്റെ കോണിൽ ഞങ്ങൾ കുട്ടികളുടെ സംഘം
+അങ്കലാപ്പോടെ നിൽക്കുമ്പോഴാണു്, വേരോടെ പിഴുതെറിയപ്പെട്ട കുളമാവു തടാകത്തിന്റെ നെഞ്ചിലേക്കു്
+ആർത്തലച്ചു വീണതു്. കാറ്റിനു പിന്നാലെ അലറിക്കൊണ്ടോടിയെത്തിയ മഴ പെയ്തകന്നതും ഞങ്ങൾ
+തടാകക്കരയിലേക്കോടി. കുളമാവിന്റെ ഒത്തിരിപ്പൊക്കമുണ്ടായിരുന്ന ശിഖരങ്ങളിലെ
+അതിശയിപ്പിക്കുന്നത്ര വലിപ്പമുണ്ടായിരുന്ന കിളിക്കൂടുകൾക്കു് എന്തു പറ്റി എന്നറിയാനായിരുന്നു
+ഞങ്ങളുടെ വെമ്പൽ. ഞങ്ങൾ ആശങ്കപ്പെട്ടതുപോലെ വീണ മരത്തിൽനിന്നു തെറിച്ചുപോയ ഒരു
+കിളിക്കൂടു് ചിതറിയ ഇലകൾക്കൊപ്പം തടാകക്കരയിലേക്കു് ഒഴുകിയടുക്കുന്നുണ്ടായിരുന്നു. നനഞ്ഞപ്പോൾ
+ചിന്നിച്ചിതറിയ ഉണക്കമരച്ചില്ലകൾക്കിടയിൽ നിന്നു ഞങ്ങൾ രക്ഷിച്ച കിളിക്കുഞ്ഞുങ്ങളിലൊന്നു് കിടുങ്ങുന്ന
+ഹൃദയത്തോടെ എന്റെ കൈവെള്ളയിൽ പതുങ്ങിയിരുന്നു് സാവധാനം കണ്ണുകളടച്ചു് ജീവൻ വെടിഞ്ഞു.
+</p>
+          <p style="indent">കളിത്തട്ടിന്റെ മുറ്റത്തെ പുൽപ്പരപ്പിലേയ്ക്കു നിഴൽവീഴ്ത്തി നിന്നിരുന്ന
+വാകമരത്തിന്റെ ഒരു പ്രത്യേക കൊമ്പിൽ, ഏറെക്കാലത്തോളം എല്ലാ സന്ധ്യാ നേരങ്ങളിലും
+കൃത്യനേരത്തു് വന്നെത്തിയിരുന്ന മൂങ്ങയെയും ഞാൻ ഓർത്തു പോവുന്നു. ഉദ്യാനവിളക്കുകളുടെ
+പ്രകാശത്തിൽ മുറ്റത്തു തെളിഞ്ഞിരുന്ന മൂങ്ങയുടെയും മരച്ചില്ലയുടെയും നിഴൽ ഞങ്ങളുടെ
+സമയമാപിനിയായിരുന്നു. ഇത്രയേറെ സ്വാതന്ത്ര്യമുള്ള പക്ഷികൾപോലും സ്വന്തമായി ഒരു മരച്ചില്ല
+സൂക്ഷിക്കുന്നതിന്റെ രഹസ്യത്തെപ്പറ്റി ആലോചിക്കുമ്പോഴെല്ലാം ആ മൂങ്ങയുടെ ചിത്രം എന്റെ മനസ്സിൽ
+തെളിയാറുണ്ടു്.
+</p>
+          <p style="indent">ഈ ഉദ്യാനത്തിൽ പണ്ടു പതിവായിക്കണ്ടിരുന്ന മുഖങ്ങളിലേറെയും ഭൂമിയിൽ
+നിന്നു മായ്ക്കപ്പെട്ടിരിക്കുന്നു. ആഴ്ചയിലൊരു ദിവസം—ശനിയാഴ്ചകൾ എന്നാണോർമ്മ—മുടങ്ങാതെ ഈ
+ഉദ്യാനത്തിലെത്തിയിരുന്ന അന്ധനായ ഒരു യാചകനുണ്ടായിരുന്നു. അറബികളെപ്പോലെ, തലമൂടുന്ന
+വേഷം ധരിച്ചു്, കാഴ്ചയില്ലാതെ തുറന്ന കണ്ണുകൾ ആകാശത്തേക്കുയർത്തി ഇടംവലം കുത്തുന്ന ഊന്നുവടി
+കാട്ടിക്കൊടുക്കുന്ന വഴിയിലൂടെ, കേൾക്കാനിമ്പമുള്ള ഒരു യാചകഗാനം പാടി അയാൾ സാവധാനം
+ഉദ്യാനം ചുറ്റിനടന്നു. അയാളുടെ കൈയിലെ ദീർഘവൃത്താകൃതിയിലുള്ള ഭിക്ഷാപാത്രം ഏതോ
+വന്യമൃഗത്തിന്റെ തലയോട്ടിയാണെന്നും കേട്ടിരുന്നു. പൂന്തോട്ടത്തിലെ സന്ദർശകർ നൽകുന്ന
+നാണയങ്ങൾ പിച്ചപ്പാത്രത്തിൽ വീണാലുടൻ അയാൾ നടത്തം നിർത്തി പാത്രം മുകളിലേക്കുയർത്തി,
+വായുവിൽ ചുഴറ്റി നാണയം താളാത്മകമായി കിലുക്കിക്കൊണ്ടു് ധർമ്മം കൊടുത്തവനെ അനുഗ്രഹിച്ചു്
+നാലു വരികളുള്ള ഒരു പാട്ടു പാടും. അതിന്റെ ഈരടികൾ ഞാൻ മറന്നുപോയിരിക്കുന്നു. എന്നാൽ ആ
+പാട്ടിന്റെ ഈണം അത്യാകർഷകമായിരുന്നെന്നും ധർമ്മം കൊടുത്തവനെ ദൈവം
+മഹാമാരികളിൽനിന്നും പഞ്ഞകാലങ്ങളിൽനിന്നും സകലവിധ ആപത്തുകളിൽനിന്നും സംരക്ഷിക്കട്ടെ
+എന്നായിരുന്നു അതിന്റെ അർത്ഥമെന്നും എനിക്കോർമ്മയുണ്ടു്.
+</p>
+          <p style="indent"/>
+          <figure rend="fright" type="grc">
+            <graphic url="images/aymanam-poompatta-01.jpg"/>
+          </figure>
+          <p style="indent">
+</p>
+          <p style="indent">പക്ഷേ, ഈ കഥയിലേക്കെത്താൻ ഉദ്യാനത്തിന്റെ ഓർമ്മയ്ക്കിടയിലൂടെ ഒരു
+കണ്ണുപൊട്ടനെപ്പോലെ ഞാൻ എന്തിനു തപ്പിടഞ്ഞു നടക്കുന്നു? ഈ കഥ തുടങ്ങേണ്ടിയിരുന്നതുപോലും
+ഉദ്യാനത്തിൽ നിന്നായിരുന്നില്ല. കാലഭ്രമണം കാണിക്കുന്ന ഒരു വലിയ നാഴികമണിപോലെ കിടക്കുന്ന
+ഈ തടാകതീരത്തു് ദൈവദൂതന്മാരെപ്പോലെ പറന്നുനടക്കുന്ന നാനാവർണ്ണങ്ങളിലുള്ള വലിയ
+ചിത്രശലഭങ്ങളിൽ നിന്നായിരുന്നു ഇതിന്റെ ഉചിതമായ തുടക്കം. ഞാൻ ഈ ഉദ്യാനത്തിൽ ആദ്യമായി
+പ്രവേശിച്ചതുപോലും പൂമ്പാറ്റകളെ തേടിനടക്കുന്ന ഒരു കുട്ടിയായിട്ടായിരുന്നിരിക്കണം. പൂക്കളും
+ചിത്രശലഭങ്ങളും പുഴകളും പുൽമേടുകളും ചേർന്നൊരുക്കുന്ന നിറങ്ങളുടെ നൃത്തങ്ങൾ എന്റെ ബാല്യത്തെ
+എത്രമാത്രം ഭ്രമിപ്പിച്ചിരുന്നു! എന്റെ ഇടതുകാൽമുട്ടിൽ ഇന്നും മായാതെ കിടക്കുന്ന നാലണവട്ടത്തിലുള്ള
+മുറിപ്പാടു്, ഈ തടാകതീരത്തെ ശലഭവേട്ടയ്ക്കിടയിൽ മുട്ടുകുത്തി വീണതിന്റേതാണു്. ഏതു പൂവിൽനിന്നും
+തേൻ കുടിച്ചു്, ഏതു് ഇലക്കൂട്ടങ്ങൾക്കിടയിലും ഉറങ്ങി മദോന്മത്തമായ ചലനങ്ങളോടെ
+പൂന്തോട്ടങ്ങളിൽനിന്നു പൂന്തോട്ടങ്ങളിലേയ്ക്കു പറക്കുന്ന ശലഭങ്ങളുടെ സ്വപ്നസദൃശമായ യാത്രകൾ ഈ
+തടാകതീരത്തെ പുൽമേടുകളിൽ ഞാൻ എത്രയോ സന്ധ്യകളിൽ നോക്കിയിരുന്നിട്ടുണ്ടു്!
+</p>
+          <p style="indent">എന്നിട്ടും അനേക വർഷങ്ങൾക്കുശേഷം ഒരു വൃദ്ധനായി ഈ ഉദ്യാനത്തിൽ
+മടങ്ങിയെത്തിയപ്പോൾ മറ്റെല്ലാം ഓർമ്മിച്ചിട്ടും ഞാൻ ശലഭങ്ങളെ മറന്നുപോയിരുന്നു. കവാടത്തിലെ
+വാകമരങ്ങൾ എത്രയേറെ വളർന്നുപോയെന്നതിശയിച്ചു് ഉദ്യാനത്തിലേക്കു പ്രവേശിച്ച ഞാൻ ഒരു
+ഭ്രാന്തനെപ്പോലെ ഇതിനുള്ളിൽ ഓടി നടന്നു. ഓരോ ഒറ്റയടിപ്പാതകളും ഓരോ മരച്ചുവടുകളും എന്നിൽ
+ഓരോരോ ഓർമ്മകളുണർത്തിക്കൊണ്ടിരുന്നു.
+</p>
+          <p style="indent">നടന്നുനടന്നു്, വിചാരപ്പെട്ടു് തളർന്നപ്പോൾ ഞാൻ ഉദ്യാനമധ്യത്തിലെ
+പുതുക്കിപ്പണിയപ്പെട്ടിരുന്ന മ്യൂസിയം കാണാൻ കയറി. മ്യൂസിയത്തിലെ പ്രദർശനവസ്തുക്കൾ
+കണ്ണാടിക്കൂടുകളിൽ അടയ്ക്കപ്പെട്ടിരുന്നെങ്കിലും എന്റെ കണ്ണുകൾക്കു പണ്ടേ പരിചിതമായിരുന്ന
+പുരാവസ്തുക്കൾ പുതിയവയിൽനിന്നു് എനിക്കു തിരിച്ചറിയാൻ കഴിഞ്ഞു. മ്യൂസിയത്തിന്റെ പുതുതായി
+ചേർത്ത മുകൾനില വിജനമായിരുന്നു. അവിടെ നിറയെ സംഗീതോപകരണങ്ങളായിരുന്നു പഴയ
+വീണകൾ, തബലകൾ, തംബുരുകൾ… ചുവരിലെ പണ്ടത്തെ സംഗീതജ്ഞരുടെ ചിത്രങ്ങൾ
+പൂതലിച്ചു തുടങ്ങിയിരുന്നു. അവസാനത്തെ കൈയടിയും നിലയ്ക്കുമ്പോൾ ഒരു സംഗീതസദസ്സിൽ
+അവശേഷിക്കുന്ന നിശബ്ദതപോലെ അവിടെമാകെ ഒരു മൂകത പരന്നിരുന്നു. നിശബ്ദമായ
+സംഗീതോപകരണങ്ങൾക്കു നടുവിൽ ഒറ്റപ്പെട്ടുപോയ എന്റെ ഹൃദയവും ഒരു പഴകിയ
+സംഗീതോപകരണം മാത്രമാണല്ലോ എന്ന വിചാരത്തോടെ ഞാൻ മ്യൂസിയത്തിന്റെ നടകളിറങ്ങി.
+</p>
+          <p style="indent">പുറത്തു് ഉദ്യാനവൃക്ഷങ്ങൾക്കിടയിൽ ഗൃഹാതുരതയുണർത്തുന്ന അന്തിവെയിൽ
+പരന്നുകഴിഞ്ഞിരുന്നു. തടാകതീരത്തേയ്ക്കു വിഷാദത്തോടെ നടന്ന ഞാൻ സൂര്യാസ്തമയം കാണാൻ പണ്ടു്
+ഇരിക്കാറുണ്ടായിരുന്ന കുന്നിൻമുകളിലെ അതേ പുൽപ്പരപ്പിലേയ്ക്കു പോയി.
+ഞാങ്ങണക്കമ്പുകൾക്കിടയിലൂടെ കുന്നിൻ ചെരുവിലേയ്ക്കു ചിതറിയ അസ്തമയരശ്മികൾക്കിടയിലൂടെ
+ചിത്രശലഭക്കൂട്ടങ്ങൾ അങ്ങോട്ടുമിങ്ങോട്ടും പറന്നുനടന്നിരുന്നു. എന്നാൽ, അവയുടെ ദൃശ്യം എന്റെ
+കാഴ്ചമങ്ങിത്തുടങ്ങിയ കണ്ണുകളുടെ പുറംചില്ലിലെവിടെയോ മാത്രം സ്പർശിച്ചു കടന്നുപോയതല്ലാതെ
+മനസ്സിലേയ്ക്കു് ഒരു രശ്മിയെങ്കിലും കടത്തിവിട്ടില്ല.
+</p>
+          <p style="indent">അസ്തമയം കഴിഞ്ഞതോടെ തടാകതീരത്തു് പണ്ടുണ്ടായിരുന്നതിൽ എത്രയോ
+അധികം പ്രകാശമുള്ള ഉദ്യാനവിളക്കുകൾ തെളിഞ്ഞു. അവയുടെ അമിതവെളിച്ചം എന്നെ അലട്ടിയെങ്കിലും
+വീട്ടിലേയ്ക്കു മടങ്ങിയാൽ തോന്നുന്ന ഒറ്റപ്പെടലോർത്തു് ഞാൻ ഉദ്യാനപരിസരത്തുതന്നെ കുറേനേരംകൂടി
+ചെലവഴിക്കാൻ ആഗ്രഹിച്ചു. അന്നും പതിവുപോലെ ഭാഗപത്രം തയ്യാറാക്കുന്നതിനെച്ചൊല്ലിയുള്ള
+തർക്കങ്ങൾ ആവർത്തിച്ചു് സൗദാമിനി എന്നോടു കലഹിച്ചിരുന്നു.
+</p>
+          <p style="indent"/>
+          <figure rend="fleft" type="grc">
+            <graphic url="images/aymanam-poompatta-02.jpg"/>
+          </figure>
+          <p style="indent">
+</p>
+          <p style="indent">അങ്ങനെയാണു് ഉദ്യാനത്തിന്റെ ഒരു കോണിൽ ഒരു പുരാവസ്തുപോലെ ഇന്നും
+അവശേഷിക്കുന്ന ആ ലൈബ്രറിയിലേയ്ക്കു ഞാൻ നടന്നതു്. ലൈബ്രറിയുടെ ചെങ്കൽപടവുകൾ
+ചവിട്ടുമ്പോൾ മുടന്തുകാലുള്ള ആ പഴയ ലൈബ്രേറിയനെ ഞാൻ അനേകനാളുകൾക്കുശേഷം ഓർത്തു.
+വായനക്കാർ പുസ്തകം മോഷ്ടിച്ചുവെങ്കിലോ എന്നു ഭയന്നു കസേരകൾക്കു പിന്നിൽ ഒരു
+കുറ്റാന്വേഷകനെപ്പോലെയുള്ള അയാളുടെ നില്പു്!
+</p>
+          <p style="indent">ഏതു ലൈബ്രറിയിലും ഏറെ വായിക്കപ്പെടാത്തതെന്നു തോന്നുന്ന
+പുസ്തകങ്ങളാണു ഞാൻ ആദ്യം തെരയാറുള്ളതു്. അങ്ങനെയൊരു തെരച്ചിലിനിടയിൽ എന്റെ കൈകൾ
+കണ്ടെത്തിയ ‘വാർദ്ധക്യകാലം’ എന്നു പേരുള്ള പുസ്തകം ആ പേരിനാൽത്തന്നെ എന്നെ പെട്ടെന്നു്
+ആകർഷിച്ചു. ഏറെ സന്തോഷത്തോടെയാണു ഞാൻ ആ പുസ്തകവുമായി ജനലരികിലെ
+വെളിച്ചത്തിലേയ്ക്കു നടന്നതു്.
+</p>
+          <p style="indent">ലൈബ്രറി അടയ്ക്കുന്നതുവരെ ഞാൻ അതു് അതീവ താത്പര്യത്തോടെ വായിച്ചു
+കൊണ്ടിരുന്നു. തുടർന്നു വായിക്കുവാൻവേണ്ടിയുള്ള അടയാളം വച്ചിട്ടാണു പുസ്തകം തിരികെയേല്പിച്ചു ഞാൻ
+ലൈബ്രറിയിൽ നിന്നിറങ്ങിയതു്. ആ പുസ്തകത്തിന്റെ തുടക്കത്തിലൊരിടത്തു് ആരോ അടിവരയിട്ടിരുന്ന
+ഒരു വാചകം എന്റെ മനസ്സിനെ ആകെ ഉലച്ചിരുന്നു: “ചിത്രശലഭങ്ങളായി പറന്നുനടക്കുന്ന മനുഷ്യർ
+പുഴുക്കളായി മരിക്കുമ്പോൾ ചിത്രശലഭങ്ങളാവട്ടെ, പുഴുവിന്റെ ബാല്യം പിന്നിട്ടു ശലഭങ്ങളായി മരിക്കുന്നു.”
+</p>
+          <p style="indent">ചിത്രശലഭങ്ങളെ സംബന്ധിച്ച ആ തിരിച്ചറിവുമായി വിളക്കു കാലുകൾക്കു
+കീഴിലെ വിഷണ്ണമായ വെളിച്ചത്തിലൂടെ ഒരു തത്ത്വചിന്തകനെപ്പോലെ ഞാൻ തലതാഴ്ത്തി നടന്നു.
+യാത്രയ്ക്കിടയിൽ അജ്ഞാതന്റെ അടിവരയുള്ള ആ വാചകം എന്റെ മനസ്സു് ആവർത്തിച്ചാവർത്തിച്ചു്
+ഉരുവിട്ടുകൊണ്ടിരുന്നു—പൂമ്പാറ്റകൾ പുഴുക്കളായി ജനിച്ചു് ശലഭങ്ങളായി മരിക്കുമ്പോൾ മനുഷ്യർ
+ശലഭങ്ങളായിപ്പിറന്നു് പുഴുക്കളായി…
+</p>
+          <p style="indent"/>
+          <figure rend="fright" type="grc">
+            <graphic url="images/aymanam-poompatta-03.jpg"/>
+          </figure>
+          <p style="indent">
+</p>
+          <p style="indent">പതിവിലേറെ വൈകിയാണു ഞാൻ വീട്ടിലെത്തിയതു്. പല തവണ
+മുട്ടിയതിനുശേഷം മാത്രം വാതിൽ തുറന്ന സൗദാമിനി എന്റെ നേരെ മുഷിപ്പോടെ തുറിച്ചുനോക്കി.
+</p>
+          <p style="indent">ഇന്നു്, ഈ തടാകതീരത്തെ ചിത്രശലഭങ്ങളുടെ വലിയ സമൂഹത്തെ
+കണ്ണടച്ചാൽപോലും എനിക്കു കാണാനാവുന്നു. അത്രമേൽ ശ്രദ്ധാപൂർവ്വമാണു ഞാൻ
+അസ്തമയരശ്മികൾക്കിടയിലൂടെ അവയിൽ ഓരോന്നിനെയും നോക്കി നോക്കിയിരിക്കുന്നതു്. എപ്പോഴും
+പിന്നിൽ പാത്തു പതുങ്ങി നടക്കുന്ന ഒരു വികൃതിക്കുട്ടിയെച്ചൊല്ലിയുള്ള ഭയം നിറഞ്ഞ അവയുടെ
+കണ്ണുകളിൽ വാർദ്ധക്യത്തിന്റെ കരസ്പർശങ്ങൾ എനിക്കു കണ്ടെത്താനാവുന്നു. ഓരോ പൂവിലെ തേനും
+കുടിച്ചശേഷം പൂവിനെത്തന്നെ നോക്കിക്കൊണ്ടു് അവ പിന്നോട്ടു പറന്നകലുന്നതു സങ്കടം നിറഞ്ഞ ഒരു
+യാത്ര ചോദിക്കലോടെയാണെന്നു ഞാൻ മനസ്സിലാക്കുന്നു. വൃദ്ധന്മാർ ചിത്രശലഭങ്ങളെ പിടിക്കാത്തതു്
+എന്തുകൊണ്ടാണെന്നും ഇന്നു ഞാൻ തിരിച്ചറിയുന്നു.
+</p>
+          <p style="indent">
+</p>
+          <p style="indent">
+            <ref target="https://books.sayahna.org/html/aymanam-bio.html">അയ്മനം
+ജോണിന്റെ ലഘു ജീവചരിത്രം.</ref>
+          </p>
+          <p style="indent"/>
+        </div>
+        <!--end of "section 0.0/I.1"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vridhanmar poompattakale
+pidikkaththathenthu? (ml: വൃദ്ധന്മാര്‍ പൂമ്പാറ്റകളെ പിടിക്കാത്തതെന്തു്?).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Aymanam John.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-10-12. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml,
+Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Shortstory, Aymanam
+John, Vridhanmar poompattakale pidikkaththathenthu?, അയ്മനം ജോൺ, വൃദ്ധന്മാര്‍
+പൂമ്പാറ്റകളെ പിടിക്കാത്തതെന്തു്?, Open Access Publishing, Malayalam, Sayahna Foundation,
+Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 12, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original
+item is copyrighted to the author. The text encoding and editorial notes were created
+and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+Commons Attribution By NonCommercial ShareAlike 4​.0 International License</ref>
+ (CC BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the
+material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:View_of_Fort_Putnam.jpg">View
+of Fort Putnam,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Cole">Thomas Cole</ref>
+ (1801–1848). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Illustration:</hi>  VP Sunilkumar; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>  PK Ashok; <hi rend="bold">Digitizer:</hi>  KB Sujith; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The
+entire document processing has been done in a computer running GNU/Linux operating
+system and TeX and friends. The PDF has been generated using XeLaTeX from TeXLive
+distribution 2021 using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an
+online framework for text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded XML has been
+generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated
+from XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF
+and HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The
+font used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip
+Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/aymanam-poompatta.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/aymanam-poompatta.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

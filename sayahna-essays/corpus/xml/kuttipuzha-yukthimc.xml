@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">യുക്തിവാദവും എം. സി.-യും</title>
+          <title xml:lang="en" type="main">Yukthivadavum M. C.-yum</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">യുക്തിവാദവും എം. സി.-യും</title>
+              <title xml:lang="en" type="main">Yukthivadavum M. C.-yum</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Yukthivadavum M. C.-yum</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>യുക്തിവാദവും എം. സി.-യും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Szyndler-Shepherdess.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:SzyndlerShepherdess.jpg">The Happy Shepherdess,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Pantaleon_Szyndler">Pantaleon
+Szyndler</ref>  (1846–1905). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">യുക്തിവാദവും എം. സി.-യും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">യുക്തിവാദവും എം. സി.-യും</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/MCJoseph.png" rendition="gra"/>
+            <figDesc style="thumb">എം. സി.</figDesc>
+          </figure>
+          <p style="noindent"> യുക്തിവാദത്തെ തുച്ഛീകരിച്ചോ ആക്ഷേപിച്ചോ അഭിപ്രായങ്ങൾ പുറപ്പെടുവിക്കാൻ
+ഈയിടെ ചിലർ മുതിർന്നിട്ടുണ്ടു്. അവർ അതു ചെയ്യുന്നതുതന്നെ യുക്തിവാദം കൊണ്ടാണെന്നുള്ളതാണു്
+ബഹുനേരമ്പോക്കായിരിക്കുന്നതു്. മനുഷ്യനു യുക്തിവാദം അത്യന്താപേക്ഷിതമാണെന്നുള്ള പരമാർത്ഥം ഈ
+എതിരഭിപ്രായങ്ങളിൽത്തന്നെ പ്രകടമായിരിക്കുന്നു. <ref target="https://ml.wikipedia.org/wiki/M._C._Joseph">എം. സി.</ref>-യുടെ ഒരു
+പുസ്തകത്തിനു് <ref target="https://ml.wikipedia.org/wiki/N._V._Krishna_Warrier">ശ്രീ. എൻ. വി.
+കൃഷ്ണവാരിയർ</ref> എഴുതിയ മുഖവുരയിൽ പറഞ്ഞിട്ടുള്ളതു് ഇവിടെ ഓർമിക്കുന്നതു നന്നു്. “എം. സി.
+സാഹിത്യം വായിച്ചു മനസ്സിലാക്കാനല്ല പ്രയാസം വായിച്ചു മനസ്സിലാക്കികഴിഞ്ഞാലാണു്. നമ്മുടെയെല്ലാം
+മനസ്സിൽ രൂഢമൂലങ്ങളായ പല വിശ്വാസങ്ങളുമുണ്ടു്. ബാല്യം മുതൽ മുതിർന്നവരെ കണ്ടും അനുകരിച്ചും നാം
+ചോദ്യം ചെയ്യാതെ പല വിശ്വാസങ്ങളും പുലർത്തിപ്പോരുന്നു. കറൻസിനോട്ടുകളെപ്പോലെതന്നെ
+സമുദായത്തിന്റെ അംഗീകരണം നേടിയ പല വിശ്വാസങ്ങളും അവയെ ഉൾക്കൊള്ളുന്ന പദങ്ങളും ശൈലികളും
+നാമെല്ലാം മനസ്സിൽ കൊണ്ടുനടക്കുകയും ദിവസവും എടുത്തു പെരുമാറുകയും ചെയ്യുന്നുണ്ടു്. ഈ
+വിശ്വാസങ്ങളെയും പദങ്ങളെയും ശൈലികളെയും പുറത്തെടുത്തു പരിശോധിക്കുവാനാണു് എം. സി.
+ആവശ്യപ്പെടുന്നതു് നാം എത്രയോകാലം ഓമനിച്ചു ഹൃദയത്തിൽ കുടിയിരുത്തിയ പല അന്ധവിശ്വാസങ്ങളെയും
+ത്യജിക്കണമെന്നുവരുമ്പോൾ നമുക്കാകെ പരിഭ്രമവും ശുണ്ഠിയും വരുന്നു.” ശ്രീ വാരിയർ ചൂണ്ടിക്കാണിക്കുന്ന ഈ
+പരിഭ്രമവും ശുണ്ഠിയുമാണു് വാസ്തവത്തിൽ യുക്തിവാദത്തെ എതിർക്കാൻ ആളുകളെ പ്രേരിപ്പിക്കുന്നതു്. ‘യുക്തിക്കു
+വഴങ്ങിക്കൊടുക്കാത്ത വൈകാരിക മനോഭാവത്തോടു വാദിച്ചിട്ടു കാര്യമില്ല’ (There is no arguing with a
+mood) എന്ന <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> വിന്റെ
+വാക്യം മാത്രമേ ഇതിനു മറുപടിയായിട്ടുള്ളു. ദിവാഭീരുവായ വിശ്വാസാന്ധകാരം നിറഞ്ഞതാണു് നമ്മുടെ മനസ്സു്.
+യുക്തിപ്രകാശമേൽക്കുമ്പോൾ അതു് അസ്വസ്ഥമാകുന്നതിൽ അത്ഭുതപ്പെടാനില്ലല്ലോ.
+</p>
+          <p>യുക്തിവാദം ചിലർ തെറ്റിദ്ധരിച്ചിരിക്കുന്നതുപോലെ ഒരു പ്രത്യേക മതമോപ്രസ്ഥാനമോ അല്ല. അതൊരു
+വിചാരപദ്ധതി മാത്രമാണു്. ‘അന്വേഷണത്തിനു വിധേയങ്ങളാകുന്ന വിഷയങ്ങളിൽ കൂടിക്കലർന്നുകിടക്കുന്ന
+സത്യാസത്യങ്ങളെ വേർതിരിക്കുകയും അകലുഷമായ ചിന്താവ്യാപാരം കൊണ്ടു് തെളിവുകളെ തുലനം ചെയ്തു
+നോക്കുകയും ചെയ്യുന്ന പദ്ധതിയാണു് യുക്തിവാദം’ (Rationalism is after all the weighing of evidence
+by clear thinking and shifting truth from falsehood in all matters amenable to investigation)
+എന്നു യുക്തിവാദി മാസികയുടെ പുറംചട്ടയിൽത്തന്നെ ഉദ്ധരിച്ചു കാണാറുള്ള നിർവചനം നോക്കുക. മനനശീലം
+മനുഷ്യസ്വഭാവത്തിൽ സ്വതേയുള്ളതാണെങ്കിലും ജ്ഞാനസമ്പാദനത്തിനാവശ്യമായ യുക്തിവിചാരം
+അധികംപേരിലും മന്ദീഭവിച്ചുകിടക്കുകയാണു്. ആശയലോകത്തിൽ ഏതാനും ബുദ്ധിമാന്മാർ ചിന്തിക്കയും
+മറ്റുള്ളവർ അവരുടെ പിറകെ പോകയും ചെയ്യുന്ന കാഴ്ചയാണു സാധാരണ കണ്ടുവരുന്നതു് സ്വാതന്ത്ര്യവും
+പരിശീലനവും ചിന്തയിലും വേണ്ടതാണെന്നു കരുതുന്നവർ ചുരുക്കമാകുന്നു. നമ്മളിൽ രൂപപ്പെട്ടിരിക്കുന്ന
+ആശയങ്ങൾ മിക്കവാറും അന്യരുടെയാണു്. സ്വന്തം ചിന്തയിൽ പരിശോധിച്ചു നോക്കിയിട്ടല്ല നാം അവയെ
+സ്വീകരിച്ചിട്ടുളളതു്. ഇങ്ങനെ ബുദ്ധി ഒരു തരം ‘ടേപ്റെക്കോർഡറാ’യി തീർന്നാൽ ചിന്താശക്തി
+ക്ഷയിച്ചുപോകുമെന്നു പറയേണ്ടതില്ലല്ലോ. പ്രത്യക്ഷം, അനുമാനം, ഉപമാനം, ശാബ്ദം എന്നു നാലു
+മാർഗമായിട്ടാണു നമുക്കു് അറിവുണ്ടാകുന്നതെന്നു ദാർശനികർ പറയുന്നു. ഈ വഴികളിലെല്ലാം തെറ്റു
+പറ്റാനിടയുണ്ടു്. അതുകൊണ്ടത്രെ നൈയായികന്മാർ ജ്ഞാനത്തെ പ്രമ (യഥാർത്ഥം), ഭ്രമം (അയഥാർത്ഥം) എന്നു
+രണ്ടായി വിഭജിച്ചിരിക്കുന്നതു്. അയഥാർത്ഥജ്ഞാനം മൂലം ലോകത്തിനുണ്ടായിട്ടുള്ള ആപത്തു് അല്പമൊന്നുമല്ല.
+ജ്ഞാനവിഷയകമായി വന്നു ചേരുന്ന ഈ ഭ്രമം നീക്കം ചെയ്യുന്നതിനുള്ള വിചാരപദ്ധതിയാണു് യുക്തിവാദം.
+</p>
+          <p>സംശയിക്കുക, ചോദ്യം ചെയ്യുക, ശാസ്ത്രീയമായ അന്വേഷണവും പരീക്ഷണവും നടത്തുക, തെളിവുകൾ
+തുലനം ചെയ്യുക ഇതൊക്കെ യുക്തിവാദത്തിനാസ്പദമായ സ്വതന്ത്രചിന്തയുടെ ഘടകങ്ങളാകുന്നു.
+
+മതവിശ്വാസികൾ പറയുന്നതുപോലെ ദൈവഭീതിയല്ല സംശയിക്കലാണു് ജ്ഞാനത്തിന്റെ ആരംഭം
+ഭഗവദ്ഗീതയിലെ തത്ത്വോപദേശംപോലും കേട്ടപാടേ അപ്പടി വിഴുങ്ങണമെന്നു് ഉപദേഷ്ടാവു പറയുന്നില്ല.</p>
+          <lg>
+            <l> ‘വിമൃശ്യേതദശേഷേണ</l>
+            <l> യഥേച്ഛസി തഥാ കുരു’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു സ്വയം വിമർശിച്ചു വേണ്ടതു സ്വീകരിക്കാൻ ഗീതാകാരൻ ശ്രോതാവിനെ അനുവദിക്കുന്നു.
+യുക്തിവാദവും ശാസ്ത്രബോധവുംകൊണ്ടു മാത്രമേ മനുഷ്യനു വിജ്ഞാനപുരോഗതിയുണ്ടായിട്ടുള്ളു. അവൻ
+കാടത്തത്തിൽനിന്നു കരകേറി വരുന്നതു് ഈ രണ്ടിന്റെയും കരാവലംബം കൊണ്ടത്രേ. അറിവാകുന്ന ജലം
+മുന്നോട്ടൊഴുകാതെ കെട്ടിനിന്നു ദുഷിക്കാൻ തുടങ്ങിയ ഓരൊ കാലഘട്ടത്തിലും യുക്തിവാദികളായ
+ആചാര്യന്മാരാണു് അന്ധതയോടു പടപൊരുതി ജനസമുദായത്തെ പ്രബുദ്ധമാക്കിയിട്ടുള്ളതു്.
+</p>
+          <p>സിദ്ധാന്തബദ്ധമായ ബുദ്ധിയല്ല യുക്തിവാദത്തിനു വേണ്ടതു്. അതു് എപ്പോഴും സ്വതന്ത്രമായിരിക്കണം. ഒരു
+വിഷയത്തിലും ഒരു പ്രത്യേകാഭിപ്രായം സ്ഥാപിക്കണമെന്നു യുക്തിവാദികൾ ശാഠ്യംപിടിക്കാറില്ല.
+അഭിപ്രായമേതായാലും കൊള്ളാം. അതിലെത്തിച്ചേരുന്ന വഴി പിഴയ്ക്കാത്തതാകണം. യുക്തിക്കു
+ചേർന്നിരിക്കണം തെളിവുള്ളതായിരിക്കണം എന്നേ അവർ നിർബന്ധിക്കുന്നുള്ളു. മതക്കാർക്കെന്നപോലെ
+യുക്തിവാദികൾക്കും യാഥാസ്ഥിതികമായ ചില വിശ്വാസങ്ങളും അഭിപ്രായങ്ങളും ഉണ്ടെന്നും അവ ഒരിക്കലും
+മാറാത്തവയാണെന്നും ചിലർ ധരിച്ചുവച്ചിട്ടുണ്ടു്. ഇതിനൊരടിസ്ഥാനവുമില്ല. യുക്തിവാദികളെ പൊതുവേ
+ബന്ധിക്കുന്ന വിശ്വാസപ്രമാണങ്ങളോ അഭിപ്രായങ്ങൾ തന്നെയോ ഉണ്ടാകുക വിഷമമാണു്. യുക്തി
+വിചാരണയിൽ അവർ പല കാര്യങ്ങളെ സംബന്ധിച്ചും ഏകാഭിപ്രായക്കാരായേക്കാം. എന്നാൽ എപ്പോൾ
+തെറ്റാണെന്നു തെളിയുന്നുവോ അപ്പോൾ അതു മാറ്റുവാനും അവർ മടിക്കുകയില്ല. ഒരു തുറന്ന മനസ്സാണു്
+അവർക്കു് ഏതു കാര്യത്തിലുമുള്ളതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Immanuel_Kant.jpg" rendition="gra"/>
+            <figDesc style="thumb">ക്യാന്റ്</figDesc>
+          </figure>
+          <p> യുക്തിവാദികൾ മതത്തെയും ഈശ്വരനെയും കടന്നാക്രമിക്കുന്നു. അതു് അവർക്കൊരു
+തൊഴിലായിത്തീർന്നിരിക്കുന്നുവെന്നു പരാതിപ്പെടുന്നവരുണ്ടു്. എന്നാൽ ഇതൊരാവശ്യമാണെന്ന കാര്യം
+അവരോർമ്മിക്കുന്നില്ല. മനുഷ്യനെ വിചാരമൂഢനാക്കുന്ന അന്ധവിശ്വാസങ്ങളിൽ തൊണ്ണൂറുശതമാനവും മതം,
+ഈശ്വരൻ, ആത്മാവു് ഇത്യാദി സങ്കല്പങ്ങളെ കേന്ദ്രീകരിച്ചുള്ളവയാകുന്നു. വിശ്വാസം അകത്തു കടക്കുമ്പോൾ
+വിചാരം പുറത്തു പോകുന്നു എന്ന ചൊല്ലു് മതകാര്യങ്ങളിലാണു് തികച്ചും അർത്ഥവത്തായിക്കാണുന്നതു്.
+യുക്തിയുടെ വെളിച്ചത്തിൽ വിചാരണ ചെയ്തു നോക്കിയിട്ടല്ല നാം ഇവയിൽ വിശ്വാസമുറപ്പിക്കുന്നതു്.
+നേരെമറിച്ചാണു നമ്മുടെ മാനസിക വ്യാപാരം. വിശ്വാസം യുക്തിക്കു ചേർന്നതല്ലെങ്കിൽ വിശ്വാസത്തിനു
+ചേരത്തക്കവിധം യുക്തിവിചാരത്തെ വളച്ചൊടിക്കുക. പണ്ഡിതന്മാരുടെയിൽപ്പോലും കണ്ടുവരുന്ന
+വാദതന്ത്രമാണിതു്. ഏതു വിഡ്ഢിത്തത്തിനും ഒരു മുട്ടുയുക്തി കണ്ടുപിടിക്കാൻ പണ്ഡിതന്മാർക്കു കഴിയുമല്ലോ.
+ജനസമൂഹം ഈ യുക്ത്യാഭാസം കൊണ്ടു തൃപ്തിയടയുകയും ചെയ്യും. വലിയ ചിന്തകന്മാർപോലും ഇത്തരം
+കപടയുക്തിവാദം കൊണ്ടു സമാധാനപ്പെട്ടു് അന്ധവിശ്വാസങ്ങളുടെ ചുമടുതാങ്ങികളായി തീരാറുണ്ടു്. ഈശ്വരൻ,
+ആത്മാവു് തുടങ്ങിയ അവ്യക്തസങ്കല്പങ്ങൾക്കു് അത്യന്തികവും വസ്തുനിഷ്ഠവുമായ സത്തയുണ്ടോ എന്നതാണു്
+പ്രധാനപ്രശ്നം. അതിനു വെറും വിശ്വാസം മാത്രമേ മറുപടിയായിട്ടുള്ളു എന്നു <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+പോലും സമ്മതിച്ചിട്ടുണ്ടു്. ഏതായാലും നിത്യജീവിതത്തോടു ബന്ധമില്ലാത്ത ഈ സൂക്ഷ്മതത്ത്വത്തെയല്ല
+യുക്തിവാദികൾ കൂടുതലായി എതിർക്കുന്നതു്. നൂറ്റാണ്ടുകളായി മേല്പറഞ്ഞ സങ്കല്പങ്ങളെ ചുറ്റിപ്പറ്റി
+വളർന്നുവന്നിട്ടുള്ള അന്ധവിശ്വാസപ്പെരുങ്കാടുകൾ നശിച്ചു മനുഷ്യന്റെ ബുദ്ധി തെളിയണമെന്നതിലാണു് അവർക്കു
+നിർബന്ധം. ഇവയെല്ലാം വെട്ടിക്കളഞ്ഞു വെളിച്ചം കടത്തിനോക്കിയാൽ വ്യക്തിഗതമായ സങ്കല്പങ്ങളിൽ
+കവിഞ്ഞൊന്നും അവശേഷിക്കുന്നില്ലെന്നു കാണാം. അജ്ഞാത രഹസ്യമായി എന്തോ ഒന്നില്ലേ എന്നു ചിലർ
+ചോദിക്കുന്നു ഉണ്ടായിക്കൊള്ളട്ടെ. അറിഞ്ഞുകൂടാത്തതിനെപ്പറ്റി അറിഞ്ഞുകൂടാ എന്ന മനോഭാവം പാലിക്കണം.
+അതാണു വേണ്ടതു്. എല്ലാം അറിയാമെന്നോ അറിഞ്ഞുകഴിഞ്ഞുവെന്നോ ബുദ്ധിയുള്ളവരാരും
+ശഠിക്കുകയില്ലല്ലോ—ഇങ്ങനെ അറിവിനും അപ്പുറത്തു് എന്തോ ഉണ്ടെന്നു കരുതി മനുഷ്യൻ സൃഷ്ടിച്ചുവിട്ടതാണു്
+ഈശ്വരനും ആത്മാവും മറ്റും. അവയെല്ലാം യുക്തിവിചാരത്തിനു വിഷയമാകുന്നവയുമത്രെ. സ്വർഗത്തിൽ
+ഉച്ചസ്ഥനായി വിളയാടി പുണ്യപാപങ്ങൾ വീതിച്ചും. സ്തുതിഗീതങ്ങൾ കേട്ടു പ്രസാദിച്ചും യുദ്ധം തുടങ്ങിയ
+കാര്യങ്ങളിൽ ഇരുപക്ഷക്കാരുടെയും പ്രാർത്ഥനകൾ സ്വീകരിച്ചു് അമ്പരന്നും യാതൊരു കാരണവുമില്ലാതെ
+
+ഭൂകമ്പം, കൊടുങ്കാറ്റ്, ഇടിവെട്ടു് മുതലായ ഹിംസാകർമ്മങ്ങൾ നടത്തിയും പ്രപഞ്ചഭരണം നിർവഹിക്കുന്ന
+ഒരീശ്വരനിൽ വിശ്വസിക്കാൻ സാമാന്യബുദ്ധിയുള്ളവർക്കു സാദ്ധ്യമാകുമോ? ഇമ്മാതിരി അന്ധസങ്കല്പങ്ങളെ
+യുക്തിവാദികൾ എങ്ങനെ എതിർക്കാതിരിക്കും?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/sahodaran-ayyappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">സഹോദരനയ്യപ്പൻ</figDesc>
+          </figure>
+          <p> മതമോ ഈശ്വരവിശ്വാസമോ ആണു് മനുഷ്യനെ സന്മാർഗ്ഗിയാക്കുന്നതെന്നു് ഒരു പഴഞ്ചൻ വാദം ഇടയ്ക്കിടയ്ക്കു
+തലപൊക്കാറുണ്ടു്. പുരോഹിതന്മാർ പറഞ്ഞുപരത്തിയിട്ടുള്ള ഒരബദ്ധമാണിതു്. മതം വാസ്തവത്തിൽ മനുഷ്യന്റെ
+സന്മാർഗബോധത്തെ കളങ്കപ്പെടുത്തുകയാണു ചെയ്തിട്ടുള്ളതെന്നു മൊത്തത്തിൽ പറയാം. മനുഷ്യത്വത്തെ
+അധഃപതിപ്പിക്കുന്ന മുഖസ്തുതിയും കൈക്കൂലിയും മതത്തിൽ പ്രാർത്ഥനയും വഴിപാടുമായി മാറിയിരിക്കയാണു്.
+രണ്ടും സന്മാർഗവ്യതിചലനത്തിനു മനുഷ്യരെ പ്രേരിപ്പിക്കുന്ന ദുശ്ശീലമാണെന്നു് മനശ്ശാസ്ത്രം നോക്കിയാൽ
+മനസ്സിലാകും. ഒരു കൊല്ലത്തെ ദുർവൃത്തികളുടെ പാപം മുഴുവൻ വ്രതംകൊണ്ടോ പ്രാർത്ഥനകൊണ്ടോ
+കുമ്പസാരംകൊണ്ടോ കഴുകിക്കളയാമെന്നു വിശ്വസിക്കുന്ന മനുഷ്യൻ എങ്ങനെ സദ്വൃത്തനാകും? മതം
+എക്കാലത്തും ഒരു ചൂഷണോപകരണമായിട്ടേ പ്രവർത്തിച്ചിട്ടുള്ളു. ആഫ്രിക്കൻ വർഗക്കാരുടെയിടയിൽ ഒരു
+ചൊല്ലുണ്ടു്. ‘വെള്ളക്കാരൻ വന്നപ്പോൾ ബൈബിൾ അയാളുടെ കൈയിലും ഭൂമിയെല്ലാം ഞങ്ങളുടെ
+കൈവശവുമായിരുന്നു. ഇപ്പോൾ ഭൂമി അയാളുടെ കൈയിലും ബൈബിൾ ഞങ്ങളുടെ കൈയിലുമായിരിക്കുന്നു.’
+(When white man came he had the Bible and we had the land; now he has the land and we
+have the Bible) എന്നു് കറുത്ത വർഗക്കാരുടെ അനുഭവം വിളിച്ചുപറയുന്ന ഒരു വാക്യമാണിതു്. എവിടെയും
+സ്ഥിതി ഇതുതന്നെയല്ലേ? പൗരോഹിത്യവും മുതലാളിത്തവും ഭരണകർത്തൃത്വവും ഒറ്റക്കെട്ടായിനിന്നു
+മതത്തിന്റെയും ദൈവത്തിന്റെയും പേരിൽ ജനസമൂഹത്തെ ചൂഷണം ചെയ്യുക. ചരിത്രഗതിയിൽ ഇത്രനാളും കണ്ട
+സാമാന്യ സമ്പ്രദായമാണിതു്. ഇതിൽ സന്മാർഗ്ഗത്തിനെവിടെ പ്രസക്തി?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Will_Durant.jpg" rendition="gra"/>
+            <figDesc style="thumb">വിൽഡ്യുറന്റ്</figDesc>
+          </figure>
+          <p> ഒരു ദിങ്മാത്രപ്രദർശനമെന്ന നിലയിൽ യുക്തിവാദത്തെപ്പറ്റി ഇത്രയും പ്രസ്താവിച്ചുവെന്നേയുള്ളു.
+സവിസ്തരമായ പഠനത്തിനു് ഇവിടെ സ്ഥാനമില്ല. ഇനി നമുക്കു് കേരളത്തിലെ യുക്തിവാദാചാര്യനായ
+എം. സി.-യെ നോക്കാം. യുക്തിവാദം പ്രചരിപ്പിക്കുന്നതിൽ ഏകതാനതയോടെ നിസ്വാർത്ഥപ്രവർത്തനം
+നടത്തിക്കൊണ്ടിരിക്കുന്ന ഒരു കർമയോഗിയാണു് എം. സി. സ്വജീവിതം അദ്ദേഹം ഈ
+വിശിഷ്ടസേവനത്തിനായിത്തന്നെ സമർപ്പിച്ചിരിക്കുന്നു. ആരംഭകാലത്തു് എം. സി.-യെ ഇതിലേക്കു പ്രേരിപ്പിച്ചതു്
+<ref target="https://ml.wikipedia.org/wiki/Sahodaran_Ayyappan">സഹോദരനയ്യപ്പ</ref>
+നാണു്. എന്നാൽ ഇതരരംഗങ്ങളിലെ ബഹുമുഖപ്രവർത്തനംമൂലം സഹോദരനുപോലും ഇതിനുവേണ്ടി മുഴുവൻ
+സമയവും വിനിയോഗിക്കാൻ കഴിഞ്ഞിട്ടില്ല. യുക്തിവാദപരിപോഷണം തന്റെ ജീവിതവ്രതമായി സ്വീകരിച്ചു്
+ഇത്രയും ദീർഘകാലം മുടക്കം കൂടാതെ പ്രവർത്തിക്കാൻ എം. സി.ക്കേ സാദ്ധ്യമായിട്ടുള്ളു. ഏതാണ്ടു്
+മുപ്പത്തൊമ്പതു കൊല്ലമായി അദ്ദേഹം യുക്തിവാദിമാസിക ഏറ്റെടുത്തു നടത്തിത്തുടങ്ങിയിട്ടു്. ഇന്നുവരെ ഒരു
+തവണ പോലും ഇതിന്റെ പ്രസിദ്ധീകരണം മുടങ്ങിയിട്ടില്ല. കൃത്യസമയത്തിനു മാസിക പുറപ്പെടാതിരുന്നിട്ടില്ല.
+ഒരിക്കലെങ്കിലും എം. സി. പതിവുള്ള കുറിപ്പുകൾ എഴുതാതിരുന്നിട്ടില്ല. കേരളീയസംസ്കാരത്തെ സ്ഫുടംചെയ്തു
+ശുദ്ധീകരിക്കാനുള്ള ഒരു വൈജ്ഞാനികയജ്ഞമാണു് അദ്ദേഹത്തിന്റെ ഈ മാസികാപ്രവർത്തനം. എം. സി.
+മാസംതോറും എഴുതിവിടുന്ന വിലയേറിയ കുറിപ്പുകളാണു് ‘യുക്തിവാദി’യുടെ മജ്ജയും മാംസവുമെന്നു് ഈ
+ലേഖകൻ അന്യത്ര പ്രസ്താവിച്ചിട്ടുണ്ടു്. പത്രാധിപരുടെ വ്യക്തിമുദ്ര പതിഞ്ഞിട്ടുള്ള ഈ കുറിപ്പുകൾക്കു ചില
+സവിശേഷതകളുണ്ടു്. അവയിൽ അടക്കം ചെയ്യുന്ന വാർത്താമൂല്യമാണു് ഒന്നാമത്തേതു്. അതു
+യാഥാസ്ഥിതികരെപ്പോലും ആകർഷിക്കും. പത്രമാസികകളിൽ അന്നന്നു കാണുന്ന വാർത്തകളിൽ നിന്നു
+തനിക്കാവശ്യമായതു തെരഞ്ഞെടുത്തു് സ്ഥലവും തീയതിയും കാണിച്ചു് എം. സി. ഓരോ കുറിപ്പിന്റെയും
+തലക്കെട്ടായി ചേർക്കുന്നു. ‘ഇതൊന്നു വായിച്ചുനോക്കു’ എന്നു നമ്മെ ക്ഷണിക്കുന്ന വിധത്തിലായിരിക്കും ഈ
+വാർത്തകളുടെ ആവർത്തനം. ഓരോന്നും വായിച്ചു കഴിയുമ്പോൾ കാണാം, അതിന്മേൽ പിടിച്ചുനിന്നുകൊണ്ടു്
+പത്രാധിപർ എഴുതിച്ചേർത്തിരിക്കുന്ന ഭാഷ്യം. മതാന്ധതയുടെയും മൂഢവിശ്വാസാചാരങ്ങളുടെയും ഏതു
+പാറക്കെട്ടും പൊട്ടിച്ചുതകർക്കുന്ന ഒരു ഡൈനാമിറ്റായിരിക്കും അതിലെ വചോയുക്തിചാതുര്യം. അതുമായി
+ഏറ്റുമുട്ടിയാൽ എത്ര കടുത്ത മാമൂൽപ്രിയന്റെയും മനസ്സിനു് ഒരു മാറ്റം വരാതിരിക്കില്ല. ദൃഷ്ടാന്തങ്ങളിൽക്കൂടി
+
+അദ്ധ്യാപനം നടത്തുന്ന മനഃശ്ശാസ്ത്രജ്ഞനായ ഒരദ്ധ്യാപകന്റെ വൈദഗ്ദ്ധ്യമാണു് എം. സി. ഈ കുറിപ്പുകളിൽ
+പ്രദർശിപ്പിക്കുന്നതു്. വസ്തുനിഷ്ഠമായ യാഥാർത്ഥ്യത്തിന്റെ ശാസ്ത്രീയമായ വിശകലനത്തിൽ (Scientific analysis
+of objective reality) അദ്ദേഹത്തിനുള്ള വൈഭവം അന്യാദൃശമാകുന്നു. അതിനു തക്ക പചേളിമമായ
+പാണ്ഡിത്യം നിരന്തരം വായിച്ചും പഠിച്ചും ചിന്തിച്ചും അദ്ദേഹം സമ്പാദിച്ചിട്ടുണ്ടു്. ചിന്താലോകത്തിൽ ഒരുതരം
+മന്തന്മാരും മുടന്തന്മാരുമാണു് നമ്മിലധികംപേരും. പലതരം വൈകാരികപ്രവണതകൾ, മാനസികമായ
+അടിമത്തം, ക്ഷിപ്രവിശ്വാസശീലം, ഭാവാവേശം മുതലായവമൂലം നമ്മുടെ യുക്തിവിചാരം പലപ്പോഴും
+സ്തംഭിക്കയോ ഏതെങ്കിലും ഒരു വശത്തേക്കു ചാഞ്ഞുപോകയോ ചെയ്യാറുണ്ടു്. എം. സി.-യാകട്ടെ ഈവക
+മാനസികദൗർബല്യങ്ങളിൽ നിന്നു തികച്ചും മുക്തി നേടിയിരിക്കുന്നു. അദ്ദേഹത്തിന്റെ അഭിപ്രായധീരതയെപ്പറ്റി
+പ്രത്യേകിച്ചു പറയണമെന്നില്ല. മതവിശ്വാസികളുടെ നടുക്കു താമസിച്ചുകൊണ്ടാണു് അദ്ദേഹം മതത്തിന്റെ മസ്തകം
+തല്ലിപ്പിളർക്കുന്നതെന്ന വസ്തുതതന്നെ അതിനു മതിയായ തെളിവാണല്ലോ. ‘വാർദ്ധക്യം യുവത്വത്തിന്റെ
+സ്വരത്തിൽ ഇത്ര ധീരമായി ഒരിക്കലും സംസാരിച്ചിട്ടില്ല’ (never has old age so bravely spoken with the
+voice of youth) എന്നു് <ref target="https://ml.wikipedia.org/wiki/Will_Durant">വിൽഡ്യുറന്റ്</ref> <ref target="https://ml.wikipedia.org/wiki/Immanuel_Kant">ക്യാന്റി</ref> നെപ്പറ്റി
+എഴുതിയിട്ടുള്ള വാക്യം അശീതി വർഷനായ എം. സി.-ക്കും ചേരുന്നതാണു്. ഈ മഹാശയനെ
+ശതവർഷനായിക്കാണാൻ കേരളത്തിനു ഭാഗ്യമുണ്ടാകട്ടെ.
+</p>
+          <p>
+യുക്തിവിഹാരം 1968.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Yukthivadavum M. C.-yum (ml:
+യുക്തിവാദവും എം. സി.-യും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Yukthivadavum M. C.-yum, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, യുക്തിവാദവും എം. സി.-യും, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:SzyndlerShepherdess.jpg">The Happy Shepherdess,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Pantaleon_Szyndler">Pantaleon
+Szyndler</ref>  (1846–1905). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-yukthimc.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-yukthimc.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

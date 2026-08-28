@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വഴിവിളക്കുകൾ</title>
+          <title xml:lang="en" type="main">Vazhivilakkukal</title>
+        </title>
+        <author>Kesari Balakrishna Pillai</author>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">September 28, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വഴിവിളക്കുകൾ</title>
+              <title xml:lang="en" type="main">Vazhivilakkukal</title>
+            </title>
+            <author>Kesari Balakrishna Pillai</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-09-28</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kesari Balakrishna Pillai</term>
+          <term>Vazhivilakkukal</term>
+          <term>കേസരി ബാലകൃഷ്ണപിള്ള</term>
+          <term>വഴിവിളക്കുകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-09-28</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/night.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:Night.jpg">Night,</ref> a
+photograph by Adam Ziaja  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വഴിവിളക്കുകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കേസരി ബാലകൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വഴിവിളക്കുകൾ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/gshankarakurup.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. ശങ്കരക്കുറുപ്പു്</figDesc>
+          </figure>
+          <p style="noindent"> ഭാഷാസാഹിത്യത്തിലെ ബൃഹത്പുരോഗമനസാഹിത്യപ്രസ്ഥാനത്തിന്റെ ഒരു
+ശാഖയാണു് റോമാന്റിക്ക്-ഹൂമനിസ്റ്റ് പ്രസ്ഥാനം. ഇതിൽ ശ്രീമാന്മാരായ <ref target="https://en.wikipedia.org/wiki/G._Sankara_Kurup">ജി. ശങ്കരക്കുറുപ്പു്</ref>,
+<ref target="https://en.wikipedia.org/wiki/Vennikkulam_Gopala_Kurup">വെണ്ണിക്കുളം</ref>,
+<ref target="https://en.wikipedia.org/wiki/Nagavally_R._S._Kurup">നാഗവള്ളി
+ആർ. എസ്. കുറുപ്പു്</ref>, <ref target="https://en.wikipedia.org/wiki/T._N._Gopinathan_Nair">ടി. എൻ.
+ഗോപിനാഥൻനായർ</ref>, ഈ. എം. കോവൂർ, കമ്മത്തു്, <ref target="https://en.wikipedia.org/wiki/Lalithambika_Antharjanam">ശ്രീമതി
+ലളിതാംബികാ അന്തർജ്ജനം</ref> ആദിയായ പല നല്ല സാഹിത്യകാരരും ഉൾപ്പെടുന്നുണ്ടു്. പ്രസ്തുത ശ്രീ:
+കോവൂരിന്റെ ഒൻപതു റൊമാന്റിക്ക് ചെറുകഥകളുടെ സമാഹാരമാണു് പ്രകൃതഗ്രന്ഥം. തീക്ഷ്ണത കുറഞ്ഞ
+ക്ഷണികമാനസികഭാവങ്ങളായ ‘മൂഡു’കൾക്കു പ്രാമുഖ്യം നൽകുന്ന കഥകളെക്കാൾ ഏറെ,
+ബാഹ്യചിത്രീകരണാത്മകവും, പ്ലോട്ടിനോ, പാത്രസൃഷ്ടിക്കോ പ്രാധാന്യം കൊടുക്കുന്നവയുമായ കഥകൾ
+രചിച്ചുവരുന്ന ഒരു ദേഹമാണു് പ്രകൃതഗ്രന്ഥകാരൻ. തിരുവിതാംകൂറിലെ ചിറ്റുദ്യോഗസ്ഥലോകത്തെ
+ചിത്രീകരിക്കുന്നതിൽ ശ്രീ: കോവൂർ കാണിച്ചിട്ടുള്ള പാടവം അനന്യസദൃശമാണു്. തിരുവിതാംകൂറിലെ ഉയർന്ന
+തരം ഉദ്യോഗസ്ഥന്മാരിൽ, ഒരാളാണു് ശ്രീ. കോവൂർ എന്നുള്ളതും ഇവിടെ സ്മരണീയമത്രെ. ഉജ്ജ്വലമായ
+ഭാഷാരീതി, പ്രസാദാത്മകത്വം, ഫലിതം, നിരീക്ഷണപാടവം, കോൺസെൻട്രേഷന്റെ സാരമായ കുറവു്,
+ഇവയാണു് ഗ്രന്ഥകാരന്റെ കഥയെഴുത്തിലെ മറ്റു ചില സ്വഭാവഘടകങ്ങൾ.
+</p>
+          <p>പ്രകൃതകൃതിയിൽ, ‘ട്വന്റ ി-ടു-ട്വന്റ ി ഫൈവ്’ എന്ന കഥ ഉത്തമവും, ‘കുഞ്ഞുങ്ങളെയോർത്തു്’, ‘സഹോദരി’,
+കള്ളപ്പക്കാരി’, ‘അഭിനവകുചേലൻ’ എന്നിവ നല്ല കഥകളും ശേഷിച്ച നാലും വെറും സാധാരണ കഥകളുമാണു്.
+ഈ കഥകളിൽവെച്ചു്, അഞ്ചെണ്ണത്തിൽ ചിറ്റുദ്യോഗസ്ഥന്മാർ നായകന്മാരും, രണ്ടെണ്ണത്തിൽ അവർ
+ഉപനായകന്മാരുമാണു്. ‘നീതിമാൻ’, ‘ബളാക്ക്മാർക്കറ്റ്’, ‘പൂജ്യത്തിലേയ്ക്കു്’, ‘അഭിനവകുചേലൻ’, ‘കുറ്റാലത്തു വച്ചു്’
+എന്നീ അഞ്ചു കഥകളിലും പ്ലോട്ടിനു പാത്രസൃഷ്ടിയെക്കാളധികം പ്രാധാന്യമുണ്ടു്. ശേഷിച്ച നാലിന്റേയും കഥ നേരേ
+മറിച്ചും. ‘കള്ളപ്പക്കാരി’ എന്ന കഥയിൽ പ്ലോട്ടിൽ നിന്നു ജനിച്ച പാത്രസൃഷ്ടി പ്ലോട്ടിനെ
+അടിമപ്പെടുത്തിയിരിക്കുന്നതു കാണാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/robert-louis-stevenson.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. എൽ. സ്റ്റീവൻസൺ</figDesc>
+          </figure>
+          <p>പ്ലോട്ടിൽ നിന്നു പാത്രസൃഷ്ടി ജനിച്ചിരിക്കുകയും, പ്ലോട്ടിനു പാത്രസൃഷ്ടി അടിമപ്പെട്ടിരിക്കുകയും
+ചെയ്യേണ്ടതാണു് എന്നു പ്രസിദ്ധ റൊമാന്റിക്ക് സാഹിത്യകാരനായ <ref target="https://en.wikipedia.org/wiki/Robert_Louis_Stevenson">ആർ. എൽ.
+സ്റ്റീവൻസൺ</ref> അഭിപ്രായപ്പെട്ടിട്ടുണ്ടു്. ഈ അഭിപ്രായം പ്രസ്തുത അഞ്ചു കഥകളിലും ശ്രീ: കോവൂർ
+സ്വീകരിച്ചിരിക്കുന്നു. ഇന്നത്തെ ഭൂരിപക്ഷം നല്ല സാഹിത്യകാരന്മാരും സ്റ്റീവൻസന്റെ അഭിപ്രായത്തിനു നേരെ
+വിരുദ്ധമായ പദ്ധതിയാണു് സ്വീകരിച്ചു വരുന്നതു്. പ്ലോട്ടിനു പ്രാമുഖ്യമുള്ള കഥകളിൽ സാധാരണ വായനക്കാർക്കു
+തങ്ങളുടെ ദിവാസ്വപ്നങ്ങളിൽ യഥേഷ്ടം മുങ്ങിക്കുളിക്കുവാൻ സൗകര്യമുണ്ടായിരിക്കുമെന്നും, നേരേ മറിച്ചു,
+
+പാത്രസൃഷ്ടിക്കഥകളിൽ അവർക്കു കഥാപാത്രങ്ങളുടെ വിമർശനമനഃസ്ഥിതിപൂർവ്വം വീക്ഷിക്കേണ്ടതായി
+വരുമെന്നുമാണു് സ്റ്റീവൻസൻ തന്റെ അഭിപ്രായത്തിനു നല്കിയിരുന്ന ന്യായങ്ങൾ. പലപ്പോഴും പ്ലോട്ടു
+പാത്രസൃഷ്ടിയിൽനിന്നു ജനിക്കാറുണ്ടു്. ‘കുഞ്ഞുങ്ങളെയോർത്തു്’ എന്ന പ്രകൃത കൃതിയിലെ കഥ ഇതിനു ഒരു
+ഉദാഹരണമാണു്. ചിലപ്പോൾ ഈ രണ്ടു തരങ്ങൾ തമ്മിൽ വേർതിരിക്കുവാൻ വൈഷമ്യമുണ്ടാവുകയും ചെയ്യും.
+</p>
+          <p>താൻ സ്നേഹിച്ചിരുന്നവളും, എന്നാൽ അന്യന്റെ ഭാര്യയായി ഭവിച്ചവളുമായ ഒരു സ്ത്രീക്കുവേണ്ടി സർവ്വവും
+ബലികഴിക്കുന്ന ഒരു മഹാത്യാഗിയാണു് ‘കുഞ്ഞുങ്ങളെയോർത്തു്’ എന്നതിലെ നായകൻ ചിറ്റുദ്യോഗസ്ഥൻ
+രാഘവൻപിള്ള. ഇത്തരക്കാരെ ഇന്നും അപൂർവ്വമായിട്ടെങ്കിലും ലോകത്തിൽ കണ്ടുമുട്ടുവാൻ സാധിക്കും.
+പാത്രസൃഷ്ടിക്കും അന്തരീക്ഷത്തിനും പ്രാധാന്യമുള്ള ‘കള്ളപ്പക്കാരി’യിലെ നായികയായ
+കൊച്ചുമറിയച്ചേടത്തിയേയും, അവരുടെ അപ്പം ചുടലിനേയും വായനക്കാരൻ ഒരിക്കലും മറക്കുന്നതല്ല.
+കള്ളപ്പത്തീറ്റിയനുഭവത്തിൽനിന്നു ജനിച്ച ശ്രീ: കോവൂരിന്റെ വർണ്ണനപാടവം അതു തിന്നു
+നോക്കിയിട്ടില്ലാത്തവരുടെ വായിൽപ്പോലും വെള്ളമൂറിക്കും. “ശുഭ്രമോഹനമായ റേന്തത്തുണിപോലെ
+കാണപ്പെടുന്നതും”, “വൃദ്ധസന്യാസിയുടെ മുഖത്തു നരച്ച മീശയെന്നപോലെ”യുള്ളതുമായ ചുറ്റുമുള്ള “അലുക്കിന്റെ
+മെച്ചത്തിലാണു് കള്ളപ്പത്തിന്റെ മേന്മ യഥാർത്ഥത്തിൽ സ്ഥിതിചെയ്യുന്നതു്” എന്നുള്ള ഗ്രന്ഥകാരന്റെ
+വിദഗ്ദ്ധാഭിപ്രായത്തോടു് അതു തിന്നുനോക്കുവാൻ ഭാഗ്യമുണ്ടായിട്ടുള്ള അസ്മാദൃശരും പൂർണ്ണമായി യോജിക്കുക
+തന്നെ ചെയ്യും
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/h-e-bates.jpg" rendition="gra"/>
+            <figDesc style="thumb">എച്ച്. ഈ. ബേറ്റ്സ്</figDesc>
+          </figure>
+          <p>അസാധാരണ പ്ലോട്ടുകളോടു മാത്രമുള്ള പ്രിയം ഒരു നല്ല സാഹിത്യകാരനെ എത്രയധികം
+അധഃപതിപ്പിക്കുമെന്നുള്ളതിന്നു് ഒരു നല്ല ഉദാഹരണമാണു് ‘നീതിമാൻ’ എന്ന കഥ. ഇതിലെ നായകൻ
+ചിറ്റുദ്യോഗസ്ഥൻ രാഘവൻപിള്ള പുരുഷവീര്യം നശിച്ച വൃദ്ധനും, തണ്ടു് ആദിയായ വഷളത്തരങ്ങളില്ലാത്തവനും,
+നീതിമാനുമാണു്. ഇദ്ദേഹത്തിന്റെ ഭാര്യ വളരെ ചെറുപ്പക്കാരിയും ആരോഗ്യവതിയുമാണെന്നു മാത്രമേ
+ഗ്രന്ഥകാരൻ പറഞ്ഞിട്ടുള്ളു. തന്റെ ന്യായദീക്ഷ രാഘവൻപിള്ളയെ, തന്റെ ഭാര്യക്കു ജാരനായി ഒരു ഹോമിയോ
+ഡാക്ടരെ കൂട്ടിവിടാൻ പ്രേരിപ്പിച്ചു എന്നാണു് ഗ്രന്ഥകാരൻ ഇതിൽ കാണിച്ചിട്ടുള്ളതു്. പണക്കൊതി,
+ഉദ്യോഗമോഹം എന്നിവയുള്ളവരോ, ‘വായേർസ്’ എന്ന ഫ്രഞ്ച് പേരുള്ള ചിലതരം ലൈംഗികരോഗികളോ
+ഏറെക്കുറെ ഇതുപോലെ പ്രവർത്തിച്ചേക്കാം. ഇവയൊന്നുമില്ലാത്ത രാഘവൻപിള്ള തന്റെ നീതിബോധംകൊണ്ടു
+മാത്രം ഇപ്രകാരം പ്രവർത്തിക്കുമെന്നു പുരുഷ സ്വഭാവം അറിയാവുന്നവർ വിശ്വസിക്കുന്നതല്ല. പുരുഷവീര്യക്കുറവു്,
+ന്യായബോധം എന്നിവയ്ക്കു പുറമേ രാഘവൻ പിള്ളയ്ക്കു ഒരു പ്രത്യേകമായ ലൈംഗികപ്രകൃതിയുണ്ടെന്നുകൂടി
+ഗ്രന്ഥകാരൻ സൂചിപ്പിക്കേണ്ടതായിരുന്നു. രാഘവൻപിള്ളയുടെ വിവാഹിതയായ മകൾ മീനാക്ഷിയുടെ
+വരവിനേയും അതിനെതുടർന്നുണ്ടായ കലഹത്തേയും വിവരിക്കുന്നതിന്നു് മിനക്കെടുത്തിയ സ്ഥലം ശ്രീ.
+കോവൂരിന്നു് ഇതിനായി ഉപയോഗപ്പെടുത്തുകയും ചെയ്യാമായിരുന്നു. ഒരുവിധം ഇത്തരത്തിലുള്ള അസാധാരണ
+പ്ലോട്ടിന്റെ സാന്നിദ്ധ്യത്തിലും പാത്രസൃഷ്ടിയുടെ മേന്മ മുഖേന ഒരു ചെറുകഥയെ നല്ലതായ ഒന്നാക്കാൻ
+മനസ്സുവെച്ചാൽ സാധിക്കുമെന്നു് <ref target="https://en.wikipedia.org/wiki/H._E._Bates">എച്ച്. ഈ. ബേറ്റ്സി</ref> ന്റെ
+‘കിമോനോ’ എന്ന കുപ്രസിദ്ധ ഇംഗ്ലീഷ് ചെറുകഥ സ്ഥാപിക്കുന്നുമുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/thomashardy.jpg" rendition="gra"/>
+            <figDesc style="thumb">തോമസ് ഹാർഡി</figDesc>
+          </figure>
+          <p>പഴഞ്ചൻ നീതികഥകളുടെ (മോറൽ ടെയിൽസ്) ആധുനികരൂപവും, തത്വജ്ഞാനപരമായ ഒരു
+അവസാനത്തോടുകൂടിയതുമായ രണ്ടു പ്ലോട്ടുകഥകളാണു് ‘ബ്ളാക്ക്മാർക്കറ്റ്’, ‘പൂജ്യത്തിലേയ്ക്കു്’ എന്നിവ.
+‘കള്ളപ്പക്കാരി’യിലും ഈ തത്ത്വജ്ഞാനപ്പോക്കിനെ ഒരു നേരിയ രൂപത്തിൽ കാണാം. പാപം ചെയ്യുന്നവനു്
+ഈ ലോകത്തുവച്ചുതന്നെ ദൈവശിക്ഷ അനുഭവിക്കേണ്ടിവരുമെന്നു ‘ബ്ളാക്ക്മാർക്കറ്റും’, ധനമുള്ളവനു
+സുഖമുണ്ടാകുന്നതല്ലെന്നു ‘പൂജ്യത്തിലേയ്ക്കു്’ എന്നതും പഠിപ്പിക്കുന്നു. ‘കുറ്റാലത്തുവച്ചു്’ എന്നതു് ഒരു വെറും
+
+സാധാരണ പ്ലോട്ടുകഥയാണു്. ഡിസ്സ്മിസ്സ് ചെയ്യപ്പെട്ട പൊലീസ് ഇൻസ്പെക്ടർ ഗോവിന്ദൻകുട്ടി
+മഹാവീരകൃത്യങ്ങൾ ചെയ്യുന്നതും, കേട്ടതെല്ലാം അതുപടി വിഴുങ്ങുന്ന പൊട്ടിപ്പെണ്ണായ വിശാലാക്ഷിയുടെ
+വാസ്തവികത്വവും വായനക്കാർക്കു വിശ്വസിക്കുവാൻ വേണ്ട സംഗതികൾ ഗ്രന്ഥകാരൻ കഥയിൽ
+കൊണ്ടുവന്നിട്ടില്ല. ഒരുവിധത്തിൽ ഇതുപോലെയുള്ള ഒരു ആശയത്തിൽ കെട്ടിപ്പടുത്തിട്ടുള്ള <ref target="https://en.wikipedia.org/wiki/Thomas_Hardy">തോമസ് ഹാർഡി</ref> യുടെ
+‘എ ചെയിഞ്ച്ഡ് മാൻ’ എന്ന ചെറുകഥ ഇത്തരം കഥകളെ ശ്രേഷ്ഠമായ പാത്രസൃഷ്ടിക്കഥകളുംകൂടിയാക്കി
+രൂപാന്തരപ്പെടുത്തുന്നതിനുള്ള സാങ്കേതികമാർഗ്ഗം പ്രസ്പഷ്ടമാക്കീട്ടുമുണ്ടു്.
+</p>
+          <p>‘അഭിനവകുചേലനി’ൽ നായകൻ കൊച്ചുതൊമ്മന്റെ ചിത്രമല്ല, എക്സൈസ് പ്യൂൺ ‘തീവട്ടി’ പപ്പുപിള്ളയുടെ
+ചിത്രമാണു് അസ്സലായിട്ടുള്ളതു്. ഉദ്യോഗസ്ഥലോകത്തെ അഭിമുഖീകരിക്കുമ്പോൾ നട്ടെല്ലില്ലായ്മയുടെ പാരമ്യം
+കാണിക്കുന്നതിന്നു പേരെടുത്തിട്ടുള്ള തിരുവിതാംകൂർ ജനസാമാന്യത്തിന്റെ സ്വഭാവത്തിൽനിന്നു
+വ്യതിചലിച്ചിട്ടുള്ളതു നിമിത്തമാണു് ഏറിയകൂറും കൊച്ചുതൊമ്മന്നു ഒരു വ്യക്തിമുദ്ര സിദ്ധിക്കുന്നതു്. ഇതു
+ഗ്രന്ഥകാരൻ തന്നെ ചൂണ്ടിക്കാണിച്ചിട്ടുമുണ്ടു്. “ഉദ്യോഗസ്ഥമൃഗശാലയിൽ, ശമ്പളം കറയുന്നതനുസരിച്ചാണു് തണ്ടു
+കൂടുന്നതെ”ന്നുള്ള പരമാർത്ഥം ശ്രീ. കോവൂർ ഈ കഥയിൽ പ്രസ്താവിച്ചിരിക്കുന്നു. പക്ഷേ, ചിറ്റുദ്യോഗസ്ഥന്മാരോടു
+ഉയർന്ന ഉദ്യോഗസ്ഥന്മാർ കാട്ടുന്ന തണ്ടിനു മറുമരുന്നായിട്ടാണു് അവർ ജനസാമാന്യത്തോടു
+തണ്ടുകാട്ടാറുള്ളതെന്ന പരമാർത്ഥം ഗ്രന്ഥകാരൻ വിസ്മരിച്ചു കളഞ്ഞതു് എന്തുകൊണ്ടാണാവോ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/lalithambika-antherjanam.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലളിതാംബികാ അന്തർജ്ജനം</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Nikolai_Gogol">ഗോഗോളി</ref>
+ന്റെ സുപ്രസിദ്ധമായ ‘ദി ക്ലോക്ക്’ എന്ന ദീർഘ ചെറുകഥയെ ചില കാര്യങ്ങളിൽ സ്മരിപ്പിക്കുന്ന ഉത്തമകഥയാണു്
+ഒടുവിലത്തേതായ ‘ട്വന്റ ി-ടു-ട്വന്റ ി ഫൈവ്’ എന്നതു്. എന്നാൽ ആ റഷ്യൻകഥയിലെ നായകനായ
+ചിറ്റുദ്യോഗസ്ഥൻ അകാകി അകാകിയേവിച്ചിനോടു ഗോഗോൾ കാണിച്ചിട്ടുളള കരുണയുടെ ഒരംശം പോലും ശ്രീ:
+കോവൂർ പ്രസ്തുത കഥയിലെ നായകനായ അഞ്ചൽ ക്ലാർക്ക് ചെല്ലൻപിള്ളയോടു കാണിച്ചിട്ടില്ല. ഇത്ര ഭംഗിയായി
+ഭാഷയിലെ മറ്റൊരു സാഹിത്യകാരനും ഒരു ചിറ്റുദ്യോഗസ്ഥന്റെ പടം വരച്ചിട്ടുണ്ടോ എന്നുള്ള കാര്യം
+സംശയമാണു്. പാത്രസൃഷ്ടിപാടവത്തിന്റെ ഒരു മകുടോദാഹരണമാണു് ഈ കഥ. ഫലിതസാമർത്ഥ്യം
+കാണിക്കുവാനുള്ള ആവേശത്തിൽ താൻ ഒരു ചെറുകഥയാണു് രചിക്കുന്നതെന്നുള്ള കാര്യം മറന്നു കാടുകേറി
+അനാവശ്യവർണ്ണനകളും, ഉപാഖ്യാനങ്ങളും കഥയിൽ വലിച്ചുകൊണ്ടുവരുന്ന പതിവു് ശ്രീ: കോവൂർ ഈ കഥയിൽ
+ഉപേക്ഷിച്ചിരിക്കുന്നു. ചെല്ലൻപിള്ളയുടെ ഭാര്യ കാമാക്ഷിയുടെ പാത്രസൃഷ്ടിയും നന്നായിട്ടുണ്ടു്.
+</p>
+          <p>ഗ്രന്ഥകർത്താ: ഈ. എം. കോവൂർ.
+</p>
+          <p>(ഈ. എം. കോവൂരിന്റെ റൊമാന്റിക്ക് ചെറുകഥകൾക്കു് കേസരി ബാലകൃഷ്ണപിള്ള എഴുതിയ നിരൂപണം.)
+
+</p>
+          <p>
+            <ref target="/html/kesari-bio.html">കേസരിയുടെ ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vazhivilakkukal (ml:
+വഴിവിളക്കുകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kesari Balakrishna
+Pillai.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-09-28. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kesari Balakrishna
+Pillai, Vazhivilakkukal, കേസരി ബാലകൃഷ്ണപിള്ള, വഴിവിളക്കുകൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 28, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:Night.jpg">Night,</ref> a
+photograph by Adam Ziaja  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kesari-vazhivilakku.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kesari-vazhivilakku.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

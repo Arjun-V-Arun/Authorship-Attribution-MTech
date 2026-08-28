@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗാന്ധിവക്കീൽ</title>
+          <title xml:lang="en" type="main">Gandhivakkeel</title>
+        </title>
+        <author>V. K. K. Ramesh</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 21, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗാന്ധിവക്കീൽ</title>
+              <title xml:lang="en" type="main">Gandhivakkeel</title>
+            </title>
+            <author>V. K. K. Ramesh</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-11-14</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Short Story</term>
+          <term>V. K. K. Ramesh</term>
+          <term>Gandhivakkeel</term>
+          <term>വി. കെ. കെ. രമേഷ്</term>
+          <term>ഗാന്ധിവക്കീൽ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="short story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-11-14</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Praying_Hands.png" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Praying_Hands__Albrecht_Durer.png">Praying Hands,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer">Albrecht
+Dürer</ref>  (1471–1528). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗാന്ധിവക്കീൽ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>വി. കെ. കെ. രമേഷ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗാന്ധിവക്കീൽ</head>
+        <div type="lsection">
+          <p style="noindent">കാലപ്പഴക്കംകൊണ്ടു് അലങ്കോലമാക്കപ്പട്ടതും, താമസക്കാരാൽ
+ശബ്ദായമാനവുമായ ഒരു സെറ്റപ്പായിരുന്നു ഞങ്ങളുടേതു്. വൃത്തിഹീനമായ അതിന്റെ അടുക്കള ജാലകത്തിലൂടെ
+പുറമേക്കു നോക്കിയാൽ, പൊടിപിടിച്ച നിരത്തും, അതിന്റെ വശങ്ങളിൽ വളർന്നു നില്ക്കുന്ന നരച്ച മരങ്ങളും
+കാണാമായിരുന്നു. അപ്രസന്നമായ ദിനങ്ങളങ്ങനെ ഊത്തുകാറ്റിൽ പാറിപ്പോകുന്നതുപോലെ
+നീങ്ങിയിരുന്നുവെന്നല്ലാതെ, ജീവിതമെന്നു ചൂണ്ടിക്കാണിക്കാൻ വർണ്ണാഭമായി അവിടെ
+ഒന്നുംതന്നെയില്ലായിരുന്നു.
+</p>
+          <p>പതിവു വൈകുന്നേരങ്ങളിലൊന്നിൽ, കുട്ടിയായ ഞാൻ വിണ്ടടർന്ന തിണ്ണയിൽ ചാരി ചുമ്മായിരിപ്പായിരുന്നു.
+അന്നേരമാണു് അയാൾ മുന്നിലെത്തിയതു്. കഷണ്ടികൊണ്ടു് ഏതാണ്ടു് മൊട്ടയായി മാറിത്തുടങ്ങിയിരുന്ന അയാൾ
+വാതിലിനു പുറത്തുനിന്നുകൊണ്ടു് മുകളിലേക്കുനോക്കി.
+</p>
+          <p>“ഡാനിയേൽ താമസിക്കുന്നതു് താഴെയോ, മുകളിലോ കുഞ്ഞേ?”
+</p>
+          <p>അയാൾ ചോദിച്ചു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/gandhivakkeel-02.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>അയാൾ വിശേഷിപ്പിച്ചയാൾ ഡാനിയെന്നു് ഞങ്ങൾ വിളിക്കുന്ന എന്റെ അച്ഛനായിരുന്നു. പുള്ളിക്കു്
+ഖനിയിലോ മറ്റോ ജോലിയാണെന്നു് അമ്മ പറഞ്ഞറിയാം. വീട്ടിൽ കാണുകയേയില്ല. പണിസ്ഥലത്തെപ്പോഴും
+ഷിഫ്റ്റാണെന്നാണു് അമ്മ പറയുന്നതു്. ഞാനുമായി പുള്ളി നല്ല രസത്തിലല്ല. ഒരു കരിമാണ്ടി. ഞാനും
+കറുത്തിട്ടാണു്. ഞങ്ങൾ ആഫ്രിക്കക്കാരാണല്ലോ. എന്നുവെച്ചു് ഇങ്ങനെയുണ്ടോ ഒരു കറുപ്പു്!
+</p>
+          <p>“ഇല്ല, വന്നിട്ടില്ല.”
+</p>
+          <p>ഞാൻ പറഞ്ഞു.
+</p>
+          <p>“മോനാരാ?”
+</p>
+          <p>“മകനാണു്.”
+</p>
+          <p>അച്ഛന്റെ വക്കീലാണു് താനെന്നു് അന്നേരം അയാൾ പറഞ്ഞു. രാജ്യാന്തര രഹസ്യത്തോളം
+ബലമുണ്ടായിരുന്നു ആ വെളിപ്പെടുത്തലിനു്. എനിക്കു് ചിരിയാണു വന്നതു്. ജീവിക്കാൻ വകയില്ലാത്തവന്റെ
+വക്കീൽ! അച്ഛന്റെപേരിൽ ഏതാണ്ടൊരു കേസ്സുള്ളതായി അമ്മയെപ്പോഴോ പറഞ്ഞുകേട്ടിട്ടുണ്ടു്. സായിപ്പിന്റെ
+കൈയിൽനിന്നും പുള്ളിയൊരിക്കൽ നല്ല തല്ലുമേടിച്ചിട്ടുണ്ടത്രെ. കേസ്സായപ്പോൾ, വാദി പ്രതിയായി.
+</p>
+          <p>“കേസ്സ് നമ്മൾ ജയിച്ചിട്ടുണ്ടു്.”
+</p>
+          <p>അയാൾ ചില പല്ലുകളെങ്കിലും കുറവുള്ള തന്റെ മോണ പുറമെ കാണിച്ചു ചിരിച്ചു.
+</p>
+          <p>ഞാൻ മുകളിൽപ്പോയി അമ്മയെ കൂട്ടിവന്നു.
+
+</p>
+          <p>“കേസ്സ് ജയിച്ചതിന്റെ രേഖകൾ വക്കീലാഫീസിലുണ്ടു്. മകനെ പറഞ്ഞയക്കുകയാണെങ്കിൽ, അതു്
+കൊടുത്തുവിടാമായിരുന്നു.”
+</p>
+          <p>അമ്മ എന്നോടു് അയാളുടെ കൂടെപ്പോകാൻ പറഞ്ഞു. അതേ തെരുവിൽത്തന്നെയായിരുന്നു അയാളുടെ
+ഓഫീസ്. കൃത്യമായിപ്പറഞ്ഞാൽ, അമ്മയുടെ ചേട്ടന്റെ വർക്ക് ഷോപ്പിനടുത്താണതു്. അമ്മയുടെ
+സന്ദേശവാഹകനായി ഞാൻ പലപ്പോഴും അവിടെ പോയിട്ടുണ്ടു്. അങ്ങനെ ഞാൻ വക്കീലിനോടുചേർന്നു് നടന്നു.
+വലതോരംചേർന്നുനടക്കുമ്പോൾ, എന്റെ സ്പ്രിംഗ് മുടിയിൽ അയാൾ കരുണാമയമായി തടവിക്കൊണ്ടിരുന്നു.
+അച്ഛൻ ചെയ്യേണ്ടതാണു് അതൊക്കെ. എനിക്കു് ആകെപ്പാടെ സുഖംതോന്നി.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/gandhivakkeel-03.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>“എന്താണു് അങ്ങയുടെ പേരു്?”
+</p>
+          <p>ഞാൻ ചേദിച്ചു.
+</p>
+          <p>“ഗാന്ധി എന്നു വിളിച്ചോളൂ, മുഴുവൻ പേരു് മോഹൻദാസ് കരംചന്ദ് എന്നാണു്. കുഞ്ഞിനതു് വിഷമമാകും.”
+</p>
+          <p>മുഷിഞ്ഞൊരു കെട്ടിടത്തിൽ, വൃത്തിയായി സൂക്ഷിച്ച ഒരു കൊച്ചുമുറിയായിരുന്നു അയാളുടെ ഓഫീസ്.
+പഴയൊരു മരമേശയും, രണ്ടു് സന്ദർശകക്കസേരകളുമായിരുന്നു അവിടെ ആകെയുണ്ടായിരുന്നതു്. മേശമേൽ
+ഏതാനും ഫയലുകളും, നീളത്തിൽ മടക്കി സൂക്ഷിച്ച ഏതാനും രേഖകളും, തടിച്ച നിയമപുസ്തകങ്ങളുമൊക്കെ
+കാണാമായിരുന്നു. മൺകൂജയിൽ കുടിവെള്ളവുമിരിപ്പുണ്ടു്.
+</p>
+          <p>“വെള്ളം കുടിക്കു്.”
+</p>
+          <p>അയാൾ ക്ഷണിച്ചു.
+</p>
+          <p>രണ്ടുപാത്രം വെള്ളം ഞാൻ ഒറ്റവീർപ്പിനു കുടിച്ചുവെന്നു പറഞ്ഞാൽ അതിൽ അതിശയോക്തിയില്ല.
+അതായിരുന്നു ഞങ്ങളുടെ രാജ്യത്തിന്റെ ദാഹം. അതിനു പിന്നിലായി അയാളെനിക്കു് രണ്ടു ബിസ്കറ്റും തന്നു. അതു
+തിന്നുമുഴുവനാവുന്നതുവരെ സന്ദർശകക്കസേരയിൽ പിടിച്ചിരുത്തുകയും ചെയ്തു.
+</p>
+          <p>“കളയരുതു് കേട്ടോ. സൂക്ഷിച്ചുകൊണ്ടുപൊയ്ക്കൊള്ളണം.”
+</p>
+          <p>കടലാസിൽപ്പൊതിഞ്ഞ ഏതാനും രേഖകളുമായി അവിടെ നിന്നിറങ്ങുമ്പോൾ,
+യാത്രാവാചകമെന്നതുപോലെ അയാൾ പറഞ്ഞു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/gandhivakkeel-01.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>നീതി, നിയമം എന്നൊക്കെ കേൾക്കുമ്പോൾ, പിന്നീടെപ്പോഴും, മധുരമുള്ള രണ്ടു ബിസ്കറ്റുകളും തണുത്ത
+വെള്ളവുമാണു് എനിക്കോർമ്മവരിക. ഏറെക്കാലത്തിനുശേഷം അമേരിക്കയിലെ ജയിലിൽക്കിടക്കുമ്പോൾ,
+ഇതോർത്തു് ഞാൻ പ്രഹർഷംകൊള്ളും. ഞാൻ കടന്നുവന്ന വഴികളിലൂടെത്തന്നെ മകനും നടക്കേണ്ടിവരുമെന്നു്
+
+നന്നായിട്ടറിയാവുന്നതുകൊണ്ടു് കുഞ്ഞുനാളിൽ ഇക്കഥ ഞാനവനും പറഞ്ഞുകൊടുത്തിട്ടുണ്ടു്.
+</p>
+          <p>ഗോത്രവഴിക്കു് പഴംകഥകളൊന്നും പകർന്നുകിട്ടാത്തവനും വേണമല്ലോ ആശ്വാസത്തിനു് ചില കഥകൾ!
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">വി. കെ. കെ. രമേഷ്</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/vkkramesh.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>1969-ൽ തമിഴ്‌നാട്ടിൽ ജനനം. ആദ്യ ഭാഷ തമിഴ്. പഠിച്ചതും വളർന്നതും തിരുവില്വാമലയിൽ. 4 പുസ്തകങ്ങൾ
+എഴുതിയിട്ടുണ്ടു്. ‘ഹൂ ഈസ് അഫ്റൈഡ് ഓഫ് വി. കെ. എൻ.’ എന്ന ആദ്യ പുസ്തകത്തിനു് 2018-ലെ ഹാസ്യ
+സാഹിത്യത്തിനുള്ള കേരള സാഹിത്യ അക്കാദമി പുരസ്ക്കാരം ലഭിച്ചു. നിരവധി റേഡിയോ നാടകങ്ങളും സ്കിറ്റുകളും
+രചിച്ചിട്ടുണ്ടു്. ആകാശവാണി ഡ്രാമാ ബി. ഗ്രേഡ് ആർടിസ്റ്റ്. ടെലിവിഷൻ സ്കിറ്റുകളിൽ അഭിനയിച്ചിട്ടുണ്ടു്.
+വി. കെ. എൻ. അമ്മാമനാണു്. തിരുവില്വാമലയിൽ സ്ഥിരതാമസം.
+</p>
+          <p>ഭാര്യ: ജ്യോതി
+</p>
+          <p>മക്കൾ: ബ്രഹ്മദത്തൻ, നിരഞ്ജന
+</p>
+          <p>ചിത്രീകരണം: വി. പി. സുനിൽകുമാർ
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Gandhivakkeel (ml:
+ഗാന്ധിവക്കീൽ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  V. K. K. Ramesh.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-11-14. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Short Story, V. K. K. Ramesh,
+Gandhivakkeel, വി. കെ. കെ. രമേഷ്, ഗാന്ധിവക്കീൽ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 21, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Praying_Hands__Albrecht_Durer.png">Praying Hands,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer">Albrecht
+Dürer</ref>  (1471–1528). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/vkkramesh-gandhi.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/vkkramesh-gandhi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

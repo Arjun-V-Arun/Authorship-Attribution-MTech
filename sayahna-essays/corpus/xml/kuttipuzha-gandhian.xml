@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗാന്ധിയൻ സോഷ്യലിസം</title>
+          <title xml:lang="en" type="main">Gandhian Socialism</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗാന്ധിയൻ സോഷ്യലിസം</title>
+              <title xml:lang="en" type="main">Gandhian Socialism</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Gandhian Socialism</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഗാന്ധിയൻ സോഷ്യലിസം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Moonlit_Night.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Moonlit_Night_%28Aivazovsky%29.jpg">Moonlit
+Night,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Ivan_Aivazovsky">Ivan
+Aivazovsky</ref>  (1817–1900). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗാന്ധിയൻ സോഷ്യലിസം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗാന്ധിയൻ സോഷ്യലിസം</head>
+        <div type="lsection">
+          <p style="noindent">ഇങ്ങനെയൊരു ശബ്ദജാലം ഇപ്പോൾ പ്രചരിച്ചുതുടങ്ങിയിട്ടുണ്ടു്. ‘ഗാന്ധിസ’ത്തിൽ
+സോഷ്യലിസമുണ്ടത്രേ. ഗാന്ധിയാണത്രേ ശരിയായ സോഷ്യലിസ്റ്റ്! ഗാന്ധിസത്തിന്റെ വെളിച്ചപ്പാടന്മാർ
+പുതുതായി കണ്ടുപിടിച്ചിരിക്കുന്ന ഒരു വിദ്യയാണതു്. ഇതെന്താണെന്നു് പിടിച്ചുനിർത്തി ചോദിച്ചാൽ ഇക്കൂട്ടർ
+കുഴങ്ങും. ഏതായാലും ഒന്നു് തീർച്ചയായി, ഗാന്ധിസത്തിനു് തനിയെ നിൽക്കാൻ ശേഷിയില്ലെന്നു്.
+സോഷ്യലിസംകൊണ്ടു് പുതുവേഷമണിയിച്ചാലേ അതിനു് ഇന്നത്തെ വിപണിയിൽ വിലകിട്ടുകയുള്ളു.
+പദങ്ങൾകൊണ്ടുള്ള ‘കസർത്ത്’ നമ്മുടെ നാട്ടിൽ ഇന്നും ഇന്നലെയും തുടങ്ങിയതല്ല, പണ്ടേ ഉള്ളതാണു്.
+പരസ്പരവിരുദ്ധങ്ങളായ പദങ്ങൾപോലും അർത്ഥവിചാരംകൂടാതെ കൂട്ടിച്ചേർക്കാം. യഥേഷ്ടം വ്യാഖ്യാനിക്കാം,
+എവിടെയും എങ്ങനെയും കൊള്ളിക്കാം. കാലത്തിന്റെ തള്ളലിൽ പൊറുതിമുട്ടുമ്പോൾ പഴമ വിടാതെ
+പറഞ്ഞുനിൽക്കാനുള്ള ഒരു കൗശലം! ഭാരതീയർക്കൊരു വേദാന്തപാരമ്പര്യമില്ലേ? അതിൽനിന്നു് മുളച്ചുണ്ടായ
+മാനസികവഞ്ചനയുടെ മറ്റൊരു രൂപമാണിതു്. ഇന്നു് ലോകഗതി സോഷ്യലിസത്തിലേക്കാണെന്നും അതു്
+തടഞ്ഞാൽ നിൽക്കില്ലെന്നും കണ്ടപ്പോൾ ഗാന്ധിസത്തിൽ സോഷ്യലിസം കണ്ടുപിടിച്ചു. അല്ല, മറ്റേതെങ്കിലും
+‘ഇസ’മാണു് ഇന്നത്തെ ആവശ്യമെന്നു് വന്നാൽ അതിനുമുണ്ടാകും ഗാന്ധിസത്തിൽ സ്ഥാനം. അത്രയ്ക്കു്
+വിശാലമാണു് അതിന്റെ ഉദരം. സർവംഗ്രാഹിയായ ഹിന്ദുമതം പോലെതന്നെ. തെറിപ്പാട്ടുമുതൽ
+തത്ത്വമസിവരെയുള്ള സകല നൂലാമാലകളും ഉണ്ടല്ലോ അതിനകത്തു്. അത്രാപി തഥാ എന്നു് ചുരുക്കം. ഗാന്ധിജി
+പാവങ്ങളുടെ കാര്യം പറഞ്ഞിട്ടില്ലേ? അവരെ ഉയർത്തണമെന്നു്, അവർക്കുവേണ്ടതെല്ലാം കൊടുക്കണമെന്നു്,
+ഇതുതന്നെയല്ലേ സോഷ്യലിസം എന്നാണു് ചിലരുടെ ചോദ്യം. കൊള്ളാം, ഇക്കണക്കിനു് സോഷ്യലിസം
+ദർശിക്കാൻ തുടങ്ങിയാൽ ഏതിലാണു് അതില്ലാത്തതു്? ‘ലോകാസ്സമസ്താസ്സുഖിനോ ഭവന്തു’വിലില്ലേ ഒന്നാന്തരം
+സോഷ്യലിസം? ഉള്ളവൻ ഇല്ലാത്തവനു് കൊടുക്കണമെന്നുപദേശിച്ച യേശുക്രിസ്തു ഒരു യഥാർത്ഥ
+സോഷ്യലിസ്റ്റായിട്ടാണല്ലോ ഉദ്ഘോഷിക്കപ്പെടുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Einstein_Schmutzer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഐയിൻസ്റ്റയിൻ</figDesc>
+          </figure>
+          <p> ‘ആത്മവൽ സതതം പശ്യേദപി കീടപിപീലകം’ എന്നു് വിധിച്ച അഷ്ടാംഗ ഹൃദയകാരൻ
+സോഷ്യലിസത്തിന്റെ മറുകര കണ്ടയാളല്ലേ? എന്തിനു് സാക്ഷാലുപനിഷത്തിൽത്തന്നെയുണ്ടല്ലോ! ‘മാ ഗൃധഃ
+കസ്യ സ്വിദ്ധനം’ എന്ന ഈശാവാസ്യം ഒന്നു് വ്യാഖ്യാനിച്ചുനോക്കൂ—അതിലും കിടക്കുന്നില്ലേ നെടുനീളെ ഈ
+പുത്തൻ സിദ്ധാന്തം! ഈശ്വരോ രക്ഷതു എന്നല്ലാതെ എന്തുപറയാനാണു്. ഈ വാദരീതിയവലംബിച്ചാൽ
+പ്രൊഫസർ <ref target="https://ml.wikipedia.org/wiki/Albert_Einstein">ഐയിൻസ്റ്റയിന്റെ</ref>
+ചതുർമാനസിദ്ധാന്തം പള്ളിക്കുടത്തിലെ കണക്കുപുസ്തകത്തിലുണ്ടെന്നു് സമർത്ഥിക്കാം. നീളം, വീതി, ഘനം
+എന്ന മൂന്നളവുകളും ദേശകാല നൈരന്ത്യം (Space time continum) എന്നൊരു ‘പൊല്ലാപ്പും’ കൂടിയതാണല്ലോ
+ചതുർമാനസസിദ്ധാന്തം. അതിലാദ്യത്തെ മൂന്നെണ്ണംകൊണ്ടല്ലേ കുട്ടികൾ കണക്കുചെയ്യുന്നതു്. അപ്പോൾ
+ചതുർമാനസിദ്ധാന്തം അവരുടെ കണക്കുപുസ്തകത്തിലുണ്ടെന്നു് വാദിച്ചാലെന്താ തരക്കേടു്? ഏതായാലും
+ഇത്തരം ‘ഹിമാലയൻ’ വിഡ്ഢിത്തങ്ങൾ വിളമ്പാനുള്ള ധൈര്യം ഉണ്ടെങ്കിലേ ഗാന്ധിസത്തിൽ സോഷ്യലിസം
+കാണാൻ കഴിയൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_bernard_shaw.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബർനാഡ്ഷാ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/George_Bernard_Shaw">ബർനാഡ്ഷാ</ref>
+പറഞ്ഞിട്ടുണ്ടു്, നമ്മൾ രാഷ്ട്രീയമീമാംസയുടെ A, B, C അറിയാതെ അതിന്റെ X, Y, Z വിചാരണചെയ്യാൻ
+
+വെമ്പുന്നുവെന്നു് (We discuss the X, Y, Z of politics without knowing our political A, B, C) ശരിയാണു്.
+‘ഇസ’ങ്ങൾ പ്രയോഗിച്ചു് ഇന്നു് വാദങ്ങൾ നടത്തുന്നവരിൽ പലരും അവയുടെ ഹരിശ്രീപോലും
+മനസ്സിലാക്കാത്തവരത്രെ. എല്ലാവരും എടുത്തു് തലയിൽ വയ്ക്കുന്നതുകൊണ്ടു് ആകൃതി പൊയ്പോയ ഒരു
+ഹാറ്റുപോലായിട്ടുണ്ടു് സോഷ്യലിസം എന്നു് ജോഡ് ഒരിടത്തു് പ്രസ്താവിച്ചിട്ടുള്ളതും ഇപ്പോൾ ഓർക്കുന്നു. ഒന്നുരണ്ടു്
+പ്രമാണഗ്രന്ഥങ്ങളെങ്കിലും വായിച്ചുനോക്കാതെ ഈ വിഷയത്തെപ്പറ്റി കണ്ടമാനം എഴുതുന്നവരും
+പ്രസംഗിക്കുന്നവരും ഇന്നെത്രയുണ്ടു്! ഈ മുറിക്കുന്തക്കാർ തട്ടിവിടുന്ന വിഡ്ഢിത്തങ്ങൾ അനുകമ്പയോടെ
+സഹിക്കാം. എന്നാൽ, സകലതും പഠിച്ച ചില പണ്ഡിതന്മാരുണ്ടു്. അവരുടെ തലച്ചോറിന്റെ വ്യാപാരമാണു്
+വിസ്മയനീയമായിരിക്കുന്നതും. ഇവരുടെ ബുദ്ധിപരമായ സത്യസന്ധത (Intellectual honesty) ചിന്തനീയമെന്നു്
+മാത്രമേ പറയേണ്ടു. നമ്മുടെ രാഷ്ട്രപതി ആചാര്യപാദർ (കൃപാലാനി) ഈയിടെ കേരളത്തിൽ എഴുന്നള്ളി
+ധർമസംസ്ഥാപനാർത്ഥം വേണ്ട പണവും പണ്ടങ്ങളും ശേഖരിച്ചു് തിരിച്ചുപോയല്ലോ. അദ്ദേഹത്തിനു് ഇപ്പോൾ
+സോഷ്യലിസം എന്ന വാക്കുതന്നെ കർണശൂലമായിത്തീർന്നിരിക്കയാണു്, ഇത്രനാളും
+കമ്മ്യൂണിസത്തോടെയായിരുന്നു ബഹുവിരോധം. സോഷ്യലിസ്റ്റ് പാർട്ടി ഒന്നാകെ കോൺഗ്രസ്സിന്റെ പിടിവിട്ടു്
+ശുദ്ധവായു ശ്വസിച്ചുതുടങ്ങിയപ്പോൾ അതും അദ്ദേഹത്തിനു് കയ്പായി. ഒന്നുരണ്ടു് സ്ഥലത്തു് സോഷ്യലിസത്തിനു്
+ജയ്വിളിച്ചതുകൊണ്ടു് രാഷ്ട്രപതി രുഷ്ടനായിപോൽ. പക്ഷേ, അതേസമയം ആ വാക്കു് തീരെ വിട്ടുകളവാനും
+ആചാര്യർക്കു് ധൈര്യമില്ല. അതുകൊണ്ടു് ഒരു പൗരസ്ത്യസോഷ്യലിസം ഇവിടത്തെ മണ്ണിൽ മുളപ്പിച്ചു.
+അതുതന്നെയാണു് നമ്മുടെ കീശയിൽ കിടക്കുന്ന ഗാന്ധിസം എന്നു് പറഞ്ഞൊരു ചെപ്പടിവിദ്യ അദ്ദേഹം
+പ്രദർശിപ്പിച്ചു! എന്നാൽ, ഈ വിദ്യകൊണ്ടു് സാമാന്യജനങ്ങൾ വഞ്ചിക്കപ്പെടുമെന്നു് വിചാരിക്കേണ്ട.
+അനുഭവം—അതു് അവരെ പഠിപ്പിച്ചുകഴിഞ്ഞു. അവർക്കു് വേണ്ടതെന്താണെന്നു് ഇനിയാരും
+ഉപദേശിക്കേണ്ടതില്ല. അതു് ഏതു് മണ്ണിൽ മുളച്ചതായാലും അവരതു് സ്വീകരിക്കുകതന്നെ ചെയ്യും. മണ്ണു്
+തരംതിരിച്ചു് എന്റേതെന്നും നിന്റേതെന്നും പറഞ്ഞിരുന്ന കാലം പമ്പകടന്നു. ഏകലോകത്തിന്റെ മുമ്പിൽനിന്നു്
+വേണം ഇന്നു് പ്രസംഗിക്കുവാൻ. സോഷ്യലിസത്തിലേക്കുള്ള ഇന്നത്തെ ജനകീയമഹാപ്രവാഹത്തിന്റെ നേരെ
+ഗാന്ധിസംകൊണ്ടു് മണൽച്ചിറ കെട്ടാൻ പുറപ്പെടുന്നവർ രാഷ്ട്രപതികളായാലും പരിഹാസ്യരായി പുറംതള്ളപ്പെടും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Friedrich_Engels.jpg" rendition="gra"/>
+            <figDesc style="thumb">എംഗൽസ്</figDesc>
+          </figure>
+          <p> ഇനി ഈ ഗാന്ധിയൻ സോഷ്യലിസത്തിന്റെ ഉള്ളിൽ കടന്നൊന്നു് പരിശോധിച്ചുനോക്കാം. വാസ്തവത്തിൽ
+പരസ്പരവൈരുദ്ധ്യമുള്ള ഒരു പ്രയോഗമാണിതു് (A contradiction in terms). ഗാന്ധിസവും സോഷ്യലിസവും
+വിശകലനം ചെയ്തുനോക്കുമ്പോഴേ ഈ വൈപരീത്യം വെളിപ്പെടുകയുള്ളു. ചിന്താഗതി, ആശയസഞ്ചയം,
+ആദർശം, കർമപാടി എന്നിവയിൽ എല്ലാംതന്നെ ധ്രുവങ്ങൾപോലെ അകന്നാണു് രണ്ടിന്റെയും നില.
+ഗാന്ധിസത്തിലെ ചിന്താഗതി ആദ്ധ്യാത്മികമാണു് (Metaphysical). വൈരുദ്ധ്യവാദരീതി (Dialectical) യാണു്
+സോഷ്യലിസത്തിലേതു്. ഈ രണ്ടു് വിചാരക്രമങ്ങൾക്കും തമ്മിൽ ഒരു ബന്ധവിമില്ലെന്നു് മാത്രമല്ല
+പരസ്പരവിരോധമുണ്ടുതാനും. നിത്യതയിലും നിശ്ചലതയിലും ചെന്നവസാനിക്കുന്ന അശാസ്ത്രീയമായ ഒരുതരം
+സത്യത്തിലും ദൈവത്തിലും ഗാന്ധിസം അധിഷ്ഠിതമായിരിക്കുന്നു. കേവലസത്യവും (Absolute truth)
+‘ഡിൿറ്റേറ്റർ ദൈവ’വും നമ്മുടെ ബുദ്ധിവ്യാപാരത്തിനു് പൂർണ്ണവിരാമമിടുന്നവയത്രേ. എന്നു് പറഞ്ഞാൽ
+ഇവയെപ്പറ്റിയുള്ള സങ്കുചിതാശയം മനുഷ്യന്റെ ചിന്താഗതിയെ തടഞ്ഞുനിർത്തുന്നുവെന്നു് ചുരുക്കം. ഈ
+രണ്ടുംകൊണ്ടുണ്ടാക്കിയിട്ടുള്ള ഒരു ചട്ടക്കൂടാണു് ഗാന്ധിസം. അതിനുള്ളിൽ കുടുങ്ങിപ്പോകുന്ന മനുഷ്യബുദ്ധി
+സിദ്ധാന്തബദ്ധമായി നിശ്ചലാവസ്ഥയിൽ വിശ്രമിച്ചുപോകുന്നു. ബുദ്ധിപരമായ ആത്യന്തികത്വം (Intellectual
+Finality) എന്നതു് ഗാന്ധിസത്തെ പ്രകൃതിവിരുദ്ധവും അശാസ്ത്രീയവുമാക്കിത്തീർത്തിട്ടുള്ള ഒരു വലിയ
+ദോഷമാണു്. ഇതിനു് നേരെ വിപരീതമത്രെ വൈരുദ്ധ്യവാദപരമായ വിചാരക്രമം. ‘A system of natural and
+historical knowledge which is all embracing and final for all time is in contradiction with
+fundamental laws of dialectical thinking’ (പ്രകൃതിയെയും ചരിത്രത്തെയും സംബന്ധിക്കുന്ന
+വിജ്ഞാനവ്യവസ്ഥ സർവാശ്ലേഷിയും സർവകാലത്തേക്കും ആത്യന്തികവും ആകുന്നതു് വൈരുദ്ധ്യവാദത്തിന്റെ
+മൗലികതത്ത്വങ്ങൾക്കു് വിരുദ്ധമാകുന്നു) എന്നു് <ref target="https://ml.wikipedia.org/wiki/Friedrich_Engels">എംഗൽസ്</ref>
+പറയുന്നതു് നോക്കുക. പ്രകൃതിയുടെയും മനുഷ്യചരിത്രത്തിന്റെയും ശശ്വച്ചലനം, വിരുദ്ധശക്തിസംഘട്ടനം,
+രൂപഗുണപരിണാമം, വികാസം മുതലായ തത്ത്വങ്ങളിൽ അധിഷ്ഠിതവും തികച്ചും ശാസ്ത്രീയവും ആണു്
+വൈരുദ്ധ്യവാദം. ആധുനികശാസ്ത്രവിജ്ഞാനം പ്രസ്തുതവാദത്തിന്റെ സാധുത്വം കൂടുതൽ കൂടുതൽ
+വെളിപ്പെടുത്തിക്കൊണ്ടുവരികയാണു് ചെയ്യുന്നതു്.
+</p>
+          <p>അടുത്തതായി സോഷ്യലിസത്തിലെ മൗലികഘടകങ്ങളെടുത്തുനോക്കാം.
+<list rend="numbered"><item n="">ഉല്പാദനോപകരണങ്ങളുടെ പൊതുവുടമ. (Socialisation of means of production). </item><item n="">സാമ്പത്തികവർഗബോധം (Class consciousness). </item><item n="">സംഘടിതബലം പ്രയോഗിച്ചുള്ള വിപ്ലവം. </item><item n="">തൊഴിലാളിവർഗത്തിന്റെ ആധിപത്യം. </item></list>
+
+</p>
+          <p>ഈ നാലു് കാര്യങ്ങൾക്കും എതിരാണു് ഗാന്ധിസം. ആദ്യത്തേതിനുപകരം മുതലാളരുടെ ‘ട്രസ്റ്റിഷിപ്പ്’ ആണു്
+ഗാന്ധിജി കണ്ടുപിടിച്ചിരിക്കുന്നതു്. ഇതു് സർവത്ര വർജ്യമായിത്തീർന്നിരിക്കുന്ന ക്യാപിറ്റലിസത്തിന്റെ ഒരു
+ശുദ്ധീകൃതരൂപം (Sublimated form) മാത്രമാണു്. രണ്ടാമത്തേതു് ഒരു ദോഷമായിട്ടുപോലും ഗാന്ധിജി
+കണക്കാക്കുന്നു. വർഗബോധം എന്നതു് വളരെ തെറ്റിദ്ധരിക്കപ്പെട്ടിട്ടുള്ള ഒന്നാണു്. മുതലാളിവർഗത്തിന്റെ നേരെ
+സദാപി അക്രമം പ്രയോഗിക്കുന്ന സമ്പ്രദായമാണിതെന്നും മറ്റും യാതൊരു ബോധവുമില്ലാതെ പലരും ഇതിനെ
+വ്യാഖ്യാനിക്കാറുണ്ടു്. എന്നാലെന്താണിതിന്റെ വാസ്തവതത്ത്വം? മനുഷ്യന്റെ സാമ്പത്തികജീവിതത്തിൽ
+ആദ്യകാലംമുതൽക്കേ കണ്ടുവരുന്ന രണ്ടു് വിഭിന്ന താൽപര്യങ്ങളുടെ സ്വാഭാവികസംഘട്ടനത്തെപ്പറ്റി ഒരു
+ശാസ്ത്രീയ ബോധമുണ്ടാക്കിക്കൊടുക്കുക—ആ ബോധത്തിന്മേൽ തൊഴിലാളിവർഗത്തെ
+സംഘടിപ്പിക്കുക—എന്നതു് മാത്രമാണു് ഇതിന്റെ ചുരുക്കം. ഉള്ളവരും ഇല്ലാത്തവരും തമ്മിൽ പ്രകൃതിയിൽ
+കാണുന്ന ഈ സാമ്പത്തികതാല്പര്യസംഘട്ടനം ഇല്ലാത്തതാണെന്നു് കണ്ണടച്ചു് പറഞ്ഞു് ശാന്തിമന്ത്രം
+ഉപയോഗിക്കുന്നതുകൊണ്ടു് അതു് മാഞ്ഞുപോകുമോ? ചെന്നായ്ക്കളെയും ആട്ടിൻപറ്റങ്ങളേയും
+അഹിംസാമന്ത്രംകൊണ്ടു് മാനസാന്തരപ്പെടുത്താനാണു് ഗാന്ധിജി പണിപ്പെടുന്നതു്.
+</p>
+          <p>മൂന്നാമത്തേതിലുള്ള <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref> യുടെ
+വിപരീതനില പ്രസിദ്ധമാണല്ലോ. ബലപ്രയോഗം ഒന്നിലും അദ്ദേഹം സ്വീകരിച്ചിട്ടില്ല. അഹിംസാത്മകമായ
+വിപ്ലവമാണത്രെ ഗാന്ധിസത്തിലുള്ളതു്. ഇത്തരം അസംബന്ധപ്രലപനങ്ങളുടെ ഉടമസ്ഥരായ ഗാന്ധിശിഷ്യന്മാർ
+ഭരണാധികാരം കൈയിൽ കിട്ടിയമാത്രയിൽ ലാത്തിയും തോക്കും നിഷ്കരുണം പ്രയോഗിച്ച കഥതന്നെ മതി ഈ
+അഹിംസാവാദത്തിലെ ‘പൊങ്ങച്ചവും’ വഞ്ചനയും പ്രകൃതിവിരുദ്ധതയും തെളിയിക്കാൻ.
+</p>
+          <p>നാലാമത്തേതായ തൊഴിലാളിവർഗത്തിന്റെ ആധിപത്യവും ഗാന്ധിസം അംഗീകരിച്ചിട്ടില്ല. അധികാരം
+കൈമാറണമെന്നില്ല. അധികാരികൾ നന്നായാൽ മതി എന്നതാണു് രാമരാജ്യസ്ഥാപനത്തിന്റെ അടിസ്ഥാനം.
+അതായതു്, കോഴിക്കുഞ്ഞുങ്ങളുടെ കാര്യം അവർക്കു് വിട്ടുകൊടുക്കേണ്ട; അതു് പഴയമട്ടിൽ കുറുക്കന്റെ
+കൈയിൽത്തന്നെയിരിക്കട്ടെ; അവന്റെ സ്വഭാവത്തിനൊരു മാറ്റം വരുത്തിയാൽ മതി. അതു് ഹിംസകൂടാതെ
+വെറും രാമനാമംകൊണ്ടു് സാധിക്കുകയും ചെയ്യാം! ഈമാതിരി ബാലിശാഭിപ്രായങ്ങൾ ഉൾക്കൊള്ളുന്ന
+ഗാന്ധിസവും ശാസ്ത്രീയ സോഷ്യലിസവും തമ്മിലുണ്ടോ വല്ല സാദൃശ്യവും! ഒന്നിൽ ചിത്തഭ്രമണകാരണമായ
+ജീർണിച്ചൊരു ‘ഫിലോസഫി’ മറ്റേതിൽ പരീക്ഷണനിരീക്ഷണങ്ങൾകൊണ്ടും യുക്തിവിചാരംകൊണ്ടും
+അസ്തശങ്കമായി സമർത്ഥിച്ചിട്ടുള്ള സാമ്പത്തികശാസ്ത്രം. രണ്ടിനും തമ്മിൽ എന്തന്തരം! ഗാന്ധിസം
+ഉപദേശംകൊണ്ടു് വ്യക്തിയെ നന്നാക്കാൻ നോക്കുന്നു; സോഷ്യലിസം പ്രായോഗികമായ ഒരു
+കർമപരിപാടികൊണ്ടു് സാമൂഹ്യപ്രശ്നങ്ങളെ അഭിമുഖീകരിക്കുന്നു. ഇന്നത്തെ പ്രശ്നങ്ങളെല്ലാംതന്നെ
+സാമൂഹ്യമാണു്—വ്യക്തിപരമല്ല. പാവങ്ങൾക്കുവേണ്ടി പണക്കാരെക്കൊണ്ടു് അനാഥശാലകളും
+ധർമാശുപത്രികളും പണിയിക്കുവാനാണു് ‘ഗാന്ധിസ’ത്തിന്റെ പുറപ്പാടു്. അങ്ങനെ പാവങ്ങളെന്നൊരു വർഗത്തെ
+നിലനിർത്തിക്കൊണ്ടു് പോകുകയെന്നതാകാം അതിന്റെ ഫലം. നേരെമറിച്ചു് പാവങ്ങൾ എന്നൊരു വർഗംതന്നെ
+ഇല്ലാതാകുകയെന്നതാണു് സോഷ്യലിസത്തിന്റെ ലക്ഷ്യം. വർണാശ്രമ ധർമ്മബോധത്തിൽ വളർന്നുവന്നിട്ടുള്ള
+‘ഗാന്ധിസം’ വർഗരഹിതമായ സമുദായം (Classless Society) എന്ന മഹനീയാദർശത്തെ സ്വപ്നം കാണുകകൂടി
+ചെയ്യുന്നില്ല. ഇപ്രകാരം യാതൊരു വിധത്തിലും അടുപ്പമില്ലാതെ നാനാപ്രകാരേണ വിപരീതനില
+കൈക്കൊണ്ടിരിക്കുന്ന ഗാന്ധിസവും സോഷ്യലിസവും തമ്മിൽ കൂട്ടിക്കെട്ടുവാൻ ഉദ്യമിക്കുന്നവർ ഒന്നുകിൽ ഒരു
+ബോധവുമില്ലാത്തവർ, അല്ലെങ്കിൽ മനഃപൂർവം മനസ്സാക്ഷിയെ വഞ്ചിക്കുന്നവർ എന്നല്ലാതെ എന്താ പറയുക?
+</p>
+          <p>
+(വിമർശരശ്മി 1947)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Gandhian Socialism (ml: ഗാന്ധിയൻ
+സോഷ്യലിസം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Gandhian Socialism, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഗാന്ധിയൻ സോഷ്യലിസം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Moonlit_Night_%28Aivazovsky%29.jpg">Moonlit
+Night,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Ivan_Aivazovsky">Ivan
+Aivazovsky</ref>  (1817–1900). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-gandhian.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-gandhian.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

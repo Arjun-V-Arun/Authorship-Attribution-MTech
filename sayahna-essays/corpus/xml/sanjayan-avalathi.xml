@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അധ്യാപകന്റെ ആവലാതി</title>
+          <title xml:lang="en" type="main">Adyapakante avalathi</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">January 22, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അധ്യാപകന്റെ ആവലാതി</title>
+              <title xml:lang="en" type="main">Adyapakante avalathi</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-01-24</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Adyapakante avalathi</term>
+          <term>സഞ്ജയൻ</term>
+          <term>അധ്യാപകന്റെ ആവലാതി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-01-24</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/dejeuner.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Berthe_morisot_apres_le_dejeuner.jpg">Après
+le déjeuner,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Berthe_Morisot">Berthe Morisot</ref>
+ (1841–1895). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അധ്യാപകന്റെ ആവലാതി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അധ്യാപകന്റെ ആവലാതി</head>
+        <div type="lsection">
+          <p style="noindent">മരിച്ചവരെപ്പറ്റിയും, സ്ഥാനമൊഴിഞ്ഞവരെപ്പറ്റിയും, സ്ഥലം
+മാറിപ്പോയവരെപ്പറ്റിയും, ഭാര്യയുടെ അമ്മയെപ്പറ്റിയും, രോഗാർത്തരായി കിടക്കുന്നവരെപ്പറ്റിയും ദോഷം
+പറയരുതെന്നുണ്ട്. പക്ഷേ, പോയ കമ്മീഷണർ പോവാൻകാലത്തു് ഒരു പുണ്യം നേടിവെച്ചതു് എങ്ങനെ
+പറയാതിരിക്കും? അദ്ദേഹം മുനിസിപ്പാലിറ്റിയിലെ കുറഞ്ഞ ശമ്പളക്കാരായ അൻപത്തിരണ്ടു് മാസ്റ്റർമാർക്കു്
+ഓരോ ഉറുപ്പിക പിഴയും വിധിച്ചു പോയി. ക്ലാസ്സുകളിൽ കുട്ടികളുടെ എണ്ണം തികയാത്തതുകൊണ്ടാണുപോലും
+ഇങ്ങിനെ ചെയ്തതു്! കർത്താവേ, കർത്താവേ, അങ്ങുന്നു് എന്തു തകരാറു കാണിച്ചാലും, എത്ര കൊതുക്കളെ
+പടച്ചുവിട്ടാലും, ഏതു പ്ലേഗ് വരുത്തിയാലും പരക്ലേശവിവേകമില്ലാത്തവർക്കു ദണ്ഡനാധികാരം കൊടുക്കൊല്ലേേ!
+</p>
+          <p>മൂന്നുറുറുപ്പിക വാങ്ങുന്ന ഒരാളുടെ ഒരുറുപ്പികയല്ലാ ഇരുപത്തൊന്നേകാലേ അരക്കാൽ ഉറുപ്പിക വാങ്ങുന്ന
+ഒരാളുടെ ഒരുറുപ്പികയെന്നു പറഞ്ഞുകൊടുക്കുവാൻ സഞ്ജയനു സാധിക്കുന്നതിനുമുൻപു് അദ്ദേഹം
+പോയിക്കളഞ്ഞുവല്ലോ! കൗൺസിൽ മെമ്പർമാരേ, നഗരപിതാക്കളേ, നിങ്ങളോടു സഞ്ജയൻ
+കൂപ്പുകൈകളോടുകൂടിപ്പറയുന്നു:
+</p>
+          <p>(അന്നനട)
+</p>
+          <lg>
+            <l> അരു, തരു, തരു, തരു, തരുതിതു </l>
+            <l> പെരിയ പാപത്തെ വലിച്ചുവെക്കയോ?</l>
+            <l> ദുരിതംചെയ്യുന്ന നരന്മാരൊക്കെയു-</l>
+            <l> മൊരിക്കലായതിൻഫലമറിഞ്ഞുപോം;</l>
+            <l> വരാത്ത ബാലരെ വരുത്തുവാൻ മന്ത്ര-</l>
+            <l> മറിയാതുള്ളതു വലിയ കുറ്റമോ?</l>
+            <l> കടുത്ത പോലീസിൻ ‘പിടുത്തലൈസൻസും’</l>
+            <l> കൊടുത്തതായിവർക്കറിഞ്ഞതില്ല ഞാൻ.</l>
+            <l> വിചക്രമാം സൈക്കിൾ, വിയുണ്ടയായ ഗൺ,</l>
+            <l> വിശീലയാം കുട, വിയെണ്ണയാം ദീപം,</l>
+            <l> പിഴയടച്ചുള്ള ഗുരുജനങ്ങളീ-</l>
+            <l> വഴിയിലിങ്ങനെ പലരെയും ചൊല്ലാം?</l>
+            <l> ഇവരെല്ലാമൊരു തരത്തിലാണെന്നു</l>
+            <l> ലവംമടിക്കാതെ പറകയും ചെയ്യാം.</l>
+            <l> ഇതെന്തൊ‘രിഞ്ചസ്റ്റീസി’തെന്തു സാഹസം!</l>
+            <l> ഇതിനു വേണ്ടിയോ കമ്മീഷണർ വന്നു? </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>അതുകൊണ്ടു് പൊന്നങ്ങത്തമാരേ, ഉടയവരേ, പ്രക്ഷോഭിക്കുവാനും സിവിവ്യവഹാരം കൊടുപ്പാനും
+മെമ്മോറിയലയയ്ക്കുവാനും ഒന്നും നിവൃത്തിയില്ലാത്ത ഈ അന്യായശിക്ഷകൊണ്ടു തരിച്ചുനില്ക്കുന്ന
+സാധുമാസ്റ്റർമാരുടെ കൂടെ സഞ്ജയനും പ്രാർഥിക്കുന്നു: ‘ഈ പിഴ നിങ്ങൾ വിടണം. പകൽ മുഴുവനും ഞങ്ങൾ
+കുട്ടികളെ പഠിപ്പിക്കണം. രാത്രി മുഴുവനും ഇവിടെയുള്ള ഒരു തിരഞ്ഞെടുപ്പിനു വോട്ടർമാരെ കെട്ടിക്കൊണ്ടുവന്നു
+മുറിയിലിട്ടു പൂട്ടിയപോലെ, ഞങ്ങൾ കുട്ടികളെ പിടിച്ചു കൊണ്ടുവന്നു സ്കൂളിലിട്ടു പൂട്ടുകയാണോ വേണ്ടതു്?’
+</p>
+          <p>ഇന്നത്തെ കുറിപ്പുകളവസാനിപ്പിക്കുന്നതിനു മുൻപു് ഇന്നു തുടങ്ങുന്നതു് നവവത്സരമാണെന്നു് അഭിപ്രായമുള്ള
+സഞ്ജയന്റെ എല്ലാ വായനക്കാർക്കും സഞ്ജയൻ നവവത്സരാശിസ്സുകൾ കൊടുക്കുന്നു. പുരുഷന്മാരും സ്ത്രീകളും
+കുട്ടികളുമടക്കം സഞ്ജയന്റെ സകലവായനക്കാരോടും അവരുടെ അനുഗ്രഹത്തെ സഞ്ജയൻ അഭ്യർഥിക്കുകയും
+ചെയ്യുന്നു. ഇക്കഴിഞ്ഞ നാലു മാസങ്ങൾക്കിടയിൽ സഞ്ജയൻ ആരെയെങ്കിലും സന്തോഷിപ്പിച്ചിട്ടുണ്ടോ എന്നു
+
+പറയാൻ കഴിയില്ല; ഉണ്ടായിരിക്കാം, പലരേയും മുഷിപ്പിച്ചിട്ടുണ്ടെന്നു സഞ്ജയൻ തീർച്ചയായും അറിയും. പക്ഷേ,
+അവരോടൊന്നും വ്യക്തിപരമായ വിദ്വേഷം സഞ്ജയന്റെ ഒരു മൈൽ അകലെക്കൂടി പോയിട്ടില്ലെന്നും അവരിൽ
+പലരേയും, സഞ്ജയൻ കണ്ടിട്ടുകൂടിയില്ലെന്നും, പേന താഴെ വെച്ചാൽ അവരുടെനേരേ നീട്ടുന്ന കൈ ഇരുട്ടത്തു
+കുത്തി മുറിവേൽപിക്കുവാൻ ശീലിച്ചതല്ലെന്നും ഇതാ സഞ്ജയൻ അവരെ അറിയിച്ചുകൊള്ളുന്നു. അവർ
+ഈർഷ്യകൊണ്ടു് എഴുതിയതാണെന്നു ശങ്കിക്കുന്ന പലവാചകങ്ങളുടെയും അടിയിൽ ചിരി—വെറും ചിരി—
+മാത്രമേയുള്ളൂ. എന്നുമാത്രമല്ല, മറ്റുള്ളവരെ പരിഹസിക്കുന്നേടത്തോളം സഞ്ജയൻ സഞ്ജയനെത്തന്നെയും
+പരിഹസിക്കാറുണ്ടെന്നു കണ്ണുള്ളവർ കണ്ടിട്ടുണ്ടായിരിക്കും; ബുദ്ധിയുള്ളവർ മനസ്സിലാക്കിയിട്ടുണ്ടായിരിക്കും.
+</p>
+          <p>ഞങ്ങൾക്കു് ഇവിടെ ഒരുവിധം ക്ഷേമം. നിങ്ങൾക്കു് അവിടെയും അങ്ങനെതന്നെയെന്നു കരുതുന്നു.
+എല്ലാവരോടും അന്വേഷണം.
+</p>
+          <p>എന്നു്, നിങ്ങളുടെ സ്വന്തം പാറപ്പുറത്തു്
+</p>
+          <p>
+2-1-1935
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Adyapakante avalathi (ml:
+അധ്യാപകന്റെ ആവലാതി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-01-24. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan,
+Adyapakante avalathi, സഞ്ജയൻ, അധ്യാപകന്റെ ആവലാതി, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 22, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Berthe_morisot_apres_le_dejeuner.jpg">Après
+le déjeuner,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Berthe_Morisot">Berthe Morisot</ref>
+ (1841–1895). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-avalathi.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-avalathi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

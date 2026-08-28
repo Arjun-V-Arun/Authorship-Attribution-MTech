@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കമ്യൂണിസ്റ്റ് മന്ത്രിമാരെന്താ കുടിലിൽ
+താമസിക്കണോ?</title>
+          <title xml:lang="en" type="main">Communist Manthrimarentha Kudilil
+Thamasikkano?</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">December 9, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കമ്യൂണിസ്റ്റ് മന്ത്രിമാരെന്താ കുടിലിൽ
+താമസിക്കണോ?</title>
+              <title xml:lang="en" type="main">Communist Manthrimarentha Kudilil
+Thamasikkano?</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Communist Manthrimarentha Kudilil Thamasikkano?</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കമ്യൂണിസ്റ്റ് മന്ത്രിമാരെന്താ കുടിലിൽ താമസിക്കണോ?</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 9, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/lying_Kites_Montmartre.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:William_James_Glackens__Flying_Kites,_Montmartre_-_38.7_-_Museum_of_Fine_Arts.jpg">Flying Kites,
+Montmartre,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:William_Glackens">William James
+Glackens</ref>  (1870–1938). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കമ്യൂണിസ്റ്റ് മന്ത്രിമാരെന്താ കുടിലിൽ താമസിക്കണോ?</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കമ്മ്യൂണിസ്റ്റ് മന്ത്രിമാരെന്താ കുടിലിൽ താമസിക്കണോ?</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Elamaram_Kareem.png" rendition="gra"/>
+            <figDesc style="thumb">എളമരം കരീം</figDesc>
+          </figure>
+          <p style="noindent"> സഖാവു് ഏറമ്പാല കൃഷ്ണൻനായർ വിപ്ലവത്തിന്റെ രക്ത നക്ഷത്രം. കയ്യൂർ
+സമരനായകൻ. മീനമാസത്തിലെ സൂര്യൻ. അധ്വാനിക്കുന്നവരുടെയും ഭാരം ചുമക്കുന്നവരുടെയും
+ഉന്നമനത്തിനായി ഊണുമുറക്കവും ഉപേക്ഷിച്ച പൊതുജനസേവകൻ. മുനയൻകുന്നു് സമരകാലത്തു് ഇദ്ദേഹം
+കൊടുംകാട്ടിൽ ചക്കപ്പഴം മാത്രം തിന്നു് 15 ദിവസം കഴിച്ചുകൂട്ടിയെന്നാണു് ഐതിഹ്യം. ഒളിവിലും
+കാരാഗൃഹത്തിലുമായി ഏറെ വർഷങ്ങൾ ചെലവഴിച്ച സഖാവു് പിന്നെ ജില്ലാ സെക്രട്ടറിയായി. എം. പി.-യായി
+എം. എൽ. എ.-യായി പലതവണ സംസ്ഥാന സെക്രട്ടറിയായി. മൂന്നുവട്ടം കേരള മുഖ്യമന്ത്രിയുമായി…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/C_achuthamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതമേനോൻ</figDesc>
+          </figure>
+          <p> മൂന്നാംവട്ടം മുഖ്യമന്ത്രിയായി വിലസുമ്പോഴാണു് ഇളയ മകൻ വിനോദിന്റെ വിവാഹം. നവദമ്പതികളുടെ
+ചിത്രം പത്രത്തിൽ കണ്ടു് പാവം ജനം അന്തംവിട്ടു. കയ്യൂർ സമരനായകന്റെ സ്നുഷ സർവാഭരണവിഭൂഷിത. 250
+പവൻ പണ്ടമുണ്ടു് പഹച്ചിയുടെ ദേഹത്തു്. രണ്ടുകിലോ സ്വർണം ശാരദടീച്ചർ മണിച്ചന്റെ ബെൻസിൽ
+ഗുരുവായൂർക്കു് തൊഴാൻപോയി എന്നൊക്കെ ക്രൈം എഴുതുന്ന കാലമാണു്. വിനോദിന്റെ
+വിവാഹത്തെച്ചൊല്ലിയുമുണ്ടായി വിവാദം. പണ്ടം ചോദിച്ചുവാങ്ങിയതല്ല, പെൺകുട്ടിയുടെ അച്ഛനമ്മമാർ
+മനസ്സറിഞ്ഞു് അണിയിച്ചതാണെന്നു് സഖാവു് വിശദീകരിച്ചു. അതോടെ സംശയം മാറി. മനസ്സറിഞ്ഞു നൽകുന്ന
+പണവും പണ്ടവും നിരസിക്കണമെന്നു് കമ്മ്യൂണിസ്റ്റ് മാനിഫെസ്റ്റോയിലില്ല, സി. പി. എം. ഭരണഘടനയിലുമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mullakkara_Retnakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുല്ലക്കര രത്നാകരൻ</figDesc>
+          </figure>
+          <p> ആഡംബരത്തിലും ആർഭാടത്തിലും മുഖ്യന്റെ മകന്റേതിനേക്കാൾ കേമമായിരുന്നു ധനകാര്യമന്ത്രിയുടെ
+ദൗഹിത്രിയുടെ കാതൽ തിരുമണം. ഇത്തവണ പാർട്ടിക്കകത്തു തന്നെ തർക്കമുണ്ടായി. തന്റെ മകളുടെ
+മകളുടേതു് മിശ്രവിവാഹമായിരുന്നെന്നും-ഹിന്ദു-മുസ്ലിം മൈത്രിക്കുവേണ്ടിയാണു് ധനവ്യയമെന്നും <ref target="https://en.wikipedia.org/wiki/T._Sivadasa_Menon">ശിവദാസമേനോൻ</ref>
+വ്യക്തമാക്കിയപ്പോൾ ആ പുക്കാറും അവസാനിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. എം. എസ്.</figDesc>
+          </figure>
+          <p> കമ്മ്യൂണിസ്റ്റുകാരത്രയും ലളിതജീവിതം നയിക്കുന്നവരും ബൂർഷ്വാ ദുശീലങ്ങളെ
+ചെറുത്തുനിൽക്കുന്നവരുമാണെന്നാണു് പണ്ടൊക്കെ ജനം കരുതിയിരുന്നതു്. ഇല്ലം വിറ്റുകിട്ടിയ സംഖ്യപാർട്ടിക്കു്
+സംഭാവന ചെയ്ത <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്.</ref>, പാർലമെന്റ്
+
+അംഗമായിരുന്നപ്പോഴും തീവണ്ടിയിൽ മൂന്നാംക്ലാസിൽ യാത്രചെയ്തിരുന്ന <ref target="https://ml.wikipedia.org/wiki/K.C._George">കെ. സി. ജോർജ്ജ്</ref> പാർട്ടി
+ഓഫീസിൽ സ്ഥിരതാമസക്കാരനായിരുന്ന സഖാവു് <ref target="https://ml.wikipedia.org/wiki/R._Sugathan">ആർ. സുഗതൻ</ref>
+അങ്ങനെയങ്ങനെ ഒട്ടേറെ ത്യാഗമൂർത്തികൾ മുഖ്യമന്ത്രിസ്ഥാനമൊഴിഞ്ഞു് തൃശൂർക്കു് തീവണ്ടി കയറിപ്പോയ <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോനെ</ref>
+യും പെരുമ്പാവൂർക്കു് ബസിൽ പോയ <ref target="https://ml.wikipedia.org/wiki/P._K._Vasudevan_Nair">പി. കെ. വി.</ref>യെയും ജനം കണ്ടിട്ടുണ്ടു്. കമ്മ്യൂണിസ്റ്റുകാരുടെ വിവാഹം ഏറ്റവും എളിയ നിലയിൽ പാർട്ടി ആചാരപ്രകാരം
+നടത്തും. <ref target="https://en.wikipedia.org/wiki/C._K._Viswanathan">സി. കെ.
+വിശ്വനാഥന്റെ</ref> യും സി. കെ. ഓമനയുടെയും മകൻ ബിനോയ്, <ref target="https://ml.wikipedia.org/wiki/Koothattukulam_Mary">കൂത്താട്ടുകുളം
+മേരി</ref> യുടെയും സി. എസ്. ജോർജിന്റെയും മകൾ ഷൈലയെ പരിണയിച്ചതു് ഉദാഹരണം. ജാതകം
+നോക്കിയില്ല, ജാതിയും നോക്കിയില്ല, നാദസ്വരമേളമോ മുല്ലപ്പൂപന്തലോ ഉണ്ടായില്ല. നാടിന്റെ നാനാഭാഗത്തു
+വന്നുചേർന്ന വൈ. എഫ്. എസ്. എഫ്. സഖാക്കൾക്കു് ഓരോ ഗ്ലാസ് ചായയും രണ്ടുവീതം ബിസ്ക്കറ്റും കൊടുത്തു.
+സുഖം, സന്തോഷം, സമാധാനം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> ഇപ്പോഴോ? കാലംമാറി, കഥമാറി. സെപ്റ്റംബർ 28-ാം തീയതി തൃശൂർ സാഹിത്യഅക്കാദമി ഹാളിൽ
+ഭഗത്സിംഗ് അനുസ്മരണ ചടങ്ങിൽ <ref target="https://ml.wikipedia.org/wiki/C.N._Jayadevan">സി. എൻ. ജയദേവൻ</ref>
+(മുൻ എം. എൽ. എ.) പറഞ്ഞു: ചിങ്ങമാസത്തിൽ നൂറിലധികം വിവാഹച്ചടങ്ങുകളിൽ പങ്കെടുത്തു. ഏറ്റവുമധികം
+ആർഭാടം കണ്ടതു് ഒരു കമ്മ്യൂണിസ്റ്റ് നേതാവിന്റെ വീട്ടിലാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KC_George.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. ജോർജ്ജ്</figDesc>
+          </figure>
+          <p> വിപ്ലവപാർട്ടിയുടെ സംസ്ഥാന നേതാക്കളധികവും എയർകണ്ടീഷൻ ചെയ്ത കാറിൽമാത്രം
+സഞ്ചരിക്കുന്നവരാണു്. തീവണ്ടിയിലായാലും എ. സി. നിർബന്ധം. തീയിൽ കുരുത്ത നേതാക്കൾ
+എ. സി.-യില്ലെങ്കിൽ വാടിപ്പോകും. പരമോന്നത നേതാവു് ഗൾഫിൽ ചെല്ലുമ്പോൾ സെവൻ സ്റ്റാർ ഡീലക്സ്
+ഹോട്ടലിലാണു് പള്ളിയുറക്കം. ദിവസവാടക അമ്പതിനായിരത്തിനുമേൽ ഏണസ്റ്റോ ചെഗുവേരയുടെ
+എളയപ്പന്റെ മകനായി ഭാവിക്കുന്ന മാർക്സിസ്റ്റ് മന്ത്രി. തീറ്റക്കാര്യത്തിൽ ഭീമനെയും ബകനെയും തോൽപിക്കുന്ന
+മഹാപ്രതിഭയാണു് ടിയാൻ. ഒരുനേരം ചപ്പാത്തിക്കും ഫ്രൈഡ് റൈസിനുമൊപ്പം പതിനെട്ടു് കരിമീൻ
+അകത്താക്കുമെന്നു് വർഗശത്രുക്കൾ പ്രചരിപ്പിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thomas_Issac.jpg" rendition="gra"/>
+            <figDesc style="thumb">തോമസ് ഐസക്</figDesc>
+          </figure>
+          <p> ഏതൊരു സർക്കാറും അധികാരത്തിൽ വരുന്നയുടൻ ചില പ്രഖ്യാപനങ്ങൾ നടത്തും, ചെലവുചുരുക്കും,
+അഴിമതി തടയും, ഉദ്യോഗസ്ഥരെ നിലക്കുനിറുത്തും, ഭരണം കാര്യക്ഷമമാക്കും, മന്ത്രിമാർ ആഴ്ചയിൽ ആറുദിവസം
+തലസ്ഥാനത്തുണ്ടാകും. ആളാംപ്രതി മുമ്മൂന്നു ചക്ക മുള്ളോടെ മുണുങ്ങും… ഇതിലൊന്നു പോലും നടപ്പാക്കില്ല
+എന്നു് അവർക്കറിയാം, നമുക്കുമറിയാം. എന്നാലും പ്രഖ്യാപിക്കുന്നവർക്കു് അതൊരു സുഖം കേൾക്കുന്നവർക്കു്
+ഒരു രസം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/R_Sugathan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. സുഗതൻ</figDesc>
+          </figure>
+          <p> ചെലവുചുരുക്കലിന്റെ ഭാഗമായി മന്ത്രിമാർ അംബാസഡർ കാറുകളേ ഉപയോഗിക്കു എന്നു അച്യുമ്മാൻ
+പ്രഖ്യാപിച്ചു. അനന്തരവൻമാർ മുറുമുറുത്തു ആർക്കുവേണം അംബാസഡർ? കഴിഞ്ഞസർക്കാറിന്റെ
+കാലത്തുവാങ്ങിയ ആഡംഭരക്കാറുകൾ തുരുമ്പെടുത്തുപോകും. അംബാസഡറിനു് പെട്രോൾകാശു് കൂടുതാലാണു്.
+മെയിന്റനൻസ് മുതലാകില്ല. എന്നൊക്കെയായി തടസ്സവാദങ്ങൾ. ഏതാനും ചില മണ്ടന്മാർ അംബസാഡറിൽ
+ഒതുങ്ങി. മിടുക്കൻമാർ സ്കോഡ ഒക്ടോവിയയിൽ മൂളിപ്പറക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AK_Balan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ബാലൻ</figDesc>
+          </figure>
+          <p> പുതിയ മന്ത്രിമാർ ചാർജെടുത്താലുടൻ ഔദ്യോഗികവസതിയുടെ അറ്റകുറ്റപ്പണി നിർബന്ധമാണു്. മരാമത്തു
+വകുപ്പിലെ ഉദ്യോഗസ്ഥർക്കും കോൺട്രാക്ടർമാർക്കും പത്തുപുത്തനുണ്ടാക്കാനും പ്രതിപക്ഷക്കാർക്കും
+ആക്ഷേപിക്കാനുള്ള മനോഹരമായ ഒരവസരംകൂടിയാണിതു്. 1991-ൽ <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്. മുസ്തഫ</ref>
+മന്ത്രിമന്ദിരം മോടിപിടിപ്പിക്കാൻ രണ്ടു ലക്ഷം രൂപ ചെലവഴിച്ചപ്പോൾ, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+കാറപകടത്തെത്തുടർന്നു് ക്ലിഫ് ഹൗസ് വളപ്പിൽ കുളംകുഴിച്ചപ്പോൾ ഏറ്റവുമൊടുവിൽ <ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമൻ</ref> ഔദ്യോഗിക വസതി പുതുക്കിപ്പണിതപ്പോൾ എന്തൊക്കെ
+ആരോപണമുന്നയിച്ചവരാണു് സി. പി. ഐ.-ക്കാരും മാർക്സിസ്റ്റുകളും?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Vasudevan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വാസുദേവൻ നായർ</figDesc>
+          </figure>
+          <p> ഇപ്പോഴിതാ മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണൻ</ref> ഔദ്യോഗിക വസതിയുടെ അറ്റകുറ്റപ്പണികൾക്കായി 17,40,500 രൂപ ചെലവഴിച്ചിരിക്കുന്നു!
+(ചികുൻ ഗുനിയ തടയാൻ ചേർത്തലക്കു് ആദ്യഗഡുവായി അനുവദിച്ച തുക പത്തു ലക്ഷമാണെന്നു് ഓർക്കണം).
+അറ്റകുറ്റപ്പണിക്കു് പതിനേഴര ലക്ഷം പൊടിക്കണമെങ്കിൽ മൻമോഹൻ ബംഗ്ലാവ് വളരെ
+ജീർണാവസ്ഥയിലായിരുന്നിരിക്കണം. അങ്ങനെയെങ്കിൽ ഇതിനുമുമ്പു് അവിടെ താമസിച്ച <ref target="https://ml.wikipedia.org/wiki/M._V._Raghavan">എം. വി. രാഘവനാ</ref>
+ണു് ഉത്തരവാദി. തുക അദ്ദേഹത്തിൽനിന്നു് ഈടാക്കാൻ നിയമനടപടി കൈക്കൊള്ളണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_sudhakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. സുധാകരൻ</figDesc>
+          </figure>
+          <p> മൻമോഹൻ ബംഗ്ലാവിന്റെ വളപ്പു് കാടുകയറിയും കെട്ടിടം മുഷിഞ്ഞു് മാറാല പിടിച്ചുമല്ല
+കിടന്നിരുന്നതെങ്കിലോ? എങ്കിലും കോടിയേരിയെ പഴി പറയരുതു്. പകരം അദ്ദേഹത്തിന്റെ
+സൗന്ദര്യബോധത്തെ പ്രകീർത്തിക്കണം. ആഭ്യന്തരം മാത്രമല്ല, ടൂറിസവും സഖാവിന്റെ വകുപ്പാണെന്നു്
+ഓർമിക്കണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> വാസ്തുശാസ്ത്രപ്രകാരമുള്ള മാറ്റങ്ങൾ വരുത്താൻ വേണ്ടിയാണു് പണം പൊടിച്ചതെന്നും മൻമോഹൻ
+ബംഗ്ലാവിന്റെ ഗേറ്റ് മൂന്നുതവണ മാറ്റിസ്ഥാപിച്ചെന്നും ചില ദോഷൈകദൃക്കുകൾ പറയുന്നു.
+മാർക്സിസം-ലെനിനിസവും വാസ്തുവിദ്യയും എന്ന വിഷയം ഗവേഷണ വിധേയമാക്കേണ്ടതാണു്. കസ്റ്റഡിമരണം
+കുറയണമെങ്കിൽ കാണിപ്പയ്യൂർ നമ്പൂതിരിപ്പാടിനെയല്ല കാനാടിചാത്തനെ സമീപിക്കുന്നതിലും തെറ്റൊന്നുമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/BABU_DIVAKARAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാബുദിവാകരൻ</figDesc>
+          </figure>
+          <p> മാർക്സിസ്റ്റുകാർ തേങ്ങ ഉടയ്ക്കുമ്പോൾ സി. പി. ഐ.-ക്കാർ ചിരട്ടയെങ്കിലും ഉടയ്ക്കണം. അല്ലെങ്കിൽ ചേപ്ര
+കോടിയേരിയിൽനിന്നു് ആവേശം ഉൾകൊണ്ടു് സഖാവു് <ref target="https://ml.wikipedia.org/wiki/C._Divakaran">സി. ദിവാകരൻ</ref>
+‘സാനഡു’വിന്റെ അറ്റകുറ്റപ്പണി നടത്തിച്ചു. ചെലവാണു് വെറും 11,75300 രൂപ സാനഡുവിലെ മുൻ താമസക്കാരൻ
+<ref target="https://ml.wikipedia.org/wiki/Babu_Divakaran">ബാബുദിവാകരനാ</ref>
+യിരുന്നു. അദ്ദേഹം എന്തൊക്കെ നാശനഷ്ടങ്ങളാണു് കെട്ടിടത്തിനും വളപ്പിനും വരുത്തിവെച്ചതെന്നു്
+നമുക്കറിയില്ല. പാവം <ref target="https://ml.wikipedia.org/wiki/C._Divakaran">സി.
+ദിവാകരൻ</ref> മന്ദിരത്തിന്റെ മോടിവർദ്ധിച്ചു എന്നുമാത്രം അറിയാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Veliyam_Bhargavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെളിയം ഭാർഗവൻ</figDesc>
+          </figure>
+          <p>സി. പി. എമ്മുകാരോളം മഹാമനസ്കരല്ല സി. പി. ഐ.-ക്കാർ ദിവാകരൻ സഖാവിന്റെ ബൂർഷ്വാ
+ജീവിതശൈലിക്കെതിരെ സംസ്ഥാന എക്സിക്യൂട്ടിവിലും സ്റ്റേറ്റ് കൗൺസിലിലും കടുത്ത വിമർശമുണ്ടായി എന്നാണു്
+പത്രങ്ങൾ പറയുന്നതു്. ഭാർഗവനാശാൻപോലും ദിവാകരനെ വിമർശിച്ചുവെത്രെ! ഭക്ഷ്യ-സിവിൽ സ്പ്ലൈസ്
+വകുപ്പിൽ മന്ത്രിപത്നിയുടെ ഭരണമാണെന്നും മന്ത്രിക്കുപകരം ഭാര്യ സ്റ്റേറ്റ്കാറിൽ പോയി ഔദ്യോഗിക ചടങ്ങു്
+ഉദ്ഘാടനം ചെയ്തെന്നും വരെ ചിലർ ആക്ഷേപിച്ചു പറഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/S_Sharma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. ശർമ</figDesc>
+          </figure>
+          <p> പഴയ ശിവഗിരി വാസത്തിന്റെ ചില അംശങ്ങൾ <ref target="https://ml.wikipedia.org/wiki/Veliyam_Bharghavan">വെളിയം
+ഭാർഗവനി</ref> ൽ ഇപ്പോഴുമുണ്ടു്. അതുകൊണ്ടാണു് ഡി. ഐ. സി. ബാന്ധവത്തെ എതിർത്തതു്, എ. ഡി. ബി.
+വായ്പയെ തള്ളിപ്പറഞ്ഞതു്, മന്ത്രിമാർക്കു് മിതവ്യയശീലം ഉപദേശിക്കുന്നതു് ശിവഗിരിയിൽ തുടർന്നിരുന്നെങ്കിൽ
+ബെൻസുകാറും സ്കോച്ചും വിസ്കിയും ശീലമായേനെ കമ്മ്യൂണിസത്തിലേക്കു മാർഗം കൂടിയതുകൊണ്ടു് അതുമില്ല,
+ഇതുമില്ല എന്ന അവസ്ഥയിലായി. ഭാർഗവൻ സഖാവിന്റെ മുന്നിലുള്ള വാർപ്പുമാതൃകകൾ <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/V.V._Raghavan">വി. വി.
+രാഘവനു</ref> മാണു്. മന്ത്രിയായിരുന്നപ്പോൾ <ref target="https://en.wikipedia.org/wiki/K._P._Prabhakaran">കെ. പി.
+പ്രഭാകരനു്</ref> അംബാസഡർ മതിയായിരുന്നല്ലോ? മകൻ <ref target="https://ml.wikipedia.org/wiki/K._P._Rajendran">കെ. പി. രജേന്ദ്രനു്</ref>
+എന്തിനാണു് സ്കോഡ ഒക്ടേവിയ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_V_Raghavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വി. രാഘവൻ</figDesc>
+          </figure>
+          <p> ജീവിതത്തിലൊരിക്കലെങ്കിലും മന്ത്രിയാകാത്ത എ. സി. കാറിൽ സഞ്ചരിക്കാത്ത, എ. സി. മുറിയിൽ
+താമസിക്കാത്ത, പൊടിയരിക്കഞ്ഞിയും ചുട്ട പപ്പടവും കഴിച്ചു ജീവിക്കുന്ന <ref target="https://ml.wikipedia.org/wiki/Veliyam_Bharghavan">വെളിയം
+ഭാർഗവനു</ref> ണ്ടോ <ref target="https://ml.wikipedia.org/wiki/C._Divakaran">സി. ദിവാകരൻ</ref>
+അനുഭവിക്കുന്ന കഷ്ടപ്പാടു് മനസ്സിലാകുന്നു?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KP_RAJENDRAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. പി. രാജേന്ദ്രൻ</figDesc>
+          </figure>
+          <p> മുമ്പു് <ref target="https://ml.wikipedia.org/wiki/V._K._Ebrahimkunju">വി. കെ.
+ഇബ്രാഹിംകുഞ്ഞു്</ref> താമസിച്ചിരുന്ന ‘ലിൻഡ് ഹേഴ്സ്റ്റ്’ മോടിപിടിപ്പിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/M._Vijayakumar">എം. വിജയകുമാർ</ref>
+പൊതുഖജനാവിൽനിന്നു് ചെലവിട്ടതു് 2,98,800 രൂപ. തൊട്ടുപിന്നാലെയുണ്ടു് സഖാക്കൾ <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">എ. കെ. ബാലനും</ref> <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> യും <ref target="https://ml.wikipedia.org/wiki/N._K._Premachandran">പ്രേമചന്ദ്രനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Benoy_Viswam">ബിനോയ്
+വിശ്വവും</ref> മോശം; <ref target="https://ml.wikipedia.org/wiki/P.K._Gurudasan">ഗുരുദാസനും</ref> <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">സുധാകരനും</ref>
+മഹാമോശം. <ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമൻ</ref> 15 ലക്ഷം പൊടിച്ച ക്ലീഫ് ഹൗസിൻമേൽ പിന്നെയും 68,400 രൂപ ചെലവഴിച്ച <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദൻ</ref> അഭിനന്ദമർഹിക്കുന്നുണ്ടു്. കവിടയാർ ഹൗസിന്റെ അറ്റകുറ്റപ്പണിക്കു് 40,300 രൂപ
+ചെലവിട്ട <ref target="https://ml.wikipedia.org/wiki/P.K._Gurudasan">പി. കെ.
+ഗുരുദാസനും</ref> അജന്തക്കുവേണ്ടി 37,000 ചെലവഴിച്ച <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">ജി. സുധാകരനും</ref>
+വിപ്ലവപാർട്ടിക്കു് അപമാനമാണു് രണ്ടാൾക്കുമെതിരെ നടപടിവേണം. മന്ത്രിസ്ഥാനത്തുനിന്നു് നീക്കി പകരം
+കൊള്ളാവുന്ന മറ്റാരെയെങ്കിലും നിയമിക്കണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Gurudasan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗുരുദാസൻ</figDesc>
+          </figure>
+          <p> ലിൻഡ് ഹേഴ്സ്റ്റിനുമേൽ അവകാശവാദമുന്നയിച്ചു് നിരാശപ്പെട്ടതാണു് <ref target="https://ml.wikipedia.org/wiki/P.K._Sreemathi">പി. കെ. ശ്രീമതി</ref>.
+കേന്ദ്രകമ്മിറ്റി അംഗമെന്ന പരിഗണനപോലും കിട്ടിയില്ല. വെറും സ്റ്റേറ്റ് കമ്മിറ്റി മെമ്പറായ വിജയകുമാർ ബംഗ്ലാവ്
+അടിച്ചുമാറ്റി. ലിൻഡ് ഹേഴ്സ്റ്റില്ലെങ്കിൽ സർക്കാർ കെട്ടിടമേ വേണ്ട എന്നു കെറുവിച്ചു് ടീച്ചർ വാടക വീട്ടിൽ
+കുടിയേറി. സഖാക്കൾ <ref target="https://ml.wikipedia.org/wiki/K._P._Rajendran">കെ. പി. രാജേന്ദ്രൻ</ref>,
+
+<ref target="https://ml.wikipedia.org/wiki/Mullakkara_Ratnakaran">മുല്ലക്കര
+രത്നാകരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/S._Sharma">എസ്.
+ശർമ</ref>, <ref target="https://ml.wikipedia.org/wiki/Elamaram_Kareem">എളമരം കരീം</ref>
+എന്നിവരും വാടകവീടുകളിൽ തന്നെ. കരീംക്കയുടെ പ്രതിമാസവാടക 19,168 രൂപയാണു്. മറ്റു സഖാക്കളുടേതും
+ഏതാണ്ടു് ഇതേനിരക്കിൽ തന്നെയായിരിക്കും. <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി</ref>
+സഖാവിന്റെയും <ref target="https://ml.wikipedia.org/wiki/Thomas_Isaac">തോമസ്
+ഐസക്കി</ref> ന്റെയും ഔദ്യോഗിക വസതികൾ മോടിപിടിപ്പിച്ചതിന്റെ കണക്കു് വരാനിരിക്കുന്നതേയുള്ളു.
+അവരും മോശമാകില്ല എന്നു പ്രത്യാശിക്കുക.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/VK_IBRAHIM_KUNJU.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. കെ. ഇബ്രാഹിംകുഞ്ഞു്</figDesc>
+          </figure>
+          <p> വീടു് മോടിപിടിപ്പിക്കുന്നതിൽ മാത്രമല്ല ഭരണരംഗത്തും മുമ്പന്മാരാണു് <ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/C._Divakaran">ദിവാകരനും</ref>.
+<ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">ബാലകൃഷ്ണന്റെ</ref>
+ഭരണത്തിൻ കീഴിൽ കസ്റ്റഡിമരണം കൂടി, ഗുണ്ട-മാഫിയ സംഘങ്ങൾ പെരുകി. ദിവാകരന്റെ ശ്രമഫലമായി
+ഉപ്പുതൊട്ടു് കർപ്പൂരം വരെ സകലതിനും വിലകൂടി ഇടതുഭരണം ജോറാകുന്നുണ്ടു്. കുഞ്ഞൂഞ്ഞിന്റെ രണ്ടാംവരവിനു്
+വേണ്ടി കാത്തിരിപ്പിൻ! ഉണർവുള്ള മണവാട്ടികളെ ദീപങ്ങൾ കൊളുത്തുവിൻ!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Communist Manthrimarentha
+Kudilil Thamasikkano? (ml: കമ്യൂണിസ്റ്റ് മന്ത്രിമാരെന്താ കുടിലിൽ താമസിക്കണോ?).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Communist Manthrimarentha Kudilil Thamasikkano?, കെ. രാജേശ്വരി, കമ്യൂണിസ്റ്റ് മന്ത്രിമാരെന്താ
+കുടിലിൽ താമസിക്കണോ?, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 9, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:William_James_Glackens__Flying_Kites,_Montmartre_-_38.7_-_Museum_of_Fine_Arts.jpg">Flying Kites,
+Montmartre,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:William_Glackens">William James
+Glackens</ref>  (1870–1938). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kudilil.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kudilil.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ദുർദേവതാഭീതി</title>
+          <title xml:lang="en" type="main">Durdevathabheethi</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ദുർദേവതാഭീതി</title>
+              <title xml:lang="en" type="main">Durdevathabheethi</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Durdevathabheethi</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ദുർദേവതാഭീതി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Salvator_Rosa_-_A_Witch.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Salvator_Rosa_-_A_Witch__Google_Art_Project.jpg">A Witch,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Salvator_Rosa">Salvator Rosa</ref>
+ (1615–1673). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ദുർദേവതാഭീതി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ദുർദേവതാഭീതി</head>
+        <div type="lsection">
+          <p style="noindent">ആദിമമനുഷ്യൻ അന്ധഹൃദയത്തിൽ ആദ്യമായി വേരുറച്ച ഒന്നാണു്
+ദുർദേവതാഭീതി (Fear of Evil spirts). പഴക്കംകൊണ്ടും പ്രാബല്യകൊണ്ടും ഇതു മറ്റെല്ലാത്തരം ഭീതിയെക്കാളും
+പ്രാധാന്യമർഹിക്കുന്നു. ഇന്നത്തെ പരിഷ്കൃതമനുഷ്യന്റെ മനസ്സിൽപോലും പ്രസ്തുതഭീതി അവശേഷിച്ചു കിടപ്പുണ്ടു്.
+അന്നത്തെ വനചരനായ മനുഷ്യൻ അസാധാരണങ്ങളായ പ്രകൃതി സംഭവങ്ങൾ കണ്ടു പേടിച്ചുവിറച്ചു. ഇടിത്തീ
+വീണു വമ്പിച്ച മരങ്ങൾ കത്തുന്നതും ധൂമകേതു ഉദിക്കുന്നതും ഭൂകമ്പമുണ്ടാകുന്നതും മറ്റും കണ്ടു ക്രമത്തിലധികം
+ഭീതനായപ്പോൾ ഇവയെല്ലാം ഏതോ ദുർദേവതകളുടെ പ്രവൃത്തികളാണെന്നു് അവൻ വിശ്വസിക്കാൻ തുടങ്ങി.
+എന്നുമാത്രമല്ല, ദുർദേവതകൾ നരസംഹാരത്തിനായി ഒരുങ്ങിയിരിക്കുയാണെന്നും അവൻ തീരുമാനിച്ചു.
+ജന്തുബലി തുടങ്ങിയ ഹിംസാകർമ്മങ്ങൾകൊണ്ടു് ഈ സംഹാരമൂർത്തികളെ പ്രീതിപ്പെടുത്തിക്കൊണ്ടിരുന്നാലെ
+തങ്ങൾക്കു രക്ഷയുള്ളു എന്ന അന്ധവിശ്വാസമാണു് അടുത്ത പടിയായി മനുഷ്യവർഗത്തെ ബാധിച്ചതു്.
+ദുർദേവതകളുമായി കൂട്ടുകെട്ടുണ്ടെന്നു സംശയിക്കപ്പെട്ട ചില മനുഷ്യരെ മറ്റുള്ളവർ ഭയപ്പെട്ടു് അകറ്റി നിർത്തുവാൻ
+തുടങ്ങി ഇത്തരക്കാർ ക്രമേണ മന്ത്രവാദികളും ആഭിചാരകന്മാരും ആയിത്തീർന്നു. ഭയത്തോടൊപ്പം തന്നെ
+കഠിനമായ വെറുപ്പും ഇക്കൂട്ടരെപ്പറ്റി മനുഷ്യരുടെയിടയിൽ വർദ്ധിച്ചുവന്നു. സമുദായത്തിനു് എന്തെങ്കിലും ആപത്തു
+നേരിട്ടാൽ അതിനു കാരണം ഇവരുടെ ഏതോ ആഭിചാരകർമമാണെന്നു മനുഷ്യർ തെറ്റിദ്ധരിച്ചു. ഇപ്രകാരം
+ആഭിചാരകന്മാർ മനുഷ്യർക്കു് ആപത്തു വരുത്തിക്കൂട്ടുന്ന ഒരുതരം നികൃഷ്ടജീവികളാണെന്ന മിഥ്യാബോധം
+ഏതെല്ലാം കൊടിയ ക്രൂരകർമ്മങ്ങൾക്കു മനുഷ്യരെ വിധേയരാക്കിയെന്നു ചരിത്രം പരിശോധിച്ചാലറിയാം.
+</p>
+          <p>പ്രാചീനഗ്രീസിലും റോമിലും ഇത്തരം അന്ധവിശ്വാസം നിലവിലുണ്ടായിരുന്നു. <ref target="https://ml.wikipedia.org/wiki/Epicurus">എപ്പിക്യൂറസി</ref> ന്റെ
+അനുയായികളായ തത്വജ്ഞാനികൾ മാത്രമേ അന്നു് ഈ മൂഢതയിൽനിന്നു മുക്തരായിരുന്നുള്ളു.
+ദുർമന്ത്രവാദികളെ കൊല്ലുന്നതിനുള്ള ഒരു നിയമം തന്നെ അന്നു നടപ്പാക്കിയിരുന്നു. <ref target="https://ml.wikipedia.org/wiki/Demosthenes">ഡെമോസ്തനീസി</ref> ന്റെ
+കാലത്തു് ലാമിയ എന്നു പേരായ ഒരു ദുർമന്ത്രവാദിനിയെ വധിച്ച വിവരം പ്രസിദ്ധമാണു്. ക്രിസ്തുമതത്തിന്റെ
+ആവിർഭാവം ഈ അന്ധവിശ്വാസത്തെ അധികമധികം പ്രചരിപ്പിക്കുകയാണു് ചെയ്തതു്. പ്രസ്തുത
+മതാധികാരികളുടെ വിദ്വേഷത്തിനു പുരുഷന്മാരേക്കാൾ കൂടുതൽ ഇരയായിത്തീർന്നതു് സ്ത്രീകളായിരുന്നു.
+അതിവൃദ്ധകളായ സ്ത്രീകളുമായിട്ടാണു് ദുർദേവതകളുടെ കൂട്ടുകെട്ടു് എന്നൊരു വിശ്വാസം എങ്ങനെയോ യൂറോപ്പു
+മുഴുവൻ പ്രചരിച്ചു. ഇവർക്കു് ‘വിച്ചസ്’ (Witches) എന്നൊരു ദുഷ്പേരും നടപ്പായി. ‘വിച്ച്’കളെ വേട്ടയാടുകയെന്നതു
+ക്രിസ്തുമതരാജ്യങ്ങളിലെല്ലാം നിയമാനുസൃതമായ ഒരു പ്രവൃത്തിയായിത്തീർന്നു. പുരുഷനെ വശീകരിച്ചു്
+അപഥത്തിൽ ചാടിക്കുന്ന ഒരു പൈശാചികശക്തിയാണു സ്ത്രീയെന്നും അവർ തിന്മയുടെ ഇരിപ്പിടമാണെന്നും
+ക്രിസ്തീയ പുരോഹിതന്മാർ വിശ്വസിച്ചിരുന്നതിൽനിന്നാണു് ഇത്തരം വൃദ്ധനാരീവിദ്വേഷം പൊട്ടിപ്പുറപ്പെട്ടതു്.
+സ്ത്രീകളിൽ ജന്മനാ പ്രകടമായിരുന്ന വശീകരണശക്തിയെ ഏതോ ദുർദേവതയുടേതായിട്ടു പുരോഹിതർ
+വ്യാഖ്യാനിച്ചു. ക്രമത്തിലധികം വാർദ്ധക്യം ബാധിച്ചു വിരൂപികളായി കൂനിക്കൂനി നടക്കുന്ന പടുകിഴവികൾ
+ജനക്കൂട്ടത്തിൽനിന്നും വിട്ടുമാറി വല്ല കുടിലുകളിലും ഒതുങ്ങിപ്പാർക്കുന്നതു കണ്ടാൽ ഉടൻ അവരെ
+ദുർമന്ത്രവാദിനികളായി (Witches) ഗണിക്കുവാൻ അന്നുള്ളവർ ഒട്ടുംതന്നെ സംശയിച്ചിരുന്നില്ല. ഇവരെ
+വിചാരണ ചെയ്തു കൊന്നുകളയേണ്ടതാണെന്നുള്ള പുരോഹിതവിധി സ്വീകരിച്ചു് അക്കാലത്തെ ഗവണ്മെന്റുകൾ
+അതിലേക്കു നിയമങ്ങളും നടപ്പാക്കിയിരുന്നു. പത്തോ നൂറോ വർഷങ്ങളല്ല, ആയിരത്തഞ്ഞൂറു വർഷത്തോളം ഈ
+വക അന്ധവും ക്രൂരവും ആയ നിയമങ്ങൾ നിർദ്ദയനടനം ചെയ്തുകൊണ്ടിരുന്നു. എത്രയെത്ര നിരപരാധികളായ
+വൃദ്ധകളാണു് ഈ അന്ധവിശ്വാസക്കൊടുംതീയിൽ വെന്തെരിഞ്ഞുപോയതു്! മാനുഷികമൂഢതയുടെ ഇത്രത്തോളം
+ബീഭത്സവും നിഷ്ഠുരവും ആയ വിജൃംഭണം മറ്റൊരു കാലഘട്ടത്തിലും പ്രത്യക്ഷപ്പെട്ടിട്ടില്ല. മനുഷ്യന്റെ അന്ധത
+സൃഷ്ടിച്ചുവിട്ട ഭൂതപ്രേതപിശാചാദിസങ്കല്പരൂപങ്ങൾ അവനെ എത്രത്തോളം ഭ്രാന്തനാക്കിത്തിർത്തുവെന്നതിനു്
+ഇതൊരു നല്ല തെളിവാകുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sir_Thomas_Browne.jpg" rendition="gra"/>
+            <figDesc style="thumb">സർ തോമസ് ബ്രൗൺ</figDesc>
+          </figure>
+          <p> ജർമ്മനി, ഫ്രാൻസ്, സ്പെയിൻ, ബ്രിട്ടൻ, സ്വിറ്റ്സർലണ്ട്, സ്വീഡൻ രാജ്യങ്ങളെല്ലാം പാവപ്പെട്ട
+
+പടുകിഴവികളെ ദുർമ്മന്ത്രവാദത്തിന്റെ പേരിൽ വളരെക്കാലം തീയിലിട്ടു ചുട്ടെരിച്ചിരുന്നു. ട്രെവിസ് (Treves)
+എന്നൊരു സ്ഥലത്തുതന്നെ ഏഴായിരം പേർ ഇപ്രകാരം കൊല്ലപ്പെട്ടു! ടുലുസ് (Toulouse) എന്ന സ്ഥലത്തു് ഒരേ
+സമയത്തു് അഞ്ഞൂറുപേരെയാണു് അഗ്നിക്കിരയാക്കിയതു്. നൂറ്റാണ്ടുകൾ നൂറ്റാണ്ടുകളായിട്ടു് ഇത്തരം മരണക്രിയ
+നടന്നുകൊണ്ടിരുന്നു എന്നറിയുമ്പോൾ നാം അമ്പരന്നുപോയേക്കാം. 1431-ൽ റൂവൻ (Rouen) എന്ന
+സ്ഥലത്തുവെച്ചു് <ref target="https://ml.wikipedia.org/wiki/Joan_of_Arc">ജോൺ
+ആഫ് ആർക്കി</ref> നെ (Joan of Arc) ഇംഗ്ലിഷുകാർ ജീവനോടെ ദഹിപ്പിച്ച ദാരുണസംഭവം എത്രയും
+പ്രസിദ്ധമാണല്ലോ. ഇരുപതു വയസ്സുമാത്രം പ്രായം ചെന്ന ആ യുവതിയിൽ ദുർദ്ദേവതാവേശം ഉണ്ടെന്നു
+തെറ്റിദ്ധരിച്ചതാണു് ആ ഭയങ്കരഹിംസയ്ക്കും അടിസ്ഥാനം!
+</p>
+          <p>പതിനെട്ടു കൊല്ലത്തിനുള്ളിൽ എണ്ണൂറു വൃദ്ധകളെ താൻ കശാപ്പു ചെയ്തുവെന്ന റെമി (Remy) എന്നു പേരായ
+ഒരു ഫ്രഞ്ചുജഡ്ജി അഭിമാനപൂർവ്വം ഒരിക്കൽ പ്രസ്താവിച്ചുവത്രേ! നീതിബോധത്തിന്റെ ചുടുകാടായ ഇത്തരം
+കോടതി വിചാരണകൾ റോമിലെ പോപ്പിന്റെ അനുവാദത്തോടും ആശിസ്സോടും കൂടിയാണു് യൂറോപ്പു മുഴുവൻ
+നടന്നുകൊണ്ടിരുന്നതു്. അക്കാലത്തെ പണ്ഡിതന്മാർപോലും ഈ വിശ്വാസാന്ധ്യത്തിൽ മുഴുകിയിരുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Martin_Luther.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാർട്ടിൻ ലുതർ</figDesc>
+          </figure>
+          <p> പാരീസ് സർവ്വകലാശാലയിലെ പ്രസിദ്ധ ചാൻസലർ ആയിരുന്ന <ref target="https://en.wikipedia.org/wiki/Jean_Gerson">ജീൻഗർസൺ</ref> (Jean
+Gerson 1363–1429) അക്കാലത്തെ പണ്ഡിതന്മാരിൽ ഒരു പ്രമാണിയായിട്ടാണു ഗണിക്കപ്പെട്ടിരുന്നതു്.
+അദ്ദേഹവും ആഭിചാരകർമ്മങ്ങളുടെ യാഥാർത്ഥ്യത്തിൽ വിശ്വസിച്ചിരുന്നു. <ref target="https://en.wikipedia.org/wiki/Jean_Bodin">ജീൻ ബോഡിൻ</ref> (Jean
+Bodin 1530–96) എന്ന മറ്റൊരു വിദ്വാനും ഇക്കാര്യത്തിൽ യാതൊരു സംശയവുമുണ്ടായിരുന്നില്ല. <ref target="https://ml.wikipedia.org/wiki/Martin_Luther">മാർട്ടിൻ ലുതർ</ref>
+ക്രിസ്തുമതത്തിൽ വലിയൊരു പരിവർത്തനം വരുത്തിയ ഉല്പതിഷ്ണുവായിരുന്നുവല്ലോ. എന്നാൽ ഈ
+സ്വതന്ത്രചിന്തകനും ദുർമന്ത്രവാദത്തെ (Witchcraft) സംബന്ധിച്ച അന്ധവിശ്വാസത്തിൽനിന്നും
+വിട്ടുനിൽക്കുവാൻ കഴിഞ്ഞില്ല! എലിസബത്തിന്റെ ഭരണകാലത്തു്, ദുർമന്ത്രവാദിനികളെ കുറ്റപ്പെടുത്തുന്ന
+നിയമങ്ങൾ കുറെക്കൂടി കഠിനമാക്കണമെന്നു് <ref target="https://en.wikipedia.org/wiki/John_Jewel">ബിഷപ്പ് ജീവൽ</ref> (Bishop
+Jewel) രാജ്ഞിയോടു അപേക്ഷിക്കുകയുണ്ടായി. ഇംഗ്ലീഷുരാജാവായ ജയിംസ് ഒന്നാമൻ ഡൻമാർക്കിൽ നിന്നും
+തിരിച്ചുവരുമ്പോൾ കൊടുങ്കാറ്റുണ്ടായതു് ആരുടെയോ ആഭിചാരകർമ്മത്തിന്റെ ഫലമാണെന്നു വിശ്വസിച്ചു്
+അത്തരക്കാരെ കണ്ടുപിടിച്ചു് ഉടൻ കൊന്നുകളയുവാൻ കല്പിച്ചുപോൽ. കാലം മുന്നോട്ടു ചെന്നിട്ടുപോലും ഈ
+മൂഢതയ്ക്കു കുറവുണ്ടായില്ല. ദുർമന്ത്രവാദത്തിന്റെ സത്യസ്ഥിതിയിൽ വിശ്വസിക്കാത്തവർ ദൈവദൂഷകന്മാരാണെന്നു്
+<ref target="https://en.wikipedia.org/wiki/Thomas_Browne">സർ തോമസ്
+ബ്രൗൺ</ref> ഉദ്ഘോഷിച്ചതു പതിനേഴാം നൂറ്റാണ്ടിലാണു്. ഇംഗ്ലണ്ടിൽ ഒടുവിലത്തേതായി നടന്ന ‘വിച്ച്
+വിചാരണ’ (Witch trial) 1712-ൽ ആയിരുന്നു. 1736-ൽ മാത്രമേ ഈ നികൃഷ്ടനിയമം റദ്ദാക്കപ്പെട്ടുള്ളു. യൂറോപ്പിൽ
+ഉദയം ചെയ്ത യുക്തിവാദമാണു് മനുഷ്യന്റെ ഈ അന്ധകാരപ്രയാണത്തിനു് ഒരു വിരാമം ഇട്ടതു്. മതത്തിന്റെ
+ഇരുട്ടിൽ കണ്ണുകാണാതെ തപ്പിത്തടയുന്ന മനുഷ്യൻ എന്തെല്ലാം പേക്കൂത്തുകൾ കാട്ടിക്കൂട്ടുന്നു.
+</p>
+          <p>
+നിരീക്ഷണം 1945.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Durdevathabheethi (ml:
+ദുർദേവതാഭീതി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Durdevathabheethi, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ദുർദേവതാഭീതി, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Salvator_Rosa_-_A_Witch__Google_Art_Project.jpg">A Witch,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Salvator_Rosa">Salvator Rosa</ref>
+ (1615–1673). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-durdevatha.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhadurdevatha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

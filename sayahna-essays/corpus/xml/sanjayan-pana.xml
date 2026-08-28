@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സഞ്ജയന്റെ “പാന”</title>
+          <title xml:lang="en" type="main">Sanjayante pana</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>KB Sujith</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">January 19, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സഞ്ജയന്റെ “പാന”</title>
+              <title xml:lang="en" type="main">Sanjayante pana</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-12-27</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Sanjayante pana</term>
+          <term>സഞ്ജയൻ</term>
+          <term>സഞ്ജയന്റെ പാന</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-12-27</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Juan_Gris.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Juan_Gris.jpg">The
+Guitar,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Juan_Gris">Juan Gris</ref>
+ (1887-1927). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സഞ്ജയന്റെ “പാന”</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സഞ്ജയന്റെ “പാന”</head>
+        <div type="lsection">
+          <list type="gloss">
+            <label>പത്രാധിപർ:</label>
+            <item> തന്നെപ്പറ്റി വായനക്കാരുടെ ഇടയിൽ വലിയ ആക്ഷേപമായിരിക്കുന്നു.
+</item>
+            <label>സഞ്ജയൻ:</label>
+            <item> എന്നെപ്പറ്റിയോ?
+</item>
+            <label>പ:</label>
+            <item> എന്താണു് താൻ ഇത്ര ആശ്ചര്യസ്വരത്തിൽ ചോദിക്കുന്നതു്? താനാരാണു്? ബോബിലിരാജാവോ മറ്റോ
+ആണോ? തന്നെപ്പറ്റി ആക്ഷേപിച്ചുകൂടെ?
+</item>
+            <label>സ:</label>
+            <item> എന്തുകാരണം കൊണ്ടാണുപോലും എന്നെ കുറ്റപ്പെടുത്തുന്നതു്?
+</item>
+            <label>പ:</label>
+            <item> തന്നെപ്പോലെ ഒരു വികൃതിയും, ഭാഗംപിടിയനും, ദുർമ്മാർഗ്ഗിയും, വിരസനും,
+സങ്കുചിതമനസ്ഥിതിക്കാരനും, നിർലജ്ജനും, അഹങ്കാരിയും, അധികപ്രസംഗിയും, അസൂയക്കാരനും
+ഏഷണിപറയുന്നവനും, കലഹപ്രിയനും, സജ്ജനദ്വേഷിയും ദുർജ്ജനസഹായിയും, മത്സരിയും, മദാന്ധനും
+ലോകത്തിലില്ലെന്നാണു് പറയുന്നതു്.
+</item>
+            <label>സ: </label>
+            <item>നിങ്ങൾ അതൊക്കെ വിശ്വസിച്ചുവോ?
+</item>
+            <label>പ:</label>
+            <item> ഇല്ല; ഇതൊക്കെ പറയുന്നവൻ തന്നേക്കാൾ കുറച്ചധികം ഇങ്ങനെയൊക്കെ ഉള്ളവരായതുകൊണ്ടു്
+മുഴുവനും വിശ്വസിച്ചിട്ടില്ല. ഏതായാലും താൻ സൂക്ഷിക്കണം. ആട്ടെ. ഇന്നെന്താണു് കൊണ്ടുവന്നിരിയ്ക്കുന്നതു്?
+</item>
+            <label>സ:</label>
+            <item> ഒരു പാന.
+</item>
+            <label>പ:</label>
+            <item> പാനയോ?
+</item>
+            <label>സ:</label>
+            <item> അതെ.
+</item>
+            <label>പ:</label>
+            <item> ആരെയൊക്കെ ശകാരിച്ചിട്ടുണ്ടു്?
+</item>
+            <label>സ:</label>
+            <item> ഒരാളെയും ശകാരിച്ചിട്ടില്ല. ഉണ്ടെന്നു തോന്നുന്നുണ്ടെങ്കിൽ അതു് വെറും മായകൊണ്ടാണു്. ഇതിന്റെ
+ആന്തരാർത്ഥം മുഴുവൻ ഈശ്വരസ്തുതിയാണു്. ഞാൻ വായിക്കാം. </item>
+          </list>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p style="noindent">
+</p>
+          <p>[അനന്തരം സഞ്ജയൻ നിലത്തു പുല്ലുപായിൽ നിലവിളക്കിന്നു മുമ്പിലിരുന്നു. ഒരു പഴയ പിച്ചളക്കൂടുള്ള കണ്ണട
+നൂലുകൊണ്ടു് തലയുടെ പിൻവശത്തു ബന്ധിച്ചു. പുതുമഴക്കാലത്തെ ഭേകന്റെ സ്വരത്തിൽ വായിയ്ക്കുന്നു.]
+</p>
+          <lg>
+            <l> കീർത്തിയൊന്നിലേ മർത്ത്യന്നു പാർത്തലേ</l>
+            <l> പൂർത്തിയാകാത്ത മോഹം വളരുന്നു:</l>
+            <l> കൗൺസിലർക്കൊരു ചേയർമാനാവണം;</l>
+            <l> കൗൺസിൽച്ചേർമാന്നസംബ്ലിയിൽപ്പോകണം,</l>
+            <l> മെമ്പറായാൽ മതിയല്ലെനിക്കിനി,</l>
+            <l> മുമ്പനായ പ്രസിഡണ്ടുമാകണം;</l>
+            <l> വീണ്ടുമെന്നെത്തിരഞ്ഞെടുത്തീടുവാൻ</l>
+            <l> വേണ്ടും വേലകളോരോന്നു ചെയ്യണം;</l>
+            <l> വോട്ടർമാരുടെ പട്ടികയിൽച്ചില</l>
+            <l> മാറ്റമൊക്കെ വരുത്തിവെച്ചീടണം. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> ആരാണിങ്ങിനെ ചെയ്തതു്?
+</item>
+              <label>സഞ്ജയൻ:</label>
+              <item> എന്തൊരു കുഴക്കാണീശ്വരാ ഇതു്! ഇതൊക്കെ വെറും “ഇമാജിനേഷ”നാണു്, സർ! കവിത നിങ്ങളുടെ
+രാജ്യത്തുകൂടി പോയിട്ടില്ലെന്നു തോന്നുന്നല്ലോ!
+</item>
+              <label>പ:</label>
+              <item> മതി, മതി. വായിക്കൂ. </item>
+            </list>
+          </p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>
+            <list type="gloss">
+              <label>സഞ്ജയൻ:</label>
+              <item> </item>
+            </list>
+          </p>
+          <lg>
+            <l> വോട്ടിന്നായി ശ്രമിയ്ക്കണം തമ്പാന്നു;</l>
+            <l> വോട്ടു നല്കിടുമാറോന്നു ഞാൻ ദൃഢം;</l>
+            <l> കൊല്ലങ്കോടിനുവേണ്ടി നടക്കണം</l>
+            <l> (തെല്ലുപോലും ഗ്രഹിയ്ക്കരുതാരുമേ);</l>
+            <l> ഷൺമുഖത്തിനെ പഞ്ചാസ്യനാക്കണം. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> എന്നുവെച്ചാൽ?
+</item>
+              <label>സഞ്ജയൻ:</label>
+              <item> പഞ്ചാസ്യൻ = സിംഹം. സിംഹത്തെപ്പോലെ കീർത്തിമാനാക്കണം എന്നർത്ഥം. </item>
+            </list>
+          </p>
+          <lg>
+            <l> വെൺമതിപോലെ ശോഭിതനാക്കണം;</l>
+            <l> പത്രത്തിൽച്ചിലതെല്ലാമെഴുതണം,</l>
+            <l> സൂത്രത്തിൽപ്പല ബാണമയക്കണം,</l>
+            <l> സാഹിത്യപരിഷത്തു തുലയ്ക്കണം;</l>
+            <l> സാഹിതീകാരനെന്നു നടിയ്ക്കണം;</l>
+            <l> രാവണായനമൊന്നഴുതീടണം;</l>
+            <l> രാമദേവന്റെ കീർത്തി കുറയ്ക്കണം;</l>
+            <l> ഇത്ഥമോരോന്നു ചിന്തിച്ചിരിയ്ക്കവേ,</l>
+            <l> ചത്തുപോകുന്നു പാവം! ശിവ, ശിവ! </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> ഇതു് ജ്ഞാനപ്പാനയിലുള്ളതല്ലേ?
+</item>
+              <label>സഞ്ജയൻ:</label>
+              <item> ജ്ഞാനപ്പാന നിങ്ങളുടെ പകർപ്പവകാശമാണോ? അന്യരുടെ വരികൾ മോഷ്ടിച്ച കവികളുടെ
+പേരുകൾ നിങ്ങൾക്കു കേൾക്കണോ?
+</item>
+              <label>പ:</label>
+              <item> വേണ്ട. </item>
+            </list>
+          </p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>
+            <list type="gloss">
+              <label>സഞ്ജയൻ:</label>
+              <item> ഇങ്ങനെയൊക്കെയാണു് ആളുകളുടെ ചിന്തകൾ: എനി അവരുടെ പ്രവർത്തികളെക്കുറിച്ചു കുറച്ചു
+പ്രസ്താവിക്കാം. </item>
+            </list>
+          </p>
+          <lg>
+            <l> ഊരുമാറി വസിക്കുന്നിതു ചിലർ;</l>
+            <l> പേരുമാറ്റി നടക്കുന്നിതു ചിലർ;</l>
+            <l> ഹിന്ദുധർമ്മത്തെപ്പുച്ഛിച്ചു പുച്ഛിച്ചു</l>
+            <l> ജന്തുധർമ്മവും വിസ്മരിപ്പൂ ചിലർ;</l>
+            <l> ഈശനെത്തന്നെ ബ്ലീച്ചടിപ്പിക്കുവാ-</l>
+            <l> നാശയാർന്നു നടക്കുന്നിതു ചിലർ;</l>
+            <l> സോഷ്യലിസ്റ്റെന്നു ഭാവിച്ചു ഗർവിച്ചു</l>
+            <l> റഷ്യനോക്കി നടന്നിടുന്നൂ ചിലർ;</l>
+            <l> കള്ളസ്സന്യാസി താനെന്ന സംതൃപ്തി-</l>
+            <l> യുള്ളിൽവെച്ചു നടക്കുന്നിതു ചിലർ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> ഇതിൽ ആരെയോ കൊള്ളിച്ചിട്ടുണ്ടു്.
+</item>
+              <label>സഞ്ജയൻ:</label>
+              <item> ഈശ്വരനാണേ, ഇല്ല. ഞാൻ കണ്ണടച്ചു് എറിഞ്ഞതാണു്. പക്ഷേ, ചിലരുടെയെല്ലാം മർമ്മത്തിൽ
+കൊണ്ടിട്ടുണ്ടായിരിക്കും. അതിനു് ഞാനാണോ ഉത്തരവാദി? </item>
+            </list>
+          </p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <lg>
+            <l> രാത്രി വോട്ടു തിരഞ്ഞു നടക്കയാ-</l>
+            <l> ലത്ര കൂപത്തിൽച്ചാടുന്നിതു ചിലർ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> വാസ്തവമാണോ?
+</item>
+              <label>സഞ്ജയൻ:</label>
+              <item> മുള്ളിയാംകുറിശ്ശി അംശത്തിൽ രാത്രിയിൽ നടന്നിരുന്ന ഒരു സബ്ബ് ഏജണ്ട് തപ്പിത്തടഞ്ഞു് ഒരു
+പൊട്ടക്കിണറ്റിൽ വീഴുകയും, ആളുകളൊക്കെ ഓടിയെത്തി പിടിച്ചുകയറ്റുകയും ചെയ്തു എന്നു നിങ്ങളുടെ വള്ളുവനാടു്
+ലേഖകൻ എഴുതിയതു വായിച്ചുനോക്കാതെയാണോ നിങ്ങൾ പ്രസ്സിലേയ്ക്കയച്ചതു്?
+</item>
+              <label>പ:</label>
+              <item> അധികപ്രസംഗം പറയേണ്ട.
+</item>
+              <label>സ:</label>
+              <item> ശരി. </item>
+            </list>
+          </p>
+          <lg>
+            <l> മറ്റു ജോലികളില്ലാത്ത കാരണാൽ</l>
+            <l> ടെൿസ്റ്റ്ബുക്കു ചമയ്ക്കുന്നിതു ചിലർ.</l>
+            <l> സൂത്രത്തിൽച്ചില വാർത്തകൾ സൃഷ്ടിച്ചു</l>
+            <l> പത്രലേഖനവൃത്തി ചെയ്വൂ ചിലർ;</l>
+            <l> രണ്ടുനാലു ദിനംകൊണ്ടൊരുദ്യോഗ-</l>
+            <l> മണ്ടയിൽച്ചെന്നു കേറിയിരിക്കയാൽ,</l>
+            <l> പണ്ടുപണ്ടുള്ള ചങ്ങാതിമാരെത്താൻ</l>
+            <l> കണ്ടില്ലെന്നു നടിക്കുന്നിതു ചിലർ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="center">⋄ ⋄ ⋄</p>
+          <lg>
+            <l> കൗൺസിൽദ്രവ്യത്തെ ഭക്ഷിക്കഹേതുവായ്</l>
+            <l> മൻസുഖമെന്ന്യേ വാഴുന്നിതു ചിലർ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>
+            <list type="gloss">
+              <label>പത്രാധിപർ:</label>
+              <item> “മൻസുഖ”മോ?
+</item>
+              <label>സഞ്ജയൻ:</label>
+              <item> അതെ, ഇതു പോയറ്ററിയാണു്; പ്രോസല്ല. ഞങ്ങൾക്കു്—കവികൾക്കു്—പത്രാധിപന്മാർക്കില്ലാത്ത
+ചില ലൈസൻസൊക്കെയുണ്ടു്.
+</item>
+              <label>പ:</label>
+              <item> ശരിയാണു്; പക്ഷേ, ലേഖകന്മാർക്കില്ലാത്ത ചില സ്വാതന്ത്ര്യങ്ങൾ
+ഞങ്ങൾക്കും—പത്രാധിപന്മാർക്കും—ഉണ്ടു്. ആ സ്വാതന്ത്ര്യമുപയോഗിച്ചു പലർക്കും അപകീർത്തികരങ്ങളായ
+പ്രസ്താവങ്ങൾ അടങ്ങിയ ഈ പാനയുടെ ബാക്കിഭാഗം ഉപേക്ഷിക്കേണ്ടിവന്നതിൽ “ഞങ്ങൾ നിർവ്യാജം
+വ്യസനിക്കുന്നു.” </item>
+            </list>
+          </p>
+          <p>                                                                   4-11-’34
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sanjayante pana (ml: സഞ്ജയന്റെ
+“പാന”).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-12-27. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, Sanjayante
+pana, സഞ്ജയൻ, സഞ്ജയന്റെ പാന, Open Access Publishing, Malayalam, Sayahna Foundation,
+Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 19, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Juan_Gris.jpg">The
+Guitar,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Juan_Gris">Juan Gris</ref>
+ (1887-1927). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  KB Sujith.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-pana.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-pana.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

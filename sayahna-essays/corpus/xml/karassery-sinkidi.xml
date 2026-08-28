@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ശിങ്കിടി</title>
+          <title xml:lang="en" type="main">Sinkidi</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">September 26, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ശിങ്കിടി</title>
+              <title xml:lang="en" type="main">Sinkidi</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Sinkidi</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ശിങ്കിടി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 26, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Pierrot_and_Harlequin.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_Pierrot_and_Harlequin.JPG">Pierrot and Harlequin,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Paul_C%C3%A9zanne">Paul
+Cézanne</ref>  (1839–1906). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ശിങ്കിടി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ശിങ്കിടി</head>
+        <div type="lsection">
+          <p style="noindent">പണ്ടുള്ളവർ പറയും, ‘നാക്കുള്ളവനു് നാട്ടിൽ പാതി’ എന്നു്. നാട്ടിൽ പാതി കിട്ടാൻ
+നാക്കു് കൊണ്ടു നിങ്ങൾ ചെയ്യേണ്ട പ്രവൃത്തി എന്തു്?
+</p>
+          <p>നാക്കു് നക്കാനുള്ളതാണു്! കാലുനക്കുന്ന നാക്കുകൊണ്ടേ നേടാൻ കഴിയൂ. ഏതു കാലാണു് നക്കേണ്ടതു്
+എന്നല്ലേ? ഏതു കാലുമാവാം കാര്യം കാണാനാണല്ലോ; കഴുതക്കാലു വരെയാവാം. സന്ദർഭം നോക്കി നക്കുന്ന
+കാലും മാറ്റണം! അത്തരം പ്രായോഗികബുദ്ധി കൈമുതലായി ജീവിക്കുന്നവന്റെ പേരാകുന്നു “ശിങ്കിടി”.
+</p>
+          <p>കഥകളിയിലെ പിൻപാട്ടുകാരനെ ‘പൊന്നാനി’ എന്നു വിളിക്കുന്നു. അയാൾ പാടുന്നതു് ഏറ്റുപാടുന്നവനെ
+‘ശിങ്കിടി’ എന്നും. ആ ശിങ്കിടിയാണു് കാലക്രമത്തിൽ ശിങ്കിടിയായതു്. ശിങ്കിടി മലബാറുകാരനാണു്. ഇലത്താളം
+അഥവാ കൈമണി മുട്ടിപ്പാടുന്ന ഇയാളെ തിരുവിതാംകൂറിൽ ‘കൈമണി’ എന്നു വിളിക്കും. ആ വഴിക്കാണു്
+ശിങ്കിടിയും കൈമണിയും ഇരട്ടപെറ്റവരായതു്. ശിങ്കിടിത്തരം നമ്മുടെ നാട്ടിൽ ‘ശ്ശി’ കൂടും. ഇന്നു് ഈ ഏർപ്പാടിന്റെ
+പേരു് പറയൽ, സോപ്പിടൽ, വെണ്ണയിടൽ, ഓയിലിംഗ് എന്നൊക്കെ മാറിയിട്ടുണ്ടെന്നു മാത്രം.
+</p>
+          <p>പഴയ കാലത്തു് നമ്മുടെ രാജാക്കന്മാരുടെ പ്രധാന ഉത്തരവാദിത്തങ്ങളിലൊന്നു് വൈതാളികന്മാരുടെ
+മുഖസ്തുതി കേട്ടു് ആനന്ദിക്കുകയായിരുന്നു. സ്തുതിപാടൽ കുലത്തൊഴിലായി സ്വീകരിച്ച സൂതൻ എന്നൊരു ജാതി
+തന്നെ നമ്മുടെ നാട്ടിലുണ്ടായിരുന്നു! രാജകൊട്ടാരത്തിലെ മഹാകവികളുടെ സർഗ്ഗശ്ശേഷി ഏറെയും ഈ വഴിക്കു്
+ചെലവായിപ്പോയി. പക്ഷേ, അന്നു് ഇതൊരു വൺവേ ഏർപ്പാടായിരുന്നു. എല്ലാവരും രാജാവിനെ സ്തുതിക്കും
+രാജാവു് ആരെയും സ്തുതിക്കേണ്ടതില്ല. ഇന്നു സ്ഥിതി കുറെക്കൂടി ദയനീയമാണു് പരസ്പരം മുഖസ്തുതി പറയുന്ന
+“ശിങ്കിടിഗ്രൂപ്പു”കൾക്കിടയിലാണു് നാം ജീവിക്കുന്നതു്. ഒരേ രാഷ്ട്രീയപ്പാർട്ടിയിൽ നിലനില്ക്കുന്ന ലോബികളും
+ഗ്രൂപ്പുകളും ഇതിനു ഉദാഹരണമാണു്. പരസ്പരം ഉദ്ധരിച്ചും ഉദാഹരിച്ചും പരാമർശിച്ചും സാഹിത്യകാരന്മാരുടെ
+ക്ലിക്കുകൾ നടത്തുന്ന കളി ഈ തന്ത്രമാണു്. സർവ്വകലാശാലകളിലും അക്കാദമികളിലും
+പത്രമാസികകളിലുമൊക്കെ ഇന്നു ശിങ്കിടിശല്യം കൂടിയിരിക്കുന്നു. കച്ചവടക്കാരും കാശുകാരും സ്ഥലത്തെ
+പ്രധാനചികിത്സകന്മാരും സിംഹപ്രതാപത്തോടെ നടത്തുന്ന ക്ലബ്ബുകളിൽ മുഖസ്തുതിയുടെ ഈ ചക്രഗതികാണാം.
+</p>
+          <p>ഇവിടെ ഒരു കാര്യംകൂടി ശ്രദ്ധേയമായിരിക്കുന്നു: പഴയ രാജാക്കന്മാരിൽ പലരും മുഖസ്തുതിക്കാരെക്കാൾ
+വിലമതിച്ചിരുന്നതു് കളിയാക്കലും വിമർശനവും ഒന്നിച്ചുനടത്തിയിരുന്ന ആ വിദൂഷകനെയാണു്. ഒരു കൊട്ടാരം
+വിദൂഷകനെയോ, ഒരു ചാക്യാരെയോ ഇന്നത്തെ നമ്മുടെ എത്ര ഭരണാധികാരികൾ സഹിക്കും?
+</p>
+          <p>ഇന്നത്തെ രാജാക്കാന്മാർക്കു് അവരെയൊന്നും കൺവെട്ടത്തു കണ്ടുകൂടാ. കാർട്ടൂൺ കാണാനുള്ള ശേഷി
+പോലും മിക്കവർക്കും ഇല്ല. “യെസ്സ് മൂളുന്നതു” മാത്രമേ അവർക്കു് കേൾക്കേണ്ടൂ.
+</p>
+          <p>ശിങ്കിടിത്തരമില്ലാത്ത വല്ലവരും എങ്ങാനും ഉണ്ടെങ്കിൽ അവരെ നിശ്ശബ്ദരാക്കിക്കളയുന്ന മട്ടിലാണു്
+ഭരണാധിപന്മാരും രാഷ്ട്രീയനേതാക്കന്മാരും അധികാരം നടത്തുന്നതു്. നമ്മുടെ നാട്ടിൽ എല്ലാ പാർട്ടികളും
+ജനാധിപത്യത്തിനുവേണ്ടി നിലകൊള്ളുന്നു. എന്നാൽ അവയിൽ മിക്കതിനകത്തും ജനാധിപത്യം മാത്രമില്ല!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kunhunnimash.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞുണ്ണി</figDesc>
+          </figure>
+          <p> അതുകൊണ്ടുതന്നെ ശിങ്കിടികൾ ഇന്നു് അവരുടെ ഏറ്റവും വലിയ മേഖലയായി രാഷ്ട്രീയത്തെ
+മനസ്സിലാക്കിയിരിക്കുന്നു. ശിങ്കിടിത്തരവുമായി നിങ്ങൾ എവിടെ വിജയിച്ചില്ലെങ്കിലും രാഷ്ട്രീയത്തിൽ വിജയിക്കും.
+ദേശീയതലത്തിലും പ്രാദേശികതലത്തിലും ഇതിനു ഉദാഹരണങ്ങൾ എത്രയെങ്കിലും ഉണ്ടു്.
+</p>
+          <p>ശിങ്കിടിരാഷ്ട്രീയത്തിന്റെ ഇരയായിത്തീർന്ന പലരുമുണ്ടു്. ഇങ്ങനെ ഇരകളാക്കപ്പെടുന്നവർക്കു് ഇല്ലാത്ത വമ്പും
+വീമ്പുമൊക്കെ ചുറ്റുമുള്ള ശിങ്കിടികൾ വിളിച്ചുപറയും. കേൾക്കുന്ന നേതാവു് വിശ്വസിച്ചുപോവുകയും ചെയ്യും. നമ്മുടെ
+<ref target="https://ml.wikipedia.org/wiki/Kunhunni_Mash">കുഞ്ഞുണ്ണി</ref> ക്കവി
+
+പണ്ടേ പാടുകയുണ്ടായല്ലോ:</p>
+          <lg>
+            <l> കൊതുകിനെക്കൊല്ലുവാനെന്തുനല്ലു?</l>
+            <l> ‘ഗരുഡരേ’യെന്നു വിളിച്ചുനോക്കൂ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഈ വസ്തുത എല്ലാ ശിങ്കിടികൾക്കും കാണാപ്പാഠമാണു്. അവർ ഏതുകൊതുകിനെയും ‘ഗരുഡരേ’
+എന്നുതന്നെ വിളിക്കുന്നു.
+</p>
+          <p style="noindent">ശിങ്കിടി വിലമതിക്കുന്നതു നിങ്ങളെയല്ല, നിങ്ങൾ ഇരിക്കുന്ന കസേരയെയാണു്.
+അതിൽ ആരു് വന്നിരിക്കുന്നു. ആരു് അവിടെ നിന്നു ഇറങ്ങിപ്പോവുന്നു എന്നുള്ളതു് താരതമ്യേന അപ്രധാനമാണു്.
+കസേരയാണു് തഥ്യ! കേവലസത്യം! അവർ സ്നേഹിക്കുന്നതു് വ്യക്തി എന്ന മിഥ്യയെയല്ലെന്നു് ചുരുക്കം.
+</p>
+          <p>മലബാറിലെ മാപ്പിളമാർ പറയാറുണ്ടു്: അരിശമുള്ളേടത്തേ പിരിശമുള്ളു—ദേഷ്യമുള്ളേടത്തു് മാത്രമേ പ്രിയം
+ഉള്ളു എന്നർത്ഥം. ശിങ്കിടിക്കു് നിങ്ങളെ പിരിശമില്ലാത്തതുകൊണ്ട് നിങ്ങളുടെ ഒരു പ്രവൃത്തിയിലും അയാൾക്കു്
+അരിശം വരില്ല. അയാൾ ‘എല്ലാം മഹത്തരം’ എന്നൊരു പുഞ്ചിരിയോടെ നോക്കിയിരിക്കുന്നു. വല്ല അഭിപ്രായവും
+ചോദിച്ചു പോയാൽ, മുഖസ്തുതികൊണ്ടു് അയാൾ നിങ്ങളെ കിക്കിളിയാക്കും. നിങ്ങൾ ചിരിക്കുന്നു. അയാളും
+ചിരിക്കുന്നു. അയാൾ ചിരിക്കുന്നതു് നിങ്ങളെ തോല്പിച്ച ചിരിയാണു്!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Shakespeare.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷേക്സ്പിയർ</figDesc>
+          </figure>
+          <p> ഇതൊക്കെയാണെങ്കിലും മുഖസ്തുതി എല്ലാവർക്കും ഇഷ്ടമാണു്. ബുദ്ധിയുള്ള മിക്കവരും മുഖസ്തുതി
+ഇഷ്ടമല്ലെന്നു് ഭാവിക്കാറുണ്ടു്. അവരെ വീഴ്ത്താൻ ശിങ്കിടികൾ കുറച്ചുകൂടി മെനക്കെടണം എന്നേയുള്ളു. ‘അങ്ങു്
+മുഖസ്തുതിയിൽ വീഴുന്നവനല്ലെന്നു് അറിയാം’ എന്നു് പറഞ്ഞിട്ടാണു് <ref target="https://ml.wikipedia.org/wiki/William_Shakespeare">ഷേക്സ്പിയറു</ref>
+ടെ “<ref target="https://ml.wikipedia.org/wiki/Julius_Caesar_play">ജൂലിയസ്
+സീസറി</ref> ”ൽ ഗൂഢാലോചനക്കാർ സീസറെ മുഖസ്തുതിയിൽ വീഴ്ത്തുന്നതു്! ബുദ്ധിമാന്മാർക്കുള്ള ഒരപകടം
+അവർക്കെപ്പോഴും അവരവരെപ്പറ്റി വളരെ നല്ല അഭിപ്രായമായിരിക്കും എന്നതാണു്. മറ്റേവൻ മൂളുന്നതു് അവന്റെ
+ശിങ്കിടിത്തരം കൊണ്ടല്ല. അവരവരുടെ യോഗ്യത കൊണ്ടാണു് എന്നു് അവർക്കു് വളരെ വേഗം തീർച്ചയാകും!
+‘എന്റെ മുഖത്തുനോക്കി മുഖസ്തുതി പറയാനും നുണ പറയാനും ലോകത്തിനു ധൈര്യം വരില്ല’ എന്നൊരു
+തീർപ്പിലാണു് മിക്ക മാന്യന്മാരും ഇരിക്കുന്നതു്. പറയുന്നതു ലോകമാണെങ്കിലും എന്റെ മുഖത്തേക്കായതുകൊണ്ട്
+മുഖസ്തുതിയും കളവും വരികയില്ലെന്നു്!
+</p>
+          <p>ശിങ്കിടത്തരത്തെ തിരിച്ചറിയാനുള്ള വിഷമങ്ങളിൽ പ്രധാനം ശിഷ്യത്വത്തിന്റെ കോലം കെട്ടിയാണു് അതു
+വരുന്നതു് എന്നതത്രെ. ഉപദേശനിർദ്ദേശങ്ങൾ ചോദിച്ചുവരുന്ന ആരെയും ആർക്കും പഥ്യമാണു്. ആ
+ഇഷ്ടത്തിലാണു് ഈ ശിങ്കിടി അവന്റെ ആദ്യത്തെ അടി വെയ്ക്കുന്നതു്. മറ്റു് രണ്ടു് അടികൾ വെച്ചുകഴിഞ്ഞു എന്നു
+മനസ്സിലാക്കുമ്പോഴേയ്ക്കു് നിങ്ങൾ പാതാളത്തിലെത്തിയിട്ടുണ്ടാവും.
+</p>
+          <p>ചില ശിഷ്യന്മാർ ചീഞ്ഞു് ശിങ്കിടികളാവാറുണ്ടെങ്കിലും ശിഷ്യന്മാരെല്ലാം ശിങ്കിടികളല്ല. ഗുരുഭൂതന്മാരിൽ പലരും
+ശിഷ്യനെ ശിങ്കിടിയായും ശിങ്കിടിയെ ശിഷ്യനായും തെറ്റിദ്ധരിക്കാറുണ്ടു്. ഇവർക്കിടയിൽ എങ്ങനെ ഒരതിരു് വരയ്ക്കും
+എന്നു ചോദിച്ചാൽ ഉത്തരം പറയാൻ പണി. ആത്മാർത്ഥത കണ്ടാൽ നിങ്ങൾക്കു് തിരിച്ചറിയാമോ? എങ്കിൽ
+ശിഷ്യനെ വേറെ അറിയാം ഇല്ലെങ്കിലോ, പറഞ്ഞിട്ടു് ഫലമില്ല. അതു് തിരിച്ചറിയണമെങ്കിൽ അവനവന്റെ ഉള്ളിലും
+ആത്മാർത്ഥത വേണം. പരിചയമില്ലാത്ത ഒന്നു് നാം കണ്ടാലറിയുമോ?
+</p>
+          <p>ചുറ്റും ശിങ്കിടികളുണ്ടോ എന്നു അറിയാൻ ഒരു മാർഗ്ഗമേയുള്ളൂ. ശ്രദ്ധിയ്ക്കുക: ഏതെങ്കിലും തരത്തിൽ ഇത്തിരി
+അധികാരമോ പണമോ പ്രസിദ്ധിയോ ഉള്ള ആളാണു് നിങ്ങളെങ്കിൽ, കൂടെ എപ്പോഴും ആളു് കാണും. ആ
+ആളുകൾ നിങ്ങൾ പറയുന്ന ചില്ലറ കാര്യങ്ങൾകൂടി “ബ്രാഹ്മാണ്ഡസത്യങ്ങളാ”യി എടുക്കുന്നുണ്ടോ? മറ്റുള്ളവർ
+പറഞ്ഞാൽ തമാശയാകാത്ത ഒരു കാര്യം പറയുന്നതു് നിങ്ങളാണു് എന്ന ഒറ്റകാര്യം കൊണ്ടു
+തമാശയാകുന്നുണ്ടോ? നിങ്ങളുടെ ചെറിയ കാര്യങ്ങളിൽപോലും വലിയ താല്പര്യം കാണിക്കുന്ന ആളുകളുടെ
+എണ്ണം കൂടിക്കൂടിവരികയാണോ? നിങ്ങളുടെ വാക്കും പ്രവൃത്തിയും ഒരിക്കലും വിമർശിക്കപ്പെടാതെ
+പോകുന്നുണ്ടോ? ഉണ്ടെങ്കിൽ ചുറ്റും കാണുന്ന പച്ചച്ചിരി ആ ശിങ്കിടിപ്പായലിന്റേതാണു്. അതു വന്നു് നിങ്ങളെ
+
+മൂടുംമുമ്പേ വല്ലതും ചെയ്തില്ലെങ്കിൽ—
+</p>
+          <p>ചെയ്തില്ലെങ്കിൽ എന്താണു് അപകടം എന്നല്ലേ? നിങ്ങളെ വാസ്തവത്തിൽ സ്നേഹിക്കുന്ന വല്ലവരുമുണ്ടെങ്കിൽ
+അവർ അകന്നു പോവും. ശിങ്കിടിയെക്കൊണ്ടുള്ള ഉപദ്രവം അവർ സ്വന്തം കാര്യം നേടുന്നു എന്നതല്ല. നിങ്ങളുടെ
+കാര്യങ്ങൾ കുളമാക്കുന്നു എന്നതാണു്. അവന്റെ കൈയിലെ പ്രധാനായുധം പരദൂഷണവും ഏഷണിയുമാണു് ഇതു്
+രണ്ടും ഉപയോഗിച്ചു് നിങ്ങളുടെ യഥാർത്ഥ സുഹൃത്തുക്കളെയും ശിഷ്യന്മാരെയും അകറ്റിയിട്ടാണു് അവൻ
+അടുക്കുന്നതു്. നിങ്ങൾ അവനെ സ്നേഹിക്കുന്നതിന്റെ പത്തിലൊന്നുപോലും അവൻ നിങ്ങളെ സ്നേഹിക്കുന്നില്ല. ആ
+അടുപ്പംകൊണ്ടു് നേടുന്നതു് അവനും നഷ്ടപ്പെടുന്നതു് നിങ്ങളുമായിരിക്കും.
+</p>
+          <p>തിരിച്ചറിയുംവരെ ശിങ്കിടിയെ കരുതിയിരിക്കാനാവില്ല. പക്ഷേ, മുഖസ്തുതിയെ കരുതിയിരിക്കാം. നിങ്ങളുടെ
+മുഖത്തുനോക്കി അഭിനന്ദനം വേണ്ടതിലേറെ വിസ്തരിച്ചും ആവർത്തിച്ചും പറയുന്ന ആരെയും സൂക്ഷിക്കണം.
+ആവശ്യത്തിലേറെ വിനയം കാണിക്കുന്നവനെപ്പറ്റി എപ്പോഴും ഒരു കണ്ണു് വേണം. കാരണം
+ആത്മാർത്ഥതയുള്ളവർക്കൊന്നും ഇത്തരം വികാരങ്ങൾ അങ്ങനെ കാറ്റത്തുവെയ്ക്കാനാവില്ല.
+</p>
+          <p>സ്വയം ശിങ്കിടിയാവാൻ ഇഷ്ടപ്പെടാത്തവർ കൂടി തനിക്കു് ശിങ്കിടികളുണ്ടാവുന്നതു് ഇഷ്ടപ്പെടുന്നു. കൂടുതൽ
+അപകടം ഈ രണ്ടാമത്തേതാണു് നിങ്ങൾ ശിങ്കിടിയായാൽ നഷ്ടപ്പെടുന്നതു വേറെ വല്ലവരുമായിരിക്കും.
+നിങ്ങൾക്കു് ശിങ്കിടികളുണ്ടായാലോ, നിങ്ങളുടെ കാര്യം പോയതുതന്നെ. നിങ്ങളെപ്പോലെ പത്താൾക്കു്
+മുങ്ങിച്ചാകാനുള്ള ചെളിക്കുണ്ടു് നിങ്ങളുടെ ശിങ്കിടികളിലൊരാൾക്കു് ഒറ്റയക്കു് ഉണ്ടാക്കാൻ കഴിയും.
+</p>
+          <p>മുഖസ്തുതി സുഖമാണു്; ലഹരിയാണു്—മദ്യംപോലെ അതും ശീലമാകും. അതും നിങ്ങളെ അടിമയാക്കും.
+പിന്നെ നിങ്ങൾക്കു് ഒരഭിപ്രായഭേദവും പൊറുപ്പിക്കാൻ പറ്റില്ല. പിന്നെ പുനരാലോചനയുടെ ആവശ്യമില്ല;
+സാദ്ധ്യവുമല്ല. നിങ്ങൾ ആലോചിച്ചും അല്ലാതെയും ചെയ്യുന്ന പ്രവൃത്തികളൊക്കെ ‘ലോകോത്തര’മായി
+വരുന്നുണ്ടല്ലോ! എതിരു് പറയാൻ ചുറ്റും ആരുമില്ല എന്ന ആലോചന തന്നെ എന്തൊരു സുഖമാണു്!
+</p>
+          <p>മുഖസ്തുതി പറയുന്നതു് ശീലമായിത്തീർന്നവരും ഉണ്ടു്. അവർക്കു് അതും ഒരു ലഹരി അവരിൽ പലപ്പോഴും
+ശിങ്കിടിത്തരം ജന്മവാസന പോലെ പ്രവർത്തിക്കുന്നതു കാണാം. മേലാവിനെ അവർ സ്വയം അറിയാതെ തന്നെ
+സ്തുതിച്ചുപോകും. അങ്ങനെയുള്ളവരെ കൂടുതൽ കരുതിയിരിക്കുക. മുകളിലുള്ളവനെ നക്കുകയും കീഴിലുള്ളവനെ
+ചവിട്ടുകയും എന്നതാണിവരിൽ മിക്കവരുടെയും ഏർപ്പാടു്. ഏതു ചെറിയ അധികാരത്തോടും അവർക്കു്
+വിധേയത്വമാണു്. ബസ്സിൽ കണ്ടക്ടരും യാത്രക്കാരനും തമ്മിൽ ഒരു കശപിശയുണ്ടായാൽ അവർ തെറ്റും ശരിയും
+നോക്കാതെ അല്പം അധികാരമുള്ള കണ്ടക്ടരുടെ ഭാഗം പറഞ്ഞു പോവും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_bernard_shaw.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ്ജ് ബർണാഡ് ഷാ</figDesc>
+          </figure>
+          <p> സേവപറച്ചിലിൽ അടങ്ങിയിരിക്കുന്ന അശ്ലീലം മലയാളിക്കു് വളരെ നേരത്തെ പിടികിട്ടിയിട്ടുണ്ടെന്നാണു്
+എന്റെ വിചാരം. കാരണം ഇവിടെ ഉദാഹരിക്കാൻ വയ്യാത്തവിധം അശ്ലീലമായ ഭരണിപ്പാട്ടിലെ ഓരോ
+വരിയേയും തുടർന്നുവരുന്നതു് “നേരാണേ അതു നേരാണേ” എന്നാണല്ലോ. തെറിപ്പാട്ടിലെ ഈ വരിയും
+അശ്ലീലമാണു്. മുൻ വരിയേക്കാൾ വലിയ അശ്ലീലം. തെറി കേട്ടാലുണ്ടാകുന്ന ക്ഷോഭം മുഖസ്തുതി കേട്ടാലും
+ഉണ്ടാകണം.
+</p>
+          <p>ആളുകൾ ശത്രുവിനെ വെറുക്കുന്നു, ശിങ്കിടിയെ ഇഷ്ടപ്പെടുന്നു. ശത്രുവിനെക്കാൾ നാശകാരിയാണു് ഈ
+ഇത്തിക്കണ്ണി എന്നു് അവർ മറന്നുപോകുന്നു. ഏതു ശത്രുവിനെയും നിങ്ങൾക്കു് കരുതിയിരിക്കാം. ശിങ്കിടിയോടു
+എന്തു നിവൃത്തി? അവൻ എപ്പോഴും എവിടെയും എന്നും നിങ്ങളോടൊപ്പമുണ്ടു്. നിങ്ങളുടെ ഒരു ഭാഗമാണവൻ
+എന്നു് നിങ്ങൾക്കു തന്നെയും തോന്നിപ്പോകുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Voltaire1.jpg" rendition="gra"/>
+            <figDesc style="thumb">വോൾട്ടയർ</figDesc>
+          </figure>
+          <p>ശത്രു നിങ്ങളുടെ തേജസ്സിനെ ഉജ്ജ്വലിപ്പിക്കുന്നു. ശത്രുവാണു് നിങ്ങളുടെ വലിപ്പം നിശ്ചയിക്കുന്നതു്.
+ചരിത്രത്തിലെ എല്ലാ മഹാന്മാർക്കും വലിയ ശത്രുക്കളും ഉണ്ടായിരുന്നുവല്ലോ. ശത്രു നിങ്ങളുടെ വ്യക്തിത്വത്തെ
+തട്ടിയുണർത്തുന്നവനാണു്. ആ വ്യക്തിത്വത്തെ മൂടിയുറക്കുന്നവനാണു് ശിങ്കിടി. ഇത്തരം “സുഹൃത്തുക്കളെ”
+പേടിച്ചാണു് <ref target="https://ml.wikipedia.org/wiki/Voltaire">വോൾട്ടയർ</ref>
+പ്രാർത്ഥിച്ചതു്: “ദൈവമേ എന്റെ സുഹൃത്തുക്കളിൽനിന്നു് എന്നെ രക്ഷിക്കേണമേ, ശത്രുക്കളെ ഞാൻ സ്വയം
+നേരിട്ടുകൊള്ളാം.”
+</p>
+          <p>ശത്രു നമ്മുടെ വ്യക്തിത്വത്തിന്റെ എതിരറ്റമാണു്. ശിങ്കിടിയാകട്ടെ, നമ്മുടെ വ്യക്തിത്വത്തിന്റെ
+വിസർജ്ജനവസ്തുവും.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/George_Bernard_Shaw">ജോർജ്ജ്
+ബർണാഡ് ഷാ</ref> ഈ ശിങ്കിടിയെ മാത്രമേ പേടിച്ചിട്ടുള്ളൂ. അതുകൊണ്ടു് അദ്ദേഹം തലയിൽ കൈവെച്ചു്
+നിലവിളിച്ചു:
+</p>
+          <p>“നിങ്ങൾ എന്നോടു് യോജിക്കുന്നു എന്നു പറയരുതേ. അതു കേൾക്കുമ്പോൾ ഞാൻ പറഞ്ഞതിൽ എന്തോ
+കാര്യമായ പിശകുണ്ടു് എന്നു തോന്നിപ്പോവുന്നു.”
+</p>
+          <p>
+ഹിജ്റ മാസിക: ഏപ്രിൽ 1982.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sinkidi (ml: ശിങ്കിടി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Sinkidi, എം. എൻ. കാരശ്ശേരി, ശിങ്കിടി, Open Access Publishing, Malayalam, Sayahna Foundation,
+Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 26, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_Pierrot_and_Harlequin.JPG">Pierrot and Harlequin,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Paul_C%C3%A9zanne">Paul
+Cézanne</ref>  (1839–1906). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-sinkidi.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-sinkidi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

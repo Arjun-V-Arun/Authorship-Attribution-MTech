@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കബീറിന്റെ ലഘുകവിതകൾ</title>
+          <title xml:lang="en" type="main">Kabeerinte Lakhukavithakal</title>
+        </title>
+        <author>K. Satchidanandan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">November 20, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കബീറിന്റെ ലഘുകവിതകൾ</title>
+              <title xml:lang="en" type="main">Kabeerinte Lakhukavithakal</title>
+            </title>
+            <author>K. Satchidanandan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-07-10</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>K. Satchidanandan</term>
+          <term>Kabeerinte Lakhukavithakal</term>
+          <term>കെ. സച്ചിദാനന്ദൻ</term>
+          <term>കബീറിന്റെ ലഘുകവിതകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-07-10</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/monument.jpg" width="100%"/>
+          <figDesc>monument in Bangladesh, a photograph by Md. Rushdul Kabir  .
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കബീറിന്റെ ലഘുകവിതകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. സച്ചിദാനന്ദൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapter" n="1" xml:id="chp1">
+        <head type="chaphead">കബീറിന്റെ ലഘുകവിതകൾ</head>
+        <div type="lsection">
+          <p style="noindent">പരിഭാഷ: സച്ചിദാനന്ദൻ
+</p>
+          <lg>
+            <l> ആദിഗ്രന്ഥത്തിൽ നിന്നു്:</l>
+            <l> കബീർ ഗ്രന്ഥാവലിയിലെ സാഖികൾ</l>
+            <l> ‘ബീജകി’ൽ നിന്നുള്ള സാഖികൾ </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 1.0/0.1"-->
+        <div type="lsection" xml:id="sec0.2">
+          <head type="lsechead">ആദിഗ്രന്ഥത്തിൽ നിന്നു്:</head>
+          <lg>
+            <l> 1</l>
+            <l> എന്റെ ജാതിപ്പേർ പറഞ്ഞു ചിരിക്കുന്നു</l>
+            <l> എല്ലാരു, മെന്നാൽ കബീർ ഞാൻ</l>
+            <l> എൻ ജാതി തൻ ബലിയാടായിയെങ്കിലും</l>
+            <l> എന്റെ സ്രഷ്ടാവിലെൻ ജീവൻ.</l>
+            <l> (കബീരാ മേരീ ജാതി കൌ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <lg>
+            <l> 2</l>
+            <l> ലോകം കരിക്കുഴി, വീഴുന്നതിലന്ധർ</l>
+            <l> നേരേ, അതിൽ പെട്ടവർക്കായ്</l>
+            <l> ഞാൻ രക്തസാക്ഷിയാം, എങ്കിലും ഞാൻ വരും</l>
+            <l> കേറിപ്പുറത്തേയ്ക്കു വേഗം.</l>
+            <l> (കബീരാ ജഗു കാജല കീ കോഠരീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-02.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 3</l>
+            <l> വേണ്ടഹങ്കാരം കബീർ,</l>
+            <l> തോൽ പൊതിഞ്ഞുള്ളൊ-</l>
+            <l> രെല്ലിന്റെ കൂടു മാത്രം നീ</l>
+            <l> വർണ്ണക്കുടയിൽ കുതിരപ്പുറത്ത് പോം</l>
+            <l> പൊണ്ണർ ഉടൻ ചേറ്റിലാഴും.</l>
+            <l> (കബീരാ ഗരഹു ന കീജിയായ്) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 4</l>
+            <l> പത്തിലൊന്നായ കടുകുമണി പോലെ</l>
+            <l> മോക്ഷത്തിലേയ്ക്കുള്ള വാതിൽ</l>
+            <l> മർത്ത്യമനസ്സോ ഒരാന പോൽ, സോദരാ,</l>
+            <l> അക്കതകെങ്ങിനെ താണ്ടും?</l>
+            <l> (കബീര മുകതി ദ്വാരാ സന്കൂരാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-03.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 5</l>
+            <l> വീണൂ മകൻ കമാൽ ജന്മമെടുത്ത നാൾ</l>
+            <l> താഴെ കബീറിൻ കുടുംബം:</l>
+            <l> താഴെയെറിഞ്ഞൂ ഹരി തൻ ജപമാല</l>
+            <l> വീടു നിറച്ചവൻ സ്വത്താൽ.</l>
+            <l> (ബൂഢാ ബംഗു കബീരാ കാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 6</l>
+            <l> ഹേ, കബീർ, നിൻ മരത്തിൽ തീർത്ത വീടിതാ</l>
+            <l> ആളുന്ന തീ തിന്നു തീർത്തൂ;</l>
+            <l> ജ്ഞാനികളൊക്കെയും വെന്തു പോയ്,</l>
+            <l> അജ്ഞാനി-</l>
+            <l> യായോർ പിടിച്ചു നിന്നല്ലോ!</l>
+            <l> (കബീര കോഠീ കാഠാ കീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-04.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 7</l>
+            <l> കഽബയിലേയ്ക്കു കബീർ പോയി ഹജ്ജിന്,</l>
+            <l> ആ വഴി ദൈവത്തെ കണ്ടൂ; </l>
+            <l> പോരിന്നു വന്നവൻ ചോദിച്ചു, ‘അങ്ങോട്ടു</l>
+            <l> പോകുവാനാരേപറഞ്ഞൂ?’</l>
+            <l> (കബിരാ ഹജ കാബേ ഹൌ ജായ് ഥാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 8</l>
+            <l> മുഷ്ക്കു കാട്ടുന്നോ, കബീർ, തെറ്റ്, ദൈവത്തി-</l>
+            <l> നുത്തരം നൽകിയേ തീരൂ</l>
+            <l> ചിത്രഗുപ്തൻ നിൻ കണക്കു നോക്കും, അടി</l>
+            <l> കിട്ടും കൊടുത്തത്ര തന്നെ.</l>
+            <l> (കബീരാ ജൊരു കിയാ സൊ ജൂലുമു ഹൈ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-05.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 9</l>
+            <l> ഇത്തരം വിത്തു വിതയ്ക്കൂ, നശിക്കാത്ത</l>
+            <l> വൃക്ഷം മുളയെടുക്കട്ടെ</l>
+            <l> നിത്യം തണൽ, ഫലം ധാരാളം, പക്ഷികൾ</l>
+            <l> എത്രയോ തത്തും ഇലകൾ.</l>
+            <l> (കബിരാ ഐസാ ബീജു സോയ്) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 10</l>
+            <l> കേൾക്കൂ സഖീ, എൻപ്രിയൻ എന്റെയുള്ളിലോ,</l>
+            <l> ഞാനെൻ പ്രിയനിലോ വാസം?</l>
+            <l> ഞാനാർ, പ്രിയനാർ, അറിവീല, എൻ മെയ്യിൽ</l>
+            <l> ആരാണ്, ഞാനോ പ്രിയനോ?</l>
+            <l> (സുനു സഖീ, പിയാ മഹിജീയു ബസയ്) </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 1.0/0.2"-->
+        <div type="lsection" xml:id="sec0.3">
+          <head type="lsechead">കബീർ ഗ്രന്ഥാവലിയിലെ സാഖികൾ</head>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-06.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <lg>
+            <l> 11</l>
+            <l> എന്റെയൊന്നുമെന്റെയല്ല</l>
+            <l> എന്റെയൊക്കെ നിന്റെ;</l>
+            <l> നിന്റെയൊക്കെ, പിന്നെ നിന-</l>
+            <l> ക്കെന്റെയെന്തു ബാക്കി?</l>
+            <l> (മേരാ മുഝാ മേം കിച്ചൂ നഹീം) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 12</l>
+            <l> ഏഴു കടലാകെ മഷി-</l>
+            <l> യായി രൂപം മാറ്റാം,</l>
+            <l> പേനയാക്കാം വൃക്ഷമൊക്കെ,</l>
+            <l> ഭൂമി കടലാസ്സും:</l>
+            <l> ദൈവഗുണമാകെയെന്നാൽ</l>
+            <l> ആവുകില്ലെഴുതാൻ. </l>
+            <l> (സാത സമുന്ദ കീ മസി കരൌ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-07.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 13</l>
+            <l> ഞാനുള്ളപ്പോഴില്ല ഹരി,</l>
+            <l> ഞാനില്ലെങ്കിലുണ്ട്</l>
+            <l> മാഞ്ഞു പോയീ ഇരുട്ടെല്ലാം</l>
+            <l> ആ വിളക്കു കാൺകെ.</l>
+            <l> (ജബ മേം ഥാ തബ ഹരി നഹീം) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 14</l>
+            <l> ഓ കബീർ, ഞാൻ മോശമെല്ലാ</l>
+            <l> മാനുഷരെക്കാളും; </l>
+            <l> മാനുഷരെല്ലാരുമെന്നെ-</l>
+            <l> ക്കാൾ ഗുണമിയന്നോർ:</l>
+            <l> ആർ മനസ്സിലാക്കുമി,താ</l>
+            <l> ആളെനിക്ക് മിത്രം. </l>
+            <l> (കബിരാ സബ തേ ഹമ്മാ ബുരെ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-08.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 15</l>
+            <l> ആർക്കുമേ തിരിയുകില്ലാ</l>
+            <l> എൻ കിഴക്കൻ പേച്ച്,</l>
+            <l> ആർക്കതു തിരിയുമോ ആ</l>
+            <l> ആൾ കിഴക്കൻ തന്നെ. </l>
+            <l> (ബോലീ ഹമരീ പൂരബീ) </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 1.0/0.3"-->
+        <div type="lsection" xml:id="sec0.4">
+          <head type="lsechead">‘ബീജകി’ൽ നിന്നുള്ള സാഖികൾ</head>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-24.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <lg>
+            <l> 16</l>
+            <l> നിൻ കരളിൽ കണ്ണാടിയൊ-</l>
+            <l> ന്നുണ്ടതിൽ നിൻ മോന്ത</l>
+            <l> കണ്ടാലാകാ സഹിക്കാൻ, നിൻ</l>
+            <l> സംശയം മാറാതെ. </l>
+            <l> (ഹൃദയാ ഭീതം ആരസീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-09.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 17</l>
+            <l> പണ്ഡിതന്മാർ പോയ വഴി</l>
+            <l> പാമരർ നിരന്നൂ,</l>
+            <l> രാമനായ് കബീർ കയറും</l>
+            <l> കുത്തനെയീക്കേറ്റം. </l>
+            <l> (ജെഹി മാരഗാ ഗയെ പണ്ഡിതാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 18</l>
+            <l> കണ്ടതില്ലാ ഹൃദയമി-</l>
+            <l> ല്ലാത്തവനാ നാട്;</l>
+            <l> എങ്കിലും അതേക്കുറിച്ചാ-</l>
+            <l> ണെപ്പൊഴും പറച്ചിൽ</l>
+            <l> ഉപ്പു തിന്നേ കഴിയുന്നൂ</l>
+            <l> വിറ്റിടുന്നു പക്ഷേ</l>
+            <l> മറ്റുള്ളോർക്കു കർപ്പൂരം, ഒ-</l>
+            <l> രൽപ്പം കാശു നേടാൻ. </l>
+            <l> (ബിന ദേഖേ വഹ ദേശ കീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-10.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 19</l>
+            <l> ചന്ദനമിതെന്തു ചെയ്യാൻ,</l>
+            <l> പാമ്പതിനെച്ചുറ്റീ,</l>
+            <l> എങ്ങുമേ വിഷം കയറി</l>
+            <l> എങ്ങമൃതു കേറാൻ?</l>
+            <l> (ചന്ദന സർപ്പ ലപേട്ടിയാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 20</l>
+            <l> നേരു നെഞ്ചിലുള്ളവരേ</l>
+            <l> നല്ലവർ, നേരില്ലാ-</l>
+            <l> താവുകിലാഹ്ലാദമെങ്ങ്!</l>
+            <l> വേറെ വഴിയെത്ര</l>
+            <l> കോടി തേടിയാലുമതു</l>
+            <l> പാഴിലാവും തീർച്ച.</l>
+            <l> (സഭ തെ സാഞ്ചാ ഹൈ ഭലാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-11.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 21</l>
+            <l> ചെയ്തിയെല്ലാമുള്ളിലിട്ടു</l>
+            <l> നല്ല പോൽ മഥിക്ക:</l>
+            <l> നേരു മാത്രം പ്രവർത്തിക്ക</l>
+            <l> വേരിലേ വിപത്താം</l>
+            <l> നേരുകേട്, നേടുക നീ</l>
+            <l> സത്യമെന്ന രത്നം.</l>
+            <l> (സാഞ്ചാ സൌദാ കീജിയേ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 22</l>
+            <l> തുള്ളി ചേരും കടലിലെ-</l>
+            <l> ന്നില്ലറിയാതാരും;</l>
+            <l> തുള്ളിയിൽ ചേരും കടലെ-</l>
+            <l> ന്നില്ലറിവോരെറെ.</l>
+            <l> (ബൂന്ദ ജോ പഡാ സമുദ്ര മേം) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-12-new.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 23</l>
+            <l> നാവടക്കാനാകാത്തോന്റെ</l>
+            <l> കൂടെ നടക്കല്ലേ, </l>
+            <l> നേരു നെഞ്ചിലില്ലാത്തവൻ</l>
+            <l> മാരകമായ് തീരും</l>
+            <l> നീ നടത്തും യാത്രയൊട്ടു</l>
+            <l> തീരുവതിൻ മുൻപേ. </l>
+            <l> (ജാകേ ജിഭ്യാ ബന്ദ് നഹീം) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 24</l>
+            <l> കുരങ്ങുകളിക്കാരന്റെ</l>
+            <l> കുരങ്ങിനെപ്പോലെ</l>
+            <l> മനുഷ്യന്റെ മനസ്സ,വൻ</l>
+            <l> അതു തോളിൽ വെയ്ക്കും,</l>
+            <l> കളിപ്പിക്കും ജനങ്ങൾക്കായ്</l>
+            <l> കളിയാട്ടമൊക്കെ.</l>
+            <l> (ബാജീഗര കാ ബാന്ദരാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-13.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 25</l>
+            <l> മായയും മനസ്സുമൊന്നേ</l>
+            <l> ചേരുമൊന്നിൽ മറ്റേ,-</l>
+            <l> താരൊടിതു ചൊല്ലാൻ, മായ</l>
+            <l> മൂന്നുലകും മുക്കീ. </l>
+            <l> (മന മായാ തോ ഏക് ഹൈ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 26</l>
+            <l> ദുഷ്കരം മനുഷ്യജന്മം</l>
+            <l> കിട്ടു,കിരുവട്ടം</l>
+            <l> കിട്ടുകില്ല, വീണ പഴം</l>
+            <l> പോകുമോ മരത്തിൽ?</l>
+            <l> (മാനുഖ ജനമ ദുരലഭ ഹൈ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-14.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 27</l>
+            <l> ആട്ടുകല്ലു തിരിയുമ്പോൾ</l>
+            <l> കൺ നിറയെക്കണ്ണീർ,</l>
+            <l> ആർക്കു പറ്റും അരയാത-</l>
+            <l> ക്കല്ലിൽ നിന്നു ചാടാൻ? </l>
+            <l> (ചക്കീ ചലത്തി ദേഖികെ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 28</l>
+            <l> യജ്ഞഹവിസ്സായ് മരിക്കും </l>
+            <l> നെയ്യു തരും പാല്:</l>
+            <l> നാലു വേദമിതാ കബീർ</l>
+            <l> ഒറ്റ വാക്യമാക്കീ. </l>
+            <l> (ബലിഹാരി വഹി ദൂധാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-15.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 29</l>
+            <l> പോയ് വലിയോർ അഹന്തയിൽ</l>
+            <l> രോമമെല്ലാം ചീർത്ത്;</l>
+            <l> ആരറിയുന്നില്ല സർവ്വ-</l>
+            <l> നാഥനെ, യാരാട്ടെ</l>
+            <l> നാലുവർണ്ണക്കാരുമവർ</l>
+            <l> കേവലമസ്പൃശ്യർ.</l>
+            <l> (ബഡേ ഗയേ ബഡാപ്പനേ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 30</l>
+            <l> എല്ലു കത്തും മരം പോലെ,</l>
+            <l> പുല്ലുപോലെ രോമം, </l>
+            <l> വീട്ടിൽ തിരി പോലെ കത്തും </l>
+            <l> രാമനിൽ കബീറും. </l>
+            <l> (ഹാഡ ജരയ് ജസ ലാകഡീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-16.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 31</l>
+            <l> അറിവ് മുന്നിൽ, അറിവ് പിന്നിൽ</l>
+            <l> അറിവിടം വലത്തും.</l>
+            <l> അറിവതെന്തെന്നറിയുമറി-</l>
+            <l> വതു താനെനിക്കറിവ്. </l>
+            <l> (ഫഹമ ആഗെ ഫഹമ പാഛേ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 32</l>
+            <l> അതിരിനുള്ളിൽ കഴിയുവോനേ</l>
+            <l> നരൻ, അതിരില്ലാത്തോൻ</l>
+            <l> ഋഷി, അവനില്ലതിരുകേടും:</l>
+            <l> ആഴമേറും ചിന്ത.</l>
+            <l> (ഹഡ ചലെ സോ മാനവാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-17.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 33</l>
+            <l> എന്നെയറിയുന്നവനേ</l>
+            <l> ഞാനറിയുന്നോനും;</l>
+            <l> വയ്യെനിക്കു ലോകം, വേദം, </l>
+            <l> ചൊല്ലുവത് ചെയ്യാൻ.</l>
+            <l> (ജോ മോഹി ജാനയ് താഹി മേം ജാനൌം) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 34</l>
+            <l> നല്ല കൂട്ടുകാരിൽ സൌഖ്യം,</l>
+            <l> ചീത്തയിൽ അസൌഖ്യം,</l>
+            <l> ചൊല്ലും കബീർ: പോക നല്ല</l>
+            <l> കൂട്ടുകാരെത്തേടി.</l>
+            <l> (സംഗതി സെ സുഖ ഊപജെ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-18.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 35</l>
+            <l> തുടക്കത്തിൽ പിടിച്ചോനെ</l>
+            <l> ഒടുക്കവും പിടിക്ക;</l>
+            <l> കല്ല് കല്ലായ് മൂലധനം</l>
+            <l> കോടിയായ് പെരുക്ക.</l>
+            <l> (ജയ്സീ ലാഗീ വൊര കീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 36</l>
+            <l> ഏകനവൻ എല്ലാരിലും</l>
+            <l> എല്ലാവരുമവനിൽ;</l>
+            <l> കബീറിന്നുണ്ടദ്വൈതമാം</l>
+            <l> ഈയറിവെന്നോർക്ക. </l>
+            <l> (ഏക സമാനാ സകല മേം) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-19.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 37</l>
+            <l> ഒന്നു നേടൂ, എല്ലാം നേടാം,</l>
+            <l> എല്ലാം ചെയ്കിൽ നല്ലത് പോം</l>
+            <l> വേരിൽ നനച്ചാൽ ചെടികൾ</l>
+            <l> പൂവ് തരും, കായും.</l>
+            <l> (ഏക സാധെ സബ സാധിയാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 38</l>
+            <l> സംസാരിക്കാനറിവോന്റെ</l>
+            <l> സംസാരമമൂല്യം;</l>
+            <l> വായ വിടും മുൻപ് വാക്ക്</l>
+            <l> തൂക്കണം മനസ്സിൽ. </l>
+            <l> (ബോലീ തോ അനമോലാ ഹൈ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-20.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 39</l>
+            <l> കിനാവു കണ്ടുറങ്ങുന്നോൻ</l>
+            <l> കൺ തുറന്നു നോക്കെ, </l>
+            <l> ഉണർന്നിരിപ്പവൻ മൂകം</l>
+            <l> കൊള്ള ചെയ്യുന്നെല്ലാം. </l>
+            <l> (സപ്നേ സോയാ മാനവാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 40</l>
+            <l> മധുരവാണി അമൃതു പോലെ,</l>
+            <l> കഠിനവാണി അസ്ത്രം,</l>
+            <l> ചെവിയിലൂടെയുള്ളിലേറി-</l>
+            <l> യുടൽ നെടുകെക്കീറും. </l>
+            <l> (മധുരവചന ഔഖഡീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-21.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 41</l>
+            <l> നാട്ടിലും പുറത്തുമെല്ലാം</l>
+            <l> യാത്ര ചെയ്തിതേറെ,</l>
+            <l> നാട്ടുവഴി കടന്നു ഞാൻ</l>
+            <l> പോയി ഏറെക്കാതം; </l>
+            <l> കണ്ടതില്ല വിവേകിയാ-</l>
+            <l> മാരെയും ഞാനെന്നാൽ</l>
+            <l> എന്തിനെയും അതെന്തെന്നു</l>
+            <l> ചൊല്ലുവാൻ കഴിഞ്ഞോർ.</l>
+            <l> (ദേസ വിദേസേ ഹം ഫിരാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 42</l>
+            <l> വാ തുറന്നാലറിയാമാർ</l>
+            <l> കള്ള,നാർ സന്യാസി</l>
+            <l> വായിലൂടെ വരുന്നുള്ളിൻ</l>
+            <l> രീതികൾ തൻ കാതൽ. </l>
+            <l> (ബോലതാ ഹീ പഹചാനിയെ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-22.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 43</l>
+            <l> വാർപ്പുമനുഷ്യൻ, തലച്ചോ-</l>
+            <l> റില്ല, തൂവൽ പോലെ</l>
+            <l> എന്ത് ചെയ്യാൻ,മണമില്ലാ-</l>
+            <l> ച്ചെമ്പനീരു പോലെ. </l>
+            <l> (ബനാ ബനായാ മാനവ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 44</l>
+            <l> ഇരിപ്പവൻ പലചരക്കു</l>
+            <l> നിൽപ്പവൻ പാൽ വിൽപ്പോൻ</l>
+            <l> ഉറങ്ങാത്തോൻ കാവലാളും</l>
+            <l> തീറ്റ മൃതിയ്ക്കെല്ലാം. </l>
+            <l> (ബൈഠാ രഹെ തോ ബനിയാ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-kabir-23.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> 45</l>
+            <l> വരയല്ല, രൂപമല്ല,</l>
+            <l> ദേഹമില്ല, മണ്ണും;</l>
+            <l> വരൂ, നിരാകാരനതാ</l>
+            <l> വാനിതിൻ നടുക്കൽ!</l>
+            <l> (രേഖ രൂപ വഹാ ഹയ് നഹീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <lg>
+            <l> 46</l>
+            <l> അറിവിന്റെ മിഴികളല്ലോ</l>
+            <l> സർവ്വസാക്ഷി കാവ്യം, </l>
+            <l> അറിയണമതെങ്കിൽ പോരൂ</l>
+            <l> മനമിതിൽ, ഹാ, ഹൃത്തിൽ.</l>
+            <l> തെളിവ് നൽകാൻ പാട്ടില്ലെങ്കിൽ</l>
+            <l> കലഹമെന്നുമുലകിൽ.</l>
+            <l> (സാഖി ആംഖി ഗ്യാംനാ കീ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">സച്ചിദാനന്ദൻ</figDesc>
+          </figure>
+          <p>ചിത്രങ്ങൾ: വി. മോഹനൻ
+</p>
+          <p>മൂന്നു പതിറ്റാണ്ടിലേറെയായി ഞാൻ ഇന്ത്യൻ <ref target="https://en.wikipedia.org/wiki/Sufi_poetry">ഭക്തി-സൂഫി കവിത</ref> യുടെ
+ഒരെളിയ പഠിതാവാണു്: ഇന്ത്യൻ കവിതയിലെ ശക്തമായ ഒരു പ്രതിപാരമ്പര്യമായാണു് പതിനഞ്ചു
+നൂറ്റാണ്ടുകളായി തുടരുന്ന ഈ ദാർശനിക കാവ്യധാരയെ ഞാൻ കാണുന്നതു്. ഈ രീതിയിൽ ഇതിനെ ഞാൻ
+ആദ്യമായി കണ്ടവതരിപ്പിച്ചതു് 1993-ൽ <ref target="https://en.wikipedia.org/wiki/Banaras_Hindu_University">ബനാറസ് ഹിന്ദു
+സർവ്വകലാശാല</ref> യിൽ നടത്തിയ <ref target="https://en.wikipedia.org/wiki/Shri_Purohit_Swami">പുരോഹിത്
+സ്വാമി</ref> സ്മാരക പ്രഭാഷണപരമ്പരയിലാണു്. പിന്നീടതു് പല പ്രബന്ധങ്ങളിലും പ്രഭാഷണങ്ങളിലും കൂടി
+വികസിപ്പിച്ചു.
+</p>
+          <p>ഭക്തി-സൂഫി കവിത ഒരു പ്രതിപക്ഷകാവ്യധാരയാകുന്നതു് പ്രധാനമായും ഇക്കാരണങ്ങളാലാണു്:
+ഒന്നാമതായി, ഈ കവികൾ പൊതുവേ—അപൂർവ്വം ചില അപവാദങ്ങളൊഴിച്ചാൽ—പൗരോഹിത്യം,
+ആചാരനിഷ്ഠമായ മതം ഇവയെ നിരാകരിക്കുകയും സൃഷ്ടികൾക്കു് നേരിട്ടു് ദൈവവുമായി സംവദിക്കാമെന്നു
+വിശ്വസിക്കുകയും ചെയ്തു. രണ്ടാമതായി, ഇതിന്റെ തുടർച്ചയെന്നപോലെ, ബ്രാഹ്മണമേധാവിത്തത്തെയും
+വർണ്ണ-ജാതി വ്യവസ്ഥയെയും അവർ വെല്ലുവിളിച്ചു, പലരും ക്ഷേത്രങ്ങളെയും വിഗ്രഹങ്ങളെയും തന്നെ
+നിരാകരിച്ചു് നിർഗുണോപാസനയിൽ മുഴുകുകയും ചെയ്തു. മൂന്നാമതായി, രാഷ്ട്രീയാധികാരം, ഭൗതികസമ്പത്തു്
+ഇവയെ ഇവർ തൃണവത്ഗണിച്ചു. നാലാമതായി, മതങ്ങളുടെ ഉറവയായ ആത്മീയതയും സ്ഥാപനവത്കൃതമായ
+മതവും മിക്കപ്പോഴും വിപരീതദിശകളിലാണു് സഞ്ചരിക്കുന്നതെന്നു് ഈ കവികൾ തിരിച്ചറിഞ്ഞു. ഇതു്
+മതസ്ഥാപനങ്ങൾ നിർമ്മിച്ച നിയമങ്ങളെ ധിക്കരിക്കാൻ ഇവർക്കു കരുത്തു നൽകി. അഞ്ചാമതായി,
+ജ്ഞാനത്തെ തീർത്തും അവഗണിച്ചോ അപ്രധാനമായി പരിഗണിച്ചോ ഈശ്വരാനുഭവത്തിന്നു പ്രാഥമ്യം നൽകി.
+ആറാമതായി, മതങ്ങൾ പ്രത്യക്ഷത്തിൽ വ്യത്യസ്തമായിരിക്കെത്തന്നെ അവയുടെ ചൈതന്യ പ്രഭവം ഒന്നു തന്നെ
+എന്നു് ഇവർ കണ്ടു.
+</p>
+          <p>പല കവികളും വർണ്ണ-ജാതി-ലിംഗാതീതമായ ചെറു സമൂഹങ്ങൾ തന്നെ രൂപീകരിച്ചു. ഇവരിൽ
+മഹാഭൂരിപക്ഷവും കർഷകർ, തൊഴിലാളികൾ, കൈവേലക്കാർ തുടങ്ങിയവരായിരുന്നതു കൊണ്ടുകൂടി
+നിലനിൽക്കുന്ന മതങ്ങൾക്കു ബദലാകാവുന്ന ഒരു ജനകീയമതം രൂപപ്പെടുത്താനായിരുന്നു ഈ കവികളുടെ
+ശ്രമം. ദാർശനികമായ കവിതയ്ക്കു ചേർന്ന, പലപ്പോഴും ദൈനംദിനജീവിതത്തിൽ നിന്നെടുത്ത പ്രതീകങ്ങളും
+ബിംബങ്ങളും ഉപയോഗപ്പെടുത്തുന്ന ഒരു പുതിയ കാവ്യഭാഷയ്ക്കും അനേകം ഗാന-നൃത്ത-നാട്യ രൂപങ്ങൾക്കും
+ഇവർ പിറവി നൽകി. സംസ്കൃതത്തിന്റെ മേൽക്കോയ്മയെ ചോദ്യംചെയ്ത് ഇവർ നാട്ടുഭാഷകളെ പുഷ്ടിപ്പെടുത്തി.
+</p>
+          <p>ഇവയിൽ മിക്ക കാര്യങ്ങളും കബീറിൽ കണ്ടെത്താം. കബീറിന്റെ കാലത്തെക്കുറിച്ചു് പണ്ഡിതർക്കിടയിൽ
+തർക്കങ്ങളുണ്ടെങ്കിലും പതിനാലാം നൂറ്റാണ്ടിന്റെ ഒടുവിൽ തുടങ്ങി പതിനഞ്ചാം നൂറ്റാണ്ടിന്റെ നടുവിൽ
+അവസാനിച്ചതായിരുന്നു കബീറിന്റെ ജീവിതകാലമെന്നാണു് പൊതു നിഗമനം. വാമൊഴിക്കവിതകളായതിനാൽ
+പലതിന്നും വ്യത്യസ്തപാഠങ്ങളുണ്ടു്. പലരും ഗുരു നാനാക്കിന്റെ ആദിഗ്രന്ഥത്തിലുള്ളവ ആധികാരിക പാഠങ്ങളായി
+കരുതുന്നു. ഈ പരിഭാഷകൾ ബ്രജ് മൂലകവിതകളും വ്യത്യസ്ത ആധുനിക ഇംഗ്ലീഷ് പരിഭാഷകളും ഒത്തു നോക്കി
+ചെയ്തവയാണു്. ചിലപ്പോൾ വലിയ കബീർഗായകർ ഉപയോഗിക്കുന്ന പാഠങ്ങളും കണക്കിലെടുത്തിട്ടുണ്ടു്.
+</p>
+          <p>സൃഷ്ടിയെ നെയ്ത്തായും ആത്മാവിനെ അരയന്നമായും മറ്റും സങ്കല്പിക്കുന്ന കബീറിന്റെ പ്രതീകപദ്ധതി,
+അദ്വൈതത്തോടും സൂഫി ദർശനത്തോടും അടുത്തു നിൽക്കുന്ന തത്വവിചിന്തനം, ആഴം നഷ്ടപ്പെടുത്താത്ത
+ലാളിത്യം, ദാർശനികമായ നർമ്മബോധം, ചൊല്ലാവുന്നതോ പാടാവുന്നതോ ആയ വാഗ്ശില്പം ഇവ
+ഉൾക്കൊള്ളാൻ കഴിവിനൊത്തു് ശ്രമിച്ചിട്ടുണ്ടു്.
+</p>
+          <p>നീണ്ട കവിതകൾ ഇവിടെ ചേർത്തിട്ടില്ല. അവയുൾപ്പെടെ നൂറിലേറെ കവിതകൾ ഉൾക്കൊള്ളുന്ന
+സമാഹാരം കൂടുതൽ സമഗ്രമായ അവതാരികയും കുറിപ്പുകളും ചേർത്തു് ‘ദൈവവുമായുള്ള സംഭാഷണങ്ങൾ’ എന്ന
+ശീർഷകത്തിൽ മാതൃഭൂമി ബുക്സ് താമസിയാതെ പുറത്തിറക്കുന്നുണ്ടു്. സാഹസികമെങ്കിലും
+ആഹ്ലാദകരവുമായിരുന്നു മൂലത്തോടു് അടുത്തുനിൽക്കാൻ ശ്രമിക്കുന്ന ഈ വിവർത്തനപരിശ്രമം.
+</p>
+          <p>മതം ആത്മീയത നഷ്ടപ്പെട്ടു് വിദ്വേഷാധിഷ്ഠിതമായ വർഗ്ഗീയതയായോ, സ്നേഹോപകരണമാകുന്നതിനു
+പകരം അധികാരോപാധിയായോ മാറുന്ന ഇക്കാലത്തു് കബീറിനെപ്പോലുള്ളവരുടെ കവിതകളുടെ പരിഭാഷയെ
+ഒരു നൈതിക പ്രതിരോധമായാണു് ഞാൻ കാണുന്നതു്.
+</p>
+          <p>—സച്ചിദാനന്ദൻ
+</p>
+        </div>
+        <!--end of "section 1.0/0.4"-->
+      </div>
+      <!--end of "chapter 1/0"-->
+      <!--END OF CHAPTER 1/0-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kabeerinte Lakhukavithakal (ml:
+കബീറിന്റെ ലഘുകവിതകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Satchidanandan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-07-10. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, K. Satchidanandan,
+Kabeerinte Lakhukavithakal, കെ. സച്ചിദാനന്ദൻ, കബീറിന്റെ ലഘുകവിതകൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 20, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  monument in Bangladesh, a
+photograph by Md. Rushdul Kabir  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/satchi-kabir.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/satchi-kabir.pdf">Download Phone
+
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

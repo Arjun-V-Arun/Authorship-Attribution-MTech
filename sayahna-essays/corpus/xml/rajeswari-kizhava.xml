@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കടൽക്കിഴവന്മാരുടെ കണ്ണീർ</title>
+          <title xml:lang="en" type="main">Kadalkizhavanmaarude Kanneer</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2026">March 16, 2026</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കടൽക്കിഴവന്മാരുടെ കണ്ണീർ</title>
+              <title xml:lang="en" type="main">Kadalkizhavanmaarude Kanneer</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Kadalkizhavanmaarude Kanneer</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കടൽക്കിഴവന്മാരുടെ കണ്ണീർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>March 16, 2026</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Old_Woman_Reading_a_Book.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Gerard_Dou__Old_Woman_Reading_a_Book.jpg">Old Woman Reading a Book,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Gerrit_Dou">Gerrit Dou</ref>
+ (1613–1675). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കടൽക്കിഴവന്മാരുടെ കണ്ണീർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കടൽക്കിഴവന്മാരുടെ കണ്ണീർ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mohammad_Abdurahman.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുഹമ്മദ് അബ്ദുൾറഹ്മാൻ</figDesc>
+          </figure>
+          <p style="noindent"> കാക്കാകാരണവന്മാരുടെ കാലംമുതൽ പവൻമാറ്റു് മതേതരവാദികളും
+മതമൈത്രിയുടെ വക്താക്കളുമാണു്, മലബാറിലെ മുസ്ലിംലീഗുകാർ. അന്യമത ദ്വേഷമുണ്ടോ മാഹമ്മദ മന്നോർ
+മണികൾക്കു പണ്ടുപണ്ടേയെന്നു മഹാകവി <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോൾ</ref>
+പാടിയതു് നാട്ടിലെ ലീഗ് നേതാക്കളെ കണ്ടിട്ടാകാനേ തരമുള്ളു.
+</p>
+          <p>കോൺഗ്രസുകാർ ഖിലാഫത്ത് സമരം നടത്തി മതമൈത്രി തകർക്കുകയും നൂറു കണക്കിനു് മാപ്പിളമാരെ
+തൂക്കിലും ആയിരങ്ങളെ തുറുങ്കിലുമെത്തിക്കുകയും ചെയ്ത ചരിത്ര ദശാസന്ധിയിലാണു് മുസ്ലിംലീഗിന്റെ അവതാരം.
+അതോടെ <ref target="https://ml.wikipedia.org/wiki/Mohammad_Abdurahman">മുഹമ്മദ്
+അബ്ദുൾറഹ്മാൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/E._Moidu_Moulavi">മൊയ്തുമൗലവി</ref>
+മുതലായ കാഴ്ചപ്പണ്ടങ്ങൾ അപ്രസക്തരായി. അറയ്ക്കൽ രാജാവും സത്താർ സേട്ടുവുമായി മുസ്ലിംകൾക്കു്
+നായകർ.
+</p>
+          <p>ഏറനാട്ടിലെ കുണ്ടനിടവഴികൾതോറും മാപ്പിളമാർ “പത്തണക്കൊരു കത്തി വാങ്ങി കുത്തി വാങ്ങും
+പാക്കിസ്ഥാൻ” എന്നു മുദ്രാവാക്യം വിളിച്ചുനടന്നു എന്നതു് നേരു്. എന്നാൽ കത്തിക്കുത്തിനു് ആരും തുനിഞ്ഞില്ല.
+പള്ളി വേറെ, പ്രായോഗിക രാഷ്ട്രീയം വേറെ. 1946 ആഗസ്റ്റ് 16 ഓർമയുണ്ടോ? അഖിലേന്ത്യാ മുസ്ലിംലീഗ്
+ആഹ്വാനംചെയ്ത പ്രത്യക്ഷ സമരദിനം? അഖിലേന്ത്യാ തലത്തിൽ ലീഗുകാർ അഴിഞ്ഞാടി. ഒട്ടേറെ മനുഷ്യന്മാർ
+മയ്യിത്തായി. ഇവിടെ മലബാറിൽ വമ്പിച്ച പൊതുയോഗങ്ങൾ നടന്നു. നേതാക്കൾ ഉശിരൻ പ്രസംഗങ്ങൾ
+വെച്ചുകാച്ചി. “കിട്ടണം ഞമ്മക്കു പാക്കിസ്ഥാൻ, കിട്ടിയില്ലെങ്കിൽ ഖബറിസ്ഥാൻ” എന്നു മാപ്പിളമാർ പാടി.
+വായ്പിട്ടും പാട്ടും കോലുകളിയുമല്ലാതെ ചോരച്ചൊരിച്ചിലുണ്ടായില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Abdu_Nasser_Mahdany.jpg" rendition="gra"/>
+            <figDesc style="thumb">അബ്ദുൽ നാസർ മഅദനി</figDesc>
+          </figure>
+          <p> 1947 ആഗസ്റ്റിൽ സ്വാതന്ത്ര്യം കിട്ടി. പാക്കിസ്ഥാനുമുണ്ടായി. ഹാജി അബ്ദുസ്സത്താർ സേട്ട്
+പാക്കിസ്ഥാനിൽ കുടിയേറി. അനുയായികളത്രയും ഏറനാട്ടിലും വള്ളുവനാട്ടിലുമായി ഒതുങ്ങിക്കൂടി. <ref target="https://ml.wikipedia.org/wiki/Sayyid_Abdur_Rahman_Bafaqi_Thangal">സയ്യിദ്
+അബ്ദുറഹ്മാൻ ബാഫഖി</ref> തങ്ങളായി മലബാറിൽ മുസ്ലിംലീഗിന്റെ പരമോന്നത നേതാവു്.
+</p>
+          <p>പഠിപ്പും പാസുമുണ്ടായിരുന്നില്ല, ബാഫഖി തങ്ങൾക്കു്. ഇംഗ്ലീഷ് ഒട്ടും അറിയില്ല. കോഴിക്കോട്ടങ്ങാടിയിൽ
+അരിയും കൊപ്രയും കച്ചവടം ചെയ്തുണ്ടായ ലോകപരിചയമേയുള്ളു. പക്ഷേ, കോമൺസെൻസ് അതിഗംഭീരം.
+ആജ്ഞാശക്തി വേണ്ടുവോളം. വിവരവും വിദ്യാഭ്യാസവുമുള്ള നേതാക്കൾക്കും രണ്ടും അശേഷമില്ലാത്ത
+അണികൾക്കും തങ്ങളാണു് അവസാന വാക്കു്. സാമുദായിക സംഘർഷം ഉണ്ടാകുന്നിടത്തെല്ലാം ബാഫഖി
+തങ്ങൾ മനസ്സിലാക്കും. സമാധാനശ്രമങ്ങളുടെ നേതൃത്വം സ്ഥലത്തെ ലീഗ് നേതാക്കളെ ഏൽപിക്കും.
+മൂന്നാംദിവസം സർവം ശുഭം, മംഗളം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_M_S_A_Pukkoya_Tangal.jpg" rendition="gra"/>
+            <figDesc style="thumb">പൂക്കോയ തങ്ങൾ</figDesc>
+          </figure>
+          <p> ബാഫഖി തങ്ങളുടെ കാലശേഷം മതമൈത്രിയുടെ ഹെഡ് ഓഫീസ് പാണക്കാട്ടേക്കു് മാറ്റി. ആദ്യം <ref target="https://en.wikipedia.org/wiki/Pukkoya_Tangal">പൂക്കോയ തങ്ങൾ</ref>,
+പിന്നെ <ref target="https://ml.wikipedia.org/wiki/Panakkad_Sayyid_Muhammad_Ali_Shihab_Thangal">ശിഹാബ്
+തങ്ങൾ</ref>. ഇരുവരും സാമുദായിക സൗഹാർദം ആലപ്പുഴയിൽ നബിദിന ഘോഷയാത്രക്കുനേരെ
+പൊലീസ് വെടിവെപ്പു് നടന്നപ്പോൾ തെക്കൻ കേരളം കത്തി, സംയമനം പാലിക്കാൻ ശിഹാബ് തങ്ങൾ അരുൾ
+ചെയ്തു: മലബാർ ശാന്തം, സ്വച്ഛസുരഭിലം. 1991 ഡിസംബറിൽ ബാബരി പള്ളി തകർന്നുവീണപ്പോഴും തങ്ങൾ
+സംയമനമന്ത്രം ഉരുവിട്ടു. അനിഷ്ടസംഭവങ്ങൾ നന്നെ കുറഞ്ഞു.
+</p>
+          <p>ഐ. സി. എസ്. <ref target="https://ml.wikipedia.org/wiki/Abdul_Nazer_Mahdani">അബ്ദുൽ നാസർ
+മഅദനി</ref> എന്നൊരു തെക്കൻ ഖത്തീബ് മുസ്ലിംലീഗിന്റെ മിതവാദനയത്തിനെതിരെ കത്തിക്കയറി.
+മഅദനിയുടെ വഅള് കേൾക്കാൻ ആളുകൂടി. ‘മുസ്ലിംലീഗ് മറുപടി പറയണം’ എന്ന കാസറ്റ് കച്ചവടത്തിൽ
+റെക്കോർഡിട്ടു. പാണക്കാടു് തങ്ങൾ നൂറിലേറെ യോഗങ്ങളിൽ പ്രസംഗിച്ചിട്ടും ഒറ്റപ്പാലത്തു് യു. ഡി. എഫ്.
+സ്ഥാനാർത്ഥി ദയനീയമായി തോറ്റു. ഗുരുവായൂർ ഉപതെരഞ്ഞെടുപ്പിൽ ലീഗിന്റെ സ്വന്തം സ്ഥാനാർത്ഥിയും തോറ്റു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shihab_Thangal.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശിഹാബ് തങ്ങൾ</figDesc>
+          </figure>
+          <p> ഇത്രയൊക്കെ സംഭവിച്ചിട്ടും മുസ്ലിംലീഗ് നയം മാറ്റിയില്ല. ഇബ്രാഹിം സുലൈമാൻ സേട്ടുവും കൂട്ടരും
+പാർട്ടിവിട്ടുപോയതും ഗൗനിച്ചില്ല. മിതവാദികളുടെ പാർട്ടി മുസ്ലിംലീഗ്; മതമൈത്രിയാണു് പരമപ്രധാനം.
+പുലിവരാൻ വേണ്ടി യാസീൻ ഓതരുതു്. പിന്നെ ഖത്തം ഓതിയാലും പുലി പോകില്ല.
+</p>
+          <p>1996-ലെ തെരഞ്ഞെടുപ്പിൽ തിരിച്ചടിയുണ്ടായി. മലപ്പുറം ജില്ലക്കു് തെക്കു് ഒറ്റ ലീഗുകാരനും ജയിച്ചില്ല. എന്നിട്ടും
+നയത്തിനു മാറ്റം വരുത്തിയില്ല. തെരഞ്ഞെടുപ്പിൽ ജയവും തോൽവിയും സ്വാഭാവികം; നയമോ സനാതനം.
+</p>
+          <p>2000-ാമാണ്ടിലെ നാദാപുരം ലഹളക്കാലത്താണു് ലീഗിന്റെ എൻ. ഡി. എഫ്. ബാന്ധവം തുടങ്ങിയതു്.
+തെരുവംപറമ്പിലെ മാനഭംഗക്കഥ പാടിപ്പാടി സാമുദായിക വികാരം ആളിക്കത്തിച്ചു. മലപ്പുറം
+ജില്ലാപഞ്ചായത്തിലായിരുന്നു ആദ്യ വിജയം. 2001-ലെ നിയമസഭാതെരഞ്ഞെടുപ്പിൽ സംസ്ഥാനമാകെ
+അതാവർത്തിച്ചു. എൻ. ഡി. എഫിനു മാന്യത കൈവന്നു, ലീഗ് മച്ചമ്പി എന്ന പ്രത്യേക പരിഗണന ലഭിച്ചു.
+</p>
+          <p>തെരുവപറമ്പ് കേസിലെ ഒന്നാംപ്രതി ഈന്തുള്ളതിൽ ബിനുവിനെ വെട്ടിക്കൊന്നുകൊണ്ടു് എൻ. ഡി. എഫ്.
+വിജയാഘോഷം തുടങ്ങി. അഞ്ചുകൊല്ലത്തിനകം നിരവധി കൊലപാതകങ്ങൾ അരങ്ങേറി. എല്ലായിടത്തും
+എല്ലായ്പോഴും കുടപിടിച്ചതു് മുസ്ലിംലീഗ്. ഐസ്ക്രീം കേസിൽ ആരോപണവിധേയനായ വിനീതനു് താങ്ങും
+തണലുമായി വർത്തിച്ചതു് എൻ. ഡി. എഫ്.; വിപ്ലവകരമായ സാമുദായിക സംവരണ പാക്കേജിനു്
+സ്തുതിപാടിയതും എൻ. ഡി. എഫ്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> മാറാട്ട് നടന്നതും മറ്റൊന്നല്ല. ആദ്യ കലാപത്തിൽ മരിച്ചവരുടെ ബന്ധുക്കളെ കുത്തിയിളക്കി
+പ്രതികാരവാഞ്ഛ ആളിക്കത്തിച്ചും പ്രത്യാക്രമണം പദ്ധതിയിട്ടു് നടപ്പാക്കിയതും എൻ. ഡി. എഫ്. അതിനു്
+മൗനാനുവാദം നൽകിയതു് എം. സി. മായിൻഹാജിയടക്കമുള്ള ലീഗ് നേതാക്കൾ. സി. ബി. ഐ. അന്വേഷണ
+ആവശ്യത്തെ അട്ടിമറിച്ചതു് ജനാബ് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">പി. കെ.
+കുഞ്ഞാലിക്കുട്ടി</ref>. പരിണത ഫലം—ഗൂഢാലോചന നടത്തിയവരും ധനസാഹായം ചെയ്തവരും
+
+ആയുധമെത്തിച്ചവരുമൊക്കെ മാന്യന്മാരായി നെഞ്ചുവിരിച്ചു് നടക്കുന്നു, നൂറിൽപരം ചെറുപ്പക്കാർ
+വിചാരണകാത്തു് കാരാഗൃഹത്തിൽ കഴിയുന്നു.
+</p>
+          <p>രണ്ടാം മാറാടിനു പിന്നിലുള്ള ഗൂഢാലോചനയും ആസൂത്രണവും പകൽപോലെ വ്യക്തമായിരുന്നിട്ടും അതു്
+നമ്മുടെ ക്രൈംബ്രാഞ്ചിനു് മാത്രം കാണാൻ കഴിഞ്ഞില്ല. അവർക്കു് കുറ്റം ചെയ്തവരെ മതി, ചെയ്യിച്ചവരെ വേണ്ട.
+<ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യാണു്
+അക്കാലത്തു് ആഭ്യന്തരവകുപ്പിന്റെ ചുമതലയുള്ള മുഖ്യമന്ത്രി. ആദർശത്തിനുമുണ്ടു് പരിമിതികൾ. തിരൂരങ്ങാടിയിൽ
+മൽസരിപ്പിച്ച കാലംമുതൽ കുഞ്ഞാലിപട്ടേരുടെ തൊമ്മിയാണു് ആന്റണി. ശിഹാബ്തങ്ങളേക്കാൾ വിധേയൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> സി. ബി. ഐ. അന്വേഷണത്തിനു് ഉത്തരവിട്ടാൽ ആ നിമിഷം അവസാനിക്കുമായിരുന്നു
+അരയസമാജക്കാരുടെ ഉപരോധം. മറിയംബിക്കും പാത്തുമ്മക്കുമൊക്കെ കുടിലിലേക്കു് മടങ്ങാം. അഭയാർഥി
+ക്യാമ്പുകൾ അവസാനിപ്പിക്കാം. പക്ഷേ, മുസ്ലിംലീഗിനു് മറിയംബിയല്ല, മായിൻഹാജിയാണു് മുഖ്യം. കാശിനു
+മീതെ കാക്ക പറക്കില്ല.
+</p>
+          <p>2001-ലെ തെരഞ്ഞെടുപ്പിൽ ബേപ്പൂര് മൽസരിച്ചയാളാണു് മായിൻഹാജി. ബഡാ പൈസക്കാരൻ. <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യുടെ ആത്മമിത്രം. ജനത്തിനു് വിവരമില്ലാത്തതുകൊണ്ടു് ഹാജി തോറ്റു. സി. പി. എമ്മിലെ <ref target="https://ml.wikipedia.org/wiki/V.K.C._Mammed_Koya">വി. കെ. സി.
+മമ്മദ്കോയ</ref> ജയിച്ചു. തെരഞ്ഞെടുപ്പിൽ തോറ്റെന്നുകരുതി ഒരു സ്നേഹിതനെ, അതും ധനവാനെ
+വഴിയിലുപേക്ഷിക്കുന്നവനല്ല, പാണ്ടിക്കടവത്ത് കുഞ്ഞാപ്പ. മായിൻഹാജിയെ കോഴിക്കോട് വികസന
+അതോറിറ്റി ചെയർമാനായി നിയമിച്ചുകൊണ്ടു് ബേപ്പൂർകാരോടു് പകവിട്ടി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/VKC_Mammed_Koya.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. കെ. സി. മമ്മദ്കോയ</figDesc>
+          </figure>
+          <p> രണ്ടാം മാറാട് സംഭവത്തിൽ മായിൻഹാജിക്കുള്ള പങ്കിനെപ്പറ്റിയും മുസ്ലിംലീഗിലെ ഉന്നതർക്കുള്ള
+സാമ്പത്തിക താൽപര്യത്തെക്കുറിച്ചും അന്നേ വാർത്തകൾ വന്നതാണു്. അവയൊക്കെ ഹാജി നിഷേധിച്ചു,
+കുഞ്ഞാലി നിഷേധിച്ചു, തങ്ങളും നിഷേധിച്ചു. മഹേഷ്കുമാർ സിംഗ്ലയും കൂട്ടരും കിണഞ്ഞു് പരിശ്രമിച്ചിട്ടും
+യാതൊരു തുമ്പും കിട്ടിയില്ല. മായിൻഹാജി പരിശുദ്ധൻ.
+</p>
+          <p>എല്ലാവരെയും എല്ലാ കാലവും മണ്ടന്മാരാക്കാൻ പറ്റില്ല എന്ന സാമാന്യനിയമത്തിനു് ഏറനാടൻ മാപ്പിളമാർ
+പോലും അപവാദമല്ല. മാറാട് ഉൾപ്പെട്ട മഞ്ചേരി പാർലമെന്റ് സീറ്റിൽ, ചരിത്രത്തിലാദ്യമായി മുസ്ലിംലീഗ്
+സ്ഥാനാർത്ഥി പരാജയപ്പെട്ടു. അതും കുഞ്ഞാലിക്കുട്ടിയുടെ മനഃസാക്ഷി സൂക്ഷിപ്പുകാരൻ <ref target="https://en.wikipedia.org/wiki/K._P._A._Majeed">കെ. പി. എ. മജീദ്</ref>.
+</p>
+          <p>മഞ്ചേരിയിൽ എന്തുകൊണ്ടു് തോറ്റു എന്നകാര്യം മുസ്ലിംലീഗ് തലപുകഞ്ഞു് ആലോചിച്ചു. ഒട്ടേറെ
+ആടുകൾക്കും കോഴികൾക്കും പ്രാണൻ നഷ്ടമായി. മാറാട് സംഭവം തെരഞ്ഞെടുപ്പുഫലത്തെ ബാധിച്ചില്ല എന്നു
+കണ്ടെത്തി. യഥാർത്ഥത്തിൽ മഞ്ചേരിയിലെ തോൽവി <ref target="https://ml.wikipedia.org/wiki/T.K._Hamza">ടി. കെ. ഹംസ</ref>
+യാണെന്നിരിക്കിലും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Oommen_Chandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമ്മൻചാണ്ടി</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് പരാജയത്തിന്റെ ഉത്തരവാദിത്തം ഏറ്റെടുത്തു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> രാജിവെച്ചു.
+ഐസ്ക്രീം പാർലർ കേസിൽപെട്ടു് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യും വീണു. നിയമം അതിന്റെ വഴിക്കുപോകും എന്നു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> ഇടക്കിടെ
+ആവർത്തിച്ചു.
+</p>
+          <p>2006-ലെ തെരഞ്ഞെടുപ്പിൽ റിസ്കെടുക്കാൻ മായിൻഹാജി തയാറായില്ല. ജയസാധ്യത കുറഞ്ഞ ബേപ്പൂർ
+സീറ്റ് കൈയൊഴിഞ്ഞു് ഹാജി തിരുവമ്പാടിയിൽ ചേക്കേറി. യു. ഡി. എഫിന്റെ കോട്ടയാണു് തിരുവമ്പാടി. <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+കോൺഗ്രസുകാരനായിരുന്ന കാലത്തു് സ്ഥിരമായി ജയിച്ചിരുന്ന, കോൺഗ്രസിൽനിന്നു് പുറത്തുവന്നശേഷം
+സ്ഥിരമായി തോൽക്കുന്ന മണ്ഡലം. അവിടെ ഹാജ്യാർക്കു് ജയം സുനിശ്ചിതം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mathai_Chacko.png" rendition="gra"/>
+            <figDesc style="thumb">മത്തായി ചാക്കോ</figDesc>
+          </figure>
+          <p> എന്തുചെയ്യാം? ചീത്ത വാർത്തകൾ വേഗം പ്രചരിക്കും എന്നാണു് പഴമൊഴി. മയിൻഹാജി എത്തും മുമ്പേ
+വാർത്തകൾ തിരുവമ്പാടിയിൽ പാട്ടായി. മാറാട് കൂട്ടക്കൊലയിൽ ഹാജി വഹിച്ച പങ്കിനെക്കുറിച്ചു് പല കഥകളും
+പ്രചരിച്ചു. അങ്ങനെ തിരുവമ്പാടിയിൽ ഇതാദ്യമായി ചെങ്കൊടി പാറി. <ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">മത്തായി ചാക്കോ</ref> യുടെ
+ഭൂരിപക്ഷം 5479.
+</p>
+          <p>കുന്ദമംഗലത്തെ <ref target="https://ml.wikipedia.org/wiki/U._C._Raman">യു. സി.
+രാമനൊ</ref> ഴിച്ചു് കോഴിക്കോടു് ജില്ലയിലെമ്പാടും ഐക്യമുന്നണി സ്ഥാനാർത്ഥികൾ തോറ്റമ്പി.
+നാദാപുരത്തും ബേപ്പൂരും കോഴിക്കോട് രണ്ടിലും ലീഗുകാർ ഡീസന്റായി തോറ്റു. മലപ്പുറം ജില്ല ചരിത്രം
+തിരുത്തിക്കുറിച്ചു. മുസ്ലിംലീഗിന്റെ സിറ്റിംഗ് സീറ്റുകൾ മൂന്നെണ്ണം നഷ്ടമായി. ആന്റണി മന്ത്രിസഭയിൽ
+അംഗങ്ങളായിരുന്ന നാലു് ലീഗുകാരിൽ മൂന്നുപേരും—<ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">പി. കെ.
+കുഞ്ഞാലിക്കുട്ടി</ref>, <ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">എം. കെ. മുനീർ</ref>, <ref target="https://en.wikipedia.org/wiki/Cherkalam_Abdullah">ചേർക്കളം
+അബ്ദുല്ല</ref>—തോറ്റു. <ref target="https://ml.wikipedia.org/wiki/Nalakath_Soopy">നാലകത്ത് സൂപ്പി</ref>
+മൽസരിക്കാത്തതുകൊണ്ടു് തോൽക്കാനൊത്തില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MK_Muneer.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കെ. മുനീർ</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പിൽ തോറ്റാൽ നേതൃമാറ്റം അനിവാര്യം. പാണക്കാട് തങ്ങൾ ആയുഷ്കാലം
+പ്രസിഡന്റായിരിക്കണമെന്നു് ലീഗിന്റെ ഭരണഘടനയിലുണ്ടു്. അതുകൊണ്ടു് ജനറൽ സെക്രട്ടറിയെ ട്രഷററാക്കി;
+ട്രഷററെ ജനറൽ സെക്രട്ടറിയും. ഇരുമ്പുലക്ക വിഴുങ്ങി, ചുക്കുവെള്ളവും കുടിച്ചു. പാർട്ടിയുടെ പ്രതിച്ഛായ വളരെ
+മെച്ചപ്പെട്ടു.
+</p>
+          <p>തോൽവിയുടെ നടുക്കം മാറുംമുമ്പാണു് മാറാട് അന്വേഷണ കമീഷന്റെ റിപ്പോർട്ട് പുറത്തുവരുന്നതു്. രണ്ടാം
+മാറാട്, കലാപമല്ല ആസൂത്രിതമായ കൂട്ടക്കൊലയായിരുന്നു എന്നാണു് കണ്ടെത്തൽ. ആക്രമണം നടത്തിയതു്
+എൻ. ഡി. എഫുകാരായിരുന്നുവെന്നും മായിൻഹാജി അടക്കമുള്ള ലീഗ് നേതാക്കൾക്കു് വിവരം നേരത്തേ
+അറിയാമായിരുന്നുവെന്നും കമീഷൻ പച്ചക്കു പറഞ്ഞു. മുസ്ലിംലീഗിന്റെ—കൃത്യമായി പറഞ്ഞാൽ <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യുടെ—സമ്മർദ്ദം മൂലമാണു് സി. ബി. ഐ. അന്വേഷണം വെണ്ടെന്നുവെച്ചതെന്നും കമീഷൻ കണ്ടെത്തി.
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Balachandran_chullikad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാലചന്ദ്രൻ ചുള്ളിക്കാട്</figDesc>
+          </figure>
+          <p> കമീഷന്റെ കണ്ടെത്തലുകളിൽ പുതുമയൊന്നുമില്ല. എല്ലാവർക്കും അറിയുന്ന കാര്യങ്ങൾതന്നെയാണു്
+സാക്ഷികളെ വിസ്തരിച്ചും രേഖകൾ പരിശോധിച്ചും കമീഷൻ കണ്ടെത്തിയതു്. മാറാടിന്റെ ഉൾപ്പൊരുൾ
+തിരിച്ചറിഞ്ഞതുകൊണ്ടാണു് മലബാറിലെ മുസ്ലിംകൾ കഴിഞ്ഞ തെരഞ്ഞെടിപ്പിൽ ലീഗിനെ കൈവിട്ടതു്.
+കുറ്റിപ്പുറത്തെയും തിരുവമ്പാടിയിലെയും വോട്ടർമാരോളം മികച്ച ന്യായാധിപർ സുപ്രീംകോടതിയിൽപോലുമില്ല.
+</p>
+          <p>അന്വേഷണ റിപ്പോർട്ടിന്റെ അടിസ്ഥാനത്തിൽ മായിൻഹാജിയെ ലീഗിൽനിന്നു് പുറത്താക്കുമോ?
+ഒരിക്കലുമില്ല. റിപ്പോർട്ട് പുറത്തുവന്നയുടൻ ഹാജി പാണക്കാട്ട് ചെന്നു് തങ്ങളെക്കണ്ടു് കാര്യങ്ങൾ പറഞ്ഞു്
+സബൂറാക്കി. ഹാജ്യാരുടെ നിരപരാധിത്വം കമീഷനു് ബോധ്യമായില്ലെങ്കിലും ശിഹാബ് തങ്ങൾക്കു് ബോധ്യപ്പെട്ടു.
+മാത്രമല്ല, മായിൻഹാജിയെ കളഞ്ഞാൽ കുഞ്ഞാലിക്കുട്ടിയെ എന്തുചെയ്യും? സിൻബാദിന്റെ കഥയിലെ
+കടൽക്കിഴവനെപ്പോലെ ലീഗിന്റെ തോളിലിരിക്കുന്ന എൻ. ഡി. എഫിനെയോ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Bal_Thackeray.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാൽ താക്കറെ</figDesc>
+          </figure>
+          <p> എൻ. ഡി. എഫിനു് കുലുക്കമില്ല. അവരിതു് പ്രതീക്ഷിച്ചതുമാണു്. കമീഷൻ റിപ്പോർട്ട് ഏകപക്ഷീയം, മുസ്ലിം
+വിരുദ്ധം. ശ്രീകൃഷ്ണ കമീഷനെക്കുറിച്ചു് <ref target="https://ml.wikipedia.org/wiki/Bal_Thackeray">ബാൽ താക്കറെ</ref>
+പ്രതികരിച്ച അതേ രീതി, അതേ സ്വരം. ഏതാനും സാംസ്കാരിക നായകരും എൻ. ഡി. എഫിനുവേണ്ടി
+രംഗത്തുവന്നിട്ടുണ്ടു്. മാറാട്ട് മരിച്ചതത്രയും ഹിന്ദുക്കളായതുകൊണ്ടാണോ സാംസ്കാരിക നായകർ
+പ്രതികരിക്കാത്തതെന്നു് പണ്ടു് പത്രാധിപന്മാർക്കു് കത്തെഴുതിയ <ref target="https://en.wikipedia.org/wiki/Balachandran_Chullikkad">ബാലചന്ദ്രൻ
+ചുള്ളിക്കാടും</ref>, സുപ്രസിദ്ധ സംഘപരിവാർ ബുദ്ധിജീവി <ref target="https://ml.wikipedia.org/wiki/M.G.S._Narayanan">എം. ജി. എസ്.
+നാരായണന്റെ</ref> മാതുലൻ <ref target="https://ml.wikipedia.org/wiki/M._Gangadhran">എം. ഗംഗാധരനു</ref> മാണു്
+അവരിൽ മുമ്പൻമാർ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_gangadharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ഗംഗാധരൻ</figDesc>
+          </figure>
+          <p> ആദ്യത്തെ അന്ധാളിപ്പു് മാറിയപ്പോൾ ലീഗും ആ വഴിക്കുതന്നെ. ശിഹാബ് തങ്ങളും ഈ അഹമ്മദും
+സി. ബി. ഐ. അന്വേഷണത്തെ സ്വാഗതംചെയ്തതിനു പിന്നാലെ യൂത്ത്ലീഗ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/K.M_Shaji">കെ. എം. ഷാജി</ref> കമീഷൻ
+റിപ്പോർട്ട് യക്ഷിക്കഥയെന്നു പരിഹസിച്ചു (സ്വന്തം വിവേചനബുദ്ധിയെക്കുറിച്ചോർത്തു് ഇരവിപുരത്തുകാർക്കും
+അഭിമാനിക്കാം). പിന്നാലെ <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യും മുഹമ്മദ് ബഷീറും റിപ്പോർട്ടിനെ അപലപിച്ചു. തോമസ് പി. ജോസഫ് സവർണ ഫാഷിസ്റ്റാണെന്നും
+ടിയാനെ സംഘപരിവാർ വിലയ്ക്കെടുക്കുകയായിരുന്നെന്നും ഇസ്ലാമിനെതിരായ യാങ്കി ഗൂഢാലോചനയുടെ
+ഫലമാണു് മാറാട് റിപ്പോർട്ടെന്നുമുള്ള ആരോപണങ്ങൾ വരും ദിവസങ്ങളിൽ പ്രതിക്ഷിക്കാം.
+</p>
+          <p>യഥാർത്ഥത്തിൽ, ലീഗിനു് എവിടെയാണു് പിഴച്ചതു്? എൻ. ഡി. എഫിനെ നിലക്കുനിറുത്താഞ്ഞതോ,
+മായിൻഹാജിയെ പുറത്താക്കാഞ്ഞതോ, ജുഡീഷ്യൽ അന്വേഷണത്തിനു് ഉത്തരവിട്ടതോ? അന്നത്തെ നിലക്കു്
+എൻ. ഡി. എഫ്. ബന്ധം അനിവാര്യമായിരുന്നു. അവരുടെ ചെയ്തികളെ പരോക്ഷമായെങ്കിലും
+
+സഹായിക്കാത്തപക്ഷം എൻ. ഡി. എഫ്. മറ്റൊരു പി. ഡി. പി.-യായി ലീഗിന്റെ അടിത്തറ മാന്തിയേനെ.
+പെൺവാണിഭക്കേസിൽപ്പെട്ട പാവം വിനീതനു് തലവേദന പിന്നെയും കൂടിയേനെ. മായിൻഹാജിയുടെ
+ധനസ്ഥിതിയും കുഞ്ഞാപ്പയുമായുള്ള ചങ്ങാത്തവും വെച്ചുനോക്കുമ്പോൾ അദ്ദേഹത്തെ പുറത്താക്കുക അസാധ്യം.
+ജനത്തിന്റെ കണ്ണിൽ പൊടിയിടാൻ ജുഡീഷ്യൽ അന്വേഷണം അനിവാര്യം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MGS_Narayanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ജി. എസ്. നാരായണൻ</figDesc>
+          </figure>
+          <p> തോമസ് പി. ജോസഫ് അന്വേഷിച്ചതാണു് വിനയായതു്. സബോഡിനേറ്റ് ജുഡീഷ്യറിയിലെ ഏറ്റവും
+പ്രാപ്തനായ ന്യായാധിപൻ. തികച്ചും നിഷ്പക്ഷൻ, സിംഹത്തെപ്പോലെ നിർഭയൻ. ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/K.T._Thomas(Justice)">കെ. ടി.
+തോമസി</ref> ന്റെ പഴയ ശിഷ്യൻ. പ്രലോഭനത്തിനോ ഭീഷണിക്കോ വഴിപ്പെടുകയില്ല. മർമം അറിയാം,
+അടിക്കാനുമറിയാം. കൽപന കല്ലേപ്പിളർക്കും.
+</p>
+          <p>റിട്ടയർ ചെയ്ത ഏതെങ്കിലും ഹൈക്കോടതി ജഡ്ജിയെക്കൊണ്ടു് അന്വേഷണം നടത്തിച്ചാൽ മതിയായിരുന്നു.
+വളച്ചാൽ വളയും. നമുക്കു് ആവശ്യമുള്ള രീതിയിൽ റിപ്പോർട്ടും എഴുതിത്തരും. മുസ്ലിംലീഗില്ലായിരുന്നെങ്കിൽ
+മലബാർ കത്തിച്ചാമ്പലായേനെ എന്നു് നിരീക്ഷിക്കും; മായിൻഹാജിയെ മാറാട് മഹാത്മാഗാന്ധിയെന്നു വാഴ്ത്തും.
+റിട്ടയർ ചെയ്യാറായ സിറ്റിംഗ് ജഡ്ജിയായിരുന്നെങ്കിലും ഒപ്പിക്കാമായിരുന്നു. പിന്നീടു് വല്ല മനുഷ്യാവകാശ
+കമീഷനിലും ലാവണം കൊടുക്കണമെന്നു മാത്രം. പറഞ്ഞിട്ടെന്തുഫലം? പോയ ബുദ്ധി ആനപിടിച്ചാൽ പോരില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_T_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ടി. തോമസ്</figDesc>
+          </figure>
+          <p> അടുത്ത തെരഞ്ഞെടുപ്പു് അഞ്ചുകൊല്ലം അകലെയാണെന്നു മാത്രമാണു് ആശ്വാസം. 2011 മെയ്
+ആകുമ്പോഴേക്കും ജനം മാറാട് മറക്കും. മായിൻഹാജിയെ മലപ്പുറത്തു് മൽസരിപ്പിക്കാം. വിനീതൻ
+കൊടുങ്കാറ്റുപോലെ തിരിച്ചുവരും. കോൺഗ്രസിൽനിന്നു് വിവരസാങ്കേതിക വകുപ്പു് വീണ്ടെടുക്കും. കേരളത്തിന്റെ
+വ്യവസായ വികസനം ത്വരിതപ്പെടുത്തും, സംസ്ഥാനത്തു് മതമൈത്രി ഊട്ടിയുറപ്പിക്കും. പച്ചക്കൊടി പാറിക്കും!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kadalkizhavanmaarude Kanneer
+(ml: കടൽക്കിഴവന്മാരുടെ കണ്ണീർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Kadalkizhavanmaarude Kanneer, കെ. രാജേശ്വരി, കടൽക്കിഴവന്മാരുടെ കണ്ണീർ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  March 16, 2026.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Gerard_Dou__Old_Woman_Reading_a_Book.jpg">Old Woman Reading a Book,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Gerrit_Dou">Gerrit Dou</ref>
+ (1613–1675). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kizhava.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kizhava.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

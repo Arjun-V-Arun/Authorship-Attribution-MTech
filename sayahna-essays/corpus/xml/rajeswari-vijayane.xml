@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വ്യത്യസ്തനാമൊരു നേതാവാം വിജയനെ
+സത്യത്തിലാരും…</title>
+          <title xml:lang="en" type="main">Vyathyasthanamoru Nethavam Vijayane
+Sathyathilarum…</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">April 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വ്യത്യസ്തനാമൊരു നേതാവാം വിജയനെ
+സത്യത്തിലാരും…</title>
+              <title xml:lang="en" type="main">Vyathyasthanamoru Nethavam Vijayane
+Sathyathilarum…</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Vyathyasthanamoru Nethavam Vijayane Sathyathilarum…</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>വ്യത്യസ്തനാമൊരു നേതാവാം വിജയനെ സത്യത്തിലാരും…</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Death_of_the_Levite.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Death_of_the_Levite%27s_Concubine_by_W._Bartsius_%281638,_Hermitage%29.jpg">Death
+of the Levite’s Concubine,</ref> a painting by Bartsius Willem  (1612–1639). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വ്യത്യസ്തനാമൊരു നേതാവാം വിജയനെ
+സത്യത്തിലാരും…</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വ്യത്യസ്തനാമൊരു നേതാവാം വിജയനെ സത്യത്തിലാരും…</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/V_S_Achuthanandan1.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എസ്. അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p style="noindent"> ജനുവരി 18 വെള്ളിയാഴ്ച സി. പി. എം. കണ്ണൂർ ജില്ലാ സമ്മേളനത്തിന്റെ
+പതാകയുയർന്നു. അതിനകം മറ്റു 13 ജില്ലകളിലെയും സമ്മേളനങ്ങൾ പൂർത്തിയായിക്കഴിഞ്ഞു. സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref> നയിക്കുന്ന ഔദ്യോഗിക വിഭാഗത്തിന്റെ മേധാവിത്വം പകൽപോലെ തെളിയുകയും
+ചെയ്തിരുന്നു. എറണാകുളം, കൊല്ലം, പത്തനംതിട്ട ജില്ലകളിലൊഴികെ എല്ലായിടത്തും <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref> ഗ്രൂപ്പ്
+തുടച്ചുമാറ്റപ്പെട്ടു. മലപ്പുറത്തും പാലക്കാട്ടും തിരുവനന്തപുരത്തും വിമതന്മാരെ കുരുതികഴിച്ചു. അങ്ങനെ വർധിച്ച
+ആത്മവിശ്വാസവുമായാണു് വിജയനും കൂട്ടരും സ്വന്തം തറവാട്ടിൽ സമ്മേളനത്തിനെത്തിയതു്. കണ്ണൂരാണെങ്കിൽ
+ഔദ്യോഗികന്മാരുടെ നെടുങ്കോട്ട. എളുപ്പമാണു് കലക്കിയെടുക്കാൻ; വി. എസിന്റെ പൊടിപോലുമില്ല,
+കണ്ടുപിടിക്കാൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PinarayiVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പിണറായി വിജയൻ</figDesc>
+          </figure>
+          <p> ജനുവരി 19-നു് പ്രതിനിധി സമ്മേളനത്തിന്റെ ഉദ്ഘാടനം നിർവഹിച്ചുകൊണ്ടു് പിണറായി സഖാവ് പാർട്ടി
+വിരുദ്ധർക്കും മാധ്യമ ദുഷ്പ്രഭുക്കൾക്കുമെതിരെ ആഞ്ഞടിച്ചു. പിന്തിരിപ്പൻ ശക്തികളും അമേരിക്കൻ സാമ്രാജ്യത്വവും
+സി. പി. എമ്മിനെതിരെ നടത്തുന്ന കുപ്രചാരണങ്ങളെ നേരിടാനും അതിജീവിക്കാനും പാർട്ടിക്കു് കഴിഞ്ഞിട്ടുണ്ടു്.
+പാർട്ടിയെ തകർക്കാൻ ശ്രമിച്ചവർ ഇപ്പോൾ മനോവിഭ്രാന്തിയുടെ ലക്ഷണങ്ങൾ പ്രകടിപ്പിക്കുകയാണു്. കോട്ടയം
+സമ്മേളനത്തോടെ വിഭാഗീയത പൂർണമായും അവസാനിക്കും… ഒന്നര മണിക്കൂറിലേറെ നീണ്ട ഉദ്ഘാടന
+ഭാഷണത്തിലൊരിടത്തും <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദന്റെ</ref> പേരു് പരാമർശിക്കാതിരിക്കാൻ പിണറായി പ്രത്യേകം ശ്രദ്ധിച്ചു. വിദ്യാഭ്യാസ,
+വ്യവസായ, ആരോഗ്യ, ആഭ്യന്തര മന്ത്രിമാരെ പ്രകീർത്തിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> 19-നും 20-നും ചർച്ചയിൽ പങ്കെടുത്ത സകല സഖാക്കളും പിണറായിയെ പ്രശംസിച്ചു, വി. എസിനെ
+അപലപിച്ചു. അച്യുതാനന്ദന്റെ പാർട്ടിവിരുദ്ധ നിലപാടുകളെ, അച്ചടക്കലംഘനത്തെ, അഴിമതിയെ,
+കെടുകാര്യസ്ഥതയെ, സ്വജനപക്ഷപാതിത്വത്തെ ഒക്കെ പ്രതിനിധികൾ വിമർശിച്ചു. മുഖ്യമന്ത്രിയെപ്പറ്റി
+നല്ലതുപറയാൻ ഒറ്റയൊരാളും ഉണ്ടായില്ല. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">വിജയനും</ref> ശശിയും
+<ref target="https://ml.wikipedia.org/wiki/E.P._Jayarajan">ജയരാജന്മാ</ref>
+രും ചർച്ചകേട്ടു് രസിച്ചു് താളംപിടിച്ചു് നിർവൃതിയിലാണ്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_P_Jayarajan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. പി. ജയരാജൻ</figDesc>
+          </figure>
+          <p> 21-ാം തീയതി തിങ്കളാഴ്ച നല്ല ദിവസം. രാവിലെ പുതിയ ജില്ലാ കമ്മിറ്റിയെയും സംസ്ഥാന സമ്മേളന
+പ്രതിനിധികളെയും ഐകകണ്ഠ്യേന തെരഞ്ഞെടുത്തു. സകലരും ഔദ്യോഗിക പക്ഷക്കാർ. വി. എസ്.
+അനുഭാവിയെന്നു് സംശയിക്കപ്പെടുന്ന <ref target="https://ml.wikipedia.org/wiki/A._P._Abdullakutty">എ. പി.
+അബ്ദുല്ലക്കുട്ടി</ref> എം. പി.-യെ രണ്ടു പട്ടികയിലും ഉൾപ്പെടുത്തിയില്ല. 45 അംഗ ജില്ലാ കമ്മിറ്റിയിൽ ഒരു
+മേത്തനെയെങ്കിലും ഇല്ലെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+കുറ്റം പറയും. അതുകൊണ്ടു് രോഗാതുരനായി കഴിയുന്ന കെ. പി. മമ്മുമാസ്റ്ററെ ഉൾപ്പെടുത്തി മാസ്റ്ററുടെ
+കാലശേഷം <ref target="https://ml.wikipedia.org/wiki/Pharis_Aboobaker">ഫാരിസ്
+അബൂബക്കറെ</ref> പരിഗണിക്കാവുന്നതാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/R_Sugathan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. സുഗതൻ</figDesc>
+          </figure>
+          <p> 21-ാം തീയതി സമ്മേളന പ്രതിനിധികളെ അഭിവാദ്യം ചെയ്യാൻ സഖാവു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദൻ</ref>
+ചെല്ലേണ്ടതായിരുന്നു. കഴിഞ്ഞ രണ്ടുദിവസം നടന്ന ചർച്ചകളുടെ വിശദാംശങ്ങൾ മാധ്യമ
+സിൻഡിക്കേറ്റിൽനിന്നറിഞ്ഞ അച്ചുമ്മാൻ ആ വഴിക്കു് തിരിഞ്ഞു നോക്കിയില്ല. <ref target="https://ml.wikipedia.org/wiki/A._P._Abdullakutty">അബ്ദുല്ലക്കുട്ടി</ref>
+യെ അമർച്ച ചെയ്തതും പി. ശശിയെ വീണ്ടും സെക്രട്ടറിയായി തെരഞ്ഞെടുത്തതുമൊക്കെ മുഖ്യമന്ത്രി
+ഗസ്റ്റ്ഹൗസിലിരുന്നു് അറിഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/M_V_Govindan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വി. ഗോവിന്ദൻ</figDesc>
+          </figure>
+          <p> അന്നുവൈകീട്ടു് അതിഗംഭീരമായ റെഡ്വോളണ്ടിയർമാർച്ചും പ്രകടനവും നടന്നു. അനന്തരം ജവഹർ
+സ്റ്റേഡിയത്തെ ചെങ്കടലാക്കിയ പൊതുസമ്മേളനം. അതാ, അച്ചുമ്മാൻ ശുഭ്രവസ്ത്രധാരിയായി, സുസ്മേരവദനനായി
+യോഗത്തിനെത്തുന്നു. അടുത്തിരിക്കുന്നവരോടു് കുശലം പറയുന്നു, ചിരിക്കുന്നു. സമാപന സമ്മേളനം ഉദ്ഘാടനം
+ചെയ്യാൻ ഉച്ചഭാഷിണിക്കുമുന്നിലെത്തുന്നു. തനതുശൈലിയിൽ ആടിയുലഞ്ഞു്, കൈയും കലാശവുമെടുത്തു്
+പ്രസംഗിക്കുന്നു. കേരളത്തിലെ ഇടതുസർക്കാറിനെ തുരങ്കംവെക്കാൻ ശ്രമിക്കുന്ന ‘സകല’ ശക്തികൾക്കുമെതിരെ
+യുദ്ധം പ്രഖ്യാപിക്കുന്നു. <ref target="https://ml.wikipedia.org/wiki/Pharis_Aboobaker">ഫാരിസ്
+അബൂബക്കറി</ref> നെയും കൂട്ടുകച്ചവടക്കാരെയും ഭംഗ്യന്തരേണ കുറ്റപ്പെടുത്തുന്നു…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. എം. എസ്. നമ്പൂതിരിപ്പാട്</figDesc>
+          </figure>
+          <p> ബീഡി തൊഴിലാളികളും നെയ്ത്തുകാരും ചെറുകിട കച്ചവടക്കാരും കൃഷിക്കാരും കർഷകത്തൊഴിലാളികളും മറ്റു
+സാധുക്കളുമൊക്കെയാണു് കണ്ണൂരെ സാധാരണ സഖാക്കൾ. അവർ ദേശാഭിമാനി മാത്രം വായിക്കുന്നവരും
+കൈരളി, പീപ്പിൾ, വി ചാനലുകൾ മാത്രം കാണുന്നവരുമാണു്. അവർക്കു് ഗ്രൂപ്പില്ല. വിഭാഗീയതയെപ്പറ്റി വലിയ
+പിടിപാടില്ല. ആശയസമരം അങ്ങാടിമരുന്നോ പച്ചമരുന്നോ എന്നറിയില്ല. <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+
+അച്യുതാനന്ദൻ</ref> വലിയ നേതാവാണെന്നറിയാം. പുന്നപ്ര-വയലാർ സമരനായകനായിരുന്നു എന്നു
+കേട്ടിട്ടുണ്ടു്. സഖാവിന്റെ പ്രസംഗശൈലി ഇഷ്ടമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/C_achuthamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. അച്യുതമേനോൻ</figDesc>
+          </figure>
+          <p> അച്ചുമ്മാന്റെ പ്രസംഗം കേട്ടു് കണ്ണൂർ സഖാക്കൾ ഇളകിമറിഞ്ഞതും കൈയടിച്ചുതിമിർത്തതും സ്വാഭാവികം.
+ഹർഷാരവമുയർന്നപ്പോൾ പ്രസംഗകന്റെ ആവേശം വർദ്ധിച്ചു: ഏതു് കുപ്രചാരണം അഴിച്ചുവിട്ടാലും
+സി. പി. എമ്മിന്റെ രാഷ്ട്രീയ നയം തിരുത്താമെന്നോ തിരുത്തിക്കാമെന്നോ ആരും കരുതണ്ടാാാാ. പാർട്ടിയെ
+പലവിധ സ്വാധീനങ്ങളിലൂടെ ലക്ഷ്യത്തിൽ നിന്നു് വ്യതിചലിപ്പിക്കാമെന്നു് ‘ആരു’ കരുതിയാലും അതു നടക്കില്ല.
+പാർട്ടിയും സർക്കാറും ലക്ഷ്യം കൈവരിക്കുകതന്നെ ചെയ്യും…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Nicolae_Ceausescu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചൗഷസ്ക്യൂ</figDesc>
+          </figure>
+          <p> നിലയ്ക്കാത്ത കൈയടി കേട്ടു് ശശിയും <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">വിജയനും</ref> കടപ്പല്ലു്
+ഞെരിച്ചു. <ref target="https://en.wikipedia.org/wiki/M._V._Govindan">ഗോവിന്ദന്റെ</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/E.P._Jayarajan">ജയരാജന്മാ</ref>
+രുടെയും മുഖം മഞ്ഞളിച്ചു. എന്തു ചെയ്യാം. കണ്ണൂരും <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസാ</ref> ണു്
+താരം എന്നു് മാധ്യമ സിൻഡിക്കേറ്റ് ഉദ്ഘോഷിച്ചു.
+</p>
+          <p>സംസ്ഥാന സമ്മേളനത്തിൽ ഇതേ കളിതന്നെയാണു് കാരണവർ കളിച്ചതു്. ബഹുഭൂരിപക്ഷം പ്രതിനിധികളും
+വിരുദ്ധ വിഭാഗക്കാർ. ചർച്ചയിൽ എമ്പാടും വിമർശങ്ങൾ. കേന്ദ്ര നേതൃത്വം കാരക്കോലും തോട്ടിയും
+ആവശ്യമെങ്കിൽ ഉപയോഗിക്കാൻ മയക്കുവെടിയുമായി നിന്നതുകൊണ്ടു മാത്രമാണു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസി</ref> നും
+വിരലിലെണ്ണാവുന്നത്ര അനുചരന്മാർക്കും സംസ്ഥാന കമ്മിറ്റിയിൽ കടന്നുകൂടാൻ കഴിഞ്ഞതു്. മൽസരം
+നടന്നിരുന്നെങ്കിൽ, കോട്ടയത്തു് മലപ്പുറവും തിരുവനന്തപുരവും ആവർത്തിച്ചേനെ. ഇനി വിഭാഗീയതയില്ല,
+വിമർശങ്ങൾ ഉൾക്കൊണ്ടു് തെറ്റുതിരുത്തി മുന്നോട്ടുപോകും എന്നു് ഏറ്റുപറഞ്ഞാണു് സമ്മേളനനഗരിയിൽനിന്നു്
+അച്ചുമ്മാൻ പൊതുയോഗത്തിനു് പോയതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_Krishna_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> ഫെബ്രുവരി വ്യാഴാഴ്ച വൈകീട്ടു് കോട്ടയം നാഗമ്പടം മൈതാനം മനുഷ്യമഹാസമുദ്രമായി. <ref target="https://ml.wikipedia.org/wiki/Prakash_Karat">പ്രകാശ് കാരാട്ടി</ref> ന്റെ
+ഉദ്ഘാടനപ്രസംഗം, <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref> യുടെ
+അധ്യക്ഷപ്രസംഗം, അനന്തരം അഭിവാദന പ്രസംഗത്തിനായി മുഖ്യമന്ത്രി എഴുന്നേറ്റു. ജനസമുദ്രം ഇരമ്പിയാർത്തു.
+കണ്ണേ കരളേ വി. എസ്സേ… എന്ന മുദ്രാവാക്യം മുഴങ്ങി. ഓരോ വാചകത്തിനും നിലയ്ക്കാത്ത കരഘോഷം.
+“കൈയടിച്ചതും ജയ് വിളിച്ചതും മതി, ഇനി പ്രസംഗം കഴിഞ്ഞിട്ടു് മതി ബാക്കി” എന്നു് വി. എസിനു്
+പറയാമായിരുന്നു. പക്ഷേ, പറഞ്ഞില്ല. ജനത്തിന്റെ ആവേശം മുതലെടുത്തു് അച്ചുമ്മാൻ പുതിയ നമ്പരുകൾ
+ഇറക്കി. അപ്പോഴേക്കും മഴതുടങ്ങി. ജനം ഇരുന്നിടത്തുനിന്നെഴുന്നേറ്റു. ആവേശത്തിനു് കുറവില്ല. കൈയടിക്കും
+ജയ്വിളിക്കും കുറവേതുമില്ല. മഴ നനഞ്ഞതറിയാതെ, പ്രായം വകവെക്കാതെ മുഖ്യൻ പ്രസംഗം തുടരുകയാണു്.
+കേൾവിക്കാരുടെ ആവേശം നുരഞ്ഞു പൊങ്ങി. ഉൽസാഹപ്രഹർഷത്തിനിടെ ഒരു പ്രവർത്തകൻ കാലി
+
+പ്ലാസ്റ്റിക് കുപ്പി വേദിയിലേക്കെറിഞ്ഞു. മഴകനത്തു, നാഗമ്പടം മൈതാനത്തു് വെള്ളം കെട്ടി. നല്ല മഴയാണെന്നു്
+ഒരു വോളണ്ടിയർ മുഖ്യമന്ത്രിയെ ഓർമ്മിപ്പിച്ചു. നിറുത്തിക്കളയാം എന്നു് വി. എസും പറഞ്ഞു. പ്രതികൂല
+കാലാവസ്ഥ നിമിത്തം യോഗം അവസാനിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Erich_Honecker.jpg" rendition="gra"/>
+            <figDesc style="thumb">എറിക്ക് ഹോനേക്കർ</figDesc>
+          </figure>
+          <p> ഈ ഘട്ടത്തിൽ ഒരൽപം സംയമനം പാർട്ടി സെക്രട്ടറി കാണിച്ചിരുന്നെങ്കിൽ കോട്ടയം സമ്മേളനത്തിന്റെ
+ചരിത്രം മറ്റൊന്നാകുമായിരുന്നു. വി. എസിനു് ജയ്വിളിച്ച വിവരദോഷികൾ വീട്ടിൽ പൊയ്ക്കോട്ടെ എന്നു
+കരുതിയാൽ മതിയായിരുന്നു. പക്ഷേ, കണ്ണൂർക്കളരിയുടെ കാർക്കശ്യം അതിനു് അനുവദിച്ചില്ല. മൈക്കിനു മുന്നിൽ
+വന്നു് അധ്യക്ഷൻ പൊട്ടിത്തെറിച്ചു: ഇതാണോ കമ്യൂണിസ്റ്റ് പാർട്ടിയുടെ സംസ്കാരം? എന്തു തോന്ന്യാസവും
+കാണിക്കാനുള്ളതാണോ പാർട്ടിയുടെ യോഗം?… ചോദിച്ചതു് കേൾവിക്കാരോടായിരുന്നെങ്കിലും ചോദ്യം
+വി. എസിനോടായിരുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_Rajeev.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. രാജീവ്</figDesc>
+          </figure>
+          <p> ഉഷാ ഉതുപ്പിന്റെ ഗാനമേളയല്ല, കമ്യൂണിസ്റ്റ് പാർട്ടിയുടെ സമ്മേളനം. ഉള്ളിൽ കിടക്കുന്ന കള്ളിന്റെ വീര്യം
+പുറത്തുകാണിക്കരുതു് എന്ന ശാസനയിലൂടെ സഖാവു് വിജയൻ അച്ചുമ്മാനു് മുദ്രാവാക്യം വിളിച്ച മൊത്തം
+സഖാക്കളെ കള്ളുകുടിയന്മാരും കൊള്ളരുതാത്തവരുമാക്കി മുദ്രയടിച്ചു. വോളണ്ടിയർമാർ ചുവന്ന
+കുപ്പായവുമിട്ടുനിന്നാൽ പോര എന്ന വചനത്തിലൂടെ അടിതുടങ്ങാനുള്ള സൂചനയും നൽകി. ചെങ്കുപ്പായ സൈന്യം
+മുദ്രാവാക്യവീരന്മാരെ തെരഞ്ഞുപിടിച്ചു് തല്ലി, അവർ തിരിച്ചുംതല്ലി. സി. പി. എമ്മിന്റെ ചരിത്രത്തിലെ
+നാഴികകല്ലായിരിക്കും കോട്ടയം സമ്മേളനം എന്ന പിണറായി സഖാവിന്റെ വാക്കുകൾ അറംപറ്റി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/OABDULLA.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒ. അബ്ദുല്ല</figDesc>
+          </figure>
+          <p> സമ്മേളനം അടിച്ചുപിരിഞ്ഞു എന്നു് സിൻഡിക്കേറ്റ് ചാനലുകളും പത്രങ്ങളും ആഹ്ലാദപൂർവം റിപ്പോർട്ട് ചെയ്തു.
+സംസ്ഥാന കമ്മിറ്റി പിടിച്ച വിജയോന്മാദത്തിൽ, വിജയൻ വി. എസ്. അനുകൂല മുദ്രാവാക്യം വിളിച്ചവരെ ആളെ
+വിട്ടു് തല്ലിച്ചു എന്ന മട്ടിലാണു് പത്രങ്ങൾ റിപ്പോർട്ട് ചെയ്തതു്. ചാനലുകൾ പിണറായിയുടെ മേഘഗർജ്ജനം
+ആവർത്തിച്ചു സംപ്രേക്ഷണം ചെയ്തു് കൃതാർഥരായി. അങ്ങനെ വിജയമുഹൂർത്തത്തിൽ വിജയൻ വീണ്ടും
+വില്ലനായി, വി. എസിനു് വീണ്ടും ദുരന്ത നായകന്റെ പരിവേഷം ലഭിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CP_Krishnan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">ക്യാപ്റ്റൻ കൃഷ്ണൻ നായർ</figDesc>
+          </figure>
+          <p> ഇതാണു് വിജയൻ സഖാവിന്റെ വിധി. ഭൂരിപക്ഷം ജില്ലാ കമ്മിറ്റികളും ഏരിയാകമിറ്റികളും ലോക്കൽ,
+ബ്രാഞ്ച്കമ്മിറ്റികളും സഖാവിനോടൊപ്പമാണു്. സംസ്ഥാന കമ്മിറ്റിയിൽ അഞ്ചിൽ നാലുഭാഗവും അദ്ദേഹത്തിനു
+പിന്നിൽ പാറപോലെ ഉറച്ചു നിൽക്കുന്നു. സംസ്ഥാന സെക്രട്ടറിയേറ്റ് രൂപവത്കരിക്കുമ്പോൾ അതിലും മൃഗീയ
+ഭൂരിപക്ഷം കിട്ടും. കേരളത്തിൽനിന്നുള്ള കേന്ദ്രകമ്മിറ്റി അംഗങ്ങളുടെ കാര്യവും തഥൈവ. <ref target="https://ml.wikipedia.org/wiki/K.E.N.Kunhahamed">കെ. ഇ. എൻ.</ref>,
+പോക്കറാദി സൈദ്ധാന്തികരും ഉദരനിമിത്തം ബഹുകൃതവേഷക്കാരായ ഇതര പിണ്ടിക്കേറ്റ് ബുജികളും
+പിണറായി സങ്കീർത്തനനിരതരാണു്. പാർട്ടി പത്രവും അബ്കാരി ചാനലും വിജയ വൈജയന്തികളാണു്.
+ഫാരിസ് മുതലാളി ആരംഭിക്കാൻ പോകുന്ന ‘വാർത്ത’ പത്രവും ചാനലും വി. എസ്.
+
+സംഹാരികൾകൂടിയായിരിക്കും. <ref target="https://ml.wikipedia.org/wiki/C._P._Krishnan_Nair">ക്യാപ്റ്റൻ കൃഷ്ണൻ
+നായർ</ref>, ഗൾഫാർ മുഹമ്മദാലി, <ref target="https://en.wikipedia.org/wiki/P._V._Abdul_Wahab">പി. വി. അബ്ദുൽ
+വഹാബ്</ref>, സാന്റിയാഗോമാർട്ടിൻ, സിനിമാനടൻ <ref target="https://ml.wikipedia.org/wiki/Mammootty">മമ്മൂട്ടി</ref>, ഗോകുലം ഗോപാലൻ
+മുതലായ ഉദാരമതികൾ പിണറായി സഖാവിന്റെ ആപ്തമിത്രങ്ങളാണു്, സദാ സഹായസന്നദ്ധരുമാണു്.
+കമ്യൂണിസത്തിന്റെ പുഷ്കല കാലത്തു് കിഴക്കൻ യൂറോപ്പിലോ റഷ്യയിലോ ആണു് ജീവിച്ചിരുന്നതെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Joseph_Stalin">സ്റ്റാലിനെ</ref> ക്കാൾ,
+<ref target="https://en.wikipedia.org/wiki/Lavrentiy_Beria">ബെറിയ</ref>
+യെക്കാൾ, <ref target="https://en.wikipedia.org/wiki/Erich_Honecker">എറിക്ക്
+ഹോനേക്കറെ</ref> ക്കാൾ, <ref target="https://en.wikipedia.org/wiki/Nicolae_Ceaușescu">ചൗഷസ്ക്യൂ</ref>
+വിനേക്കാൾ കേമനാകുമായിരുന്നു നമ്മുടെ വിജയൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Lavrenti-Beria.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബെറിയ</figDesc>
+          </figure>
+          <p> എന്തുചെയ്യാം? ഇതു് ഇന്ത്യയായിപ്പോയി. എഴുതപ്പെട്ട ഭരണഘടനയും നീതിന്യായ കോടതികളുമുണ്ടു്.
+അയ്യഞ്ചു കൊല്ലം കൂടുമ്പോൾ തെരഞ്ഞെടുപ്പു് നടക്കും. കോൺഗ്രസ്, ബി. ജെ. പി. മുതലായ ബൂർഷ്വാ
+പാർട്ടികളോടു് താരതമ്യം ചെയ്യുമ്പോൾ വിപ്ലവകക്ഷി തുലോം ദുർബലമാണു്. കേരളത്തെ സംബന്ധിച്ചിടത്തോളം
+പിന്നെയും ഏറെയുണ്ടു് ദുർഘടങ്ങൾ. ഇവിടെ മുസ്ലിംലീഗുണ്ടു്, കേരള കോൺഗ്രസിലെ വിവിധ ഗ്രൂപ്പുകളുണ്ടു്,
+സി. പി. ഐ., ആർ. എസ്. പി. മുതലായ സ്വൈരക്കേടുകൾ വേറെയുമുണ്ടു്. ജനങ്ങൾ അക്ഷരാഭ്യാസമുള്ളവരാണു്,
+പത്രം വായിക്കുന്നവരും ടെലിവിഷൻ കാണുന്നവരുമാണു്. മനോരമ, മാതൃഭൂമി പത്രങ്ങളുടെ പകുതിപോലും
+സർക്കുലേഷനില്ല, ദേശാഭിമാനിക്കു്. കൈരളി, പീപ്പീൾ, വി ചാനലുകളെക്കാൾ ജനം കാണുന്നതു് ഏഷ്യാനെറ്റും
+സൂര്യയും ഇന്ത്യാവിഷനും മനോരമ ന്യൂസുമാണു്. <ref target="https://en.wikipedia.org/wiki/P._Rajeeve">പി. രാജീവും</ref> <ref target="https://ml.wikipedia.org/wiki/K.E.N.Kunhahamed">കെ. ഇ. എൻ.
+കുഞ്ഞഹമ്മദും</ref> പ്രതിഭാശാലികളാണെന്നതിൽ സംശയമില്ല. പക്ഷേ, പാർട്ടി സഖാക്കൾ തന്നെയും
+കൂടുതൽ വായിക്കുന്നതു് <ref target="https://ml.wikipedia.org/wiki/Appukutan_vallikunnu">അപ്പുക്കുട്ടൻ
+വള്ളിക്കുന്നി</ref> ന്റെയും <ref target="https://ml.wikipedia.org/wiki/K._Gopalakrishnan">കെ.
+ഗോപാലകൃഷ്ണന്റെ</ref> യും <ref target="https://ml.wikipedia.org/wiki/O._Abdullah">ഒ. അബ്ദുല്ല</ref> യുടെയും
+സിൻഡിക്കേറ്റ് കോളങ്ങളാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PV_Abdul_Wahab.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. വി. അബ്ദുൽ വഹാബ്</figDesc>
+          </figure>
+          <p> ചുരുക്കിപറഞ്ഞാൽ, വ്യത്യസ്തനാമൊരു നേതാവാം വിജയനെ സത്യത്തിലാരും തിരിച്ചറിയുന്നില്ല.
+പാർട്ടിയുടെ ലോക്കൽ കമ്മിറ്റി മുതൽ മേലോട്ടുള്ള സഖാക്കൾക്കു് പിണറായി ആദരണീയനും ആരാധ്യനുമാണു്.
+പക്ഷേ, പൊതുസമൂഹത്തിൽ <ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ. ജി.</ref>-ക്കോ
+<ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">ഇ. കെ.
+നായനാർ</ref> ക്കോ കിട്ടിയിരുന്ന സ്വീകാര്യത വിജയൻ സഖാവിനു് ലഭിക്കുന്നില്ല. സഖാവിന്റെ നോക്കിലും
+വാക്കിലുമുള്ള പാരുഷ്യം, ശരീരഭാഷയുടെ ധാർഷ്ട്യം സാധാരണക്കാരെ അകറ്റി നിറുത്തുന്നു എന്നതാകാം
+കാരണം. ഇതേ വല്ലായ്ക, <ref target="https://ml.wikipedia.org/wiki/E.P._Jayarajan">ഇ. പി. ജയരാജനും</ref>
+<ref target="https://en.wikipedia.org/wiki/M._V._Govindan">എം. വി.
+
+ഗോവിന്ദനു</ref> മുണ്ടു്. പിണറായിക്കു് പഠിക്കുന്ന സ്വരാജ്നായർക്കുപോലുമുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CKeshavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കേശവൻ</figDesc>
+          </figure>
+          <p> നേർവിപരീതമാണു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസി</ref> ന്റെ
+സ്ഥിതി. മൂന്നരക്കോടി മലയാളികൾക്കും ആരാധ്യനാണു് മുഖ്യമന്ത്രി. <ref target="https://en.wikipedia.org/wiki/P._Krishna_Pillai">പി. കൃഷ്ണപിള്ള</ref>,
+<ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്. നമ്പൂതിരിപ്പാട്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ.
+ഗോപാലൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/R._Sugathan">ആർ.
+സുഗതൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">സി.
+അച്യുതമേനോൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/C._Kesavan">സി. കേശവൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/K._Kelappan">കെ. കേളപ്പൻ</ref> മുതലായ
+തീപ്പെട്ട തമ്പുരാക്കന്മാരുടെയും <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref>, <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരൻ</ref>
+തുടങ്ങിയ ജീവിച്ചിരിക്കുന്ന വിശുദ്ധന്മാരുടെയും കൂട്ടത്തിലാണു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദ</ref> ന്റെ സ്ഥാനം. അദ്ദേഹത്തെ പേരെടുത്തു് പറഞ്ഞു് കുറ്റപ്പെടുത്താൻ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> ക്കോ
+<ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> ക്കോ നാവു പൊങ്ങുന്നില്ല, <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+ക്കോ കൃഷ്ണദാസിനോ ധൈര്യംവരില്ല. <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോനെ</ref>
+ക്കാൾ മാധ്യമപിന്തുണ കിട്ടിയ ആളാണു് അച്യുതാനന്ദൻ. വി. എസിനെ വിമർശിക്കുമ്പോൾ മനോരമപോലും
+സംയമനം പാലിക്കും. അച്ചുമ്മാനെ നിർദാക്ഷിണ്യം കുറ്റപ്പെടുത്തിയ ദീപികയുടെ സർക്കുലേഷൻ
+85,000-ത്തിൽനിന്നു് 15,000-ത്തിലേക്കു് താണു എന്നാണു് ചരിത്രം. കത്തനാന്മാർ വീണ്ടെടുത്തു് വീണ്ടും
+മാമോദീസമുക്കിയ ദീപിക ഇപ്പോൾ മാതൃഭൂമിയെക്കാൾ ആവേശത്തോടെ <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref> യെ
+പഴിക്കുന്നു; <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസി</ref> നെ
+വാഴ്ത്തുന്നു!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Stalin.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്റ്റാലിൻ</figDesc>
+          </figure>
+          <p> ഓരോ മലയാളിയുടെ മനസ്സിലിം ഒരു <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref> ഉണ്ടു്.
+അനീതിക്കും അക്രമത്തിനും അഴിമതിക്കും സ്ത്രീപീഡനത്തിനും വനനശീകരണത്തിനുമെതിരെ പൊരുതുന്ന ഒരാൾ.
+പഴയ ബ്ലാക്ക് ആന്റ് വൈറ്റ് സിനിമകളിൽ സത്യൻ അഭിനയിച്ച ധീരോദാത്ത നായകൻ. ഒന്നുകിൽ തച്ചോളി
+ഒതേനൻ, അല്ലെങ്കിൽ ആരോമൽചേകവർ. മലപ്പുറത്തു് വി. എസ്. ഗ്രൂപ്പുകാർ തോറ്റപ്പോഴും ദേശാഭിമാനി
+പത്രാധിപസ്ഥാനത്തുനിന്നു് അദ്ദേഹത്തെ നീക്കംചെയ്തപ്പോഴും തെരഞ്ഞെടുപ്പിൽ സീറ്റുനിഷേധിച്ചപ്പോഴും മൂന്നാർ
+ദൗത്യം പരാജയപ്പെട്ടപ്പോഴുമൊക്കെ ജനം ദുഃഖിച്ചു. മലയാളിയുടെ മനസ്സിൽ <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയനു</ref> മുണ്ടു്—കോട്ടയം ചെല്ലപ്പന്റെ റോളിലാണെന്നു മാത്രം.
+
+</p>
+          <p>പരാജയത്തിൽ <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+ശക്തനാകുന്നു. വിജയത്താൽ വിജയൻ തളരുന്നു. പരാജയമാണു് വി. എസിന്റെ വിജയം. വിജയമാണു്
+വിജയന്റെ പരാജയം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vyathyasthanamoru Nethavam
+Vijayane Sathyathilarum… (ml: വ്യത്യസ്തനാമൊരു നേതാവാം വിജയനെ
+സത്യത്തിലാരും…).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Vyathyasthanamoru Nethavam Vijayane Sathyathilarum…, കെ. രാജേശ്വരി,
+വ്യത്യസ്തനാമൊരു നേതാവാം വിജയനെ സത്യത്തിലാരും…, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Death_of_the_Levite%27s_Concubine_by_W._Bartsius_%281638,_Hermitage%29.jpg">Death
+of the Levite’s Concubine,</ref> a painting by Bartsius Willem  (1612–1639). The image
+is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-vijayane.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-vijayane.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

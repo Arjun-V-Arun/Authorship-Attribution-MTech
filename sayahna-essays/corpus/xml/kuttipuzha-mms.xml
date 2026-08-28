@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മന്ത്രവാദം—മതം—ശാസ്ത്രം</title>
+          <title xml:lang="en" type="main">Manthravadam—Matham—Sasthram</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">May 25, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മന്ത്രവാദം—മതം—ശാസ്ത്രം</title>
+              <title xml:lang="en" type="main">Manthravadam—Matham—Sasthram</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Manthravadam—Matham—Sasthram</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മന്ത്രവാദം—മതം—ശാസ്ത്രം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>May 25, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_murder_of_a_child.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Erik_Henningsen__Summum_jus,_summa_injuria._The_murder_of_a_child.__Google_Art_Project.jpg">The murder of a child,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Erik_Henningsen">Erik
+Henningsen</ref>  (1855–1930). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മന്ത്രവാദം—മതം—ശാസ്ത്രം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മന്ത്രവാദം—മതം—ശാസ്ത്രം</head>
+        <div type="lsection">
+          <p style="noindent">മനുഷ്യൻ ആദ്യം ഒരു മന്ത്രവാദിയായിരുന്നു. പിന്നിടു് മതവിശ്വാസിയായി; ഇപ്പോൾ
+അവൻ ശാസ്ത്രജ്ഞനായിത്തീർന്നിരിക്കയാണു്. വിജ്ഞാനശ്രേണിയിലൂടെ മനുഷ്യൻ പടിപടിയായി
+ഉയർന്നുവന്നിട്ടുള്ളതു് ഏതാണ്ടിപ്രകാരമാണെന്നു സാമൂഹ്യശാസ്ത്രകാരന്മാർ (Sociologists) സമർത്ഥിക്കുന്നു.
+മന്ത്രവാദയുഗം, മതയുഗം എന്ന രണ്ടു കാലഘട്ടങ്ങളെ നാം തരണം ചെയ്തു കഴിഞ്ഞു. ഇപ്പോഴത്തേതു
+ശാസ്ത്രയുഗമാണു് എന്നാലും അതീതകാലഘട്ടത്തിലെ ജീവിതസ്വഭാവശിഷ്ടങ്ങൾ പ്രാപ്തകാലജീവിതത്തിന്റെ
+പ്രതിഫലിച്ചുകൊണ്ടിരിക്കുന്നുണ്ടു്. അതുകൊണ്ടാണു് ശാസ്ത്രത്തിന്റെ വെളിച്ചം വ്യാപിച്ചിട്ടും മന്ത്രവാദത്തിന്റെയും
+മതത്തിന്റെയും ഇരുട്ടിൽ ചുരുണ്ടുകൂടികിടക്കുവാൻ മനുഷ്യർ ഇപ്പോഴും ഇഷ്ടപ്പെടുന്നതു്. പുരാതന കിരാതദശ
+മുതൽ അടിയുറച്ചുപോന്നിട്ടുള്ള ഇത്തരം അന്ധവാസനകൾ വിജ്ഞാനത്തിന്റെ തിരത്തല്ലുകൊണ്ടു
+തേഞ്ഞുമാഞ്ഞുപോകണമെങ്കിൽ ഇനിയും എത്രയോ കാലം വേണ്ടിവരും.
+</p>
+          <p>വിചിത്രവും സങ്കീർണവുമായ ഒരു പരിണാമഗതിയാണു് മർത്യ സമുദായ ജീവിതത്തിൽ പ്രത്യക്ഷപ്പെടുന്നതു്.
+അന്ധനായ വനചരൻ മുതൽ വൈജ്ഞാനികനായ വ്യോമചാരിവരെ അതു വിധിരൂപം പൂണ്ടു നീണ്ടുകിടക്കുന്നു.
+മനുഷ്യൻ എത്രയോ കാലം ഇരുട്ടിൽ തപ്പിത്തടഞ്ഞു നടന്നു് ഒടുവിൽ യാദൃച്ഛികമായി വെളിച്ചം കണ്ടെത്തിയ ഒരു
+കഥയാണതു്. രസാത്മകമായ ഈ ജീവിതകഥയുടെ വ്യാഖ്യാനങ്ങളുടെ നിലയിൽ അനേകം ശാസ്ത്രഗ്രന്ഥങ്ങൾ
+ഉണ്ടായിട്ടുണ്ടു്. സർ. ജെ. സി. ഫ്രേസരുടെ ‘ദി ഗോൾഡൻ ബോ’ (The Golden Bough) എന്ന ഗ്രന്ഥം ഇവയിൽ
+പ്രാമാണ്യം അർഹിച്ചുകൊണ്ടു് വിശ്വപ്രശസ്തി നേടിയിട്ടുള്ള ഒന്നാകുന്നു. മനുഷ്യന്റെ യഥാർത്ഥചരിത്രം
+അറിയണമെന്നുള്ളവർ വായിച്ചു പഠിക്കേണ്ട ഒരു വിശിഷ്ടഗ്രന്ഥമാണിതു്.
+</p>
+          <p>സാമൂഹ്യജീവിതത്തിന്റെ അഭിവൃദ്ധിക്കുള്ള ആദികാരണം തൊഴിൽ വിഭജനം (Division of Labour)
+ആണെന്നു് ഫ്രേസർ ചൂണ്ടിക്കാണിക്കുന്നു. മനുഷ്യസമുദായത്തിൽ ഈ തൊഴിൽ വിഭജനം ആദ്യമായി
+ആരംഭിച്ചതു മന്ത്രവാദത്തിലൂടെയത്രെ. അപരിഷ്കൃതമനുഷ്യർ കൂട്ടംകൂട്ടമായി മൃഗങ്ങളെ വേട്ടയാട്ടി ഉപജീവിച്ചിരുന്ന
+കിരാതദശയുടെ ആദിമഘട്ടത്തിൽ ഇരതേടലിൽനിന്നു വ്യത്യസ്തമായി പ്രത്യേകിച്ചൊരു തൊഴിൽ
+ആർക്കുമുണ്ടായിരുന്നില്ല. പ്രകൃതിശക്തികളെ അഭിമുഖീകരിച്ചു് അമ്പരന്നും അന്ധാളിച്ചും കഴിഞ്ഞുപോന്ന ആ
+വനചരസമൂഹത്തിൽ ക്രമേണ മന്ത്രവാദം നടപ്പിലാകയും അതിൽ വിദഗ്ദ്ധന്മാരായവർ അന്നത്തെ
+സാമൂഹ്യജീവിതത്തിൽ നായകന്മാരായിത്തീരുകയും ചെയ്തു. യാതൊരു വിധമായ മതവിശ്വാസവും അന്നു
+നടപ്പിലിരുന്നില്ല. ആസ്ട്രേലിയയിലെ ചില ആദിമനിവാസികളുടെ സാമൂഹ്യജീവിതം പരിശോധിച്ചാൽ ഈ
+സംഗതി സ്പഷ്ടമാകുന്നതാണു്. ഒരുതരം മന്ത്രവാദമല്ലാതെ മതപരം എന്നു പറയത്തക്ക യാതൊന്നും തന്നെ
+അവരുടെ ഇടയിൽ കാണുന്നില്ല. മന്ത്രവാദത്തെ മതത്തിന്റെ ഒരു അപരിഷ്കൃതരൂപമായി ഗണിക്കരുതോ
+എന്നൊരു ചോദ്യം പ്രകൃതത്തിൽ അങ്കുരിക്കാം. എന്നാൽ, വാസ്തവത്തിൽ മൗലികങ്ങളായ വ്യത്യാസങ്ങളാണു
+രണ്ടിനും തമ്മിലുള്ളതു്. മന്ത്രവാദത്തിന്റെയും മതത്തിന്റെയും സ്വരൂപം സ്വഭാവം മുതലായവയെ ശരിയായി
+വിശകലനം ചെയ്തുനോക്കിയാൽ മാത്രമേ ഈ വ്യത്യാസങ്ങൾ വെളിപ്പെടുകയുള്ളു. പ്രകൃതിനിയമങ്ങളെന്നു
+തെറ്റായി വിശ്വസിക്കപ്പെട്ടിരുന്ന ചില തത്ത്വങ്ങളിൽ അധിഷ്ഠിതമാണു് മന്ത്രവാദം. അന്ധമായ
+രീതിയിലാണെങ്കിലും കാര്യകാരണബന്ധത്തിന്റെ അംഗീകരണം അതിൽ കാണുന്നുണ്ടു്. എല്ലാ രാജ്യത്തും
+പ്രചരിച്ചിരുന്ന മന്ത്രവാദസമ്പ്രദായം മിക്കവാറും ഒന്നുപോലെയാണെന്നു പറയാം. ഇതിന്റെ അടിസ്ഥാനം രണ്ടു
+സാമാന്യനിയമങ്ങളത്രെ. ഒന്നാമത്തേതു് സദൃശങ്ങൾ സദൃശങ്ങളെ ജനിപ്പിക്കുന്നു. (Like produces like)
+അല്ലെങ്കിൽ കാര്യം കാരണത്തിന്റെ സാമ്യം വഹിക്കുന്നു. (An effect resembles its cause) എന്നതു് ഇതിനു്
+സാദൃശ്യനിയമം (Law of similarity) എന്നു പേരിടാം രണ്ടാമത്തേതു്, സമ്പർക്കനിയമം (Law of contact or
+contagion) അതായതു് രണ്ടു വസ്തുക്കൾ പരസ്പരം സംഘടിച്ചിരുന്നാൽ അവയുടെ ഭൗതികബന്ധം
+വേർപ്പെട്ടതിനുശേഷവും ആ സമ്പർക്കം തുടർന്നു ദൂരെയിരുന്നുകൊണ്ടു രണ്ടിലും അന്യോന്യം പ്രവർത്തനം
+നടത്തുമെന്നുള്ള വിശ്വാസം. താൻ അഭിലഷിക്കുന്ന ഫലം അതിന്റെ ഒരു അനുകരണം കൊണ്ടു സിദ്ധിക്കുമെന്നു
+മന്ത്രവാദി വിശ്വസിക്കുന്നതു് ഒന്നാമത്തെ നിയമപ്രകാരമാണു്. ഭൂതപ്രേതങ്ങളുടെ പ്രതിരൂപങ്ങളായി
+സങ്കല്പിക്കുന്ന പ്രതിമകളിൽ മന്ത്രം ചൊല്ലി ആണി തറച്ചാൽ അതു സാക്ഷാൽ രൂപങ്ങളിലും ചെന്നുകൊണ്ടു
+ബാധയൊഴിയുമെന്നു് അവർ വിശ്വസിച്ചിരുന്നു. കരിക്കിൻ വെള്ളം കൊണ്ടോ മറ്റോ മഴയുടെ ഒരനുകരണം
+നിർവഹിച്ചാൽ ഉടൻ വർഷപാതം ഉണ്ടാകുമെന്നാണു് അവന്റെ സങ്കല്പം. ഒരാളുടെ പല്ലോ നഖമോ മറ്റു വല്ല
+സാധനങ്ങളോ കൈവശപ്പെടുത്തി അവയെ മന്ത്രവാദോപകരണങ്ങളാക്കി ഉടമസ്ഥനെ പാട്ടിലാക്കുകയോ
+ഉപദ്രവിക്കുകയോ ചെയ്യുന്നതു് രണ്ടാമത്തെ സമ്പർക്കനിയമപ്രകാരമത്രെ. ജപ്പാനിലെ ചക്രവർത്തി ഭക്ഷണം
+കഴിച്ചു ശേഷിക്കുന്ന പദാർത്ഥങ്ങൾ അപ്പോൾത്തന്നെ നശിപ്പിച്ചുകളയുന്ന സമ്പ്രദായം ഇപ്പോഴും
+നിലവിലിരിക്കുന്നുണ്ടു്. ഓരോ ദിവസവും ഇതിലേക്കു് ഉപയോഗിക്കുന്ന പാത്രങ്ങൾ അന്നന്നു് ഉടച്ചുകളയുന്നു.
+
+ദിനംതോറും പുതിയ മൺപാത്രങ്ങളാണത്രെ അദ്ദേഹം ഉപയോഗിക്കുന്നതു് ഇവയിൽ ഏതെങ്കിലും ശത്രുക്കളുടെ
+കൈയിൽ കിട്ടിയാൽ അതുവഴി ചക്രവർത്തിക്കോ അല്ലെങ്കിൽ അതു കൈവശപ്പെടുത്തിയിരിക്കുന്നവർക്കോ
+ആപത്തുണ്ടാകുമെന്ന അന്ധവിശ്വാസമാണു് ഇതിനു കാരണം ഇതുപോലെ എത്രയോ ഉദാഹരണങ്ങൾ
+ലോകത്തിന്റെ നാനാഭാഗങ്ങളിലും കണ്ടെത്താവുന്നതാണു്.
+</p>
+          <p>മേൽക്കാണിച്ച വിവരണത്തിൽനിന്നു മന്ത്രവാദത്തിനും ശാസ്ത്രത്തിനും തമ്മിലുള്ള ഒരടുപ്പം വെളിപ്പെടുന്നുണ്ടു്.
+ഒരുവിധത്തിൽ പറഞ്ഞാൽ ശാസ്ത്രത്തിന്റെ വഴിപിഴച്ച ഒരു പൂർവരൂപമാണു് മന്ത്രവാദം. ഏതോ ചില
+പ്രകൃതിനിയമങ്ങൾ പ്രവർത്തിക്കുന്നുണ്ടെന്ന ബോധം അവ കണ്ടുപിടിക്കുന്നതിലുള്ള അന്വേഷണശീലം, ചില
+തത്ത്വങ്ങളെ അടിസ്ഥാനമാക്കി പ്രപഞ്ചശക്തികളെ നിയന്ത്രിക്കാമെന്ന വിശ്വാസം ഇവയെല്ലാം ശാസ്ത്രത്തിലെന്ന
+പോലെ മന്ത്രവാദത്തിലും ഒരു നിഴലാട്ടമെന്ന മട്ടിലെങ്കിലും പ്രത്യക്ഷപ്പെട്ടിട്ടുണ്ടു്. ചുരുക്കത്തിൽ മന്ത്രവാദിയുടെ
+ചിന്തയും അന്വേഷണശീലവുമാണു് ശാസ്ത്രത്തിലേക്കു വഴികാണിക്കുന്നതു് ചില ദേവതകളെ കൂട്ടുപിടിച്ചു എന്നതിൽ
+മാത്രമേ മന്ത്രവാദത്തിനു മതത്തോടു് ഒരു ബന്ധം കാണുന്നുള്ളു. പക്ഷേ, ഈ ശിഥിലബന്ധത്തിൽപ്പോലും
+അടിത്തട്ടിലേക്കു നോക്കുമ്പോൾ രണ്ടിനും വിപരീതനിലയുള്ളതായിക്കാണാം. മന്ത്രവാദിയുടെ ദേവതകളും
+ഭൂതപ്രേതപിശാചാദികളും അയാളുടെ ചൊല്പടിയിൽ നിൽക്കുന്നവരാണു്. അവന്റെ ചരടിൽ കോർത്ത
+പാവകളെന്ന നിലയിൽ അവ ആടിക്കളിക്കുന്നു. മന്ത്രവാദി സർവ്വശക്തനത്രെ. മനുഷ്യശക്തിക്കു് അതീതമായി
+അതിനു കീഴ്പ്പെടാത്തതായി ഒന്നുംതന്നെ അവന്റെ വിശ്വാസത്തിൽ ഉണ്ടായിരുന്നില്ല. മതത്തിന്റെ നില
+ഇതിൽനിന്നു് എത്രയോ വ്യത്യസ്തം! അതിലെ ദൈവത്തിനു് അധീനമാണു് മനുഷ്യൻ ഉൾപ്പെടെയുള്ള സർവ
+ജീവജാലങ്ങളും. പ്രപഞ്ചത്തെ മുഴുവൻ നിയന്ത്രിച്ചു ഭരിക്കുന്ന ഒരീശ്വരനിൽ വിശ്വസിക്കുകയും ആരാധനകൊണ്ടു്
+അദ്ദേഹത്തെ പ്രീതിപ്പെടുത്തുകയും ചെയ്യുക എന്നതാണു് എല്ലാ മതങ്ങളുടെയും മർമം. മതത്തിലെ ഈശ്വരൻ
+പ്രകൃതിനിയമങ്ങൾക്കു് അതീതനാണു്. യുക്തിവിരുദ്ധമായ എന്തത്ഭുതവിദ്യയും (Miracle) അദ്ദേഹത്തിനു
+പ്രകടിപ്പിക്കാം. മന്ത്രവാദമണ്ഡലത്തിൽ സ്വശക്തിക്കു സർവ പ്രാമാണ്യം കൊടുത്ത മനുഷ്യൻ മതത്തിലേക്കു്
+കടന്നപ്പോൾ ദുർബലനായി, നിരാശ്രയനായി. ഒരു ശരണാഗതവത്സലനെ സങ്കല്പിച്ച് അദ്ദേഹത്തിന്റെ മുമ്പിൽ
+കൈകൂപ്പി തലകുനിച്ചു നിൽക്കുവാൻ തുടങ്ങി. ഇങ്ങനെ നോക്കിയാൽ മതത്തിനും സയൻസിനും തമ്മിലുള്ള
+വൈരുദ്ധ്യം തന്നെ മന്ത്രവാദത്തിനും മതത്തിനും തമ്മിലുണ്ടെന്നു കാണാം. ചുരുക്കത്തിൽ മന്ത്രവാദവും സയൻസും
+ഒരു വശത്തും മതം മറുവശത്തും ആയിട്ടാണു നിലകൊള്ളുന്നതു്. മതം ശാസ്ത്രത്തിനു വിരുദ്ധമല്ല എന്നൊരു വാദം
+ചില പണ്ഡിതന്മാർ പുറപ്പെടുവിച്ചു കാണുന്നുണ്ടു്. ഇവർ മതം എന്ന വാക്കിനു നാട്ടിൽ നടപ്പില്ലാത്തതും
+സാമാന്യജനങ്ങൾക്കു മനസ്സിലാകാത്തതുമായ ഒരു പുതിയ അർത്ഥം കല്പിക്കുന്നു എന്നു മാത്രമേയുള്ളു.
+</p>
+          <p>മന്ത്രവാദം ഫലിക്കുന്നില്ലെന്നു് അനുഭവപ്പെട്ടപ്പോഴാണു് മനുഷ്യൻ അടുത്ത പടിയായി മതത്തിലേക്കു കടന്നതു്.
+അനുഭവമാണു് നമ്മുടെ ഒന്നാമത്തെ അദ്ധ്യാപകൻ. ചിരകാലജീവിതാനുഭവം അനന്തരകാലത്തെ
+നവപഥസഞ്ചാരത്തിനു മനുഷ്യനെ സന്നദ്ധനാക്കുന്നു. ഇപ്രകാരം മന്ത്രവാദയുഗത്തിൽനിന്നു
+മതയുഗത്തിലേക്കുള്ള പകർച്ചയിൽ സാമൂഹ്യവും ദേശീയവുമായ പല മാറ്റങ്ങളും സംഭവിച്ചു. സമൂഹനായകനായി
+ഭരണം നടത്തിയിരുന്ന മന്ത്രവാദി ക്രമേണ മതപുരോഹിതനായി. കാലം കുറെകൂടി മുന്നോട്ടു പോയപ്പോൾ
+പുരോഹിതനിൽ രാജത്വവും വന്നുചേർന്നു. ഇങ്ങനെ രാജാവും പുരോഹിതനും ഒന്നായിത്തീർന്നതോടുകൂടിയാണു്
+മർത്ത്യവർഗം ഏകശാസനയിൽ വളരാൻ തുടങ്ങിയതു്. ഒരു ഭരണാധികാരിയുടെ സേച്ഛാധികാരം
+ദോഷകരമാണെങ്കിലും പുരാതനകാലങ്ങളിൽ അതുകൊണ്ടു പല ഗുണങ്ങളും ഉണ്ടായിട്ടുണ്ടു്.
+ദീർഘകാലാനുഷ്ഠാനത്താൽ വേരുറച്ചുപോയ കിരാതസമ്പ്രദായങ്ങളെ അല്പാല്പമായി മാറ്റി സാമൂഹ്യജീവിതം
+പരിഷ്കരിക്കുന്നതിനു് ഇതു പ്രത്യേകം ഉപകരിച്ചു. ചുരുക്കത്തിൽ മനുഷ്യരുടെ ഇടയിൽ നടപ്പായ രാജവാഴ്ചയാണു്
+അവരെ കിരാതത്ത്വത്തിൽനിന്നു് ആദ്യമായി ഉയർത്തിയതു്. അന്നു രാജാവു് പ്രജകളുടെ ആദ്ധ്യാത്മികവും
+ലൗകികവുമായ സുഖത്തിനു് ഉത്തരവാദിയായിരുന്നു. യഥാകാലം മഴപെയ്തില്ലെങ്കിൽ രാജാവാണു് ഉത്തരം
+പറയേണ്ടതു്. രോഗം തുടങ്ങിയ ഈതിബാധകൾക്കു് പരിഹാരം ചെയ്യേണ്ടതും രാജാവുതന്നെ. ഇതിനൊന്നിനും
+പ്രാപ്തനല്ലെന്നു വെളിപ്പെട്ടാൽ രാജാവിനെ പ്രജകൾ കൊന്നുകളയുന്നു. രാജവധം (Regicide) ഒരു
+സാധാരണാചാരമായി അനേകദേശങ്ങളിൽ നിലവിലുണ്ടായിരുന്ന കഥ പ്രസിദ്ധമാണു്. പൗരോഹിത്യംകൊണ്ടു
+രാജാവിൽ ദേവത്വവും വന്നുചേർന്നു. ‘രാജാ പ്രത്യക്ഷ ദൈവതം’ എന്ന ആശയത്തിനു അടിസ്ഥാനമുറച്ചതു്
+ഇപ്രകാരമാണു്. മതം മനുഷ്യജീവിതത്തിലെ എല്ലാത്തരം പ്രശ്നങ്ങൾക്കും സമാധാനം നൽകുമെന്നു്
+ആദ്യകാലത്തു ജനസമൂഹം വിശ്വസിച്ചിരുന്നു. ഭിന്നമതങ്ങൾ ലോകത്തിന്റെ പല ഭാഗങ്ങളിലും പ്രചരിച്ചു.
+മതസ്ഥാപനങ്ങൾ ലോകമെങ്ങും നിറഞ്ഞു. ഇനി അറിയാനും അന്വേഷിക്കാനും ഒന്നുമില്ലെന്നമട്ടിൽ
+മതാധികാരികൾ ഭരണം തുടങ്ങി. അവരുടെ മതാന്ധ്യവിജൃംഭണത്തിന്റെ ഫലമായി യുദ്ധങ്ങളും കലഹങ്ങളും
+വർദ്ധിച്ചു. ഇത്രയൊക്കെ ആയിട്ടും മനുഷ്യന്റെ ജ്ഞാനതൃഷ്ണയ്ക്കോ ജീവിതവൈഷമ്യങ്ങൾക്കോ യാതൊരു
+ശമനവുമുണ്ടായില്ല. ഇങ്ങനെയുള്ള അന്ധകാരവസ്ഥയിൽ മന്ത്രവാദം മുഖേന അങ്കുരിച്ച ചിന്താശീലത്തിൽ
+പ്രബുദ്ധനായ മനുഷ്യൻ കൊളുത്തിയ ദീപമാണു് സയൻസ്, അഥവാ ശാസ്ത്രം.
+</p>
+          <p>സയൻസിന്റെ മാഹാത്മ്യം വർണിച്ചു് ഈ ലേഖനം ദീർഘിപ്പിക്കണമെന്നു വിചാരിക്കുന്നില്ല. ശാസ്ത്രീയമാർഗം
+അവലംബിച്ചു സാമുദായികവും സാമ്പത്തികവും രാഷ്ട്രീയവുമായി സംഘടിച്ചെങ്കിൽ മാത്രമേ മനുഷ്യവർഗത്തിനു
+രക്ഷയുള്ളു എന്നു് ഇതുവരെയുള്ള അനുഭവം നമ്മെ പഠിപ്പിക്കുന്നുണ്ടു്. ഇന്നു് ആശ്ചര്യകരമാം വിധം
+തെളിഞ്ഞുവന്നിട്ടുള്ള ശാസ്ത്രബോധം മുഴുവൻ പ്രായോഗികമാക്കിത്തീർക്കാമെങ്കിൽ ജീവിതം ഇപ്പോഴത്തെ
+
+തോതിൽനിന്നു് എത്രയോ ഉയരുമെന്നുള്ളതിൽ തർക്കമുണ്ടോ? ഒന്നു തീർച്ചയായി. അജ്ഞത, ദാരിദ്ര്യം, രോഗം
+എന്നീ മൂന്നു പ്രധാന ജീവിതബാധകളിൽനിന്നു മനുഷ്യർക്കു മോചനം നൽക്കാൻ മന്ത്രവാദത്തിനോ മതത്തിനോ
+സാദ്ധ്യമല്ലെന്നു്. സർവോപരി കാമ്യമായ മോക്ഷം ഇതുതന്നെയാണു്. സയൻസുകൊണ്ടു് ഇതു സാദ്ധ്യമാകുമെന്നും
+ഇപ്പോൾ തെളിഞ്ഞുകഴിഞ്ഞിരിക്കുന്നു. ശാരീരികവും മാനസികവും ആയ ഈ മോചനം ലഭിച്ചാൽ പിന്നെ
+ആത്മാവിന്റെ മോക്ഷത്തിനു വേറെ വല്ലതും ചെയ്യേണ്ടതുണ്ടോ?
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>
+ Manthravadam—Matham—Sasthram (ml: മന്ത്രവാദം—മതം—ശാസ്ത്രം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Manthravadam—Matham—Sasthram, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മന്ത്രവാദം—മതം—ശാസ്ത്രം,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  May 25, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Erik_Henningsen__Summum_jus,_summa_injuria._The_murder_of_a_child.__Google_Art_Project.jpg">The murder of a child,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Erik_Henningsen">Erik
+Henningsen</ref>  (1855–1930). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-mms.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-mms.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മാധവപ്പണിക്കരുടെ ഭഗവദ്ഗീത</title>
+          <title xml:lang="en" type="main">Madhavapanikkarude Bhagavathgeetha</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">November 6, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മാധവപ്പണിക്കരുടെ ഭഗവദ്ഗീത</title>
+              <title xml:lang="en" type="main">Madhavapanikkarude Bhagavathgeetha</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Madhavapanikkarude Bhagavathgeetha</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മാധവപ്പണിക്കരുടെ ഭഗവദ്ഗീത</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 6, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/When_the_blue_evening_slowly_falls.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Frank_Bramley__When_the_blue_evening_slowly_falls.jpg">When the blue evening slowly falls,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Frank_Bramley">Frank Bramley</ref>
+ (1857–1915). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മാധവപ്പണിക്കരുടെ ഭഗവദ്ഗീത</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മാധവപ്പണിക്കരുടെ ഭഗവദ്ഗീത</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ulloor_S_Parameswara_Iyer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉള്ളൂർ</figDesc>
+          </figure>
+          <p style="noindent"> മദ്ധ്യകാലമലയാളമാതൃകകളുടെ രണ്ടാംഭാഗത്തിലുൾപ്പെടുത്തി മഹാകവി <ref target="https://ml.wikipedia.org/wiki/Ulloor_S._Parameswara_Iyer">ഉള്ളൂർ</ref>,
+മാധവപ്പണിക്കരുടെ ഭഗവദ്ഗീത പ്രസാധനം ചെയ്തിട്ടുണ്ടല്ലോ. അതിലെ അവതാരികയിൽ പ്രസാധകൻ
+ഇങ്ങനെ അസന്ദിഗ്ദ്ധമായ ഒരഭിപ്രായം പുറപ്പെടുവിച്ചിട്ടുണ്ടു്: ‘കേരളഭാഷാസാഹിത്യത്തിന്റെ ദാരിദ്ര്യദുഃഖത്തെപ്പറ്റി
+ശോചിക്കുന്നവർ പലരുമുണ്ടു്. അവരോടു ഞാൻ ആ ഭാഷയിലാണു്. ‘ലോകത്തിൽ’ ഭഗവദ്ഗീത ‘ആദ്യമായി’
+സംസ്കൃതത്തിൽനിന്നു തർജ്ജമ ചെയ്യപ്പെട്ടുകാണുന്നതെന്നു പറഞ്ഞാൽ അവരുടെ മനസ്സിൽ അങ്കുരിക്കുന്ന
+വികാരങ്ങൾ എന്തായിരിക്കുമെന്നു് ഊഹിക്കാൻകൂടിയും തൽക്കാലം എനിക്കു ശക്തിയില്ല.’ കൂടാതെ ടിപ്പണിയിൽ
+അദ്ദേഹം പണിക്കരുടെ മനോധർമ്മമെന്നു പറഞ്ഞു പല പ്രയോഗങ്ങളും എടുത്തുകാണിച്ചു പുകഴ്ത്തുകയും
+ചെയ്തിരിക്കുന്നു. ഇവയെപ്പറ്റി ചോദ്യം ചെയ്തുകൊണ്ടും തമിഴിൽ പട്ടണാർ എന്നൊരു കവി എഴുതിയിട്ടുള്ള ഗീതയ്ക്കും
+തമ്മിൽ കാണുന്ന സാദൃശ്യത്തെ ഉദാഹരിച്ചു് ഒന്നു മറ്റതിന്റെ അനുകരണമാകാമെന്നു കാണിച്ചുകൊണ്ടും ഞാൻ
+മുപ്പതു വർഷംമുമ്പു മംഗളോദയം മാസികയിൽ ഒരു ലേഖനമെഴുതുകയുണ്ടായി. പട്ടണാരുടെ
+കാലത്തിനുശേഷമാണു് പണിക്കർ ജീവിച്ചിരുന്നതെന്നത്രേ ചില തമിഴു് പണ്ഡിതന്മാരുടെ അഭിപ്രായം. അതു
+ശരിയാണെങ്കിൽ പ്രസാധകന്റെ മേൽക്കാണിച്ച അഭിപ്രായങ്ങൾ നിരാസ്പദങ്ങളാകും. എന്റെ ലേഖനത്തിനു
+പ്രസാധകനാകട്ടെ മറ്റു ഗവേഷകന്മാരാകട്ടെ ഒരു മറുപടിയും പറഞ്ഞുകണ്ടില്ല. ആ ലേഖനമെഴുതുന്നതിനു് എന്നെ
+പ്രേരിപ്പിച്ചതും സഹായിച്ചതും തമിഴ്പണ്ഡിതനായ ഒരു സ്നേഹിതനായിരുന്നു. അദ്ദേഹവുമായി ഇതിനെപ്പറ്റി
+പ്രസാധകൻ എഴുത്തുകുത്തു നടത്തിയതായിട്ടെനിക്കറിയാം. എന്നാൽ സംശയനിവാരണാർത്ഥം ഒന്നുംതന്നെ
+മഹാകവി പരസ്യമായി പ്രസ്താവിച്ചിട്ടില്ല. അദ്ദേഹത്തിന്റെ ഭാഷാസാഹിത്യചരിത്രത്തിൽ ഇക്കാര്യം
+സൂചിതമായിട്ടേയുള്ളൂ. സനിഷ്കർഷമായ ഗവേഷണത്തിനോ നിരൂപണത്തിനോ അദ്ദേഹം ഉദ്യമിച്ചിട്ടില്ല.
+</p>
+          <p>പട്ടണാരുടെയും പണിക്കരുടെയും ഗീതകൾക്കു തമ്മിൽ, ഒന്നു മറ്റതിന്റെ അനുകരണമാണെന്നു
+തോന്നത്തക്കവിധം, പല സാദൃശ്യങ്ങളും കാണുന്നുണ്ടു്. പണിക്കരുടെ സ്വന്തം പ്രയോഗങ്ങളാണെന്നു
+പ്രസാധകൻ നിർദ്ദേശിച്ചിട്ടുള്ളവയിൽ മിക്കതും പട്ടണാരുടെ ഗീതയിലുണ്ടു്. ഉദാഹരണങ്ങൾ ഓരോന്നായി
+ചുവടെ ചേർക്കാം:
+</p>
+          <lg>
+            <l> ‘നരപതിമാർകൾ നമുക്കും പലരുളർ</l>
+            <l> നായകനായ ഭവാൻ ഭീഷ്മാദികൾ</l>
+            <l> വിരവൊടു പ്രാണത്യാഗമെനിക്കേ</l>
+            <l> വേണ്ടിയിയറ്റുകയെന്നാനരചൻ.’</l>
+            <l> (പണിക്കർ 1–8) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതിലെ പ്രയോഗരീതി മൂലത്തിൽനിന്നു വ്യതിചലിച്ചതും പണിക്കരുടെ സ്വന്തവുമാണെന്നു് ഉള്ളൂർ
+അഭിപ്രായപ്പെടുന്നു. എന്നാൽ ഇതിനും,</p>
+          <lg>
+            <l> ‘അന്റിയേയുമരചരനേകരാൽ</l>
+            <l> വെന്റിയേ തിരുവല്ലത് വേണ്ടല-</l>
+            <l> രൊന്റിയേ തമെമക്കുറുമേലുയിർ</l>
+            <l> പോന്റിയേയതു പോക്കുതൻമേർക്കൊണ്ടാർ’</l>
+            <l> (പട്ടണാർ 1–5) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്ന പട്ടണാർപാട്ടിനും തമ്മിൽ ഗണ്യമായ ഒരു വ്യത്യാസവുമില്ല.</p>
+          <lg>
+            <l> ‘പ്രാണത്യാഗമെനിക്കേ വേണ്ടിയിയറ്റുക’</l>
+            <l> ‘ഏമക്കുറുമേലുയിർ പോന്റിയേയതു</l>
+            <l> പോക്കുതൻമേർക്കൊണ്ടാർ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്നീ രണ്ടു പ്രയോഗങ്ങളും തമ്മിൽ എത്ര അടുത്തിട്ടുണ്ടെന്നു നോക്കുക. (ഉയിർ
+പോന്റിയേ—പ്രാണൻ ത്യജിച്ചിട്ടു്.)</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>2</l>
+            <l> ‘ഉറ്റവരിൽ പെരുകീടിന കൃപയാ-</l>
+            <l> മൊരു തിമിരം വന്നെന്നുടെ ഹൃദയേ-</l>
+            <l> യൂറ്ററിവാം കണ്ണേറമറഞ്ഞീ-</l>
+            <l> ട്ടൊരു നെറിയും കാണാതിടരുറ്റേൻ.’</l>
+            <l> (പണിക്കർ 2–4) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഇതിലെ രൂപകം പണിക്കരുടെ സ്വന്തമാണെന്നു് പ്രസാധകൻ പറയുന്നു.
+കൃപയാകുന്ന തിമിരം അറിവാകുന്ന കണ്ണുമറഞ്ഞു് ഒരു മാർഗ്ഗവും കാണാതെ (അർജ്ജുനൻ) വ്യസനിക്കുന്നു
+എന്നാണല്ലോ അർത്ഥം. പട്ടണാർ പാടുന്നതും ഇതുതന്നെയാണു്.’</p>
+          <lg>
+            <l> ‘ആതലാലറിവായ മിഴിയിനൈ</l>
+            <l> മറ്റാങ്കവർ പാർ</l>
+            <l> കാതാലാമിരുൺമറൈപ്പു നെറി-</l>
+            <l> യെങ്കും കാണേനാൻ.’ </l>
+            <l> (പട്ടണാർ 2–6) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> കാതലാമിരുൺമറൈപ്പു (കാതൽ—സ്നേഹം—കരുണ) എന്നതിലെ ഇരുട്ടിനെ
+പണിക്കർ ‘തിമിര’മാക്കി ഒരു ശ്ലേഷഭംഗി വരുത്തിയെന്നു മാത്രമേ ഇവിടെ വിശേഷമുള്ളു. ‘നെറി’ എന്ന പദം
+രണ്ടിടത്തുമുണ്ടു്. കാതൽ വേറെ പലയിടത്തും പ്രയോഗിച്ചിട്ടുള്ളതുകൊണ്ടായിരിക്കാം പണിക്കർ ഇവിടെ
+വിട്ടുകളഞ്ഞതു്. ‘നെറിയെങ്കും കാണേനാൻ’—‘നെറിയും കാണാതിടരുറ്റേൻ’ എന്ന രണ്ടു പ്രയോഗങ്ങളും
+ഇരട്ടപെറ്റ കുട്ടികളെപ്പോലിരിക്കുന്നു!</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>3</l>
+            <l> ‘അഴുതളവവേ കണ്ണീർ മെയ്മാർവി-</l>
+            <l> ലതീവ പൊഴിഞ്ഞുടനർജ്ജുന ഹൃദയേ</l>
+            <l> മുഴുതുമെഴും ശോകാഗ്നി ശമിക്ക</l>
+            <l> മുകുന്ദാഞ്ജനമേഘം തന്നിടയേ</l>
+            <l> അഴകിയ മന്ദസ്മിതമിന്നോടു-</l>
+            <l> മനന്തരമേ ചൊൽധാരകളോടും</l>
+            <l> വഴിയേയുണ്മജ്ഞാനാമൃതമഴ</l>
+            <l> വർഷിപ്പാൻ വടിവൊടു നിനവുറ്റാൻ.”</l>
+            <l> (പണിക്കർ 2–6) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ടിപ്പണീകാരന്റെ നോട്ടത്തിൽ ഇതും പണിക്കരുടെ സ്വന്തമാണു്. നന്ത്യാരുവീട്ടിൽ
+പരമേശ്വരൻപിള്ള പ്രസാധനം ചെയ്തിട്ടുള്ള പതിപ്പിലും ‘ഈ പാട്ടു് പണിക്കരുടെ കൽപനാശക്തിക്കു് ഒരുത്തമ
+സാക്ഷ്യമാണെന്നു പറഞ്ഞുകാണുന്നു. എന്നാൽ ഇത്രത്തോളം മനോഹരമായി വികസിച്ചിട്ടില്ലെങ്കിലും ഇതിലെ
+
+രൂപകംതന്നെ ഒരു കുഡ്മളപ്രായത്തിൽ പട്ടണാർപാട്ടിലും കാണുന്നുണ്ടു്. നോക്കുക:</p>
+          <lg>
+            <l> ‘നയ്മാർവിൽ ചൊരിപതെന</l>
+            <l> നെടുങ്കൺ കണീർ ചോര</l>
+            <l> വിമ്മാനിന്റെ വൻകാതൽ</l>
+            <l> വെന്തീയാൽ വേവാമേ</l>
+            <l> കയ്മാറൊന്റിന്റിയുയിർ കാപ്പതേ കടം പൂണ്ട</l>
+            <l> വമ്മായൻ തിരുവായ്മെയ്യരുൺ-</l>
+            <l> മാരിയാലവിപ്പാൻ.’</l>
+            <l> (പട്ടണാർ 2–9–10) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> മാറിൽ കണ്ണീർ പൊഴിയുന്നതും വെന്തീയാൽ വേവുന്നതും അതിന്റെ
+ശമനത്തിനായി (അവിപ്പാൻ) ജഞാനാമൃതമഴ (തിരുവായ് മെയ്യരുൺമാരി) വർഷിക്കുന്നതും മറ്റും രണ്ടിലും
+ഒത്തിരിക്കുന്നുണ്ടു്. മുകുന്ദനെ അഞ്ജനമേഘമായും ചൊല്ലിനെ ധാരയായും രൂപണം ചെയ്തിട്ടുള്ളതു പണിക്കരുടെ
+സ്വന്തമായിരിക്കാം. മന്ദസ്മിതമിന്നലിനു പകരം പട്ടണാർ അടുത്ത പാട്ടിൽ തുടർന്നു പാടുന്ന മിന്നൈയനയ
+തിരുനകൈ (മിന്നലിനൊത്ത തിരുചിരി) എന്ന ഭാഗം മതിയാകും. ‘മെയ്മാർവിൽ’ എന്നതിനു് ‘ഭനന്മാർവിൽ’
+എന്നു പാഠാന്തരമുണ്ടു്. ‘അഭിനവ കല്പഗ്രന്ഥമാല’ ഒന്നാംനമ്പരായി പ്രസിദ്ധീകരിച്ചിട്ടുള്ള പതിപ്പിൽ
+‘നെയ്മാർവിൽ’ എന്നുതന്നെ ഒരു മാറ്റവുംകൂടാതെ കാണുന്നതും ശ്രദ്ധേയമാണു്.</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>4</l>
+            <l> ‘…ചെമ്മേ കൂടെ വരും വായുവിനാൽ</l>
+            <l> മോതിയെഴുന്നു മറിഞ്ഞലയാഴിയിൽ</l>
+            <l> മുഴികീടുന്ന മരക്കലമൊത്തേ.’</l>
+            <l> (പണിക്കർ 2–82) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഇതിലെ അന്ത്യഭാഗത്തെ മരക്കലവർണ്ണനം പണിക്കരുടെ വകയാണെന്നാണു്
+ഉള്ളൂർ പറയുന്നതു്. എന്നാൽ ഇവിടെ പട്ടണാർ ഏറ്റവും അടുത്തുതന്നെ നിൽക്കുന്നുണ്ടു്.</p>
+          <lg>
+            <l> ‘ഊറിയ കടലുകളോടും കലത്തിനെ-</l>
+            <l> യുടൻ ചെൽ കാറ്റേ</l>
+            <l> വേറുചെയ്തറൈന്തുമായ്ത്തു</l>
+            <l> വീഴ്ത്തുമാപോലെവെയാം.’</l>
+            <l> (പട്ടണാർ 2–57) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ‘ഉടൻ ചെൽ കാറ്റും’ ‘ചെമ്മേ കൂടെ വരും വായു’വും തമ്മിൽ എന്താണു ഭേദം?
+മരക്കലത്തിന്റെ വിശേഷണത്തിലാണു് മനോധർമ്മമെങ്കിൽ അതു് ‘വേറുചെയ്തറൈന്തുമായ്ത്തു വീഴ്ത്തു’മെന്നതിലും
+തെളിഞ്ഞിട്ടുണ്ടു്.
+</p>
+          <p style="noindent"/>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>5</l>
+            <l> ‘ഉറുതിയിൽ ഞാനിച്ചൊല്ലിയ കർമ്മമി-</l>
+            <l> തുള്ളിലുപേക്ഷിപ്പോർ വമ്പാരാം</l>
+            <l> തറമേൽ നിന്ന മരംപോലെയവർ</l>
+            <l> താഴ്‌വരുയർച്ചി വരാതൊരു നാളും.’</l>
+            <l> (പണിക്കർ 3–11) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഇതിലെ ‘വമ്പാരാം തറമേൽ നിന്ന മരംപോലെ’യെന്ന ഉപമ മൂലത്തിലില്ലെന്നു
+
+പറയുന്ന പ്രസാധകൻ അതും പണിക്കരുടെ സ്വന്തമെന്നായിരിക്കാം സൂചിപ്പിക്കുന്നതു്. പ്രസ്തുതോപമ
+മൂലത്തിലില്ലെങ്കിലും പട്ടണാരുടെ പാട്ടിൽ സ്പഷ്ടമായി കിടപ്പുണ്ടു്.</p>
+          <lg>
+            <l> ‘വൻപാർത്തരൈയിലെഴുമരംപോൽ.’</l>
+            <l> (പട്ടണാർ 3–16) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്ന ഭാഗം നോക്കുക.</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>6</l>
+            <l> ‘ഒരു വനമതിലേ തീ പിടിപെട്ടാ-</l>
+            <l> ലൊക്കെയുമേ വെണ്ണീറാമതുപോൽ.’</l>
+            <l> (പണിക്കർ 4–16) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ‘മൂലത്തിൽ വിറകു് (ഏധാംസി) അഗ്നി ഭക്ഷിക്കുന്നതാണു് ഉപമാനം. പണിക്കർ
+അതു സ്വല്പം മാറ്റിയിരിക്കുന്നു’ എന്നു് ഉള്ളൂർ പറയുന്നു. പട്ടണാരുടെ കവിതയിലും ഈ മാറ്റം കാണുന്നുണ്ടു്.</p>
+          <lg>
+            <l> ‘ഏറിയാവെരിവരു കാനിടൈ .’ </l>
+            <l> (പട്ടണാർ 4–28) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഇവിടെ വിറകുകൾക്കു പകരം വനം (കാനിടൈ) എന്നു് ഇരുകൂട്ടരും
+പ്രയോഗിച്ചിരിക്കുന്നു.</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>7</l>
+            <l> ‘യോഗമതിയറ്റുമളവേയുടലിൽ വേലാ-</l>
+            <l> ലൂടുരുവവേയൊരുവർ ചാടുകിലും നീടാർ-</l>
+            <l> നാഗങ്ങളണഞ്ഞിടർചെയ്തീടുകിലും മെയ്മേൽ</l>
+            <l> നാടിയനൽ മൂടുകിലും നിർഭയമകന്നേ.’</l>
+            <l> (പണിക്കർ 6–10) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ‘ഇതിൽ കാണുന്ന ഉദാഹരണങ്ങൾ പണിക്കരുടെ സ്വന്തമാണെ’ന്നു
+ടിപ്പണീകാരൻ. എന്നാൽ ഇതേ ഉദാഹരണങ്ങൾ പട്ടണാരും കൊണ്ടുവരുന്നതു കാണുക:</p>
+          <lg>
+            <l> ‘വഞ്ചർ വേൽകൊടുമാർ പീനെറിയിനു</l>
+            <l> മെഞ്ചവേ തഴൽ മൂടിയെരിയിനു.</l>
+            <l> നഞ്ചിനാരഴനാക നലിയിനു</l>
+            <l> മഞ്ചിടാമതു മാനന്തമാവതേ.’ </l>
+            <l> (പട്ടണാർ 6–17) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> വേൽ, തഴൽ (അഗ്നി) നാകം—ഇത്രയുമാണല്ലോ ഇതിലെ ഉദാഹരണങ്ങൾ.
+പട്ടണാരുടെ തഴൽ പണിക്കർക്കു് അനലായിപ്പോയെന്നേ ഉള്ളൂ.
+</p>
+          <p style="noindent"><span style="width:3em"> </span><span style="width:3em"> </span><span style="width:3em"> </span><span style="width:3em"> </span>8
+</p>
+          <p style="noindent">പണിക്കരുടെ ഗീതയിൽ പത്താമധ്യായം പതിനൊന്നാമത്തെ പാട്ടിൽ,
+
+‘മുറ്റുമഹാഗോക്കളിൽ ഞാൻ സുരഭി’ എന്നിടത്തു ടിപ്പണീകാരൻ ഇങ്ങനെ പറയുന്നു: ‘ധേനുനാമസ്മി കാമധൂക്’
+എന്നേ മൂലത്തിലുള്ളൂ. അതിനുപകരം ‘സുരഭി’ എന്നു തർജ്ജമ ചെയ്തതു് പണിക്കരുടെ ഔചിത്യത്തിനു
+ദൃഷ്ടാന്തമായിരിക്കുന്നു. ശരി, അങ്ങനെയാണെങ്കിൽ ഈ ഔചിത്യത്തിനു പട്ടണാരും പ്രശംസാർഹനാണു്.</p>
+          <lg>
+            <l> ‘കൗടൈപയിൻ സുരപി കോകുലത്തിൽ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് അദ്ദേഹവും ‘സുരപി’യെത്തന്നെ കൊണ്ടുവരുന്നുണ്ടു്.</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>9</l>
+            <l> ‘പുറ്റിനകത്തരവങ്ങൾ പൂകുമ്പോൽ</l>
+            <l> ‘പുനരവർതമ്മെ വിഴുങ്ങിന്റേൻ ഞാൻ.’</l>
+            <l> (പണിക്കർ 16–10) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഇതിലെ ഉപമ മൂലത്തിലില്ലെന്നു ടിപ്പണി. ഇതു പട്ടണാർ കുറെക്കൂടി ഭംഗിയാക്കി
+പാടുന്നു.</p>
+          <lg>
+            <l> ‘…കൊടുമയാലരവൊപ്പാരൈ… </l>
+            <l> പുറ്റവൈതോറുമിയാനെ-</l>
+            <l> പ്പുകപ്പുകവീഴ്ത്തുകിന്റേൻ.’ </l>
+            <l> (പട്ടണാർ 16–16) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> അരവം, പുറ്റ് ഈ പദങ്ങൾ രണ്ടിലും വരുന്നതു നോക്കുക.</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>10</l>
+            <l> ‘തിറമൊടു പൊന്നും മണിയും</l>
+            <l> തമ്മിൽ ചേർന്നതുപോൽ.’ </l>
+            <l> (18–6) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്നു തുടങ്ങുന്ന പണിക്കാരുടെ ഉപമ സ്വന്തമാണെന്നു പറയുന്ന
+ടിപ്പണീകാരൻ.</p>
+          <lg>
+            <l> ‘പൊന്നാലതുവും പണിയും</l>
+            <l> പോലിരിക്കുമിന്തപ്പൊയ്മെയ്യെ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> എന്ന പട്ടണാർപാട്ടും വായിച്ചുനോക്കേണ്ടതത്രേ.</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>11</l>
+            <l> ‘…കാറ്റിനെ-</l>
+            <l> യേവരികെന്നു പിടിച്ചുനിറുത്താ-</l>
+            <l> മെങ്കിലിതമെന്നേ കരുതുന്നേൻ.’</l>
+            <l> (പണിക്കർ 6–13) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ഇവിടെ ‘വായോരിവ സുദുഷ്കരം’ എന്ന മൂലത്തെ പണിക്കർ എത്ര ഭംഗിയായി
+തർജ്ജമ ചെയ്തിരിക്കുന്നുവെന്നു് ഉള്ളൂർ ചോദിക്കുന്നു. പട്ടണാരുടെ തർജ്ജമയും ഈ അഭിപ്രായം
+
+അർഹിക്കുന്നുണ്ടു്.
+</p>
+          <p style="noindent">‘കാറ്റടക്കർക്കൊക്കുമെനവു’മെന്ന അതിലെ പ്രയോഗത്തെ അല്പം വികസിപ്പിക്കുക
+മാത്രമാണു് പണിക്കർ ചെയ്തിരിക്കുന്നതു്.</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>12</l>
+            <l> ‘പറയാം ചതുരിയുഗങ്ങൾ സഹസ്രം</l>
+            <l> പകലൊന്നജനാണ്ടൊരു നൂറാമത്</l>
+            <l> മറയാതൊരു പകലെന്നറി നീ</l>
+            <l> മാനിതരാകിയ ദേവന്മാർക്കും.’</l>
+            <l> (പണിക്കർ 8–10) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതിൽ പറയുന്ന ദേവവർഷസംഖ്യ ശരിയല്ലെന്നും പാഠാബദ്ധമായിരിക്കണമെന്നും ഉള്ളൂർ പറയുന്നു. ഇതേ
+അബദ്ധംതന്നെ പട്ടണാർക്കും പറ്റിയിരിക്കുന്നതു നോക്കുക:
+</p>
+          <p style="noindent"/>
+          <lg>
+            <l> ‘അയ്യാ കേൾ ചതുർയുകമീരഞ്ഞുറു-</l>
+            <l> മൊരു പകലാമാണ്ടൊരു നൂറയർക്കുമുള്ള’ </l>
+            <l> (പട്ടണാർ 8–14) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> (അയർക്കു—അജന്) ഒരേ തെറ്റുതന്നെ ഇരുകൂട്ടർക്കും പറ്റിയിരിക്കുന്നതു
+വിസ്മയനീയമല്ലേ?</p>
+          <lg>
+            <l><span style="width:3em"> </span><span style="width:3em"> </span>13</l>
+            <l> ‘എന്നിവരണ്ടിനുടെ നിലയും കേ-</l>
+            <l> ളെരിയുന്നഗ്നിയുടെയൊളിധൂമം</l>
+            <l> നിന്നു മാപ്പതിനൊത്തും ദർപ്പണ-</l>
+            <l> നീടൊളിമലമതിൽ മൂടിയതൊത്തും.’</l>
+            <l> (പണിക്കർ 3–14) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> മൂലത്തിൽ മൂന്നുപമകൾ ഉണ്ടു്. ‘യഥോൽബേനാ വൃതോഗർഭഃ’ എന്ന ഭാഗം
+പണിക്കർ തർജ്ജമ ചെയ്തിട്ടില്ല എന്നു പ്രസാധകൻ അഭിപ്രായപ്പെടുന്നു. പട്ടണാരും ഈ ഭാഗം തർജ്ജമ
+ചെയ്തിട്ടില്ല.</p>
+          <lg>
+            <l> ‘നെരുപ്പൈ മുറ്റിയ തൂമവുനീടൊളി-</l>
+            <l> തരുപ്പണത്തെ മറൈത്തനമാസുംപോ-</l>
+            <l> ലുരുപ്പടൈത്തനവുള്ളുണർവിയാവയും</l>
+            <l> വിരുപ്പമുറ്റവെങ്കാമം വിഴുങ്കുമാൽ.’ </l>
+            <l> (പട്ടണാർ 3–23) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"> ‘നെരുപ്പെ മുറ്റിയ തൂമം’ (ധൂമം) ‘നീടൊളിതരുപ്പണത്തെ’ (ദർപ്പണം) ‘മറൈത്തന
+മാസും’ (മല) എന്ന പട്ടണാരുടെ രണ്ടു് ഉപമകൾ മാത്രമാണു് പണിക്കരും പ്രയോഗിച്ചിരിക്കുന്നതു്.
+അതുമാത്രമോ? ‘നീടൊളിതരുപ്പണം’ രണ്ടിടത്തും വരുന്നതു നോക്കുക!
+</p>
+          <p style="noindent">ഒന്നുരണ്ടു ചെറിയ ഉദാഹരണങ്ങൾകൂടി കാണിച്ചിട്ടു് ഈ ലേഖനമവസാനിപ്പിക്കാം.
+ഒരേ പദം പലയിടത്തും തുല്യസ്ഥാനങ്ങളിൽ ഇവർ പ്രയോഗിച്ചുകാണുന്നുണ്ടു്. ‘കരുതിവിരിഞ്ഞു കടാവിനനേരം’
+എന്ന പണിക്കരുടെ പ്രയോഗത്തിനു് (1–11) തൽസ്ഥാനത്തു ‘നടുവേ കടാവിയിതു കാണന’ എന്നു പട്ടണാർ.
+
+</p>
+          <p>‘കൊടിയ പെരുമ്പാവം കയ്ക്കൊൾവാൻ’ (1–16) എന്നതിലെ പണിക്കരുടെ പെരുമ്പാവംതന്നെ ‘എന്നേ
+കൊടിയ പെരുമ്പാവമെയ്ത നിനന്തേൻ’ എന്നു പട്ടണാർ പാട്ടിലും കാണുന്നു; ഇതുപോലെ വേറെയും
+ഉദാഹരണങ്ങളുണ്ടു്.
+</p>
+          <p>ഉദ്ധൃതഭാഗങ്ങൾതന്നെ രണ്ടു കൃതികൾക്കുമുള്ള പരസ്പരസാദൃശ്യത്തെ എത്രമാത്രം ബലപ്പെടുത്തുമെന്നു നാം
+കണ്ടുകഴിഞ്ഞു. ഇതിൽനിന്നു് എന്താണു് അനുമാനിക്കേണ്ടതു്? ഈ രണ്ടുകവികളിൽ ഒരാൾ മറ്റെയാളുടെ പുറകേ
+പോയിട്ടുണ്ടെന്നുള്ളതു തീർച്ചതന്നെ. ഒന്നുകിൽ പട്ടണാർ പണിക്കരുടെ ഗീത വായിച്ചു് അതിനെ
+അനുകരിച്ചെഴുതിയിരിക്കണം. പണിക്കരുടെ കാലത്തു മലയാളം തമിഴിനെയാണല്ലോ അധികം
+ആശ്രയിച്ചിരുന്നതു്. പട്ടണാർ പണിക്കരുടെ പൂർവ്വഗാമിയാണെങ്കിൽ മലയാളഗീത തമിഴിന്റെ
+അനുകരണമാണെന്നു സമ്മതിക്കേണ്ടിവരും. അപ്പോൾ മലയാളത്തിലേക്കാണു് ഗീത ആദ്യമായി
+തർജ്ജമചെയ്യപ്പെട്ടതെന്ന അഭിപ്രായവും പരിത്യാജ്യമാകും. ഗവേഷകരുടെ ശ്രദ്ധപതിയേണ്ട ഒരു
+വിഷയമാണിതു്.
+</p>
+          <p>
+(സാഹിതീകൗതുകം.)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Madhavapanikkarude
+Bhagavathgeetha (ml: മാധവപ്പണിക്കരുടെ ഭഗവദ്ഗീത).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Madhavapanikkarude Bhagavathgeetha, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മാധവപ്പണിക്കരുടെ
+ഭഗവദ്ഗീത, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 6, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Frank_Bramley__When_the_blue_evening_slowly_falls.jpg">When the blue evening slowly falls,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Frank_Bramley">Frank Bramley</ref>
+ (1857–1915). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-geetha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-geetha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

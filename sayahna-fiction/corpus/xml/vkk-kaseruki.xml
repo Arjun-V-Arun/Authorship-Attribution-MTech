@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കശേരുകികളിലെ കാൾ മാർക്സ്</title>
+          <title xml:lang="en" type="main">Kaserukikalile Carl Marx</title>
+        </title>
+        <author>V. K. K. Ramesh</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">September 27, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കശേരുകികളിലെ കാൾ മാർക്സ്</title>
+              <title xml:lang="en" type="main">Kaserukikalile Carl Marx</title>
+            </title>
+            <author>V. K. K. Ramesh</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Story</term>
+          <term>V. K. K. Ramesh</term>
+          <term>Kaserukikalile Carl Marx</term>
+          <term>വി. കെ. കെ. രമേഷ്</term>
+          <term>കശേരുകികളിലെ കാൾ മാർക്സ്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 27, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_Fleet_of_Fishing_Vessels.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Sunset_at_Scheveningen_A_Fleet_of_Fishing_Vessels_at_Anchor_A18373.jpg">Sunset
+at Scheveningen: A Fleet of Fishing Vessels at Anchor,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Hendrik_Willem_Mesdag">Hendrik
+Willem Mesdag</ref>  (1831–1915). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കശേരുകികളിലെ കാൾ മാർക്സ്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>വി. കെ. കെ. രമേഷ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കശേരുകികളിലെ കാൾ മാർക്സ്</head>
+        <div type="lsection">
+          <p style="noindent">മൂടൽമഞ്ഞിനിടയിൽ മിന്നാമിനുങ്ങുകളെന്നതുമാതിരി മിന്നിക്കത്തുന്ന
+വർണ്ണബൾബുകളായിരുന്നു, ലോണിലെമ്പാടും. പുല്ലിന്റെ തലപ്പുകളിൽ തെല്ലിട തങ്ങിനിന്നതിനുശേഷം,
+വെളിച്ചമത്രയും കൈവരി കവച്ചുവെച്ചു്, ഓരംചേർന്നുകിടക്കുന്ന കായൽപ്പരപ്പിലേക്കു് വരിനിരപ്പോടെ കൂപ്പുകുത്തി.
+മത്സ്യബന്ധനത്തിനായി കടൽനോക്കി വീശിപ്പോകുന്ന ബോട്ടുകളിലെ വെളിച്ചങ്ങൾ അലയിളകുന്ന
+സഞ്ചാരിക്കാറ്റുകളിലൂടെ അകലംപിടിക്കുന്നു. അങ്ങോട്ടുനോക്കി നിൽക്കുകയായിരുന്നു, ഞാൻ.
+ചങ്ങാതിയോടൊപ്പം അവന്റെ കൊട്ടാരത്തിന്റെ ഒന്നാംനിലയിലലെ മട്ടുപ്പാവിൽ. താഴെ, പാർട്ടി അതിന്റെ
+തളർച്ചയില്ലാത്ത കൈകളിൽ നിരന്തരം വട്ടംതുഴയുകയാണു്. (മുൻബാക്കിയുടെ പരുക്കില്ലാതെ സദാ മുന്നോട്ടു
+നീങ്ങാൻ നല്ലതു് വട്ടത്തിൽ തുഴയുന്നതാണല്ലോ.) സിൽക്കുതുണിപോലെ തൊണ്ടവഴി ഇറങ്ങിച്ചെല്ലുന്ന
+സ്കോച്ചിനുപുറത്തു് അസഹ്യമായ മൗനവും ചേർത്തുകുടിച്ചു് ഏറെനേരമായി ഞങ്ങളങ്ങനെ തുടരുന്നു. ഷിവാസ്
+റീഗൽ എന്ന ശൈവസമ്പ്രദായത്തിൽ ശുദ്ധലഹരിയെടുത്തുപുതച്ചു്.
+</p>
+          <p>വൺ ബില്യൺ കമ്പനിയായി വളർച്ചയെടുത്ത അവന്റെ സ്ഥാപനം അടുത്ത ലീപ്പിനുള്ള തുടക്കത്തിലാണു്.
+അവനേ സംബന്ധിച്ചിടത്തോളം, അത്തരത്തിൽ വികസിച്ചുവിളങ്ങിയ ആദ്യസ്ഥാപനമൊന്നുമല്ല, അതു്.
+തുടങ്ങിവെച്ചതു് ലോജിസ്റ്റിക്സിലായിരുന്നു. തുടക്കക്കാർക്കു് വികാസസാദ്ധ്യമായ ഏർപ്പാടൊന്നുമല്ലത്രെ ആ
+മേഖല. പക്ഷേ, അവിടെപ്പോലും അവനു് കൊടി പറത്താനായി. അവ്യക്തവും, നിഗൂഢവുമായ പദ്ധതികളാണു്
+അതൊക്കെയെന്നാണു് എന്റെയൊരു തോന്നൽ. മാസാമാസം കൈവരുന്ന സർക്കാർശമ്പളത്തിന്റെ
+അങ്ങേപ്പുറത്തേക്കു് കമ്മ്യൂണിസംകൊണ്ടുപോലും രണ്ടാംകണ്ണുള്ളവനല്ല, ഞാൻ. ആ നിലക്കു്
+എന്നേപ്പോലൊരുത്തനു് അങ്ങയൊക്കെ തോന്നാൻ അർഹതയുണ്ടു്.
+</p>
+          <p>“എടാ, നിശ്ചയമായും നീ പാർട്ടിക്കു് വരണം. നമ്മൾ തമ്മിൽ കണ്ടിട്ടു് ഏറെക്കാലമായില്ലേ?”
+</p>
+          <p>അങ്ങനെ വ്യക്തശുദ്ധമായ ക്ഷണമായിരുന്നു, അവന്റേതെന്നു പറയണം.
+</p>
+          <p>പഠിക്കുമ്പോൾത്തന്നെ ഭൂമിയിലായിരുന്നില്ല, ചുമരുകൾക്കപ്പുറത്തെ മറുലോകങ്ങളിലായിരുന്നു, അവന്റെ
+കണ്ണുകൾ. പഠിപ്പറക്കുള്ളിൽ സ്വയം ഉറപ്പിച്ചുനിർത്താൻ കഴിയാത്തതിന്റെപേരിൽ സ്വാഭാവികമായി ഒരാൾക്കു്
+ഉണ്ടാവേണ്ടതാണെന്നു് എനിക്കു തോന്നിയ കുറ്റബോധമൊന്നും പക്ഷേ, ആ മുഖത്തു് ഒരിക്കൽപ്പോലും കണ്ടിട്ടില്ല.
+താനാണു് തികച്ചും ശരിയെന്ന മട്ടിലായിരുന്നു കാര്യങ്ങൾ. ഉയർന്ന ക്ലാസ്സുകളിലെത്തിയപ്പോഴേക്കും അതു്
+ഉച്ചസ്ഥായിയെ ചെന്നുതൊട്ടു.
+</p>
+          <p>“ലോകം വളരെ വലുതാണു്, രമേശാ,” അവൻ വിശദീകരിക്കും, “അന്യന്റെ മുറിക്കകത്തു തുടരുകയെന്നാൽ,
+എവിടെയും തുടങ്ങാതെ സ്വയം അവസാനിക്കുകയെന്നാണു് അർഥം.”
+</p>
+          <p>അക്കാലത്തെ ശൈലിയനുസരിച്ചു് കോളേജ്ക്ലാസ്സ്മുറിയിൽനിന്നു് അവൻ നേരിട്ടു് ബോംബെക്കു്
+വണ്ടികയറുകയായിരുന്നു. പഠനസാമഗ്രികളൊക്കെ ബാർബർഷോപ്പിൽ തൂക്കിയെറിഞ്ഞിട്ടായിരുന്നു, ആ യാത്ര.
+</p>
+          <p>“നശിക്കും.”
+</p>
+          <p>അവന്റെ ദേഷ്യക്കാരനായ അച്ഛൻ ശപിച്ചു.
+</p>
+          <p>ഞാൻ തുടരെ പബ്ലിക്ക് സർവ്വീസ് കമ്മീഷൻ പരീക്ഷകൾ എഴുതിക്കരേറുന്ന കാലങ്ങളിൽ അവന്റെ
+അമ്മയുടെ കണ്ണീർ അടുക്കളതീയിലേക്കു് ചവിട്ടടിവെച്ചു് നിരന്തരം ഹോമിക്കപ്പെടുകയായിരുന്നു.
+</p>
+          <p>“ന്റെ കുട്ടി നന്നാവണേ, ഗുരുവായൂരപ്പാ.”
+</p>
+          <p>തീയിനെ വെട്ടിച്ചു് പ്രാർത്ഥന കൃത്യമായി ഗുരുവായൂരിലെത്തിയിട്ടുണ്ടാവാം, അഞ്ചുകൊല്ലങ്ങൾക്കുശേഷം,
+ഓർക്കാപ്പുറത്തു് ഒരുനാൾ, അവൻ തിരിച്ചെത്തി. അക്കാലം, കൈമെയ്മറന്നു് സർക്കാരിനെ സേവിക്കുന്ന
+തിരക്കിലായിരുന്നു, ഞാൻ.
+
+</p>
+          <p>“കഷ്ടം!”
+</p>
+          <p>അതു കണ്ടു് അവൻ സ്വയം തലയ്ക്കടിച്ചു.
+</p>
+          <p>ഉയർന്നസ്ത്രീധനത്തിനുപുറത്തു് ഉന്നതനാരികളിൽ ഒരുവളെ ആ വരവിൽ അവൻ സ്വന്തമാക്കി. അക്കാലത്തു്
+തികച്ചും നിർദ്ധനനായിരുന്നു, അവൻ. പുറംപൂച്ചു കാണിച്ചു്, രഹസ്യമാക്കിയ അസുലഭദാരിദ്ര്യം. ശരിക്കും
+പറഞ്ഞാൽ, തുടക്കത്തിലെ വ്യാപാരമൂലധനം അവൾക്കായി അനുവദിക്കപ്പെട്ട കുടുംബത്തിന്റെ മോശമല്ലാത്ത
+നീക്കിയിരിപ്പായിരുന്നു. അതുമായി ദലാൾ സ്ട്രീറ്റിൽ മുഴക്കിയ തുടർനിലവിളികളാണു് അവനെ
+പാമ്പുകോണിക്കളിയിലെന്നോണം ഒറ്റയടിക്കു് വളർത്തിയതെന്നാണു് കേട്ടുകേൾവി.
+</p>
+          <p>അടുത്തകൊല്ലം നാട്ടിലെത്തിയപ്പോൾ അവൻ പരസ്യമായി എന്നെ ചീത്തവിളിച്ചു.
+</p>
+          <p>“തുറന്നുപിടിച്ച വായിലേക്കു് സർക്കാർ പഴം തിരുകിത്തന്നില്ലേ, ഇനിയെന്തുവഴി, നിർത്താതെ ഗോവിന്ദാ
+ഗോവിന്ദാ എന്നു പാടിക്കോ.”
+</p>
+          <p>അതിനുശേഷം, അവൻ നാട്ടിലെത്തിയെന്നറിഞ്ഞാൽ ഉടനടി ഞാൻ ലീവെടുത്തു് തമിഴ്‌നാട്ടിലേക്കു്
+ഒളിച്ചോടുകയാണു് പതിവു്. ലോകങ്ങൾത്തന്നെ കീഴടക്കാനാരംഭിച്ചതോടെ അവന്റെ വർഷാന്തവരവു്
+അവസാനിച്ചു, ഭാഗ്യം. അത്തരത്തിൽ കാര്യങ്ങൾ നീങ്ങിപ്പോകുമ്പോഴും എനിക്കകത്തു് പ്രബലമായൊരു ഭീഷിണി
+പതിയിരിപ്പുണ്ടായിരുന്നുവെന്നുവേണം കരുതാൻ. എന്നെങ്കിലുമൊരുനാൾ ജീവനോടെ അവന്റെ
+മുന്നിൽപ്പെടുമല്ലോ. അന്നേരം, രക്ഷപ്പെടാൻ എന്റെ പക്കൽ വിജയങ്ങളുടേതായ ഷീൽഡുകൾ യാതൊന്നുമില്ല.
+പരസ്പരം കാണുന്നമാത്രയിൽ ആദ്യംതന്നെ അതിനായി അവൻ പാളിനോക്കുമെന്നു് ഉറപ്പു്. ഒരർഥത്തിൽ പണ്ടു്,
+അവന്റെ വരവു പേടിച്ചു് തമിഴ്‌നാട്ടിൽ ഒളിച്ചിരിക്കുന്നതുപോലെത്തന്നെയായിരുന്നു എന്റെ മുഴുനീളജീവിതമെന്നു
+പറയാം. മൊത്തമായി ഒരു പരുങ്ങലും, പതുങ്ങലും. റിട്ടയർമെന്റ് സംഭവിച്ചാൽപ്പോലും അതിൽനിന്നു്
+എനിക്കൊരു രക്ഷകിട്ടുമെന്നു തോന്നുന്നില്ല. (സർക്കാർ സ്വമേധയാ ഒരു ഇരട്ടച്ചങ്കനാണെന്ന ധാരണയൊന്നും
+എനിക്കില്ലാതെപോയതു് അങ്ങനെയാണു്.)
+</p>
+          <p>അങ്ങനെയിരിക്കെ, പൊടുന്നനെ ഒരു ബ്ലാക്ക് സൺഡേയിൽ പ്രമാദമായ ആ ഫോൺകാൾ അറിയാതെ
+ഞാൻ അറ്റന്റ് ചെയ്തു.
+</p>
+          <p>“എടാ, ഞാനാണു്. അടുത്ത ശനിയാഴ്ച ഞാൻ കേരളത്തിൽ വരുന്നു, നിശ്ചയമായും നിന്നെ കാണണം.”
+</p>
+          <p>അതു് അവനായിരുന്നു!
+</p>
+          <p>നീക്കുപോക്കില്ലാത്ത വിധിയെന്നോണം അപരിചിതമായ ഇത്തരം സന്ദർഭത്തിൽ വന്നുകുടുങ്ങിയതു്
+അങ്ങനെയാണു്.
+</p>
+          <p>“ഇതൊരു ഹോട്ടലാണോ?”
+</p>
+          <p>വന്നുകയറിയതും ഇഡിയറ്റിനേപ്പോലെ ഞാൻ ആരാഞ്ഞു.
+</p>
+          <p>അവൻ പുല്ലുപോലെ പുഞ്ചിരിച്ചു.
+</p>
+          <p>“എന്റെ വീടുകളിലൊന്നാണു്.”
+</p>
+          <p>ആരോഹണത്തിന്റെ പലയിനം വീർപ്പുകളകറ്റാൻ ആഴത്തിലും ഉയരത്തിലുമായി പലലോകങ്ങളിൽ താൻ
+പടുത്തുയർത്തിയ ഇത്തരം കോട്ടകളുണ്ടെന്നു് അവൻ പുല്ലുപോലെ വെളിപ്പെടുത്തി. അങ്ങനെ
+ആദ്യറൗണ്ടിൽത്തന്നെ ഞാൻ സമൂലം ഇടിഞ്ഞുപൊളിഞ്ഞുപാളീസ്സായി.
+</p>
+          <p>“താര വന്നിട്ടില്ലേ?”
+</p>
+          <p>എന്തുകൊണ്ടോ ഉണ്ടാവില്ലെന്നറിഞ്ഞിട്ടും ഞാൻ അന്വേഷിച്ചു.
+</p>
+          <p>“അവളെ ഞാനൊഴിവാക്കിയെടാ.”
+</p>
+          <p>അവൻ വിടർന്നുപറഞ്ഞു.
+
+</p>
+          <p>വാ പൊളിച്ചുനിന്ന എന്റെ അന്നനാളത്തിലേക്കു് തിരിഞ്ഞിറങ്ങാൻപാകത്തിനു് സ്കോച്ചിനെ
+വീഴ്ത്തിക്കൊണ്ടാണു് അത്തരം സന്ദർഭത്തെ അവൻ സിമ്പിളായി തരണംചെയ്തതു്.
+</p>
+          <p>നിരുന്മേഷംമാത്രം എടുത്തുതരുന്ന ഭാര്യയോടും, എന്തിനെന്നു് തിരിച്ചറിയാനാകാത്ത രണ്ടു മക്കളോടുമൊപ്പം
+പൊതിരെ നയിച്ചുപോരുന്ന സ്വജീവിതം നാശത്തിനും നരകത്തിനും പിടികൊടുക്കാത്ത ഒരിനം
+പദ്ധതിയാണെന്ന നിജം ഞാനന്നേരം, ബലാൽ വിഴുങ്ങി.
+</p>
+          <p>താഴെ, ലോണിൽ പാർട്ടി കൊഴുക്കുന്നതിന്റെ ശബ്ദങ്ങൾ വായുവിൽക്കിടന്നു തിരിഞ്ഞുകളിക്കുന്നുണ്ടു്. പാർട്ടി
+ആരംഭിച്ചതിന്റെ ആദ്യനിമിഷങ്ങളിൽത്തന്നെ മുതലാളിയായ അവൻ ഞാനുമായി മുകൾനിലയിലേക്കു്
+വലിഞ്ഞതു് ബാല്യകാലസൗഹൃദത്തോടുള്ള ബഹുമാനംകൊണ്ടൊന്നുമായിരിക്കില്ല. ജീവനക്കാരുമായി
+അകലംപാലിക്കാൻതന്നെയാവണം. കമ്പനി തൊട്ടടുത്തവികാസത്തിലേക്കു് കാൽവെപ്പുനടത്തിയതിൽ
+ജീവനക്കാരൊന്നടങ്കം ആഹ്ലാദത്തിലാണെന്നുറപ്പു്. പക്ഷേ, മുതലാളിയിൽ അതിന്റെ അലകൾ ഒട്ടുമേ
+കാണാനില്ല! എന്നിട്ടും, മട്ടുപ്പാവിൽനിന്നുകൊണ്ടു് അനുനിമിഷം അവരിൽ കണ്ണിടുന്നതെന്തിനു്? പിടിക്കുകയുമില്ല,
+വിട്ടുവിടുകയുമില്ല എന്ന മട്ടിലൊരു പ്രസ്ഥാനമാണോ മുതലാളിത്തം? എന്തുചെയ്യാം, കാൾ മാർക്സിൽനിന്നു്
+യുവത്വത്തിൽ കണ്ടുകിട്ടിയ പാഠങ്ങളിൽ സ്വന്തം ജീവിതം രക്ഷപ്പെടുത്താനുള്ളവയെല്ലാം സിമ്പിളായി
+മറവിയിലേക്കു് ഊരിപ്പോയിരിക്കുന്നു. മനംപുരട്ടിലിന്റെ തുമ്പിൽ പിടിയിട്ടു് പുറംലോകത്തേക്കു് ഉയർന്നുകയറിയ
+ഛർദ്ദിൽ തൊണ്ടക്കുഴിക്കു പുറത്തിറങ്ങിയതിനുശേഷം, നാക്കിലെ ഉമിനീരിനേയും തുണകൂട്ടി അറിയാതെ
+അകത്തേക്കുതന്നെ വീണുപോകുന്നതുമാതിരിയാണതു്.
+</p>
+          <p>കായലിൽനിന്നു് പരക്കെ വീശിവന്ന രാക്കാറ്റു് നിരന്തരമായി മുഖത്തേറ്റുവാങ്ങിയതുകൊണ്ടാവാം, അറിയാതെ
+എന്റെ കണ്ണൊന്നു് പാളി. തൂങ്ങുകയാണെന്നറിയാതെ ഞാൻ ചൂരൽക്കസേരയിലിരുന്നു് അവ്വിധം പെരുമാറിയതു്
+എത്ര നേരമാണെന്നറിയില്ല. അവൻ കുലുക്കിയുണർത്തുകയായിരുന്നു. അർദ്ധരാത്രിയുടെ അങ്ങേപ്പകുതിയിലേക്കു്
+കയറിക്കഴിഞ്ഞിട്ടുണ്ടു്, സമയം. അത്രനേരവും അവൻ ഉറങ്ങാതെ ലോണിലേക്കുതന്നെ
+നോക്കിനിൽക്കുകയായിരിക്കാം, എനിക്കങ്ങനെയാണു് തോന്നിയതു്. അതെന്തിനാണെന്നുംമറ്റും
+ചോദിക്കാനുള്ളൊരു പൊട്ടധൈര്യം ആരോ എടുത്തുതന്നതുമാതിരി. ഒരുവേള സ്കോട്ടിഷ്മദ്യമോ,
+ഇന്ത്യൻഉറക്കമോ ആവാം.
+</p>
+          <p>“നീ താഴേക്കു പോയില്ലേ?”
+</p>
+          <p>ഞാൻ അങ്ങനെയാണു് തുടങ്ങിവെച്ചതു്.
+</p>
+          <p>“എന്തിനു്?”
+</p>
+          <p>അവൻ ചോദിച്ചു.
+</p>
+          <p>“അങ്ങനെയല്ലെങ്കിൽ നിനക്കു് അവരെയൊന്നു വെറുതെവിടുകയെങ്കിലുംചെയ്തുകൂടേ?”
+</p>
+          <p>“അവരിൽ കൂടുതൽ സന്തുഷ്ടൻ ആരാണെന്നറിയാനാണു്. ഡിപ്ലോമസിക്കു പിന്നിലൊളിച്ചിരിക്കുന്ന
+സന്തുഷ്ടിയെ മദ്യം തീർച്ചയായും വലിച്ചുപുറത്തിടും.”
+</p>
+          <p>അതിനുവേണ്ടി വിടാതെ പതിയിരിക്കുന്ന അവൻ വെളിപ്പെടുത്തി.
+</p>
+          <p>വിശ്വസ്തതയോടെ കൂടെനിൽക്കുന്നവർക്കാണല്ലോ സ്വാഭാവികമായി കൂടുതൽ സന്തോഷം. അത്തരക്കാരെ
+കൈയോടെകണ്ടെത്താനുള്ള നിസ്സഹായമായ നീക്കമാണെന്നു മനസ്സിലായതോടെ എനിക്കങ്ങു ചിരിപൊട്ടി.
+പണത്തിന്റേയും, അധികാരത്തിന്റേയും പ്രബലതതന്നെ അവിശ്വാസത്തിന്റെ നിസ്സഹായതയാണെന്നു്
+ആർക്കാണറിയാത്തതു്! അകത്തെ കമ്മ്യൂണിസ്റ്റ് പുറത്തിറങ്ങിയതുകൊണ്ടാണോ, അതോ സ്കോച്ചിന്റെ
+തുടർഫലമാണോ എന്നൊന്നും അറിയില്ല, ചിരി നിർത്താനായില്ല. (അതു് കാൾ മാർക്സിന്റെ
+കൊമ്പുകളാവണേ!) എത്രമാത്രം വികസിച്ചെന്നു് അനുമാനിച്ചാലും, അവകാശവാദം നടത്തിയാലും മനുഷ്യൻ
+ഇക്കാലവും, നായിനെ വളർത്താൻമാത്രം മാനസികവികാസമുള്ള കേവലമൊരു ജീവിവർഗ്ഗമാണു്, കഷ്ടം!
+എന്നാൽ, ശരിക്കും കഥ അങ്ങനെയായിരുന്നില്ല.
+</p>
+          <p>“കൂടുതൽ സന്തുഷ്ടനെ കണ്ടെത്തിയാൽ നീ അവനെ എങ്ങനെ പ്രോത്സാഹിപ്പിക്കും?”
+</p>
+          <p>തുടർന്നു് ഞാൻ ചോദിച്ചു.
+
+</p>
+          <p>“അവനു് ഞാൻ പ്രമോഷൻ നൽകും.”
+</p>
+          <p>ആദ്യറൗണ്ടിൽ എന്നെ ആശ്വസിപ്പിച്ചുകൊണ്ടു് അവൻ സമ്മതിച്ചു. ‘തികഞ്ഞൊരു മൂരാച്ചിയിൽ ഇതൊക്കെ
+തികച്ചും സ്വാഭാവികം’ എന്ന ഭാവം എന്റെ മുഖത്തു്.
+</p>
+          <p>“അതു് എന്തിനാണെന്നുകൂടി ചോദിക്കു്.”
+</p>
+          <p>അവന്റെ അന്വയം. ഞാൻ അവനെ അനുസരിച്ചു.
+</p>
+          <p>“നിനക്കറിയാമോ രമേശാ, വികാസത്തിന്റെ മുഖ്യശത്രു സന്തുഷ്ടിയാണു്,” അവൻ വിശദീകരിച്ചു, “അതു്
+വളരെയെളുപ്പം നേടിയെടുക്കുന്നവർ വരാനിരിക്കുന്ന വികാസത്തിന്റെ തോതിനെ മനസ്സിനകത്തു് ആ നിമിഷം
+സ്തംഭിപ്പിക്കുന്നു.”
+</p>
+          <p>സിരകളിലേക്കു് മാർക്സ് ഉശിരായി മടങ്ങിയെത്തിയെന്നുതോന്നുന്നു, ഞാൻ എതിർവാദം പുറത്തെടുത്തു.
+</p>
+          <p>“അതാണു് ശരിയെങ്കിൽ, അത്തരമൊരാൾക്കു് നീയെന്തിനു് പ്രമോഷൻ അനുവദിക്കുന്നു, ഡീ ഗ്രേഡ്
+ചെയ്യുകയല്ലേ അഭികാമ്യം?”
+</p>
+          <p>ഇത്തവണ കൃത്യമായി മാർക്സിനെതിരെയെന്നോണം അവൻ പൊട്ടിച്ചിരിച്ചു.
+</p>
+          <p>“ശിക്ഷകൊണ്ടു് നല്ല അടിമയെ സൃഷ്ടിക്കാനാവില്ല. നേട്ടമാണു് അതിനായി നീട്ടിപ്പിടിക്കാവുന്ന ചാട്ട.”
+</p>
+          <p>അകത്തേക്കുള്ള പൈപ്പുവഴി ഞാൻ നിരനിരയായി ഒഴിച്ചിറക്കിയ സ്കോച്ചിന്റെ സിലിണ്ട്രിക്കൽ
+ദ്രവരൂപങ്ങൾ രക്തത്തിലേക്കു് പടർന്നുപിടിച്ചതിന്റെ വെപ്രാളം അന്നേരമാണു്, ആ നിലയിലുള്ള വ്യക്തതയോടെ
+എനിക്കു് അനുഭവപ്പെടാനാരംഭിച്ചതു്. കശേരുകികളുടെ ഒളിവിടങ്ങളിൽനിന്നു് തെല്ലെങ്കിലും അവശേഷിച്ച
+മാർക്സിനേക്കൂടി അതു് തുരത്തിയിട്ടുണ്ടാകണം. ചാട്ടയെന്നോണം അവന്റെ ഞാണൊലി വീശിനടക്കുന്നതിന്റെ
+ശബ്ദത്തിൽ മാർക്സിന്റെ നിലവിളിയാകെ നട്ടെല്ലിനകത്തുതന്നെ മുങ്ങിയമരുന്നു.
+</p>
+          <p>“ഇതൊക്കെ എവിടെനിന്നു് സ്വായത്തമാക്കിയെന്ന അവസാനത്തെ ചോദ്യംകൂടി ബാക്കിയാണു്,
+അതിലേക്കു് പ്രവേശിക്കു്.”
+</p>
+          <p>അവൻ ആജ്ഞാപിച്ചു. അതിനു തൊട്ടുപിന്നിലായി എന്റെ ചോദ്യത്തിനൊന്നും കാത്തുനിൽക്കാതെ
+അവസാനത്തേതെന്നമട്ടിൽ എന്റെ ശവപ്പെട്ടിക്കു മുകളിലേക്കു് അവൻ ആ ആണികൂടി കയറ്റി:
+</p>
+          <p>“വേണ്ടതിനും വേണ്ടാത്തതിനുമൊക്കെ നീ വായ്ക്കുരവയിടാറില്ലേ പ്രകൃതിയെന്നു് അതേ
+സ്രോതസ്സിൽനിന്നുതന്നെ. ഇനി നീ കണ്ണു തുറന്നുപിടിച്ചു നോക്കു്.”
+</p>
+          <p>അതനുസരിച്ചപ്പോൾ മനമുനയിൽ മറ്റൊരു പ്രകൃതി തെളിഞ്ഞു, ഹാ!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">വി. കെ. കെ. രമേഷ്</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/vkkramesh.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>1969-ൽ തമിഴ്‌നാട്ടിൽ ജനനം. ആദ്യ ഭാഷ തമിഴ്. പഠിച്ചതും വളർന്നതും തിരുവില്വാമലയിൽ. 4 പുസ്തകങ്ങൾ
+
+എഴുതിയിട്ടുണ്ടു്. ‘ഹൂ ഈസ് അഫ്റൈഡ് ഓഫ് വി. കെ. എൻ.’ എന്ന ആദ്യ പുസ്തകത്തിനു് 2018-ലെ ഹാസ്യ
+സാഹിത്യത്തിനുള്ള കേരള സാഹിത്യ അക്കാദമി പുരസ്ക്കാരം ലഭിച്ചു. നിരവധി റേഡിയോ നാടകങ്ങളും സ്കിറ്റുകളും
+രചിച്ചിട്ടുണ്ടു്. ആകാശവാണി ഡ്രാമാ ബി. ഗ്രേഡ് ആർട്ടിസ്റ്റ്. ടെലിവിഷൻ സ്കിറ്റുകളിൽ അഭിനയിച്ചിട്ടുണ്ടു്.
+വി. കെ. എൻ. അമ്മാമനാണു്. തിരുവില്വാമലയിൽ സ്ഥിരതാമസം.
+</p>
+          <p>ഭാര്യ: ജ്യോതി
+</p>
+          <p>മക്കൾ: ബ്രഹ്മദത്തൻ, നിരഞ്ജന
+</p>
+          <div type="subsection" xml:id="sec0.0.0.0.1" n="0.0.0.0.1">
+            <head type="subsechead">എഴുത്തുകാരെ പ്രോത്സാഹിപ്പിക്കുക</head>
+            <p style="noindent">ഈ കൃതി കൊള്ളാമെന്നു് തോന്നിയാൽ ചുവടെ ചേർത്തിട്ടുള്ള ക്യൂ ആർ കോഡ്
+വഴി വഴി ഗ്രന്ഥകർത്താവിന്റെ അക്കൗണ്ടിലേക്കു് പത്തു രൂപ മുതൽ എത്ര തുകയും നേരിട്ടു്
+അയച്ചുകൊടുക്കാവുന്നതാണു്. ഇതിലൂടെ സ്വതന്ത്ര പ്രകാശനത്തിലേയ്ക്കു് കൂടുതൽ എഴുത്തുകാരെ ആകർഷിക്കുക.
+എഴുത്തുകാർക്കു് ഇടനിലക്കാരില്ലാതെ നേരിട്ടു് സാമ്പത്തിക സഹായം നൽകി അറിവു് സ്വതന്ത്രമാക്കാൻ
+സഹായിക്കുക.
+</p>
+            <p style="noindent"/>
+            <figure rend="fleft" type="gra">
+              <graphic url="images/rameshvkk22@okicici.jpg" rendition="gra"/>
+            </figure>
+            <p style="noindent">
+
+</p>
+            <p style="noindent">
+              <ref target="https://books.sayahna.org/qrcode/rameshvkk22@okicici.jpg">Download
+QR Code</ref>
+            </p>
+            <p style="noindent">
+              <ref target="https://books.sayahna.org/html/sfn-au-payment.html">കൂടുതൽ വിവരങ്ങൾ
+
+ഇവിടെ.</ref>
+            </p>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.1/1.2.0"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kaserukikalile Carl Marx (ml:
+കശേരുകികളിലെ കാൾ മാർക്സ്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  V. K. K. Ramesh.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Story, V. K. K. Ramesh,
+Kaserukikalile Carl Marx, വി. കെ. കെ. രമേഷ്, കശേരുകികളിലെ കാൾ മാർക്സ്, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 27, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Sunset_at_Scheveningen_A_Fleet_of_Fishing_Vessels_at_Anchor_A18373.jpg">Sunset
+at Scheveningen: A Fleet of Fishing Vessels at Anchor,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Hendrik_Willem_Mesdag">Hendrik
+Willem Mesdag</ref>  (1831–1915). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/vkk-kaseruki.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/vkk-kaseruki.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

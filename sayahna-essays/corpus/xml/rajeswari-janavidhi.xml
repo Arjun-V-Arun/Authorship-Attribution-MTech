@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തിരുവമ്പാടിയിലെ ജനവിധി</title>
+          <title xml:lang="en" type="main">Thiruvambadiyile Janavidhi</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">December 9, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തിരുവമ്പാടിയിലെ ജനവിധി</title>
+              <title xml:lang="en" type="main">Thiruvambadiyile Janavidhi</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Thiruvambadiyile Janavidhi</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>തിരുവമ്പാടിയിലെ ജനവിധി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 9, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Eugene_Francois_de_Block_The_Signal.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Fran%C3%A7ois_de_Block__The_Signal.jpg">The Signal,</ref> a painting by Eugène François de Block
+ (1812–1893). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തിരുവമ്പാടിയിലെ ജനവിധി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തിരുവമ്പാടിയിലെ ജനവിധി</head>
+        <div type="lsection">
+          <p style="noindent"><ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">പി. സിറിയക് ജോൺ</ref>
+(73) എന്ന കുടിയേറ്റക്കാരന്റെ ജീവിതവുമായി കൂടിക്കുഴഞ്ഞു കിടക്കുന്നു തിരുവമ്പാടിയുടെ രാഷ്ട്രീയ ചരിത്രം.
+</p>
+          <p style="noindent"/>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KK_Aboo.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കെ. അബു</figDesc>
+          </figure>
+          <p style="noindent"> കോട്ടയം ജില്ലയിലെ കടപ്ലാമറ്റത്തുനിന്നു താമശ്ശേരിക്കടുത്തു് കട്ടിപ്പാറയിൽ
+കുടിയേറിയ ഒരു നസ്രാണി കപ്പച്ചേട്ടനാണു് <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>.
+പത്തൊമ്പതാം വയസ്സിൽ കോൺഗ്രസിൽ നാലണ മെമ്പറായി ആദ്യം കട്ടിപ്പാറ യൂണിറ്റ് പ്രസിഡന്റായി. പിന്നെ
+താമരശ്ശേരി മണ്ഡലം പ്രസിഡന്റ്, കൽപറ്റ ബ്ലോക്ക് സെക്രട്ടറി, 1964-ൽ സത്യ ക്രിസ്ത്യാനികളെമ്പാടും കേരള
+കോൺഗ്രസിൽ കുടിയേറിയപ്പോഴും സിറിയക് ജോൺ മാതൃസംഘടനയിൽ ഉറച്ചുനിന്നു. 1969-ൽ അഖിലേന്ത്യ
+തലത്തിൽ പാർട്ടി പിളർന്നപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാജി</ref> യുടെ
+കരങ്ങൾക്കു് ശക്തി കൂട്ടി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 1970 സെപ്റ്റംബറിൽ കേരള നിയമസഭയിലേക്കു് ഇടക്കാല തെരഞ്ഞെടുപ്പു് നടന്നു. കൽപറ്റയിലെ
+കോൺഗ്രസ് സ്ഥാനാർഥി സിറിയക് ജോൺ. എതിരാളി മാർക്സിസ്റ്റ് പിന്തുണയുള്ള സോഷ്യലിസ്റ്റ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/K.K._Aboo">കെ. കെ. അബു</ref>. 1965-ലും
+67-ലും ഇടതുപക്ഷക്കാർ വൻഭൂരിപക്ഷത്തിൽ ജയിച്ച കൽപറ്റയിൽ <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+ചരിത്രം തിരുത്തിക്കുറിച്ചു. ഭൂരിപക്ഷം 10,441 മലബാർ ഭാഗത്തു് അഹിംസാ പാർട്ടിക്കുണ്ടായ ഏറ്റവും മികച്ച
+വിജയം. സംസ്ഥാനത്തു് സിറിയക്കിനേക്കാൾ കൂടിയ ഭൂരിപക്ഷം നേടിയ കോൺഗ്രസുകാർ നാലുപേർ
+മാത്രം—<ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/N.I._Devassykutty">എൻ. ഐ.
+ദേവസിക്കുട്ടി</ref>, <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">എ. എ. റഹിം</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AA_Rahim.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എ. റഹിം</figDesc>
+          </figure>
+          <p> പിന്നീടങ്ങോട്ടു് വെച്ചടി കയറ്റമായിരുന്നു കെ. പി. സി. സി. എക്സിക്യൂട്ടിവ് അംഗമായി, സഹകരണ
+
+മാർക്കറ്റിംഗ് ഫെഡറേഷൻ ഡയറക്ടറായി, റബർ ബോർഡ് മെമ്പറായി, കർഷക കോൺഗ്രസ് പ്രസിഡന്റായി.
+1977-ൽ തിരുവമ്പാടി നിയോജക മണ്ഡലമുണ്ടായി. അഖിലേന്ത്യാ മുസ്ലിംലീഗിലെ <ref target="https://ml.wikipedia.org/wiki/ET._Mohammed_Basheer">ഇ. ടി. മുഹമ്മദ്
+ബഷീർ</ref> എതിരാളിയായിവന്നു. മൽസരം കടുത്തതായിരുന്നു. പോളിംഗ് 83 ശതമാനത്തിലെത്തി 3381
+വോട്ടിന്റെ വ്യത്യാസത്തിൽ <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+വിജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_T_Muhammed_Basheer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. ടി. മുഹമ്മദ് ബഷീർ</figDesc>
+          </figure>
+          <p> 1978 ജനുവരി ഒന്നിനു് കോൺഗ്രസ് വീണ്ടും പിളർന്നു. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref>
+ഡോ. <ref target="https://ml.wikipedia.org/wiki/K.G._Adiyodi">കെ. ജി.
+അടിയോടി</ref> യുമൊക്കെ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref>
+ക്കൊപ്പം പോയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+ഔദ്യോഗിക പക്ഷത്തുനിന്നു. 1980-ലെ തെരഞ്ഞെടുപ്പാകുമ്പോഴേക്കുംം <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ഗ്രൂപ്പ്
+കോൺഗ്രസുകാർ ഇടതുപാളയത്തിൽ കൂടിയേറി. തിരുവമ്പാടിയിൽ ഇടതുപക്ഷ സ്ഥാനാർഥി <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>.
+എതിരാളി മുസ്ലിംലീഗിലെ എൻ. എം. ഹുസൈൻ. നിരീശ്വരവാദികളായ കമ്മ്യൂണിസ്റ്റുകാരെ ജയിപ്പിക്കരുതെന്നു്
+പറഞ്ഞു് മനോരമയും അച്ചന്മാരും കച്ചറയുണ്ടാക്കിയെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+തന്നെ ജയിച്ചു. ഭൂരിപക്ഷം 6570 ആയി ഉയർന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PC_Chacko.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. ചാക്കോ</figDesc>
+          </figure>
+          <p> 1981-ൽ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യും കൂട്ടരും
+ഇടതുമുന്നണി വിട്ടു. കേന്ദ്ര നേതൃത്വത്തിന്റെ ആശീർവാദത്തോടെ <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി. ചാക്കോ</ref>, <ref target="https://ml.wikipedia.org/wiki/A._C._Shanmugha_das">എ. സി.
+ഷൺമുഖദാസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/A.K._Saseendran">എ. കെ. ശശീന്ദ്രൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Ramachandran_Kadannappalli">കടന്നപ്പള്ളി
+രാമചന്ദ്രൻ</ref>, ടി. പി. പീതാംബരൻ എന്നിവരും ഏതാനും അനുയായികളും കോൺഗ്രസ്-എസിന്റെ
+ബാനറിൽ മാർക്സിസ്റ്റ് പടകുടീരത്തിലേക്കു മടങ്ങിപ്പോയി. എവിടെ നിൽക്കണമെന്നതിനെ സംബന്ധിച്ചു് <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണി</ref> നു
+സംശയമേതും ഉണ്ടായില്ല. അദ്ദേഹം ആദർശധീരന്റെ കൂടെ ഉറച്ചുനിന്നു. ഐക്യമുന്നണി സ്ഥാനാർഥിയായി
+മൽസരിച്ചു് വീണ്ടും തിരുവമ്പാടി ജയിച്ചു. ഭൂരിപക്ഷം 3320.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ.
+കരുണാകരന്റെ</ref> നേതൃത്വത്തിൽ 19 അംഗ മന്ത്രിസഭ 1982 മെയ് 24-നു് സത്യവാചകം ചൊല്ലി
+അധികാരമേറ്റു. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ഗ്രൂപ്പിൽനിന്നു് മൂന്നു്
+മന്ത്രിമാരുണ്ടായിരുന്നു—<ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>
+(ആഭ്യന്തരം), <ref target="https://ml.wikipedia.org/wiki/K_P_Nurudheen">കെ. പി.
+നൂറുദ്ദീൻ</ref> (വനം), <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+(കൃഷി) കുടിയേറ്റക്കാരിൽനിന്നുള്ള ആദ്യ മന്ത്രി (ഇതഃപര്യന്തം അവസാനത്തെയും) <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_C_Shanmugha_das.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. സി. ഷൺമുഖദാസ്</figDesc>
+          </figure>
+          <p> 1982 ഡിസംബർ 13-നു് എറണാകുളത്തു് ചേർന്ന മഹാസമ്മേളനത്തിൽ ആന്റണി കോൺഗ്രസ്
+മാതൃസംഘടനയിൽ ലയിച്ചു. ആന്റണി കോൺഗ്രസ് മാതൃസംഘടനയിൽ ലയിച്ചു. ലയനം പക്ഷേ, <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണി</ref> നു്
+പാരയായി. 1983 സെപ്റ്റംബറിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകർജി</ref>
+മന്ത്രിസഭ പുനഃസംഘിടിപ്പിച്ചു. <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണി</ref> നു്
+പകരം <ref target="https://ml.wikipedia.org/wiki/A.L._Jacob">എ. എൽ.
+ജേക്കബ്</ref> മന്ത്രിയായി. <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണനും</ref> <ref target="https://ml.wikipedia.org/wiki/C.V._Padmarajan">സി. വി.
+പത്മരാജനും</ref> ഒപ്പം പുറത്തായി. <ref target="https://ml.wikipedia.org/wiki/C.V._Padmarajan">പത്മരാജനെ</ref> <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+കെ. പി. സി. സി. പ്രസിഡന്റാക്കി. <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണും</ref>
+<ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">ബാലകൃഷ്ണനും</ref>
+വഴിയാധാരം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kadannappally_Ramachandran.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടന്നപ്പള്ളി രാമചന്ദ്രൻ</figDesc>
+          </figure>
+          <p> 1983 ഡിസംബറിൽ കരുണാകരൻ മന്ത്രിസഭക്കെതിരെ <ref target="https://ml.wikipedia.org/wiki/Baby_John">ബേബി ജോൺ</ref>
+അവിശ്വാസപ്രമേയം അവതരിപ്പിച്ചു് എട്ടംഗങ്ങളുള്ള കേരള കോൺഗ്രസ് ജോസഫ് ഗ്രൂപ്പ് ഐക്യമുന്നണി
+വിട്ടുവരും, ലീഗിലെ രണ്ടും കോൺഗ്രസിലെ മൂന്നും എം. എൽ. എ.-മാർ മറുകണ്ടം ചാടും എന്നായിരുന്നു മനോരഥം.
+കൃത്യസമയത്തു് <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ.
+ജോസഫി</ref> നെ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+മെരുക്കി. അഹമ്മദ് കണ്ണും <ref target="https://ml.wikipedia.org/wiki/K.M._Hamsa_Kunju">ഹംസക്കുഞ്ഞും</ref>
+അറച്ചുനിന്നു. <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക്
+
+ജോണും</ref> <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണനും</ref> ജോസ് കുറ്റ്യാനിയും മണർക്കാട് പാപ്പന്റെ വാക്കു വിശ്വസിച്ചു് മറുകണ്ടംചാടിയെങ്കിലും
+ഫലമുണ്ടായില്ല. അവിശ്വാസം പരാജയപ്പെട്ടു. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+മന്ദഹാസത്തിനു മാറ്റുകൂടി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AK_Saseendran.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ശശീന്ദ്രൻ</figDesc>
+          </figure>
+          <p> ചാട്ടം പിഴച്ച സിറിയക് ജോണിനെ കോഴിക്കോട്ട് വെച്ചു് കരുണാകരാനുകുലികൾ കൈയേറ്റം ചെയ്തു
+എന്നാണു് ചരിത്രം. കാലാന്തരത്തിൽ കുറ്റ്യാനിയും <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">ബാലകൃഷ്ണനും</ref>
+കോൺഗ്രസിലേക്കു് തിരിച്ചുപോയി. പാപ്പൻചേട്ടൻതന്നെയും കരുണാകരന്നുമായി പ്രശ്നങ്ങൾ പറഞ്ഞുതീർത്തു.
+<ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക്
+ജോൺ</ref> അസ്സലുള്ളവനാണു്. അതുകൊണ്ടു് സന്ധിസംഭാഷണത്തിനോ പാദസേവക്കോ പോയില്ല.
+പകരം കോൺഗ്രസ് എസിൽ ചേക്കേറി കരുണാകരവിരുദ്ധനും ആന്റണിവിരുദ്ധനുമായിക്കഴിഞ്ഞു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p> 1987 മേയിൽ വീണ്ടും നിയമസഭാ തെരഞ്ഞെടുപ്പു്. തിരുവമ്പാടിക്കുവേണ്ടി കോൺഗ്രസുകാർ പലരും
+ഇടിച്ചെങ്കിലും കുറിവീണതു് <ref target="https://ml.wikipedia.org/wiki/P._P._George">പി. പി. ജോർജി</ref> നു്.
+തൃശൂർ ജില്ലയിലെ പുതുക്കാടാണു് ജോർജ് മാഷിന്റെ സ്വദേശം. 1977-ൽ ചാലകൂടിയിലും 80-ൽ തൃശുരും (ലോക്സഭ)
+82-ൽ ചേർപ്പിലും നിന്നു് തോറ്റ ദേഹം. തിരുവമ്പാടിയുടെ അക്ഷാംശമെത്ര രേഖാംശാമെത്ര എന്നു് മാഷിനു
+അറിയില്ല. പക്ഷേ, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+അക്രീതദാസൻ, ഭക്തഹനുമാൻ എസ്. എഫ്. ഐ. നേതാവു് <ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">മത്തായി ചാക്കോ</ref>
+എതിരാളിയായി വന്നപ്പോൾ മൽസരം പൊടിപാറി. തിരുവമ്പാടിയിൽ ജനിച്ചുവളർന്നവൻ ചാക്കോച്ചൻ.
+അതുല്യ സംഘാടകൻ, ഉജ്ജ്വല വാഗ്മി, ഉൽഫുല്ല ബാലരവിപോലെ കാന്തിമാൻ. പോളിംഗ് 82
+ശതമാനത്തിലേക്കുയുർന്നപ്പോൾ സഖാക്കൾ വിജയം പ്രതീക്ഷിച്ചു. പക്ഷേ, ജോർജ് മാഷിന്റെ കപ്പടാ മീശയും
+കരുണാകരഭക്തിയും അരിയങ്ങാടി ആക്സന്റിലുള്ള സംസാരവുമാണു് തിരുവമ്പാടിയുടെ ഹൃദയം
+കവർന്നതെന്നു് ഫലം തെളിയിച്ചു. ഭ്രരിപക്ഷം 15,784.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AL_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എൽ. ജേക്കബ്</figDesc>
+          </figure>
+          <p> 1991-ൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref> <ref target="https://ml.wikipedia.org/wiki/P._P._George">ജോർജ്</ref> മാഷിനെ
+ഒല്ലൂർക്ക് മാറ്റി. തിരുവമ്പാടി നിരുപാധികം മുസ്ലിം ലീഗിനു് നൽകി. കുടിയേറ്റക്കാരായ സത്യക്രിസ്ത്യാനികൾക്കു്
+കടുത്ത ഹൃദയ വ്യഥയുണ്ടായി. മറുഭാഗത്തു് കോൺഗ്രസ്-എസ് സ്ഥാനാർഥിയായി <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+വന്നു. സംസ്ഥാനത്തു് പൊതുവേ നിലനിന്ന ഇടതു് അനുകൂല തരംഗവും തിരുവമ്പാടിയിലെ കത്തോലിക്ക
+ഹൃദയവികാരവും മുതലെടുത്തു് അദ്ദേഹം ജയിക്കുകയും ചെയ്തേനെ. പക്ഷേ, ശ്രീ പെരുമ്പത്തൂരിലെ ബോംബ്
+
+സ്ഫോടനം ഇടതുമുന്നണിയുടെ പ്രതീക്ഷ തകർത്തു. <ref target="https://ml.wikipedia.org/wiki/A.V._Abdurahman_Haji">എ. വി. അബ്ദുറഹ്മാൻ
+ഹാജി</ref> തിരുവമ്പാടിയിൽ പച്ചക്കൊടി പാറിച്ചു. ഭൂരിപക്ഷം 6102.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CV-PADMARAJAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. വി. പത്മരാജൻ</figDesc>
+          </figure>
+          <p> 1996-ൽ <ref target="https://ml.wikipedia.org/wiki/A.V._Abdurahman_Haji">അബ്ദുറഹ്മാൻ
+ഹാജി</ref> യും <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണും</ref>
+വീണ്ടും ഏറ്റുമുട്ടി. പത്തനംതിട്ട, കോട്ടയം, ഇടുക്കി, എറണാകുളം ജില്ലകളിലെ ക്രിസ്ത്യൻ ഭൂരിപക്ഷ
+പ്രദേശങ്ങളൊഴികെ സംസ്ഥാനത്തെമ്പാടും ഇടതുതരംഗമാണു്. കോഴിക്കോട് ജില്ലയിൽ കോൺഗ്രസിന്റെ
+കുത്തക സീറ്റായ കൊയിലാണ്ടി ഒലിച്ചുപോയി. കൊടുവള്ളിയിൽ ലീഗിലെ മോയിൻകുട്ടി വെറും 94 വോട്ടിനാണു്
+ജയിച്ചതു്. തിരുവമ്പാടിയിലെ ക്രിസ്ത്യാനികൾ അന്തോണീസ് പുണ്യാളനും മദാമ്മാ ഗാന്ധിക്കും പിന്നിൽ
+ഉറച്ചുനിന്നു. ഹാജ്യാർ 5122 വോട്ട് വ്യത്യാസത്തോടെ പാസായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KK_Balakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കെ. ബാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> 2000-ൽ <ref target="https://ml.wikipedia.org/wiki/A.V._Abdurahman_Haji">അബ്ദുറഹ്മാൻ
+ഹാജി</ref> കളമൊഴിഞ്ഞു. ലീഗ് കൊടുവള്ളി <ref target="https://ml.wikipedia.org/wiki/C._Mammutty">സി. മമ്മൂട്ടി</ref> ക്കു് കൊടുത്തു.
+മോയിൻകുട്ടിയെ തിരുവമ്പാടിയിൽ മൽസരിപ്പിച്ചു. എതിരാളി പിന്നെയും <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+(അപ്പോഴേക്കും കോൺഗ്രസ്-എസ് <ref target="https://en.wikipedia.org/wiki/Sharad_Pawar">ശരത്പവാറി</ref> ന്റെ
+എൻ. ഡി. പി.-യിൽ ലയിച്ചുകഴിഞ്ഞു). അത്തവണ അതിഗംഭീര യു. ഡി. എഫ്. തരംഗമുണ്ടായി. മോയിൻകുട്ടിയുടെ
+ഭൂരിപക്ഷം 15,676. പരാജയത്തിൽ ഹാട്രിക് തികച്ചു് <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+രംഗം വിട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Babyjohn.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബേബി ജോൺ</figDesc>
+          </figure>
+          <p> 2006 ആകുമ്പോഴേക്കും എൻ. സി. പി. എല്ലും തൊലിയുമായി. <ref target="https://ml.wikipedia.org/wiki/Ramachandran_Kadannappalli">കടന്നപ്പള്ളി
+രാമചന്ദ്രൻ</ref> കോൺഗ്രസ്-എസ് പുനരുജ്ജീവിപ്പിച്ചു. <ref target="https://ml.wikipedia.org/wiki/V.C._Kabeer">വി. സി. കബീർ</ref>, ഉമ്മൻ
+കോൺഗ്രസിലേക്കു് തിരിച്ചുപോയി. <ref target="https://ml.wikipedia.org/wiki/A._C._Shanmugha_das">ഷൺമുഖദാസ്</ref>
+തെരഞ്ഞെടുപ്പു് രംഗം ഉപേക്ഷിച്ചു. <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+പാർട്ടിയുടെ സംസ്ഥാന പ്രസിഡന്റ് പേരാവൂർ തിരുവമ്പാടി ഒറ്റപ്പാലം പള്ളുരുത്തി സീറ്റുകൾ സി. പി. എം.
+ദയാപുരസ്സരം ഏറ്റെടുത്തു. ബാലുശ്ശേരിയും പാലയും എൻ. സി. പി.-ക്കു കൊടുത്തു എടക്കാട് <ref target="https://ml.wikipedia.org/wiki/Ramachandran_Kadannappalli">കടന്നപ്പള്ളി</ref>
+
+ക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p> തിരുവമ്പാടി പിടിക്കാൻ സി. പി. എം. <ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">മത്തായി ചാക്കോ</ref> യെ
+മേപ്പയൂരുനിന്നു് തിരിച്ചുകൊണ്ടു വന്നു. ലീഗുകാർ നാട്ടുകാരനായ മോയിൻകുട്ടിയെ തഴഞ്ഞു് ബേപ്പൂരിൽനിന്നു്
+ധനാഢ്യനായ എം. സി. മായിൻഹാജിയെ ഇറക്കുമതി ചെയ്തു. വിധിനിർണയിച്ച ഘടകങ്ങൾ
+പലതായിരുന്നു—<ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">മത്തായി ചാക്കോ</ref> യുടെ
+വ്യക്തിപ്രാഭവം, മാർക്സിസ്റ്റ് പ്രചാരണയന്ത്രത്തിന്റെ പ്രചണ്ഡമായ പ്രവർത്തനം, സംസ്ഥാനമാകെ നിലനിന്ന
+രാഷ്ട്രീയാന്തരീക്ഷം, വി. എസ്. തരംഗം, ലീഗുകാരുടെ അമിത ആത്മവിശ്വാസം, പ്രാദേശിക നേതാക്കളുടെ
+പ്രതിഷേധം, കാന്തപുരം ജമാഅത്തെ ഇസ്ലാമി, പി. ഡി. പി. നിലപാടുകൾ, കൊടുവള്ളിയിലെ റഹിം ഇഫ്ക്ട്,
+മാറാട് കലാപവുമായി ബന്ധപ്പെട്ടു് മായിൻഹാജിക്കുണ്ടായ ദുഷ്പ്പേരു്, എല്ലാത്തിനുമുപരി മണ്ഡലം
+എക്കാലത്തേക്കും നാലാം വേദക്കാർക്കു് തീറെയെഴുതുന്നതിൽ സത്യക്രിസ്ത്യാനികൾക്കുണ്ടായ മനസ്താപം.
+അങ്ങനെ തിരുവമ്പാടിയിലെ ചെമ്മണ്ണിൽ ആദ്യമായി ചെങ്കൊടി പാറി. <ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">ചാക്കോച്ചന്റെ</ref>
+ഭൂരിപക്ഷം 5479.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mathai_Chacko.png" rendition="gra"/>
+            <figDesc style="thumb">മത്തായി ചാക്കോ</figDesc>
+          </figure>
+          <p> ആറുമാസത്തിനകം തിരുവമ്പാടി വീണ്ടും പോളിംഗ്ബൂത്തിലേക്കു് നിങ്ങുന്നു. <ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">മത്തായി ചാക്കോ</ref> യുടെ
+അകാല നിര്യാണം സംജാതമാക്കിയ ഉപതെരഞ്ഞെടുപ്പു് ഡിസംബർ നാലിനു് നടക്കും. സി. പി. എം.
+തിരുവമ്പാടി ഏരിയാ സെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/George_M_Thomas">ജോർജ് എം.
+തോമസാ</ref> ണു് ഇടതുമുന്നണി സ്ഥാനാർഥി. താമരശ്ശേരി പഞ്ചായത്ത് വൈസ് പ്രസിഡന്റ് <ref target="https://en.wikipedia.org/wiki/V._M._Ummer_Master">വി. എം. ഉമ്മർ</ref>
+ഐക്യമുന്നണിയുടെയും യുവമോർച്ച നേതാവു് ഗിരീഷ് തേവള്ളി ബി. ജെ. പി.-യുടെയും സ്ഥാനാർഥികൾ.
+മൂന്നുപേരും നാട്ടുകാർ തിരുവമ്പാടിയുടെ ഠ വട്ടത്തിനുപ്പുറം അധികമൊന്നും അറിയപ്പെടാത്തവർ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_V_Abdurahiman_Haji.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. വി. അബ്ദുറഹ്മാൻ ഹാജി</figDesc>
+          </figure>
+          <p> ഉറച്ച യു. ഡി. എഫ്. കോട്ടയാണു് തിരുവമ്പാടി. കഴിഞ്ഞ ഏപ്രിൽ-മെയ് മാസങ്ങളിൽ നിലനിന്ന
+വൈകാരികാന്തരീക്ഷമോ <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+തരംഗമോ ഇപ്പോഴില്ല. <ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">മത്തായി ചാക്കോ</ref> യുടെ
+വ്യക്തപ്രാഭവം <ref target="https://ml.wikipedia.org/wiki/George_M_Thomas">ജോർജ് തോമസി</ref>
+നില്ല. മായിൻഹാജിക്കുള്ള ദുഷ്പേർ <ref target="https://en.wikipedia.org/wiki/V._M._Ummer_Master">ഉമ്മർ മാസ്റ്റർ</ref>
+ക്കുമില്ല. ജമാഅത്തെ ഇസ്ലാമി, പി. ഡി. പി, കാന്തപുരം സുന്നി ഗ്രൂപ്പുകളിൽനിന്നു് കഴിഞ്ഞ
+തവണത്തേതുപോലുള്ള സഹായം ഇടതുപക്ഷത്തിനു് പ്രതീക്ഷിക്കാനുമാവില്ല—ഇത്രയുമാണു് ഐക്യമുന്നണിക്കു്
+
+അനുകൂലമായ ഘടകങ്ങൾ.
+</p>
+          <p>സ്വാശ്രയ വിദ്യാഭ്യാസ നിയമത്തിന്റെ ന്യൂനപക്ഷ വിരുദ്ധ സ്വഭാവം, മുരിങ്ങൂർ ധ്യാനകേന്ദ്രത്തിലെ പൊലീസ്
+റെയ്ഡ്, <ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">മത്തായി
+ചാക്കോ</ref> യുടെ മൃതദേഹം പള്ളി സെമിത്തേരിയിയല്ലാതെ പാർട്ടി ഓഫിസ് പരിസരത്തു് അടക്കിയതു്
+മുതലായ വിഷയങ്ങളും പയറ്റിനോക്കാവുന്നതാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് തോൽവിയുടെ ഞെട്ടലിൽനിന്നു് ലീഗ് ഇനിയും കരകയറിയിട്ടില്ല. പാർട്ടിയുടെ അസ്തിവാരം
+ഇളകിയിരിക്കുന്നു. തോൽവിക്കു് ഉത്തരവാദിയെന്നു് മുദ്രയടിച്ചു് ഒഴിവാക്കപ്പെട്ട ജനാബ് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+ജനറൽ സെക്രട്ടറി സ്ഥാനത്ത് തിരിച്ചെത്തുകയും ചെയ്തിരിക്കുന്നു. ജയസാധ്യതയുണ്ടെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">മുനീറോ</ref> <ref target="https://ml.wikipedia.org/wiki/ET._Mohammed_Basheer">മുഹമ്മദ്
+ബഷീറോ</ref> തിരുവമ്പാടിയിൽ മൽസരിച്ചേനെ. <ref target="https://ml.wikipedia.org/wiki/Muhammad_Ali_Jinnah">മുഹമ്മദാലി
+ജിന്ന</ref> മൽസരിച്ചാലും തോൽക്കും എന്നു് ഉറപ്പുള്ളതുകൊണ്ടാണു് സ്ഥാനാർഥിത്വം പാവം <ref target="https://en.wikipedia.org/wiki/V._M._Ummer_Master">ഉമ്മർ മാസ്റ്റെറെ</ref>
+തേടിയെത്തുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_C_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. ജോസഫ്</figDesc>
+          </figure>
+          <p> മാറാട് അന്വേഷണ കമ്മീഷൻ റിപ്പോർട്ട് ലീഗിന്റെ പ്രതിഛായയ്ക്കു മങ്ങലേൽപിച്ചിരിക്കുന്നു. കോണി
+ചിഹ്നത്തിൽ വോട്ടുകുത്തും മുമ്പു് ഹിന്ദു-ക്രിസ്ത്യൻ വോട്ടർമാർ രണ്ടുവട്ടം ആലോചിക്കും. എരീതിയിൽ എണ്ണ
+പകർന്നുകൊണ്ടു് <ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടൻ
+മുഹമ്മദും</ref> <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്. മുസ്തഫ</ref> യും
+നടത്തിയ പ്രസ്താവനകൾ കോൺഗ്രസുകരെ ഇരുത്തി ചിന്തിപ്പിക്കും. യഥാർഥത്തിൽ ലീഗ് തോൽക്കേണ്ടതു്
+കോൺഗ്രസിന്റെ ആവശ്യമാണു്. മുസ്ലിംലീഗിന്റെ ദുഷ്ക് അവസാനിപ്പിക്കാൻ, വിലപേശൽ ശക്തി കുറക്കാൻ
+തിരുവമ്പാടിയിലെ പരാജയം അനിവാര്യം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/George_m_thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ്ജ് എം. തോമസ്</figDesc>
+          </figure>
+          <p> കോഴിക്കോട്, വയനാട് ജില്ലകളിൽനിന്നു് നിലവിൽ ഒറ്റ ക്രിസ്ത്യൻ എം. എൽ. എ.-യുമില്ല. തൃശൂരിനു വടക്കു്
+രണ്ടേ രണ്ടു് ക്രിസ്ത്യാനികളെ നിയമസഭാംഗങ്ങളായുമുള്ളു—<ref target="https://en.wikipedia.org/wiki/Jose_Baby">ജോസ് ബേബി</ref>
+(മണ്ണാർക്കാട് ) <ref target="https://ml.wikipedia.org/wiki/K.C._Joseph">കെ. സി.
+ജോസഫ്</ref> (ഇരിക്കൂർ) ഈ പോരായ്മ പരിഹരിക്കാൻ തിരുവമ്പാടിയിലെ കുടിയേറ്റക്കാർ കിണഞ്ഞു
+പരിശ്രമിക്കാനാണു് സാധ്യത.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MK_Muneer.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കെ. മുനീർ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക്
+ജോൺ</ref> നയിക്കുന്ന എൻ. സി. പി.-യിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+ഡി. ഐ. സി. നിരുപാധികം ലയിച്ചിരിക്കുന്നു. ഇരുപാർട്ടികൾക്കും അൽപസ്വൽപം സ്വാധീനമുള്ള സ്ഥലമാണു്
+തിരുവമ്പാടി. മാർക്സിസ്റ്റ് സ്ഥാനാർഥിയുടെ വിജയത്തിനുവേണ്ടി <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരനും</ref> കൂട്ടരും
+കൈമെയ് മറന്നു് പ്രവർത്തിക്കും. കാരണം ഇടതുമുന്നണിയിലേക്കുള്ള പാത താമരശ്ശേരി ചുരത്തിലൂടെയാണു്.
+കോൺഗ്രസ് ഭരണകാലത്തുപോലും ഉപതെരഞ്ഞെടുപ്പു മുതൽ 1999-ലെ എറണാകുളം ഉപതെരഞ്ഞെടുപ്പുവരെ
+ദൃഷ്ടാന്തങ്ങൾ സി. പി. എമ്മിന്റെ മൊത്തം സംഘടനാശേഷിയും മണ്ഡലത്തിൽ കേന്ദ്രീകരിക്കപ്പെടും. അയൽ
+ജില്ലകളിൽനിന്നുവരെ പ്രവർത്തകർ പ്രവഹിക്കും. കിട്ടാവുന്ന ഒരു വോട്ടും പാഴാവുകയില്ല. ചിട്ടയായ പ്രവർത്തനം
+സുനിശ്ചിതമായ വിജയം.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mathai_Chacko">മത്തായി
+ചാക്കോ</ref> ക്കു് കിട്ടിയതിനേക്കാൾ ഉയർന്ന ഭൂരിപക്ഷത്തോടെ <ref target="https://ml.wikipedia.org/wiki/George_M_Thomas">ജോർജ്ജ് എം.
+തോമസ്</ref> വിജയിക്കാനാണു് സാധ്യത. കാതുള്ളവർ കേൾക്കട്ടെ, സംശയാലുക്കൾ ഡിസംബർ ഏഴുവരെ
+കാത്തിരിക്കട്ടെ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thiruvambadiyile Janavidhi (ml:
+തിരുവമ്പാടിയിലെ ജനവിധി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Thiruvambadiyile Janavidhi, കെ. രാജേശ്വരി, തിരുവമ്പാടിയിലെ ജനവിധി, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 9, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Fran%C3%A7ois_de_Block__The_Signal.jpg">The Signal,</ref> a painting by Eugène François de Block
+ (1812–1893). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-janavidhi.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-janavidhi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ലാഭക്കച്ചവടത്തിന്റെ
+നാനാർഥങ്ങൾ</title>
+          <title xml:lang="en" type="main">Labhakkachavadaththinte Nanardhangal</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">March 16, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ലാഭക്കച്ചവടത്തിന്റെ
+നാനാർഥങ്ങൾ</title>
+              <title xml:lang="en" type="main">Labhakkachavadaththinte Nanardhangal</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Labhakkachavadaththinte Nanardhangal</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ലാഭക്കച്ചവടത്തിന്റെ നാനാർഥങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>March 16, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Church_by_Moonlight.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Church_by_Moonlight_%28gcf01376%29.jpg">Church
+by Moonlight,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q21455394">Alfred Worthington</ref>
+ (1834–1927). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ലാഭക്കച്ചവടത്തിന്റെ നാനാർഥങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ലാഭക്കച്ചവടത്തിന്റെ നാനാർഥങ്ങൾ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/MK_Muneer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. എം. കെ. മുനീർ</figDesc>
+          </figure>
+          <p style="noindent"> കേരള മന്ത്രിസഭയിലെ ഗ്ലാമർതാരമാകുന്നു മാനത്താംകണ്ടി മുനീർ എന്ന <ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">ഡോ. എം. കെ. മുനീർ</ref>.
+മുസ്ലിം ലീഗുനേതാവും മുഖ്യമന്ത്രിയുമായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്. മുഹമ്മദ്
+കോയ</ref> യുടെ മകൻ. 1962 ആഗസ്റ്റ് 26-നു് അന്നശ്ശേരിയിൽ ജനനം. കോഴിക്കോടു് മെഡിക്കൽ
+കോളേജിൽനിന്നു് എം. ബി. ബി. എസ്. പാസായി സി. എച്ച്. സ്മാരക ആശുപത്രിയിൽ ജോലി നോക്കുമ്പോഴാണു്
+മുനീറിനു് രാഷ്ട്രീയ വിളിയുണ്ടായതു്. 25-ാം വയസ്സിൽ കോർപറേഷൻ കൗൺസിലർ, 29-ൽ നിയമസഭാംഗം; 39-ൽ
+മന്ത്രി. ബഹുമുഖ പ്രതിഭയാണു് മുനീർ. പ്രസംഗിക്കും, എഴുതും, പടം വരക്കും, പാടും, പാട്ടിൽ പറഞ്ഞപോലെ
+ഓത്തുമുപ്പത്തഞ്ചും ബെയ്ത്തും പച്ചിപ്പാട്ടും നീർത്തിവെച്ചാലോനു വെള്ളം പോലെ. കാരിക്കേച്ചറുകൾ സമാഹരിച്ചു്
+‘സ്കെച്ചസ് ’ എന്നൊരു പുസ്തകമുണ്ടാക്കി; ‘ഫാഷിസവും സംഘ പരിവാറും’ എന്ന കിതാബ് എഴുതി അവാർഡും
+വാങ്ങി. തൂലിക മാസികയുടെ പത്രാധിപരും ലളിതകലാ അക്കാദമി അംഗവുമായിരുന്നു. ഒലിവ്
+പബ്ലിക്കേഷൻസിന്റെയും ഇന്ത്യാവിഷൻ ചാനലിന്റെയും അമരക്കാരൻ. <ref target="https://ml.wikipedia.org/wiki/Moyinkutty_Vaidyar">മോയിൻകുട്ടി
+വൈദ്യരു</ref> ടെ വരികൾ അൽപം മാറ്റിപ്പാടിയാൽ—</p>
+          <lg>
+            <l> നാമക്കരുത്തൻ മന്ത്രിമുനീർ</l>
+            <l> നാളുക്കും ഒത്ത പുരുഷൻ ഇല്ലൈ</l>
+            <l> താമരപൂക്കും മുഖത്തെക്കണ്ടാൽ</l>
+            <l> തേനാർചിറക്കും പയക്കം കേട്ടാൽ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഭൂമിക്കു് സുറുമയിട്ട വീരന്മാരാണു് മുസ്ലിംലീഗുകാർ. ബെമ്പോട്ടു കച്ചവടം മുതൽക്കുള്ള സർവഗുലാബികളുമുണ്ടു്
+അവരുടെ കൈയിൽ. ചുണ്ണാമ്പു വാങ്ങാൻ കാശില്ലാഞ്ഞവർ പലരും ഇന്നു കൊലകൊമ്പന്മാരാണു്. മയ്യിത്തിന്റെ
+മുതലുകിട്ടിയാലും വലല്ലാല്ലീൻ ആമീൻ! പള്ളി പ്രശ്നത്തേക്കാൾ വലുതാണു് പള്ള പ്രശ്നം. അതുകൊണ്ടാണു്
+അയോധ്യയിൽ പള്ളി പൊളിച്ചപ്പോഴും ഇവിടത്തെ ലീഗുകാർ മന്ത്രിക്കസേരയിൽ ഒട്ടിപ്പിടിച്ചിരുന്നതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CHmohammedKoya.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എച്ച്. മുഹമ്മദ് കോയ</figDesc>
+          </figure>
+          <p> നഷ്ടത്തിലോടുന്ന പൊതുമേഖലാ സ്ഥാപനങ്ങളത്രയും വിറ്റുകളയാമെന്നാണു് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+സാഹിബിന്റെ ഭീഷണി. വിവര സാങ്കേതിക വിദ്യ പഠിക്കാൻ സെക്രട്ടറിയുമൊത്തു് ഉലകം ചുറ്റുകയാണദ്ദേഹം.
+<ref target="https://ml.wikipedia.org/wiki/Nalakath_Soopy">സൂപ്പി</ref>
+സാഹിബാണെങ്കിൽ സാങ്കേതികവിദ്യാഭ്യാസ രംഗം സ്വകാര്യമേഖലക്കു് തീറെഴുതിക്കഴിഞ്ഞു.
+മുഴത്തിനുമുപ്പതാണിപ്പോൾ സ്വാശ്രയ എഞ്ചിനീയറിംഗ് കോളേജുകൾ. ഒക്കത്തുകാശുണ്ടെങ്കിൽ തക്കത്തിൽ
+കച്ചവടം ചെയ്യാം.
+</p>
+          <p>പാവം മുനീർ മാത്രം എത്രനാൾ പൂച്ച ആബിദായപോലെ അനങ്ങാതിരിക്കും. രാഷ്ട്രീയം എന്നതു്
+ഖായിമ്മക്കളിയല്ല. ഖുറൈശിത്തരം കാണിച്ചു് പുന്നായ്മകളിച്ചിരുന്നാൽ കട പൂട്ടേണ്ടിവരും. രാഷ്ട്രീയക്കാർ
+
+മലക്കുകളല്ല. എല്ലാ ശർത്തും ഫർളുമൊപ്പിച്ചു് ഭരണം കൊണ്ടു നടക്കാനാവില്ല. മലപ്പുറത്തുപോലും
+പത്താളുവാങ്ങാത്ത, വാങ്ങിയവർ തന്നെ വായിക്കാത്ത ചന്ദ്രികക്കു് മുംബൈ എഡിഷൻ തുടങ്ങാനാണു് പാർട്ടി
+തീരുമാനം. ഇന്ത്യാ വിഷനാണെങ്കിൽ തുടങ്ങിയസ്ഥലത്തുതന്നെ നിൽക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> അങ്ങനെയാണു് മരാമരത്തുവകുപ്പു് വക വിശ്രമമന്ദിരങ്ങൾ സ്വകാര്യ വ്യക്തികൾക്കു് കൈമാറാൻ
+തീരുമാനിച്ചതു്. ആദ്യം റസ്റ്റ് ഹൗസുകൾ, പിന്നെ ഘട്ടംഘട്ടമായി റോഡുകൾ, തോടുകൾ, വിളക്കുമരങ്ങൾ. “ജ്ജനു്
+മുജ്ജനുറുപ്പിക കിട്ടണം” എന്ന നിർബന്ധമില്ല. എട്ടണയെങ്കിൽ എട്ടണ കിട്ടണതായി.
+</p>
+          <p>മൂന്നാർ, തൃശൂർ, ഫറോക്ക്, പൊന്മുടി, ആലുവ, വൈക്കം എന്നിവിടങ്ങളിലെ റസ്റ്റ് ഹൗസുകളാണു്
+മുപ്പതുകൊല്ലത്തേക്കു് സ്വകാര്യ വ്യക്തികൾക്കു് കൈമാറുന്നതു്. കച്ചവടം ലാഭകരമെന്നു് കണ്ടാൽ മറ്റു റസ്റ്റ്
+ഹൗസുകളും കൈമാറും. ‘എ’ കാറ്റഗറിയിൽ റസ്റ്റ് ഹൗസുകളിൽ മൂന്നു മുറികളും ‘ബി’ കാറ്റഗറിയിൽ ഒരു മുറിയും
+സർക്കാറുദ്യോഗസ്ഥർക്കായി മാറ്റിവെക്കും. പ്രതിവർഷം 26 ലക്ഷം രൂപ ഫീസിനത്തിൽ സർക്കാറിനു കിട്ടുകയും
+ചെയ്യും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_Ahammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. അഹമ്മദ്</figDesc>
+          </figure>
+          <p> മുത്തിനുള്ളതു് മുത്താറിക്കു വിൽക്കാനുള്ള സർക്കാർ തീരുമാനത്തെ പ്രതിപക്ഷനേതാവും ദേശാഭിമാനിയും
+അപലപിച്ചതു് സ്വാഭാവികം. കേരള കൗമുദി നവംബർ എട്ടിനു് മുഖപ്രസംഗവുമെഴുതി. സഖാക്കൾ അങ്ങിങ്ങു്
+അല്ലറ ചില്ലറ സമരമൊക്കെ നടത്തുകയും ചെയ്തു. എന്നാൽ, റസ്റ്റ് ഹൗസ് സ്വകാര്യവത്കരണത്തിനെതിരെ
+ഏറ്റവും ശക്തമായി പ്രതികരിച്ചതു് കോൺഗ്രസുകാരനായ ആലുവാ എം. എൽ. എ. <ref target="https://en.wikipedia.org/wiki/K._Mohammed_Ali">കെ. മുഹമ്മദാലി</ref>
+യായിരുന്നു. പിന്നീടു് <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരനും</ref>
+<ref target="https://en.wikipedia.org/wiki/Therambil_Ramakrishnan">തേറമ്പിൽ
+രാമകൃഷ്ണനും</ref> അതേപാത പിന്തുടർന്നു.
+</p>
+          <p>മലപ്പുറം ജില്ലക്കുതെക്കു്, അമ്പതുശതമാനത്തിലേറെ മുസ്ലിം വോട്ടർമാരുള്ള ഏക നിയോജക മണ്ഡലമാണു്
+ആലുവ. സുശക്തവും സുസ്ഥിരവുമാണു് ആലുവായുടെ കോൺഗ്രസ് പാരമ്പര്യം. 1967-ൽ മാർക്സിസ്റ്റ് സ്വതന്ത്രൻ
+വിജയിച്ചതൊഴിച്ചാൽ കേരളപ്പിറവിക്കുശേഷം കോൺഗ്രസുകാർ മാത്രമേ ആലുവായെ പ്രതിനിധാനം
+ചെയ്തിട്ടുള്ളു. കേരള കോൺഗ്രസുകളെയോ മുസ്ലിംലീഗിനെയോ കൂട്ടുപിടിക്കാതെ കോൺഗ്രസ് ഒറ്റക്കു മൽസരിച്ചു്
+(21 വാർഡിലും ചിഹ്നം കൈപ്പത്തി) ഭൂരിപക്ഷം നേടി ഭരിക്കുന്ന കേരളത്തിലെ ഏക മുനിസിപ്പാലിറ്റിയും
+ആലുവയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Therambil_Ramakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തേറമ്പിൽ രാമകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> കോൺഗ്രസിലെ ആന്റണി ഗ്രൂപ്പുകാരനാണു് <ref target="https://en.wikipedia.org/wiki/K._Mohammed_Ali">കെ. മുഹമ്മദാലി</ref>.
+1980-ൽ <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്.
+മുസ്തഫ</ref> യെ മലർത്തിയടിച്ചു് നിയമസഭയിലെത്തുമ്പോൾ വയസ്സു് 33 ആയിരുന്നു മുഹമ്മദാലിക്കു്. 1982, 87,
+91, 96, 2001 വർഷങ്ങളിലൊക്കെ വിജയം ആവർത്തിച്ചു. ഓരോ തവണയും ഭൂരിപക്ഷം വർദ്ധിച്ചു. ഇത്രയധികം
+തവണ തുടർച്ചയായി ഒരേ മണ്ഡലത്തെ പ്രതിനിധാനം ചെയ്ത മറ്റൊരു കോൺഗ്രസുകാരനും—<ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+
+യല്ലാത—ഉണ്ടായിട്ടില്ല. ആറു വട്ടം അടുപ്പിച്ചു് ജയിച്ചു് നിയമസഭാംഗത്വ രജത ജൂബിലിയുടെ
+പടിവാതിലെത്തിയിട്ടും മന്ത്രിസ്ഥാനം കിട്ടാഞ്ഞ ഹതഭാഗ്യരും വേറെ ഉണ്ടായിട്ടില്ല. അഴിമതിക്കാരല്ലാത്ത
+അപൂർവം കോൺഗ്രസുകാരിലൊരാളാണു് മുഹമ്മദാലി. ഭൂവിനിയോഗം ഉത്തരവു ലംഘിച്ചു് അഞ്ചു സെന്റ് സ്ഥലം
+മണ്ണിട്ടുനികത്തി എന്ന ഒരു ആരോപണമേ ഇക്കണ്ട കാലത്തിനിടക്കു് അദ്ദേഹത്തിനെതിരെ ഉണ്ടായിട്ടുള്ളു.
+</p>
+          <p>140 റസ്റ്റ് ഹൗസുകൾ നടത്തുന്നവകയിൽ സർക്കാറിനു് പ്രതിവർഷം രണ്ടു കോടി രൂപ നഷ്ടമുണ്ടെന്നാണു്
+മുഖ്യനും മുനീറും പറയുന്നതു്. എന്നാൽ മുഹമ്മദാലിയുടെ നിലപാടു് മറ്റൊന്നാണു്. “സർക്കാർ അതിഥിമന്ദിരങ്ങൾ
+ആദായകരമായി നടക്കുന്ന സ്ഥാപനങ്ങളല്ല. ഒരുകാലത്തും ആദായകരമായിരുന്നുമില്ല. അതല്ല ലക്ഷ്യവും.
+താഴ്‌ന്നവരുമാനക്കാരായ സർക്കാർ ജീവനക്കാർക്കും പൊതുപ്രവർത്തകർക്കും ഔദ്യോഗിക
+കൃത്യനിർവഹണത്തിനു് താമസമൊരുക്കാൻ വേണ്ടിയാണു് അതിഥിമന്ദിരങ്ങൾ നിർമിച്ചിട്ടുള്ളതു്. ഇന്ത്യയിൽ
+എല്ലാ സംസ്ഥാനങ്ങളിലും സർക്കാർ മേഖലയിലാണു്. അവിടെങ്ങുമുള്ള സർക്കാറുകൾ അതിഥിമന്ദിരങ്ങൾ
+ആദായവത്കരിക്കാൻ ശ്രമിക്കുന്നില്ല.” ഇനി, ആദായമുണ്ടാക്കിയേ തീരൂ എന്നാണെങ്കിൽ അവ
+കെ. ടി. ഡി. സി.-യെ ഏൽപിച്ചാൽ മതി എന്നും മുഹമ്മദാലിക്കു് അഭിപ്രായമുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധീരൻ</figDesc>
+          </figure>
+          <p>“സർക്കാർ പാട്ടത്തിനുകൊടുത്ത ഭൂമിയും മറ്റും തിരിച്ചെടുക്കാൻ കഴിയാത്ത സാഹചര്യം നിലനിൽക്കെയാണു്
+ഇപ്പോൾ റസ്റ്റ് ഹൗസുകൾ കൈമാറാൻ തീരുമാനിച്ചിട്ടുള്ളതു്. 30 വർഷം കഴിയുമ്പോൾ ഇന്നു് സ്വകാര്യ
+വ്യക്തികൾക്കു് കൈമാറുന്ന രാഷ്ട്രീയ നേതൃത്വമായിരിക്കില്ല ഭരണത്തിൽ. ഇതു് സംബന്ധിച്ചു് അനുകൂലമായും
+പ്രതികൂലമായും അഭിപ്രായം പറഞ്ഞവരും അന്നുണ്ടാകണമെന്നില്ല. പൊതുമുതൽ അന്യാധീനപ്പെടുത്തുന്ന
+നടപടി ഏതു് സർക്കാറിന്റെ ഭാഗത്തുനിന്നുണ്ടായാലും യോജിക്കാൻ കഴിയില്ല”—<ref target="https://en.wikipedia.org/wiki/K._Mohammed_Ali">മുഹമ്മദാലി</ref>
+പറയുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> സ്വകാര്യ വ്യക്തികൾക്കു് 30 കൊല്ലത്തേക്കു് ഏൽപിച്ചുകൊടുത്ത അതിഥിമന്ദിരം പള്ളിക്കാട്ടിൽ പോയ
+മുതലാണെന്നു് ആർക്കാണു് അറിയാത്തതു്? പക്ഷേ, മുനീറിനു് സംശയമില്ല. മുതൽ സർക്കാറിന്റെ തന്നെ.
+അതിഥിമന്ദിരങ്ങൾ പാട്ടത്തിനു് നൽകുകയല്ല; അവയുടെ നടത്തിപ്പുമാത്രമാണു് സ്വകാര്യ സംരംഭകരെ
+ഏൽപിക്കുന്നതു്. സ്ഥലം ഉൾപ്പെടെ റസ്റ്റ് ഹൗസുകളുടെ പൂർണമായ അവകാശം സർക്കാറിനാണു്. മാത്രമല്ല,
+“മരാമത്തുവകുപ്പിന്റെ ഉടമസ്ഥതയിലുള്ളതു്” എന്നൊരു ബോർഡ് പുറത്തു സ്ഥാപിക്കുകയും ചെയ്യും.
+മദ്യക്കുപ്പികളിലും സിഗരറ്റുകൂടുകളിലും കാണുന്ന ആരോഗ്യത്തിനു് ഹാനികരം എന്ന നിയമപ്രകാരമുള്ള
+മുന്നറിയിപ്പുപോലെ ഒന്നു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KMuraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരളീധരൻ</figDesc>
+          </figure>
+          <p> അപ്രകാരമൊരു ബോർഡ് ഉള്ളപ്പോൾ ഏതു് സ്വകാര്യ സംരംഭകനാണു് മാഷേ, ഒഴിഞ്ഞു കൊടുക്കാത്തതു്?
+പെട്ടി സ്വകാര്യ വ്യക്തികളുടെ കൈയിൽ, താക്കോൽ സർക്കാറിന്റെ പോക്കറ്റിലും.
+</p>
+          <p>സ്വകാര്യ സംരംഭകർക്കു് അതിഥിമന്ദിരം നാലു നക്ഷത്ര സൗകര്യത്തോടെ പുതുക്കിപ്പണിയാം എന്നതാണു്
+കൈമാറ്റക്കരാറിലെ ഏറ്റവും ആകർഷകമായ വ്യവസ്ഥ. നാലു നക്ഷത്രമാകണമെങ്കിൽ ബാർ നിർബന്ധം.
+പരിശുദ്ധ റമദാൻ മാസത്തിൽത്തന്നെ ഇത്ര വിപ്ലവകരമായ തീരുമാനം കൈക്കൊണ്ട മന്ത്രിപുംഗവനെ
+
+അഭിനന്ദിക്കുകയല്ലേ പുരോഗമന ചിന്താഗതിക്കാർ ചെയ്യേണ്ടിയിരുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> സർക്കാർ അതിഥിമന്ദിരങ്ങളത്രയും കാടുകയറി ഭാർഗവീനിലയമായിക്കിടക്കുകയാണെന്നും അനാശാസ്യ
+പ്രവർത്തനമാണു് അവിടെ നടക്കുന്നതെന്നുംമന്ത്രി പറഞ്ഞു. നക്ഷത്ര പദവി കൈവന്നാൽ പിന്നെ ‘ആശാസ്യ’
+പ്രവർത്തനമേ നടക്കൂ. അതിഥിമന്ദിര കൈമാറ്റത്തിൽ അഴിമതിയുണ്ടെന്നു് തെളിഞ്ഞാൽ മന്ത്രിക്കസേരയിൽ
+തുടരില്ല എന്നൊരു ഭീഷണിയും മുഴക്കി, മുനീർ. <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാരെ</ref> പ്പോലെ
+ലോകായുക്തയിൽ കടലാസുകൊടുക്കാൻ വെല്ലുവിളിച്ചില്ലെന്നുമാത്രം. മുസ്ലിംലീഗിനെ പിണക്കിയാൽ പിന്നെ
+ഭരണമില്ലെന്നു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കറിയാം.
+കോൺഗ്രസിലെ ഗ്രൂപ്പുകൾ നാലും മുഖ്യനു് എതിരാണു്. ചെറുകിട പാർട്ടികളും തഥൈവ. വന്നിട്ടും പോയിട്ടും
+മുസ്ലിംലീഗും മാണിഗ്രൂപ്പുമാണു് ആന്റണിക്കു് തുണ. അതുകൊണ്ടുതന്നെ മുനീർ വിരൽവെക്കുന്നിടത്തു് ഒപ്പിടലല്ലാതെ
+ഗത്യന്തരമില്ല ആദർശധീരനു്. ലീഗിന്റെ പിന്തുണയില്ലെങ്കിൽ കോഴിക്കോട്ടുനിന്നു് ഇനി ലോക്സഭ കാണില്ലെന്നു
+<ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരനു</ref>
+മറിയാം. യു. ഡി. എഫ്. യോഗത്തിൽ <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">ഇ. അഹമ്മദി</ref> നോടു്
+മാപ്പുചോദിക്കാനുള്ള വിവേകം മുരളിക്കുണ്ടായതും മുഹമ്മദാലിക്കെതിരെ പരസ്യമായി പ്രതികരിച്ചതും
+അതുകൊണ്ടാണു്. മരാമത്തുവകുപ്പിന്റെ വിശ്രമമന്ദിരങ്ങൾ തീർത്തിട്ടുവേണം ടൂറിസം വകുപ്പിന്റെ
+അതിഥിമന്ദിരങ്ങൾ കച്ചവടമാക്കാൻ. അതും കഴിഞ്ഞു് കെ. ടി. ഡി. സി.-യുടെ യാത്രിനിവാസുകൾ
+കൊടുക്കുന്നവർക്കു് ലാഭം. എടുക്കുന്നവർക്കും ലാഭം. കാഴ്ചക്കാർക്കു് ബഹുലാഭം. മയ്യത്തു് സുബർക്കത്തിൽ
+പോയാലെന്തു്, ജഹന്നത്തിൽ പോയാലെന്തു്? മുക്രിക്കാർക്കു കൈനിറയെ കാശ്!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Labhakkachavadaththinte
+Nanardhangal (ml: ലാഭക്കച്ചവടത്തിന്റെ നാനാർഥങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Labhakkachavadaththinte Nanardhangal, കെ. രാജേശ്വരി, ലാഭക്കച്ചവടത്തിന്റെ നാനാർഥങ്ങൾ, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  March 16, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Church_by_Moonlight_%28gcf01376%29.jpg">Church
+by Moonlight,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q21455394">Alfred Worthington</ref>
+ (1834–1927). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-labha.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-labha.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗുരുവിന്റെ പരാജയം</title>
+          <title xml:lang="en" type="main">Guruvinte Parajayam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 9, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗുരുവിന്റെ പരാജയം</title>
+              <title xml:lang="en" type="main">Guruvinte Parajayam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Guruvinte Parajayam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ഗുരുവിന്റെ പരാജയം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 9, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Pierre-Athanase_Chauvin.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:PierreAthanase_Chauvin_-_The_hermit.jpg">The hermit,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Pierre-Athanase_Chauvin">PierreAthanase Chauvin</ref>  (1774–1832). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗുരുവിന്റെ പരാജയം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗുരുവിന്റെ പരാജയം</head>
+        <div type="lsection">
+          <p style="noindent">മദ്യമുതലാളിമാർ ജയഭേരി മുഴക്കുമ്പോൾ വീണ്ടും വീണ്ടും പരാജയമേറ്റുവാങ്ങുന്നതു്
+<ref target="https://ml.wikipedia.org/wiki/Sreenarayana_Guru">ശ്രീനാരായണഗുരു</ref>
+വല്ലാതെ മറ്റാരാണു്?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Narayana_Guru1.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശ്രീനാരായണഗുരു</figDesc>
+          </figure>
+          <p> കേസും പുക്കാറുമായി നീണ്ടുനീണ്ടുപോയ <ref target="https://ml.wikipedia.org/wiki/Sree_Narayana_Dharma_Paripalana">എസ്. എൻ. ഡി. പി.</ref>
+യോഗം തെരഞ്ഞെടുപ്പു് അവസാനം സർവം മംഗളമായി ശുഭമായി പര്യവസാനിച്ചു. പോൾ ചെയ്തതിന്റെ 95
+ശതമാനം വോട്ടു നേടി ഔദ്യോഗിക പാനൽ മുഴുവൻ സീറ്റുകളും വിജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ramunni.jpg" rendition="gra"/>
+            <figDesc style="thumb">മൂർക്കോത്തു് രാമുണ്ണി</figDesc>
+          </figure>
+          <p>നാലുവർഷം മുമ്പു് <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശന്റെ</ref> പാനലിനോടേറ്റു് പരാജിതരായ രാഹുലൻ ഡോക്ടറും ഗോപിനാഥൻ വക്കീലും ചിത്രത്തിലേ
+ഉണ്ടായിരുന്നില്ല. മദ്യമാഫിയയിൽനിന്നു് യോഗത്തെ രക്ഷിക്കാൻ പ്രതിജ്ഞയെടുത്തിരുന്ന, ലക്ഷങ്ങൾ മുടക്കി
+വ്യവഹാരം നടത്തിയ, ശ്രീനാരായണ ആദർശ സംരക്ഷണ സമിതി മത്സര രംഗത്തുനിന്നു വീരോചിതമായി
+പിന്മാറി. വോട്ടർ പട്ടികയിൽ കൃത്രിമം ഉണ്ടെന്നു് ആരോപിച്ചു് ആദർശ സംരക്ഷണ സമിതി സ്ഥാനാർത്ഥികളായ
+<ref target="https://ml.wikipedia.org/wiki/Moorkoth_Ramunni">മൂർക്കോത്തു്
+രാമുണ്ണി</ref> യും ബാബു വിജയനാഥും പത്രിക പിൻവലിക്കുകയായിരുന്നു.
+</p>
+          <p>ഫലത്തിൽ ഔദ്യോഗിക പാനലിനു വെല്ലുവിളിയേ ഉണ്ടായില്ല. ആകെയുള്ള 6092 വോട്ടർമാരിൽ 6006 പേർ
+സമ്മതിദാനാവകാശം വിനിയോഗിച്ചു. നടേശനു് 5611 വോട്ടു കിട്ടിയപ്പോൾ എതിർ സ്ഥാനാർത്ഥികൾക്കു
+രണ്ടുപേർക്കും കൂടി കിട്ടിയതു് 310 വോട്ട്; അസാധുവായതു് 122. രാമുണ്ണിയും ബാബുവും പിന്മാറിയതു് ബുദ്ധിയായി.
+അല്ലെങ്കിൽ ശ്രീനാരായണ ആദർശത്തിനു് എത്ര പിന്തുണയുണ്ടെന്നു് വ്യക്തമായേനേ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sukumar_azhikode.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുകുമാർ അഴീക്കോട്</figDesc>
+          </figure>
+          <p>യോഗ നേതൃത്വം മദ്യമഹാപ്രഭുക്കളുടെ പിടിയിലമർന്നതിൽ ധാർമികരോഷം പൂണ്ടു് <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">സുകുമാർ
+
+അഴീക്കോട്</ref> സാഗരഗർജ്ജനം നടത്താനിടയുണ്ടു്. ഒന്നോ രണ്ടോ ലേഖനങ്ങളും എഴുതിയേക്കാം.
+അവക്കു് നടേശൻ അവജ്ഞാനിർഭരമായ മറുപടികളും നൽകും. അതോടെ പ്രശ്നം തൽക്കാലം ഒതുങ്ങും.
+</p>
+          <p>നടേശനും കൂട്ടരും ശ്രീനാരായണ ധർമ്മത്തെയാണല്ലോ ഇപ്പോൾ പരിപാലിച്ചുകൊണ്ടിരിക്കുന്നതു്. ഇനി
+പരിപാലിക്കാനുള്ളതും അതേ ധർമ്മത്തെത്തന്നെ. ആ നിലക്കു് മദ്യവ്യവസായത്തിനു് ശ്രീനാരായണ
+ദർശനത്തിലും എസ്. എൻ. ഡി. പി. യോഗ ചരിത്രത്തിലുമുള്ള സ്ഥാനം പരിശോധിക്കുന്നതു്
+അസ്ഥാനത്തായിരിക്കുകയില്ലല്ലോ?
+</p>
+          <p>1920-ൽ തന്റെ ജന്മദിനത്തിലാണു് ശ്രീ നാരായണ ഗുരു “മദ്യം വിഷമാണു്. അതുണ്ടാക്കരുതു്. കൊടുക്കരുതു്.
+കുടിക്കരുതു് ” എന്ന മഹാ സന്ദേശം നൽകിയതു്. സന്ദേശത്തെ ഗുരു ഇപ്രകാരം വിശദീകരിച്ചു: “ചെത്തുകാരന്റെ
+ദേഹം നാറും. തുണിനാറും. വീടുനാറും. അവൻ തൊട്ടതെല്ലാം നാറും.”
+</p>
+          <p>അതിനും നാലുവർഷം മുമ്പു് 1916-ൽ തിരുവനന്തപുരത്തിനടുത്തു് മുട്ടത്തറയിൽ പുലയ സമാജത്തെ
+അഭിസംബോധന ചെയ്യവേ <ref target="https://ml.wikipedia.org/wiki/Sreenarayana_Guru">ഗുരു</ref> പറഞ്ഞു:
+“…മദ്യപാനം കഴിയുന്നതും നിറുത്തണം. ഇനി കുട്ടികളെ കള്ളു കുടിക്കാൻ അനുവദിക്കരുതു്. പ്രായം
+ചെന്നവരും കഴിയുന്നതും മാറ്റണം. സഭകൂടി പറയേണ്ടതു മദ്യപാനം മുതലായതുകളെ നിറുത്താനാണു്.
+മറ്റുള്ളവരും നിങ്ങളെ സഹായിക്കാതിരിക്കയില്ല…”
+</p>
+          <p>“ചെത്തു് ഒരു മഹാവ്യാധിയാണു്. ഒരു അവയവത്തിനു കുഷ്ഠരോഗമുണ്ടായാൽ ദേഹം മുഴുവൻ അതു
+ദുഷിപ്പിക്കുന്നതുപോലെ. ചിലർ ചെത്തുന്നതുകൊണ്ടു് സമുദായം മുഴുക്കെ കെട്ടുപോകുന്നു. രോഗം പിടിപെട്ട
+അവയവം നാം മുറിച്ചുകളയുന്നു. ചെത്തുകാരെയും സമുദായത്തിൽ നിന്നു വേർപെടുത്തണം അവരുമായി
+കൂടിക്കഴിയരുതു്. ചെത്തു നിർത്തിയാൽ ശുദ്ധിചെയ്തു തിരികെയെടുക്കാം.” മറ്റൊരവസരത്തിൽ ഗുരു അരുളിച്ചെയ്തു.
+</p>
+          <p>വേറെ ഉപജീവനമാർഗം ഒന്നുമില്ലാത്തവരാണു് ചെത്തിനു പോകുന്നതു് എന്ന കാര്യം ഒരു ഭക്തൻ
+ചൂണ്ടിക്കാട്ടിയപ്പോൾ ഗുരുവിന്റെ പ്രതികരണം കടുത്തതായിരുന്നു. “ചെത്താനുള്ള കത്തി നാലാക്കിയാൽ ഓരോ
+കഷ്ണം കൊണ്ടു് ക്ഷൗരം ചെയ്യാനുള്ള ഓരോ കത്തി ഉണ്ടാക്കാം. അതു കൊണ്ടു നടക്കുന്നതായിരിക്കും
+ചെത്തുന്നതിനേക്കാൾ മാനം. നല്ല ആദായവും ഉണ്ടാകും.”
+</p>
+          <p>ഗുരുവിന്റെ ജന്മദിന സന്ദേശത്തെത്തുടർന്നു് കൊല്ലവർഷം 1096 ഇടവം 26, 27, 28 തീയതികളിൽ. (1921 ജൂൺ)
+കരുനാഗപ്പള്ളിയിൽ കൂടിയ എസ്. എൻ. ഡി. പി. യോഗത്തിന്റെ 18-ാമതു് വാർഷിക സമ്മേളനം,
+“സമുദായത്തിന്റെ അഭിവൃദ്ധിക്കും സദാചാര നിലക്കും ഹാനികരവും സർവഥാ അപകർഷഹേതുകവുമായ ചെത്തും
+മദ്യവ്യവസായവും ഈഴവർ നിശ്ശേഷം നിറുത്തേണ്ടതാണെന്നു് ഈ യോഗം അഭിപ്രായപ്പെടുന്നു” എന്നു പ്രമേയം
+പാസ്സാക്കി. <ref target="https://ml.wikipedia.org/wiki/T.K._Madhavan">ടി. കെ.
+മാധവനാ</ref> ണു് പ്രമേയം അവതരിപ്പിച്ചതു്; കെ. പി. കയ്യാലക്കൽ പിന്താങ്ങി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/sahodaran-ayyappan1.jpg" rendition="gra"/>
+            <figDesc style="thumb">സഹോദരൻ അയ്യപ്പൻ</figDesc>
+          </figure>
+          <p>അതേ സമ്മേളനത്തിൽ ടി. കെ. മാധവനും <ref target="https://ml.wikipedia.org/wiki/Sahodaran_Ayyappan">സഹോദരൻ
+അയ്യപ്പനും</ref> എസ്. എൻ. ഡി. പി. യോഗത്തിന്റെ അസിസ്റ്റന്റ് സെക്രട്ടറിമാരായി തെരഞ്ഞെടുക്കപ്പെട്ടു.
+(എൻ. കുമാരൻ ആയിരുന്നു ജനറൽ സെക്രട്ടറി). അക്കാലത്തു് ദേശീയ പ്രസ്ഥാനവുമായും ഇന്ത്യൻ നാഷനൽ
+കോൺഗ്രസുമായും ബന്ധം പുലർത്തിയിരുന്ന ഏക എസ്. എൻ. ഡി. പി. നേതാവായിരുന്നു മാധവൻ.
+മദ്യവർജനം കോൺഗ്രസ് അജണ്ടയിലെ മുഖ്യ ഇനവുമായിരുന്നു. സഹോദരൻ അയ്യപ്പനാണെങ്കിൽ പണ്ടേ
+മദ്യവിരോധിയാണു്.
+</p>
+          <lg>
+            <l> “മനുജരെ കൊല്ലാതെ കൊന്നിടുന്ന</l>
+            <l> വിഷമാണു് മദ്യമതു കുടിച്ചു</l>
+            <l> മദമാർന്നു തുള്ളുന്ന മൂർഖജനം</l>
+            <l> ഗതിയവർക്കില്ലല്ലോ സോദരരെ” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>എന്നു പാടിയ ആദർശശാലി.
+</p>
+          <p>ടി. കെ. മാധവന്റെ സമർഥമായ നേതൃത്വത്തിൻ കീഴിൽ ‘മദ്യവർജന പ്രക്ഷോഭം’ ഉഷാറായി നടന്നു. 1096
+കന്നി രണ്ടാം തീയതി ആലപ്പുഴയിലും 1097 മിഥുനം 24, 25 തീയതികളിൽ തിരുവല്ലാ താലൂക്കിലെ
+മീന്തലക്കരിയിലും അതേ വർഷം കർക്കടകം അഞ്ചിനു് കുട്ടനാട്ടിലെ രാമൻകരിയിലും 1098 കന്നി 13-നു്
+കാർത്തികപ്പള്ളിയിലും മഹാസമ്മേളനങ്ങൾ നടന്നു.
+</p>
+          <p>മദ്യവർജനം സംബന്ധിച്ച ഗുരു സന്ദേശം തിരുവിതാംകൂറിലെങ്ങും പ്രചരിപ്പിക്കുക എന്നതായിരുന്നു
+മുഖ്യപരിപാടി.
+</p>
+          <lg>
+            <l> “ചെത്താൻ പോകരുതച്ഛനിനിമേലിൽ </l>
+            <l> കുട്ടികളായുള്ള ഞങ്ങളെയെല്ലാവരും</l>
+            <l> കൊട്ടികളെന്നു വിളിക്കുന്നെന്റച്ഛാ.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന ഗാനം നാട്ടിലെമ്പാടും അലയടിച്ചു. മദ്യഷാപ്പുകൾ ലേലത്തിൽ കൊള്ളുക, കള്ളുചെത്തുക, ചെത്താൻ
+തെങ്ങുകൊടുക്കുക തുടങ്ങിയ പ്രവൃത്തികളിൽനിന്നു സമുദായാംഗങ്ങളെ യോഗം പിന്തിരിപ്പിച്ചു.
+</p>
+          <p>എസ്. എൻ. ഡി. പി. യോഗത്തിന്റെ പ്രക്ഷോഭത്തിനു് സവർണ്ണരുടെ പിന്തുണയും ലഭിക്കാതിരുന്നില്ല.
+മദ്യവർജന വിജിലൻസ് കമ്മിറ്റിയുടെ തീരുമാനമനുസരിച്ചു് “ഔഷധ സംബന്ധവും വ്യവസായപരവുമായുള്ള
+ആവശ്യങ്ങൾക്കല്ലാതെ മദ്യം നിർമിക്കുന്നതിനെയും ഇറക്കുമതി ചെയ്യുന്നതിനെയും നിരോധിക്കണം”
+എന്നാവശ്യപ്പെടുന്ന പ്രമേയം തിരുവിതാംകൂർ നിയമസഭയിൽ എം. ആർ. മാധവവാര്യർ അവതരിപ്പിച്ചു.
+</p>
+          <p>പ്രക്ഷോഭം ശക്തിപ്പെട്ടതനുസരിച്ചു് സർക്കാർ പ്രതികാര നടപടികളും ഊർജിതമാക്കി.
+മദ്യവർജനക്കാർക്കെതിരെ തിരുവിതാംകൂർ ക്രിമിനൽ നടപടി നിയമത്തിലെ 90-ാം വകുപ്പു പ്രകാരം കേസെടുത്തു.
+കാർത്തികപ്പള്ളി താലൂക്ക് മദ്യവർജന സമിതി സെക്രട്ടറി എം. മാധവൻ വക്കീലിനെ 1098 തുലാം 24-നു്
+അറസ്റ്റുചെയ്തു് ഹരിപ്പാടു് ലോക്കപ്പിലടച്ചു. യാതൊരു ആഹാരവും നൽകിയില്ലെന്നു മാത്രമല്ല പിറ്റേ ദിവസം
+കൈവിലങ്ങണിയിച്ചു് പതിനഞ്ചു മൈൽ നടത്തി അമ്പലപ്പുഴ കോടതിയിൽ ഹാജരാക്കുകയും ചെയ്തു.
+</p>
+          <p>1097 കന്നി 14-ാം തീയതി തിരുനെൽവേലിയിൽച്ചെന്നു് <ref target="Portrait_Gandhi.jpg">മഹാത്മാ ഗാന്ധി</ref> യെ കണ്ടു സംസാരിക്കവെ മദ്യവർജന
+പ്രക്ഷോഭത്തെപ്പറ്റി <ref target="https://ml.wikipedia.org/wiki/T.K._Madhavan">ടി. കെ. മാധവൻ</ref>
+ഇപ്രകാരം പറഞ്ഞു: “മദ്യനിരോധനം മഹാത്മജിയുടെ കാര്യപരിപാടിയിൽപ്പെട്ട ഒരു പ്രധാന
+സംഗതിയാണല്ലോ. ഞങ്ങളുടെ ആചാര്യനായ ബ്രഹ്മശ്രീ <ref target="https://ml.wikipedia.org/wiki/Sreenarayana_Guru">ശ്രീനാരായണഗുരു</ref>
+സ്വാമിതൃപ്പാദങ്ങൾ കഴിഞ്ഞ കൊല്ലം ആഗസ്റ്റുമാസത്തിൽ ഞങ്ങൾക്കു് ഒരു ജന്മനാൾ സന്ദേശം അയച്ചിട്ടുണ്ടു്.
+അതിൽ സ്വാമിപാദങ്ങൾ ഞങ്ങളോടു് ഉപദേശിക്കുന്നതു്, “മദ്യം വിഷമാണു്. അതുണ്ടാക്കരുതു്, കൊടുക്കരുതു്,
+വിൽക്കരുതു് എന്നാകുന്നു. അതുകൊണ്ടു് മദ്യവർജ്ജനം ഞങ്ങൾക്കു് ഒരു മതസംബന്ധമായ ധർമ്മമായി
+തീർന്നിരിക്കുന്നു. അതു ഞങ്ങൾക്കു് സ്വർഗവാതിൽ തുറക്കുന്ന ഒരു ധർമ്മമാകുന്നു. മദ്യവർജനം മഹാത്മജി
+കാര്യപരിപാടിയിൽ ഉൾപ്പെടുത്തി രാജ്യസമക്ഷം വെക്കുന്നതിനു മുമ്പുതന്നെ ഞങ്ങളുടെ ഗുരു ഞങ്ങളോടു
+മദ്യവർജനം ചെയ്യാൻ ഉപദേശിച്ചു. ചെത്തു നിറുത്താൻ ഞങ്ങൾ ഉറ്റു ശ്രമിക്കുകയാണു്. എക്സൈസ്
+ഡിപ്പാർട്ടുമെന്റുകാർ അടുത്ത ഷാപ്പ് ലേലം ചെയ്യുമ്പോൾ ലേലത്തിൽ വിളികേൾക്കാൻ ഞങ്ങളുടെ ആളുകൾ
+ആരും പോകരുതെന്നു് ഞങ്ങൾ ഷാപ്പുകാരെയും മറ്റു സമുദായാംഗങ്ങളെയും ഉപദേശിക്കുന്നുണ്ടു്. ചെത്തു
+നിറുത്താനുള്ള ഞങ്ങളുടെ ശ്രമം തിരുവിതാംകൂർ ഗവൺമെന്റിനെ വല്ലാതെ ഭ്രമിപ്പിച്ചിട്ടുണ്ടെന്നു തോന്നുന്നു.
+ഗവണ്മെന്റിന്റെ ആഭിമുഖ്യത്തിൽ ചെത്തു പഠിപ്പിക്കാൻ ഒരു പാഠശാല സ്ഥാപിച്ചു് അന്യ സമുദായത്തിലുള്ളവരെ
+
+ചെത്തു പഠിപ്പിച്ചു് കള്ളുചെത്തി ഉണ്ടാക്കുന്ന തൊഴിൽ അവരുടെ ഇടയിൽ നടപ്പാക്കാൻ ഗവണ്മെന്റ്
+ആലോചിച്ചുവരുന്നതായി റിപ്പോർട്ടുകളിൽ കാണുന്നു. മദ്യം ധാന്യങ്ങളിൽനിന്നു വാറ്റി എടുക്കാനും ഗവണ്മെന്റ്
+ശ്രമിച്ചുവരുന്നു. ഇങ്ങനെയാണു് ധർമ്മരാജ്യ ഗവണ്മെന്റ് മദ്യവർജനത്തെ സഹായിക്കുന്നതു്’.
+</p>
+          <p>“നിങ്ങളുടെ ഗുരു മദ്യവർജ്ജനം ചെയ്യാൻ ആളുകളെ ഉപദേശിച്ചു വരുന്നതായി കാണുന്നതിൽ
+സന്തോഷിക്കുന്നു. അദ്ദേഹത്തിന്റെ സന്ദേശത്തെ നിങ്ങൾ ഊർജിതമായി നടപ്പിൽ വരുത്താൻ ശ്രമിക്കുമെന്നു്
+വിശ്വസിക്കുന്നു”: ഗാന്ധിജി പറഞ്ഞു.
+</p>
+          <p>1098-ാമാണ്ടു് മേടമാസം 29, 30 തീയതികളിൽ നടന്ന എസ്. എൻ. ഡി. പി. യോഗത്തിന്റെ 20-ാം വാർഷിക
+സമ്മേളനത്തിൽ മഹാകവി <ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">കുമാരനാശാൻ</ref> ചെയ്ത
+അധ്യക്ഷപ്രസംഗത്തിൽ ഇപ്രകാരം പറഞ്ഞു: “മദ്യവർജന പ്രസ്ഥാനം സമുദായത്തിൽ വളരെ ക്ലേശങ്ങൾ
+ഉണ്ടാക്കിത്തീർത്തിട്ടുള്ള ഒന്നാകുന്നു. ഈഴവർ ഇതിനു് ആരംഭിച്ചതു് സ്വാമിതൃപ്പാദങ്ങളുടെ ധാർമികമായ
+ഉപദേശങ്ങളെ പുരസ്കരിച്ചു മാത്രമാണു്. സാമ്പത്തികമായ ചില്ലറ ഗുണങ്ങളെ മനഃപൂർവം
+അവഗണിച്ചുകൊണ്ടാണു് സാന്മാർഗികമായ ഈ പ്രക്ഷോഭണം സമുദായനേതാക്കൾ നടത്തുന്നതു്.
+മഹാത്മാവായ സ്വാമിതൃപ്പാദങ്ങളുടെ അനുഗ്രഹ ശക്തിയാൽത്തന്നെ ഈ ശ്രമം അചിരേണ
+വിജയശേഖരിതമായിത്തീരുമെന്നു് ഞാൻ ആശംസിക്കുന്നു”.
+</p>
+          <p>എന്നാൽ മഹാകവിയുടെ ശുഭാപ്തിവിശ്വാസം തികച്ചും അസ്ഥാനത്തായി. ഒന്നുരണ്ടുവർഷത്തിനകം
+മദ്യവർജന പ്രക്ഷോഭം കെട്ടടങ്ങി. 1103-ലെ
+25-ാമതു് വാർഷിക യോഗമാകുമ്പോഴേക്കും സമ്പൂർണ്ണ മദ്യവർജനം അജണ്ടയിൽനിന്നു് ഒഴിവാക്കാൻ <ref target="https://ml.wikipedia.org/wiki/T.K._Madhavan">ടി. കെ. മാധവൻ</ref>
+നിർബന്ധിതനായി.
+</p>
+          <lg>
+            <l> “കള്ളുചെത്തിക്കൊടുക്കണം</l>
+            <l> ചാരായം വാറ്റിവിൽക്കണം</l>
+            <l> രണ്ടുമൽപം കഴിക്കണം</l>
+            <l> സ്വാമിപാദം ജയിക്കണം” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് <ref target="https://ml.wikipedia.org/wiki/C.V._Kunjuraman">സി. വി.
+കുഞ്ഞുരാമൻ</ref> പരിഹസിക്കുകയുമുണ്ടായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Cvkunjuraman.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. വി. കുഞ്ഞുരാമൻ</figDesc>
+          </figure>
+          <p> 1104 കന്നി അഞ്ചാം തീയതി (20.9.1928) ശ്രീനാരായണഗുരു സമാധിയായി. രണ്ടുവർഷത്തിനുശേഷം ടി. കെ.
+മാധവനും നിര്യാതനായി. മദ്യവർജനം എന്ന ആശയം തന്നെ യോഗനേതൃത്വത്തെ അലട്ടാതായി.
+</p>
+          <p>പോകെപ്പോകെ മദ്യവ്യവസായികൾ ശ്രീനാരായണ ധർമ്മ പരിപാലകരാകുകയും കള്ളുവിറ്റ പണംകൊണ്ടു്
+ഗുരുമന്ദിരങ്ങൾ ഉയർത്തുകയും ചെയ്തു. മാർബിൾ കൊണ്ടും സിമന്റുകൊണ്ടും പൾപ്പുകൊണ്ടും പ്ലാസ്റ്റർ ഓഫ്
+പാരീസുകൊണ്ടുമെല്ലാം ഗുരുവിനു് പ്രതിമകളുമുണ്ടായി. ശിഷ്യന്മാരെയും വെറുതെവിട്ടില്ല—കുമാരനാശാനു്
+തിരുവനന്തപുരത്തും ടി. കെ. മാധവനു് വൈക്കത്തും സഹോദരൻ അയ്യപ്പനു് എറണാകുളത്തും പ്രതിമകളുണ്ടായി.
+</p>
+          <p>എഴുപതുകളിൽ ചെത്തുതൊഴിലാളികളുടെ ജീവിത നിലവാരവും മെച്ചപ്പെട്ടു. അപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/National_Service_Scheme">എൻ. എസ്.
+എസ്.</ref> ജനറൽ സെക്രട്ടറി കിടങ്ങൂർ ഗോപാലകൃഷ്ണപിള്ള ചെത്തു പഠിക്കാൻ നായർ യുവാക്കളെ
+ആഹ്വാനം ചെയ്തു. കിടങ്ങൂരദ്ദേഹത്തിന്റെ ആഹ്വാനം യോഗം ജനറൽ സെക്രട്ടറി പ്രൊഫ. പി. എസ്.
+വേലായുധൻ അവർകളെ ചൊടിപ്പിച്ചു. ചെത്തു് ഞങ്ങളുടെ ജന്മാവകാശമാണു്!
+</p>
+          <p>എഴുപതുകളിൽത്തന്നെ എസ്. എൻ. ഡി. പി.-യുടെ ആഭിമുഖ്യത്തിൽ ഒരു രാഷ്ട്രീയ സംഘടനയുമുണ്ടായി.
+സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്കൻ പാർട്ടി. 1982-ലെ തെരഞ്ഞെടുപ്പിൽ ആർ. എസ്. പി.-ക്കു് രണ്ടു എം. എൽ. എ.
+മാരുണ്ടായി. പാർട്ടിയെ പ്രതിനിധാനം ചെയ്തു് എൻ. ശ്രീനിവാസൻ (എസ്. എൻ. ഡി. പി. യോഗം മുൻ
+പ്രസിഡന്റ് ) മന്ത്രിയുമായി. ദൈവാധീനംകൊണ്ടും ഗുരുദേവന്റെ അനുഗ്രഹത്താലും എക്സൈസ് വകുപ്പുതന്നെ കിട്ടി.
+ബാർ ലൈസൻസ് ഫീ കുറക്കുകയായിരുന്നു ബഹു: മന്ത്രി ചെയ്ത ആദ്യത്തെ ധീരകൃത്യം.
+</p>
+          <p>സംഘടനകൊണ്ടു് ശക്തരാകുക. മദ്യം വിറ്റു് സമ്പന്നരാകുക!
+</p>
+          <p>1982-ലെ ചതയദിനത്തിൽ വൈപ്പിൻകരയിൽ വിഷമദ്യദുരന്തം ഉണ്ടായി. മരിച്ചവരിലും കാഴ്ച നഷ്ടപ്പെട്ടവരിലും
+ഗണ്യമായ ഭാഗം ശ്രീനാരായണീയർ ആയിരുന്നു. മദ്യം വിഷമാണു് എന്ന ശ്രീനാരായണ സിദ്ധാന്തം
+പ്രവൃത്തിയിലൂടെ സാധൂകരിച്ച അബ്കാരികളും തഥൈവ.
+</p>
+          <p>ഇതൊക്കെയാണെങ്കിലും യോഗത്തിന്റെ താക്കോൽ സ്ഥാനങ്ങളിൽ മദ്യരാജാക്കന്മാർ എത്തിച്ചേർന്നതു്
+കഴിഞ്ഞ (1996) തെരഞ്ഞെടുപ്പിൽ മാത്രമാണു്. ഇപ്പോഴത്തെ തെരഞ്ഞെടുപ്പു് അവരുടെ മേധാവിത്വം
+അഷ്ടബന്ധമിട്ടുറപ്പിക്കുകയും ചെയ്തിരിക്കുന്നു. മദ്യമുതലാളിമാർ ജയഭേരി മുഴക്കുമ്പോൾ വീണ്ടും വീണ്ടും
+പരാജയമേറ്റു വാങ്ങുന്നതു് ശ്രീനാരായണഗുരുവല്ലാതെ മറ്റാരാണു്?
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Guruvinte Parajayam (ml:
+ഗുരുവിന്റെ പരാജയം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Guruvinte Parajayam, കെ. രാജേശ്വരി, ഗുരുവിന്റെ പരാജയം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 9, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Pierre-Athanase_Chauvin__The_hermit.jpg">The hermit,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Pierre-Athanase_Chauvin">PierreAthanase Chauvin</ref>  (1774–1832). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-guruvinte.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-guruvinte.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

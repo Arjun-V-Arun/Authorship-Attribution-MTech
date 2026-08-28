@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തിരക്കഥ</title>
+          <title xml:lang="en" type="main">Thirakkatha</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 14, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തിരക്കഥ</title>
+              <title xml:lang="en" type="main">Thirakkatha</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Thirakkatha</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>തിരക്കഥ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 14, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Hornblaserskan.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Hornbl%C3%A5serskan.jpg">Hornblåserskan,</ref>
+a painting by Anders Zorn  (1860–1920). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തിരക്കഥ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തിരക്കഥ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Balyakalasakhi.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent"><ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">വൈക്കം മുഹമ്മദ്
+ബഷീറി</ref> ന്റെ അഞ്ചു് രചനകൾ ഇതിനകം സിനിമയായിട്ടുണ്ടു്—<ref target="https://en.wikipedia.org/wiki/Neelavelicham">നീലവെളിച്ചം</ref>
+(ചെറുകഥ), <ref target="https://ml.wikipedia.org/wiki/Baalyakaalasakhi">ബാല്യകാലസഖി</ref>
+(നോവൽ), മുച്ചീട്ടുകളിക്കാരന്റെ മകൾ (നീണ്ടകഥ), <ref target="https://ml.wikipedia.org/wiki/Mathilukal">മതിലുകൾ</ref> (നോവൽ),
+ശശിനാസ് (ചെറുകഥ).
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Bhargavi_Nilayam.jpg" rendition="gra"/>
+          </figure>
+          <p> ‘നീലവെളിച്ചം’ എന്ന കഥയുടെ ചലച്ചിത്രരൂപത്തിനു് മാത്രമേ പുതിയൊരു പേരുള്ളൂ—‘<ref target="https://ml.wikipedia.org/wiki/Bhargavi_Nilayam">ഭാർഗവീനിലയം</ref>’.
+ഇതിനു മാത്രമേ ബഷീർ തിരക്കഥ എഴുതിയിട്ടും ഉള്ളൂ. മറ്റാരുടെ കഥക്കും അദ്ദേഹം തിരക്കഥ എഴുതിയിട്ടില്ല.
+‘ബാല്യകാലസഖി’ക്കു് സ്വന്തം നിലയ്ക്കു് തിരക്കഥ എഴുതാനാരംഭിച്ചെങ്കിലും മുഴുവനാക്കിയില്ല. ‘ഭാർഗവീനിലയം’
+അദ്ദേഹത്തിന്റെ ഒരേയൊരു തിരക്കഥയാണു്.
+</p>
+          <p>1967-ലാണു് ആ സിനിമ വന്നതു്. 1985-ൽ മാത്രമേ തിരക്കഥയുടെ പുസ്തകരൂപം പുറപ്പെടുകയുണ്ടായുള്ളൂ. <ref target="https://ml.wikipedia.org/wiki/A._Vincent">എ. വിൻസെന്റിന്റെ</ref>
+സംവിധാനം; <ref target="https://ml.wikipedia.org/wiki/Yesudas">യേശുദാസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Kamukara_Purushothaman">കമുകറ
+പുരുഷോത്തമൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/S._Janaki">ജാനകി</ref> തുടങ്ങിയവരുടെ
+ഗാനാലാപനം; <ref target="https://ml.wikipedia.org/wiki/P_Bhaskaran">പി.
+ഭാസ്ക്കരന്റെ</ref> ഗാനരചന; <ref target="https://ml.wikipedia.org/wiki/Prem_Nazir">പ്രേംനസീർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Madhu_(actor)">മധു</ref>, <ref target="https://en.wikipedia.org/wiki/Vijaya_Nirmala">വിജയനിർമ്മല</ref>, <ref target="https://ml.wikipedia.org/wiki/P._J._Antony">പി. ജെ. ആന്റണി</ref>
+തുടങ്ങിയവരുടെ മികച്ച അഭിനയം എന്നിവകൊണ്ടു് ശ്രദ്ധേയമായിത്തീർന്ന സിനിമയാണതു്. കലാമൂല്യവും
+ജനപ്രീതിയും ഒന്നിച്ചുനേടിയ മലയാളത്തിലെ അപൂർവം ചിത്രങ്ങളിൽ ഒന്നു്. ആൾപാർപ്പില്ലാത്തതു്, ഏറെ
+പഴക്കം ചെന്നതു്, പേടിപ്പെടുത്തുന്നതു് എന്നെല്ലാമുള്ള അർത്ഥത്തിൽ ഉപയോഗിക്കുന്ന ഒരു ശൈലിയായി
+‘ഭാർഗവീനിലയം’ എന്ന വാക്കു് ഇപ്പോൾ മാറിയിട്ടുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Adoor_Gopalakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">അടൂർ ഗോപാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> ബഷീറിന്റെ ഇതിവൃത്തത്തെ ആസ്പദമാക്കി സിനിമയെടുത്തവരിൽ ഏറ്റവും പ്രഗത്ഭൻ <ref target="https://ml.wikipedia.org/wiki/Adoor_Gopalakrishnan">അടൂർ
+ഗോപാലകൃഷ്ണനാ</ref> ണു്: <ref target="https://ml.wikipedia.org/wiki/Mathilukal_(film)">മതിലുകൾ</ref> (1989).
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mathilukal_Poster.jpg" rendition="gra"/>
+          </figure>
+          <p> ‘ഭാർഗ്ഗവീനിലയ’ത്തിന്റെ അടിസ്ഥാനം നീലവെളിച്ചം എന്ന ചെറുകഥ (പാവപ്പെട്ടവരുടെ വേശ്യ 1952)
+യാണു്. അതിനു് തിരക്കഥാരൂപം കൊടുത്തു് വികസിച്ചപ്പോൾ നിലാവു് കാണുമ്പോൾ (വിഡ്ഢികളുടെ സ്വർഗ്ഗം 1948),
+ഹുന്ത്രാപ്പി ബുസ്സാട്ടോ (‘പാവപ്പെട്ടവരുടെ വേശ്യ’ 1952), എന്നീ ചെറുകഥകളും അനർഘനിമിഷ (1946) ത്തിലെ
+അനർഘനിമിഷം, ഏകാന്തതയുടെ മഹാതീരം, അജ്ഞാതഭാവിയിലേക്കു് എന്നീ രചനകളിലെ വാക്യങ്ങളും
+ഉപയോഗപ്പെടുത്തിയിട്ടുണ്ടു്; കൂട്ടത്തിൽ ‘മതിലുകൾ’ (1965) എന്ന നോവലിലെ ചില പ്രണയരംഗങ്ങളും.
+</p>
+          <p>മലയാളസിനിമ അന്നു് റിയലിസത്തിന്റെ പൂർണമായ പിടിയിലായിരുന്നു. ആ അന്തരീക്ഷത്തിലേക്കാണു്
+അക്കാലത്തു് മേൽക്കൈ നേടിയിരുന്ന യുക്തിബോധം, ശാസ്ത്രബോധം, ‘പുരോഗമനചിന്ത’ മുതലായവ കൊണ്ടു്
+വിശദീകരിക്കാനാവാത്ത പ്രേതയാഥാർത്ഥ്യത്തിന്റെ കഥയുമായി ‘ഭാർഗ്ഗവീനിലയം’ വരുന്നതു്.
+</p>
+          <p>നൂറ്റിഒന്നു് സീനുകളുള്ള സാമാന്യം ദീർഘമായ തിരക്കഥ പ്രണയരംഗങ്ങളും നർമവും വില്ലന്റെ കുടിലതകളും
+കൊണ്ടു് നാനാരസപ്രധാനമാണു്. ബഷീർസാഹിത്യത്തിൽ ഈ തിരക്കഥ വെട്ടിത്തിരിഞ്ഞു് നില്ക്കുന്നതു് വില്ലന്റെ
+സാന്നിധ്യം കൊണ്ടാണു്. ബഷീറിന്റെ ലോകത്തു് ആകപ്പാടെ ഒരു വില്ലനേയുള്ളൂ—‘ഭാർഗ്ഗവീനിലയ’ത്തിലെ
+നാരായണൻ നായർ മാത്രം.
+</p>
+          <p>നിരത്തുവക്കത്തുള്ള ആൾപ്പാർപ്പില്ലാത്ത ‘ഭാർഗ്ഗവീനിലയം’ എന്ന മാളിക വീട്ടിൽ സാഹിത്യകാരൻ
+വാടകക്കാരനായി എത്തുന്നതോടെയാണു് കഥ ആരംഭിക്കുന്നതു്. പ്രേതബാധയുള്ള ആ വീടിനെ
+നാട്ടുകാർക്കൊക്കെ പേടിയാണു്. അയാളുടെ സുഹൃത്തുക്കളും അയൽക്കാരുമൊക്കെ ഭീതിയോടെയാണു് ആ
+കെട്ടിടത്തിലേക്കു് നോക്കുന്നതുപോലും. എല്ലാവരും അയാളെ പിന്തിരിപ്പിക്കാൻ നോക്കുന്നുണ്ടു്. ഒരു പെണ്ണിന്റെ
+പ്രേതമാണു് അവിടെ ആവസിക്കുന്നതു് എന്നറിഞ്ഞതോടെ സാഹിത്യകാരനു് കൗതുകമായി. അവൾ കിണറ്റിൽ
+ചാടി മരിച്ചുവെന്നും അതിനു കാരണം കാമുകൻ വേറെ കല്യാണം കഴിച്ചതാണു് എന്നും അവളെ കല്യാണം
+കഴിക്കാൻ ആഗ്രഹിച്ചിരുന്ന മുറച്ചെറുക്കൻ ആ പരിസരത്തെവിടെയോ ഉണ്ടു് എന്നും അറിഞ്ഞതോടെ
+അയാളിലെ കഥാകൃത്തു് ഉണർന്നു. അവളുടെ കഥ എഴുതുവാനുള്ള അന്വേഷണവും നിരീക്ഷണവും
+ആലോചനയുമായി പിന്നെ. വൈകാതെ കഥ എഴുതിത്തുടങ്ങുകയും ചെയ്തു. എഴുതിയ ഭാഗങ്ങൾ അപ്പപ്പോൾ
+പ്രേതത്തെ വായിച്ചു കേൾപ്പിക്കുന്നുണ്ടു്. ആ കഥ ചുരുൾ നിവർന്നാണു് സിനിമക്കുള്ളിലെ ഉൾക്കഥ രൂപം
+കൊള്ളുന്നതു്:
+</p>
+          <p>ഭാർഗ്ഗവി കോളേജുകുമാരിയാണു്. സുന്ദരി, ബി. എ.ക്കു പഠിക്കുന്നു. പാട്ടിലും ഡാൻസിലും പ്രസംഗത്തിലും
+കമ്പമുണ്ടു്. നാണുക്കുട്ടൻ എന്നു് വീട്ടുകാർ വിളിക്കുന്ന നാരായണൻ നായർ അവളുടെ മുറച്ചെറുക്കനാണു്. അവളെ
+കല്യാണം കഴിക്കാൻ ബഹുകമ്പവും. പക്ഷേ, അവൾക്കു് അയാളുടെ രൂപവും ഭാവവും പെരുമാറ്റവും ഒന്നും ഇഷ്ടമല്ല.
+</p>
+          <p>ആയിടെയാണു് അവളുടെ അയൽപക്കത്തു് ശശികുമാർ എന്നു പേരായി ഒരു ചെറുപ്പക്കാരൻ വാടകക്കു്
+താമസിക്കാനെത്തുന്നതു്. സുന്ദരൻ. സഹൃദയൻ. നന്നായി സിത്താർ വായിക്കും. പാടും, പാട്ടെഴുതും. ഡാൻസ്
+കമ്പോസു ചെയ്യും.
+</p>
+          <p>അവർ തമ്മിൽ പരിചയമായി. എളുപ്പത്തിൽ ആ അടുപ്പം മൂത്തു് പ്രണയമായി. നാരായണൻ നായരിലെ
+വില്ലൻ ഉണർന്നു. അയാൾ കല്യാണം വേഗം നടത്താൻ തിടുക്കം കൂട്ടി. ഭാർഗവി തന്റെ അനിഷ്ടം തുറന്നുപറഞ്ഞു.
+ശശികുമാർ ഉടനെയൊന്നും സ്ഥലം വിടാനിടയില്ലെന്നു മനസ്സിലാക്കിയ നാരായണൻ നായർ അയാളെ
+വെടിവെച്ചു കൊല്ലാൻ ശ്രമിച്ചു.
+</p>
+          <p>അന്തരീക്ഷത്തിൽ മരണം മണത്ത ഭാർഗ്ഗവി ‘നമുക്കു് വല്ലേടത്തും പോയി ജീവിക്കാം’ എന്നു് കാമുകനോടു്
+പറയുന്നുണ്ടു്. അയാൾ ഒറ്റക്കു് പോവാൻ തയ്യാറായി. വണ്ടിയിൽ വെച്ചു് ഭാർഗ്ഗവി തന്നയച്ചതാണെന്ന വ്യാജേന
+വിഷം ചേർത്ത ഏത്തപ്പഴം കൊടുത്തു് നാരായണൻ നായർ അയാളെ കൊല്ലാൻ ശ്രമിച്ചു. മരണം വൈകുന്നതു്
+കണ്ടു് ശ്വാസംമുട്ടിച്ചു് കൊന്നു. കാമുകനെ കൊന്ന വിവരം അയാൾ തന്നെയാണു് ഭാർഗവിയോടു് പറയുന്നതു്.
+എന്നിട്ടും അവൾ കല്യാണത്തിനു വഴങ്ങുന്നില്ലെന്നു കണ്ടപ്പോൾ അവളെ കിണറ്റിൽ തള്ളിയിട്ടു് കൊന്നു.
+
+അവളുടേതു് ആത്മഹത്യയാണെന്നു് വരുത്തിക്കൂട്ടുന്നതിൽ അയാൾ വിജയിച്ചു.
+</p>
+          <p>ഒരു കുറ്റാന്വേഷകന്റെ സാമർത്ഥ്യത്തോടെ ഇതെല്ലാം കണ്ടെത്തിയ സാഹിത്യകാരനെ കൊല്ലേണ്ടതു്
+നാരായണൻ നായരുടെ ആവശ്യമായിത്തീർന്നു. അവർ തമ്മിൽ മല്പിടുത്തം നടന്നു. അബദ്ധത്തിൽ ആ വില്ലൻ
+കിണറ്റിൽ വീണു മരിച്ചു.
+</p>
+          <p>ഭ്രമാത്മകതയും കുറ്റാന്വേഷണവും പ്രണയവും നർമവും നിറഞ്ഞ കഥ ഉദ്വേഗം നിലനിർത്തിക്കൊണ്ടു്
+രസകരമായി പറഞ്ഞു ഫലിപ്പിക്കുന്നതിൽ തിരക്കഥ വിജയിച്ചിട്ടുണ്ടു്. പ്രേതസാന്നിധ്യം യാഥാർത്ഥ്യം എന്ന
+നിലയിൽ പുലരുന്ന ഒരു മായികലോകമാണു്, സിനിമയുടെ ദൃശ്യസാധ്യതകളും സംഗീതത്തിന്റെ സഹകരണവും
+ഉൾച്ചേർത്തുകൊണ്ടു് ബഷീർ സൃഷ്ടിച്ചിരിക്കുന്നതു്. എണ്ണതീർന്നു് കരിന്തിരി കത്തിയ വിളക്കിൽനിന്നു് നീലവെളിച്ചം
+പുറപ്പെടുവിച്ചതു് ഭാർഗ്ഗവിയാണു്! അബദ്ധത്തിൽ കിണറ്റിൽ വീണുപോയ സാഹിത്യകാരനെ അത്ഭുതകരമായി
+മുകളിൽ എത്തിച്ചതും അവൾ തന്നെ. മല്പിടുത്തത്തിനിടയിൽ നാരായണൻ നായരെ കിണറ്റിലേക്കു്
+ഉന്തിത്തള്ളിയിട്ടു് കൊന്നതും അവളാകാം!
+</p>
+          <p>ജീവിതത്തിനും മരണത്തിനുമിടക്കുള്ള അതിരുകൾ മായ്ച്ചുകളയുകയും സങ്കല്പങ്ങളുടെയും സ്വപ്നങ്ങളുടെയും
+ഒരു മായികലോകം സൃഷ്ടിക്കുകയും ചെയ്യുന്ന ഈ തിരക്കഥ, മനുഷ്യവംശത്തിനു് സ്വാർത്ഥതയും ക്രൂരതയും എത്ര
+വലിയ ബാധ്യതകളാണെന്നും സ്നേഹവും കലാരൂപങ്ങളും എത്ര വലിയ സാധ്യതകളാണെന്നും മനോഹരമായി
+ചിത്രീകരിച്ചിട്ടുണ്ടു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thirakkatha (ml: തിരക്കഥ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Thirakkatha, എം. എൻ. കാരശ്ശേരി, തിരക്കഥ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 14, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Hornbl%C3%A5serskan.jpg">Hornblåserskan,</ref>
+a painting by Anders Zorn  (1860–1920). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-thirakkatha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasserythirakkatha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

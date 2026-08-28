@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മതാതീതനായ യുക്തിവാദി</title>
+          <title xml:lang="en" type="main">Mathatheethanaya Yukthivadhi</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">May 11, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മതാതീതനായ യുക്തിവാദി</title>
+              <title xml:lang="en" type="main">Mathatheethanaya Yukthivadhi</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Mathatheethanaya Yukthivadhi</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മതാതീതനായ യുക്തിവാദി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>May 11, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Carefree_Romualdo_Locatelli.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Carefree__Romualdo_Locatelli.jpg">Carefree,</ref> a painting by Romualdo Locatelli  .
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മതാതീതനായ യുക്തിവാദി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മതാതീതനായ യുക്തിവാദി</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jnehru.jpg" rendition="gra"/>
+            <figDesc style="thumb">നെഹ്റു</figDesc>
+          </figure>
+          <p style="noindent"> ‘അങ്ങു് <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref> യുടെ
+ശിഷ്യനാണോ?’ എന്നു് എത്രയോ കൊല്ലംമുമ്പു് ഒരാൾ ലണ്ടനിൽവച്ചു് <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> വിനോടു
+ചോദിക്കുകയുണ്ടായി ‘മതകാര്യങ്ങളിൽ അല്ല’ എന്നു മാത്രമായിരുന്നു നെഹ്റുവിന്റെ മറുപടി. ഇന്നു് നെഹ്റുവിന്റെ
+ചരമവാർത്ത കേട്ടപ്പോൾ അതിർത്തിഗാന്ധിയായ <ref target="https://ml.wikipedia.org/wiki/Khan_Abdul_Ghaffar_Khan">ഗഫാർഖാൻ</ref>
+പറഞ്ഞ ഒരു വാക്യവും ഇവിടെ ശ്രദ്ധേയമാണു്. ‘ഏതെങ്കിലും ഒരു മതത്തിന്റെ അനുയായി ആയിരുന്നില്ല നെഹ്റു’
+എന്നാണു് ആ ചിരകാല സുഹൃത്തു നിശ്ശങ്കം പ്രസ്താവിച്ചതു്. ഇക്കാര്യം ഗഫാർഖാനെപ്പോലെ തുറന്നുപറയാൻ
+അധികമാരും ധൈര്യപ്പെട്ടിട്ടില്ല. എങ്കിലും ഇപ്പോൾ പരേതന്റെ മരണപത്രം ഈ സംഗതി ആർക്കും സംശയം
+തോന്നാത്തവിധം സുവ്യക്തമാക്കിയിരിക്കുന്നു. ‘മരണാനന്തരം എനിക്കുവേണ്ടി മതപരമായ കർമ്മങ്ങളൊന്നും
+ചെയ്യരുതെന്നു് ഉള്ളഴിഞ്ഞു പ്രഖ്യാപിക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നു. അവയിലൊന്നും ഞാൻ വിശ്വസിക്കുന്നില്ല.
+ചടങ്ങെന്ന നിലയിൽപ്പോലും അവയ്ക്കു വഴങ്ങുന്നതു് കാപട്യമാണെന്നും സ്വയം വഞ്ചിക്കാനും മറ്റുള്ള വരെ
+വഞ്ചിക്കാനും ഉള്ള ശ്രമമാണെന്നും ഞാൻ കരുതുന്നു. നെഹ്റുവിന്റെ നിർമതത്വത്തെ വിളംബരം ചെയ്യുന്നുണ്ടു് ഈ
+അന്ത്യശാസനം. ഇൻഡ്യൻ ജനതയുടെ മതാന്ധതയോടുള്ള ഒരു വെല്ലുവിളിയുമാണിതു്. ഈ ശാസ്ത്രയുഗത്തിലെ
+അനുസന്ധാനാർഹമായ ഒരു ഉപനിഷസൂക്തിയല്ലേ ഇതിലെ അവസാനത്തെ വാക്യം? സഹസ്രാബ്ദങ്ങളായി
+മതത്തിന്റെ പേരിൽ നടന്നുവരുന്ന വഞ്ചനയും ചൂഷണവും ആചാരങ്ങളുടെ അർത്ഥമില്ലായ്മയും അതിൽ എത്ര
+മധുരമായി ധ്വനിക്കുന്നു! തന്റെ ചിതാഭസ്മം ഗംഗാനദിയിലൊഴുക്കുന്നതിലും മതപരമായ പ്രാധാന്യമൊന്നും
+ഇല്ലെന്നു് നെഹ്റു എടുത്തു പറഞ്ഞിട്ടുണ്ടു്. അങ്ങനെ പറഞ്ഞിരുന്നില്ലെങ്കിൽ അതിന്മേൽ പിടിച്ചു് അദ്ദേഹം
+ഒട്ടൊക്കെ മതവിശ്വാസിയായിരുന്നുവെന്നു് സ്ഥാപിക്കാൻ ആളുകൾ ഒരുമ്പെടുമായിരുന്നു. ദീർഘദൃഷ്ടിയായ
+നെഹ്റു അതും കണ്ടു. തന്റെ ശവശരീരം കൊണ്ടു് മതവിശ്വാസികൾ എന്തൊക്കെ കാട്ടിക്കൂട്ടുമെന്നു ഭയന്നിട്ടാവാം
+അദ്ദേഹം ഇങ്ങനെ നിർദ്ദേശങ്ങൾ വെട്ടിത്തുറന്നെഴുതിവച്ചതു്. എന്നിട്ടും, വേദപാരായണം, ഹവനം, രാംധുൻ
+തുടങ്ങിയ ചടങ്ങുകളിൽനിന്നു് അദ്ദേഹത്തിന്റെ ജഡത്തിനു രക്ഷപ്പെടാൻ കഴിഞ്ഞില്ല. മതമാർഗത്തിൽ
+ആവശ്യമില്ലാത്ത പാരമ്പര്യച്ചുമടുപോലും ദൂരത്തെറിയാൻ മനുഷ്യർക്കു മടിയാണു് അവിടെ അവർ നേതാവിന്റെ
+ആജ്ഞകളെക്കൂടി ധിക്കരിക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mahatma-Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗാന്ധിജി</figDesc>
+          </figure>
+          <p> ഭാരതത്തിന്റെ പാരമ്പര്യവും പരിതഃസ്ഥിതിയും പര്യാലോചിക്കുമ്പോൾ, നെഹ്റുവിന്റെ നിർമതത്വം
+ആലോചനാമൃതമായ ഒരു വൈരുദ്ധ്യമാകുന്നു. മതത്തിൽക്കൂടെ ഉറങ്ങുകയും ഉണരുകയും ചെയ്തുകൊണ്ടിരുന്ന
+ഇൻഡ്യയിൽ എതിരായൊന്നു മിണ്ടുമ്പോഴേക്കും മതവികാരങ്ങളിൽ വ്രണം കണ്ടുപിടിക്കാനും മുറവിളിക്കൂട്ടാനും
+കച്ചകെട്ടി നിൽക്കുന്ന വിവിധ മതസ്ഥരുടെ ആവാസഭൂമിയിൽ രാഷ്ട്രപിതാവിനെപ്പോലും തോക്കിനിരയാക്കിയ
+മതഭ്രാന്തിന്റെ ഉറവിടമായ ഈ ആർഷഭാരതത്തിൽ യാതൊരു മതത്തിലും വിശ്വാസമില്ലാതിരുന്ന ഒരാൾ
+എല്ലാവരുടെയും കണ്ണിലുണ്ണിയായി. യാഥാസ്ഥിതികത്വത്തെ ചവിട്ടിമെതിച്ചു കൊണ്ടു് ജനാധിപത്യമുറപ്രകാരം
+തന്നെ ദീർഘകാലം ഭരണസാരഥ്യം വഹിച്ചുവെന്നതു് ഈ നൂറ്റാണ്ടിലെ ഒരത്ഭുതപ്രതിഭാസമല്ലേ? ഭാരതീയരുടെ
+സർവവിധ മതവിശ്വാസങ്ങൾക്കും മിഥ്യാബോധങ്ങൾക്കും അന്ധാചാരങ്ങൾക്കും വിപരീതമായി നെഹ്റു എന്ന
+യാഥാർത്ഥ്യം ഹിമാലയശൃംഗംപോലെ നമ്മുടെ മുമ്പിൽ ഉയർന്നുനിൽക്കുകയാണു്. കണ്ണുതുറന്നു് അതിന്റെ നേരെ
+നോക്കി പഠിക്കേണ്ടതു പഠിക്കുവാൻ നമ്മളിലെത്രപേർ തയ്യാറാവുന്നുണ്ടു്? മനുഷ്യൻ നന്നാകുന്നതിനു് മതം
+അത്യാവശ്യമാണെന്ന മുരട്ടുവാദത്തിനൊരു പ്രത്യുത്തരമാണല്ലോ നെഹ്റുവിന്റെ നിർമതത്വം. വാസ്തവത്തിൽ
+
+അദ്ദേഹം നിർമതൻ മാത്രമല്ല നിരീശ്വരനുമായിരുന്നു. ഒരെത്തും പിടിയുമില്ലാത്ത ദൈവത്തിന്റേയോ
+ആത്മാവിന്റെയോ കാര്യമാലോചിച്ചു് അദ്ദേഹം സമയം പാഴാക്കിയില്ല. ദേവദർശനത്തിനായി ഒരു
+ദേവാലയത്തിലും അദ്ദേഹം പോയില്ല. ഒരു രാമനാമവും ഉച്ചരിച്ചില്ല എങ്കിലും ഈ നവയുഗത്തിലെ ഏറ്റവും നല്ല
+മനുഷ്യനാകാൻ അദ്ദേഹത്തിനു കഴിഞ്ഞു. മാനുഷികമായ നന്മയുടെ അന്യാദൃശ്യവും വിശ്വവ്യാപകവുമായ
+വികാസമാണു്. ധന്യധന്യമായ ആ ജീവിതത്തിൽ നാം കണ്ടതു് ശുദ്ധിയും ശക്തിയും ശാന്തിയും സ്നേഹവും അതിൽ
+നിറഞ്ഞുതുളുമ്പിയിരുന്നു. ഏതൊരു മനുഷ്യനേയും ആകർഷിക്കത്തക്കവിധം ഒരു സുന്ദരകലാശില്പമായി അദ്ദേഹം
+ജീവിച്ചു. യുക്ത്യധിഷ്ഠിതമായ സ്വതന്ത്രചിന്തയും വിശാലമായ ശാസ്ത്രീയവീക്ഷണവും ആ വിജ്ഞാനകേന്ദ്രത്തെ
+മനുഷ്യവർഗത്തിന്റെ ഒരു മഹാവിദ്യാലയമാക്കി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Khan_Abdul_Ghaffar_Khan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗഫാർഖാൻ</figDesc>
+          </figure>
+          <p> ഒരു മതത്തിലും വിശ്വസിക്കാതിരുന്നതുകൊണ്ടാണു് നെഹ്റു എല്ലാ മതക്കാർക്കും സമ്മതനും
+സുഹൃത്തുമായതു്. അസൂയാർഹമായ ഈ പദവിയിലെത്താൻ മഹാത്മാഗാന്ധിക്കുപോലും കഴിഞ്ഞോ എന്നു
+സംശയമാണു്. എന്തെന്നാൽ ഇതരമതസ്ഥരുടെ ദൃഷ്ടിയിൽ ഗാന്ധി തികച്ചും മതാതീതനായിരുന്നില്ല. വിശേഷിച്ചു്
+മുസ്ലീം സമുദായത്തിലെ നല്ലൊരു ഭാഗം അദ്ദേഹത്തെ ഹൈന്ദവരുടെ പ്രതിനിധിയായിട്ടാണല്ലോ പരിഗണിച്ചതു്.
+ഗാന്ധിയെ ചിലപ്പോൾ പരുഷമായി എതിർക്കുകയും ആക്ഷേപിക്കയും ചെയ്തിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Muhammad_Ali_Jinnah">ജിന്നാസാഹിബ്</ref>
+നെഹ്റുവിന്റെ നേരെ ശാന്തനും സഹിഷ്ണുവുമായിരുന്നു. മഹാത്മാവു് ഹിന്ദുമതപ്പൊരുളിന്റെ വ്യാഖ്യാനം വഴി
+സർവ്വമതസാഹോദര്യം, പ്രത്യേകിച്ചു് ഹിന്ദു-മുസ്ലീം മൈത്രി, പുലർത്താൻ പണിപ്പെട്ടു. അതു ദയനീയമായി
+പരാജയമടഞ്ഞു ഉത്തരേന്ത്യ മുഴുവൻ മതത്തിന്റെ പേരിൽ ഒഴുകിയ ചോരപ്പുഴയിലാണ്ടുപോയി. മതങ്ങളുള്ള
+കാലത്തോളം മതഭേദങ്ങളും മാത്സര്യങ്ങളും നിലനിൽക്കുമെന്ന ചരിത്രസത്യം വീണ്ടും വെളിപ്പെട്ടു.
+നെഹ്റുവാകട്ടെ, മതനിരപേക്ഷമായ മനുഷ്യത്വത്തിന്റെ അടിസ്ഥാനത്തിലാണു കാര്യങ്ങൾ നോക്കിക്കണ്ടതു്.
+ഗാന്ധിയെപ്പോലെ അദ്ദേഹം പരിഷ്കരിച്ച ഹിന്ദുവായിരുന്നില്ല. കേവലം മനുഷ്യനായിരുന്നു.
+സർവമതസാഹോദര്യമല്ല സർവമാനവസാഹോദര്യമായിരുന്നു. നെഹ്റുവിന്റെ ലക്ഷ്യം ഇന്നല്ലെങ്കിൽ നാളെ
+മനുഷ്യൻ ആ ലക്ഷ്യത്തിലെത്താതിരിക്കില്ല.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">മനുഷ്യമതം</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jinnah.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജിന്നാസാഹിബ്</figDesc>
+          </figure>
+          <p style="noindent"> നെഹ്റുവിനു് ഏതെങ്കിലും മതത്തിൽ വിശ്വാസമുണ്ടായിരുന്നെങ്കിൽ അതു
+മനുഷ്യമതത്തിൽ അതായതു് മാനുഷികസിദ്ധികളെ ലക്ഷീകരിച്ചുള്ള മതത്തിൽ ആയിരുന്നു. അദ്ദേഹം
+എന്തിനെയെങ്കിലും ആരാധിച്ചിരുന്നുവെങ്കിൽ അതു മനുഷ്യശക്തിയെ അഥവാ മനുഷ്യപ്രയത്നത്തെ ആയിരുന്നു.
+അണക്കെട്ടുകളും വ്യവസായകേന്ദ്രങ്ങളും മറ്റുമാണു് അദ്ദേഹത്തിന്റെ പുണ്യസ്ഥലങ്ങൾ. മനുഷ്യനിലുള്ള
+ദൃഢവിശ്വാസം ഒരുവനു നഷ്ടപ്പെടുത്താവുന്നതല്ല. ദൈവത്തെ നിഷേധിച്ചാലും തരക്കേടില്ല. എന്നാൽ, മനുഷ്യനെ
+നിഷേധിച്ചാൽ എന്തൊരാശയാണു് പിന്നെ നമുക്കുള്ളതു്? (One may not lose faith in man God we may
+deny, but what hope is there for us if we deny man?) എന്നു് അദ്ദേഹം ചോദിക്കുന്നു. മനുഷ്യൻ അവന്റെ
+ശക്തിയിൽ ബോധവാനായി അതിനെ വികസിപ്പിക്കുകയും സാക്ഷാൽക്കരികയും ചെയ്യണം. ആ ശക്തി
+അവന്റേതു മാത്രവും അവനിൽത്തന്നെ ഉള്ളതുമാണു് അതു സാങ്കല്പികമായ മറ്റൊരു ശക്തിയേയും ശരണം
+പ്രാപിച്ചു സ്വയം ദുർബലമാകേണ്ടതില്ല. ഇഹലോകജീവിതത്തിന്റെ പുരോഗതിയും ഉൽക്കർഷവുമാകണം നമ്മുടെ
+പരമലക്ഷ്യം. അതിനു പ്രതിബന്ധമായി നിൽക്കുന സകല ചങ്ങലക്കെട്ടുകളും പൊട്ടിച്ചു കളയണം. ഇതാണു്
+നെഹ്റുവിന്റെ മനുഷ്യമതസിദ്ധാന്തം. പരലോകത്തിലോ പുനർജന്മത്തിലോ അദ്ദേഹം വിശ്വസിച്ചിരുന്നില്ല. ‘ഈ
+ലോകത്തിലും ഈ ജീവിതത്തിലുമാണു് എനിക്കു താല്പര്യം, മറ്റേതെങ്കിലും ലോകത്തിലോ
+അനന്തരജീവിതത്തിലോ അല്ല’ (I am interested in this world, in this life, not in some other world
+
+or a future life) എന്നു് ഈ ചിന്തകൻ പലതവണ പറഞ്ഞിട്ടുണ്ടു്. ആത്മാവിനെപ്പറ്റിയുള്ള അഭ്യൂഹങ്ങളെ
+പരാമർശിച്ചുകൊണ്ടു് അദ്ദേഹം പറയുന്നു. ‘എന്നാൽ ഞാൻ ഇതിലൊന്നിലും വിശ്വസിക്കുന്നില്ല’ (But I do not
+believe in any of these) എന്നു്. മറ്റൊരു നേതാവാണു് ഇങ്ങനെയൊക്കെ പറഞ്ഞിരുന്നതെങ്കിൽ അയാൾ
+ഒരു പാഷണ്ഡനായി നേതൃസ്ഥാനത്തുനിന്നു പുറംതള്ളപ്പെടുമായിരുന്നു. രാഷ്ട്രത്തിന്റെ മതേതരസ്വഭാവംപോലും
+ഇഷ്ടപ്പെടാത്ത എത്രപേർ ഇന്നും ഇന്ത്യയിലുണ്ടു്! നെഹ്റുവിനെപ്പോലെ സർവപ്രകാരേണയും
+ജാതിമതാതീതനായി വിശ്വപൗരത്വം പാലിക്കാൻ സാധാരണക്കാർക്കു സാദ്ധ്യമല്ലായിരിക്കാം. എങ്കിലും
+അദ്ദേഹത്തിന്റെ കാലടിപ്പാടുകൾ പിന്തുടരാൻ ഏവർക്കും ശ്രമിക്കാവുന്നതാണു്. കറതീർന്ന
+ചരിത്രബോധത്തിന്റെയും യുക്തിയുക്തമായ സ്വതന്ത്രചിന്തയുടെയും ഫലമായിട്ടാണു് നെഹ്റു
+നിർമമ്മതത്വത്തിലെത്തിയതു്. അതു കൃത്രിമമല്ല സ്വാഭാവികമായി വളർന്നുവന്നതത്രെ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">ഒന്നാമത്തെ യുക്തിവാദി</head>
+          <p style="noindent">‘ഇന്നത്തെ ഇന്ത്യയിലെ ഒന്നാമത്തെ യുക്തിവാദിയാണു് ജവാഹർലാൽ.
+അകലുഷമായ യുക്തിവിചാരത്താൽ അത്യന്തം പ്രസന്നമാണു് അദ്ദേഹത്തിന്റെ ലേഖനങ്ങളും പ്രസംഗങ്ങളും.
+അതുമിതും കൂട്ടിക്കലർത്തി കഷായരൂപത്തിൽ കാര്യങ്ങൾ കലക്കിമറിക്കാൻ അദ്ദേഹം ഒരിടത്തും തുനിയുന്നില്ല.
+മറ്റു പല നേതാക്കന്മാരിലും കാണുന്നതുപോലെ വികാരവും വിശ്വാസവും വിചാരഗതിയിൽ കടന്നുകൂടി
+അദ്ദേഹത്തിന്റെ പ്രതിഭാപ്രസരത്തിനു മൂടലുണ്ടാക്കുന്നില്ലെന്നുള്ളതു് എത്രയെത്ര ആശ്വാസകരം!’
+</p>
+          <p>ഏതാണ്ടിരുപത്തഞ്ചു കൊല്ലംമുമ്പു് ഈ ലേഖകൻ എഴുതിയ ഒരു ലേഖനത്തിന്റെ ഒരു ഭാഗമാണു
+മേലുദ്ധരിച്ചതു്. ഈ അഭിപ്രായം ഇന്നു കുറെക്കൂടി ഉറപ്പിച്ചു പറയേണ്ടിയിരിക്കുന്നു. മനുഷ്യന്റെ
+വൈകാരികപ്രവണതകൾ അവന്റെ യുക്തിവിചാരത്തെയും വാദഗതിയെയും ഏതെങ്കിലും ഒരു വശത്തേക്കു
+പിടിച്ചുവലിച്ചു വഴിതെറ്റിക്കുക സാധാരണമാണല്ലോ. ഈ മാനസികദൗർബല്യത്തെ നെഹ്റുവിനെപ്പോലെ
+ശരിയായി അപഗ്രഥിച്ചു പഠിച്ചിട്ടുള്ളവർ ചുരുക്കമാകുന്നു. പലപ്പോഴും വികാരഭരിതനാകാറുണ്ടെങ്കിലും,
+വസ്തുനിഷ്ഠമായ നിരൂപണത്തിൽ ഈ ദൗർബല്യം തന്നെ ബാധിക്കാതിരിക്കാൻ അദ്ദേഹം പ്രത്യേകം
+ശ്രദ്ധിച്ചിരുന്നു. യുക്തിക്കു വഴങ്ങിക്കൊടുക്കാത്ത ഒരു പ്രത്യേകമനോഭാവത്തോടു വാദിച്ചിട്ടു കാര്യമില്ല (There is
+no arguing with a mood) എന്നു് അദ്ദേഹം ഒരിക്കൽ പറയുകയുണ്ടായി. നമ്മിലുള്ള ചിന്താവൈകല്യങ്ങൾ
+ചൂണ്ടിക്കാണിക്കുന്നതിൽ ഈ യുക്തിവാദി ഒരു വിദഗ്ദ്ധൻ തന്നെയായിരുന്നു. ‘ന്യായവാദത്തെ തകിടം മറിക്കാൻ
+വികാരങ്ങൾക്കു പ്രത്യേകമായൊരു രീതിയുണ്ടു്’ (Emotions have a way of upsetting logic). ‘നമ്മൾ
+ന്യായവാദത്തെയും അന്യോന്യസമന്വയത്തെയും പറ്റി പ്രസംഗിക്കുന്നു. പക്ഷേ, നമ്മുടെ മൗലികപ്രേരണകൾ
+വൈകാരികമായി തുടരുകയാണു് (We talk of logic and consistency but our basic urges continue to
+be emotional). നെഹ്റുവിന്റെ ഏതാദൃശോക്തികൾ സൂത്രവാക്യങ്ങൾ പോലെ പഠനീയങ്ങളാണു്. ഇന്നു
+ലോകത്തെ ബാധിച്ചിട്ടുള്ള പ്രധാന രോഗം ഒരുതരം വിഭക്ത വ്യക്തിത്വം (Split personality) ആണെന്നത്രെ
+അദ്ദേഹത്തിന്റെ അഭിപ്രായം. സമാധാനത്തിന്റെ അടിസ്ഥാനത്തിലും അതേസമയം യുദ്ധത്തിന്റെ
+അടിസ്ഥാനത്തിലും രാഷ്ട്രങ്ങൾ ചിന്തിക്കുന്നതിലുള്ള വൈരുദ്ധ്യമാണു് അദ്ദേഹം ഇതിൽ കാണുന്നതു്.
+ബുദ്ധിപരമായ സത്യസന്ധതയും ചിന്താസ്വാതന്ത്ര്യവും പാലിക്കുന്നതിൽ നെഹ്റു പ്രദർശിപ്പിച്ചിട്ടുള്ള തീവ്രനിഷ്ഠ മറ്റു
+ചിന്തകന്മാർക്കൊരു മാതൃകയാണു്. യുക്തിവിരുദ്ധമായ അഭിപ്രായം ഏതുന്നതസ്ഥാനത്തു നിന്നു പുറപ്പെട്ടാലും
+അദ്ദേഹം അതു സഹിച്ചിരുന്നില്ല. ബീഹാർ ഭൂകമ്പത്തെപ്പറ്റി ഗാന്ധിജി പുറപ്പെടുവിച്ച അഭിപ്രായത്തിനു് നെഹ്റു
+കൊടുത്ത മറുപടി ഇതിന്നൊരുദാഹരണമാകുന്നു. ഇങ്ങനെ നമ്മുടെ ചിന്താമണ്ഡലത്തിൽ അടിക്കടി അടിഞ്ഞു
+കൂടാറുളള മാറാലമാലകൾ തുടച്ചുമാറ്റുന്നതിൽ അദ്ദേഹം എപ്പോഴും ശ്രദ്ധാലുവായിരുന്നിട്ടുണ്ടു്. ചുരുക്കത്തിൽ
+ഗംഗായമുനകളുടെ സംഗമം പോലെ ശാസ്ത്രബുദ്ധിയും കലാഹൃദയവും അതിമനോഹരമായി അദ്ദേഹത്തിൽ
+സമ്മേളിച്ചിരുന്നു. അനന്യദൃഷ്ടമായ ആ ബുദ്ധിയും ആ ഹൃദയവും ഭാവിഭാരതത്തിനു മാർഗദർശകമാകട്ടെ.
+</p>
+          <p>
+മനനമണ്ഡലം 1964.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.4.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.4.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.4"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Mathatheethanaya Yukthivadhi
+(ml: മതാതീതനായ യുക്തിവാദി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Mathatheethanaya Yukthivadhi, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മതാതീതനായ യുക്തിവാദി, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  May 11, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Carefree__Romualdo_Locatelli.jpg">Carefree,</ref> a painting by Romualdo Locatelli  .
+The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-mathatheetha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-  mathatheetha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വിശ്വാസവും യുക്തിവിചാരവും</title>
+          <title xml:lang="en" type="main">Viswasavum Yukthivicharavum</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 21, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വിശ്വാസവും യുക്തിവിചാരവും</title>
+              <title xml:lang="en" type="main">Viswasavum Yukthivicharavum</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Viswasavum Yukthivicharavum</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>വിശ്വാസവും യുക്തിവിചാരവും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 21, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Allegory_of_Faith.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Hendrick_ter_Brugghen__Allegory_of_Faith_-_HBr-100_-_Leiden_Collection.jpg">Allegory of Faith,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Hendrick_ter_Brugghen">Hendrick ter
+Brugghen</ref>  (1588–1629). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വിശ്വാസവും യുക്തിവിചാരവും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വിശ്വാസവും യുക്തിവിചാരവും</head>
+        <div type="lsection">
+          <p style="noindent">ജന്മനാ വിശ്വാസിയാണു് മനുഷ്യൻ. എന്തും എളുപ്പം വിശ്വസിച്ചുപോകുക എന്നതു്
+അവന്റെ സ്വഭാവത്തിൽ മുന്നിട്ടു നിൽക്കുന്നു. ഈ വിശ്വാസശീലം ഒരു മാനസിക ദൗർബല്യമാകുന്നു.
+എന്തബദ്ധമായാലും വേണ്ടില്ല ഒരമ്പതു പ്രാവശ്യം ഉച്ചത്തിൽ വിളിച്ചുപറഞ്ഞാൽ നാം അതു
+വിശ്വസിച്ചുപോകുമെന്നു് ഒരു പണ്ഡിതൻ അഭിപ്രായപ്പെട്ടിട്ടുള്ളതു് ഈ ദൗർബല്യത്തിന്റെ ആധിക്യത്തെ
+കാണിക്കുന്നുണ്ടു്. പത്രങ്ങളിൽ കാണുന്ന പരസ്യങ്ങൾക്കും മറ്റു പ്രചാരണോപകരണങ്ങൾക്കും മനുഷ്യനെ
+പെട്ടെന്നു വിശ്വസിപ്പിക്കുവാനുള്ള ശക്തി നോക്കുക! ഒന്നിനും കൊള്ളാത്ത ഒരു മരുന്നിന്റെ പേരു് ഒരു പത്തു
+പ്രാവശ്യം കണ്ടാൽ നാം അതിൽ വിശ്വസിക്കുവാൻ തുടങ്ങും. കച്ചവടക്കാര്യങ്ങളിൽ മാത്രമോ? മതം, രാജ്യതന്ത്രം
+തുടങ്ങിയ പ്രവർത്തനരംഗങ്ങളിൽ എത്രയെത്ര പ്രചരണകൗശലങ്ങൾ പ്രയോഗിക്കപ്പെടുന്നു! അവയെല്ലാം
+മനസ്സിന്റെ ഈ ദൗർബല്യത്തിനു് ഉദാഹരണങ്ങളല്ലേ? മനുഷ്യവർഗത്തിൽ കുന്നുകൂടി കാണുന്ന
+അന്ധവിശ്വസങ്ങൾക്കെല്ലാം കാരണം പ്രസ്തുത മനോഭാവമാകുന്നു. ശരിയോ തെറ്റോ എന്നു തെളിവുസഹിതം
+വിചാരണചെയ്യാതെ ഒരു സംഗതിയെപ്പറ്റി ‘കണ്ണടച്ചു’ വിശ്വസിക്കുവാൻ തുടങ്ങുമ്പോളാണല്ലോ വിശ്വാസം
+അന്ധമായിത്തിരുന്നതു്. വിചാരശീലത്തിനേക്കാൾ വിശ്വാസശീലത്തിനാണു പ്രാബല്യം. രണ്ടാമത്തേതിനു
+മനുഷ്യവർഗത്തോളം തന്നെ പഴക്കമുണ്ടെന്നു പറയാം. വിദ്യാഭ്യാസപുരോഗമനത്തിൽ ഇടക്കാലത്തു മനുഷ്യനിൽ
+തെളിഞ്ഞുവന്നതാണു് ചിന്താശീലം. അതിനു് ഇനിയും വേണ്ടത്ര പരിശീലനം സിദ്ധിച്ചിട്ടില്ല. അതുകൊണ്ടു്
+ഇപ്പോഴും നാം വിചാരണ കൂടാതെയുള്ള വിശ്വാസങ്ങൾക്കു വിധേയരായിപ്പോകുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Oliver_Joseph_Lodge.jpg" rendition="gra"/>
+            <figDesc style="thumb">സർ ഒലിവർ ലോഡ്ജ്</figDesc>
+          </figure>
+          <p> മനുഷ്യൻ കേവലം വനചരജീവിതം നയിച്ചിരുന്ന കാലം മുതൽ ഇന്നേ വരെ അനേകം വിശ്വാസപരമ്പരകൾ
+മനസ്സിൽ സംഭരിച്ചിട്ടുണ്ടു്. ഇവയെല്ലാം യാതൊരു അടിസ്ഥാനവും തെളിവും യുക്തിവിചാരവും കൂടാതെ
+സ്വാഭാവികമായി മനസ്സിൽ വേരൂന്നിയിട്ടുള്ളവയാണു്. ഇങ്ങനെ പരമ്പരാഗതമായി തുടർന്നുപോരുന്ന
+വിശ്വാസവലയങ്ങളെക്കൊണ്ടാണു് നമ്മുടെ മനസ്സു് രൂപവൽകൃതമായിരിക്കുന്നതു്. ഈ വിശ്വാസങ്ങളിൽ
+പലതിനും ഇപ്പോൾ പ്രാബല്യവും പ്രാമാണ്യവും സിദ്ധിച്ചിട്ടുണ്ടാകാം. അവയെല്ലാം ശരിയെന്നു കാണിപ്പാൻ നാം
+പല യുക്തികളും കണ്ടുപിടിച്ചിട്ടുണ്ടാകാം. എന്നാലും വെറും അന്ധതമാത്രമാണു് അവയുടെ അടിത്തട്ടെന്നു
+പരിശോധനയിൽ കാണാവുന്നതാണു്. ഉദാഹരണത്തിനു് ആത്മാവിനെപ്പറ്റിയുള്ള വിശ്വാസം തന്നെ നോക്കുക!
+ശരീരത്തിൽനിന്നു ഭിന്നമായി ആത്മാവു് എന്നൊന്നുണ്ടെന്നും മരണാന്തരവും അതു് അനശ്വരമായി
+സ്ഥിതിചെയ്യുന്നുണ്ടെന്നും മറ്റും നാം വിശ്വസിക്കുന്നു. ഈ വിശ്വാസത്തിന്റെ ചരിത്രം പുറകോട്ടു പരിശോധിച്ചു
+നോക്കിയാൽ അതു ആദിമമനുഷ്യരുടെ കിരാതജീവിതഘട്ടം വരെ നീണ്ടു കിടക്കുന്നതായി കാണാം.
+യുക്തിവിചാരത്തിനുള്ള ബോധം തെളിഞ്ഞിട്ടില്ലാതിരുന്ന ഒരു കാലഘട്ടമാണതു്. സ്വപ്നമാണു് മനുഷ്യനെ
+ആദ്യമായി ആത്മാവിനെപ്പറ്റിയുള്ള വിശ്വാസത്തിലേക്കു തിരിച്ചുവിട്ടതു് എന്നു ചില പണ്ഡിതന്മാർ
+അഭിപ്രായപ്പെടുന്നു. മരിച്ചുപോയവരെ ഉറക്കത്തിൽ കണ്ടപ്പോൾ ശരീരത്തിൽനിന്നും വേർപെട്ട എന്തോ ഒന്നു
+വ്യാപരിക്കുന്നുണ്ടെന്നു് അന്നത്തെ വനചരൻ വിശ്വസിച്ചു. വെള്ളത്തിൽ പ്രതിഫലിച്ചു കണ്ട സ്വന്തം രൂപവും
+ഇങ്ങനെയൊരു ഭ്രമത്തിനു വഴികൊടുത്തിരിക്കാമെന്നും ചില ശാസ്ത്രകാരന്മാർ പറയുന്നുണ്ടു്. ഏതായാലും
+ഇപ്രകാരം കിരാതമനസ്സിൽ അന്ധമായി അങ്കുരിച്ച വിശ്വാസബീജമാണു് അനേക കാലഘട്ടങ്ങൾ കടന്നു വിവിധ
+മതമണ്ഡലങ്ങളിൽ വ്യാപിച്ചു തത്ത്വചിന്തയ്ക്കു ആധാരമായി ഇപ്പോൾ വികസിച്ചു കാണുന്നതു്. ഈജിപ്തിലെ ഒരു
+പ്രാചീന ദേവാലയം സന്ദർശിച്ചു ഭഗ്നാശനായി മടങ്ങിയ ഒരു സായ്പിന്റെ അനുഭവമാണു് ഈ ആത്മാവിന്റെ
+ചരിത്രം പരിശോധിക്കുന്നവർക്കുണ്ടാകുക. ദേവാലയത്തിലെ പുറംമോടികൾ കണ്ടു ഭ്രമിച്ച സായ്പ്
+അകത്തിരിക്കുന്ന ആരാധ്യരൂപം ഇവയേക്കാൾ എത്രയോ മനോമോഹനമായിരിക്കുമെന്നു കരുതി
+ഉള്ളിൽക്കടന്നു നോക്കിയപ്പോൾ കണ്ടതു് ചീങ്കണ്ണിയുടെ വികൃതരൂപമായിരുന്നു. ഇതുപോലെ മതാചാര്യന്മാർ
+ആത്മചിന്തയിൽ കെട്ടിപ്പടുത്തിരിക്കുന്ന തത്ത്വജ്ഞാനഭിത്തികൾ പൊളിച്ചു മാറ്റിയാൽ അകത്തു പണ്ടത്തെ
+കിരാതമനസ്സു് ഒളിച്ചിരിക്കുന്നതായി കാണാം. ഇന്നു പരിഷ്കൃതരൂപം കൈക്കൊണ്ടിട്ടുള്ള പല വിശ്വാസങ്ങളും
+ഇതുപോലെ കിരാതപാരമ്പര്യം നേടിയിട്ടുള്ളവയാണു്. വിശ്വാസത്തെ സംബന്ധിച്ചിടത്തോളം ഈ
+കിരാതമനോഭാവം ഇപ്പോഴും നമ്മിൽ പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്നുണ്ടു്. ദൈവം, പുനർജന്മം, വേദപ്രാമാണ്യം,
+വീരാരാധന തുടങ്ങിയ അനേകവിഷയങ്ങളെ സംബന്ധിച്ചു ബഹുവിധ വിശ്വാസങ്ങൾ മനുഷ്യസമുദായത്തിൽ
+
+അടിയുറച്ചുപോയിട്ടുണ്ടല്ലോ. ഇവയുടെയെല്ലാം ഉല്പത്തി കിരാതമനസ്സിൽനിന്നാണു്. മനുഷ്യനിൽ യുക്തിവിചാരം
+തെളിഞ്ഞതോടുകൂടി ഇത്തരം വിശ്വാസങ്ങൾക്കും യുക്തിക്കും തമ്മിൽ പൊരുത്തമില്ലെന്നു് അനുഭവപ്പെട്ടു. പക്ഷേ,
+ശീലിച്ചു പഴകിയ വിശ്വാസങ്ങൾ യുക്തിവിരുദ്ധങ്ങളാണെന്നറിഞ്ഞാലും അവയിൽനിന്നു വിട്ടുമാറുക എളുപ്പമല്ല.
+അതുകൊണ്ടു ചിന്താശീലരായ മനുഷ്യർ ഈവക വിശ്വാസങ്ങളെ ന്യായീകരിക്കുവാനുള്ള ശ്രമം തുടങ്ങി. വിശ്വാസം
+യുക്തിക്കു ചേർന്നതല്ലെങ്കിൽ വിശ്വാസത്തിനു ചേരത്തക്കവണ്ണം യുക്തിവിചാരത്തെ വളയ്ക്കുക—ഇതാണു്
+പണ്ഡിതന്മാരുടെയിടയിൽ സാധാരണ കണ്ടുവരുന്നതു്. ഇതൊരു തരം യുക്തിവാദാഭാസമാണെന്നു പറയാം.
+മനഃശ്ശാസ്ത്രകാരന്മാർ ഇതിനു ന്യായീകരണം (Rationalization) എന്നു പ്രത്യേകം പേരു കൊടുത്തിട്ടുണ്ടു്.
+ശരിയായ യുക്തിവാദത്തെ അഥവാ ന്യായവാദ(Reasoning)ത്തെ മതിഭ്രാമകമായ ‘ന്യായീകരണ’ത്തിൽനിന്നും
+വേർതിരിച്ചറിയുവാൻ വളരെ വിഷമമാണു് മതപരമായും രാഷ്ട്രീയമായും മറ്റു നടക്കുന്ന വാദകോലഹലങ്ങളിൽ
+ഇത്തരം ന്യായീകരണം ധാരാളം കാണാം. ചിന്താലോകത്തിൽ നടക്കുന്ന വലിയൊരു
+മാനസികവഞ്ചനയാണിതു്. ജനതതിയെ അന്ധവിശ്വാസത്തിൽ ബന്ധിക്കുന്നതിനു് ഇതു് അത്യന്തം
+സഹായിക്കുന്നുണ്ടു്. മനസ്സിന്റെ ഈ വക്രവ്യാപാരം ചിലപ്പോൾ നാം അറിയാതെതന്നെ നടക്കുന്നുണ്ടായിരിക്കും.
+ഏതു വിഡ്ഢിത്തത്തിനും ഒരു യുക്തി കണ്ടുപിടിക്കുവാൻ വാദപടുവായ ഒരുവനു സാധിച്ചേക്കാം. ജനതതി ഈ
+മിഥ്യായുക്തികൊണ്ടു സംതൃപ്തമാകുകയും ചെയ്യും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/IsaacNewton.jpg" rendition="gra"/>
+            <figDesc style="thumb">ന്യൂട്ടൻ</figDesc>
+          </figure>
+          <p> വലിയ ചിന്തകന്മാരായ പണ്ഡിതന്മാർപോലും ചില അന്ധവിശ്വാസങ്ങളുടെ
+ചുമടുതാങ്ങികളായിക്കാണപ്പെടുന്നില്ലേ? ഇത്ര വലിയ ചിന്തകൻ ഇതിലെങ്ങനെ വിശ്വസിക്കുന്നു എന്നു നാം
+അത്ഭുതപ്പെടാറുണ്ടു്. ഇക്കൂട്ടർ മേല്പറഞ്ഞ കപട യുക്തിവാദംകൊണ്ടാണു് സമാധാനപ്പെടുന്നതു്. പണ്ടത്തെ
+ഈശ്വരവിശ്വാസവും ഇന്നത്തെ ശാസ്ത്രജ്ഞാനവും തമ്മിൽ ചേർച്ചയില്ലെന്നു കണ്ടപ്പോൾ ആദ്യത്തേതു
+ഉപേക്ഷിക്കുവാനല്ല ഇക്കൂട്ടരുടെ ഉദ്യമം. അതിനൊരു ശാസ്ത്രീയമായ നിറംകൊടുക്കുവാനാണു്
+പുരാണകഥകൾക്കും മറ്റും പുതിയ പുതിയ വ്യാഖ്യാനങ്ങൾ വരുന്നതും ഈ വഴിക്കത്രെ. പണ്ടൊരു കവി
+സൃഷ്ടിച്ചുവിട്ട ശ്രീകൃഷ്ണനും ഗോപികമാർക്കും ഇന്നത്തെ ശാസ്ത്രീയമനസ്സിൽ ഇരിപ്പിടമുറപ്പിക്കുവാൻ പ്രയാസമെന്നു
+കണ്ടപ്പോൾ അവരെ പരമാത്മാവും ജീവാത്മാക്കളുമാക്കി മാറ്റി പ്രതിഷ്ഠിക്കുവാൻ തുടങ്ങുന്ന ദശാവതാരങ്ങളിൽ
+ഭൗമദശ (Geological age) യുടെ പ്രതിഫലനം കാണുന്നതും മനസ്സിന്റെ ഇത്തരം ചെപ്പടിവിദ്യകൊണ്ടത്രെ
+ഇപ്രകാരം വിശ്വാസത്തിനും യുക്തിവിചാരത്തിനും കൃത്രിമമായി പൊരുത്തമുണ്ടാക്കുവാൻ സാധിക്കാതെ
+വരുമ്പോൾ മാത്രമാണു് ചിലർ മൂഢവിശ്വാസങ്ങളെ പരിത്യജിക്കുവാൻ യത്നിക്കുന്നതു്. എന്നാൽ ഈ മാനസിക
+യത്നവും ശരിയായി ഫലിച്ചു എന്നു വരുന്നതല്ല. ശാസ്ത്രജ്ഞന്മാരുടെ മനസ്സിൽപ്പോലും അനാസ്പദങ്ങളായ ചില
+അന്ധവിശ്വാസങ്ങൾ ചിരകാലം കുടികൊള്ളാറുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/Isaac_Newton">ന്യൂട്ടനും</ref> <ref target="https://ml.wikipedia.org/wiki/Charles_Darwin">ഡാർവിനും</ref>
+അത്യന്തമൂഢങ്ങളായ ചില വിശ്വാസങ്ങൾക്കു് അധീനരായിരുന്നുവത്രേ. പ്രകൃതിവിജ്ഞാനീയത്തിൽ ഒരു
+പ്രാമാണികനായി എണ്ണപ്പെട്ടിരുന്ന ആളാണു് ഈയിടെ മരിച്ചുപോയ <ref target="https://en.wikipedia.org/wiki/Oliver_Lodge">സർ ഒലിവർ ലോഡ്ജ്</ref>.
+കഴിഞ്ഞ ലോകമഹായുദ്ധത്തിൽ അദ്ദേഹത്തിന്റെ പ്രിയപുത്രൻ കൊല്ലപ്പെട്ടു. അതിനുശേഷം ആ മരിച്ച
+പുത്രനുമായി സംഭാഷണം ചെയ്യാൻ തനിക്കു കഴിവുണ്ടായിരുന്നു എന്നു് ഈ ശാസ്ത്രജ്ഞൻ വിശ്വസിച്ചിരുന്നു!
+അദ്ദേഹം പ്രത്യേകം വൈദഗ്ദ്ധ്യം നേടിയ ശാസ്ത്രവിഷയത്തിൽ പ്രത്യക്ഷത്തെളിവുകളും പരീക്ഷണവും കൂടാതെ
+ഇതുപോലെ ഒരഭിപ്രായം സ്വീകരിക്കുമോ? ഒരിക്കലുമില്ല. എന്നാൽ ഈ മൃതപുത്രദർശനത്തിൽ മനസ്സിന്റെ ഒരു
+തോന്നൽമാത്രം അടിസ്ഥാനമാക്കി അദ്ദേഹം ഒരു വിശ്വാസിയുടെ നിലകൈകൊണ്ടു. ശരിയെന്നു
+സമർത്ഥിക്കുവാൻ ഇദ്ദേഹം കുറെനാൾ പണിപ്പെടുകയും ചെയ്തു. ഇങ്ങനെ നവീനശാസ്ത്രജ്ഞന്മാർക്കുപോലും
+ചിന്താവൈകല്യം നേരിടുന്ന സ്ഥിതിക്കു സാമാന്യജനത്തിന്റെ കഥ പറയേണ്ടതുണ്ടോ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Charles_Darwin.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡാർവിൻ</figDesc>
+          </figure>
+          <p> വിചാരണ ചെയ്തുനോക്കിയിട്ടല്ല നാം വിശ്വസിക്കുന്നതു്. നേരെമറിച്ചാണു് നമ്മുടെ മാനസികവ്യാപാരം.
+മതവിശ്വാസങ്ങളിലാണു് ഇതു് ഏറ്റവും സ്പഷ്ടമായിക്കാണുന്നതു്. നാം ആദ്യമായി യാതൊരാലോചനയും
+കൂടാതെയല്ലേ ഒരു മതത്തിൽ വിശ്വസിക്കുവാൻ തുടങ്ങുന്നതു്? കാരണം നമ്മുടെ മാതാപിതാക്കന്മാരും ആ മതം
+
+വിശ്വസിച്ചിരുന്നു എന്നുള്ളതുമാത്രമാണു്. മാതാപിതാക്കന്മാർക്കും പറയാനുള്ള കാരണം ഇതുതന്നെയത്രേ.
+അവരുടെ പൂർവികന്മാരും ഈ മതം വിശ്വസിച്ചിരുന്നു എന്നു തന്നെ. അല്ലാതെ അതു യുക്തി വിചാരത്തിനു
+വിഷയമാക്കി ശരിയാണെന്നു കണ്ടതുകൊണ്ടല്ല. ഒരുവൻ ഇൻഡ്യയിൽ ജനിച്ചാൽ ഹിന്ദുവായേക്കാം.
+ഇംഗ്ലണ്ടിലാണെങ്കിൽ ക്രിസ്താനിയാകും. അറേബ്യയിലായാൽ മുസ്ലീമും. ഇങ്ങനെ നോക്കുമ്പോൾ
+ഓരോരുത്തരുടെയും മതം ഒരു യാദൃച്ഛികസംഭവമായി വന്നുചേർന്നതാണെന്നും കാണാം. ഒരു രാജ്യത്തിലോ
+സമുദായത്തിലോ നിലവിലിരിക്കുന്ന വിശ്വാസങ്ങൾ അതിലെ സന്താനങ്ങളിൽ അവരറിയാതങ്ങനെ
+പകരുന്നുണ്ടാകും. സാമൂഹ്യചുറ്റുപാടുകളിൽ പറ്റിപ്പിടിച്ചു കിടക്കുന്ന വിശ്വാസങ്ങളെയും അഭിപ്രായങ്ങളെയും
+ഒരൊപ്പുകടലാസിന്റെ മട്ടിൽ ഒപ്പിയെടുക്കുന്നതിനുള്ള വാസന മനസ്സിനുണ്ടു്. ഇങ്ങനെ ആലോചന കൂടാതെ
+മനസ്സിനകത്തു കടന്നുകൂടുന്ന വിശ്വാസങ്ങളാണു് മനുഷ്യനെ ഭരിക്കുന്നതു്. ഇന്നത്തെ
+ശാസ്ത്രീയബോധത്തിനനുസരിച്ചു നമ്മുടെ ജീവിതം ക്രമപ്പെടുത്തുന്നതിനു് ഒന്നാമതായി വേണ്ടതു് ഈ
+വിശ്വാസഭരണത്തിൽനിന്നുള്ള മോചനമാകുന്നു. ശാസ്ത്രീയമനോഭാവത്തോടു കൂടിയ യുക്തിവിചാരംകൊണ്ടു
+മാത്രമേ അതു സാദ്ധ്യമാവുകയുള്ളു.
+</p>
+          <p>
+1940.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Viswasavum Yukthivicharavum
+(ml: വിശ്വാസവും യുക്തിവിചാരവും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Viswasavum Yukthivicharavum, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, വിശ്വാസവും യുക്തിവിചാരവും,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 21, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Hendrick_ter_Brugghen__Allegory_of_Faith_-_HBr-100_-_Leiden_Collection.jpg">Allegory of Faith,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Hendrick_ter_Brugghen">Hendrick ter
+Brugghen</ref>  (1588–1629). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-vu.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-vu.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

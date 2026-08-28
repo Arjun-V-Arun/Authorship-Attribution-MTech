@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഹൈപ്പേഷ്യ</title>
+          <title xml:lang="en" type="main">Hypatia</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഹൈപ്പേഷ്യ</title>
+              <title xml:lang="en" type="main">Hypatia</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Hypatia</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഹൈപ്പേഷ്യ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Hypatia_by_Julius_Kronberg.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Hypatia_by_Julius_Kronberg,_1889.jpg">Hypatia,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Julius_Kronberg">Julius
+Kronberg</ref>  (1850–1921). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഹൈപ്പേഷ്യ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഹൈപ്പേഷ്യ</head>
+        <div type="lsection">
+          <p style="noindent">പേപ്പട്ടിവിഷം ബാധിച്ചാൽ കുത്തിവെയ്പുകൊണ്ടു് പരിഹാരം നേടാം.
+മതഭ്രാന്തിളകിയാൽ യാതൊരു രക്ഷയുമില്ല. അനുഭവിച്ചുതന്നെ തീരണം. മാത്രമല്ല, നിർദോഷികളായ എത്രയോ
+പേർ അതിന്റെ വിഷജ്വാലയിൽ നശിക്കുകയും ചെയ്യും. വിജ്ഞാനത്തിന്റെയും സ്വതന്ത്രചിന്തയുടെയും
+മൂർത്തീകരണമായിരുന്ന ഹൈപ്പേഷ്യയുടെ ചരിത്രവും ഇതിനുദാഹരണമാണു്.
+</p>
+          <p>എ. ഡി. നാലാം
+നൂറ്റാണ്ടിനും അഞ്ചാം നൂറ്റാണ്ടിനും മദ്ധ്യേ അലൿസാണ്ട്രിയ നഗരത്തിൽ ജീവിച്ചിരുന്ന ഒരു വിദുഷീരത്നമാണു് <ref target="https://ml.wikipedia.org/wiki/Hypatia_of_Alexandria">ഹൈപ്പേഷ്യ</ref>.
+അന്നത്തെ നിലയിൽ ശാസ്ത്രീയവും ദാർശനികവുമായ വൈദുഷ്യംകൊണ്ടു് അവർ ലോകപ്രശസ്തിനേടി. ഇന്നും ആ
+നാമധേയം പണ്ഡിതലോകത്തിൽ സ്മരണീയമായിരിക്കുന്നു. തത്ത്വജ്ഞാനീയത്തിലും ഗണിതശാസ്ത്രത്തിലും
+പ്രൊഫസർ പദവിയിൽ പ്രശോഭിക്കാനുള്ള പാണ്ഡിത്യം അവർക്കുണ്ടായിരുന്നു. പൗരസ്ത്യദേശത്തെ പ്രമുഖ
+വിജ്ഞാനകേന്ദ്രമായിരുന്നു അന്നത്തെ അലൿസാണ്ട്രിയാനഗരം. ചരിത്രവിശ്രുതമായ അവിടത്തെ
+സർവ്വകലാശാലയിൽ സയൻസിന്റെയും തത്ത്വശാസ്ത്രത്തിന്റെയും വിവിധ ശാഖകൾക്കു്
+വിദ്യാപീഠങ്ങളുണ്ടായിരുന്നു. അവയിൽ ‘പ്ളേറ്റോണിക്’ തത്ത്വശാസ്ത്രത്തിന്റെ പേരിലുള്ള വിദ്യാപീഠത്തിന്റെ
+അദ്ധ്യക്ഷസ്ഥാനം ഹൈപ്പേഷ്യയാണു് അലങ്കരിച്ചിരുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/Plato">പ്ളാറ്റോ</ref>, <ref target="https://ml.wikipedia.org/wiki/Aristotle">അരിസ്റ്റോട്ടൽ</ref>
+ഇവരെപ്പറ്റിയുള്ള അവരുടെ പ്രഭാഷണം കേൾക്കാനും ധാരാളം വിദ്യാർത്ഥികൾ തിരക്കുകൂട്ടിയിരുന്നു. ഇവരിൽ
+ചിലർ അദ്ധ്യാപികയിൽ അനുരക്തരായിത്തീർന്നുവെന്നും പറയപ്പെടുന്നുണ്ടു്. എന്നാൽ, ഹൈപ്പേഷ്യ മരണംവരെ
+അവിവാഹിതയായിരുന്നുവെന്നാണു് ചരിത്രകാരന്മാരുടെ അനുമാനം. അലൿസാണ്ട്രിയായിലെ ഒരു
+പണ്ഡിതമുഖ്യനായിരുന്ന <ref target="https://en.wikipedia.org/wiki/Theon_of_Alexandria">തിയോൺ</ref>
+ആയിരുന്നു അവരുടെ അച്ഛൻ. പിതാവും പുത്രിയും കൂടി ഗണിതശാസ്ത്രസംബന്ധമായ ഒരു ഗ്രന്ഥം എഴുതിയിട്ടുണ്ടു്.
+</p>
+          <p>പൊതുസ്ഥലങ്ങളിൽവെച്ചു് വിജ്ഞാനപരമായ പ്രസംഗങ്ങൾ ചെയ്യുന്നതിലും ഹൈപ്പേഷ്യ
+ഉത്സുകയായിരുന്നു. ജ്യോതിശ്ശാസ്ത്രത്തിലും തത്ത്വശാസ്ത്രത്തിലും അവർ അനേകം ഗ്രന്ഥങ്ങൾ രചിച്ചിട്ടുണ്ടെന്നാണു്
+ചരിത്രകാരന്മാർ പറയുന്നതു്. പക്ഷേ, അവയൊന്നും ഇതുവരെ കണ്ടുകിട്ടിയിട്ടില്ല. ഇത്ര വളരെ പ്രശസ്തിയാർജിച്ചു്
+ബഹുജനസമാരാദ്ധ്യയായിത്തീർന്ന ഈ വിദുഷീ മണിയുടെ ജീവിതാവസാനം വിധിവൈപരീത്യത്താൽ ഒരു
+ദുരന്തനാടകമായിപ്പോയി.
+</p>
+          <p>അന്നു് ക്രിസ്തുമതത്തിന്റെ പ്രചാരണം കൊടുമ്പിരിക്കൊണ്ടിരുന്ന കാലമായിരുന്നുവല്ലോ. ഹൈപ്പേഷ്യ
+ക്രിസ്തുമതത്തിൽ വിശ്വസിച്ചിരുന്നില്ല. സ്വതന്ത്രചിന്താശീലമായിരുന്നു അവരിൽ മുന്നിട്ടുനിന്നിരുന്നതു്. തന്മൂലം
+ക്രൈസ്തവപുരോഹിതന്മാർക്കു് അവരോടു് കടുത്ത വിരോധം തോന്നി. എങ്കിലും ഹൈപ്പേഷ്യയുടെ
+ശിഷ്യഗണത്തിൽ പ്രധാനൻ സൈനേഷ്യസ് എന്നു് പേരായ ഒരു ക്രൈസ്തവനായിരുന്നു. ഇദ്ദേഹം പിന്നീടു് ഒരു
+ബിഷപ്പായിത്തീർന്നു. തന്റെ ഗുരുനാഥയെപ്പറ്റി ഈ ബിഷപ്പ് വളരെ പ്രശംസിച്ചെഴുതിയിട്ടുണ്ടു്. പക്ഷേ, ഇതൊന്നും
+മതഭ്രാന്തന്മാരായ പുരോഹിതർ ഗൗനിക്കയില്ലല്ലോ. അവിശ്വാസികളെ കശാപ്പുചെയ്യാൻപോലും ഈ
+പിശാചുക്കളായ മാന്യന്മാർ മടികാണിച്ചിരുന്നില്ല. അലൿസാണ്ട്രിയായിലെ പള്ളിക്കാർക്കിടയിൽ
+ഛിദ്രമുണ്ടാക്കാൻ മറ്റു് ചില ശത്രുക്കളോടൊപ്പം ഹൈപ്പേഷ്യയും പ്രവർത്തിച്ചിരുന്നുവെന്നൊരു തെറ്റിദ്ധാരണ
+എങ്ങനെയോ അവിടെ പ്രചരിച്ചു. ഇതോടുകൂടി പുരോഹിതന്മാരുടെ ശത്രുത കത്തിക്കാളി. മതാന്ധരായ
+അവരുടെ അനുയായികൾ ഒരു ദിവസം ഹൈപ്പേഷ്യയെ അവർ സഞ്ചരിച്ചിരുന്ന വണ്ടിയിൽനിന്നു് പിടിച്ചുവലിച്ചു്
+താഴത്തിട്ടു് പള്ളിയിലേക്കു് എടുത്തുകൊണ്ടുപോയി. അവിടെ അവരെ നഗ്നയാക്കി നിർത്തി, കൂർത്ത
+ഇഷ്ടികക്കഷ്ണങ്ങൾകൊണ്ടു് ആ മനുഷ്യചെന്നായ്ക്കൾ അവരുടെ ദേഹം കുത്തിക്കീറി തൊലിയുരിച്ചു് ഇഞ്ചിഞ്ചായി
+കൊന്നുകളഞ്ഞു. അനന്തരം ശവം തുണ്ടുതുണ്ടായി മുറിച്ചു് അവർ തീയിലിട്ടു് കരിച്ചു. അങ്ങനെ യാതൊരു
+തെറ്റുംചെയ്യാത്ത ഒരു മഹാവിദുഷി മതഭ്രാന്തിന്റെ കരാളദംഷ്ട്രങ്ങൾക്കു് ഇരയായിത്തീർന്നു. ഇതുപോലെ
+രാക്ഷസീയമായ എത്രയെത്ര കൊലപാതകങ്ങൾ മതത്തിന്റെ പേരിൽ നടന്നിട്ടുണ്ടു്! ഇത്തരം ഭീകര
+സംഭവങ്ങളുടെ കരിനിഴലേല്ക്കാതെ ഏതെങ്കിലും മതം വളർന്നു് വന്നിട്ടുണ്ടോ? ഹൈപ്പേഷ്യയുടെ വധം നടന്നതു്
+എ. ഡി. 415-ലാണു്. അന്നത്തേതിൽനിന്നു് എത്ര പുരോഗമിച്ചിരിക്കുന്നു ആധുനികലോകം! എന്നിട്ടും മതത്തിന്റെ
+ഹാലിളക്കം പുതിയ പുതിയ രൂപങ്ങളിൽ ഇപ്പോഴും തലപൊക്കുന്നില്ലേ? എന്തൊരു മനോരോഗമാണിതു്!
+
+</p>
+          <p>(മനനമണ്ഡലം 1963)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Hypatia (ml: ഹൈപ്പേഷ്യ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Hypatia, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഹൈപ്പേഷ്യ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Hypatia_by_Julius_Kronberg,_1889.jpg">Hypatia,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Julius_Kronberg">Julius
+Kronberg</ref>  (1850–1921). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-hypasia.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-hypasia.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

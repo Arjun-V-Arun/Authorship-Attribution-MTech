@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കല്യാണഗാനം</title>
+          <title xml:lang="en" type="main">Kalyanaganam</title>
+        </title>
+        <author>Kesari Balakrishna Pillai</author>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Digitized by</resp>
+          <name>KB Sujith</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">September 22, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കല്യാണഗാനം</title>
+              <title xml:lang="en" type="main">Kalyanaganam</title>
+            </title>
+            <author>Kesari Balakrishna Pillai</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-09-19</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kesari Balakrishna Pillai</term>
+          <term>Kalyanaganam</term>
+          <term>കേസരി ബാലകൃഷ്ണപിള്ള</term>
+          <term>കല്യാണഗാനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-09-19</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Dornen_und_Rosen.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Ludwig_Knaus__Dornen_und_Rosen_(1875).jpg">Thorns and Roses,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Ludwig_Knaus">Ludwig Knaus</ref>
+ (1829–1910). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കല്യാണഗാനം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കേസരി ബാലകൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കല്യാണഗാനം</head>
+        <div type="lsection">
+          <figure rend="fright">
+            <graphic url="images/Jules_Romains.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ജൂലിയസ് റൊമെയിൻസ്</figDesc>
+          </figure>
+          <p style="noindent"> ഒരു സാഹിത്യകൃതിയുടെ പരിഭാഷകനു മൂന്നു് ഉദ്ദേശ്യങ്ങൾ മുൻനിർത്തി തന്റെ
+ജോലി നിർവ്വഹിക്കാം. മൂലഗ്രന്ഥകാരൻ തന്റെ ഭാഷയിൽ പറഞ്ഞിട്ടുള്ളതു മുഴുവനും നല്ലതായ തർജ്ജിമ
+ഭാഷാശൈലിയിൽ പകർത്തുന്നതാണു് ഇവയിലൊന്നു്. രണ്ടാമത്തേതു മൂലഗ്രന്ഥകാരൻ പറഞ്ഞിട്ടുള്ളതിന്റെ
+സാരത്തെ കഴിയുന്നിടത്തോളം പൂർണ്ണമായി തർജ്ജിമ ഭാഷാവായനക്കാരനെ ധരിപ്പിച്ചു രസിപ്പിക്കുന്നതാകുന്നു.
+മൂലഗ്രന്ഥകാരനു തർജ്ജിമഭാഷ മാതൃഭാഷയായിരുന്നുവെങ്കിൽ, അദ്ദേഹം പറയുമായിരുന്നതിനെ, ഇതിന്റെ
+വീക്ഷണകോടിയിൽനിന്നു തെല്ലും വ്യതിചലിക്കാതെയും, ഇതിന്റെ ഭാഷാരീതിയിൽനിന്നു് അധികം
+വ്യതിചലിക്കാതെയും, നിർമ്മിക്കുന്നതാണു് മൂന്നാമത്തെ ഉദ്ദേശ്യം. ഈ മൂന്നു് ഉദ്ദേശ്യങ്ങൾ പുരസ്ക്കരിച്ചു പുറപ്പെടുന്ന
+പരിഭാഷകൾക്കു യഥാക്രമം സൂക്ഷ്മപരിഭാഷ, സ്വതന്ത്രപരിഭാഷ, തത്വാനുരൂപപരിഭാഷ എന്ന പേരുകൾ
+നൽകാം. പ്ലേറ്റോവിന്റെ ‘റിപ്പബ്ലിക്’ എന്ന കൃതിയെ ഡേവിസ്, വാൻ, എന്നിവർ ഗ്രീക്കിൽനിന്നു് ഇംഗ്ലീഷിലേയ്ക്കു
+പരിഭാഷപ്പെടുത്തിയിട്ടുള്ളതു്, <ref target="https://books.sayahna.org/html/nalappatt-n-menon-bio.html">ശ്രീ.
+നാലപ്പാട്ടി</ref> ന്റെ ‘<ref target="https://books.sayahna.org/html/sfn-pavangaltoc.html">പാവങ്ങൾ</ref>’ എന്നിവയെ സൂക്ഷ്മപരിഭാഷയ്ക്കു് ഉത്തമോദാഹരണങ്ങളായി എടുത്തു
+കാണിക്കാം. ഹോമറിന്റെ മഹാകാവ്യങ്ങളെ മഹാകവി <ref target="https://en.wikipedia.org/wiki/Alexander_Pope">പോപ്പ്</ref> ഗ്രീക്കിൽനിന്നു്
+ഇംഗ്ലീഷിലേയ്ക്കു പരിഭാഷപ്പെടുത്തിയിട്ടുള്ളതു്, ശ്രീ: <ref target="https://en.wikipedia.org/wiki/Changampuzha_Krishna_Pillai">ചങ്ങമ്പുഴ</ref>
+യുടെ ‘ദിവ്യഗീതം’, ഇദ്ദേഹത്തിന്റെ ‘ദേവഗീത’ എന്നിവ സ്വതന്ത്രപരിഭാഷയ്ക്കു് ഉത്തമദൃഷ്ടാന്തങ്ങളാണു്. <ref target="https://en.wikipedia.org/wiki/Omar_Khayyam">ഒമർഖയാമി</ref> ന്റെ ‘<ref target="https://en.wikipedia.org/wiki/Rubaiyat_of_Omar_Khayyam">റൂബായിയാത്തി</ref>’നെ
+പേർസ്യനിൽനിന്നു <ref target="https://en.wikipedia.org/wiki/F._Scott_Fitzgerald">ഫിറ്റ്സ്
+ജീറാൾഡ്</ref> ഇംഗ്ലീഷിലേയ്ക്കു പരിഭാഷ ചെയ്തിട്ടുള്ളതു തത്വാനുരൂപപരിഭാഷയ്ക്കു് ഒരു
+ഉത്തമദൃഷ്ടാന്തമല്ലെങ്കിലും, അതിനെ ഇതിന്റെ സാമാന്യമായ പോക്കിനെ ഉദാഹരിക്കുവാൻ
+ഉദ്ധരിക്കാവുന്നതാണു്. <ref target="https://en.wikipedia.org/wiki/Ben_Jonson">ബെൻജാൺസി</ref> ന്റെ ‘<ref target="https://en.wikipedia.org/wiki/Volpone">വോൽപോൻ</ref>’ എന്ന
+നാടകത്തിനു <ref target="https://en.wikipedia.org/wiki/Stefan_Zweig">സ്റ്റിഫാൻ
+സ്വെയിഗ്</ref>, <ref target="https://en.wikipedia.org/wiki/Jules_Romains">ജൂലിയസ്
+റൊമെയിൻസ്</ref> എന്നീ സാഹിത്യകാരന്മാർ ചെയ്തിട്ടുള്ള പരിഭാഷകളെ മൂന്നാമത്തെ തരത്തിനു്
+ഉത്തമോദാഹരണങ്ങളായി പ്രസ്താവിക്കാം.
+</p>
+          <p style="noindent"/>
+          <figure rend="fleft">
+            <graphic url="images/Benjamin_Jonson.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ബെൻജാൺസ്</figDesc>
+          </figure>
+          <p style="noindent"> പ്രസ്തുത വിഭിന്നരീതികളുടെ ശ്രേഷ്ഠതയെപ്പറ്റി സാഹിത്യകാരന്മാർ അവരവരുടെ
+രുചിഭേദങ്ങളനുസരിച്ചു വിഭിന്നാഭിപ്രായങ്ങൾ പുറപ്പെടുവിച്ചിട്ടുണ്ടു്. രാജ്യക്കാരെ സംബന്ധിച്ചിടത്തോളം,
+ഫ്രഞ്ചുകാർക്കു സ്വതന്ത്ര പരിഭാഷയോടും, റഷ്യക്കാർക്കു സൂക്ഷ്മ പരിഭാഷയോടുമാണു് പ്രിയം. ഈ മൂന്നു
+പരിഭാഷാരീതികളെപ്പറ്റിയുള്ള ഭിന്നാഭിപ്രായങ്ങളിൽ ഒരുതരത്തെ ഇവിടെ ഉദാഹരിക്കാം. <ref target="https://en.wikipedia.org/wiki/Hilaire_Belloc">ഹിലെയർ
+ബെല്ലോക്ക്</ref> എന്ന ഇംഗ്ലീഷ് സാഹിത്യകാരന്റെ അഭിപ്രായമാണിതു്.
+</p>
+          <figure rend="fright">
+            <graphic url="images/Joseph_Bedier.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ബെദിയർ</figDesc>
+          </figure>
+          <p> “മൂലകൃതിയുടെ ഭാഷാശൈലിയെക്കുറിച്ചു ഗാഢമായ ജ്ഞാനം ഒരു പരിഭാഷകനു് അപരിത്യാജ്യമല്ലെങ്കിലും,
+അതിന്റെ വീക്ഷണകോടിയോടു് അയാൾക്കു് ഗാഢമായ അനുഭാവമുണ്ടായിരുന്നേ മതിയാവൂ.
+ഇതിനെക്കാളധികം പ്രാധാന്യമുള്ള സാമർത്ഥ്യമാകുന്നു മൂലകൃതിയുടെ ആത്മാവു പരിഭാഷയിലും
+ജന്മമെടുത്തിരിക്കണമെന്നുള്ളതത്രേ പരിഭാഷയുടെ രണ്ടാമത്തെ മൗലികതത്വം. മൂലകൃതിയിലെ പദങ്ങളെ
+ബലികഴിച്ചും ആത്മാവിനെ പകർത്തുന്നതിനാണു് ഒരു നല്ല പരിഭാഷകൻ മനഃപൂർവ്വം ശ്രമിക്കേണ്ടതു്.
+പരിഭാഷകനുംകൂടി ഒരു സ്വതന്ത്രസ്രഷ്ടാവായിരിക്കണമെന്നാണു് പ്രായേണ ഇതിന്റെ അർത്ഥം. അദ്ദേഹത്തിനു
+സ്വന്തമായ നിർമ്മാണശക്തി വേണ്ടതാണു്. പരിഭാഷയ്ക്കു പുറമേ, ഒരു നല്ല പരിഭാഷകൻ ഒരു ഒന്നാംതരം
+സാഹിത്യകാരനായി ഭവിക്കുന്നതു നാം മിക്കപ്പോഴും കാണാറില്ലെന്നുള്ളതു വാസ്തവം തന്നെ. പഴയ
+ഫ്രഞ്ചിൽനിന്നു ‘<ref target="https://en.wikipedia.org/wiki/Tristan_and_Iseult">ട്രിസൂവും
+ഇസെയുൽത്തും</ref>’ എന്ന കൃതി ആധുനികഫ്രഞ്ചിലേയ്ക്കു <ref target="https://en.wikipedia.org/wiki/Joseph_B%C3%A9dier">ബെദിയർ</ref>
+പരിഭാഷ ചെയ്തിട്ടുള്ളതു്, റാബലേയുടെ കൃതിയുടെ ആദിഭാഗങ്ങൾ ഫ്രഞ്ചിൽനിന്നു് ഇംഗ്ലീഷിലേയ്ക്ക് ഉർക്കുഹാർട്ട്
+ഭാഷാന്തരം ചെയ്തിട്ടുള്ളതു്, നോർസ് കഥകൾ ഡാസന്റ് ഇംഗ്ലീഷിൽ തർജ്ജിമചെയ്തിട്ടുള്ളതു്, <ref target="https://en.wikipedia.org/wiki/Homer">ഹോമറിൽ</ref> നിന്നുള്ള കഥകൾ ചർച്ച്
+ഇംഗ്ലീഷിലാക്കിയിട്ടുള്ളതു്, എന്നിവ ഇത്തരം പരിഭാഷയ്ക്കു ദൃഷ്ടാന്തങ്ങളാണു്. ഈ നാലു സാഹിത്യകാരരും
+ഒന്നുപോലെ, തങ്ങൾ പരിഭാഷ മുഖേന നേടിയ വിജയം സ്വതന്ത്രകൃതികളിലൂടെ നേടിയിരുന്നില്ല. ഇവർ
+മൂലകൃതിയെ പകർത്തുകയല്ല, എടുത്തു മാറ്റിവയ്ക്കുകയാണു് ചെയ്തതു് എന്നുള്ളതിലാണു് ഇവരുടെ മഹത്വം
+സ്ഥിതിചെയ്യുന്നതു്. തങ്ങൾ ദർശിച്ചതിനെ മറ്റുള്ളവരുംകൂടി കാണുവാനായി വേണ്ടതെല്ലാം മഹാന്മാരായ
+ചരിത്രകാരന്മാർ ചെയ്യുന്നതുപോലെയാണു് ഇവരും പ്രവർത്തിച്ചിട്ടുള്ളതു്. പണ്ടത്തെ ഒരാളുടെ ആത്മാവിനെ
+തന്റെ ആത്മാവിലൂടെ പ്രേക്ഷകർക്കു കാണിച്ചുകൊടുക്കുമ്പോൾ, ഒരു മഹാനടൻ എന്തുചെയ്യുന്നുവോ, അതാണു്
+ഇവരും ചെയ്തിട്ടുള്ളതു്. എന്നാലും ലോകത്തിലെ ഉത്തമപരിഭാഷകരിൽ ചിലർ സൂക്ഷ്മപരിഭാഷയാണു്
+സ്വീകരിച്ചിരുന്നതെന്നും കൂടി ഇവിടെ ചൂണ്ടിക്കാണിക്കേണ്ടിയിരിക്കുന്നു. എബ്രായബൈബിളിനെ
+ലത്തീൻഭാഷയിലേയ്ക്കു <ref target="https://en.wikipedia.org/wiki/Jerome">സെന്റ്
+ജെറോം</ref> പരിഭാഷ ചെയ്തതു്, ബൈബിളിന്റെ പഴയ നിയമത്തെ ജെയിംസ് ഒന്നാമന്റെ കാലത്തു്
+ഇംഗ്ലീഷിലേയ്ക്കു് തർജ്ജമ ചെയ്തതു്, എന്നിവ ഇതിനു് ഉദാഹരണങ്ങളാണു്. മൂലകൃതിയെ സംബന്ധിച്ചുള്ള
+പരിഭാഷകരുടെ വികാരതീക്ഷ്ണതയാണു് ഇവയുടെ വിജയത്തിനു കാരണം. ഇതു് ആകസ്മികമായ ഒന്നാണു്. ഇതു്
+എല്ലാ പരിഭാഷകർക്കും ഉണ്ടാകുന്നതല്ല. മനഃപൂർവ്വമായി ശ്രമിച്ചാലും, ഇത്തരം ഉത്തമങ്ങളായ
+സൂക്ഷ്മപരിഭാഷകൾ നിർമ്മിക്കുവാൻ സാധിക്കുന്നതുമല്ല.”
+</p>
+          <figure rend="fright">
+            <graphic url="images/Scott_Fitzgerald.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ഫിറ്റ്സ് ജീറാൾഡ്</figDesc>
+          </figure>
+          <p> ശ്രീ: കെ. എ. പാളിന്റെ പ്രകൃതകൃതി ഏഴു വിശ്വസാഹിത്യചെറുകഥകളുടെ പരിഭാഷയാണു്. മൂന്നു ഫ്രഞ്ച്, ഒരു
+
+പോലിഷ്, ഒരു ജപ്പാനീസ്, ഒരു ചീന, ഒരു അമേരിക്കൻ എന്നീ ഏഴു ചെറുകഥകൾ ഈ സമാഹാരത്തിൽ
+അടങ്ങിയിരിക്കുന്നു. പരിഭാഷാരീതിയെക്കുറിച്ചു ഗ്രന്ഥകാരൻ മുഖവുരയിൽ ഇങ്ങിനെ പറഞ്ഞിരിക്കുന്നു:
+“പ്രസിദ്ധങ്ങളായ വിശ്വകഥകൾ ഉൾക്കൊള്ളുന്ന വിവിധങ്ങളായ ദേശീയ സംസ്ക്കാരങ്ങളുടേയും ആചാരങ്ങളുടേയും
+സാരാംശങ്ങൾ കളയാതെതന്നെ അവയെ ഒന്നുരുക്കിത്തെളിച്ചു സാമാന്യം സ്വതന്ത്രമായി എഴുതിയിട്ടുള്ളതാണു്
+ഈ വിശ്വകഥകൾ മിക്കതും.” സ്വതന്ത്രപരിഭാഷയാണു് താൻ സ്വീകരിച്ചിട്ടുള്ളതു് എന്നു് ഗ്രന്ഥകാരൻ. ഇതിൽ
+ഗ്രന്ഥകാരൻ വിജയിച്ചിട്ടുണ്ടെന്നാണു് എന്റെ അഭിപ്രായം. ശ്രീ: പാളിന്റെ ഭാഷാരീതി പ്രസന്നവുമാണു്.
+</p>
+          <figure rend="fleft">
+            <graphic url="images/Jules_Lemaitre.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ജൂലിയസ് ലെമെയിറ്റർ</figDesc>
+          </figure>
+          <p> വീരം, ഭയാനകം, അത്ഭുതം, ആക്ഷേപഹാസം, ‘ഫൺ’ എന്നു ഇംഗ്ലീഷിൽ പേരുള്ള തരം ഹാസം, എന്നീ
+രസങ്ങൾ അടങ്ങിയ കഥകളാണു് ഈ സമാഹാരത്തിലുള്ളതു്. ‘നിലയറയിൽ’ എന്ന ഫ്രഞ്ച് കഥയിലും,
+‘ചക്രവർത്തിനി’ എന്ന ജപ്പാനീസ് കഥയിലും വീരരസം കാണാം. ഒരു പോലിഷ് ചെറുകഥാകാരിയുടെ
+കേൾവികേട്ട കൃതിയായ ‘കല്യാണഗാനം’ എന്നതു ഭയാനകരസം ഉൾകൊള്ളുന്നു. അത്ഭുത രസമാണു്
+‘രാജകുമാരി’ എന്ന ചീനസ്വപ്നകഥയിൽ കാണുന്നതു്. <ref target="https://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre">ജൂലിയസ്
+ലെമെയിറ്റർ</ref> എന്ന നാടകകർത്താവും കഥാകാരനുമായ ഫ്രഞ്ചുകാരന്റെ സുവിദിതകൃതിയായ
+‘പുറംപൂച്ചുകൾ’ എന്നതിലും, ‘അമ്മാവൻപോലും’ എന്ന ഫ്രഞ്ചുകഥയിലും ആക്ഷേപഹാസം കാണാം.
+‘പുറംപൂച്ചുകൾ’ പാരസികമഹാകവി ഫിർദൗസിയുടെ ശവസംസ്ക്കാരത്തെപ്പറ്റി എഴുതിയതാണെന്നു കഥയിൽ
+പറയുന്നുണ്ടെങ്കിലും, വാസ്തവത്തിൽ ഫ്രഞ്ചുമഹാകവി <ref target="https://books.sayahna.org/html/viktor-hugo-bio.html">വിക്ടർ
+യൂഗോ</ref> യുടെ ശവസംസ്ക്കാരത്തെക്കുറിച്ചാണു് ലെമെയിറ്റർ ഇതു രചിച്ചിരുന്നതു്. ‘പുലിവാലായോ’ എന്ന
+അമേരിക്കൻകഥയിൽ ‘ഫൺ’ എന്നതരം ഹാസ്യം കാണാം.
+</p>
+          <figure rend="fright">
+            <graphic url="images/Picture_of_Hilaire_Belloc.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ഹിലെയർ ബെല്ലോക്ക്</figDesc>
+          </figure>
+          <p> ഒരു ‘ക്ലാസിക്കി’നെ (പഴയ മഹാകൃതിയെ) രണ്ടു വീക്ഷണകോടികളിൽനിന്നു ദർശിക്കാം. അതു
+ഗ്രന്ഥകാരന്റെ സമകാലീനർക്കുവേണ്ടി രചിച്ചതു്, അതു ഭാവിതലമുറകൾക്കുംകൂടിയായി രചിച്ചതു്, എന്നതത്രേ
+ഇവ. ഇന്നു് അവ നിലനില്ക്കുന്നതു നിമിത്തം രണ്ടാമത്തെ വീക്ഷണകോടിക്കും നല്ല ന്യായമുണ്ടു്.
+പ്രകൃതഗ്രന്ഥത്തിലെ കഥകളിൽ പലതും ഇന്നുള്ളവർക്കു് അവയുടെ വിഷയത്തിൽ താൽപര്യം
+തോന്നണമെന്നുള്ള വിചാരസഹിതം ഗ്രന്ഥകാരൻ തിരഞ്ഞെടുത്തിട്ടുണ്ടു്. ഇതും ശ്ലാഘനീയമാണു്. ‘നിലയറയിൽ’,
+‘ചക്രവർത്തിനി’ എന്നിവ ഝാൻസിറാണി റെജിമെന്റിന്റെ വീരകൃത്യങ്ങൾ കൺമുമ്പിൽ നില്ക്കുന്ന ഇന്നുള്ളവർക്കു
+രുചിക്കും. ‘ചക്രവർത്തിനി’ എന്നതിൽ പണ്ടത്തെ ജപ്പാൻകാരുടേയും ഇന്നത്തെ ജപ്പാൻകാരുടേയും
+സംസ്കാരങ്ങൾ തമ്മിലുള്ള അന്തരം ചൂണ്ടിക്കാണിക്കുന്ന പൊടിക്കയ്യു പ്രയോഗിച്ചു ശ്രീ പാൾ കഥയിൽ
+ഇന്നുള്ളവരുടെ താൽപര്യം വർദ്ധിപ്പിച്ചിരിക്കുന്നു. അമേരിക്ക ഇന്നത്തെ മഹാശക്തികളിൽ മുന്നിട്ടുനിൽക്കുന്നതു
+നിമിത്തം, ഇതിനു കാരണമായ അമേരിക്കക്കാരുടെ ധനോല്പാദനകെല്പിന്റെ ഒരു ന്യൂനത ചൂണ്ടിക്കാണിക്കുന്ന
+‘പുലിവാലായോ’ എന്ന കഥ ഇന്നുള്ളവരെ ആകർഷിക്കുന്നതാണു്. യഥാർത്ഥമായ ജനകീയ സാഹിത്യം
+രചിക്കാതെ, റൊമാന്റിക്കും ക്ലാസിക്കും പ്രസ്ഥാനകൃതികൾ രചിച്ചുവരുന്ന മഹാകവികൾക്കു മരണാനന്തരം
+വരുന്ന വിസ്മൃതി ധ്വനിപ്പിക്കുന്ന ‘പുറംപൂച്ചുകൾ’ എന്ന കഥയിൽ, പുരോഗമനസാഹിത്യപ്രസ്ഥാനവും
+ഇതരപ്രസ്ഥാനങ്ങളും തമ്മിൽ പടവെട്ടിക്കൊണ്ടിരിക്കുന്ന ഇന്നത്തെ കേരളത്തിലെ വായനക്കാർക്കു പ്രത്യേക
+കൗതുകം ജനിക്കാതെയിരിക്കുന്നതല്ല.
+</p>
+          <p>ഗ്രന്ഥകർത്താ: കെ. ഏ. പാൾ
+</p>
+          <p>(കെ. ഏ. പാളിന്റെ പരിഭാഷയ്ക്കു് കേസരി ബാലകൃഷ്ണപിള്ള എഴുതിയ നിരൂപണം.)
+
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/kesari-bio.html">കേസരി
+ബാലകൃഷ്ണപിള്ളയുടെ ലഘു ജീവചരിത്രം.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kalyanaganam (ml:
+കല്യാണഗാനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kesari Balakrishna
+Pillai.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-09-19. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kesari Balakrishna
+Pillai, Kalyanaganam, കേസരി ബാലകൃഷ്ണപിള്ള, കല്യാണഗാനം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 22, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Ludwig_Knaus__Dornen_und_Rosen_(1875).jpg">Thorns and Roses,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Ludwig_Knaus">Ludwig Knaus</ref>
+ (1829–1910). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Digitizer:</hi>  KB Sujith; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kesari-kalyanaganam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kesari-kalyanaganam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തീവണ്ടിയുടെ കുതിപ്പും മമതയുടെ
+കിതപ്പും</title>
+          <title xml:lang="en" type="main">Theevandiyude Kuthippum Mamathayude
+Kithappum</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 24, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തീവണ്ടിയുടെ കുതിപ്പും മമതയുടെ
+കിതപ്പും</title>
+              <title xml:lang="en" type="main">Theevandiyude Kuthippum Mamathayude
+Kithappum</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Theevandiyude Kuthippum Mamathayude Kithappum</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>തീവണ്ടിയുടെ കുതിപ്പും മമതയുടെ കിതപ്പും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 24, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Boy_in_Blue.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Munch_-  _Boy_in_Blue,_ca._1900,_29.321.jpg">Boy in Blue,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Edvard_Munch">Edvard Munch</ref>
+ (1863–1944). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തീവണ്ടിയുടെ കുതിപ്പും മമതയുടെ കിതപ്പും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തീവണ്ടിയുടെ കുതിപ്പും മമതയുടെ കിതപ്പും</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Satyajit_Ray.jpg" rendition="gra"/>
+            <figDesc style="thumb">സത്യജിത് റായ്</figDesc>
+          </figure>
+          <p style="noindent"> ‘അപരാജിതോ’ക്കു് ലൊക്കേഷൻ തേടിനടക്കുമ്പോഴത്തെ ഒരനുഭവം
+വിവരിക്കുകയാണു് <ref target="https://ml.wikipedia.org/wiki/Satyajit_Ray">സത്യജിത് റായ്</ref>:
+“…അൽപം നടന്നതോടെ ഗ്രാമത്തിന്റെ ഒരറ്റത്തെത്തി. അവസാനത്തെ വീടിനപ്പുറം അര മൈലോളം
+തരിശുനിലമായിരുന്നു. അവസാനത്തെ വീടിനു് ചുറ്റുമതിലുമുണ്ടായിരുന്നു… പെട്ടെന്നു് തീവണ്ടിയുടെ ശബ്ദം
+കേട്ടു. വാതിലിലൂടെ മുടന്തിമുടന്തി നടന്നു് ഞാൻ തരിശുനിലത്തിനപ്പുറത്തേക്കു് നോക്കിനിന്നു. വൈകാതെ
+ഇടതുഭാഗത്തുനിന്നു് കുറെ മരങ്ങളുടെ പിറകിലായി ട്രെയിൻ കാണാറായി. പാളത്തിനോടു ചേർന്നു് ടെലഗ്രാഫ്
+തൂണുകളുണ്ടായിരുന്നു. ആകാശത്തു് കറുത്ത പുക നിറച്ചുകൊണ്ടു് വണ്ടി കടന്നുപോയി. പുക
+മാഞ്ഞുമറഞ്ഞുപോകുന്നതുവരെ ഞാൻ അവിടെത്തന്നെ നിന്നു. എന്റെ ദേഹമാകെ കുളിരു കോരിയിട്ടു. ഒരു
+പുതിയ, പ്രകാശമാനമായ ആശയം മനസ്സിൽ വരുമ്പോൾ അങ്ങനെയാണു്. ഇതു് അതുമല്ല ഉജ്വലദീപ്തി
+തന്നെയായിരുന്നു. ഇതുതന്നെ ദെബ് തരണിന്റെ വീടു്. ‘പഥേർ പാഞ്ചാലി’യിൽ അപ്പു ട്രെയിനിന്റെ ശബ്ദം
+കേൾക്കാറുണ്ടായിരുന്നു. വൈകുന്നേരത്തെ മഞ്ഞിൽ മറയാറുണ്ടായിരുന്നതുകൊണ്ടു് വളരെ അപൂർവമായേ
+ട്രെയിൻ കാണാൻ കഴിഞ്ഞിരുന്നുള്ളൂ. ഇത്തവണ തന്റെ വീട്ടിൽ നിന്നുകൊണ്ടു് അവൻ തീവണ്ടി കാണും. ഗ്രാമവും
+അപ്പു കോളേജ് വിദ്യാഭ്യാസത്തിനു് പോകുന്ന കൽക്കത്താ നഗരവുമായുള്ള ചങ്ങലക്കണ്ണിയായി തീവണ്ടിയെ
+ഉപയോഗിക്കാം. തനിക്കുവേണ്ടി കാത്തിരിക്കുന്ന, തന്നെയോർത്തു് വേവലാതിപ്പെടുന്ന അമ്മയുമായുള്ള ഒരു
+കണ്ണിയാവും ട്രെയിൻ…”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mamata_Banerjee.jpg" rendition="gra"/>
+            <figDesc style="thumb">മമതാ ബാനർജി</figDesc>
+          </figure>
+          <p> സത്യജിത് റായിക്കുശേഷം തീവണ്ടിയിൽനിന്നു് ആവേശമുൾക്കൊണ്ട ഒരു പ്രതിഭ ബംഗാളിൽ
+ഉണ്ടായിട്ടുണ്ടെങ്കിൽ അതു് കുമാരി <ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ ബാനർജി</ref>
+യാണു്. 1998–99 കാലഘട്ടത്തിൽ പാർലമെന്റിന്റെ റെയിൽവേസ് കമ്മിറ്റി ചെയർപേഴ്സനായിരിക്കുമ്പോഴാകണം
+ദീദിക്കു് വകുപ്പിന്റെ അപാര സാധ്യതകൾ മനസ്സിലായതു്. മന്ത്രിസഭയിൽ ചേരാമോ എന്ന <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">അടൽജി</ref>
+ചോദിച്ചപ്പോൾ മമത പറഞ്ഞു: റെയിൽവേ വകുപ്പാണെങ്കിൽ നോക്കാം. അന്നുപക്ഷേ, <ref target="https://en.wikipedia.org/wiki/Nitish_Kumar">നിതീഷ് കുമാറി</ref> നെ
+മാറ്റാൻ നിവൃത്തിയില്ലായിരുന്നു. മന്ത്രിസഭ തന്നെയും പതിമൂന്നാം മാസത്തിൽ അലസിപ്പോയി. 1999
+ഒക്ടോബറിൽ അടൽജി മൂന്നാമതും മന്ത്രിസഭയുണ്ടാക്കിയപ്പോൾ നിതീഷിനെ കൃഷി വകുപ്പിൽ തളച്ചു; റെയിൽവേ
+മമതക്കുതന്നെ. ദീദി സത്യവാചകം ചൊല്ലി അധികാരമേറ്റ ഒക്ടോബർ 13-നു് ബംഗാളിലാകമാനം തൃണമൂൽ
+കോൺഗ്രസുകാർ പടക്കംപൊട്ടിച്ചും മധുരപലഹാരം വിതരണം നടത്തിയും ആഹ്ലാദിച്ചു. റെയിലുകളെല്ലാം
+ബംഗാളിലേക്കു് ! 2000 ഫെബ്രുവരി 25-നും 2001 ഫെബ്രുവരി 26-നും <ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ ബാനർജി</ref>
+റെയിൽവേ ബജറ്റ് അവതരിപ്പിച്ചു. രണ്ടും പശ്ചിമബംഗാളിന്റെ സമഗ്ര വികസനം ലാക്കാക്കിയും വരാനിരിക്കുന്ന
+നിയമസഭാ തെരഞ്ഞെടുപ്പിനെ ഉന്നംവെച്ചും തയാറാക്കിയവയായിരുന്നു. എന്നാൽ, 2001-ലെ ബജറ്റ് പാസാകും
+മുമ്പുതന്നെ ദീദി വഴക്കടിച്ചു് മന്ത്രിസ്ഥാനം ഉപേക്ഷിച്ചു. യാത്രക്കൂലി കൂട്ടാഞ്ഞതിന്റെ ഗുണം തെരഞ്ഞെടുപ്പിൽ
+പ്രതിഫലിച്ചില്ലതാനും. മാനംവെടിഞ്ഞും ദേശീയ ജനാധിപത്യ സഖ്യത്തിലേക്കു് തിരിച്ചുവന്നതു തന്നെ റെയിൽവേ
+വകുപ്പു് മോഹിച്ചാണു്. മമതയെ മന്ത്രിസഭയിലെടുക്കാൻ <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+
+ക്കു് മനസ്സാണു്—പക്ഷേ, റെയിൽവേ വകുപ്പു മാത്രം ചോദിക്കരുതു്. അവിടെ <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാനി</ref> യുടെ
+പിന്തുണയോടെ നിതീഷ് തമ്പടിച്ചിരിക്കയാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Deve_Gowda.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദേവഗൗഡ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref> യുടെ
+കാബിനറ്റിൽ റെയിൽവേ വകുപ്പു് കൈയാളിയ <ref target="https://en.wikipedia.org/wiki/Ram_Vilas_Paswan">രാംവിലാസ്
+പാസ്വാനാ</ref> ണു് ആറു് പുതിയ റെയിൽവേ മേഖലകളുണ്ടാക്കാനുള്ള പരിപാടി ആവിഷ്ക്കരിച്ചതു്. ഭുവനേശ്വർ
+കേന്ദ്രമാക്കി കിഴക്കൻ തീര റെയിൽവേ, ഹുബ്ലി ആസ്ഥാനമാക്കി ദക്ഷിണ-പശ്ചിമ റെയിൽവേ, ജബൽപൂരിൽ
+പശ്ചിമ-മധ്യ റെയിൽവേ, അലഹബാദിൽ ഉത്തര-മധ്യ റെയിൽവേ ജയ്പൂരിൽ ഉത്തര-പശ്ചിമ റെയിൽവേ,
+ഹാജിപുർ കേന്ദ്രമാക്കി പൂർവ കേന്ദ്ര റെയിൽവേ (പാസ്വാൻജിയുടെ നിയോജക മണ്ഡലമാണു് ഹാജിപൂർ). <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ഗൗഡ</ref> യുടെയും
+<ref target="https://en.wikipedia.org/wiki/Inder_Kumar_Gujral">ഗുജ്റാലി</ref>
+ന്റെയും മന്ത്രിസഭകൾ അൽപായുസ്സുകയാൽ പാസ്വാനു് ലക്ഷ്യം നേടാനായില്ല. അദ്ദേഹത്തിനു് പിന്നീടൊരിക്കലും
+റെയിൽവേ വകുപ്പു് കിട്ടിയതുമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Hare_Krishna_Konar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹരേകൃഷ്ണ കോനാർ</figDesc>
+          </figure>
+          <p> 2001 മാർച്ച് 15-നു് <ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ ബാനർജി</ref>
+മന്ത്രിസ്ഥാനം ഉപേക്ഷിച്ചുപോയപ്പോഴാണു് <ref target="https://en.wikipedia.org/wiki/Nitish_Kumar">നിതീഷ് കുമാറി</ref> നു്
+റെയിൽവേ വകുപ്പു് തിരിച്ചുകിട്ടിയതു്. പാസ്വാനേക്കാൾ വലിയ ബീഹാറുകാരനാണു് നിതീഷ്. ബംഗാളിലേക്കു്
+അനുവദിച്ച തീവണ്ടികൾ പലതും ബീഹാറിലേക്കു് തിരിച്ചുവിടാൻ പിന്നെ താമസമേതുമുണ്ടായില്ല. മമതാ
+ബാനർജി തിരിച്ചുവന്നിട്ടും റെയിൽവേ വകുപ്പു് തിരിച്ചുകൊടുത്തതുമില്ല. അദ്വാനിജിയുടെ ഉറച്ച പിന്തുണ
+കൂടിയായപ്പോൾ ഒരു കൈപയറ്റാൻതന്നെ തുനിഞ്ഞു. നിതീഷ് ഭയ്യ. ഹാജിപൂർ കേന്ദ്രമാക്കി പൂർവ കേന്ദ്ര
+റെയിൽവേയും ജയ്പൂർ കേന്ദ്രമാക്കി ഉത്തര-പശ്ചിമ റെയിൽവേയും ഒക്ടോബർ 1-നും മറ്റു് നാലു് മേഖലകൾ
+വരുന്ന ഏപ്രിൽ 1-ാം തീയതിയും നിലവിൽ വരും എന്നു് നിതീഷ് പ്രഖ്യാപിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ram_Vilas_Paswan.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാംവിലാസ് പാസ്വാൻ</figDesc>
+          </figure>
+          <p> കേന്ദ്ര തീരുമാനമറിഞ്ഞു് രാജസ്ഥാൻ മുഖ്യമന്ത്രി സന്തോഷം പ്രകടിപ്പിച്ചു. ബീഹാർ മുഖ്യൻ <ref target="https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav">ലാലുപ്രസാദി</ref> നു
+പോലും നിതീഷിനെ അഭിനന്ദിക്കേണ്ടതായി വന്നു. ബി. ജെ. പി.-യുടെ പിന്തുണ ഉറപ്പാക്കിയതിനോടൊപ്പം <ref target="https://ml.wikipedia.org/wiki/N._Chandrababu_Naidu">ചന്ദ്രബാബു
+നായിഡു</ref> വിനെ വശത്താക്കാനും നയകോവിദനായ നിതീഷിനു് സാധിച്ചു. കർണാടക, ഒറീസ
+സംസ്ഥാനങ്ങളും കേന്ദ്രത്തിന്റെ തീരുമാനത്തോടു് യോജിച്ചു. ബംഗാൾ, ബംഗാൾ മാത്രം പ്രതിഷേധിച്ചു. കാരണം,
+കൊൽക്കത്ത ആസ്ഥാനമായുള്ള കിഴക്കൻ റെയിൽവേ വെട്ടിമുറിക്കപ്പെടും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Nitish_Kumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നിതീഷ് കുമാർ</figDesc>
+          </figure>
+          <p> ജുലൈ 30-നു് പാർട്ടി ഭേദമന്യേ ബംഗാളിൽനിന്നുള്ള അംഗങ്ങൾ പാർലമെന്റിൽ ബഹളമുണ്ടാക്കി.
+ലോക്സഭയിൽ കോൺഗ്രസിലെ <ref target="https://en.wikipedia.org/wiki/Priya_Ranjan_Dasmunsi">പ്രിയരഞ്ജൻ ദാസ്
+മുൻഷി</ref> യും രാജ്യസഭയിൽ സി. പി. എമ്മിലെ <ref target="https://en.wikipedia.org/wiki/Sarla_Maheshwari">സരളാ മഹേശ്വരി</ref>
+യുമാണു് പ്രശ്നം ഉന്നയിച്ചതു്. കിഴക്കൻ റെയിൽവേ വെട്ടിമുറിച്ചതു് സങ്കുചിത രാഷ്ട്രീയംവെച്ചാണെന്നും ഇന്ത്യയുടെ
+ഫെഡറലിസത്തോടുള്ള വെല്ലുവിളിയാണെന്നും അവർ ആരോപിച്ചു. ബീഹാറിൽനിന്നും ഒറീസയിൽനിന്നുമുള്ള
+അംഗങ്ങൾ ഏറ്റുപിടിച്ചു; സഭ ബഹളത്തിൽ മുങ്ങി. തൃണമൂൽ കോൺഗ്രസ് അംഗങ്ങൾ വാക്കൗട്ട് നടത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Inder_Kumar_Gujral.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗുജ്റാൽ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ
+ബാനർജി</ref> അക്ഷരാർഥത്തിൽ പൊട്ടിത്തെറിച്ചു: ഇവിടെ ആരാണു് യഥാർഥപ്രധാനമന്ത്രി?
+പ്രധാനമന്ത്രിയുടെ ഓഫീസിനെ നോക്കുകുത്തിയാക്കിയിരിക്കുന്നു. പ്രധാനമന്ത്രിയെത്തന്നെ
+ഒറ്റപ്പെടുത്തിയിരിക്കുന്നു. പ്രധാനമന്ത്രി ബീഹാറുകാരനാണോ? അദ്ദേഹത്തിന്റെ മണ്ഡലം ഇന്ത്യ
+മുഴുവനുമായിരിക്കണം. കിഴക്കൻ റെയിൽവേ വെട്ടിമുറിച്ചതു് 1905-ലെ ബംഗാൾ വിഭജനത്തേക്കാൾ, 1947-ലെ
+ഇന്ത്യാ വിഭജനത്തേക്കാൾ നീചമാണു്. <ref target="https://ml.wikipedia.org/wiki/George_Fernandes">ജോർജ്
+ഫെർണാണ്ടസ്</ref> എന്നെ വിളിച്ചു് കേന്ദ്ര മന്ത്രിസഭയിൽ ചേരാൻ ആവശ്യപ്പെട്ടതാണു്. ഞാൻ നിരാകരിച്ചു.
+45 രൂപ വിലയുള്ള പാദരക്ഷകളാണു് ഞാൻ ധരിക്കുന്നതു്. അതിലും വിലകുറഞ്ഞതാണു് എനിക്കു്
+മന്ത്രിസ്ഥാനം…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Priya_Ranjan_Dasmunsi.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രിയരഞ്ജൻ ദാസ് മുൻഷി</figDesc>
+          </figure>
+          <p> റെയിൽവേ നയം പുനഃപരിശോധിക്കാൻ ജൂലൈ 31 മുതൽ 12 ദിവസത്തെ സമയം അനുവദിച്ചു മമതാ ദീദി.
+അല്ലാത്തപക്ഷം ഉപരാഷ്ട്രപതി തെരഞ്ഞെടുപ്പു് തങ്ങൾ ബഹിഷ്ക്കരിക്കുമെന്നും ദേശീയ ജനാധിപത്യ സഖ്യം
+ഉപേക്ഷിക്കാനും മടിക്കില്ലെന്നും ദീദി മുന്നറിയിപ്പു് നൽകി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lalu_Prasad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലാലുപ്രസാദ്</figDesc>
+          </figure>
+          <p> ആഗസ്റ്റ് 5-ാം തീയതി തൃണമൂൽ കോൺഗ്രസ് ബംഗ്ലാ ബന്ദ് നടത്തി. നഗരങ്ങളിൽ ഗതാഗതം തടസ്സപ്പെട്ടു.
+സർക്കാർ ഓഫീസുകളിൽ ഹാജർ നില മോശമായിരുന്നു. ഗ്രാമങ്ങളെ ബന്ദ് ബാധിച്ചില്ല. തോട്ടങ്ങളും ഖനികളും
+തുറമുഖവും പതിവുപോലെ പ്രവർത്തിച്ചു. “ബന്ദുകൊണ്ടു് എന്തു നേടിയെന്നു് അതു് നടത്തിയവർക്കേ
+അറിയൂ”—ബംഗാൾ മുഖ്യമന്ത്രി സഖാവ് <ref target="https://ml.wikipedia.org/wiki/Buddhadeb_Bhattacharjee">ബുദ്ധദേവ്
+ഭട്ടാചാര്യ</ref> ആത്മഗതം ചെയ്തു. ഗോധ്രയിൽ തീവണ്ടിക്കു് തീപ്പിടിച്ചതു് ബോഗിക്കകത്തുനിന്നാണെന്ന
+സത്യം മൂടിവെക്കുന്നതിന്റെ പ്രത്യുപകാരമായാണു് പ്രധാനമന്ത്രിയും ഉപപ്രധാനമന്ത്രിയും കിഴക്കൻ റെയിൽവേ
+വിഭജനത്തിനു് സമ്മതിക്കുന്നതെന്ന ആരോപണം മമത ആവർത്തിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_Fernandes.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ് ഫെർണാണ്ടസ്</figDesc>
+          </figure>
+          <p> ആഗസ്റ്റ് 12-ാം തീയതി നടന്ന ഉപരാഷ്ട്രപതി തെരഞ്ഞെടുപ്പു് തൃണമൂൽ കോൺഗ്രസ് അംഗങ്ങൾ
+ബഹിഷ്ക്കരിച്ചു. അന്നു് മമതയുടെ നേതൃത്വത്തിൽ പാർട്ടി പ്രവർത്തകർ ദൽഹിയിൽ ധർണ നടത്തി. 13-ാം തീയതി
+തൃണമൂൽ കോൺഗ്രസ് എൻ. ഡി. എ. വിട്ടു. കിഴക്കൻ റെയിൽവേ വിഭജന കാര്യത്തിൽ തങ്ങൾക്കു കൂടി
+സ്വീകാര്യമായ തീരുമാനമുണ്ടാകാതെ സഖ്യത്തിലേക്കു് മടക്കമില്ല എന്നാണു് മങ്കയിൻ ശപഥം. എന്നാൽ, ദേശീയ
+ജനാധിപത്യ സഖ്യത്തിനുള്ള പ്രശ്നാധിഷ്ഠിത പിന്തുണ തുടരുകയും ചെയ്യും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chandrababu_Naidu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചന്ദ്രബാബു നായിഡു</figDesc>
+          </figure>
+          <p> ഇന്ത്യാ ഉപഭൂഖണ്ഡത്തിൽ, മറ്റേതൊരു പ്രദേശത്തേക്കാളും സമ്പന്നവും വൈവിധ്യപൂർണ്ണവുമാണു്
+ബംഗാളിന്റെ സാംസ്ക്കാരിക-രാഷ്ട്രീയ ഭൂമിക. ബ്രിട്ടീഷ് സാമ്രാജ്യത്തിന്റെ അസ്തിവാരമുറച്ചതു് ബംഗാളിലായിരുന്നു.
+ഹിന്ദു നവോത്ഥാനത്തിന്റെ കാഹളധ്വനി ആദ്യം മുഴങ്ങിയതും അവിടെനിന്നുതന്നെ. <ref target="https://ml.wikipedia.org/wiki/Ram_Mohan_Roy">റാംമോഹൻ റോയ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Ishwar_Chandra_Vidyasagar">ഈശ്വരചന്ദ്ര
+വിദ്യാസാഗർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Vivekananda">സ്വാമി വിവേകാനന്ദൻ</ref>,
+<ref target="https://en.wikipedia.org/wiki/Michael_Madhusudan_Dutt">മൈക്കൽ
+മധുസൂദൻ ദത്ത്</ref>, <ref target="https://en.wikipedia.org/wiki/Ashutosh_Mukherjee">സർ അശുതോഷ്
+മുഖർജി</ref>, <ref target="https://ml.wikipedia.org/wiki/Jagadish_Chandra_Bose">ജഗദീശ്
+ചന്ദ്രബോസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Meghnad_Saha">മേഘനാഥ സാഹ</ref>, <ref target="https://ml.wikipedia.org/wiki/Rabindranath_Tagore">രബീന്ദ്രനാഥ
+ടാഗോർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Kazi_Nazrul_Islam">നസ്രുൾ ഇസ്ലാം</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Bankim_Chandra_Chattopadhyay">ബങ്കിംചന്ദ്ര
+ചാറ്റർജി</ref>, <ref target="https://ml.wikipedia.org/wiki/Tarashankar_Bandopadhyaya">താരാശങ്കർ
+ബാനർജി</ref>, <ref target="https://ml.wikipedia.org/wiki/Nandalal_Bose">നന്ദലാൽ ബോസ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Jamini_Roy">ജമിനി റോയ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Ram_Kinker_Baij">രാംകിങ്കർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Satyajit_Ray">സത്യജിത് റായ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Ritwik_Ghatak">ഋത്വിക് ഘട്ടക്</ref>, <ref target="https://ml.wikipedia.org/wiki/Pankaj_Mullick">പങ്കജ് മല്ലിക്</ref>, <ref target="https://ml.wikipedia.org/wiki/Salil_Chowdhury">സലിൽ ചൗധരി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Amartya_Sen">അമർത്യ
+സെൻ</ref>—അങ്ങനെ എത്രയോ പ്രതിഭാധനർ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/BuddhadebBabu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബുദ്ധദേവ് ഭട്ടാചാര്യ</figDesc>
+          </figure>
+          <p> ദേശീയ പ്രസ്ഥാനത്തിനു് ബംഗാളിന്റെ സംഭാവന പരിശോധിച്ചാലോ? <ref target="https://ml.wikipedia.org/wiki/Surendranath_Banerjee">സുരേന്ദ്രനാഥ
+ബാനർജി</ref> യെപ്പോലെയും <ref target="https://ml.wikipedia.org/wiki/Chittaranjan_Das">ചിത്തരഞ്ജൻ
+ദാസി</ref> നെപ്പോലെയുള്ള മിതവാദികൾ, <ref target="https://ml.wikipedia.org/wiki/Bipin_Chandra_Pal">ബിപിൻ
+ചന്ദ്രപാൽ</ref>, <ref target="https://ml.wikipedia.org/wiki/Subhash_Chandra_Bose">സുഭാഷ്ചന്ദ്ര
+ബോസ്</ref> തുടങ്ങിയ തീവ്രവാദികൾ, <ref target="https://ml.wikipedia.org/wiki/Rash_Behari_Bose">റാഷ് ബിഹാരി
+ബോസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Sri_Aurobindo">അരവിന്ദഘോഷ്</ref>
+മുതലായ ഉഗ്രവാദികൾ പിന്നെ <ref target="https://ml.wikipedia.org/wiki/Surya_Sen">സൂര്യസെൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Khudiram_Bose">ഖുദിറാം ബോസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Pritilata_Waddedar">പ്രീതിലത</ref>
+എന്നിങ്ങനെ അത്യുഗ്രവാദികൾ. മുസ്ലീംലീഗിൽ ഫസലുൾഹഖ്, എസ്. എച്ച്. സുഹ്രവർദി; ഹിന്ദു മഹാസഭയുടെ
+പരമോന്നത നേതാവും ഭാരതീയ ജനസംഘത്തിന്റെ സ്ഥാപകനുമായിരുന്ന <ref target="https://en.wikipedia.org/wiki/Syama_Prasad_Mukherjee">ശ്യാമപ്രസാദ്
+മുഖർജി</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Harry_Pollitt.png" rendition="gra"/>
+            <figDesc style="thumb">ഹാരി പോളിറ്റ്</figDesc>
+          </figure>
+          <p> ബംഗാളിന്റെ ചുവപ്പൻ പാരമ്പര്യവും ഉജ്വലമാണു്. ഭരണഘടനാ അസംബ്ലിയിലെ ഏക കമ്യൂണിസ്റ്റ് അംഗം
+ബംഗാളിൽനിന്നായിരുന്നു—<ref target="https://en.wikipedia.org/wiki/Somnath_Lahiri">സോമനാഥ് ലാഹിരി</ref>.
+പിന്നീടു് ഭൂപേശ് ഗുപ്ത, ഹിരൺ മുഖർജി, <ref target="https://en.wikipedia.org/wiki/Indrajit_Gupta">ഇന്ദ്രജിത് ഗുപ്ത</ref>, <ref target="https://en.wikipedia.org/wiki/Jyotirmoy_Basu">ജ്യോതിർമയി ബസു</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Somnath_Chatterjee">സോമനാഥ
+ചാറ്റർജി</ref> എന്നിങ്ങനെ അതിപ്രഗല്ഭരായ പാർലമെന്റേറിയന്മാരുടെ നിരതന്നെയുണ്ടായി. അവിഭക്ത
+കമ്യൂണിസ്റ്റ് പാർട്ടി ജനറൽ സെക്രട്ടറിയായിരുന്ന അജയ് ഘോഷ്, അതുല്യനായ സംഘാടകൻ പ്രമോദ് ദാസ്
+ഗുപ്ത. <ref target="https://en.wikipedia.org/wiki/Hare_Krishna_Konar">ഹരേകൃഷ്ണ
+കോനാർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Samar_mukherjee">സമർ മുഖർജി</ref>,
+ജതിൻ ചക്രവർത്തി തുടങ്ങി പിന്നെയും എത്രയോ നേതാക്കൾ. വസന്തത്തിന്റെ ഇടിമുഴക്കത്തിനു്
+കാതോർത്തവർ—<ref target="https://ml.wikipedia.org/wiki/Charu_Majumdar">ചാരു മജുംദാർ</ref>,
+കനുസന്യാൽ—വേറെയും ഇതൊക്കെയാണെങ്കിലും</p>
+          <lg>
+            <l> നക്ഷത്രതാരാഗ്രഹസംകുലാപി </l>
+            <l> ജ്യോതിഷ്മതീ ചന്ദ്രമസൈവ രാത്രിഃ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന കവിവചനം അന്വർഥമാകുന്നതു് മറ്റൊരാളുടെ കാര്യത്തിലാണു്—<ref target="https://ml.wikipedia.org/wiki/Jyoti_Basu">ജ്യോതി ബസു</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sir_Asutosh_Mukharji.jpg" rendition="gra"/>
+            <figDesc style="thumb">സർ അശുതോഷ് മുഖർജി</figDesc>
+          </figure>
+          <p> 1914 ജൂലൈ 8-ാം തീയതി കൊൽക്കത്തയിലാണു് ബസുവിന്റെ ജനനം. പിതാവു് അതീവ സമ്പന്നനായ
+ഭിഷഗ്വരൻ, ബംഗാളി ഭദ്രാലോകിന്റെ യഥാർഥ പ്രതിനിധി. ജെസ്യൂട്ടു പാതിരിമാർ നടത്തിയിരുന്ന
+സ്കൂളിലായിരുന്നു പ്രാഥമിക വിദ്യാഭ്യാസം; ഉപരിപഠനം പിതാവിന്റെ അന്തസ്സിനൊത്തവിധം ഇംഗ്ലണ്ടിൽ. മിഡിൽ
+ടെമ്പിളിൽനിന്നു് ബാർ-അറ്റ് ലോ പാസായ ബസുവിനു് കൊൽക്കത്താ ഹൈക്കോടതിയിൽ പ്രാക്ടീസ്
+ചെയ്യാമായിരുന്നു. അല്ലെങ്കിൽ സിവിൽ സർവീസിൽ പ്രവേശിക്കാമായിരുന്നു. അദ്ദേഹത്തിനു പക്ഷേ,
+രാഷ്ട്രീയത്തിലാണു് കമ്പം കയറിയതു്—അതും കമ്യൂണിസ്റ്റ് പാർട്ടിയിൽ. കോൺഗ്രസുകാരായി, പിന്നെ
+കോൺഗ്രസ് സോഷ്യലിസ്റ്റായി ഏറ്റവുമൊടുവിൽ കമ്യൂണിസ്റ്റുകാരായവരാണു് നമ്മുടെ <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസും</ref> <ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ. ജി.</ref>-യും <ref target="https://ml.wikipedia.org/wiki/K.C._George">കെ. സി. ജോർജു</ref>
+മൊക്കെ. എന്നാൽ, <ref target="https://ml.wikipedia.org/wiki/Jyoti_Basu">ജ്യോതിബസു</ref> അങ്ങനെയല്ല.
+<ref target="https://en.wikipedia.org/wiki/Harry_Pollitt">ഹാരി പോളിറ്റും</ref>
+രജനീ പാമേദത്തും കത്തിനിന്ന ബ്രിട്ടീഷ് കമ്യൂണിസ്റ്റ് പാർട്ടിയിലായിരുന്നു ബസുവിന്റെ അരങ്ങേറ്റം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/SahaInBerlin.jpg" rendition="gra"/>
+            <figDesc style="thumb">മേഘനാഥ സാഹ</figDesc>
+          </figure>
+          <p> 1946-ൽ ബംഗാൾ നിയമസഭാംഗമായയാളാണു് ജ്യോതിബസു. അതിഭയങ്കരമായ കള്ളവോട്ടും
+ബൂത്തുപിടിത്തവും നടന്ന 1972-ലൊഴിച്ചു്, 1996 വരെ എല്ലാ തെരഞ്ഞെടുപ്പിലും വിജയിച്ചു. 1952–67 കാലത്തു്
+പ്രതിപക്ഷ നേതാവു്, 1967–71 കാലഘട്ടത്തിൽ ഉപമുഖ്യമന്ത്രി, 1977 മുതൽ 2000 വരെ മുഖ്യമന്ത്രി, തുടർച്ചയായി
+അഞ്ചു് തെരഞ്ഞെടുപ്പുകളിൽ ഇടതുമുന്നണിയെ നയിച്ചു. അഞ്ചിലും വൻ വിജയം നേടുകയും ചെയ്തു. 1996-ൽ
+പ്രധാനമന്ത്രി സ്ഥാനത്തിന്റെ വക്കോളമെത്തി ജ്യോതിബസു. ദേശീയ മുന്നണി കക്ഷികൾക്കൊക്കെ
+അഭിമതനായിരുന്നെങ്കിലും സ്വന്തം പാർട്ടിക്കാർ പാരപണിതു. അത്രയ്ക്കായോ ജ്യോതിബസു എന്നു് സഖാവു്
+നമ്പൂതിരിപ്പാടിനു് തോന്നി. അതുതന്നെ സുർജിതിനും തോന്നി. ബസുവിന്റെ കാര്യം കുന്തം. ‘ചരിത്രപരമായ
+വിഡ്ഢിത്തം’ എന്ന വളരെ പാർലമെന്ററിയായ പദപ്രയോഗത്തിലൊതുങ്ങി ബസുവിന്റെ പ്രതികരണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Michael_Madhusudan_Dutta.jpg" rendition="gra"/>
+            <figDesc style="thumb">മൈക്കൽ മധുസൂദൻ ദത്ത്</figDesc>
+          </figure>
+          <p> പശ്ചിമബംഗാളിനെ മാർക്സിസ്റ്റ് ദുർഭരണത്തിൽനിന്നു് മോചിപ്പിക്കാൻ ഇന്ദിരാജിയും മകൻ രാജീവും
+ശ്രമിക്കാഞ്ഞിട്ടല്ല. 1980-ലെ ഇന്ദിരാതരംഗം ബംഗാളിൽ ഏശിയില്ല. 1984-ലെ സഹതാപ തരംഗവും തഥൈവ.
+1987-ലെ നിയമസഭാ തെരഞ്ഞെടുപ്പു വേളയിൽ <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ് ഗാന്ധി</ref>
+ബംഗാളിൽച്ചെന്നു് കാടിളക്കി: “ജ്യോതിബസുവിനു് വയസ്സ് 73 ആയില്ലേ, ഇനി മാറിക്കൂടേ? യുവാക്കൾക്കും
+ഒരവസരം കിട്ടട്ടെ.” 1972–77 കാലത്തെ കോൺഗ്രസ് ഭരണത്തിന്റെ മധുരസ്മരണകൾ വോട്ടർമാരുടെ
+മനസ്സിൽനിന്നു് മാഞ്ഞിരുന്നില്ല എന്നു് ഫലം വ്യക്തമാക്കി. സി. പി. എമ്മിനു് കിട്ടിയതു് 187 സീറ്റ്,
+ഘടകകക്ഷികൾക്കെല്ലാം കൂടി 64; കോൺഗ്രസിനു് 40, എസ്. യു. സി. ഐ.-ക്കു് 2, മുസ്ലീംലീഗിനു് 1 മിക്കവാറും
+എല്ലാ തെരഞ്ഞെടുപ്പിലും വോട്ടിന്റെ ശതമാനവും സീറ്റുകളുടെ എണ്ണവും മാറ്റമില്ലാതെ തുടർന്നു. ബംഗാൾ
+കീഴടക്കാമെന്ന വ്യാമോഹമൊന്നും <ref target="https://ml.wikipedia.org/wiki/P._V._Narasimha_Rao">നരസിംഹറാവു</ref>
+വോ <ref target="https://en.wikipedia.org/wiki/Sitaram_Kesri">സീതാറാം
+കേസരി</ref> യോ വെച്ചുപുലർത്തിയിരുന്നുമില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Jaminiroy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജമിനി റോയ്</figDesc>
+          </figure>
+          <p> കോൺഗ്രസിൽ നേതാക്കൾക്കു് ഒരു ക്ഷാമവുമില്ല. <ref target="https://ml.wikipedia.org/wiki/Siddhartha_Shankar_Ray">സിദ്ധാർഥ ശങ്കർ
+റായേ</ref> പ്പോലെ സടകൊഴിഞ്ഞ സിംഹങ്ങൾ, <ref target="https://ml.wikipedia.org/wiki/Pranab_Mukherjee">പ്രണബ് മുഖർജി</ref>
+യെപ്പോലെ പല്ലില്ലാത്ത വ്യാഘ്രങ്ങൾ, ഇരുന്നിടത്തുനിന്നെഴുന്നേൽക്കാൻ പരസഹായം വേണ്ട ഗനിഖാൻ
+ചൗധരിയെപ്പോലുള്ള കൊലകൊമ്പന്മാർ, പിന്നെ <ref target="https://en.wikipedia.org/wiki/Somen_Mitra">സോമൻ മിത്ര</ref> യെയും
+<ref target="https://en.wikipedia.org/wiki/Priya_Ranjan_Dasmunsi">പ്രിയരഞ്ജൻ
+ദാസ് മുൻഷി</ref> യെയും പോലുള്ള ഭല്ലൂകങ്ങൾ. എത്ര നേതാക്കന്മാരുണ്ടോ അത്രയും ഗ്രൂപ്പുമുണ്ടു്. ഓരോ
+ഗ്രൂപ്പിന്റെയും മുഖ്യലക്ഷ്യം എതിർ ഗ്രൂപ്പുകൾക്കു് പാരപണിയുക; ഏക പരിപാടി ഹൈക്കമാന്റിനെ പ്രീണിപ്പിക്കുക.
+ഈ ദുഃസ്ഥിതിക്കെതിരെ പടവെട്ടിയ ഒറ്റയാൾ പട്ടാളം—<ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ ബാനർജി</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Bankim_chandra_chatterjee.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബങ്കിംചന്ദ്ര ചാറ്റർജി</figDesc>
+          </figure>
+          <p> 1955 ജനുവരി 5-ാം തീയതി കൊൽക്കത്തയിലാണു് മമതയുടെ ജനനം. കൊൽക്കത്ത
+സർവകലാശാലയിൽനിന്നു് എം. എ., ബി. എഡ്., എൽ. എൽ. ബി. ബിരുദങ്ങൾ നേടി. യൂത്ത് കോൺഗ്രസിലൂടെ
+രാഷ്ട്രീയത്തിൽ പ്രവേശിച്ചു. 1980-ലെ പിളർപ്പുകാലത്തു് ഇന്ദിരാ പക്ഷത്തു് നിന്നു. മഹിളാ കോൺഗ്രസിന്റെ
+സംസ്ഥാന ജനറൽ സെക്രട്ടറിയാലായിരുന്നു. പുത്തരിയങ്കം. അത്തവണ തെരഞ്ഞെടുപ്പു് ഗോദയിൽ
+മലർന്നടിച്ചുവീണതു് സി. പി. എമ്മിന്റെ ഹെവിവെയിറ്റ് താരം <ref target="https://ml.wikipedia.org/wiki/Somnath_Chatterjee">സോമനാഥ്
+ചാറ്റർജി</ref>. മാർക്സിസ്റ്റുകാർ ഞെട്ടി. കോൺഗ്രസുകാരും ഞെട്ടി. അങ്ങനെ മമത എന്ന താരം ഉദിച്ചു.
+പാർലമെന്റിനകത്തും പുറത്തും മമത മാർക്സിസ്റ്റുകാർക്കെതിരെ തീതുപ്പി. 1987-ൽ അവർ അഖിലേന്ത്യാ യൂത്ത്
+കോൺഗ്രസ് ജനറൽ സെക്രട്ടറിയായി നാമനിർദേശം ചെയ്യപ്പെട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ramkinkar_Baij.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാംകിങ്കർ</figDesc>
+          </figure>
+          <p> 1989-ലെ തെരഞ്ഞെടുപ്പിൽ <ref target="https://ml.wikipedia.org/wiki/Somnath_Chatterjee">സോമനാഥ്
+ചാറ്റർജി</ref> ജാദവ്പൂരിൽ നിന്നില്ല. സഖാവു് കൂടുതൽ സുരക്ഷിതമായ ഭോൽപൂരിൽ ചേക്കേറി. അത്തവണ
+മമതാ ബാനർജി സി. പി. എമ്മിലെ <ref target="https://ml.wikipedia.org/wiki/Malini_bhattacharya">മാലിനി
+ഭട്ടാചാര്യ</ref> യോടു് തോറ്റു. തെരഞ്ഞെടുപ്പു് പരാജയംകൊണ്ടും അവരുടെ പെരുമാറ്റത്തിനു് മയമുണ്ടായില്ല.
+വാക്കുകളുടെ മൂർച്ചയും കുറഞ്ഞില്ല. 1990-ൽ സംസ്ഥാന യൂത്ത് കോൺഗ്രസ് അധ്യക്ഷയായി. 1991-ലെ
+തെരഞ്ഞെടുപ്പാകുമ്പോഴേക്കും മമതയും ജാദവ്പൂർ ഉപേക്ഷിച്ചു. അവർ കൊൽക്കത്ത സൗത്തിൽ അങ്കംകുറിച്ചു.
+സഹതാപതരംഗത്തിന്റെ സഹായമില്ലാതെതന്നെ (രാജീവ്ഗാന്ധി കൊല്ലപ്പെടുംമുമ്പുതന്നെ ബംഗാളിൽ
+പോളിംഗ് കഴിഞ്ഞിരുന്നു) നല്ല ഭൂരിപക്ഷം നേടി വിജയിച്ചു. 1991–93 കാലത്തു് മാനവശേഷി വകുപ്പിൽ സ്പോർട്സ്
+യുവജനക്ഷേമ വകുപ്പുകളുടെ ചുമതലയോടെ സഹമന്ത്രിയായി പ്രവർത്തിച്ചു. 1996-ൽ കൊൽക്കത്ത
+സൗത്തിൽനിന്നുതന്നെ വീണ്ടും പാർലമെന്റിലേക്കു് ജയിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Nazrul.jpg" rendition="gra"/>
+            <figDesc style="thumb">നസ്രുൾ ഇസ്ലാം</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Vijaya_Lakshmi_Pandit">വിജയലക്ഷ്മി
+പണ്ഡിറ്റ്</ref> മുതൽ <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജാ
+വേണുഗോപാൽ</ref> വരെയുള്ള കോൺഗ്രസ് വനിതാ നേതാക്കളിൽനിന്നൊക്കെ വ്യത്യസ്തയാണു് <ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ ബാനർജി</ref>.
+ഏതെങ്കിലും നേതാവിന്റെ മകൾ/സഹോദരി/ഭാര്യ എന്നീ നിലക്കു് നേതാക്കളായവരാണു് അധികം പേരും.
+മമതയാണെങ്കിൽ അവിവാഹിത, ഏകാന്തപഥിക കൊൽക്കത്തയിലെ ഹരീഷ് ചാറ്റർജി സ്ട്രീറ്റിലെ കൊച്ചുവീട്ടിൽ
+ഒറ്റക്കു് താമസിക്കുന്നു. ഏറ്റവും നിരാർഭാടവും ലളിതവുമായ ജീവിതം. കൈയിൽ വളയില്ല. കാലിൽ കൊലുസില്ല.
+മെയ്യിലലങ്കാരമൊന്നുമില്ല, നെറ്റിയിലൊരു സിന്ദൂരപ്പൊട്ടുപോലും പതിവില്ല. സൗന്ദര്യസംവർധക വസ്തുക്കളുടെയും
+സുഗന്ധ തൈലങ്ങളുടെയും കാര്യം പറയാനുമില്ല. പരുക്കൻ ഖദർസാരിയാണു് വേഷം. അതും വെള്ളമാത്രം,
+നിറപ്പകിട്ടു് പാടില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ritwik_Ghatak.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഋത്വിക് ഘട്ടക്</figDesc>
+          </figure>
+          <p> ബംഗാളിലെ കമ്യൂണിസ്റ്റ് ഭരണം പിഴുതെറിയണം, ചുവപ്പന്മാരെ പിതൃഭൂമിയായ ചൈനയിലേക്കയക്കണം
+എന്നതാണു് മമതയുടെ ജീവിതലക്ഷ്യം. എന്തുചെയ്യാം? ബംഗാളിലെ ഒരു കോൺഗ്രസ് നേതാവിനുമില്ല
+ഇക്കാര്യത്തിൽ നിർബന്ധബുദ്ധി. 1996-ൽ മാർക്സിസ്റ്റ് പിന്തുണയോടെ കേന്ദ്രത്തിൽ ഐക്യമുന്നണി
+സർക്കാറുണ്ടാക്കിയതോടെ മമതക്കു് ഈർഷ്യ വർധിച്ചു. മാർക്സിസ്റ്റുകാർ പിന്തുണക്കുന്നതും സി. പി. ഐ.
+പങ്കാളിത്തം വഹിക്കുന്നതുമായ സർക്കാറിനു് കോൺഗ്രസ് പിന്തുണ നൽകുകയോ? ഒരിക്കലും പാടില്ല. 1997
+ജൂലൈ 21-നു് മമതയുടെ ഗ്രൂപ്പുകാർ കൊൽക്കത്തയിൽ അതിഗംഭീരമായ റാലി നടത്തി. പി. സി. സി. പ്രസിഡന്റ്
+<ref target="https://en.wikipedia.org/wiki/Somen_Mitra">സോമൻ മിത്ര</ref> യെ
+ഉള്ളഴിഞ്ഞു് പ്രോൽസാഹിപ്പിച്ചിരുന്ന <ref target="https://en.wikipedia.org/wiki/Sitaram_Kesri">സീതാറാം കേസരി</ref>
+ക്കുള്ള താക്കീതായിരുന്നു അതു്. കേസരി ദൂതന്മാരായി <ref target="https://en.wikipedia.org/wiki/Jitendra_Prasada">ജിതേന്ദ്ര പ്രസാദി</ref>
+നെയും <ref target="https://en.wikipedia.org/wiki/Ahmed_Patel">അഹമ്മദ്
+പട്ടേലി</ref> നെയും അയച്ചു. ഫലമുണ്ടായില്ല. ക്വിറ്റിന്ത്യാ ദിനമായ ആഗസ്റ്റ് 8-നു് അഖിലേന്ത്യാ തൃണമൂൽ
+കോൺഗ്രസ് പിറന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/SirSurendranathBanerjee.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുരേന്ദ്രനാഥ ബാനർജി</figDesc>
+          </figure>
+          <p> കേസരിയുടെ സ്ഥാനത്തു് <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയ</ref> വന്നിട്ടും മമത
+വഴങ്ങിയില്ല. 1998-ലെ ഇടക്കാല തെരഞ്ഞെടുപ്പിൽ തൃണമൂൽ കോൺഗ്രസ് ബി. ജെ. പി.-യുമായി
+ധാരണയുണ്ടാക്കി. തൃണമൂൽ കോൺഗ്രസിനുള്ള മുസ്ലീം പിന്തുണയെ ബി. ജെ. പി. ബാന്ധവം പ്രതികൂലമായി
+ബാധിച്ചാലോ എന്ന ഭയംകൊണ്ടാണു് പരസ്യമായ സഖ്യമുണ്ടാക്കാത്തതു്. ഏതായാലും സംഗതി ഏറ്റു. തൃണമൂൽ
+കോൺഗ്രസ് ഏഴിടത്തും ബി. ജെ. പി. ഒന്നിലും വിജയിച്ചു. ഇടതുമുന്നണിക്കു് 33 സീറ്റ് കിട്ടി; എ. ബി. എ. ഗനിഖാൻ
+ചൗധരി മാൾഡ സീറ്റ് നിലനിറുത്തിയതായിരുന്നു സോണിയാ കോൺഗ്രസിന്റെ ആശ്വാസ ജയം. കൊൽക്കത്ത
+സൗത്തിൽ <ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ
+ബാനർജി</ref> പുഷ്പം പോലെ ജയിച്ചു. തൃണമൂൽ നേതാക്കളായ <ref target="https://en.wikipedia.org/wiki/Sudip_Bandyopadhyay">സുദീപ്
+ബന്ദോപാധ്യായ</ref> കൊൽക്കത്ത നോർത്ത്വെസ്റ്റിലും <ref target="https://en.wikipedia.org/wiki/Ajit_Kumar_Panja">അജിത് പാഞ്ച</ref>
+കൊൽക്കത്ത നോർത്ത് ഈസ്റ്റിലും വിക്രം സർക്കാർ ഹൗറയിലും വെന്നിക്കൊടി നാട്ടി. ജാദവ്പൂരിൽ
+കൃഷ്ണബോസ് (തൃണമൂൽ) വിജയിച്ചു. <ref target="https://en.wikipedia.org/wiki/Syama_Prasad_Mukherjee">ശ്യാമപ്രസാദ്
+മുഖർജി</ref> ക്കു് (1952) ശേഷം ഒരു ജനസംഘക്കാരൻ ബംഗാളിൽനിന്നു് ലോക്സഭയിലെത്തി. ബി. ജെ. പി.
+
+സംസ്ഥാന അധ്യക്ഷൻ തപൻ സിക്ദാർ 1.36 ലക്ഷം വോട്ടിന്റെ ഭൂരിപക്ഷത്തൊടെയാണു് ഡംഡം
+മണ്ഡലത്തിൽനിന്നു് സിക്ദാർ വിജയിച്ചതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Pritilata_Waddedar.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രീതിലത</figDesc>
+          </figure>
+          <p> തൃണമൂൽ കോൺഗ്രസ് മന്ത്രിസഭയിൽ ചേരുകയുണ്ടായില്ല. (റെയിൽവേ വകുപ്പു കിട്ടിയാൽ ചേരാം എന്ന
+അഭിപ്രായം പിന്നീടുണ്ടായി എങ്കിലും) ഗുജറാത്തിൽ ക്രിസ്ത്യാനികൾക്കുനേരെ നടന്ന അക്രമങ്ങളിലും
+ഗ്രഹാംസ്റ്റെയിൻസിനെ ചുട്ടുകൊന്ന പ്രശ്നത്തിലുമൊക്കെ മമത കഠിനമായി പ്രതിഷേധിച്ചു. വനിതാ
+സംവരണബിൽ പാസാക്കുന്നതിലുള്ള അലംഭാവത്തെ അപലപിച്ചു. (ബിൽ കീറിയെറിയാൻ തുനിഞ്ഞ
+ആർ. ജെ. ഡി. അംഗത്തെ കൈയേറ്റം ചെയ്യാനും മടിച്ചില്ല). റിതാവർമ്മയെ ഡെപ്യൂട്ടി സ്പീക്കർ സ്ഥാനത്തേക്കു
+ബി. ജെ. പി. നിർദ്ദേശിച്ചപ്പോൾ ചെറുത്തുതോൽപിച്ചതും കോൺഗ്രസിലെ <ref target="https://en.wikipedia.org/wiki/P._M._Sayeed">പി. എം. സയീദി</ref> നു്
+തൽസ്ഥാനം നേടിക്കൊടുത്തതും മമതാ ബാനർജി തന്നെ. ഇതൊക്കെയാണെങ്കിലും പ്രധാന
+പ്രശ്നങ്ങളിലൊക്കെ അവർ <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+യെ പിന്താങ്ങി. അവിശ്വാസ പ്രമേയ ചർച്ചാ വേളയിലും തൃണമൂൽ കോൺഗ്രസ് ബി. ജെ. പി.-ക്കൊപ്പം ഉറച്ചു
+നിന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ahmed_Patel.jpg" rendition="gra"/>
+            <figDesc style="thumb">അഹമ്മദ് പട്ടേൽ</figDesc>
+          </figure>
+          <p> 1999-ലെ തെരഞ്ഞെടുപ്പാകുമ്പോഴേക്കും തൃണമൂൽ കോൺഗ്രസ് ദേശീയ ജനാധിപത്യ സഖ്യത്തിൽ പൂർണ
+അംഗമായി. തെരഞ്ഞെടുപ്പുഫലം വളരെ പ്രോൽസാഹനജനകമായിരുന്നു. ഇടതുമുന്നണിയുടെ സീറ്റുകൾ 29
+ആയി കുറഞ്ഞു. തൃണമൂലിന്റേതു് എട്ടും ബി. ജെ. പി.-യുടേതു് രണ്ടും കോൺഗ്രസിന്റേതു മൂന്നുമായി വർധിച്ചു.
+പശ്ചിമബംഗാളിലെ ഏറ്റവും ഉയർന്ന ഭൂരിപക്ഷമാണു് കൊൽക്കത്താ സൗത്തിൽ മമതാ ബാനർജിക്കു
+ലഭിച്ചതു്—2.14 ലക്ഷം. ഇടതുമുന്നണിയുടെ സീറ്റുകളിൽ മാത്രമല്ല. ഭൂരിപക്ഷത്തിലും കുറവുണ്ടായി. 1998-ൽ
+മിഡ്നാപൂരിൽനിന്നു് 2,75,419 വോട്ടിനു ജയിച്ച <ref target="https://en.wikipedia.org/wiki/Indrajit_Gupta">ഇന്ദ്രജിത് ഗുപ്ത</ref> ക്കു്
+1999-ൽ 28,773 വോട്ടിന്റെ ഭൂരിപക്ഷമേ കിട്ടിയുള്ളൂ. പാൻസ്കുരയിൽ <ref target="https://en.wikipedia.org/wiki/Geeta_Mukherjee">ഗീതാ മുഖർജി</ref> യുടെ
+ഭൂരിപക്ഷം 1,79,543-ൽ നിന്നു് 46,858 ആയി കുറഞ്ഞു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chittaranjan_Das.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചിത്തരഞ്ജൻ ദാസ്</figDesc>
+          </figure>
+          <p> ഗീതാ മുഖർജിയുടെ മരണത്തെത്തുടർന്നു് 2000 ജൂൺ ആറാം തീയതി നടന്ന പാൻസ്കുര ഉപതെരഞ്ഞെടുപ്പിൽ
+തൃണമൂൽ കോൺഗ്രസിലെ വിക്രം സർക്കാർ സി. പി. ഐ. നേതാവു് <ref target="https://en.wikipedia.org/wiki/Gurudas_Dasgupta">ഗുരുദാസ് ദാസ്
+ഗുപ്ത</ref> യെ മുട്ടുകുത്തിച്ചു. കോൺഗ്രസ് സ്ഥനാർഥിയുടെ ജാമ്യസംഖ്യ പൊതുഖജനാവിലേക്കു
+മുതൽക്കൂട്ടായി. തൃണമൂലിനു ജയസാധ്യതയുള്ള സ്ഥലങ്ങളിൽ കോൺഗ്രസ് പ്രവർത്തകർ വോട്ടുമറിക്കുന്ന
+പ്രവണത 1999-ലെ തെരഞ്ഞെടുപ്പിലും പ്രകടമായിരുന്നു. കൊൽക്കത്ത നോർത്ത്വെസ്റ്റിൽ <ref target="https://en.wikipedia.org/wiki/Sudip_Bandyopadhyay">സുദീപ്
+ബന്ദോപാധ്യായ</ref> ജയിച്ചപ്പോൾ ജാമ്യസംഖ്യ നഷ്ടമായതു് സിദ്ധാർഥ ശങ്കർറായിക്കായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sudip_Bandyopadhyay.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുദീപ് ബന്ദോപാധ്യായ</figDesc>
+          </figure>
+          <p> പാൻസ്കുരക്കു തൊട്ടുമുമ്പു് കോൺഗ്രസിനുമേൽ മമത നിർണായകമായ മറ്റൊരു വിജയം നേടിയിരുന്നു.
+മാർച്ച് 29-നു നടന്ന രാജ്യസഭാ തെരഞ്ഞെടുപ്പിൽ തൃണമൂൽ സ്ഥാനാർഥി <ref target="https://en.wikipedia.org/wiki/Jayanta_Bhattacharya">ജയന്തോ
+ഭട്ടാചാര്യ</ref> കോൺഗ്രസിലെ ദേവപ്രസാദ് റോയിയെ അട്ടിമറിച്ചു. 69 അംഗ കോൺഗ്രസ് നിയമസഭാ
+കക്ഷിയിലെ 33 പേർ വോട്ടുമാറ്റി കുത്തി. അട്ടിമറിക്കു ചൂട്ടുപിടിച്ചതു് പി. സി. സി. തലവൻ സോമൻമിത്ര
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Charu_Majumder.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചാരു മജുംദാർ</figDesc>
+          </figure>
+          <p> തീവണ്ടിക്കൂലി കൂട്ടാതെയും പെട്രോൾ വില ഉയർത്തുമ്പോൾ രാജിഭീഷണി മുഴക്കിയും മാർക്സിസ്റ്റ് പാർട്ടിയെ
+കഠിനമായി വിമർശിച്ചും മമതാ ബാനർജി പിടിമുറുക്കുന്നതു് സഖാക്കൾ കാണുന്നുണ്ടായിരുന്നു.
+തെരഞ്ഞെടുപ്പടുക്കുമ്പോഴേക്കും തൃണമൂൽ കോൺഗ്രസിലേക്കു് സ്ഥാനമോഹികൾ ഇരച്ചുകയറുകയും സോണിയാ
+കോൺഗ്രസ് 1996-ൽ തമിഴ്‌നാട്ടിലെന്ന പോലെ തുടച്ചുനീക്കപ്പെടുകയും ചെയ്യും എന്നതും സ്പഷ്ടമായിരുന്നു.
+നിർണായകമായ ആ ദശാസന്ധിയിൽ സഖാവ് <ref target="https://ml.wikipedia.org/wiki/Jyoti_Basu">ജ്യോതിബസു</ref>
+സ്ഥാനമൊഴിയാൻ തീരുമാനിച്ചു. പ്രായാധിക്യവും അനാരോഗ്യവും നിമിത്തം അദ്ദേഹം
+അവശനായിക്കഴിഞ്ഞിരുന്നു. ലോക്സഭയിലെ കക്ഷിനേതാവു് <ref target="https://ml.wikipedia.org/wiki/Somnath_Chatterjee">സോമനാഥ്
+ചാറ്റർജി</ref>, ധനകാര്യമന്ത്രി അഷിംഗ് ദാസ് ഗുപ്ത, ഭൂപരിഷ്കരണമന്ത്രി സൂര്യകാന്ത് മിശ്ര എന്നിവരൊക്കെ
+ഭൈമീകാമുകരായി ഉണ്ടായിരുന്നെങ്കിലും ആഭ്യന്തരമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Buddhadeb_Bhattacharjee">ബുദ്ധദേവ്
+ഭട്ടാചാര്യ</ref> യാണു് ബസുവിന്റെ പിൻഗാമിയായി തെരഞ്ഞെടുക്കപ്പെട്ടതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Geeta_Mukherjee.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗീതാ മുഖർജി</figDesc>
+          </figure>
+          <p> ബസുവിനേക്കാൾ 30 വയസ്സിനു് ഇളപ്പമുണ്ടു് ഭട്ടാചാര്യക്കു്. ജ്യോതി കായസ്ഥനെങ്കിൽ ബുദ്ധദേവ്
+ബ്രാഹ്മണൻ. ബംഗാളി സാഹിത്യത്തിൽ ബിരുദാനന്തര ബിരുദധാരി, നാടകകൃത്തു്, ബുദ്ധിജീവി, തികച്ചും
+ഗൗരവക്കാരൻ, സത്യസന്ധൻ, ലളിതജീവിതത്തിനു പേരുകേട്ട വ്യക്തി, ഏതുനിലക്കും മമതാ ബാനർജിക്കൊത്ത
+എതിരാളി. പാർട്ടിക്കകത്തെ വിമതരെയൊക്കെ ഒതുക്കി മൂലക്കിരുത്തിയ ഭട്ടാചാര്യ ഘടകകക്ഷികളുമായുള്ള
+ബന്ധം ദൃഢമാക്കി. 2001 ഏപ്രിൽ ആകുമ്പോഴേക്കും എണ്ണയിട്ടയന്ത്രംപോലെ പ്രവർത്തന സജ്ജമായി
+ഇടതുമുന്നണി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Siddharta_Shankar_Ray.jpg" rendition="gra"/>
+            <figDesc style="thumb">സിദ്ധാർഥ ശങ്കർ റായേ</figDesc>
+          </figure>
+          <p> മറുഭാഗത്തു് മമതയുടെ തന്ത്രങ്ങൾ പാടെ പാളി. തെഹൽകാ വെളിപ്പെടുത്തലുകളെത്തുടർന്നു് 2001 മാർച്ച്
+15-നു് അവർ കേന്ദ്രമന്ത്രിസഭയിൽനിന്നു രാജിവെച്ചു. തൃണമൂൽ കോൺഗ്രസ് ദേശീയ ജനാധിപത്യ സഖ്യം
+ഉപേക്ഷിച്ചു കോൺഗ്രസുമായി കൂട്ടുചേർന്നു. അതോടെ കോൺഗ്രസിൽനിന്നു് ഉണ്ടാകാമായിരുന്ന പ്രവാഹം
+തടസ്സപ്പെട്ടു. കോൺഗ്രസുകാർ തനതുശൈലിയിൽ തൊഴുത്തിൽക്കുത്തു് നടത്തുകയും ചെയ്തു. ഇടതുപക്ഷത്തെ
+അപേക്ഷിച്ചു പ്രവർത്തകരും പണവും കുറവായിരുന്നു തൃണമൂൽ കോൺഗ്രസ്-കോൺഗ്രസ് സഖ്യത്തിനു്. ഫലം
+റൈറ്റേഴ്സ് ബിൽഡിംഗിനു മുകളിൽ ആറാംതവണയും ചെങ്കൊടി. 294 അംഗസഭയിൽ ഇടതുമുന്നണിക്കു് 199,
+തൃണമൂൽ-കോൺഗ്രസ് സഖ്യത്തിനു് 86. സി. പി. എമ്മിനു് തനിച്ചു് 143, തൃണമൂൽ കോൺഗ്രസിനു് 60.
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PM_Sayeed.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. എം. സയീദ്</figDesc>
+          </figure>
+          <p> കോൺഗ്രസ് സഖ്യം നഷ്ടക്കച്ചവടമാണെന്നു തിരിച്ചറിഞ്ഞ ദീദി ദേശീയ ജനാധിപത്യ സഖ്യത്തിലേക്കു
+തിരികെപോയി. അപ്പോഴേക്കും റെയിൽവേ വകുപ്പു് <ref target="https://en.wikipedia.org/wiki/Nitish_Kumar">നിതീഷ്കുമാർ</ref>
+കൈക്കലാക്കി കഴിഞ്ഞു. ബീഹാറിലെ മുഖ്യമന്ത്രിസ്ഥാനമാണു് നിതീഷിന്റെ സ്വപ്നം. അതിനുവേണ്ടിയാണു്
+ജനതാദൾ പിളർത്തി സമതാ പാർട്ടിയുണ്ടാക്കിയതും മതേതര രാഷ്ട്രീയം ക്ലച്ചുപിടിക്കാഞ്ഞു് ബി. ജെ. പി.
+സഖ്യത്തിൽ ചേർന്നതും ഗെയ്സാൽ തീവണ്ടിയപകടമുണ്ടായപ്പോൾ മന്ത്രിസ്ഥാനം രാജിവെച്ചതുമൊക്ക.
+2000-മാണ്ടു് മാർച്ച് മൂന്നാം തീയതി കഷ്ടിച്ചൊരു മന്ത്രിസഭയുണ്ടാക്കിയതുമാണു്. <ref target="https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav">ലാലുപ്രസാദ്
+യാദവ്</ref> അതിലും വേന്ദ്രനായതുകൊണ്ടു് ഏഴുദിവസത്തിനകം രാജിവെച്ചു. പോകേണ്ടി വന്നു. ഇനി പൂർവ
+കേന്ദ്ര റെയിൽവേയുണ്ടാക്കി ഒരു കൈകൂടി കളിക്കുക തന്നെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Khudiram_Bose.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഖുദിറാം ബോസ്</figDesc>
+          </figure>
+          <p> റെയിൽവേ വകുപ്പു കിട്ടാതെ കേന്ദ്രമന്ത്രിസഭയിൽ ചേരില്ല. കിഴക്കൻ റെയിൽവേ വിഭജിക്കുന്നപക്ഷം
+ദേശീയ ജനാധിപത്യ സഖ്യത്തിൽ തുടരില്ല എന്നൊക്കെയുള്ള മമതയുടെ പ്രഖ്യാപനങ്ങൾ തൃണമൂൽ
+കോൺഗ്രസിനകത്തു് കലാപത്തിനു വഴിമരുന്നിട്ടിരിക്കുന്നു. കിഴക്കൻ റെയിൽവേയും കേന്ദ്രമന്ത്രിസഭാ
+പ്രവേശവുമായുള്ള ബന്ധം <ref target="https://en.wikipedia.org/wiki/Sudip_Bandyopadhyay">സുദീപ്
+ബന്ദോപാധ്യായ</ref> ക്കും വിക്രം സർക്കാറിനും പിടികിട്ടുന്നില്ല. <ref target="https://en.wikipedia.org/wiki/Jayanta_Bhattacharya">ജയന്തോ
+ഭട്ടാചാര്യ</ref> യുടെ സ്ഥിതിയും വ്യത്യസ്തമല്ല. ബി. ജെ. പി.-ക്കാർ കേന്ദ്രമന്ത്രിസ്ഥാനം കാട്ടി
+മോഹിപ്പിക്കുമ്പോൾ പുറംതിരിഞ്ഞുനിൽക്കാൻ യോഗികളൊന്നുമല്ല അവർ. മമതാ ബാനർജിയെപ്പോലെ
+സർവസംഗ പരിത്യാഗികളല്ല അവരുടെ ഭാര്യമാരും പെൺമക്കളും. അവർക്കു പട്ടുസാരികൾ വേണം,
+സ്വർണാഭരണങ്ങളും, കോൺഗ്രസിൽനിന്നു വഴക്കിട്ടുപോന്നതു തന്നെ കേന്ദ്രമന്ത്രിയായി രാജ്യത്തെ
+സേവിക്കാനുള്ള ത്വരകൊണ്ടായിരുന്നല്ലോ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Nandalal_Bose.jpg" rendition="gra"/>
+            <figDesc style="thumb">നന്ദലാൽ ബോസ്</figDesc>
+          </figure>
+          <p> മമതയുടെ വാക്കുകേട്ടു കേന്ദ്രമന്ത്രിസ്ഥാനം ഉപേക്ഷിച്ച <ref target="https://en.wikipedia.org/wiki/Ajit_Kumar_Panja">അജിത് പാഞ്ച</ref>
+യുടെ കാര്യമാണു് കഷ്ടാൽ കഷ്ടം. മന്ത്രിസ്ഥാനം ഉള്ളപ്പോൾത്തന്നെ കൊടുങ്ങല്ലൂരമ്പലത്തിലെ ശിവനെപ്പോലെ
+നിസ്തേജനായിരുന്നു പാഞ്ച. രാജിവെച്ചശേഷമാണു് വേണ്ടായിരുന്നു എന്നു തോന്നിയതു്. മമത
+കോൺഗ്രസിനൊപ്പമായിരുന്നപ്പോഴും പാഞ്ച ബി. ജെ. പി.-ക്കൊപ്പം ഉറച്ചുനിന്നു. തൃണമൂൽ കോൺഗ്രസ് ദേശീയ
+ജനാധിപത്യസഖ്യത്തിൽ തിരിച്ചുവന്നപ്പോൾ പാഞ്ചയെ തിരിച്ചെടുത്തുമില്ല. മമതയുടെ വിലക്കു വകവെക്കാതെ
+പാഞ്ച ഉപരാഷ്ട്രപതി തെരഞ്ഞെടുപ്പിൽ വോട്ടു രേഖപ്പെടുത്തുകയും ചെയ്തു. ഇനിയെങ്കിലും കണ്ണുതുറക്കുമോ
+പ്രധാനമന്ത്രി?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Surya_Sen.jpg" rendition="gra"/>
+            <figDesc style="thumb">സൂര്യസെൻ</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-യെ സംബന്ധിച്ചിടത്തോളം <ref target="https://ml.wikipedia.org/wiki/Buddhadeb_Bhattacharjee">ബുദ്ധദേവി</ref>
+നെക്കാൾ വലിയ ശത്രു <ref target="https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav">ലാലു യാദവ</ref>
+നാണു്. മമതയേക്കാൾ വിശ്വസിക്കാവുന്ന മിത്രം നിതീഷും. <ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ ബാനർജി</ref>
+പോയാൽ എവിടംവരെ പോകും? കെട്ടിലമ്മ ചാടിയാൽ കൊട്ടിയമ്പലംവരെ. അധികം തുള്ളിയാൽ കള്ളി
+വെളിച്ചത്താകും. പാർട്ടി പിളരും. കോൺഗ്രസ് രക്തം സിരകളിലോടുന്ന എം. പി.-മാരുണ്ടോ
+അധികാരംകണ്ടാൽ അടങ്ങിയിരിക്കുന്നു?
+</p>
+          <p>ഏതായാലും <ref target="https://ml.wikipedia.org/wiki/Buddhadeb_Bhattacharjee">ബുദ്ധദേവ്
+ഭട്ടാചാര്യ</ref> ക്കു സന്തോഷിക്കാം. തന്റെ എതിരാളികളെ ഭിന്നിപ്പിച്ച <ref target="https://en.wikipedia.org/wiki/Nitish_Kumar">നിതീഷ് കുമാറി</ref> നോടു്
+അദ്ദേഹം നന്ദിയുള്ളവനായിരിക്കും.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Theevandiyude Kuthippum
+Mamathayude Kithappum (ml: തീവണ്ടിയുടെ കുതിപ്പും മമതയുടെ കിതപ്പും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Theevandiyude Kuthippum Mamathayude Kithappum, കെ. രാജേശ്വരി, തീവണ്ടിയുടെ കുതിപ്പും
+മമതയുടെ കിതപ്പും, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 24, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Munch__Boy_in_Blue,_ca._1900,_29.321.jpg">Boy in Blue,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Edvard_Munch">Edvard Munch</ref>
+ (1863–1944). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-theevandi.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-theevandi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

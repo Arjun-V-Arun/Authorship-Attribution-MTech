@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">റഷ്യയിലെ സ്ത്രീകൾ</title>
+          <title xml:lang="en" type="main">Russiayile Sthreekal</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 23, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">റഷ്യയിലെ സ്ത്രീകൾ</title>
+              <title xml:lang="en" type="main">Russiayile Sthreekal</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Russiayile Sthreekal</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>റഷ്യയിലെ സ്ത്രീകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 23, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Indianapolis_Museum_of_Art.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Joshua_Reynolds_-_Pick-aBack_%28Mrs._Payne_Gallaway_and_Child%29_%28copy_of%29_-_68.29.1__Indianapolis_Museum_of_Art.jpg">Pick-a-Back,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Joshua_Reynolds">Joshua
+
+Reynolds</ref>  (1723–1792). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">റഷ്യയിലെ സ്ത്രീകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">റഷ്യയിലെ സ്ത്രീകൾ</head>
+        <div type="lsection">
+          <p style="noindent">കഴിഞ്ഞ കാൽനൂറ്റാണ്ടു് കൊണ്ടു് റഷ്യയിൽ ഉദിച്ചുയർന്നു് വികസിച്ച
+നവീനജീവിതത്തിലേക്കു് നോക്കിയാൽ ലോകത്തെ വിസ്മയിപ്പിക്കുന്ന പലതും അവിടെ കാണാൻ കഴിയും.
+മറ്റൊരു രാജ്യത്തും പ്രത്യക്ഷപ്പെടാത്തതായ ഒരു പ്രത്യേക ജീവിതശക്തി—ഒരു നവചൈതന്യപ്രവാഹം
+അവിടത്തെ രണരംഗത്തിൽ ഇപ്പോൾ നാം കാണുന്നില്ലേ? അതെവിടെനിന്നുണ്ടായി! യൂറോപ്പ് മുഴുവൻ കീഴടക്കി
+തള്ളിക്കയറിയ ജർമൻ പെരുമ്പടയെ തടുത്തുനിർത്തി തച്ചുടച്ചു് പിന്നാക്കം ഓടിച്ചുകൊണ്ടിരുന്ന ഈ
+മഹാശക്തിവിശേഷം എങ്ങുനിന്നാവിർഭവിച്ചു? ഇത്തരം ചോദ്യങ്ങൾക്കു് ഉത്തരം പറവാൻ ശ്രമിക്കുമ്പോൾ
+ഒന്നാമതു് ചൂണ്ടിക്കാണിക്കേണ്ടതു് അവിടത്തെ സ്ത്രീസമുദായത്തെയാണു്. ‘ജനസമുദായത്തിൽ പകുതിഭാഗവും
+അടുക്കളയിലെ അടിമച്ചങ്ങലയിൽ ബന്ധിക്കപ്പെട്ടിരിക്കുമ്പോൾ ഒരു രാഷ്ട്രത്തിനും സ്വതന്ത്രമാകാൻ സാദ്ധ്യമല്ല,’
+എന്നു് ലെനിൻ ഭരണാധികാരത്തിലെത്തിയ മാത്രയിൽ വിളംബരംചെയ്യുകയുണ്ടായി. ഇതര രാജ്യങ്ങളിലും
+ഇത്തരം അഭിപ്രായങ്ങൾ മുഴങ്ങിക്കേൾക്കുന്നുണ്ടെങ്കിലും അവ പ്രവൃത്തിരൂപത്തിൽ പ്രകടമാകുന്നതു് പല
+നിയന്ത്രണങ്ങളോടുകൂടിയും മന്ദഗതിയിലും ആണെന്നു് നിസ്സംശയം പറയാം. എന്നാൽ, <ref target="https://ml.wikipedia.org/wiki/Vladimir_Lenin">ലെനിൻ</ref>
+വാക്കുകൊണ്ടു് തൃപ്തിപ്പെടാതെ നിയമാധികാരം പ്രയോഗിച്ചുള്ള പ്രവൃത്തികൊണ്ടു് സ്ത്രീകളുടെ അടിമച്ചങ്ങല
+ഇനിയൊരിക്കലും കണ്ണിചേരാത്തവിധം വെട്ടിമുറിക്കുകതന്നെ ചെയ്തു. സ്ത്രീ സ്വതന്ത്രയാകണമെങ്കിൽ അവളുടെ
+സാമ്പത്തികമായ പാരതന്ത്ര്യം ആദ്യമായി നീക്കണമെന്നു് അദ്ദേഹം കണ്ടു. മറ്റെല്ലാത്തരം സ്വാതന്ത്ര്യത്തിന്റെയും
+അടിസ്ഥാനം സാമ്പത്തികസ്വാതന്ത്ര്യമാകുന്നു. ഈ തത്ത്വത്തിനു് അതു് അർഹിക്കുന്നിടത്തോളം പ്രാധാന്യം
+ആദ്യമായി കൊടുത്തതു് റഷ്യയിൽമാത്രമാണു്. സകല കാര്യങ്ങളിലും പുരുഷനോടൊപ്പം പൂർണ്ണമായ
+പൗരാവകാശം, ഏതു് ഉദ്യോഗവകുപ്പിലും പ്രവേശിക്കുവാനുള്ള സർവസ്വാതന്ത്ര്യം, വേലയ്ക്കു് ഇരുകൂട്ടർക്കും
+തുല്യമായ പ്രതിഫലം വിശേഷിച്ചു് സ്ത്രീക്കു് മാതൃത്വത്തെ പരിഗണിച്ചുള്ള പ്രത്യേകാവകാശങ്ങൾ,
+പരസ്പരപ്രണയവിശ്വാസങ്ങളെ മാത്രം അടിസ്ഥാനമാക്കിയുള്ള വിവാഹം, സന്താനങ്ങളെ സംബന്ധിച്ചു്
+ദമ്പതിമാർക്കു് ഒരുപോലെ ഉത്തരവാദിത്തം, ബുദ്ധിശക്തി, കായബലം, കാര്യശേഷി മുതലായവയിൽ
+പുരുഷനേക്കാൾ ഒരുവിധത്തിലും താഴെയല്ല സ്ത്രീ എന്നുള്ള സാമാന്യതത്ത്വത്തിന്റെ അംഗീകരണം ഇങ്ങനെ
+സ്ത്രീകൾക്കു് റഷ്യയിലുണ്ടായിട്ടുള്ള പുരോഗമനം വിവരിക്കുവാൻ തുടങ്ങിയാൽ വളരെ വിസ്തരിക്കേണ്ടിവരും. 1917-ൽ
+ബോൾഷേവിക് ഭരണം നടപ്പാകുന്നതുവരെ അവിടത്തെ സ്ത്രീകൾ അനുഭവിച്ചിരുന്ന അടിമത്തം
+പരിശോധിക്കുമ്പോളാണു് ഇപ്പോഴത്തെ പുരോഗമനത്തിന്റെ മാഹാത്മ്യം മനസ്സിലാകുന്നതു്.
+</p>
+          <p>സോവിയറ്റ് റഷ്യയുടെ അഞ്ചിലൊരു ഭാഗം മാത്രമേ യൂറോപ്പ് ഖണ്ഡത്തിൽ ഉൾപ്പെടുന്നുള്ളു. ബാക്കി അഞ്ചിൽ
+നാലുഭാഗവും പാശ്ചാത്യപരിഷ്കാരം അടുത്ത കാലംവരെ പ്രവേശിക്കാതിരുന്ന ഏഷ്യാഭൂഖണ്ഡത്തിലാണു്. ആ
+ഭാഗങ്ങളിലെ സ്ത്രീകളുടെ നില ആടുമാടുകളുടേതിനേക്കാൾ കഷ്ടമായിരുന്നു. ആകെയുള്ളവരിൽ പത്തിലൊരു
+ഭാഗം മുസ്ലീംസ്ത്രീകളത്രേ. ഇരുപത്തിയഞ്ചുകൊല്ലം മുമ്പുവരെ ഇവർക്കു് മൂടുപടംകൂടാതെ പുറത്തിറങ്ങാൻ
+സ്വാതന്ത്ര്യമുണ്ടായിരുന്നില്ല. ഭർത്താവു് മരിച്ചാൽ അയാളുടെ വിധവയും മറ്റു് സ്ഥാവരജംഗമവസ്തുക്കളോടൊപ്പം
+അടുത്ത അവകാശിക്കുള്ളതായിരുന്നു. അവയോടൊന്നിച്ചു് അവളെക്കൂടി മറ്റാർക്കെങ്കിലും വിൽക്കുന്നതിനു് ആ
+അവകാശിയെ നിയമം അനുവദിച്ചിരുന്നു. വിദ്യാഭ്യാസസൂര്യന്റെ ഒരു രശ്മിപോലും അവരെ
+എത്തിനോക്കിയിട്ടില്ലായിരുന്നു. മുസ്ലീംജനതയുടെ സ്ഥിതി ഇത്ര ഇരുട്ടടഞ്ഞിരുന്നെങ്കിൽ
+ക്രൈസ്തവസമുദായത്തിന്റെ നിലയോ, അതും ഒട്ടും അസൂയാവഹമായിരുന്നില്ല. വിവാഹിതയായ ഒരു സ്ത്രീക്കു്
+ഭർത്താവിനെക്കൂടാതെ അന്യരാജ്യങ്ങളിൽ സഞ്ചരിക്കുന്നതിനു് സ്വാതന്ത്ര്യമുണ്ടായിരുന്നില്ല.
+വിദേശസഞ്ചാരത്തിനുള്ള ‘പാസ്പോർട്ട്’ കൊടുത്തിരുന്നതു് ഭർത്താവിന്റെ പേരിൽമാത്രമായിരുന്നു.
+അടുത്തകാലംവരെ റഷ്യയിൽ പ്രചരിച്ചിരുന്ന ചില പഴഞ്ചൊല്ലുകൾ സ്ത്രീകളുടെ ഈ നികൃഷ്ടനിലയെ
+ചിത്രീകരിക്കുന്നവയാണു്.
+<list rend="numbered"><item n="">‘സ്ത്രീകളുടെ തലമുടി നീണ്ടതാണു്. എന്നാൽ, അവളുടെ തലച്ചോറ് ചുരുങ്ങിയത്രേ’. </item><item n="">‘ഈവിന്റെ ഗോത്രത്തിൽപ്പെട്ടവരാണു് എല്ലാ സ്ത്രീകളും. അവരിൽ നിന്നാണു് പാപോല്പത്തി’.
+
+</item><item n="">‘സ്വാതന്ത്ര്യം ഒരു നല്ല ഭാര്യയെ ചീത്തയാക്കുന്നു’. </item></list>
+
+</p>
+          <p>ഒരു കാലത്തു് ജനസമുദായം സ്ത്രീകളെ എങ്ങനെ പരിഗണിച്ചിരുന്നു എന്നുള്ളതിനു് ഇത്തരം വാക്യങ്ങൾ
+മതിയായ തെളിവുകളാണു്. അന്നത്തെ അവരുടെ ജീവിതം മദ്ധ്യകാലഘട്ടത്തെ അനുസ്മരിപ്പിച്ചിരുന്നു. എന്നാൽ,
+ഇന്നു് അവർ ഒറ്റച്ചാട്ടംകൊണ്ടു് ഇരുപത്തൊന്നാം നൂറ്റാണ്ടിന്റെ പടിവാതില്ക്കലെത്തിയിരിക്കുന്നതു് നോക്കുക!
+മനുഷ്യചരിത്രത്തിൽ ഇതിനുമുമ്പു് ഒരിക്കലും സംഭവിച്ചിട്ടില്ലാത്ത ഒരത്ഭുതപരിവർത്തനമാണിതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Aleksandra_Kollontai.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാഡം കൊളോൺടേ</figDesc>
+          </figure>
+          <p> സ്ത്രീകൾക്കു് വേണ്ടത്ര സ്വാതന്ത്ര്യമുണ്ടെന്നു് കാണിക്കാൻവേണ്ടി പേരിനുമാത്രം ചിലതു് കാട്ടിക്കൂട്ടുന്ന ചില
+രാജ്യങ്ങളിലെ സമ്പ്രദായമല്ല റഷ്യയിൽ കാണുന്നതു്. അഖില സോവിയറ്റ് കോൺഗ്രസ് സംഘടനയിൽ
+അഞ്ചിലൊരു ഭാഗം അംഗങ്ങളും സ്ത്രീകളാണു്. പ്രാദേശിക സോവിയറ്റുകളിലേക്കു് തെരഞ്ഞെടുക്കപ്പെടുന്നവരിൽ
+അവരുടെ സംഖ്യ ഒന്നുരണ്ടല്ല. അയ്യായിരമാണു്. അവരിൽ പലരും പ്രസിഡന്റുമാരുടെയും സെക്രട്ടറിമാരുടെയും
+സ്ഥാനങ്ങളിൽ പ്രശോഭിക്കുന്നു. അന്യരാജ്യങ്ങളിൽ അബലമാർക്കു് പറ്റിയതല്ലെന്നു് പറഞ്ഞു്
+അകറ്റിനിർത്തിയിരുന്ന എൻജിനീയർ ഡിപ്പാർട്ടുമെന്റിൽ അഞ്ചുലക്ഷം സ്ത്രീകൾ ഉണ്ടു്. എൻജിനീയറിംഗ്
+കോളേജുകളിൽ മൂന്നിലൊന്നും മെഡിക്കൽ കോളേജുകളിൽ പകുതിയിലധികവും വിദ്യാർത്ഥികളല്ല,
+വിദ്യാർത്ഥിനികളാണു്. ജഡ്ജിമാരിൽ നല്ലൊരുഭാഗം സ്ത്രീകളാണു്. കപ്പലുകളിലെ കപ്പിത്താൻ സ്ഥാനങ്ങളിലും
+അവർ പ്രവേശിച്ചിരിക്കുന്നു. രാജ്യതന്ത്രജ്ഞന്മാരായ സ്ഥാനപതികളുമായി കാര്യവിചാരം നടത്തുന്ന സ്വീഡനിലെ
+റഷ്യൻ അംബാസിഡർ <ref target="https://en.wikipedia.org/wiki/Alexandra_Kollontai">മാഡം
+കൊളോൺടേ</ref> (Madame Kollontai) ആണു്. ധനകാര്യകമ്മിസ്സാർ ആയിട്ടു് യാക്കോലിവ
+(Yakovleva) എന്നൊരു സ്ത്രീയെ കാണാം. മറ്റേതു് രാജ്യത്തിൽ വന്നിട്ടുണ്ടു് ഇത്രയും അഭിവൃദ്ധി?
+</p>
+          <p>സൈനികവിദ്യാലയങ്ങളിൽ സകല വകുപ്പുകളിലും സ്ത്രീകൾ പരിശീലനം നടത്തുന്നുണ്ടു്.
+ഇതിഹാസങ്ങളാണോ എന്നു് തോന്നത്തക്കവിധം വീരനാരീത്വം പ്രകടിപ്പിച്ചിട്ടുള്ള എത്രയെത്ര അത്ഭുതംതുളുമ്പുന്ന
+സംഭവങ്ങളാണു് റഷ്യയിലെ യുദ്ധരംഗത്തിൽ നടന്നുകൊണ്ടിരിക്കുന്നതു്? ബോംബ് വർഷിച്ചു് ശത്രുസംഹാരം
+ചെയ്വാൻ പുറപ്പെടുന്ന വിമാനസൈന്യത്തിന്റെ നേതൃസ്ഥാനം വഹിക്കുവാൻ മറ്റേതെങ്കിലും രാജ്യത്തിലെ ഒരു
+സ്ത്രീയ്ക്കു് കഴിവുണ്ടായിട്ടുണ്ടോ? അനന്യവനിതാലഭ്യമായ ആ സ്ഥാനത്തെത്തി പലപല വിമാനാക്രമണങ്ങളും
+നടത്തി ഒടുവിൽ വീരചരമം പ്രാപിച്ച ഒരു നായികയുടെ ശവസംസ്കാരകർമം ഈയിടെ മോസ്കോവിൽ
+സർവബഹുമതികളോടുംകൂടെ നടത്തുകയുണ്ടായി. തൊട്ടിലാട്ടുന്ന കരം വേണ്ടിവന്നാൽ തോക്കെടുക്കാനും
+സന്നദ്ധമായാലേ വിഷ്ടപത്തെ ഭരിക്കാൻ ശക്തമാകയുള്ളു എന്ന തത്ത്വമാണു് റഷ്യയിലെ സ്ത്രീകൾ
+സ്വീകരിച്ചിരിക്കുന്നതു്. മാതൃമണ്ഡലത്തിൽ മാൻപേടകളായും രണാങ്കണത്തിൽ ഹിംസ്രവ്യാഘ്രികളായും
+പ്രത്യക്ഷപ്പെടാൻ അവർക്കു് കഴിയും. യഥാർത്ഥമായ സ്വാതന്ത്ര്യംകൊണ്ടു് റഷ്യയിലെ
+വനിതാലോകത്തിനുണ്ടായിട്ടുള്ള നേട്ടമാണതു്. ആറു മാസക്കാലം നീണ്ടുനിന്ന സബാസ്റ്റപോൾ
+നഗരരോധത്തിൽ (Siege of Sebastapol) ഭൂഗർഭത്തിലുള്ള കൃത്രിമഗുഹാഗൃഹങ്ങളിൽ ശിശുക്കളെ മുലകൊടുത്തു്
+ഉറക്കിക്കിടത്തിക്കൊണ്ടു് യന്ത്രത്തോക്കുമേന്തി പുറത്തുവന്നു് ശതക്കണക്കിനു് ജർമൻഭടന്മാരെ കൊന്നൊടുക്കിയ
+അമ്മമാരുടെ ചരിത്രം ആരെയാണു് പുളകിതഗാത്രരാക്കാത്തതു്! അടുക്കളയിൽനിന്നു് അടർക്കളത്തിലേക്കു് ഇത്ര
+വേഗത്തിലും ഇത്ര ധൈര്യത്തോടും പാഞ്ഞുചെല്ലാൻ അവർക്കു് കഴിയുമെന്നു് ആർ വിചാരിച്ചു? സ്ത്രീത്വത്തിന്റെ ഈ
+ദ്വൈധീഭാവത്തെ ഇത്ര സമഞ്ജസമയി വികസിപ്പിക്കാമെന്നു് കാലേക്കൂട്ടി കണ്ടറിഞ്ഞു് അതിലേക്കു് മാർഗം തുറന്ന
+ദീർഘദർശിയായ ആ ലെനിന്റെ മുമ്പിലല്ലേ ഇന്നത്തെ ലോകം തല കുനിക്കേണ്ടതു്?
+</p>
+          <p>
+(വിചാരവിപ്ലവം 1944)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Russiayile Sthreekal (ml: റഷ്യയിലെ
+സ്ത്രീകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Russiayile Sthreekal, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, റഷ്യയിലെ സ്ത്രീകൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 23, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Joshua_Reynolds_-_Pick-aBack_%28Mrs._Payne_Gallaway_and_Child%29_%28copy_of%29_-_68.29.1__Indianapolis_Museum_of_Art.jpg">Pick-a-Back,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Joshua_Reynolds">Joshua
+Reynolds</ref>  (1723–1792). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-russiasthree.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzharussiasthree.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

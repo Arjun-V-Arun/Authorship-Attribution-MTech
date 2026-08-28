@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഉസാമ: മരണത്തിന്റെ പാതകൾ</title>
+          <title xml:lang="en" type="main">Usama: Maranaththinte Pathakal</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 1, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഉസാമ: മരണത്തിന്റെ പാതകൾ</title>
+              <title xml:lang="en" type="main">Usama: Maranaththinte Pathakal</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Usama: Maranaththinte Pathakal</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ഉസാമ: മരണത്തിന്റെ പാതകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 1, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Prayer_in_Cairo_1865.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Prayer_in_Cairo_1865.jpg">Prayer
+in Cairo,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:JeanL%C3%A9on_G%C3%A9r%C3%B4me">Jean-Léon Gérôme</ref>  (1824–1904).
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഉസാമ: മരണത്തിന്റെ പാതകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഉസാമ: മരണത്തിന്റെ പാതകൾ</head>
+        <div type="lsection">
+          <p style="noindent">ഉസാമ എന്ന അറബിപദത്തിനു് ‘മോഹിപ്പിക്കുന്നവൻ’ എന്നാണർത്ഥം. ആ
+മനുഷ്യൻ 54-ാമത്തെ വയസ്സിലും സുന്ദരനായിരുന്നു. ആ നീണ്ട നാസികയുടെ ഭംഗി ആരുടെയും കണ്ണിൽപ്പെടും.
+ആ മുഖത്തു് സ്ഥായിഭാവമായി കണ്ട ശാന്തി ഭീകരന്മാരെപ്പറ്റിയുള്ള എല്ലാ സങ്കല്പങ്ങളെയും അട്ടിമറിച്ചു. ആ
+കണ്ണുകൾ കാരുണ്യത്തിന്റെ നനവുപടർന്നവയാണു് എന്നു തോന്നിച്ചു. അറേബ്യൻ കോടീശ്വരൻ
+അഫ്ഗാനിസ്ഥാനിലെ പാറക്കെട്ടുകൾക്കിടയിൽ ലളിതമായ പാരമ്പര്യവസ്ത്രവും ലഘുവായ ഭക്ഷണവും കഴിച്ചു്
+കഴിഞ്ഞുപോരുന്ന ദൃശ്യങ്ങൾ ഒരു ത്യാഗമൂർത്തിയുടെ ചിത്രം വരഞ്ഞു. രോമപ്പുതപ്പും തോളിലിട്ടു്, വടി കുത്തിപ്പിടിച്ചു്
+ചിന്താമഗ്നനായി നടന്നുനീങ്ങുന്ന ആ താപസരൂപത്തിനകത്തു് ഇത്രയധികം ഹിംസ കുടിപാർക്കുന്നുണ്ടു് എന്നു്
+തിരിച്ചറിയുവാൻ ആളുകൾ വിഷമിച്ചു. പ്രസ്താവനകളിലും പ്രതികരണങ്ങളിലും സന്ദേശങ്ങളിലും കണ്ട കടുപ്പം
+അവ ഈ മനുഷ്യനിൽനിന്നു് വരുന്നതുതന്നെയോ എന്നു് ആളുകളെ ബേജാറാക്കി. രൂപവും ഭാവവും തമ്മിലുള്ള
+വൈരുദ്ധ്യത്തിനു് ഈ അടുത്തകാലത്തു് കണ്ടുകിട്ടാവുന്ന മികച്ച ഉദാഹരണം ‘അൽഖാഇദ’യുടെ തലവനാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Osama_bin_Laden.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉസാമ</figDesc>
+          </figure>
+          <p> സഊദി അറേബ്യയിലെ റിയാദിൽ അതിസമ്പന്നനായ കരാറുകാരൻ മുഹമ്മദ് അവ്വാദ് ഇബ്നു് ലാദന്റെ
+അമ്പതു മക്കളിൽ 17-ാമനായി 1957-ൽ <ref target="https://ml.wikipedia.org/wiki/Osama_bin_Laden">ഉസാമ</ref> ജനിച്ചു.
+കരാറുപണികളിലെ മിടുക്കുകൊണ്ടും വാരികൂട്ടിയ വൻലാഭംകൊണ്ടും ശ്രദ്ധേയമായിത്തീർന്ന ലാദൻകുടുംബം
+രാജകുടുംബത്തിന്റെ പ്രീതിയാർജ്ജിച്ചു. ഉസാമ പഠിച്ചതു് ജിദ്ദയിലാണു്. 1979-ൽ എൻജിനീയറിങ്ങിൽ ബിരുദം
+നേടി. പഠിക്കുന്ന കാലത്തുതന്നെ, 1973 മുതൽ ഇഖ്വാനുൽ മുസ്ലിമൂൻ (മുസ്ലിം ബ്രദർഹുഡ്: 1928) എന്ന
+മതമൗലികവാദ സംഘടനയുമായി ബന്ധപ്പെട്ടു പ്രവർത്തിച്ചിരുന്നു. 1979 ഡിസംബറിൽ സോവിയറ്റ് റഷ്യ
+അഫ്ഗാനിസ്താനിൽ നടത്തിയ അധിനിവേശമാണു് ഉസാമയെ ശരിക്കും പോരാളിയാക്കി മാറ്റുന്നതു്.
+ചെറുത്തുനിൽക്കുന്ന അഫ്ഗാനികൾക്കു് പണം അയച്ചുകൊടുത്ത അദ്ദേഹം രണ്ടാഴ്ചയ്ക്കകം ആയുധമേന്താൻ നേരിട്ടു്
+അഫ്ഗാനിസ്താനിലെത്തി. ഈ കമ്യൂണിസ്റ്റ്വിരുദ്ധ പോരാട്ടത്തെ എല്ലാ നിലയ്ക്കും അമേരിക്ക സഹായിച്ചു.
+സാമന്തരാജ്യംപോലെ സേവിക്കുന്ന പാകിസ്ഥാന്റെ തൊട്ടടുത്തു് ഒരു കമ്യൂണിസ്റ്റ് രാജ്യം ഉണ്ടാവുന്നതു്
+അമേരിക്കയ്ക്കു ദഹിച്ചില്ല.
+</p>
+          <p>പോരാളികൾക്കും അഭയാർത്ഥികൾക്കും പണവും ഭക്ഷണവും മരുന്നും നൽകുന്ന താവളങ്ങൾക്കു് നേതൃത്വം
+കൊടുത്തവരിൽ പ്രധാനി ഉസാമയായിരുന്നു. അദ്ദേഹത്തിന്റെ അത്തരം കേന്ദ്രങ്ങളെ അക്കാലത്തു് ‘അൽഖാഇദ’
+(താവളം, ആസ്ഥാനം, അടിത്തറ) എന്നു വിളിച്ചുപോന്നു. ആ വാക്കാണു് പിന്നീടു് സംഘടനയ്ക്കു്
+പേരായിത്തീർന്നതു്.
+</p>
+          <p>മതപാഠശാലകളിൽ ‘വിശുദ്ധപോരാളികളെ’ (മുജാഹിദ്) സൃഷ്ടിച്ചു് റഷ്യയെ തുരത്തുന്ന പണിയാണു്
+അമേരിക്കയെടുത്തതു്. അങ്ങനെയാണു് ‘താലിബാൻ’ (വിദ്യാർത്ഥിസമൂഹം) ശക്തിപ്പെടുന്നതു്. ഇസ്ലാമിസം
+ആയുധമേന്തി കമ്യൂണിസത്തെ വെല്ലുവിളിക്കുന്ന രാഷ്ട്രീയനാടകമാണു് അന്നു് അരങ്ങേറിയതു്.
+സമാനചിന്താഗതിക്കാരെ മറ്റു മുസ്ലിംനാടുകളിൽനിന്നു് കൊണ്ടുവന്നതു് അമേരിക്കയാണു്. അതിലെ
+മുൻനിരക്കാരിൽ ഒരാളായിരുന്നു ഉസാമ പല നിലയ്ക്കും അമേരിക്കൻ ഉല്പന്നമാണു്. തെക്കൻ യമനിൽ
+‘വിശുദ്ധപോരാളി’കളുമായിച്ചേർന്നും അദ്ദേഹം കമ്യൂണിസത്തിനെതിരേ യുദ്ധം ചെയ്തു.
+</p>
+          <p>1989-ൽ അഫ്ഗാനിസ്ഥാനിൽനിന്നു് റഷ്യൻസൈന്യം പിൻവാങ്ങി. ഉസാമ നാട്ടിലേക്കു മടങ്ങി. തെക്കൻ
+യമനിലെ രാഷ്ട്രീയപ്രവർത്തനംകൊണ്ടു് അദ്ദേഹം നേടിയ ജനപ്രീതിയെപ്പറ്റി രാജകുടുംബം ശകലം
+ബേജാറിലായിരുന്നു.
+</p>
+          <p>ഇറാഖിന്റെ കുവൈത്ത് അധിനിവേശ (1990) ത്തെത്തുടർന്നു് ഉണ്ടായ സദ്ദാംഭീഷണി നേരിടാൻ തന്റെ
+മുജാഹിദുകളെ ഇറക്കാം എന്നു് ലാദൻ പറഞ്ഞതു് അവഗണിച്ചു് സൗഊദി ഭരണകൂടം അമേരിക്കൻ സൈന്യത്തെ
+
+കൊണ്ടുവന്നതു് അദ്ദേഹത്തെ പ്രകോപിപ്പിച്ചു. ഇസ്ലാമിന്റെ പുണ്യഗേഹങ്ങളായ മക്കയും മദീനയും
+സ്ഥിതിചെയ്യുന്ന അറേബ്യയിൽ അമേരിക്കൻ സൈന്യത്തിന്റെ സാന്നിദ്ധ്യം, അവരുടെ സംസ്കാരത്തിന്റെ
+സ്വാധീനം, ലാദനു് പൊറുക്കാവുന്നതിലധികമായിരുന്നു. ഒരേസമയം അമേരിക്കയുടെയും അറേബ്യയുടെയും
+എതിരാളിയായിത്തീർന്ന ലാദൻ പാകിസ്ഥാനിലേക്കു് കടന്നു (1991). പാകിസ്ഥാൻ ഭരണകൂടം സൗഊദികൾക്കു്
+തന്നെ പിടിച്ചുകൊടുത്തേക്കും എന്നു തോന്നിയപ്പോൾ അഫ്ഗാനിസ്ഥാനിലേക്കു് രക്ഷപ്പെട്ടു. അവിടെ
+അധികാരത്തിനു വേണ്ടി ‘വിശുദ്ധ പോരാളികൾ’ പരസ്പരം കഴുത്തറുക്കുന്നതു കണ്ടു മനസ്സുമടുത്ത ലാദൻ
+മാസങ്ങൾക്കകം സുഡാനിൽ ചെന്നു് കുടുംബവൃത്തിയായ നിർമ്മാണക്കരാറുകളിൽ ഏർപ്പെട്ടു. യമനിലും
+സോമാലിയയിലും യു. എസ്. പട്ടാളക്കാർ ആക്രമിക്കപ്പെട്ടപ്പോൾ പിന്നിൽ ലാദൻ ആണെന്നു്
+ആരോപണമുയർന്നു, സൗഊദി ഭരണകൂടം ലാദന്റെ പൗരത്വം റദ്ദാക്കി (1994). തുടർന്നു് അദ്ദേഹം കിഴക്കൻ
+അഫ്ഗാനിസ്ഥാനിലെ ജലാലാബാദിലെത്തി.
+</p>
+          <p>സൗഊദിയിലെ അമേരിക്കൻ സൈനികകേന്ദ്രത്തിൽ ബോംബുപൊട്ടി പത്തൊമ്പതു സൈനികർ
+മരിച്ചപ്പോൾ ഉസാമയ്ക്കെതിരേ ആരോപണമുയർന്നു. പാശ്ചാത്യർക്കെതിരായ വലുതും ചെറുതുമായ എല്ലാ
+ഭീകരാക്രമണങ്ങളും ‘അൽഖാഇദ’യുടെ കണക്കിൽ എഴുതപ്പെട്ടു. ആ കണക്കുകൾ ശരിവയ്ക്കുന്ന മട്ടിൽ 1996-ൽ
+അദ്ദേഹം സ്വന്തം ‘ജിഹാദി’ന്റെ ലക്ഷ്യം പ്രഖ്യാപിച്ചു: ‘അമേരിക്കൻ പട്ടാളക്കാരെ അറേബ്യയിൽനിന്നു
+പുറത്താക്കുക, മുസ്ലീങ്ങളുടെ പുണ്യകേന്ദ്രങ്ങൾ മോചിപ്പിക്കുക, ഏതു നാട്ടിലുമുള്ള ഇസ്ലാമിക വിപ്ലവകാരികൾക്കു്
+സഹായം നൽകുക’: ലാദൻ മുസ്ലീങ്ങൾക്കിടയിലെ ഭീകരവാദത്തിന്റെ പ്രതീകമായിത്തീരുകയായിരുന്നു.
+</p>
+          <p>ഈ കാലത്തൊക്കെയും അമേരിക്കൻ ചാരസംഘടനയായ സി. ഐ. എ. അദ്ദേഹത്തെ പിന്തുടരുന്നുണ്ടു്,
+പലതവണ വധശ്രമങ്ങളിൽനിന്നു് ലാദൻ രക്ഷപ്പെട്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Hamid_Karzai.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹമീദ് കർസായി</figDesc>
+          </figure>
+          <p> 2001 സെപ്തംബർ 11-നു് ന്യൂയോർക്കിലെ ലോകവ്യാപാര കേന്ദ്രം തകർക്കപ്പെട്ടു; വാഷിങ്ടണിലെ സൈനിക
+ആസ്ഥാനമായ പെന്റഗൺ ആക്രമിക്കപ്പെട്ടു. ആയിരക്കണിക്കിനു് ആളുകൾ മരിച്ചു. ഇതിനു പിന്നിൽ
+അൽഖാഇദയാണു് എന്നു് വ്യക്തമായിരുന്നു. ഉസാമയെയും അദ്ദേഹത്തിനു് ഒളിത്താവളമൊരുക്കിയ താലിബാൻ
+നേതൃത്വത്തെയും പിടികൂടുന്നതിനുവേണ്ടി അമേരിക്ക അഫ്ഗാനിസ്ഥാനെ ആക്രമിച്ചു. മതഭീകരവാദികളായ
+താലിബാൻകാരുടെ അഫ്ഗാൻ ഭരണം (1996–2001) അതോടെ അവസാനിച്ചു. അമേരിക്കൻ പിന്തുണയോടെ
+<ref target="https://en.wikipedia.org/wiki/Hamid_Karzai">ഹമീദ് കർസായി</ref>
+അഫ്ഗാനിസ്ഥാനിൽ അധികാരത്തിലെത്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_H_W_Bush.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ്ജ് ബുഷ്</figDesc>
+          </figure>
+          <p> കഴിഞ്ഞ പത്തുകൊല്ലമായി ഉസാമ ബിൻലാദൻ ഒളിവിലായിരുന്നു. അമേരിക്കൻ സൈന്യം ഇത്ര
+നീണ്ടകാലം മെനക്കെട്ടു് തെരഞ്ഞിട്ടും ആ ഒളിത്താവളം കണ്ടെത്താൻ കഴിഞ്ഞില്ല എന്നതു് അദ്ദേഹത്തിന്റെ
+താരമൂല്യം വർദ്ധിപ്പിച്ചു. അമേരിക്കയുടെ മുൻ പ്രസിഡന്റ് <ref target="https://ml.wikipedia.org/wiki/George_H._W._Bush">ജോർജ്ജ്
+ബുഷിനു</ref> നേരേ പാശ്ചാത്യലോകത്തെങ്ങും വളർന്ന അപ്രീതിയിൽ പ്രധാനം ഈ പരാജയമായിരുന്നു.
+ഉസാമാവധത്തിലൂടെ അമേരിക്കയുടെ അഭിമാനം വീണ്ടെടുത്ത പ്രസിഡന്റ് <ref target="https://ml.wikipedia.org/wiki/Barack_Obama">ഒബാമ</ref> ഇപ്പോൾ
+വീരനായകനായിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Barack_Obama.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒബാമ</figDesc>
+          </figure>
+          <p> ഉസാമ ബിൻ ലാദൻ മതപണ്ഡിതനോ സാമൂഹ്യപരിഷ്കർത്താവോ പ്രസ്ഥാനനായകനോ ഒന്നുമല്ല.
+തീവ്രപ്രതികരണത്തിന്റെ പ്രതിരൂപം മാത്രമാണു്, അൽഖാഇദ ഏതെങ്കിലും പ്രത്യയശാസ്ത്രത്തിന്റെ പേരിൽ
+പ്രവർത്തിക്കുന്ന രാഷ്ട്രീയ പ്രസ്ഥാനമല്ല; ഏതെങ്കിലും ആദർശം ലക്ഷ്യംവെച്ചു് പ്രവർത്തിക്കുന്ന സംഘടനയുമല്ല.
+അതിലാകപ്പാടെ മുന്നൂറു പേരേയുള്ളൂ. കൊല്ലാനും മരിക്കാനും തയ്യാറുള്ളവർ.
+</p>
+          <p>പണവും ത്യാഗസന്നദ്ധതയും സാങ്കേതികവിദ്യയും ഉപയോഗിച്ചു് അമേരിക്ക അടക്കമുള്ള പാശ്ചാത്യരെ ഒരു
+ദശകക്കാലം വിറപ്പിച്ചുനിർത്താൻ ഉസാമ പ്രാപ്തനായി, ലോകവ്യാപാരകേന്ദ്രം തകർക്കുമ്പോൾ മരിച്ചുവീഴുന്ന
+ആയിരങ്ങളെപ്പറ്റി അദ്ദേഹത്തിനു് ആലോചന ചെല്ലുകയില്ല. അമേരിക്കൻ സൈന്യം എത്രയോ നിരപരാധികളെ
+കൊന്നുതള്ളിയിട്ടുണ്ടു് എന്ന വാസ്തവം അമേരിക്കയിലെ നിരപരാധികളെ കൊന്നൊടുക്കുവാൻ മതിയായ
+ന്യായമാണു് എന്നാണു് അദ്ദേഹം വിശ്വസിച്ചതു്. ഈ മട്ടിൽ കാര്യങ്ങളെ നോക്കിക്കാണുന്ന വികാരജീവിയാണു്
+ഉസാമ.
+</p>
+          <p>അനീതി, അക്രമം മുതലായ പ്രശ്നങ്ങൾക്കു് രാഷ്ട്രീയപരിഹാരമുണ്ടോ എന്നു് അദ്ദേഹം ആധികൊള്ളുന്നില്ല.
+അന്യായം എന്നു് താൻ തീർച്ചപ്പെടുത്തിയ എന്തിനെയും സ്വന്തം ചോരകൊണ്ടോ അന്യന്റെ ചോരകൊണ്ടോ
+കഴുകിക്കളയാം എന്നാണു് തീർപ്പു്. ഒരു ലക്ഷ്യത്തിനുവേണ്ടി താൻ മരിക്കാൻ തയ്യാറാണു് എന്നതു് തനിക്കു്
+അതിനുവേണ്ടി മറ്റുള്ളവരെ കൊല്ലാനുള്ള അധികാരം തരുന്നു എന്നു് അദ്ദേഹം വിശ്വസിച്ചു: ആ പാതകളൊന്നും
+ജീവിതത്തിന്റേതല്ല, മരണത്തിന്റേതാണു്.
+</p>
+          <p>ആശയചർച്ചകൾ ആ മനുഷ്യന്റെ വിഷയമല്ല. അവിടെ ആയുധങ്ങൾ സംസാരിക്കും. മതത്തിന്റെയോ
+രാഷ്ട്രീയത്തിന്റെയോ പ്രവർത്തനമേഖലകളിൽ കൊലപാതകം ഉൾപ്പെടുന്നില്ല എന്നു മനസ്സിലാക്കുവാൻ
+അദ്ദേഹത്തിനു ഇടയായില്ല. ഹിംസ ഒരു പ്രശ്നവും പരിഹരിക്കുന്നില്ല എന്നും പരിഹാരങ്ങൾക്കു
+പ്രശ്നങ്ങളുണ്ടാക്കുന്നേ ഉള്ളൂ എന്നും തിരിച്ചറിയുവാനുള്ള വിവേകം അദ്ദേഹത്തിനു് ഉണ്ടായില്ല. ലോകത്തിന്റെ
+നാനാഭാഗങ്ങളിൽ—ഒരു പക്ഷേ, കേരളത്തിലും—വികാരജീവികളായ എത്രയോ ചെറുപ്പക്കാരെ അദ്ദേഹം
+ഉത്തേജിപ്പിച്ചിരിക്കണം. മരണത്തിന്റെയും കൊലയുടെയും വഴികളിലൂടെ ഇസ്ലാമിന്റെ മഹിമയോ, അറബികളുടെ
+സ്വാശ്രയത്വമോ വീണ്ടെടുക്കാനാവുകയില്ല എന്നു് ഉസാമ ബിൻ ലാദന്റെ മരണം തെളിച്ചെഴുതുന്നുണ്ടു്.
+</p>
+          <p>അറബികളുടെയോ ഇസ്ലാംമതവിശ്വാസികളുടെയോ എന്തെങ്കിലും പ്രശ്നം പരിഹരിക്കാൻ ഉസാമയ്ക്കു്
+സാധിച്ചിട്ടില്ല. യുദ്ധം എന്തു നന്മയാണു് കൊണ്ടുവരിക? നീണ്ട 22 കൊല്ലക്കാലം, കഷ്ടനഷ്ടങ്ങളനുഭവിച്ചുകൊണ്ടു്
+അദ്ദേഹം നടത്തിയ യാതനാപൂർണ്ണമായ പോരാട്ടം ഉല്പാദിച്ചതു് ഭീതി മാത്രമാണു്; രണ്ടു സംസ്കാരങ്ങൾ തമ്മിലുള്ള
+അകലം മാത്രമാണു്. ആശയപ്രചരണത്തിനും ജനാധിപത്യവത്കരണത്തിനും വേണ്ടി ആ മനുഷ്യൻ
+പ്രയത്നിച്ചിരുന്നെങ്കിൽ പാശ്ചാത്യരുടെ സാംസ്കാരിക അധിനിവേശത്തിനും അമേരിക്കക്കാരുടെ
+സാമ്പത്തികചൂഷണത്തിനും എതിരായി എത്രയോ വലിയ കാര്യങ്ങൾ അറബ് നാടുകളിൽ ചെയ്യുവാൻ
+അദ്ദേഹത്തിനു കഴിയുമായിരുന്നു.
+</p>
+          <p>2010 ഡിസംബറിൽ ടുണീഷ്യയിൽ മുളപൊട്ടുകയും ഈജിപ്തിലേക്കും ലിബിയയിലേക്കും സിറിയയിലേക്കും
+ഒമാനിലേക്കും ബഹറൈനിലേക്കുമെല്ലാം പടർന്നെത്തുകയും ചെയ്യുന്ന പുതിയ ജനാധിപത്യത്തിന്റെ
+‘മുല്ലപ്പുവിപ്ലവ’ത്തെപ്പറ്റി ഓർത്തു നോക്കുക. 23 കൊല്ലം നീണ്ട ഏകാധിപത്യത്തെ ടുണീഷ്യയിലും 30 കൊല്ലം നീണ്ട
+ഏകാധിപത്യത്തെ ഈജിപ്തിലും നിരായുധമായ ജനരോഷം കടപുഴക്കിയെറിഞ്ഞു. 42 കൊല്ലമായി
+ഏകാധിപത്യം വാഴ്ചകൊള്ളുന്ന ലിബിയയിൽ ചെറുത്തുനില്പു്, നിർഭാഗ്യവശാൽ, ആയുധമെടുത്തു. അവിടെ അതു്
+പരാജയപ്പെടുന്നെങ്കിൽ ഉത്തരവാദി ആയുധമായിരിക്കും. ചരിത്രത്തിലെ ഏറ്റവും കൊള്ളാവുന്ന ആയുധം
+ആശയമാണു്; ഏറ്റവും കൊള്ളരുതാത്ത ആശയം ആയുധവും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Saddam_Hussein.jpg" rendition="gra"/>
+            <figDesc style="thumb">സദാം ഹുസൈൻ</figDesc>
+          </figure>
+          <p> സമാധാനത്തിനു് നോബൽ സമ്മാനം നേടിയ രാഷ്ട്രീയ നേതാവാണു് ബാരക് ഒബാമ! ജനാധിപത്യത്തിന്റെ
+പേരിൽ സംസാരിക്കുന്ന ആൾ. ബിൻലാദനെ പിടികൂടുകയും കോടതി മുമ്പാകെ ഹാജരാക്കി വിസ്തരിക്കുകയും
+കുറ്റം തെളിഞ്ഞാൽ ശിക്ഷിക്കുകയും ചെയ്തിരുന്നെങ്കിൽ അതായേനെ, സമാധാനത്തിനും ജനാധിപത്യത്തിനും
+നിരക്കുന്ന നീതി. <ref target="https://ml.wikipedia.org/wiki/Saddam_Hussein">സദാം
+ഹുസൈന്റെ</ref> കാര്യത്തിൽ വേണമെന്നു് തോന്നിയ ആ ‘നാടകം’ പോലും ഉസാമയുടെ കാര്യത്തിൽ
+ഉണ്ടായില്ല. ഒരു യുദ്ധം ജയിച്ച ആവേശത്തിലാണു് അമേരിക്ക. അടുത്ത നവംബറിൽ നടക്കേണ്ട
+തെരഞ്ഞെടുപ്പിൽ ഒബാമ രണ്ടാമൂഴത്തിലേക്കു തിരിച്ചുവരും എന്നു് ഉറപ്പിക്കാവുന്ന സാഹചര്യം ഇപ്പോഴേ
+ഉണ്ടായിക്കഴിഞ്ഞു.
+
+</p>
+          <p>ഉസാമയുടെ മരണത്തോടെ മതഭീകരവാദം അവസാനിച്ചു എന്നു് വിചാരിക്കാമോ? ഭീകരവാദം എന്നതു്
+വ്യക്തിയല്ല. മറിച്ചു്, പ്രതികാരദാഹമാണു്, ഹിംസാവാസനയാണു്, അവനവനെയും അന്യനെയും
+നശിപ്പിക്കുവാനുള്ള മനസ്സാണു്. ഉസാമാവധത്തിലൂടെ അമേരിക്ക ഒരു രക്തസാക്ഷിയെ (ശഹീദ്) സൃഷ്ടിച്ചുവോ?
+</p>
+          <p>ശ്രീലങ്കയിലെ തമിഴ്ഭീകരവാദം പ്രഭാകരന്റെ മരണത്തോടെ തളർന്നുപോയി. ആ പ്രശ്നം തീർത്തും
+പ്രാദേശികമാണു്; ഭാഷാപരമാണു്. ലാദന്റെ സ്ഥിതി അതല്ല. അദ്ദേഹം ഒരു മതത്തിന്റെ പേരിൽ സംസാരിച്ചു.
+ആ മതത്തിന്റെ അനുയായികൾ ലോകത്തെങ്ങുമുണ്ടു്. നാളെയോ മറ്റന്നാളോ മറ്റൊരുപറ്റം ചെറുപ്പക്കാർക്കു്
+ആയുധമേന്താനുള്ള പ്രചോദനമായി ഈ രക്തസാക്ഷി മാറിക്കൂടെന്നില്ല. ലാദനെ അമേരിക്കയ്ക്കു് ‘ഒറ്റിക്കൊടുത്തു’
+എന്ന പഴി കേൾക്കാനിടയാവുന്ന പാകിസ്ഥാനിൽ ആ വകയിൽ ലഹളകളൊന്നും ഉണ്ടാവുകയില്ലെന്നു് ആർക്കും
+പറയാം?
+</p>
+          <p>അങ്ങനെയൊന്നും സംഭവിക്കാതിരിക്കട്ടെ!
+</p>
+          <p>
+(മാതൃഭൂമി; 4 മേയ് 2011)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Usama: Maranaththinte Pathakal
+(ml: ഉസാമ: മരണത്തിന്റെ പാതകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Usama: Maranaththinte Pathakal, എം. എൻ. കാരശ്ശേരി, ഉസാമ: മരണത്തിന്റെ പാതകൾ, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 1, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Prayer_in_Cairo_1865.jpg">Prayer
+in Cairo,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:JeanL%C3%A9on_G%C3%A9r%C3%B4me">Jean-Léon Gérôme</ref>  (1824–1904). The
+image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-usama.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-usama.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

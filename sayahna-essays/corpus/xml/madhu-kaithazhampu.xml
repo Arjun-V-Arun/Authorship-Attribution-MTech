@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കൈത്തഴമ്പു്</title>
+          <title xml:lang="en" type="main">Kaithazhambu</title>
+        </title>
+        <author>Madhusudhanan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 25, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കൈത്തഴമ്പു്</title>
+              <title xml:lang="en" type="main">Kaithazhambu</title>
+            </title>
+            <author>Madhusudhanan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-12-15</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Madhusudhanan</term>
+          <term>Kaithazhambu</term>
+          <term>മധുസൂദനൻ</term>
+          <term>കൈത്തഴമ്പു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-12-15</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/black.jpg" width="100%"/>
+          <figDesc>Marx-archive, charcoal drawing by Madhusudhanan  (na). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കൈത്തഴമ്പു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>മധുസൂദനൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapter" n="1" xml:id="chp1">
+        <head type="chaphead"/>
+        <div type="lsection">
+          <quote>
+ഞാൻ ഇതുവരെ എഴുതിയിട്ടുള്ളതിൽ എനിക്കു് ഏറ്റവും നന്നായിത്തോന്നിയ ലേഖനമാണു് ‘കൈത്തഴമ്പു് ’. ഇതെഴുതുവാൻ
+പ്രേരണയായതു് കെ. ജി. എസ്സും കെ. ജി. എസ്സിന്റെ ‘<ref target="http://books.sayahna.org/ml/pdf/kgs-thakazhi.pdf">തകഴിയും
+മാന്ത്രികക്കുതിരയും</ref>’ എന്ന കവിതയുമാണു്. ഇതു് കവിതയുടെ അനുഭവകുറിപ്പു് മാത്രമാണു്. Doris Salcedo-യുടെ
+വർക്കുകൾ പല ഗാലറികളിലായി ഇതിനുമുൻപു് കണ്ടിട്ടുണ്ടു്. ആ വർക്കുകൾക്കും, കെ. ജി. എസ്സിന്റെ കവിതകൾക്കും,
+തർക്കോവ്സ്കിയുടെ സിനിമകൾക്കും, കുമാരനാശാനും എന്നിൽ ഇത്രമാത്രം സ്വാധീനം ചെലുത്തുവാൻ കഴിഞ്ഞിട്ടുണ്ടു് എന്നു്
+ഞാൻ മനസ്സിലാക്കുന്നത് ഈ ലേഖനം എഴുതുമ്പോഴാണു്. —മധുസൂദനൻ
+
+</quote>
+          <!--end of "quote"-->
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 1.0/0.1"-->
+      </div>
+      <!--end of "chapter 1/0"-->
+      <!--END OF CHAPTER 1/0-->
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കൈത്തഴമ്പു്</head>
+        <div type="lsection">
+          <p style="noindent">കുട്ടനാടിനെക്കുറിച്ചു പ്രശസ്തമായ ഒരു പുരാണകഥയുണ്ടു്. മഹാഭാരതത്തിലെ
+ഖാണ്ഡവദഹനം എപ്പിസോഡുമായി ബന്ധപ്പെട്ടുകൊണ്ടുള്ള മറ്റൊരു തീക്കഥ. ഐതീഹ്യങ്ങളിലും
+പുരാണങ്ങളിലും കുട്ടനാടു് ഒരു വൻ കാടായി സങ്കല്പിക്കപ്പെട്ടിരുന്നു. പാണ്ഡവർ ഇന്ദ്രപ്രസ്ഥത്തിൽ
+താമസിക്കുമ്പോൾ വേനലിന്റെ കെടുതി അസഹ്യമായിത്തീർന്നു. അവർ ചെന്നതു ഭംഗിയുള്ള പൊയ്കകളും,
+പക്ഷിമൃഗാദികളും, സസ്യലതാദികളും, മനോഹരങ്ങളായ പുഷ്പങ്ങളും വൻ വൃക്ഷങ്ങളുടെ തണലുകളും നിറഞ്ഞ
+കുട്ടനാടെന്ന നിബിഢവനത്തിലേക്കായിരുന്നു.
+</p>
+          <p>കുട്ടനാട്ടിൽ പാണ്ഡവർ പൊയ്കയിൽ ജലക്രീഡ ചെയ്തും വൃക്ഷത്തണലുകളിരുന്നും സന്തോഷകരമായി
+ജീവിച്ചുവരുമ്പോൾ അവിടേയ്ക്കു് അഗ്നിദേവൻ കടന്നുവന്നു.
+</p>
+          <p>അയാൾ അവരെ തന്റെ പൂർവ്വ കഥകൾ കേൾപ്പിക്കുകയും കുട്ടനാടു് ഭക്ഷിക്കുന്നതിനു് സഹായം
+അഭ്യർത്ഥിക്കുകയും ചെയ്തു. എങ്ങനെയായാലും അഗ്നിദേവന്റെ വിശപ്പു് ശമിപ്പിക്കാൻ വേണ്ടതു് ചെയ്യാമെന്നു്
+പാണ്ഡവരും ശ്രീകൃഷ്ണനും സമ്മതിക്കുകയും ചെയ്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/madhu-kai-3.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്ദ്രെ തർക്കോവ്സ്കി</figDesc>
+          </figure>
+          <p> കുട്ടനാടു് കത്താൻ തുടങ്ങി. കത്തുന്ന കാട്ടിൽ നിന്നു് രക്ഷപ്പെടുവാൻ വഴിയില്ലാതെ ജീവജാലങ്ങൾ
+ചാവാനാരംഭിച്ചു. കുട്ടനാടിനെ രക്ഷിക്കാനായി ഇന്ദ്രൻ യുദ്ധസന്നദ്ധനായി, ആകാശത്തു കാർമേഘങ്ങളെ
+സൃഷ്ടിച്ചു, മഴപെയ്യിച്ചു. അർജ്ജുനൻ ശരകൂടം നിർമ്മിച്ചു് അഗ്നിയെ മഴ വെള്ളത്തിൽ നിന്നും രക്ഷിച്ചു കൊണ്ടിരുന്നു.
+ഇങ്ങിനെയാണു് കുട്ടനാട് എന്ന ഹരിതവനം കത്തിയമർന്നതു്. ഈ കഥയുടെ തെളിവുകൾ പോലെ കുട്ടനാട്ടിലെ
+ആറുകളിൽനിന്നും പുഴകളിൽ നിന്നും കത്തിയ, വലിയ കറുത്തമരത്തടികൾ കണ്ടെത്തിയിട്ടുണ്ടു്. ഈ
+മരത്തടികൾക്കു ‘കാണ്ടാമരം’ എന്നാണു് വിളിക്കുന്നതു്. ചുട്ടനാടു് കുട്ടനാടെന്നും അറിയപ്പെടാൻ തുടങ്ങി.
+കുട്ടനാട്ടിലെ പല സ്ഥലനാമങ്ങളും കത്തിയമർന്ന കരി ചേർന്നതാണു്.
+</p>
+          <p>കൈനകരി, മാമ്പഴക്കരി, ഊരിക്കരി, മിത്രക്കരി, ചങ്ങൻകരി, ചേന്നങ്കരി, പാണ്ടൻകരി, രാമൻകരി,
+ഓല്തറകരി, പടിഞ്ഞാറെകരി, മേനോൻകരി, തുരുത്തുമാലിൽ കരി, പാഴ്മേടു മേൽക്കരി, പുത്തൻ കേളൻകരി,
+നാറാണത്തുകരി ഇങ്ങനെ പല കരിസ്ഥലങ്ങൾ ഒന്നുചേർന്ന നാടാണു് കുട്ടനാടു്. വരയ്ക്കാനായി എനിക്കു്
+ചാർക്കോൾ (കരി കൊണ്ടുണ്ടാക്കുന്ന ചോക്കു കഷണങ്ങളും പെൻസിലുകളും) കിട്ടിയിരുന്നതു് ഈ
+പ്രദേശങ്ങളിൽ നിന്നായിരിക്കണം.
+</p>
+          <p>ഈ കരിനിലങ്ങളുടെ അടുത്തായിരുന്നു തകഴി എന്ന പ്രദേശം. തകഴിയിലെ കർഷകനും, അഭിഭാഷകനും,
+എഴുത്തുകാരനുമായ തകഴിച്ചേട്ടനാണു് കെ. ജി. എസ്സിന്റെ ‘<ref target="http://books.sayahna.org/ml/pdf/kgs-thakazhi.pdf">തകഴിയും
+മാന്ത്രികക്കുതിരയും</ref>’ എന്ന കവിതയിൽ വയൽ ആരോ കട്ടു കൊയ്യുന്നുവെന്നു് പേടിസ്വപ്നം കണ്ടു
+ഞെട്ടിയുണരുന്നതു്.
+</p>
+          <p><ref target="https://en.wikipedia.org/wiki/Andrei_Tarkovsky">ആന്ദ്രെ
+തർക്കോവ്സ്കി</ref> യുടെ (Andrei Tarkovsky) സിനിമകളിലെ സ്വപ്ന ദൃശ്യം പോലൊന്നു്. കെ. ജി. എസ്.
+കവിതകളിലെ പതിവു് സൂക്ഷ്മതകളോടെ. തർക്കോവ്സ്കി സ്വപ്നങ്ങളെ ചിത്രീകരിച്ചതു് യാഥാർഥ്യത്തെ
+ചിത്രീകരിക്കുന്നതിനേക്കാൾ ശ്രദ്ധയോടും സൂക്ഷ്മതയോടുമാണു്. അയാളുടെ സ്വപ്നദൃശ്യങ്ങളിൽ
+ലിയോണാർഡോയ്ക്കും, ബ്രൂഗെലിനും, പിയറോ ഡെല്ലാ ഫ്രാൻസിസ്കയ്ക്കും കൂടുതൽ തെളിമ, അഴകു്, അതു് പകരുന്ന
+അറിവു്. കടലോരത്തെ മണൽപ്പരപ്പിൽ ചിതറിയ ആപ്പിൾ കൂട്ടങ്ങൾ, മഴ നനയുന്ന കുതിരകൾ, മഞ്ഞുമലയിലെ
+ബാലന്റെ നെറുകയിൽ ചിറകടിച്ചെത്തുന്ന പറവ, കത്തുന്ന വിറകിലേക്കു് നീട്ടിവെച്ച കൈപ്പത്തികൾ,
+കണ്ണാടിയിലെ തീജ്വാല…</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-kai-4.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഡോറിസ് സൽസിഡോ.</figDesc>
+          </figure>
+          <p>കെ. ജി. എസ്സിന്റെ കവിതയിലുമുണ്ടു് സ്വപ്നദൃശ്യത്തിലെ അതിസൂക്ഷ്മ പരിചരണങ്ങൾ. സ്വപ്നം കഴിഞ്ഞ
+ഇരുട്ടിൽ വയലിലേക്കിറങ്ങിയ തകഴിചേട്ടൻ ആദ്യം കാണുന്നതു് സ്വപ്നത്തിലെന്നപോലെ തന്നെ; പണ്ടേ
+മരിച്ചുപോയ ഒരു കർഷകനെ. കണ്ടൻ മൂപ്പനെ.
+</p>
+          <p>കണ്ടൻ മൂപ്പനു് ‘പണ്ടേ മരിച്ചു’ പോയ മങ്കൊമ്പിലെ കാടിയാഴത്തു വയലിലെ പള്ളത്തു മൂത്ത പറയന്റെ
+ഛായയുണ്ടു്. നെറ്റിയിലെ ദൈന്യം തിളക്കിയ ഭൂപടമറുകും, കൈത്തഴമ്പും എല്ലാം ഒരേപോലെ.
+</p>
+          <p>പള്ളത്തു മൂത്ത പറയനു കുട്ടനാടിന്റെ തീചരിത്രം പോലെ ഒരു ഭൂതകാലമുണ്ടു്.
+</p>
+          <p>കാടിയാഴത്തെ വയലിൽ നെല്ലു വിളഞ്ഞുകിടന്നപ്പോൾ ഒരിക്കൽ മട വീണു് എല്ലാം
+നശിച്ചുപോകുമെന്നമട്ടായി. ജന്മി പ്രശ്നം വെച്ചുനോക്കിയപ്പോൾ ഒരു മനുഷ്യക്കുരുതി മാത്രമേ പരിഹാരമായി
+കണ്ടുള്ളൂ. ജന്മിയുടെ അടിയാൻ കൊച്ചിട്ട്യാതി മടകെട്ടിപ്പൊക്കാൻ വിദഗ്ധനായ മൂത്ത പറയനെ കൊണ്ടുവന്നു.
+കൊമ്പും ചെളിയും കൊണ്ടു് മട കെട്ടി ഉയർത്താൻ കട്ടയിട്ടു കൊടുക്കുമ്പോൾ ജന്മി ചതിയിൽ പള്ളത്തു മൂത്ത
+പറയനെ കട്ടയ്ക്കടിയിലേക്കു വീഴ്ത്തി. നിമിഷങ്ങൾക്കകം മൂത്ത പറയൻ കട്ടയ്ക്കടിയിലായി. ജന്മിയും കൂട്ടരുംകൂടി കട്ടയും
+കൊമ്പും ചവറുമിട്ടു മട നല്ലതുപോലെ ഉറപ്പിച്ചു. അക്കൊല്ലത്തെ കൊയ്തിനും ജന്മിക്കു നല്ല വിളവുകിട്ടി.
+</p>
+          <p>പള്ളത്തു മൂത്തപറയന്റെ തനിഛായയുള്ള കണ്ടൻ മൂപ്പനാണു് നടരാജവിഗ്രഹത്തിലെ ശിവനടനം പോലെ
+കെ. ജി. എസ്സിന്റെ കവിതയിൽ സ്വപ്നത്തിലേക്കിറങ്ങി നിൽക്കുന്നതു്. എല്ലാ വിശദശാംശങ്ങളോടെയും കെ. ജി.
+എസ്. തർക്കോവ്സ്കി സിനിമ കാണിക്കുന്നുണ്ടു്. മാഞ്ഞെന്നു തോന്നിച്ച മാന്ത്രികക്കുതിര, കാറ്റിൽ ബോംബർപ്പുക
+പോലെ അതിന്റെ വാലു് നീണ്ടുലയുന്നതു്, മൊൺസാന്റോയുടെ വിഷമരുന്നു് അതിന്റെ വായിൽനിന്നു്
+ഉരുകിയൊലിക്കുന്നതു്. എല്ലാം സൂക്ഷ്മമായി പറഞ്ഞിരിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 1.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ശിബ്ബോലെത്</head>
+          <p style="noindent">‘ശിബ്ബോലെത്’ എന്നാൽ ഒരു പാസ്വേർഡ് ആണു്, ജീവിതത്തിലേക്കോ
+മരണത്തിലേക്കോ കടക്കാനുള്ള ഒരു അടയാള വാക്യം. അക്കരെ കടത്താനായി ബൈബിളിൽ പറയുന്ന, പല
+അർത്ഥങ്ങളുള്ള ഒരു വാക്കു്. എഫ്റായീമിൽ നിന്നുള്ള ഒളിച്ചോട്ടക്കാരിൽ ആരെങ്കിലും വന്നു്, ‘എന്നെ അക്കരെ
+കടക്കാൻ അനുവദിക്കേണമേ’ എന്നു പറയുമ്പോൾ ഗിലെയാദിലെ ജനങ്ങൾ അയാളോടു് ഇങ്ങനെ ചോദിക്കും.
+</p>
+          <p>‘നീ ഒരു എഫ്റായീമിയനോ?’ ‘അല്ല’ എന്നു് അയാൾ പറയുമ്പോൾ അവർ അയാളോടു് പറയും: ‘എങ്കിൽ
+ശിബ്ബോലെത് എന്നു പറയൂ.’ അതു് ശരിയായി ഉച്ചരിക്കാൻ കഴിയാത്തതുകൊണ്ടു് അയാൾ ‘സിബ്ബോലെത്’ എന്നു
+പറയും. അപ്പോൾ അവർ അയാളെ പിടിച്ചു യോർദാൻ കടവുകളിൽ വെച്ചു കൊല്ലും. അങ്ങനെ
+എഫ്റായീമിയരിൽ നാല്പത്തിയീരായിരം പേർ അവിടെ അക്കാലത്തു നിലംപതിച്ചു.
+</p>
+          <p>
+(ന്യായാധിപർ 11–12, പഴയ നിയമം.)
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-kai-2.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ശിബ്ബോലെത് റ്റേറ്റ് മോഡേൺ ടർബൻ ഹാളിൽ.</figDesc>
+          </figure>
+          <p>കൊളംബിയൻ ആർട്ടിസ്റ്റ് <ref target="https://en.wikipedia.org/wiki/Doris_Salcedo">ഡോറിസ്
+സൽസിഡോ</ref> (Doris Salcedo) 2007–08-ൽ ലോകപ്രസിദ്ധമായ റ്റേറ്റ് മോഡേൺ (tate modern)
+ഗാലറിയിലെ വിശാലമായ ടർബൻ ഹാളിൽ തന്റെ ഏറ്റവും പുതിയ കല അവതരിപ്പിച്ചിരുന്നു. അവർ ഹാളിന്റെ
+തറയിൽ അതിസൂക്ഷ്മമായി പണിയെടുത്തു നിർമ്മിച്ച 548 അടി നീളമുള്ള ഒരു വിടവു് (crack) ആണു് കലാസൃഷ്ടി.
+ആഴമുണ്ടു് എന്നു് തോന്നിക്കുന്ന വലിയൊരു മുറിവു്, പിളർപ്പു്, അതിരു്, വേർപാടു്, അകൽച്ച. കൊളംബിയയിലെ
+പ്രക്ഷുബ്ധമായ രാഷ്ട്രീയ സാഹചര്യങ്ങളായിരുന്നു ഡോറിസിന്റെ കലയെ സ്വാധീനിച്ചിരുന്നതു്. ഡോറിസിന്റെ
+കുടുംബാംഗങ്ങളിൽ പലരും കൊളംബിയയുടെ ദുരൂഹമായ രാഷ്ട്രീയ കാരണങ്ങളാൽ അപ്രത്യക്ഷരായിട്ടുണ്ടു്.
+അപ്രത്യക്ഷരാകുന്ന മനുഷ്യരും കൊളംബിയയിലെ വിസ്മൃതിയിലായ ഗ്രാമങ്ങളും ജൈവപ്രകൃതിയും
+ആലംബമില്ലാതെയാടുന്ന വീടുകളും അവയ്ക്കുള്ളിലെ തേയ്മാനം വന്ന വസ്തുക്കളുമാണു് ഡോറിസിന്റെ
+കലാസൃഷ്ടികൾക്കു ആധാരമായിട്ടുള്ളതു്. കസേരകൾ ഭരണകൂടവാസ്തുശില്പങ്ങൾക്കുമേൽ നടന്നുകയറുന്നതു്,
+കട്ടിലിൽ പറ്റിപ്പിടിച്ചിരിക്കുന്ന കുട്ടികളുടെ നേർത്തകുപ്പായങ്ങൾ, മര അലമാരയിൽ മുളച്ചുപൊന്തിയ
+നെൽച്ചെടികൾ, രാഷ്ട്രീയ ഇരകളുടെ മൃതദേഹങ്ങൾ പുതപ്പിക്കുവാൻ സശ്രദ്ധം തുന്നിയുണ്ടാക്കിയ ചുവന്ന
+റോസാദളങ്ങളുടെ പുതപ്പു്, മൃഗത്തോലുകൊണ്ടു് വായമൂടി മുടിനാരുകൊണ്ടു് തുന്നിക്കെട്ടിയ ചെരുപ്പുകൾ…
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-kai-1.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ടർബൻ ഹാളിലെ റ്റേറ്റ് മോഡേൺ.</figDesc>
+          </figure>
+          <p>ഡോറിസിന്റെ റ്റേറ്റ് മോഡേൺ ഗാലറിയിൽ പ്രദർശിപ്പിച്ച കലാസൃഷ്ടിയുടെ പേരു് ‘ശിബ്ബോലെത്’
+എന്നായിരുന്നു. ഡോറിസിന്റെ വിള്ളലുകൾ മനുഷ്യശരീരത്തിലെ നാഡീഞരമ്പുകൾ പോലെ ലോകമാകെ
+നേർത്ത ഒരു കറുത്ത ഗർത്തമായി പടർന്നു കിടക്കുന്നു. ഭൂമദ്ധ്യരേഖ കടന്നു് പല രാജ്യങ്ങളുടെ
+അതിർത്തികളിലൂടെ ഇന്ത്യയുടെ തെക്കു് കന്യാകുമാരിവരെ നീളുന്ന നെടുങ്കനൊരു വിള്ളൽ! കുട്ടനാട്ടിൽ
+ആവിള്ളലിന്റെ മറുകരെയായിരുന്നു തകഴിവയൽക്കരയിൽ തൂവെള്ള നിറവും തീനാവുമുള്ള പരദേശി
+മാന്ത്രികക്കുതിര നിന്നതു്. അതു് നിന്നയിടം മുഴുവൻ തരിശായിരുന്നു. ‘കനക വയൽ കാർന്നൊടുക്കുമ്പോൾ
+കൊള്ളക്കുതിരയൊലിപ്പിച്ച രാസ ഊറലിൽ നെല്ലും മീനും ചീവീടും പുൽത്തളിരും ചെറുമഞ്ഞും നീർക്കോലിയും
+നീർത്തുമ്പിയും’ വീഴുന്നതു് ഡോറിസിന്റെ ഇരുട്ടുനിറഞ്ഞ ഭീമാകാരൻ വിള്ളലിലേക്കാണു്. ഭൂമിയുടെ
+അവകാശികളായ അവർ പണ്ടൊരിക്കൽ ഭൂമിയുടെ കറുത്ത വിള്ളലിലേക്കു് വീണുപോയ സീതയോടൊപ്പം
+ചേർന്നു പാടുന്നുണ്ടു്.
+</p>
+          <lg>
+            <l> ‘ജനയത്രി! വസുന്ധരേ! പരം</l>
+            <l> തനയസ്നേഹമൊടെന്നെയേന്തി നീ</l>
+            <l> തനതുജ്ജ്വലമഞ്ചഭൂവിലേ-</l>
+            <l> ക്കനഘേ! പോവതു ഹന്ത! കാണ്മു ഞാൻ.</l>
+          </lg>
+          <lg>
+            <l> ഗിരിനിർത്ധരശാന്തിഗാനമ-</l>
+            <l> ദ്ദരിയിൽ കേട്ടു ശയിക്കുമങ്ങു ഞാൻ</l>
+            <l> അരികിൽ തരുഗുല്മസഞ്ചയം</l>
+            <l> ചൊരിയും പൂനിര നിത്യമെന്റെമേൽ.</l>
+          </lg>
+          <lg>
+            <l> മുകളിൽ കളനാദമാർന്നിടും</l>
+            <l> വികിര ശ്രേണി പറന്നു പാടിടും</l>
+            <l> മുകിൽ പോലെ നിരന്നു മിന്നുമ</l>
+            <l> ത്തകിടിത്തട്ടിൽ മൃഗങ്ങൾ തുള്ളിടും.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>ചിന്താവിഷ്ടയായ സീത: കുമാരനാശാൻ.
+</p>
+        </div>
+        <!--end of "section 1.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">മധുസൂദനൻ</head>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhusudanan.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ആലപ്പുഴ ജില്ലയിലെ കടലോരപ്രദേശത്തു ജനിച്ചു.
+</p>
+          <p>തിരുവനന്തപുരം ഫൈൻ ആർട്ട് കോളജിൽ നിന്നും ബറോഡയിലെ എം. എസ്. യൂണിവേഴ്സിറ്റിയിൽ നിന്നും
+കലാപരിശീലനം. ഇപ്പോൾ സമകാലീനകലയിൽ സാധ്യമാവുന്ന എല്ലാ മാധ്യമങ്ങളും ഉപയോഗിച്ചു്
+കലാപ്രവർത്തനം നടത്തുന്നു. കലാപ്രവർത്തനങ്ങൾക്കായി ഫിലിം എന്ന മാധ്യമം വിദഗ്ദമായി ഉപയോഗിച്ചതിനു്
+ന്യൂയോർക്കിലെ മ്യൂസിയം ഓഫ് മോഡേൺ ആർട്ടിൽ നിന്നു് രണ്ടു തവണ ആദരം.
+</p>
+          <p>‘മാർക്സ് ആർകൈവ്’ എന്ന ഇൻസ്റ്റലേഷൻ രണ്ടാമത്തെ കൊച്ചി മുസരീസ് ബിയനാലെയിൽ
+പ്രദർശിപ്പിച്ചിരുന്നു. 2015-ലെ വെനീസ് ബിയനാലെയിൽ ‘മാർക്സ് ആർകൈവ്’, ‘പീനൽ കോളനി’ എന്നീ
+ഇൻസ്റ്റലേഷനുകൾ പ്രദർശിപ്പിച്ചിട്ടുണ്ടു്.
+</p>
+          <p>‘ബയസ്ക്കോപ്’ എന്ന സിനിമക്കു് മൂന്നു് അന്തർദേശീയ പുരസ്കാരങ്ങൾ.
+</p>
+          <p>ബയസ്ക്കോപ് അഞ്ചു സംസ്ഥാന പുരസ്കാരങ്ങളും ദേശീയ അവാർഡും നേടിയിരുന്നു.
+</p>
+          <p>ഡൽഹിയിലും കേരളത്തിലുമായി ജീവിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 1.0/1.3"-->
+      </div>
+      <!--end of "chapter 1/1"-->
+      <!--END OF CHAPTER 1/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kaithazhambu (ml:
+കൈത്തഴമ്പു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Madhusudhanan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-12-15. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Madhusudhanan,
+Kaithazhambu, മധുസൂദനൻ, കൈത്തഴമ്പു്, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 25, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Marx-archive, charcoal drawing
+by Madhusudhanan  (na). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/madhu-kaithazhampu.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/madhu-kaithazhampu.pdf">Download
+
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

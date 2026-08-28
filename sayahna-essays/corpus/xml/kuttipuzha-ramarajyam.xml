@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">രാമരാജ്യം</title>
+          <title xml:lang="en" type="main">Ramarajyam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 22, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">രാമരാജ്യം</title>
+              <title xml:lang="en" type="main">Ramarajyam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Ramarajyam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>രാമരാജ്യം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 22, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Salesman_of_Sweet_Cakes.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Albert_Edelfelt__A_Russian_Salesman_of_Sweet_Cakes_at_the_Helsinki_South_Harbour_Market,_sketch__A_III_1979_-_Finnish_National_Gallery.jpg">A Russian Salesman of Sweet Cakes at
+the Helsinki South Harbour Market,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Albert_Edelfelt">Albert
+Edelfelt</ref>  (1854–1905). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">രാമരാജ്യം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">രാമരാജ്യം</head>
+        <div type="lsection">
+          <p style="noindent">ഹരിജൻവാരികയുടെ ഒരു ലക്കത്തിൽ <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref> സ്വാതന്ത്ര്യം
+എന്നാലെന്തു് എന്ന ചോദ്യത്തിനു് ഒരുത്തരം വിശദീകരിച്ചെഴുതിയിരിക്കുന്നു. അതു് അദ്ദേഹത്തിന്റെ സ്വപ്നത്തിൽ
+മാത്രം ഇരിക്കുന്ന ഒന്നാണെന്നും സൂചിപ്പിച്ചിട്ടുണ്ടു്. സ്വാതന്ത്ര്യം എന്നാൽ രാമരാജ്യം, എന്നുവെച്ചാൽ ഭൂമിയിലെ
+ദൈവരാജ്യം (Kingdom of God) എന്നത്രെ അദ്ദേഹത്തിന്റെ വ്യാഖ്യാനം. സ്വർഗത്തിലുമുണ്ടു്, ഒരു ദൈവരാജ്യം.
+പക്ഷേ, അതെങ്ങനെയിരിക്കുമെന്നു് വിചാരിച്ചു് അദ്ദേഹമിപ്പോൾ ക്ലേശിക്കുന്നില്ലപോൽ. ഭൂമിയിൽ ദൈവരാജ്യം
+പ്രതിഷ്ഠിക്കേണ്ട ഭാരമേ ഗാന്ധിജിക്കുള്ളു. ദൈവരാജ്യം എന്നു് പറഞ്ഞാലെന്താണെന്നു് അദ്ദേഹം നിർവചിച്ചിട്ടില്ല.
+രാമരാജ്യം എന്ന പേരുകൊണ്ടു് പണ്ടത്തെ ശ്രീരാമന്റെ രാജ്യഭരണവുമായി വല്ല സാദൃശ്യവും സൂചിതമായിട്ടുണ്ടോ
+എന്നും അദ്ദേഹം വ്യക്തമാക്കിയിട്ടില്ല. ഇതിനു മുമ്പൊക്കെ രാമരാജ്യം, രാമരാജ്യം എന്നു് ഘോഷിക്കുമ്പോൾ
+പഴയ അയോദ്ധ്യയുടെ മാതൃകയിലേക്കു് ഇന്ത്യയെ പിടിച്ചുവലിക്കുകയല്ലേ അദ്ദേഹം ചെയ്യുന്നതെന്നാണു്
+തോന്നിയിട്ടുള്ളതു്. വർണാശ്രമവ്യവസ്ഥയ്ക്കു് പുതിയവ്യാഖ്യാനം കൊടുത്തു് അതിനോടു് കാണിക്കുന്ന പ്രതിപത്തിയും
+പ്രാർത്ഥനായോഗങ്ങളിലെ രാമസങ്കീർത്തനകോലാഹലങ്ങളും മറ്റും ഈ തോന്നലിനെ ബലപ്പെടുത്തുന്നേയുള്ളു.
+ഏതായാലും ഹരിജനിലെ രാമരാജ്യം അങ്ങുമിങ്ങും തൊടാതെ എങ്ങോട്ടും തിരിച്ചുവയ്ക്കത്തക്കവിധം ഒരൊഴുക്കൻ
+മട്ടിൽ ദൈവരാജ്യമായി മാത്രം നിലകൊള്ളുകയാണു്. ദൈവംതന്നെ സത്യം, സത്യം തന്നെ ദൈവം എന്ന
+സിദ്ധാന്തവും ഗാന്ധിജിയുടെ ലേഖനങ്ങളിൽ കാണാറുണ്ടല്ലോ. അപ്പോൾ അതെല്ലാവർക്കും
+അംഗീകരിക്കത്തക്കവിധം നന്മ നിറഞ്ഞൊരു രാജ്യമാക്കി പ്രദർശിപ്പിക്കാനുള്ള വഴിയും അദ്ദേഹം തുറന്നിട്ടുണ്ടു്.
+പക്ഷേ, ദൈവം സത്യമാണെങ്കിൽ ഈ പ്രാർത്ഥനയൊക്കെ ആരോടാണു്? സത്യത്തിനോടോ, അതോ
+രാമായണത്തിലെ രാമനോടോ? രണ്ടാമത്തേതാണെങ്കിൽ കാര്യം എളുപ്പത്തിൽ മനസ്സിലാക്കാം. കൊട്ടും പാട്ടും
+കേൾക്കാൻ ചെവിയുള്ള ആളാണല്ലോ വാല്മീകിയുടെ രാമൻ, എന്തോ! മഹാത്മാക്കളുടെ മനോഗതി ആർ കണ്ടു!
+ഇങ്ങനെയൊക്കെ സംശയിച്ചുപോകുന്നതുതന്നെ ധിക്കാരമാകുമെന്നാണല്ലോ ഇപ്പോഴത്തെ വയ്പു്. അതുകൊണ്ടു്
+ഈ പോക്കു് നിർത്തുകയാണു് നല്ലതു്.
+</p>
+          <p>സ്വാതന്ത്ര്യത്തിനു് രാമരാജ്യം എന്നുപേർ കൊടുത്തതുകൊണ്ടു് ഗാന്ധിജി അതിനു് ചില ലക്ഷണങ്ങൾ
+കല്പിച്ചിട്ടുണ്ടു്. രാഷ്ട്രീയം, സാമ്പത്തികം, ധാർമികം എന്നു് മൂന്നായിട്ടവ തരംതിരിച്ചിരിക്കുന്നു. ഈ മൂന്നുതരം
+സ്വാതന്ത്ര്യങ്ങളും ഒത്തുചേർന്നെങ്കിലേ പരിപൂർണ സ്വാതന്ത്ര്യമാകൂ. രാഷ്ട്രീയ സ്വാതന്ത്ര്യമെന്നുവെച്ചാൽ ബ്രിട്ടീഷ്
+ഭരണം അവസാനിക്കുകയും ബ്രിട്ടീഷ് സൈന്യം ഇന്ത്യ വിടുകയുംചെയ്യുക എന്നതാണു്. ഇവിടെയും ഒരു പ്രധാന
+സംഗതി ഗാന്ധിജി വ്യക്തമാക്കിയിട്ടില്ല. ബ്രിട്ടീഷ് ഭരണം അവസാനിച്ചാൽ പിന്നെ ആരു് ഭരിക്കണം എങ്ങനെ
+ഭരിക്കണം എന്നതു്. ഇന്ത്യാക്കാർ ഭരിക്കണം എന്നു് മൊത്തത്തിൽ പറഞ്ഞൊഴിഞ്ഞാൽ ഇന്നത്തെ ജനത
+തൃപ്തിപ്പെടുകയില്ല. ജനസമുദായത്തിന്റെ മേൽത്തട്ടിൽ നിൽക്കുന്ന ടാറ്റാമാരും ബിർളാമാരും നാട്ടുരാജാക്കന്മാരും
+സെമീന്ദാർമാരും മറ്റുമാണോ ഭരിക്കേണ്ടവർ? ഗാന്ധിസിദ്ധാന്തത്തെ പ്രമാണീകരിച്ചുകൊണ്ടു് പാവപ്പെട്ടവരുടെ
+ട്രസ്റ്റികളെന്ന വേഷം കെട്ടുകയാണെങ്കിൽ ഇവരെ ഭരണകർത്താക്കളാക്കുകയില്ലേ? ബ്രിട്ടീഷ് ഭരണം
+അവസാനിച്ചാൽ മാത്രം കാര്യം ശരിയാകുമോ? നാട്ടുരാജ്യങ്ങളുടെ കഥയെന്താണു്? ഇങ്ങനെ പലതും ഗാന്ധിജി
+വേണ്ടുവോളം വിശദമായി വിവരിക്കേണ്ടതായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karl_Marx.jpg" rendition="gra"/>
+            <figDesc style="thumb">കാറൽമാർക്സ്</figDesc>
+          </figure>
+          <p> അടുത്ത സ്വാതന്ത്ര്യമാണു് ഇതിനെക്കാൾ സംശയാത്മകം. സാമ്പത്തിക സ്വാതന്ത്ര്യം എന്നുവെച്ചാൽ
+ബ്രിട്ടീഷ് മുതലാളിമാരുടെയും ഇന്ത്യൻ മുതലാളിമാരുടെയും പിടിയിൽനിന്നുള്ള മോചനം. അതെങ്ങനെ
+സാധിക്കുമെന്നു് അദ്ദേഹം വെളിവാക്കിയിട്ടില്ല. അവിടെയാണല്ലോ കുഴപ്പം. മുതലാളിമാരുടെ മൂലധനത്തിനും
+പ്രവർത്തനത്തിനും പങ്കുകൊള്ളുവാൻ പാവപ്പെട്ടവരെയും അനുവദിക്കണമെന്നു് സാമാന്യമായി ഒന്നു്
+പറഞ്ഞുവെയ്ക്കുകയാണു് അദ്ദേഹം ചെയ്തിട്ടുള്ളതു്. ചോദ്യം വന്നാൽ എങ്ങനെയും വ്യാഖ്യാനിച്ചു് നിൽക്കാവുന്ന
+നട്ടെല്ലില്ലാത്ത ഒരു മട്ടുണ്ടു് ആ വാക്യങ്ങൾക്കു്. ആ പഴയ ‘ട്രസ്റ്റീഷിപ്പ്’ സിദ്ധാന്തംതന്നെ തിരിഞ്ഞുമറിഞ്ഞു്
+ഇതിലും തല പൊന്തിച്ചിരിക്കുകയാണു്. പണക്കാർ പാവങ്ങളുടെ ട്രസ്റ്റിമാരായിരിക്കണം. അവരേയും തങ്ങൾക്കു്
+സമന്മാരായിക്കരുതി കൈയിലുള്ളതെല്ലാം വീതിച്ചുകൊടുക്കണം, ‘ആത്മവൽ സർവഭൂതാനി’ കണ്ടുകൊള്ളണം
+
+എന്നൊക്കെ ഉപദേശിക്കാൻ എന്തെളുപ്പം! ഇതു് നടപ്പിൽ വരുന്ന വേദാന്തമാണോയെന്നു് ചരിത്രഗതിയുടെയും
+മനുഷ്യസ്വഭാവത്തിന്റെയും വെളിച്ചത്തിൽ പരിശോധിച്ചുനോക്കുവാൻ ഇത്തരം ഉപദേശകന്മാർ
+തയ്യാറാകാത്തതാണത്ഭുതം. <ref target="https://ml.wikipedia.org/wiki/Jesus">ക്രിസ്തു</ref> അവതരിച്ചു, മനുഷ്യനെ
+നന്നാക്കാൻ. ഇല്ലാത്തവനു് ഉള്ളവൻ കൊടുക്കണമെന്നു് ഉപദേശിച്ചു. അനേക നൂറ്റാണ്ടുകളായി കോടാനുകോടി
+ഗ്രന്ഥങ്ങളിൽ ആ ഉപദേശം ആവർത്തിക്കപ്പെട്ടു. മനുഷ്യൻ നന്നായില്ല. ദരിദ്രൻ ഒന്നുകൂടി ദരിദ്രനായി,
+പണക്കാരൻ പിന്നെയും പണക്കാരനായി. സാമ്പത്തികചൂഷണത്തിൽനിന്നു് വിട്ടൊഴിയുവാൻ മനുഷ്യപ്രകൃതിക്കു്
+സാധിച്ചില്ല. ക്രിസ്തുവിനുമുമ്പു് ബുദ്ധനും മനുഷ്യനെ നന്നാക്കാൻ ഒരു കൈ പ്രയോഗിച്ചുനോക്കി. <ref target="https://ml.wikipedia.org/wiki/Muhammad">മുഹമ്മദ്നബി</ref> വന്നു.
+അദ്ദേഹവും ഉപദേശിച്ചു. ഇതിനിടയ്ക്കു് എത്രയെത്ര തത്ത്വജ്ഞാനികളുടെ തല പുകഞ്ഞു. എത്രയെത്ര
+പ്രമാണഗ്രന്ഥങ്ങൾ പ്രചരിച്ചു. ഉപനിഷത്തുകളും ഭഗവദ്ഗീതയും ശ്രീരാമനും ശ്രീകൃഷ്ണനും എല്ലാം മനുഷ്യനെ
+നന്നാക്കാൻ നോക്കിയതിന്റെ മുമ്പിൽ തോറ്റു തുന്നംപാടിയതേയുള്ളു. കാരണം, എല്ലാത്തരം നന്മകൾക്കും
+മൂലകാരണമായി നിൽക്കുന്ന സാമ്പത്തികസ്വാതന്ത്ര്യം അക്കാലങ്ങളിലെങ്ങും മനുഷ്യനു്
+സിദ്ധിച്ചിരുന്നില്ലെന്നുള്ളതാണു്. സാമ്പത്തിക സ്വാതന്ത്ര്യം ഇല്ലാത്ത കാലത്തോളം മനുഷ്യനുനന്നാകാൻ
+സാദ്ധ്യമല്ലെന്നും ചൂഷിതരും മർദിതരുമായി ഇത്രനാളും കഷ്ടപ്പെട്ട മൂകലക്ഷങ്ങളെല്ലാം സംഘടിച്ചു്
+ബലംപ്രയോഗിച്ചു് ആ സ്വാതന്ത്ര്യം പിടിച്ചടക്കണമെന്നുള്ള ആ പരമരഹസ്യം. ആ സാക്ഷാൽ
+‘മനുഷ്യോപനിഷത്ത്’ ആദ്യമായി ഉപദേശിച്ചതു് ലോകാചാര്യനായ <ref target="https://ml.wikipedia.org/wiki/Karl_Marx">കാറൽമാർക്സാ</ref> ണു്.
+ദേശകാലോചിതമായ മാറ്റം വരുത്തിയിട്ടെങ്കിലും ‘മാർക്സിസ’ത്തിലെ മൗലികസിദ്ധാന്തങ്ങളിന്മേൽ
+കെട്ടിപ്പടുക്കുന്ന ഒരു സാമൂഹ്യസാമ്പത്തിക വ്യവസ്ഥിതിയിൽനിന്നല്ലാതെ മനുഷ്യവർഗത്തിനു് വേറെ
+രക്ഷയില്ലെന്നു് ഇതുവരെയുള്ള ചരിത്രവും ഇന്നത്തെ അനുഭവവും തെളിയിച്ചുകഴിഞ്ഞു. എന്നിട്ടും മഹാത്മാഗാന്ധി
+ആ വശത്തേക്കു് തിരിഞ്ഞുനോക്കാത്തതെന്താണു്? ഗാന്ധി ഒരു ‘സോഷ്യലിസ്റ്റാ’ണെന്നു് വാദിച്ചു് കണ്ഠക്ഷോഭം
+ചെയ്യുന്ന ഒരു കൂട്ടരുണ്ടു്. ക്രിസ്തുമതത്തിൽ സോഷ്യലിസം കണ്ടെത്തി സംതൃപ്തിയടയുന്നവരുടെ
+വാദഗതിതന്നെയാണു് ഇവരുടേതും. ഇത്തരം വിതണ്ഡാവാദംചെയ്യുന്ന വ്യാമിശ്രബുദ്ധികളോടു് ഒന്നേ
+പറയേണ്ടതുള്ളു. ഏതിന്റെയും ഉള്ളിൽക്കടന്നു് അങ്ങേഅറ്റം വരെ ചെന്നുനോക്കിയാൽ എല്ലാം ഒന്നാണെന്നു്
+കാണാം. എല്ലാറ്റിനുമുണ്ടാകുമൊരടുപ്പം. ആർഷഭാരതത്തിന്റെ ദൃഷ്ടിയിൽ പ്രപഞ്ചംതന്നെ മിഥ്യയല്ലേ? എല്ലാം ഒരു
+തോന്നൽ. ഹിന്ദു-മുസ്ലിം, മുതലാളി, തൊഴിലാളി ഈ വകഭേദങ്ങളെല്ലാം വെറും മിഥ്യ! അവയുടെ അടിയിൽ
+നോക്കു ഐക്യം കാണണമെങ്കിൽ! അതുപോലെതന്നെ ‘ഗാന്ധിസ’വും സോഷ്യലിസവും ഒന്നായി കാണണം.
+എന്നാൽപ്പിന്നെ കുഴപ്പമില്ല. <ref target="https://ml.wikipedia.org/wiki/Muhammad_Ali_Jinnah">ജിന്നാസാഹേബിനെ</ref>
+ക്കൊണ്ടു് രാമസങ്കീർത്തനത്തിൽ പങ്കെടുപ്പിക്കാം. പക്ഷേ, ഈ ഒന്നായിട്ടുള്ള കാഴ്ച ആത്മവൽ
+സർവഭൂതാനിപോലെ പത്രത്തിലും പ്രസംഗപീഠങ്ങളിലും മാത്രമേയുള്ളു. നഗ്നങ്ങളായ
+ജീവിതയാഥാർത്ഥ്യങ്ങളുമായി അതിനു് യാതൊരു ബന്ധവുമില്ല. അതൊരിക്കലും പ്രയോഗത്തിൽ വരുന്നതുമല്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jinnah.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജിന്നാസാഹേബ്</figDesc>
+          </figure>
+          <p> ഇന്നു് സാമ്പത്തികമർദ്ദനം അനുഭവിച്ചുകൊണ്ടിരിക്കുന്ന ബഹുലക്ഷം ജനങ്ങളിൽനിന്നു് പുറപ്പെടുന്ന ചോദ്യം
+ഗാന്ധിജി അവരുടെ രക്ഷയ്ക്കായി നില കൊള്ളുന്നോ എന്നതല്ല. അതിലാർക്കും സംശയമില്ല. ആ രക്ഷയ്ക്കു് ഏതു്
+മാർഗമാണു് അദ്ദേഹം സ്വീകരിക്കുന്നതെന്നാണു്. സോഷ്യലിസ്റ്റ് സിദ്ധാന്തത്തെ അടിസ്ഥാനമാക്കിയുള്ള ഒരു
+സാമൂഹ്യസംഘടനയ്ക്കു് അദ്ദേഹം അനുകൂലനാണോ? അതിനാവശ്യമായ സാമ്പത്തിക പരിവർത്തനത്തിനും
+രാഷ്ട്രീയ വിപ്ലവത്തിനും അദ്ദേഹം നേതൃത്വം നൽകുമോ? ചുരുക്കിപ്പറകയാണെങ്കിൽ
+സാമൂഹ്യക്ഷേമത്തിനാവശ്യമായ ഉല്പാദനോപകരണങ്ങളെ വേണ്ടിവന്നാൽ നിയമത്തിന്റെ ബലം പ്രയോഗിച്ചും
+പൊതുവുടമയിൽ കൊണ്ടുവരാൻ അദ്ദേഹം സമ്മതിക്കുമോ? സർവപ്രധാനമായ ഈ പ്രശ്നത്തിനു് എങ്ങനെയും
+വ്യാഖ്യാനിക്കത്തക്കവിധം കുറെ വാക്യങ്ങളെഴുതിവിടാതെ എല്ലാവർക്കും മനസ്സിലാകുന്ന രീതിയിൽ സംശയം
+തീർത്തു് ഒരു ഉത്തരം നേരെ പറയുകയാണു് വേണ്ടതു്.
+</p>
+          <p>ഇതുവരെ കണ്ടിടത്തോളം ‘ഗാന്ധിസം’ സോഷ്യലിസത്തിന്റെ മാർഗത്തിൽ വിലങ്ങുതടിയായി കിടക്കുന്ന
+ഒന്നാണെന്നുതന്നെ പറയേണ്ടിയിരിക്കുന്നു. ഈയിടെ ഗാന്ധിജിയും മറ്റു് പല കോൺഗ്രസ് നേതാക്കളും
+അവരുടെ എഴുത്തിലും പ്രസംഗത്തിലും ‘സോഷ്യലിസം’ എന്ന വാക്കുപോലും കടന്നുവീഴാതിരിക്കുവാൻ
+സൂക്ഷിക്കുന്നുണ്ടു്. അടുത്തകാലം വരെ ഒരു യഥാർത്ഥ സോഷ്യലിസ്റ്റ് ആയിരുന്ന മസാനി ‘സോഷ്യലിസം’ ഒന്നു്
+പുനശ്ശോധന ചെയ്ത കഥ പ്രസിദ്ധമാണല്ലോ. നാട്ടുരാജ്യങ്ങളിലെ രാജകുടുംബങ്ങളുടെ മഹനീയമായ പാരമ്പര്യവും
+മറ്റും നമുക്കു് മറക്കാൻ വയ്യെന്നു് <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാൽ</ref>
+പോലും ഉൽഘോഷിച്ചുതുടങ്ങിയിരിക്കുന്നു! ഇതൊക്കെ കാണുമ്പോൾ ശുദ്രമക്ഷരസംയുക്തം ദുരിതഃ
+പരിവർജയേത് എന്നു് വിധിച്ചു് സനാതനികളുടെ രാമരാജ്യം ‘സബ്ളിമേറ്റ്’ ചെയ്തു് പുനഃസ്ഥാപിക്കുവാനുള്ള
+തന്ത്രമാണോ ഇതെന്നു് ആരും സംശയിച്ചുപോകും. വർണ്ണാശ്രമധർമത്തിന്റെ ചുമടുതാങ്ങിയായ ഒരു
+ബ്രാഹ്മണപുരോഹിതൻ—വസിഷ്ഠൻ—ആയിരുന്നല്ലോ പണ്ടത്തെ രാമരാജ്യത്തിലെ സൂത്രധാരൻ. ആ
+പുരോഹിതന്റെ ചരടിൽ ആടിക്കൊണ്ടിരുന്ന ശ്രീരാമന്റെ ഭരണം വീണ്ടും നടപ്പിലായാൽ ആറേഴുകോടി
+അധഃകൃതരുടെ കാര്യം വെള്ളത്തിലാകും. പക്ഷേ, രാമരാജ്യത്തിനകത്തു് എന്തെല്ലാം പുതിയ വിദ്യകൾ
+ഏർപ്പെടുത്തിയാലും അതു് നടപ്പിൽ വരുകയില്ലെന്നു് സമാധാനിക്കാം. കാലം മാറിപ്പോയി. ജനസാമാന്യം
+ഉണർന്നുകഴിഞ്ഞു. രാമമന്ത്രം കൊണ്ടും ഭജനപ്പാട്ടുകൊണ്ടും അവരെ വഴിതെറ്റിക്കുവാൻ ഇനി സാദ്ധ്യമല്ല.
+ലോകത്തിലെ പതിതരും മർദിതരുമായ ജനകോടികൾ എങ്ങോട്ടു് തിരിഞ്ഞിരിക്കുന്നുവോ അങ്ങോട്ടുതന്നെ
+ഇന്ത്യക്കാരും തിരിയും. ആർഷഭാരതത്തിന്റെ പുറംപൂച്ചിൽ മയങ്ങി വീണ്ടും അടിമകളാകാൻ അവർ
+സമ്മതിക്കുകയില്ല.
+</p>
+          <p>അടുത്തതായി ഗാന്ധിജി പരാമർശിച്ചിട്ടുള്ളതു് ധാർമികസ്വാതന്ത്ര്യമാണു്. അഹിംസയും സത്യവും പൂർണമായി
+വിലസുന്ന ഒരവസ്ഥയാണതു്. അതിൽ ഒരു ദേശീയസൈന്യത്തിനു് സ്ഥാനമില്ല. ഒരു ദേശീയസൈന്യം
+ഉള്ളകാലത്തോളം ധാർമികമായി ഭാരതീയർ സ്വതന്ത്രരാകുകയില്ലത്രേ. ചുരുക്കത്തിൽ അദ്ദേഹം പറയുന്ന
+ധാർമികസ്വാതന്ത്ര്യം ലഭിക്കണമെങ്കിൽ ഭാരതീയരെല്ലാം ഗാന്ധിമാരായിത്തീരണം. ഇതൊരു
+സ്വപ്നലോകാസഞ്ചാരമെന്നുമാത്രമേ പറയേണ്ടതുള്ളു. ഇങ്ങനെ അപ്രാപ്യദർശനങ്ങളിലേക്കു് ഭൂലോകം
+തൊടാതെ പലായനം ചെയ്യുന്ന മനോഭാവത്തെപ്പറ്റി നിരൂപണംചെയ്തു് സമയം കളയേണ്ട ആവശ്യമില്ലല്ലോ.
+ഇതൊക്കെ തല്ക്കാലസ്വപ്നങ്ങളാണെന്നൊരു ബോധം അദ്ദേഹത്തിൽ ഉദയം ചെയ്തുകാണുന്നതു് ആശ്വാസകരം
+തന്നെ. ഗാന്ധിജിയുടെ സ്വപ്നം ഫലിക്കാൻ പോകുന്നില്ലെന്നു് വിളിച്ചുപറയുന്നുണ്ടല്ലോ, പ്രാപ്തകാലസംഭവങ്ങൾ.
+സ്വപ്നം ഫലിക്കും. ആരുടെ? പാവപ്പെട്ട കൃഷിക്കാരന്റെയും തൊഴിലാളിയുടെയും. അവരുടെ വർഗം
+കോടികോടിയായി ലോകരംഗത്തു് അണിനിരന്നുകഴിഞ്ഞിരിക്കുന്നു. ഭൂമിയിലെ ആറിലൊരുഭാഗത്തു് അവരുടെ
+സ്വപ്നം ഫലിച്ചു. അതുപോലെ ഇതരഭാഗങ്ങളിലും ഫലിക്കും. കാലത്തിന്റെ ശക്തിയാണതു്.
+അതിനോടെതിരിടാൻ ആർക്കും സാദ്ധ്യമല്ല.
+</p>
+          <p>
+(വിമർശരശ്മി 1946)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ramarajyam (ml: രാമരാജ്യം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Ramarajyam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, രാമരാജ്യം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 22, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Albert_Edelfelt__A_Russian_Salesman_of_Sweet_Cakes_at_the_Helsinki_South_Harbour_Market,_sketch__A_III_1979_-_Finnish_National_Gallery.jpg">A Russian Salesman of Sweet Cakes at
+the Helsinki South Harbour Market,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Albert_Edelfelt">Albert
+Edelfelt</ref>  (1854–1905). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-ramarajyam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzharamarajyam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

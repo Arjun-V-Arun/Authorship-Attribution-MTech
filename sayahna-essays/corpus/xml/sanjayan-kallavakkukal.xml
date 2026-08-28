@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കള്ളവാക്കുകൾ</title>
+          <title xml:lang="en" type="main">Kallavakkukal</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">May 17, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കള്ളവാക്കുകൾ</title>
+              <title xml:lang="en" type="main">Kallavakkukal</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-05-18</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Kallavakkukal</term>
+          <term>സഞ്ജയൻ</term>
+          <term>കള്ളവാക്കുകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-05-18</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/What-is-truth02.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:What-is-truth02.jpg">What is
+truth?,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Nikolai_Ge">Nikolai Ge</ref>
+ (1831–1894). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കള്ളവാക്കുകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കള്ളവാക്കുകൾ</head>
+        <div type="lsection">
+          <p style="noindent">“തുല്യഭുജസമാന്തരചതുർഭുജം” എന്ന വാക്കിന്റെ അർത്ഥം പറയുവാൻ, തിരക്കായി
+എവിടെയെങ്കിലും പോകുന്ന സമയത്തു്, നിങ്ങളെ നിരത്തിന്മേൽ തടഞ്ഞുനിർത്തി ഒരാൾ ആവശ്യപ്പെട്ടാൽ
+നിങ്ങൾ എന്താണു് പറയുക? വിഷ്ണുസഹസ്രനാമങ്ങളിൽ ഒന്നായിരിക്കുമെന്നു് പറയും. അല്ലേ? എന്നാൽ അതു്
+ശരിയല്ല. ഇതു് കണക്കുപാഠപുസ്തകങ്ങളിൽ കാണപ്പെടുന്ന ഒരു വാക്കാണു്. ഈ വാക്കു “റോംബസ്” എന്ന
+ഇംഗ്ലീഷുവാക്കിന്റെ ഗീർവാണമാണുപോലും! എന്തിനാണു്, ടെൿസ്റ്റ്ബുക്കു നിർമ്മാതാക്കളെ, നിങ്ങൾ കുട്ടികളെ
+ഇങ്ങനെ ദ്രോഹിക്കുന്നതു? “റോംബസ്” എന്നു് തന്നെ പഠിച്ചിപ്പാൽ എന്താണു് തരക്കേടു്? അതു്
+പരിചയമില്ലാത്ത പുതിയ വാക്കാണു്. ശരി, നിങ്ങളുടെ “തുല്യഭുജസമാന്തരചതുർഭുജം” പഴയ വാക്കാണോ?
+അതിന്റെ അർത്ഥം കേൾക്കുന്ന മാത്രയിൽ മനസ്സിലാകുന്നുണ്ടോ? അതിന്നു് വല്ല അർത്ഥവുമുണ്ടോ?
+</p>
+          <lg>
+            <l> “ഇദം ചതുർബാഹുകമായ രൂപം</l>
+            <l> മുദാ ചുരുക്കീടുക ടെക്സ്റ്റുകാരേ!” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>എന്നു് ഞങ്ങൾ നിങ്ങളോടു് അഭ്യർത്ഥിച്ചുകൊള്ളട്ടെയോ? തുല്യഭുജസമാന്തരചതുർഭുജംപോലും!
+തുല്യഭുജമണ്ണാങ്കട്ടയാണു്! ദ്രോഹികൾ!
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>മലയാളഭാഷയിലേയ്ക്കു ഇങ്ങനെ പല കള്ളവാക്കുകളും, നാലുതറകടന്നു് കള്ളറാക്കുപോയിരുന്നതുപോലെ,
+കടന്നുവരുന്നുണ്ടു്. ഇവരിൽ കുറെയാളുകളെ സഞ്ജയൻ ബൗണ്ടറിയിൽ പിടിച്ചുനിർത്തീട്ടുണ്ടു്. അവയുടെ നോട്ടം
+സഞ്ജയന്നു പിടിയ്ക്കുന്നില്ല. ഈ തുല്യഭുജസമാന്തരചതുർഭുജവും മറ്റും ആരുംകാണാതെ കടന്നുവരുവാൻ
+ശ്രമിക്കുന്നതിന്റെ വിഡ്ഢിത്തം നോക്കുവിൻ! അവനെ ഒരുമൈൽ ദൂരെനിന്നു കാണാം: അത്ര വലിയ തടിയും,
+വയറുമുള്ള ഒരു വിദ്വാൻ ഒളിച്ചുകടക്കുവാൻ ശ്രമിച്ചാലോ? വേറെചിലരുടെ വിചാരണ സഞ്ജയൻ
+അടുത്തൊരവസരത്തിൽ നടത്തും. അതിർത്തികടന്നു വരുന്നതിന്നു ശരിയായ കാരണം കാണിക്കാതെ അവരെ
+സഞ്ജയൻ വിടുകയില്ല. വർത്തമാനക്കടലാസ്സുകൾ, പ്രസംഗവേദികൾ, പാഠപുസ്തങ്ങൾ, ഇവയുടെ വാതിൽക്കൽ
+കൈക്കൂലിയും സേവയുമില്ലാത്ത ഒരു ചുങ്കം ഉദ്യോഗസ്ഥനെ ഗവർമ്മെണ്ട് ഉടനെ നിശ്ചയിക്കേണ്ടതാണു്.
+(അധികൃതന്മാരുടെ അടിയന്തിരശ്രദ്ധയ്ക്കു്.) ഇല്ലെങ്കിൽ കുറച്ചു് കൊല്ലം കൂടി കഴിഞ്ഞാൽ നമ്മൾ പറയുന്നതു്
+അന്യോന്യം മനസ്സിലാകാതായിത്തീരും.
+</p>
+          <p>
+3-3-37
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kallavakkukal (ml:
+കള്ളവാക്കുകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-05-18. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan,
+Kallavakkukal, സഞ്ജയൻ, കള്ളവാക്കുകൾ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  May 17, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:What-is-truth02.jpg">What is
+truth?,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Nikolai_Ge">Nikolai Ge</ref>
+ (1831–1894). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-kallavakkukal.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-kallavakkukal.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

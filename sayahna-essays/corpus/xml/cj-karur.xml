@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">എന്തുകൊണ്ടു് കാരൂർ?</title>
+          <title xml:lang="en" type="main">Enthukond Karur</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>JS Aswathy</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">September 24, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">എന്തുകൊണ്ടു് കാരൂർ?</title>
+              <title xml:lang="en" type="main">Enthukond Karur</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-09-19</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Enthukond Karur</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>എന്തുകൊണ്ടു് കാരൂർ?</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-09-19</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Vermeer-view-of-delft.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:Vermeer-view-of-delft.jpg">View
+of Delft,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Johannes_Vermeer">Johannes
+Vermeer</ref>  (1632–1675). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">എന്തുകൊണ്ടു് കാരൂർ?</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">എന്തുകൊണ്ടു് കാരൂർ?</head>
+        <div type="lsection">
+          <figure rend="fleft" type="grb">
+            <graphic url="images/karur.jpg" rendition="grb"/>
+            <figDesc style="thumb">കാരുർ</figDesc>
+          </figure>
+          <p style="noindent"> പ്രസിദ്ധനായ ഒരു കഥാകൃത്തു് എന്നോടൊരിക്കൽ ഉദ്വേഗത്തോടെ ചോദിച്ചു.
+<ref target="https://ml.wikipedia.org/wiki/Karur_Neelakanta_Pillai">കാരുരി</ref>
+ന്റെ കഥകളിലെന്താണു് വിശേഷിച്ചുള്ളതെന്നു്. അദ്ദേഹത്തിന്റെ അഭിപ്രായത്തിൽ കാരൂരിന്റെ കഥകളിൽ
+തറഞ്ഞുകേറുന്ന കാര്യങ്ങളൊന്നും തന്നെയില്ല. കുറെ വാദ്ധ്യാർകഥകൾ എഴുതി കൂട്ടിയിട്ടുണ്ടെന്നുമാത്രം. അതുവരെ
+കാരൂരിന്റെ കലയെപ്പറ്റി ഗാഢമായി ആലോചിക്കേണ്ട ഒരാവശ്യം തോന്നിയിരുന്നില്ല. വായിക്കും, രസിക്കും
+അത്രതന്നെ. പക്ഷേ, എനിക്കിഷ്ടമുള്ള ഒരു സാഹിത്യകാരനിൽനിന്നു് ഈ അഭിപ്രായം കേട്ടപ്പോൾ ഒരു
+പുനഃരാലോചന ആവശ്യമുണ്ടെന്നു തോന്നി. ഉള്ളടക്കത്തെ പരിശോധിക്കുന്നതിനു മുമ്പുതന്നെ
+പൊതുജനാഭിപ്രായം കൂടി അറിയാമെന്നു തീരുമാനിച്ചു്, കാരുരിന്റെ കഥയുടെ വില്പനയെപ്പറ്റി ചില
+പ്രസാധകന്മാരോടു് ചോദിച്ചു. ഫലം പ്രതീക്ഷിച്ചതു തന്നെയായിരുന്നു. കാരൂർ ഒരു “ബെസ്റ്റ് സെല്ലർ” അല്ല. ആ
+പദവിയിൽ നിന്നു് വളരെ അകലെയാണു് അദ്ദേഹം നിലയുറപ്പിച്ചിരിക്കുന്നതു്. എങ്കിലും എനിക്കു് ഭൂരിപക്ഷത്താടു്
+യോജിക്കാൻ കഴിവില്ലാതെ വന്നു. ഇതോടുകൂടി പ്രശ്നം കാരൂരിന്റെ കലയുടെ പ്രശ്നത്തിൽനിന്നു് കുറേക്കൂടി
+വ്യാപ്തിയുള്ള ഒന്നായിമാറി. അതായതു്, കലാസ്വാദനവും ഇന്നത്തെ സമുദായഘടനയും.
+അങ്ങിനെയിരിക്കുമ്പോഴാണു് “അസ്ട്രോളജർ” എന്റെ കൈയിൽ കിട്ടിയതു്; സംശയാവസ്ഥയിലിരുന്ന പല
+അനുമാനങ്ങളും ഇപ്പുസ്തകം വായിച്ചതോടുകൂടി സ്ഥിരീകരിക്കപ്പെട്ടു. അവയെന്താണെന്നു പറയുന്നതിനു
+പുസ്തകത്തിന്റെ ഉള്ളടക്കമൊന്നു പരിശോധിക്കുന്നതു് സഹായകമായിരിക്കും.
+</p>
+          <figure rend="fleft" type="grb">
+            <graphic url="images/Charlie_Chaplin.jpg" rendition="grb"/>
+            <figDesc style="thumb">ചാർലി ചാപ്ലിൻ</figDesc>
+          </figure>
+          <p> അതൊരു കഥാസമാഹാരമാണു്. അതിനു കൊടുത്തിരിക്കുന്ന പേരുതന്നെയാണു് ഏറ്റവും നല്ല വഴികാട്ടി.
+പേരുകൊണ്ടു് ഒരു പുസ്തകത്തിന്റെ വില്പന തടയാമെങ്കിൽ അതിനു് ഏറ്റവുമധികം കഴിവുള്ള ഒന്നാണു്
+“അസ്ട്രോളജർ.” ഇംഗ്ലീഷറിയാൻ പാടില്ലാത്ത ഈ വാദ്ധ്യാർ എന്തിനാണു് “ജ്യോതിഷക്കാരൻ’ എന്നോ
+‘ഗണകൻ’ എന്നോ മറ്റോ പേരിടുന്നതിനുപകരം ഈ ഇംഗ്ലീഷുവാക്കിന്റെ പുറകെ പോയതു്? പ്രത്യേകിച്ചും ആ
+പദം സുന്ദരമല്ലാതിരിക്കുമ്പോൾ! കാരണമുണ്ടു്. അതു് കാരൂരിന്റെ ട്രേഡ്മാർക്കാണു്. ആ പേരിടലിൽ
+തെളിഞ്ഞുകാണുന്ന സറ്റയർ ആണു് കാരൂരിന്റെ കലയിലെ ഏറ്റവും ഉൽകൃഷ്ടമായ അംശം. ഈ പുസ്തകത്തിലെ
+കഥകളെ നോക്കാം. അസ്ട്രോളജറുടെ കഥയിൽ നാട്ടിൽ പണിയില്ലാതെ വന്ന ഒരു സാധുമനുഷ്യൻ മദിരാശിയിൽ
+ചെന്നു് “മലയാളി അസ്ട്രോളജർ” എന്നൊരു ബോർഡുവെച്ചു് ജീവിക്കുന്നതാണു് ചിത്രീകരിച്ചിരിക്കുന്നതു്. കഥയുടെ
+അവസാനത്തിൽ ആ ഗണിതക്കാരൻ അയാൾക്കു് വശമില്ലാത്ത ആ വിദ്യയുടെ ഗുണഗണങ്ങളെ
+പ്രകീർത്തിക്കുന്നതു കണ്ടു് പലരും കാരൂരിനെ തെറ്റിദ്ധരിക്കാൻ ഇടയുണ്ടു്. “സ്നേഹിതാ, പലതരം
+ജീവിതവൈഷമ്യങ്ങളിൽ ഞെരുങ്ങുന്നവർക്കു് ഒരു നല്ല ഭാവിയിൽ ആശ ജനിപ്പിക്കുന്ന ഞങ്ങളാണു്
+വാസ്തവത്തിൽ ജനസമുദായത്തെ നിലനിർത്തുന്നതു്” (പുറം 27). ഇതുകേട്ടാൽ തോന്നും അയാളും കഥാകൃത്തും
+സാധുമനുഷ്യരെ കബളിപ്പിച്ചു് ജീവിക്കുന്ന ഏർപ്പാടു് തൊഴിലില്ലാത്തവർക്കു് ഒരു പോംവഴിയായി
+ഉപദേശിക്കുന്നുവെന്നു്. പക്ഷേ, ശ്രീ. കാരൂരിനു് വേണ്ടതു് അതൊന്നുമല്ല. രണ്ടു പരമാർത്ഥങ്ങൾ
+ചൂണ്ടിക്കാണിക്കുന്നു. ഒന്നാമതായി ഇന്നത്തെ സമുദായഘടനയിൽ എല്ലുമുറിയെ പണിയെടുക്കാൻ കഴിവുള്ള
+അനേകായിരം ആളുകൾ തൊഴിൽകിട്ടാതെ ഉഴലുന്നുണ്ടു്. രണ്ടാമതു്, മര്യാദയ്ക്കു് ജോലിചെയ്യാൻ അവസരം
+കൊടുക്കാത്ത സമുദായം കളവിനും വഞ്ചനയ്ക്കും മാത്രമേ വിജയം കൊടുക്കുകയുള്ളൂ എന്നു് വിധിച്ചിരിക്കുന്നു! <ref target="https://ml.wikipedia.org/wiki/Charlie_Chaplin">ചാർലി ചാപ്ലിന്റെ</ref>
+<ref target="https://en.wikipedia.org/wiki/Charlie_Chaplin##Monsieur_Verdoux_and_communist_accusations">മൊസ്സ്യേ
+വെർദു</ref> എന്ന ചിത്രത്തിന്റെ ലക്ഷ്യം തന്നെയാണു് ഈ കഥയ്ക്കും ഉള്ളതു്. അതു സാധിച്ചിരിക്കുന്നതു്
+
+പരിപാവനമായ അദ്ധ്യാപകവൃത്തിയുടെ ദാരിദ്യവും, തട്ടിപ്പു് എന്ന അപമാനകരമായ ഉദ്യോഗത്തിന്റെ മാന്യതയും
+ഒരുമിച്ചു കാണിച്ചു്, അവ രണ്ടിനേയും ഏക കാലത്തിൽ ഉത്ഭവിപ്പിച്ചു് സമുദായഘടനയെപ്പറ്റി നമ്മിൽ
+പുച്ഛമുണ്ടാക്കി, നമ്മെക്കൊണ്ടു് ചിരിപ്പിച്ചിട്ടാണു്.
+</p>
+          <figure rend="fleft" type="grb">
+            <graphic url="images/Monsieur_Verdoux_poster.jpg" rendition="grb"/>
+          </figure>
+          <p> അല്പം വൈദഗ്ദ്ധ്യമുള്ള കണ്ണുകൾക്കുമാത്രമേ അതിന്റെ ഭംഗികാണാൻ കഴിവുണ്ടാകയുള്ളു. ഈ
+വിഷയംതന്നെ മറ്റുതരത്തിൽ പറഞ്ഞു കൂടെന്നില്ല. ജീവിക്കാൻ മാർഗ്ഗമില്ലാത്ത ഒരു ആലപ്പുഴക്കാരൻ ഒരു
+വാടകഗുണ്ടയായിത്തീർന്നു കൊലപാതകം ചെയ്യുന്നതും അതുകൊണ്ടു പണമുണ്ടാക്കുന്നതും എല്ലാം നല്ല
+കഥാവിഷയങ്ങളാണു്. അവയെല്ലാം സാധാരണ വായനക്കാരനെ കൂടുതൽ ആകർഷിക്കും. അതു് കുടുതൽ
+എളുപ്പത്തിൽ അവൻ മനസ്സിലാകും. ആ രീതി നല്ലതാണു്. പക്ഷേ, അതു കാരുരിന്റെ ടെക്നിക്കല്ലെന്നു മാത്രം.
+വളർച്ചയെത്തിയ ഓരോ കലാകാരനും വ്യക്തിമുദ്രയുണ്ടായിരിക്കും. കാരൂരിന്റെ മുദ്ര ഈ ലഘുവായ
+ആക്ഷേപമാണു്. പട്ടിണിക്കാരനായ ഒരദ്ധ്യാപകൻ എട്ടു കുട്ടികളെ വെള്ളത്തിൽ മുക്കിക്കൊല്ലുന്നതായി
+കാരുരിനു് വിഭാവനം ചെയ്യാൻ കഴിവില്ല. എന്നാൽ, അദ്ദേഹത്തിന്റെ സഹപ്രവർത്തകൻ ഒന്നാംക്ലാസ്സിലെ
+കുട്ടിയുടെ പൊതിച്ചോറു് കട്ടുതിന്നുന്നതു് കാരൂർ കണ്ടുപിടിക്കും. കടുംചായം തേച്ചു് ഭീകരചിത്രങ്ങൾ വരയ്ക്കാൻ
+മുതിർന്നാൽ അദ്ദേഹം പരാജയപ്പെടുമെന്നു് ഞാൻ ഇതിനു മുമ്പൊരിക്കൽ, മേൽവിലാസത്തിന്റെ
+നിരൂപണത്തിൽ പറഞ്ഞിട്ടുണ്ടു്. അദ്ദേഹത്തിന്റെ ശാന്തപ്രകൃതിക്കും ആവേശരാഹിത്യത്തിനും പറ്റിയതു്
+സുന്ദരകലാരീതിതന്നെയാണു്. ഈ ടെക്നിക്കു് തന്നെയാണു്, കുടുംബ ബഡ്ജറ്റ്, അയാളുടെ ഗ്രന്ഥങ്ങൾ,
+വഴിപോക്കൻ, എക്സ്ചേയ്ഞ്ച്, പപ്പുനായർ എന്നീ കഥകളിലും പ്രയോഗിച്ചിരിക്കുന്നതു്. ഒരു അദ്ധ്യാപകനും
+(അയാൾ സഹകരണസംഘം സെക്രട്ടറിയും കൂടിയാണേ!) അയാളുടെ ഭാര്യയും അമ്മയുംകൂടി പരിശ്രമിച്ചിട്ടും
+കുടുംബച്ചെലവിന്റെ കണക്കെടുക്കാൻ സാധിച്ചില്ലെന്നു പറയുന്നതു അതിശയോക്തിയൊന്നുമല്ല.
+മാർത്താണ്ഡത്തിനടുത്തു് ഒരു സാമ്പത്തികസർവെ നടത്തിയപ്പോൾ വരവിന്റെ പത്തിരട്ടി ചെലവുള്ള
+കുടുംബങ്ങളെ കണ്ടുകിട്ടിയിട്ടുണ്ടു്. കൂട്ടത്തിൽ പറഞ്ഞുകൊള്ളട്ടെ, കടമൊന്നും ചേർക്കാതെതന്നെയാണു് ആ
+അധികച്ചെലവു് ! വരവിനത്തിൽനിന്നു് “പട്ടിണി”യെന്ന മുഖ്യമായ ഇനം വിട്ടുപോകുന്നുവെന്നതാണു് ഇതിലെ
+ശാസ്ത്രീയമായ തെറ്റു്. പക്ഷേ, ഇക്കഥ അറിഞ്ഞുകൂടാത്ത സാധാരണക്കാരൻ ഏതു കുടുംബത്തിന്റേയും ബഡ്ജറ്റ്
+(ഹോ! എന്തു് അന്തസ്സുള്ളപേരു്) ഒരു വിരോധാഭാസമാണു്. മൂന്നുനാലു ബീഡിയും, ഭാര്യയും കരിന്തിരി കത്തുന്ന
+വിളക്കും, അമ്മയും എല്ലാം സഹകരിച്ചിട്ടും നാണുപിള്ള ഈ വിരോധാഭാസത്തിൽനിന്നു് മുക്തി നേടുന്നില്ല.
+ആയുസ്സുണ്ടെങ്കിൽ ചാകാതെ കിടക്കുമെന്ന ഫിലോസഫിയിന്മേൽ ഔഷധമെന്ന ചെലവിനം നാണുപിള്ള
+വെട്ടിക്കുറച്ചു. പഞ്ചസാര കരിഞ്ചന്തയിൽ വിറ്റു് ബീഡി മേടിക്കാൻ വരവുമുണ്ടാക്കി. എന്നിട്ടും, ബഡ്ജറ്റ് ബാലൻസ്
+ചെയ്യുന്നില്ലത്രെ. റേഷൻ വാങ്ങാൻ തന്നെ ശമ്പളം തികയുന്നില്ല. അതായതു് ജീവിക്കാൻ (എന്നുവെച്ചാൽ
+മരിക്കാതിരിക്കാൻ എന്നർത്ഥം) അത്യന്താപേക്ഷിതമെന്നു് ഭരണാധികാരികൾ തീരുമാനിച്ചുവെച്ച
+ഭക്ഷണത്തിന്റെ ഇരുപത്തഞ്ചു് ശതമാനം വെട്ടിക്കുറയ്ക്കലും കഴിഞ്ഞുകിട്ടുന്നതു സർക്കാർ നിശ്ചയിച്ചവിലയ്ക്കു
+വാങ്ങാൻപോലും തികയാത്ത ശമ്പളമാണു് സർക്കാർ കൊടുക്കുന്നതു്. ഇപ്പോഴത്തെ ഗവൺമെന്റിനെപ്പോലെ
+ഒരു മിച്ച ബഡ്ജറ്റുണ്ടാക്കിയതിനു കിട്ടാവുന്ന സമ്മാനംകൂടി കൂട്ടിനോക്കിയിട്ടും അതു് സാധിക്കുന്നുമില്ല. ഈ
+കുഴഞ്ഞ പ്രശ്നത്തിൽനിന്നു് ഒരു മാർഗ്ഗം മാത്രമേ ഉണ്ടായിരുന്നുള്ളു. നാണുപിള്ള കല്ലുവെട്ടാൻപോയി.
+</p>
+          <p>തകർന്നുവിഴുന്ന ഫ്യൂഡലിസത്തിന്റെ ഒരു സാധാരണസൃഷ്ടിയാണു് പൂർവ്വികരുടെ പ്രതാപമോർത്തു്
+നെടുവീർപ്പിടുന്ന ‘കൈമൾ’. വർത്തമാനകാലത്തെ യാഥാർത്ഥ്യങ്ങളെ കണ്ടുമനസ്സിലാക്കി ഭാവിയിലേയ്ക്കു്
+പോകാനുള്ളതിനുപകരം പണ്ടെങ്ങോ മണ്ണടിഞ്ഞുപോയ പ്രഭാവത്തിന്റെ പ്രേതത്തെ തപസ്സുചെയ്തു നശിക്കുന്ന
+മടിയന്മാർ ഇന്നത്തെ ഇന്ത്യയുടെ ഏറ്റവും പ്രധാനപ്പെട്ട രോഗമാണു് ആ വർഗ്ഗത്തിൽപെട്ട ആരോ ആണു് മരിച്ചിട്ടു്
+സഹസ്രാബ്ദങ്ങൾ കഴിഞ്ഞു് സംസ്കൃതത്തെ ദേശീയ ഭാഷയാക്കണമെന്ന വാദിച്ചതു്. ആ വർഗ്ഗത്തിന്റെ
+നേതാവായിരുന്നു പഴയ റോമാസാമ്രാജ്യത്തെ ഉദ്ധരിക്കാൻ ശ്രമിച്ച <ref target="https://ml.wikipedia.org/wiki/Benito_Mussolini">മുസ്സോളിനി</ref>.
+</p>
+          <p>നാഥുറാം വിനായക് ഗോദ്സേയും ഇനം അതുതന്നെ. ഈ ഇനത്തെ കാരൂർ ‘അയാളുടെ ഗ്രന്ഥങ്ങൾ’ എന്ന
+കഥയിൽ കണക്കിനു കളിയാക്കിയിട്ടുണ്ടു്. കൈമളുടെ പൂർവ്വികനെ സേനാനായകനാക്കിയ രാജകല്പന
+അയാളുടെ കൈവശമുണ്ടു്. പക്ഷേ, അതു കൊടുത്താൽ ഒരു കടുംചായപോലും കിട്ടുകയില്ല. അതുകൊണ്ടു
+തന്നെയാണു് ആ പാവപ്പെട്ട സ്ത്രീ ഒന്നു മൂളുകപോടും ചെയ്യാതിരുന്നതു്. കണ്ണാടിയിൽ നോക്കുന്ന മിക്ക
+ചെറുപ്പക്കാര്‍ക്കും (ചില തൈക്കിഴവന്മാർക്കും) കാരൂരിന്റെ ‘വഴിപോക്കൻ’ പരിചിതനായിരിക്കാം. ഇത്തരം
+സുന്ദരവിഡ്ഢികൾ സാധാരണയായി ഒളിച്ചാണു് നടക്കുന്നതു് ഹിന്ദി, ഖദർ, സാഹിത്യം മുതലായ
+അലങ്കാരങ്ങളോടുകൂടി വരുമ്പോൾ മാത്രമേ അവർ യുണിഫാറധാരികളാകാറുള്ളൂ. അവർ ഒരു
+ബോറുതന്നെയാണു് സംശയമില്ല. പക്ഷേ, ആ ശിക്ഷ അല്പം അതിരുകടന്നുപോയി. വലമണിക്കു വലിയ
+ഭാരമാണു്. ചൂലിനു് കനക്കുറവുണ്ടല്ലോ.
+
+</p>
+          <p>പൂരുരുട്ടാതി നാളിൽ പിറന്ന അഞ്ചൽമാൻ അച്ചുതൻപിള്ളയുടെ ഭാര്യ ആണ്ടുതോറും പ്രസവിക്കുകയാണു്.
+ആശാരിപ്പണിക്കനു സന്താനമില്ലാത്ത ദുഃഖമാണു്. ഈ പ്രശ്നത്തിനു് എക്സ്ചേഞ്ചല്ലാതെ മാർഗ്ഗമൊന്നുമില്ല.
+ഇന്നത്തെ വിവാഹസമ്പ്രദായത്തെപ്പറ്റിയോ കുടുംബന്ധങ്ങളെപ്പറ്റിയോ ഗർഭനിരോധനത്തെപ്പറ്റിയോ ഒന്നും ശ്രീ.
+കാരൂർ പറയുന്നില്ല. നമ്മെ ഒന്നു ചിരിപ്പിച്ചു അത്രമാത്രം. പക്ഷേ, ഇനി സി. ഇ. എം. ജോസിന്റെ
+‘സദാചാരത്തിന്റെ ഭാവി’ എന്ന പുസ്തകം ഒന്നു വായിച്ചുനോക്കുക. ഇതിനോടു് ബന്ധമുള്ള പലതും കാണാം.
+</p>
+          <p>ഫാക്ടറികൾ ചവച്ചുതുപ്പുന്ന ചണ്ടികളുണ്ടു്—ആരോഗ്യം നശിച്ച തൊഴിലാളികൾ. ധനികഗൃഹങ്ങളിൽനിന്നും
+ബഹിഷ്കരിക്കപ്പെടുന്ന ഭൃത്യവർഗ്ഗവും ഇക്കൂട്ടത്തിൽതന്നെപെട്ടതാണു്. അതിലൊന്നാണു് കാരൂരിന്റെ ‘വൃദ്ധൻ.’
+വിഷയം നല്ലതാണെങ്കിലും ഇക്കഥയ്ക്കു വേണ്ടത്ര ശക്തിയില്ല. ‘ഭർത്താവു്’ എന്നതു് ഒരു ഉദ്യോഗപ്പേരാണു്,
+‘കൂട്ടിരുപ്പു്’ എന്നെല്ലാം ഫ്യൂഡൽ ഭാഷയിൽ പറയുന്നതുപോലെ കൗസല്യയ്ക്കു കയറുപിരിക്കാൻ വേണ്ട തൊണ്ടു
+വാങ്ങിച്ചു കൊണ്ടുവരാൻപോലും ഈ ഇത്തിക്കണ്ണി പ്രയോജനപ്പെടുന്നില്ല. മാധവനെ സ്വതന്ത്രത്തൊഴിലാളി
+യൂണിയനിലോ സമാധാന സംരക്ഷകസംഘത്തിലോ ചേർക്കാം.
+</p>
+          <figure rend="fleft" type="grb">
+            <graphic url="images/Thakazhi.jpg" rendition="grb"/>
+            <figDesc style="thumb">തകഴി</figDesc>
+          </figure>
+          <p> ഈ സമാഹാരത്തിൽ ഏറ്റവും അഗാധമായ ഒരു മനഃശാസ്ത്രപ്രശ്നം പ്രതിപാദിക്കുന്നതു ‘വഞ്ചന’ എന്ന
+കഥയിലാണു്. ഭൃത്യയെങ്കിലും നങ്ങുവമ്മ വളർത്തമ്മയാണു്. ചന്ദ്രമോഹനനെ ആ വൃദ്ധ പുത്രനിർവ്വിശേഷമായി
+സ്നേഹിക്കുന്നുണ്ടു്. ശുദ്ധഹൃദയനായ ആ പടുവങ്കനാകട്ടെ, ആ സ്നേഹത്തിന്റെ സ്വഭാവം മനസ്സിലാക്കുന്നില്ല.
+അവൻ ഭാര്യയുടെ അടിമയായിരിക്കുന്നു. ജാരസമാഗമത്തിനു പ്രതിബന്ധമായ ആ വൃദ്ധയെ അവിടെനിന്നു
+നിഷ്ക്കാസനം ചെയ്യാൻ ചന്ദ്രമോഹനൻ ഒരു ഉപകരണമായിത്തീരുന്നു. ഇക്കഥകൊണ്ടു് ആ യുവതിയുടെ
+ചീത്തസ്വഭാവത്തെയോ ചന്ദ്രമോഹനന്റെ അടിമത്തത്തെയോ ഊന്നിപ്പറയണമെന്നു കാരൂർ
+വിചാരിച്ചിട്ടുണ്ടായിരിക്കയില്ല. ആ വൃദ്ധയുടെ സ്നേഹത്തെയാണു് പ്രധാനമായി കഥാകൃത്തു് ഉദ്ദേശിച്ചിട്ടുള്ളതെന്നു
+തോന്നുന്നു. ശ്രീ. <ref target="https://ml.wikipedia.org/wiki/Thakazhi_Sivasankarappilla">തകഴി</ref>
+ഒരിക്കൽ പറഞ്ഞു, അമ്മയും മക്കളും തമ്മിലുള്ള ബന്ധമാണു് മനുഷ്യ സമുദായത്തിലെ അടിസ്ഥാനബന്ധം.
+ഭാര്യാഭർത്തൃബന്ധമല്ല എന്നു്. രണ്ടാമത്തേതു് അഗാധമല്ല; ഒരു പ്രത്യേക സാമൂഹ്യഘടനയിലെ ചടങ്ങാണു്;
+അതുണ്ടായിട്ടു കാലം കുറച്ചേ ആയിട്ടുള്ളു; കുറേക്കൂടി കഴിഞ്ഞാൽ നശിക്കുകയും ചെയ്യും. ആദ്യത്തേതാകട്ടെ,
+ജീവശാസ്ത്രത്തിൽ അടിസ്ഥാനമുറപ്പിച്ചിരിക്കുന്നു. അതാണു് നീണ്ടുനീണ്ടുപോകുന്ന മനുഷ്യവർഗ്ഗചങ്ങലയുടെ കണ്ണി.
+ഈ അഭിപ്രായങ്ങളോടു് നാം യോജിച്ചാലും വിയോജിച്ചാലും നങ്ങുവമ്മ യോജിക്കാതിരിക്കയില്ല.
+</p>
+          <p>ഈ കഥകളിലെല്ലാം പൊതുവേ കാണുന്ന സ്വഭാവം അവയുടെ സാധാരണത്വമാണു്. ഒരു വലിയ
+ജനക്കൂട്ടത്തിൽ നാം ആദ്യമായി കാണുന്നതു പ്രത്യേകമായി എന്തെങ്കിലും വിശേഷങ്ങൾ ഉള്ളവരെയാണു്. ചുവന്ന
+വസ്ത്രമുള്ളവരെയോ ഏഴടിപൊക്കമുള്ളവരെയോ കാണാതിരിക്കുക സാധ്യമല്ല. പക്ഷേ, ഒരു ഉത്തമകലാകാരനു
+സാധാരണമനുഷ്യന്റെ ദൈനംദിനജീവിതത്തിൽ രസകരമായ ഒട്ടനവധി സന്ദർഭങ്ങൾ കാണാൻ കഴിയും.
+പക്ഷേ, അവയെ ചിത്രപ്പെടുത്തിയാൽ സാധാരണക്കാരനു രസിക്കാൻ കഴിയുകയില്ല. തെറ്റു് കലാകാരന്റേതല്ല:
+ആസ്വാദകന്റേതാണു്. സാധാരണക്കാരന്റെ കലാസ്വാദനശക്തിയെ അധിക്ഷേപിച്ചാൽ ചില
+പുരോഗമനവാദികൾ ശുണ്ഠിയെടുക്കും. ഇന്നത്തെ സമുദായഘടനാരീതി മനുഷ്യരെ ദാരിദ്ര്യത്തിലേക്കു മാത്രമല്ല
+വലിച്ചിഴക്കുന്നതു്. സാംസ്കാരികാധഃപതനത്തിലേക്കു കൂടിയാണെന്നു് മനസ്സിലാക്കാത്ത ശുദ്ധാത്മാക്കളാണവർ.
+പുരോഗമനവാദികൾ ആശിക്കുന്ന സാമൂഹ്യവ്യവസ്ഥിതിയിൽ എൻ.എസ്.കൃഷ്ണന്റെ ഗോഷ്ടികളും വിക്രമാദിത്യയൻ
+കഥയും മറ്റുമാണു് ആസ്വദിക്കപ്പെടുന്നതെങ്കിൽ ആ വ്യവസ്ഥ അത്ര അഭികാമ്യമൊന്നുമല്ല. മറ്റു കഥാകൃത്തുകളുടെ
+കലാവിദ്യ കാരൂരിനെ അപേക്ഷിച്ചു താഴ്‌ന്നതാണെന്നു് ഇതിനർത്ഥമില്ല. കാരൂരിന്റെ കഥകൾക്കു് ആസ്വാദകന്മാർ
+കുറയുകയെന്നതു് അദ്ദേഹത്തിനൊരു പോരായ്മയല്ലെന്നു മാത്രം. ഗണിച്ചാൽ മതി. എങ്കിലും ഒന്നു പറയാതെ
+ഗത്യന്തരമില്ല. ഇംഗ്ലീഷ് മാതൃകയിലുള്ള ‘ചെറുകഥ’ എന്ന പ്രത്യേകകലാ രൂപത്തിൽ ഏറ്റവും അധികം
+വൈദഗ്ദ്ധ്യമുള്ള മലയാളസാഹിത്യകാരൻ കാരൂരാണു്.
+</p>
+          <p>ശ്രീ. കാരൂരിനെ സംബന്ധിച്ചിടത്തോളും, എഴുതിയതിനെപ്പറ്റി മാത്രം പറഞ്ഞതുകൊണ്ടായില്ല.
+എഴുതാത്തതിനെപറ്റിയും ചിലതു പറയാനുണ്ടു്. ജീവിതത്തിന്റെ ചില വശങ്ങൾ കാരൂർ വിട്ടുപോകുന്നതു
+യാദൃച്ഛികമായിട്ടാണെന്നു് എനിക്കു തോന്നുന്നില്ല. അദ്ദേഹത്തിന്റെ ചുറ്റും നടക്കുന്ന സംഭവങ്ങൾ അദ്ദേഹം
+കാണാതിരിക്കുകയില്ല. ഏതു ചേരിയിലാണെന്നു് ചോദ്യവും അദ്ദേഹത്തെ സംബന്ധിച്ചിടത്തോളം
+അപ്രസക്തമാണു് (മറ്റു പുരോഗമനസാഹിത്യകാരന്മാരെപ്പോലെ). പിന്നെയെന്താണു് അദ്ദേഹത്തിന്റെ നാട്ടിലെ
+ധീരസമരങ്ങൾ കഥകളിൽ പ്രതിഫലിക്കാത്തതു്. തീർച്ചയായും ഇന്നത്തെ ഗവണ്മെന്റുകളുടെ സ്വഭാവം
+
+അദ്ദേഹത്തെയും പേടിപ്പെടുത്തുന്നുണ്ടായിരിക്കാം. രക്തം കുടിച്ചു ജീവിക്കുന്ന ഒരു വർഗ്ഗം, പത്രങ്ങളും
+പ്രസാധകത്വവും കയ്യടക്കിയിരിക്കുന്ന കാലത്തു് ഒരു കലാകാരൻ അല്പം ഭയന്നുപോകുന്നതു് അത്ഭുതാവഹമല്ല,
+അതൊരു മഹാപാതകവുമല്ല. എങ്കിലും, കുറെയൊക്കെ ചെയ്യാൻ കഴിയുമെന്നാണു് എന്റെ വിശ്വാസം. ഈ കുറവു്
+അദ്ദേഹത്തിന്റെ കൃതികളുടെ പ്രചാരത്തേയും ബാധിക്കുന്നുണ്ടു്. ജനത ഒരു ജീവൻമരണസമരത്തിൽ
+ഏർപ്പെട്ടിരിക്കുമ്പോൾ ആ സമരത്തെ പ്രതിഫലിപ്പിക്കുന്ന കല മാത്രമേ അവർക്കു രസിക്കാൻ കഴിയു. അതു്
+അവരുടെ അവകാശമാണു്. അവരുടെ ധൈര്യത്തിനു പോഷണം നല്കുന്ന കല സൃഷ്ടിക്കേണ്ടതു് കലാകാരന്റെ
+കർത്തവ്യമാണു്. കലാസൃഷ്ടിക്കുള്ള സ്വാതന്ത്ര്യവും കലാകാരന്റെ ചോറും ഉണ്ടാക്കുന്നതു സാധാരണക്കാരന്റെ
+പ്രയത്നത്തിൽനിന്നാണു് ശ്രീ. കാരൂർ അതു മനസ്സിലാക്കുന്നുണ്ടു്. പക്ഷേ, എന്തോ ഒരു അവശതാബോധം
+അദ്ദേഹത്തെ തടയുകയാണു്, ഇതാണു് കാരൂരിന്റെ കഥകളുടെ ബലഹീനവശം.
+</p>
+          <p>
+വിലയിരുത്തൽ 1951.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Enthukond Karur (ml: എന്തുകൊണ്ടു്
+കാരൂർ?).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-09-19. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Enthukond Karur, സി ജെ തോമസ്, എന്തുകൊണ്ടു് കാരൂർ?, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 24, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:Vermeer-view-of-delft.jpg">View
+of Delft,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Johannes_Vermeer">Johannes
+Vermeer</ref>  (1632–1675). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  JS Aswathy; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-karur.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-karur.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

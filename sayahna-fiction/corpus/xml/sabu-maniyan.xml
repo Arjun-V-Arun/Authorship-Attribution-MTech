@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മണിയന്റെ ചിരി</title>
+          <title xml:lang="en" type="main">Maniyante Chiri</title>
+        </title>
+        <author>Sabu Hariharan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 6, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മണിയന്റെ ചിരി</title>
+              <title xml:lang="en" type="main">Maniyante Chiri</title>
+            </title>
+            <author>Sabu Hariharan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-03-23</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Short story</term>
+          <term>Sabu Hariharan</term>
+          <term>Maniyante Chiri</term>
+          <term>സാബു ഹരിഹരൻ</term>
+          <term>മണിയന്റെ ചിരി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="short story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-03-23</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Sower.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:JeanFran%C3%A7ois_Millet_-_The_Sower_-_Walters_37905.jpg">The Sower,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/JeanFran%C3%A7ois_Millet">Jean-François Millet</ref>  (1814–1875). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മണിയന്റെ ചിരി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സാബു ഹരിഹരൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapter" n="1" xml:id="chp1">
+        <head type="chaphead"/>
+        <div type="lsection">
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/maniyanthe.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>കൃഷിയിറക്കാൻ തീരുമാനമായി. മൺമനസ്സും മനുഷ്യമനസ്സുമൊരുങ്ങി. അയാൾക്കൊരു ചെറിയ കൂരയുണ്ടു്.
+മഴ പെയ്താലും വെള്ളമിറങ്ങാത്ത വിധം അടുക്കിനു ഓലകൾ വെച്ചൊരു കൂര. അതിനു മുകളിൽ കാക്കകൾ
+വന്നിരിക്കാറുണ്ടു്. പലതരം കാക്കകൾ. ചുവന്ന വായുള്ള ചെറിയ കാക്കകൾ, സദാ ഇടം വലം വെട്ടിത്തിരിഞ്ഞു
+നോക്കുന്ന കറുപ്പും ചാരനിറവും കലർന്ന സാധാരണ കാക്കകൾ, കടുംകറുപ്പിൽ മുങ്ങി നില്ക്കുന്ന ബലികാക്കകൾ.
+ഈ കാക്കകളിൽ നിന്നാവും കറുപ്പു് നിറം തന്നെ ഉണ്ടായിട്ടുണ്ടാവുക! പറന്നു പോകുന്ന കറുത്ത
+പൊട്ടുകൾ—അതാവാം ഒരുപക്ഷേ, സൃഷ്ടാവു് മനസ്സിൽ കണ്ടിട്ടുണ്ടാവുക. കർഷകനു ഒരാൺകുട്ടിയുണ്ടു്. അവനും
+കർഷകനെ പോലെ വിളവുകളാണു് സ്വപ്നം കാണുന്നതു്. കാറ്റിൽ ഒരു വശത്തേക്കു് തല ചെരിച്ചു് നില്ക്കുന്ന
+കതിരുകളാണു് അവന്റെ സ്വപ്നക്കാഴ്ച്ചകളിൽ മിക്കപ്പോഴും നിറയുന്നതു്. അതിനു നടുവിൽ നിന്നാണവൻ പന്തു
+കളിക്കുക. ചുവന്ന പന്താണു്. എപ്പോഴും ഒറ്റയ്ക്കാണവൻ കളിക്കുന്നതു്. മേല്പോട്ടുയരത്തിലെറിയുന്ന പന്തു്
+ചിലപ്പോൾ താഴേക്കു് വരില്ല. വരികയാണെങ്കിൽ തന്നെ ചിലപ്പോൾ വയലിൽ പച്ച നിറത്തിനിടയിൽ പെട്ടു
+പോകും. പച്ച നിറത്തിനുള്ളിൽ നിന്നും ചുവപ്പു് നിറം കണ്ടെടുക്കാൻ പ്രയാസമൊന്നുമില്ല. അവനു് സ്വപ്നത്തിൽ
+ഒരുപാടു് ചുവന്ന പന്തുകൾ നഷ്ടപ്പെട്ടിട്ടുണ്ടു്. അതൊക്കെയും കൃഷിയിടത്തു് പലയിടത്തായി ചെളിയിൽ പുതഞ്ഞു
+കിടപ്പുണ്ടാവും. അവന്റെ വീട്ടിനടുത്തുള്ള പീടികയിൽ പന്തുകൾ വാങ്ങാൻ കിട്ടും. പക്ഷേ, അവിടെയൊരിക്കലും
+ചുവന്ന പന്തുകൾ അവൻ കണ്ടിട്ടില്ല. ചുവന്ന പന്തുകൾ അവന്റെ സ്വപ്നങ്ങളിൽ മാത്രമാണു്. അതെടുത്തവൻ
+കളിക്കും. ഉയരത്തിലേക്കെറിയും. വയലിൽ നഷ്ടപ്പെടും. അവനതു് തിരഞ്ഞു നടക്കും. ഇതാണു് പതിവു സ്വപ്നങ്ങൾ.
+ഉണർന്നു് കഴിഞ്ഞാലും അവൻ ചിലപ്പോൾ കൃഷിയിടങ്ങളിൽ പോയി നോക്കാറുണ്ടു്. അവന്റെ പന്തുകൾ
+പച്ചകൾക്കിടയിൽ തിരയാറുണ്ടു്. ചിലപ്പോളതെല്ലാം ചെളിയിൽ പുതഞ്ഞു പോയിട്ടുണ്ടാവും. മണ്ണു്
+വിഴുങ്ങിയിട്ടുണ്ടാവും. മണ്ണിരകളുടെ ലോകത്തെത്തിയിട്ടുണ്ടാവും. അവർ അതിനെ സിംഹാസനമോ,
+ആരാധിക്കുന്ന പ്രതിഷ്ഠയോ ആക്കിയിട്ടുണ്ടാവും. അങ്ങനെയൊക്കെയാണവൻ ആലോചിക്കുക. അവന്റെ
+ആലോചനകളൊക്കെ അത്രയേ ഉള്ളൂ. ചെറിയ ചുവന്ന പന്തുകളെ പോലെ ചെറിയ ചെറിയ ആലോചനകൾ.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/sabu-maniyan-02.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>കൃഷിക്കാരൻ മണ്ണുഴുതു. മനസ്സിലുമയാൾ ഉഴുതു. മകൻ മണ്ണിൽ തന്നെ നോക്കി നിന്നു. അവന്റെ
+പന്തുകളൊന്നും മണ്ണു തള്ളിമാറ്റി പൊങ്ങി വന്നില്ല. വിത്തെറിയാൻ അച്ഛന്റെ കൂടെ അവനും കൂടി. അവനതൊരു
+കളിയാണു്. അച്ഛന്റെ ജീവിതമാണു് അവൻ എറിഞ്ഞു കളിക്കുന്നതു്. അച്ഛന്റെ ജീവിതത്തിന്റെ അറ്റത്താണു്
+അവന്റെ ജീവിതവും അവന്റെ അമ്മയുടെ ജീവിതവും കൂട്ടിക്കെട്ടിയിരിക്കുന്നതു്. അതവനറിയില്ല. അവനൊരു
+കൊച്ചു കുട്ടിയാണു്. ചെറിയ ചുവന്ന പന്തുകളെ സ്വപ്നം കാണുന്ന ഒരു ചെറിയ കുട്ടി. വിത്തെറിഞ്ഞതു്
+മണ്ണിലാണെങ്കിലും വിളവു് മനസ്സിലാണു്. ഈ പ്രാവശ്യം നല്ല വിളവു് കിട്ടുമെന്നാണവന്റെ അച്ഛൻ സ്വപ്നം
+കാണുന്നതു്. ഉറങ്ങുമ്പോൾ അച്ഛനും എന്തൊക്കെയോ സ്വപ്നം കാണാറുണ്ടു്. അതു ചെറിയ ചുവന്ന പന്തുകളല്ല.
+മറ്റെന്തൊക്കെയോ ആണു്. ആ സ്വപ്നങ്ങളെ കുറിച്ചൊന്നും അവനറിയില്ല. സ്വപ്നങ്ങൾ കോട്ടുവായ പോലെ
+പകരാറില്ല. അതു കൊണ്ടു് അച്ഛൻ കാണുന്ന സ്വപ്നങ്ങൾ എന്താണെന്നവനറിയില്ല. അവൻ കോട്ടുവായിടുന്നതു്
+കാണുമ്പോൾ അവന്റെ അച്ഛൻ ക്ഷീണിച്ച കണ്ണു കൊണ്ടവനെ നോക്കും. പാവം അവനും തന്റെയൊപ്പം പണിക്കു്
+
+വന്നതു് കൊണ്ടാണു് കോട്ടുവായിടുന്നതു്. അവന്റെ നെറ്റിയിൽ തലോടി കൊണ്ടിരിക്കും ആ മനുഷ്യൻ.
+അപ്പോഴാണവൻ ഉറങ്ങി പോവുക. അപ്പോഴാണവൻ സ്വപ്നം കാണുക. അപ്പോഴാണവന്റെ കൈയ്യിൽ ചുവന്ന
+പന്തു് കിട്ടുക.
+</p>
+          <p>ഒരുപാടു് തവണ പകലും രാത്രിയും പരസ്പരം മുന്നിൽ വന്നു നില്ക്കാൻ മത്സരിച്ചു. പകലും രാത്രിയും
+വിചാരിക്കുന്നതു് അവർ ഏതോ വരിയിൽ നില്ക്കുകയാണെന്നാണു്. ആരാണു് മുൻപിൽ എന്നു് അവരിരുവരും
+മത്സരിച്ചു കൊണ്ടിരിക്കുന്നു. പക്ഷേ, ഏതു വരിയിൽ എന്തു കാത്താണു് നില്ക്കുന്നതെന്നു് പകലിനോ രാത്രിക്കോ
+അറിയില്ല. ഒരാൾ മുന്നിൽ നില്ക്കുമ്പോൾ മറ്റൊരാൾ പിന്നിൽ. ഇതൊക്കെ കണ്ടു് സൂര്യൻ ചിരിക്കും. ചന്ദ്രൻ
+വെളുക്കെ ചിരിക്കും. നക്ഷത്രങ്ങൾ കണ്ണു ചിമ്മി ചിരിക്കും.
+</p>
+          <p>ഇപ്പോൾ പാടം നിറയെ പച്ച നിറമാണു്. ജീവന്റെ നിറമാണു്. വിശപ്പിന്റെ നിറവും ഒരു പക്ഷേ, അതാവും.
+കൃഷിക്കാരന്റെ മകനു വിശപ്പു് വേദനയാണു്. വയറു് വേദനിക്കുന്നു എന്നാണവൻ പറയുക. അവനു വിശപ്പും
+വേദനയും തമ്മിലുള്ള വ്യത്യാസമറിയില്ല. അതു അവൻ വളർന്നു വലുതാവുമ്പോഴേ അറിയൂ. പിന്നീടു് അവനറിയും
+വേദനകൾ തന്നെ പലവിധമുണ്ടെന്നു്. വിശപ്പും പലവിധമുണ്ടെന്നു്. അതറിയുമ്പോഴാണു് അവൻ വലിയ
+കൂട്ടത്തിന്റെ ഭാഗമാവുക. അതു വരെ അവൻ ചുവന്ന പന്തു് വെച്ചു കളിക്കും. വലുതാവുമ്പോൾ ആരും പന്തു
+കളിക്കാറില്ല. അപ്പോൾ ദീർഘചതുരത്തിലുള്ള കടലാസുകൾ നിലത്തെറിഞ്ഞാണു് കളിക്കുക. അതുമൊരു
+കളിയാണു് !
+</p>
+          <p>പകൽ സമയം അവൻ വരമ്പത്തു് കൂടി നടക്കും. തലയുയർത്തി പിടിച്ചാണവൻ നടക്കുക. അവൻ എറിഞ്ഞ
+വിത്തുകളും മുളപൊട്ടി മണ്ണു തുളച്ചു് വന്നിട്ടുണ്ടു്. ഇപ്പോൾ പച്ച നാമ്പുകൾക്കവനെ കാണാം. അവനു
+പച്ചനാമ്പുകളെ കാണാം. അവൻ അവരുടെ കവിളിൽ വിരലോടിച്ചു കൊണ്ടു് വരമ്പത്തൂടെ ഓടും. അവർ അവനെ
+നോക്കി തലയാട്ടി നില്ക്കും. നാളുകൾ കഴിഞ്ഞപ്പോൾ അവർ അവനു കതിരുകൾ കാണിച്ചു കൊടുത്തു. അച്ഛൻ ഒരു
+പേക്കോലമുണ്ടാക്കിയതു് അന്നായിരുന്നു. വൈക്കോൽ നിറച്ചാണതു് ഉണ്ടാക്കിയതു്. അച്ഛന്റെ കീറിയ
+കുപ്പായമാണതിനു ഇട്ടു കൊടുത്തതു്. കരിപിടിച്ച, പൊട്ടലുള്ളൊരു പഴയ മൺകലം കമഴ്ത്തിയപ്പോൾ കോലത്തിനു
+മുഖമായി. മൂക്കും വായും ചുണ്ണാമ്പു് കൊണ്ടു് വരച്ചു വെച്ചു. കണ്ണു വരച്ചതു അമ്മയുടെ കൺമഷി വെച്ചാണു്. വലിയ
+കണ്ണുകൾ. കണ്ടാൽ പേടിയാവും. പക്ഷേ, അമ്മ അതു നോക്കി നിർത്താതെ ചിരിച്ചു. അമ്മയുടെ ചിരി കാണാൻ
+നല്ല രസമാണു്. മഴ പെയ്യുന്നതു് പോലെയാണു്. അച്ഛനു ആ ചിരി കാണുമ്പോൾ അരി തിളയ്ക്കുന്നതാണു് ഓർമ്മ
+വരിക. അപ്പോഴേക്കും അമ്മ കൈ കൊണ്ടു് ചിരി മൂടി കളയും. അരി അപ്പോഴും തിളയ്ക്കും. അയാൾക്കപ്പോഴും അരി
+തിളയ്ക്കുന്ന ശബ്ദം കേൾക്കാനാവും.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/sabu-maniyan-03.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>അച്ഛനും മകനും കൂടിയാണു് പാടത്തു് കോലം കൊണ്ടു് കുത്തിയതു്. ഒരു വലിയ കോലിലാണതു്
+കെട്ടിയുറപ്പിച്ചതു്. രണ്ടു കൈകളും വിടർത്തി അതു നിന്നു. മകനു് ആ നില്പ്പു കണ്ടിട്ടു് കോലത്തിനെ
+ഇക്കിളിയിടണമെന്നു തോന്നി. അവൻ കോലത്തിനെ ചിരിപ്പിക്കാൻ ശ്രമിച്ചു. കോലം കണ്ണും മിഴിച്ചു്
+നിന്നതേയുള്ളൂ. പക്ഷേ, ഒറ്റയ്ക്കായപ്പോൾ കോലം ചിരിച്ചു. എന്തിനാണു് ചിരിച്ചതെന്നു് കോലത്തിനു മാത്രമേ
+അറിയൂ. മകൻ കോലത്തിനു ഒരു പേരിട്ടു—മണിയൻ. അച്ഛനും അമ്മയ്ക്കും പേരിഷ്ടപ്പെട്ടു. കഴുത്തിൽ ഒരു മണികൂടി
+കെട്ടിത്തൂക്കാരുന്നു—തിളയ്ക്കുന്ന ചിരി സ്വന്തമായുള്ള അമ്മ അഭിപ്രായപ്പെട്ടു. അതാവാമല്ലോ എന്നു് അപ്പോൾ
+അവനും അതു തോന്നി. അടുത്തുള്ള അമ്പലത്തിൽ നിറയെ മണികളുണ്ടു്. പക്ഷേ, അതൊക്കെ ദൈവങ്ങളുടെ
+സ്വന്തമാണു്. മനുഷ്യർക്കെന്തിനാ മണി? അവൻ ചെറിയ കുട്ടിയാണു്. അവനു മണികളെ കുറിച്ചറിയില്ല. അവനു
+പന്തുകളെ കുറിച്ചു് മാത്രമേ അറിയൂ.
+</p>
+          <p>തന്നെ എന്തിനാണു് കുത്തി നിർത്തിയിരിക്കുന്നതെന്നു് മണിയനറിയില്ല. നിയോഗമെന്തെന്നറിയാതെ
+മണിയൻ കണ്ണും മിഴിച്ചു് പിടിച്ചു് അവിടേക്കു് വന്ന കാക്കകളെ നോക്കി വെളുക്കെ ചിരിച്ചു. കാക്കകൾ തിരിച്ചും.
+പകൽ സമയം ചില നേരങ്ങളിൽ മണിയന്റെ പുറത്തു് കാക്കകൾ വന്നിരിക്കാറുണ്ടു്. പറന്നു് തളരുമ്പോഴാണു്
+അവറ്റകൾ വന്നിരിക്കാറു്. അപ്പോൾ മണിയന്റെ മുഖത്തു് ഒരു അഭിമാനഭാവം വരും. കാറ്റടിക്കുമ്പോൾ മണിയൻ
+ഇരുവശത്തേക്കും ചെറുതായി ചായും. പതിയെ ഇടംവലം ആടും. അപ്പോൾ മണിയനെ കണ്ടാൽ വാസുവിനെ
+പോലെയിരിക്കും. മരിച്ചു പോയ വാസു. മഴക്കാലത്തു് ജ്വരം വന്നു്, പിച്ചു പേയും പറഞ്ഞു്, കൈകാലിട്ടടിച്ചു് മരിച്ചു
+
+പോയ വാസു. ചിലപ്പോൾ വാസുവിന്റെ പുനർജ്ജന്മമായിരിക്കും മണിയൻ. ആ കാര്യം വാസുവിനും അറിയില്ല.
+മണിയനും അറിയില്ല. വൈകുന്നേരം കൃഷിക്കാരൻ വരമ്പു വഴി പോകുമ്പോൾ മണിയനെ നോക്കും. മണിയനും
+തിരിച്ചു നോക്കും. മകൻ കുറച്ചു് നേരം മണിയനോടു് എന്തൊക്കെയോ സംസാരിച്ചു നില്ക്കുന്നതു് അയാൾ
+കാണാറുണ്ടു്. അവൻ ഇപ്പോഴും കുട്ടി തന്നെ. അതു കാണുമ്പോൾ അയാൾക്കു് നല്ല സന്തോഷം തോന്നും. അവൻ
+മണിയനോടു് ചോദിക്കുന്നതു് അവനറിയാത്ത കാര്യങ്ങളൊക്കെയാണു്. അവന്റേതു് കുഞ്ഞു കുഞ്ഞു
+സംശയങ്ങളാണു്. ചോദ്യം കുഞ്ഞാണെങ്കിലും ഉത്തരം വലുതായതു കൊണ്ടാവും, മണിയൻ ഒന്നും പറയാതെ
+നില്ക്കുകയേ ഉള്ളൂ. പക്ഷേ, അവനറിയാം മണിയനു എല്ലാം അറിയാമെന്നു്. മണിയൻ എല്ലാം അത്ഭുതത്തോടെ
+നോക്കി നില്ക്കും. കാക്കകൾ മണിയന്റെ ചെവിയിൽ ലോകകാര്യങ്ങളെല്ലാം അപ്പപ്പോൾ അറിയിക്കാറുണ്ടു്. അതു
+കൊണ്ടു് മണിയനു ഒരിടത്തും പോവണ്ട. ഒരിടത്തും പോവാതെ എല്ലാം അറിയാൻ പറ്റും. എല്ലാം അറിയാവുന്നതു്
+കൊണ്ടു് മണിയനു ഒന്നും പറയേണ്ട കാര്യവുമില്ല.
+</p>
+          <p>രാത്രി മഴ വന്നു. അതു പ്രതീക്ഷിച്ചതല്ല. പക്ഷേ, പ്രതീക്ഷിക്കുമ്പോൾ പെയ്യുന്നതല്ലല്ലോ മഴ. മണ്ണു ദാഹിച്ചു
+നിലവിളിക്കുമ്പോഴാണു് സാധാരണ മഴ പെയ്യുക. പക്ഷേ, ഇതങ്ങനെയല്ല, ആർക്കോ വാക്കു കൊടുത്തതു്
+പോലെയാണു് പെയ്തതു്. നല്ലോണം പെയ്തു. കൊടുത്ത വാക്കു മുഴുവനും പാലിച്ചു. ഇപ്പോൾ കൃഷിക്കാരന്റെ പുര
+ചോർന്നു തുടങ്ങിയിരിക്കുന്നു. കാറ്റിൽ ചില ഓലകൾ കെട്ടിന്റെ കൈ വിട്ടു് പോയി. അതു വഴി മഴ അകത്തു് കയറി
+മുറി മുഴുവനും പരതി. കുപ്പായങ്ങളൊക്കെ നനഞ്ഞു. പായും വിരിയുമൊക്കെ നനഞ്ഞു. എല്ലാം നനച്ചു്
+കുതിർത്തിട്ടേച്ചു് മഴ പുറത്തേക്കിറങ്ങി പോയി. കുട്ടി തണുത്തു് വിറച്ചു് ഒരു മൂലയിൽ ചുരുണ്ടിരുന്നു. അവന്റെ
+അച്ഛനും അമ്മയും അവന്റെ ഒപ്പമുണ്ടായിരുന്നു. അച്ഛന്റെ സ്വപ്നത്തിലും മഴ പെയ്തിട്ടുണ്ടാവും. അയാൾ തല
+കുനിച്ചിരുന്നു. മകൻ മണിയനെ കുറിച്ചോർത്തു. മണിയൻ അവിടെ ഒറ്റയ്ക്കാണു്. മണിയന്റെ കുപ്പായമൊക്കെ
+നനഞ്ഞു കുതിർന്നു കാണും. അവനു കഷ്ടം തോന്നി. നേരം വെളുക്കാനായിട്ടു് അവൻ കാത്തിരുന്നു. അച്ഛൻ
+തണുത്ത കൈകൊണ്ടവന്റെ നെറ്റിയിൽ തലോടിക്കൊണ്ടിരുന്നു. അവൻ ഇരുന്നുറങ്ങി പോയി. ആ രാത്രി
+അവൻ സ്വപ്നമൊന്നും കണ്ടില്ല. സ്വപ്നങ്ങൾക്കും മഴ കാരണം പുറത്തിറങ്ങാനായിട്ടുണ്ടാവില്ല.
+</p>
+          <p>നേരം വെളുത്തപ്പോൾ അവനാദ്യം ചെന്നതു് മണിയനെ കാണാനായിരുന്നു. മണ്ണു് വീണ്ടും മണ്ണായിരിക്കുന്നു.
+പച്ച നിറമല്ല ഇപ്പോൾ. മുഴുവനും ചെളിയാണു്. വരമ്പു കുഴഞ്ഞു കിടക്കുന്നു. നല്ല വഴുക്കലുണ്ടു്. ദൂരെയായി ഇരു
+കൈകളും തലയ്ക്കു് വെച്ചു് ഒരു രൂപം കണ്ടു. അച്ഛന്റെ രൂപം പോലെ അവനു തോന്നി. അവൻ അടുത്തു് ചെന്നു.
+മണിയനാണു്. മണിയൻ ചാഞ്ഞു കിടപ്പാണു്. മണിയൻ കരഞ്ഞിട്ടുണ്ടു്. കൺമഷി കൊണ്ടു് വരച്ച കണ്ണിൽ നിന്നും
+കറുത്ത ചാലുകൾ താഴേക്കൊഴുകി പോയിട്ടുണ്ടു്. രാത്രി മുഴുവൻ മണിയൻ കരഞ്ഞിട്ടുണ്ടാവും. പാവം പേടിച്ചു്
+പോയിട്ടുണ്ടാവും. അവൻ ചാഞ്ഞു പോയ മണിയനെ പിടിച്ചു് നേരെ നിർത്തി. കൈകൾ നിവർത്തി. ‘ഇനി
+പേടിക്കണ്ട മഴയൊക്കെ പോയി’ എന്നു പറഞ്ഞു. മണിയന്റെ കുപ്പായത്തിലപ്പിടി ചെളിയായിട്ടുണ്ടു്.
+കുപ്പായത്തിന്റെ കുടുക്കു് ചിലതു് പൊട്ടി പോയിട്ടുണ്ടു്. മണിയന്റെ കണ്ണിൽ അപ്പോൾ അത്ഭുതമല്ലായിരുന്നു. പേടി
+മാത്രമായിരുന്നു. എല്ലാമറിയുന്ന മണിയനും പേടിച്ചു പോയതെന്തെന്നു് അവനു മനസ്സിലായില്ല.
+</p>
+          <p>അന്നു രാത്രി അച്ഛനും അമ്മയും ഒന്നും കഴിച്ചില്ല. അമ്മ ചിരിച്ചില്ല. അച്ഛൻ ചിരിയും കരച്ചിലും കളഞ്ഞു
+പോയതു് പോലെ ഇരുന്നു. മകൻ മുകളിലേക്കു് നോക്കി കിടന്നു. ഇപ്പോൾ മുകളിൽ നക്ഷത്രങ്ങളെ കാണാം.
+നക്ഷത്രങ്ങൾ എന്തിനാണു് ഇങ്ങനെ മിന്നുന്നതു്? അവനു അച്ഛനോടു് അതു് ചോദിക്കണമെന്നുണ്ടായിരുന്നു.
+ചിലപ്പോൾ അച്ഛനു ഉത്തരമറിയുന്നുണ്ടാവില്ല. മണിയനോടു് ചോദിക്കണം. അവൻ ചോദ്യം ഓർത്തു വെച്ചു.
+ഉറങ്ങി പോയാലും മറന്നു പോകാത്തിടത്തു് അതു സൂക്ഷിച്ചു വെച്ചു. മഴ പെയ്താലും നനഞ്ഞു പോകാത്തിടത്തു്.
+അന്നു രാത്രിയും മണിയൻ പതിവു പോലെ ഒറ്റയ്ക്കായിരുന്നു. നല്ല നിലാവുണ്ടായിരുന്നു. നിലാവെളിച്ചം
+തലയിലടിച്ചപ്പോൾ, മണിയൻ തല തിരിച്ചു ചുറ്റിലും നോക്കി. പാടം മുഴുവൻ ചെളി നിറഞ്ഞിരിക്കുന്നു. ഇനി
+എന്തിനാണു് ഇങ്ങനെ നില്ക്കുന്നതു്? മണിയനു സംശയമായി. ആരേയും ഭയപ്പെടുത്താനില്ല. ആരും വരാനുമില്ല.
+അന്നാണു് മണിയൻ ശരിക്കും കരഞ്ഞതു്. മഴയത്തു പോലും മണിയൻ കരഞ്ഞിട്ടില്ല. കരഞ്ഞു കരഞ്ഞു മണിയന്റെ
+തല കുനിഞ്ഞു. പിറ്റേന്നു് പകൽ മകൻ പിന്നേയും വരമ്പത്തൂടെ ഓടി വന്നു. ചെളിയിൽ പുതഞ്ഞു കിടക്കുന്ന
+ചുവന്ന പന്തുകളെ അവൻ കണ്ടു. ഇനി എന്തിനാണീ പന്തുകൾ? അതൊക്കെ സ്വപ്നത്തിലായിരുന്നില്ലെ? അവൻ
+മണിയന്റെ അടുത്തു് ചെന്നു് നോക്കി. മണിയന്റെ തല പിടിച്ചുയർത്തി. കൈവശം കൊണ്ടു വന്ന കരിക്കട്ട കൊണ്ടു്
+കണ്ണെഴുതി കൊടുത്തു. ഒരു ചിരിയും വരച്ചു കൊടുത്തു. അവൻ വരമ്പത്തൂടെ നടന്നു പോയി. അവൻ ഇപ്പോൾ
+കുട്ടിയല്ല എന്നു മണിയൻ കാറ്റിനോടും പറന്നു പോയ കാക്കകളോടും പറഞ്ഞു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/sabu-maniyan-01.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>ഉച്ചയായപ്പോൾ കാക്കകൾ വന്നു മണിയന്റെ കൈയ്യിലിരുന്നു കരഞ്ഞു. മണിയന്റെ ചെവിയിൽ എന്തോ
+പറഞ്ഞു. മണിയൻ ഒന്നും പറഞ്ഞില്ല. കാറ്റടിച്ചപ്പോൾ മണിയൻ തല കുലുക്കി. കാക്കകളിൽ ഒന്നു് മണിയന്റെ
+ഉള്ളിൽ നിന്നും ഒരു വൈക്കോൽ കഷ്ണം കൊക്കു് കൊണ്ടു് വലിച്ചെടുത്തു് ദൂരേക്കു് പറന്നു. മണിയൻ അന്നാദ്യമായി
+ചിരിച്ചു. ചിരിച്ചു കൊണ്ടിരുന്നു. അരി തിളയ്ക്കും പോലെ ചിരിച്ചു കൊണ്ടിരുന്നു.
+</p>
+        </div>
+        <!--end of "section 1.0/0.1"-->
+        <div type="lsection" xml:id="sec0.2">
+          <head type="lsechead">സാബു ഹരിഹരൻ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/SabuHariharan.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent"> ജനനം: 1972-ൽ.
+</p>
+          <p>സ്വദേശം: തിരുവനന്തപുരം.
+</p>
+          <p>അമ്മ: പി. ലളിത
+</p>
+          <p>അച്ഛൻ: എം. എൻ. ഹരിഹരൻ
+</p>
+          <p>കെമിസ്ട്രിയിൽ ബിരുദവും, കമ്പ്യൂട്ടർ സയൻസിൽ ബിരുദാനന്തര ഡിപ്ലോമയും. സോഫ്റ്റ് വെയർ ഇഞ്ചിനീയർ.
+വായന, എഴുത്തു്, യാത്ര, ഭക്ഷണം എന്നിവയിൽ താത്പര്യം. താഴെ പറയുന്നവയിൽ കഥകൾ പ്രസിദ്ധീകരിച്ചു
+വന്നിട്ടുണ്ടു്.
+</p>
+          <p>മാതൃഭൂമി, ദേശാഭിമാനി, കേരള കൗമുദി, അകം (ആഴ്ച്ചപ്പതിപ്പു്), ജനയുഗം, കേരളഭൂഷണം
+(വാരാന്തപ്പതിപ്പു് ), അകം, കേരള കൗമുദി (ഓണപ്പതിപ്പു്).
+</p>
+          <p>രണ്ടു് പുസ്തകങ്ങൾ (കഥാസമാഹാരങ്ങൾ) പ്രസിദ്ധീകരിച്ചു.
+<list rend="numbered"><item n="1."> ‘നിയോഗങ്ങൾ’ (പൂർണ പബ്ലിക്കേഷൻസ്, 2015) </item><item n="2."> ‘ഉടൽദാനം’ (സൈകതം ബുക്സ്, 2017) </item></list>
+
+</p>
+          <p>പുരസ്കാരം: നന്മ സി വി ശ്രീരാമൻ കഥാമത്സരം 2019 ഒന്നാം സമ്മാനം.
+</p>
+          <p>കഴിഞ്ഞ പത്തു വർഷങ്ങളായി ന്യൂ സീലാന്റിൽ ഭാര്യയും മകനുമൊത്തു് താമസം.
+</p>
+          <p>ഭാര്യ: സിനു
+</p>
+          <p>മകൻ: നന്ദൻ
+</p>
+          <p>കലിഗ്രഫി: എൻ. ഭട്ടതിരി
+
+</p>
+          <p>ചിത്രീകരണം: വി. പി. സുനിൽകുമാർ
+</p>
+        </div>
+        <!--end of "section 1.0/0.2"-->
+      </div>
+      <!--end of "chapter 1/0"-->
+      <!--END OF CHAPTER 1/0-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Maniyante Chiri (ml: മണിയന്റെ
+ചിരി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sabu Hariharan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-03-23. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Short story, Sabu Hariharan,
+Maniyante Chiri, സാബു ഹരിഹരൻ, മണിയന്റെ ചിരി, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 6, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:JeanFran%C3%A7ois_Millet_-_The_Sower_-_Walters_37905.jpg">The Sower,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/JeanFran%C3%A7ois_Millet">Jean-François Millet</ref>  (1814–1875). The image is
+taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sabu-maniyan.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sabu-maniyan.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ആർ. രാമചന്ദ്രൻ ചിരിക്കുന്നു</title>
+          <title xml:lang="en" type="main">R. Ramachandran Chirikkunnu</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 24, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ആർ. രാമചന്ദ്രൻ ചിരിക്കുന്നു</title>
+              <title xml:lang="en" type="main">R. Ramachandran Chirikkunnu</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>R. Ramachandran Chirikkunnu</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ആർ. രാമചന്ദ്രൻ ചിരിക്കുന്നു</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 24, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_Peach_and_Grapes.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Jacob_van_Walscapelle_%2816441727%29_-_A_Peach_and_Grapes_on_a_Ledge_-_724333_-_National_Trust.jpg">A
+Peach and Grapes on a Ledge,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jacob_van_Walscapelle">Jacob van
+
+Walscapelle</ref>  (1644–1727). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ആർ. രാമചന്ദ്രൻ ചിരിക്കുന്നു</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ആർ. രാമചന്ദ്രൻ ചിരിക്കുന്നു</head>
+        <div type="lsection">
+          <p style="noindent">കേരളത്തിൽ അവാർഡ്, വിശേഷിച്ചു് സാഹിത്യപുരസ്കാരം, വാർത്തയല്ലാതായിട്ടു്
+എത്രയോ വർഷമായി. നിത്യവും ആർക്കെങ്കിലും എന്തിനെങ്കിലും അവാർഡ് കിട്ടുന്നതു് പതിവുചടങ്ങായിട്ടു്
+കൊല്ലം പലതായല്ലോ. എന്നാൽ ഇത്തവണ (2001) കേന്ദ്ര സാഹിത്യ അക്കാദമി മലയാളത്തിൽനിന്നു്
+അവാർഡിനു് തെരഞ്ഞെടുത്ത ‘ആർ. രാമചന്ദ്രന്റെ കവിതകൾ’ എന്ന പുസ്തകം പലതു കൊണ്ടും കൗതുകമായി.
+പത്രവായനക്കാരായ സാധാരണക്കാർ <ref target="https://ml.wikipedia.org/wiki/R._Ramachandran">ആർ. രാമചന്ദ്രൻ</ref>
+എന്നൊരു കവിയെ കേട്ടിട്ടുണ്ടോ എന്നു് സംശയമാണു്. ഇതിനു മുമ്പു് ഒരു അവാർഡു വാർത്തയിലൂടെയും അവർ
+അദ്ദേഹത്തെ പരിചയപ്പെട്ടിരിക്കാനിടയില്ല. സപ്തതി കഴിഞ്ഞ കവിക്കു് ഇതാദ്യമായാണു് ഒരവാർഡ്.
+സൂക്ഷ്മസംവേദനശീലരായ കവിതാസ്വാദകർ തന്നെയും ആ പേരു് മറന്നു തുടങ്ങുകയായിരുന്നു. രാമചന്ദ്രൻമാസ്റ്റർ
+കാര്യമായി എന്തെങ്കിലും എഴുതിയിട്ടു് രണ്ടു് പതിറ്റാണ്ടായി!
+</p>
+          <p>ഏതെങ്കിലും സർക്കാരിന്റെയോ, മുന്നണിയുടെയോ, രാഷ്ട്രീയക്കളിയുടെയോ മതസംഘടനയുടെയോ,
+ജാതിക്ലിക്കിന്റെയോ, സാഹിത്യസംഘത്തിന്റെയോ പിൻബലം നാളിതുവരെ ഈ എഴുത്തുകാരനു് ഉണ്ടായിട്ടില്ല;
+വലുതോ ചെറുതോ ആയ എന്തെങ്കിലും പരസ്യത്തിന്റെ വെള്ളിവെളിച്ചത്തിൽ അദ്ദേഹം നിന്നിട്ടില്ല—അദ്ദേഹം
+ഇതൊന്നും ഒരിക്കലും ആഗ്രഹിച്ചിട്ടില്ല. കാരണം ലളിതമാണു്: ആ വ്യക്തിത്വത്തിന്റെ വിശേഷം ആഗ്രഹങ്ങളിൽ
+നിന്നു് പിന്നെപ്പിന്നെ മുക്തി പ്രാപിക്കുക എന്നതാണു്. ഐഹികമായ കമ്പങ്ങളിൽനിന്നു വിടുതൽ നേടി
+ആത്മീയമായ അന്വേഷണങ്ങളുടെ വഴി തേടുന്ന കവിയാണദ്ദേഹം. പണ്ഡിതനും എഴുത്തുകാരനുമായ രാമചന്ദ്രൻ
+മാസ്റ്റർ അധ്യാപനത്തിലൂടെയും കവിതാരചനയിലൂടെയും ജീവിതത്തിന്റെ പൊരുൾ അന്വേഷിക്കുകയാണു്. സൂഫി
+കവികളോടാണു് അദ്ദേഹത്തിനു് രക്തബന്ധം.
+</p>
+          <p>ആഡംബരങ്ങളും അലങ്കാരങ്ങളും കെട്ടിക്കാഴ്ചകളും പരിചയമില്ലാത്ത ആ വ്യക്തിജീവിതത്തിനു് തീർത്തും
+ഇണങ്ങുന്ന മട്ടിൽ കവിതയെഴുതി, അപൂർവ്വമായി ഗദ്യലേഖനങ്ങളെഴുതി.
+</p>
+          <p>മലയാളത്തിന്റെ ആധുനികതാ പ്രസ്ഥാനം തെഴുത്ത എഴുപതുകളിലും എൺപതുകളിലുമാണു്
+രാമചന്ദ്രൻമാസ്റ്റർ അധികവും എഴുതിയതു്. അന്നത്തെ പതിവുകളിൽനിന്നു് പലതുകൊണ്ടും ആ കവിത വേറിട്ടു
+നിന്നു. ഏകാന്തതയും ശോകാകുലതയും ആ രചനകളിൽ മറ്റു പല ആധുനികരിലും എന്നപോലെ
+പുസ്തകലബ്ധമായ അറിവു് ആയിരുന്നില്ല, നരജീവിതമായ വേദനയുടെ അനുഭൂതി തന്നെയായിരുന്നു. ജീവിതം
+മനുഷ്യജീവികൾക്കുമേൽ കെട്ടിയേൽപ്പിക്കുന്ന അസ്തിത്വ ദുഃഖത്തിന്റെ നീലിമ എണ്ണവും വണ്ണവും കുറഞ്ഞ
+രാമചന്ദ്രൻ കവിതകളിൽ പടർന്നു കിടപ്പുണ്ടു്. ‘അജന്ത’ എന്ന രചനയിൽ തൃഷ്ണയുടെ ഉള്ളുപൊള്ളയായ
+അസംബന്ധത ശ്രീബുദ്ധന്റെ ഗൂഢസ്മിതത്തിൽ ചാലിച്ചെഴുതിയതു് ഒരുദാഹരണം മാത്രം. വിരക്തിയുടെ ദർശനം
+സ്നേഹത്തിന്റെ പശിമയോടെ അടയാളപ്പെടുത്തുവാൻ ഈ കവി ആളായി. സ്നേഹത്തിൽ നിന്നാണു് അദ്ദേഹം
+വിരക്തിയിലെത്തിയതു്. വിരക്തിയിൽനിന്നാണു് അദ്ദേഹം സ്നേഹത്തിലെത്തിയതു്. രണ്ടിന്റെയും
+അടിയൊഴുക്കാവട്ടെ, ശോകമാണുതാനും. കുമാരനാശാനിൽ കണ്ട ആ ബൗദ്ധദർശനസ്വാധീനം ഈ
+കാലയളവിൽ മറ്റൊരു മലയാള കവിയിലും നാം കാണുന്നില്ല.
+</p>
+          <p>ആധുനികതയുടെ ഫാഷൻ പോയ് മറഞ്ഞിട്ടും രാമചന്ദ്രൻ കവിതകൾ ബാക്കിയായതു് സ്വന്തം ദർശനത്തിന്റെ
+സത്യസന്ധത കൊണ്ടാണു്. അവനവനെ എഴുതുന്നതാണു് എഴുത്തു് എന്ന ആത്മാർത്ഥതയുടെ സാക്ഷാൽക്കാരം
+ആത്മീയതയുടെ സൗരഭ്യം വഴിയുന്ന ആ രചനകളിൽ അനുഭവിച്ചറിയാം. ഭോഗത്തിന്റെ അനേകം
+പതിറ്റാണ്ടുകളിൽ ന്യാസത്തിന്റെ കവിയായി അദ്ദേഹം നിന്നു; ഇപ്പോഴും നിൽക്കുന്നു—തൃഷ്ണകൾക്കു് നേരെയുള്ള
+ആ ഇളം പുഞ്ചിരി മങ്ങുന്നേയില്ല.
+</p>
+          <p>ഈ അവാർഡുവാർത്തയിൽ രാമചന്ദ്രൻമാസ്റ്റർക്കു് വല്ല സന്തോഷവും തോന്നുന്നുണ്ടെങ്കിൽ, അതു്
+ശിഷ്യൻമാർക്കും സുഹൃത്തുക്കൾക്കും ഇതു് സന്തോഷം നൽകുമെന്ന ഒറ്റക്കാര്യം കൊണ്ടായിരിക്കും. അങ്ങനെ
+അവർക്കു് സന്തോഷം കൊടുക്കാനായല്ലോ എന്നു് അദ്ദേഹം ആനന്ദിക്കുമായിരിക്കും. പിന്നെ, ഇത്ര ചെറിയ
+കാര്യത്തിൽ തന്റെ ശിഷ്യന്മാരും സുഹൃത്തുക്കളും ആനന്ദിക്കുന്നുവല്ലോ എന്നു് അദ്ദേഹം വാത്സല്യപൂർവം കൗതുകം
+കൊണ്ടേക്കും. അതും കഴിഞ്ഞു് ഈ ബാലിശതക്കു് താൻ നിന്നുകൊടുക്കുന്നുവല്ലോ എന്നു് മൂപ്പർ സ്വയം കഷ്ടംവെച്ചു
+നിന്നേക്കും.
+</p>
+          <p>കവിത ‘കൈകാര്യം ചെയ്യുന്ന’ നമ്മുടെ ഇമ്മാതിരി നാട്ടുനടപ്പുകളോർത്തു് ഈ നേരത്തു് രാമചന്ദ്രൻമാസ്റ്റർ
+ചിരിക്കുകയാവാം. സ്നേഹം ചൊരിയുന്ന, ഒച്ചയില്ലാത്ത ആ പതിവു് ചിരി. അതിസൂക്ഷ്മമായ ബിംബങ്ങളുടെ
+കാല്പനികചാരുതയും അത്യഗാധമായ ശോകത്തിന്റെ ദാർശനികമഹിമയും തികഞ്ഞ ആ കവിതയിലേക്കു
+മലയാളികളുടെ ശ്രദ്ധ തിരിച്ചുവിടാൻ ഈ വാർത്തക്കു് സാധിച്ചേക്കും. അതു് തീർച്ചയായും നല്ല കാര്യമാണു്;
+വലിയ കാര്യമാണു്.
+</p>
+          <p>ഞാൻ രാമചന്ദ്രൻ മാസ്റ്ററെ അനുമോദിക്കുന്നില്ല; പകരം കേന്ദ്രസാഹിത്യ അക്കാദമിയെ അനുമോദിക്കുന്നു.
+അവരാണല്ലോ ഈ അവാർഡ് പ്രഖ്യാപനം വഴി ബഹുമതി നേടിയതു്.
+</p>
+          <p>
+മലയാളം ന്യൂസ്: 4 ജനുവരി 2001.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  R. Ramachandran Chirikkunnu
+(ml: ആർ. രാമചന്ദ്രൻ ചിരിക്കുന്നു).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery, R.
+Ramachandran Chirikkunnu, എം. എൻ. കാരശ്ശേരി, ആർ. രാമചന്ദ്രൻ ചിരിക്കുന്നു, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 24, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Jacob_van_Walscapelle_%2816441727%29_-_A_Peach_and_Grapes_on_a_Ledge_-_724333_-_National_Trust.jpg">A
+Peach and Grapes on a Ledge,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jacob_van_Walscapelle">Jacob van
+Walscapelle</ref>  (1644–1727). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-ramachandran.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasseryramachandran.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

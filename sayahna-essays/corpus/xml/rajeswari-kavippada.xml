@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കാവിപ്പടയുടെ സാധ്യതകൾ</title>
+          <title xml:lang="en" type="main">Kavippadayude Sadhyathakal</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">April 30, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കാവിപ്പടയുടെ സാധ്യതകൾ</title>
+              <title xml:lang="en" type="main">Kavippadayude Sadhyathakal</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Kavippadayude Sadhyathakal</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കാവിപ്പടയുടെ സാധ്യതകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 30, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Liotard-Lady_Pouring_Chocolate.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:LiotardLady_Pouring_Chocolate.jpg">Dutch Girl at Breakfast,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jean-%C3%89tienne_Liotard">JeanÉtienne Liotard</ref>  (1702–1789). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കാവിപ്പടയുടെ സാധ്യതകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കാവിപ്പടയുടെ സാധ്യതകൾ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunanidhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുത്തുവേൽ കരുണാനിധി</figDesc>
+          </figure>
+          <p style="noindent"> നടികർ തിലകം <ref target="https://ml.wikipedia.org/wiki/Sivaji_Ganesan">ശിവാജി ഗണേശനെ</ref>
+ഒരുകാലത്തു് തമിഴിലെ <ref target="https://ml.wikipedia.org/wiki/Dilip_Kumar">ദിലീപ് കുമാർ</ref> എന്നാണു്
+വിവരദോഷികൾ വിശേഷിപ്പിച്ചിരുന്നതു്. ആത്മാഭിമാനികളായ തമിഴകർ ദിലീപിനെ ഹിന്ദിസിനിമയിലെ
+ശിവാജിയെന്നു് വിളിച്ചു് തിരിച്ചടിച്ചെന്നാണു് ചരിത്രം. <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">മുത്തുവേൽ
+കരുണാനിധി</ref> യെ നാളിതുവരെ തമിഴ്‌നാട് ബാദൽ എന്നു് വിളിക്കാൻ ആരും മുതിർന്നിട്ടില്ല.
+അതുകൊണ്ടുതന്നെ <ref target="https://en.wikipedia.org/wiki/Parkash_Singh_Badal">പ്രാകാശ്സിംഗ്
+ബാദലി</ref> നെ പഞ്ചാബ് കലൈഞ്ജർ എന്നു് തിരിച്ചുവിളിക്കാനും ഇടവന്നില്ല.
+</p>
+          <p>ഒറ്റനോട്ടത്തിൽ വൈജാത്യങ്ങളാണു് കൂടുതൽ. കലൈഞ്ജർക്കു് താടിയും തലപ്പാവുമില്ല. ബാദലിനു് കറുപ്പു
+കണ്ണടയോ മഞ്ഞ ഷാളോ പതിവില്ല. തനി നാസ്തികനാണു് കരുണാനിധി; പരമഭക്തനാണു് സർദാർജി.
+പഞ്ചാബിഭാഷയോടും ഗുർമുഖി ലിപിയോടുമുള്ള സ്നേഹം നിലനിറുത്തിക്കൊണ്ടുതന്നെ അത്യാവശ്യം ഹിന്ദിയും
+ഇംഗ്ലീഷും ഉപയോഗിക്കാൻ ബാദലിനു് മടിയില്ല. കലൈഞ്ജർ തമിഴേ ശ്വസിക്കൂ. തമിഴേ എഴുതൂ. തമിഴേ പറയൂ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Parkash_Singh_Badal.png" rendition="gra"/>
+            <figDesc style="thumb">പ്രകാശ് സിംഗ് ബാദൽ</figDesc>
+          </figure>
+          <p> വിശദാംശങ്ങളിൽ ഇവർ തമ്മിലുള്ള സാദൃശ്യം അദ്ഭുതാവഹം. കരുണാനിധി ജനിച്ചതു് 1924-ൽ, ദ്രാവിഡ
+കഴകത്തിൽ ചേർന്നതു് 1948-ൽ, മദ്രാസ് നിയമസഭാംഗമായതു് 1957-ൽ. ബാദൽ ജനിച്ചതു് 1925-ൽ, അകാലിദൾ
+പ്രവർത്തകനായതു് 1947-ൽ, പഞ്ചാബ് നിയമസഭയിലേക്കു് ആദ്യം ജയിച്ചതു് 1957-ൽ. പഞ്ചാബിലും തമിഴ്‌നാട്ടിലും
+കോൺഗ്രസിന്റെ അധികാരകുത്തക തകർന്നതു് ഒരേ വർഷം—1967. അണ്ണാ ദുരയുടെ മന്ത്രിസഭയിൽ
+മരാമത്തുവകുപ്പിന്റെ ചുമതലക്കാരൻ <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">കരുണാനിധി</ref>;
+സർദാർ ഗുർണാസിംഗിന്റെ സാമൂഹിക വികസന-പഞ്ചായത്തുകാര്യ മന്ത്രി <ref target="https://en.wikipedia.org/wiki/Parkash_Singh_Badal">പ്രകാശ് സിംഗ്
+ബാദൽ</ref>. കരുണാനിധി ആദ്യം മുഖ്യമന്ത്രിയായതു് 45-ാം വയസ്സിൽ, 1969-ൽ. ആദ്യമായി മുഖ്യമന്ത്രി
+പദമേൽക്കുമ്പോൾ ബാദലിന്റെ പ്രായവും 45 തന്നെ. വർഷം 1970. 356-ാം അനുച്ഛേദത്തിന്റെ ഇരകളായിട്ടുണ്ടു്
+ഇരുവരും. 1980-ൽ ബാദലിന്റെ മന്ത്രിസഭയെ കേന്ദ്രം ഡിസ്മിസ് ചെയ്തു. 1975-ലും 1991-ലും അതേ വിധിയുണ്ടായി
+കരുണാനിധി നയിച്ച മന്ത്രിസഭകൾക്കും.
+</p>
+          <p>തീവ്രവാദ-വിഘടനവാദ പ്രസ്ഥാനങ്ങൾ ഇരുനേതാക്കളുടെയും ജീവചരിത്രത്തിൽ കരിനിഴൽ വീഴ്ത്തുന്നു.
+ഖാലിസ്ഥാൻ വാദികളുമായി ബാദലിനും എൽ. ടി. ടി. ഇ.-യുമായി കരുണാനിധിക്കുമുള്ള ബന്ധം സുവിദിതം. <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> യുടെ
+ജീവനെടുത്തതു് സിക്ക് തീവ്രവാദികൾ, രാജീവിനെ വധിച്ചതു് തമിഴ് പുലികൾ. ബാദലിനെയോ
+കലൈജ്ഞറെയോ തീവ്രവാദികൾക്കു് പ്രിയം പോര… തമിഴ് അതിതീവ്രവാദികൾ വൈകോയുടെ കൂടെ,
+സിഖ് അത്യുഗ്രവാദികൾ <ref target="https://en.wikipedia.org/wiki/Simranjit_Singh_Mann">സിംരജ്ഞിത് സിംഗ്
+
+മാനോ</ref> ടൊപ്പം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Indira_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദിരാഗാന്ധി</figDesc>
+          </figure>
+          <p> ഉറ്റ സഹപ്രവർത്തകനായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/M._G._Ramachandran">എം. ജി.
+രാമചന്ദ്രൻ</ref> വേറെ പാർട്ടിയുണ്ടാക്കി ഒരു വ്യാഴവട്ടക്കാലം (1977–89) കലൈഞ്ജറെ പ്രതിപക്ഷത്തിരുത്തി.
+ബാദലിനുമുണ്ടായിട്ടുണ്ടു്. അകാലി രാഷ്ട്രീയത്തിൽ ഗ്രഹണകാലം. 1985-ൽ സീനിയോറിറ്റി മറികടന്നു് <ref target="https://en.wikipedia.org/wiki/Surjit_Singh_Barnala">സുർജിത് സിംഗ്
+ബർണാല</ref> മുഖ്യമന്ത്രിയായി. 1980-ൽ നഷ്ടപ്പെട്ട മുഖ്യമന്ത്രി പദം വീണ്ടെടുക്കാൻ ബാദലിനു് 1997 വരെ
+കാത്തിരിക്കേണ്ടിവന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_K_Stalin.jpg" rendition="gra"/>
+            <figDesc style="thumb">മു. ക. സ്റ്റാലിൻ</figDesc>
+          </figure>
+          <p> ബാദലും കരുണാനിധിയും ഒരുപോലെ അഴിമതിയാരോപണ വിധേയർ ദോഷം പറയരുതല്ലോ,
+ആരോപണം ഉന്നയിക്കുന്നവർ ഇവരേക്കാൾ അഴിമതിക്കാർ. ജനനന്മയെ ലാക്കാക്കി രണ്ടുപേരും മക്കളെ
+രാഷ്ട്രീയത്തിലിറക്കിയിട്ടുണ്ടു്. കലൈജ്ഞറുടെ അനന്തരാവകാശി <ref target="https://ml.wikipedia.org/wiki/M._K._Stalin">മു. ക. സ്റ്റാലിൻ</ref>, മുൻ
+ചെന്നൈ മേയർ; പ്രകാശിന്റേതു് <ref target="https://en.wikipedia.org/wiki/Sukhbir_Singh_Badal">സുഖ്ബീർ സിംഗ്
+ബാദൽ</ref>, ഫരീദ് കോട്ടിൽനിന്നുള്ള പാർലമെന്റംഗം.
+</p>
+          <p>മരണപര്യന്തം അധികാരത്തിൽ തുടരണം, ജനങ്ങളെ സേവിക്കണം എന്നു നിർബന്ധമുള്ളവരാണു് ഇന്ത്യാ
+മഹാരാജ്യത്തെ ബഹുഭൂരിപക്ഷം നേതാക്കളും. സാമാന്യനിയമത്തിനു് അപവാദമല്ല കലൈജ്ഞറും ബാദലും.
+കഴിഞ്ഞ മേയിൽ, തന്റെ 82-ാം വയസ്സിൽ തമിഴക മുതൽ അമൈച്ചർ പദവിയിൽ മടങ്ങിയെത്തി, മുത്തുവേൽ
+കരുണാനിധി. ബാദലിനിപ്പോൾ 82 നടപ്പാണു്. അധികാരം, ഇപ്പോഴില്ലെങ്കിൽ ഇനിയൊരിക്കലുമില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Surjit_Singh_Barnala.png" rendition="gra"/>
+            <figDesc style="thumb">സുർജിത് സിംഗ് ബർണാല</figDesc>
+          </figure>
+          <p> ഫെബ്രുവരി 13-നു് പഞ്ചാബ് നിയമസഭയിലേക്കു് തെരഞ്ഞെടുപ്പാണു്. ഒരുവശത്തു് കോൺഗ്രസ്, മറുവശത്തു്
+അകാലിദൾ-ബി. ജെ. പി. സഖ്യം. ഇടതു-വലതു് കമ്യൂണീസ്റ്റു പാർട്ടികളും <ref target="https://en.wikipedia.org/wiki/Balwant_Singh_Ramoowalia">ബൽവന്ത്
+സിംഗ് രാമുവാലിയ</ref> യുടെ ലോക് ഭലായ് പാർട്ടിയും വിമത ബി. എസ്. പി.-യും ചേർന്ന മൂന്നാം മുന്നണി.
+പിന്നെ എരിയുംവെയിലത്തുകയിലും കുത്തി ബി. എസ്. പി.-യും മാൻ വിഭാഗം അകാലിദളും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Balwant_Singh_Ramoowalia.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബൽവന്ത് സിംഗ് രാമുവാലിയ</figDesc>
+          </figure>
+          <p> കോൺഗ്രസ് സേനയെ നയിക്കുന്നതു് മുഖ്യമന്ത്രി <ref target="https://en.wikipedia.org/wiki/Amarinder_Singh">അമരീന്ദർ സിംഗ്</ref>,
+പാട്യാല രാജകുടുംബാംഗം, മുൻ പട്ടാള ഉദ്യോഗസ്ഥൻ. അകാലികളുടെ അഴിമതി അവസാനിപ്പിക്കും,
+
+സൽഭരണം ഉറപ്പാക്കും, കണ്ണല്ലാത്തതൊക്കെ പൊന്നാക്കും എന്നു് വാഗ്ദാനം ചെയ്ത് അധികാരത്തിൽ വന്ന
+ദേഹം. ബാദലിനെതിരെ അഴിമതിക്കേസുകൾ റജിസ്റ്റർ ചെയ്തു എന്നതു് സത്യം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajinder_Kaur_Bhattal.jpg" rendition="gra"/>
+            <figDesc style="thumb">രജീന്ദർ കൗർ ഭട്ടൽ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യേക്കാൾ
+വിദഗ്ദ്ധമായി വിരുദ്ധ ഗ്രൂപ്പുകളെ തളച്ചവൻ അമരേന്ദ്രൻ. <ref target="https://en.wikipedia.org/wiki/Rajinder_Kaur_Bhattal">രജീന്ദർ കൗർ
+ഭട്ടലും</ref> <ref target="https://en.wikipedia.org/wiki/Shamsher_Singh_Dullo">ഷംഷേർ സിംഗ്
+ദുള്ളോ</ref> യും നിഷ്പ്രഭരായി. മുഖ്യമന്ത്രിയെ മാറ്റാൻ വിമതർ നടത്തിയ സകല ശ്രമവും പരാജയത്തിൽ
+കലാശിച്ചു. മുഖ്യനാണെങ്കിൽ ബന്ധുക്കൾക്കും അനുയായികൾക്കും വാരിക്കോരിക്കൊടുത്തു. സ്ഥാനാർഥി
+നിർണയത്തിലും ഇതാവർത്തിച്ചു. സീറ്റു കിട്ടാത്തവരത്രയും സ്വതന്ത്രരായി പത്രിക കൊടുത്തു. റിബലുകളുടെ
+ഒമ്പതാമുൽസവം.
+</p>
+          <p>2002-ൽ പോലും കോൺഗ്രസിനു് അകാലിദളിനെ നിലംപരിശാക്കാൻ കഴിഞ്ഞില്ല. ഹിന്ദു ഭൂരിപക്ഷ
+കേന്ദ്രങ്ങളിൽ ബി. ജെ. പി.-ക്കാണു് കനത്ത അടി കിട്ടിയതു്. 117 അംഗനിയമസഭയിൽ കോൺഗ്രസ് 62,
+സി. പി. ഐ. 2, അകാലിദൾ 41, ബി. ജെ. പി. 3, കക്ഷിരഹിതർ 9. കോൺഗ്രസിനും സി. പി. ഐ.-ക്കും കൂടി 37.96
+ശതമാനം വോട്ട് കിട്ടിയപ്പോൾ അകാലി-ബി. ജെ. പി. സഖ്യത്തിനു് 36.75 ശതമാനം നേടാൻ കഴിഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Amarinder_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">അമരീന്ദർ സിംഗ്</figDesc>
+          </figure>
+          <p> ഇത്തവണ കോൺഗ്രസ്-സി. പി. ഐ. ധാരണയില്ല. സഖാക്കൾക്കു് ഒന്നോ ഒന്നരയോ സീറ്റ്
+ജയിക്കാനൊത്താൽ ഭാഗ്യം. മിക്ക സ്ഥലത്തും ജാമ്യസംഖ്യ പോകുമെന്നതും സ്പഷ്ടം. പക്ഷേ, കമ്യൂണിസ്റ്റുകാർ
+ഭിന്നിപ്പിക്കുന്ന മതേതര വോട്ടുകൾ കോൺഗ്രസിന്റെ കുഴിമാന്തും. കാൻഷിറാമിന്റെ ജന്മദേശമാണു് പഞ്ചാബ്.
+ബി. എസ്. പി. പിൻവലിക്കുന്നതും കോൺഗ്രസിന്റെ വോട്ടുബാങ്കിൽനിന്നു തന്നെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shamsher_Singh_Dullo.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷംഷേർ സിംഗ് ദുള്ളോ</figDesc>
+          </figure>
+          <p> 1999-ലെ പാർലമെന്റ് തെരഞ്ഞെടുപ്പിൽ സംസ്ഥാനത്തു് കോൺഗ്രസിനായിരുന്നു മുൻതൂക്കം. 2002-ൽ
+നിയമസഭയിലേക്കും അതേ ജനവിധി ആവർത്തിച്ചു. 2004-ലെ ലോൿസഭാ തെരഞ്ഞെടുപ്പിൽ
+അകാലി-ബി. ജെ. പി. സഖ്യം വൻവിജയം നേടി. അകാലിദളിനു് എട്ടും ബി. ജെ. പി.-ക്കു് മൂന്നും സീറ്റുകൾ
+കിട്ടിയപ്പോൾ കോൺഗ്രസിനു് പാട്യാലയും ജലന്ധറും മാത്രമേ ജയിക്കാനായുള്ളൂ. മുതിർന്ന നേതാവു് <ref target="https://ml.wikipedia.org/wiki/R._L._Bhatia">ആർ. എൽ. ഭാട്യ</ref>
+കുത്തക സീറ്റായ അമൃത്സറിൽ ക്രിക്കറ്റ് കളിക്കാരനോടു് തോറ്റു് ബൗളർ ഹാറ്റിട്ടു. ഭാട്യാജിയെ പിന്നീടു്
+ഗവർണറാക്കി കേരളത്തിലേക്കു് നാടുകടത്തി.
+</p>
+          <p>പാർട്ടി ഭരിക്കുന്ന രണ്ടു് സംസ്ഥാനങ്ങളിലാണു് 2004-ൽ കോൺഗ്രസിനു് തിരിച്ചടിയുണ്ടായതു്. ഒന്നു് കേരളം,
+മറ്റേതു് പഞ്ചാബ്. പ്രബുദ്ധ കേരളം 2006-ൽ നിയമസഭയിലേക്കു് അതേ വിധിയെഴുത്തു് ആവർത്തിച്ചു. ഇതു്
+പഞ്ചാബിന്റെ ഊഴം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Narayan_Dutt_Tiwari.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. ഡി. തിവാരി</figDesc>
+          </figure>
+          <p> ഗ്രാമീണ സിഖ് കർഷകരാണു് അകാലി ദളിന്റെ നട്ടെല്ലു്. ഗുരുദ്വാരാ പ്രബന്ധക് കമ്മിറ്റിയുടെ പിന്തുണയും
+നിർണായകം. പട്ടണങ്ങളിലാണു് ബി. ജെ. പി.-ക്കു് വേരോട്ടം—പ്രത്യേകിച്ചും കച്ചവടക്കാർക്കിടയിൽ. ഒന്നിടവിട്ട
+തെരഞ്ഞെടുപ്പുകളിൽ ജാതിഹിന്ദുക്കൾ കോൺഗ്രസിനെയും ബി. ജെ. പി.-യെയും മാറിമാറി പരീക്ഷിക്കുന്നു.
+എതുപക്ഷം ജയിച്ചാലും അവരുടെ മേൽക്കൊയ്മ നിലനിൽക്കുകയും ചെയ്യുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Oommen_Chandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമ്മൻചാണ്ടി</figDesc>
+          </figure>
+          <p> അറുപതുകളിൽ ആരംഭിച്ചതാണു് പഞ്ചാബിലെ അകാലി-ബി. ജെ. പി. സഖ്യം. ബർണാല കത്തിനിന്ന
+എൺപതിന്റെ മധ്യത്തിൽ മാത്രമേ അതു് ശിഥിലമായിരുന്നുള്ളൂ. <ref target="https://en.wikipedia.org/wiki/Sukhbir_Singh_Badal">ബാദലും</ref> <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+യും ഉറ്റ സുഹൃത്തുക്കളാണു്. മൊറാർജി മന്ത്രിസഭയിൽ കുറച്ചുകാലം സഹപ്രവർത്തകരായിരുന്നു. 1998–2004
+കാലത്തു് വാജ്പേയിയുടെ മന്ത്രിസഭയിലും അകാലികളുണ്ടായിരുന്നു. അകാലിദളിനെ പിണക്കാതിരിക്കാൻ
+ബി. ജെ. പി. നേതൃത്വം ദത്തശ്രദ്ധരാണു്. ലോൿസഭയിലെ ഡപ്യൂട്ടി സ്പീക്കർ സ്ഥാനം ചരൺജിത് സിംഗ്
+അട്വാളിനു് നൽകിയതു് മകുടോദാഹരണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Atal_Bihari_Vajpayee.jpg" rendition="gra"/>
+            <figDesc style="thumb">വാജ്പേയി</figDesc>
+          </figure>
+          <p> മുമ്പൊക്കെ പഞ്ചാബ്-ഹരിയാന ബന്ധം സംഘർഷഭരിതമായിരുന്നു. ബിയാന്ത്-സത്ലജ് നദീജലതർക്കം,
+ചണ്ഡീഗഢ്, അബോഹർ-ഫസ്ലിക്ക കൈമാറ്റം എന്നിങ്ങനെ നിരവധി വിഷയങ്ങൾ. കേന്ദ്രം ഹരിയാനയെ
+വഴിവിട്ടു സഹായിക്കുന്നു എന്നായിരുന്നു അകാലിദളിന്റെ ആക്ഷേപം. (മറിച്ചു് ഹരിയാനയെ അവഗണിക്കുന്നു
+എന്നു് ദേവിലാലിന്റെയും) ഇപ്പോൾ അത്തരം വിഷയങ്ങളൊന്നും സജീവമല്ല. അകാലിദളിനു് വേണ്ടി <ref target="https://en.wikipedia.org/wiki/Om_Prakash_Chautala">ഓംപ്രകാശ്
+ചൗത്താല</ref> പ്രചാരണത്തിനെത്തുന്നു. ഹിന്ദു ജാട്ടുകൾക്കിടയിൽ ചൗത്താലക്കുള്ള സ്വാധീനം
+അകാലി-ബി. ജെ. പി. സഖ്യത്തിനു് ഗുണകരമാകും. 36 സീറ്റുകളിൽ ഹിന്ദു വോട്ട് നിർണായകമാണു്. അകാലിദൾ
+സ്വന്തം നിലക്കു് ഏഴു് ഹിന്ദുക്കളെ സ്ഥാനാർഥികളാക്കിയിട്ടുണ്ടു്.
+</p>
+          <p>“കർഷകർക്കു് വൈദ്യുതി സൗജന്യം” എന്നായിരുന്നു മുമ്പു് പഞ്ചാബിലും ഹരിയാനയിലും തെരഞ്ഞെടുപ്പു്
+മുദ്രാവാക്യം. നാലു രൂപക്കു് ഒരു കിലോ ആട്ട, ഇരുപതു് രൂപക്കു് ഒരു കിലോ പരിപ്പു് എന്നാണു് ബാദലിന്റെ
+വാഗ്ദാനം. റോഡുകൾ, വൈദ്യുതി എല്ലാം സുലഭം, സുഭിക്ഷം-അകാലി-ബി. ജെ. പി. സഖ്യത്തെ വിജയിപ്പിച്ചാൽ
+പിന്നെ പഞ്ചാബാണു് പറുദീസ. രണ്ടു രൂപക്കു് അരിയും വീടുതോറും കളർ ടി. വി.-യും വാഗ്ദാനം ചെയ്തു്
+തെരഞ്ഞെടുപ്പു് ജയിച്ച <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">കരുണാനിധി</ref> യെ
+ഓർമിക്കുക.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Om_Prakash_Chautala.png" rendition="gra"/>
+            <figDesc style="thumb">ഓംപ്രകാശ് ചൗത്താല</figDesc>
+          </figure>
+          <p> ‘പഞ്ചാബി സ്റ്റാലിൻ’ മൽസരിക്കുന്നില്ല. പകരം പ്രചാരണരംഗത്തു് ഉറച്ചുനിൽക്കുന്നു. വളരെ നേരത്തേ
+സ്ഥാനാർഥിനിർണയം പൂർത്തിയാക്കി, പ്രചാരണവും തുടങ്ങി. അകാലിദൾ 21 യുവാക്കളെ രംഗത്തിറക്കിയിട്ടുണ്ടു്.
+15 പുതുമുഖ സ്ഥാനാർത്ഥികൾ. അക്ഷരാഭ്യാസമുള്ളവർ വേണം മൽസരിക്കാൻ എന്നു് തീരുമാനിച്ചതാണു് <ref target="https://en.wikipedia.org/wiki/Sukhbir_Singh_Badal">സുഖ്ബീർ
+ബാദലി</ref> ന്റെ മൗലികമായ സംഭാവന. അകാലി സ്ഥാനാർഥികളിൽ 40 ശതമാനം ബിരുദധാരികളാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Navjot_Singh_Sidhu.jpg" rendition="gra"/>
+            <figDesc style="thumb">നവജോത് സിംഗ് സിധു</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Navjot_Singh_Sidhu">നവജോത്
+സിംഗ് സിധു</ref> ലോൿസഭാംഗത്വം രാജിവെച്ചതിനെ തുടർന്നു് അമൃത്സർ മണ്ഡലത്തിൽ
+ഉപതെരഞ്ഞെടുപ്പും ഇതോടൊപ്പം നടക്കുന്നുണ്ടു്. നരഹത്യക്കേസിൽ പഞ്ചാബ്-ഹരിയാന ഹൈക്കോടതി
+ശിക്ഷിച്ചതിനെ തുടർന്നാണു് സിധു രാജി കൊടുത്തതു്. ശിക്ഷിക്കപ്പെട്ടവർ പാർലമെന്റംഗമായി തുടരരുതെന്നു്
+ഭരണഘടനയിലോ ജനപ്രാതിനിധ്യ നിയമത്തിലോ വ്യവസ്ഥയില്ല. ഉന്നത ധാർമിക മൂല്യങ്ങൾ
+ഉയർത്തിപ്പിടിക്കാൻ വേണ്ടി രാജിവെച്ചു. സുപ്രീംകോടതി, ശിക്ഷാവിധി സ്റ്റേ ചെയ്തപ്പോൾ വീണ്ടും മത്സരിക്കാൻ
+തീരുമാനിച്ചു. ഉന്നത ധാർമിക മൂല്യങ്ങളെ സുപ്രീംകോടതി ശ്ലാഘിച്ചു. ബി. ജെ. പി. ഉടനടി സീറ്റും കൊടുത്തു.
+</p>
+          <p>അമൃത്സറിൽ ഡോ. <ref target="https://ml.wikipedia.org/wiki/Manmohan_Singh">മൻമോഹൻ സിംഗ്</ref>
+മൽസരിക്കണം എന്നൊരാവശ്യം ചില കോൺഗ്രസുകാർ ഉന്നയിച്ചു. പ്രധാനമന്ത്രി രാജ്യസഭാംഗമായി
+തുടരുന്നതു് ഉചിതമല്ല. പഞ്ചാബിന്റെ വീരപുത്രൻ സഭയിൽ അസാമിനെ പ്രതിനിധാനം ചെയ്യുന്നതു് ഒട്ടും ശരിയല്ല.
+അമൃത്സറിൽ മൽസരിച്ചാൽ പുഷ്പംപോലെ ജയിക്കാം, സംസ്ഥാനത്തു് പാർട്ടിയുടെ പ്രചാരണത്തിനു് ആക്കം
+കൂട്ടാം—ഇങ്ങനെ പോയി വാദഗതികൾ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Manmohansingh.jpg" rendition="gra"/>
+            <figDesc style="thumb">മൻമോഹൻ സിംഗ്</figDesc>
+          </figure>
+          <p> സ്വന്തം ജനപിന്തുണയെ കുറിച്ചു് ശരിയായ ധാരണയുള്ളതിനാൽ മൻമോഹൻ ക്ഷണം വിനയപൂർവം
+നിരാകരിച്ചു. ക്രിക്കറ്റ് കളിക്കാരനോടു കളിക്കാൻ പറ്റിയതല്ല പ്രായവും ആരോഗ്യസ്ഥിതിയും. നമുക്കു് പറ്റിയതല്ല
+തെരഞ്ഞെടുപ്പുരംഗം. മുമ്പൊരിക്കൽ ദൽഹിയിൽ മൽസരിച്ചു് ഡീസന്റായി തോറ്റതാണു്. ജനപിന്തുണയേയില്ല
+എന്ന ഒറ്റക്കാരണം കൊണ്ടാണു് മദാം <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയ</ref> <ref target="https://ml.wikipedia.org/wiki/Manmohan_Singh">മൻമോഹൻ സിംഗി</ref>
+നെ പ്രധാനമന്ത്രിയാക്കിയതു്. അദ്ദേഹത്തിനു് രാജ്യസഭ ധാരാളം. ആസാമെങ്കിൽ ആസാം, അന്തമാനെങ്കിൽ
+ആന്തമാൻ.
+</p>
+          <p>ഹരിയാന വേർപെട്ടു് ഇപ്പോൾ കാണുന്ന രൂപത്തിൽ പഞ്ചാബ് സംസ്ഥാനമുണ്ടായതു് 1966-ലാണു്. കഴിഞ്ഞ
+നാലു പതിറ്റാണ്ടിനിടയിൽ ഒരു പാർട്ടിയും അടുപ്പിച്ചു രണ്ടുവട്ടം ജയിച്ച ചരിത്രമില്ല. 1967-ൽ അകാലി സഖ്യം,
+1972-ൽ കോൺഗ്രസ്, 1977-ൽ അകാലി-ജനതാ സഖ്യം, 1980-ൽ കോൺഗ്രസ്, 1987-ൽ അകാലിദൾ, 1992-ൽ
+കോൺഗ്രസ്, 1997-ൽ അകാലി-ബി. ജെ. പി. സഖ്യം, 2002-ൽ കോൺഗ്രസ്. ആ നിലക്കും ഇത്തവണ
+അകാലികൾക്കാണു് സാധ്യത. അഞ്ചോ ആറോ ശതമാനം വോട്ട് വ്യതിയാനമുണ്ടാകുകയും അകാലി-ബി. ജെ. പി.
+സഖ്യം മുന്നിൽ രണ്ടോ അതിലധികമോ ഭൂരിപക്ഷത്തോടെ ഭരണം പിടിക്കുകയും ചെയ്യുമെന്നാണു് സൂചന.
+ബാദലിന്റെ പുനരാഗമനം സുവ്യക്തം, സുനിശ്ചിതം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sonia_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">സോണിയ</figDesc>
+          </figure>
+          <p> പഞ്ചാബിനൊപ്പം തെരഞ്ഞെടുപ്പു് നടക്കുന്ന ഉത്തരഖണ്ഡിലും ഭരണവിരുദ്ധ വികാരം മുതലെടുത്തു്
+ബി. ജ. പി. അധികാരം തിരിച്ചുപിടിക്കാനാണു് സാധ്യത. യു. പി.-ക്കാരുടെ ഭാഗമായിരിക്കുന്ന കാലത്തേ
+ബി. ജെ. പി.-യുടെ ശക്തികേന്ദ്രമാണതു്. നിത്യാനന്ദ സ്വാമിയുടെയും കോഷിയാരിയുടെയും ഭരണത്തിന്റെ
+
+ഗുണംകൊണ്ടു് 2002-ൽ കോൺഗ്രസ് ജയിച്ചെന്നു് മാത്രം. <ref target="https://en.wikipedia.org/wiki/N._D._Tiwari">എൻ. ഡി. തിവാരി</ref> യുടെ
+ഭരണത്തിന്റെ മേന്മകൊണ്ടു് ഇത്തവണ ബി. ജെ. പി.-ക്കും നേട്ടമുണ്ടാക്കും. പഞ്ചാബിലെയും ഉത്തരഖണ്ഡിലെയും
+വിജയങ്ങൾ കാവിപ്പടക്കു് ആവേശം പകരും. ഉത്തർപ്രദേശാണു് നിർണായകം. കാരണം, ദൽഹിയിലേക്കുള്ള
+രാജപാത ലക്നോവിലൂടെയാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kavippadayude Sadhyathakal (ml:
+കാവിപ്പടയുടെ സാധ്യതകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Kavippadayude Sadhyathakal, കെ. രാജേശ്വരി, കാവിപ്പടയുടെ സാധ്യതകൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 30, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:LiotardLady_Pouring_Chocolate.jpg">Dutch Girl at Breakfast,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jean-%C3%89tienne_Liotard">JeanÉtienne Liotard</ref>  (1702–1789). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kavippada.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kavippada.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

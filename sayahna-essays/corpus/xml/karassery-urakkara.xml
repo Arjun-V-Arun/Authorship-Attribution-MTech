@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഉറക്കറരഹസ്യം</title>
+          <title xml:lang="en" type="main">Urakkararahasyam</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">October 9, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഉറക്കറരഹസ്യം</title>
+              <title xml:lang="en" type="main">Urakkararahasyam</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Urakkararahasyam</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ഉറക്കറരഹസ്യം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 9, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Joan_Brull_Dream.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Joan_Brull__Dream_-_Google_Art_Project.jpg">Dream,</ref> a painting by Joan Brull
+ (1863–1912). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഉറക്കറരഹസ്യം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഉറക്കറ രഹസ്യം</head>
+        <div type="lsection">
+          <p style="noindent">
+</p>
+          <lg>
+            <l> “ഉറക്കം മതി ചങ്ങാതി;</l>
+            <l> ഉത്ഥാനം ചെയ്തിടാമിനി” </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ulloor_S_Parameswara_Iyer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉള്ളൂർ</figDesc>
+          </figure>
+          <p> എന്തൊരു പണ്ഡിതോചിതമായ കോഴികൂവൽ! <ref target="https://ml.wikipedia.org/wiki/Ulloor_S._Parameswara_Iyer">ഉള്ളൂർ</ref>
+ജന്മശതാബ്ദിയുടെ കാലത്തു ഈ തുയിലുണർത്തു് തന്നെയല്ലേ, അസ്മാദൃശന്മാർക്കു് പേർത്തും പേർത്തും
+അനുസ്മരിപ്പാനുള്ളതു്?
+</p>
+          <p>എങ്കിലും ചങ്ങാതിയോടൊരു ചോദ്യം—ഉറക്കം “മതിയായിട്ടു” തന്നെയാണോ താങ്കൾ ഉത്ഥാനം ചെയ്യാൻ
+തുടങ്ങുന്നതു് ?
+</p>
+          <p>കാരണമെന്താണെന്നല്ലേ: മനുഷ്യൻ മതിവരുംവരെ ഉറങ്ങേണ്ടതാകുന്നു.
+</p>
+          <p>ഇതിത്ര പറയാനുണ്ടോ എന്നാണു് ചില ബുദ്ധിജീവികളുടെ ചോദ്യം.
+</p>
+          <p>പൂർവ്വസൂരികളിൽ എത്രയെങ്കിലും പേർ ഉറക്കം എന്ന സംഗതിയെ ആക്ഷേപിച്ചുസംസാരിക്കുന്നു എന്നതു്
+ബുദ്ധിയുള്ളവരും അല്ലാത്തവരുമായ ജീവികൾ ശ്രദ്ധിക്കേണ്ടതാണു് കാവ്യശാസ്ത്രങ്ങളിൽ വിനോദിച്ചു്
+ബുദ്ധിമാന്മാർ കാലം പോക്കുന്നു എന്നു കരുതിയ മഹാൻ അടുത്ത വരിയിൽ പാടിയതെന്താണൊന്നോ. ദുഷ്ടന്മാർ
+ഉറങ്ങിയും കലഹിച്ചും ആയുസ്സുകളയുന്നു എന്നു്!
+</p>
+          <p>കലഹംപോലെ ആയുസ്സുകളയുന്ന ഒരു ചീത്തക്കാര്യമാണെന്നോ ഉറക്കം?
+</p>
+          <p>അല്ലെന്നതിനു തെളിവുകൾ എത്രയെങ്കിലുമുണ്ടു്. അതിലൊന്നു് ഉറക്കത്തിന്നുമാത്രം. സമ്മാനിക്കാൻ
+കഴിയുന്ന സ്വപ്നം എന്ന അനശ്വരസത്യമാകുന്നു. സ്വപ്നമില്ലാതെ നമുക്കു് ജീവിക്കാൻ കഴിയുമോ? ചിലരൊക്കെ
+ജീവിക്കുന്നതുതന്നെ സ്വപ്നത്തിലാണു്. ഉണർന്നിരിക്കുമ്പോൾ ചിലർ സ്വപ്നം കാണാറുണ്ടെന്നതു് നേരു് തന്നെ.
+പക്ഷേ, അതു ഉറക്കത്തിലെ സ്വപ്നത്തിന്റെ ചെറിയൊരനുകരണം മാത്രമാകുന്നു.
+</p>
+          <p>ഉറക്കത്തിലെ സ്വപ്നം ആ സമയത്തു് അനുഭവം തന്നെയാണു്. ചിലർക്കു് ടിക്കറ്റു വാങ്ങാതെയുള്ള
+ചലച്ചിത്രദർശനമാണതു്. ചിലർക്കു് ഒരിക്കലും സാധിക്കാത്ത അഭീഷ്ടങ്ങൾ സാധിക്കാനുള്ള അപൂർവ്വ
+സന്ദർഭമാണതു്. ചിലർക്കു് വരും കാര്യങ്ങൾ സങ്കല്പിച്ചു് വേവലാതികൊള്ളാനുള്ള വേദിയാണതു്. അങ്ങനെ
+എന്തെല്ലാം, എന്തെല്ലാം?
+</p>
+          <p>വടക്കൻപാട്ടിലെ വീരനായിക സ്വപ്നം കണ്ടു് ആവേശം കൊണ്ടാണു് ഇറങ്ങിത്തിരിക്കുന്നതു്!
+</p>
+          <p>“ഉറക്കത്തിൽ സ്വപ്നവും കണ്ടു പെണ്ണു്”
+</p>
+          <p>ഇന്നത്തെ കോളേജ്കുമാരികളേയും ഹൈസ്കൂൾകുമാരികളേയും ഒക്കെ ഇവിടെ “ചേർത്തുവെച്ചു്”
+ആലോചിച്ചുനോക്കുക. സ്വപ്നമില്ലെങ്കിൽ അവരനുഭവിക്കാനിടയുള്ള കഷ്ടം വിവരിക്കുവാൻ സാക്ഷാൽ <ref target="https://en.wikipedia.org/wiki/Kalidasa">കാളിദാസ</ref> കവീന്ദ്രനു്
+സാധിക്കുമോ?
+</p>
+          <p>സ്വപ്നത്തിലുള്ള മഹത്ത്വം അതു് ഉള്ളവനോടും ഇല്ലാത്തവനോടും ആണിനോടും പെണ്ണിനോടും എല്ലാം
+തുല്യമായി പെരുമാറുന്നു എന്നതാണു്. ആർക്കും എന്തും എങ്ങനെയും സ്വപ്നം കാണാം. ആരുടെയും സമ്മതം
+വേണ്ട. ആരും പരാതിപ്പെടില്ല.
+</p>
+          <p>ഉറക്കവും അങ്ങനെത്തന്നെ ഉള്ളവനും ഇല്ലാത്തവനും ഭക്ഷണം കഴിക്കുന്നതിൽ വ്യത്യാസമുണ്ടാകാം. പക്ഷേ,
+അവർ ഉറങ്ങുന്നത് ഒരുപോലെയാകുന്നു. രാജാവും ഭൃത്യനും ഉറക്കത്തിന്റെ മടിയിൽ ശുദ്ധതുല്യം! എന്തൊരു
+മധുരമനോഹരമായ സോഷ്യലിസ്റ്റു വ്യവസ്ഥിതി!
+</p>
+          <p>മാനസികമായ സ്വാസ്ഥ്യത്തിന്റെ ഏറ്റവും വലിയ ഉദാഹരണമാണു് ഉറക്കം. സ്വസ്ഥതയുള്ളവൻ വേഗം
+ഉറങ്ങുന്നു. കൂടുതൽ ഉറങ്ങുന്നു. കൊച്ചു കുട്ടികളുടെ ഉറക്കം കണ്ടിട്ടില്ലേ, അതുപോലെ അസ്വാസ്ഥ്യത്തിന്റെ
+പ്രത്യക്ഷീകരണം ഉറക്കമില്ലായ്മയാണു്. “ഉറക്കം വരാത്ത രാവുകൾ” എന്നും മറ്റും നോവലുകളിൽ ചില
+അദ്ധ്യായങ്ങൾ കണ്ടിട്ടുള്ളതു് ഇത്തരുണത്തിൽ ഓർക്കുക.
+</p>
+          <p>മനോവിഷമം മാറ്റാൻ കള്ളു്, കഞ്ചാവു്, കറുപ്പു് ആദി വസ്തുക്കൾ അകത്താക്കുന്ന ആളുകൾ അടുത്ത ഒന്നോ
+ഒന്നരയോ മണിക്കൂറിനകം സുഖമായി ഉറങ്ങുകയാണു് ചെയ്യുന്നതു്. ആ മനുഷ്യർക്ക് വേണ്ടതു് ഉറക്കമാണു്. ഉറക്കം
+മാത്രം!
+</p>
+          <p>മാനസികമായ ആയാസത്തിനെന്നപോലെ ശാരീരികമായ ഉണർവ്വിനും ഉറക്കം ഒരു സിദ്ധൗഷധമാകുന്നു.
+തടിയനക്കി പണിയെടുത്തവർക്കറിയാം, ഉറക്കത്തിന്റെ സുഖം. ശരീരത്തിന്റെ ദഹനക്രിയയെ
+സഹായിക്കുന്നതിൽ ഉറക്കത്തിന്നു വലിയ പങ്കുണ്ടു്. ഉറങ്ങിയെണീറ്റുവരുന്ന ആൾ പുതിയ മനുഷ്യനാണു്.
+കഴിഞ്ഞുപോയ അഞ്ചോ ആറോ മണിക്കൂർ ഈ ദുനിയാവിലെ പ്രശ്നങ്ങളൊന്നും അയാളെ
+സ്പർശിച്ചിരുന്നതുപോലുമില്ല.
+</p>
+          <p>മരണം ജീവിതത്തിന്റെ അനിവാര്യതയാണെന്നു് ആരും സമ്മതിക്കും. അതിനുള്ള പരിശീലനമാണു് ഉറക്കം.
+ഒരിക്കലും ഉണരാത്ത ഉറക്കമായി കവികൾ മരണത്തെ വിശേഷിപ്പിക്കാറുണ്ടു്.
+</p>
+          <p>ലോകത്തിലെ ബോറിൽനിന്നു് രക്ഷപ്പെടാനുള്ള വഴി കലകളും വിജ്ഞാനവുമാണെന്നു് വിവരമുള്ളവർ
+പറയാറുണ്ടു്. ബോറിൽനിന്നു് രക്ഷപ്പെടാൻ മറ്റൊരു സൂത്രം കൂടിയുണ്ടു്—ഉറക്കം. സിനിമാഹാളുകളിലും മറ്റും
+സഹൃദയന്മാർ ഉറക്കത്തെ ശരണം പ്രാപിക്കുന്നതു കണ്ടിട്ടില്ലേ? ബോറടിക്കുന്ന ഭാര്യ കുഞ്ഞുകുട്ടിപരാതീനങ്ങൾ,
+സുഹൃത്തുക്കൾ ആദികളിൽനിന്നും ഇപ്രകാരം രക്ഷപ്പെടാം.
+</p>
+          <p>അതെ. ബോറിനെ പ്രതിരോധിക്കുന്ന കലാവിദ്യയുമാകുന്നു ഉറക്കം!
+</p>
+          <p>ഉറക്കത്തിന്റെ ഏറ്റവും വലിയ മൂർത്തി കുംഭകർണ്ണനാണല്ലോ. അദ്ദേഹത്തെ കൊള്ളരുതാത്ത ഒരാളായി
+ആദികവി ചിത്രീകരിച്ചിട്ടില്ലെന്നതു ശ്രദ്ധിക്കണം. കുംഭകർണ്ണൻ ഊണു് ആറുമാസം, ഉറക്കം
+ആറുമാസക്കാരനാണെന്നതു് നേരുതന്നെ. പക്ഷേ, ആ ‘ഉറക്കത്തിൽനിന്നുണർന്നപ്പോൾ രാജ്യം
+ആക്രമിക്കനെത്തിയ ശത്രുവിനെ കണ്ടു. സ്വന്തം ജ്യേഷ്ഠനായ രാവണന്റെ ശത്രുവിനെ സ്വന്തം ശത്രുവായി
+മനസ്സിലാക്കി. ആ ശത്രു അവതാരമാണെന്നു് ആലോചിക്കാൻ നിന്നില്ല. സ്വജനങ്ങളോടൊപ്പം നിന്നു. അവർക്കു്
+വേണ്ടി പോർക്കളത്തിൽ പൊരുതി. അവരോടോപ്പം മരിച്ചുവീണു. ഉറക്കക്കാരനായിരുന്നു എന്നതുകൊണ്ടു് ആ
+കഥാപാത്രത്തിനു് ഒരു താഴ്ചയും വന്നുപോയിട്ടില്ല!
+</p>
+          <p>ഉറക്കത്തിൽ സ്വപ്നരൂപത്തിൽ പ്രവാചകന്മാർക്കു് ദിവ്യവെളിപാടുണ്ടാകുന്നുവെന്നും ദൈവം
+പ്രവാചകന്മാരോടു് സംസാരിക്കുന്നുവെന്നും ഒക്കെ അനേകം മതാനുയായികൾ വിശ്വസിക്കുന്നു.
+</p>
+          <p>ഉറങ്ങാതെ സ്വപ്നം കാണുന്നതെങ്ങനെ?
+</p>
+          <p>എല്ലാ ദിവസവും എല്ലാ പ്രവൃത്തിയും ഉറക്കിൽ ചെന്നുചേരുന്നു. എല്ലാം അതിൽനിന്നും ഉണർന്നെണീറ്റു
+വരുന്നു.
+
+</p>
+          <p>എങ്കിലും, ഒരു കാര്യം കൂടി പറഞ്ഞു്, നിർത്താം.
+</p>
+          <p>ഉറക്കത്തിൽ സുഖം ഉറങ്ങുമ്പോഴല്ല, ഉണർന്നെണീക്കുമ്പോഴാണു്. മരണത്തിനുള്ള ദുഃഖവും
+അതാകുന്നു—നമുക്കു അതിൽനിന്നു് ഉണർന്നെണീക്കാൻ കഴിയില്ല!
+</p>
+          <p>
+നിറമാല മാസിക: ഫെബ്രുവരി 1978.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Urakkararahasyam (ml:
+ഉറക്കറരഹസ്യം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Urakkararahasyam, എം. എൻ. കാരശ്ശേരി, ഉറക്കറരഹസ്യം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 9, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Joan_Brull_-_Dream__Google_Art_Project.jpg">Dream,</ref> a painting by Joan Brull  (1863–1912). The
+image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-urakkara.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-urakkara.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

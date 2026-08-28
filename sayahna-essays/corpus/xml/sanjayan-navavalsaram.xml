@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വമ്പിച്ച നവവത്സര
+സാഹിത്യസഹായവില്പന</title>
+          <title xml:lang="en" type="main">vambicha navavathsara
+sahithyasahayavilpana</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">September 19, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വമ്പിച്ച നവവത്സര
+
+സാഹിത്യസഹായവില്പന</title>
+              <title xml:lang="en" type="main">vambicha navavathsara
+sahithyasahayavilpana</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-09-19</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Vambicha navavathsara sahithyasahayavilpana</term>
+          <term>സഞ്ജയൻ</term>
+          <term>വമ്പിച്ച നവവത്സര സാഹിത്യസഹായവില്പന</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-09-19</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Thomas_Wyke-_Thames_frost_fair.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Thomas_Wyke_Thames_frost_fair.JPG">Frost Fair on the River Thames near the Temple Stairs,</ref> a
+painting by Thomas Wyke  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വമ്പിച്ച നവവത്സര സാഹിത്യസഹായവില്പന</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വമ്പിച്ച നവവത്സര സാഹിത്യസഹായവില്പന</head>
+        <div type="lsection">
+          <p style="noindent">പലതരം ചരക്കുകൾ! മിതമായ വില! വരുവിൻ! വാങ്ങുവിൻ!
+</p>
+          <p>ക്രിസ്മസും നവവത്സരവും പ്രമാണിച്ചു് തുണിക്കച്ചവടക്കാരും, പലവക വത്തകന്മാരും, വമ്പിച്ച സഹായവില്പന
+നടത്തുന്ന ഈ ശുഭമുഹൂർത്തത്തിൽ, കൊല്ലം മുഴുവൻ ശ്രമിച്ചിട്ടും അഴിച്ചലാവാത്ത സാമാനങ്ങൾ ഒരടിക്കു
+ഷോപ്പുകളിൽനിന്നു വീടുകളിലേക്കു സ്ഥലം മാറുന്ന ഈ സുവർണാവസരത്തിൽ, സാഹിത്യവ്യാപാരികൾ മാത്രം
+പഴയ സ്റ്റോക്കു വെച്ചു കൊണ്ടിരിക്കുന്നതു് എത്രയും അനാശാസ്യമാകയാൽ സഞ്ജയൻ ഈ കാര്യത്തിൽ
+ചൂട്ടുപിടിയനായി മുൻപേ നടക്കുവാൻ ആലോചിക്കുന്നു. ചങ്ങലംപരണ്ടയിൽവെച്ചു് ഇപ്പോൾ ബഹുജോറായി
+നടന്നുകൊണ്ടിരിക്കുന്ന അഖിലലോക സാമാന്യവസ്തുപ്രദർശനത്തിന്റെ കൂടെ സഞ്ജയന്റെ വകയായി ഒരു
+സാഹിത്യസഹായവിലപനയും നടത്തുവാൻ പോകുന്നു. പത്രപംക്തികളിൽ അഴിച്ചലാക്കുവാൻ
+സാധിക്കാതിരുന്ന കവിതകൾ, രസശലകങ്ങൾ, മുഖപ്രസംഗങ്ങൾ, വിമർശനങ്ങൾ മുതലായവ സഞ്ജയന്റെ
+പുതിയ സ്റ്റോക്കിനു സ്ഥലമുണ്ടാക്കേണ്ടുന്ന ഒരൊറ്റ ഉദ്ദേശ്യത്തെ മുൻനിർത്തി എത്രയും സഹായവില്പനയ്ക്കു വില്ക്കുന്നു!.
+ലേഖകന്മാർ, യുവസാഹിത്യ ബോറന്മാർ, കൊച്ചുകവികൾ, പത്രാധിപസ്ഥാനാർഥികൾ മുതലായവർക്കു് ഇത്ര
+നല്ല ഒരവസരം വേറെ കിട്ടുന്ന കാര്യം നന്നേ സംശയത്തിലാണു്. ഞങ്ങളുടെ കാറ്റ്ലോഗിന്റെ ചില ഭാഗങ്ങൾ
+താഴെ ചേർക്കുന്നു:
+</p>
+          <p>മുഖപ്രസംഗങ്ങൾ—ഏതവസരത്തിലും ഉപയോഗിക്കാവുന്ന, സംസ്കൃതപദബഹുലങ്ങളായവ,
+പച്ചമലയാളത്തിൽ എഴുതപ്പെട്ടവ, അങ്ങുമിങ്ങും തൊടാത്തവ, ഇങ്ങനെ പലതരത്തിലും വലിപ്പത്തിലുമുള്ള
+മുഖപ്രസംഗങ്ങൾ വില്ക്കുവാൻ തയ്യാറുണ്ടു്. കെണിയാവിലെ ഇന്ത്യക്കാർ, മലബാറിലെ നിലനികുതി,
+കേരളസർവകലാശാല, കേരളത്തിന്റെ ഏകീകരണം, ചൈനയിലെ അവീൻ വ്യാപാരം, സ്ത്രീവിദ്യാഭ്യാസം,
+മുൻസിപ്പാലിറ്റി ഭരണം, പ്രാഥമികവിദ്യാഭ്യാസം—മുതലായി ഒരിക്കലും പഴകാത്ത വിഷയങ്ങളെക്കുറിച്ചു് ഏതു
+രുചിക്കും, പാണ്ഡിത്യത്തിനും പറ്റിയ വിധത്തിൽ എഴുതപ്പെട്ട ഈ മുഖപ്രസംഗങ്ങൾ ഒന്നു വായിച്ചുനോക്കുവിൻ!
+കുറച്ചു സാമ്പിളുകൾ താഴെ ചേർക്കുന്നു;
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ഭൂനികുതിയുടെ അനാശാസ്യത</head>
+          <p style="noindent">‘മനുഷ്യരുടെ സമവിഷമ ദശാവിശേഷപരിണതികശൾ
+അലക്ഷിതോപനിപാതങ്ങളായിരിക്കുന്നു. ധനാഢ്യയമെന്ന സാർഥകമായ ഒരു നാമവിശേഷണത്താൽ
+അലംകൃതമാകുവാൻ അർഹതയോടുകൂടിയ ഈ കേരളഭൂമി അഭൂതപൂർവമായ കാർഷികോല്പന്നവൈരള ്യത്താലും,
+സാമ്പത്തികാധഃപതനത്തിനാലും, ദാരിദ്ര്യഗർത്തത്തിലേക്കു നിപതനോന്മുഖമായി നില്ക്കുന്നു. ഈ
+വിഷമഘട്ടത്തിലാണു വർധിച്ച ഭൂനികുതി കർഷകന്മാരെയും ജന്മിമാരെയും
+ദീനാക്രാന്ദതുന്ദിലന്മാരാക്കിത്തീർത്തെന്ന ദുഃഖവാർത്ത ഞങ്ങൾ നയനദ്വമ്പത്തിൽ കങ്കണത്തോടുകൂടി
+അധികൃതസമക്ഷം നിവേദനം ചെയ്തുകൊള്ളട്ടയോ?’
+</p>
+          <p>ഇതു തനി ഗീർവാണസമ്പ്രദായമാണു്. എനി പച്ചമലയാളത്തിൽ പ്രക്ഷോഭജനകമായ രീതിയുടെ ഒരു
+മാതൃക ചേർക്കാം:
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">മുതലാളികൾ പോകണം</head>
+          <p style="noindent">മുതലാളികൾ പോകാതെ കഴിയുകയില്ല. ഈ തെമ്മാടികളുടെ അധികപ്രസംഗം
+
+എത്രത്തോളമാണു നമ്മൾ സഹിക്കുക; ക്ഷമയക്കു് അതിരില്ലേ? ഇപ്പോൾത്തന്നെ തൊഴിലാളികൾ
+ഉണർന്നെഴുന്നേറ്റു കാലിൽ ചെരിപ്പുകളോടുകൂടി ഈ മുതലാളിക്കോട്ടയെ ചവിട്ടിത്തകർക്കേണ്ടതാണെന്നു
+ഞങ്ങൾ ലവലേശം പേടിയില്ലാതെ ഉറപ്പിച്ചു പറയുന്നു! എഴുന്നേല്പിൻ! മുന്നോട്ടു പായുവിൻ! എന്നാണു ഞങ്ങൾക്കു്
+കുതിരകയറപ്പെട്ട തൊഴിലാളികളോടു പറയുവാനുള്ളതു്.
+</p>
+          <p>എനിയുള്ളതു് അങ്ങുമിങ്ങും തൊടാത്ത രീതിയാണു്. ഈ രീതി വളരെ ബുദ്ധിമുട്ടുള്ളതാണു്. വരിക്കാർ
+അധികമില്ലാതിരിക്കുക; ഉള്ള വരിക്കാർ പല അഭിപ്രായക്കാരായിരിക്കുക—ഈ ഘട്ടത്തിലാണു് ഇത്തരം
+മുഖ്രപസംഗങ്ങളുടെ ആവശ്യം. ഒരു സാമ്പിൾ താഴെ ചേർക്കുന്നു:
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">ഭരണപരിഷ്കാരങ്ങൾ</head>
+          <p style="noindent">ഭരണപരിഷ്ക്കാരങ്ങളെപ്പറ്റി പലരും പലതും പറയുന്നുണ്ടു്. ചിലരുടെ
+അഭിപ്രായത്തിൽ ഇതു് ഇന്ത്യയുടെ സ്വാതന്ത്ര്യലബ്ധിയിലേക്കുള്ള നടവഴിയാണു്. മറ്റു ചിലർ പറയുന്നതു് ഇതു്
+‘പാരതന്ത്രത്തിലേക്കുള്ള പിടിച്ചുതള്ളലാണെന്നാണു്.’ ഈ ഘട്ടത്തിൽ ഒരഭിപ്രായം പ്രകടിപ്പിക്കുന്നതു വളരെ
+സൂക്ഷിച്ചു വേണ്ടതാണു്. എന്നാലും ഇന്ത്യയുടെ താല്ക്കാലിക സ്ഥിതിയെക്കുറിച്ചു് ആലോചിച്ചുനോക്കുന്ന പക്ഷം ഈ
+പരിഷ്കാരങ്ങൾ ഇന്ത്യയുടെ സ്വാതന്ത്ര്യേച്ഛയെ തൃപ്തികരമാകും വണ്ണം നിറവേറ്റുവാൻ പര്യാപ്തമല്ലെന്നുള്ളതിൽ
+വാസ്തവമില്ലാതെയല്ലെന്നുള്ള അഭിപ്രായത്തിന്റെ നിരാകരണം അസാധുവല്ലെന്നുള്ള തീർപ്പോടു
+യോജിക്കാതിരിക്കുവാനാണു് അധികം യുക്തിയെന്നു ചിലർ പറയുന്നുണ്ടെങ്കിൽ അവരുടെ വീക്ഷണകോണം
+പിഴച്ചുപോയിട്ടില്ലേ എന്നു ഞങ്ങൾ ശങ്കിക്കാതിരിക്കുകയും ചെയ്യുന്നില്ലെന്നില്ല. ഈ അഭിപ്രായം കുറെ
+കടന്നുപോയിട്ടുണ്ടെന്നു വല്ല വായനക്കാരും വിചാരിക്കുന്നുണ്ടെങ്കിൽ, അവരുടെ സിദ്ധാന്തത്തിലും ന്യായമുണ്ടെന്നു
+ഞങ്ങൾ സമ്മതിക്കുന്നതുമുണ്ടു്…
+</p>
+          <p>മേല്പറഞ്ഞ സാമ്പിളിൽ ഭരണപരിഷ്കാരങ്ങളെക്കുറിച്ചു പത്രാധിപരുടെ യഥാർത്ഥമായ അഭിപ്രായം
+ആദ്യത്തെ വായനയിൽ കണ്ടുപിടിക്കുവാൻ സാധിക്കുന്നവർക്കു് അഞ്ഞൂറുപ്പിക ഇനാം കൊടുക്കുവാൻ സഞ്ജയൻ
+തീർച്ചപ്പെടുത്തീട്ടുണ്ടു്.
+</p>
+          <p>വില: പറ (പത്തിടങ്ങഴി) ഒന്നുക്കു്—ടക.
+</p>
+          <p>പത്തു പറ ഒന്നായി എടുക്കുന്നവർ എട്ടിന്റെ വില കൊടുത്താൽ മതി.
+</p>
+          <p>ഇവ കൂടാതെ താഴെ പറയുന്ന ചരക്കുകൾകൂടി വില്പാനുണ്ടു്.
+<list type="gloss"><label>1.</label><item> കവിതകൾ: പല വൃത്തത്തിലും, രീതിയിലുമുള്ളവ. പേരു ചേർക്കുവാൻ സ്ഥലമൊഴിച്ചുവെച്ചിട്ടുള്ള
+സഭാമംഗളങ്ങൾ, വിവാഹമംഗളങ്ങൾ മുതലായവകൂടി ഇവയിൽ ഉൾപ്പെടുന്നതാണു്. ഗാലൻ ഒന്നിനു 3ക.
+</item><label>2.</label><item> ചെറുകഥകൾ, പലതരം ഉപന്യാസങ്ങൾ മുതലായവ: വാര ഒന്നിനു 3ണ. 6പേ.
+ഒരു ഫർലോണങ് ഒന്നായി എടുക്കുന്നവർക്കു വാര ഒന്നിനു 6പ.
+</item><label>3.</label><item> രസശകലങ്ങളും (കെട്ടിൽ പഴകിയതു്) വിജ്ഞാനശകലങ്ങളും ഡസൻ ഒന്നിനു 1ക. 4ണ. </item></list>
+</p>
+          <p>പേക്കിങ് ചാർജും തപാൽക്കൂലിയും ഇതിൽ ഉൾപ്പെടുന്നതല്ല. ആവശ്യക്കാർ ഉടനെ താഴെ കാണുന്ന
+മേൽവിലാസത്തിൽ അപേക്ഷിക്കേണ്ടതാണു്.
+</p>
+          <p>പി. സഞ്ജയൻ ആണ്ട് കമ്പനി.
+
+</p>
+          <p>എ. എൽ. എസ്. വി. പ്രദർശനപന്തൽ, ചങ്ങലംപരണ്ട.
+</p>
+          <p>
+30-12-1934
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.4"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  vambicha navavathsara
+sahithyasahayavilpana (ml: വമ്പിച്ച നവവത്സര സാഹിത്യസഹായവില്പന).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-09-19. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, Vambicha
+navavathsara sahithyasahayavilpana, സഞ്ജയൻ, വമ്പിച്ച നവവത്സര സാഹിത്യസഹായവില്പന, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 19, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Thomas_Wyke_Thames_frost_fair.JPG">Frost Fair on the River Thames near the Temple Stairs,</ref> a
+painting by Thomas Wyke  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-navavalsaram.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-navavalsaram.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

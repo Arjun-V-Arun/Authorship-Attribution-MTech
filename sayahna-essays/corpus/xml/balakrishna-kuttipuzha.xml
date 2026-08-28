@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">എ. ബാലകൃഷ്ണപിള്ള</title>
+          <title xml:lang="en" type="main">A. Balakrishnapilla</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">June 30, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">എ. ബാലകൃഷ്ണപിള്ള</title>
+              <title xml:lang="en" type="main">A. Balakrishnapilla</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>A. Balakrishnapilla</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>എ. ബാലകൃഷ്ണപിള്ള</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>June 30, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Kesari_Balakrishnapilla_statue.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Kesari_Balakrishnapilla_statue_@_Pulimoodu,_Thiruvanthapuram_02_(crop).jpg">Statue
+of Kesari Balakrishna Pillai at Pulimoodu junction, Thiruvananthapuram,</ref> a
+photograph by Praveen P  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">എ. ബാലകൃഷ്ണപിള്ള</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">എ. ബാലകൃഷ്ണപിള്ള</head>
+        <p>
+മുറ്റത്തെ മുല്ലയ്ക്കു മണമില്ലെന്നൊരു ചൊല്ലില്ലേ? അതെത്ര ശരിയാണെന്നു നോക്കു. അയൽപക്കക്കാരന്റെ
+പൂർണ്ണയോഗ്യത നാം അറിയുന്നില്ല; അതേസമയം അകലത്തിരിക്കുന്നവന്റെ അർദ്ധയോഗ്യതയെ ആരാധിക്കയും
+ചെയ്യുന്നു. നമ്മുടെ വിദ്യാഭ്യാസ സമ്പ്രദായവും ഈ മനുഷ്യ പ്രകൃതിക്കു് വളംവച്ചുകൊടുക്കുന്നുണ്ടു്. കൂട്ടികൾക്കു
+പരീക്ഷ പാസ്സാകണമെങ്കിൽ പരദേശങ്ങളുടെ ഭൂമിശാസ്ത്രവും ചരിത്രവുമാണുല്ലോ കൂടുതൽ പഠിക്കേണ്ടതു്.
+സ്വദേശചരിത്രം അറിഞ്ഞില്ലെങ്കിലും കഴിച്ചുകൂട്ടാം. കാലടിയും പെരിയാറുമല്ല ലണ്ടനും തിംസാനദിയുമാണവരുടെ
+പ്രധാന വിഷയം.
+ഏതാണീ ബാലകൃഷ്ണപിള്ള, എവിടെയാണദ്ദേഹത്തിന്റെ താമസം എന്നു ചോദിക്കുന്നവർപോലും നമ്മുടെ
+കൂട്ടത്തിലുണ്ടു്—പഠിപ്പൊന്നുമില്ലാത്തവരല്ല, അഭ്യസ്തവിദ്യരെന്നഭിമാനിക്കുന്നവർ. കേരളത്തിന്റെ ഒരു മൂലയിൽ
+ഒതുങ്ങിപ്പാർക്കുന്ന ഈ അപൂർവ്വജീവിയെ അവരറിയുന്നതെങ്ങനെ? ഒരു കാലത്തു പത്രപ്രവർത്തനംകൊണ്ടു്
+അദ്ദേഹം തിരുവിതാംകൂറിന്റെ സിരകളിൽ ചുടുചോരയൊഴുക്കിയിരുന്നു. അന്നു <ref target="https://en.wikipedia.org/wiki/Kesari_(Malayalam_newspaper)">കേസരി</ref>
+പത്രാധിപരെ അറിയാത്തവരായി ആരും ഉണ്ടായിരുന്നില്ല. കേരളമൊട്ടുക്കു മാറ്റൊലികൊണ്ടു കേസരിയുടെ
+ഗംഭീരഗർജ്ജനം. അത്രത്തോളം സ്വതന്ത്രവും ധീരവും നിസ്വാർത്ഥവുമായ പത്രപ്രവർത്തനം അടുത്ത കാലത്തു
+കേരളത്തിലെങ്ങും മറ്റാരും നിർവഹിച്ചിട്ടില്ല. ആ കാലം പെട്ടെന്നങ്ങു കടന്നുപോയി. വൈതസീവൃത്തികൊണ്ടു
+പത്രാധിപധർമ്മം പങ്കിലമാക്കുന്ന ക്ഷുദ്രതൂലികകൾക്കേ തിരുവിതാംകൂറിൽ സ്ഥാനമുള്ളുവെന്ന നിലവന്നു.
+സത്യവും നീതിയും പുലരുകയില്ലെന്നു കണ്ട അന്നു പേന താഴെവച്ചു ബാലകൃഷ്ണപിള്ള.
+രാഷ്ട്രീയകാര്യനിരൂപണത്തിനായി പിന്നീടൊരിക്കലും ആ പേന ചലിച്ചിട്ടില്ല. ഇനി ചലിക്കയുമില്ല. അതുവരെ
+എരിഞ്ഞുകൊണ്ടിരുന്ന അഗ്നിപർവ്വതം നിർവ്വാണമടഞ്ഞു. കാലത്തിന്റെ പുരോഗതിയിൽ കഴിഞ്ഞ കാര്യങ്ങൾ
+വിസ്മൃതങ്ങളായി.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/Kesari_vol1_issue_2.jpg" rendition="gra"/>
+        </figure>
+        <p><ref target="https://books.sayahna.org/html/kesari-bio.html">ശ്രീ.
+ബാലകൃഷ്ണപിള്ള</ref> യെ ഇന്നു ചെന്നൊന്നു നോക്കു; ദർശനീയമാണാ രൂപം. രോഗഗ്രസ്തവും
+രേഖാമാത്രവുമായ ആ നീണ്ട ശരീരം ഒരു ചാരുകസാലയെ സദാപി ശരണംപ്രാപിച്ചിരിക്കയാണു്. നാലുപാടും
+വെണ്മവീശുന്ന നരച്ച താടിമാത്രമേ അവിടെയുള്ളുവെന്നു തോന്നിപ്പോകും. എന്നാൽ സംഭാഷണം
+തുടങ്ങിയെന്നുവരട്ടെ—അപ്പോൾ കാണാം, ആ മുഖം വിജ്ഞാന ദീപ്തിയിൽ വികസിക്കുന്നതു്; ആ നയനങ്ങൾ
+പ്രകാശമാനങ്ങളായി ഭ്രമണം ചെയ്യുന്നതു്. നവീനവിജ്ഞാനത്തിന്റെ ബഹുമുഖമായ പ്രവാഹം നമ്മെ
+വിസ്മയസ്തബ്ധരാക്കും. പാണ്ഡിത്യമണ്ഡലത്തിലെ ചണ്ഡഭാസ്ക്കരനാണീ മഹാപുരുഷൻ. മലയാളത്തിന്റെ തല
+എന്നുപറഞ്ഞാലും അതൊരതിശയോക്തിയാകുന്നതല്ല. രാഷ്ട്രീയരംഗത്തുനിന്നൊഴിഞ്ഞുമാറിയെങ്കിലും തിളച്ചു
+പൊന്തുന്ന ചിന്താശക്തിയുടെ കേന്ദ്രമെന്ന നിലയിൽ ഇപ്പോഴും ഇദ്ദേഹം വിദ്വല്ലോകത്തെ
+തന്നിലേയ്ക്കാകർഷിച്ചുകൊണ്ടിരിക്കുന്നു. നമ്മുടെ എഴുത്തുകാരിൽ പലരും ഈ അസാധാരണ പണ്ഡിതനെ
+കാണാൻ പോകാറുണ്ടു്. ജീവത്തായ ആ ഗ്രന്ഥശാലയുടെ മുമ്പിലിരുന്നു് അവർക്കു് ഏതു സംശയവും
+പരിഹരിക്കാം. പലരും അദ്ദേഹത്തിന്റെ തൂലികാചിത്രം വരച്ചിട്ടുണ്ടു്. എന്നാൽ ചുരുക്കം ചിലർ മാത്രമേ
+അദ്ദേഹത്തെ അറിഞ്ഞിട്ടുള്ളൂ. ബാലകൃഷ്ണപിള്ള ഇന്നുവരെ എഴുതിയിട്ടുള്ള പുസ്തകങ്ങളും ലേഖന പരമ്പരകളും
+മുഴുവൻ വായിച്ചിട്ടുള്ളവരുണ്ടോ, എന്തോ? മഹത്തായ ആ പാണ്ഡിത്യത്തിന്റേയും ചിന്താഫലങ്ങളുടേയും മൂല്യം
+നിർണ്ണയിക്കാൻ ഇതു വരെ ആരും തുനിഞ്ഞിട്ടില്ല. അധികം പേരും അദ്ദേഹത്തിന്റെ സാഹിത്യ നിരൂപണമാണു്
+ശ്രദ്ധിക്കുന്നതെന്നു തോന്നുന്നു. അതു പലരുടേയും വിമർശനത്തിനു വിഷയമായിട്ടുണ്ടല്ലോ. എന്നാൽ സാഹിത്യ
+നിരൂപണം ബാലകൃഷ്ണപിള്ളയുടെ ഒരു വിനോദവ്യാപാരം (Hobby) മാത്രമാണെന്ന സംഗതി നമ്മളാരും
+ഓാർമ്മിക്കുന്നില്ല. പുരാണവസ്തുഗവേഷണ ശാസ്ത്രം (Archaeology) ആണു് അദ്ദേഹത്തിന്റെ പ്രധാനവിഷയം.
+ഒന്നാമതായി അതിലൂടെ വേണം അദ്ദേഹത്തിൽനിന്നു ലഭിച്ചിട്ടുള്ള വിജ്ഞാന സമ്പത്തിന്റെ വിലയിരുത്തുവാൻ.
+അതിനാരും ഇന്നേവരെ ഉദ്യമിച്ചിട്ടില്ല. അതത്ര എളുപ്പവുമല്ല.
+</p>
+        <p>ബാലകൃഷ്ണപിള്ള എഴുതിവിടുന്നതുമാത്രം വായിച്ചാൽ പോരാ. അദ്ദേഹത്തെത്തന്നെയും ഒന്നു
+പഠിക്കേണ്ടതുണ്ടു്. ദുർഘടഗ്രന്ഥികളുള്ള ഒരു ഗ്രന്ഥമാണദ്ദേഹം. അതിലെ പല ഏടുകളും അറിയപ്പെടാതെ
+കിടക്കയാണു്. യാഥാസ്ഥിതികത്വത്തിൽ അടിയുറച്ചു നിൽക്കുന്ന സാമൂഹ്യജീവിതത്തെ വേരോടെ പറിച്ചു
+മറിച്ചിടുന്ന ഈ വിപ്ലവകാരി പലരുടേയും ദൃഷ്ടിയിൽ ഒരു തലതിരിഞ്ഞ ചിന്തകനായിരിക്കുന്നു. അവർക്കു
+ദഹിക്കാത്ത ആശയങ്ങളാണല്ലോ ഏതു വിഷയത്തിലും അദ്ദേഹം പുറത്തു വിടുന്നതു്. അമേരിക്കയിലെ
+ഉൽപതിഷ്ണുക്കളിൽ പ്രമുഖനായ ഹെൻറിവാലസ്സിന്റെ തൂലികാചിത്രമെഴുതിയ ഒരു ലേഖകൻ ഇങ്ങനെ
+പറയുകയുണ്ടായി: “ഹെൻറി വാലസ്സ് സിദ്ധാന്തമണ്ഡലത്തിൽ അതിവിദഗ്ദ്ധനാണു്. പക്ഷേ, യാഥാർത്ഥ്യങ്ങളുടെ
+
+ലോകത്തിൽ അദ്ദേഹം കൂടെക്കൂടെ അപകടത്തിൽ ചെന്നു ചാടുന്നു. (He is considered to be brilliant in
+theory, but he constantly runs into trouble in the world of realities.) ബാലകൃഷ്ണപിള്ളയെ
+സംബന്ധിച്ചും ഈ അഭിപ്രായം തികച്ചും ഒത്തിരിക്കുന്നു. മനുഷ്യ ജീവിതത്തിന്റെ എല്ലാ വശങ്ങളേയും
+ഉൾക്കൊള്ളും വിധമാണു് അദ്ദേഹത്തിന്റെ നിരീക്ഷണം. ഏകപക്ഷദർശികൾക്കു് അതു ഹൃദ്യമാകാതിരുന്നേയ്ക്കാം.
+ഒരു വശത്തിലൂടെ മാത്രം ഒന്നിനെ നോക്കിക്കാണുന്ന അശാസ്ത്രീയ സ്വഭാവം അദ്ദേഹം നിഷിദ്ധമായി ഗണിക്കുന്നു.
+കമ്പോളത്തിലെ വിലയുടെ നിലവാരമനുസരിച്ചു് അഭിപ്രായച്ചരക്കുകൾ ഇറക്കുമതിചെയ്യാനും അദ്ദേഹം
+പഠിച്ചിട്ടില്ല. ആരാധ്യമായൊരു ശാസ്ത്രജ്ഞമനോഭാവം—അതെപ്പോഴും ഏതു വിചാരണയിലും അചഞ്ചലമായി
+അകളങ്കിതമായി പ്രത്യക്ഷപ്പെടുന്നു. അറിവിന്റെ ശുദ്ധസ്വരുപം മാത്രമേ അതിൽ നിന്നു പുറത്തുവരികയുള്ളു.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/Havelock_Ellis.jpg" rendition="gra"/>
+          <figDesc style="thumb">ഹാവലോക് എല്ലീസ്</figDesc>
+        </figure>
+        <p>പതിനെട്ടാം നൂറ്റാണ്ടിലെ പ്രസിദ്ധ ഇംഗ്ലീഷുസാഹിത്യകാരനായ ഹോറസ് പാൽപോൾ പറഞ്ഞിട്ടുണ്ടു്,
+വിചാരശീലർക്കു് ഈ ലോകം ഒരു ‘കോമഡി’യും വികാരഭരിതർക്കു് ഒരു ‘ട്രാജഡി’യും ആണെന്നു്. ഇതൊരു
+മാനസിക രഹസ്യമത്രേ. പക്ഷേ, എല്ലാമനുഷ്യരിലും ഏറെക്കുറെ വിചാരവികാരങ്ങൾ ഉള്ളതുകൊണ്ടു് അവർക്കു്
+ജീവിതം രണ്ടും ഇടകലർന്നതായിട്ടേ തോന്നുകയുള്ളൂ. ഓരോരുത്തരുടേയും മനോഭാവത്തിനനുസരിച്ചു്
+ട്രാജഡിയുടേയും കോമഡിയുടേയും അംശങ്ങൾ ഏറിയും കുറഞ്ഞും അനുഭവപ്പെടും. ഇവയുടെ സമീകരണം
+അത്യന്തം ദുഷ്ക്കരമാണു് സാധാരണ മനുഷ്യനു്. ഇതിൽ ബാലകൃഷ്ണപിള്ള അസാമാന്യ വിജയം നേടിയിരിക്കുന്നു.
+ഏറ്റക്കുറവുകൾ കൂടാതെ ജീവിതത്തിന്റെ ഈ രണ്ടു വശങ്ങളും ഒന്നു പോലെ ദർശിക്കുന്ന ഹൃദയാലുവായ ഒരു
+തത്ത്വജ്ഞാനിയാണദ്ദേഹം. തർക്കകർക്കശമായ ബുദ്ധിയും വികാരതരളിതമായ ഹൃദയവും അദ്ദേഹത്തിൽ
+സമഞ്ജസമായി സമ്മേളിച്ചിരിയ്ക്കുന്നു. പക്ഷേ, ആദ്യത്തേതുമാത്രമെ അധികം പേരും മനസ്സിലാക്കിയിട്ടുള്ളൂ.
+അതുകൊണ്ടു് അദ്ദേഹത്തിന്റെ ജീവിത നിരീക്ഷണത്തെ ഏകപക്ഷമായി വ്യാഖ്യാനിക്കുവാനും ചില വിമർശകന്മാർ
+മുതിർന്നിട്ടുണ്ടു്. നാം ജീവിതമെന്നു പറയുന്നതിന്റെ സ്വരൂപഘടനയിൽ വിഡ്ഢിത്തവും യുക്തിവിചാരവും
+കൂടിക്കലർന്നു കിടക്കുന്നുവെന്നും ഇവയിലൊന്നിലൂടെമാത്രം ജീവിതത്തെ നോക്കുന്നവൻ അർദ്ധമനുഷ്യനേ
+ആകുന്നുള്ളുവെന്നും രണ്ടിന്റേയും അനുരഞ്ജനം ഉൾക്കൊള്ളുന്ന സമഗ്രവീക്ഷണമുള്ളവനാണു് പൂർണ്ണമനുഷ്യനെന്നു
+<ref target="https://en.wikipedia.org/wiki/Havelock_Ellis">ഹാവലോക്
+എല്ലീസ്</ref> അഭിപ്രായപ്പെട്ടിട്ടുള്ളതു് ഇവിടെ സ്മരണീയമാണു്.
+</p>
+        <p>പ്രസ്തുത തത്ത്വത്തെ ആസ്പദമാക്കി ബാലകൃഷ്ണപിള്ളയുടെ ജീവിതാവലോകനമൊന്നു വിശകലനം
+ചെയ്തുനോക്കുക. പ്രഥമവീക്ഷണത്തിൽ അദ്ദേഹമൊരു അർദ്ധമനുഷ്യനായി പ്രത്യക്ഷപ്പെട്ടേയ്ക്കാം. പലരും
+അങ്ങനെ തെറ്റിദ്ധരിച്ചിട്ടുണ്ടു്. പരസ്പരം ബന്ധമില്ലാതെ എന്തൊക്കെയോ അസംബന്ധം പുലമ്പുന്നൊരു
+കിറുക്കൻ—സകലതും ദോഷദൃഷ്ടിയോടെ നോക്കി ഹാസ്യവും അവജ്ഞയും പ്രകടിപ്പിക്കുന്നൊരു ‘സിനിക്ക്’
+എന്നിങ്ങനെ ഒരു കൂട്ടർ. യുക്തിയുടെ വെളിച്ചത്തിൽ സ്വതന്ത്രമായ ചിന്തകൊണ്ടു് എല്ലാം കീറി മുറിച്ചു
+പരിശോധിക്കുന്ന ശുഷ്ക്കമാനസനായൊരു ശാസ്ത്രജ്ഞൻ എന്നു വേറെ ചിലർ. ഈ രണ്ടു് അർദ്ധസത്യങ്ങളും
+കൂടിച്ചേരുമ്പോൾ ബാലകൃഷ്ണപിള്ള എല്ലീസിന്റെ മതപ്രകാരം ഒരു പൂർണ്ണമനുഷ്യനാണെന്നു കാണാം.
+</p>
+        <p>ആശയസമുദ്രത്തിൽ എപ്പോഴും കാറ്റും കോളും ഉണ്ടാക്കുന്ന പ്രക്ഷോഭകാരിയായൊരു പ്രചാരകനെന്നു
+പറഞ്ഞാലതും അർത്ഥവത്താകും. തന്റെ ചിന്തയിൽ വിളയുന്ന ആശയങ്ങളുടെ ആഘാതമേറ്റു ജനസഞ്ചയം
+അസ്വസ്ഥമാകുന്നതുകണ്ടു് അദ്ദേഹത്തിനു രസിച്ചുകൊണ്ടിരിക്കണം. അതിനുവേണ്ടി അതിശയോക്തിയുടെ
+കൂട്ടുപിടിക്കാനും അദ്ദേഹം മടിക്കാറില്ല. സാഹിത്യ നിരൂപണത്തിലാണു് ഈ നയപ്രയോഗമധികവും. സാഹിത്യം,
+സമുദായതന്ത്രം, ചരിത്രഗവേഷണം മുതലായ ചർച്ചാവിഷയങ്ങളിലെല്ലാം ഈ നിരൂപകകേസരിയുടെ
+നിലയൊന്നു വേറെതന്നെ. ഒരു കക്ഷിയിലും ചേരാതെ അദ്ദേഹം ഒറ്റതിരിഞ്ഞു നിൽക്കുന്നു. എന്തെതിർപ്പിനോടും
+എതിരിട്ടു് ഏകനായി ഉറച്ചുനിൽക്കാനുള്ള കരുത്തും അദ്ദേഹത്തിനുണ്ടു്. ഒത്തു തീർപ്പെന്നതു (Compromise)
+രാജ്യതന്ത്രത്തിന്റെ മറ്റൊരു പേരായി പറയപ്പെടുന്നുണ്ടല്ലോ. ബാലകൃഷ്ണപിള്ള ഒന്നാംതരം
+രാജ്യതന്ത്രജ്ഞനാണെങ്കിലും എല്ലാവിധത്തിലുള്ള ഒത്തുതീർപ്പിനും വിരോധിയാണു്. സമൂല
+പരിവർത്തനം—അട്ടിമറിപ്പൻവിപ്ലവം—അതാണു് മൂപ്പർക്കിഷ്ടം. ആ കൃശ ശരീരത്തിനുള്ളിൽ ഭീകരമായ ഒരു
+സർവ്വസംഹാരഭാവം വീർപ്പുമുട്ടിക്കിടക്കുന്നുണ്ടെന്നു് അടുത്തിരുന്നു വർത്തമാനം പറഞ്ഞുനോക്കുന്നവർക്കേ
+അറിഞ്ഞുകൂടു. ഒരു തികഞ്ഞ ഭൗതികവാദിയാണെങ്കിലും പ്രത്യേകിച്ചൊരു സിദ്ധാന്തവും ആ ധീപ്രസരത്തിനു ചുറ്റും
+മതിൽകെട്ടിയിട്ടില്ല. വീടുവിട്ടു പുറത്തിറങ്ങാത്ത ഈ ഏകാന്തമനുഷ്യൻ സ്വന്തതാത്പര്യങ്ങളോടു യാത്ര പറഞ്ഞിട്ടു്
+എത്രയോ കൊല്ലം കഴിഞ്ഞിരിക്കുന്നു. ഇത്രത്തോളം സ്വസുഖ നിരഭിലാഷനായി സ്വാർത്ഥവിചാരം ത്യജിച്ചിട്ടുള്ള
+മറ്റൊരു പണ്ഡിതൻ ഇന്നു കേരളത്തിലില്ല. ജഞാനതൃഷ്ണ, അതൊന്നുമാത്രമേ അദ്ദേഹത്തിലാവേശിച്ചിട്ടുള്ളൂ. ഒരു
+
+പുതിയ മനുഷ്യവർഗ്ഗത്തെ വാർത്തെടുക്കാനുള്ള സാമഗ്രികൾ ഈ ലോകത്തിലെ വിജ്ഞാനഖനിയിൽ നിന്നു
+കുഴിച്ചെടുക്കാനുള്ള തൃഷ്ണയാണതു്.
+</p>
+        <p>പരിതസ്ഥിതിക്കും പാരമ്പര്യത്തിനും തുല്യപ്രാധാന്യം കൽപ്പിച്ചു് അവയ്ക്കു രണ്ടിനും മാറ്റം വരുത്തിയാലേ
+മനുഷ്യവർഗ്ഗം നന്നാകയുള്ളുവെന്നു വാദിക്കുന്നയാളാണു് ശ്രീ. ബാലകൃഷ്ണപിള്ള. യുക്തിവാദി പ്രതാധിപർ <ref target="https://en.wikipedia.org/wiki/Mookencheril_Cherian_Joseph">എം. സി
+ജോസഫി</ref> ന്റെ ഒരു പുസ്തകത്തിനു് (പുരോഗതി) എഴുതിക്കൊടുത്ത അവതാരികയിൽ അദ്ദേഹം ഈ
+സംഗതി സുവ്യക്തമാക്കിയിട്ടുണ്ടു്. പരിതസ്ഥിതിക്കു കൂടുതൽ പ്രാധാന്യം നൽകിയിട്ടുള്ള കമ്യൂണിസ്റ്റ്
+ഫിലോസഫിയോടു് ഇക്കാര്യത്തിൽ അദ്ദേഹത്തിനു തികച്ചും യോജിക്കുവാൻ കഴിയുന്നില്ല. സാമ്പത്തിക
+പരിവർത്തനത്തോടൊപ്പം യൂജനിക്സ് സമ്പ്രദായത്തിലുള്ള ഉത്തമവർഗ്ഗോത്പാദനപരിപാടിയും
+നടപ്പാക്കണമെന്നു് അദ്ദേഹം അഭിപ്രായപ്പെടുന്നു. എന്നാലിതിലൊന്നിലുമല്ല ബാലകൃഷ്ണപിള്ളയുടെ
+അഗാധപാണ്ഡിത്യവും അവിശ്രമ പരിശ്രമവും അത്ഭുതാവഹമായി വെളിപ്പെട്ടിട്ടുള്ളതു്. അതു മുൻസൂചിപ്പിച്ചതു
+പോലെ ചരിത്ര ഗവേഷണത്തിലാണു്. ഇന്നുവരെ മറ്റൊരു ഗവേഷകന്റേയും ദൃഷ്ടിയിൽപ്പെടാത്തതായി ചില
+പുതിയ അദ്ധ്യായങ്ങൾ അതിലദ്ദേഹം അവതരിപ്പിച്ചിരിക്കുന്നു. ചരിത്രാതീത സംസ്ക്കാരത്തെ (Pre-historic
+culture) സംബന്ധിച്ച അദ്ദേഹത്തിന്റെ നവീനസിദ്ധാന്തങ്ങളും അവയുടെ സ്ഥാപനത്തിനായി ഉപയോഗിച്ചിട്ടുള്ള
+കൽപകാലഗണനയും (Kalpa chronology) ആർക്കിയോളജിയിലെ വിലയേറിയ കണ്ടുപിടുത്തങ്ങളായി
+ലോകം കൊണ്ടാടുന്ന ഒരു കാലം വരും. അത്രയ്ക്കു ദൂരവ്യാപകമായ പ്രാധാന്യം അവയ്ക്കുണ്ടെന്നു് ഇന്നധികം പേരും
+അറിയുന്നില്ല. മലയാളത്തിലെ മാസികകളിൽ മങ്ങിക്കിടക്കുന്ന ഈ അനർഘസസമ്പത്തു് ഇംഗ്ലീഷിൽക്കൂടി
+പുറത്തുവരുമ്പോൾ ഈ കേരളാചാര്യനു ഭുവനപ്രശസ്തിതന്നെ ലഭിച്ചേയ്ക്കാം. ഇതിനെപ്പറ്റി പ്രത്യേകിച്ചൊരു
+ലേഖനമാവശ്യമാകയാൽ ഇവിടെ വിസ്തരിക്കുന്നില്ല.<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref>
+</p>
+        <p>
+—നിരീക്ഷണം
+</p>
+        <noteGrp>
+          <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] ശ്രീ.
+ബാലകൃഷണപിള്ള 1961-ൽ നിര്യാതനായി.</note>
+        </noteGrp>
+        <div type="lsection" xml:id="sec1.1">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കൃതികൾ</head>
+          <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—നിരീക്ഷണം.
+</p>
+          <p>ചരമം: 11-2-1971
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  A. Balakrishnapilla (ml: എ.
+ബാലകൃഷ്ണപിള്ള).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, A. Balakrishnapilla, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, എ. ബാലകൃഷ്ണപിള്ള, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  June 30, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Kesari_Balakrishnapilla_statue_@_Pulimoodu,_Thiruvanthapuram_02_(crop).jpg">Statue
+of Kesari Balakrishna Pillai at Pulimoodu junction, Thiruvananthapuram,</ref> a
+photograph by Praveen P  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/balakrishna-kuttipuzha.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/balakrishnakuttipuzha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

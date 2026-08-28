@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മലബാറിലേക്കു്</title>
+          <title xml:lang="en" type="main">Malabarilekk</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>JS Aswathy</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">February 3, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മലബാറിലേക്കു്</title>
+              <title xml:lang="en" type="main">Malabarilekk</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-02-04</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Malabarilekk</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>മലബാറിലേക്കു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-02-04</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Ring63.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Ring63.jpg">Br\”unnhilde on
+Grane leaps,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Arthur_Rackham">Arthur
+Rackham</ref>  (1867–1939). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മലബാറിലേക്കു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മലബാറിലേക്കു്</head>
+        <div type="lsection">
+          <p style="noindent">നന്ദരാജാക്കന്മാരുടെ കാലത്തു്, ഒരു പെൺകുട്ടിക്കു് അൽപാല്പമായി
+വിഷംകൊടുത്തു് അവളുടെ ശരീരം മുഴുവനും വിഷപൂർണ്ണമാക്കിത്തീർത്തുവെന്നു് ഐതിഹ്യം പറയുന്നു. വിഷത്തിന്റെ
+ശക്തികൊണ്ടു്, അവൾ ആരെയെങ്കിലും ആശ്ലേഷിച്ചാൽ അയാൾ വിഷബാധയേറ്റു മരിച്ചുപോകുമത്രേ. ഇതു
+ചന്ദ്രഗുപ്തനെ വധിക്കുവാൻ കണ്ടുപിടിച്ച ഒരുപായവുമായിരുന്നു. ഇങ്ങനെയൊരു വിഷകന്യകയാണു് ശ്രീ.
+പൊറ്റേക്കാട്ടിന്റെ പുതിയ നോവലിലെ പ്രതിപാദ്യം. ഒരു പെണ്ണിന്റെ പടം പുറം ചട്ടയിൽ കൊടുത്തിട്ടുണ്ടു്,
+അകത്തുള്ള ഒരു മാധവിയുടെ പ്രതിബിംബമായിട്ടു്. അതല്ല പൊറ്റേക്കാട്ടിന്റെ വിഷകന്യക. മാധവി ഒരു പ്രതീകം
+മാത്രമാണു്. യഥാർത്ഥ വിഷകന്യക മാധവിയുടെ പുറകിൽ നിരന്നു നിവർന്നുകിടക്കുന്ന പശ്ചാത്തലമാണു്.
+വർണ്ണനാചാതുരിയിൽ വിദഗ്ദ്ധമായ പൊറ്റേക്കാട്ടിന്റെ തൂലിക മലബാറിലെ തരിശുനിലങ്ങളെ സ്തുത്യർഹമാംവണ്ണം
+ചിത്രീകരിച്ചിട്ടുണ്ടു്. അവയുടെ സസ്യശ്യാമളമായ അന്തരീക്ഷവും ഫലഭൂയിഷ്ഠമായ മണ്ണും എല്ലാം വിഷകന്യകയുടെ
+വശീകരണോപായങ്ങളാണു്. ആ മാരകശക്തി എങ്ങിനെ പ്രവർത്തിക്കുന്നുവെന്നതാണു് നോവലിലെ കഥ.
+ആരാണു് ഈ വിഷകന്യകയുടെ ഇരകൾ; അതിനുത്തരം നല്കേണ്ടതു മറ്റൊരു രാജ്യമാണു്.
+</p>
+          <p>തിരുവിതാംകൂർ ഇന്ത്യയിലെ ഒരു ചെറിയ നാട്ടുരാജ്യമാണു്. ആകെ ഏഴായിരത്തിൽ ചില്വാനം
+ചതുരശ്രനാഴികയേ അതിനു വിസ്തീർണ്ണമുള്ളു. പക്ഷേ, മണ്ണും കല്ലും എന്നതിൽ കവിഞ്ഞ ഒരു തിരുവിതാംകൂറുണ്ടു്
+—മനുഷ്യരുടെ ഒരുകൂട്ടം, അറുപത്തഞ്ചു ലക്ഷമെന്ന സംഖ്യ വലിയ സംഖ്യകളുള്ള ഇന്ത്യയിൽ അത്രകാര്യമായി
+തോന്നുകയില്ല. എങ്കിലും, തിരുവിതാംകൂറിലെ ജനസംഖ്യ ഫിൻലാന്റിന്റെ ഇരട്ടിയാണെന്നോ ആസ്ത്രേലിയായുടെ
+ജനസംഖ്യയാണെന്നോ എല്ലാം പറയുമ്പോൾ മനസ്സിലാകും ആ ജനസംഖ്യയുടെ ഭാരിച്ച കനം. ഇത്ര ചെറിയ ഒരു
+രാജ്യത്തു കൃഷിക്കു സ്ഥലമില്ലാതിരിക്കുക വളരെ സഹജമാണല്ലോ. മധ്യതിരുവിതാംകൂറിലും വടക്കൻ
+തിരുവിതാംകൂറിലും ഉള്ള കൃഷിക്കാരിൽ ഭൂരിപക്ഷത്തിനും കൃഷിചെയ്യാൻ സ്ഥലമില്ല. രാജ്യത്തിന്റെ മൂന്നിലൊന്നു
+വരുന്ന വനമാണെങ്കിൽ ഗവണ്മെന്റ് ഭൂതം നിധികാക്കുന്നതുപോലെ വെച്ചുകൊണ്ടിരിക്കുകയുമാണു്! ഈ
+പരിതസ്ഥിതിയിലാണു് വടക്കുമലബാറെന്നൊരു സ്ഥലമുണ്ടെന്നും അവിടെ വളരെ ചുരുങ്ങിയ വിലയ്ക്കു
+സ്ഥലംകിട്ടുമെന്നും ഉള്ള വാർത്ത അവരുടെ ചെവിയിൽ എത്തുന്നതു്—ജോൺ സ്റ്റീൻബെർക്കിന്റെ
+‘കോപത്തിന്റെ കനികൾ’ എന്ന നോവലിലെ ഓക്ലാഹോമായിൽ നിർദ്ധനരായിത്തീർന്ന കർഷകർ
+കാലിഫോർണിയയിൽ സ്ഥലമുണ്ടെന്നു കേൾക്കുന്നതുപോലെ. ഓക്ലാഹോമക്കാർ കൂട്ടത്തോടെ
+കാലിഫോർണിയയിലേക്കു് പ്രയാണമാരംഭിച്ചു; തിരുവിതാംകൂർ കൃഷിക്കാർ മലബാറിലേക്കും. ഈ
+പ്രയാണമാണു് ‘വിഷകന്യക’യിലെ ആദ്യഭാഗം. തിരുവിതാംകൂറിലെ ഒരു ഗ്രാമത്തിൽനിന്നു
+കുലുങ്ങിക്കുലുങ്ങിവരുന്ന ഒരു വണ്ടിയുടെ കൂടെ ശ്രീ. എസ്. കെ. പുറപ്പെടുന്നു. വഴിയ്ക്കു മറ്റു യാത്രക്കാരെയുംകൂട്ടി ആ
+സംഘം മലബാറിലെത്തുന്നു. അവരാരും വീരസാഹസകഥകൾ തേടി പുറപ്പെടുന്നവരല്ല. വെറും
+ജീവിതത്തിനുവേണ്ടിമാത്രം കൃഷിചെയ്യുവാൻ മണ്ണു് അന്വേഷിച്ചു് ഇറങ്ങിത്തിരിക്കുകയാണു്. ആ തീർത്ഥാടകരുടെ
+മാനസികപശ്ചാത്തലത്തിലേയ്ക്കു ചുഴിഞ്ഞിറങ്ങാൻ ശ്രീ. പൊറ്റേക്കാട്ടിനു കഴിഞ്ഞിട്ടുണ്ടു്. അവർക്കു് ആശകളുണ്ടു്,
+ആശങ്കകളും. ഒരു പുതിയ സാമ്രാജ്യം വെട്ടിപ്പിടിക്കാൻ പോകുന്ന അവർ അജ്ഞാതമായ പല അപകടങ്ങളെയും
+ഭയപ്പെടുന്നുണ്ടു്. എങ്കിലും, നെഞ്ഞൂക്കുള്ള മറ്റേതു വർഗ്ഗത്തിനുമെന്നപോലെ ആശകളാണു് അവരിൽ
+മുന്നിട്ടുനില്ക്കുന്നതു്. തലമുറകളായി കരിങ്കൽപാറകൾ ഇടിച്ചുനിരത്തി കൃഷിസ്ഥലങ്ങളാക്കിത്തീർത്ത പാരമ്പര്യം
+അവർക്കു് ആത്മധൈര്യം നല്കുന്നുണ്ടു്. നീണ്ട യാത്രയിൽ ഓരോ ഘട്ടത്തിലും അവർക്കു് അസുഖകരമായ
+അനുഭവങ്ങൾ ഉണ്ടാകുന്നു. ആലുവായ്ക്കുള്ള ബസ്സിലെ കണ്ടക്ടറുടെ പെരുമാറ്റവും, ചവുക്കയിലെ എക്സൈസുകാരുടെ
+കൈക്കൂലിയും, തീവണ്ടിയിലെ തിരക്കും എല്ലാംചേർന്നു് ഒരു പ്രത്യേകമാനസികാവസ്ഥയിലാണു് അവർ
+മലബാറിലെത്തുന്നതു്. അങ്ങിനെ കഥയുടെ രണ്ടാംഭാഗം ആരംഭിക്കുന്നു.
+</p>
+          <p>കുടിയേറിപ്പാർപ്പുകാരുടെ ഗുണവും ദോഷവും ഒന്നും ശ്രീ. പൊറ്ററേക്കാട്ടു് മറച്ചുവെക്കുന്നില്ല. അവർക്കു
+പൊതുവേയുള്ള സ്വഭാവം ഭയവും സംശയവുമാണു്. മതത്തിലും, സംസ്കാരത്തിലും ആകെകൂടി ഭിന്നമായ ഒരു
+രാജ്യത്താണു് അവരെത്തിയിരിക്കുന്നതു്. ഉച്ചാരണരീതിതന്നെ ഭിന്നമായതുകൊണ്ടു്, വന്നവരും നാട്ടുകാരും
+തമ്മിൽ അകൽച്ചയ്ക്കൊരു കാരണം ആദ്യമേ ഉണ്ടാകുന്നു. വന്നവർക്കാണെങ്കിൽ നാട്ടുകാരെപ്പറ്റി വളരെ
+പുച്ഛമാണു്. ഇത്ര നല്ലസ്ഥലം വെറുതേയിട്ടു പട്ടിണി കിടക്കുന്ന മഠയന്മാർ എന്നാണവർ വിചാരിക്കുന്നതു്.
+ഇതിനൊക്കെ പുറമേ മലബാറിലെ ജന്മിമാർ കുപ്രസിദ്ധരുമാണല്ലോ. ഇങ്ങിനെ സ്വാഗതരഹിതമായി
+വന്നുകയറിയ ആ അതിഥികളുടെ ജീവിതം ‘വിഷകന്യക’യിൽ പ്രത്യംഗം വർണ്ണിച്ചിട്ടുണ്ടു്. അതൊരു സമരത്തിന്റെ
+ചരിത്രമാണു്—മനുഷ്യന്റെ മഹിമയേറിയ ഒരു ഐതിഹാസികസമരം. കാക്കിയും പെരുമ്പറയുംകൊണ്ടല്ല,
+മനുഷ്യനെ കുത്തിക്കീറിയിട്ടല്ല, മനുഷ്യന്റെ നെഞ്ചുകൊണ്ടു കരിങ്കല്ലിടിച്ചുപൊടിച്ചു പ്രകൃതിയെ കയ്യടക്കിയിട്ടു്,
+മലബാറിലെ തരിശുനിലങ്ങൾ ഓരോന്നായി തെളിയുന്നു, ഓണംകേറാമൂലകൾ കൃഷിസ്ഥലങ്ങളായി മാറുന്നു.
+
+അതാ, ആ മറിയത്തിനെ നോക്കൂ ഉദയംമുതൽ അസ്തമയംവരെ അവർ പണിയെടുക്കുകയാണു്. ഒരു പുതിയ
+ലോകത്തെ സൃഷ്ടിക്കുകയാണു്. മറിയത്തിന്റെ—മറിയം പ്രതിനിധീകരിക്കുന്ന കർഷകവർഗ്ഗത്തിന്റെ—ദൈവം
+മണ്ണാണു്. അവർക്കു വഴിയും സത്യവും ജീവനും മണ്ണാണു്; അതു കൊടുക്കുന്ന എന്തിനേയും അവർ സ്വീകരിക്കും.
+അതിനെ അവരിൽനിന്നു് എടുത്തുകളയുന്ന എന്തിനേയും, ചൈനീസ് ജനതയെപ്പോലെ, അവർ തൂത്തുമാറ്റും.
+അങ്ങിനെ സമരത്തിന്റെ ഒന്നാമങ്കം വിജയകരമായി നടന്നു. കാടും പള്ളവും വെട്ടിത്തെളിച്ചു, നരിയേയും
+പാമ്പിനേയും ഓടിച്ചു് അവർ അധിവാസമുറപ്പിച്ചു. കൂണുപോലെ അവിടവിടെ കാണുന്ന കുടിലുകൾ ഒരു
+പുതിയതരം സൈന്യത്തിന്റെ കൂടാരങ്ങളാണു്. വിഷകന്യക കടാക്ഷിച്ചു, കൈമാടിവിളിച്ചു. വരേണ്ടവർ വന്നു.
+ആശ്ലേഷത്തിനും താമസമുണ്ടായില്ല.
+</p>
+          <p>മൂന്നു വഴിയായിട്ടാണു് വിഷം കയറിത്തുടങ്ങിയതു്. ഒരു വശത്തുനിന്നു് പുല്ലുപറിച്ചു് സ്ഥലം വൃത്തിയാക്കുന്ന
+മറിയം കണ്ടതു് മറുവശത്തുനിന്നു് പടർന്നുപിടിച്ചുവരുന്നതാണു്. അതങ്ങിനെ ചാകാത്ത ഒരുതരം പുല്ലാണു്.
+അതിനെ മനുഷ്യന്റെ വിയർപ്പിൽ മുക്കിക്കൊല്ലുകയല്ലാതെ ഗത്യന്തരമില്ല. വളരെ കഷ്ടിച്ചു എവിടെയെങ്കിലും അല്പം
+കൃഷി ചെയ്താൽ അതു് കാട്ടുപന്നിക്കു് ഒരു നായാട്ടുരംഗമായി തീരും. പന്നി ബാക്കിവെച്ചതു്
+വിളവെടുക്കാറാകുമ്പോഴേക്കും മലമ്പനി വന്നു കൃഷിക്കാർ ചത്തുതുടങ്ങുകയായി. ഈ വിഷജ്വാലകളേറ്റു്
+കുടിയേറ്റക്കാർ ഒട്ടുമുക്കാലും ചാവുകയാണു് ചെയ്യുന്നതു്. നാമാവശേഷമായിപ്പോയിട്ടുള്ള കുടുംബങ്ങളുടെ കണക്കു്
+ഒരു പട്ടികയിലും ഒതുങ്ങുകയില്ല. ഈ രംഗം പ്രകൃതിയുടെ ചുടലനൃത്തമാണു്. ഇതാണു് ‘വിഷകന്യക’യിൽ ഏറ്റവും
+വിശദമായി കാണിച്ചിരിക്കുന്ന കാര്യം. ഇതോടുകൂടി ശ്രീ. പൊറ്റേക്കാട്ടു് കഥ നിറുത്തുകയാണു്. വിഷകന്യക
+അന്ത്യവിജയം സമ്പാദിച്ചതായി നോവലിൽ കാണുകയില്ല. വിഷകന്യകയെ ഭയപ്പെട്ടു് ഓടുന്ന അന്തോണിയുടെ
+ചെവിയിൽ വന്നലയ്ക്കുന്നതു്, മരംവെട്ടൂന്ന ശബ്ദമാണു്. ആ സമരമവസാനിച്ചിട്ടില്ല. മനുഷ്യരുടെ സംഖ്യാബലം
+കൊണ്ടോ ദൃഢനിശ്ചയം കൊണ്ടോ വിഷത്തിന്റെ ശക്തിയാണുകുറയുന്നതു്. പ്രകൃതിയാണു പരാജയപ്പെടുന്നതു്.
+എങ്കിലും വിജയം പൂർണ്ണമായിട്ടില്ല. ഈ നോവലിനു് ഒരു ഭാഗംകൂടിയുണ്ടാവാനുള്ള ലക്ഷണങ്ങൾ
+‘വിഷകന്യക’യിൽ കാണുന്നുണ്ടു്.
+</p>
+          <p>ഐതിഹാസികമായ ഒരു വിഷയമുണ്ടെങ്കിലേ ഒരു നോവൽ നന്നാവൂ എന്നു് റാൽഫ് ഫോക്സ് പറഞ്ഞിട്ടുണ്ടു്.
+ശതാബ്ദങ്ങളായി പൂജിക്കപ്പടുന്ന അടിമത്വവും കഞ്ചാവിലും കഷ്ടമായ ഒരു മതവുമായി കഴിയുന്ന കേരളത്തിൽ
+ഐതിഹാസിക സംഭവങ്ങൾ അധികമില്ല. കുറച്ചുള്ളതിൽ വളരെ നല്ല ഒന്നാണു് ശ്രീ. പൊറ്റെക്കാടു്
+നോവലിനുവേണ്ടി തെരഞ്ഞെടുത്തതു്. അതിൽ ശ്രീ. പൊറ്റെക്കാട്ടിനെ അഭിനന്ദിക്കുകതന്നെ വേണം.
+പ്രത്യേകിച്ചൊരു നായകനും നായികയുമില്ലാതെ ഒരു ജനതയുടെ ജീവിതസമരംതന്നെ ഇതിവൃത്തമാക്കിയെടുത്ത
+നോവലുകൾ വളരെ കുറയും. പേൾ ബക്കിന്റെ ‘നല്ല മണ്ണു്’ എന്ന നോവലിലും കൃഷിക്കാരൻ മണ്ണിനെ
+ദൈവമാക്കുന്നതു് കാണിച്ചിട്ടുണ്ടു്. പക്ഷേ, അവിടെ ഒരു വ്യക്തിക്കു് പ്രാധാന്യം കൊടുത്തിട്ടുണ്ടു്. കഥാഘടന
+പരിപൂർണ്ണമായിട്ടുണ്ടെന്നു പറയാൻ നിവർത്തിയില്ല. അനാവശ്യമായ ഒരു അപസർപ്പകകഥയും,
+‘അറബി’ക്കഥയും മറ്റും വലിച്ചുകൊണ്ടുവന്നതു കൊണ്ടാണെന്നുതോന്നുന്നു ഏകാഗ്രതയ്ക്കു് വല്ലാത്ത കോട്ടം
+സംഭവിച്ചിട്ടുണ്ടു്. കള്ളനോട്ടടിയും ശിക്കാരിയും ബാലിശമായ കഥകളാണെന്നു് ശ്രീ. പൊറ്റെക്കാട്ടു്
+അറിയാഞ്ഞിട്ടല്ല. നാട്ടിലുള്ള അമേരിക്കക്കാർക്കുകൂടി എന്തെങ്കിലും ഇരിക്കട്ടെ എന്നു് ശ്രീ. പൊറ്റെക്കാട്ടു്
+കരുതിയിട്ടായിരിക്കണം വിഷകന്യകയായി പ്രവേശിക്കുന്ന മാധവിക്കു് കഥയിൽ ഒരു പ്രത്യേകസ്ഥാനമുണ്ടു്.
+വളരെ വ്യത്യസ്തമായ ഒരു സന്മാർഗ്ഗമുറയുടെ പ്രതിനിധിയാണവൾ. മാധവിയുടെ സ്വഭാവചിത്രീകരണവും
+ഒന്നാംതരമായിട്ടുണ്ടു്. പക്ഷേ, മാധവിയെപ്പറ്റിയുള്ള ഉപകഥ മനശാഃസ്ത്രപരമായി നന്നായിട്ടില്ല. മാധവി ഒരു
+വിഷകന്യകയല്ല. പുരുഷസ്പർശമേല്ക്കാൻ കൊതിക്കുന്ന ഒരു പെണ്ണുമാത്രം. പോരെങ്കിൽ അന്തോണിയുടെ ചിത്രം
+ശരിയായിട്ടുമില്ല. അന്തോണിയെപ്പോലുള്ള ആളുകൾ ഇല്ലെന്നല്ല. ഭീരുത്വവും, സ്ത്രീവിദ്വേഷവും, മതവൈരാഗ്യവും
+എല്ലാം കൂടിച്ചേർന്ന ചില സത്വങ്ങൾ അങ്ങിനെയുണ്ടു്. പക്ഷേ, അവർക്കു് ഒരിക്കലും മാധവിയുടെ ആഗ്രഹങ്ങളെ
+ചെറുക്കാൻ ശക്തിയുണ്ടാവില്ല. പ്രത്യേകിച്ചും, അന്നത്തെ രാത്രിയിലെ ആ സംഭവം കഴിഞ്ഞു് അവൻ അവളുടെ
+അടിമയായിത്തീരുകയേ ഉള്ളൂ. ഉള്ളിൽവേണ്ടത്ര ബലമില്ലാത്തവരാണു് പുറത്തു അസഹ്യമായ സന്മാർഗ്ഗം
+ആചരിക്കുന്നതു്. മാധവിയുടെ മുമ്പിൽ നിവർന്നുനില്ക്കാൻതന്നെ അന്തോണിക്കു് കഴിയുന്നില്ല. അന്തോണിയുടെ
+സന്മാർഗ്ഗബോധം ആത്മാവിൽ നിന്നുവരുന്ന ഒരു പ്രചോദനമല്ല, നിത്യവും വായിക്കുന്ന ബൈബിളിൽ നിന്നു്
+കടംവാങ്ങിയതാണു്.
+</p>
+          <p>പ്രതിപാദനരീതിയിൽ ഒരു കാര്യം പ്രത്യേകം എടുത്തുപറയേണ്ടതുണ്ടു്. കുടിയേറ്റക്കാരുടെ ജീവിതരീതികളും
+സംഭാഷണവും ശ്രീ. പൊറ്റെക്കാട്ടിന്റെ ഒരു വിജയമാണു്. ചുരുങ്ങിയ ഒരു പരിചയം മാത്രം വെച്ചുകൊണ്ടു് മറ്റൊരു
+നാട്ടിൽ നിന്നുവരുന്ന ഇവരുടെ സംഭാഷണം ഏതാണ്ടു് പരിപൂർണ്ണമായി പകർത്തുകയെന്നതു് വളരെ
+വിഷമകരമായ ഒരു കാര്യമാണു്.
+</p>
+          <p>വിഷകന്യകയെഴുതിയതിൽ ശ്രീ. പൊറ്റെക്കാട്ടിനു് വ്യക്തമായ ഒരു സാമൂഹ്യലക്ഷ്യമുണ്ടു്. പട്ടാളച്ചിട്ടയൊന്നും
+കൂടാതെതന്നെ അദ്ദേഹമതു സാധിച്ചിട്ടുമുണ്ടു്. കുടിയേറിപ്പാർപ്പുകാരും നാട്ടുകാരും തമ്മിൽ ഉള്ള പരസ്പരവിദ്വേഷം
+മാറ്റുകയെന്നതാണതു്. ഇരുകൂട്ടരുടേയും ചിന്താഗതി വ്യക്തമായിക്കാണിച്ചു് പരസ്പരം മനസ്സിലാക്കിയാണു് ശ്രീ.
+പൊറ്റെക്കാട്ടു് സൗഹാർദ്ദം സ്ഥാപിക്കാൻ ഉദ്ദേശിക്കുന്നതു്. നാട്ടുകാരുടെ ഇടയിലെ ജന്മികളേയും
+കുടിയേറ്റക്കാരെ ചതിക്കുന്ന വഞ്ചകന്മാരെയും നിർദ്ദയമായി പൊറ്റെക്കാട്ടു് വിമർശിക്കുന്നു.
+
+കുടിയേറിപ്പാർപ്പുകാരുടെ ഭയത്തിന്റെ ഫലമാണു് അവരുടെ കലഹവാസനയെന്നും നോവലിൽ
+വ്യക്തമാക്കിയിട്ടുണ്ടു്. അവർ ചത്തപശുവിന്റെ ഇറച്ചി തിന്നുന്നതുമാത്രം കാണുന്ന നാട്ടുകാർക്കു്, അവരുടെ
+പ്രവൃത്തിയുടെ മാഹാത്മ്യം ഗ്രന്ഥകാരൻ ചൂണ്ടിക്കാണിച്ചുകൊടുക്കുന്നു. അവയുടെ പ്രയത്നം നേതാക്കന്മാരുടെ
+സഞ്ചാരവുംകമ്മറ്റി മീറ്റിംഗും പോലെ നിഷ്ഫലമല്ല. നേതാക്കന്മാരുടെ അന്ധമായ കണ്ണുകൾക്കു മുമ്പിൽത്തന്നെ
+അവർ ഒരൈക്യകേരളം കെടിപ്പടുക്കുകയാണു്. അതിന്റെ പ്രചരണമാണു് എസ്. കെ. നടത്തുന്നതും.
+</p>
+          <p>
+വിലയിരുത്തൽ 1951.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Malabarilekk (ml:
+മലബാറിലേക്കു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-02-04. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Malabarilekk, സി ജെ തോമസ്, മലബാറിലേക്കു്, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 3, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Ring63.jpg">Br\”unnhilde on
+Grane leaps,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Arthur_Rackham">Arthur
+Rackham</ref>  (1867–1939). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  JS Aswathy; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-malabarilekk.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-malabarilekk.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

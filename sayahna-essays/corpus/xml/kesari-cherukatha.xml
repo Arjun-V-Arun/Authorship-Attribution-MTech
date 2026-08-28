@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സത്യാത്മക ചെറുകഥ</title>
+          <title xml:lang="en" type="main">Sathyathmaka cherukatha</title>
+        </title>
+        <author>Kesari</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>Beena Darly</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">November 26, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സത്യാത്മക ചെറുകഥ</title>
+              <title xml:lang="en" type="main">Sathyathmaka cherukatha</title>
+            </title>
+            <author>Kesari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-11-29</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kesari</term>
+          <term>Sathyathmaka cherukatha</term>
+          <term>കേസരി ബാലകൃഷ്ണപിള്ള</term>
+          <term>സത്യാത്മക ചെറുകഥ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-11-29</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/pastoral_landscape.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Pastoral_Landscape_by_Alvan_Fisher,_1854.jpg">Pastoral
+Landscape,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Alvan_Fisher">Alvan Fisher</ref>
+ (1792–1863). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സത്യാത്മക ചെറുകഥ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കേസരി ബാലകൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സത്യാത്മക ചെറുകഥ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/HippolyteVillemessant.jpg" rendition="gra"/>
+            <figDesc style="thumb">വില്ലേമെസ്സൗങ്ങ്</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ഓരോ മനുഷ്യനിലും ഒരു നല്ല പത്രലേഖനത്തിനു വേണ്ട വക കാണുമെന്നും, ഒരു നല്ല പത്രാധിപരുടെ
+കർത്തവ്യങ്ങളിലൊന്നു് ഇതിനെ പുറത്തു കൊണ്ടുവരുന്നതാണെന്നും, പാരീസ്സിലെ പ്രസിദ്ധ പത്രമായ “<ref target="https://en.wikipedia.org/wiki/Le_Figaro">ഫിഗാറോ</ref> ”യുടെ സ്ഥാപകൻ
+<ref target="https://en.wikipedia.org/wiki/Hippolyte_de_Villemessant">വില്ലേമെസ്സൗങ്ങ്</ref>
+വിശ്വസിച്ചിരുന്നു. അദ്ദേഹത്തെക്കുറിച്ചു ഒരു കഥയുമുണ്ടു്. ഒരു ദിവസം അദ്ദേഹം പട്ടണത്തിലെ ഒരു ചിമ്മിനി
+തൂപ്പുകാരനെ തെരുവിൽ നിന്നു വിളിച്ചു വരുത്തി തന്റെ ഓഫീസ് മുറിയിൽ ഇരുത്തി, അയാളോടു് “തന്റെ ലേഖനം
+എഴുതുക” എന്നു പറഞ്ഞു. ഇങ്ങിനെ എഴുതിയതു തിരുത്തി സാഹിത്യ ഫ്രഞ്ച് ഭാഷയിലാക്കിയപ്പോൾ അതു ഒരു
+നല്ല ലേഖനമായി ഭവിക്കുകയും ചെയ്തു. ഇതു പോലെ, ഓരോ മനുഷ്യനിലും ഒരു നല്ല ചെറുകഥയ്ക്കു വേണ്ട വകയും
+കൂടി കാണുമെന്നു പറയാവുന്നതാണു്. ഈ പരമാർത്ഥം അറിഞ്ഞാണു് ചില പാശ്ചാത്യരായ പത്രപ്രവർത്തകർ
+“ട്രൂ സ്റ്റോറി” എന്ന പേരിൽ സത്യാത്മക ചെറുകഥകൾ തങ്ങളുടെ മാസികകളിൽ പ്രസിദ്ധപ്പെടുത്തിവരുന്നതും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thakazhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">തകഴി</figDesc>
+          </figure>
+          <p> ചെറുകഥ നാലു തരമുണ്ടു്. ശ്രീ. <ref target="https://ml.wikipedia.org/wiki/S._K._Pottekkat">പൊറ്റക്കാട്ടിന്റെ</ref>
+റൊമാന്റിക് കഥകളെപ്പോലെ ശുദ്ധ ഭാവനയെ ആസ്പദിച്ചു രചിക്കുന്നതു്; ശ്രീ <ref target="https://ml.wikipedia.org/wiki/Vaikom_Muhammad_Basher">വൈക്കം മുഹമ്മദു്
+ബഷീറിന്റെ</ref> ചെറുകഥകളെപ്പോലെ സ്വന്തം ജീവിത കഥയെ ഭേദപ്പെടുത്തി രചിക്കുന്നതു്; ശ്രീമാന്മാരായ
+<ref target="https://ml.wikipedia.org/wiki/Thakazhi_Sivasankarappilla">തകഴിയുടെയും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Karur_Neelakanta_Pillai">കാരൂരിന്റേയും</ref>
+കഥകളെപ്പോലെ തങ്ങളുടെ നിരീക്ഷണത്തിൽപ്പെടുന്ന അന്യജീവിത കഥകളെ ഭേദപ്പെടുത്തി രചിക്കുന്നതു്;
+സ്വന്തം ജീവിത കഥയേയോ ബന്ധുമിത്രാദികളുടെ ജീവിത കഥകളേയോ ഈഷദ്ഭേദവും വരുത്താതെ അതേപടി
+ചെറുകഥയാക്കി രചിക്കുന്നതു്; എന്നിവയാണു് പ്രസ്തുത നാലു തരങ്ങൾ. ഒടുക്കം പറഞ്ഞതിനാണു് “ട്രൂ സ്റ്റോറി”
+എന്നു പാശ്ചാത്യർ പേരിട്ടിട്ടുള്ളതു്. ഭാഷാസാഹിത്യത്തിൽ ഇന്നുവരെ “ട്രൂ സ്റ്റോറി” ജന്മമെടുത്തിട്ടുള്ളതായി
+തോന്നുന്നില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/SKPottekkatt.jpg" rendition="gra"/>
+            <figDesc style="thumb">പൊറ്റക്കാട്ട്</figDesc>
+          </figure>
+          <p>അന്യന്റെ ജീവിത കഥയെ അധികം ഭേദപ്പെടുത്താതെ, അതിൽ നിന്നു ജനിച്ച കഥയ്ക്കു് മാതൃക ഏതു
+സമകാലീനന്റെ ജീവിത ചരിത്രമാണെന്നു് വായനക്കാർക്കു് എളുപ്പം മനസ്സിലാകത്തക്കവണ്ണം അതിനെ
+ആസ്പദിച്ചു കഥകളും നോവലുകളും ഗദ്യനാടകങ്ങളും കൂടി ചില പാശ്ചാത്യ സാഹിത്യകാരന്മാർ രചിച്ചു വന്നിരുന്നു.
+ഭാഷാസാഹിത്യത്തിലും അപൂർവമായിട്ടാണെങ്കിലും ഇത്തരം കൃതികളും ഉണ്ടാകാതെയിരുന്നിട്ടില്ല. ഇത്തരം
+കൃതികൾക്കു ചില ഉദാഹരണങ്ങൾ പാശ്ചാത്യ സാഹിത്യത്തിൽ നിന്നു ഉദ്ധരിച്ചു കൊള്ളട്ടെ. മോർലി
+റോബർട്ട്സിന്റെ “ഹെന്‍റി മെയിറ്റ്ലണ്ടിന്റെ സ്വകാര്യജീവിതം” എന്ന നോവൽ ഇംഗ്ലീഷ്
+നോവലെഴുത്തുകാരനായ <ref target="https://en.wikipedia.org/wiki/George_Gissing">ജോർജ്ജ് ഗിസ്സി</ref>
+ങ്ങിന്റെ ജീവചരിത്രമാണു്. <ref target="https://en.wikipedia.org/wiki/H._G._Wells">എച്ച്. ജി. വെൽസിന്റെ</ref>
+“ന്യൂ മാക്കിയാവല്ലി”യിൽ സിഡ്നിവെബ്ബിനെ മിസ്റ്റർ ബെയ്ലി എന്ന പേരിലും, മിസ്സിസ് വെബ്ബിനെ
+അൽതിയോറാ എന്ന പേരിലും ചിത്രീകരിച്ചിരിക്കുന്നു. ബർനാർഡ് ഷായെ പഞ്ചിനെല്ലോ എന്ന പേരിൽ <ref target="https://en.wikipedia.org/wiki/J._M._Barrie">ജെ. എം. ബാരി</ref> എന്ന
+പ്രസിദ്ധ നാടക കർത്താവു് കാരിക്കേച്ചർ ചെയ്തിട്ടുണ്ടു്. <ref target="https://en.wikipedia.org/wiki/George_Bernard_Shaw">ബർനാർഡ്
+ഷാ</ref> തന്റെ “മേജർ ബാർബറാ” എന്ന നാടകത്തിലെ പാത്രമായ ആൻഡ്രൂ അണ്ടർഫൂട്ടിനെ സൃഷ്ടിച്ചതു്
+കാർണേകിയെ ആസ്പദിച്ചാണെന്നു ചിലരും, നോബലിനെ ആസ്പദിച്ചാണെന്നു മറ്റു ചിലരും വിചാരിച്ചു വരുന്നു.
+<ref target="https://en.wikipedia.org/wiki/George_Meredith">ജോർജ്ജ്
+മെറിഡിത്തി</ref> ന്റെ “ബോഷാമ്പിന്റെ ജീവിതം” എന്ന നോവൽ അഡ്മിറൽ മാക്സിനേയും, “ഡയാനാ ഓഫ്
+ദി ക്രോസ്സ്വേസ് ” എന്നതു മിസ്സിസ് നോർട്ടനേയും ആസ്പദിച്ചാണു് രചിച്ചിട്ടുള്ളതു്. ജെർമനിയിലെ രാഷ്ട്രീയ
+സോഷ്യലിസത്തിന്റെ സ്ഥാപകനായ ഫെർഡിനാൻഡ് ലാസ്സെല്ലിന്റേയും പ്രസിദ്ധ സുന്ദരിയായ
+ഹെലൻഫൺറകോവിറ്റ്സായുടേയും സുവിദിതമായ പ്രണയ കഥയാണു് മെറിഡിത്തിന്റെ
+“ട്രാജിക്ക്കൊമഡിയൻസ്” എന്ന കൃതിക്കു മാതൃക നല്കിയതു്. <ref target="https://en.wikipedia.org/wiki/Charles_Dickens">ചാത്സ്
+ഡിക്കൻസിന്റെ</ref> മിക്കാബെർ എന്ന പ്രസിദ്ധ കഥാപാത്രത്തെ അദ്ദേഹത്തിന്റെ സ്വന്തം പിതാവിനെ
+ആസ്പദിച്ചാണു് സൃഷ്ടിച്ചിട്ടുള്ളതു്. ഡിക്കൻസിന്റെ ഹാരോൾഡ് സ്തിംപോൾ എന്ന കഥാപാത്രം ലെയ്ഫണ്ട് എന്ന
+പ്രസിദ്ധനായ ഇംഗ്ലീഷ് സാഹിത്യകാരനാണു്. <ref target="https://en.wikipedia.org/wiki/Charles_Dickens">അൽഫാൻസ്
+ദാദയുടെ</ref> “നബോബ്” എന്ന ഫ്രഞ്ച് നോവൽ ഡുക്ക്ദമോർനേയുടെ ഒരു ചിത്രവുമാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Basheer.jpg" rendition="gra"/>
+            <figDesc style="thumb">വൈക്കം മുഹമ്മദു് ബഷീർ</figDesc>
+          </figure>
+          <p> സന്യാസി മനസ്ഥിതിക്കാരായ പല മാന്യ കുടുംബനായകന്മാരും “ട്രൂ സ്റ്റോറി” നിയമേന
+തെറിക്കഥയായിരിക്കുമെന്നു സ്വന്തം ജീവിതങ്ങളെ ആസ്പദിച്ചു തെറ്റിദ്ധരിച്ചു് കുടുംബാംഗങ്ങൾ അത്തരം കഥകൾ
+പ്രസിദ്ധീകരിക്കുന്ന മാസികകൾ വായിച്ചു പോകരുതെന്നു വിലക്കാറുണ്ടു്. എന്നാലും, ഇത്തരം ചെറുകഥകൾ
+പ്രസിദ്ധപ്പെടുത്തുന്ന മാസികകൾ അസംഖ്യം വിറ്റഴിയുന്നു. ഒന്നാം ലോകമഹായുദ്ധക്കാലത്തു പേപ്പർ
+സംബന്ധമായ പ്രതിബന്ധമുണ്ടായിരുന്നിട്ടും, ഇവയുടെ ഏഴുലക്ഷം കോപ്പികളാണു് ഇംഗ്ലണ്ടിൽ മാസം തോറും
+വിറ്റഴിഞ്ഞിരുന്നതു്. കഥാപാത്രങ്ങളില്ലാത്ത മനുഷ്യരുടെ ഫോട്ടോ ഗ്രാഫിക്കു് ഇലസ്ട്രേഷൻ കൂടി ഇവയിൽ
+പലതിലും ചേർക്കുക പതിവാണു്. ഈ കഥാകാരന്മാർക്കും, കഥാകാരികൾക്കും കൊടുക്കാറുള്ള പ്രതിഫലം
+ആയിരം വാക്കിനു രണ്ടു ഗിനി (ഏകദേശം മുപ്പത്തിരണ്ടുറുപ്പിക) ആണു താനും.
+</p>
+          <p>ഈ സത്യാത്മക കഥകൾ വായിക്കുന്നതായാൽ പാശ്ചാത്യരുടെ ഇടയ്ക്കു ഭൂരിപക്ഷം മനുഷ്യരും തെറിക്കു വക
+കൊടുക്കുന്ന ജീവിതമല്ല നയിച്ചു വരുന്നതെന്നുള്ള ബോധം നമ്മിൽ ജനിക്കുന്നതാണു്. ഇംഗ്ലീഷുകാരുടെ തീരെ
+റൊമാന്റിക്കല്ലാത്ത ഇത്തരം ദൈനംദിനജീവിതമാണു് റൊമാന്റിസിസം പൊന്തിനില്ക്കുന്ന നോവലുകൾക്കു്
+അവരുടെ ഇടയ്ക്കു് വലിയ പ്രചാരമുണ്ടാക്കിക്കൊടുക്കുന്നതെന്നു് <ref target="https://en.wikipedia.org/wiki/John_Townsend_Trowbridge">ട്രോബ്രിഡ്ജ്</ref>
+എന്ന നോവലെഴുത്തുകാരൻ ഇങ്ങനെ ചൂണ്ടിക്കാണിച്ചിരുന്നു. ഏറ്റവുമധികം സ്മാർട്ടായ (പരിഷ്കൃതമായ) സാഹിത്യ
+കൃതികൾ ഫ്രഞ്ച് സാഹിത്യ കൃതികളാണു്. ഇംഗ്ലീഷ് നോവലുകളിലെ കഥാപാത്രങ്ങളെപ്പോലെയുള്ളവരെ
+യഥാർത്ഥ ജീവിതത്തിൽ കണ്ടു മുട്ടുവാൻ പ്രയാസമാണു്. ഇതു നിമിത്തത്രേ ഇവയ്ക്കു് അവിടെ വലിയ പ്രചാരമുള്ളതു്.
+ഭാവനാപരമായ കഥകളോടു് ബ്രിട്ടനിലെ പൊതു ജനങ്ങൾക്കു് പ്രത്യേക താല്പര്യമുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_Gissing.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ്ജ് ഗിസ്സിങ്</figDesc>
+          </figure>
+          <p> ഈ സത്യാത്മക ചെറുകഥകൾ നല്ലവരായ സ്ത്രീകളും പുരുഷന്മാരുമാണു് എഴുതാറുള്ളതു്. ചീത്ത മനുഷ്യർ
+രചിച്ചിട്ടുള്ള “ട്രൂ സ്റ്റോറി”കൾ പത്രപ്രവർത്തകർ നിരസിക്കാറുള്ളതുകൊണ്ടു് ഇങ്ങനെ സംഭവിച്ചു എന്നും വരാം.
+ഈ സത്യാത്മക കഥാകാരരുടെ ജീവിതത്തിൽ കുമ്പസാരത്തിനു വേണ്ട പാപങ്ങളൊന്നുമില്ലെന്നുള്ളതാണു് ഈ
+കഥകളുടെ ഒരു വിശേഷത. ഏറ്റവും രസകരങ്ങളായ ജീവചരിത്രങ്ങളും, ഏറ്റവും രസകരങ്ങളായ
+ജീവചരിത്രങ്ങളും, ഏറ്റവും രസകരങ്ങളായ കഥകളും ഒന്നുപോലെ പബ്ലിക്കായി പറയാറില്ല എന്നു് ഒരു
+മനുഷ്യവിദ്വേഷി പറഞ്ഞിട്ടുള്ളതു് ഇവിടെ ചിന്തനീയമാണു്. ഇതിലെ രസകരമെന്ന പദത്തിൽ തെറി
+കൊണ്ടുണ്ടാകുന്ന രസത്തെയാണു് സൂചിപ്പിച്ചിട്ടുള്ളതു്. വിഷയത്തിലെ തെറിക്കു പുറമേ, വിഷയത്തിൽ ജീവിതം
+മനസ്സിലാക്കി അതു വിജയപൂർവം നയിച്ചുകൊണ്ടു പോകുവാൻ സഹായിക്കുന്ന അംശംകൂടിയുണ്ടെങ്കിൽ, ഇതിലും
+മനുഷ്യർക്കു് രസം തോന്നാറുണ്ടു്. കൂടാതെ, കഥ പറയുന്ന രീതികൊണ്ടും അതിനു മനുഷ്യരിൽ രസം
+ജനിപ്പിക്കുവാൻ കഴിയും. ഒടുവിൽ പറഞ്ഞ സംഗതി മനസ്സിലാക്കിയാണു് പതിനെട്ടാം ശതാബ്ദത്തിലെ ഫ്രഞ്ച്
+രാജധാനിയിലെ പ്രു പാതിരി കുമ്പസാരമുറിയിൽ വച്ചു മാത്രമേ കുമ്പസാരങ്ങൾ രസശൂന്യമായിരിക്കയുള്ളു എന്നു
+പറഞ്ഞിട്ടുള്ളതും. സ്വന്തം രസത്തിനു വേണ്ടിയല്ലാതെ കർത്തവ്യ നിർവ്വഹണത്തിനായി മാത്രം കുമ്പസാരം
+ചെയ്യുന്നതുകൊണ്ടാണു് കുമ്പസാരമുറിയിലെ കുമ്പസാരം രസശൂന്യമായി ഭവിക്കുന്നതും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/HG_Wells.jpg" rendition="gra"/>
+            <figDesc style="thumb">എച്ച്. ജി. വെൽസ്</figDesc>
+          </figure>
+          <p>പ്രസ്തുത സത്യാത്മക കഥകളിലെ പാത്രങ്ങളുടെ കുറവുകൾ ക്ഷന്തവ്യങ്ങളായവയാണു്. മുൻവിചാരമില്ലായ്മ,
+മുൻദേഷ്യം, അല്പം സ്വാർത്ഥം മുതലായവയാണു് ഇവരുടെ കുറവുകൾ. ഈ കഥകളിൽ സ്ത്രീകളെഴുതിയ
+മുപ്പതെണ്ണത്തിന്റെ സ്വഭാവം അപഗ്രഥിച്ചു് ഒരു നിരൂപക ഇങ്ങനെ എഴുതിയിരുന്നു: “കുമ്പസാരം ചെയ്യുന്ന ഈ
+മുപ്പതു സ്ത്രീകളുടെ മുഖ്യ സ്വഭാവഘടകങ്ങൾ ആത്മത്യാഗം, വിശ്വസ്തത, ധൈര്യം, മാധുര്യം, സ്ത്രീസഹജമായ
+യഥാർത്ഥ വിവേകം എന്നിവയാണു്… പത്തു കഥകളിൽ പ്രഥമ ദൃഷ്ടിയിൽ ജനിച്ച പ്രണയം കാണാം:
+ഒമ്പതിൽ ഒരു കുഞ്ഞിന്റെ ജനനം മറ്റുള്ളവരുടെ ഹൃദയകാഠിന്യം അലിയിപ്പിച്ചതു വിവരിച്ചിരിക്കുന്നു.
+ഒമ്പതെണ്ണത്തിൽ, ഭർത്തവിന്റെ മാതാപിതാക്കന്മാരുടെ രോഗവേളകളിൽ ഭാര്യ അവരുടെ ഗൃഹത്തിൽ പോയി
+പാർത്തു് അവരെ ശുശ്രൂഷിച്ചു് അവരുടെ സ്നേഹം സമ്പാദിക്കുന്നതു കാണാം… അമ്മായിഅമ്മയും മരുമകളും
+തമ്മിൽ, ഉടനെ തന്നെയല്ലെങ്കിലും, ഒടുക്കം സ്നേഹിച്ചേ മതിയാവൂ എന്നു നിയമ പ്രാബല്യമുള്ള ഒരു പതിവു വെച്ചു
+പരിപാലിച്ചു കൊണ്ടു വരുന്ന ഏക കലാരൂപം ഒരുപക്ഷേ, ഈ ട്രൂ സ്റ്റോറി മാത്രമായിരിക്കും… ഇത്തരം മറ്റു
+പതിവുകളും ഇവയിൽ കാണാം. സകലതും ബൂർഷാമയമായിരിക്കണം. പ്രഭുക്കന്മാരെയോ, ലോറി
+ഡ്രൈവർമാരേയോ ഈ കഥകളിൽ കാണുന്നതല്ല… കഥാകാരികളിൽ മാത്രമല്ല, കഥാപാത്രങ്ങളിൽ കൂടി
+ജീവിത പരിശുദ്ധത കുറേ അധികമായിപ്പോയി എന്നുള്ളതാണു് ഈ ജീവ ചരിത്രങ്ങളുടെ ഒരു സ്വഭാവഘടകം.
+ഇവരിൽ ഒരുത്തരം കള്ളം പറയുകയോ, മോഷ്ടിക്കുകയോ, മദ്യം കുടിക്കുകയോ ചെയ്യുന്നില്ല. ഇവരിൽ ഒരാളിലും
+രാഷ്ട്രീയാഭിപ്രായമോ, കല്യാണദിവസം പള്ളിയിൽ ചെന്നു സ്തോത്രം പാടുന്നതിൽ കവിഞ്ഞുള്ള മതഭക്തിയോ
+ഉള്ളതായി കാണുന്നുമില്ല.”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Barrie00.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജെ. എം. ബാരി</figDesc>
+          </figure>
+          <p>ചെറുകഥാരൂപത്തിന്റെ വൈഷമ്യങ്ങൾക്കു് അനുസരണമായ ആത്മനിയന്ത്രണവും ഒതുക്കവും ഈ
+കഥാകാരികൾ പ്രദർശിപ്പിക്കുന്നുണ്ടു്. ചിലപ്പോൾ ഇവർക്കു തങ്ങളുടെ ശരീരവടിവു വർണ്ണിക്കേണ്ടതായിവരും.
+അപ്പോൾ ഗ്ലാസ്സുനോക്കി അതിൽ കണ്ടതു സത്യമായി വിവരിക്കുന്ന ഉപായം ഇവരിൽ പലരും
+സ്വീകരിച്ചിരിക്കുന്നതു കാണാം. “ഒരു സ്ത്രീയുടെ ഉത്തമഭാവം കാണാവുന്നതു് അവൾ ഒരു ഗ്ലാസ്സിനു
+
+മുമ്പിലിരിക്കുമ്പോഴാണു്; ഒരു പുരുഷനിൽ ഇതു കാണുന്നതു് ഒരു ഗ്ലാസ്സിനു ശേഷവും,” എന്നു് ഒരു ഫലിതക്കാരൻ
+പറഞ്ഞിട്ടുള്ളതു് ഇവർ അറിഞ്ഞിരിക്കുമോ എന്തോ!
+</p>
+          <p>ഈ ട്രൂസ്റ്റോറികളുടെ സ്വഭാവം സുവ്യക്തമാക്കുന്നതിനു് അവയിൽ ഒന്നിന്റെ പ്ലാട്ടു് സംഗ്രഹിച്ചു വിവരിച്ചു
+കൊള്ളട്ടെ. മൂക്കിന്റെ അറ്റത്തു കോപവും, ഗൃഹനാഥന്റെ അടിമകളാണു ഗൃഹനായികയും കുഞ്ഞുങ്ങളുമെന്ന
+വിശ്വാസമുള്ള ജിം സ്റ്റാൻലി എന്ന കർഷകൻ തന്റെ ദുശ്ശാസനത്വംകൊണ്ടു മുപ്പത്തിയെട്ടു വയസ്സുള്ള ഭാര്യയുടേയും
+നാലു കുഞ്ഞുങ്ങളുടേയും കുടുംബജീവിതം നരകമയമാക്കിച്ചമയ്ക്കുന്നു. കാലക്ഷേപത്തിനും വകയുള്ള കർഷക
+ഭർത്താവിന്റെ ക്രൂരത ചെറുക്കുവാൻ വേണ്ട തന്റേടമോ ധൈര്യമോ മിസ്സിസ്സ് സ്റ്റാൻലിക്കുണ്ടായിരുന്നില്ല. ഒരു
+ദിവസം തന്റെ പതിവായ നെഞ്ചു വേദന സംബന്ധിച്ചു സമീപമുള്ള ടൗണിലെ ഡാക്ടരെ കാണുവാൻ
+ഭർത്താവിന്റെ അനുവാദപൂർവ്വം കുട്ടികളുമായി മിസ്സിസ്സ് സ്റ്റാൻലി പോയി. രോഗിയുടെ ശരീര പരിശോധനയ്ക്കു
+ശേഷം അവർക്കു കഠിനമായ ഹൃദ്രോഹം ബാധിച്ചിട്ടുണ്ടെന്നും ഡാക്ടർ അവരെ ധരിപ്പിച്ചു. ഇതു കേട്ടപ്പോൾ
+മിസ്സിസ്സ് സ്റ്റാൻലിയിൽ ഒരു മാനസിക പരിവർത്തനം സംഭവിക്കുകയുണ്ടായി. ഇതിന്റെ ഫലമായി തനിക്കു
+ശേഷിച്ചിട്ടുള്ള മുപ്പതു ദിവസമെങ്കിലും, താനും കുട്ടികളും സുഖമായി ജീവിക്കത്തക്കവണ്ണം ഭർത്താവിനോടു്
+അതിയായ തന്റേടപൂർവ്വം പെരുമാറണമെന്നു് ആ സ്ത്രീ നിശ്ചയിച്ചു. ഈ നിശ്ചയപ്രകാരം പിന്നീടു് അവർ
+പ്രവർത്തിക്കുകയും ചെയ്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Dickens.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചാത്സ് ഡിക്കൻസ്</figDesc>
+          </figure>
+          <p> എലിയെ പുലിയാക്കിയ ഈ മാനസിക പരിവർത്തനത്തിന്റെ കാരണം ഗ്രഹിക്കാതെ ജിം സ്റ്റാൻലി
+അത്ഭുതത്തിൽ തല്ക്കാലം ആണ്ടുപോയി എങ്കിലും, ഒടുക്കം അതിന്റെ പുതുമ പോയപ്പോൾ, ഭാര്യയുടെമേൽ തന്റെ
+നാഥത്വം സ്ഥാപിക്കുവാൻ അവളോടു കായികഗുസ്തി നടത്തുന്നു. ഇതു സമജോടിയിൽ കലാശിച്ചുവെങ്കിലും,
+മിസ്സിസ്സ് സ്റ്റാൻലി ഇതിന്റെ ഫലമായി ബോധംകെട്ടു വീണു രോഗശയ്യയെ അവലംബിക്കുന്നു. പഴയ ടൗൺ
+ഡാക്ടറിൽ നിന്നു ഭാര്യയുടെ രോഗവിവരമറിഞ്ഞു വിഷാദിച്ചു. ജിം സ്റ്റാൻലി ഒരു വിദഗ്ദ്ധ ഡാക്ടരെ വരുത്തി
+ഭാര്യയെ പരിശോധിപ്പിക്കുന്നു. മിസ്സിസ്സ് സ്റ്റാൻലിക്കു ഹൃദ്രോഗമില്ലെന്നും, ക്ഷീണം മാത്രമേയുള്ളുവെന്നും ആ
+വിദഗ്ദ്ധൻ അവരെ ധരിപ്പിക്കുന്നു. അനന്തരം ജിം സ്റ്റാൻലി രോഗശയ്യയിൽ കിടന്നിരുന്ന ഭാര്യയോടു പുതിയ
+രീതിയിൽ പെരുമാറുകയും, അവളോടു “ആദ്യമേ തന്നെ നീ എന്നോടു് ഇങ്ങിനെ പെരുമാറാതെയിരുന്നതു്
+എന്തുകൊണ്ടു്? ഒരു തന്റേടക്കാരിയെ എനിക്കു് എന്നും ഇഷ്ടമാണു്.” എന്നു പറഞ്ഞു രഞ്ജിക്കുകയും ചെയ്യുന്നു.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/kesari-bio.html">കേസരി
+ബാലകൃഷ്ണപിള്ളയുടെ ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sathyathmaka cherukatha (ml:
+സത്യാത്മക ചെറുകഥ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kesari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-11-29. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kesari,
+Sathyathmaka cherukatha, കേസരി ബാലകൃഷ്ണപിള്ള, സത്യാത്മക ചെറുകഥ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 26, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Pastoral_Landscape_by_Alvan_Fisher,_1854.jpg">Pastoral
+Landscape,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Alvan_Fisher">Alvan Fisher</ref>
+ (1792–1863). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  Beena Darly; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kesari-cherukatha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kesari-cherukatha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

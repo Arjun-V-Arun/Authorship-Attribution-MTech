@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കരുണാകരന്റെ ശതാഭിഷേകം</title>
+          <title xml:lang="en" type="main">Karunakarante Sathabhishekam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">November 17, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കരുണാകരന്റെ ശതാഭിഷേകം</title>
+              <title xml:lang="en" type="main">Karunakarante Sathabhishekam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Karunakarante Sathabhishekam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കരുണാകരന്റെ ശതാഭിഷേകം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 17, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Halt_of_Travellers.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Wouwerman,_Philips__Halt_of_Travellers_-_Google_Art_Project.jpg">Halt of Travellers,</ref> a painting
+by Wouwerman, Philips  (1619–1668). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കരുണാകരന്റെ ശതാഭിഷേകം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കരുണാകരന്റെ ശതാഭിഷേകം</head>
+        <div type="lsection">
+          <p style="noindent">അനന്വയം എന്നൊരലങ്കാരമുണ്ടു് മലയാളത്തിൽ. “തന്നോടു സമമായ് താൻ
+താനെന്നു ചെന്നാലനന്വയം” എന്നാണു് ഭാഷാഭൂഷണത്തിൽ <ref target="https://ml.wikipedia.org/wiki/A._R._Raja_Raja_Varma">എ. ആർ.
+തമ്പുരാൻ</ref> ലക്ഷണം കൽപിച്ചിരിക്കുന്നതു്. ഇന്ദുവിന്ദുവിനോടൊപ്പം സുന്ദരാകൃതി ഭാസുരൻ എന്നു്
+ഉദഹാരണവും പറഞ്ഞുവെച്ചിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> കേരള രാഷ്ട്രീയത്തെ സംബന്ധിച്ചിടത്തോളം അനന്വയാലങ്കാരമാണു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>.
+അദ്ദേഹത്തോടു് തുലനം ചെയ്യാൻ മറ്റൊരു നേതാവില്ല ഭൂമിമലയാളത്തിൽ. ഇനി ഉണ്ടായിവരാനും സാധ്യതയില്ല.
+ചെണ്ടക്കുമീതെ വാദ്യമില്ല, മാരാർക്കുമീതെ നേതാവും. അടവു് പതിനെട്ടും പയറ്റു് ഇരുപത്തിനാലും
+പയറ്റിത്തെളിഞ്ഞ അങ്കച്ചേകവൻ. മെയ്യു കണ്ണാക്കിയ അഭ്യാസാപാടവം. കേരള രാഷ്ട്രീയത്തെ
+ലോകഫുട്ബാളിനോടു് ഉപമിക്കാമെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടംതാണുപിള്ള</ref>
+യായിരുന്നു <ref target="https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s">ഫെറങ്ക്
+പുഷ്ക്കാസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്.
+നമ്പൂതിരിപ്പാട്</ref> <ref target="https://ml.wikipedia.org/wiki/Pele">പെലെ</ref>, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref> <ref target="https://ml.wikipedia.org/wiki/Diego_Maradona">ഡിഗോ മറഡോണ</ref>.
+പ്ലേമേക്കറുമാണു് ഷാർപ്പ് ഷൂട്ടറുമാണു്; കൈകൊണ്ടു് ഗോളടിക്കുന്നതിലാണു് പ്രാഗല്ഭ്യം.
+</p>
+          <p>കണ്ണൂരിനടുത്തു് ചിറക്കലിൽ, കൊല്ലവർഷം 1093 മിഥുന മാസം 21-ാം തീയതി (5.7.1918) കാർത്തിക
+നക്ഷത്രത്തിലാണു് കരുണാകരന്റെ പിറവി. അങ്ങനെയെങ്കിൽ ഈ വരുന്ന ജൂലൈ അഞ്ചിനു് കാരണവർക്കു്
+വയസ്സു് 84 തികയും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Vasudevan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വാസുദേവൻ നായർ</figDesc>
+          </figure>
+          <p> 19-ാം വയസ്സിൽ ഖദറിട്ടു് കോൺഗ്രസുകാരനായതാണു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>.
+അന്നുതൊട്ടിന്നോളം ഖദറല്ലാതെ ധരിച്ചിട്ടില്ല. കോൺഗ്രസല്ലാത്ത ഒരു പാർട്ടിയിലും പ്രവർത്തിച്ചിട്ടുമില്ല. 20
+വയസ്സുള്ളപ്പോൾ (1937) തൃശ്ശൂർ ടൗൺ കോൺഗ്രസ് സെക്രട്ടറിയായി. 1942 ആഗസ്റ്റിൽ ക്വിറ്റിന്ത്യാ സമരത്തിൽ
+പങ്കെടുത്തു് ആറുമാസത്തെ ജയിൽശിക്ഷ അനുഭവിച്ചു. 1943 ഡിസംബറിൽ കോൺഗ്രസ് സമ്മേളനത്തിൽ
+പങ്കെടുക്കാൻ മദിരാശി വരെ പോയെങ്കിലും അറസ്റ്റ് വരിക്കാൻ നിൽക്കാതെ മടങ്ങിപ്പോന്നു. ബെല്ലാരി ജയിലിൽ
+കിടക്കാനുള്ള സുവർണാവസരം അങ്ങനെ നഷ്ടമായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pattom_A_Thanu_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">പട്ടംതാണുപിള്ള</figDesc>
+          </figure>
+          <p> കരുണാകരനു് കോൺഗ്രസിന്റെ നാലണ മെമ്പർഷിപ്പ് കീറിക്കൊടുത്തതു് സരളചിത്തനായ <ref target="https://ml.wikipedia.org/wiki/V_R_Krishnan_Ezhuthachan">വി. ആർ.
+കൃഷ്ണനെഴുത്തച്ഛ</ref> നായിരുന്നെങ്കിലും രാഷ്ട്രീയ ഗുരുനാഥൻ <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">പനമ്പിള്ളി
+ഗോവിന്ദ മേനോനായി</ref> രുന്നു. പനമ്പിള്ളിക്കളരിയിലെ പരിശീലനം പിൽക്കാലത്തു് കരുണാകരനു്
+വളരെ ഗുണം ചെയ്തു. ഗോവിന്ദ മേനോന്റെ പാണ്ഡിത്യമോ പ്രഭാഷണപാടവമോ ഇല്ല കരുണാകരനു്.
+കുടിലതന്ത്രങ്ങളുടെ കാര്യത്തിൽ ശിഷ്യൻ ഗുരുവിനെയും കവച്ചുവെച്ചു. ട്രേഡ് യൂണിയൻ രംഗത്തു്
+കമ്മ്യൂണിസ്റ്റുകാർക്കുള്ള കുത്തക തകർക്കാൻ പനമ്പിള്ളി ഒഴിവുകണ്ടതു് കരുണാകരനെ. ‘കരിങ്കാലി’ എന്ന
+മാറാപ്പേരും അങ്ങനെ പതിഞ്ഞു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/V_R_Krishnan_Ezhuthachan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ആർ. കൃഷ്ണനെഴുത്തച്ഛൻ</figDesc>
+          </figure>
+          <p> 1948 കാലത്തെ കരുണാകരന്റെ തെളിമയാർന്ന ചിത്രം കുറിച്ചിരിക്കുന്നു. <ref target="https://en.wikipedia.org/wiki/Annie_Thayyil">ആനി തയ്യിൽ</ref>
+“…ഇന്നു് മഹാപ്രമാണിയായി നടക്കുന്ന കെ. കരുണാകരനുണ്ടല്ലോ അന്നു് ആരുമായിരുന്നില്ല.
+വണ്ടിക്കൂലിക്കു് കാശില്ലാതെ തൃശ്ശുരങ്ങാടിയിൽ തെക്കുവടക്കു് നടക്കുന്നൊരു വെറും ചോട്ടാ… പഠനമില്ല,
+പണമില്ല. പക്ഷേ, ഒന്നുണ്ടായിരുന്നു. തൊഴിലാളികളെ സംഘടിപ്പിക്കാനുള്ള കഴിവു്… കരുണാകരൻ ഒരു
+തൊഴിലാളി പ്രവർത്തകനായിട്ടങ്ങനെ തൃശ്ശൂരു ചുറ്റിപ്പറ്റിക്കൂടി. ‘അക്കാലത്തു് പുള്ളിക്കാരൻ നേടിയെടുത്തൊരു
+പേരുണ്ടു്—‘കരിങ്കാലി കരുണാകരൻ’. എങ്ങനെ കിട്ടിയെന്നൊന്നും എനിക്കറിയില്ല. വെറും ‘കരിങ്കാലി’ എന്നു
+പറഞ്ഞാൽ മതി, ആളാരാണെന്നു് തൃശ്ശൂരു് എല്ലാവർക്കും അറിയാം. കരിങ്കാലി, തൃശ്ശൂർ—ഇങ്ങനെ
+എഴുതിയാൽമതി അയാൾക്കു് എഴുത്തുകിട്ടും…”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Panampilly_Govinda_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">പനമ്പിള്ളി ഗോവിന്ദ മേനോൻ</figDesc>
+          </figure>
+          <p> 1945-ൽ തൃശ്ശുർ മുനിസിപ്പൽ കൗൺസിലറായി. 1948-ൽ ഒല്ലൂക്കരനിന്നു് കൊച്ചി നിയമസഭയിലേക്കു്
+പുത്തരിയങ്കം ജയിച്ചു. 1951-ലും 54-ലും തിരു-കൊച്ചി നിയമസഭയിലേക്കു് വിജയം ആവർത്തിച്ചു.
+ചെത്തുതൊഴിലാളി പ്രസ്ഥാനത്തിന്റെ ഈറ്റില്ലമായ അന്തിക്കാട്ടു് സിറ്റിംഗ് എം. എൽ. എ. <ref target="https://en.wikipedia.org/wiki/K._P._Prabhakaran">കെ. പി.
+പ്രഭാകരനെ</ref> യാണു് 1954-ൽ തോൽപിച്ചതു്. രണ്ടുവട്ടവും തിരു-കൊച്ചി നിയമസഭയിൽ കോൺഗ്രസിന്റെ
+ചീഫ് വിപ്പായിരുന്നു. കൊച്ചി, തിരു-കൊച്ചി കേരള നിയമസഭകളിലും പാർലമെന്റിന്റെ ഇരു മണ്ഡലങ്ങളിലും
+അംഗമാകാൻ കഴിഞ്ഞയാൾ കരുണാകരൻ മാത്രം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AR_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. എ. ആർ. മേനോൻ</figDesc>
+          </figure>
+          <p> 1957-ൽ തൃശ്ശൂർ മണ്ഡലമാണു് മൽസരിക്കാൻ കിട്ടിയതു്. എതിരാളി ദീർഘകാലം തൃശ്ശൂർ മുനിസിപ്പൽ
+ചെയർമാനും കൊച്ചിരാജ്യത്തു് മന്ത്രിയുമായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/A.R._Menon">ഡോ. എ. ആർ. മേനോൻ</ref>.
+ആയിടെ മാത്രം കോൺഗ്രസിൽനിന്നു തെറ്റിപ്പിരിഞ്ഞ ഡോ. മേനോൻ സ്വതന്ത്രനായാണു് മൽസരിച്ചതു്.
+കമ്മ്യൂണിസ്റ്റ് പാർട്ടിയും പി. എസ്. പി.-യും അദ്ദേഹത്തിനു് പിന്തുണ നൽകി. പോരാട്ടം കടുത്തതായിരുന്നു. 2,468
+വോട്ടിന്റെ ഭൂരിപക്ഷത്തോടെ ഡോ. മേനോൻ വിജയിച്ചു. കമ്യൂണിസ്റ്റ് പി. എസ്. പി. ധാരണ പ്രാവർത്തികമായ
+
+ചാലക്കുടിയിൽ <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">പനമ്പിള്ളി</ref>
+യും പരാജിതനായി. 1960 ആകുമ്പോഴേക്കും സ്ഥിതി പാടേ മാറി. കരുണാകരനു് സീറ്റേ കിട്ടിയില്ല. തൃശ്ശൂരിൽ <ref target="https://ml.wikipedia.org/wiki/T.A._Dharmaraja_Iyer">ടി. എ. ധർമരാജ
+അയ്യർ</ref> കോൺഗ്രസ് ടിക്കറ്റിൽ മൽസരിച്ചു് ജയിച്ചു. പനമ്പിള്ളിയാണെങ്കിൽ പിന്നീടൊരിക്കലും
+നിയമസഭയിലേക്കു മൽസരിച്ചില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Annie_Thayyil.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആനി തയ്യിൽ</figDesc>
+          </figure>
+          <p> 1957-ലെ പരാജയവും 60-ലെ സീറ്റ് നിഷേധവും കരുണാകരന്റെ കുതിപ്പിനെ തടഞ്ഞുവെന്നതു് സത്യം.
+കോൺഗ്രസിലെ ഗ്രൂപ്പിസം കത്തിക്കാളിനിന്ന 1960–64 കാലത്തു് ശങ്കർ-ചാക്കോ വിരുദ്ധ ഗ്രൂപ്പിലായിരുന്നു
+കരുണാകരൻ. തട്ടിൽ എസ്റ്റേറ്റിലെ മാനേജരെ കുത്തിക്കൊന്ന കേസിൽ പത്താംപ്രതിയായതോടെ
+രാഷ്ട്രീയജീവിതം ഏറെക്കുറെ അവസാനിച്ചുവെന്നുതന്നെ ശത്രുക്കൾ സമാധാനിച്ചു. അഭിഭാഷകരായ നാഗപ്പൻ
+നായരുടെയും എം. ബി കുറുപ്പിന്റെയും വാഗ്വിലാസം കരുണാകരനെ രക്ഷിച്ചു. ഗൂഢാലോചനാകുറ്റം തെളിഞ്ഞില്ല.
+പിൽക്കാലത്തു് കരുണാകരൻ ആഭ്യന്തരമന്ത്രിയായപ്പോൾ എം. ബി കുറുപ്പിനെ സ്റ്റേറ്റ് പ്രോസിക്യൂട്ടറാക്കി.
+മുഖ്യമന്ത്രിയായപ്പോൾ രണ്ടുതവണ അഡ്വക്കേറ്റ് ജനറലും കരുണാകരനും കെ. വി. കെ. പണിക്കരും
+തടികഴിച്ചിലാക്കിയെങ്കിലും തട്ടിൽ എസ്റ്റേറ്റ് കേസിൽ ഒന്നും രണ്ടും പ്രതികളെ ശിക്ഷിച്ചു. ഒന്നാംപ്രതി ആലിക്കു്
+മരണശിക്ഷ, രണ്ടാംപ്രതി ചാക്കോക്കു് മൂന്നുവർഷം കഠിനതടവു്. ഹൈക്കോടതി അപ്പീലും രാഷ്ട്രപതി
+ദയാഹർജിയും നിരാകരിക്കയാൽ ആലി തൂക്കുമരത്തിലേറി. ജയിൽശിക്ഷ കഴിഞ്ഞു് പുറത്തുവന്നു് ചാക്കോക്കു്
+തൃശ്ശൂർ സഹകരണ മൊത്ത വ്യാപര സ്റ്റോറിൽ സെയിൽസ്മാനായും പിന്നീടു് മകനു് ജില്ലാ ബാങ്കിൽ പ്യൂണായും
+ജോലി വാങ്ങിക്കൊടുത്തതു് കരുണാകരൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TA_Dharmaraja_Iyer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എ. ധർമരാജ അയ്യർ</figDesc>
+          </figure>
+          <p> കുറ്റവിമുക്തനായ കരുണാകരൻ കൊടുങ്കാറ്റുപോലെ തിരിച്ചെത്തി. 1965-ലെ തെരഞ്ഞെടുപ്പിൽ മാള
+നിയോജകമണ്ഡലത്തിൽനിന്നു് വിജയിച്ചു. 1967, 70, 77, 80, 82, 87, 91 വർഷങ്ങളിലൊക്കെ മാളയിലെ ജേതാവു്
+കരുണാകരൻതന്നെ. കെ. എ. തോമസും പോൾ കോക്കാടും <ref target="https://ml.wikipedia.org/wiki/E._Gopalakrishna_Menon">ഇ. ഗോപാലകൃഷ്ണ
+മേനോനും</ref> <ref target="https://en.wikipedia.org/wiki/Meenakshi_Thampan">മീനാക്ഷി
+തമ്പാനും</ref> <ref target="https://ml.wikipedia.org/wiki/V.K._Rajan">വി. കെ.
+രാജനു</ref> മൊക്കെ എതിരാളികളായിരുന്നു. എല്ലായ്പ്പോഴും പോരാട്ടം കടുത്തതായിരുന്നു. മിക്കപ്പോഴും
+ഭൂരിപക്ഷം നേരിയതും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_Gopalakrishna_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. ഗോപാലകൃഷ്ണ മേനോൻ</figDesc>
+          </figure>
+          <p> കോൺഗ്രസ് തകർന്നടിഞ്ഞ 1967-ലാണു് കരുണാകരൻ. നിയമസഭാകക്ഷി നേതാവാകുന്നതു്. 1995 മാർച്ച്
+വരെ തൽസ്ഥാനത്തു് തുടരുകയും ചെയ്തു. ഇത്രയേറെ കാലം നിയമസഭാകക്ഷി നേതൃസ്ഥാനത്തിരുന്ന ഒരു
+നേതാവും ഇന്ത്യാ മഹാരാജ്യത്തുണ്ടാകുകയില്ല. <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടംതണുപിള്ള</ref>
+ക്കും <ref target="https://ml.wikipedia.org/wiki/C._Kesavan">സി. കേശവനും</ref>
+നേതൃസ്ഥാനത്തു് ഒരുവർഷം തികക്കാനായില്ല. <ref target="https://ml.wikipedia.org/wiki/T.M._Varghese">ടി. എം. വർഗീസി</ref> നു്
+നിയമസഭാകക്ഷി നേതാവാകാനേ ഒത്തില്ല. <ref target="https://ml.wikipedia.org/wiki/Parur_T._K._Narayana_Pillai">ടി. കെ.
+നാരായണപിള്ള</ref>, <ref target="https://ml.wikipedia.org/wiki/A._J._John,_Anaparambil">എ. ജെ.
+ജോൺ</ref>, <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">പനമ്പിള്ളി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി. ചാക്കോ</ref>
+എന്നിവർ രണ്ടുവർഷ വീതവും <ref target="https://ml.wikipedia.org/wiki/R._Sankar">ആർ. ശങ്കർ</ref>
+നാലുവർഷത്തിലധികവും കോൺഗ്രസ് നിയമസഭാകക്ഷി നേതാക്കളായിരുന്നു. ദീർഘകാലം പാർലമെന്റി
+പാർട്ടി ലീഡറായിരിക്കയാൽ കരുണാകരനു് “ലീഡർ” എന്നൊരു പര്യായപദം കൂടിയുണ്ടായി (വിരോധികൾ
+ഡീലർ എന്നു വിളിച്ചിരുന്നു).
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Parur_T_K_Narayana_Pillai.png" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. നാരായണപിള്ള</figDesc>
+          </figure>
+          <p>1969-ലെ പിളർപ്പിന്റെ നാൾവരെ ഉറച്ച സിൻഡിക്കേറ്റ് പക്ഷപാതിയായിരുന്നു കരുണാകരൻ.
+പനമ്പിള്ളിയുടെ ഉപദേശം കൊണ്ടാകണം പിളർപ്പിന്റെയന്നു് ഇന്ദിരാ പക്ഷത്തേക്കു് കൂറുമാറി. അഞ്ചും നാലുമായി
+കോൺഗ്രസ് നിയമസഭാകക്ഷി പിളർന്നു. ഇന്ദിരാപക്ഷം <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോന്റെ</ref>
+മന്ത്രിസഭക്കു് തന്ത്രപരമായ പിന്തുണ നൽകി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CKeshavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കേശവൻ</figDesc>
+          </figure>
+          <p> 1970-ലെ തെരഞ്ഞെടുപ്പിൽ ഇന്ദിരാ കോൺഗ്രസ് സി. പി. ഐ-ആർ. എസ്. പി.-ലീഗ് മുന്നണിയിൽ
+മൽസരിച്ചു. കോൺഗ്രസായിരുന്നു ഏറ്റവും വലിയ ഒറ്റക്കക്ഷിയെങ്കിലും മന്ത്രിസഭയുണ്ടാക്കാനോ
+അച്യുതമേനോനുണ്ടാക്കിയ മന്ത്രിസഭയിൽ ചേരാൻ പോലുമോ മാഡം സമ്മതിച്ചില്ല. ഒരുവർഷത്തെ
+കാത്തിരിപ്പിനുശേഷം 1971 സെപ്റ്റംബർ 25-നു് കരുണാകരനും കൂട്ടരും അധികാരമേറ്റു. ആഭ്യന്തരവകുപ്പിന്റെ
+ചുമതലയാണു് കരുണാകരനു് കിട്ടിയതു്. അന്നു് മുതൽക്കു് അദ്ദേഹത്തിന്റെ ദൗർബല്യമാണു് പൊലീസ്.
+നിയമപാലകർക്കു് സമ്പൂർണമായ പ്രവർത്തനസ്വാതന്ത്ര്യമനുവദിച്ച ഭരണാധികാരിയാണു് കരുണാകരൻ.
+ആരെയും തല്ലാം, ഉരുട്ടാം. ഗരുഡൻതൂക്കവും നടത്താം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TMVargheese.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. വർഗീസ്</figDesc>
+          </figure>
+          <p> 1977-ലെ തെരഞ്ഞെടുപ്പിൽ കോൺഗ്രസ്-സി. പി. ഐ. മുന്നണി വൻ ഭൂരിപക്ഷത്തോടെ അധികാരത്തിൽ
+തിരിച്ചെത്തി. മുഖ്യമന്ത്രിയാവുക എന്ന ചിരകാലാഭിലാഷവും നിറവേറി. ദാഹിച്ചു മോഹിച്ചു് തപസ്സിരുന്നിട്ടു്
+കൈവന്ന മുഖ്യമന്ത്രിപദത്തിനു് പക്ഷേ, 32 ദിവസത്തെ ആയുസ്സേയുണ്ടായുള്ളു. <ref target="https://ml.wikipedia.org/wiki/Rajan_case">രാജൻകേസിൽ</ref>
+ഹൈക്കോടതി നടത്തിയ പരാമർശങ്ങളെ തുടർന്നു് കരുണാകരൻ രാജിവെച്ചൊഴിഞ്ഞു. പിന്നീടങ്ങോട്ടു്
+ശനിയുടെ അപഹാരകാലമായിരുന്നു. സ്ഥാനഭ്രംശം, സജ്ജനനിന്ദ, മാനഹാനി, മനോവിഷമം, ധനനാശം.
+വ്യാജസത്യവാങ്മൂലക്കേസിൽ പ്രോസിക്യൂഷൻ കൂടിയായതോടെ പാർട്ടിക്കകത്തും പുറത്തുമുള്ള ശത്രുക്കൾ
+‘അവനെ ക്രൂശിക്ക’ എന്നു് കൂകിയാർത്തു. അടിയന്തരാവസ്ഥക്കാലത്തു് നടന്ന സർവ അതിക്രമങ്ങളും
+കരുണാകരന്റെ മേൽചാരി മറ്റുള്ളവർ കൈകഴുകി. ‘കൊലയാളി’ എന്നൊരു പര്യായപദംകൂടി ചാർത്തിക്കിട്ടി.
+ടിയാന്റെ രാഷ്ട്രീയ ഭാവി അവസാനിച്ചുവെന്നു് രാഷ്ട്രീയ നിരീക്ഷകർ വിധിയെഴുതി. കരുണാകരൻ പക്ഷേ, കള്ള
+
+സത്യവാങ്മൂലക്കേസിനെയും അതിജീവിച്ചു. തന്നെ നിരപരാധിയെന്നുകണ്ടു് വിട്ടയച്ച മജിസ്ട്രേറ്റിനെ പിന്നീടു്
+അദ്ദേഹം പി. എസ്. സി. മെമ്പറാക്കി. പ്രതിഭാഗം അഭിഭാഷകനായിരുന്ന പി. വി. അയ്യപ്പനെ അഡ്വക്കറ്റ്
+ജനറലും. മറിച്ചു് സ്പെഷൽ പ്രോസിക്യൂട്ടറായിരുന്ന ടി. ആർ. രാമൻ പിള്ള നിയമമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> യുടെ
+പിന്തുണയോടെ രണ്ടുവട്ടം അഡ്വക്കറ്റ് ജനറൽപദവിയുടെ വക്കോളമെത്തിയെങ്കിലും കപ്പിനും ചുണ്ടിനുമിടക്കു്
+വഴുതിപ്പോയി. കള്ളസത്യവാങ്മൂലത്തിൽ കേസെടുക്കാൻ ഉത്തരവിട്ട ജസ്റ്റിസ് സുബ്രഹ്മണ്യൻ പോറ്റിയെ
+ഏറെക്കാലം ആക്ടിംഗ് ചീഫ് ജസ്റ്റിസാക്കി നിറുത്തിയ ശേഷം ഗുജറാത്തിലേക്കു് സ്ഥലം മാറ്റിച്ചു് പീഡിപ്പിക്കുകയും
+ചെയ്തു. അലിഞ്ഞാൽ ശർക്കര ഉറച്ചാൽ പാറ—അതാണു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MEENAKSHY_THAMPAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">മീനാക്ഷി തമ്പാൻ</figDesc>
+          </figure>
+          <p> 1972 മുതൽക്കെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെയും
+കരുണാകരന്റെയും നേതൃത്വത്തിൽ സുശക്തമായ ഗ്രൂപ്പുകളുണ്ടു് കെ. പി. സി. സി.-യിൽ. <ref target="https://ml.wikipedia.org/wiki/K.K._Viswanathan">കെ. കെ.
+വിശ്വനാഥനെ</ref> പിന്തുടർന്നു് ആന്റണി കെ. പി. സി. സി. പ്രസിഡന്റ് സ്ഥാനമേറ്റ കാലത്തു്
+തുടങ്ങിയതാണു്. ഈ ബാലി-സുഗ്രീവ യുദ്ധം. ആശയപരവും ആമാശയപരവുമായ ഒട്ടേറെ ഭിന്നതകളുണ്ടു് ഇവർ
+തമ്മിൽ. അടിയന്തരാവസ്ഥയുടെ നാളുകളിൽ അടി മൂത്തു. ഗോഹാട്ടിയിൽ നടന്ന എ. ഐ. സി. സി.
+സമ്മേളനത്തിൽ കുടുംബവാഴ്ചക്കും സ്വേച്ഛാധിപത്യ പ്രവണതകൾക്കുമെതിരെ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ആഞ്ഞടിച്ചു.
+കരുണാകരൻ മാഡത്തിന്റെ വീനീത വിധേയനായി തുടർന്നു. ആന്റണിയുടെ വിഭക്തിയെക്കാൾ കരുണാകരന്റെ
+ഭക്തിയായിരുന്നു മഹാമായക്കും പഥ്യം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KMChandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. ചാണ്ടി</figDesc>
+          </figure>
+          <p>1978 ജനുവരിയിൽ കോൺഗ്രസ് പിളർന്നപ്പോൾ കരുണാകരൻ ഇന്ദിരാപക്ഷത്തും ആന്റണിയും കൂട്ടരും
+വിരുദ്ധ പക്ഷത്തും ഉറച്ചുനിന്നു. അതോടെ ഭരണമുന്നണിയിൽനിന്നും ബഹിഷ്കൃതനായ കരുണാകരനോടൊപ്പം
+<ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/M.P._Gangadharan">എം. പി.
+ഗംഗാധരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">എ. എ.
+റഹിം</ref>, <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്.
+മുസ്തഫ</ref>, <ref target="https://ml.wikipedia.org/wiki/K.G._Adiyodi">കെ. ജി.
+അടിയോടി</ref>, <ref target="https://en.wikipedia.org/wiki/Vella_Eacharan">വെള്ള ഈച്ചരൻ</ref>
+തുടങ്ങി വളരെ കുറച്ചുപേരെ ഉണ്ടായിരുന്നുള്ളു. ലോക്സഭയിലെ പ്രതിപക്ഷ നേതൃസ്ഥാനം കിട്ടുമെന്നായപ്പോൾ
+<ref target="https://ml.wikipedia.org/wiki/CM_Stephen">സി. എം. സ്റ്റീഫൻ</ref>
+വന്നു; മന്ത്രിസ്ഥാനം പോയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണനും</ref> <ref target="https://ml.wikipedia.org/wiki/K._Sankaranarayanan">കെ.
+ശങ്കരനാരായണനും</ref>. <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നല</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/A.L._Jacob">എ. എൽ.
+ജേക്കബും</ref> പിന്നാലെ വന്നു. രാഷ്ട്രീയമൊക്കെ ഉപേക്ഷിച്ചു് വാനപ്രസ്ഥനത്തിനുപോയ പ്രൊഫ. <ref target="https://ml.wikipedia.org/wiki/K.M._Chandy">കെ. എം. ചാണ്ടി</ref> യെ
+തിരിച്ചുകൊണ്ടുവന്നു. കെ. പി. സി. സി.-ഐ. പ്രസിഡന്റാക്കി. “അവരുടെ കെ. പി. സി. സി. എന്നാൽ
+കരുണാകരൻ, പുരുഷോത്തമൻ, ചാണ്ടി ആന്റ് കമ്പനി എന്നാണർഥം.” <ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടൻ മുഹമ്മദ്</ref>
+പരിഹസിച്ചു. (വക്കം പിന്നീടു് ആന്റണിപക്ഷത്തേക്കു് തിരിച്ചുപോയി).
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_J_John.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. ജെ. ജോൺ</figDesc>
+          </figure>
+          <p> ഭരണ-പ്രതിപക്ഷ മുന്നണികൾ ഒറ്റപ്പെടുത്തിയിട്ടും കരുണാകരൻ പതറിയില്ല. എൻ. ഡി. പി.-യെ കൂട്ടുപിടിച്ചു്
+ഐക്യജനാധിപത്യ മുന്നണിയുണ്ടാക്കി. തിരുവല്ല, തലശ്ശേരി, കാസർകോടു് ഉപതെരഞ്ഞെടുകളിൽ
+കോൺഗ്രസ്-ഐ സ്ഥാനാർഥികൾക്കു് ജാമ്യസംഖ്യ നഷ്ടമായിട്ടുപോലും വിശ്വവശ്യമായ ആ മന്ദഹാസത്തിനു്
+മങ്ങലേറ്റില്ല. കോൺഗ്രസ്-യൂ., സി. പി. ഐ. കക്ഷികൾക്കൊന്നും കേരള രാഷ്ട്രീയത്തിൽ യാതൊരു
+പ്രസക്തിയുമില്ലെന്നും സി. പി. എം. കോൺഗ്രസ്-ഐ കക്ഷികളെ കേന്ദ്രികരിച്ചു് ഉടൻ രാഷ്ട്രീയധ്രുവീകരണം
+നടക്കുമെന്നും കരുണാകരൻ പ്രവചിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ആന്റണി</figDesc>
+          </figure>
+          <p> വളരെ വൈകാതെ അതു് യാഥാർഥ്യമാകുകയും ചെയ്തു. ഇടതുപക്ഷ ഐക്യം ഊട്ടിയുറപ്പിക്കാനും ക്ലീൻ
+സ്ലേറ്റിൽ ആരംഭിക്കാനുമായി <ref target="https://ml.wikipedia.org/wiki/P._K._Vasudevan_Nair">പി. കെ. വാസുദേവൻ
+നായർ</ref> രാജി കൊടുത്തപ്പോൾ കരുണാകരൻ കാത്തിരുന്ന അവസരം സമാഗതമായി.
+ഇഷ്ടദാനബില്ലിന്റെ പ്രശ്നത്തിൽ കമ്മ്യൂണിസ്റ്റിതര കക്ഷികളെ ഒന്നിപ്പിക്കാനും <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദകോയ</ref> യുടെ നേതൃത്വത്തിൽ മന്ത്രിസഭയുണ്ടാക്കാനും ലീഡർക്കു് സാധിച്ചു. <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref> പാലം
+വലിച്ചിട്ടുപോലും മന്ത്രിസഭ വീണില്ല. “രണ്ടും രണ്ടും കൂട്ടിയാൽ എല്ലായ്പ്പോഴും നാലാകില്ല. രാഷ്ട്രീയത്തിൽ അതു്
+ചിലപ്പോൾ മൂന്നാകും, മറ്റുചിലപ്പോൾ അഞ്ചും” എന്നായിരുന്നു കരുണാകരന്റെ തിരുമൊഴി. റാന്നി
+എം. എൽ. എ.-യായിരുന്ന കെ. എ. മാത്യു ചാക്കിൽ കയറുകയും ഉടനടി മന്ത്രിസ്ഥാനമേൽക്കുകയും ചെയ്തപ്പോൾ
+ഗണിതശാസ്ത്രത്തിലെ കരുണാകരൻ തിയറി മാണിസാറിനും ബോധ്യമായി. ആന്റണിയും പിന്നിൽനിന്നു്
+കുത്തിയപ്പോൾ സി. എച്ച്. മന്ത്രിസഭ തകർന്നെങ്കിലും കരുണാകരനു് വിശ്വസ്തരായ കൂട്ടാളികളെ കിട്ടി—ഇന്ത്യൻ
+യൂണിയൻ, മുസ്ലിലീഗ്, ജോസഫ് ഗ്രൂപ്പ്, കേരള കോൺഗ്രസ്; പിന്നെ എൻ. ഡി. പി. പി. എസ്,
+എസ്. ആർ. പി. ഡി., എൽ. പി. ഐ. എൽ. പി. മുതലായ ഈർക്കിൾ പാർട്ടികളും. അഖിലേന്ത്യാതലത്തിൽ
+കോൺഗ്രസിന്റെ മുഖ്യശത്രുവായ ജനതാപാർട്ടി കേരളത്തിൽ ഐക്യജനാധിപത്യമുന്നണിയുമായി സഖ്യം ചെയ്തു.
+കേന്ദ്രത്തിൽ ഇന്ദിരാജി മടങ്ങിവന്നതോടെ കരുണാകരന്റെ ആത്മവിശ്വാസം വർധിച്ചു. മലയാള മനോരമയുടെ
+കനത്ത പിന്തുണയോടെ ലീഡർ ആഞ്ഞടിച്ചു. നിരീശ്വരവാദികളെ പരാജയപ്പെടുത്തണമെന്നു് ക്രിസ്ത്യൻ
+ബിഷപ്പുമാരെക്കൊണ്ടു് പ്രസ്താവനയിറക്കിക്കാനും അദ്ദേഹത്തിനു് സാധിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pandalamsudhakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">പന്തളം സുധാകരൻ</figDesc>
+          </figure>
+          <p> 1980-ലെ തെരഞ്ഞെടുപ്പിൽ ആന്റണി ഗ്രൂപ്പ് ഉൾപ്പെട്ട ഇടതുപക്ഷ മുന്നണി അധികാരത്തിൽ വന്നെങ്കിലും
+യഥാർഥ കോൺഗ്രസ് ഏതാണെന്നു് വ്യക്തമായി. ആന്റണിയുടെ മാർക്സിസ്റ്റ് ബാന്ധവം അണികൾക്കു്
+പഥ്യമായില്ലെന്നു് തെരഞ്ഞെടുപ്പു ഫലം വ്യക്തമാക്കി. സഖാക്കളുടെ അടിയുംതൊഴിയുമേറ്റു് പ്രവർത്തകരും ആട്ടും
+തുപ്പുമേറ്റു നേതാക്കളും പരിക്ഷീണിതരായി. ഒന്നരവർഷം കഴിയുമ്പോഴേക്കും ആന്റണിയും കൂട്ടരും മുന്നണിയിൽ
+നിന്നു് പുറത്തുചാടി. ആന്റണി ഗ്രൂപ്പ് പോയാലും ഇടതുമുന്നണിക്കു് നേരിയ ഭൂരിപക്ഷമുണ്ടായിരുന്നു. <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി. ചാക്കോ</ref> യും
+ഷൺമുഖദാസും മാർക്സിസ്റ്റ് പടകുടീരത്തിലേക്കു് മടങ്ങിപ്പോകാനുള്ള സാധ്യതയുമുണ്ടായിരുന്നു. വരുന്ന
+തെരഞ്ഞെടുപ്പിൽ 22 സീറ്റ് വാഗ്ദാനം ചെയ്ത കരുണാകരനും <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാജി</ref> യുടെ ദൂതൻ
+കറുപ്പനയ്യാ മൂപ്പനാരും കൂടി <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref> യെ
+ചാക്കിട്ടു. അങ്ങനെ ഒന്നാം നായനാർമന്ത്രിസഭ നിലംപൊത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KK_Viswanathan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കെ. വിശ്വനാഥൻ</figDesc>
+          </figure>
+          <p> നായനാരെ തകർത്താലും പോരാ ബദൽ മന്ത്രിസഭയുണ്ടാക്കുകയും വേണമെന്നായി <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>. ഒന്നു
+മോഹിച്ചാൽ ഒമ്പതും സാധിക്കുന്ന വാശിയാണു് ലീഡറെ ലീഡറാക്കുന്നതു്. അതിനിടെ <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി. ചാക്കോ</ref> യും വേറെ
+അഞ്ചു് എം. എൽ. എ.-മാരും ഇടതുപക്ഷത്തേക്കു് തിരിച്ചുപോയി. ജനതാപാർട്ടി പിളരുകയും ചെയ്തു. ഒരു
+എം. എൽ. എ. (<ref target="https://ml.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസൻ</ref>) മാത്രമുള്ള ശ്രീകണ്ഠൻ നായരുടെ ആർ. എസ്. പി.-യെയും ചാക്കിലാക്കിയിട്ടും
+ഭൂരിപക്ഷമായില്ല. പത്തനംതിട്ട ജില്ല വാഗ്ദാനം ചെയ്തു് മാർക്സിസ്റ്റ് റെബൽ <ref target="https://ml.wikipedia.org/wiki/K.K._Nair">കെ. കെ. നായരെ</ref> ക്കൂടി
+പിടിച്ചപ്പോൾ, ആംഗ്ലോ ഇന്ത്യൻ മെമ്പറടക്കം ഐക്യമുന്നണിക്കു് 71 എം. എൽ. എ.-മാർ ഇടതുമുന്നണിക്കു് 70.
+ഒറ്റക്കൊരാളുടെ സാങ്കേതിക ഭൂരിപക്ഷത്തിൽ ബദൽ മന്ത്രിസഭയുണ്ടാക്കാൻ ചങ്കൂറ്റവും മെയ് വഴക്കവും
+തൊലിക്കനവും കരുണാകരനല്ലാതെ മറ്റാർക്കുണ്ടു്? ഒരൊറ്റ ദിവസം ഏഴു തവണ കാസ്റ്റിംഗ് വോട്ടു ചെയ്തു്
+സ്പീക്കർ <ref target="https://ml.wikipedia.org/wiki/A.C._Jose">എ. സി.
+ജോസ്</ref> ഗിന്നസ് ബുക്കിൽ ഇടംകണ്ടെത്തി. അദ്ദേഹത്തിന്റെ പേരുതന്നെ ആൾവെയ്സ് കാസ്റ്റിംഗ്
+ജോസ് എന്നായിമാറി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AA_Kochunny.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എ. കൊച്ചുണ്ണി</figDesc>
+          </figure>
+          <p>1982-ലെ തെരഞ്ഞെടുപ്പിൽ ഐക്യമുന്നണി വിജയം കണ്ടു. കരുണാകരൻ മുഖ്യൻ, കോയ ഉപമുഖ്യൻ.
+കഴിഞ്ഞ രണ്ടുവട്ടവും വഴുതിപ്പോയ മുഖ്യൻമന്ത്രിപദം ലീഡർ മാറോടു ചേർത്തു പിടിച്ചു. എന്തൊരു ഭരണമായിരുന്നു
+അതു്! നിലക്കൽ പ്രശ്നം, കുവൈത്തി പ്രശ്നം, പട്ടയപ്രശ്നം, പിള്ളപ്രശ്നം, പ്രതിച്ഛായപ്രശ്നം, തങ്കമണി പ്രശ്നം, കീഴ്മാട്
+പ്രശ്നം, ഇതൊന്നും പോരാതെ പ്രീഡിഗ്രി ബോർ,ഡ് വിവാദപരമായ ബോംബെ യാത്ര പാവം പയ്യന്റെ ‘കൂടെയുള്ള
+ഹെലികോപ്ടർ യാത്ര…’ കുഴപ്പങ്ങളുടെ കന്നിമാസം തന്നെയായിരുന്നു. ബാലകൃഷ്ണപിള്ളയുടെ കേസുവാദം
+കേൾക്കുന്ന ജഡ്ജിയെ മുഖ്യമന്ത്രി ഫോണിൽ വിളിച്ചു എന്നുവരെ ആരോപണമുണ്ടായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KADAVOOR_SIVADASAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടവൂർ ശിവദാസൻ</figDesc>
+          </figure>
+          <p> മാണിക്കു് കൊടുക്കുന്ന പരിഗണനയിൽ മനംനൊന്തു് മുന്നണി വിടാനൊരുങ്ങിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം. ജേക്കബി</ref> നെ
+കോടാലിയാക്കി കരുണാകരൻ ജോസഫിനെ ഒതുക്കി. കുറ്റ്യാനിയും <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+
+ബാലകൃഷ്ണനും</ref> <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണും</ref>
+കാലുമാറിയിട്ടും <ref target="https://ml.wikipedia.org/wiki/Baby_John">ബേബി
+ജോൺ</ref> അവതരിപ്പിച്ച അവിശ്വാസപ്രമേയം ചീറിപ്പോയി. കൂടെ ചാടാമെന്നേറ്റ എം. എൽ. എ.-മാരെ
+കൃത്യസമയത്തു് കരുണാകരൻ തിരിച്ചുപിടിച്ചു. കുറ്റ്യാനിയും ബാലകൃഷ്ണനും ഏറെ കഴിയുംമുമ്പു് ലീഡറുടെ
+പാദപങ്കേരുഹങ്ങളിൽതന്നെ അഭയം പ്രാപിച്ചു. 1984 ഡിസംബറിൽ നടന്ന ലോക്സഭാ തെരഞ്ഞെടുപ്പിൽ
+സ്ഥാനാർഥികളെ നിശ്ചയിക്കുമ്പോൾ കരുണാകരന്റെ തൻ പ്രമാണിത്തം പരമകോടിയിലെത്തി. എം. എ.
+റഹീമിനെ തഴഞ്ഞു് കൊല്ലത്തു് <ref target="https://ml.wikipedia.org/wiki/S._Krishna_Kumar">എസ്. കൃഷ്ണകുമാറി</ref>
+നെ സ്ഥാനാർഥിയാക്കി സിറ്റിംഗ് എം. പി, <ref target="https://ml.wikipedia.org/wiki/Xavier_Arakkal">സേവ്യർ അറക്കലി</ref>
+നെ മാറ്റി. പ്രൊഫ. <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി.
+തോമസി</ref> നെ എറണാകുളത്തും. അറക്കലിനെ മാറ്റിയപ്പോൾ അരമന കോപിച്ചു. വരാപ്പുഴ ആർച്ച്
+ബിഷപ്പിന്റെ അനുഗ്രഹാശിസ്സുകളോടെ ഒരു സ്വതന്ത്രൻ രംഗത്തുവന്നു. എറണാകുളത്തു് <ref target="https://ml.wikipedia.org/wiki/A.A._Kochunny">എ. എ. കൊച്ചുണ്ണി</ref>
+ജയിക്കുമെന്നു് ഇന്റിലിജൻസുകാർ റിപ്പോർട്ട് ചെയ്തു. കിംഫലം? ജനസംഖ്യയിൽ അമ്പതുശതമാനത്തിലേറെ
+മുസ്ലിംകളുള്ള ആലുവായിൽവരെ <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">തോമസ്</ref> മാഷ് ഭൂരിപക്ഷം
+നേടി. ആർച്ച് ബിഷപ്പിന്റെ കൽപനയനുസരിച്ചല്ല ലത്തീൻ കത്തോലിക്കർ വോട്ടുചെയ്യുന്നതെന്നും തെളിഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PC_Chacko.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. ചാക്കോ</figDesc>
+          </figure>
+          <p> ആന്റണിയും കൂട്ടരും തിരിച്ചുവന്നതോടെ പാർട്ടിക്കകത്തു് ഗ്രൂപ്പുമൽസരം പുനരാരംഭിച്ചു. മന്ത്രിസഭയുടെ
+പ്രതിച്ഛായ മെച്ചപ്പെടുത്താനായി (!) <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> യിൽനിന്നു്
+ആഭ്യന്തരവകുപ്പു് എടുത്തുമാറ്റിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> കോപിച്ചു.
+അപമാനിതനായ രവി രാജികൊടുത്തു. അന്തോണിസ് പുണ്യാളന്റെ തിരുവിഷ്ടം മാനിക്കാതെ മന്ത്രിമാരായ
+<ref target="https://en.wikipedia.org/wiki/Thachadi_Prabhakaran">തച്ചടി
+പ്രഭാകരനും</ref> <ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">പി. കെ.
+വേലായുധനും</ref> 1987-ലെ തെരഞ്ഞെടുപ്പിൽ സീറ്റ് നിഷേധിക്കപ്പെട്ടു. ഫലം—കായംകുളത്തും ഞാറക്കലും
+ഇടതുമുന്നണി ജയിച്ചു. കേരള കോൺഗ്രസ് ഗ്രൂപ്പുകളുടെ തമ്മിലടി കൂടിയായപ്പോൾ ഭരണവും പോയി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Velayudan.png" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വേലായുധൻ</figDesc>
+          </figure>
+          <p> ഭരണത്തിലിരിക്കുന്ന കരുണാകരനെക്കാൾ ആപത്കാരിയാണു് പ്രതിപക്ഷത്തുള്ള കരുണാകരൻ. സീറോ
+ആംഗിളിൽനിന്നുവരെ അദ്ദേഹം ഗോളടിക്കും. പ്രതിപക്ഷത്തിരിക്കുമ്പോഴാണു് ലീഡർ അനന്തരാവകാശിയെ
+കണ്ടെത്തുന്നതു്—സേവാദൾ ചെയർമാൻ <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">കെ. മുരളീധരൻ</ref>.
+1989-ലെ ലോക്സഭാ തെരഞ്ഞെടുപ്പിൽ ചിന്ന ലീഡറായി കോഴിക്കോട്ടു് കോൺഗ്രസ് സ്ഥാനാർഥി.
+കരുണാകരൻ മൂത്രമൊഴിക്കാൻ പോയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref> യാണു്
+മുരളിയുടെ പേർ നിർദേശിച്ചതു്. ഒരു ചെറുപ്പക്കാരനല്ലേ നന്നായിപ്പോയ്ക്കോട്ടെ എന്നുകരുതി കാരണവർ
+എതിർത്തില്ലെന്നുമാത്രം. കോഴിക്കോട്ടേ അങ്കത്തട്ടിൽ <ref target="https://ml.wikipedia.org/wiki/E._K._Imbichi_Bava">ഇമ്പിച്ചിബാവ</ref>
+യെ തോൽപിച്ചു് മുരളിച്ചേകവർ കന്നിയങ്കം ജയിച്ചു. കണ്ണോത്തു തറവാടിന്റെയും കരുണാകരച്ചേകവരുടെയും
+മാനം കാത്തു.
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MP_Gangadharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. പി. ഗംഗാധരൻ</figDesc>
+          </figure>
+          <p>അതേ തെരഞ്ഞെടുപ്പിൽ മറ്റൊരു തമാശകൂടി അരങ്ങേറി. മുകുന്ദപുരത്തുനിന്നു പാർലമെന്റിലേക്കു് പോകാൻ
+<ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>
+മോഹിച്ചു. എം. എൽ. എ.-മാരാരും ലോക്സഭയിലേക്കു് മൽസരിക്കരുതെന്ന ലോകതത്ത്വം പറഞ്ഞു
+കരുണാകരൻ ആ മോഹം മുളയിലേ നുള്ളി. കോട്ടയത്തു് <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> ക്കു് സീറ്റ് കൊടുത്തപ്പോൾ അദ്ദേഹം ഹരിപ്പാട്ടെ എം. എൽ. എ.-യാണല്ലോ എന്നാരും
+ഓർമിച്ചില്ല, ഓർമിച്ചവർതന്നെ ചോദിച്ചുമില്ല. ഷുവർ സീറ്റായ മുകുന്ദപുരത്തു് ഒരു വനിതക്കു് അവസരം
+നൽകണമെന്നായി ലീഡർ. വാസുദേവപണിക്കരുടെ വിധവ ശാന്താപണിക്കരുടെയും സാഹിത്യ നിരൂപക ഡോ.
+<ref target="https://ml.wikipedia.org/wiki/M._Leelavathy">ലീലാവതി</ref>
+യുടെയും പേരുകളാണു് പത്രങ്ങൾ സൂചിപ്പിച്ചതു്. പക്ഷേ, പ്രൊഫ. <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണനാ</ref> ണു് സീറ്റ് കിട്ടിയതു്. കോൺഗ്രസിലെ പ്രാഥമികംഗത്വമെങ്കിലുമുണ്ടോ സാവിത്രിക്കെന്നും
+ആരും അന്വേഷിച്ചില്ല. 1987-ലെ തെരഞ്ഞെടുപ്പിൽ മാളയിൽ ലീഡർക്കുവേണ്ടി പ്രചാരണം നടത്തിയതിന്റെ
+പ്രതിഫലമായിരുന്നു മുകുന്ദുപുരം സീറ്റ്. പ്രത്യുപകാരം മറക്കുന്ന പുരുഷൻ “ചത്തതിനൊക്കുമേ ജിവിച്ചിരിക്കിലും”
+എന്നു ഋഷിപ്രോക്തം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/m_leelavathy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലീലാവതി</figDesc>
+          </figure>
+          <p>1991 ജനുവരിയിലെ ജില്ലാ കൗൺസിൽ തെരഞ്ഞെടുപ്പിൽ ഐക്യമുന്നണി കടപുഴകിയപ്പോഴോ
+അതിനുപിന്നാലെ മുസ്ലിംലീഗ് മുന്നണി വിട്ടപ്പോഴോ കരുണാകരൻ കുലുങ്ങിയില്ല. മുസ്ലിംലീഗ് പോയാൽ
+എവിടെവരെ പോകും? മ്ലേച്ഛവർഗീയ കക്ഷിയുമായി യാതൊരു ബന്ധവും പാടില്ലെന്ന വാശിയിലാണല്ലോ
+മാർക്സിസ്റ്റ് ആചാര്യൻ. മുസ്ലിംലീഗ് എന്തുകൊണ്ടു് മുന്നണി വിട്ടു എന്നു് വിശദീകരിച്ചുകൊണ്ടുള്ള ഡോ. <ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">എം. കെ. മുനീറി</ref> ന്റെ യാത്ര
+തിരുവനന്തപുരത്തെത്തുമ്പോഴേക്കും ഐക്യമുന്നണിയിലേക്കു് തിരിച്ചുപോകാൻ പാണക്കാടു് തങ്ങൾ
+തീരുമാനിച്ചുകഴിഞ്ഞിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AA_Rahim.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എ. റഹിം</figDesc>
+          </figure>
+          <p> നിയമസഭാ തെരഞ്ഞെടുപ്പിന്റെ തലേദിവസം രാജീവ്ഗാന്ധി സ്ഫോടനത്തിൽ കൊല്ലപ്പെട്ടതോടെ
+കരുണാകരനു് കാര്യങ്ങൾ എളുപ്പമായി. നാടൊട്ടുക്കു് ചിതാഭസ്മകലശവുമായി നടന്നു് കോൺഗ്രസുകാർ
+വോട്ടുപിടിച്ചു. വമ്പിച്ച ഭൂരിപക്ഷത്തോടെ ഐക്യജനാധിപത്യമുന്നണി അധികാരത്തിൽ തിരിച്ചെത്തി. കനപ്പെട്ട
+വകുപ്പുകൾ കൊടുത്തു് ലീഗിനെ പ്രീണിപ്പിച്ചു, ജേക്കബിനെ ഉപയോഗിച്ചു് മാണിയെ മെരുക്കി. തന്റെ ചിരകാല
+വിമർശകനായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/M._V._Raghavan">എം. വി. രാഘവനു്</ref>
+സഹകരണവകുപ്പു് നൽകി. അദ്ദേഹമാണെങ്കിൽ മാർക്സിസ്റ്റുകാരുടെ അതേ തന്ത്രങ്ങളുപയോഗിച്ചു സഹകരണ
+സ്ഥാപനങ്ങൾ പിടിച്ചെടുത്തു. സുധീരനെ ഒരു കാരണവശാലും മന്ത്രിയാക്കാനാവില്ല എന്നു് കരുണാകരൻ
+ആന്റണിയോടു് വെട്ടിത്തുറന്നു് പറഞ്ഞു. ആന്റണിയുടെ വിശ്വസ്തരായ <ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടനും</ref>
+ഹസ്സനും തഴയപ്പെട്ടു. <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്. മുസ്തഫ</ref>
+മന്ത്രിയായി. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും <ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">കെ. പി.
+വിശ്വനാഥനു</ref> മൊഴിച്ചാൽ മറ്റെല്ലാവരും കരുണാകരന്റെ തൊമ്മിമാർ. <ref target="https://en.wikipedia.org/wiki/Pandalam_Sudhakaran">പന്തളം
+സുധാകരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/M.R._Reghuchandrabal">രഘുചന്ദ്രബാൽ</ref>,
+പത്മ, <ref target="https://ml.wikipedia.org/wiki/P._P._George">പി. പി.
+ജോർജ്</ref>—ഇവരെയൊക്കെ മുൻനിറുത്തി ഭരണം കൈയാളിയതു് പത്മകുമാർ, മധുസൂദനൻ, <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരൻ</ref>, പിച്ച
+ബഷീർ എന്നിവരുൾപ്പെട്ട നാൽവർസംഘം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Babyjohn.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബേബി ജോൺ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref> യുടെ
+മരണത്തോടെ അഖിലേന്ത്യാ നേതൃത്വത്തിലുണ്ടായ പ്രതിസന്ധിയിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref> <ref target="https://ml.wikipedia.org/wiki/P._V._Narasimha_Rao">നരസിംഹറാവു</ref>
+വിനെ പിന്തുണച്ചു് കിംഗ് മേക്കറായി. വയോധികനും പ്രായേണ ദുർബലനുമായ റാവു
+അധികാരത്തിലിരിക്കുമ്പോൾ തങ്ങൾക്കു് കൈയിട്ടുവാരാം എന്നായിരുന്നു കരുണാകരാദികളുടെ മനോരാജ്യം.
+മറിച്ചു് <ref target="https://en.wikipedia.org/wiki/Sharad_Pawar">ശരദ്പവാറാ</ref> ണെങ്കിൽ
+ചെറുപ്പക്കാരൻ, അതിസമർഥൻ. അഖിലേന്ത്യാ കരുണാകരൻ നമ്മുടെ കളി തീരെ നടക്കില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KK_Nair.png" rendition="gra"/>
+            <figDesc style="thumb">കെ. കെ. നായർ</figDesc>
+          </figure>
+          <p> മുകുന്ദപുരം സീറ്റ് കിട്ടാഞ്ഞതിനുശേഷം <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> ക്കു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യെപ്പറ്റിയുള്ള
+മതിപ്പു് തീരെ കുറഞ്ഞു. 1991 ചേർത്തലനിന്നു തോൽക്കുകകൂടി ചെയ്തതോടെ തീരെ പരിക്ഷീണിതനായി
+വയലാർജി. കെ. പി. സി. സി. പ്രസിഡന്റുസ്ഥാനത്തേക്കു് കരുണാകരൻ ഗ്രൂപ്പിന്റെ സ്ഥാനാർഥിയായിനിന്നു്
+വയലാർ രവി ആന്റണിയെ തോൽപിച്ചപ്പോൾ മാലോകർ മൂക്കിൽ വിരൽവെച്ചു. എല്ലാം ഗുരുവായൂരപ്പന്റെ മായ!
+രവിയാണെങ്കിൽ മുരളീധരനെ ജനറൽ സെക്രട്ടറിയായി നാമനിർദേശം ചെയ്തു് യജമാനഭക്തി തെളിയിക്കുകയും
+ചെയ്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Cmstephen.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എം. സ്റ്റീഫൻ</figDesc>
+          </figure>
+          <p>ഒരു വേനലിനു് ഒരു വർഷം എന്നാണല്ലോ. കെ. പി. സി. സി.-യിൽ തോറ്റ ആന്റണി കോൺഗ്രസ്
+പ്രവർത്തക സമിതിയിലേക്കു് ജയിച്ചതും <ref target="https://ml.wikipedia.org/wiki/K._R._Narayanan">കെ. ആർ.
+നാരായണൻ</ref> ഉപരാഷ്ട്രപതിയായതും കരുണാകരനു് രസിച്ചില്ല. ഈ കാട്ടിൽ ഞാനല്ലാതെ മറ്റൊരു
+സിംഹമോ? കാറപകടത്തിൽപെട്ടു് ലീഡർ മരണത്തോടു് മല്ലടിക്കുമ്പോൾ ഷാനവാസും കാർത്തികേയനും
+ചെന്നിത്തലയും തിരുത്തൽവാദികളായി. അതിന്റെപിന്നാലെ കല്യാണിക്കുട്ടിയമ്മയുടെ വിയോഗം ഒറ്റപ്പാലം
+ഉപതെരഞ്ഞെടുപ്പിലെ കനത്ത പരാജയം <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെയും
+<ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">കെ. പി.
+വിശ്വനാഥന്റെ</ref> യും രാജി. ആന്റണി ഗ്രൂപ്പിന്റെ തുറന്ന യുദ്ധപ്രഖ്യാപനം. ഐ. എസ്. ആർ. ഒ. ചാരക്കേസ്
+പാമോയിൽ കേസ് ഘടകകക്ഷികൾ കൂടി നേതൃമാറ്റം ആവശ്യപ്പെടുകയും അവസാനനിമിഷം നരസിംഹവും
+കൈവിടുകയും ചെയ്തപ്പോൾ ലീഡർക്കു് നിലതെറ്റി. രാഷ്ട്രീയത്തിൽ ‘നന്ദി’ എന്ന വാക്കിനു് എന്തർഥമുണ്ടു്? <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+വിലപിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AC_Jose.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. സി. ജോസ്</figDesc>
+          </figure>
+          <p> രാജ്യസഭാംഗമായി കേന്ദ്രമന്ത്രിയായിപ്പോയാലും അടങ്ങിയിരിക്കാനാവുമോ കരുണാകരനു്? എല്ലാ
+മലയാളമാസം ഒന്നാം തീയതിയും ഗുരുവായൂരപ്പനെ തൊഴലും ഓരോ വരവിനും ആന്റണിയെ കുറ്റപ്പെടുത്തലും
+പതിവാക്കി. ശിവഗിരിയിൽ പൊലിസിനെ കയറ്റിയപ്പോൾ മന്നം സമാധിയിൽ പൊലീസുകാർ ചെരിപ്പിട്ടു്
+കയറിയപ്പോൾ ലീഡർക്കു് സഹിച്ചില്ല. നാരായണ പണിക്കർക്കും സ്വാമി ശാശ്വതികാനന്ദക്കും അദ്ദേഹം
+പിന്തുണ നൽകി. 1996-ലെ തെരഞ്ഞെടുപ്പിൽ ലീഡർ തൃശ്ശൂരും മകൻ കോഴിക്കോട്ടും പരാജിതരായി. അവരെന്നെ
+മുന്നിൽനിന്നു് പിന്നിൽനിന്നും കുത്തി എന്നു വിലപിക്കുമ്പോഴും ആന്റണിയും റാവുവും അധികാരഭ്രഷ്ടരായല്ലോ
+എന്നു് സന്തോഷിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. വി. തോമസ്</figDesc>
+          </figure>
+          <p> 1996–2001 കാലത്തു് ഭരണകക്ഷികളെയല്ല നിഷ്ക്രിയമായ പ്രതിപക്ഷത്തെ വിമർശിക്കുന്നതിലായിരുന്നു
+ലീഡർക്കു് കൗതുകം. 1998-ൽ തിരുവനന്തപുരത്തുനിന്നു് ലോകസഭാംഗമായി, 1999-ൽ മുകുന്ദപുരത്തുനിന്നു് വിജയം
+ആവർത്തിച്ചു. അത്തവണ മകനെ കോഴിക്കോട്ടു് നിറുത്തി വിജയിപ്പിച്ചെടുത്തു. വീണ്ടും അനഭിമതനായിത്തീർന്ന
+വയലാർ രവിയെ കെ. പി. സി. സി. പ്രസിഡന്റുപദത്തിൽനിന്നു തള്ളിപ്പുറത്താക്കി. തൽസ്ഥാനത്തു് ഇടക്കാല
+പ്രസിഡന്റായി <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നല
+ബാലകൃഷ്ണപിള്ള</ref> വന്നപ്പോൾ മുരളിയെ ഏക വൈസ് പ്രസിഡന്റാക്കി വാഴിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thennala.jpg" rendition="gra"/>
+            <figDesc style="thumb">തെന്നല ബാലകൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> 2001 ഏപ്രിൽ സ്ഥാനാർഥി നിർണയവേളയിൽ തന്റെ സിൽബന്തികൾ തഴയപ്പെട്ടപ്പോൾ, മകൾക്കു്
+ചാലക്കുടി സീറ്റ് കിട്ടാതെ വന്നപ്പോൾ കരുണാകരൻ പൊട്ടിത്തെറിച്ചു. ഇന്ദിരാഗാന്ധിയുടെ മകന്റെ ഭാര്യയെ
+കഠിനമായി അധിക്ഷേപിക്കാനും മടിച്ചില്ല. മുൻ നിശ്ചയിച്ച സ്ഥാനാർഥികളെ മാറ്റി ആറന്മുളയിലും
+വടക്കേക്കരയിലും പേരാവൂരും തന്റെ വിധേയർക്കു സീറ്റ് കൊടുത്ത ശേഷം മാത്രമേ കാരണവർക്കു്
+കലിയടങ്ങിയുള്ളൂ. എ. ഐ. സി., സി. പ്രസിഡന്റ് അംഗീകരിച്ച സ്ഥാനാർഥി പട്ടികയിൽ മാറ്റം വരുത്തിയ
+ആദ്യസംഭവമാണത്രെ ഇതു്. ഇപ്പോൾ ഹൈക്കമാന്റില്ല, ലോ കമാന്റേയുള്ളു എന്നായിരുന്നു കരുണാകർജിയുടെ
+
+കമന്റ്. മദയാനയെ മയക്കുവെടിവെച്ചു് തളക്കാം മദംകൊണ്ട ലീഡറെ എന്തുചെയ്യും?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Sankaranarayanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ശങ്കരനാരായണൻ</figDesc>
+          </figure>
+          <p> ആന്റണിയുടെ സത്യപ്രതിജ്ഞക്കൊപ്പം മുരളീധരന്റെ അരിയിട്ടുവാഴ്ചയും നടക്കണമെന്നു കരുണാകരൻ
+ശഠിച്ചപ്പോൾ വഴങ്ങുകയല്ലാതെ വഴിയുണ്ടായിരുന്നില്ല കേന്ദ്രനേതൃത്വത്തിനു്. അങ്ങനെ വിജയമൂഹൂർത്തത്തിൽ
+<ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നല
+ബാലകൃഷ്ണപിള്ള</ref> അപമാനിതനായി ഇന്ദിരാഭവന്റെ പടിയിറങ്ങി, മുരളിയായി കെ. പി. സി. സി.-യുടെ
+പുതിയ അമരക്കാരൻ. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+സാധ്യതകൾ തകർത്തു് <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി.
+തോമസി</ref> നെ മന്ത്രിയാക്കുന്നതിലും മകളെ കെ. ടി. ഡി. സി. അധ്യക്ഷയാക്കുന്നതിലും വിജയിച്ചു. മുരളി
+നിർദ്ദേശിച്ച പി. സി. ചാക്കോയുടെ പേരുവെട്ടി പി. പി. തങ്കച്ചനെ കെ. പി. സി. സി. വൈസ്
+പ്രസിഡന്റാക്കിയതിലൂടെ ‘തലയിരിക്കുമ്പോൾ വാലാടണ്ട’ എന്ന തത്ത്വവും സാധൂകരിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AL_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എൽ. ജേക്കബ്</figDesc>
+          </figure>
+          <p> കന്റോൺമെന്റ് ഹൗസിൽ താമസിക്കുന്നതു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനാ</ref>
+ണെങ്കിലും സംസ്ഥാനത്തെ പ്രതിപക്ഷ നേതാവു് കരുണാകരനാണു്. ഒരു പോയിന്റ് കടക്കാൻ ഒന്നര
+മണിക്കുറെടുക്കും അച്യുതാനന്ദൻ. കരുണാകരനാണെങ്കിൽ ഒരു മൂളൽ, ഒരു കള്ളച്ചിരി, കണ്ണിറുക്കൽ ഇത്രയും
+കൊണ്ടു് സർക്കാറിനെ ഊരാക്കുടുക്കിലാക്കും. സർക്കാർ ജീവനക്കാരുടെ സമരം 32 ദിവസം നീണ്ടുനിന്നതു്
+ലീഡറുടെ മാത്രം കഴിവുകൊണ്ടാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_V_Raghavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വി. രാഘവൻ</figDesc>
+          </figure>
+          <p> പ്രായത്തിന്റേതായ പരാധീനതകളുണ്ടു് കാരണവർക്കു്. മനസ്സെത്തുന്നിടത്തു് ശരീരം എത്തുന്നില്ല.
+എന്നിരിക്കലും അങ്കമുറകൊണ്ടോ ആയുധബലത്താലോ കരുണാകരനെ
+തോൽപിക്കാൻ ഒരാളുമില്ല. തന്റെ മക്കളുടെയും ആശ്രിതരുടെയും കാര്യം വരുമ്പോൾ വീറും വാശിയും കൂടുന്നു. <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടംതാണുപിള്ള</ref>
+മുതൽ <ref target="https://en.wikipedia.org/wiki/Satheeshan_Pacheni">പാച്ചേനി
+സതീശൻ</ref> വരെ എത്ര നേതാക്കളുണ്ടായിട്ടുണ്ടു് ഈ കേരളത്തിൽ. കരുണാകരനെപ്പോലുള്ള പ്രതിഭാസ
+വേറെയുണ്ടായിട്ടില്ല. അലങ്കാരം അനന്വയം ഗഗനം ഗഗനം പോലെ. സാഗരം സാഗരോസമം; കരുണാകരനു്
+തുല്യൻ കരുണാകരൻ മാത്രം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KK_Balakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കെ. ബാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> ജീവിച്ചിരിക്കെതന്നെ സ്മാരകമുണ്ടായിട്ടുണ്ടു് കരുണാകരനു്—തൃശ്ശൂരെ കെ. കരുണാകരൻ സപ്തതി
+സ്മാരകമന്ദിരം. കെ. പി. സി. സി. മുൻകൈയെടുത്തു് തൃശ്ശൂരങ്ങാടിയിൽ ലീഡറുടെ പ്രതിമ സ്ഥാപിക്കുമെന്നു
+
+പ്രത്യാശിക്കുക. വൃന്ദാവനം വേണുഗോപാലനും സനിൽ പി.തോമസുമെഴുതിയ ജീവചരിത്രഗ്രന്ഥങ്ങൾ
+വിപണിയിലുണ്ടു്. രണ്ടും നിരാശാജനകം. ഇന്ദ്രനോടൊക്കും ഭവാൻ ചന്ദ്രനോടൊക്കും ഭവാൻ, എന്നമട്ടിലുള്ള
+സ്തുതികളല്ലാതെ അവയിൽ ഒന്നുമില്ല. സനിലിന്റെ ഗ്രന്ഥം മലയാളത്തിലും വേണുഗോപാലന്റേതു്
+മണിപ്രവാളത്തിലുമാണെന്ന വ്യത്യാസമേയുള്ളൂ. കരുണാകരന്റെ സമഗ്രവും സത്യസന്ധവുമായ ജീവചരിത്രം
+ആരെങ്കിലും രചിക്കുന്ന പക്ഷം ചരിത്രരാഷ്ട്രീയ പഠനശാഖകൾക്കു് കനത്ത മുതൽക്കൂട്ടാകും.
+</p>
+          <p>84 വയസ്സാകുമ്പോഴേക്കും ആയിരം പൂർണചന്ദ്രന്മാരെ കാണുന്നു എന്നാണു് സങ്കൽപം.
+ശതാഭിഷിക്തനാകുന്ന കരുണാകരനെ അഭിനന്ദിക്കുക. അതോടൊപ്പം അദ്ദേഹത്തെ കാണാൻ ഭാഗ്യമുണ്ടായ
+പൂർണചന്ദ്രന്മാരോടു് അസൂയപ്പെടുകയും ചെയ്യുക.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Karunakarante Sathabhishekam
+(ml: കരുണാകരന്റെ ശതാഭിഷേകം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Karunakarante Sathabhishekam, കെ. രാജേശ്വരി, കരുണാകരന്റെ ശതാഭിഷേകം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 17, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Wouwerman,_Philips__Halt_of_Travellers_-_Google_Art_Project.jpg">Halt of Travellers,</ref> a painting
+by Wouwerman, Philips  (1619–1668). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswarisathabhishekam.xml">Download document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswarisathabhishekam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

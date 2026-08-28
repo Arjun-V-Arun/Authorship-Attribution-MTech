@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഹോസെ മാർട്ടി: ക്യൂബൻ സ്വപ്നത്തിന്റെ
+രചയിതാവു്</title>
+          <title xml:lang="en" type="main">José Martí: Cuban Swapnathinte
+Rachayithavu</title>
+        </title>
+        <author>Paul Zacharia</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 11, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഹോസെ മാർട്ടി: ക്യൂബൻ സ്വപ്നത്തിന്റെ
+
+രചയിതാവു്</title>
+              <title xml:lang="en" type="main">José Martí: Cuban Swapnathinte
+Rachayithavu</title>
+            </title>
+            <author>Paul Zacharia</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-07-17</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Poem</term>
+          <term>Paul Zacharia</term>
+          <term>José Martí: Cuban Swapnathinte Rachayithavu</term>
+          <term>സക്കറിയ</term>
+          <term>ഹോസെ മാർട്ടി: ക്യൂബൻ സ്വപ്നത്തിന്റെ രചയിതാവു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-07-17</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Jose_Marti_Cuba.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Memorial_Jos%C3%A9_Mart%C3%AD,_Cuba.jpg">Estatue
+of Jose Marti in Havana, Cuba,</ref> a photograph by Jorge G. Treche  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഹോസെ മാർട്ടി: ക്യൂബൻ സ്വപ്നത്തിന്റെ രചയിതാവു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സക്കറിയ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഹോസെ മാർട്ടി:
+ക്യൂബൻ സ്വപ്നത്തിന്റെ രചയിതാവു്</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gre">
+            <graphic url="images/zacharia-marti-02.jpg" width="199.16928pt" rendition="gre"/>
+            <figDesc style="thumb">ഹവാന പത്രപ്രവർത്തക യൂണിയന്റെ മുറ്റത്തെ ഹോസെ മാർട്ടി
+പ്രതിമ.</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p><ref target="https://en.wikipedia.org/wiki/Fidel_Castro">ഫിദൽ
+കാസ്ട്രോ</ref> മാത്രമാണു് ക്യൂബക്കാരുടെ (‘കൂവ’ എന്നാണു് അവർ പറയുക.) ആരാധനാമൂർത്തി
+എന്നായിരുന്നു എന്റെറ മുൻവിധി. പക്ഷേ, ക്യൂബയിലെത്തുമ്പോൾ മറ്റു് രണ്ടു് വ്യക്തികളുടെസാന്നിധ്യമാണു്
+ചിത്രങ്ങളിലൂടെയും പ്രതിമകളിലൂടെയും പലവിധ നാമകരണങ്ങളിലൂടെയും അവിടെ നിറഞ്ഞുനിൽക്കുന്നതു് എന്നു്
+നമുക്കു് മനസ്സിലാകുന്നു; ഹോസെ മാർട്ടിയും (Jose Marti) <ref target="https://en.wikipedia.org/wiki/Che_Guevara">ചെ ഗുവേര</ref> യും. കഴിഞ്ഞ
+മാർച്ചിൽ കൊടുങ്ങല്ലൂരിലെ എന്റെ സുഹൃത്തു് അബ്ദുൾ ഗഫൂറും ഞാനും ഹവാനയിൽനിന്നു് ക്യൂബയുടെ തെക്കും
+വടക്കും അറ്റങ്ങളിലേക്കു് ബസിൽ പോയപ്പോഴാണു് മാർട്ടിയും ചെയും എത്രമാത്രം സർവവ്യാപികളാണെന്നു്
+മനസ്സിലായതു്.</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/zacharia-marti-06.jpg" rendition="gra"/>
+            <figDesc style="thumb">സാന്റാ ക്ലാര നഗരത്തിൽ
+ചെ സ്മാരകം.</figDesc>
+          </figure>
+          <p> മാർട്ടിയാണു് ഒരുപക്ഷേ, ഒന്നാം സ്ഥാനത്തു്. ചെയും തൂണിലും തുരുമ്പിലും നിറഞ്ഞുനിൽക്കുന്നു.
+കാസ്ട്രോയുടെ പരസ്യപ്പലകകൾ അങ്ങുമിങ്ങുമുണ്ടു്. പക്ഷേ, വിരളമാണു്. അദ്ദേഹം തന്റെ
+പ്രതിച്ഛായാപ്രചാരണംവിലക്കിയിരുന്നു എന്നാണറിവു്: ജനജീവിതത്തിൽ—കപ്പിലും പ്ലേറ്റിലും പേനയിലും
+തൊപ്പിയിലും ടി-ഷർട്ടിലും കുടയിലുമെല്ലാം—നിറഞ്ഞുനിൽക്കുന്നതു് മാർട്ടിയും ചെയുമാണു്. ഹോസെമാർട്ടിയെ
+ക്യൂബക്കാർ ഒരുസുഹൃത്തിനെയോ കുടുംബാംഗത്തെയോ എന്നപോലെയാണു് കാണുന്നതു്. നാം
+ഗാന്ധിജിയെയെന്നപോലെ, ഓരോരുത്തരും അവരവരുടെ ഭാവനാവിലാസമനുസരിച്ചു് മാർട്ടിയെ
+ചിത്രീകരിക്കുന്നു. ഉദാഹരണമായി ഹവാനയിലെ പത്രപ്രവർത്തക യൂണിയന്റെ ഓഫീസ് മുറ്റത്തു് വെച്ചിരിക്കുന്നതു്
+ഒരു പ്രത്യേകരീതിയിൽ കിടന്നുകൊണ്ടിരിക്കുന്ന ഹോസെ മാർട്ടിയുടെ പ്രതിമയാണു്. ഹവാനയുടെ കൂറ്റൻ
+മറീനയായ മലെക്കോണിൽ ഒരു മാർട്ടി ഇൻസ്റ്റലേഷൻ ഉണ്ടു്. അതിന്റെ കണ്ണട ആളുകൾ സ്ഥിരം
+അടിച്ചുമാറ്റുമായിരുന്നത്രെ. കണ്ണടയില്ലാതെയാണു് ഇപ്പോൾ രൂപം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/zacharia-marti-n-04.jpg" rendition="gra"/>
+            <figDesc style="thumb">ട്രിനിഡാഡ് നഗരത്തിലെ ചായക്കട.</figDesc>
+          </figure>
+          <p> ആരായിരുന്നു ഹോസെ മാർട്ടി? 19-ാം നൂറ്റാണ്ടിന്റെ മധ്യഘട്ടത്തിൽ, 1853-ൽ അന്നു് സ്പെയിനിന്റെ
+കോളനിയായിരുന്ന ക്യൂബയിൽ ജനിച്ച മാർട്ടിക്കു് ഒരൊറ്റ സ്വപ്നമേയുണ്ടായിരുന്നുള്ളൂ; സ്വതന്ത്ര ക്യൂബ. 42-ാം
+വയസ്സിൽ അവസാനിച്ച തന്റെ ഹ്രസ്വജീവിതം പൂർണമായും അദ്ദേഹം ക്യൂബൻ സ്വാതന്ത്ര്യത്തിനും ഒരു തനതായ
+ക്യൂബൻ രാഷ്ട്രീയ-സാംസ്കാരിക സ്വത്വരൂപവത്കരണത്തിനും വേണ്ടി ഉഴിഞ്ഞുവെച്ചു. ക്യൂബ കഴിഞ്ഞാൽ മാർട്ടി
+
+സ്നേഹിച്ചതു് കവിതയെയാണു്. മാർട്ടിയുടെ കവിതകൾ ഇന്നു് വായിക്കുമ്പോൾ <ref target="https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez">മാർക്കേസി</ref>
+നെപ്പോലെയുള്ള ലാറ്റിനമേരിക്കൻ ആധുനികരിൽ പ്രകാശിക്കുന്ന സവിശേഷ ഭാവനയുടെ ഉദയകിരണങ്ങൾ
+അവിടെക്കാണാം.
+</p>
+          <p>ഹവാനയിൽ ഒരു സ്കൂൾ വിദ്യാർഥിയായിരിക്കുമ്പോൾ തന്നെ സ്പാനിഷ് അധീശത്വത്തിനെതിരേ പ്രവർത്തിച്ചു
+തുടങ്ങിയ മാർട്ടിയെ 1869-ൽ, 16-ാം വയസ്സിൽ, രാജ്യദ്രോഹക്കുറ്റം ചുമത്തി സ്പെയിനിലേക്കു് നാടുകടത്തി. അടുത്ത
+2 വർഷങ്ങൾ അദ്ദേഹം സ്പെയിനിലും മെക്സിക്കോയിലും കരാക്കസിലും വെനസ്വേലയിലും അമേരിക്കയിലും
+നിഷ്കാസിതനായി അലഞ്ഞുകൊണ്ടു് ക്യൂബൻസ്വാതന്ത്ര്യത്തിനുവേണ്ടി പ്രക്ഷോഭം നടത്തി. ക്യൂബൻ പ്രവാസികളെ
+സംഘടിപ്പിച്ചു. രാഷ്ട്രീയ ചിന്തകനും പത്രപ്രവർത്തകനും അധ്യാപകനും പ്രഭാഷകനും കോളമിസ്റ്റും
+വിപ്ലവകാരിയുമായി സ്വതന്ത്രക്യൂബയ്ക്കുവേണ്ടി പൊരുതി. അമേരിക്കൻ മുതലാളിത്തം ക്യൂബയെ വിഴുങ്ങും എന്നു്
+ആദ്യമായി തുറന്നുപ്രവചിച്ചതു് മാർട്ടിയാണു്. മാർട്ടി അമേരിക്കയെപ്പറ്റി എഴുതിയ പുസ്തകമാണു് ഇൻസൈഡ് ദ്
+മോൺസ്റ്റർ (ഭീകരസത്വത്തിനുള്ളിൽ). 1895-ൽ മാർട്ടിയും ഒരു പറ്റം സായുധവിപ്ലവകാരികളും അമേരിക്കൻ
+തീരത്തുനിന്നു് ഒരു ബോട്ടിൽ സ്വാതന്ത്ര്യപോരാട്ടം തുടങ്ങാൻ ക്യൂബയിലെത്തിയതിന്റെ ഏതാണ്ടു് കൃത്യമായ
+ആവർത്തനമായിരുന്നു 64 വർഷത്തിനു ശേഷം 1959-ൽ ഫിദൽ കാസ്ട്രോയും ചെഗുവേരയും ഒരുകൂട്ടം
+ഒളിപ്പോരാളികളുമായി അമേരിക്കയിൽനിന്നു് ‘ഗ്രാൻമ’എന്ന</p>
+          <figure rend="fright" type="gre">
+            <graphic url="images/zacharia-marti-01.jpg" width="199.16928pt" rendition="gre"/>
+            <figDesc style="thumb">സക്കറിയ, മലയാളിയായ അനന്തകൃഷ്ണൻ, കലാകാരനായ ക്ലോഡിയോ,
+ഗഫൂർ എന്നിവർ ഹവാനയിൽ.</figDesc>
+          </figure>
+          <p> ബോട്ടിൽ ക്യൂബയിൽ വന്നിറങ്ങിയതു്. ഒരു വ്യത്യാസമേ ഉണ്ടായിരുന്നുള്ളൂ. മാർട്ടിയുടെ പടയോട്ടം
+പരാജയത്തിലും അദ്ദേഹത്തിന്റെ മരണത്തിലും കലാശിച്ചു. 1959-ലെ ചരിത്രപ്രസിദ്ധമായ വിപ്ലവത്തിൽ വിജയം
+നേടിയ ഫിഡലും ചെയും കൂട്ടാളികളുമാണു് മാർട്ടിയുടെ സ്വതന്ത്ര ക്യൂബ എന്ന
+സ്വപ്നത്തെയാഥാർത്ഥ്യമാക്കിത്തീർത്തതു്. 1895-ൽ മാർട്ടി തുടങ്ങിവെച്ച സ്വാതന്ത്ര്യ സമരം വളർന്നു് 1898-ൽ
+അമേരിക്കയുടെ ഇടപെടലിലേക്കും അമേരിക്കയും സ്പെയിനും തമ്മിലുള്ള യുദ്ധത്തിലേക്കും നയിച്ചു. പരാജയപ്പെട്ട
+സ്പെയിൻ ക്യൂബയിൽനിന്നു് മാത്രമല്ല ലത്തീനമേരിക്കയിൽനിന്നുതന്നെ പിൻവാങ്ങി. ക്യൂബ, മാർട്ടി
+ഭയപ്പെട്ടിരുന്നതുപോലെ അമേരിക്കയുടെ കോളനിയായി മാറി—അപ്രഖ്യാപിതമായിരുന്നുവെന്നു മാത്രം.
+അക്കാലത്തു് അമേരിക്ക സ്വന്തമാക്കിയ തുറമുഖ മേഖലയാണു് അമേരിക്കൻ പീഡന കാരാഗൃഹമായി
+കുപ്രസിദ്ധിയാർജിച്ച നേവൽ ബേസ് ഗ്വണ്ടാനമോ ബേ. 1933-ൽ ഒരുപട്ടാളവിപ്ലവത്തിലൂടെ
+ക്യൂബൻരാഷ്ട്രീയത്തിൽ പ്രവേശിച്ച ഫു ഹെൻസിയൊ ബാത്തിസ്ത പല തിരിമറികൾക്കും മലക്കംമറിച്ചിലുകൾക്കും
+അമേരിക്കയിലൊരു പ്രവാസത്തിനും ശേഷം 1952-ൽ മറ്റൊരു പട്ടാളവിപ്ലവത്തിലൂടെ സ്വയം പ്രസിഡൻറായി
+അവരോധിച്ചു. ഒരു സ്വേച്ഛാധിപതിയും അമേരിക്കയുടെ യന്ത്രപ്പാവയുമായി മാറി. 1959-ൽ ഫിഡലും കൂട്ടരും
+നിഷ്കാസനം ചെയ്തതു് ബാത്തിസ്തയെ മാത്രമല്ല, ക്യൂബയിലെ അമേരിക്കൻ പ്രമാണിത്തത്തെയുമായിരുന്നു. അതു്
+അമേരിക്കയ്ക്കു് പൊറുക്കാനായില്ല എന്നതാണു് ക്യൂബയോടുള്ള അമേരിക്കൻ ശത്രുതയുടെ തുടക്കം.
+</p>
+          <figure rend="fright" type="gre">
+            <graphic url="images/zacharia-marti-10.jpg" width="199.16928pt" rendition="gre"/>
+            <figDesc style="thumb">സാന്റിയാഗോ ഡി ക്യൂബ നഗരത്തിൽ പഴയ ബക്കാർഡി ഫാക്റ്ററി, ഇപ്പോൾ
+മ്യൂസിയമാണു്.</figDesc>
+          </figure>
+          <p>1895 മേയ് 19-നു് സ്പാനിഷ് ഭടന്മാരുടെ വെടിയേറ്റു മരിക്കുമ്പോൾ മാർട്ടിയ്ക്കു് വയസ്സ് 42. സ്പാനിഷ് പടയുടെ
+ശക്തി മനസ്സിലാക്കി വിപ്ലവകാരികളുടെ സേന പിൻമാറവേ, സായുധയുദ്ധത്തിൽ മുമ്പൊരിക്കലും
+പങ്കെടുത്തിട്ടില്ലാത്ത മാർട്ടിയുടെ അശ്രദ്ധമായ ഒരു നീക്കമാണത്രേ അദ്ദേഹത്തിനു്
+വെടിയേൽക്കാനിടയാക്കിയതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/zacharia-marti-n-01.jpg" rendition="gra"/>
+            <figDesc style="thumb">ട്രിനിഡാഡ് നഗരത്തിൽ പഴക്കച്ചവടം.</figDesc>
+          </figure>
+          <p> മാർട്ടി എന്ന ബുദ്ധിജീവിയും കാല്പനികനും കവിയും യുദ്ധക്കളങ്ങൾക്കു് യോജിച്ച ആളായിരുന്നില്ല എന്നു
+വേണം കരുതാൻ. ചിത്രങ്ങളിൽ കാണും പോലെ അദ്ദേഹം തന്റെ മെലിഞ്ഞൊട്ടിയ സ്വപ്നാടകന്റെ മുഖത്തെ
+കട്ടമീശകൊണ്ടു് വിപ്ലവഗാംഭീര്യമുള്ളതാക്കിയെടുത്തതായിരുന്നിരിക്കാം! തൂലികയുപേക്ഷിച്ചു് പടവാളെടുത്ത മാർട്ടി
+താൻ തുടങ്ങിവെച്ച സമരത്തിന്റെ എട്ടാം ദിവസം മരിച്ചുവിണു. ക്യൂബക്കാർ പ്രേമിക്കുന്നതു് മാർട്ടിയിലെ
+പരാജിതനും ദുർബലനുമായ ഈ വിപ്ലവകാരിയെയാണു് എന്നെനിക്കു് തോന്നി. കാരണം അവർ സ്വയം
+മൃദുലഹൃദയരും സമാധാനപ്രിയരുമാണു്. ക്യൂബക്കാരുടെ പ്രിയങ്കര ദേശസ്നേഹ ഗാനമായ (ദേശീയഗാനമല്ല)
+‘<ref target="https://www.youtube.com/watch?v=CfhMSgvsTCY">ഗ്വണ്ടാനമെരാ…’
+(Guantanamera)</ref> ആരംഭിക്കുന്നതു് മാർട്ടിയുടെ പ്രശസ്തമായ ഒരു കവിതയുടെ
+ആരംഭവരികളോടെയാണു്; “ഒരു ആത്മാർഥ മനുഷ്യനാണു് ഞാൻ… ”
+</p>
+          <figure rend="fleft" type="gre">
+            <graphic url="images/zacharia-marti-n-02.jpg" width="199.16928pt" rendition="gre"/>
+            <figDesc style="thumb">ട്രിനിഡാഡിൽ ഒരു നൈറ്റ് ക്ലബ്ബ്.</figDesc>
+          </figure>
+          <p>(ലോക പ്രശസ്തരായ ഗായകർ പലവിധത്തിൽ ചിട്ടപ്പെടുത്തി പാടിയിട്ടുള്ള ഗാനമാണിതു്. യൂ-ട്യൂബിൽ
+അവയിൽ ചിലതു് കേൾക്കാം. ‘ഗ്വണ്ടാനമെരാ’ എന്നാൽ ഗ്വണ്ടാനമോയിൽ നിന്നുള്ള പെൺകുട്ടി എന്നർഥം).
+</p>
+          <p>മാർട്ടിയുടെ സമ്പൂർണ രചനകൾ 26 വോള ്യങ്ങളിൽ പരന്നു കിടക്കുന്നു. അദ്ദേഹത്തിന്റെ ചിന്താശൈലി
+രുചിക്കാനായിമാത്രം, മൂലഭാഷയായ സ്പാനിഷിൽ നിന്നല്ല, ഇംഗ്ലീഷ് വിവർത്തനത്തിൽനിന്നു്,
+മലയാളത്തിലേക്കാക്കിയ കുറച്ചു് വരികൾ താഴെ കൊടുക്കുന്നു;
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/zacharia-marti-n-03.jpg" width="199.16928pt" rendition="gre"/>
+            <figDesc style="thumb">ഹവാനയിൽ ഒരു വഴിയോര കൂട്ടായ്മ.</figDesc>
+          </figure>
+          <lg>
+            <l> “ക്യൂബ നമ്മുടെ ജീവിതങ്ങൾ </l>
+            <l> അർപ്പിക്കാനുള്ള അൾത്താരയാണു്; </l>
+            <l> നമ്മെ ഉയർത്തിനിർത്താനുള്ള പീഠമല്ല”.
+(1981)</l>
+            <l> “മറ്റൊരു പദത്തിനും ഉദയസൂര്യവെളിച്ചത്തോടു് </l>
+            <l> ഇത്രസാദൃശ്യമില്ല. </l>
+            <l> മറ്റൊരു സമാശ്വാസവും ഇതിലേറെ ആനന്ദത്തോടെ </l>
+            <l> നമ്മുടെ ഹൃദയങ്ങളിലേക്കു് കടന്നുവരുന്നില്ല. </l>
+            <l> മായ്ക്കാനാവാത്ത, തീവ്രതപൂണ്ട </l>
+            <l> ആ പദമാണു് ക്യൂബൻ”.
+(1891)</l>
+            <l> “സംസ്കാരം നേടിയവരും നേടാത്തവരുമുള്ള </l>
+            <l> ഒരു രാഷ്ട്രത്തിൽ ഭരിക്കുക </l>
+            <l> സംസ്കാരം നേടാത്തവരായിരിക്കും. </l>
+            <l> കാരണം സംസ്കാരമുള്ളവർ </l>
+            <l> സദ്ഭരണം നടപ്പിലാക്കാതെ </l>
+            <l> വരുമ്പോൾ മുഷ്ടിബലമുപയോഗിച്ചു് </l>
+            <l> പ്രശ്നപരിഹാരം ഉണ്ടാക്കുക</l>
+            <l> സംസ്കാരമില്ലാത്തവരുടെ രീതിയാണു്”.
+(1891)</l>
+            <l> “സ്വന്തം രാജ്യത്തെ സന്തോഷമായി </l>
+            <l> ജീവിക്കാനുതകിയ ഒരിടമാക്കിമാറ്റാൻ വേണ്ടി </l>
+            <l> പോരാടുമ്പോഴാണു് രാജ്യസ്നേഹം</l>
+            <l> ഒരു പാവന കർത്തവ്യമായിത്തീരുന്നതു് </l>
+            <l> ചിലർ സ്വന്തം അവകാശങ്ങൾക്കുവേണ്ടി </l>
+            <l> പൊരുതുകയും മറ്റുള്ളവരുടടേതിനുവേണ്ടി</l>
+            <l> പൊരുതാൻ വിസമ്മതിക്കുകയും ചെയ്യുന്ന കാഴ്ച </l>
+            <l> ഏറ്റവും വേദനാജനകമാണു്”.
+(1892)</l>
+            <l> “നൂറ്റാണ്ടിനെ പാകപ്പെടുത്താൻ</l>
+            <l> ഒരു തരി കവിത മതി”.
+(1887)</l>
+            <l> “ദൈവ പുരോഹിതർ കവികളുടെ </l>
+            <l> പ്രശംസയർഹിക്കാതായിരിക്കുകയും </l>
+            <l> കവികൾ പുരോഹിതരാകാൻ</l>
+            <l> തുടങ്ങിയിട്ടില്ലാത്തതുമായ</l>
+            <l> വല്ലാത്ത കാലം”.
+(1883)</l>
+            <l> “മറ്റുള്ളവർ വെപ്പാട്ടിമാരോടൊത്തു് </l>
+            <l> ഉറങ്ങാൻ പോകുന്നു. </l>
+            <l> ഞാൻ എന്റെ ആശയങ്ങളോടൊത്തും”.
+(1890)</l>
+            <l> “നീഗ്രോയെ വെറുക്കുന്നവരാണു് </l>
+            <l> നീഗ്രോയിൽ വെറുപ്പു് കാണുന്നതു്”.<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref>
+(1895)</l>
+            <l> “വംശങ്ങൾക്കിടയിൽ ശത്രുതയും</l>
+            <l> വിദ്വേഷവും വളർത്തുന്നവർ</l>
+            <l> മനുഷ്യവംശത്തിനെതിരെ പാപം ചെയ്യുന്നു.”</l>
+            <l> “ഒരേയൊരു സാഹിത്യത്തിന്റെ</l>
+            <l> സ്വേച്ഛാധിപത്യത്തിൽ നിന്നു</l>
+            <l> രക്ഷപ്പെടാനുള്ള ഏറ്റവും നല്ലമാർഗ്ഗം </l>
+            <l> പല സാഹിത്യങ്ങൾ അറിയുകയാണു്”.
+(1891).</l>
+            <l> “ആ വംശത്തിലോ ഈ വംശത്തിലോ</l>
+            <l> ജനിച്ചതുകൊണ്ടു് ആർക്കും ഒരു പ്രത്യേക </l>
+            <l> അവകാശവുമില്ല. മനുഷ്യൻ എന്ന പദം, </l>
+            <l> എല്ലാ അവകാശങ്ങളെയും നിർവചിക്കുന്നു”.
+(1893) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/zacharia-marti-05.jpg" width="199.16928pt" rendition="gre"/>
+            <figDesc style="thumb">ഹവാനയിൽ യുവതികളുടെ തെരുവു് സംഗീത സംഘം.</figDesc>
+          </figure>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+      <div type="lchapter" xml:id="lchp2">
+        <head type="lchaphead">കവിതകൾ: ഹോസെ മാർട്ടി</head>
+        <div type="lsection">
+          <p style="noindent">(മാർട്ടിയുടെ സ്പാനിഷ് മൂലവും അതിന്റെ ഇംഗ്ലീഷ് വിവർത്തനങ്ങളും ഗുഗ്ൾ
+ട്രാൻസ്ലേറ്റും ഉപയോഗിച്ചാണു് ഈ ഗദ്യപരിഭാഷ നടത്തിയതു്. ഒരു കഥാകൃത്തിന്റെ അവിദഗ്ദ്ധ കരങ്ങളിൽപ്പെട്ടു്
+ഇതിൽ വന്നിരിക്കാവുന്ന പിഴവുകൾക്കു് ഞാൻ മാത്രമാണു് ഉത്തരവാദി).
+</p>
+          <p>വിവർത്തനം: സക്കറിയ
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/zacharia-marti-07.jpg" width="199.16928pt" rendition="gre"/>
+            <figDesc style="thumb">സാന്റാ ക്ലാരയിൽ ചെയുടെ വഴിവക്കിലെ പ്രതിമ.</figDesc>
+          </figure>
+        </div>
+        <!--end of "section 0.0/2.1"-->
+        <div type="lsection" xml:id="sec2.2">
+          <head type="lsechead">ഒരാത്മാർഥ മനുഷ്യനാണു് ഞാൻ</head>
+          <lg>
+            <l> പനകൾ വളരുന്ന നാട്ടിൽ നിന്നു്,<ref xml:id="xfn2" target="#fn2" type="noteAnchor">[2]</ref> </l>
+            <l> മരിക്കുംമുൻപു് എന്റെ ആത്മാവിന്റെ കവിതകളെ</l>
+            <l> ഏല്പിച്ചുകൊടുക്കാൻ ഞാനാഗ്രഹിക്കുന്ന</l>
+            <l> നാട്ടിൽ നിന്നു്,</l>
+            <l> വന്ന ഒരാത്മാർഥ മനുഷ്യനാണു് ഞാൻ.<ref xml:id="xfn3" target="#fn3" type="noteAnchor">[3]</ref> </l>
+          </lg>
+          <lg>
+            <l> ഞാൻ എല്ലായിടത്തുനിന്നും വന്നവനാണു്; </l>
+            <l> എല്ലായിടത്തും പോകുന്നവനും.</l>
+            <l> കലകൾക്കിടയിൽ ഞാൻ കലയാണു്; </l>
+            <l> മലകൾക്കിടയിൽ മലയും,</l>
+          </lg>
+          <lg>
+            <l> ചെടികളുടെയും പൂക്കളുടെയും</l>
+            <l> വിചിത്ര നാമങ്ങൾ എനിക്കറിയാം</l>
+            <l> മാരകവഞ്ചനകളെയറിയാം</l>
+            <l> ഉദാത്ത ദുഃഖങ്ങളെയുമറിയാം</l>
+          </lg>
+          <lg>
+            <l> ഇരുണ്ട രാത്രിയിൽ</l>
+            <l> സ്വർഗീയ സൗന്ദര്യത്തിന്റെ പരിശുദ്ധ രശ്മികൾ</l>
+            <l> എന്റെ ശിരസ്സിൽ വന്നു പതിക്കുന്നതു് </l>
+            <l> ഞാൻ കണ്ടിട്ടുണ്ടു്. </l>
+          </lg>
+          <lg>
+            <l> സുന്ദരികളുടെ തോളുകളിൽ നിന്നു് </l>
+            <l> ചിറകുകൾ മുളയ്ക്കുന്നതു് ഞാൻ കണ്ടിട്ടുണ്ടു്. </l>
+            <l> ചവർക്കൂനയിൽനിന്നു് ചിത്രശലഭങ്ങൾ</l>
+            <l> പറന്നുയരുന്നതും കണ്ടിട്ടുണ്ടു്. </l>
+          </lg>
+          <lg>
+            <l> അരികിൽ വെച്ച കത്തിയുമായി</l>
+            <l> ജീവിക്കുന്ന ഒരു മനുഷ്യനെ ഞാൻ കണ്ടിട്ടുണ്ടു്,</l>
+            <l> തന്നെ വധിച്ചവളുടെ പേർ</l>
+            <l> ഒരിക്കലും പറയാതെ.</l>
+          </lg>
+          <lg>
+            <l> ഝടുതിയിൽ, കണ്ണാടിയിൽ കാണുംപോലെ,</l>
+            <l> രണ്ടുതവണ ഞാൻ</l>
+            <l> എന്റെ ആത്മാവിനെ കണ്ടു.</l>
+            <l> രണ്ടുതവണ: എന്റെ പാവം</l>
+            <l> അപ്പൻ മരിച്ചപ്പോൾ;</l>
+            <l> പിന്നെ അവൾ വിടപറഞ്ഞപ്പോഴും.</l>
+          </lg>
+          <lg>
+            <l> ഒരിക്കൽ ഞാൻ വിറച്ചു;</l>
+            <l> മുന്തിരിത്തോപ്പിന്റെ കവാടത്തിൽ വച്ചു്</l>
+            <l> അക്രമിയായൊരു കടന്നൽ</l>
+            <l> എന്റെ കുഞ്ഞുമകളുടെ നെറ്റിയിൽ</l>
+            <l> കുത്തിയപ്പോൾ.</l>
+          </lg>
+          <lg>
+            <l> ആരും അനുഭവിക്കാത്ത</l>
+            <l> ഒരുസൗഭാഗ്യം എനിക്കു് ലഭിച്ചു;</l>
+            <l> എന്റെ വധശിക്ഷാവിധി</l>
+            <l> നഗരപിതാവ് കരഞ്ഞുകൊണ്ടു്</l>
+            <l> എന്നെ വായിച്ചു കേൾപ്പിച്ചപ്പോൾ.</l>
+          </lg>
+          <lg>
+            <l> ദേശങ്ങൾക്കും കടലിനും മീതെ</l>
+            <l> ഞാനൊരു നെടുവീർപ്പു് കേൾക്കുന്നു.</l>
+            <l> അതൊരു നെടുവീർപ്പല്ല—എന്റെ</l>
+            <l> മകൻ ഉണരാൻ തുടങ്ങുന്നതാണു്. </l>
+          </lg>
+          <lg>
+            <l> രത്നവ്യാപാരിയിൽനിന്നു്, </l>
+            <l> ഏറ്റവും നല്ലരത്നം കൈക്കൊള്ളാൻ </l>
+            <l> പറഞ്ഞാൽപ്പോലും,</l>
+            <l> പകരം ഞാനെടുക്കുക</l>
+            <l> ഒരാത്മാർഥ സുഹൃത്തിനെയാണു്. </l>
+            <l> എന്റെ സ്നേഹം അവനായി</l>
+            <l> മാറ്റിവെക്കുകയും ചെയ്യും.</l>
+          </lg>
+          <lg>
+            <l> മുറിവേറ്റ കഴുകൻ</l>
+            <l> പ്രശാന്ത നീലാകാശത്തിലേക്കു് പറക്കുന്നതു് </l>
+            <l> ഞാൻ കണ്ടിട്ടുണ്ടു്. </l>
+            <l> വിഷപ്പാമ്പു് അതിന്റെ മാളത്തിൽ</l>
+            <l> മരിക്കുന്നതും കണ്ടിട്ടുണ്ടു്. </l>
+          </lg>
+          <lg>
+            <l> എനിക്കറിയാം—ലോകം ക്ഷീണിതമായി</l>
+            <l> നിശ്ചലതയ്ക്കു് വഴങ്ങുമ്പോൾ</l>
+            <l> സൗമ്യമായ അരുവി അഗാധനിശ്ശബ്ദതയുടെ മർമരം</l>
+            <l> ഉയർത്തുന്നതു് കേൾക്കാനാവും.</l>
+          </lg>
+          <lg>
+            <l> എന്റെ വാതിൽക്കൽ പതിച്ച</l>
+            <l> മൃതിയടഞ്ഞ നക്ഷത്രത്തെ</l>
+            <l> പേടിച്ചും ആനന്ദിച്ചും</l>
+            <l> ധൈര്യം പൂണ്ട ഒരു കരത്താൽ</l>
+            <l> ഞാൻ തൊട്ടിട്ടുണ്ടു്. </l>
+          </lg>
+          <lg>
+            <l> എന്റെ രുദ്രമായ ഹൃദയത്തിൽ</l>
+            <l> വിങ്ങുന്ന വേദനയെ ഒളിപ്പിച്ചിട്ടുണ്ടു്.</l>
+            <l> അടിമപ്പെട്ട ഒരു ജനതയുടെ</l>
+            <l> ഈമകൻ അതുമായി,</l>
+            <l> നിശ്ചലനായി, മരിച്ചവനായി ജീവിക്കുന്നു.</l>
+          </lg>
+          <lg>
+            <l> എല്ലാം സുന്ദരവും സുസ്ഥിരവുമാണു്. </l>
+            <l> എല്ലാം സംഗീതവും സമചിത്തതയുമാണു്. </l>
+            <l> എല്ലാം, രത്നക്കല്ലിനെപ്പോലെ,</l>
+            <l> പ്രകാശിക്കുംമുമ്പു് കരിക്കട്ടയുമാണു്; </l>
+          </lg>
+          <lg>
+            <l> വിഡ്ഡിയെ സംസ്കരിക്കുന്നതു് </l>
+            <l> വൻ ആഡംബരത്തോടെയും</l>
+            <l> വിലാപത്തോടെയുമാണെന്നു് </l>
+            <l> എനിക്കറിയാം;</l>
+            <l> ലോകത്തിലെ ഒരു പഴവും</l>
+            <l> ശവപ്പറമ്പിലേതിനോടു് ഒക്കില്ല</l>
+            <l> എന്നും.</l>
+          </lg>
+          <lg>
+            <l> ഞാൻ നിർത്തുന്നു; ഞാൻ</l>
+            <l> മനസ്സിലാക്കുന്നു;</l>
+            <l> ഞാൻ കവിയുടെ മോടികൾ</l>
+            <l> എടുത്തുകളയുന്നു.</l>
+            <l> എന്റെ ജ്ഞാനത്തിന്റെ തൊപ്പി</l>
+            <l> ഒരു ഉണക്കമരക്കമ്പിൽ തൂക്കിയിടുന്നു.</l>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <p>(Versos Sencillos, Simple Verses, 1891)
+</p>
+        </div>
+        <!--end of "section 0.0/2.2"-->
+        <div type="lsection" xml:id="sec2.3">
+          <head type="lsechead">വെണ്ണക്കൽ ഇടനാഴികൾ</head>
+          <lg>
+            <l> വെണ്ണക്കൽ ഇടനാഴികളെപ്പറ്റി</l>
+            <l> ഒരു സ്വപ്നം!</l>
+            <l> അവിടെ ദൈവീക നിശ്ശബ്ദതയിൽ</l>
+            <l> വീരനായകന്മാർ വിശ്രമം കൊള്ളുന്നു.</l>
+            <l> രാത്രിയിൽ ആത്മാവിന്റെ വെളിച്ചത്തിൽ</l>
+            <l> ഞാനവരോടു് സംസാരിക്കുന്നു.</l>
+            <l> രാത്രിയിൽ!</l>
+          </lg>
+          <lg>
+            <l> അവർ വരികളായി നിൽക്കുകയാണു്. </l>
+            <l> വരികൾക്കിടയിലൂടെ നടക്കാം.</l>
+            <l> കല്ലുകൊണ്ടുള്ള കൈകളെ ചുംബിക്കാം</l>
+            <l> അവർ അവരുടെ</l>
+            <l> കൽക്കണ്ണുകൾ തുറക്കുന്നു.</l>
+            <l> കൽച്ചുണ്ടുകൾ അനക്കുന്നു.</l>
+            <l> കൽത്താടികൾ വിറപ്പിയ്ക്കുന്നു.</l>
+            <l> അവർ കൽവാളുകളിൽ പിടിമുറുക്കുന്നു.</l>
+            <l> അവർ കരയുന്നു.</l>
+            <l> വാളുകൾ ഉറകളിൽ സ്പന്ദിക്കുന്നു.</l>
+            <l> നിശ്ശബ്ദം, ഞാനവരുടെ</l>
+            <l> കൈകളെ ചുംബിക്കുന്നു.</l>
+          </lg>
+          <lg>
+            <l> ഞാനവരോടു് സംസാരിക്കുന്നു</l>
+            <l> രാത്രിയിൽ!</l>
+            <l> അവർ വരികളായി നിൽക്കുകയാണു്. </l>
+            <l> വരികൾക്കിടയിലൂടെ നടക്കാം.</l>
+          </lg>
+          <lg>
+            <l> കരഞ്ഞുകൊണ്ട്</l>
+            <l> ഞാനൊരു പ്രതിമയെ കെട്ടിപ്പിടിച്ചു.</l>
+            <l> “പ്രതിമേ! അവർ പറയുന്നത്</l>
+            <l> നിന്റെ പുത്രന്മാർ നിന്റെ രക്തം</l>
+            <l> അവരുടെ യജമാനന്മാരുടെ</l>
+            <l> വിഷം പുരട്ടിയ പാനപാത്രങ്ങളിൽനിന്നു് </l>
+            <l> കുടിക്കുന്നുവെന്നാണു്. </l>
+            <l> അവർ തെമ്മാടികളുടെ ചീഞ്ഞ ഭാഷ</l>
+            <l> പറയുന്നു.</l>
+            <l> രക്തം പുരണ്ട</l>
+            <l> മേശപ്പുറത്തു് അവരുമായി</l>
+            <l> നിന്ദയുടെ അപ്പം പങ്കുവെക്കുന്നു.</l>
+            <l> അവർ അർഥമില്ലാത്ത വാക്കുകളാൽ</l>
+            <l> അവസാനത്തെ തീപ്പൊരിയും</l>
+            <l> ഇല്ലാതാക്കുന്നു.</l>
+            <l> പ്രതിമേ! ഉറക്കം പൂണ്ട പ്രതിമേ!</l>
+            <l> പറയപ്പെടുന്നതു് </l>
+            <l> നിന്റെ വംശം മരിച്ചുകഴിഞ്ഞുവെന്നാണു്”.</l>
+          </lg>
+          <lg>
+            <l> ഞാൻ ആലിംഗനം ചെയ്ത വീരനായകൻ</l>
+            <l> എന്നെ നിലത്തെറിയുന്നു.</l>
+            <l> കഴുത്തിൽ പിടിച്ചു് എന്റെ തല</l>
+            <l> നിലത്തുരയ്ക്കുന്നു.</l>
+            <l> കൈയുയർത്തുന്നു സൂര്യനെപ്പോലെയുള്ള</l>
+            <l> കൈയുയർത്തുന്നു.</l>
+            <l> വെണ്ണക്കൽ മാറ്റൊലിക്കൊള്ളുന്നു.</l>
+            <l> വെളുത്ത കൈകൾ അരവാർ</l>
+            <l> തേടുന്നു.</l>
+            <l> വെണ്ണക്കൽ മനുഷ്യർ</l>
+            <l> ചാടിവരുന്നു. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <p>(Versos Sencillos, Simple Verses, 1891)
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/zacharia-marti-09.jpg" width="199.16928pt" rendition="gre"/>
+            <figDesc style="thumb">സാന്റിയാഗോ ഡി ക്യൂബയിൽ ഒരു പാതയോര
+സംഗീതസന്ധ്യ.</figDesc>
+          </figure>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] കറുത്തവർ
+എന്ന സ്വാഭിമാനനാമം അന്നുണ്ടായിരുന്നില്ല.</note>
+            <note xml:id="fn2" n="2" style="end">[<ref target="#xfn2">2</ref>] ക്യുബ
+പനകളുടെ നാടാണു്.</note>
+            <note xml:id="fn3" n="3" style="end">[<ref target="#xfn3">3</ref>] ഈ
+
+വരികളാണു് “ഗ്വണ്ടാനമെരാ” എന്ന ഗാനത്തിൽ തുടക്കത്തിൽ പ്രത്യക്ഷപ്പെടുന്നതു്.</note>
+          </noteGrp>
+        </div>
+        <!--end of "section 0.0/2.3"-->
+      </div>
+      <!--end of "chapter 0/2"-->
+      <!--END OF CHAPTER 0/2-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  José Martí: Cuban Swapnathinte
+Rachayithavu (ml: ഹോസെ മാർട്ടി: ക്യൂബൻ സ്വപ്നത്തിന്റെ രചയിതാവു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Paul Zacharia.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-07-17. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Poem, Paul Zacharia,
+José Martí: Cuban Swapnathinte Rachayithavu, സക്കറിയ, ഹോസെ മാർട്ടി: ക്യൂബൻ സ്വപ്നത്തിന്റെ
+രചയിതാവു്, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 11, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Memorial_Jos%C3%A9_Mart%C3%AD,_Cuba.jpg">Estatue
+of Jose Marti in Havana, Cuba,</ref> a photograph by Jorge G. Treche  . The image is
+taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/zacharia-marti.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/zacharia-marti.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

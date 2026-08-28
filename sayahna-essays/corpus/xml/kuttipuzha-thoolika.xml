@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തൂലികാചിത്രങ്ങൾ</title>
+          <title xml:lang="en" type="main">Thoolikachithrangal</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">October 5, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തൂലികാചിത്രങ്ങൾ</title>
+              <title xml:lang="en" type="main">Thoolikachithrangal</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Thoolikachithrangal</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>തൂലികാചിത്രങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 5, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Clown_Roos.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Clown_oil_painting_by_Noella_Roos.JPG">Clown,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q2047319">Noella Roos</ref>  (1969
+(b.)). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തൂലികാചിത്രങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തൂലികാചിത്രങ്ങൾ</head>
+        <div type="lsection">
+          <p style="noindent">ഇപ്പോൾ തൂലികാചിത്രങ്ങളുടെ കാലമാണെന്നു തോന്നുന്നു. മലയാളത്തിലിതൊരു
+പുതിയ പ്രസ്ഥാനമായിരിക്കയാണു്. അതുകൊണ്ടായിരിക്കാം ചിത്രനിർമ്മാണഭ്രമം ഇത്ര കലശലായിരിക്കുന്നതു്.
+അതുമാത്രമല്ല, എന്തെങ്കിലും കുറെ എഴുതിപ്പിടിപ്പിക്കാൻ എളുപ്പമുള്ളൊരു മാർഗ്ഗവുമാണിതു്. വിഷയംതേടി
+വിഷമിക്കേണ്ടതില്ല. ഏതെങ്കിലും തരത്തിൽ പൊതുജനദൃഷ്ടിക്കു വിഷയീഭവിച്ചിട്ടുള്ളവർ ധാരാളമില്ലേ?
+അവരിലൊരുവന്റെ പേർ തലക്കെട്ടാക്കിയാൽ മതിയല്ലോ. പിന്നെ ഇഷ്ടംപോലെ തൂലികയോടിക്കാം. ആർക്കും
+ആരെപ്പറ്റിയും എന്തും പറയാം; അതിലൊരു വ്യവസ്ഥയും വകതിരിവും മര്യാദയും പരിപാലിക്കണമെന്നില്ല എന്നു
+തോന്നും ഇപ്പോഴത്തെ ചില ചിത്രങ്ങൾ കണ്ടാൽ. തൂലികാചിത്രം എന്ന പേരുകൊണ്ടു് എന്തും പറയാനുള്ള
+‘ലൈസൻസ് ’ കിട്ടുമെന്നോ! ചിത്രകാരന്റെ ഇഷ്ടാനിഷ്ടമനുസരിച്ചു് ഒന്നുകിൽ അന്ധമായ പ്രശംസ, അല്ലെങ്കിൽ
+അതിരറ്റ ആക്ഷേപം, മേമ്പൊടിക്കൊരു ആകാരവർണ്ണനവും. ഈ ഒടുവിലത്തേതു യാഥാർത്ഥ്യവുമായി
+ഒത്തിരിക്കണമെന്നില്ല; ചായക്കോലുകാരന്റെ മനോമർക്കടത്തിനു തോന്നിയമാതിരി കറുപ്പടിച്ചോ വെളുപ്പടിച്ചോ
+കാണിക്കാം. ഏതാണ്ടീമട്ടിൽ അധഃപതിക്കാൻ തുടങ്ങിയിട്ടുണ്ടു് നമ്മുടെ തൂലികാചിത്രപ്രസ്ഥാനം. എന്നിരുന്നാലും
+ഇതിനൊരു മറുവശം ഉണ്ടെന്നുള്ള സംഗതി വിസ്മരിക്കാവതല്ല. സാഹിത്യഭൂഷണങ്ങളായ ചില നല്ല ചിത്രങ്ങളും
+കൈരളിക്കു ലഭിച്ചിടുണ്ടു്. വാസനാനുഗൃഹീതരും നിരീക്ഷണപടുക്കളും ആയ കലാകാരന്മാർ മാത്രം ഈ
+തൊഴിലിലേർപ്പെട്ടാൽ ഇനിയും ആശയ്ക്കുവഴിയുണ്ടാകും. ലേഖനീപാണികളായിട്ടുള്ള സകലർക്കും
+സഞ്ചരിക്കാവുന്ന സുഗമസരണിയല്ല ഇതെന്ന ബോധം ആദ്യമായി ഉറപ്പിൽ വരണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Alfred_George_Gardiner.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. ജി. ഗാർഡിനർ</figDesc>
+          </figure>
+          <p> എന്താണീ തൂലികാചിത്രമെന്നു പറയുന്നതു്? ഒന്നാമതു് അതൊരു ചിത്രമായിരിക്കണം; വെറും
+ചരിത്രക്കുറിപ്പോ നിരൂപണമോ ആകരുതു്. ചിത്രത്തിനു വിഷയമാകുന്ന ആളിന്റെ ഛായ—ആകൃതിയും
+പ്രകൃതിയും ഉൾപ്പെടെ—വ്യക്തീഭവിക്കുക എന്നതാണു് പ്രധാന കാര്യം. അയാൾ ഏതു തരക്കാരനാണെന്നു
+തെളിയിക്കുന്നതിനുപകരിക്കുന്ന സംഭവങ്ങളും സംഭാഷണങ്ങളും തിരഞ്ഞെടുത്തു കൂട്ടിയിണക്കുന്നതിലാണു്
+ചിത്രകാരന്റെ കലാകൗശലം കാണേണ്ടതു്. ഇത്തരം സംഭവങ്ങളും മറ്റും താരതമ്യേന അപ്രധാനങ്ങളാകാം.
+എന്നാലും അവ സ്വഭാവവ്യക്തിക്കു കൂടുതൽ ഉപകരിക്കുമെങ്കിൽ അവയ്ക്കായിരിക്കണം തൂലികാചിത്രത്തിൽ
+പ്രാധാന്യം. ചിലപ്പോൾ ഒരു നിസ്സാരസംഗതി, അഥവാ ഒരു സംഭാഷണശകലം, ഒരാളുടെ ഹൃദയത്തിന്റെ
+ഉള്ളറകളെ തുറന്നുകാണിച്ചുവെന്നുവരാം. ത്യാജ്യഗ്രാഹ്യവിവേചനം—അതൊരു കലാകാരനു കൂടിയേ കഴിയൂ.
+അനുചിതവും അനാവശ്യവുമായതു് ഉപേക്ഷിക്കുവാൻ അയാൾ മടിക്കരുതു്. ഔചിത്യപൂർവ്വം
+വിട്ടുകളയുന്നതുവഴിയായിട്ടാണു് ഒരു കലാകാരന്റെ യോഗ്യത വെളിപ്പെടുന്നതു്. The artist may be known
+rather by what he omits എന്നൊരു പണ്ഡിതൻ അഭിപ്രായപ്പെട്ടിട്ടുണ്ടു്. ചിത്രകാരന്മാർ പ്രത്യേകം
+ഗൗനിക്കേണ്ട ഒരു സംഗതിയാണിതു്. തള്ളേണ്ടതു തള്ളാനും കൊള്ളേണ്ടതു കൊള്ളാനും അറിഞ്ഞുകൂടാത്തവർ
+ചിത്രം വരയ്ക്കാൻ തുനിഞ്ഞാൽ അതും വെറും തൂലികാചാപലമായേ കലാശിക്കു. ആകാരചിത്രീകരണത്തിലും
+ഇതുപോലെ ഒരു തെരഞ്ഞെടുപ്പു നടത്തേണ്ടതുണ്ടു്. ഏതംശം ചൂണ്ടിയാൽ ഇതരാംശങ്ങൾ സ്വയം
+വ്യജ്ഞിതങ്ങളാകുമോ, അവയെ മാത്രമേ ചിത്രകാരൻ ഉപകരണങ്ങളാക്കേണ്ടതുള്ളു. ചുരുക്കത്തിൽ,
+മനുഷ്യസാമാന്യത്തിൽനിന്നു വ്യക്തിവിശേഷത്തെ പൃഥഃകരിച്ചു കാണിക്കുന്നതിലായിരിക്കണം അയാളുടെ
+മുഖ്യമായ ശ്രദ്ധ. ഒരു വ്യക്തിയുടേതു മാത്രമായ ചേഷ്ടാവിശേഷങ്ങളും (Mannerisms) ശീലദേദങ്ങളും അയാളുടെ
+ചിത്രം നിർമ്മിക്കുവാനുള്ള ചായക്കൂട്ടാകുന്നു. അതു വേണ്ടസ്ഥാനത്തു വേണ്ടപോലെ അധികപ്പറ്റുവരാതെ
+ഉപയോഗിക്കുവാനുള്ള സാമർത്ഥ്യമാണു് ചിത്രകാരനു വേണ്ടതു്. ഒരുവിധത്തിൽ നോക്കിയാൽ തൂലികാചിത്രം,
+ജീവചരിത്രത്തിന്റെ കാവ്യരസം തുളുമ്പുന്ന ഒരു കീശപ്പതിപ്പാണെന്നു (Pocket edition) പറയാം. ഒരുവന്റെ
+രൂപശീലകർമ്മഭാവങ്ങളെ ആവിഷ്ക്കരിക്കുന്ന ഉപകരണങ്ങളെക്കൊണ്ടു നെയ്തെടുത്തിട്ടുള്ള ഒരു
+ദീർഘപടമാണല്ലോ അവന്റെ ജീവചരിത്രം. അതിന്റെ ഏറ്റവും ചുരുങ്ങിയതും എന്നാൽ സാരാംശത്തിൽ
+എല്ലാമുൾപ്പെടുന്നതും ആയ ഒരു ഫോട്ടോ നല്ല തൂലികാചിത്രത്തിലുണ്ടായിരിക്കും. ജീവിതനിരൂപണത്തിനു് ഇതിൽ
+സ്ഥാനമില്ലേ? ഉണ്ടു്, തീർച്ചയായും നല്ലൊരു സ്ഥാനമുണ്ടു്. പക്ഷേ, അതിന്റെ പരിമിതിയിലും പ്രതിപാദനത്തിലും
+ചിത്രകാരനു നോട്ടക്കേടു പറ്റരുതെന്നേയുള്ളു. ഒരുവന്റെ സ്വാഭാവത്തേയും പ്രവൃത്തികളേയുംപറ്റി ചിത്രകാരനു
+തോന്നിയിട്ടുള്ള കുറെ അഭിപ്രായങ്ങൾ എഴുതിച്ചേർക്കുന്നതുകൊണ്ടുമാത്രം അതൊരു ചിത്രമാകുന്നില്ല.
+
+ഗുണദോഷനിരൂപണത്തിനു ചിത്രകാരനു് അവകാശമുണ്ടു്. എന്നാൽ അതു നിർവ്വഹിക്കുന്ന രീതി ചിത്രത്തിന്റെ
+അംഗോപാംഗഘടനയ്ക്കു് ഇണങ്ങിയതായിരിക്കണം. ദോഷ ദർശനം കർക്കശമായ ശകാരമോ കളിയാക്കലോ
+ആയി കലാശിക്കുന്നതു തുലോം അനുചിതമാകുന്നു. ചിത്രത്തിൽ കറുത്ത രേഖകൾ വരയ്ക്കേണ്ടിവരുമ്പോഴും
+അനുകമ്പാർദ്രമായ മനോഭാവത്തോടുകൂടിവേണം അതു ചെയ്യുവാൻ. ഇംഗ്ലീഷ് സാഹിത്യത്തിൽ സുപ്രസിദ്ധനായ
+<ref target="https://en.wikipedia.org/wiki/Alfred_George_Gardiner">എ. ജി.
+ഗാർഡിനരുടെ</ref> തൂലികാചിത്രങ്ങൾ നോക്കുക. താൻ ആരുടെ ചിത്രം വരയ്ക്കുന്നുവോ, അയാളെ
+അനുകമ്പാരഹിതമായ ദൃഷ്ടിയോടെ അദ്ദേഹം ഒരു ഘട്ടത്തിലും നോക്കുന്നില്ല. <ref target="https://ml.wikipedia.org/wiki/Benito_Mussolini">മുസ്സോളിനി</ref>
+യെപ്പോലുള്ള അഹങ്കാരമൂർത്തികളെപ്പോലും സഹതാപത്തണലിൽ നിർത്തിയിട്ടേ അദ്ദേഹം
+ആക്ഷേപിക്കുന്നുള്ളു. മാക്ഡോനാൾഡ് ചെയ്തുപോയ ഒരു തെറ്റിനെപ്പറ്റി ഗാർഡിനർ പ്രതിപാദിക്കുന്നതു നോക്കൂ:
+</p>
+          <p>‘He acted indiscretely in the acceptance of the endowment of a motor car from a man to whom he
+subsequently gave a title, but it was the indiscretion of an honest man and it is a tribute to his character
+that on one seriously believed that the gift and the honour had any connection.’
+
+</p>
+          <p>നിരൂപണം ചിലപ്പോൾ നിശിതമാക്കേണ്ടിവന്നേയ്ക്കാം. എന്നാലും അതിനൊരു കഥാപരമായ മാർദ്ദവം
+ഉണ്ടായിരിക്കണം. മനുഷ്യജീവിതത്തിലെ കറുത്തപുള്ളികൾ നിർദ്ദയമായി നിർത്തിക്കാണിപ്പാൻ
+വെമ്പൽകൊള്ളുന്നൊരു സമ്പ്രദായം നമ്മുടെ ചില ചിത്രങ്ങളിൽ നിഴലിച്ചുകാണുന്നതുകൊണ്ടാണു് ഇതിവിടെ
+ഇത്രയും വിസ്തരിച്ചതു്. എല്ലാറ്റിനും പുറമേ ഭാഷയിലും പ്രതിപാദനരീതിയിലും ചിത്രകാരൻ മനസ്സിരുത്തേണ്ടതുണ്ടു്.
+ലളിതസുന്ദരമായ ഭാഷ, ചതുരമധുരമായ പ്രതിപാദനം—നല്ല നല്ല ചിത്രങ്ങളിൽ ഈവക ഗുണങ്ങൾ
+തികഞ്ഞിരിക്കും. പെരുമ്പാമ്പുപോലെ നീണ്ടിഴഞ്ഞ വാക്യങ്ങളും ചരിത്രകാരന്മാരുടെ വിവരണരീതിയും
+ചിത്രത്തിന്റെ വൈശദ്യത്തിനും വൈചിത്രത്തിനും ഹാനികരമാകുന്നു. മലയാളത്തിൽ
+മഹാവാക്യമുദ്ഗരങ്ങൾകൊണ്ടു ചിത്രം വരയ്ക്കാൻ നോക്കുന്ന ചിലരുണ്ടു്. ഒരറ്റത്തുനിന്നു വായന തുടങ്ങിയാൽ
+മറ്റേയറ്റത്തെത്തുമ്പോഴേയ്ക്കും ആദ്യം വായിച്ചതു മറന്നുപോകത്തക്കവണ്ണം ദീർഘങ്ങളായ വാക്യങ്ങളാണു്
+അവരെഴുതിവിടുന്നതു്. ഇങ്ങനെ നീണ്ട നീണ്ട വാചകങ്ങൾ കൂട്ടിക്കെട്ടിച്ചമയ്ക്കുന്ന ശബ്ദജാലം
+ചിത്രോന്മീലനസമർത്ഥമാകുകയില്ല. ചുരുക്കത്തിലൊന്നേ പറയേണ്ടതുള്ളു: ‘അനൗചിത്യമല്ലാതെ മറ്റൊന്നുമല്ല
+രസഭംഗത്തിനു കാരണം’ എന്ന ആചാര്യവചനമില്ലേ, അതുതന്നെ ഇവിടേയും അനുസന്ധേയം.
+</p>
+          <p>
+(നിരീക്ഷണം)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thoolikachithrangal (ml:
+തൂലികാചിത്രങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Thoolikachithrangal, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, തൂലികാചിത്രങ്ങൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 5, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Clown_oil_painting_by_Noella_Roos.JPG">Clown,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q2047319">Noella Roos</ref>  (1969
+(b.)). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-thoolika.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-thoolika.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

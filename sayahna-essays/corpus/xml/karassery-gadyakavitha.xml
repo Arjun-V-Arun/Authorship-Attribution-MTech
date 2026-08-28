@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗദ്യകവിതകൾ</title>
+          <title xml:lang="en" type="main">Gadyakavithakal</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 5, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗദ്യകവിതകൾ</title>
+              <title xml:lang="en" type="main">Gadyakavithakal</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Gadyakavithakal</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ഗദ്യകവിതകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 5, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Paper_Reed_Growing.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:MN361_Papyrus_or_Paper_Reed_Growing_in_the_Ciane,_Sicily.jpg">Papyrus
+or Paper Reed Growing in the Ciane, Sicily,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Marianne_North">Marianne
+North</ref>  (1831–1890). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗദ്യകവിതകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗദ്യകവിതകൾ</head>
+        <div type="lsection">
+          <p style="noindent">അനന്തമായ കാലവും അപാരമായ പ്രപഞ്ചവും അതീവസുന്ദരമായ പ്രകൃതിയും
+സ്നേഹത്തിന്റെ അനശ്വരഭാവവും <ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">ബഷീറിന്റെ</ref>
+അനുഭൂതികളിൽ എപ്പോഴും നിറയുന്നു. മനസ്സിലുറപ്പിച്ചു് ‘അനൽഹഖ്’ (ഞാനാണു് സനാതനസത്യം) എന്നും
+‘അഹംബ്രഹ്മാസ്മി’ (ഞാൻ ബ്രഹ്മം ആകുന്നു) എന്നും ഉരുവിട്ടുകൊണ്ടു് കടന്നുപോയ സന്യാസജീവിതത്തിന്റെ
+ബാക്കിപത്രം കൂടിയാണു് ആ സാഹിത്യം. പ്രകൃതിയുമായും മറ്റു മനുഷ്യരുമായും ജീവജാലങ്ങളുമായും ലയിച്ചു
+ചേരുന്നതിന്റെ അനുഭൂതികൾ അടയാളപ്പെടുത്തുമ്പോൾ ആ ഭാഷയുടെ ഭാവം വാമൊഴിയുടെ സ്വാഭാവികതയല്ല,
+അഗാധവും ഗംഭീരവുമായ അനുഭൂതികളുടെ കാവ്യാത്മകതയാണു്.
+</p>
+          <p>ബഷീറിന്റെ ഗദ്യം വരമൊഴിയുടെ, കവിതയുടെ താളവും സ്വഭാവവും കൈവരിക്കുന്ന സന്ദർഭങ്ങളുണ്ടു്.
+അനർഘനിമിഷം (1946) എന്ന പുസ്തകത്തിൽ ലേഖനങ്ങൾ എന്ന പേരിൽ സമാഹരിച്ചിരിക്കുന്ന പലതും
+ഗദ്യകവിതകളാണു്—‘അനർഘനിമിഷം,’ ‘ജീവിതം’, ‘മംഗളാശംസകൾ,’ ‘സന്ധ്യാപ്രമാണം’, ‘ഏകാന്തതയുടെ
+മഹാതീരം’, ‘അജ്ഞാതമായ ഭാവിയിലേക്ക്’ എന്നിവ.
+</p>
+          <p>തന്റെ നിസ്സാരതയും ഈശ്വര പ്രഭാവത്തിന്റെ മഹിമയും ആവിഷ്ക്കരിക്കുവാനാണു് ബഷീർ ഗദ്യകവിതകൾ
+എഴുതുന്നതു്. നീണ്ടുനീണ്ടു പോകുന്ന വാക്യങ്ങൾ, സംസ്കൃതപദങ്ങൾ, ദീർഘസമാസങ്ങൾ തുടങ്ങിയവ അവയിൽ
+സുലഭം. ലൗകികതലമല്ല, ആത്മീയതലമാണു് അവയിൽ പുലരുന്നതു്. പ്രപഞ്ചസൗന്ദര്യത്തിന്റെ മഹാത്ഭുതവും
+അപാരതയുടെ അവ്യാഖ്യേയമായ ഗാംഭീര്യവും ശോകത്തിന്റെ അത്യഗാധതയും ചിത്രീകരിക്കുവാനുള്ള
+സഫലശ്രമം ‘അജ്ഞാതമായ ഭാവിയിലേക്കു്’ എന്ന രചനയിൽ കാണാം.
+</p>
+          <p>മരണവും ഏകാന്തതയും പ്രകൃതിയും മാത്രമാണു് ഗദ്യകവിതകളിലെ പ്രമേയം. പേർസ്യൻ സൂഫികളുടെ
+രചനകളെ അനുസ്മരിപ്പിക്കും വിധം ഇവയിൽ നിത്യകാമുകനായും നിത്യകാമുകിയായും ഈശ്വരൻ കടന്നുവരുന്നു.
+‘മരണത്തിന്റെ സ്വപ്നമായിരിക്കുമോ ജീവിതം?’ (ഏകാന്തതയുടെ മഹാതീരം) എന്നു് അമ്പരന്നു പോകുന്ന
+സന്ദർഭങ്ങൾ ഇവിടെ പലതുണ്ടു്. ‘എന്റെ കന്യകാത്വം മുഴുവനും കൊടുംതമസ്സിലെ മൂകമായ ഒരു പ്രാർത്ഥന
+ആയിരുന്നപ്പോൾ’ (ഏകാന്തതയുടെ മഹാതീരം) എന്നു് എഴുതിപ്പോകുന്ന മട്ടിൽ ഈ രചനകളിൽ ബഷീർ
+കവിയാണു്. അദ്ദേഹം തമാശ പറയാറുണ്ടു്: ‘ഞാൻ ജന്മനാ കവിയാണു്. പിന്നെ ആളുകൾ വർത്തമാനം
+പറയുന്നതും പ്രേമിക്കുന്നതും കുളിക്കുന്നതും പ്രസവിക്കുന്നതുമൊക്കെ ഗദ്യത്തിലായതുകൊണ്ടു് ഗദ്യം എഴുതുന്നു
+എന്നേയുള്ളൂ.’
+</p>
+          <p>ഈ ഗദ്യകവിതകളിലെ ഭാഷ എത്രമാത്രം സംസ്കൃതജഡിലമാണു് എന്നതിനു് ഉദാഹരണം കാണുക:
+<list rend="numbered"><item n="">‘അന്തിമ നിശ്വാസമായി പരക്കുന്ന സുരഭിലമായ കുളിർനിലാവിൽ മുങ്ങിയ പൂങ്കാവനം പണ്ടത്തെ
+മാതിരി വീണ്ടും രൂപരഹിതമായ കിനാവിൽ മുഴുകുകയായി.’ (ഏകാന്തതയുടെ മഹാതീരം) </item><item n="">‘ഉദയതാരത്തിന്റെ വെള്ളിവെളിച്ചത്തിലൂടെ, പ്രഭാതഭാസ്കരന്റെ കനകകിരണങ്ങളിലൂടെ,
+വസന്തകാലത്തിന്റെ പുതുപരിമളത്തിലൂടെ എന്റെ കുമാരീ എന്റെ സ്മരണ നിന്നിലെത്തും.’ (ഏകാന്തതയുടെ
+മഹാതീരം) </item><item n="">‘ശീതളമായ നിന്റെ പൂമേനിയുടെ സുഗന്ധസ്മരണയോടെ നിശാപവനൻ എന്നെ തഴുകുമ്പോൾ’
+(ഏകാന്തതയുടെ മഹാതീരം) </item><item n="">‘കടുംനീലയായ അലകൾക്കുമീതെ ക്ഷീണിതമായ മഞ്ഞ വെളിച്ചത്തിന്റെ പന്ഥാവു്
+അവശേഷിപ്പിച്ചുകൊണ്ടു് കടലിൽ വീഴാൻ തുടങ്ങിയ ചരമദിവാകരനെ മൂടിപ്പൊതിഞ്ഞുകൊണ്ടു്, അരികിനു്
+തങ്കക്കസവു പിടിപ്പിച്ച ബ്രഹ്മാണ്ഡമായ കറുത്ത പുടവ പോലെ ഇരുണ്ടമേഘം പൊങ്ങിവന്നു’ (ഏകാന്തതയുടെ
+
+മഹാതീരം) </item></list>
+
+</p>
+          <p>ബഷീർ എഴുതിയ ഒരേ ഒരു കവിതയിലും (അനശ്വരപ്രകാശം, യാ ഇലാഹീ—1997) ഭാഷ ഇതുതന്നെ.
+</p>
+          <p>ദൈവികാന്വേഷണത്തിന്റെ അനുഭൂതികളുടെയും അനവദ്യമായ ആധികളുടെയും അപാരതയുമായി
+ലയിക്കുവാനുള്ള അദമ്യമായ ദാഹത്തിന്റെയും രേഖപ്പാടുകളാണു് ബഷീറിന്റെ ഗദ്യകവിതകൾ.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Gadyakavithakal (ml:
+ഗദ്യകവിതകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Gadyakavithakal, എം. എൻ. കാരശ്ശേരി, ഗദ്യകവിതകൾ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 5, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:MN361_Papyrus_or_Paper_Reed_Growing_in_the_Ciane,_Sicily.jpg">Papyrus
+or Paper Reed Growing in the Ciane, Sicily,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Marianne_North">Marianne
+North</ref>  (1831–1890). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-gadyakavitha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasserygadyakavitha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

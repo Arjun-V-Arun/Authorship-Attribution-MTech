@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മൈനാകം, വരകൾ നടക്കുമ്പോൾ</title>
+          <title xml:lang="en" type="main">Mainakam, Varakal Nadakkumbol</title>
+        </title>
+        <author>Madhusudhanan, K. Satchidanandan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">November 28, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മൈനാകം, വരകൾ നടക്കുമ്പോൾ</title>
+              <title xml:lang="en" type="main">Mainakam, Varakal Nadakkumbol</title>
+            </title>
+            <author>Madhusudhanan, K. Satchidanandan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-02-05</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>Series of sketches</term>
+          <term>Madhusudhanan</term>
+          <term>K. Satchidanandan</term>
+          <term>ainakam</term>
+          <term>Varakal Nadakkumbol</term>
+          <term>മധുസൂദനൻ</term>
+          <term>സച്ചിദാനന്ദൻ</term>
+          <term>മൈനാകം</term>
+          <term>വരകൾ നടക്കുമ്പോൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-02-05</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/cover.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Line5066__Flickr_-_NOAA_Photo_Library.jpg">Magnificent braided river delta,</ref> A photo by
+Alaska ShoreZone Program NOAA  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മൈനാകം, വരകൾ നടക്കുമ്പോൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>മധുസൂദനൻ, സച്ചിദാനന്ദൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapter" n="1" xml:id="chp1">
+        <head type="chaphead"/>
+        <div type="lsection">
+          <p style="noindent">പ്രിയ സുഹൃത്തു് മധുസൂദനന്റെ, പന്നാലാൽ ഘോഷിന്റെ ബാൻസുരി പശ്ചാത്തലസംഗീതമായി
+ചേർത്ത, ‘മൈനാകം’ എന്ന രേഖാചിത്രപരമ്പരയുടെ വീഡിയോവിനു ഒരു പ്രതികരണം. വരകളെ നടക്കാൻ കൊണ്ടു്
+പോകുന്ന പോൾ ക്ലേ-യെ ഓർത്തുകൊണ്ടു്.
+</p>
+          <p style="noindent">
+സച്ചിദാനന്ദൻ
+</p>
+        </div>
+        <!--end of "section 1.0/0.1"-->
+      </div>
+      <!--end of "chapter 1/0"-->
+      <!--END OF CHAPTER 1/0-->
+      <div type="chapter" n="2" xml:id="chp2">
+        <head type="chaphead">വരകൾ നടക്കുമ്പോൾ</head>
+        <div type="lsection">
+          <lg>
+            <l> ആദിയിലുണ്ടായ് വര</l>
+            <l> വചനം വന്നൂ പിന്നെ.</l>
+          </lg>
+          <lg>
+            <l> വരകൾ വെളിച്ചമായ്</l>
+            <l> വളർന്നൂ സൂര്യൻ, ചന്ദ്രൻ</l>
+            <l> വരകൾ പൊട്ടിപ്പൊട്ടി-</l>
+            <l> ത്താരകൾ, ഗ്രഹങ്ങളും,</l>
+            <l> വരകൾ നിവർന്നിട്ടേ-</l>
+            <l> യാകാശമുണ്ടായ് വന്നു. </l>
+          </lg>
+          <lg>
+            <l> വരകൾ നടക്കുമ്പോൾ</l>
+            <l> വഴികളുണ്ടാകുന്നു</l>
+            <l> വരകളൊഴുകുമ്പോൾ</l>
+            <l> പുഴകളുണ്ടാകുന്നു</l>
+            <l> വരകൾ നിവരുമ്പോൾ</l>
+            <l> മരങ്ങളുയരുന്നു</l>
+            <l> വരകൾ വിടരുമ്പോൾ</l>
+            <l> ഇലയും പൂവും കായും</l>
+            <l> വരകൾ പറക്കുമ്പോൾ</l>
+            <l> പക്ഷികൾ പിറക്കുന്നു</l>
+          </lg>
+          <lg>
+            <l> വരകൾ മലകൾക്കു</l>
+            <l> നൽകുന്നൂ ചിറകുകൾ</l>
+            <l> വരകൾ ചുരുൾ നിവർ-</l>
+            <l> ന്നഭയാർത്ഥികൾക്കായി-</l>
+            <l> ത്തെരുവു വിരിക്കുന്നൂ:</l>
+            <l> വേരിൽ രക്തവുമായി-</l>
+            <l> പ്പറിച്ചു നടപ്പെട്ടോർ,</l>
+            <l> നാടുകളകന്നക-</l>
+            <l> ന്നോർമ്മയിൽകുത്താകുമ്പോൾ</l>
+            <l> പേടിയാൽ മുഖം തല-</l>
+            <l> യോടുകളായിത്തീർന്നോർ</l>
+            <l> കഴുകൻകൊക്കിൽ പെരും</l>
+            <l> ഭാണ്ഡങ്ങൾ, കൂമൻ കാക്കും</l>
+            <l> ഗുഹയിൽനിന്നും കാതു</l>
+            <l> കൂർപ്പിക്കുമാശങ്കകൾ,</l>
+            <l> കേവലം കുമിളയായ്</l>
+            <l> മാറിയ തോണിക്കാരൻ </l>
+            <l> തോളിലേറ്റിടും ശ്വാസം </l>
+            <l> നിലച്ച ചെറുതോണി,</l>
+            <l> ഇരുമ്പിൻ കുതിരമേൽ</l>
+            <l> കലി പോൽ ഇരുമ്പിന്റെ</l>
+            <l> ഭടന്മാർ, ഇരുമ്പിന്റെ</l>
+            <l> ചുറ്റിക, ഇരുമ്പാണി,</l>
+            <l> ഇനി വേണ്ടതിരുമ്പിൻ</l>
+            <l> കുരിശോ, കുരിശുകൾ</l>
+            <l> ചിതറും പെരുംബോംബോ. </l>
+            <l> ഇരുമ്പിൻ ചക്രങ്ങളിൽ</l>
+            <l> ഞെരിയും ദിവസങ്ങൾ</l>
+            <l> കവിതയൊഴിഞ്ഞൊരു</l>
+            <l> കവി തൻ ശിരസ്സിലെ-</l>
+            <l> പ്പെരുകും ഭയങ്ങളി-</l>
+            <l> ലണയും വെളിച്ചങ്ങൾ</l>
+            <l> ചെറുതായ്, ഇരകളായ്,</l>
+            <l> പുഴുവായ് പരിണമി-</l>
+            <l> ച്ചിഴയും മനുഷ്യർ തൻ</l>
+            <l> ‘അഭയം, അഭയ’മെ-</l>
+            <l> ന്നുഴറും ചെറുവായ്കൾ.</l>
+          </lg>
+          <lg>
+            <l> ആരുണ്ടു് നടക്കുവാൻ</l>
+            <l> ഗലീലിക്കടലിന്മേൽ,</l>
+            <l> ആരുണ്ടൊരിലയ്ക്കു മേൽ</l>
+            <l> താഴാതെ കിടക്കുവോൻ?</l>
+            <l> മരവും പുറത്തേറ്റി</l>
+            <l> നടക്കും മനുഷ്യാ, നീ</l>
+            <l> തണലോ തേടുന്നതു്,</l>
+            <l> തടിയോ ഒടുക്കത്തെ</l>
+            <l> മനുഷ്യന്നൊരു നല്ല</l>
+            <l> ശവപ്പെട്ടിക്കായ്? അതോ</l>
+            <l> പുതുവംശത്തിൻ നോഹ-</l>
+            <l> യ്ക്കൊരു പെട്ടകത്തിനായ്</l>
+            <l> പ്രളയം മുക്കാത്തൊരു</l>
+            <l> മരമോ? ചോദ്യങ്ങളായ്</l>
+            <l> വരകൾ വളയുന്നു.</l>
+          </lg>
+          <lg>
+            <l> ഗായകാ, നിൻ ബാൻസുരി-</l>
+            <l> യായതുമൊരു വര,</l>
+            <l> ആയതിൻ തുളകളിൽ</l>
+            <l> നീറിയുമുരുകിയും</l>
+            <l> വീഴ്‌വതു പൊയ്പ്പോയൊരു</l>
+            <l> ലോകത്തിൻ വിലാപമോ?</l>
+            <l> പന്നാലാൽ, പറകതു</l>
+            <l> കിന്നരനവലോക-</l>
+            <l> സുന്ദരപരാഗത്താൽ</l>
+            <l> മിന്നിടും താരാട്ടാമോ</l>
+            <l> തൻ വരകൾ തൻ കരിം-</l>
+            <l> തവിട്ടിൽ മധുവൽപ്പം</l>
+            <l> പൊൻനിറം, പുലരി തൻ</l>
+            <l> മന്ദശോണവും കടൽ-</l>
+            <l> നീലയും കൂടിച്ചേർത്താൽ? </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 2.0/0.2"-->
+        <div type="lsection" xml:id="sec0.3">
+          <head type="lsechead">മധുസൂദനൻ</head>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhusudanan.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ആലപ്പുഴ ജില്ലയിലെ കടലോരപ്രദേശത്തു ജനിച്ചു. തിരുവനന്തപുരം ഫൈൻ ആർട്ട് കോളജിൽ നിന്നും ബറോഡയിലെ
+എം. എസ്. യൂണിവേഴ്സിറ്റിയിൽ നിന്നും കലാപരിശീലനം. ഇപ്പോൾ സമകാലീനകലയിൽ സാധ്യമാവുന്ന എല്ലാ മാധ്യമങ്ങളും
+ഉപയോഗിച്ചു് കലാപ്രവർത്തനം നടത്തുന്നു. കലാപ്രവർത്തനങ്ങൾക്കായി ഫിലിം എന്ന മാധ്യമം വിദഗ്ദമായി
+ഉപയോഗിച്ചതിനു് ന്യൂയോർക്കിലെ മ്യൂസിയം ഓഫ് മോഡേൺ ആർട്ടിൽ നിന്നു് രണ്ടു തവണ ആദരം. ‘മാർക്സ് ആർകൈവ് ’
+എന്ന ഇൻസ്റ്റലേഷൻ രണ്ടാമത്തെ കൊച്ചി മുസരീസ് ബിയനാലെയിൽ പ്രദർശിപ്പിച്ചിരുന്നു. 2015-ലെ വെനീസ്
+ബിയനാലെയിൽ ‘മാർക്സ് ആർകൈവ് ’, ‘പീനൽ കോളനി’ എന്നീ ഇൻസ്റ്റലേഷനുകൾ പ്രദർശിപ്പിച്ചിട്ടുണ്ടു്. ‘ബയസ്ക്കോപ് ’
+എന്ന സിനിമക്കു് മൂന്നു് അന്തർദേശീയ പുരസ്കാരങ്ങൾ. ബയസ്ക്കോപ് അഞ്ചു സംസ്ഥാന പുരസ്കാരങ്ങളും ദേശീയ അവാർഡും
+നേടിയിരുന്നു. ഡൽഹിയിലും കേരളത്തിലുമായി ജീവിക്കുന്നു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchidanandan-6.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>ഡ്രോയിങ്: വി. ആർ. സന്തോഷ്
+</p>
+        </div>
+        <!--end of "section 2.0/0.3"-->
+      </div>
+      <!--end of "chapter 2/0"-->
+      <!--END OF CHAPTER 2/0-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Mainakam, Varakal Nadakkumbol (ml:
+മൈനാകം, വരകൾ നടക്കുമ്പോൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Madhusudhanan, K.
+Satchidanandan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna Foundation;
+Trivandrum, Kerala; 2021-02-05. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, Series of sketches,
+Madhusudhanan, K. Satchidanandan, ainakam, Varakal Nadakkumbol, മധുസൂദനൻ, സച്ചിദാനന്ദൻ,
+മൈനാകം, വരകൾ നടക്കുമ്പോൾ, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 28, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or prepared by the
+Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC BY-NC-SA 4​.0).
+Commercial use of the content is prohibited. Any reuse of the material should credit the Sayahna
+Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Line5066_-_Flickr__NOAA_Photo_Library.jpg">Magnificent braided river delta,</ref> A photo by Alaska ShoreZone
+Program NOAA  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is gratefully
+acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data
+entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ
+Anjana; <hi rend="bold">Editor:</hi>  PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire document
+processing has been done in a computer running GNU/Linux operating system and TeX and friends. The
+PDF has been generated using XeLaTeX from TeXLive distribution 2021 using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for text formatting. The
+<ref target="https://tei-c.org">TEI</ref>  (P5) encoded XML has been generated from
+the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version
+has been generated from XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and HTML
+versions is <ref target="https://rachana.or.in">RIT Rachana</ref>  authored by KH
+Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of
+Typography</ref>. The font used for Latin script is <ref target="http://libertine-fonts.org/">Linux Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/satchi-madhu.xml">Download document sources in TEI
+encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/satchi-madhu.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

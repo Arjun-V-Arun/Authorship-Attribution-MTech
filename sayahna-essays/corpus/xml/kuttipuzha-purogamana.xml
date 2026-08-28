@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പുരോഗമനസാഹിത്യം</title>
+          <title xml:lang="en" type="main">Purogamanasahithyam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 22, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പുരോഗമനസാഹിത്യം</title>
+              <title xml:lang="en" type="main">Purogamanasahithyam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Purogamanasahithyam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>പുരോഗമനസാഹിത്യം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 22, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Night_Alarm_The_Advance.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Charles_West_Cope_The_Night_Alarm_The_Advance.jpg">A Night Alarm: The Advance!,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Charles_West_Cope">Charles
+West Cope</ref>  (1811–1890). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പുരോഗമനസാഹിത്യം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പുരോഗമനസാഹിത്യം</head>
+        <div type="lsection">
+          <p style="noindent">വളരെയധികം തെറ്റിദ്ധാരണകളും ചില ശരിയായ ധാരണകളുമുള്ള ഒരു
+വിഷയമാണു്, പുരോഗമനസാഹിത്യം. സാഹിത്യത്തെപ്പറ്റി പറയുമ്പോൾ ‘അന്ധഗജ’ ന്യായമാണു്
+ഓർമ്മവരുന്നതു്. ഏതാനും അന്ധന്മാർകൂടി ആനയെ കാണാൻ പോയി. ഒരാൾ കാലുപിടിച്ചുനോക്കിയിട്ടു് ആന
+ഉരൽപോലിരിക്കുമെന്നു പറഞ്ഞു. വാലിൽ പിടിച്ചവൻ ചൂലുപോലൊരു സാധനമാണെന്നു തീർച്ചപ്പെടുത്തി!
+സാഹിത്യത്തിനു് പല പല വിഭാഗങ്ങളും ഭാവങ്ങളും ഉണ്ടു്. ഒരോന്നിനെപ്പറ്റിയും ഒരോരുത്തൻ പറയും, അതാണു്
+സാഹിത്യമെന്നു്. മറ്റൊരാൾ പറയും, അതല്ല; മറ്റൊന്നാണ് സാഹിത്യമെന്നു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_bernard_shaw.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ് ബർണാഡ് ഷാ</figDesc>
+          </figure>
+          <p> കേരളത്തിൽ പുരോഗമനസാഹിത്യത്തെപ്പറ്റി വളരെ എതിർപ്പുണ്ടു്. എന്താണു്, ഇതിന്റെ അടിസ്ഥാനം! ആ
+സാഹിത്യകാരന്മാർ എഴുതുന്നതെല്ലാം ശരിയെന്നു പറയുവാനല്ല ഞാൻ തുനിയുന്നതു്. നാം ഒരു
+പരിവർത്തനഘട്ടത്തിൽ നിൽക്കുന്നു. തെറ്റു് ഏതു്, ശരി ഏതു് എന്നു ചിന്തിക്കണം. ഇതുവരെ തുടർന്നുവന്ന
+ജീവിതസമ്പ്രദായങ്ങൾതന്നെ തുടർന്നതുകൊണ്ടു ഫലമില്ല. അതിനെ അടിയോടെ മാറ്റേണ്ടിയിരിക്കുന്നു.
+ഇതേവരെ ജീവിച്ചതു ജീവിതമല്ല. രണ്ടു മഹായുദ്ധങ്ങൾ അതാണു നമ്മെ പഠിപ്പിച്ചതു്. ചിന്തകന്മാർക്കുകൂടി മാറ്റം
+ഉണ്ടായിരിക്കുന്നു. <ref target="https://ml.wikipedia.org/wiki/George_Bernard_Shaw">ജോർജ് ബർണാഡ്
+ഷാ</ref> പറയുകയുണ്ടായി; ‘കയറാൻ ചെന്ന വണ്ടി പൊയ്ക്കളഞ്ഞു; അടുത്ത വണ്ടിക്കു വളരെ താമസവുമുണ്ടു്.
+ഇതുപോലെ യുവത്വത്തിന്റെയും വാർദ്ധക്യത്തിന്റെയും ഇടയ്ക്കു നിന്നു വിഷമിക്കയാണു്. ഇന്നത്തെ ജീവിതം
+പൊളിച്ചെഴുതിയേ മതിയാവൂ. വേണ്ടെന്നു പറയുവാൻ ആരും മുതിരുകയില്ല. <ref target="https://ml.wikipedia.org/wiki/Winston_Churchill">ചർച്ചിലി</ref> നെ
+നോക്കുക. അദ്ദേഹം ഇംഗ്ലീഷുകാർക്കു് ആരാധ്യനായിരുന്നു. അപകടഘട്ടത്തിൽ ഇംഗ്ലീഷ് ജനതയെ രക്ഷിച്ച
+ആളാണു്. പക്ഷേ, ഒരു പ്രഭാതത്തിൽ ഇരിക്കുന്ന കസേര മറിഞ്ഞുവീണു. എന്താണു കാരണം?
+പഴയമട്ടിൽത്തന്നെ ജീവിക്കാമെന്നു ചർച്ചിൽ പറഞ്ഞുപോയി. അദ്ദേഹത്തിന്റെ ആരാധകന്മാർകൂടി പറഞ്ഞു,
+ആളിനെ മാറ്റണമെന്നു്.
+</p>
+          <p>യുദ്ധം ജയിക്കാൻ അദ്ദേഹം മതിയായിരുന്നുവെങ്കിൽ, ഭരണത്തിനു മതിയാകാതെവന്നു. പഴയമട്ടു
+തുടരണമെന്നാഗ്രഹിക്കുന്നവൻ ആരായാലും അയാളെ മാറ്റും; മാറ്റണം. ദേവേന്ദ്രന്റെ അച്ഛൻ
+മുത്തുപ്പട്ടരായാൽക്കൂടി മാറ്റണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Winston_Churchill.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചർച്ചിൽ</figDesc>
+          </figure>
+          <p> സകല വശങ്ങളിലും മാറ്റംവരുമ്പോൾ സാഹിത്യത്തിലും മാറ്റംവരുന്നതു സ്വാഭാവികമാണു്. അതിനിടയ്ക്കു
+ചിലതൊക്കെ കൊള്ളരുതാത്തതായേക്കും. പുതിയ മാർഗ്ഗത്തിൽക്കൂടി സഞ്ചരിക്കാൻ തുടങ്ങുമ്പോൾ
+നാലുവശത്തുനിന്നും എതിർപ്പുണ്ടാകുക സ്വാഭാവികമാണു്. മാറ്റം ഇഷ്ടമാണെങ്കിൽത്തന്നെ ഒരു മടിയുണ്ടാവുക
+പതിവാണു്. അൻപതുവർഷമായി താമസിച്ചുകൊണ്ടിരിക്കുന്ന വീടു് വായുവും വെളിച്ചവും കിട്ടാത്തതാണു്.
+മൂർഖൻപാമ്പും പെരുച്ചാഴിയും അതിനുള്ളിൽ കൂടിപാർപ്പുതുടങ്ങിരിക്കുന്നു. ഈ വീട്ടിൽനിന്നു് ഒന്നാംതരം
+ബംഗ്ലാവിലേക്കു താമസം മാറ്റുമ്പോൾ ഒരു വല്ലായ്മ എല്ലാവർക്കും തോന്നുന്നതാണു്. പ്രത്യേകിച്ചു മുത്തശ്ശനും
+മുത്തശ്ശിക്കും. അതുതന്നെയാണു്, പുരോഗമനസാഹിത്യത്തിന്റെ കാര്യത്തിലും.
+</p>
+          <p>പണ്ടും കൊള്ളാവുന്ന സാഹിത്യവും കൊള്ളരുതാത്ത സാഹിത്യവും ഉണ്ടായിട്ടില്ലേ? അന്നു് എന്തുകൊണ്ടു്
+
+എതിർപ്പുണ്ടായില്ല? ഇന്നു് എതിർപ്പു വളരെ വർദ്ധിച്ചിട്ടുണ്ടു്. അതു് അത്യാവശ്യത്തിൽക്കവിഞ്ഞായിട്ടുണ്ടു്.
+പുരോഗമനസാഹിത്യക്കാരെ ഒന്നു കുറ്റം പറയണമെന്നു നിർബ്ബന്ധമുള്ളവരുമുണ്ടു്. സാഹിത്യത്തിന്റെ പരമലക്ഷ്യം
+ആനന്ദമാണെന്നും, അങ്ങനെയുള്ള സാഹിത്യത്തെ വെറും പ്രചരണത്തിനുവേണ്ടി മാറ്റുന്നുവെന്നുമാണു് ഒരു
+കൂട്ടരുടെ പരാതി. ഒരു പുരോഗമനസാഹിത്യകാരനും, സാഹിത്യത്തിന്റെ ആനന്ദധർമ്മത്തിനു് കുറവു
+വരുത്തണമെന്നു് ഇന്നുവരെ പറഞ്ഞിട്ടില്ല. ചിലരുടെ കൃതികളിൽ ആനന്ദധർമ്മം കുറവായേക്കാം. അതു മറ്റൊരു
+കാര്യമാണു്. പണ്ടു് സാഹിത്യത്തിനു് ആനന്ദധർമ്മം മാത്രം മതിയായിരുന്നു. കഞ്ചാവിന്റെ ലഹരിയിൽ മയങ്ങി
+ഇരിക്കുന്നതുപോലെ ഇന്നു് അങ്ങനെ ലഹരിയിൽ മയങ്ങിയിരിക്കുന്നതിനുള്ള ഘട്ടമല്ല. ജീവിതംതന്നെ
+അസാദ്ധ്യമായിരിക്കുന്ന ഘട്ടമാണു്. പലപല പ്രശ്നങ്ങൾക്കും ഉത്തരം കണ്ടുപിടിക്കേണ്ട ഘട്ടമാണു്. അപ്പോൾ
+കേവലം ആനന്ദവുമായി ഇരിക്കണമെന്നു പറഞ്ഞാൽ നടപ്പുള്ള കാര്യമല്ല. സാഹിത്യകാരൻ ഒരു
+സമുദായജീവിയാണു്. മനുഷ്യസമുദായത്തെ നയിക്കേണ്ട ചുമതല അവനുണ്ടു്. അതു മറക്കാൻ എങ്ങനെ കഴിയും?
+</p>
+          <p>പുരോഗമനസാഹിത്യകാരനു വ്യക്തി സ്വാതന്ത്ര്യമില്ലെന്നാണു മറ്റൊരാക്ഷേപം, സകലർക്കും ചില
+പരിമിതികളുണ്ടു്. അതുപോലെ സാഹിത്യകാരനുമുണ്ടു്. പ്രചോദനം വന്നാലുടനെ
+അങ്ങെഴുതിക്കൊള്ളണമെന്നാണു് ഇക്കൂട്ടരുടെ വാദം. മേഘത്തെ പറ്റിയുള്ള കവിത തോന്നിയാലുടനെ
+അതങ്ങെഴുതിക്കൊള്ളണമെന്നു്. മലമൂത്രവിസർജ്ജനത്തെപ്പറ്റി തോന്നിയാലുടനെ സ്ഥലവും സമയവും
+നോക്കാതെ ആരും അതു ചെയ്യാറില്ല. ഒരുദ്ദേശവും കൂടാതെ മഠയൻകൂടി ഇന്നു് ഒന്നും ചെയ്യാറില്ല.
+</p>
+          <p>സാഹിത്യകാരന്മാരൊക്കെ ഇന്ന പാർട്ടിയിൽ ചേരണമെന്നോ ഇന്നതേ എഴുതാവൂ എന്നോ ഇതേവരെ ഒരു
+സാഹിത്യകാരനും പറഞ്ഞിട്ടില്ല. ഓരോ സാഹിത്യകാരൻ ഓരോ രംഗത്തു നിൽക്കും. സാഹിത്യകാരൻ
+കോൺഗ്രസ്സുകാരനോ, കെ. എസ്. പി.-ക്കാരനോ, കമ്മ്യൂണിസ്റ്റോ ആയിരിക്കാം. പക്ഷേ, അതുകൊണ്ടൊന്നും
+അവന്റെ വ്യക്തിസ്വാതന്ത്ര്യം നഷ്ടമാകുന്നില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rabindranath_Tagore.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടാഗോർ</figDesc>
+          </figure>
+          <p> സൗന്ദര്യവാദികൾ, കേവലമായ ആനന്ദം എന്നും സനാതനധർമ്മം എന്നും മറ്റും പറയുന്നു. കേവലമായ ഒരു
+സൗന്ദര്യമുണ്ടോ? എനിക്കറിഞ്ഞുകൂടാ. ആപേക്ഷികമാണു സൗന്ദര്യം. കലർപ്പില്ലാത്ത സൗന്ദര്യത്തിൽ
+ആനന്ദിക്കാവുന്ന ഒരു ഘട്ടം വന്നേക്കാം. പക്ഷേ, ഇന്നതിനു സമയമില്ല. പൂനിലാവിൽ പരിശോഭിക്കുന്ന
+ടാജ്മഹാളിനെ <ref target="https://ml.wikipedia.org/wiki/Rabindranath_Tagore">ടാഗോറി</ref>
+നിഷ്ടമാണു്. അദ്ദേഹം അതിനെ സ്തുതിക്കും; ആരാധിക്കും. എന്നാൽ <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref> ടാജ്മഹാൾ
+കാണുമ്പോൾ, എത്രയോ ലക്ഷം അടിമകളുടെ കണ്ണുനീരിലും വിയർപ്പുതുള്ളികളിലുമാണു്, ഇതു
+കെട്ടിപ്പടുത്തിരിക്കുന്നതെന്നോർത്തു ശോകമൂകനാകുന്നു. ഇതിലും സൗന്ദര്യമില്ലേ? ഗാന്ധിജിയുടെ വാക്കുകളിലെ
+സൗന്ദര്യമാണു് ഇന്നാവശ്യം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗാന്ധിജി</figDesc>
+          </figure>
+          <p> ഗാന്ധിജി പറയുന്നു: ‘കലയും സാഹിത്യവും നമുക്കാവശ്യമുണ്ടു്. അവ ബഹുലക്ഷങ്ങളുടെ ജീവിതത്തോടു
+ബന്ധപ്പെട്ടവയും അവർക്കുക്കൂടി ആസ്വദിക്കാവുന്നവയും ആയിരിക്കണം.’
+</p>
+          <p>ജനകീയസാഹിത്യമാണു് ഇന്നാവശ്യമായിരിക്കുന്നതു്. ജനങ്ങൾ പട്ടിണിക്കൊണ്ടു ലക്ഷക്കണക്കായി
+മരിച്ചുവീഴുമ്പോൾ, സാഹിത്യകാരൻ സൗന്ദര്യത്തിന്റെ മഹിമയെ പ്രകീർത്തിക്കണോ?
+</p>
+          <p>‘കലയ്ക്കു ജീവിതവുമായി ബന്ധമില്ലെങ്കിൽ അതു് അജന്താഗുഹപോലിരിക്കും!’ എന്നു <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> പറയുന്നതു
+ഇതുകൊണ്ടാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jnehru.jpg" rendition="gra"/>
+            <figDesc style="thumb">നെഹ്റു</figDesc>
+          </figure>
+          <p> ജീവിതത്തിൽ, കറുത്ത വശങ്ങൾ വളരെ കൂടിനിൽക്കുമ്പോൾ സാഹിത്യകാരന്റെ പ്രതിപാദ്യവസ്തു
+അതാകുന്നതു് എങ്ങനെ തെറ്റാകും? സമുദായത്തിന്റെ കൊള്ളരുതായ്മകൾ പുരോഗമനസാഹിത്യകാരൻ
+കാണിച്ചുതരുകയാണു ചെയ്യുന്നതു്. വേശ്യയെ കല്ലെറിയാൻപോയവരോടു്, കുറ്റം ചെയ്തിട്ടില്ലാത്തവൻ കല്ലെറിയാൻ
+ക്രിസ്തു പറഞ്ഞപ്പോൾ എല്ലാവരും മാറിക്കളഞ്ഞു. നമ്മുടെ പ്രവൃത്തിയുടെ ഫലം നേരിട്ടു ഏല്ക്കുവാൻ ഒരു മടിയുണ്ടു്;
+വിശ്വാമിത്രൻ ശകുന്തളയെ കണ്ടപ്പോൾ തിരിഞ്ഞുകളഞ്ഞതുപോലെ. നമ്മെ പിടിച്ചുകൊണ്ടുപോയി കണ്ണാടിയുടെ
+മുൻപിൽ നിറുത്തുകയാണു് പുരോഗമനസാഹിത്യകാരൻ ചെയ്യുന്നതു്. അപ്പോൾ ദേഷ്യപ്പെടുന്നതു് എന്തിനാണു്?
+</p>
+          <p>മനുഷ്യസമുദായത്തെ നന്നാക്കാനുള്ള ഉദ്ദേശത്തോടുകൂടി വരുന്ന ഏതു പാർട്ടിയേയും നാം
+സ്വാഗതംചെയ്യണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Swami_Vivekananda.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്വാമി വിവേകാനന്ദൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Vivekananda">സ്വാമി
+വിവേകാനന്ദൻ</ref> പറയുകയുണ്ടായി: ‘ഒരു പട്ടിപോലും പട്ടിണികിടന്നാൽ അതിനെ തീറ്റുക
+എന്നുള്ളതാണു് എന്റെ മതം.’ ഈ പട്ടിണിക്കു കാരണമായ വ്യവസ്ഥിതിയെ തട്ടിമാറ്റുകതന്നെവേണം. ആ
+ലക്ഷ്യത്തിലേക്കു സാഹിത്യകാരൻ വഴി തെളിക്കണം. ഇതിനുവേണ്ടി പുറപ്പെടുന്ന സാഹിത്യകാരനെ, നിങ്ങൾ
+കല്ലെറിയരുതു്, ചമ്മട്ടികൊണ്ടടിക്കരുതു്. ഇത്രമാത്രം നിങ്ങൾ ചെയ്താൽമതി.
+</p>
+          <p>കാഞ്ഞിരപ്പള്ളി സഹൃദയഗ്രന്ഥശാലയുടെ വാർഷികസമ്മേളനത്തിൽ ചെയ്ത പ്രസംഗത്തിന്റെ സംഗ്രഹം.
+</p>
+          <p>
+(വിമർശനവും വീക്ഷണവും)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Purogamanasahithyam (ml:
+പുരോഗമനസാഹിത്യം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Purogamanasahithyam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, പുരോഗമനസാഹിത്യം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 22, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Charles_West_Cope_The_Night_Alarm_The_Advance.jpg">A Night Alarm: The Advance!,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Charles_West_Cope">Charles
+West Cope</ref>  (1811–1890). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-purogamana.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhapurogamana.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

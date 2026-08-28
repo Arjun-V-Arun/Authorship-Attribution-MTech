@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വാൾട്ടയർ</title>
+          <title xml:lang="en" type="main">Voltaire</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 23, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വാൾട്ടയർ</title>
+              <title xml:lang="en" type="main">Voltaire</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Voltaire</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>വാൾട്ടയർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 23, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Blind_Beggar.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Jules_BastienLepage_The_Blind_Beggar.jpg">The Blind Beggar,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jules_Bastien-Lepage">Jules
+Bastien-Lepage</ref>  (1848–1884). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വാൾട്ടയർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വാൾട്ടയർ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kumaran_Asan_1973_stamp_of_India.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആശാൻ</figDesc>
+          </figure>
+          <p style="noindent"> ‘ഇന്നത്തെ അറിവു് നാളത്തെ അജ്ഞാനമാകുന്നു’ എന്നു് വെത്സ്
+അഭിപ്രായപ്പെട്ടിട്ടുണ്ടു്. ‘ഇന്നലെ ചെയ്തോരബദ്ധം’ ഇന്നത്തെ ആചാരമാകുമെന്നും അതുതന്നെ നാളത്തെ
+ശാസ്ത്രമായിപ്പോകാമെന്നും <ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">ആശാൻ</ref>
+പ്രവചിച്ചിരിക്കുന്നു. മനുഷ്യസമുദായത്തിന്റെ പുരോഗമനത്തിനു് സ്വതന്ത്രമായ യുക്തി വിചാരവും
+നവീനവിജ്ഞാനബോധവും എത്രമാത്രം ആവശ്യമാണെന്നാണു് പ്രസ്തുതവാക്യങ്ങൾ തെളിയിക്കുന്നതു്. എന്നാൽ,
+വിജ്ഞാനമാർഗത്തിലുള്ള സ്വതന്ത്രചിന്തയും പുരോഗമനവും തടയപ്പെട്ടു് ജനസമുദായം ഓരോ കാലഘട്ടത്തിലും
+ബുദ്ധിപരമായ സ്തംഭിതാവസ്ഥയിൽ ആയിപ്പോയിട്ടുണ്ടു്. മതപരമായ അന്ധത, വീരാരാധന, ഗതാനുഗതികത്വം
+ഇങ്ങനെ പലതും ഈ ബുദ്ധിസ്തംഭനത്തിനു് കാരണങ്ങളായിത്തീരുന്നു. അമിതമായ ഗാന്ധിഭക്തികൊണ്ടു്
+ഇൻഡ്യയിലും ഈ ദോഷം കടന്നുകൂടിയിട്ടുണ്ടെന്നു് <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാൽ</ref>
+ഒരിക്കൽ പറയുകയുണ്ടായി. കെട്ടിക്കിടക്കുന്ന ജലം ദുഷിക്കുമ്പോൾ അതു് വെട്ടിത്തുറന്നുവിട്ടു് സ്വച്ഛജലത്തിനു്
+പ്രവേശനമാർഗം ഉണ്ടാക്കുന്നതുപോലെ ലോകത്തെ ബുദ്ധിസ്തംഭനത്തിൽനിന്നും ഉണർത്തി
+സ്വതന്ത്രചിന്തയിൽക്കൂടി മുന്നോട്ടു് തള്ളിവിടുവാൻ ഓരോ കാലഘട്ടത്തിലും യുക്തിവാദികളായ പണ്ഡിതന്മാർ
+അവതരിച്ചിട്ടുണ്ടെന്നു് ചരിത്രം പരിശോധിച്ചാൽ കാണാം. <ref target="https://ml.wikipedia.org/wiki/Socrates">സോക്രട്ടീസിന്റെ</ref> ആവിർഭാവം
+ഇങ്ങനെയൊരു കാലഘട്ടത്തിലായിരുന്നു. എന്നാൽ, അദ്ദേഹത്തിൽനിന്നും ലോകത്തിനു് ലഭിച്ച നവീനബോധം
+അന്നത്തെ അന്ധതയെ ഒട്ടൊക്കെ നീക്കംചെയ്യുന്നതിനു് സഹായിച്ചെങ്കിലും പിന്നീടു് വളരെക്കാലത്തേക്കു്
+അതുതന്നെ സർവപ്രമാണമായി പരിണമിച്ചു് ജനസമുദായത്തിന്റെ സ്വതന്ത്രചിന്താവ്യാപാരത്തിനു്
+വിഘാതമായിത്തീർന്നു. വിജ്ഞാനവീഥിയിൽ മുന്നോട്ടുനീങ്ങാൻ സമ്മതിക്കാതെ സോക്രട്ടീസിന്റെ ശിഷ്യവർഗം
+എത്രയോ കാലം ലോകത്തെ ഭരിച്ചുകൊണ്ടിരുന്നു. ഇങ്ങനെ വന്നുചേർന്ന ചിന്താജാഡ്യത്തിൽനിന്നും ലോകം
+വീണ്ടും ഉണർന്നതു് ക്രിസ്തുവിന്റെ രംഗപ്രവേശത്തോടുകൂടിയാണു്. പക്ഷേ, അന്നുണ്ടായ ഉണർച്ച അതിനുശേഷം
+വന്നു ചേർന്ന ദീർഘനിദ്രയ്ക്കുള്ള ഒരു ഒരുക്കം മാത്രമായിരുന്നു. സ്വതന്ത്രചിന്തകനായിരുന്ന ക്രിസ്തുവിന്റെ
+നാമധേയത്തിൽ അസ്വാതന്ത്ര്യത്തിന്റെ കൊടിമരത്തറയും അന്ധവിശ്വാസത്തിന്റെ കൊടിക്കൂറയും ആയ
+പള്ളിമതം സ്ഥാപിതമായി. വിജ്ഞാനപുരോഗമനത്തിൽ ലോകത്തിനു് നേരിട്ട ഏറ്റവും വലിയ ആപത്തായിരുന്നു
+അതു്. പള്ളിമതം യുക്തിവാദത്തിന്റെ ഒരു ശവപ്പെട്ടിയായിത്തീർന്നു. ചിന്തിക്കാൻ ആർക്കും
+അധികാരമില്ലെന്നായി. ഇത്രയും ശക്തിയേറിയ ഒരു അടിമച്ചങ്ങല അതിനു് മുമ്പോ പിമ്പോ മനുഷ്യന്റെ മനസ്സിനെ
+ബന്ധിച്ചിട്ടില്ല. അതു് വെട്ടിമുറിക്കാതെ പരിപാലിക്കുന്നതിനു് അന്നത്തെ രാജശക്തിയും നിയുക്തമായി.
+പള്ളിമതത്തിനു് രാജശക്തികൂടി കരഗതമായപ്പോൾ അതിനു് എതിർനിൽക്കാൻ ആരും ധൈര്യപ്പെട്ടില്ല.
+പതിനെട്ടാം നൂറ്റാണ്ടിന്റെ ആരംഭം വരെ ഈ അന്ധകാരാവസ്ഥ നീണ്ടുനിന്നു. മർത്ത്യസമുദായം മാനസികമായി
+ഏറ്റവും അധഃപതിച്ച ഒരു കാലഘട്ടമാണിതു്. ഇങ്ങനെ ഭയങ്കരമായ ഇരുട്ടിൽ ആണ്ടുപോയ ലോകത്തിനു്
+പ്രകാശംകൊടുക്കുവാൻ ഒന്നാമതായി പശ്ചിമചക്രവാളത്തിൽ ഉദിച്ച നക്ഷത്രമാണു് <ref target="https://ml.wikipedia.org/wiki/Voltaire">വാൾട്ടയർ</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Voltaire1.jpg" rendition="gra"/>
+            <figDesc style="thumb">വാൾട്ടയർ</figDesc>
+          </figure>
+          <p> ഏതൊരു കാലഘട്ടത്തിലാണു് വാൾട്ടയർ ജീവിച്ചിരുന്നതെന്നോർക്കുമ്പോളാണു് അദ്ദേഹത്തിന്റെ
+ജീവിതമഹത്ത്വം തികച്ചും വെളിപ്പെടുന്നതു്. 1694 നവംബർ 21-ാം തിയതി ഉദിച്ച ആ നക്ഷത്രം 1778 മെയ്മാസം
+
+30-ാം തിയതിവരെ പ്രകാശിച്ചു് അസ്തമിച്ചു. ആ 84 നീണ്ട വർഷങ്ങളിൽ അറുപതും പള്ളിമതത്തോടു്
+പടവെട്ടാൻവേണ്ടിത്തന്നെ വിനിയോഗിക്കപ്പെട്ടു! ഇത്രയും നീണ്ടകാലം നിരന്തരമായി മതശക്തിയോടും അതിന്റെ
+താങ്ങായി നിന്ന രാജശക്തിയോടും സുധീരം പടപൊരുതിയ മറ്റൊരു യുക്തിവാദിയുണ്ടെന്നു് തോന്നുന്നില്ല.
+ഫ്രാൻസിലായിരുന്നു അദ്ദേഹം ജനിച്ചതു്. രാജാവും പുരോഹിതനും ഒന്നായി നിന്നു് അടിമത്തം പുലർത്തിയിരുന്ന
+അക്കാലത്തു് ആർക്കും ഒരക്ഷരംപോലും പള്ളിമതത്തിനെതിരായി പറയുന്നതിനോ എഴുതുന്നതിനോ
+സ്വാതന്ത്ര്യമുണ്ടായിരുന്നില്ല. രാജ്യം മുഴുവനും പളിയുടെ സ്വത്തും പുരോഹിതൻ ഭരണാധികാരിയും
+എന്നമട്ടിലായപ്പോൾ അവിടത്തെ ജനങ്ങൾക്കു് നേരിടാവുന്ന കഷ്ടത ഏകദേശം ഊഹ്യമാണല്ലോ. എത്രയോ
+ഗ്രന്ഥകാരന്മാരെ അന്നു് തടവിലിടുകയും തൂക്കിക്കൊല്ലുകയും ചെയ്തു! ഇങ്ങനെ മർദ്ദനവും നരവേട്ടയും
+നടമാടിയിരുന്ന കാലത്തു് ഫ്രാൻസുരാജ്യം മാത്രമല്ല, യൂറോപ്പുമുഴുവൻ പ്രതിദ്ധ്വനിക്കത്തക്കവണ്ണം
+സ്വാതന്ത്ര്യകാഹളം മുഴക്കുവാൻ വാൾട്ടയർ ധൈര്യപ്പെട്ടു. അല്പകാലംകൊണ്ടു് പശ്ചിമദേശത്തിലെ ഒരു
+വിജ്ഞാനകേന്ദ്രമായിത്തീർന്നു അദ്ദേഹം. ഒരു സേനാനിയുടെ കരവാളിനേക്കാൾ ശക്തി വാൾട്ടയറുടെ
+പേനയ്ക്കുണ്ടായിരുന്നു. അതിൽനിന്നും നാനാമുഖമായി പ്രവഹിച്ചുകൊണ്ടിരുന്ന നിശിതനിരൂപണശരങ്ങൾ
+അന്ധവിശ്വാസപരമ്പരയുടെ മാറിടം പിളർന്നു. പള്ളിമതത്തിന്റെ ബീഭത്സത ഇത്ര നഗ്നമായി വെളിപ്പെടുത്തുവാൻ
+മറ്റാർക്കും കഴിഞ്ഞില്ല. ഒരു കൂസലുംകൂടാതെ ആ അന്ധവിശ്വാസക്കൂമ്പാരത്തെ തട്ടിത്തകർക്കുവാൻ
+അദ്ദേഹത്തിന്റെ കരങ്ങൾക്കേ ശക്തിയുണ്ടായുള്ളു. യൂറോപ്പിലെ അന്നത്തെ ഒരു ജീവനുള്ള ഗ്രന്ഥശാലയെന്ന
+മട്ടിലായിരുന്നു ജനങ്ങൾ അദ്ദേഹത്തെ ആരാധിച്ചതു്. ഉപന്യാസങ്ങൾ, കവിതകൾ, നോവലുകൾ, നാടകങ്ങൾ,
+ചരിത്രം ഇങ്ങനെ വിവിധ വകുപ്പുകളായി അദ്ദേഹം എഴുതിക്കൂട്ടിയ ഗ്രന്ഥങ്ങൾക്കു് കണക്കില്ല. യൂറോപ്പു മുഴുവനും
+വാൾട്ടയരുടെ തലച്ചോറുകൊണ്ടു് നിറഞ്ഞു എന്നാണു് ഒരു നിരൂപകൻ അദ്ദേഹത്തെപ്പറ്റി അഭിപ്രായപ്പെട്ടിട്ടുള്ളതു്.
+അനന്തരകാലത്തു് പാശ്ചാത്യദേശങ്ങളിൽ പടർന്നുപിടിച്ചു് ഒടുവിൽ റഷ്യയിൽ അടിയുറച്ച
+നിരീശ്വരപ്രസ്ഥാനത്തിനു് ആദ്യമായി മാർഗം തുറന്നതു് വാൾട്ടയരുടെ ഗ്രന്ഥങ്ങളാകുന്നു. ഫ്രഞ്ച്
+വിപ്ലവകാരികൾക്കു് പ്രചോദനം നൽകുന്നതിനും അവ പര്യാപ്തങ്ങളായിത്തീർന്നു. യൂറോപ്പിന്റെ
+നാനാഭാഗങ്ങളിലും അദ്ദേഹത്തിന്റെ ഗ്രന്ഥങ്ങൾക്കു് പ്രചുരപ്രചാരം ലഭിച്ചു.
+</p>
+          <p>ഫ്രാൻസിൽ അദ്ദേഹം രാജാവിന്റെ ശത്രുവായിത്തീർന്നെങ്കിലും അയൽരാജ്യങ്ങളിലെ രാജകൊട്ടാരങ്ങളിൽ
+അദ്ദേഹത്തിനു് സ്വാഗതം ലഭിക്കുകയുണ്ടായി. റഷ്യയിലെ കാതറയിൻ ചക്രവർത്തിനി ഈ
+പണ്ഡിതചക്രവർത്തിയുമായി കത്തിടപാടുകൾ നടത്തിക്കൊണ്ടിരുന്നു. ഈ സുഹൃൽബന്ധംവഴി അദ്ദേഹത്തിന്റെ
+ഗ്രന്ഥങ്ങൾ റഷ്യയിൽ ധാരാളമായി പ്രചരിച്ചു. അതുപോലെ ജർമനിയിലും വാൾട്ടയർക്കു് രാജബഹുമതി ലഭിച്ചു.
+ഇങ്ങനെ സർവജന സമാരാധിതനായിത്തീർന്നതുകൊണ്ടാണു് ഫ്രാൻസിലെ രാജകരങ്ങൾക്കുപോലും
+അദ്ദേഹത്തെ ധ്വംസിക്കുന്നതിനു് ശക്തിയുണ്ടാകാതെപോയതു്. എങ്കിലും ഇരുപത്തേഴുവർഷം നാടുകടത്തപ്പെട്ടു്
+അദ്ദേഹത്തിനു് വിദേശവാസം അനുഭവിക്കേണ്ടിവന്നു. അതുകഴിഞ്ഞു് പാരീസ് നഗരത്തിലേക്കുണ്ടായ
+അദ്ദേഹത്തിന്റെ തിരിച്ചുവരവു് ഒരു വലിയ ജൈത്രയാത്രയായിരുന്നു. ജനങ്ങൾ ലക്ഷക്കണക്കിനു് ഒന്നിച്ചുകൂടി ആ
+പണ്ഡിതകേസരിയെ എതിരേറ്റു. രാജാവും പുരോഹിതവർഗവും മൂകഭാവം അവലംബിച്ചതേയുള്ളു.
+പ്രജാലക്ഷങ്ങളുടെ ആരാധനാമൂർത്തിയായിത്തീർന്ന ഒരു മഹാപണ്ഡിതന്റെ മുമ്പിൽ രാജശക്തി
+നിസ്സഹായമായി തലകുനിച്ചുപോയ ഒന്നാമത്തെ സംഭവമാണതു്. പേനയ്ക്കു വാളിനേക്കാൾ ശക്തികൂടുമെന്നു് ആ
+സംഭവം വെളിപ്പെടുത്തി. ആശയങ്ങളുടെ അപ്രതിഹതമായ പ്രവാഹത്തെ തടഞ്ഞുനിർത്തുവാൻ സാമ്രാജ്യം
+ഭരിക്കുന്ന ചക്രവർത്തിക്കുകൂടി സാദ്ധ്യമല്ല എന്നു് നാടുകടത്തപ്പെട്ട വാൾട്ടയരുടെ പ്രത്യാഗമനത്തിൽ
+എല്ലാവർക്കും അനുഭവപ്പെട്ടു. ഇങ്ങനെ അന്നു് അദ്ദേഹത്തിന്റെ ജീവിതംകൊണ്ടു് സ്ഥാപിതമായ
+ചിന്താസ്വാതന്ത്ര്യവും യുക്തിവാദവുമാണു് അനന്തരകാലത്തെ വിജ്ഞാനാഭിവൃദ്ധിക്കു് അടിസ്ഥാനമുറപ്പിച്ചതു്.
+</p>
+          <p>
+(വിചാരവിപ്ലവം 1943)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Voltaire (ml: വാൾട്ടയർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Voltaire, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, വാൾട്ടയർ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 23, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Jules_BastienLepage_The_Blind_Beggar.jpg">The Blind Beggar,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jules_Bastien-Lepage">Jules
+Bastien-Lepage</ref>  (1848–1884). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-voltaire.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-voltaire.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

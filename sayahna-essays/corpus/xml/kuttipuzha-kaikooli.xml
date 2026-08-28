@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മുഖസ്തുതിയും കൈക്കൂലിയും</title>
+          <title xml:lang="en" type="main">Mughasthuthiyum Kaikooliyum</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 8, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മുഖസ്തുതിയും കൈക്കൂലിയും</title>
+              <title xml:lang="en" type="main">Mughasthuthiyum Kaikooliyum</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Mughasthuthiyum Kaikooliyum</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മുഖസ്തുതിയും കൈക്കൂലിയും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 8, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Secret_Garden-Kirk.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Secret_Garden-Kirk001.jpg">The Secret Garden,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Frances_Hodgson_Burnett">Frances
+Hodgson Burnett</ref>  (1849–1924). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മുഖസ്തുതിയും കൈക്കൂലിയും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മുഖസ്തുതിയും കൈക്കൂലിയും</head>
+        <div type="lsection">
+          <p style="noindent">മനുഷ്യനെ അവന്റെ മഹത്വത്തിൽനിന്നു് താഴോട്ടു് തള്ളുന്ന രണ്ടു് ദുശ്ശീലങ്ങളാണു്
+മുഖസ്തുതിയും കൈക്കൂലിയും. കൈക്കൂലി നിന്ദ്യവും നിഷിദ്ധവുമാണെന്നു് പരക്കെ പറയാറുണ്ടു്. എന്നാൽ,
+മുഖസ്തുതിക്കു് എന്തുകൊണ്ടോ അത്രത്തോളം താണനിലയില്ല. കൈക്കൂലി കൊടുക്കുന്നതും വാങ്ങുന്നതും
+ആക്ഷേപാർഹമെന്നു് മാത്രമല്ല, ഇപ്പോൾ കുറ്റകരംകൂടിയാണു്. മുഖസ്തുതി ചൊല്ലുന്നതും കേൾക്കുന്നതും അത്ര
+നല്ലതല്ലെങ്കിലും സഹ്യവും സാധാരണവുമായി കരുതപ്പെടുന്നു. അതിൽ വലിയ മാനക്കേടൊന്നും ആളുകൾ
+കാണുന്നില്ല. മുഖസ്തുതികേട്ടു് മയങ്ങുന്നതു് ഉത്തമന്റെ ലക്ഷണമല്ലെന്നാണു് ഒരു വയ്പു്. അതു് ശരിയുമാണു്.
+ക്ഷുദ്രമായ ഒരു ഹൃദയദൗർബല്യമാണല്ലോ അതു്. പക്ഷേ, ഈ സമ്മോഹനവിദ്യയിൽ
+മയങ്ങിപ്പോകാത്തവരാരെങ്കിലും ഉണ്ടോ? അസാമാന്യമായ ആത്മസംയമനം ഉണ്ടെങ്കിലേ അതിൽനിന്നു്
+മോചനം നേടാൻ കഴിയൂ. നിന്ദാസ്തുതികളിൽ സമചിത്തത പാലിക്കണമെന്നു് ഗീത ഉപദേശിക്കുന്നു. ഇതെത്ര
+പേർക്കു് സാദ്ധ്യമാകും? ബഹുധാ സംഭാവിതരും വിശിഷ്ടസ്വഭാവരും ആയിട്ടുള്ളവരിൽപ്പോലും ഈ ദൗർബല്യം
+പ്രത്യക്ഷപ്പെടുന്നുണ്ടു്. ഏതാണ്ടൊരമളിപിണയൽ തന്നെയാണിതു്. രാവണൻ, ദുര്യോധനൻ തുടങ്ങിയ പുരാണ
+കഥാപുരുഷന്മാരും സ്തുതിപാഠകരുടെ വലയിൽപ്പെട്ടു് വലഞ്ഞുപോയിട്ടുണ്ടു്. പഞ്ചതന്ത്രത്തിൽ മുഖസ്തുതികൊണ്ടു്
+കാക്കയെപ്പറ്റിച്ച കുറുക്കന്റെ കഥ പ്രസിദ്ധമാണല്ലോ. മനുഷ്യസ്വഭാവത്തിന്റെ പ്രതീകങ്ങളാണു് അതിലെ
+കുറുക്കനും കാക്കയും. കൈക്കൂലിയോളം ഗർഹ്യമല്ലാത്ത ഈ മുഖസ്തുതിയെ ഇനിയൊന്നു് വിശകലനം
+ചെയ്തുനോക്കൂ. തത്ത്വമാലോചിച്ചാൽ അതു് കൈക്കൂലിയുടെ ഒരു സൂക്ഷ്മരൂപമല്ലേ? വാഗ്രൂപേണയുള്ള കൈക്കൂലി
+എന്നേ വ്യത്യാസമുള്ളു. എ, ബിയെ സ്തുതിക്കുന്നു; എന്തിനു്? സ്വന്തം കാര്യം നേടാൻ. ബി അതുകേട്ടു് പ്രസാദിച്ചു്
+കാര്യം നേടിക്കൊടുക്കുന്നു. ഇതാണല്ലോ സാധാരണ രീതി. പത്തുരൂപാ കോഴ കൊടുത്തു് കാര്യം സാധിക്കുന്നതും
+ഇതും തമ്മിലെന്താണു് വ്യത്യാസം? ഒന്നു് സൂക്ഷ്മവും പരസ്യവുമായ മാർഗമാണെങ്കിൽ മറ്റതു് സ്ഥൂലവും
+രഹസ്യവുമായ മാർഗം. അത്രമാത്രമേ ഇവിടെ ഭേദമുള്ളു. മാർഗവും ലക്ഷ്യവും സാരാംശത്തിൽ രണ്ടിലും
+ഒന്നുതന്നെ.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ഭാവിയിൽ കണ്ണു്</head>
+          <p style="noindent">ചിലർ താൽക്കാലികോദ്ദേശമൊന്നും കൂടാതെ പരഗുണോദ്ഘോഷം
+നടത്തിയേക്കാം. എന്നാൽ, അവർക്കും ഭാവിയിൽ ഒരു കണ്ണുണ്ടായിരിക്കും. എന്തെങ്കിലും കാര്യം കാണാതെ
+തികച്ചും പ്രതിഫലനിരപേക്ഷമായി മുഖസ്തുതിയിൽ ഏർപ്പെടുന്നവരുണ്ടോ എന്തോ? പണ്ടു് രാജാക്കന്മാർ
+വൈതാളികരെന്നൊരു കൂട്ടരെ ശമ്പളം കൊടുത്തു് പാർപ്പിച്ചിരുന്നു. അവരുടെ ജോലി പ്രതിദിനം രാജസ്തുതിഗീതം
+മുഴക്കലാണു്. ഭരണക്ലേശംകൊണ്ടു് രാജാവിന്റെ മനസ്സു് തളരുമ്പോൾ അതിനു് ഒരുന്മേഷം
+കൊടുക്കാൻവേണ്ടിയാണത്രെ ഇങ്ങനെയൊരു സ്തുതിഡിപ്പാർട്ടുമെന്റ് ഏർപ്പെടുത്തിയിരുന്നതു്. ഇന്നത്തെ
+ജനകീയഭരണകർത്താക്കൾക്കും സ്വേച്ഛാധിപതികൾക്കും ഉണ്ടു് സ്തുതിപാഠകന്മാർ. പക്ഷേ, അവർക്കു് ശമ്പളം
+കൊടുക്കേണ്ടതില്ല. ഈ തൊഴിൽ അവർ സ്വയം ഏറ്റെടുത്തിരിക്കയാണു്. ശമ്പളത്തെക്കാൾ വലിയ വരുമാനം
+എപ്പോഴെങ്കിലും അതിൽനിന്നുണ്ടാകുകയും ചെയ്യും.
+</p>
+          <p>എന്തുകൊണ്ടാണു് മനുഷ്യൻ മുഖസ്തുതിയിൽ മയങ്ങിപ്പോകുന്നതു്? എല്ലാവരിലും ഒരു ഞാൻ ഉണ്ടല്ലോ. ആ
+ഞാൻതന്നെയാണു് ഇതിനു് കാരണം. അതൊരു ദുർബലതന്തുവാണു്. അതിന്മേൽ പിടിച്ചൊന്നു്
+കിക്കിളിപ്പെടുത്തിയാൽ ഏതൊരു ധീരനും ഒട്ടൊക്കെ ഇളകിപ്പോകും. ഞാനെന്ന ഭാവം മൂത്തുവരുമ്പോഴാണു്
+അതു് ആത്മപ്രശംസയും അഹങ്കാരവുമായി പരിണമിക്കുന്നതു്. സ്വയം പ്രശംസിക്കുന്നതിനേക്കാൾ
+ശ്രവണമധുരമാകുമല്ലോ അന്യനിൽനിന്നു് കേൾക്കുന്ന സ്തുതി. ചിലർ വിനയംകൊണ്ടു് ഈ ഭാവം തലപൊക്കാതെ
+നോക്കും. എന്നാലും മുഖസ്തുതികേൾക്കുമ്പോൾ, കുഴലൂത്തു് കേൾക്കുന്ന പാമ്പിനെപ്പോലെ അതു്
+ഉള്ളിൽക്കിടന്നാടാതിരിക്കയില്ല. “ഞാനെന്നഭാവമതു് തോന്നായ്കവേണമിഹ” എന്നു് <ref target="https://ml.wikipedia.org/wiki/Thunchaththu_Ezhuthachan">എഴുത്തച്ഛൻ</ref>
+പാടിയതു് വെറുതെയാണോ? മനുഷ്യൻ അപകടത്തിൽ ചാടുന്നതെല്ലാം അതിന്റെ പ്രേരണകൊണ്ടല്ലേ?
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">സ്തോത്രവും വഴിപാടും</head>
+          <p style="noindent">മനുഷ്യരുടെയിടയിൽ കൊള്ളരുതാത്തതായി കരുതപ്പെടുന്ന നടപടികൾ
+മതമണ്ഡലത്തിലെത്തുമ്പോൾ പരിശുദ്ധങ്ങളായിത്തീരുക സാധാരണമാണു്. നരഹത്യ ഭദ്രകാളിയുടെ
+മുമ്പിലായാൽ വിശ്വാസികൾക്കു് വിശുദ്ധബലിയായിത്തീരുനില്ലേ? ഇതുപോലെ എത്രയോ ഉദാഹരണങ്ങൾ ഉണ്ടു്.
+അങ്ങനെ മുഖസ്തുതിക്കും കൈക്കൂലിക്കും ഈശ്വരസന്നിധിയിൽ ഉൽകൃഷ്ടപദവി ലഭിച്ചു. രണ്ടിനെയും
+മഹത്വപ്പെടുത്തിയെടുത്തപ്പോൾ അവ സ്തോത്രവും വഴിപാടുമായി മാറി. ദേവാലയത്തിൽ രണ്ടിനും പവിത്രതയും
+ബഹുമതിയും കിട്ടി. മനുഷ്യന്റെ സൃഷ്ടിയാണല്ലോ ദൈവം, അവന്റെ ബൃഹൽക്കരിച്ച ഒരു പ്രതിരൂപംതന്നെയാണു്
+ആ സൃഷ്ടിയിലും പ്രതിഫലിക്കുന്നതു്. മനുഷ്യൻ കഴിക്കുന്ന ആഹാരവും അണിയുന്ന ആഭരണങ്ങളും അവന്റെ
+സ്വഭാവവിശേഷങ്ങളും മറ്റും അവൻ ദൈവത്തിനും സമർപ്പിച്ചു. മുഖസ്തുതികൊണ്ടു് മനുഷ്യൻ
+സന്തോഷിക്കുന്നതുപോലെ ദൈവവും പ്രസാദിക്കുമെന്നാണു് സങ്കല്പം. പുരാണേതിഹാസകഥകൾ തന്നെ
+നോക്കുക. പാലാഴിയിൽ പള്ളികൊള്ളുന്ന മഹാവിഷ്ണു ഇന്ദ്രാദിദേവന്മാരുടെ മുഖസ്തുതി കേട്ടാലേ ഉണരുകയും
+അനുഗ്രഹിക്കുകയും ചെയ്കയുള്ളു. ആഭരണങ്ങൾ, പട്ടുവസ്ത്രങ്ങൾ മുതലായവകൊണ്ടു് ദേവനെ അലങ്കരിക്കുന്നതും
+മറ്റു് തരത്തിലുള്ള വഴിപാടുകളും നേർച്ചകളും കഴിക്കുന്നതും എന്തിനാണു്? ദേവൻ പ്രസാദിക്കാൻ. ഇതു്
+ഒന്നാംതരം കൈക്കൂലിയല്ലെങ്കിൽ പിന്നെന്താണു്? ഇവയെല്ലാം കൈപ്പറ്റി ദേവൻ ദാതാവായ ഭക്തനെ
+അനുഗ്രഹിക്കുകയും ഉദ്ദിഷ്ടകാര്യം സാധിച്ചുകൊടുക്കുകയും ചെയ്യുമെന്നാണല്ലോ വിശ്വാസം. സത്യസന്ധരായ
+മനുഷ്യർ ഒരു സ്വഭാവദോഷമായി ഗണിക്കുന്ന ഈ ദുശ്ശീലം. ഇങ്ങനെ ദൈവത്തിലാരോപിക്കുന്നവരല്ലേ
+വാസ്തവത്തിൽ ദൈവഹിതന്മാർ? കൈക്കൂലി കൊടുക്കുന്നതും വാങ്ങുന്നതും മനുഷ്യർക്കു് മാനനഷ്ടം വരുത്തുന്ന
+ഒരു ദുഷ്കൃത്യമാണല്ലോ. ദൈവത്തിനെ പങ്കാളിയാക്കുമ്പോൾ അതു് എങ്ങനെ സൽകൃത്യമാകും? ഈവക
+പ്രാകൃതാരാധനാസമ്പ്രദായങ്ങൾ നിലവിലിരിക്കുന്ന കാലത്തോളം മനുഷ്യൻ നന്നാകണമെന്നുപദേശിച്ചാൽ
+അതുകൊണ്ടു് ഫലമുണ്ടാകുമോ? കൊല്ലംതോറും ദേവാലയങ്ങളിൽ വഴിപാടായി വന്നുവീഴുന്ന പൊന്നും
+പണവുമെല്ലാം ഈശ്വരനുകൊടുക്കുന്ന കോഴയാണെന്നു് പറഞ്ഞാൽ ഭക്തജനങ്ങൾ കോപിച്ചേക്കാം.
+എന്തെങ്കിലും വേദാന്തം പറഞ്ഞു് ഇതൊന്നും കോഴയല്ലെന്നു് വാദിക്കാനും ആളുകൾ ഉണ്ടാകും.
+അന്ധവിശ്വാസത്തിലാണ്ടു് ജീവിതയാഥാർത്ഥ്യങ്ങളുടെ നേരെ കണ്ണടയ്ക്കുന്നവരോടു് തർക്കിച്ചിട്ടു് കാര്യമില്ലല്ലോ.
+</p>
+          <p>
+(മനനമണ്ഡലം 1963)
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.4.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.4.1"-->
+        </div>
+        <!--end of "section 0.0/1.4"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Mughasthuthiyum Kaikooliyum
+(ml: മുഖസ്തുതിയും കൈക്കൂലിയും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Mughasthuthiyum Kaikooliyum, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മുഖസ്തുതിയും കൈക്കൂലിയും, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 8, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Secret_Garden-Kirk001.jpg">The Secret Garden,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Frances_Hodgson_Burnett">Frances
+Hodgson Burnett</ref>  (1849–1924). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-kaikooli.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-kaikooli.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

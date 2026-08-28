@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഒരോർമ്മ</title>
+          <title xml:lang="en" type="main">Ororma</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">September 19, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഒരോർമ്മ</title>
+              <title xml:lang="en" type="main">Ororma</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-09-19</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Ororma</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>ഒരോർമ്മ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-09-19</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Surrogate_mother_and_child.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Surrogate_mother_and_child.jpg">Mother
+and child,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Segar_(artist)">Segar</ref>  .
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഒരോർമ്മ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഒരോർമ്മ</head>
+        <div type="lsection">
+          <p style="noindent">പുരാണവസ്തുക്കൾ പ്രായേണ പ്രാകൃതങ്ങളാണു്. ഒരു നടരാജപ്രതിമയോ
+അജന്താചിത്രമോ ആ പട്ടികയിൽ ഉൾപ്പെടുന്നുണ്ടെങ്കിലും സാമാന്യമായി പുരാണവസ്തുവെന്നു പറഞ്ഞാൽ
+മനസ്സിലുദിക്കുന്ന പ്രതീതി ചില പ്രതിമകളുടെ പൊട്ടിയ കഷണങ്ങളും, ആയുധമായിട്ടുപയോഗിച്ചിരിക്കാവുന്ന ചില
+ശിലാശകലങ്ങളുമാണു്. ചരിത്രകാരനു് അവ അമൂല്യമായിരുന്നേയ്ക്കാം. മനുഷ്യവർഗ്ഗത്തിൽ വളർച്ചയുടെ
+ശാസ്ത്രീയപര്യവേഷണത്തിനു് അവ അത്യന്താപേക്ഷിതവുമാണു്. പക്ഷേ, തീർച്ചയായും അവ സുന്ദരങ്ങളല്ല.
+മലയാഭാഷയുടെ കഴിഞ്ഞ പത്തുവർഷത്തെ ചരിത്രം ഒരു വിപ്ലവത്തിന്റെ കഥയാണു്. കെട്ടിക്കിടന്നു
+ചീഞ്ഞുനാറിക്കൊണ്ടിരുന്ന സാഹിത്യസമുദ്രത്തിൽനിന്നു ചില യുവാക്കന്മാരുടെ അവിദഗ്ദ്ധകരങ്ങൾ ഒരു ചെറിയ
+ചാലുകീറി ഒരു മഹാനദിയുണ്ടാക്കിയതാണു് ആ ചരിത്രം ഈ ഭഗീരഥപ്രയത്നത്തിൽ ഒരു പ്രധാന പങ്കുവഹിച്ച
+ആളാണു് <ref target="https://ml.wikipedia.org/wiki/Thakazhi_Sivasankarappilla">ശ്രീ.
+തകഴി</ref>. യഥാർത്ഥമാർഗ്ഗമേതെന്നു നല്ല നിശ്ചയമില്ലാതെ തപ്പിത്തടഞ്ഞു സൃഷ്ടിച്ച കൃതികളിലൊന്നാണു്
+‘പതിതപങ്കജം.’ സാഹിത്യചരിത്രകാരനു് ഒഴിച്ചുനിർത്തുവാൻ നിവൃത്തിയില്ലാത്ത ഒരു പുസ്തകമാണതു്.
+അതുകൊണ്ടുതന്നെയാണു് ദൂരദൃക്കായ ഈ. വി. ഒരു അവതാരികകൊണ്ടു് അതിനെ അലങ്കരിച്ചതും. പക്ഷേ,
+1111-ൽ പ്രസിദ്ധപ്പെടുത്തിയ ഒരു ഗ്രന്ഥത്തിന്റെ രണ്ടാംപതിപ്പു് 1122-ൽ പ്രസിദ്ധപ്പെടുത്തുമ്പോൾ അതിനെ 1122-ലെ
+നിലവാരത്തിന്റെ വെളിച്ചത്തിലേ പരിശോധിക്കാൻ നിവൃത്തിയുള്ളൂ. ഒരു പുസ്തകത്തിന്റെ അനന്തരപ്പതിപ്പുകൾ
+അനുയോജ്യമായിത്തീരുന്നതു് അതു പ്രസിദ്ധീകരിക്കുന്ന കാലത്തിന്റെ രുചി അതിനെ നീതീകരിക്കുമ്പോൾ
+മാത്രമാണു്. ഗ്രന്ഥകാരന്റെ പേരിന്റെ മാഹാത്മ്യം മാത്രം അടിസ്ഥാനപ്പെടുത്തി കഴിഞ്ഞുപോയ ഏടുകൾ
+പുനരുദ്ധരിക്കുന്നതു് തമിഴ് ചിത്രത്തിന്റെ പുതിയ പതിപ്പുകൾ (തമിഴൻ അതിൽ ‘കളർ’ എന്നുകൂടി ചേർക്കും)
+ഇറക്കുന്നതുപോലെയാണു്. ‘പതിതപങ്കജത്തിനും, ശ്രീ. തകഴിക്കും ഈ പുതിയ
+പതിപ്പുകൂടാതെയിരിക്കുകയായിരുന്നു നല്ലതു്. ആ കഥ, ഒരു മോഹനസ്മരണയായി നിലനിലൽക്കുമായിരുന്നു.
+തകഴിക്കു ബാല്യത്തിലെ ചാപല്യങ്ങൾ ഇന്നത്തെ സമ്പൂർണ്ണതയെ അലട്ടാതിരിക്കുകയും, ടാഗോർ ഇംഗ്ലണ്ടിൽ
+വെച്ചെഴുതിയ ഒരു കവിതയെപ്പറ്റി പറഞ്ഞതു്, അതിനുണ്ടായിരുന്ന ഏകഗുണം അതു കളഞ്ഞുപോയി
+എന്നതാണെന്നാണു്. ബി. വി.-ക്കാരോ മറ്റോ അച്ചടിച്ച ആ പതിതപങ്കജം, കാലപ്രവാഹത്തിൽ
+ആണ്ടുപോയിരുന്നെങ്കിൽ, എന്നു ശ്രീ. തകഴിയും ഇന്നു ചിന്തിക്കുന്നുണ്ടായിരിക്കണം.
+</p>
+          <p>കുറ്റം പറഞ്ഞാൽ മാത്രം പോരല്ലോ, കുറ്റമെന്താണെന്നുകൂടി പറയണമല്ലോ. കഥ തന്നെ
+ആദ്യമായിട്ടെടുക്കാം. കഥ ഒന്നുമില്ലെന്നതാണു് ആദ്യത്തെ കുഴപ്പം. കഥ എന്നുവെച്ചാൽ എന്തെങ്കിലും
+സംഭവങ്ങൾ ഒന്നിനു പിറകെ ഒന്നായി നടക്കണമല്ലോ. ഇവിടെ വിപിനൻ വേശ്യയായ ഒരു നർത്തകിയെ
+കാണുന്നു; അതെ, കാണുന്നു. പിന്നെയോ? അതുതന്നെ, പിന്നെയും പിന്നെയും കാണുന്നു. അവളോടു് എന്തോ
+ഒന്നു തോന്നുന്നു. എന്താണെന്നു വിപിനനു നിശ്ചയമില്ല; വായനക്കാരന്റെ കഥയും മേല്പടി. വേശ്യ രതീശന്റെ
+പിടിയിലാണു്. വിപിനൻ രതീശനെ കൊല്ലുന്നു. പോരേ സംഭവങ്ങൾ? വേണ്ടുവോളമായി. പിന്നെയെന്താണു് കഥ
+നിശ്ചലമാണെന്നു പറയാൻ? ഉത്സവസ്ഥലത്തു് ആലിന്റെ ചുവട്ടിൽവെച്ചു വിക്രമാദിത്യൻകഥയുടെ കൂടെ
+വിൽക്കപ്പെടുന്ന ‘റെഡ്യാർ’ പുസ്തകങ്ങൾക്കുവേണ്ട കഥ പതിതപങ്കജത്തിലുമുണ്ടു്. പക്ഷേ, പില്ക്കാലങ്ങളിൽ
+തകഴിതന്നെ മലയാളസാഹിത്യത്തിനു സംഭാവനചെയ്ത ചലനാത്മകത്വം ഇതിലില്ല. വിപിനനും, ഗുണവതിയും,
+രതീശനും പ്രേതങ്ങളാണു്. അവർ ചിന്തിക്കുന്നുണ്ടു്. പക്ഷേ, വട്ടത്തിൽ കറങ്ങുകയാണു്. മുന്നോട്ടുപോകുന്നില്ല.
+കഥയിൽ ആകെയുള്ള ഒരു പ്രശ്നം, സ്വന്തം കുറവിനെപ്പറ്റി ഖേദമുള്ള ഒരു യുവതിയുടെ പ്രേമവും,
+അനുകമ്പാകുലനായ ഒരു യുവാവിന്റെ വികാരവും തമ്മിൽ ഇടയുന്നതാണു്. രണ്ടുപേരുടെയും
+മാനസികാപഗ്രഥനത്തിനും ശ്രീ. തകഴി പരിശ്രമിക്കുന്നുണ്ടു്. വിജയിക്കുന്നുണ്ടെന്നു ‘പരമാർത്ഥങ്ങൾ’
+വായിച്ചിട്ടുള്ളവരാരും പറയുകയില്ല. മേൽപറഞ്ഞതു് ഒരു കഥയല്ല; ഒരു സന്ദർഭം മാത്രമാണു് ഒരു നല്ല ചെറുകഥയ്ക്കു
+പറ്റിയ വിഷയം. അതു വലിച്ചുനീട്ടി, ഒരു നോവലെറ്റാക്കിയതാണു് പതിതപങ്കജത്തിന്റെ പരാജയം.
+ഗുണവതിയുടെ മനസ്സിൽ ഒരു വടംവലി നടക്കുകയാണു്. അവൾ വിപിനനെ പ്രേമിക്കുന്നു. പക്ഷേ, അവൾ
+കളങ്കിതയാണു്. വിപിനനുമുണ്ടൊരു പ്രശ്നം. അയാൾക്കു ഗുണവതിയോടു് അനുകമ്പയുണ്ടു്.
+പിന്നെയേതാണ്ടൊന്നുള്ളതു് എന്താണെന്നു നിശ്ചയവുമില്ല. ഈ വികാരക്കൊടുമ്പിരികൾ ചിത്രീകരിച്ചാൽ
+നന്നായിരിക്കും. എങ്കിലും, അതിനെത്തന്നെ തിരിച്ചുംമറിച്ചും പറഞ്ഞു് ഒരു മഹാകാവ്യമങ്ങെഴുതിക്കളഞ്ഞാലോ!.
+നോക്കുക; 25 മുതൽ 28 വരെ, 37 മുതൽ 47 വരെ, 52 മുതൽ 59 വരെ, 70 മുതൽ 76 വരെ, ഈ പുറങ്ങളെല്ലാം
+വിപിനനും ഗുണവതിയുമായി ഈ ഒരു പ്രശ്നത്തെപ്പറ്റി വിവാദം നടത്തുകയാണു്. കുറെയാകുമ്പോൾ, അതു
+മുഷിപ്പനാകാതെയിരിക്കുകയില്ല. ഇങ്ങനെ, ഒരു വികാരത്തെ സംഭവങ്ങൾ മൂലമല്ലാതെ ദീർഘനേരം
+പ്രത്യംഗവർണ്ണന നടത്തുന്നതുകൊണ്ടു കഥയ്ക്കു വിരസമായ ഒരു ആത്മാലാപത്തിന്റെ സ്വഭാവം വരുന്നുണ്ടു്.
+‘എട്ടിടങ്ങഴി വെള്ളത്തിൽ വെന്തു കുറുക്കി വറ്റിച്ച ഒരു തുടമാക്കി’യാൽ ഈ കഷായവെള്ളത്തിൽ വല്ലതും കാണും.
+
+എന്നാലും, പൂർണ്ണമാവുകയില്ല. ആ നൃത്തപ്രകടനവും, മണിയറയും കൊലപാതകവും, ശിക്ഷയും എല്ലാം
+അസ്വാഭാവികമാണു്. മാനേജരും വിനയനുംകൂടി നൃത്തരംഗം കണ്ടു രസിക്കുന്ന രസം, കാഴ്ചക്കാരിൽ ഒരാളായ
+വിപിനൻ കരയുന്ന (അതും സ്റ്റേജിൽ വെച്ചു്) ഗുണവതിയെ മറമാറ്റിച്ചെന്നു സമാശ്വസിപ്പിക്കുന്ന രീതി—
+എന്താണിതു്, ജ്ഞാനാംബികയോ ബോംബേ ടോക്കീസുകാരുടെ ചിത്രമോ? വായനക്കാരൻ ഒരു വിശ്വാസവും
+തോന്നാത്ത രീതിയിൽ ചിത്രീകരിച്ചിരിക്കുന്ന ആ കൊലപാതകം, അതിനെപ്പറ്റി ഭയചകിതനായ വിപിനനുമായി
+അരമണിക്കൂർ സമയം സംസാരിച്ചിട്ടു (97 മുതൽ 102 വരെ പുറങ്ങൾ നോക്കുക) ഒരു ഗന്ധവും കിട്ടാത്ത
+ഗുണവതിയുടെ മരത്തല, ഇതെല്ലാം തകഴിയുടെ സൃഷ്ടിയാണെന്നു വിശ്വസിക്കാൻ വിഷമമായിരിക്കുന്നു.
+</p>
+          <p>കഥയിലെ പ്രധാനപ്രശ്നമെടുത്താലുമുണ്ടു് വൈഷമ്യങ്ങൾ വേശ്യയും സമുദായവുമായിട്ടുള്ള സംഘട്ടനം
+ഗൗരവമായ ഒരു വിഷയം തന്നെയാണു്. മുപ്പത്തഞ്ചാംപുറത്തു ശ്രീ. തകഴി തുടങ്ങുന്നു, “വേശ്യ ഒരു
+സമുദായദ്രോഹിയാണു്… ” ഇങ്ങനെയെല്ലാമാണെങ്കിലും, ജീവിതാവശ്യത്തിനുവേണ്ടി മാനംവില്ക്കാൻ
+പ്രേരിതയായ സഹോദരിയെ സമുദായം ശിക്ഷിക്കുന്നതു വളരെ അതിരുകടന്നു പോകുന്നു. അതും ശരിതന്നെ.
+പക്ഷേ, എന്തിനുവേണ്ടി ഗുണവതിയെ ബലാൽക്കാരമായി ഒരു വേശ്യയാക്കണം? കേരളത്തിലെങ്കിലും,
+വേശ്യാവൃത്തി ഒരു സ്വതന്ത്രതൊഴിലാണു്. ഇവിടെ സ്ത്രീകളെ പിടിച്ചുകെട്ടിയിട്ടു വേശ്യാലയങ്ങൾ നടത്തുന്ന
+പതിവുള്ളതായി കേട്ടിട്ടില്ല. സ്വതന്ത്രമായി വേശ്യാവൃത്തി സ്വീകരിച്ചവൾക്കുവേണ്ടി ഒരു
+സഹായാഭ്യർത്ഥനയുമില്ലേ? മറ്റൊരുതരത്തിൽകൂടി രതീശൻ അനാവശ്യഘടകമാണു്. വേശ്യയെ മർദ്ദിക്കുന്നതു
+സമുദായമാണു്; രതീശന്മാരല്ല. രതീശൻ സമുദായത്തിന്റെ പ്രതിനിധിയുമല്ല.
+</p>
+          <p>പിന്നെയുമുണ്ടൊരു പ്രശ്നം. വിപിനന്റെ സ്നേഹിതന്റെ സ്വഭാവമെന്താണു്? അയാളും ഗുണവതിയുമായി
+ലൈംഗികമായി യാതൊന്നും നടന്നിട്ടില്ലെന്നാണല്ലോ കഥയുടെ പോക്കുകൊണ്ടു ഗ്രഹിക്കേണ്ടതു്. ആ അനുമാനം
+ശരിയാണെങ്കിൽ ചില കീറാമുട്ടികൾ വരുന്നുണ്ടു്: “അവിടെ ഭിത്തിയിൽ ഒരു നഗ്നചിത്രം”, (പു. 23) “ഉത്തരക്ഷണം
+അവൾ വിനയന്റെ ഗളത്തിൽ കരങ്ങൾ ചുറ്റി”, (പു. 25) “വിനയന്റെ ഗളത്തെ വലയം ചെയ്തിരുന്ന ആ
+മൃണാളകോമളമായ കരം അല്പമൊന്നു് മുറുകി”, (പു. 26) “ഗുണവതി വിനയനെ പരിരംഭണംചെയ്തു”, (പു. 27) “ആ
+നൃത്തത്തിന്റെ ആസ്വാദ്യത അനുഭവൈകവേദ്യം തന്നെയായിരുന്നു. വിപിനൻ പരമാനന്ദത്തിൽ ലയിച്ചു”, (പു. 41)
+“ഗുണവതി എണീറ്റിരുന്നു്, നെഞ്ചോടു്, നനഞ്ഞൊട്ടിച്ചേർന്ന റൌക്ക ഊരിയെടുത്തു.” (പു. 42) “അവളുടെ മാറിടം
+നഗ്നമാണു് ”, (പു. 44) “ആ സ്ത്രീയുടെ പുടവ കുത്തഴിഞ്ഞു് പതറി താറുമാറായി കിടക്കുന്നു”, (പു. 46) “വസ്ത്രങ്ങൾ
+വാരിപ്പിടിച്ചുകൊണ്ടവൾ എഴുന്നേറ്റു”, (പു. 47) മുഗൾ കൊട്ടാരത്തിലെ അന്തഃപുരപാലകന്മാരെപ്പോലും
+ഇക്കിളിയാക്കുന്ന ഇതെല്ലാം കഴിഞ്ഞിട്ടും, വിവേകാനന്ദനെപ്പോലെ സാത്വികമൂർത്തിയായിട്ടിരിക്കുന്ന വിപിനൻ
+മനുഷ്യനല്ല, (ദൈവവുമല്ല) ആഞ്ഞിലിത്തടിയാണു്. ഇന്നത്തെ തകഴി ഒരു വിപിനനെ പ്രസവിക്കുകയില്ല.
+കൊലനടത്താൻ പോകുന്നവൻ സ്വന്തം കൈമുറിച്ചു, രക്തത്തിന്റെ നിറം പരിശോധിക്കുകയെന്നതു്
+അസാദ്ധ്യമല്ലെന്നു ക്രിമിനൽ നിയമത്തിന്റെ ഒഴിഞ്ഞ കോണുകളിൽ കിടക്കുന്ന ചില കേസുകൾ പറയും. പക്ഷേ,
+അതത്ര സാധാരണമാണോ? പ്രത്യേകിച്ചും വിപിനനെപ്പോലെ വികാരാധീനനായ ഒരുവനു്? അല്ലെങ്കിലെന്തിനു
+പറയുന്നു? വിപിനനും, രമേശനും, ഗുണവതിയും ഒക്കെ ബങ്കാളിൽനിന്നു പുറപ്പെട്ടിട്ടു് ഏതുരാജ്യത്താണു്
+താമസിക്കുന്നതെന്നറിഞ്ഞാലല്ലേ, അവരുടെ പ്രവൃത്തികൾ സ്വാഭാവികമാണോ എന്നറിയാൻ സാധിക്കൂ
+എടുത്തുപറയത്തക്ക ചില ഗുണങ്ങളും പതിതപങ്കജത്തിലുണ്ടു് രോഗബാധിതയായ ഗുണവതി
+പ്രതികാരമൂർത്തിയായി മാറുന്നു. ആ ആശയം കഥയിൽ ആവശ്യമായ ഒരു ഘടകമാക്കിത്തീർത്തിട്ടില്ലെങ്കിലും,
+വായനക്കാർ അതു വായിക്കുമ്പോൾ ഒരു ഫ്രെഞ്ചുകഥ (Damaged Goods) ഓർമ്മിക്കും. തകഴിയുടെ
+മാനസികാപഗ്രഥനസാമർത്ഥ്യം മുഴുവനായി തെളിയുന്ന ഒന്നാണു് വിപിനൻ. ബോധമില്ലാതെ അയാളുടെ
+രക്തപങ്കിലമായ കുപ്പായം കത്തിക്കുന്ന രംഗം. പിന്നെയുമുണ്ടു്, സാക്ഷാൽ തകഴി: “വേശ്യ എന്തിനു നേർത്ത
+വസ്ത്രങ്ങൾ ധരിക്കുന്നു?—അല്ല, അവൾ എന്തിനു വസ്ത്രംതന്നെ ധരിക്കുന്നു?” എന്നേടത്തു്.
+</p>
+          <p>
+വിലയിരുത്തൽ 1951.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ororma (ml: ഒരോർമ്മ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-09-19. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas, Ororma,
+സി ജെ തോമസ്, ഒരോർമ്മ, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 19, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Surrogate_mother_and_child.jpg">Mother
+and child,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Segar_(artist)">Segar</ref>  .
+The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-orma.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-orma.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കല കലയ്ക്കുവേണ്ടി</title>
+          <title xml:lang="en" type="main">Kala Kalaykkuvendi</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">October 24, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കല കലയ്ക്കുവേണ്ടി</title>
+              <title xml:lang="en" type="main">Kala Kalaykkuvendi</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Kala Kalaykkuvendi</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>കല കലയ്ക്കുവേണ്ടി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 24, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Caspar_David_of_fog.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:Caspar_David_Friedrich__Wanderer_above_the_sea_of_fog.jpg">The hiker above the sea of fog,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/en:Caspar_David_Friedrich">Caspar
+David Friedrich</ref>  (1774–1840). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കല കലയ്ക്കുവേണ്ടി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കല കലയ്ക്കുവേണ്ടി</head>
+        <div type="lsection">
+          <p style="noindent">ഞാനൊരു പിന്തിരിപ്പനാകാൻപോകയാണു്. കല കലയ്ക്കുവേണ്ടി എന്നൊന്നു
+പറഞ്ഞുനോക്കട്ടെ. ഇതു പറഞ്ഞാൽ ശുണ്ഠിയെടുക്കുന്നവരാണു് ഇന്നു് അധികവും. എന്തുമാത്രം എതിർപ്പും
+മർദ്ദനവും ഏറ്റ ഒരു വാക്യമാണിതു്! ഈ എല്ലിൻകഷ്ണത്തിന്മേൽ എത്രപേർ കടിപിടികൂടി, ഒച്ചപ്പാടുണ്ടാക്കി!
+വാദബഹളം കൂടിക്കൂടി ഒടുവിൽ കുരയ്ക്കാൻവേണ്ടി കുരയ്ക്കുക എന്ന മട്ടിലായി! ഇപ്പോഴതെല്ലാം കുറെ ശമിച്ചുവെന്നു
+തോന്നുന്നു. ഇനി ശാന്തമായൊന്നാലോചിച്ചുനോക്കാം. കല കലയ്ക്കു വേണ്ടി എന്നൊന്നു പറഞ്ഞുപോയാൽ
+ഇത്രമാത്രം കലിതുള്ളേണ്ടതുണ്ടോ? അതിന്റെ വാച്യാർത്ഥത്തിന്മേൽ കയറിനിന്നാണു് ഈ ബഹളമെല്ലാം.
+‘രാമൻ സിംഹമാണു്’ എന്നു പറഞ്ഞാൽ, അയാൾ മൃഗരൂപിയാണെന്നോ, സാക്ഷാൽ സിംഹമാണെന്നോ
+ആരെങ്കിലും ധരിക്കുമോ? രാമനെ മൃഗമാക്കിക്കളഞ്ഞുവെന്നു കലശൽകൂട്ടിയാൽ അതിൽ ചിരിക്കാനല്ലേ
+വഴിയുള്ളു? കലാസംബന്ധമായി നടന്നിട്ടുള്ള വാദകോലാഹലങ്ങളിൽ തൊണ്ണൂറ്റൊമ്പതു ശതമാനവും
+ഏതാണ്ടിതുപോലെയാണു്.
+</p>
+          <p>കല ജീവിതത്തിനുവേണ്ടി—അതാണല്ലോ എതിർപ്പിൽ പൊന്തിനില്ക്കുന്ന വാദം. ആട്ടെ,
+ജീവിതത്തിനുവേണ്ടിയല്ലാ കല എന്നു് ആരെങ്കിലും പറഞ്ഞിട്ടുണ്ടോ? കലയ്ക്കു വേണ്ടി എന്നു പറഞ്ഞവർ
+ജീവിതത്തെ നിഷേധിച്ചവരാണോ? ഒന്നു ചോദിക്കട്ടെ—ജീവിതത്തിനുവേണ്ടിയല്ലാത്തതായി എന്താണു് ഉള്ളതു്?
+അനുക്തസിദ്ധമായൊരു കാര്യം പ്രത്യേകിച്ചു് എടുത്തുപറയേണ്ടതുണ്ടോ? കല കലയ്ക്കുവേണ്ടി എന്ന വാക്യത്തിന്റെ
+വാച്യാർത്ഥമെടുത്താൽ അതു വെറും വിഡ്ഢിത്തമാവില്ലേ? പിന്നെ എന്താണു് ആ വാക്യംകൊണ്ടു്
+ഉദ്ദേശിക്കുന്നതെന്നോ—പറയാം. കല അനന്യപരതന്ത്രമാണു്; കലാ സൗന്ദര്യം അഥവാ കലയുടെ
+രസ്യമാനത—അതിനാണു് സർവ്വോപരി പ്രാധാന്യം നൽകേണ്ടതു് എന്നു മാത്രമേ പ്രസ്തുത വാക്യംകൊണ്ടു്
+ധരിക്കേണ്ടതുള്ളു. ജീവിതത്തിൽനിന്നു് അകന്നുനില്ക്കാനോ (അതാർക്കെങ്കിലും സാദ്ധ്യമോ?) അനുഭവങ്ങളെ
+വിഗണിക്കാനോ ആ വാക്യം നിർദ്ദേശിക്കുന്നില്ല. കലയുടെ മൌലികതത്വങ്ങളായ രസമാനതയും
+അനന്യപരതന്ത്രതയും ഇപ്പോൾ എതിരാളികൾപോലും സമ്മതിച്ചുതുടങ്ങിയിട്ടുണ്ടല്ലോ. ഏതെങ്കിലും
+രാഷ്ട്രീയമതത്തിലെ പുരോഹിതന്മാരുടെ ഇടയലേഖനങ്ങൾക്കനുസരിച്ചു കലയും സാഹിത്യവും രൂപഭാവങ്ങൾ
+കൈക്കൊള്ളണമെന്നു് ഇന്നു് ആരും പറയുമെന്നു തോന്നുന്നില്ല. പിന്നെ എന്തിനായിരുന്നു ഈ
+കോലാഹലമെല്ലാം? വെറും പ്രചാരണ (Propaganda) ത്തിനു്. കലയിൽ പ്രചാരണാംശം ഉണ്ടു്. അതാരും
+നിഷേധിക്കുന്നില്ല. എന്നാൽ അതു വ്യംഗ്യഭംഗ്യാ നിർവ്വഹിക്കപ്പെടുന്നതാകണം. അപ്പോൾ മാത്രമേ കലാഭംഗി
+നശിക്കാതിരിക്കു. അതു നശിപ്പിക്കാതിരിക്കാൻവേണ്ടിയാണു്, കല കലയ്ക്കുവേണ്ടി എന്നു പഴമക്കാർ
+പറഞ്ഞുവെച്ചതു്. ധ്വനി കാവ്യകലയുടെ ജീവനാണെന്നുവരെ പ്രാചീനർ സിദ്ധാന്തിച്ചതു് വെറുതെയല്ല;
+ഗ്രന്ഥകാരന്റെ അഭിപ്രായങ്ങൾ എത്രത്തോളം നിഗൂഢമായിരിക്കുന്നുവോ അത്രത്തോളം അതു കലയ്ക്കു നല്ലതാണു്’
+(The more the views of the author remain hidden, the better for art) എന്നു <ref target="https://ml.wikipedia.org/wiki/Maxim_Gorky">മാക്സിം ഗോർക്കി</ref>
+പറഞ്ഞതും അദ്ദേഹം ഒരു യഥാർത്ഥ കലാകാരനായതുകൊണ്ടാണു്, കലയിൽ കലാത്വം—കലാഭംഗി—ഉണ്ടോ
+എന്നാണു് അദ്ദേഹം ഒന്നാമതായി നോക്കിയതു്. അതില്ലെങ്കിൽ പിന്നെ ഏതെല്ലാം തരത്തിൽ ഉപദേശിവേഷം
+കെട്ടിയാലും കല കലയാകുകയില്ല. അതുകൊണ്ടു പുരോഗതിയും ഉണ്ടാകുന്നതല്ല. പ്രചാരണമാകുന്ന ദുർദ്ദേവതയ്ക്കു
+കലയെ ബലികഴിക്കുന്ന കാഴ്ചയാണല്ലോ നാം വളരെയേറെ നാളായി കണ്ടുവരുന്നതു്. വാച്യവും, കൃത്രിമവും,
+അസത്യസങ്കുലിതവും, കക്ഷിതാല്പര്യനിബദ്ധവും ആയ പ്രചാരണംകൊണ്ടു് ഇന്നു കലാരൂപങ്ങൾ കുറെയേറെ
+അധഃപതിച്ചിട്ടുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Leon_tolstoi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടോൾസ്റ്റോയി</figDesc>
+          </figure>
+          <p> ‘ബർളിൻനഗരത്തിന്റെ പതനം’ എന്ന റഷ്യൻ ഫിലിം പലരും കണ്ടിരിക്കുമല്ലോ. പ്രചാരണത്തിനുവേണ്ടി
+കലാഭംഗി നശിപ്പിച്ചതിനു് അതൊരു ഉദാഹരണമാണു്. അതിലെ നായകനായ സ്റ്റാലിൻ സർവ്വജ്ഞനും,
+സർവ്വവ്യാപിയും, സർവ്വകർമ്മാദ്ധ്യക്ഷനും ആയ ഒരതിമാനുഷനായി ചിത്രീകരിക്കപ്പെട്ടിരിക്കുന്നു. പ്രതിനായകൻ
+ഹിറ്റ്ലറോ—ഒരു ഞരമ്പുരോഗിയും പേടിത്തൊണ്ടനും പകുതിക്കിറുക്കനും! ‘ബർളിൻപതന’ത്തിലെ യഥാർത്ഥ
+വീരനായ മാർഷൽ ഷുക്കോവുപോലും സ്റ്റാലിൻ എന്ന സർവ്വജ്ഞസൂര്യന്റെ കൃത്രിമപ്രഭയിൽ ഒരു
+
+മിന്നാമിനുങ്ങായിപ്പോയി. കലയിൽ നുണ കലർത്തുന്നതിന്നും വേണ്ടേ ഒരതിരു്! ‘അനൗചിത്യാദൃതേ
+നാന്യദ്രസഭംഗസ്യ കാരണം’ (രസഹാനിക്കു കാരണം അനൗചിത്യമല്ലാതെ മറ്റൊന്നുമല്ല) എന്നു പ്രാചീനാചാര്യർ
+പറഞ്ഞതു് എത്രയെത്ര ശരിയെന്നു നോക്കു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Priestley.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രീസ്റ്റിലി</figDesc>
+          </figure>
+          <p> ഫാക്ടറികളും ബാങ്കുകളും മറ്റും ദേശസാൽക്കരിക്കുന്നതുപോലെ കലാനിർമ്മാണരീതിയും ദേശസാല്ക്കരിച്ചു
+തുടങ്ങിയാലോ? അന്ധമായ പ്രചാരണവ്യഗ്രതയിൽ ഇപ്പോൾ കലയുടെ, അഥവാ സാഹിത്യത്തിന്റെ
+പുരോഗമനം ചില രാജ്യങ്ങളിൽ അത്രവരെ എത്തിയിട്ടുണ്ടു്. പ്രസിദ്ധ ലേഖകനായ <ref target="https://ml.wikipedia.org/wiki/Joseph_Priestley">പ്രീസ്റ്റിലി</ref> ഒരിക്കൽ
+പറയുകയുണ്ടായി, തന്റെ ലോകസഞ്ചാരത്തിന്നിടയിൽ അനേകം നഗരങ്ങളിലെ ബുക്സ്റ്റാളുകൾ പരിശോധിച്ചിട്ടും
+നല്ലൊരു കനത്ത കൃതി കണ്ടെത്താൻ പ്രയാസപ്പെട്ടുവെന്നു്. ഒരുതരം
+സാഹിത്യപ്പൂമ്പാറ്റകൾ—പ്രചാരണോപകരണങ്ങൾ, വില്പനയ്ക്കായി നിരത്തിവെച്ചിരിക്കുന്ന കാഴ്ചയാണു്
+എവിടെയും. അത്തരം കൃതികൾ ആവശ്യമായിരിക്കാം. സൂകരപ്രസവം ധാരാളം നടക്കട്ടെ. സാഹിത്യം
+ജനകീയമാകണമല്ലോ! എന്നാൽ കരിണീപ്രസവം ഒട്ടുംതന്നെ ഇല്ലെന്നുവന്നാലോ? റഷ്യയിൽ ഇന്നു കലാ
+വിലാസം ജനകീയമായി അഭിവൃദ്ധിപ്പെട്ടിട്ടുണ്ടാകാം. എന്നാൽ അവിടെ <ref target="https://ml.wikipedia.org/wiki/Leo_Tolstoy">ടോൾസ്റ്റോയി</ref> തുടങ്ങിയ
+സാഹിത്യാചാര്യന്മാരുടെ കൃതികളോടു കിടനില്ക്കത്തക്ക ഒരു ഗ്രന്ഥമെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/Maxim_Gorky">ഗോർക്കി</ref> യുടെ
+കാലത്തിനുശേഷം ഉണ്ടായിട്ടുണ്ടോ? നോവലുകളുടെ കാര്യം തന്നെ നോക്കുക. നമ്മുടെ സാഹിത്യത്തിലെ
+ഗതിയും ഇതുതന്നെയല്ലേ? <ref target="https://ml.wikipedia.org/wiki/C._V._Raman_Pillai">സി. വി.</ref>, <ref target="https://ml.wikipedia.org/wiki/O._Chandumenon">ചന്തുമേനോൻ</ref>
+മുതലായവരുടെ കലാസൃഷ്ടികളോടു സാമ്യം വഹിക്കുന്ന വിലയുള്ള വല്ലതും ഇപ്പോൾ പുറത്തുവരുന്നുണ്ടോ?
+മരണംവരെ മനസ്സിൽനിന്നും മാഞ്ഞുപോകാതെ പതിഞ്ഞുകിടക്കത്തക്ക കലാമഹിമയുള്ള പല
+കഥാപാത്രങ്ങളും, രംഗങ്ങളും അവർ സൃഷ്ടിച്ചിട്ടില്ലേ? അത്രയും ഉൽകൃഷ്ടമായ സൃഷ്ടി ഇപ്പോൾ എവിടെയുണ്ടു്? <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോളി</ref>
+ന്റെ ‘മാപ്പി’നോടൊപ്പം നില്ക്കുന്ന ഒരു പുരോഗമനകവിത നൂതനസൃഷ്ടിവിശേഷങ്ങളിൽ നോക്കിയാൽ കാണുമോ?
+സാമൂഹ്യപരിവർത്തനത്തിനുള്ള പ്രചോദനം എത്ര മനോഹരമായി വ്യംഗ്യഭംഗ്യാ അതിൽ അടക്കംചെയ്തിരിക്കുന്നു!
+ഏതാണ്ടു മുപ്പതുകൊല്ലമായി അതു പുറത്തുവന്നിട്ടു്. വിപ്ലവത്തിന്റെ വെളിച്ചപ്പാടന്മാർ കവിതയിലും കഥയിലുംകൂടി
+കലാഘാതിയായ അട്ടഹാസം മുഴക്കാത്ത കാലമായിരുന്നു അതു്. കല കലയ്ക്കുവേണ്ടി എന്നു പറഞ്ഞാൽ അന്നു്
+ആളുകൾ വേണ്ടവിധം മനസ്സിലാക്കിയിരുന്നു.
+</p>
+          <p>
+(ചിന്താതരംഗം—1953.)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kala Kalaykkuvendi (ml: കല
+കലയ്ക്കുവേണ്ടി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Kala Kalaykkuvendi, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, കല കലയ്ക്കുവേണ്ടി, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 24, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:Caspar_David_Friedrich__Wanderer_above_the_sea_of_fog.jpg">The hiker above the sea of fog,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/en:Caspar_David_Friedrich">Caspar
+David Friedrich</ref>  (1774–1840). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-kala.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-kala.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

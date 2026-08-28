@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗ്രന്ഥാരാധനം</title>
+          <title xml:lang="en" type="main">Grandharadhanam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗ്രന്ഥാരാധനം</title>
+              <title xml:lang="en" type="main">Grandharadhanam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Grandharadhanam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഗ്രന്ഥാരാധനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/National_Museum_of_Art_and_Design.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Halfdan_Str%C3%B8m__Girl_Friends_-_NG.M.01328__National_Museum_of_Art,_Architecture_and_Design.jpg">Girl Friends,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Halfdan_Str%C3%B8m">Halfdan
+Strøm</ref>  (1863–1949). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗ്രന്ഥാരാധനം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗ്രന്ഥാരാധനം</head>
+        <div type="lsection">
+          <p style="noindent">താനൊരു ഗ്രന്ഥാരാധാകനല്ലെന്നു് <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">പണ്ഡിറ്റ് നെഹ്റു</ref>
+ഈയിടെ പറയുകയുണ്ടായി. ഏതോ പ്രാചീനസംസ്കൃതഗ്രന്ഥത്തിന്റെ കൈയെഴുത്തുപ്രതി ആരാധ്യവസ്തുവെന്ന
+നിലയിൽ സമർപ്പിക്കാൻ ചെന്ന ഒരാളെ കളിയാക്കിക്കൊണ്ടാണു് അദ്ദേഹം ഇങ്ങനെ പറഞ്ഞതു്.
+വായിക്കാനുള്ളതാണു് പുസ്തകം, പൂജിക്കാനുള്ളതല്ല എന്ന ധ്വനി ആ വാക്യത്തിലുണ്ടു്. പ്രാചീനഗ്രന്ഥങ്ങളോടുള്ള
+ഭാരതീയരുടെ മൂഢമനോഭാവത്തിന്റെ തലയ്ക്കുകൊടുത്ത ഒരടിയായിരുന്നു അതു്. വേദാദിഗ്രന്ഥങ്ങൾക്കു് ദിവ്യത്വം
+കല്പിച്ചു് അവയെ സർവപ്രമാണമാക്കിവെച്ചു് പൂജിക്കുന്ന സ്വഭാവം ഇന്ത്യയിൽ പണ്ടേ വേരുറച്ചിട്ടുള്ളതാണു്.
+അവയിൽ പ്രതിപാദിച്ചിരിക്കുന്ന കാര്യങ്ങൾ ശരിക്കു് മനസ്സിലാക്കുകയോ പരിശോധിക്കുകയോ ചെയ്യുന്ന പതിവു്
+പഴയകാലത്തുണ്ടായിരുന്നില്ല. പൊതുജനങ്ങൾക്കു് അതിനുള്ള അധികാരവും കഴിവുമില്ലായിരുന്നു.
+പുരോഹിതന്മാർക്കായിരുന്നുവല്ലോ ഗ്രന്ഥങ്ങളുടെ കുത്തക. അവയിലെ ഉള്ളടക്കം മറ്റുള്ളവരെ ധരിപ്പിക്കാതെ
+നിധികാക്കുന്ന ഭൂതങ്ങളെപ്പോലെ അവർ സംരക്ഷിച്ചു് പോന്നു. തങ്ങളുടെമാത്രം സ്വത്തായ വിദ്യകൊണ്ടു്
+പുരോഹിതന്മാർ ജനസാമാന്യത്തെ ചൂഷണംചെയ്തുതുടങ്ങിയതു് ഈ വഴിക്കാണു്. ഗ്രന്ഥാരാധനം നടപ്പാക്കിയതും
+ഇവരാകുന്നു. ജനങ്ങളോടു് ജ്ഞാനതൃഷ്ണ ശമിക്കാൻ അധ്യയനത്തിനുപകരം ആരാധനം മതിയെന്നാണു് ഇവർ
+നിശ്ചയിച്ചതു്. ഇതുകൊണ്ടു് ഗുണം കിട്ടുമെന്നു് അജ്ഞരായ ജനങ്ങളും വിശ്വസിച്ചു. ബ്രാഹ്മണപൗരോഹിത്യം
+പ്രചരിപ്പിച്ച ഈവക അന്ധവിശ്വാസങ്ങളുടെയും മിഥ്യാചാരങ്ങളുടെയും അവശിഷ്ടങ്ങൾ ഇന്ത്യയിൽ ഇന്നും നാം
+കാണുന്നുണ്ടു്. ദേവീമാഹാത്മ്യം കൈവശം വെച്ചിരുന്നാൽ ഭൂതപ്രേതബാധകൾ ഉണ്ടാവുകയില്ലെന്നു്
+വിശ്വസിക്കുന്നവർ ഇപ്പോഴുമുണ്ടല്ലോ നമ്മുടെ നാട്ടിൽ. നവരാത്രിക്കുമാത്രം ഗ്രന്ഥക്കെട്ടു് പുറത്തെടുത്തു്
+പൊടിതട്ടിക്കളഞ്ഞു് പൂജയ്ക്കുവയ്ക്കുന്ന സമ്പ്രദായം ഇന്നും തുടർന്നുവരുന്നു. അർത്ഥം മനസ്സിലായില്ലെങ്കിലും
+കർക്കടകമാസത്തിൽ ആധ്യാത്മരാമായണം വായിച്ചു് തീർക്കുന്നതു് പുണ്യമാണെന്നത്രേ കേരളീയവിശ്വാസം.
+ഭഗവദ്ഗീത, ഭാഗവതം, നാരായണീയം തുടങ്ങിയ ഗ്രന്ഥങ്ങളുടെ പാരായണവും മതപരമായ ഒരു
+ചടങ്ങായിത്തീർന്നിട്ടുണ്ടു്.
+</p>
+          <p>ഭാരതീയരുടെ ഗ്രന്ഥസംബന്ധിയായ ഈ ദാസഭാവം പല വിധത്തിലുള്ള ദോഷങ്ങൾ ഉളവാക്കിയിട്ടുണ്ടെന്നു്
+പറയേണ്ടിയിരിക്കുന്നു. മാനസികമായ അടിമത്തമാണു് ഏറ്റവും വലിയ ദോഷം. മതഗ്രന്ഥങ്ങളെ സംബന്ധിച്ചു്
+ഇതു് പ്രത്യേകിച്ചു് പ്രകടമായിരിക്കുന്നു. വേദവിരുദ്ധമായതെന്തും തെറ്റു് എന്നൊരു വിശ്വാസം ഭാരതത്തിൽ പണ്ടേ
+ഉള്ളതാണല്ലോ. ന്യായവാദകോവിദനായ <ref target="https://ml.wikipedia.org/wiki/Sankaracharya">ശങ്കരാചാര്യർ</ref> പോലും
+ഈ വിശ്വാസത്തിനു് അധീനനായിരുന്നു. ഒരു സിദ്ധാന്തം തെറ്റോ ശരിയോ എന്നു് അദ്ദേഹം സ്ഥാപിക്കുന്നതു്
+അതിൽ ശ്രുതിവിരോധമുണ്ടോ എന്നു് നോക്കിയിട്ടാണു്. രണ്ടായിരത്തിൽപ്പരം വർഷങ്ങൾക്കുമുമ്പുണ്ടായ ഒരു
+ഗ്രന്ഥത്തിൽ പറഞ്ഞതിനോടു് പൊരുത്തപ്പെടുന്നില്ല എന്ന ഏകകാരണത്താൽ ഒരാശയം തെറ്റാണെന്നു്
+വാദിക്കുന്നതു് സാമാന്യബുദ്ധിക്കുപോലും ചേർന്നതാണോ? അതെന്തൊരു യുക്തിവാദമാണു്?
+ശാങ്കരവാദങ്ങളിൽ ഈ നിലപാടു് ധാരാളം കാണാം. ഒരു ഗ്രന്ഥത്തിൽ കാണുന്നതൊക്കെ ശരി.
+അതിലില്ലാത്തതും അതിനെതിരായതുമൊക്കെ തെറ്റു് എന്നു് വിശ്വസിക്കുക മാനസികമായ അടിമത്തത്തിന്റെ
+ഒന്നാമത്തെ ലക്ഷണമാകുന്നു. ഇത്തരം ഗ്രന്ഥാരാധനം സ്വതന്ത്രചിന്തയ്ക്കും വിജ്ഞാനവികാസത്തിനും
+വിഘാതമാകും. അതു് ഗവേഷണ ബുദ്ധിയെ അടിച്ചമർത്തും; ഗ്രന്ഥവിവേചനത്തിനു് നമ്മെ അശക്തരാക്കും.
+മധ്യകാല യൂറോപ്പിലെ പ്രസിദ്ധ ചിന്തകനായിരുന്ന <ref target="https://en.wikipedia.org/wiki/Roger_Bacon">റോജർ ബേക്കൺ</ref> <ref target="https://ml.wikipedia.org/wiki/Aristotle">അരിസ്റ്റോട്ടലിന്റെ</ref> ഗ്രന്ഥങ്ങൾ
+ചുട്ടുകളയണമെന്നു് ഉദ്ഘോഷിക്കുകയുണ്ടായി. അന്നത്തെ ജനങ്ങൾ ആ ഗ്രന്ഥങ്ങളുടെ ദാസന്മാരെന്ന നിലയിൽ
+അവയെ സർവപ്രമാണമാക്കി ആരാധിക്കുന്നതു് കണ്ടിട്ടാണു് ബേക്കൺ അങ്ങനെ പ്രതിഷേധിച്ചതു്. ഇന്നത്തെ
+പ്രശ്നങ്ങൾക്കു് ഗീതാതത്ത്വങ്ങൾകൊണ്ടു് പരിഹാരം കാണാമെന്നു് വാദിക്കുന്ന സ്തംഭിതമതികളുടെ നിലയും
+ഏതാണ്ടു് ഇതുതന്നെയാണു്. അവരുടെ ബുദ്ധിസ്തംഭനത്തിനു് കാരണം ഗ്രന്ഥാരാധനമാണു്.
+</p>
+          <p>ഇന്നത്തെ അറിവു് നാളത്തെ അറിവുകേടായിത്തോന്നത്തക്കവിധം നമ്മുടെ വിജ്ഞാനമണ്ഡലം
+വികസിച്ചുകൊണ്ടിരിക്കയാണു്. കാലം ചെല്ലുന്തോറും ആശയപരമായി ഏതു് ഗ്രന്ഥവും
+തിരുത്തിയെഴുതേണ്ടിവന്നേക്കാം. അങ്ങനെയല്ലാത്ത നിത്യസത്യമായ ഒരു ഗ്രന്ഥവും ലോകത്തിലുണ്ടായിട്ടില്ല.
+‘പുരാണമിത്യേവ ന സാധു സർവം’ എന്ന കളിദാസവചനം നോക്കൂ. പഴക്കം ചെന്ന കൃതികളെല്ലാം
+കൊള്ളാവുന്നവയാകണമെന്നില്ലല്ലോ. മാത്രമല്ല, പഴക്കംകൊണ്ടുതന്നെ ഒരു ഗ്രന്ഥം ഇന്നു്
+
+പ്രയോജനാപേക്ഷയാ പിൻതള്ളപ്പെടേണ്ടിവരും. വേദംതന്നെ ഉദാഹരണമായിട്ടെടുക്കാം. വൈദികകാലത്തെ
+ആര്യന്മാർ സാമൂഹ്യതയിലും സംസ്കാരത്തിലും ആദ്ധ്യാത്മികജീവിതത്തിൽപ്പോലും നമ്മെക്കാൾ എത്രയോ
+താണനിലയിലായിരുന്നു. താരതമ്യേന എത്ര സങ്കുചിതമായിരുന്നു അന്നത്തെ അവരുടെ അറിവു്. ആ
+പ്രാകൃതജീവിതത്തിൽനിന്നു് ഇന്നു് നാം എത്ര മുന്നോട്ടു് പോന്നിരിക്കുന്നു. ആയിരമായിരം കൊല്ലത്തെ
+സാംസ്കാരികവും വൈജ്ഞാനികവുമായ പാരമ്പര്യം അവരെക്കാൾ കൂടുതൽ ഇന്നു് നമുക്കുണ്ടു്. അന്നത്തെ
+ആര്യന്മാർ പാടിക്കൂട്ടിയ പാട്ടുകളുടെ ഒരു സമാഹാരമാണല്ലോ വേദം. ആ നിലയ്ക്കു് ഇന്നെന്തിനു് ഈ ഗാനങ്ങൾക്കു്
+ഇത്ര ദിവ്യത്വം കൽപിക്കുന്നു? അതുകൊണ്ടെന്തു് പ്രയോജനം? ഏതു് ഗ്രന്ഥവും നമ്മുടെ വിജ്ഞാനത്തിന്റെയും
+അനുഭവത്തിന്റെയും വെളിച്ചത്തിൽ പരിശോധിച്ചു് തള്ളേണ്ടതു് തള്ളാനും കൊള്ളേണ്ടതു് കൊള്ളാനും
+തയ്യാറാകണം. ഗീതപോലും ഉപദേശിക്കുന്നതു് അതാണു്. കൃഷ്ണൻ അർജ്ജുനനു് സകലതും
+ഉപദേശിച്ചതിനുശേഷം.</p>
+          <lg>
+            <l> ‘വിമൃശൈതദശേഷേണ</l>
+            <l> യഥേച്ഛസി തഥാ കുരു’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എല്ലാം വിമർശിച്ചു് നിനക്കു് അഭിമതമായതുചെയ്യുക—എന്നു് പറയുന്നുണ്ടു്. ഗീതോപദേശം മനസ്സിനൊരു
+ചങ്ങലയാകരുതു്. അതിലും നിരൂപണബുദ്ധി വേണം എന്നു് ചുരുക്കം. ഗ്രന്ഥാരാധനം ഉപേക്ഷിച്ചു്
+സ്വതന്ത്രചിന്താശീലം പാലിക്കാനുള്ള ഒരാഹ്വാനംകൂടിയാണതു്.
+</p>
+          <p>
+(മാനസോല്ലാസം 1961)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Grandharadhanam (ml:
+ഗ്രന്ഥാരാധനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Grandharadhanam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഗ്രന്ഥാരാധനം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Halfdan_Str%C3%B8m__Girl_Friends_-_NG.M.01328__National_Museum_of_Art,_Architecture_and_Design.jpg">Girl Friends,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Halfdan_Str%C3%B8m">Halfdan
+Strøm</ref>  (1863–1949). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzhagrandharadhanam.xml">Download document sources in TEI encoded XML
+format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhagrandharadhanam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ശാന്തിപർവത്തിലെ രാഷ്ട്രമീമാംസ</title>
+          <title xml:lang="en" type="main">Santhiparvaththile Rashrameemamsa</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 13, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ശാന്തിപർവത്തിലെ രാഷ്ട്രമീമാംസ</title>
+              <title xml:lang="en" type="main">Santhiparvaththile Rashrameemamsa</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Santhiparvaththile Rashrameemamsa</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ശാന്തിപർവത്തിലെ രാഷ്ട്രമീമാംസ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 13, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Eastman_Johnson_-_Writing_to_Father.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Eastman_Johnson__Writing_to_Father.jpg">Writing to Father,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Eastman_Johnson">Eastman
+Johnson</ref>  (1824–1906). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ശാന്തിപർവത്തിലെ രാഷ്ട്രമീമാംസ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ശാന്തിപർവത്തിലെ രാഷ്ട്രമീമാംസ</head>
+        <div type="lsection">
+          <p style="noindent">പ്രാചീനഭാരതീയരുടെ രാഷ്ട്രമീമാംസയെപ്പറ്റിയുള്ള പ്രമാണഗ്രന്ഥങ്ങളിലൊന്നാണു്
+മഹാഭാരതത്തിലെ ശാന്തിപർവം. <ref target="https://ml.wikipedia.org/wiki/Chanakya">കൗടില്യ</ref> ന്റെ <ref target="https://ml.wikipedia.org/wiki/Arthashastra">അർത്ഥശാസ്ത്രം</ref>,
+ശുക്രനീതി, <ref target="https://ml.wikipedia.org/wiki/Manu_Smriti">മനുസ്മൃതി</ref> എന്നീ
+ഗ്രന്ഥങ്ങളും ഏതദ്വിഷയത്തിൽ പ്രാമാണ്യമർഹിക്കുന്നുണ്ടു്. രാജവാഴ്ചയെ
+ആദർശവത്കരിച്ചുകൊണ്ടാണിവയിലെല്ലാം രാഷ്ട്രതന്ത്രം നിരൂപിതമായിരിക്കുന്നതു്. കുരുക്ഷേത്രയുദ്ധാനന്തരം
+രാജ്യഭരണഭാരം ഏൽക്കേണ്ടിവന്ന ധർമപുത്രൻ ശരശയനസ്ഥനായ ഭീഷ്മാചാര്യരെ സമീപിച്ചു.
+ഭരണതന്ത്രവിഷയകമായി നിരവധി ചോദ്യങ്ങൾ ചോദിക്കുന്നു. ഈ ചോദ്യങ്ങൾക്കു ഭീഷ്മർ കൊടുക്കുന്ന മറുപടി
+അക്കാലത്തെ സാമൂഹികവും രാഷ്ട്രീയവുമായ സിദ്ധാന്തങ്ങളുടെ ഒരു വ്യഖ്യാനമാണു്. വർണ്ണശ്രമധർമ്മം,
+ബ്രാഹ്മണപ്രാമാണ്യം, ദണ്ഡനീതി രാജധർമം, രാഷ്ട്രഗുപ്തി കോശസഞ്ചയം, ശത്രുതസംഹാരമാർഗം ഇത്യാദി
+ബഹുവിധവിഷയങ്ങൾ ഭീഷ്മോപദേശത്തിൽ ചർച്ച ചെയ്യപ്പെടുന്നുണ്ടു്. ഒരേ ആശയത്തിന്റെ ദുസ്സഹമായ
+ആവർത്തനംമൂലം വൃഥാസ്ഥൂലമായിട്ടുള്ള ഭാഗങ്ങളും ശാന്തിപർവത്തിൽ കാണാം. രാജാവിനെപ്പോലും
+പൗരോഹിത്യത്തിനു് അടിമയാക്കിക്കൊണ്ടു് ബ്രാഹ്മണമതം കെട്ടിയുറപ്പിക്കുക എന്നതാണു് ഈ
+ചർച്ചയിലാദ്യന്തം പ്രതിഫലിക്കുന്ന അടിസ്ഥാനപരമായ കാഴ്ചപ്പാടു്.
+</p>
+          <p>എല്ലാ കാര്യങ്ങളിലും രാജാവു് ബ്രാഹ്മണപുരോഹിതൻ പറയുന്നതു പോലെ പ്രവർത്തിക്കണം. രാജവാഴ്ച
+നിലനിർത്തുന്നതിനു് പുരോഹിതന്റെ ആനുകൂല്യം കൂടിയേ കഴിയൂ. രണ്ടുപേരും തമ്മിലിടഞ്ഞാൽ രണ്ടുപേർക്കും
+രക്ഷയുണ്ടാവില്ല.</p>
+          <lg>
+            <l> ‘ഇവരെന്നും ചേർന്നുനിന്നാ-</l>
+            <l> ലന്യോന്യം താങ്ങലായ്വരും’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് ഭീഷ്മർ സന്ദർഭോചിതമായി അനേകത്ര ഉപദേശിക്കുന്നുണ്ടു്. ചുരുക്കത്തിൽ,</p>
+          <lg>
+            <l> ‘ഗോബ്രാഹ്മണേഭ്യഃ ശുഭമസ്തു നിത്യം’</l>
+            <l> </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നതാകണം രാജാവിന്റെ മുദ്രാവാക്യം. രാജധർമ്മം പലതാണെങ്കിലും വർണാശ്രമധർമപരിപാലത്തിനും
+ബ്രാഹ്മണപൂജയ്ക്കും ആണു് സർവോപരി പ്രാധാന്യം.</p>
+          <lg>
+            <l> ‘രാഷ്ട്രയോഗക്ഷേമമിങ്ങു</l>
+            <l> രാജാവിന്റെയധീനമാം</l>
+            <l> രാജയോഗക്ഷേമമിങ്ങു</l>
+            <l> പുരോഹിതനധീനമാം’ (ശാന്തിപർവം) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന ഉപദേശം നോക്കുക.
+</p>
+          <p>ഇതുപ്രകാരം ആത്യന്തികമായി സർവക്ഷേമത്തിനും ആസ്പദം പുരോഹിതപ്രീതിയാണെന്നുവരുന്നുണ്ടല്ലോ.
+വിപ്രവിരോധം ചെയ്യുന്നവരെ നാടുകടത്തുകയോ നശിപ്പിക്കുകയോ ചെയ്യണമെന്നും ഭീഷ്മർ
+ഉപദേശിക്കുന്നുണ്ടു്.</p>
+          <lg>
+            <l> ‘നാട്ടിൽ നിൽക്കൊല്ല വിപ്രർക്കു</l>
+            <l> വിരോധം ചെയ്തിടുന്നവൻ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നാണു് ആചാര്യവചനം ഇതുകൊണ്ടും ഉപദേഷ്ടാവു തൃപ്തിപ്പെടുന്നില്ല. രാജാവു പിടിച്ചടക്കുന്ന
+രാജ്യംപോലും ബ്രാഹ്മണർക്കു ദാനം ചെയ്യണമത്രേ!</p>
+          <lg>
+            <l> ‘വല്ല ഭൂമിയേയും വെന്നാൽ </l>
+            <l> നിവേദിക്കുക വിപ്രനായ്’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതുകേട്ടൽ ബ്രാഹ്മണപൂജനത്തിനു മാത്രമായിട്ടാണു് രാജാവിന്റെ സർവ നേട്ടങ്ങളും സമർപ്പിക്കേണ്ടതെന്നു
+തോന്നിപ്പോകും. ഭക്ഷണകാര്യത്തിലും ബ്രാഹ്മണർക്കാണു മുൻഗണനയെന്നു പറയേണ്ടതില്ലല്ലോ.</p>
+          <lg>
+            <l> ‘വിപ്രന്മാരുടെ ശേഷിപ്പു</l>
+            <l> തിൻക മറ്റു ജനങ്ങളും.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതരജനസമൂഹങ്ങളുടെ ആത്മാഭിമാനത്തെ ക്ഷതപ്പെടുത്തുന്ന ഇത്തരം വാക്യങ്ങൾ മഹാഭാരതത്തിലെ
+കൊള്ളരുതാത്ത കറുത്ത രേഖകളാകുന്നു. ഇന്നും ഇന്ത്യയിലെ ക്ഷേത്രങ്ങളിലും മറ്റു ഏതാദൃശാദുരാചാരങ്ങൾ
+അവശേഷിച്ചു കാണുന്നുണ്ടല്ലോ. മതത്തിന്റെ മയക്കുമരുന്നു പ്രയോഗിച്ചു ജനസഞ്ചയത്തിൽ എത്ര നികൃഷ്ടമായ
+അടിമത്തവും കുത്തിവയ്ക്കുവാൻ കഴിയുമെന്നതിനു് ഭാരതരാമായണാദിഗ്രന്ഥങ്ങൾതന്നെ ദൃഷ്ടാന്തങ്ങളായിരിക്കുന്നു.
+ജനതതിയെ സാമ്പത്തികമായി ചൂഷണം ചെയ്യുന്നതിനും ഉപകരിക്കുന്ന ഒന്നാണു് ഇന്ത്യയിലെ
+ചാതുർവർണ്യവ്യവസ്ഥ. ഈ വ്യവസ്ഥ തകർന്നു പോയാൽ ബ്രാഹ്മണ പ്രാമാണ്യത്തിനു് നാശം നേരിടും.
+അതുകൊണ്ടു്:</p>
+          <lg>
+            <l> ‘ചാതുർവർണ്യത്തിന്റെ ധർമം</l>
+            <l> രക്ഷിക്കേണം മഹീശ്വരൻ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു ഭീഷ്മർ എടുത്തു പറയുന്നു. മിശ്രവിവാഹം മൂലം വർണസങ്കരം സംഭവിച്ചാൽ ലോകം
+മുടിഞ്ഞുപോകുമെന്നുവരെ ഭഗവദ്ഗീതയിലും പറഞ്ഞുവച്ചിട്ടുണ്ടു്. ഇന്നു ഇന്ത്യയുടെ ഏക രക്ഷാമാർഗം ഈ
+വർണസങ്കരമാണെന്നു കണ്ണുള്ളവർക്കു കാണാൻ കഴിയും. ശതാബ്ദങ്ങളായി വേരുറച്ചു പോയിട്ടുള്ള ജാതീയവും
+മതപരവുമായ അന്ധതയിൽനിന്നും അനൈക്യത്തിൽനിന്നും കരകയറി ഇന്ത്യൻ ജനത
+ഒന്നായിത്തീരണമെങ്കിൽ ഈയൊരു വഴിയേ ഉള്ളു. അല്ലെങ്കിൽ എല്ലാത്തരം കുന്നും കുഴിയും തട്ടി നിരപ്പാക്കുന്ന
+ഒരു രാഷ്ട്രീയവിപ്ലവം തന്നെ ഇവിടെ സംഭവിക്കണം. മേൽക്കാണിച്ച പ്രകാരം ജാതിമതാധിഷ്ഠിതമായ
+പ്രത്യേകാവകാശങ്ങളുടെ സംരക്ഷണം രാജധർമത്തിലുൾപ്പെടുത്തുന്നതോടൊപ്പം രാജ്യതന്ത്രത്തെപ്പറ്റി
+പൊതുവെ ശ്രദ്ധേയമായ പല ഉപദേശങ്ങളും ഭീഷ്മർ നൽകുന്നുണ്ടു്.
+</p>
+          <p>ധർമമെന്നാലെന്തു്? എങ്ങനെയും വ്യാഖ്യാനിക്കാവുന്ന പല നിർവചനങ്ങളും ധർമവിചാരണയിൽ
+വരുന്നുണ്ടെങ്കിലും ഒന്നും സുവ്യക്തമോ സുനിശ്ചിതമോ ആണെന്നു പറകവയ്യാ.</p>
+          <lg>
+            <l> ‘ധർമമെന്നാൽജ്ജീവികൾക്കു</l>
+            <l> രക്ഷണം പരയാംദയ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് ഒരിടത്തു പറയുന്നു. ഏതിനാൽ രാജ്യം നിലനിർത്തപ്പെടുന്നുവോ അതു ധർമമെന്നു് മറ്റൊരിടത്തു്.</p>
+          <lg>
+            <l> ‘അഹിംസയൊന്നതാണത്രെ</l>
+            <l> ധർമമെന്നാണു നിശ്ചയം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു കൂട്ടത്തിൽ പറയുന്നുണ്ടു്. പക്ഷേ, അതേ ശ്വാസത്തിൽ തന്നെ,</p>
+          <lg>
+            <l> ‘പിതാമഹ പിതൃഭ്രാതൃ-</l>
+            <l> ഗുരുസംബന്ധിമിത്രരെ</l>
+            <l> തെറ്റുചെയ്താൽ കൊൽക പോരി-</l>
+            <l> ലെന്നതും നല്ല ധർമമാം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നും ഭീഷ്മാചാര്യൻ സമ്മതിക്കുന്നു. ഭാരതയുദ്ധം സാധൂകരിക്കണമെങ്കിൽ ഇങ്ങനെയൊരു പ്രമാണം
+ആവശ്യമാണല്ലോ. തെറ്റുചെയ്താൽ എന്നു് മൊത്തത്തിൽ പറയുന്നതല്ലാതെ എന്തൊക്കെ തെറ്റാകാമെന്നു
+വിവരിച്ചു കാണുന്നില്ല. പരരാഷ്ട്രപീഡനത്തിനു രാജാവു ചെയ്യുന്നതെന്തും ധാർമികമായ പ്രവൃത്തിയാകും.</p>
+          <lg>
+            <l> ‘മനുഷ്യരെക്കാൽക മാർഗം</l>
+            <l> ദുഷിപ്പിക്കുകയങ്ങനെ</l>
+            <l> വീടു ചുട്ടിടു കവിയാൽ,</l>
+            <l> പരരാഷ്ട്രം മുടിക്കണം.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നാണുപദേശം. കൂടാതെ ചാരരെക്കൊണ്ടും കാടരെക്കൊണ്ടും ശത്രുരാജ്യപീഡനം നടത്തുകയെന്നതും
+രാജാവിന്റെ കർത്തവ്യമാണു്. സർവരേയും ഒന്നുപോലെ വിശ്വസിക്കുന്നതു് രാജാവിനാപത്തായിത്തീരും.
+വിശ്വാസത്തോടൊപ്പം വിശങ്കയും ആവശ്യമാകുന്നു.
+</p>
+          <p>ഗുണാഗുണങ്ങളെ പരീക്ഷിച്ചുനോക്കിയിട്ടുവേണം അമാത്യരെ നിശ്ചയിക്കാൻ. വിനീതബുദ്ധി, വിശ്വസ്തത,
+ശുഭപ്രകൃതി, തേജസ്സു്, ധൈര്യം, ക്ഷമ, ശുചിത്വം ഇത്യാദി ഗുണങ്ങളാണു് മന്ത്രിമാർക്കു വേണ്ടതു്. അവർ കുലീനരും
+സാത്വികരും ഇംഗിതജ്ഞരും ദേശകാലവിധാനജ്ഞരും ആയിരിക്കണം. അകുലീനൻ, അസ്ഥിര സങ്കല്പൻ,
+ഹീനതേജസ്സു് ഇത്തരക്കാരെ മറ്റെന്തു ഗുണങ്ങളുണ്ടായാലും മന്ത്രിമാരാക്കിക്കൂടാ. മന്ത്രം കേൾക്കാൻ
+അർഹതയുള്ളവരെയും രാജാവു് ബുദ്ധിപൂർവം തെരഞ്ഞെടുക്കേണ്ടതുണ്ടു്. മന്ത്രഭേദനം—ഭരണരഹസ്യം
+പുറത്താക്കൽ—രാജ്യനാശത്തിനു കാരണമാകുമല്ലോ. അവിദ്വാൻ, അശുചി, സ്തബ്ധൻ, ശത്രുസേവി, വികത്ഥനൻ,
+അസുഹൃൽ, ക്രോധനൻ, അസത്യവാൻ ഇങ്ങനെയുള്ളവരുമായി രാജ്യകാര്യ വിചാരം ചെയ്യരുതു്. അവർ
+മന്ത്രശ്രവണത്തിനു അർഹരല്ല.</p>
+          <lg>
+            <l> ‘മന്ത്രിമന്ത്രം മൂലമല്ലോ.</l>
+            <l> രാജാവിൻ രാഷ്ട്രവർദ്ധന</l>
+            <l> സ്വച്ഛിദ്രം മറ്റവൻ കാണൊ-</l>
+            <l> ല്ലരിച്ഛിദ്രത്തിലെത്തണം </l>
+            <l> ആമയംഗംപോലെ മുടി</l>
+            <l> സ്വച്ഛിദ്രം കാത്തുകൊള്ളണം</l>
+            <l> നാടിന്നു മന്ത്രഗൂഢന്മാർ </l>
+            <l> ബുദ്ധിയേറുന്ന മന്ത്രികൾ </l>
+            <l> മന്ത്രദേഹൻ നരപതി-</l>
+            <l> യംഗങ്ങളിഹ മറ്റുപേർ</l>
+            <l> ചാരൻ മൂലം മന്ത്രസാരം</l>
+            <l> രാജ്യമെന്നാണു ചൊൽവതും’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നിങ്ങനെ ഒടുവിൽ ഭീഷ്മർ എല്ലാം സംക്ഷേപിച്ചു പറയുന്നു.
+</p>
+          <p>പല മട്ടിൽ കരം വാങ്ങാം. പക്ഷേ, ഒന്നും പ്രജകൾക്കു ദുസ്സഹമാകുരുതു്. ശില്പികൾ, വർത്തകർ, കർഷകർ
+മുതലായവരിൽനിന്നു കരം പിരിക്കാം.</p>
+          <lg>
+            <l> ‘ഏറെക്കറന്നാൽ വൻനാടും</l>
+            <l> വേല ചെയ്യുകയില്ലെടോ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നും മറ്റും ഭീഷ്മർ ഇടയ്ക്കിടയ്ക്കു താക്കീതു നൽകുകയും ചെയ്യുന്നുണ്ടു്. വണ്ടു് പൂക്കളിൽനിന്നു തേൻ
+ശേഖരിക്കുന്നതുപോലെ വേണം രാജാവു് ധനം സഞ്ചയിക്കാൻ. പുരോഹിതനെപ്പോലെ പണക്കാരനും
+രാമപൂജയ്ക്കർഹനാണു്. ധനികരെ പാനവസ്ത്രാശനങ്ങളിൽ പൂജിക്കണമെന്നാണു് ആചാര്യൻ ഉപദേശിക്കുന്നതു്.
+കോശപോഷണത്തിനു ഇതു് ഒരു പ്രധാനോപായമത്രെ.</p>
+          <lg>
+            <l> ‘രാജ്യത്തിൻ വലുതാമംഗം</l>
+            <l> പണക്കാരാണു ഭാരത</l>
+            <l> തലവൻ സർവജീവിക്കും</l>
+            <l> പണക്കാരനസംശയം </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഈ തത്ത്വം മുതലാളിത്തരാജ്യങ്ങളിൽ ഇന്നും അന്യൂനം പാലിക്കപ്പെടുന്നുണ്ടല്ലോ. ജനാധിപത്യം പേരിലും
+ധനാധിപത്യം പ്രവൃത്തിയിലും—ഇതാണല്ലോ ഇൻഡ്യയിലും കാണപ്പെടുന്നതു്. ഭരണാധികാരി പണക്കാരുടെ
+ചരടുവലിയിൽ കുടുങ്ങിപ്പോകുക എന്നതു് ഭാരതത്തിലെ പഴയ പാരമ്പര്യമാണെന്നു് ഉദ്ധൃതപദ്യം തെളിയിക്കുന്നു.
+</p>
+          <p>സ്വർഗം, നരകം തുടങ്ങിയ മതപരമായ അന്ധസങ്കല്പങ്ങളുടെ പശ്ചാത്തലത്തിലും ആദ്ധ്യാത്മികതയുടെ
+പരിവേഷമണിഞ്ഞുമാണു് ഭീഷ്മോപദേശം മുഴുവൻ നടക്കുന്നതു്. അതിന്റെ പ്രധാന ലക്ഷ്യം
+ബ്രഹ്മക്ഷത്രശക്തികളുടെ അന്യോന്യാശ്രയത്വത്തിലുള്ള സുപ്രതിഷ്ഠയാകുന്നു. ഇതു സുകരമാക്കുന്നതിനാവശ്യമായ
+എല്ലാ തന്ത്രങ്ങളെയും ആചാര്യൻ ധർമപദവിയിലേക്കുയർത്തിക്കാണിക്കുന്നു. ചരിത്രവിദ്യാർത്ഥികളുടെ
+ഗവേഷണത്തിനു വിഷയമാകേണ്ട ഒരു ഭാഗമാണു് മഹാഭാരതത്തിലെ ശാന്തിപർവം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Santhiparvaththile
+Rashrameemamsa (ml: ശാന്തിപർവത്തിലെ രാഷ്ട്രമീമാംസ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Santhiparvaththile Rashrameemamsa, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ശാന്തിപർവത്തിലെ
+രാഷ്ട്രമീമാംസ, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 13, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Eastman_Johnson__Writing_to_Father.jpg">Writing to Father,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Eastman_Johnson">Eastman
+Johnson</ref>  (1824–1906). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-rashtra.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-rashtra.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

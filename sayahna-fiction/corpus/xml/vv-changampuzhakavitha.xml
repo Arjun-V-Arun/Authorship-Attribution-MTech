@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചങ്ങമ്പുഴക്കവിത</title>
+          <title xml:lang="en" type="main">Changampuzhakavitha</title>
+        </title>
+        <author>Vallathol Vasudevamenon B. A.</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2026">April 13, 2026</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചങ്ങമ്പുഴക്കവിത</title>
+              <title xml:lang="en" type="main">Changampuzhakavitha</title>
+            </title>
+            <author>Vallathol Vasudevamenon B. A.</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Thoolikachithram</term>
+          <term>Vallathol Vasudevamenon B. A.</term>
+          <term>Changampuzhakavitha</term>
+          <term>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</term>
+          <term>ചങ്ങമ്പുഴക്കവിത</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="thoolikachithram">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 13, 2026</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Fruit_Still_Life_with_Chinese_Export_Basket.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Fruit_Still_Life_with_Chinese_Export_Basket_by_James_Peale,_1824,_oil_on_wood__National_Gallery_of_Art,_Washington_-_DSC00096.JPG">Fruit Still Life with
+Chinese Export Basket,</ref> a painting by James Peale  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചങ്ങമ്പുഴക്കവിത</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചങ്ങമ്പുഴക്കവിത</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Changampuzha.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചങ്ങമ്പുഴ</figDesc>
+          </figure>
+          <p style="noindent"> കവികളുടെ യശസ്സു് രണ്ടുതരത്തിലാണു കണ്ടുവന്നിട്ടുള്ളതു്: ഒരു കൂട്ടരുടെ യോഗ്യത
+അവരുടെ കാലശേഷം വരുന്ന തലമുറകളാണു കൂടുതൽ മനസ്സിലാക്കി അഭിനന്ദിക്കുക പതിവു്. മറ്റൊരു
+കൂട്ടർക്കാകട്ടേ, പേരും പെരുമയും തങ്ങളുടെ കാലത്തുതന്നെ കിട്ടുന്നു. ആ യശസ്സു് കാലക്രമത്തിൽ
+മങ്ങിപ്പോകുന്നതായും കണ്ടിട്ടുണ്ടു്. <ref target="https://w.wiki/B8v2">ചങ്ങമ്പുഴ</ref> യുടെ
+കാര്യം ഈ രണ്ടിൽനിന്നും വ്യത്യസ്തമാണു്. ജീവിച്ചിരിക്കുമ്പോൾത്തന്നെ യശസ്സാർജ്ജിച്ച കൈരളിയുടെ
+കണ്ണിലുണ്ണിയാണു് ചങ്ങമ്പുഴ. ആ യശസ്സു് കാലക്രമത്തിൽ മങ്ങിപ്പോകാനിടയുണ്ടെന്നും തോന്നുന്നില്ല; നേരേമറിച്ചു
+വർദ്ധിച്ചുവരാനേ വഴിയുള്ളൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kerala_Varma_Valiya_Koil_Thampuran.jpg" rendition="gra"/>
+            <figDesc style="thumb">കോയിത്തമ്പുരാൻ</figDesc>
+          </figure>
+          <p> ഇതിന്നു കാരണം ഒന്നിലധികമുണ്ടു്. അതു വഴിയേ പറയാം. അതിനുമുമ്പും ചങ്ങമ്പുഴ സാഹിത്യത്തിലേക്കു
+പ്രവേശിക്കുന്ന സമയത്തുള്ള മലയാളകവിതയുടെ സ്ഥിതിയെപ്പറ്റി പൊതുവിൽ ഒന്നറിഞ്ഞിരിക്കുന്നതു നന്നു്.
+<ref target="https://w.wiki/FkmN">കോയിത്തമ്പുരാൻ</ref>, <ref target="https://w.wiki/FkmP">കുഞ്ഞിക്കുട്ടൻ തമ്പുരാൻ</ref>, <ref target="https://w.wiki/FkmQ">രാജ രാജവർമ്മ</ref>, ഒടുവിൽ, <ref target="https://w.wiki/FkmC">കുണ്ടൂർ</ref> തുടങ്ങിയ കവികളുടെ കാലം കഴിഞ്ഞു <ref target="https://w.wiki/FkmD">ആശാൻ</ref>, <ref target="https://w.wiki/DrCu">ഉള്ളൂർ</ref>, <ref target="https://w.wiki/FkmK">വള്ളത്തോൾ</ref>, <ref target="https://w.wiki/FkmF">ശങ്കരക്കുറുപ്പു്</ref> ഇവരുടെ നേതൃത്വത്തിലേക്കു മലയാളകവിത
+വന്നിരിക്കുന്ന ഒരു കാലഘട്ടമാണു്. അസാധാരണവൈശിഷ്ട്യമുള്ള കാവ്യസമ്പത്തു കൈരളിക്കു സമ്മാനിച്ചുവെച്ചു
+മഹാകവി കുമാരനാശാൻ അന്തർദ്ധാനം ചെയ്തുകഴിഞ്ഞിരിക്കുന്നു. പണ്ഡിതകവിയായ ഉള്ളൂർ പണ്ഡിതന്മാരെ
+രസിപ്പിക്കുന്ന കവിതകൾ എഴുതിക്കൊണ്ടേയിരിക്കുകയാണു്. ആദ്യകാലങ്ങളിൽ തന്റെ പേരു
+സുസ്ഥാപിതമാക്കിത്തീർത്ത ഖണ്ഡകവനങ്ങളുടെ രചന നിർത്തി, <ref target="https://w.wiki/FkmK">വള്ളത്തോളാകട്ടേ</ref> ദേശീയബോധത്തെയും
+സാമുദായികമായ ഉത്തരവാദിത്വബോധത്തെയും തട്ടിയുണർത്തുന്ന കവിതകളെഴുതുന്നതിൽ
+വ്യാപൃതനായിരിക്കയാണു്. പോരെങ്കിൽ അദ്ദേഹത്തിന്റെ സമയം മൃതപ്രായമായ കഥകളി ഉദ്ധരിക്കുന്നതിന്നും
+വിനിയോഗിക്കപ്പെട്ടുവരുന്നു. കവിതയ്ക്കു് ഒരു പുതിയ മിഴിവും ജീവനും നല്കിയ <ref target="https://w.wiki/FkmF">ജി. ശങ്കരക്കുറുപ്പാ</ref> കട്ടെ ലൗകികങ്ങളായ
+ഉച്ചനീചത്വങ്ങളോടു ക്രുദ്ധനാണെങ്കിലും അദ്ദേഹത്തിന്റെ കവിത ആദ്ധ്യാത്മികദാഹത്തിന്റെ
+പ്രതിനിധിയായിത്തന്നെ വലിക്കുകയാണു്. കവിത മിക്കവാറും ഒരു ഉപദേഷ്ടാവിന്റെ നില സ്വീകരിച്ചിരിക്കുന്ന ഒരു
+കാലഘട്ടമാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kumaran_Asan_1973_stamp_of_India.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആശാൻ</figDesc>
+          </figure>
+          <p> ഈ അവസരത്തിലാണു് ചങ്ങമ്പുഴ രംഗപ്രവേശം ചെയ്തതു്. അദ്ദേഹത്തിന്നും ഒന്നും
+ഉപദേശിക്കാനുണ്ടായിരുന്നില്ല. യൗവനസഹജമായ ചില ആദർശചിന്തകളും മനോരഥങ്ങളുടെ
+മായികസ്വപ്നങ്ങളും കഴിച്ചാൽ ആ യുവാവിന്നു് കാര്യമായിട്ടൊന്നും പറയുവാനുണ്ടായിരുന്നില്ല. സ്വപ്നങ്ങളിൽ
+പലതും ആ പ്രായത്തിൽ യുവതീയുവാക്കന്മാരുടെ മനസ്സിനെ അപഹരിക്കുന്നതരത്തിലുള്ളതാവാം. ഏതായാലും
+ആകർഷിക്കത്തക്കവയായിരുന്നു, നിശ്ചയം. അദ്ദേഹം ആ സ്വപ്നങ്ങൾക്കും മനോരഥങ്ങൾക്കും സത്യസന്ധത
+വിടാതെ വാക്കുകൾകൊണ്ടു രൂപം കൊടുക്കാൻ ശ്രമിച്ചു. ഇതൊരു പുതിയ വിദ്യയായിരുന്നു.
+മലയാളസാഹിത്യത്തിൽ അതിന്നു മുമ്പു് ആരും ചെയ്തിട്ടില്ലാത്ത ഒരു പുതിയ വിദ്യ. മാത്രമല്ല, ആ രൂപം
+കൊടുത്തിരുന്നതു് സംസ്കൃതവൃത്തങ്ങളിലല്ല, വിസ്മൃത പ്രായങ്ങളായിക്കിടന്നിരുന്ന ദ്രാവിഡവൃത്തങ്ങളിലും ചില
+നാടോടിവൃത്തങ്ങളിലുമായിരുന്നു. ഇതു മലയാളികളെ മുഴുക്കെ ആകർഷിച്ചു; ആകർഷിക്കുകതന്നെയല്ല, വളരെ
+ക്ഷണത്തിൽ ചങ്ങമ്പുഴയെ കവികളുടെ മുന്നണിയിലേക്കു കൊണ്ടുവരികയും ചെയ്തു. അതിന്നു
+കാരണമുണ്ടായിരുന്നു. ദ്രാവിഡവൃത്തങ്ങളിൽക്കൂടി ഹൃദയാവർജ്ജകങ്ങളായ ഹൃദയദൗബ്ബല്യങ്ങളെപ്പറ്റി
+മനോഹരങ്ങളായ പാട്ടുകളെഴുതിയാൽ അവയ്ക്കുള്ള വശ്യശക്തി അസാമാന്യമാണു്. യുവഹൃദയങ്ങളുടെ
+ദൗബ്ബല്യങ്ങളാണു് വിഷയമെങ്കിൽ പറയുകയും വേണ്ട. ചങ്ങമ്പുഴയുടെ വിഷയം മിക്കവാറും ഇതായിരുന്നു.
+ഉദാഹരണമായി തന്റെ കാമുകൻ മറ്റൊരു സ്ത്രീയിൽ അനുരക്തനായി തന്നെ വിട്ടുപോയി എന്നറിഞ്ഞ യുവതി
+ദയനീയമായ തന്റെ നില സഖിയോടു പറഞ്ഞറിയിക്കുന്ന ഇതിവൃത്തം സംസ്കൃതത്തിലും മലയാളത്തിലും
+പുത്തനല്ല, പലരും സ്വീകരിച്ചുകണ്ടിട്ടുണ്ടു്. എന്നാൽ അതേ വിഷയം തന്നെ ചങ്ങമ്പുഴയുടെ പക്കൽ കിട്ടിയപ്പോൾ
+അതു പറയാൻ അദ്ദേഹം ഉപയോഗിച്ച ദ്രാവിഡരീതിയുടെ സാധാരണതകൊണ്ടും അതിന്റെ ഹൃദ്യമായ
+ഗാനമാധുര്യം കൊണ്ടും അനന്യസാധാരണമായ വശ്യശക്തി ഉടനടി സമ്പാദിച്ചു. കാമുകനാൽ ത്യക്തയായ
+ചങ്ങമ്പുഴയുടെ കന്യക സഖിയോടു പറയുകയാണു്:
+</p>
+          <lg>
+            <l> “ശ്യാമളേ സഖീ, ഞാനൊരു വെറും</l>
+            <l> കാനനത്തിലെപ്പൂവല്ലേ?</l>
+            <l> മാനമാളുന്ന സോമനുണ്ടാമോ</l>
+            <l> കാണുവാനതിൽ കൗതുകം?</l>
+            <l> ചേലിയലും കുമുദയോടൊത്തു</l>
+            <l> ലാലസിക്കട്ടെ ഭാഗ്യവാൻ</l>
+            <l> ഞാനതു നോക്കി ശ്യാമളേ, വീണ്ടു-</l>
+            <l> മാനന്ദാശ്രുക്കൾ തൂകട്ടെ.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>ഇതേ ആശയഗതിതന്നെ മഹാകവി വള്ളത്തോൾ ‘രാധയുടെ കൃതാർത്ഥത’ എന്ന കവിതയിൽ
+പ്രകാശിപ്പിച്ചിട്ടുണ്ടു്. രാധയുടെ കാമുകൻ മറ്റൊരു കന്യകയാൽ ആകൃഷ്ടനായിപ്പോയപ്പോൾ രാധ
+സമാധാനിക്കുകയാണു്: “അദ്ദേഹം തന്റെ പുതിയ ഭാര്യയുമായി സുഖമായി താമസിക്കട്ടെ. അതു കണ്ടുകൊണ്ടു്
+ലോകത്തിലൊരുമൂലയിൽ ജീവിക്കാൻ സാധിച്ചാൽത്തന്നെ ഞാൻ കൃതാർത്ഥയായി” എന്നു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kodungallur_Kunjikkuttan_Thampuran.png" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞിക്കുട്ടൻ തമ്പുരാൻ</figDesc>
+          </figure>
+          <p> മുൻപറഞ്ഞ പോലെ ഇതിലെ രണ്ടിലേയും വിചാരഗതി ഒരേതരത്തിലുള്ളതാണെങ്കിലും ആദ്യത്തേതിൽ
+ബഹുജനങ്ങളെ അതായതു് സംസ്കൃതനോ, അസംസ്കൃതനോ എന്ന ഭേദമെന്യേ ജനങ്ങളെ ആകർഷിക്കത്തക്ക
+എന്തോ അകൃത്രിമമായ ഒരടുപ്പമുണ്ടെന്നു തോന്നും. മറ്റൊരുതരത്തിൽ പറയുകയാണെങ്കിൽ, വള്ളത്തോളിന്റെ
+രാധ സംസ്കൃതചിത്തയും വിദ്യാസമ്പന്നയുമാണെന്ന പ്രതീതി ജനിപ്പിക്കുന്നു അത്തരത്തിലൊരു പശ്ചാത്തലമാണു്
+അവൾ സൃഷ്ടിക്കുന്നതു്. അതുകൊണ്ടു് അവളുടെ വിചാരഗതിക്കു സാധാരണക്കാരുടേതിൽനിന്നും ഉയർന്നുനില്ക്കുന്ന
+ഒരു കുലീനതയുണ്ടെന്നു തോന്നിപ്പോകും. ചങ്ങമ്പുഴയുടെ കന്യകയാകട്ടേ ആവക കുലീനതയൊന്നും
+അവകാശപ്പെടുന്നില്ല. ഒരു പുരുഷനിൽ അനുരക്തയായ സ്ത്രീ മാത്രമാണവൾ. ആ പുരുഷൻ അവളെ
+
+കൈവെടിയുമ്പോൾ അവൾ സ്വാഭാവികമായി വിഷാദിക്കുന്നു. ആ വിഷാദപ്രകടനത്തിൽ കുലീനത്വം
+പാലിക്കണമെന്ന യാതൊരു ശാഠ്യവും അവൾക്കില്ല. അതുകൊണ്ടു അവൾ സാധാരണസ്ത്രീകളോടു കൂടുതൽ
+അടുത്തുനില്ക്കുന്നു. തന്റെ സഖിയെ വിളിച്ചു അവൾ കഷ്ടസ്ഥിതി വിവരിക്കുന്നു. അതിൽ അലങ്കാരമോ കൃത്രിമത്വമോ
+ഇല്ല. വള്ളത്തോളിന്റെ നായികയായ രാധയുടെ സ്ഥിതി വ്യത്യസ്തമാണു്. അവളും അനുകമ്പാർഹയാണു്. പക്ഷേ,
+കുലീനത്വം വിടാതെയാണു അവൾ തന്റെ ഇംഗിതപ്രകടനം നടത്തുന്നതു്. അവൾ തന്റെ കാര്യം മറ്റൊരാളോടു
+പറയുന്നേയില്ല. ഒരു മനോരാജ്യത്തിന്റെ രീതിയിലാണു വിചാരങ്ങൾ പുറത്തേക്കു വരുന്നതു്; അതിൽ ചില
+ക്രമങ്ങളുമുണ്ടു്. ഉദാഹരണമായി നായകന്റെ സ്മരണയോടു കൂടി കവിത തുടങ്ങുന്നു. അതിനെത്തുടർന്നു താനും
+നായകനും തമ്മിലുണ്ടായിരുന്ന പണ്ടത്തെ അടുപ്പം. അതു കഴിഞ്ഞു് അയാൾ മറ്റൊരു സ്ത്രീയിൽ
+അനുരക്തനായിപ്പോയി എന്ന സംഗതി പുറത്തുവരുന്നു. അങ്ങനെയൊക്കെയാണെങ്കിലും താൻ മരിക്കാൻ
+തയ്യാറില്ലെന്നും ജീവിക്കാൻ തന്നെയാണു തീർച്ചപ്പെടുത്തിയിട്ടുള്ളതെന്നും രാധ ഉറപ്പിക്കുന്നു. അങ്ങനെ കവിത
+അവസാനിക്കുന്നതു്, താൻ ലോകത്തിലൊരുകോണിൽ ജീവിച്ചു തൃപ്തിപ്പെട്ടു കൊള്ളാമെന്നു പറഞ്ഞുകൊണ്ടാണു്.
+ചങ്ങമ്പുഴയുടെ കന്യക, നേരേ മറിച്ചു്, തുടങ്ങുന്നതുതന്നെ വള്ളത്തോളിന്റെ കന്യക പറഞ്ഞു് അവസാനിപ്പിച്ച
+സ്ഥലത്തുനിന്നാണു്. അതായതു്, ചങ്ങമ്പുഴയുടെ കന്യക സഖിയോടു ആദ്യം പറയുന്നതും തന്റെ കാമുകൻ
+മറ്റൊരുസ്ത്രീയമായി സുഖിച്ചു ജീവിക്കുന്നതും കണ്ടു് താൻ ഒരിടത്തു താമസിച്ചുകൊള്ളാമെന്നു ഏറ്റുകൊണ്ടാണു്.
+അവിടെ കവിത അവസാനിക്കുന്നില്ല തുടങ്ങുന്നേയുള്ളൂ. തുടർന്നു പറഞ്ഞുകൊണ്ടു് ചങ്ങമ്പുഴയുടെ കന്യക ഒരു
+ഉന്മാദിനിയെപ്പോലെ കേഴുന്നു:</p>
+          <lg>
+            <l> “വന്നിടാറുണ്ടു വാസന്തരാത്രി</l>
+            <l> എന്നെത്തേങ്ങിക്കരയിക്കാൻ.</l>
+            <l> പൂനിലാവു പൊഴിയുമ്പോളയ്യോ</l>
+            <l> മാനസം ദ്രവിക്കുന്നു മേ!” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> മറ്റൊരു കന്യക വിലപിക്കുകയാണു്:</p>
+          <lg>
+            <l> “എത്രനാളെത്രനാളീവിധം കണ്ണുനീ-</l>
+            <l> രർച്ചിക്കണമെനിക്കാവോ?</l>
+            <l> എപ്പോഴും കാണ്മതുണ്ടെന്മനോനേത്രമാ-</l>
+            <l> സ്സുപ്രസന്നോജ്വലരൂപം.</l>
+            <l> ഇല്ലാ, ചെയ്തിട്ടില്ല, നാഥനോടിന്നോളം</l>
+            <l> തെല്ലുമേ ഞാനപരാധം.</l>
+            <l> ഭക്ത്യാ കഴുകുന്നു നിത്യമെന്നശ്രുവി-</l>
+            <l> ലത്തൃപ്പദങ്ങൾ ഞാനിന്നും.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതിലെല്ലാം തന്നെ അനിയന്ത്രിതമായ ഒരു വികാരത്തള്ളിച്ചയുണ്ടു്. അതുകൊണ്ടു സാധാരണക്കാരനോടു
+കൂടുതൽ അടുപ്പം സിദ്ധിച്ചിരിക്കാനിടയുമുണ്ടു്.
+</p>
+          <p>ചങ്ങമ്പുഴയുടെ കവിതകൾക്കുള്ള സ്വാധീനശക്തിയുടെ ഒരു രഹസ്യം, അതിൽ സുലഭമായി
+പ്രകാശിച്ചുകാണുന്ന ഈ വിഷയാസക്തിയുടെ തള്ളിച്ചയാണെന്നു പറയാം. പക്ഷേ, വിഷയലമ്പടത്വമായി
+അതിനെ തെറ്റിദ്ധരിക്കുന്നതു സാഹസമാണു്. കാരണം, ആ വിഷയാസക്തിക്കും—അല്ലെങ്കിൽ വികാരങ്ങളുടെ
+തള്ളിച്ചയ്ക്കു്—ധാരാളം മാന്യതയുണ്ടു്. ചങ്ങമ്പുഴയുടെ കവിതകളിൽ കാണുന്ന കാമുകീകാമുകന്മാരുടെ
+മനോവൃത്തിയിൽനിന്നു് ഭിന്നമാണു് കുലീനത്വമുള്ളവരുടെ മനോവൃത്തി എന്നവകാശപ്പെടുന്നതു്
+അടിസ്ഥാനരഹിതമായിരിക്കും. അവരതു പക്ഷേ, പുറത്തു പ്രകാശിപ്പിക്കില്ലായിരിക്കാം. അതു മറ്റൊരു
+കാര്യമാണു്. അതുകൊണ്ടു്, ചങ്ങമ്പുഴയുടെ കവിതകളിൽ പ്രകാശിച്ചുകാണുന്ന സ്ത്രീപുരുഷ മനോവൃത്തിയെ
+വിഷയലമ്പടത്വമായി തരം താഴ്ത്തുന്നതു്, വിഷയലമ്പടത്വം സ്വയം ഏറ്റുസമ്മതിക്കലായിത്തീരും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Gshankarakurup.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. ശങ്കരക്കുറുപ്പ്</figDesc>
+          </figure>
+          <p> ഇളംപ്രായത്തിലുള്ള സ്ത്രീപുരുഷമനോവൃത്തിയെ ചങ്ങമ്പുഴയെപ്പോലെ ഇത്ര വ്യക്തമായും മനോഹരമായും
+
+ചിത്രീകരിച്ചിട്ടുള്ള മറ്റൊരു കവി മലയാളത്തിലില്ല. സ്ത്രീപുരുഷബന്ധം ലോകാരംഭം മുതൽ തുടങ്ങിയതാണു്.
+എന്നിരിക്കിലും, ഒരു പ്രത്യേകഘട്ടത്തിൽ ഈ ബന്ധത്തിൽ ഒരു പുതുമ എല്ലാവരും കണ്ടെത്തുക
+സ്വാഭാവികമാണു്. ഈ ‘പുതുമകണ്ടെത്ത’ലാണു് ചങ്ങമ്പുഴയുടെ പ്രേമകവിതകളുടെ കാതൽ. അതുകൊണ്ടു്
+അദ്ദേഹത്തിന്റെ കവിതകളോടുള്ള പ്രീതി എന്നും പുത്തനായിതന്നെ നിലനില്ക്കാനിടയുണ്ടു്. ചങ്ങമ്പുഴയെ
+യുവജനങ്ങളുടെ ആരാധനാപാത്രമാക്കിയ ഒരു കാരണവും ഇതാണു്. ഇതുതന്നെയായിരിക്കാം, ചങ്ങമ്പുഴയെ
+പില്ക്കാലത്തു യശഃശരീരനായ കവിയായി മലയാളത്തിൽ വാഴിക്കുവാൻ സഹായിക്കുകയെന്നും ഞാൻ കരുതുന്നു.
+</p>
+          <p>മറ്റൊരു കവിക്കും ഇതേവരെ മലയാളത്തിൽ ചെയ്യാൻ കഴിഞ്ഞിട്ടില്ലാത്ത ഒരു കൃത്യമാണു് ചങ്ങമ്പുഴ
+ഇങ്ങനെ നിർവഹിച്ചതു്. ബാല്യം വിട്ടു യൗവനത്തിലേക്കു കടന്നുവരുന്ന സ്ത്രീകളുടെയും പുരുഷന്മാരുടെയും ഹൃദയം
+അകാരണമായ വിഷാദം കൊണ്ടു് ഇടയ്ക്കു മ്ലാനമാകുന്നു; അതുപോലെ അർത്ഥമില്ലാത്ത സന്തോഷം കൊണ്ടു
+ചിലപ്പോൾ വികസിക്കുകയും ചെയ്യുന്നു. ഈ ചിത്തവൃത്തിക്കു, അല്ലെങ്കിൽ മനോവിനോദത്തിന്നു, വാക്കുകൾ
+കൊണ്ടു രൂപം കൊടുക്കുവാൻ ചങ്ങമ്പുഴയ്ക്കല്ലാതെ മറ്റാർക്കും സാധിച്ചിട്ടില്ല. ഇനി സാധിച്ചിട്ടുണ്ടെങ്കിൽത്തന്നെ
+ചങ്ങമ്പുഴയാണു് ആ കാര്യത്തിൽ മാർഗ്ഗദർശി എന്നുള്ളതു തർക്കമറ്റ സംഗതിയാണു്. മനസ്സിന്റെ ഉന്മേഷവും
+വേദനയും ഇങ്ങനെ അർത്ഥമില്ലാതെ ഇടകലർന്നു കിടക്കുന്നതിനെ വിവരിക്കുന്ന ചങ്ങമ്പുഴയുടെ ചില
+ചിത്രങ്ങൾക്കുള്ള മനോഹാരിത എത്രയാണെന്നു പറഞ്ഞറിയിക്കാൻ പ്രയാസമാണു്. ഉദാഹരണമായി
+യൗവനാരംഭത്തിൽ യുവാവിന്റെ അന്തർഗ്ഗതത്തിലേക്കും ഒരു സ്ത്രീരൂപം കടന്നു ചെല്ലുന്നതിന്റെ അന്യാദൃശമായ
+ചിത്രം നോക്കുക:
+</p>
+          <lg>
+            <l> “ആരുമറിഞ്ഞിടാതെൻ ജീവിതത്തിലേ-</l>
+            <l> ക്കാരാൽ നടന്നുവരുന്നവളാരു നീ?</l>
+            <l> പേർത്തുമെൻ ചിത്തം തുളുമ്പിടുമ്മാറതാ</l>
+            <l> കേൾപ്പു നിൻ നേരിയ കാൽച്ചിലമ്പൊച്ചകൾ.</l>
+            <l> നെഞ്ചിടിപ്പേറ്റുമാറെത്തുന്നു ചാരെ നിൻ</l>
+            <l> ചഞ്ചലവസ്ത്രാഞ്ചലസ്വനവീചികൾ!” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> പരിസരങ്ങൾ ഉണ്ടാക്കിത്തീർക്കുന്ന അലൗകികമായ ആനന്ദത്തിന്റെയും അതിനെത്തുടർന്നുണ്ടാകുന്ന
+അവാച്യമായ ഒരു മനോവ്യഥയുടെയും രൂപം ചങ്ങമ്പുഴ വരച്ചിരിക്കുന്നതു് മലയാളത്തിൽ മറ്റാർക്കും
+സാധിച്ചിട്ടില്ലാത്ത മട്ടിലാണു്.
+</p>
+          <lg>
+            <l> “പരിചിലൊരേകാന്തസ്വപ്നം പോലീ-</l>
+            <l> യരുവിയെൻ മുന്നിലൊലിച്ചിടുന്നു.</l>
+            <l> ഇളകുമിലകൾക്കിടയിലൂടെ</l>
+            <l> തെളുതെളെച്ചോരുന്ന ചന്ദ്രികയാൽ</l>
+            <l> നിഴലും വെളിച്ചവുമൊത്തുചേർന്നു</l>
+            <l> നിറയുമീ രമ്യനിശീഥരംഗം,</l>
+            <l> അലിയിക്കയാണെന്നെ മന്ദമന്ദ-</l>
+            <l> മനുപമാനന്ദസരസ്സിലൊന്നിൽ;</l>
+            <l> അരികിലെന്നാൽ കഷ്ടമാരുമില്ലെൻ</l>
+            <l> ഹൃദയോത്സവത്തിന്നു കാഴ്ചനില്ക്കാൻ.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എത്ര മൃദുലങ്ങളും നിസ്സാരങ്ങളുമായ വരികളാണു്! എന്നിരിക്കിലും, അവയിൽ നമ്മുടെയെന്നപോലെ എല്ലാ
+യുഗങ്ങളിലെയും ജനങ്ങളുടെ സൗന്ദര്യത്തിന്നും സ്നേഹത്തിന്നുമുള്ള ഹൃദയനോവും മനോവ്യഥയും
+കുടികൊള്ളുന്നുണ്ടു്. ഈ നോവും വ്യഥയും ശാശ്വതമാണു്. അവയുടെ ശാശ്വതത്വം നിലനില്ക്കുന്നിടത്തോളം കാലം
+ചങ്ങമ്പുഴയുടെ കവിതകൾ ആർത്തിയോടുകൂടി വായിക്കപ്പെടുകയും അഭിനന്ദിക്കപ്പെടുകയും ചെയ്യും.
+</p>
+          <p>ചങ്ങമ്പുഴയിൽനിന്നു കൈരളിക്കു കിട്ടിയ മറ്റൊരു സമ്പാദ്യം അദ്ദേഹത്തിന്റെ കവിതകളിൽ ഉടനീളം
+ഊറിക്കിടക്കുന്ന ഗാനാത്മകതയാണു്. ചങ്ങമ്പുഴ കവിതകളെഴുതിത്തുടങ്ങുന്നതിന്നുമുമ്പു് ദ്രാവിഡവൃത്തങ്ങൾ
+മിക്കവാറും വിസ്മരിക്കപ്പെട്ടുകിടക്കുകയായിരുന്നു. ചില വൃത്തങ്ങൾക്കു മഹാകവി വള്ളത്തോൾ പ്രചാരം
+
+കൊടുക്കാതിരുന്നിട്ടില്ല. എന്നാൽ സംഗീതമാധുര്യം തുളുമ്പുന്ന ഗാനവൃത്തങ്ങൾക്കു് അദ്ദേഹവും പ്രാധാന്യം
+നല്കിയിരുന്നില്ല. ഈ അമൂല്യനിധി പുറത്തേക്കെടുത്തു് അതിന്റെ അക്ഷയസമ്പത്തിൽക്കൂടി മുരളീനാദം
+മുഴക്കിയതും ചങ്ങമ്പുഴയാണു്. ഇതു് ആബാലവൃദ്ധം ജനങ്ങളെ ആകർഷിച്ചു. അതേവരെ മറ്റുപലരും പറഞ്ഞിരുന്ന
+കാര്യങ്ങൾതന്നെ ചങ്ങമ്പുഴയുടെ മുരളിയിൽക്കൂടി ഗാനാലാപമായി വന്നപ്പോൾ, അവയ്ക്കു് ഒരു പുതുമയും
+വികാസവും സിദ്ധിച്ച പോലെ തോന്നി. അർത്ഥമില്ലാത്ത പദങ്ങൾ അവയിൽ ധാരാളമുണ്ടായിരുന്നു. അർത്ഥം
+തന്നെ തെറ്റായി പ്രയോഗിച്ച പദങ്ങളുമുണ്ടായിരുന്നു. പുനരുക്തി സമൃദ്ധമായിരുന്നു. എന്നിരിക്കിലും അതു
+വായനക്കാരെ ഹഠാദാകർഷിച്ചു, വശീകരിച്ചു, പിടിച്ചിരുത്തി.</p>
+          <lg>
+            <l> “കളകളകോകിലാലാപലോലം</l>
+            <l> കമനീയകാമദപുഷ്പകാലം</l>
+            <l> മധുപാനമത്തമധുപഗീതം</l>
+            <l> മധുരസുഗന്ധിയാം മന്ദവാതം.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> വിശേഷിച്ചും അർത്ഥപുഷ്ടിയൊന്നുമില്ലെങ്കിലും
+എന്തൊരു വാചാലമായ പശ്ചാത്തലത്തെയാണു് സൃഷ്ടിച്ചുവിടുന്നതു്! എത്ര ഉദാഹരണങ്ങൾ വേണമെങ്കിലും
+ഇതുപോലെ എടുത്തുകാണിക്കാൻ കഴിയും.
+</p>
+          <p>സംഗീതാത്മകതയെ തുടർന്നുകൊണ്ടു് സ്വാഭാവികമായി അദ്ദേഹത്തിന്റെ പദലാളിത്യവും പോകുന്നു. വിഷാദം
+സ്വാനുഭവങ്ങളാൽ ഏവർക്കും സുഗ്രഹമാണു്; അതുകൊണ്ടു തന്നെ സാവത്രികമാണെന്നും പറയാം.
+ചങ്ങമ്പുഴയുടെ കവിതകളിൽ ഏറ്റവുമധികം പ്രാബല്യം സിദ്ധിച്ചിട്ടുള്ള ഭാവവും ഇതാണു്. അതേകാരണം
+കൊണ്ടുതന്നെ അദ്ദേഹത്തിന്റെ കവിത ജനങ്ങളുമായി കൂടുതൽ അടുത്തിരിക്കുന്നു എന്നും വേണമെങ്കിൽ പറയാം.
+ഈ വിഷാദത്തെ സ്ഥായിയായ ഒരു ചിന്താഗതിയായി പുലർത്തി ജനങ്ങളെ വിഷാദാത്മകത്വത്തിലേക്കു കവി
+താഴ്ത്താൻ പാടുള്ളതാണോ എന്നൊരു ചോദ്യം ചങ്ങമ്പുഴയെപ്പറ്റി ചോദിച്ചുകേൾക്കാറുണ്ടു്. അതു ശരിയാണു്. അതു
+പക്ഷേ, മറ്റൊരു സംഗതിയാണു്. ഒന്നു മാത്രമേ ഇവിടെ നോക്കാനുള്ളു: ആ വിഷാദത്തിനു് ഇത്ര ആത്മാർത്ഥമായ
+രൂപം കൊടുക്കുവാൻ മറ്റാർക്കെങ്കിലും കഴിഞ്ഞിട്ടുണ്ടോ എന്നുള്ളതു്. ഇല്ലെന്നുള്ളതു തർക്കമറ്റ സംഗതിയാണു്.
+ഇതു് ഒരു നേട്ടമാണെങ്കിൽ, ചങ്ങമ്പുഴ സാഹിത്യത്തിന്നു സമ്പാദിച്ചുവെച്ചിട്ടുള്ള നേട്ടം അന്യാദൃശമാണു്.
+</p>
+          <p>വിഷാദാത്മകങ്ങളല്ലാത്ത കവിതകളും ചങ്ങമ്പുഴ എഴുതീട്ടുണ്ടു് എന്നുള്ള കാര്യം ഞാൻ ഇവിടെ
+വിസ്മരിക്കുന്നില്ല. സമുദായത്തിന്റെ ഏറ്റവും താണപടിയിൽ മർദ്ദിതരായിക്കിടക്കുന്ന അവശരുടെ
+കഷ്ടപ്പാടുകളെപ്പറ്റി ഹൃദയം തുറക്കുന്നരീതിയിൽ ശോകാകുലനായും ചിലപ്പോൾ ക്രുദ്ധനായും അദ്ദേഹം
+കവിതകളെഴുതീട്ടുണ്ടു്. പക്ഷേ, അവയെല്ലാം ചങ്ങമ്പുഴയുടെ ചില പ്രത്യേക മാനസികാവസ്ഥകളുടെ (Moods)
+പ്രതിബിംബങ്ങളായിട്ടു മാത്രമേ കണക്കാക്കേണ്ടതുള്ളു. സ്ഥായിയായ വീക്ഷണഗതിയായിട്ടു് അദ്ദേഹം
+വളർത്തിക്കൊണ്ടുവന്നിട്ടില്ല. കുറേക്കാലം കൂടി ജീവിച്ചിരുന്നെങ്കിൽ അദ്ദേഹം അതു ചെയ്യുമായിരുന്നുവോ
+എന്നാലോചിക്കുന്നതു് വിമർശകന്മാർക്കും പക്ഷേ, രസാവഹമായ ഒരു കാര്യമായിരിക്കും. എന്നാൽ,
+ചങ്ങമ്പുഴയുടെ ആരാധകന്മാരായ സാധാരണ ജനങ്ങൾ അദ്ദേഹം നേടിവെച്ചു പോയിട്ടുള്ള സമ്പാദ്യങ്ങൾ
+കൊണ്ടുതന്നെ തൃപ്തരാണു്. അതിന്നു അവർക്കു അദ്ദേഹത്തോടുള്ള സ്നേഹവും ബഹുമാനവും കൃതജ്ഞതയും
+സീമയറ്റതാണു്. യശഃശരീരനായ ആ കവിയുടെ മുരളീരവം ശാശ്വതമായിത്തന്നെ വർത്തിക്കട്ടെ!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/vvmenon.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>കുറ്റിപ്പുറത്തു് കേശവൻ നായരുടെയും വള്ളത്തോൾ അമ്മാളുക്കുട്ടി അമ്മയുടെയും മകനായി 1916-ൽ ജനിച്ചു.
+
+1968-ൽ ഒരു കാറപകടത്തിൽ മരിച്ചു. മലയാളത്തിൽ വളരെയധികം എഴുതീട്ടില്ലെങ്കിലും ശ്രദ്ധിക്കപ്പെട്ട
+എഴുത്തുകാരനായിരുന്നു വി വി. കേസരി ബാലകഷ്ണപിള്ള ഇദ്ദേഹത്തിന്റെ <ref target="https://books.sayahna.org/ml/pdf/kesarikalavandi.pdf">കാളവണ്ടി</ref> എന്നകഥയെപ്പറ്റി ഒരു വിമർശനം
+എഴുതീട്ടുണ്ടു്.
+</p>
+          <div type="subsection" xml:id="sec0.0.0.0.1" n="0.0.0.0.1">
+            <head type="subsechead">കൃതികൾ</head>
+            <list rend="bulleted">
+              <item>കാളവണ്ടി </item>
+              <item>മാരാരും കൂട്ടരും </item>
+              <item>രംഗമണ്ഡപം </item>
+              <item>എവറസ്റ്റാരോഹണം </item>
+              <item>ഇന്നത്തെ റഷ്യ </item>
+              <item>സന്ധ്യ </item>
+              <item>Quest—(ജി. ശങ്കരക്കുറുപ്പിന്റെ ഓടക്കുഴൽ എന്ന സമാഹാരത്തിന്റെ ഇംഗ്ലീഷ് പരിഭാഷ) </item>
+            </list>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.1/1.2.0"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Changampuzhakavitha (ml:
+ചങ്ങമ്പുഴക്കവിത).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Vallathol Vasudevamenon B.
+A..</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Thoolikachithram, Vallathol
+Vasudevamenon B. A., Changampuzhakavitha, വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.,
+ചങ്ങമ്പുഴക്കവിത, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 13, 2026.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Fruit_Still_Life_with_Chinese_Export_Basket_by_James_Peale,_1824,_oil_on_wood__National_Gallery_of_Art,_Washington_-_DSC00096.JPG">Fruit Still Life with
+Chinese Export Basket,</ref> a painting by James Peale  . The image is taken from
+<ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/vv-changampuzhakavitha.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/vvchangampuzhakavitha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

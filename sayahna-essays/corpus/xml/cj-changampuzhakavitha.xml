@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചങ്ങമ്പുഴക്കവിതയിലെ
+സാമൂഹ്യാംശം</title>
+          <title xml:lang="en" type="main">Changampuzhakkavithayile
+Samoohyamsham</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 19, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചങ്ങമ്പുഴക്കവിതയിലെ
+
+സാമൂഹ്യാംശം</title>
+              <title xml:lang="en" type="main">Changampuzhakkavithayile
+Samoohyamsham</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-06-30</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>Changampuzhakkavithayile Samoohyamsham</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>ചങ്ങമ്പുഴക്കവിതയിലെ സാമൂഹ്യാംശം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-06-30</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Henri_Martin_La_poetesse.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Henri_Martin__La_po%C3%A9tesse_Cl%C3%A9mence_Isaure.jpg">The artist’s model for the present
+work was his wife, Marie Barbaroux,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Henri-Jean_Guillaume_Martin">HenriJean Guillaume Martin</ref>  (1860–1943). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചങ്ങമ്പുഴക്കവിതയിലെ സാമൂഹ്യാംശം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചങ്ങമ്പുഴക്കവിതയിലെ സാമൂഹ്യാംശം</head>
+        <div type="lsection">
+          <p style="noindent">വളരെയേറെ ഊന്നിപ്പറയപ്പെട്ടിട്ടുള്ള ഒരു കാര്യമാണു കലാകാരന്റെ സാമൂഹ്യകടമ.
+ഉത്തമകവിക്കു് വ്യക്തമായ ഒരു സാമൂഹ്യവീക്ഷണമുണ്ടായിരിക്കണമെന്നും, അതു
+പുരോഗമനപരമായിരിക്കണമെന്നും ന്യായത്തിന്റെ അഭാവത്തെ മറയ്ക്കുവാൻ വേണ്ടത്ര ‘ആവേശ’ത്തോടെ
+വാദിക്കപ്പെട്ടിട്ടുണ്ടു്. കവിതയുടെ മേന്മയെ നിർണ്ണയിക്കുന്നതുതന്നെ കാവ്യത്തിലെ സാമൂഹ്യാംശത്തിന്റെ
+പരിമാണവും ഇനവും അനുസരിച്ചായിരിക്കണമെന്ന നിലതന്നെ വന്നുപോയിട്ടില്ലേ എന്നു
+സംശയിക്കേണ്ടിയിരിക്കുന്നു. കാവ്യസൗന്ദര്യത്തിന്റെ നിദാനവും സാമൂഹ്യചിന്തയുടെ നിബന്ധനകളും
+എന്താണെന്നും, അവ തമ്മിലുള്ള പൊരുത്തത്തിന്റെ സ്വഭാവമെന്തെന്നും പരിഗണിക്കാതിരുന്നതുകൊണ്ടു്
+വന്നുകൂടിയതാണീ പ്രമാദം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lucretius1.png" rendition="gra"/>
+            <figDesc style="thumb">ലുക്രേഷ്യസ്</figDesc>
+          </figure>
+          <p> കവി ഒരു ദാർശനികനോ സാമൂഹ്യചിന്തകനോ ആയിരിക്കണമെന്നുണ്ടോ? ഇല്ല. ഇല്ല, എന്നുമാത്രമല്ല
+കവികൾ സാധാരണ അങ്ങനെയല്ലതാനും. കാവ്യമണ്ഡലം വിട്ടു് പ്രപഞ്ച രഹസ്യത്തിലേക്കു് കാലൂന്നുന്നവർ
+കവിതയെത്തന്നെ വിട്ടുപോകുന്നതും അപൂർവ്വമല്ല. റോമൻ കവിയായ <ref target="https://en.wikipedia.org/wiki/Lucretius">ലുക്രേഷ്യസി</ref> നെ കവികളുടെ
+ഗണത്തിലല്ല, ദാർശനികവലയത്തിലാണു് ഗണിക്കപ്പെടുന്നതു്. കവി വിലമതിയ്ക്കപ്പെടുന്നതു് ചിന്തയുടെ
+അഗാധതയ്ക്കുവേണ്ടിയല്ല, കാവ്യത്തിന്റെ മാധുര്യത്തിനു വേണ്ടിയാണു്; ഭാവനയുടെ സൗന്ദര്യത്തിനു വേണ്ടിയാണു്.
+രണ്ടിനെയും, ഒഴുക്കൻ ഭാഷയിൽ ചിന്തയെന്നു പറയാം. പക്ഷേ, നക്ഷത്രസമൂഹത്തെക്കൊണ്ടു് കാമുകിക്കു്
+വൈരമാല രചിക്കുന്ന കവിയുടെ തലയിൽ നടക്കുന്ന പ്രവർത്തനവും നക്ഷത്രങ്ങളുടെ ഉത്ഭവമെങ്ങനെ എന്നു്
+അന്വേഷിക്കുന്ന ദാർശനികന്റെ ചിന്തയും തമ്മിൽ എന്തോ ഒരു വ്യത്യാസമുണ്ടല്ലോ. അതാണു് കവിതയും
+ഫിലോസഫിയും തമ്മിലുള്ളതു്. ഇതിൽ ഒന്നുണ്ടെങ്കിലേ മറ്റതുണ്ടായിക്കൂടു എന്നു ശഠിക്കുന്നതു് രണ്ടിന്റെയും
+സത്തയെ നിഷേധിക്കലാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/John-milton.jpg" rendition="gra"/>
+            <figDesc style="thumb">മിൽട്ടൻ</figDesc>
+          </figure>
+          <p> ഇനിയൊരു മതമുണ്ടു്, കവി ദാർശനികനാകേണ്ട. പക്ഷേ, ചുറ്റും കാണുന്ന സമുദായത്തിന്റെ
+പുരോഗതിക്കുവേണ്ടി പ്രയത്നിച്ചുകൂടേ എന്നു്. ഓഹോ, പ്രയത്നിക്കാം. കവിതയെഴുതുക വയ്യ. നിശ്ചിതവും
+വ്യക്തവുമായ ഒരു സാമൂഹ്യതത്ത്വശാസ്ത്രമില്ലാതെ ശരിയായ സാമൂഹ്യ പ്രവർത്തനം സാധ്യമല്ലെന്നതോ
+പോകട്ടെ; കവി സാമൂഹ്യബോധമുള്ളവനായിരിക്കണമെന്നു് നിർബ്ബന്ധിക്കാൻതന്നെ നിവൃത്തിയില്ല.
+സമൂഹത്തെപ്പറ്റി ശ്രദ്ധയില്ലാത്ത കവി ഉണ്ടാകാമെന്നു മാത്രമല്ല, ചിലപ്പോൾ കവി ചങ്ങാത്തത്തിനുപോലും
+കൊള്ളരുതാത്തവനായിരുന്നേക്കാം. അതുകൊണ്ടുമാത്രം അയാളുടെ കവിത നന്നെന്നോ, നിന്ദ്യമെന്നോ
+സിദ്ധിക്കുന്നില്ല. <ref target="https://en.wikipedia.org/wiki/Kalidasa">കാളിദാസൻ</ref>
+വിപ്ലവകാരിയായിരുന്നില്ലെന്നു മാത്രമല്ല, ഒരു വായനശാല സെക്രട്ടറി പോലുമായിരുന്നെന്നു തെളിവില്ല.
+എങ്കിലും, അദ്ദേഹത്തിന്റെ കവിത, കുറെപ്പേരെങ്കിലും, അംഗീകരിക്കുന്നുണ്ടു്. <ref target="https://en.wikipedia.org/wiki/John_Milton">മിൽട്ടൻ</ref> കവിതയും
+വേദോപദേശവുംകൂടി കൂട്ടിക്കുഴച്ച കവിയാണു്. പക്ഷേ, അദ്ദേഹം ഇന്നു് അവശേഷിക്കുന്നതു്
+കാവ്യസൗന്ദര്യത്തിന്റെ പേരിലാണു്. അദ്ദേഹത്തിന്റെ മതപ്രചരണം കവിതയുടെ മുമ്പിൽ എത്ര നഷ്ടപ്രഭമായി
+എന്നറിയാൻ എളുപ്പമാണു്. കവിതയെഴുതിയെഴുതി, ആ ഭക്തന്റെ പിശാചു് ഈശ്വരനേക്കാൾ
+ഉൽകൃഷ്ടപാത്രമായിപ്പോയി. <ref target="https://en.wikipedia.org/wiki/William_Shakespeare">ഷേക്സ്പിയറി</ref>
+നാണെങ്കിൽ തത്ത്വചിന്തയില്ലായിരുന്നു, വിപ്ലവവുമില്ലായിരുന്നു. ഇവരാരും ദാർശനികമഹത്വമില്ലാതെത്തന്നെ
+ഉൽകൃഷ്ടകവികളായിത്തീർന്നു. അതിൽനിന്നു് എന്റെ അനുമാനം, ദർശനവും കാവ്യസൗന്ദര്യവും രണ്ടാണെന്നും,
+തത്ത്വചിന്തയോ, ഭക്തിയോ സാമൂഹ്യവീക്ഷണമോ, ആ വകയിൽപ്പെട്ട കേവലയുക്തിയോ കൂടാതെ മഹത്തായ
+കവിത ഉണ്ടാകാമെന്നുമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Homer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹോമർ</figDesc>
+          </figure>
+          <p> ഈ അഭിപ്രായത്തെ ചോദ്യംചെയ്യാൻ <ref target="https://en.wikipedia.org/wiki/Valmiki">വാല്മീകി</ref>, <ref target="https://en.wikipedia.org/wiki/Thunchaththu_Ezhuthachan">എഴുത്തച്ഛൻ</ref>,
+<ref target="https://en.wikipedia.org/wiki/Kumaran_Asan">ആശാൻ</ref>
+എന്നിവരെ നിരത്തി നിർത്തുന്നവരും ഉണ്ടാകാം. പക്ഷേ, ഓതിക്കോന്മാർക്കും ഭക്തജനങ്ങൾക്കും
+ഉപയോഗിക്കാവുന്ന വൈദികഗ്രന്ഥം രചിച്ചതാണു് വാല്മീകിയുടെ മഹത്വമെന്നു് ഗണിക്കുന്നവരും കവിതയും
+തമ്മിൽ എന്തെങ്കിലും ബന്ധമുണ്ടെന്നു ഗണിക്കാൻ പ്രയാസം. അങ്ങനെ പൂജാശ്ലോകങ്ങൾ എഴുതിയവർ നമ്മുടെ
+നാട്ടിൽ കുറച്ചൊന്നുമല്ലല്ലോ ഉള്ളതു്. അവരെയാരെയും വാല്മീകിയുടെ പന്തിയിലിരുത്തുക പതിവില്ലല്ലോ.
+എഴുത്തച്ഛന്റെ കാവ്യമാധുരിയെക്കാൾ ഭക്തിക്കു് മാറ്റുകല്പിക്കുന്നവർ. ശുചീന്ദ്രം ഗോപുരത്തിന്റെ ശില്പകലയേക്കാൾ
+പൂജാരിയുടെ ഓത്തിനും വിലയിരുത്തും. അത്തരം ചിന്തയ്ക്കു് മറുപടിയില്ല. ഭക്തിയായിരിക്കാം കൂടുതൽ
+വിശിഷ്ടമായതു്. പക്ഷേ, ഇങ്ങനെയൊരു പരിശോധനയിൽ കലാപക്ഷത്തുനിന്നു് അതു സമ്മതിച്ചുകൊടുക്കാൻ
+നിർവ്വാഹമില്ലല്ലോ. ആശാന്റെ കഥയാണെങ്കിൽ കരുണയിലും ചണ്ഡാലഭിക്ഷുകിയിലും കഥാഭാഗവും
+പ്രസംഗാംശവും താരതമ്യപ്പെടുത്തി നോക്കിയാൽ മതി സൗന്ദര്യമേതിലെന്നു നിർണ്ണയിക്കാൻ. ഇപ്പറഞ്ഞ
+സ്ഥലത്തെല്ലാം കവിത വിശ്വാസത്തെ ആകർഷകമാക്കുകയാണു്. മറിച്ചു് വിശ്വാസം കവിതയെ ധന്യമാക്കുകയല്ല.
+അച്ഛനെക്കൊന്ന സിയുസ് മുതൽ കടിഞ്ഞാണില്ലാത്ത വീനസ് വരെയുള്ള ദേവഗണത്തെ വന്ദിക്കാൻ പഠിപ്പിച്ചു
+എന്നതാണു് <ref target="https://en.wikipedia.org/wiki/Homer">ഹോമറു</ref> ടെ
+മഹത്വം എന്നാരും പറയുകയില്ല എന്നു ഞാൻ കരുതുന്നു. <ref target="https://en.wikipedia.org/wiki/Changampuzha_Krishna_Pillai">ചങ്ങമ്പുഴ</ref>
+യ്ക്കു് തത്വജ്ഞാനമില്ലാതിരുന്നതുകൊണ്ടു് മറ്റാർക്കും അതുണ്ടായിക്കൂടാ എന്നല്ല വിവക്ഷ. ‘പള്ളി വേറെ സ്രാങ്കു
+വേറെ’ എന്നു പറഞ്ഞതുപോലെ തത്ത്വജ്ഞാനവും കാവ്യമൂല്യവുമായി ബന്ധമില്ല എന്നുമാത്രം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Jonathan_Swift.jpg" rendition="gra"/>
+            <figDesc style="thumb">യോനാഥൻ സ്വിഫ്റ്റ്</figDesc>
+          </figure>
+          <p> ഉറപ്പായ വിശ്വാസങ്ങൾ ഒന്നും തന്നെയില്ലാതിരുന്ന ഒരു കവിയാണു് ചങ്ങമ്പുഴ. അങ്ങനെയുള്ള ഒരാൾക്കു്
+സാമൂഹ്യവീക്ഷണമുണ്ടെന്നു പറഞ്ഞാൽ തെറ്റിദ്ധാരണയ്ക്കിടയാകും. സാമൂഹ്യവീക്ഷണമെന്നു കേൾക്കുന്ന ഉടനെ
+ഏതെങ്കിലും ഒരു പ്രത്യേക സാമൂഹ്യനയത്തെക്കൂടി നാം ധരിക്കാറുണ്ടു്. ചങ്ങമ്പുഴയാണെങ്കിൽ കേട്ടുകേൾവിയുള്ള
+സകല രാഷ്ട്രീയവേഷവും ധരിച്ചിട്ടുണ്ടു്. കമ്മ്യൂണിസ്റ്റ്, ഫാസിസ്റ്റ്, ശൂന്യവാദി, അരാജകവാദി അങ്ങനെ എത്രയെത്ര
+ബിരുദങ്ങളാണു് അദ്ദേഹത്തിനു ലഭിച്ചതു്. അവയോരോന്നും ഉചിതമെന്നും തോന്നാം—കുറെക്കാലത്തേയ്ക്കു്.
+ഇവയോരോന്നിനെയും അദ്ദേഹം എതിർത്തിട്ടുണ്ടെന്നതാണു് മറക്കരുതാത്തതു്. അങ്ങനെയുള്ള ചങ്ങമ്പുഴയ്ക്കു്
+സാമൂഹ്യവീക്ഷണമുണ്ടെന്നു് എങ്ങനെ തീർത്തുപറയും?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thomashardy.jpg" rendition="gra"/>
+            <figDesc style="thumb"> തോമസ് ഹാർഡി</figDesc>
+          </figure>
+          <p> ഇപ്പറഞ്ഞതിന്റെ അർത്ഥം ഈ കവി തന്റെ സഹജീവികളോടു് യാതൊരു മൃദുലവികാരങ്ങളുമില്ലാത്ത
+കശ്മലനായിരുന്നെന്നാണോ? അങ്ങനെയാകണമെന്നില്ല. മനുഷ്യനെ സ്നേഹിച്ചുകൊണ്ടുതന്നെ അവരെ
+ചവിട്ടുകയും മുഖത്തു തുപ്പുകയും ഒക്കെ ചെയ്യുന്ന ഒരു വക ആളുകളുണ്ടു്—പ്രത്യേകിച്ചും കലാകാരന്മാരുടെ
+
+വർഗ്ഗത്തിൽ. അവർ സ്നേഹിക്കുന്നില്ലെന്നല്ല; ഹൃദയാലുത്വമില്ലെന്നല്ല. അവർ കരയും, ധീരമായി നീതിക്കുവേണ്ടി
+നില്ക്കും. ദിലീപനെപ്പോലെ ഉദാരമതികളായിരിക്കും. പക്ഷേ, അവർ അവരുടെ വികാരത്തിനടിമയാണു്. ചിന്തയല്ല,
+വികാരമാണവരെ നയിക്കുന്നതു്. അവർ ഗണിതശാസ്ത്രശിക്ഷകരല്ല, മഹാലോകത്തിൽ വിഹരിക്കുന്ന
+കലാകാരന്മാരാണു്, മനുഷ്യന്റെ വേദനയോടുള്ള സഹാനുഭൂതി, മനുഷ്യൻ സ്വയംകൃതാനർത്ഥം ഉണ്ടാക്കുമ്പോൾ
+അവന്റെ നേരെ തിരിയും. ഓടിനടന്നു വീഴുമ്പോൾ കുട്ടികളെ അടിക്കുന്ന അച്ഛന്മാരെപ്പോലെ, ഇംഗ്ലീഷ്
+സാഹിത്യത്തിൽ രണ്ടു നല്ല ഉദാഹരണങ്ങളുണ്ടു്. <ref target="https://en.wikipedia.org/wiki/Jonathan_Swift">യോനാഥൻ സ്വിഫ്റ്റും</ref>
+<ref target="https://en.wikipedia.org/wiki/Thomas_Hardy">തോമസ്
+ഹാർഡിയും</ref>. വളരെയധികം വെറുക്കപ്പെട്ട രണ്ടു മനുഷ്യസ്നേഹികളായിരുന്നു അവർ. മനുഷ്യന്റെ
+വൃത്തികേടുകൾ കണ്ടു് പൊറുതിമുട്ടിയാണു് സ്വിഫ്റ്റ് ഗളിവർ കഥ എഴുതിയതു്. അതിന്റെ നാലാംഭാഗത്തിൽ
+മനുഷ്യനെ ചിത്രീകരിച്ചിരിക്കുന്നതു വായിച്ചാൽ അദ്ദേഹം ഒരു മനുഷ്യവിദ്വേഷിയാണെന്നു തോന്നും.
+ഐർലണ്ടിലെ രണ്ടുവയസ്സിൽ താഴെയുള്ള മനുഷ്യശിശുക്കളെ ഇംഗ്ലീഷ് പ്രഭുക്കന്മാർക്കു് ഭക്ഷണമായി
+കൊടുക്കണമെന്ന ശിപാർശ കൂടിയായപ്പോൾ കാര്യം പൂർണ്ണമായി. താക്കറെ പറഞ്ഞു. “ഈ കത്തനാരെ
+തൂക്കിക്കൊല്ലണം.” ഹാർഡിയാണെങ്കിൽ ജീവിതമെല്ലാം മനുഷ്യ വർഗ്ഗത്തിന്റെ ഭീമയാതനയോർത്തു്
+ദുഃഖിച്ചയാളാണു്. യഥാർത്ഥമായി ആ വേദന ചിത്രീകരിക്കുകയും ചെയ്തു. അവിടെ അദ്ദേഹം ആരെയും
+വെള്ളപൂശിയില്ല. മനുഷ്യൻ മനുഷ്യനോടു ചെയ്യുന്ന ക്രുരത (ചിലപ്പോൾ സ്വയം) ചിത്രീകരിച്ചപ്പോൾ സാഹിത്യം
+വായിക്കാൻ അറിഞ്ഞുകൂടാത്ത മനുഷ്യർ അദ്ദേഹത്തെയും മനുഷ്യവിദ്വേഷിയാക്കി മുദ്രയടിച്ചു. ചങ്ങമ്പുഴയും
+മനുഷ്യരെ പഴിച്ചിട്ടുണ്ടു്. അക്കാര്യംകൊണ്ടു് അദ്ദേഹത്തെയും മനുഷ്യവിദ്വേഷി എന്നു വിളിക്കാം. പക്ഷേ,
+സ്വിഫ്റ്റിനെയും ഹാർഡിയേയും പോലെ അദ്ദേഹം മനുഷ്യരെ സ്നേഹിച്ചു. സമുദായമെന്ന ഒരു സങ്കല്പജീവിയെ
+ചങ്ങമ്പുഴ അംഗീകരിച്ചെന്നു തോന്നുന്നില്ല. മനുഷ്യരെ ഒറ്റയ്ക്കൊറ്റയ്ക്കു് വ്യക്തികളായിട്ടേ അദ്ദേഹത്തിനു കാണാൻ
+കഴിഞ്ഞുള്ളു. അവരുടെ സുഖദുഃഖങ്ങളിൽ പങ്കാളിയാവാനും അദ്ദേഹത്തിനു കഴിയുമായിരുന്നു. ഈ
+സമീപനരീതികൊണ്ടുതന്നെ ഒരു രാഷ്ട്രീയപ്രമാണത്തിലോ പ്രസ്ഥാനത്തിലോ ഉറച്ചുനിൽക്കാൻ അദ്ദേഹത്തിനു
+കഴിവില്ലാതെ വന്നു. അപ്പപ്പോൾ മനുഷ്യദ്രോഹപരമായി കാണുന്നതിനെ അദ്ദേഹം എതിർക്കും. ജന്മിത്തം,
+മാമൂൽ, വർഗ്ഗീയത, കമ്മ്യൂണിസം, ഗാന്ധിമതം, സന്യാസം അങ്ങനെ പലതിനെയും പലപ്പോഴായി എന്തെങ്കിലും
+ഒരു പേരുപറഞ്ഞു് ചങ്ങമ്പുഴയെ വന്ദിക്കാനോ നിന്ദിക്കാനോ സാധ്യമല്ല. ആ ആരോപണത്തിനോ (അഥവാ
+ആരാധനത്തിനോ) പ്രതികൂലമായ എന്തെങ്കിലും അദ്ദേഹത്തിന്റെ കവിതകളിലുണ്ടാകും. യഥാർത്ഥ
+കമ്മ്യൂണിസ്റ്റുകാർ സോവിയറ്റ് സുഹൃത്തു്, ഫാസിസ്റ്റ് വിരോധി എന്നെല്ലാം വേഷംകെട്ടി നടന്നകാലത്തു് ചങ്ങമ്പുഴ
+പറഞ്ഞു, കമ്മ്യൂണിസം നല്ലതാണെന്നു്. കമ്മ്യൂണിസം പ്രചരിച്ചുകഴിഞ്ഞു് പറഞ്ഞു: ‘ചുമ്മാ പറഞ്ഞു നടന്നാൽ മതി’
+എന്നു്. പാടുന്ന പിശാചിന്റെ കർത്താവിനെ മനുഷ്യകഥാനുഗായി എന്നുകൂടി വിളിക്കാൻ വിഷമമാണു്.
+സമുദായത്തെ പൊതുവായി കാണാൻ കഴിയാതെ, സംഘടിതസമുദായമെന്നതു് മിഥ്യയെന്നുവരെ വിചാരിച്ചു്,
+ശിശുക്കളെപ്പോലെ വ്യക്തികളോടു് ഇണങ്ങുകയും പിണങ്ങുകയും ചെയ്യുന്ന ഒരു ശുദ്ധാത്മാവു് എന്നുമാത്രമേ
+ചങ്ങമ്പുഴയെ പറയാൻ കഴിയൂ. ഇത്തരം സഹാനുഭുതിയിൽനിന്നുണ്ടാകുന്ന സാമൂഹ്യബോധമേ
+ചങ്ങമ്പുഴയ്ക്കുണ്ടായിരുന്നുള്ളൂ. പക്ഷേ, ഒന്നു് തെളിച്ചുപറയേണ്ടതുണ്ടു്. ഈ ബാലിശവികാരങ്ങളിലെല്ലാം,
+പ്രപഞ്ചരക്ഷകരായി അവതരിച്ചിരിക്കുന്ന അനേകരെക്കാൾ പതിന്മടങ്ങു് ആത്മാർത്ഥതയുണ്ടായിരുന്നു ആ
+കവിക്കു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Percy_Bysshe_Shelley.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷെല്ലി</figDesc>
+          </figure>
+          <p> പ്രത്യേകമായ ഈ സ്വഭാവത്തിന്റെ ദൃഷ്ടാന്തമാണു് ചങ്ങമ്പുഴയുടെ സാഹിത്യപ്രവർത്തന കഥ. അദ്ദേഹം
+കാവ്യവൃത്തിയാരംഭിക്കുന്നതു്, മറ്റു കവികളെപ്പോലെ പരാതികളുമായിട്ടാണു്. ദാരിദ്യം, അനീതി, മർദ്ദനം,
+അവസരനിഷേധം അങ്ങനെ പലതും കാവ്യവിഷയമായിരുന്നു. എല്ലാറ്റിനും ഒരു ശതമാനം പ്രേമവും ഉണ്ടാവും.
+ചിലയിടങ്ങളിൽ ഈ പരാതികൾ പ്രതിഷേധത്തിന്റെ നിലവരെ ശക്തിയേറും (അവിടെയെല്ലാം വ്യക്തികളുടെ
+കണ്ണിൽക്കൂടിയാണു് ചങ്ങമ്പുഴ ലോകത്തെ കാണുന്നതു്. ആ കേവലവ്യക്തി സമുദായത്തിന്റെ പ്രതിനിധിയായോ
+സിംബലായോ ഒന്നും ഗണിക്കേണ്ട കാര്യമില്ല). സങ്കടവും കോപവും പ്രേമവും എല്ലാം കൂട്ടിക്കുഴച്ചു് അദ്ദേഹം ഒരു
+എതിർപ്പുകാരനായി മാറി—ഒരു വെറും ലഹളക്കാരൻ, ഒരിക്കലും ചങ്ങമ്പുഴ വിപ്ലവകാരിയായിട്ടില്ല. വിപ്ലവത്തിനു്
+ഒരു വിശ്വാസപ്രമാണമാവശ്യമാണു്. അങ്ങനെയൊരു വിശ്വാസത്തിനു് പശ്ചാത്തലമായി ഒരു
+തത്ത്വശാസ്ത്രമുണ്ടായിരിക്കണം. അതിന്റെ പ്രാധാന്യത്തെ ചൂണ്ടിക്കാണിക്കാൻവേണ്ടിയാണു് കലാസൃഷ്ടിയും
+ദർശനവും തമ്മിൽ ബന്ധമില്ലെന്നു് ആദ്യമേ പറഞ്ഞതു്. വിപ്ലവത്തിൽ, നിശ്ചിതവും, യാഥാസ്ഥിതികവുമായ ചില
+അംശങ്ങളുണ്ടു്. നിരന്തരം മാറിമറിയുന്ന ഒരു മനസ്സിനു് ഉറച്ചുനില്ക്കാവുന്ന വിപ്ലവമില്ല. വിപ്ലവത്തിൽ ധ്വംസനം
+മാത്രമല്ല, സൃഷ്ടിയും വേണം. പഞ്ചവത്സരപദ്ധതികളുണ്ടു്. കാശിനുകൊള്ളാവുന്ന യാതൊരു കവിയും
+പഞ്ചവത്സരപദ്ധതിയെപ്പറ്റി ഭാവഗീതം എഴുതുകയില്ല. രാഷ്ട്രം കെട്ടിപ്പടുക്കുന്നതും മതം പ്രചരിപ്പിക്കുന്നതും
+മരച്ചീനികൃഷി നടത്തുന്നതുമെല്ലാം നല്ല കാര്യങ്ങളായിരിക്കാം. പക്ഷേ, അതൊന്നും കവിതയുടെ സാമ്രാജ്യമല്ല.
+
+കവിക്കവിടെ കാര്യമില്ല. ഇംഗ്ലണ്ടിന്റെ ചരിത്രത്തിൽ <ref target="https://en.wikipedia.org/wiki/Oliver_Cromwell">ക്രോംവെല്ലി</ref> ന്റെ
+ശിപായിയോളം സ്ഥാനമില്ല <ref target="https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley">ഷെല്ലി</ref> ക്കു്.
+പിന്നെയെന്തിനു് കവി ആ പാഴ്‌വേലയ്ക്കു പോകണം? യാതൊരു രാഷ്ടീയകക്ഷിയും ഒരു <ref target="https://en.wikipedia.org/wiki/Walt_Whitman">വാൾട് വിറ്റ്മാ</ref> ന്റെ
+പേരിനാൽ അറിയപ്പെടുന്നില്ല; അവിടെയെല്ലാം സർഗ്ഗാത്മകമായ ചിലതാണു് ആവശ്യം. നിലയ്ക്കാത്ത
+നിഷേധവുമായി പാടാനിറങ്ങിയ കവി രാജ്യഭരണത്തിനു പോകേണ്ട. ചങ്ങമ്പുഴ പോയുമില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Walt_Whitman.jpg" rendition="gra"/>
+            <figDesc style="thumb">വാൾട് വിറ്റ്മാൻ</figDesc>
+          </figure>
+          <p> ചങ്ങമ്പുഴയെ സാമൂഹ്യപ്രാധാന്യമുള്ള ഒരു കവിയായി ചിലർ പ്രശംസിക്കുകയും ചിലർ അപലപിക്കുകയും
+ചെയ്തിട്ടുണ്ടു്. രണ്ടുകൂട്ടരെയും അമ്പരപ്പിച്ചു ചങ്ങമ്പുഴയുടെ അടുത്ത കവിതകൾ. ഒടുവിൽ അദ്ദേഹം സകലരെയും
+മുഷിപ്പിച്ചു. ഇങ്ങനെ മാറിമറിയുന്ന ഒരു കവിയെ യാതൊരു രാഷ്ട്രീയകക്ഷിയും കുത്തകയാക്കുകയില്ല.
+ആക്കണമെന്നാരും മോഹിക്കുകയുമില്ല. നമ്മെ സംബന്ധിച്ചിടത്തോളം സാഹിത്യത്തിലെന്നതുപോലെ
+സാമൂഹ്യചിന്തയിലും ചങ്ങമ്പുഴയെ ഒരു വിഗ്രഹമാക്കാതിരിക്കാം.
+</p>
+          <p>കവിയുടെ രംഗം സൗന്ദര്യമാണു്. കഴിവതുപോലെ ഭാവനയിലും സംഗീതത്തിലും ചങ്ങമ്പുഴ സൗന്ദര്യരചന
+ചെയ്തിട്ടുണ്ടു്. അതുകൊണ്ടു നമുക്കു തൃപ്തിപ്പെടുക.
+</p>
+          <p>കവിതാസമിതിയുടെ സമാഹാരത്തിൽ നിന്നു് 1952.
+</p>
+          <p>അന്വേഷണങ്ങൾ 2004.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Changampuzhakkavithayile
+Samoohyamsham (ml: ചങ്ങമ്പുഴക്കവിതയിലെ സാമൂഹ്യാംശം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-06-30. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas,
+Changampuzhakkavithayile Samoohyamsham, സി. ജെ. തോമസ്, ചങ്ങമ്പുഴക്കവിതയിലെ
+സാമൂഹ്യാംശം, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 19, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Henri_Martin__La_po%C3%A9tesse_Cl%C3%A9mence_Isaure.jpg">The artist’s model for the present
+work was his wife, Marie Barbaroux,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Henri-Jean_Guillaume_Martin">HenriJean Guillaume Martin</ref>  (1860–1943). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-changampuzhakavitha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cjchangampuzhakavitha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

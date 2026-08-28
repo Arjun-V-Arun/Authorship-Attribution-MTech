@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തകർച്ചകളുടെ കാലം</title>
+          <title xml:lang="en" type="main">Thakarchakalude kalam</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>JS Aswathy</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">March 2, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തകർച്ചകളുടെ കാലം</title>
+              <title xml:lang="en" type="main">Thakarchakalude kalam</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-03-03</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Thakarchakalude kalam</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>തകർച്ചകളുടെ കാലം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-03-03</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Points.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky,_1920__Points.jpg">Points,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Wassily_Kandinsky">Wassily
+Kandinsky</ref>  (1866–1944). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തകർച്ചകളുടെ കാലം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തകർച്ചകളുടെ കാലം</head>
+        <div type="lsection">
+          <p style="noindent">ശ്രീ. എം. ഗോവിന്ദന്റെ “അന്വേഷണത്തിന്റെ ആരംഭം” എന്ന ഗ്രന്ഥം വായിച്ചിട്ടു്
+(അതോ വായിക്കാതെയോ?) ഒരു മാന്യസുഹൃത്തു് അഭിപ്രായപ്പെട്ടു: “ഇവരൊക്കെ കണ്‍ഫ്യൂഷൻ
+പരത്തുകയാണു് !” ആരൊക്കെ? ശ്രീ. എം. ഗോവിന്ദനും അദ്ദേഹത്തെപ്പോലെ
+ചിന്തിക്കുന്നവരുമായിരിക്കണമല്ലോ. ഞാനും ഏറെക്കുറെ അക്കൂട്ടത്തിൽ പെടുന്നയാളാണു്. അതുകൊണ്ടു് എന്റെ
+പങ്കു് കണ്‍ഫ്യൂഷനുംകൂടി സംഭാവന ചെയ്യാമെന്നു വിചാരിക്കുകയാണു് (ആ ഗ്രന്ഥത്തെ നീതീകരിക്കുവാൻ
+വേണ്ടിയല്ല, അതിനു് അതിന്റെ സ്വന്തം കാലിൽ നില്ക്കുവാൻ കഴിയും, കണ്‍ഫ്യൂഷൻ എവിടെയാണെന്നു
+മനസ്സിലാക്കുവാൻ വേണ്ടിത്തന്നെ). എന്തു കണ്‍ഫ്യുഷൻ പരത്തുന്നുവെന്നാണാക്ഷേപം?
+</p>
+          <p>അതിനു് ഏറ്റവും യോജിച്ച മാർഗ്ഗം ആ പുസ്തകത്തിന്റെ ഉള്ളടക്കമെന്താണെന്നു പരിശോധിക്കുകയാണല്ലോ.
+ഒഴുക്കന്‍മട്ടിൽ പറഞ്ഞാല്‍, നിലവിലുള്ള സകലമൂല്യങ്ങളുടേയും പരാജയം. കുറച്ചുകൂടി പരത്തിപ്പറഞ്ഞാല്‍,
+മുതലാളിത്തത്തിന്റേയും ജനാധിപത്യത്തിന്റേയും കമ്മ്യൂണിസത്തിന്റേയും സനാതനസന്മാർഗ്ഗ സംസ്കാരങ്ങളുടേയും
+പരാജയം. ഇതിനും പുറമേ വിശ്വസിച്ചു മുറുകെപ്പിടിക്കാവുന്ന ഒരു പുതിയ സുവിശേഷത്തിന്റെ അഭാവം. ഒരു
+അന്ധകാരയുഗത്തിന്റെ ആരംഭം തന്നെയാണു് ശ്രീ. ഗോവിന്ദൻ ചൂണ്ടിക്കാണിക്കുന്നതെന്നു പറഞ്ഞാലും വലിയ
+തെറ്റുണ്ടാകയില്ല. ഇതിലെന്താണു് കണ്‍ഫ്യൂഷന്‍?
+</p>
+          <p>ഇവയൊന്നും പരാജയപ്പെട്ടിട്ടില്ലെന്നാണോ ഭാവം? അതോ ഇനി ഇവയിലേതെങ്കിലും ആശയ്ക്കു
+വകയുണ്ടെന്നാണോ? അതു രണ്ടുമല്ലെങ്കിൽ, ഇപ്പറഞ്ഞതെല്ലാം വാസ്തവമാണെങ്കിൽ പോലും അക്കാര്യം തുറന്നു
+പറഞ്ഞുകൂടെന്നായിരിക്കുമോ? ആയിരിക്കാം. അഭിപ്രായങ്ങൾ പലതരത്തിലാണല്ലോ. എങ്കിലും, മുതലാളിത്ത
+വ്യവസ്ഥയിൽ മർദ്ദനവും പട്ടിണിയും ഭൂരിപക്ഷത്തിന്റെ ജാതകഫലമാണെന്നു് ഇനിയും തെളിയിക്കേണ്ട
+ആവശ്യമുണ്ടോ? എങ്കില്‍, പിന്നെ ധർമ്മസ്ഥാപനങ്ങളും നീതിന്യായക്കോടതികളുമെല്ലാം നിറുത്തൽ
+ചെയ്യാമല്ലോ! ഇല്ല. നിലവിലുള്ള സാമ്പത്തികഘടന ഉത്തമമാണെന്നു് ഉറപ്പിച്ചുപറയുന്നവരെ ഇന്നു
+കണ്ടെത്താൻ വിഷമമാണു്. പോരെങ്കില്‍, കണ്‍ഫ്യൂഷൻ പരത്തുന്നുവെന്നു പരാതിപ്പെടുന്നവർ ഇക്കാര്യത്തിൽ
+ഗ്രന്ഥകാരന്റെ ചിന്താഗതിക്കാരുമാണു്. പിന്നെയെവിടെയാണു് കുഴപ്പം? ജനാധിപത്യത്തിന്റെ കാര്യത്തിലും
+ഭിന്നാഭിപ്രായങ്ങൾക്കു വകയില്ല. നമ്മുടെ നാട്ടിലെ തെരഞ്ഞെടുപ്പുകൾ കണ്ടിട്ടുള്ളവർക്കു് ജനാധിപത്യമെന്ന
+ആശയംതന്നെ ദഹിക്കാതെവന്നേയ്ക്കാം. അതുകൊണ്ടായിരിക്കണമല്ലോ, ചിലർ ജനകീയജനാധിപത്യമെന്നും
+മറ്റും പുനരുക്തിപ്രയോഗം നടത്തുന്നതു്. അപ്പോൾ അവിടെയും കുഴപ്പമില്ല. സംസ്കാരം, സന്മാർഗ്ഗം, കല
+മുതലായതുകളേപ്പറ്റിയും ഇക്കാലത്തു വലിയ വ്യാമോഹങ്ങൾ ഉണ്ടാവാൻ നിവൃത്തിയില്ല. അത്ഭുതദർശനങ്ങളും,
+അമേരിക്കൻ അർദ്ധനഗ്നകളും മറ്റുമാണു് ഇവയുടെ കുത്തക ഏറ്റെടുത്തിരിക്കുന്നതു്. ഇങ്ങനെ നിലവിലുള്ളതിനെ
+ഓരോന്നോരോന്നായി എടുത്തുപറഞ്ഞിട്ടു കാര്യമില്ല. അവ ഓരോന്നായി തകരുകയാണു്. അവയെ
+തകർക്കുവാൻ ബദ്ധകങ്കണരായ വിഗ്രഹധ്വംസകന്മാരും ഉണ്ടു്, കാലക്രമേണ അവയെല്ലാം തകർന്നു കൊള്ളും.
+അവിടെയെങ്ങും കണ്‍ഫ്യൂഷനില്ല. പിന്നെയെവിടെ?
+</p>
+          <p>തകർന്നാൽ പോരാ, തളിർക്കുകയും വേണമല്ലോ. എന്തെങ്കിലും തളിർത്താൽ പോരാതാനും.
+സോഷ്യലിസമെന്നു പൊതുവെ നിർവചിക്കാവുന്ന ഒന്നാണു് തളിർക്കേണ്ടതെന്നു് ഒരു ധാരണ
+സാർവലൗകികമായിത്തീർന്നിട്ടുണ്ടു്. അക്കാര്യവും ശ്രീ. ഗോവിന്ദൻ പരിശോധിക്കുന്നുണ്ടു്. അതിലെന്തോ ഒരു
+കുഴപ്പം ശ്രീ. ഗോവിന്ദൻ കാണുന്നുണ്ടു്. പലരും ഇതിനുമുമ്പു് കണ്ടിട്ടുണ്ടു്. പുതിയ മതത്തിലെ ഉൾപ്പിരിവുകളും,
+തൊഴുത്തില്‍കുത്തും, തത്ത്വവും പ്രയോഗവും തമ്മിലുള്ള അന്തരവും മറ്റും പലരേയും അമ്പരപ്പിച്ചിട്ടുണ്ടു്.
+ചിലരൊക്കെ അതു് തുറന്നുപറയുകയും ചെയ്തു. അവരെയെല്ലാം പിന്തിരിപ്പന്മാരെന്നു് മുദ്രകുത്തി
+കശാപ്പിനയക്കുകയായിരുന്നു പണ്ടത്തെ ഫാഷൻ. ഇന്നു്—അതായതു് യുഗോസ്ലോവ്യയ്ക്കും, മാവോയ്ക്കും,
+ഹൈദരാബാദിനും ശേഷം—അങ്ങനെ അടച്ചു മുദ്രകുത്തുക അസൗകര്യമായിത്തീർന്നിട്ടുണ്ടു്. ഇന്നലെവരെ
+മുതലാളിത്തത്തിനുള്ളിലെ പരസ്പരവൈരുദ്ധ്യങ്ങൾ മാത്രമായിരുന്നു പ്രശ്നം. ഇന്നാകട്ടെ കമ്മ്യൂണിസത്തിനകത്തെ
+പരസ്പരവൈരുദ്ധ്യങ്ങൾകൂടി ചർച്ചാവിഷയമായിത്തീർന്നിരിക്കുന്നു. അവിശ്വാസികളുടെ ഭാഷയിൽ പറഞ്ഞാൽ
+സോഷ്യലിസം, ഒരു സനാതനസത്യമെന്നനിലയിൽനിന്നു് ഒരു രാഷ്ട്രീയകക്ഷി എന്ന നിലയിലേയ്ക്കു്
+മാറിയിരിക്കുന്നു എന്നർത്ഥം. ഇക്കാര്യം ശ്രീ. ഗോവിന്ദൻ ഉദാഹരണസഹിതം വരച്ചുകാണിക്കുന്നുണ്ടു്.
+ഇവിടെയാണു് ‘കണ്‍ഫ്യൂഷ’ന്റെ ആരംഭം. ശ്രീ. ഗോവിന്ദനു് കണ്‍ഫ്യൂഷനില്ലെങ്കിലും ചില വായനക്കാർക്കു
+കണ്‍ഫ്യൂഷൻ ഉണ്ടാകുന്നുവത്രേ!
+</p>
+          <p>എന്തുപറ്റി, അങ്ങനെ സംഭവിക്കാന്‍! ഒരു കടുത്ത മതവിശ്വാസിക്കു്, പുരോഹിതൻ വേദഗ്രന്ഥം
+
+മോഷ്ടിക്കുന്നതു കണ്ടാൽ കണ്‍ഫ്യൂഷനുണ്ടാകും. ഭൂമി സൂര്യനെ ചുറ്റുകയാണെന്നു് ആദ്യമായി മനസ്സിലാകുന്നവനു്
+കണ്‍ഫ്യൂഷനുണ്ടാകും. യുഗോസ്ലോവ്യയെപ്പറ്റി ദീർഘമായി ചിന്തിക്കുന്ന കമ്മ്യൂണിസ്റ്റിനും കണ്‍ഫ്യൂഷനുണ്ടാകും.
+അതേ, എന്തെങ്കിലും അന്ധമായി വിശ്വസിക്കാൻ വേണമെന്നു ശഠിക്കുന്നവരാണു് ഈ “ആന്റി കണ്‍ഫ്യൂഷന്മാർ.”
+കമ്മ്യൂണിസമുൾപ്പെടെയുള്ള സകലമതങ്ങളുടെയും കഥയതാണു്. അവർക്കു് എന്തെങ്കിലും വിശ്വസിക്കാൻ വേണം.
+അങ്ങനെയൊരു വിശ്വാസമുണ്ടാകുന്നതു് എല്ലാവർക്കും സ്വീകാര്യമാണു്. പക്ഷേ, ഇക്കൂട്ടർക്കു് ഒരു
+പ്രത്യേകതയുണ്ടു്. തെറ്റാണെങ്കില്‍പ്പോലും ഒരു വിശ്വാസമുണ്ടായിരിക്കണമെന്ന നിർബ്ബന്ധമാണതു്. കണ്ണു
+തുറക്കാതിരുന്നാൽ മതിയല്ലോ, തെറ്റു കാണാതെയിരിക്കുവാൻ. എന്തിനെയെങ്കിലും ചാരിനില്ക്കാതെ അവർക്കു്
+നില്ക്കക്കള്ളിയില്ല. സ്വയമായി എന്തിനെയെങ്കിലും അന്വേഷിച്ചു കണ്ടെത്താൻ ത്രാണിയില്ല. അഥവാ
+ത്രാണിയുണ്ടെങ്കിൽ അങ്ങനെയൊരു പരിശ്രമത്തിലേർപ്പെടാൻ അവർക്കു് മടിയാണു്. പിന്നെയെന്താ ചെയ്യുക?
+നിലവിലുള്ള ഒന്നിനെ കണ്ണടച്ചു് മുറുകെപ്പിടിക്കുക. ഏതിനെയെന്നതു തീരുമാനിക്കുന്നതു്, അവരല്ല,
+സാഹചര്യങ്ങളാണു്. ഈ സമ്പ്രദായത്തെ നീതീകരിക്കുവാൻ പറ്റിയ ഒരു ഫിലോസഫിയുണ്ടവർക്ക്. ചിന്ത
+തലച്ചോറെന്ന വസ്തുവിന്റെ ഒരു ഭാഗമാണു്. തലച്ചോറു് ഉണ്ണുന്ന ചോറിന്റെ ഫലമാണു്. ഉണ്ണുന്ന ചോറു് സമുദായം
+ഉണ്ടാക്കുന്നതാണു്. അതുകൊണ്ട് ഉത്തരം എളുപ്പത്തിൽ കിട്ടി. നമ്മുടെ ആശയങ്ങളും ആദർശങ്ങളുമെല്ലാം
+സമുദായം ഉണ്ടാക്കിത്തീർത്തതാണു്. (തെറ്റിയാലെന്താ പാടു്, താനല്ലല്ലോ തീരുമാനിച്ചതു്, സമുദായമല്ലേ?)
+ഇങ്ങനെ ചിന്തയുടെ ഉത്തരവാദിത്വം പോലും സമുദായത്തിന്റെ പുറത്തുകെട്ടിവെച്ചു കൈയിൽ കിട്ടിയ
+വിശ്വാസത്തെയും മുറുകെപ്പിടിച്ചു് അവർ ഇരിക്കുകയാണു്. അവരെ സംബന്ധിച്ചിടത്തോളം അന്വേഷണങ്ങളുടെ
+കാലം കഴിഞ്ഞിരിക്കുന്നു. സനാതനസത്യം കണ്ടെത്തിയിരിക്കുന്നു. അതു ചോദ്യംചെയ്യപ്പെട്ടാലും അവർക്കു
+കുലുക്കമില്ല. ചൂടുപറ്റി ഇരിക്കാൻ കൊള്ളാവുന്ന ഒരു വിശ്വാസംകൂടി അവർക്കു ലഭിച്ചുകഴിഞ്ഞു. ഇനി അതു് ശരിയോ
+തെറ്റോ എന്നു പരിശോധിക്കുന്നതിനേക്കാൾ പ്രധാനം ആ ചൂടു് നഷ്ടപ്പെടുത്താതെ ഇരിക്കുക എന്നതാണു്.
+വികൃതമായ സത്യങ്ങളെക്കാൾ നല്ലതു് സുന്ദരമായ വ്യാമോഹങ്ങളാണു്. ആരെങ്കിലും ആ വ്യാമോഹങ്ങളെ
+ചോദ്യംചെയ്താല്‍, ആരെങ്കിലും വികൃതവും കയ്പുള്ളതുമായ സത്യങ്ങളെ പുറത്തെടുത്തിട്ടാല്‍, ഉടനെ പരാതിയായി,
+‘കണ്‍ഫ്യൂഷൻ പരത്തുന്നു.’
+</p>
+          <p>ഇതുതന്നെയാണു് ഇന്നത്തെ കുഴപ്പം: കുഴപ്പമുണ്ടു് എന്ന വാസ്തവം മനസ്സിലാക്കാന്‍തന്നെയുള്ള കഴിവില്ലായ്മ.
+ഓരോ വിശ്വാസങ്ങളും രൂപീകരിക്കാൻ ചെലവാക്കിയ ചിന്തയുടെ അനേകമിരട്ടി അവ പ്രചരിപ്പിക്കുവാൻ വേണ്ടി
+ചിലവാക്കപ്പെട്ടു. അവയ്ക്കു് അംഗീകാരം കിട്ടി. ശ്രദ്ധ തത്ത്വത്തിൽനിന്നു പ്രസരണത്തിലേയ്ക്കു തിരിഞ്ഞു. കുറെ
+കഴിഞ്ഞപ്പോൾ അതെന്താണെന്നു് വിറ്റവനും വാങ്ങുന്നവനും അറിഞ്ഞുകൂടാ. പക്ഷേ, അതു കുറെ
+മനുഷ്യമനസ്സുകളിൽ ഉറഞ്ഞുപിടിച്ചുകഴിഞ്ഞു. ആരെങ്കിലും അതിലെ ചളികുത്തിയിളക്കിയാല്‍, അയാൾ
+കണ്‍ഫ്യൂഷൻ പരത്തുകയാണു്!
+</p>
+          <p>ആരോ പറഞ്ഞിട്ടുണ്ടു്: മനുഷ്യൻ സ്വതവേ യാഥാസ്ഥിതികനാണെന്നു്. മടിയനാണെന്നു
+പറയാനാണെനിക്കിഷ്ടം. പുതിയ ഒന്നിനെപ്പറ്റി ചിന്തിക്കുവാൻ കുറച്ചു് ആയാസം ആവശ്യമാണു്. അതു പലർക്കും
+അത്ര ഇഷ്ടമല്ല. ഭൂമി ഉരുണ്ടതാണെന്നു് ഒരു മഠയൻ പറയുന്നു. കണ്‍ഫ്യൂഷനില്ലാത്തവന്‍, കണ്‍ഫ്യൂഷനെ
+വെറുക്കുന്നവൻ പ്രതിവചിക്കും: ഹേ ദന്തഗോപുരക്കാരാ, നീ പുറത്തിറങ്ങി ചുറ്റും നോക്കൂ. ഭൂമി പരന്നിരിക്കുന്നതു
+കാണുന്നില്ലേ? നിന്റെ പിന്തിരിപ്പൻതലയുമായി വന്നു് ഈ നല്ല ഭൂമി ഉരുണ്ടതാണെന്നു് പറയുന്നതു് എന്തൊരു
+ധിക്കാരമാണു്, വാസ്തവവിരുദ്ധമാണു്! എന്താ കാര്യം എളുപ്പമല്ലേ? “കരതലാമലകം!”
+</p>
+          <p>ഇനി മറ്റൊരു കൂട്ടരുണ്ടു്. സോഷ്യലിസമൊക്കെ വരാൻ പോകുന്നല്ലേ ഉള്ളൂ, അതിനു് ഇപ്പോഴേ
+വിമർശിക്കുന്നതു് തെറ്റല്ലേ? അതു് കണ്‍ഫ്യൂഷൻ പരത്തുകയാണു്. അഥവാ ഒരു വഴിക്കിറങ്ങുമ്പോഴേ
+മുന്നറിയിപ്പുകൾ കൊടുക്കുന്നതെന്തിനാണു്? കുഴിയിൽ ചാടിയിട്ടു് ഉപദേശം കൊടുത്താൽ പോരേ എന്നു്.
+സോഷ്യലിസത്തിനു് പരസ്പരം കലഹിക്കുന്ന ഒരു ലക്ഷം ഉൾപ്പിരിവുകളും, ഓരോ ഉൾപ്പിരിവിനു് നിമിഷംതോറും
+കറങ്ങിത്തിരിയുന്ന നയവ്യതിയാനങ്ങളും കാണുന്ന ഇക്കാലത്തും ശാന്തമായ ഉപദേശങ്ങളെ കണ്‍ഫ്യൂഷനായി
+തള്ളുന്നതു മനുഷ്യന്റെ അന്ധതയല്ലെങ്കിൽ പിന്നെ എന്താണു്?
+</p>
+          <p>മനുഷ്യവർഗ്ഗം ഒരു പുതിയ അന്ധകാരത്തിന്റെ വക്കത്തെത്തിയിരിക്കുകയാണു്. എളുപ്പത്തിൽ ഉത്തരം
+പറയാനോ പരിഹരിക്കാനോ സാധ്യമല്ലാത്ത പ്രശ്നങ്ങളാണു് മനുഷ്യനെ തുറിച്ചുനോക്കുന്നതു്. ഈ സന്ദർഭത്തിൽ
+മനുഷ്യവർഗ്ഗത്തെ സ്നേഹിക്കുന്നവർ എല്ലാം ചിന്തിച്ചുപോകും, എന്താണു് മനുഷ്യന്റെ ഭാവിയെന്നു്. മനുഷ്യൻ
+മൗലികമായി നല്ലവനാണു്. മനുഷ്യവർഗ്ഗം നിരന്തരമായി പുരോഗമിക്കയാണോ? കമ്മ്യൂണിസം പുരോഗതിയുടെ
+കൊടുമുടിയാണോ? ഈവക കാര്യങ്ങൾ ശരിക്കു് ആലോചിച്ചല്ലാതെ മുന്നോട്ടുപോവുക സാധ്യമല്ലാത്ത ഒരു
+പതനത്തിലാണു് നാമിന്നു നില്ക്കുന്നതു്. ഈ ആലോചന ഒരു പുതിയ അന്വേഷണമാണു്. അനേകം
+അന്ധവിശ്വാസങ്ങളുടെ ഇടയിൽക്കൂടിവേണം ആ അന്വേഷണം പുരോഗമിക്കാൻ. അങ്ങനെയൊരു
+പരിശ്രമത്തിലാണു് ശ്രീ. എം. ഗോവിന്ദൻ ഏർപ്പെട്ടിരിക്കുന്നതു്. അദ്ദേഹത്തിന്റെ അഭ്യൂഹങ്ങളോടു നമുക്കു
+വിയോജിക്കാം. പക്ഷേ, സ്ഥാപിതവിശ്വാസങ്ങളെ ചോദ്യം ചെയ്യുന്നതു്, കണ്‍ഫ്യൂഷൻ പരത്തുകയാണെന്നു
+പറഞ്ഞു കണ്ണടച്ചിരിക്കുന്നതു് മുന്നോട്ടുള്ള ഗതിയല്ല.
+</p>
+          <p>പുസ്തകത്തിന്റെ അവസാനഭാഗത്തോടുകൂടി അവ്യക്തമായ ചില സൂചനകൾ ഗ്രന്ഥകാരൻ കൊണ്ടുവരുന്നുണ്ടു്.
+
+നിശ്ചിതമായ ഒരു വിശ്വാസസംഹിത അദ്ദേഹം ഉന്നയിക്കുന്നില്ലെന്നതു് വാസ്തവമാണു്. പക്ഷേ, ഇന്നത്തെ
+നിലയിൽ അതു് ഒരു വലിയ തെറ്റല്ല, കുറവുമല്ല, അവ്യക്തരൂപത്തിലെങ്കിലും ചിലതു പറയുന്നല്ലോ
+എന്നാണെനിക്കത്ഭുതം. മനുഷ്യത്വത്തെ അവഗണിച്ചു് ആചാരങ്ങളുടെ പുറകേപോകുന്നതു് തെറ്റാണെന്നു്
+അദ്ദേഹം തെളിയിച്ചു. മനുഷ്യത്വത്തെ ഉയർത്തിപ്പിടിക്കാൻ ഒരു പരിശ്രമവും നടത്തി. ഇനി അതിനു് എന്തു
+ചെയ്യണം എന്നതാണു് അവശേഷിക്കുന്ന പ്രശ്നം. അക്കാര്യം പരിചിന്തനാർഹമാണു്. ഗ്രന്ഥകാരനെ
+സംബന്ധിച്ചിടത്തോളം ഇതു് അന്വേഷണത്തിന്റെ ആരംഭം മാത്രമേ ആയിട്ടുള്ളു. കളമൊരുക്കല്‍, കളപറിച്ചുള്ള
+കളമൊരുക്കല്‍. അതുവരെ, എന്നെ സംബന്ധിച്ചിടത്തോളം യാതൊരു കണ്‍ഫ്യൂഷനും കാണാൻ കഴിഞ്ഞിട്ടില്ല.
+</p>
+          <p>
+മാതൃഭൂമി 18 നവംബർ 1951.
+</p>
+          <p>
+ധിക്കാരിയുടെ കാതൽ 1955.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thakarchakalude kalam (ml:
+തകർച്ചകളുടെ കാലം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-03-03. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Thakarchakalude kalam, സി ജെ തോമസ്, തകർച്ചകളുടെ കാലം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  March 2, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky,_1920__Points.jpg">Points,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Wassily_Kandinsky">Wassily
+Kandinsky</ref>  (1866–1944). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  JS Aswathy; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-thakarcha.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-thakarcha.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

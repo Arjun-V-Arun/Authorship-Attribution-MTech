@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചാരവൃത്തി</title>
+          <title xml:lang="en" type="main">Charavrththi</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 22, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചാരവൃത്തി</title>
+              <title xml:lang="en" type="main">Charavrththi</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Charavrththi</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ചാരവൃത്തി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 22, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Fritz_von_Uhde.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Fritz_von_Uhde__Ein_schwerer_Gang_%281890%29.jpg">The Difficult Journey,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Fritz_von_Uhde">Fritz von
+Uhde</ref>  (1848–1911). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചാരവൃത്തി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചാരവൃത്തി</head>
+        <div type="lsection">
+          <p style="noindent">ഒരുതരം ചോരവൃത്തിതന്നെയാണു് ചാരവൃത്തി. ചോരൻ ധനം മോഷ്ടിക്കുമ്പോൾ
+ചാരൻ മന്ത്രം (രാഷ്ട്രരഹസ്യം) മോഷ്ടിക്കുന്നു. ചൗര്യംകൊണ്ടു് ഒരിടം മുടിഞ്ഞേക്കാം. എന്നാൽ, ചാരതമൂലം ഒരു
+രാജ്യംതന്നെ നശിച്ചേക്കും. ആപല്ക്കരതയിൽ ഇത്ര വ്യത്യാസമുണ്ടായിട്ടും ആദ്യത്തേതിനു് കല്പിച്ചിട്ടുള്ള നിഷിദ്ധത
+രണ്ടാമത്തേതിനില്ല! ചോരവൃത്തി കുറ്റകരമാക്കിയിരിക്കുന്ന സർക്കാർതന്നെയാണു് ചാരവൃത്തി
+സംഘടിതരൂപത്തിൽ നടത്തുന്നതു്. ഇന്നു് എല്ലാ പരിഷ്കൃതഗവണ്മെന്റുകളും ഇക്കാര്യത്തിനു് പ്രത്യേകം
+ഡിപ്പാർട്ടുമെന്റ് ഏർപ്പെടുത്തിയിട്ടുണ്ടു്. അതൊരു നിന്ദ്യകർമമായി ആർക്കും തോന്നിയിട്ടില്ല. ചാരവൃത്തിയുടെ
+കരിനിഴൽ ബാധിക്കാത്ത ഒരു രാജ്യമെങ്കിലും ഇന്നു് ലോകത്തിൽ ഉണ്ടോ എന്നു് സംശയമാണു്.
+വിശ്വവ്യാപകമായി പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്ന ചാരവലയംമൂലം വമ്പിച്ച രാഷ്ട്രങ്ങൾ പരസ്പരം വഞ്ചിച്ചും
+ഭയപ്പെട്ടും ആണു് കഴിഞ്ഞുകൂടുന്നതു്. ഈ ദുരവസ്ഥ തുടരുന്ന കാലത്തോളം ലോകസമാധാനമെന്നതു്
+അപ്രാപ്യമായ ഒരു വിദൂരാദർശം മാത്രമായിരിക്കും.
+</p>
+          <p>ഓരോ രാഷ്ട്രവും ചാരന്മാരെക്കൊണ്ടു് നടത്തുന്ന ചതുരംഗക്കളി രസകരമെന്നതുപോലെ ഭയങ്കരവുമാകുന്നു.
+യുദ്ധകാലങ്ങളിൽ കൊടുമ്പിരിക്കൊണ്ടു് നടന്നിട്ടുള്ള ഈ കൊലക്കളികളുടെ ചരിത്രം ഗ്രന്ഥരൂപത്തിൽ ധാരാളം
+പുറത്തുവന്നിട്ടുണ്ടു്. യുദ്ധാനന്തരവും ചാരവൃത്തി ഉപേക്ഷിക്കുവാൻ ഭരണാധികാരികൾക്കു് സാധ്യമാകുന്നില്ല.
+ചോരഭയത്തേക്കാൾ കൂടുതലാണു് ഇപ്പോൾ ചാരഭയം. ഏകാധിപത്യരാജ്യങ്ങളിൽ ഈ ഭയം ജനസമൂഹത്തെ
+മാനസികമായി ഒട്ടേറെ അധഃപതിപ്പിക്കുന്നുണ്ടു്. ചാരന്മാർ തങ്ങളെപ്പറ്റി എന്തൊക്കെയാണു്
+അധികാരസ്ഥാനങ്ങളിൽ ധരിപ്പിക്കുന്നതെന്നും എപ്പോഴാണു് രഹസ്യപ്പോലീസ് വന്നു് പിടികൂടുന്നതെന്നും ഉള്ള
+വിചാരത്താൽ വ്യക്തികളും കുടുംബങ്ങളും അവിടെ അഹോരാത്രം ഭയകമ്പിതരായിട്ടാണു് ജീവിക്കുന്നതെന്നു്
+കേൾക്കുന്നു. ഇടയ്ക്കിടയ്ക്കു് നടക്കുന്ന ശുദ്ധീകരണംകൊണ്ടു് ഈ ഭയം വർദ്ധിച്ചുവരികയാണു്.
+പ്രജാധിപത്യരാജ്യങ്ങളിലും ഇപ്പോൾ ചാരസർപ്പങ്ങൾ പത്തിവിടർത്തി നാട്ടുകാരെത്തന്നെ കൊത്താൻ
+തുടങ്ങിയിരിക്കുന്നു. അമേരിക്കയിൽ നടന്ന റോസൻബർഗ്ഗ് ദമ്പതിമാരുടെ വധം ഇതിനൊരുദാഹരണമാണല്ലോ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KM_Panicker.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശ്രീ. കെ. എം. പണിക്കർ</figDesc>
+          </figure>
+          <p> ഇത്രമാത്രം തഴച്ചുവളർന്നിട്ടുള്ള ചാരവൃത്തിയുടെ ചരിത്രം പരിശോധിക്കുന്നതു് രസവഹമാണു്. ഇന്ത്യയിൽ
+അതിപ്രാചീനകാലംമുതൽക്കേ ചാരവൃത്തി നിലവിലിരുന്നിരുന്നു. ഋഗ്വേദത്തിൽ ഒരു ഭാഗം ചാരന്മാരെ
+പരാമർശിക്കുന്നതായി <ref target="https://ml.wikipedia.org/wiki/K.M_Panicker">ശ്രീ. കെ. എം. പണിക്കർ</ref>
+തന്റെ ഇന്ത്യാചരിത്രഗ്രന്ഥത്തിൽ ഉദ്ധരിച്ചു് കാണിച്ചിട്ടുണ്ടു്. ശ്രീരാമന്റെ സീതാപരിത്യാഗത്തിനു് പ്രേരകമായതു്
+ചാരവാക്യമാണല്ലോ. ഭാരതീയരാജാക്കന്മാരുടെ പ്രസിദ്ധമായ ചാരചക്ഷുസ്സു് ഭരണതന്ത്രത്തിൽ
+അതിപ്രധാനമായ ഒരു സ്ഥാനം വഹിക്കുന്നു. <ref target="https://ml.wikipedia.org/wiki/Chandragupta_Maurya">ചന്ദ്രഗുപ്തമൗര്യന്റെ</ref>
+ആചാര്യനും വിശ്രുതരാജ്യതന്ത്രജ്ഞനും ആയിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Chanakya">ചാണക്യ</ref> ബ്രാഹ്മണനാണു് ഈ
+പ്രസ്ഥാനം പരിപുഷ്ടമാക്കിയതു്. മൗര്യസാമ്രാജ്യം ഒരു പോലീസ്സ്റ്റേറ്റായിരുന്നുവെന്നു് പറയപ്പെടുന്നു.
+പ്രതിപക്ഷീയനായ <ref target="https://en.wikipedia.org/wiki/Rakshasa_(amatya)">അമാത്യ</ref>
+രാക്ഷസനെ തോല്പിക്കുവാൻ ചാണക്യൻ ബുദ്ധിപൂർവം കെട്ടിപ്പടുത്ത അത്ഭുതാവഹമായ ചാരതന്ത്രത്തിന്റെ
+കഥയാണു് മുദ്രാരക്ഷസം നാടകത്തിലെ ഇതിവൃത്തം. അക്കാലത്തു് ചാരന്മാർക്കു് അവരുടെ തൊഴിൽ നിർബാധം
+നിർവഹിക്കുന്നതിനു് വേണ്ടതായ വിദഗ്ദ്ധോപദേശവും പരിശീലനവും സിദ്ധിച്ചിരുന്നു. പല ഭാഷകൾ
+സംസാരിക്കാനും പല വേഷങ്ങളണിഞ്ഞു് സഞ്ചരിപ്പാനും തത്തദ്ദേശാചരണങ്ങളനുസരിച്ചു് പെരുമാറാനും ഉള്ള
+പാടവം ഇന്നത്തെപ്പോലെ അന്നും അവർക്കുണ്ടായിരുന്നു. ‘മുദ്രാരാക്ഷസ’ത്തിലെ ‘നിയുക്താ മയാ
+സ്വപരപക്ഷയോഃ അനുരക്താപരക്തജനജിജ്ഞാസയാ ബഹുവിധ ദേശഭാഷാചാര സഞ്ചാരവേദിനോ
+നാനാവ്യഞ്ജനാഃ പ്രണിധയഃ’ എന്ന ചാണക്യവാക്യം നോക്കുക. ‘നാനാവ്യഞ്ജനാ’ എന്നതുകൊണ്ടു് നാനാവിധം
+
+വ്യഞ്ജനം—ചിഹ്നം ധരിക്കുന്ന സമ്പ്രദായവും അന്നുണ്ടായിരുന്നുവെന്നു് തെളിയുന്നു. ചാണക്യന്റെ
+അർത്ഥശാസ്ത്രത്തിൽ ചാരതന്ത്രം വിദഗ്ദ്ധമായ വിചാരത്തിനു് വിഷയമായിട്ടുണ്ടു്.
+</p>
+          <p>സർക്കാർവകുപ്പിൽ പ്രത്യേക പരിശീലനം നേടി ജോലിനോക്കുന്നവർ, തൽക്കാലാവശ്യത്തിനു് പുറമേനിന്നു്
+റിക്രൂട്ടുചെയ്യപ്പെടുന്നവർ ഇങ്ങനെ രണ്ടായി അന്നത്തെ ചാരന്മാരെ തരം തിരിച്ചിരുന്നു. പാചകന്മാർ, വേശ്യകൾ,
+നേഴ്സുകൾ, ഭിക്ഷുണികൾ ഇവർ പ്രത്യേക പരിശീലനം ലഭിക്കുന്ന ആദ്യത്തെ വകുപ്പിൽപ്പെട്ടവരത്രെ.
+അലസന്മാർ, ജ്യോതിഷക്കാർ, കൈനോട്ടക്കാർ, സന്ന്യാസികൾ, കർഷകർ, വണിക്കുകൾ ഇങ്ങനെ
+അഞ്ചാറുതരക്കാരുണ്ടു് രണ്ടാംവകുപ്പിൽ. രഹസ്യവാർത്താനിവേദനമാണു് ഈ രണ്ടാം തരക്കാരുടെ പ്രധാന
+ജോലി. രാജാക്കന്മാരുടെ ചക്ഷുസ്സും ശ്രവണവും എന്ന നിലയിൽ ചാരന്മാർ അന്നു് ബഹുമാനിക്കപ്പെട്ടിരുന്നു.
+ഏതദ്വിഷയകമായി പ്രാധാന്യമർഹിക്കുന്ന മറ്റൊരു പ്രാചീനഗ്രന്ഥമാണു് ശുക്രനീതി. അതിൽ വിവരിച്ചിരിക്കുന്ന
+ഗൂഢപുരുഷവൃത്തി ഇവിടെ ശ്രദ്ധേയമാണു്.</p>
+          <lg>
+            <l> ‘പ്രജകളധികാരിജനങ്ങൾ, പ്രകൃതികൾ</l>
+            <l> അഹിതജനങ്ങൾ, നൽ സൈനികജനം തഥാ</l>
+            <l> സകല ബന്ധുജനം, സഭയിൽ സാമാജികർ</l>
+            <l> സതതമന്തഃപുരമമരും സ്ത്രീജനങ്ങൾ</l>
+            <l> ഇവർതന്നിംഗിതങ്ങൾ, ചേഷ്ടകൾ, മതങ്ങളും</l>
+            <l> നിശയിൽ ശ്രവിക്കണം ഗൂഢചാരന്മാർവഴി’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നിങ്ങനെ രാജാക്കന്മാർ ചാരന്മാരെക്കൊണ്ടു് കൈകാര്യംചെയ്യേണ്ട വിധം അതിൽ
+ഉപദിഷ്ടമായിരിക്കുന്നു. ചാരന്മാർ വിശ്വസനീയരാണോ എന്നു് പരീക്ഷിക്കേണ്ട ചുമതലയും രാജാവിനുണ്ടു്.</p>
+          <lg>
+            <l> ‘വർണ്ണിയോ, തപസ്വിയോ,</l>
+            <l> സിദ്ധനോ, തീണ്ടാളരോ</l>
+            <l> സന്ന്യാസിപ്രവരനോ</l>
+            <l> തന്നെയായ് ഗൂഢചരൻ</l>
+            <l> വന്നെത്തും നേരമൊരു</l>
+            <l> ശോധന നടത്തണം</l>
+            <l> മന്നവൻ പ്രത്യക്ഷത്തില</l>
+            <l>ല്ലെങ്കിൽ കാപട്യത്തിൽ</l>
+            <l> അങ്ങനെ പരീക്ഷണം</l>
+            <l> നടത്തീടാഞ്ഞാലൃതം</l>
+            <l> മന്നവൻ ഗ്രഹിച്ചീടാ</l>
+            <l> വ്യസനിച്ചീടും പിന്നെ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് ഇക്കാര്യത്തിന്റെ പ്രാധാന്യവും അതിൽ നോട്ടക്കുറവു് പറ്റിയാലുണ്ടാകാവുന്ന ആപത്തും എത്ര
+നിഷ്കർഷതയോടെ ചൂണ്ടിക്കാണിച്ചിരിക്കുന്നുവെന്നു് നോക്കുക. ഉദ്യോഗസ്ഥന്മാർ, പ്രജകൾ ഇവരിൽ പലരും
+ചാരന്മാരുടെ വിദ്വേഷികളാകാനിടയുണ്ടല്ലോ. അത്തരം ആഭ്യന്തരശത്രുക്കളിൽനിന്നു് സ്വചാരന്മാരെ
+സംരക്ഷിക്കുന്ന കാര്യത്തിൽ രാജാവു് ശ്രദ്ധാലുവായിരിക്കണമെന്നു് ശുക്രനീതി ഉപദേശിച്ചിരിക്കുന്നു.
+</p>
+          <p>‘ഏകനായകമായി ഭവിപ്പിക്കണം രാജ്യം’ എന്നാണു് അതിലെ ആദർശം. ആ നിലയ്ക്കു് ചാരവൃത്തിക്കു്
+ഇത്രമാത്രം പ്രാമുഖ്യം ലഭിച്ചതിൽ അത്ഭുതപ്പെടാനില്ല. ഏകനായകത്വപരിപാലനത്തിനു് ഇമ്മാതിരി
+ഗൂഢപുരുഷതന്ത്രം അപരിത്യാജ്യമാണെന്നുള്ളതിനു് അന്നെന്നപോലെ ഇന്നും ചരിത്രം സാക്ഷിയായിരിക്കുന്നു.
+ചാരന്മാർ വിഷവാഹികളായ സർപ്പങ്ങളെപ്പോലെ ഇഴഞ്ഞു് നടന്നു് ജനങ്ങളുടെ കാലിൽ കടിക്കുകയും
+രാഷ്ട്രങ്ങളുടെ അന്യോന്യസംഹാരത്തിനു് വഴിതെളിയിക്കുകയും ചെയ്യുന്ന ഈ ദുഷിച്ച സമ്പ്രദായം ഭൂമുഖത്തുനിന്നു്
+എന്നെങ്കിലും നിശ്ശേഷം മാഞ്ഞുപോകുമോ? അവിശ്വാസം, വഞ്ചന, ഭീത്യാശങ്കകൾ മുതലായ
+കാർമേഘപടലങ്ങൾ പാടെ നീങ്ങി രാഷ്ട്രീയാന്തരീക്ഷം ശുഭ്രശുദ്ധമാകുകയാണു് ഇതിനൊന്നാമതായി വേണ്ടതു്.
+അങ്ങനെ സാഹോദര്യത്തിലും സൗഹാർദ്ദത്തിലും ഒരു ചരടിലിണക്കിക്കോർത്ത പുഷ്പങ്ങൾപോലെ
+ഭിന്നരാഷ്ട്രങ്ങളെല്ലാം ഇണങ്ങിച്ചേർന്നു് ഏകലോകമെന്നോ ‘വസുധൈവകുടുംബക’മെന്നോ പറയപ്പെടുന്ന
+ആകാശവിശാലമായ ആദർശം ഉദയം ചെയ്യുമെങ്കിൽ അന്നു് ചാരവൃത്തി നിഘണ്ടുവിലെ ഒരു പഴയ വാക്കായി
+മാത്രം ശേഷിക്കും.
+</p>
+          <p>(ചിന്താതരംഗം 1953)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Charavrththi (ml: ചാരവൃത്തി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Charavrththi, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ചാരവൃത്തി, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 22, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Fritz_von_Uhde__Ein_schwerer_Gang_%281890%29.jpg">The Difficult Journey,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Fritz_von_Uhde">Fritz von
+Uhde</ref>  (1848–1911). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-chara.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-chara.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

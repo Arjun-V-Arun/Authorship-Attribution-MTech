@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നിലമ്പൂർ ബാലൻ</title>
+          <title xml:lang="en" type="main">Nilamboor Balan</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">September 15, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നിലമ്പൂർ ബാലൻ</title>
+              <title xml:lang="en" type="main">Nilamboor Balan</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Nilamboor Balan</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>നിലമ്പൂർ ബാലൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 15, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Carl_Spitzweg.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_033.jpg">The
+Butterfly Hunter,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Carl_Spitzweg">Carl Spitzweg</ref>
+ (1808–1885). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നിലമ്പൂർ ബാലൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നിലമ്പൂർ ബാലൻ</head>
+        <div type="lsection" xml:id="sec1.1">
+          <head type="lsechead">ഒന്നു്</head>
+          <p style="noindent">മതം സെക്കുലറിസം, വർഗ്ഗീയത തുടങ്ങിയ കാര്യങ്ങളെപ്പറ്റി ചൂടുപിടിച്ചു് ചർച്ച
+ചെയ്യുന്നതിനിടയിൽ ഒരിക്കൽ <ref target="https://en.wikipedia.org/wiki/Nilambur_Balan">നിലമ്പൂർ ബാലൻ</ref>
+എന്നോടു പറഞ്ഞു:
+</p>
+          <p>“യുക്തിവാദികളെയും അവരുടെ സംഘങ്ങളെയും ആണു് ആദ്യം തല്ലേണ്ടതു്.”
+</p>
+          <p>“എന്താ കാര്യം?”
+</p>
+          <p>“താനൊന്നാലോചിച്ചു് നോക്കു്. ഇല്ലാത്ത ഒരു സാധനമാണു് ദൈവം. അതുണ്ടു് എന്നു് പറയുന്ന പണിയാണു്
+മതവാദികൾക്കു്. അതു് നമുക്കു് മനസ്സിലാക്കാം: ഇല്ലാത്ത ഒന്നു് ഉണ്ടു് എന്നു പറയാൻ ആള് വേണം, സംഘം
+വേണം, ജാഥ വേണം. അതുപോലെയാണോ, ഇല്ലാത്ത ഒന്നു് ഇല്ല എന്നു് പറഞ്ഞുകൊണ്ടുനടക്കുന്നതു്. അതു്
+വട്ടല്ലേ? അതിനു് ആള് വേണോ, സംഘം വേണോ? അതല്ലേ തട്ടിപ്പു്? തല്ലണ്ടേ?”
+</p>
+          <p>
+പാഠഭേദം—91: 1–15 ആഗസ്ത് 1991.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">രണ്ടു്</head>
+          <p style="noindent">നിലമ്പൂർ ബാലൻ മരിച്ചദിവസം ഞാൻ പനിപിടിച്ചു് കിടപ്പായിരുന്നു. അതിനാൽ
+എനിക്കു് അദ്ദേഹത്തിന്റെ വീട്ടിൽ മരണം അന്വേഷിച്ചു് ചെല്ലാൻ സാധിച്ചില്ല.
+</p>
+          <p>പറഞ്ഞുകേട്ടതാണു്.
+</p>
+          <p>മരണാനന്തരചടങ്ങുകളുടെ കോമാളിത്തരത്തെപ്പറ്റി ബാലൻ പലപ്പോഴും പുച്ഛിച്ചു്
+സംസാരിക്കാറുണ്ടായിരുന്നു. അക്കൂട്ടത്തിൽ റീത്തുവയ്ക്കുന്നതിനെപ്പറ്റിയും പറഞ്ഞു. പലതവണ അദ്ദേഹം
+ചങ്ങാതിമാരോടു് പറഞ്ഞിരുന്നുപോൽ: “ഞാൻ മരിച്ചാൽ എന്റെ ദേഹത്താരും റീത്തു വയ്ക്കരുതു്.”
+</p>
+          <p>ബാലൻ മരിച്ചു.
+</p>
+          <p>വിവരമറിഞ്ഞെത്തിയ ചില സുഹൃത്തുക്കളുടെ കൈയിൽ റീത്തുണ്ടായിരുന്നു. അവർ ആ വിലക്കു് കേൾക്കാതെ
+പോയിരിക്കാം: ഓർക്കാതെ പോയതുമാവാം.
+</p>
+          <p>സുഹൃത്തുക്കളിൽ ചിലർക്കു് ബാലൻ പണ്ടുപറഞ്ഞ കാര്യം ഓർമ്മ വന്നു.
+</p>
+          <p>അവർ അടക്കിപ്പിടിച്ചാണെങ്കിലും അതേപ്പറ്റി ഓർമ്മിപ്പിച്ചു. റീത്തു കൊണ്ടുവന്നവർക്കു് വിഷമം. എന്തു
+ചെയ്യും? കണ്ടുനിന്ന ചിലർക്കും വിഷമം. എങ്ങനെ അവരെ മടക്കി അയയ്ക്കും? സ്നേഹപ്രകടനം, ആദരപ്രകടനം
+നിഷേധിക്കുന്നതെങ്ങനെ?
+</p>
+          <p>ഒടുക്കം ഒരു സുഹൃത്തു് രണ്ടും കല്പിച്ചു് വിധി പറഞ്ഞു:
+</p>
+          <p>“റീത്ത് വെയ്ക്കു്. ബാലേട്ടൻ അറിയില്ലല്ലോ.”
+
+</p>
+          <p>
+കഥ ദ്വൈവാരിക—254: 11 സെപ്തംബർ 1991.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Nilamboor Balan (ml: നിലമ്പൂർ
+ബാലൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Nilamboor Balan, എം. എൻ. കാരശ്ശേരി, നിലമ്പൂർ ബാലൻ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 15, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Carl_Spitzweg_033.jpg">The
+Butterfly Hunter,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Carl_Spitzweg">Carl Spitzweg</ref>
+ (1808–1885). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-nilamboor.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-nilamboor.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

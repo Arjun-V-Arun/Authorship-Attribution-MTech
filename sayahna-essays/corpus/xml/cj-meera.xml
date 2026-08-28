@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മീര</title>
+          <title xml:lang="en" type="main">Meera</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>JS Aswathy</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">April 16, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മീര</title>
+              <title xml:lang="en" type="main">Meera</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-04-17</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Meera</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>മീര</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-04-17</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Morning.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:The_Morning_by_Umberto_Boccioni,_1909.jpg">The
+Morning,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Umberto_Boccioni">Umberto
+Boccioni</ref>  (1882–1916). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മീര</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മീര</head>
+        <div type="lsection">
+          <p style="noindent">ഒരു തമിഴ് ചിത്രത്തെ വിമർശിക്കാൻ മാത്രം ഞാൻ അധഃപതിച്ചോ
+എന്നെനിക്കറിഞ്ഞുകൂടാ. ഉന്മാദച്ചികിത്സ വശമുണ്ടായിട്ടുമല്ല. “മീര” വിമർശിക്കാനൊരുമ്പെടുന്നതു്. കലാപരമായ
+ഉദ്ദേശ്യമാണെങ്കിൽ അതുമില്ല. “മീര”യിലുള്ളതിൽ കൂടുതൽ കല കഞ്ചാവിലുണ്ടു്. പിന്നെ എന്താണു്, ഈ
+തോട്ടിവേലയ്ക്കിറങ്ങുന്നതെന്നു ചോദിച്ചാൽ അതിനു മാത്രം മറുപടി പറയാം.
+</p>
+          <p>തമിഴരെക്കൊണ്ടു നാം തോറ്റു. രാഷ്ട്രീയമായിട്ടും, സാമുദായികമായിട്ടും ഇവറ്റയെ ചുമന്നു നമ്മുടെ
+നട്ടെല്ലൊടിഞ്ഞു. അതിനു നിവൃത്തി എന്താണാവോ? ഏതായാലും കലാപരമായി അവർ പരത്തുന്ന
+വസൂരിക്കെതിരെയെങ്കിലും ഒരു പ്രതിഷേധം പ്രകടിപ്പിക്കണമല്ലോ. ഇതു് ഇന്നും ഇന്നലെയും തുടങ്ങിയതല്ല. ഒരു
+ദേവനും ശരീരഘനമുള്ള ഒരു സ്ത്രീയും ഏതെങ്കിലുമൊരു ചെട്ടിയാരുടെ കൈയിൽ കിട്ടിയാൽ കേരളത്തിലെ
+ജനങ്ങളുടെ കൈയിൽനിന്നു പണം ചോർന്നു തുടങ്ങാൻ മറ്റൊന്നും വേണ്ട. കാണുന്നവരെ പറഞ്ഞിട്ടു കാര്യമില്ല.
+കലയ്ക്കുവേണ്ടി ദാഹിച്ചു മോഹിച്ചു കഴിയുന്ന ഒരു ജനത കലയിലെ വേശ്യയെയും ആവശ്യന്യായേന
+സ്വീകരിച്ചുപോകും. തമിഴ് ചിത്രം പ്രദർശിപ്പിക്കുന്നവരെയും പറഞ്ഞിട്ടെന്താ ഗുണം? ‘ദീപസ്തംഭം മഹാശ്ചര്യം.’
+</p>
+          <p>തമിഴ് ചിത്രത്തിനു് കഥയുടെ ആവശ്യമില്ല. എങ്കിലും കഥ കൊണ്ടാണല്ലോ വിമർശനം തുടങ്ങേണ്ടതു്. നല്ല
+തടിമിടുക്കുള്ള ഒരു പെമ്പിറന്നോർക്കു് അപസ്മാരരോഗം പിടിപെട്ടു മരിക്കുന്നതാണു കഥ. ഒരു കൊച്ചുകുട്ടി വളരെ
+ചെറുപ്പത്തിലെ കൃഷ്ണനെ സ്വപ്നംകാണുന്നു. അതു മനഃശാസ്ത്രക്കാർ ന്യൂറോസിസ് (Neurosis) എന്നു പറയുന്ന
+രോഗമായിത്തീരുന്നതിനു മുമ്പുതന്നെ കെട്ടിച്ചുവിടേണ്ടതായിരുന്നു. എന്തുചെയ്യാം! അതു നടന്നില്ല. പെണ്ണു
+വളർന്നു. ഒന്നാം തരം ഒരു രാജാവിനെക്കൊണ്ടു കല്യാണം കഴിപ്പിച്ചു. അതുകൊണ്ടും രോഗം മാറിയില്ല.
+ഭാര്യാഭർത്തൃബന്ധം കൃഷ്ണനെ ഭജിക്കുന്നവർക്കു് അത്ര നന്നല്ലത്രെ. പിന്നെയെന്തോ കുറെ ലഹളയുണ്ടായി.
+എന്താണെന്നു കണ്ടുപിടിക്കാൻ ഡയറക്ടറെ കണ്ടു ചോദിക്കണം. അതിനു സൗകര്യമുണ്ടായില്ല.
+അതെന്തെങ്കിലുമാവട്ടെ. അവസാനം നല്ല എടത്തരം പ്രായത്തിൽത്തന്നെ മരിച്ചു എന്നു പറഞ്ഞാൽ മതിയല്ലോ.
+ഇതിൽ കുടുതൽ ഒരു സിനിമയ്ക്കു് എന്തുവേണം?
+</p>
+          <p>കഥയിൽ ആകെ ഒരു രംഗമേയുള്ളു. ഒരു സ്ത്രീ പാട്ടുംപാടി നടക്കുക. ചുറ്റുംകൂടിയിട്ടുള്ള ഒരുതരം ജന്തുക്കൾ
+(ഗള്ളിവർ വിവരിച്ചിട്ടുള്ള “യഹു” എന്ന മൃഗമാണെന്നു തോന്നുന്നു) മുൻകാലുകൾ ഉയർത്തി കൂട്ടിരിക്കുകയും
+തലയുയർത്തി വട്ടിളകിയതുപോലെ ഇരുവശത്തേക്കും ആടുകയും ചെയ്യുന്നു. ഇടയ്ക്കിടയ്ക്കു് എന്തോ ഒരു സാധനം
+തലയിൽ ഘടിപ്പിച്ചിട്ടുള്ള ഒരു മനുഷ്യൻ വന്ന മുഖം വീർപ്പിച്ചുകാട്ടി കോക്രികുത്തിക്കൊണ്ടു് ഓടിമറയുന്നു.
+ഇതിനെല്ലാം നടുനായകമായ സ്ത്രീയ്ക്കു് ഒരേയൊരു ഭാവം മാത്രം സങ്കടം. എന്തിനാണു സങ്കടമെന്നു നാം
+മനസ്സിലാക്കണമെന്നു് ഉദേശിച്ചിട്ടില്ല. നാട്ടുകാരുടെ കാശുപിടുങ്ങുന്നതും പോരാ, രണ്ടു മണിക്കൂർ ഈ
+കാരണമില്ലാത്ത കരച്ചിൽ കണ്ടു് ഇരുത്തുകയും ചെയ്യണമല്ലോ എന്നതായിരിക്കും സങ്കടകാരണം.
+</p>
+          <p>ഡ്രമാറ്റിക് സന്ദർഭങ്ങളും ഈ പടത്തിലുണ്ടു്. കൃഷ്ണന്റെ പ്രതിമ കണ്ണുമിഴിച്ചു കാണിക്കുന്നതാണു് ഏറെ.
+അതുപിന്നെ എല്ലാ തമിഴനും കൂടിയേ തീരൂ എന്നുണ്ടല്ലോ. ഇതിൽ അവിടവും കടന്നുപോയിരിക്കുന്നു. ചില
+രംഗങ്ങളുടെ ഉച്ചസ്ഥകോടിയിൽ വാതിലുകൾ അടയ്ക്കുകയും തുറക്കുകയും ചെയ്യുന്നുണ്ടു്. ഫോട്ടോ ഇലക്ട്രിക് സെൻ
+പോലെ ഒരു സൗണ്ടു് ഇലക്ട്രിക് സെൻ മേവാർ രാജ്യത്തുണ്ടായിരുന്നതായി അനുമാനിക്കാം.
+</p>
+          <p>ഫലിതത്തിനും കുറവില്ല. ആവണക്കെണ്ണ കുടിച്ചുകഴിഞ്ഞ ഒരുമുഖം ഇടയ്ക്കിടയ്ക്കു പ്രത്യക്ഷപ്പെട്ടു് എന്തോ പുലമ്പി
+തന്നെത്താൻ ചിരിച്ചു സംതൃപ്തിയടയുന്നുണ്ടു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">നടീനടന്മാർ</head>
+          <p style="noindent">എം. എസ്. സുബ്ബലക്ഷ്മി അഭിനയിച്ച പടത്തെപ്പറ്റിയാണോ ഇങ്ങനെയൊക്കെ
+പറയുന്നതു് ?
+</p>
+          <p>അതെ. അതുതന്നെ. ഒരു തമിഴ് പടം കണ്ടുകളയാമെന്നു ധൈര്യപ്പെട്ടതുതന്നെ അതോർത്താണല്ലോ.
+ഒന്നാന്തരമായി അവർ പാടുന്നുമുണ്ടു്. പക്ഷേ, അതെല്ലാം ഗ്രാമഫോൺ റിക്കാർഡിലായിരുന്നെങ്കിൽ ക്ഷമയോടെ
+കേട്ടുരസിക്കാമായിരുന്നു. മറ്റു കാര്യങ്ങളിലാണെങ്കിൽ ‘ശകുന്തള’യിൽ അഭിനയിച്ച സുബ്ബലക്ഷ്മിയും ‘മീര’യും
+തമ്മിലുള്ള ബന്ധം പണം വാങ്ങിച്ച കൈകൾ രണ്ടിലും ഒന്നുതന്നെയാണെന്നതു മാത്രമാണു്.
+തിയേറ്ററിനുമ്മറത്തിരുന്ന പരസ്യത്തിൽ നാഗയ്യയുടെ പേരു കണ്ടു. പക്ഷേ, ചിത്രത്തിൽ കാണാൻ കഴിഞ്ഞില്ല.
+ഉണ്ടെങ്കിൽത്തന്നെ അതിലുള്ള അനേകായിരം ഇണകളുടെ പിന്നിൽ ഒളിച്ചുനിൽക്കുകയാണു്. ഏതോ
+സർക്കാരാഫീസിലെ ഒരു ഡഫേദാർ കഥനായികയുടെ അടുത്തുവന്നു മര്യാദപറയുന്നുണ്ടു്.
+</p>
+          <p>മതി അതൊക്കെ മതി. ഗേറ്റ്പോർട്ടർ പറയുന്നതുപോലെ ‘സ്റ്റാർ വാല്യു’ ഉണ്ടല്ലോ.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">ഫോട്ടോഗ്രാഫി</head>
+          <p style="noindent">ഫോക്കസിംഗ്, ലൈറ്റിംഗ്, കോമ്പോസിഷൻ, റ്റോൺ ഇതെല്ലാം കഴിച്ചു
+ബാക്കിയുള്ളതെല്ലാം ഫോട്ടോഗ്രാഫർക്കു നല്ല നിശ്ചയമുണ്ടു്. പ്രതേകിച്ചും ക്യാമറാ തിരിച്ചും മറിച്ചും പടമെടുക്കാൻ.
+ഒരു ഭക്തൻ മലർന്നുകിടന്നു പാടുന്നതായി തോന്നിക്കത്തക്ക രീതിയിൽകൂടി ചിത്രമുണ്ടു്. മീര യാത്രചെയ്യുന്നതായി
+കാണിക്കുമ്പോൾ, പിറകിൽ കർട്ടൻ വലിച്ചുമാറ്റുന്നതു് ഓരോ ചാട്ടങ്ങളായിട്ടാണെന്നതുകൂടി അയാൾ കാണുന്നില്ല.
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">ഒരു ഗുണം </head>
+          <p style="noindent">ഈ ചിത്രത്തിൽ ഒരു ഗുണമുള്ളതു പറയാതിരിക്കുന്നതു് അനീതിയായിരിക്കുമല്ലോ.
+ഒരു സ്ത്രീയും പുരുഷന്റെ തലയ്ക്കു കുടമടിച്ചുടയ്ക്കുന്നില്ല എന്നതുതന്നെ.
+</p>
+        </div>
+        <!--end of "section 0.0/1.4"-->
+        <div type="lsection" xml:id="sec1.5">
+          <head type="lsechead">ഈശ്വരോ രക്ഷതു</head>
+          <p style="noindent">ഒരൊറ്റ അടിപോലും നല്ലതല്ലാത്ത ഇത്തരം ചിത്രങ്ങളിൽനിന്നു രക്ഷിക്കാൻ
+ഈശ്വരനല്ലാതെ ആർക്കും സാദ്ധ്യമല്ല. തമിഴന്റെ കല നന്നാവാൻ ഇനിയും യുഗങ്ങൾ വളരെ വേണം.
+അതിനുമുമ്പായിത്തന്നെ അവന്റെ സിനിമ കേരളത്തെ ഒരു മാടൻകോവിലാക്കിത്തീർക്കുമെന്നാണു ഭയം. സതി
+സമ്പ്രദായം നിർത്തലാക്കിയ ബ്രിട്ടീഷ് ഗവൺമെന്റ് ഇതൊന്നു നിരോധിക്കുമോ? മദ്യവർജ്ജനം നടപ്പിലാക്കിയ
+കോൺഗ്രസ്സ് മന്ത്രിസഭയ്ക്കു കഴിയുമോ? അവന്റെ കഞ്ചാവുമതവും പെരുവഴിയിലെ ദണ്ഡനമസ്ക്കാരവും കലാഭാസവും
+പോകട്ടെ, നാട്ടുകാരന്റെ കാശുപോകുന്നതാണു സഹിച്ചു കൂടാത്തതു്.
+</p>
+          <p>
+പ്രസന്നകേരളം 25 ആഗസ്റ്റ് 1946.
+</p>
+          <p>
+സി. ജെ. വിചാരവും വീക്ഷണവും 1985.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.5"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Meera (ml: മീര).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-04-17. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas, Meera,
+സി ജെ തോമസ്, മീര, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 16, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:The_Morning_by_Umberto_Boccioni,_1909.jpg">The
+Morning,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Umberto_Boccioni">Umberto
+Boccioni</ref>  (1882–1916). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  JS Aswathy; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-meera.xml">Download document sources
+
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-meera.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

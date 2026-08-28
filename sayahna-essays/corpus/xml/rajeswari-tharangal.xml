@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഉദിച്ചുയരുന്ന താരങ്ങൾ</title>
+          <title xml:lang="en" type="main">Udichuyarunna Tharangal</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 9, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഉദിച്ചുയരുന്ന താരങ്ങൾ</title>
+              <title xml:lang="en" type="main">Udichuyarunna Tharangal</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Udichuyarunna Tharangal</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ഉദിച്ചുയരുന്ന താരങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 9, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Wilhelm_Marstrand_Portraet_af_froken.jpg" width="100%"/>
+          <figDesc>Portrait of Miss Vilhelmine (Ville) Hage, a painting by <ref target="https://en.wikipedia.org/wiki/en:Wilhelm_Marstrand">Wilhelm
+Marstrand</ref>  (1810–1873). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഉദിച്ചുയരുന്ന താരങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഉദിച്ചുയരുന്ന താരങ്ങൾ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kuldeep_Bishnoi.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുൽദീപ് ബിഷ്ണോയ്</figDesc>
+          </figure>
+          <p style="noindent"> പുലിറ്റ്സർ മാതൃകയിൽ, നിർലജ്ജ പത്രപ്രവർത്തനത്തിനു് സമ്മാനം
+ഏർപ്പെടുത്തുന്നപക്ഷം ആയതിനു് ഏതുപേരാകും ഉചിതം? മനോരമ പ്രൈസ് എന്നു് പറയാൻ രണ്ടാമതൊന്നു്
+ആലോചിക്കേണ്ടതില്ല. ചിതൽപുറ്റിനെ ഹിമാലയ പർവതത്തോടു് തുലനം ചെയ്യാനും മൂക്കുന്നിമലയെ വർണിച്ചു്
+എവറസ്റ്റ് കൊടുമുടിയാക്കാനും അച്ചായനുള്ള പ്രാഗല്ഭ്യം അന്യാദൃശം, അദ്ഭുതാവഹം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajiv_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജീവ് ഗാന്ധി</figDesc>
+          </figure>
+          <p> രാജഭരണകാലത്തു് അന്നദാതാവായ പൊന്നുതമ്പുരാനെ നിതരാം സ്തുതിച്ചു, വഞ്ചീശമംഗളം നിറുത്താതെ
+ആലപിച്ചു. അഞ്ചാം ജോർജ് ചക്രവർത്തിയുടെ ആരോഗ്യത്തിനും ആയുസ്സിനും വേണ്ടി കർത്താവു് തമ്പുരാനോടു്
+മുട്ടിപ്പായി പ്രാർഥിച്ചു. പ്രാർഥനക്കും പ്രവൃത്തിക്കും ഫലമുണ്ടായി: നിയമസഭാംഗത്വം, ബാങ്ക്, ഇൻഷുറൻസ്
+കമ്പനി, കായൽകൃഷി, തോട്ടങ്ങൾ, അങ്ങനെ പലതും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rahul_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാഹുൽഗാന്ധി</figDesc>
+          </figure>
+          <p> സർവശക്തനായ ദൈവം പഴയ നിയമത്തിലെ ഇയ്യോബിനെയെന്നപോലെ കണ്ടത്തിൽക്കാരെയും
+പരീക്ഷിച്ചു. സാത്താൻ പരദേശ ബ്രാഹ്മണ വേഷത്തിലെത്തി ബാങ്ക് പൊളിച്ചു, ഇൻഷുറൻസ് കമ്പനി പൂട്ടിച്ചു.
+പത്രം കണ്ടുകെട്ടി, പത്രാധിപനെ ജയിലിലടച്ചു. പ്രിവി കൗൺസിൽ വരെ കേസുനടത്തിയിട്ടും ഫലമുണ്ടായില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Indira_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദിരാഗാന്ധി</figDesc>
+          </figure>
+          <p> 1947 ആഗസ്റ്റ് 15-ന്റെ ശുഭമുഹൂർത്തത്തിൽ കണ്ടത്തിൽ തറവാട്ടുകാരൊന്നടങ്കം കോൺഗ്രസുകാരായി.
+യൂനിയൻ ജാക്കിന്റെ സ്ഥാനത്തു് ത്രിവർണപതാക ഉയർത്തി, ആറാം ജോർജിനു് പകരം <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref> ക്കു്
+‘കീ ജയ്’ വിളിച്ചു. അന്നുമുതലിങ്ങോട്ടു് നെഹ്റു-ഗാന്ധി കുടുംബത്തിന്റെ സ്തുതിഗായകർ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sonia_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">സോണിയഗാന്ധി</figDesc>
+          </figure>
+          <p> നഷ്ടപ്പെട്ട മുതലും പ്രൗഢിയും പ്രശസ്തിയുമൊക്കെ പലിശയടക്കം തിരിച്ചുപിടിച്ചു. ഇടപാടുകാരെ വഞ്ചിച്ചതിനു്
+അനുഭവിച്ച ജയിൽവാസം സ്വാതന്ത്ര്യസമരത്തിന്റെ കണക്കിൽ എഴുതിച്ചേർത്തു. ഉണ്ണൂണ്ണിച്ചായനു് ആദ്യം പത്മശ്രീ
+കിട്ടി. പിന്നെ പത്മവിഭൂഷൻ. രണ്ടാമത്തെ അവസരത്തിൽ അസൂയാലുക്കൾ അസാരം പ്രശ്നമുണ്ടാക്കി. ‘പട്ടീടെ
+വാലിനും പത്മവിഭൂഷണം’ എന്നു് കോട്ടയത്തു് കേരള കോൺഗ്രസുകാർ പാടിനടന്നു. പിന്നീടു് മാത്തുകുട്ടിച്ചായനു്
+പത്മഭൂഷൻ കിട്ടി. മകൻ രാജനു് പത്മശ്രീയും കിട്ടി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajat_Sharma.jpg" rendition="gra"/>
+            <figDesc style="thumb">രജത്ശർമ</figDesc>
+          </figure>
+          <p> ഇത്രയുമൊക്കെയായല്ലോ, ഇനി മണിയടി നിറുത്താം, മുഖസ്തുതി അവസാനിപ്പിച്ചുകളയാം എന്നു്
+കണ്ടത്തിൽക്കാർ കരുതുമോ? ഒരിക്കലുമില്ല. ആദിത്യചന്ദ്രന്മാരും നെഹ്റു-ഗാന്ധി കുടുംബവുമുള്ളിടത്തോളം
+കാലം പത്രത്തിന്റെ നയത്തിൽ യാതൊരു മാറ്റവും പ്രതീക്ഷിക്കേണ്ടതില്ല. മദാമ്മാഗാന്ധിയെ എത്ര
+പ്രശംസിച്ചാലും മനോരമക്കു് മതിവരില്ല, കൊതിതീരില്ല. ആയമ്മയുടെ സൗന്ദര്യം, സൗശീല്യം, സന്മനോഭാവം,
+സഹാനുഭൂതി, സർവമത സമഭാവന…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jnehru.jpg" rendition="gra"/>
+            <figDesc style="thumb">നെഹ്റു</figDesc>
+          </figure>
+          <p> മലയാളത്തിന്റെ ഠ വട്ടത്തിൽ മനോരമയുടെ മണിനാദം ഒതുങ്ങിപ്പോകരുതെന്ന
+നിർബന്ധബുദ്ധിയിൽനിന്നാണു് 1982-ൽ ദ വീക്കിന്റെ ഉദ്ഭവം. മുതലാളിയുടെ മൂത്ത മകനാണു് ചീഫ് എഡിറ്റർ,
+ഇളയ മകൻ പ്രിന്ററും പബ്ളിഷറും. പേരുപോലെ വീക്കാണു് വീക്ക്. ഇക്കിളി റിപ്പോർട്ടുകൾ, ആഴം കുറഞ്ഞ
+വിശകലനങ്ങൾ, അർധനഗ്ന ചിത്രങ്ങൾ. തനി പഞ്ചാരപ്പാലുമുട്ടായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Arnab_Goswami.jpg" rendition="gra"/>
+            <figDesc style="thumb">അർണബ് ഗോസ്വാമി</figDesc>
+          </figure>
+          <p> നെഹ്റു-ഗാന്ധി കുടുംബാംഗങ്ങളെ ശ്ലാഘിക്കാൻ കിട്ടുന്ന ഒരവസരവും പാഴാക്കാറില്ല. ദ വീക്ക്. ഒന്നിടവിട്ട
+ലക്കങ്ങളിൽ മദാമ്മയുടെയും മക്കളുടെയും വർണചിത്രങ്ങൾ നിർബന്ധം. കല്യാണപ്രായം കഴിഞ്ഞു്
+കരനിറഞ്ഞുനിൽക്കുന്ന ചെറുപ്പക്കാരെക്കുറിച്ചുള്ള ലേഖനത്തിൽവരെ രാഹുൽജിക്കാണു് പ്രാധാന്യം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Milind_Deora.jpg" rendition="gra"/>
+            <figDesc style="thumb">മിലിന്ദ് ദേവ്ര</figDesc>
+          </figure>
+          <p> സ്വാതന്ത്ര്യപ്രാപ്തിയുടെ വജ്രജൂബിലിയും പ്രസിദ്ധീകരണത്തിന്റെ രജതജൂബിലിയും പ്രമാണിച്ചു് വിവിധ
+മേഖലകളിൽ ഉയർന്നുവരുന്ന പ്രതിഭകളെ ദ വീക്ക് കണ്ടെത്തുന്നു. ഐ. എം. ആർ. ബി. ഇന്റർ നാഷനൽ ആണു്
+ഓരോ രംഗത്തെയും പ്രതിഭകളെ ഷോർട്ട്ലിസ്റ്റ് ചെയ്തിട്ടുള്ളതു്. വിദഗ്ദ്ധരടങ്ങിയ ജൂറിയാണു് വിജയിയെ
+തെരഞ്ഞെടുക്കുക. രാഷ്ട്രീയം, സിനിമ, സ്പോർട്സ് എന്നീ വിഭാഗങ്ങളിൽ വായനക്കാർക്കും അഭിപ്രായം
+അറിയിക്കാൻ അവകാശമുണ്ടു്.
+</p>
+          <p>രാഷ്ട്രീയത്തിൽ ഉദിച്ചുയരുന്ന താരങ്ങൾ എന്നു് വിശേഷിപ്പിച്ചു് വീക്ക് അവതരിപ്പിക്കുന്ന അഞ്ചുപേരെ
+പരിചയപ്പെടുക:
+<list type="gloss"><label>ഒന്നു്:</label><item><ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽഗാന്ധി</ref>.
+അമേതിയിൽനിന്നുള്ള പാർലമെന്റംഗം. മുൻ പ്രധാനമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ് ഗാന്ധി</ref> യുടെയും
+യു. പി. എ. അധ്യക്ഷ <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയഗാന്ധി</ref>
+യുടെയും മകൻ. <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> യുടെ
+പൗത്രൻ. <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">പണ്ഡിറ്റ്
+ജവഹർലാൽ നെഹ്റു</ref> വിന്റെ ചെറുമകൻ. </item><label>രണ്ടു്:</label><item><ref target="https://en.wikipedia.org/wiki/Milind_Deora">മിലിന്ദ്
+ദേവ്ര</ref>. സൗത്ത് മുംബൈ എം. പി. മഹാരാഷ്ട്ര പി. സി. സി. മുൻ പ്രസിഡന്റ് <ref target="https://en.wikipedia.org/wiki/Murli_Deora">മുരളി ദേവ്ര</ref> യുടെ മകൻ.
+</item><label>മൂന്നു്:</label><item><ref target="https://en.wikipedia.org/wiki/Sachin_Pilot">സചിൻ
+പൈലറ്റ്</ref>. ദൗസയെ ലോക്സഭയിൽ പ്രതിനിധാനം ചെയ്യുന്ന അംഗം. മുൻ കേന്ദ്രമന്ത്രി <ref target="https://en.wikipedia.org/wiki/Rajesh_Pilot">രാജേഷ് പൈലറ്റി</ref> ന്റെ
+മകൻ, മുൻ ജമ്മുകാശ്മീർ മുഖ്യൻ <ref target="https://ml.wikipedia.org/wiki/Farooq_Abdullah">ഫാറൂഖ് അബ്ദുല്ല</ref>
+യുടെ ജാമാതാവു്. </item><label>നാലു്:</label><item><ref target="https://ml.wikipedia.org/wiki/Omar_Abdullah">ഒമർ
+അബ്ദുല്ല</ref>. മുൻ കേന്ദ്രമന്ത്രി. കാശ്മീർ സിംഹം <ref target="https://ml.wikipedia.org/wiki/Sheikh_Abdullah">ഷെഖ് അബ്ദുല്ല</ref> യുടെ
+പൗത്രൻ, <ref target="https://ml.wikipedia.org/wiki/Farooq_Abdullah">ഫാറൂഖ്
+അബ്ദുല്ല</ref> യുടെ പുത്രൻ, <ref target="https://en.wikipedia.org/wiki/Sachin_Pilot">സചിൻ പൈലറ്റി</ref> ന്റെ
+സ്യാലൻ. </item><label>അഞ്ചു്:</label><item><ref target="https://en.wikipedia.org/wiki/Jyotiraditya_Scindia">ജ്യോതിരാദിത്യ
+സിന്ധ്യ</ref>: ഗ്വാളിയോറിലെ യുവരാജാവു്, ഗുണെയിൽനിന്നുള്ള ജനപ്രതിനിധി. മുൻ കേന്ദ്രമന്ത്രി <ref target="https://en.wikipedia.org/wiki/Madhavrao_Scindia">മാധവറാവു
+സിന്ധ്യ</ref> യുടെ മകൻ. രാജസ്ഥാൻ മുഖ്യമന്ത്രി <ref target="https://en.wikipedia.org/wiki/Vasundhara_Raje">വസുന്ധരാ രാജെ</ref>
+യുടെ അനന്തരവൻ. </item></list>
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Murli_Deora.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരളി ദേവ്ര</figDesc>
+          </figure>
+          <p> വീക്കിന്റെ ലിസ്റ്റ് എപ്പടി? അഞ്ചു യോഗ്യന്മാരും പരമ്പരാഗത രാഷ്ട്രീയക്കാർ. വിദ്യാർഥിപ്രസ്ഥാനത്തിലിറങ്ങി
+ചുമ്മാതങ്ങു് മുദ്രാവാക്യം വിളിച്ചു് നേതാവായ ഏഴാംകൂലികളല്ല. ഇവരാരും. പ്രഗല്ഭരായ പിതാക്കളുടെ
+പിൻഗാമികളായി ദേശസേവനത്തിനിറങ്ങിയ രാജകുമാരന്മാർ. വായിൽ തങ്കക്കരണ്ടിയുമായി പിറന്നുവീണവർ,
+വിദേശബിരുദം നേടിയവർ, സുരക്ഷിത മണ്ഡലങ്ങളിൽനിന്നു് ലോക്സഭാംഗങ്ങളായവർ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sachin_Pilot.jpg" rendition="gra"/>
+            <figDesc style="thumb">സചിൻ പൈലറ്റ്</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Omar_Abdullah">ഒമർ
+അബ്ദുല്ല</ref> യൊഴികെ നാലുപേരും കോൺഗ്രസുകാർ. അച്ചായന്മാർ കൊണ്ടു പിടിച്ചു് ശ്രമിച്ചിട്ടും
+കണ്ടെത്താൻ കഴിയാത്തതെന്തെന്നാൽ ബി. ജെ. പി.-യിലോ സി. പി. എമ്മിലോ
+എസ്. പി.-ബി. എസ്. പി.-കളിലോ കൊള്ളാവുന്ന ചെറുപ്പക്കാരെയത്രേ. എന്തുചെയ്യാം? കണ്ടത്തിൽക്കാരടക്കം
+തറവാടികളത്രയും കഴിഞ്ഞ ആറുപതിറ്റാണ്ടായി കോൺഗ്രസുകാരാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jyotiraditya_Scindia.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജ്യോതിരാദിത്യ സിന്ധ്യ</figDesc>
+          </figure>
+          <p> നമ്മുടെ <ref target="https://en.wikipedia.org/wiki/Satheeshan_Pacheni">സതീശൻ
+പാച്ചേനി</ref> യേക്കാൾ, <ref target="https://ml.wikipedia.org/wiki/V.D._Satheesan">വി. ഡി. സതീശനേ</ref>
+ക്കാൾ, <ref target="https://ml.wikipedia.org/wiki/P.C._Vishnunath">പി. സി.
+വിഷ്ണുനാഥി</ref> നേക്കാൾ എന്തെങ്കിലും മേന്മ അവകാശപ്പെടാവുന്നവരാണോ, വീക്ക് പാടുപെട്ടു് കണ്ടെടുത്ത
+പഞ്ചമഹാ യുവകേസരികൾ? ശാസ്താംകോട്ടയിൽ ഒരിടത്തരം കുടുംബത്തിൽ ജനിച്ചതുകൊണ്ടു് വിഷ്ണുനാഥ്
+കെ. എസ്. യു. പ്രസിഡന്റും ചെങ്ങന്നൂർ എം. എൽ. എ.-യുമായി. ഗ്വാളിയോർ രാജകൊട്ടാരത്തിൽ
+പിറന്നിരുന്നെങ്കിൽ ജ്യോതിരാദിത്യ സിന്ധ്യയേക്കാൾ, നെഹ്റു-ഗാന്ധി കുടുംബത്തില്ലെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽഗാന്ധി</ref> യേക്കാൾ
+കേമനാകുമായിരുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Omar_Abdullah.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒമർ അബ്ദുല്ല</figDesc>
+          </figure>
+          <p> പ്രസിദ്ധരായ പൂർവികരുടെ മേൽവിലാസമില്ലെങ്കിൽ ഈ യുവ രാഷ്ട്രീയ പ്രതിഭകളുടെ ഭാഗധേയം
+എന്താകുമായിരുന്നു? 1975-ൽ പുനരാരംഭിച്ച നാഷനൽ കോൺഫറൻസിന്റെ ഭരണത്തിനു് യവനിക വീണതു് 2002
+ഒക്ടോബറിൽ <ref target="https://ml.wikipedia.org/wiki/Omar_Abdullah">ഒമർ
+അബ്ദുല്ല</ref> യുടെ നേതൃത്വത്തിൽ തെരഞ്ഞെടുപ്പിനെ നേരിട്ട വേളയിലാണു്. <ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽഗാന്ധി</ref> യുടെ
+ജനസമ്മതി എത്രയെന്നു് ഏപ്രിലിൽ നടക്കുന്ന യു. പി. വിധാൻസഭാ തെരഞ്ഞെടുപ്പു് തെളിയിക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/VD_SATHEESAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ഡി. സതീശൻ</figDesc>
+          </figure>
+          <p> ഈവകയൊന്നും അറിയാത്തവരല്ല കോട്ടയം അച്ചായന്മാർ. മനുഷ്യരെ മണ്ടന്മാരാക്കുന്നതിൽ, മണ്ടന്മാരെ
+മരമണ്ടന്മാരായി നിലനിറുത്തുന്നതിലാണു് അവരുടെ വ്യാപാര വിജയം കുടികൊള്ളുന്നതു്. മറ്റൊരു സംഗതി:
+<ref target="https://ml.wikipedia.org/wiki/Motilal_Nehru">മോത്തിലാൽ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർ
+ലാൽ</ref>, <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിര</ref>, <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽ</ref>; <ref target="https://ml.wikipedia.org/wiki/K._C._Mammen_Mappillai">മാമ്മൻ
+മാപ്പിള</ref>, <ref target="https://ml.wikipedia.org/wiki/K._M._Mathew">കെ. എം.
+മാത്യു</ref>, <ref target="https://ml.wikipedia.org/wiki/Mammen_Mathew">മാമ്മൻ
+
+മാത്യു</ref>, ജയന്ത് മാമ്മൻ എന്ന ക്രമത്തിലേ അവർക്കു് ചിന്തിക്കാൻ കഴിയൂ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vasundhara_Raje.jpg" rendition="gra"/>
+            <figDesc style="thumb">വസുന്ധരാ രാജെ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Vikram_Chandra_(novelist)">വിക്രംചന്ദ്ര</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Arnab_Goswami">അർണബ്
+ഗോസ്വാമി</ref>, ബർഖദത്ത്, <ref target="https://ml.wikipedia.org/wiki/Rajat_sharma">രജത്ശർമ</ref> എന്നീ
+വിദഗ്ദ്ധരാലും വീക്കിന്റെ വായനക്കാരാലും തെരഞ്ഞെടുക്കപ്പെടാൻ പോകുന്ന താരം ആരായിരിക്കും? ഞാൻ
+ബെറ്റുവെക്കാൻ തയ്യാറാണു്. ഉത്തരം: <ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽഗാന്ധി</ref>. <ref target="https://en.wikipedia.org/wiki/Milind_Deora">മിലിന്ദ് ദേവ്രയോ</ref> <ref target="https://en.wikipedia.org/wiki/Sachin_Pilot">സചിൻ പൈലറ്റോ</ref>
+<ref target="https://ml.wikipedia.org/wiki/Omar_Abdullah">ഒമർ അബ്ദുല്ല</ref>
+യോ <ref target="https://en.wikipedia.org/wiki/Jyotiraditya_Scindia">ജ്യോതിരാദിത്യസിന്ധ്യ</ref>
+യോ രാഹുലിനേക്കാൾ വഷളന്മാരായതുകൊണ്ടല്ല, ഹിതപരിശോധന നടത്തുന്നതു് കണ്ടത്തിലെ
+അച്ചായന്മാരായതുകൊണ്ടുതന്നെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Motilal_nehru.jpg" rendition="gra"/>
+            <figDesc style="thumb">മോത്തിലാൽ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Milind_Deora">മിലിന്ദിനോ</ref><ref target="https://en.wikipedia.org/wiki/Sachin_Pilot">സചിനോ</ref><ref target="https://en.wikipedia.org/wiki/Jyotiraditya_Scindia">ജ്യോതിരാദിത്യ</ref>
+നോ രാഹുൽജിയേക്കാൾ വോട്ടുകിട്ടിയാൽ അവരുടെ കാര്യം കട്ടപ്പുക! <ref target="https://en.wikipedia.org/wiki/Kuldeep_Bishnoi">കുൽദീപ് ബിഷ്ണോയ്</ref>
+(ഭിവാനിയിൽനിന്നുള്ള പാർലമെന്റ് മെമ്പർ, ബൻസിലാലിന്റെ മകൻ) പോയ വഴി പോകാം. അതുകൊണ്ടു് <ref target="https://en.wikipedia.org/wiki/Milind_Deora">ദേവ്ര</ref>, <ref target="https://en.wikipedia.org/wiki/Sachin_Pilot">പൈലറ്റ്</ref>, സിന്ധ്യ
+കുമാരന്മാർ <ref target="https://ml.wikipedia.org/wiki/Mammen_Mathew">മാമ്മൻ
+മാത്യു</ref> വിന്റെ കാലുപിടിച്ചു് ചതിക്കല്ലേ മുതലാളീ എന്നപേക്ഷിക്കാനുമുണ്ടു് സാധ്യത.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KM_Mathew.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. മാത്യു</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽഗാന്ധി</ref> 2007-ലെ
+ഉദയതാരമായി വാഴ്ത്തപ്പെടുകയാൽ സ്വാതന്ത്ര്യലബ്ധിയുടെ 60-ാം വാർഷികവും വീക്കിന്റെ 25-ാം വാർഷികവും
+ധന്യമാകും എന്നു് നിശ്ചയം.
+</p>
+          <p>വെന്നരിയെ യു. പി. കാക്കുവാൻ കോപ്പിടും നൃപതിയുടെ കരങ്ങൾക്കു് പുരസ്ക്കാരലബ്ധി
+കരുത്തുപകരുമെന്നതിലുമില്ല സന്ദേഹം. യു. പി. എ. ഭരണം അവസാനിക്കും മുമ്പു് ഫിലിപ്പ് മാത്യു, ജേക്കബ് മാത്യു
+എന്നിവർക്കു് കൂടിയും ‘പത്മ’ പുരസ്ക്കാരങ്ങൾ പ്രതീക്ഷിക്കാവുന്നതാണു്. ധർമോസ്മദ് കുലദൈവതം!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Udichuyarunna Tharangal (ml:
+ഉദിച്ചുയരുന്ന താരങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Udichuyarunna Tharangal, കെ. രാജേശ്വരി, ഉദിച്ചുയരുന്ന താരങ്ങൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 9, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Portrait of Miss Vilhelmine
+(Ville) Hage, a painting by <ref target="https://en.wikipedia.org/wiki/en:Wilhelm_Marstrand">Wilhelm
+Marstrand</ref>  (1810–1873). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-tharangal.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-tharangal.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

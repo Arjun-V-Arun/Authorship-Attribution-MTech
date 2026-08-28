@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കുംഭോദരന്റെ തപസ്സു്</title>
+          <title xml:lang="en" type="main">Kumbodarante thapassu</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">November 25, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കുംഭോദരന്റെ തപസ്സു്</title>
+              <title xml:lang="en" type="main">Kumbodarante thapassu</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-11-29</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Kumbodarante thapassu</term>
+          <term>സഞ്ജയൻ</term>
+          <term>കുംഭോദരന്റെ തപസ്സു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-11-29</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Franz_Marc_004.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Franz_Marc_004.jpg">Caliban,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Franz_Marc">Franz
+Marc</ref>  (1880–1916). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കുംഭോദരന്റെ തപസ്സു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കുംഭോദരന്റെ തപസ്സു്</head>
+        <div type="lsection">
+          <p style="noindent">സഞ്ജയന്റെ കഴിഞ്ഞ രണ്ടുമൂന്നു പ്രാവശ്യത്തെ കുറിപ്പുകളൊന്നും കുട്ടികൾക്കു
+വായിച്ചിട്ടു മനസ്സിലാകുന്നില്ലെന്നു് ഒരാക്ഷേപം പുറപ്പെട്ടിരിക്കുന്നു. അതുകൊണ്ടു് ഇപ്രാവശ്യം കുട്ടികൾക്കുവേണ്ടി
+മാത്രം ഒരു കഥ പറയാനാണു് സഞ്ജയൻ ആലോചിക്കുന്നതു്. മുതിർന്നവർ ഇതു വായിച്ചാലും ഇല്ലെങ്കിലും
+സഞ്ജയന്നു് ഒരുപോലെയാണു്.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>പണ്ടു്—വളരെ, വളരെക്കാലം മുമ്പു് കണ്ട്റമേണ്ടു് എന്നു പേരായ ഒരു കാട്ടിൽ 4,663 പരുന്തുകളും 4,578
+കാക്കകളും ഉണ്ടായിരുന്നു. മറ്റു പക്ഷികളുമുണ്ടു്; പക്ഷേ, അവരുടെ എണ്ണം ചുരുക്കമായിരുന്നു. ഈ കാക്കകളും
+പരുന്തുകളും ചിലപ്പോൾ യോജിച്ചുതാമസിക്കും; ചിലപ്പോൾ അന്യോന്യം യുദ്ധംചെയ്യും. യുദ്ധമെന്നുകേട്ടു് നിങ്ങൾ
+പേടിയ്ക്കേണ്ട. അവരുടെ യുദ്ധത്തിൽ ആരും മരിയ്ക്കാറില്ല; അന്യോന്യം മരക്കൊമ്പുകളിൽ കൂട്ടമായിരുന്നു
+ശകാരിക്കുകയാണു് അവരുടെ യുദ്ധം.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>ഞാൻ പറയുന്ന കഥ നടക്കുന്ന കാലത്തു് ഈ കാക്കകളും പരുന്തുകളും അന്യോന്യം യുദ്ധം
+ചെയ്യുകയായിരുന്നു. ഈ യുദ്ധം നടന്നുകൊണ്ടിരിക്കേ, പരുന്തുകളുടെ ഇടയിൽ കുറെ പ്രധാനിയായ കുംഭോദരൻ
+ഇങ്ങനെ വിചാരിച്ചു. “ഞാൻ എന്റെ കൂട്ടരുടെ ഭാഗത്തുനിന്നാൽ അവരെന്നെ സഹായിക്കും; പക്ഷേ, കാക്കകൾ
+ദ്രോഹിക്കും. കാക്കകളുടെ ഭാഗത്തു ചേർന്നാൽ പരുന്തുകൾ എനിക്കു് ഇരിയ്ക്കപ്പൊറുതി തരില്ല. പക്ഷേ, ഇവരുടെ
+രണ്ടാളുടെയും സഹായം എനിക്കു വേണം ഇതിനെന്തു നിവൃത്തി?”
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>കുംഭോദരൻ വളരെനേരം ആലോചിച്ചു. ഒടുക്കം അയാൾ ഒരു വിദ്യ കണ്ടുപിടിച്ചു. അതു രണ്ടുഭാഗത്തും
+ചേർന്നുകളയാമെന്നുള്ളതായിരുന്നു. അതുകൊണ്ടു പ്രസ്തുത കുംഭോദരൻ കാക്കകൾ പറക്കുമ്പോൾ അവരുടെ
+കൂടെയും, പരുന്തുകൾ ഉയരുമ്പോൾ അവരുടെ കൂടെയും, പറന്നും ഉയർന്നും കൊണ്ടിരുന്നു. കുംഭോദരൻ
+വിചാരിച്ചതു് അയാൾ ഇരുകൂട്ടരേയും പറ്റിക്കുകയാണെന്നായിരുന്നു.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>അങ്ങിനെയിരിയ്ക്കെ അക്കാട്ടിലെ പക്ഷിരാജാവിനെ തിരഞ്ഞെടുക്കുന്ന സമയമായി. തിരഞ്ഞെടുപ്പുദിവസം
+എല്ലാ കാക്കകളും പരുന്തുകളും കൂട്ടംകൂട്ടമായി വന്നു തനിക്കു വോട്ടുചെയ്യുമെന്നാണു് കുംഭോദരൻ വിചാരിച്ചതു്—
+എങ്കിലും കാര്യം ഒന്നു തീർച്ചപ്പെടുത്തിക്കളയാമെന്നു കരുതി അയാൾ കാക്കമൂപ്പന്റെ വീട്ടിൽ ചെന്നു: “ഇഷ്ടാ,
+ഞാൻ കാക്കകളുടെ കൂടെ എപ്പോഴും പറക്കുന്നതു താങ്കൾ കണ്ടിട്ടില്ലേ?” എന്നു ചോദിച്ചു. അപ്പോൾ കാക്ക “ഫൂ,
+പോ, നീ പരുന്തുകളുടെകൂടെ ഉയരുന്നതു ഞാൻ കണ്ടിട്ടുണ്ടു്. കടക്കു പുറത്തു്” എന്നു പറഞ്ഞു കുംഭോദരനെ
+ഇരുപത്തേഴു ബലിക്കാക്കകളുടെ സഹായത്തോടുകൂടി പുറത്തേക്കു തള്ളിയയച്ചു.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>കുംഭോദരന്നു വലിയ വിഷാദമായി. “ആട്ടെ പരുന്തുകളുടെ കൂടെ ഉയരുന്നതാണു് കണ്ടതെന്നല്ലേ കാക്ക
+പറഞ്ഞതു് ? എന്നാൽ പരുന്തുകളുടെ വോട്ടെങ്കിലും കിട്ടും. ആഫ്റ്റർ ഓൾ, അതുകൊണ്ടു് ജയിക്കാം” എന്നൊക്കെ
+ഒടുവിൽ വിചാരിച്ചു സമാധാനിച്ചു് അയാൾ പരുന്തുമൂപ്പന്റെ അടുത്തു ചെന്നു. പരുന്തുമൂപ്പനോടു് കുംഭോദരൻ:
+“ചങ്ങാതി, ഞാൻ പരുന്തുകളുടെകൂടെ എപ്പോഴും ഉയരാറില്ലേ? അതു നിങ്ങൾ കണ്ട സംഗതിയല്ലേ? ഞാൻ
+ഇങ്ങിനെ ചെയ്തതുകൊണ്ടു് കാക്കകൾ ഇപ്പോൾ എന്നെ കല്ലെടുത്തു് എറിയുന്നു. നിങ്ങളെങ്കിലും എന്നെ
+സഹായിക്കുകയില്ലേ?” എന്നു ചോദിച്ചു. ഉടനെ പരുന്തുമൂപ്പൻ എഴുന്നേറ്റു വായിലെ മുറുക്കാൻ തുപ്പി “ഫഃ, കഴുതേ.
+നിന്നെ ഞാൻ അധികം കണ്ടതു കാക്കകളുടെകൂടെ പറക്കുന്ന സമയത്താണു്. ഇപ്പോൾ നിനക്കു ഞങ്ങൾ വേണം.
+ഇല്ലേ? കടന്നുപോ!” എന്നു് ആജ്ഞാപിച്ചു. ഇരുപത്തിമൂന്നു പരുന്തുകൾകൂടി കുംഭോദരനെ ബലാൽക്കാരമായി
+വലിച്ചിഴച്ചു പുറത്താക്കി.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>കുംഭോദരൻ വളരെ, വളരെ വ്യസനിച്ചു. ഒരു അപകടപ്രസംഗം ചെയ്തു തകരാറിനെപ്പറ്റി മി. പള്ളത്തുരാമൻ
+വ്യസനിക്കുന്നതിനെക്കാൾ വ്യസനിച്ചു. രണ്ടുതോണിയിലും കാൽവെയ്ക്കുന്നതു് അപായമാണെന്നു മനസ്സിലായി.
+അയാൾ എല്ലാ ആഗ്രഹങ്ങളും ഉപേക്ഷിച്ചു് ഏഴിമലയിൽ പോയി തപസ്സുചെയ്തു. ഈ കഥയിൽനിന്നു് എന്താണു്
+കുട്ടികളേ, പഠിയ്ക്കേണ്ടതു്?
+</p>
+          <p>കുട്ടികൾ: സഞ്ജയൻ ഇതു് ആരെക്കുറിച്ചോ എഴുതിയതാണെന്നു്.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>കുട്ടികൾ പറഞ്ഞതു് കേട്ടില്ലേ? ഇതാണു് സഞ്ജയന്നു് ഈയെടെയായി പറ്റുന്ന ഒരബദ്ധം. എന്തെഴുതിയാലും
+അതിന്നു് അഞ്ഞൂറു് അവകാശികളുണ്ടു്. ഇങ്ങനെയായാൽ എങ്ങിനെയാണു് ഒരു കാര്യം പറയുക? ഈ വെറും
+കഥതന്നെ തങ്ങളെക്കുറിച്ചാണെന്നു വിചാരിക്കുവാനിടയുള്ള അഞ്ചെട്ടാളുകളെ സഞ്ജയന്നറിയാം. ഇനിയും
+എത്രപേരുണ്ടായിരിക്കുമെന്നു ദൈവംമാത്രം കണ്ടു. ചിലപ്പോൾ ആളുകൾ തെറ്റിദ്ധരിച്ചു മുഷിയാറുമുണ്ടു്. അവർ
+മുഷിഞ്ഞിരിക്കുന്നു എന്നുള്ള വസ്തുത എങ്ങിനെയാണു് മനസ്സിലാക്കിയതെന്നോ? അതെളുപ്പമാണു്.
+മുഷിഞ്ഞവരുടെ ലക്ഷണങ്ങൾ പുതിയ മഹാഭാരതത്തിലെ സഞ്ജയവാക്യത്തിൽ പറഞ്ഞിട്ടുണ്ടു്. ആ ഭാഗം താഴെ
+ചേർക്കാം.
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <lg>
+            <l> കണ്ടാലും കണ്ടില്ലെന്നു ഭാവിച്ചു നടക്കയും</l>
+            <l> കണ്ടുപോയെന്നാൽ മുഖം വീർപ്പിച്ചു തിരിയ്ക്കയും.</l>
+            <l> മറ്റെന്തോ വിചാരിച്ചു പോവതായ് നടിക്കയും,</l>
+            <l> മറ്റെങ്ങോ നോക്കുന്നതായ് വെറുതെ ഭാവിക്കയും,</l>
+            <l> കാലുകളിടറിയും കാൽനഖം നോക്കിക്കൊണ്ടും</l>
+            <l> നാലുമൈൽസ്പീഡിൽക്കവിഞ്ഞുഗ്രമായ് നടക്കയും,</l>
+            <l> പെട്ടെന്നു കുട ചരിച്ചാനനം മറയ്ക്കയും,</l>
+            <l> നട്ടെല്ലുവളയാതെ വടിപോൽ സൂക്ഷിയ്ക്കയും,</l>
+            <l> ഇത്തരം ചെയ്യുന്നവൻ മനസാ മുഷിഞ്ഞതായ്</l>
+            <l> പത്രികാധിപ, ചൊല്ലാം തെല്ലുമേ കില്ലില്ലാതെ, </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>ഇങ്ങിനെയൊക്കെയാണു് ലക്ഷണം. പക്ഷേ, “ആളുകൾ അനാവശ്യമായി മുഷിഞ്ഞാൽ തനിക്കു് എന്താണു്?”
+
+എന്നു നിങ്ങൾ ഒരു സമയം ചോദിക്കുമായിരിക്കും. എന്തെങ്കിലും ഉണ്ടെന്നു ഞാൻ പറഞ്ഞുവോ?
+</p>
+          <p>
+
+11.11.1934
+
+<list type="gloss"><label>ചെറുപ്പക്കാരൻ:</label><item> (കഴുതകളെ തെളിച്ചുവരുന്ന ദോബിയോടു്) നിങ്ങൾ കഴുതകളുടെ അച്ഛനാണോ?
+</item><label>ദോബി:</label><item> അതേ, മകനേ. </item></list>
+</p>
+          <p>(കേ. പ.)
+</p>
+          <p style="center">⋄ ⋄ ⋄</p>
+          <p>നരകമുണ്ടെന്നുള്ളതു് അഴിമതിക്കാരെ ഭീഷണിപ്പെടുത്തുവാൻ വേണ്ടി മാത്രം കെട്ടിയുണ്ടാക്കിയ ഒരു
+പച്ചക്കളവാണെന്നു് ഒരു സോവിയറ്റ് ഗ്രന്ഥകാരൻ പറയുന്നു.
+</p>
+          <p>അയാൾ കോഴിക്കോട്ടെ ഗുജറാത്തിനിരത്തും തളിയിലെ ചില ഭാഗങ്ങളും കണ്ടിട്ടില്ല.
+</p>
+          <p>(കേ. പ.)
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kumbodarante thapassu (ml:
+കുംഭോദരന്റെ തപസ്സു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-11-29. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan,
+Kumbodarante thapassu, സഞ്ജയൻ, കുംഭോദരന്റെ തപസ്സു്, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 25, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Franz_Marc_004.jpg">Caliban,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Franz_Marc">Franz
+Marc</ref>  (1880–1916). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-thapassu.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-thapassu.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

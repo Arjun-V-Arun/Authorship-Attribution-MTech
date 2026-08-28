@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ആധുനികോത്തരകാലത്തെ
+വാമൊഴി</title>
+          <title xml:lang="en" type="main">Adhunikoththarakalaththe Vamozhi</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 21, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ആധുനികോത്തരകാലത്തെ
+വാമൊഴി</title>
+              <title xml:lang="en" type="main">Adhunikoththarakalaththe Vamozhi</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Adhunikoththarakalaththe Vamozhi</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ആധുനികോത്തരകാലത്തെ വാമൊഴി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 21, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/An_Old_Man_Reading.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Willem_van_Mieris__An_Old_Man_Reading.JPG">An Old Man Reading,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Willem_van_Mieris">Willem van
+Mieris</ref>  (1662–1747). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ആധുനികോത്തരകാലത്തെ വാമൊഴി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ആധുനികോത്തരകാലത്തെ വാമൊഴി</head>
+        <div type="lsection">
+          <p style="noindent">സമ്പന്നവും സൗകര്യപൂർണ്ണവുമായ ഇന്നത്തെ മലയാളി ജീവിതം
+രൂപപ്പെടുത്തുന്നതിൽ യന്ത്രങ്ങൾക്കും സാങ്കേതികവിദ്യകൾക്കും വലിയ പങ്കുണ്ടു്. ഈ പുതിയ സാഹചര്യത്തിന്റെ
+ഫലങ്ങളിലൊന്നായി ഉരുത്തിരിഞ്ഞുവരുന്ന മാദ്ധ്യമവത്ക്കരണം നമ്മുടെ വാമൊഴിയെ അവഗണിക്കുകയും
+വരമൊഴിക്കു് അനർഹമായ സ്ഥാനം കൊടുക്കുകയും ചെയ്യുന്നു എന്നു് പല ഭാഗത്തുനിന്നും പരാതി ഉയരുന്നുണ്ടു്.
+സമൂഹത്തിലെ വിവിധവിഭാഗം ജനങ്ങളുടെ വാമൊഴിയെ പത്രം, സിനിമ, ടെലിവിഷൻ മുതലായ മാദ്ധ്യമങ്ങൾ
+സ്വാധീനിക്കുന്നുണ്ടു് എന്നതു് സത്യമാണു്. അതു മാത്രമാണോ സത്യം? പുതിയ ജീവിതം നമ്മുടെ വാമൊഴിയോടു്
+പെരുമാറുന്നതെങ്ങനെയാണു്?
+</p>
+          <p>‘സാമാന്യവ്യവഹാരം’, ‘വിശേഷവ്യവഹാരം’ എന്നു് ഭാഷയുടെ ആവിഷ്കാരത്തിനു് വ്യത്യസ്ത തലങ്ങളുണ്ടെന്നു്
+കണ്ടെത്തിയതു് ആരാണു് എന്നു് അറിഞ്ഞുകൂടാ. ആ വ്യത്യാസത്തെ വിശകലനം ചെയ്തുകൊണ്ടു് ഇപ്പറഞ്ഞ
+പദങ്ങൾ പ്രയോഗിക്കുന്ന ഏറ്റവും പഴയ സാഹചര്യം എന്റെ അറിവിലുള്ളതു് പതിനാലാം നൂറ്റാണ്ടിലെ
+രചനയായി കണക്കാക്കി വരുന്ന ലീലാതിലകത്തിന്റെ ‘വൃത്തി’യിലാണു്. മണിപ്രവാളത്തിന്റെ ലക്ഷണം
+കണ്ടെത്തുന്നതിലൂടെ സാഹിത്യത്തിന്റെ സ്വഭാവം നിർണ്ണയിക്കുവാൻ ഉത്സാഹിക്കുന്ന ആ പ്രാചീന
+നിരൂപണപുസ്തകം വാമൊഴി സാമാന്യവ്യവഹാരത്തിനേ കൊള്ളൂ. സാഹിത്യരചന മുതലായ
+വിശേഷവ്യവഹാരത്തിനു് വരമൊഴിതന്നെ വേണം എന്നു് നിഷ്കർഷിക്കുന്നുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AR_Raja_Raja_Varma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. ആർ. രാജരാജവർമ്മ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/A._R._Raja_Raja_Varma">എ. ആർ.
+രാജരാജവർമ്മ</ref> (1863–1918) യുടെ അലങ്കാരശാസ്ത്രഗ്രന്ഥമായ ഭാഷാഭൂഷണ (1902)-ത്തിൽ
+ഗ്രാമ്യപദങ്ങൾക്കു് കവിതയിൽ വിലക്കു കല്പിച്ചതു കാണാം. ഗ്രാമ്യത്തിന്റെ കുഴപ്പം വാമൊഴിയാണു് എന്നതുതന്നെ.
+അതിനു് അവിടെ ഉദാഹരിച്ച പദങ്ങൾ ‘കഷണിപ്പിക്കുക’, ‘വെച്ചടിച്ചു’ മുതലായവയാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. കെ. നായനാർ</figDesc>
+          </figure>
+          <p> സാഹിത്യചരിത്രം ഒന്നു മറിച്ചുനോക്കിയാലറിയാം, വിശേഷവ്യവഹാരങ്ങളിൽ എത്രയോ നൂറ്റാണ്ടുകാലം
+വാമൊഴിക്കു് തീണ്ടാപ്പാടകലെ നിൽക്കേണ്ടിവന്നു. അത്തരം പദങ്ങൾക്കു് വിലക്കില്ലാത്ത നാടൻ
+സാഹിത്യത്തിന്റെ ഗതിയും അതായിരുന്നു. സാക്ഷരനും സവർണ്ണനും സമ്പന്നനും ആയ ‘അധികാരി’യുടെ
+ഭാഷയോടു് അടുത്തുനിന്നിരുന്നതു് വരമൊഴിയാണല്ലോ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_Seethi_Haji.png" rendition="gra"/>
+            <figDesc style="thumb">പി. സീതിഹാജി</figDesc>
+          </figure>
+          <p> വിദേശാധിപത്യം, രാജാധിപത്യം, ജാതിഘടന, ജന്മി–കുടിയാൻ വ്യവസ്ഥ മുതലായവയ്ക്കെതിരായ
+ജനമുന്നേറ്റം വഴിയാണു് വാമൊഴി വിശേഷവ്യവഹാരങ്ങളിലേക്കു് കടന്നുവരാൻ തുടങ്ങിയതു്. ചില മാതൃകകൾ:
+<list rend="numbered"><item n="">രാഷ്ട്രീയനേതാക്കന്മാരുടെ പ്രസംഗങ്ങൾ മിക്കസമയത്തും വാമൊഴിയുടെ സംവേദനശക്തി
+ഉയർത്തിപ്പിടിക്കും. <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">ഇ. കെ. നായനാർ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/T.K._Hamza">ടി. കെ. ഹംസ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/P._Seethi_Haji">പി.
+സീതിഹാജി</ref> തുടങ്ങിയവരുടെ പ്രസംഗങ്ങൾ ഓർത്തുനോക്കുക. </item><item n="">ദേശീയപ്രസ്ഥാനത്തിന്റെ വഴിക്കു വന്ന എഴുത്തുകാരും അവർ രൂപം കൊടുത്ത
+പുരോഗമനസാഹിത്യ പ്രസ്ഥാനവും ഭിന്നതരം രചനകളിൽ വാമൊഴിയുടെ വൈകാരികതാശേഷിയെ
+ഉപയോഗപ്പെടുത്തി. <ref target="https://ml.wikipedia.org/wiki/Thakazhi_Sivasankarappilla">തകഴി</ref>,
+<ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">ബഷീർ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Ponkunnam_Varkey">പൊൻകുന്നം
+വർക്കി</ref> മുതലായവരുടെ കൃതികൾ ഓർത്തുനോക്കുക. </item><item n="">രാഷ്ട്രീയ പ്രവർത്തനത്തിന്റെയും സാമൂഹ്യപരിഷ്കരണത്തിന്റെയും ഭാഗമായി പിറവിയെടുക്കുന്ന
+സിനിമകളിലും നാടകങ്ങളിലും സാധാരണക്കാരുടെ ജീവിതം അടയാളപ്പെടുത്തുന്നതു് സംഭാഷണത്തിലാണു്.
+അതായതു് വാമൊഴിയിലാണു്. </item></list>
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ponkunnam_Varkey.jpg" rendition="gra"/>
+            <figDesc style="thumb">പൊൻകുന്നം വർക്കി</figDesc>
+          </figure>
+          <p> അരനൂറ്റാണ്ടു മുമ്പു് പുറപ്പെട്ട ‘നീലക്കുയിൽ’ എന്ന സിനിമയിലെ നായിക അടിയാള ജാതിക്കാരിയാണു്.
+അവർ സ്വന്തം പാരമ്പര്യത്തിനും ചുറ്റുപാടിനും ചേർന്നമട്ടിലാണു് വർത്തമാനം പറയുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/Thoppil_Bhasi">തോപ്പിൽ ഭാസി</ref>, <ref target="https://ml.wikipedia.org/wiki/K.P.A.C.">കെ. പി. എ. സി.</ref>-ക്കുവേണ്ടി
+ഒരുക്കിയ ‘<ref target="https://ml.wikipedia.org/wiki/Ningalenne_Communistakki">നിങ്ങളെന്നെ
+കമ്മ്യൂണിസ്റ്റാക്കി</ref>’ എന്ന നാടകത്തിന്റെ സ്ഥിതിയും വ്യത്യസ്തമല്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thoppil_Bhasi.jpg" rendition="gra"/>
+            <figDesc style="thumb">തോപ്പിൽ ഭാസി</figDesc>
+          </figure>
+          <p> പദ്യം മാത്രമാണു് സാഹിത്യം എന്ന ആന്ധ്യത്തിൽനിന്നു് ഗദ്യവും സാഹിത്യമാണു് എന്ന തിരിച്ചറിവിലേക്കു്
+നമ്മൾ കേരളീയർ ഉണർന്നുതുടങ്ങുന്ന സന്ദർഭമാണതു്. <ref target="https://books.sayahna.org/html/kesari-bio.html">കേസരി എ.
+ബാലകൃഷ്ണപിള്ള</ref> നമ്മുടെ ഗദ്യകഥാകാരന്മാരെ മഹാകവി തകഴി ശിവശങ്കരപ്പിള്ള എന്നും മഹാകവി
+വൈക്കം മുഹമ്മദ് ബഷീർ എന്നു വിളിച്ചുതുടങ്ങുന്ന കാലം. ബഷീർ എഴുതി: ‘ഞാൻ ജന്മനാ കവിയാണു്. പിന്നെ
+ഗദ്യത്തിൽ എഴുതുന്നു എന്നുമാത്രം. ആളുകൾ വർത്തമാനം പറയുന്നതും കുളിക്കുന്നതും ഊണുകഴിക്കുന്നതും
+പ്രേമിക്കുന്നതും പ്രസവിക്കുന്നതും ഒക്കെ ഗദ്യത്തിലാണല്ലോ.’
+</p>
+          <p>തൊഴിലാളികൾക്കും അധഃകൃതർക്കും അയിത്തജാതിക്കാർക്കും ന്യൂനപക്ഷങ്ങൾക്കും സ്ത്രീകൾക്കും
+സാഹിത്യത്തിൽ സ്ഥലം അനുവദിക്കുന്നതു് അവരുടെ സാമൂഹ്യജീവിതത്തിന്റെ കൂടെ ആ വാമൊഴി കൂടി
+
+രേഖപ്പെടുത്തിക്കൊണ്ടാണു്. അങ്ങനെയാണു് ഭാഷയുടെ ജനാധിപത്യവത്കരണം സാദ്ധ്യമാകുന്നതു്.
+വാമൊഴിക്കു് പ്രാധാന്യം നൽകുവാൻ ശേഷിയുള്ളതു് പദ്യത്തെക്കാൾ ഗദ്യത്തിനാണു്. സൂക്ഷിച്ചുനോക്കിയാൽ
+കാണാം, നമ്മുടെ ജനാധിപത്യം മുന്നേറുന്നതു് ഗദ്യത്തിനും വാമൊഴിക്കും കൂടുതൽക്കൂടുതൽ ഇടം
+നൽകിക്കൊണ്ടാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kanayi_Kunhiraman.jpg" rendition="gra"/>
+            <figDesc style="thumb">കാനായി കുഞ്ഞിരാമൻ</figDesc>
+          </figure>
+          <p> അധികാരിവർഗ്ഗം വാഴ്ചകൊള്ളുന്ന തലസ്ഥാനനഗരത്തിന്റെ കഥയാണു് രാജ്യത്തിന്റെ ചരിത്രം എന്ന
+കാഴ്ചപ്പാടു് രാജാധിപത്യ കാലത്തിന്റേതാണു്. അന്നൊക്കെ രാജാവിന്റെ ചരിത്രം തന്നെയാണു് രാജ്യത്തിന്റെയും
+ചരിത്രം. അതു് രേഖപ്പെടുത്തുകയായിരുന്നു, ആസ്ഥാനചരിത്രകാരന്മാരുടെ ഉത്തരവാദിത്തം. ചെറുതും വലുതുമായ
+അനേകം പ്രദേശങ്ങൾ കൂടിച്ചേർന്നതാണു് രാജ്യം. അതുകൊണ്ടുതന്നെ അനേകം പ്രാദേശികചരിത്രങ്ങളുടെ
+സാകല്യമായിരിക്കണം രാജ്യചരിത്രം എന്നതാണു് ഇന്നത്തെ ജനാധിപത്യവ്യവസ്ഥ ഉയർത്തിപ്പിടിക്കുന്ന
+സങ്കല്പം. കേരളത്തിന്റെ ചരിത്രം അധികാരികൾ താമസിക്കുന്ന തലസ്ഥാനമായ തിരുവനന്തപുരത്ത്
+ഭരണകാര്യാലയങ്ങളിൽ സൂക്ഷിച്ചുവെച്ചു് ‘റിക്കാഡുകളിൽ’ രേഖപ്പെട്ടുകിടക്കുന്നതു മാത്രമല്ല എന്നും അതു്
+സംസ്ഥാനത്തിലെ സാധാരണ ജനങ്ങൾ കഴിഞ്ഞുകൂടുന്ന ഗ്രാമപഞ്ചായത്തുകളുടെയും മുനിസിപ്പാലിറ്റികളുടെയും
+കോർപ്പറേഷനുകളുടെയും പ്രാദേശിക ചരിത്രങ്ങൾ ഒരുമിച്ചുചേരുമ്പോൾ രൂപംകൊള്ളുന്നതുകൂടിയാണു് എന്നും
+ഉള്ള തിരിച്ചറിവു് ഉദാഹരണം. രാജ്യത്തിന്റെ ചരിത്രം ജനങ്ങളുടെ ചരിത്രമാണു്. താജ്മഹലിന്റെ ചരിത്രം <ref target="https://ml.wikipedia.org/wiki/Shah_Jahan">ഷാജഹാനിൽ</ref>
+ആരംഭിക്കുകയും ആ മുഗൾചക്രവർത്തിയിൽത്തന്നെ അവസാനിക്കുകയും ചെയ്യുന്നു. ലോകത്തിലെ ഏറ്റവും
+മനോഹരമായ ആ സൗധം തന്റെ ഉന്നതമായ സർഗ്ഗശേഷികൊണ്ടു് ആദ്യം ഉയർത്തിയ ശില്പി <ref target="https://ml.wikipedia.org/wiki/Ustad_Isa">ഉസ്താദ് ഈസ</ref> യുടെ മഹനീയ
+നാമധേയം ഏതു ചരിത്രത്തിലുണ്ടു്? മലമ്പുഴയിലെ പൂങ്കാവനത്തിൽ സുഖാലസ്യത്താൽ അടഞ്ഞുപോയ
+കണ്ണുകളായി നിലത്തു് കാലും നീട്ടിയിരിക്കുന്ന നഗ്നസുന്ദരിയുടെ ശില്പം സ്ഥാപിക്കുന്ന കാലത്തെ സംസ്ഥാന
+മുഖ്യമന്ത്രി ആരാണു് എന്നു് ആർക്കറിയാം? ‘<ref target="https://upload.wikimedia.org/wikipedia/commons/2/29/Yakshikanai.JPG">യക്ഷി</ref>’ എന്നു പേരായ ആ കലാശില്പം <ref target="https://ml.wikipedia.org/wiki/Kanayi_Kunhiraman">കാനായി
+കുഞ്ഞിരാമൻ</ref> എന്നു പേരായ കലാകാരന്റേതാണു് എന്നു് നമുക്കറിയാം. കല രാജാധിപത്യത്തിന്റെ
+കാലത്തു് പണം മുടക്കിയ അധികാരിയുടേതാണു്; ജനാധിപത്യത്തിന്റെ കാലത്തു് സർഗ്ഗശേഷി മുടക്കിയ
+കലാകാരന്റേതും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Yakshi-kanai.jpg" rendition="gra"/>
+            <figDesc style="thumb">യക്ഷി</figDesc>
+          </figure>
+          <p> ഇവിടെ വിശദീകരിച്ചുപറഞ്ഞതിൽനിന്നു് വ്യക്തമാവും പോലെ, ദേശചരിത്രം രാജഭരണകാലത്തു്
+രാജാവിന്റേതും ജനതാഭരണകാലത്തു് ജനങ്ങളുടേതുമാണു്. രാജാവിന്റെ ചരിത്രം രേഖപ്പെടുത്തിവെച്ചിട്ടുണ്ടു്.
+ജനങ്ങളുടെ ചരിത്രം ആരും എവിടെയും എഴുതിവെച്ചിട്ടില്ല. അതെങ്ങനെ കിട്ടും?
+</p>
+          <p>ജനചരിത്രമുള്ളതു് ഓർമ്മകളിലാണു്. നാടൻകഥ, നാടൻപാട്ടു്, കടങ്കഥ, പഴഞ്ചൊല്ലു്, ഐതിഹ്യം, തമാശ
+മുതലായ വാമൊഴികളിൽ അവയിൽ പലതും അടയാളപ്പെട്ടുകിടപ്പുണ്ടു്. തലമുറകളായി കൈമാറിവരുന്ന
+കേട്ടുകേൾവികളിലും ആ ചരിത്രമുണ്ടു്. ചരിത്രം രാജാവു് വരമൊഴിയിലും ജനങ്ങൾ വാമൊഴിയിലും
+‘രേഖപ്പെടുത്തുന്നു.’
+</p>
+          <p>പുതിയകാലം പ്രാദേശികചരിത്രങ്ങളുടെ സമാഹാരത്തെയാണു് ദേശചരിത്രം എന്നു വിളിക്കുന്നതു്.
+അതുകൊണ്ടുതന്നെ പ്രാദേശികപ്പഴമകളുടെ പ്രഭവമായ വാമൊഴിചരിത്രത്തിനു് (ഓറൽ ഹിസ്റ്ററി) ഇന്നു്
+പ്രസക്തിയും പ്രാധാന്യവും ഉണ്ടു്. കൊട്ടാരത്തിലെ പണ്ഡിതനെങ്കിലും രാജഭക്തനായ ആസ്ഥാന ചരിത്രകാരന്റെ
+വരമൊഴിക്കുള്ള ആധികാരികത ഗ്രാമത്തിലെ നിരക്ഷരനെങ്കിലും ‘സ്മൃതി’കാരനായ വൃദ്ധന്റെ വാമൊഴിക്കുണ്ടു്
+എന്നർത്ഥം.
+</p>
+          <p>മലയാളിയുടെ ഇന്നത്തെ സാമൂഹ്യജീവിതം പുതിയകാലത്തു് യന്ത്രങ്ങളുടെയും സാങ്കേതികവിദ്യകളുടെയും
+സ്വാധീനത്തിലാണു്. കൈഫോൺ, കമ്പ്യൂട്ടർ, ഇന്റർനെറ്റ്, ഇ-മെയിൽ, ടെലിവിഷൻ, സിനിമ മുതലായവയുടെ
+സാന്നിധ്യം ഉദാഹരണം. മലയാളി ജനസംഖ്യ ഇപ്പോൾ മൂന്നുകോടി പതിനെട്ടു ലക്ഷമാണു്. ഇവരിൽ കുറെ
+ലക്ഷം കേരളത്തിനു പുറത്തു് ചെന്നൈ, മുംബൈ, ഹൈദരാബാദ്, ദൽഹി, കൊൽക്കത്ത തുടങ്ങിയ മറുനാടൻ
+നഗരങ്ങളിലാണു്. അതിലും കൂടുതൽ ലക്ഷങ്ങൾ ദുബായ്, അബുദാബി, ഖത്തർ, കുവൈത്ത്, അറേബ്യ,
+ബഹറൈൻ, ഒമാൻ, അമേരിക്ക, ഇംഗ്ലണ്ട് തുടങ്ങിയ വിദേശരാജ്യങ്ങളിലും. ഇതൊക്കെയായിട്ടും കേരളത്തിലെ
+സെൽഫോൺ കണക്ഷൻ രണ്ടുകോടി എന്നാണു് കണക്കു്! ‘എഴുതുന്ന’ കത്തുകളുടെ എണ്ണം എത്രയോ കുറഞ്ഞു
+പോയതു് സ്വാഭാവികം. അനേകായിരം പോസ്റ്റാപ്പീസുകൾക്കു പുറമേ അനവധിയായ കൊരിയറുകളും
+പ്രവർത്തിക്കുന്ന കാലത്താണു് കത്തിലൂടെ സംവേദനം ചെയ്യേണ്ടതെല്ലാം ടെലിഫോൺ സംഭാഷണമായി
+രൂപാന്തരപ്പെടുന്നതു്. കമ്പ്യൂട്ടർ ടെലിഫോണിന്റെ പണികൂടി എടുത്തുതുടങ്ങിയിരിക്കുന്നു. അതിനകത്തു് ‘വോയ്സ്
+മെയിൽ’ ഉണ്ടു്. ടെലിഫോൺ വിപ്ലവം എന്നതു് വരമൊഴിയുടെ പുറത്തു് വാമൊഴി നേടുന്ന ആധിപത്യം കൂടിയാണു്.
+</p>
+          <p>മറ്റു വാർത്താമാദ്ധ്യമങ്ങൾ സാമാന്യമായി വാമൊഴിയെ മാറ്റിനിർത്തുമ്പോൾ ടെലിവിഷൻ കഴിയുന്നത്ര
+വാമൊഴി ഉപയോഗിക്കുന്നു എന്നതു ശ്രദ്ധിക്കണം. ദിനപത്രങ്ങളിലെ വാർത്ത വരമൊഴിയിലാണു്. ടി. വി.-യിൽ
+വാർത്താവതരണത്തിൽ മാത്രമാണു് വരമൊഴി. മറ്റെല്ലാം വാമൊഴിയിലാണു്. സ്റ്റുഡിയോവിലിരുന്നു്
+‘ഇങ്ങനെയൊരു പുതുമയുണ്ടു്’ എന്നു് അവതാരകർ പറയുന്നതു് വരമൊഴിയിലാണു്. പക്ഷേ,
+സംഭവസ്ഥലത്തുനിന്നു് സംസാരിക്കുന്ന റിപ്പോർട്ടർ, താനോ മറ്റുള്ളവരോ എഴുതിയതു് വായിക്കുകയല്ല, ഒരു
+സംഭവത്തിന്റെ നടുവിൽനിന്നു് താൻ കാണുന്നതും കേൾക്കുന്നതും ‘തൊള്ളയിൽ തോന്നും പോലെ’
+പുറംലോകത്തെ പറഞ്ഞറിയിക്കുകയാണു്. അപൂർണ്ണവാക്യങ്ങൾ, വ്യാകരണപ്പിഴകൾ, ഉച്ചാരണഭേദങ്ങൾ,
+സ്വന്തം വാമൊഴിയുടെ പ്രത്യേകതകൾ എല്ലാം കലർന്നതാണു് ആ റിപ്പോർട്ട്. റിപ്പോർട്ടറുടെയും
+പ്രേക്ഷകരുടെയും ശ്രദ്ധ വള്ളംകളിയിലോ തീവണ്ടിദുരന്തത്തിലോ ഫുട്ബോൾ ഗ്രൗണ്ടിലോ ആയതുകൊണ്ടു് ആ
+ഭാഷയുടെ സാദ്ധ്യതകളിലേക്കോ പരിമിതികളിലേക്കോ അപ്പോൾ ആരുടെയും കണ്ണും കാതും ചെല്ലുകയില്ല.
+</p>
+          <p>പ്രതികരണക്കാരും പ്രതിഷേധക്കാരും പ്രതിരോധക്കാരും പ്രയോജകരും എല്ലാം ആയി സ്ക്രീനിൽ
+തെളിയുന്ന നേതാക്കന്മാരും കലാകാരന്മാരും കച്ചവടക്കാരുമെല്ലാം വാമൊഴിക്കാരാണു്.
+</p>
+          <p>സ്വസ്ഥമായി സ്റ്റുഡിയോയിൽ ഇരുന്നു് അവതരിപ്പിക്കുന്ന പരിപാടികളിലും വാമൊഴി ഇടയ്ക്കും തലയ്ക്കും
+കടന്നുവരുന്നു.
+</p>
+          <p>കമ്പ്യൂട്ടറിനകത്തെ ബ്ലോഗ്, സല്ലാപമുറി (ചാറ്റു് റൂം), ഇ-മെയിൽ മുതലായവയിൽ മലയാളലിപിയിലും
+റോമൻലിപിയിലുമായി സംസാരഭാഷ ധാരാളം ഇടം കണ്ടെത്തുന്നുണ്ടു്.
+</p>
+          <p>പുതിയകാലത്തെ പത്രപ്രവർത്തനം ‘കേട്ടെഴുത്തു്’ എന്നൊരു ശാഖയ്ക്കു രൂപം നൽകിയിരിക്കുന്നു.
+സാഹിത്യകാരന്മാരോ രാഷ്ട്രീയനേതാക്കന്മാരോ സാമൂഹ്യപ്രവർത്തകരോ ‘പറയുന്നതു’ കേട്ടു് എഴുതുന്ന
+സമ്പ്രദായമാണിതു്. ഇതു ചിലപ്പോൾ ഫോണിൽ കേട്ടതു് മാത്രമാവും. അത്തരം ‘ലേഖന’ങ്ങളിൽ, അവിടവിടെ
+ചില്ലറ പരിഷ്കാരങ്ങളുണ്ടെന്നതൊഴിച്ചാൽ, വരമൊഴിയെക്കാൾ അധികമുള്ളതു് വാമൊഴിയാണു്.
+അഭിമുഖസംഭാഷണങ്ങളിൽ യാതൊരു പരിഷ്കാരവും കൂടാതെ ‘പറഞ്ഞു കേട്ടതു്’ അപ്പടി എഴുതുന്ന പതിവും
+ഉണ്ടായിവന്നിട്ടുണ്ടു്.
+</p>
+          <p>‘കേട്ടെഴുത്തി’ന്റെ ഈ സമ്പ്രദായം വളർന്നു നമ്മുടെ ഭാഷയിൽ പുതിയതരം ആത്മകഥാരചനയുടെ മണ്ഡലം
+രൂപപ്പെട്ടിരിക്കുന്നു. എഴുത്തും വായനയും പരിചയമില്ലാത്തവരോ പരിശീലിച്ചിട്ടില്ലാത്തവരോ ആയ വ്യക്തികളുടെ
+ആത്മകഥകൾ ഉണ്ടാകുവാൻ അങ്ങനെ അവസരമൊരുങ്ങി. ലൈംഗികത്തൊഴിലാളി നളിനി ജമീല, കള്ളൻ
+മണിയൻപിള്ള, ആദിവാസി നേതാവു് ജാനു, നടി നിലമ്പൂർ ആയിശ, പാട്ടുകാരൻ മൂസ എരഞ്ഞോളി,
+പ്രകൃതിസ്നേഹി പൊക്കുടൻ മുതലായവരുടെ ആത്മകഥകൾ ഉദാഹരണം.
+</p>
+          <p>‘കേട്ടെഴുത്തി’ലൂടെ ഉണ്ടായിവരുന്ന നിരക്ഷരുടെ ആത്മകഥാരചനകൾ മറ്റു നാടുകളിലുമുണ്ടു്.
+ചമ്പൽക്കാടുകളിലെ കൊള്ളക്കാരി <ref target="https://ml.wikipedia.org/wiki/Phoolan_Devi">ഫൂലൻദേവി</ref> യുടെ
+ആത്മകഥ (ഞാൻ ഫൂലൻദേവി) ഉദാഹരണം. പാകിസ്താനിലെ പൗരാവകാശപ്രവർത്തക മുഖ്താർമായിയുടെ
+ആത്മകഥ (മാനത്തിന്റെ പേരിൽ) മറ്റൊരുദാഹരണം. ഇപ്പറഞ്ഞ രണ്ടിനും മലയാളത്തിൽ പരിഭാഷ വന്നിട്ടുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Gabriel.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗബ്രിയേൽ ഗാർസ്യാ മാർകേസ്</figDesc>
+          </figure>
+          <p> പത്രപ്രവർത്തനത്തിലെ ‘കേട്ടെഴുത്തി’ന്റെ ഗംഭീരമായൊരു മാതൃക നേരത്തേ അവതരിപ്പിക്കുന്നതു്
+നോബൽ സമ്മാനജേതാവു് <ref target="https://ml.wikipedia.org/wiki/Gabriel_Garcia_Marquez">ഗബ്രിയേൽ
+ഗാർസ്യാ മാർകേസ്</ref> ആണു്. യൗവനകാലത്തു് പത്രപ്രവർത്തകനായിരുന്നപ്പോൾ
+കപ്പൽച്ചേതത്തിൽപ്പെട്ടു് പതിനാലു ദിവസം കടലിൽ കുടുങ്ങിപ്പോയ നാവികനെക്കുറിച്ചു് അദ്ദേഹം കേട്ടു. ആളെ
+പോയിക്കണ്ടു് മാർകേസ് അയാളുടെ വിചിത്രമായ അനുഭവങ്ങൾ പൂർണ്ണമായും കേട്ടെഴുതി. സത്യസന്ധമായ ആ
+വിവരണമാണു് The Story of Shipwrecked Sailor (1995) എന്നു പേരായി പുറപ്പെട്ട മാർകേസിന്റെ ആദ്യത്തെ
+നോവൽ. ഇതിന്റെ മലയാള പരിഭാഷ ‘കപ്പൽച്ചേതം വന്ന നാവികന്റെ കഥ’ (സാനന്ദരാജ്: നിയോഗം ബുക്സ്,
+കൊച്ചി) 1998-ൽ ഇറങ്ങി. കേരളത്തിലെ കേട്ടെഴുത്തു രീതിയെ ഈ പരിഭാഷ പ്രചോദിപ്പിച്ചിരിക്കാം.
+</p>
+          <p>ഇങ്ങനെ കേട്ടെഴുതുന്ന ആത്മകഥകളിലെല്ലാം ഭാഷാരൂപം വാമൊഴിയായിക്കൊള്ളണമെന്നില്ല.
+പുറപ്പെടുന്നതു് വാമൊഴിയായിട്ടാണെങ്കിലും പുസ്തകാകൃതിയിൽ ചിലതിന്റെ രൂപം വ്യത്യാസപ്പെടാം.
+നളിനിജമീലയുടെ കഥനം വാമൊഴിയിലല്ല; ജാനുവിന്റെതു് വാമൊഴിയിലാണു്.
+</p>
+          <p>വാമൊഴിക്കു് പ്രാധാന്യമുള്ള ഇത്തരം ഏർപ്പാടിനെ വാചികപത്രപ്രവർത്തനം (ഓറൽ ജേർണലിസം) എന്നു
+വിളിക്കാം എന്നു് ഞാൻ കരുതുന്നു.
+</p>
+          <p>ഈയിടെ പുറത്തിറങ്ങിയ ചില സാഹിത്യകൃതികൾ തീർത്തും വാമൊഴിയിലാണു്. അവയിൽ പ്രധാനപ്പെട്ട
+ഒന്നാണു് <ref target="https://ml.wikipedia.org/wiki/Paul_Zacharia">സക്കറിയ</ref> യുടെ
+ലഘുനോവൽ ‘പ്രെയ്സ് ദ ലോഡ്’. മദ്ധ്യകേരളത്തിലെ മീനച്ചിലാറിന്റെ തീരപ്രദേശങ്ങളിൽ താമസിക്കുന്ന
+ക്രിസ്ത്യൻ സമൂഹത്തിന്റെ വാമൊഴിയിലാണു് ഇതിലെ ആഖ്യാനം. മറ്റൊന്നു് <ref target="https://ml.wikipedia.org/wiki/Kamala_Surayya">മാധവിക്കുട്ടി</ref> യുടെ
+കഥാസമാഹാരം ജാനുവമ്മ പറഞ്ഞ കഥകൾ മലബാറിലെ നായർ സമുദായത്തിന്റെ വാമൊഴിയിലാണു്
+കഥാകഥനം മുഴുവൻ.
+</p>
+          <p>ഇന്നത്തെ മലയാളസിനിമയുടെ ഇഷ്ടവിഭവങ്ങളിലൊന്നു് വാമൊഴിയാണു്. തമാശയുണ്ടാക്കാൻ സിനിമക്കാർ
+ഏറ്റവും അധികം ആശ്രയിക്കുന്നതു് പ്രാദേശികമോ സാമുദായികമോ ആയ മൊഴിഭേദങ്ങളെയാണു്.
+കോഴിക്കോട്ടെ മുസ്ലിമിന്റെ (<ref target="https://ml.wikipedia.org/wiki/Mamukkoya">മാമുക്കോയ</ref>) തൃശൂരിലെ
+ക്രിസ്ത്യാനിയുടെയും (<ref target="https://en.wikipedia.org/wiki/Innocent_(actor)">ഇന്നസെന്റ്</ref> )
+തിരുവനന്തപുരത്തെ നായരുടെയും (<ref target="https://ml.wikipedia.org/wiki/Indrans">ഇന്ദ്രൻസ്</ref> ) ഭാഷണരീതികളുടെ
+അവതരണം എത്ര ആവർത്തിച്ചിട്ടും നമുക്കു് മടുത്തിട്ടില്ല. രാജമാണിക്യം എന്ന സിനിമയിലെ താരം <ref target="https://ml.wikipedia.org/wiki/Mammootty">മമ്മൂട്ടി</ref> യല്ല,
+തിരുവനന്തപുരത്തെ വെഞ്ഞാറമൂട് എന്ന പ്രദേശത്തെ വാമൊഴിയാണു്!
+</p>
+          <p>ചുരുക്കം ഇതാണു്:
+</p>
+          <p>സാങ്കേതികവിദ്യകളും യന്ത്രവത്കരണവും ഉത്പാദിപ്പിക്കുന്ന മാധ്യമവത്കരണം നമ്മുടെ വാമൊഴിക്കു്
+മേൽക്കൈ നേടിക്കൊടുത്തുകൊണ്ടിരിക്കുകയാണു്. അതു് സമകാലിക സമൂഹത്തിലെ
+ജനാധിപത്യവത്കരണത്തിന്റെ സാദ്ധ്യതകൾ വിപുലീകരിക്കുന്നുണ്ടു്.
+</p>
+          <p>(കേരള സർവ്വകലാശാലയിലെ മലയാളവിഭാഗം 2010 ഡിസംബർ ഒന്നാം തീയ്യതി കാര്യവട്ടത്തു് സംഘടിപ്പിച്ച
+ഭാഷാചർച്ചയിൽ അവതരിപ്പിച്ച പ്രബന്ധം.)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Adhunikoththarakalaththe
+Vamozhi (ml: ആധുനികോത്തരകാലത്തെ വാമൊഴി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Adhunikoththarakalaththe Vamozhi, എം. എൻ. കാരശ്ശേരി, ആധുനികോത്തരകാലത്തെ വാമൊഴി,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 21, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Willem_van_Mieris__An_Old_Man_Reading.JPG">An Old Man Reading,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Willem_van_Mieris">Willem van
+Mieris</ref>  (1662–1747). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-vamozhi.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-vamozhi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

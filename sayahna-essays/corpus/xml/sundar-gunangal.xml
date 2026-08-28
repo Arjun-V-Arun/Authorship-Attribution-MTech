@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മനുഷ്യന്റെ ഗുണങ്ങളിന്മേൽ ഒരു
+ഭ്രാന്താശുപത്രി</title>
+          <title xml:lang="en" type="main">Manushyante Gunaganangalinmel Oru
+Bhranthasupathri</title>
+        </title>
+        <author>Sundar</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">November 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is in the public domain. The text encoding and editorial notes
+were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മനുഷ്യന്റെ ഗുണങ്ങളിന്മേൽ ഒരു
+ഭ്രാന്താശുപത്രി</title>
+              <title xml:lang="en" type="main">Manushyante Gunaganangalinmel Oru
+Bhranthasupathri</title>
+            </title>
+            <author>Sundar</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sundar</term>
+          <term>Manushyante Gunaganangalinmel Oru Bhranthasupathri</term>
+          <term>സുന്ദര്‍</term>
+          <term>മനുഷ്യന്റെ ഗുണങ്ങളിന്മേൽ ഒരു ഭ്രാന്താശുപത്രി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Children_Feeding_Pigeons_in_the_Park.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Joors__Children_Feeding_Pigeons_in_the_Park.jpg">Children Feeding Pigeons in the
+Park,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Eug%C3%A8ne_Joors">Eugène
+Joors</ref>  (1850–1910). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മനുഷ്യന്റെ ഗുണങ്ങളിന്മേൽ ഒരു ഭ്രാന്താശുപത്രി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സുന്ദര്‍</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മനുഷ്യന്റെ ഗുണങ്ങളിന്മേൽ ഒരു ഭ്രാന്താശുപത്രി</head>
+        <div type="lsection">
+          <p style="noindent">ഇൻസ്റ്റിറ്റ്യൂട്ട് ഒഫ് മെന്റൽ ഹെൽത്ത്, മദ്രാസ്. നിംഹാൻസ് ഒരു നാഷണൽ
+ഇൻസ്റ്റിറ്റ്യൂട്ടല്ലേ, അവിടെ ഇതൊക്കെ സാദ്ധ്യമാകും എന്നാവും കേരളത്തിലെ മാനസികരോഗാശുപത്രിയധികൃതർ
+പറയുക. പക്ഷേ, മദ്രാസിലെ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഒഫ് മെന്റൽ ഹെൽത്തോ? ഇതു് തമിഴ്‌നാടു് സംസ്ഥാന
+ഗവണ്മെന്റിന്റേതല്ലേ?
+</p>
+          <p>*****
+</p>
+          <p>ആശുപത്രിയുടെ ഗേറ്റ് മലർക്കെ തുറന്നുകിടക്കുന്നു. ആശുപത്രി പരിസരത്തെങ്ങും വെള്ള ട്രൗസറും ഷർട്ടുമിട്ട
+രോഗികൾ നടക്കുന്നതും പണിയെടുക്കുന്നതും കാണാം. ഒരുപക്ഷേ, വസ്ത്രത്തിനു് വെണ്മ കുറവാകാം. പക്ഷേ,
+ഇവർ വസ്ത്രം ധരിച്ചിരിക്കുന്നു. ഇവർക്കു് ഇവിടെ തൊഴിൽചെയ്യാം. സംഗീതം കേൾക്കാം. ക്യാമ്പസ്സിൽ
+സ്വതന്ത്രമായി നടക്കാം. ഇവർ ഡ്രില്ലിൽ പങ്കെടുക്കണം. ആയിരത്തിയഞ്ഞൂറോളം രോഗികളുണ്ടിവിടെ. ഇവിടെ
+ചികത്സിക്കാൻ ഇരുപത്തിയഞ്ചു് സൈക്യാട്രിസ്റ്റുകൾ, ഇരുപത്തിനാലു് സോഷ്യൽ വർക്കേഴ്സ്, മൂന്നു്
+റിക്രിയേഷണൽ തെറപ്പിസ്റ്റുകൾ, മൂന്നു് ഓണററി സർജന്മാർ, അഞ്ചു് പെയ്ഡ് സർജന്മാർ… നൂറ്റിയെഴുപതു്
+സ്റ്റാഫ് നേഴ്സുമാരുണ്ടത്രെ; അഞ്ഞൂറു് ലാസ്റ്റ്ഗ്രേഡ് ജീവനക്കാരും.
+</p>
+          <p>കുട്ടികളുടെ വാർഡ്, ടി. ബി. പേഷ്യന്റ്സ് വാർഡ് (പുരുഷന്മാർ), ലെപ്രസി വാർഡ്, യൂണിവേഴ്സിറ്റി ബ്ലോക്ക്
+ഫോർ മെൻ, അഡ്മിഷൻ വാർഡ്, ക്രിമിനൽ വാർഡ്, എപ്പിലെപ്റ്റിക് വാർഡ്, ഇ. എസ്. ഐ. കേസസ് ആൻഡ്
+ക്രോണിക് വാർഡ്, ഫീമെയ്ൽ ബ്ലോക്ക്, യൂണിവേഴ്സിറ്റി ബ്ലോക്ക്, ചിൽഡ്രൻസ് വാർഡ്, ക്രോണിക് ആൻഡ്
+ക്രിമിനൽ വാർഡ്, ക്രോണിക് ഫീമെയ്ൽ പേഷ്യന്റ്സ് വാർഡ്, എപ്പിലപ്റ്റിക് വാർഡ് എന്നിങ്ങനെ നിരവധി
+വാർഡുകളുണ്ടു് ഈ ഇൻസ്റ്റിറ്റ്യൂട്ടിൽ.
+</p>
+          <p>ഇവിടെ രോഗികൾക്കു് വേണ്ട ചികിത്സ ലഭിക്കുന്നു.
+</p>
+          <p>ആയിരത്തി എഴുനൂറ്റി തൊണ്ണൂറ്റിനാലിൽ ആരംഭിച്ചു് ആയിരത്തി തൊള്ളായിരത്തി എഴുപതിൽ
+ഇൻസ്റ്റിറ്റ്യൂട്ടായിത്തീർന്ന ഈ ആശുപ്രതിയിൽ വർഷങ്ങൾക്കുമുമ്പേ അടിസ്ഥാനപരമായ മാറ്റങ്ങളുണ്ടായി.
+</p>
+          <p>ആയിരത്തി തൊള്ളായിരത്തി മുപ്പതിൽ ഓക്കുപ്പേഷണൽ തെറപ്പി യൂണിറ്റ് ആരംഭിച്ചു. അവിടെ ബുക്ക്
+ബയന്റിങ്, തുന്നൽ, കൊല്ലപ്പണി, മരപ്പണി, ചൂരൽപ്പണി, നെയ്ത്തു് എന്നിവയ്ക്കുള്ള സൗകര്യങ്ങൾ.
+</p>
+          <p>1956-ൽ ലബോറട്ടറി ആരംഭിച്ചു.
+</p>
+          <p>1962 മുതൽ രോഗികളെ പകൽസമയത്തേക്കു് കൊണ്ടുവിടാനായി ‘ഡേ ഹോസ്പിറ്റൽ’ സൗകര്യം.
+</p>
+          <p>1963-ൽ ചൈൽഡ് ഗൈഡൻസ് ക്ലിനിക്ക്.
+</p>
+          <p>1964-ൽ ഡിപ്പാർട്ടുമെന്റ് ഒഫ് റേഡിയോളജി.
+</p>
+          <p>1965-ൽ എലക്ട്രോ എൻകാഫലോഗ്രഫി ഡിപ്പാർട്ടുമെന്റ്.
+</p>
+          <p>1970-ൽ ന്യൂ സൈക്യാട്രിക് ഓ. പി. ഡിപ്പാർട്ടുമെന്റ്. അതേവർഷംതന്നെ ഇൻഡസ്ട്രിയൽ തെറപ്പി സെന്റർ.
+</p>
+          <p>1973-ൽ ഡെന്റൽ ഡിപ്പാർട്ടുമെന്റ്.
+</p>
+          <p>1985-ൽ ഒരു വിസിറ്റേഴ്സ് ഗാർഡൻ.
+</p>
+          <p>*****
+</p>
+          <p>ഈ ആശുപത്രിയിൽ റിക്രിയേഷൻ സൗകര്യങ്ങളുണ്ടു്. റേഡിയോയുണ്ടു്. ടി. വി.-യുണ്ടു്. ഒരു ലൈബ്രറി, ഒരു
+
+റീഡിങ് റൂം, രണ്ടു് റിക്രിയേഷൻ ഹാൾ, രോഗികൾക്കു് വായിക്കാൻ തമിഴു്, ഇംഗ്ലീഷ് പത്രങ്ങൾ. എല്ലാക്കൊല്ലവും
+വാർഷിക സ്പോർട്സ് മത്സരങ്ങൾ, രോഗികൾക്കു് കളിക്കാൻ സൗകര്യങ്ങൾ.
+</p>
+          <p>മാസത്തിലൊരിക്കൽ സാമൂഹ്യപ്രവർത്തകർ രോഗികളെ ‘ഔട്ടിങ്ങി’നു് കൊണ്ടുപോകുന്നു.
+</p>
+          <p>മനോരോഗികളുടെ പൂന്തോട്ടത്തിൽ രോഗിയുടെ ബന്ധുക്കൾ ആഹാരവുമായി വരുന്നു. രോഗികളുമായി
+സമയം ചെലവഴിക്കുന്നു.
+</p>
+          <p>ഈ ആശുപത്രിയിലെ ഡേ കെയർ സൗകര്യം ഉപയോഗിച്ചു് രാവിലെ എട്ടുമണിക്കു് രോഗിയെ കൊണ്ടുവിട്ടു്
+വൈകിട്ടു് മടക്കിക്കൊണ്ടുപോകുന്ന ബന്ധുക്കളുണ്ടു്. ഡേ ഹോസ്പിറ്റലിൽ ചികിത്സിച്ചിട്ടും അസുഖത്തിനു്
+കുറവില്ലെങ്കിൽ വാർഡുകളിൽ അഡ്മിറ്റ് ചെയ്യും.
+</p>
+          <p>ശാസ്ത്രീയ കാഴ്ചപ്പാടുള്ള ഈ ഇൻസ്റ്റിറ്റ്യൂട്ടിൽ രണ്ടു് ഓ. പി. യൂണിറ്റ്. താഴത്തെ നിലയിലെ ഓ. പി. പുതിയ
+കേസുകളും മുകളിലത്തെ നിലയിലെ ഓ. പി. പഴയ കേസുകളും കൈകാര്യം ചെയ്യുന്നു. ഇവിടെ സ്പെഷ്യൽ
+ക്ലിനിക്കുകൾ: തിങ്കളാഴ്ച ന്യൂറോ സൈക്യാട്രി, ചൊവ്വാഴ്ച ചൈൽഡ് ഗൈഡൻസ് ബ്യൂറോ, ബുധനാഴ്ച ജിറിയാട്രിക്
+ക്ലിനിക്, വ്യാഴാഴ്ച എപ്പിലപ്റ്റിക് ക്ലിനിക്, വെള്ളിയാഴ്ച അഡോളസന്റ് ക്ലിനിക്, ശനിയാഴ്ച ന്യൂറോസിസ് ക്ലിനിക്;
+ഞായറാഴ്ചകളിൽ താഴെത്ത നിലയിലുള്ള ഓ. പി. മാത്രമേ പ്രവർത്തിക്കുന്നുള്ളു.
+</p>
+          <p>സോഷ്യൽ വർക്കേഴ്സ് സൈക്കോസോഷ്യൽ ഡേറ്റാ ശേഖരിക്കുന്നു. സൈക്കോളജിയിൽ
+പോസ്റ്റുഗ്രാജ്വേറ്റുകളായ സൈക്കോളജിസ്റ്റ്സ് സൈക്കോളജി ടെസ്റ്റ് നടത്തുന്നു. ഡോക്ടർമാർ രോഗം
+നിർണ്ണയിക്കുന്നു, ചികിത്സിക്കുന്നു.
+</p>
+          <p>നേഴ്സുമാർ രോഗിയുടെ വൈകാരികതലത്തെക്കുറിച്ചു് ബോധമുള്ളവരാണു്. പലപ്പോഴും
+അടുത്തിടപഴകുന്നതിനാൽ രോഗികളെക്കുറിച്ചു് ഡോക്ടർമാരെക്കാൾ ഇവർക്കറിയാം. ചികിത്സ രോഗിക്കു്
+ഗുണകരമല്ലെങ്കിൽ ഇവർക്കു് അതു പറയാൻ സ്വാതന്ത്ര്യമുണ്ടിവിടെ. പ്രൊഫഷണൽ ചൊരുക്കുകളില്ലാതെ,
+സൈക്യാട്രിസ്റ്റുകളും സൈക്കോളജിസ്റ്റുകളും സൈക്യാട്രിക് സോഷ്യൽ വർക്കേഴ്സും സൈക്യാട്രിക്
+നേഴ്സുമാരും ഇവിടെ രോഗിയെ ചികിത്സിക്കുന്നു. സഹായത്തിനായി മെയ്ൽ, ഫീമെയ്ൽ സാനിറ്ററി
+വർക്കേഴ്സും അറ്റൻഡർമാരും.
+</p>
+          <p>*****
+</p>
+          <p>ഇന്ത്യയിൽ ഈ ആശുപത്രിക്കുമാത്രം അഭിമാനിക്കാവുന്ന ഒരു ഇൻഡസ്ട്രിയൽ തെറപ്പി സെന്റർ. ഇവിടെ
+പണിയെടുക്കുന്ന രോഗികൾക്കു് വേതനം ലഭിക്കുന്നു.
+</p>
+          <p>ഇവിടെ രോഗികൾ ഒരാഴ്ചയിൽ അറുപതിനായിരം ബ്രൗൺ ക്രാഫ്റ്റ് പേപ്പർ കവറുകളുണ്ടാക്കുന്നു. ദേവി
+കരുമാരിയപ്പൻ കോവിലിലേക്കും ചിന്താമണി സൂപ്പർമാർക്കറ്റിലേക്കും കവറുകൾ ഉണ്ടാക്കിക്കൊടുക്കുന്നു.
+</p>
+          <p>ബേക്കറി സെക്ഷനിൽ ബ്രെഡ്, ബൺ, കേക്ക്, ബിസ്ക്കറ്റ് എന്നിവയുണ്ടാക്കുന്നു. ഒരാഴ്ചയിൽ പതിനായിരം
+ബ്രെഡ്ഡാണു് രോഗികളുണ്ടാക്കുന്നതു്.
+</p>
+          <p>ഇവർ ഇവിടെ ഐ. റ്റി. സി. ബ്രാൻഡ് സോപ്പുണ്ടാക്കി വില്ക്കുന്നു.
+</p>
+          <p>ഇവിടത്തെ നൈലോൺ സെന്ററിൽ ടൗലുകൾ, എംബ്രോയ്ഡറിചെയ്ത നാപ്കിനുകൾ, കുഷൻ കവറുകൾ,
+ഷോപ്പിങ് ബാഗുകൾ, തോൾസഞ്ചികൾ എന്നിവയുണ്ടാക്കുന്നു.
+</p>
+          <p>സോഫ്റ്റ് റെക്സിൻകൊണ്ടു് രോഗികൾ അതിമനോഹരമായ കളിപ്പാട്ടങ്ങളും കൗതുകവസ്തുക്കളുമുണ്ടാക്കുന്നു.
+മുയലുകൾ, പട്ടികൾ, ഒട്ടകങ്ങൾ, കുതിരകൾ…
+</p>
+          <p>ഇവ ആശുപ്രതിയിലെ ഐ. റ്റി. സി.-യിൽനിന്നും മൗണ്ട്റോഡിലെ വി. റ്റി. ഐ.-യിൽനിന്നും
+പൊതുജനങ്ങൾക്കു് വാങ്ങാവുന്നതാണു്.
+</p>
+          <p>ഇൻഡസ്ട്രിയൽ തെറപ്പി സെന്ററിൽ രോഗികൾ ബ്രിട്ടീഷ് പെയ്ന്റ്സിനുവേണ്ടി പെയ്ന്റ് പായ്ക്കു ചെയ്തു്
+ലേബൽ ചെയ്യുന്നു.
+</p>
+          <p>ഈ ആശുപ്രതിയിലെ കഫേറ്ററിയ നടത്തുന്നതു് രോഗികളാണു്.
+
+</p>
+          <p>നിങ്ങൾക്കു് വിശ്വാസമാവില്ല. പക്ഷേ, റെക്സിൻകൊണ്ടുണ്ടാക്കിയ കറുത്ത പട്ടിക്കുട്ടിയുടെ കഴുത്തിൽ നീണ്ട
+ചുവന്ന റിബ്ബൺകെട്ടി, കത്രികകൊണ്ടു് ആ റിബ്ബൺ മുറിച്ചുതന്നതു് ഒരു രോഗിണിയാണു്. ആ ആംഗ്ലോ ഇന്ത്യൻ
+സ്ത്രീയുടെ കണ്ണുകളിലെ തിളക്കവും സന്തോഷവും മറക്കാനാവില്ല.
+</p>
+          <p>ആ ഒരു നിമിഷത്തിനായി ഐ. റ്റി. സി. എന്ന ആശയത്തിന്റെ ഉടമയായ ഡോക്ടർ ശാരദാമേനോനു് നന്ദി.
+ഐ. റ്റി. സി.-യുടെ ഡയറക്റ്ററായ ഡോക്ടർ പീറ്റർ ഫെർണാണ്ടസിനും നന്ദി.
+</p>
+          <p>*****
+</p>
+          <p>മദ്രാസ് ഇൻസ്റ്റിറ്റ്യൂട്ട് ഒഫ് മെന്റൽ ഹെൽത്തിനെക്കുറിച്ചു പറയവേ, സ്കാർഫിനെക്കുറിച്ചു പറയാതെ വയ്യ.
+ഇന്ത്യൻ മാനസികരോഗികളുടെ ദുരന്തത്തെക്കുറിച്ചുള്ള ബോധവും അവരോടുള്ള കാരുണ്യവുമാണു് സ്കാർഫ്
+എന്ന സംഘടനയ്ക്കു രൂപംനൽകിയതു്.
+</p>
+          <p>മാനസികരോഗങ്ങളിൽ ഏറ്റവും തളർത്തുന്ന സ്കിസോഫ്രേനിയ എന്ന രോഗത്തെക്കുറിച്ചു് പഠിക്കാനും
+സ്കിസോഫ്രേനിയ രോഗികളെ ചികിത്സിക്കാനും പുനരധിവസിപ്പിക്കാനുമായി ഒരു സംഘടന: സ്കാർഫ്
+സ്കിസോഫ്രേനിയ റിസർച്ച് ഫൗണ്ടേഷൻ (ഇന്ത്യ).
+</p>
+          <p>പതിേനഴുവർഷം മദ്രാസ് മാനസികേരാഗാശുപ്രതിയിലെ സൂപ്രണ്ടായിരുന്നു ഡോ. ശാരദാമേനോൻ.
+അവർക്കാവുന്നതെല്ലാം അവരവിടെ ചെയ്തു. അതൊരു നല്ല ആശുപത്രിയാക്കി. മരുന്നു് ലഭ്യമാക്കി; രോഗികളുടെ
+അഡ്മിഷനും ഡിസ്ചാർജും ശാസ്ത്രീയമാക്കി. ചികിത്സ ഉറപ്പുവരുത്തി. ഓക്കുപ്പേഷണൽ തെറപ്പി യൂണിറ്റ്
+ആരംഭിച്ചു. ഇന്ത്യയിലാദ്യമായി മനോരോഗികൾക്കായി ഒരു ഇൻഡസ്ട്രിയൽ തെറപ്പി സെന്റർ ആശുപത്രിയിൽ
+തുടങ്ങി.
+</p>
+          <p>മനസ്സിൽ മുമ്പേ കൊണ്ടുനടന്ന സ്കാർഫ് എന്ന ആശയത്തിനു് അവർ ആയിരത്തി തൊള്ളായിരത്തി
+എൺപത്തിനാലിൽ സംഘടനയുടെ രൂപംനൽകി. ഡോക്ടറുടെ മദ്രാസിലുള്ള വീട്ടിൽ ഏറെ നേരം
+മനോരോഗികളെക്കുറിച്ചും സ്കാർഫിനെക്കുറിച്ചും അവർ സംസാരിച്ചു.
+</p>
+          <p>തുടക്കത്തിലേ കണ്ടുപിടിച്ചു് ചികിത്സിക്കാമെങ്കിൽ സ്കിസോഫ്രേനിയ ഭേദമാക്കാനാവും. പക്ഷേ, നമ്മുടെ
+സമൂഹത്തിലാർക്കും ഉറ്റവർക്കു് രോഗമുണ്ടെന്നു് അംഗീകരിക്കാൻ വയ്യ. വീട്ടുകാരറിയുന്നില്ല, സ്കൂളിലെ
+അദ്ധ്യാപകരറിയുന്നില്ല. അവർ ഒരു ജനറൽ ഫിസിഷ്യനെ കാണിക്കുന്നു; എഴുതുന്ന ടോണിക്
+വാങ്ങിക്കൊടുക്കുന്നു.
+</p>
+          <p>ചികിത്സ ലഭിക്കുന്നില്ലെങ്കിൽ ഈ രോഗം ബാധിച്ചയാൾക്കു് എന്തെങ്കിലും ചെയ്യാനുള്ള ഇച്ഛയും കരുത്തും
+നഷ്ടെപ്പടുന്നു. കുടുംബവുമായി അയാൾക്കു് പൊരുത്തപ്പെടാനാവില്ല. ആരുമായും അയാൾക്കു്
+പൊരുത്തപ്പെടാനാവില്ല. വീട്ടുകാർക്കു് അയാളെ ഇഷ്ടമാവില്ല; അയാൾക്കു് സമൂഹെത്തയും വീട്ടുകാെരയും.
+സ്വന്തമാെയാരു ലോകത്തിൽ, ശബ്ദങ്ങൾ കേട്ടു് അയാൾ കഴിയുന്നു. തിരിച്ചുവരാനാവാത്ത ഒരു യാത്ര.
+പലപ്പോഴും ഒരു വെജിറ്റബിൾ അസ്തിത്വം. ഒരു ആത്മഹത്യയോ, ആത്മഹത്യാശ്രമമോ. ഇവർക്കു വേണ്ടതു്
+മരുന്നുകളും കൗൺസലിങ്ങും ഫാമിലി തെറപ്പിയും റീഹാബിലിറ്റേഷനുമാണു്. ഇവർക്കു വേണ്ടതു് ഇവർ
+മനുഷ്യരാണെന്ന അംഗീകാരമാണു്; മനസ്സിലാക്കാനുള്ള ശ്രമമാണു്. ചെയ്യാനൊരു ജോലിയും അതിൽനിന്നുള്ള
+വേതനവും അംഗീകാരവുമാണു്.
+</p>
+          <p>സമൂഹത്തിനു് ഇന്നാവശ്യം ഈ രോഗത്തെക്കുറിച്ചുള്ള പഠനങ്ങളാണു്. നമുക്കിന്നാവശ്യം ഇവരെ
+ചികിത്സിക്കാനുതകുന്ന സെന്ററുകളാണു്.
+</p>
+          <p>സാമ്പത്തികമായി കഴിവുള്ള, സോഷ്യൽ സപ്പോർട്ടില്ലാത്ത രോഗികളുണ്ടു്. സോഷ്യൽ സപ്പോർട്ടുള്ള,
+സാമ്പത്തികമായി കഴിവില്ലാത്ത രോഗികളുണ്ടു്. ഇതു് രണ്ടുമില്ലാത്ത രോഗികളും.
+</p>
+          <p>ആശുപത്രിയിൽനിന്നു് ചികിത്സലഭിച്ചു് പുറത്തിറങ്ങുന്ന സ്കിസോഫ്രേനിയാ രോഗി എന്തുചെയ്യും?
+എവിടെപ്പോകും? ഈ രോഗം ബാധിച്ചു് പരീക്ഷയെഴുതാൻ പറ്റാത്ത വിദ്യാർത്ഥി അടുത്ത പരീക്ഷവരെയുള്ള
+കാലയളവു് എങ്ങനെ ചെലവാക്കും?
+</p>
+          <p>ഇവേരാടു് കരുണകാട്ടാൻ, ഇവർക്കുവേണ്ട സൈക്യാ്രടിക് ടെസ്റ്റ് നടത്താൻ, ചികിത്സ ലഭ്യമാക്കാൻ,
+ഇവരെ തൊഴിലുകൾ പരിശീലിപ്പിക്കാൻ, തൊഴിലുകളിലേർപ്പെടുത്താൻ, ജനങ്ങളെ ഈ അസുഖത്തെക്കുറിച്ചു്
+ബോധവന്മാരാക്കാൻ, ഇവരോടു് സംസാരിക്കാൻ, പ്രശ്നങ്ങൾ മനസ്സിലാക്കാൻ, ഇവരുടെ കുടുംബങ്ങൾക്കു വേണ്ട
+അറിവു നല്കാൻ ഒരു സംഘടന അതാണു് സ്കാർഫ്. ഇതിൽ നമ്മളറിയുന്ന ശ്രീ ചിത്തിരതിരുനാൾ
+
+ഇൻസ്റ്റിറ്റ്യൂട്ടിലെ ഡോ. എം. എസ്. വല്യത്താനുണ്ടു്. സംഗീത സംവിധായകനായ എം. ബി. ശ്രീനിവാസനുണ്ടു്.
+മാലാഖയെപ്പോലൊരു സ്ത്രീ എന്നു് ഒരു സുഹൃത്തു് വിശേഷിപ്പിച്ച ഡോ. ശാരദാമേനോനുണ്ടു്.
+</p>
+          <p>മദ്രാസ് മെന്റൽ ഇൻസ്റ്റിറ്റ്യൂട്ടിലെ ഐ. റ്റി. സി. അടുത്തിടെ സ്കാർഫ് ഏറ്റെടുത്തു.
+</p>
+          <p>നിങ്ങൾക്കു് സ്കാർഫിനെ സാമ്പത്തികമായി സഹായിക്കാം. സ്കിസോഫ്രേനിയ രോഗികളുടെ കുട്ടികളുടെ
+വിദ്യാഭ്യാസം സ്പോൺസർ ചെയ്യാം. റിസർച്ച് പ്രൊജക്ടുകളോ വർക്ക്ഷോപ്പുകളോ സ്പോൺസർ ചെയ്യാം.
+ഒരു മെമ്പറോ വോളന്ററിയായോ ആകാം.
+</p>
+          <p>സ്കാർഫിന്റെ വിലാസം: സ്കാർഫ് (ഇന്ത്യ), R 7A നോർത്ത് മെയ്ൻ റോഡ്, അണ്ണാനഗർ വെസ്റ്റ്
+(എക്സ്റ്റെൻഷൻ), ചെന്നൈ 600 101, തമിഴ്‌നാടു്.
+</p>
+          <p>നമുക്കു് സ്കാർഫുമായി സഹകരിക്കാം. ഇവിടെ സ്കാർഫ് പോലെയുള്ള സംഘടനകൾക്കു് രൂപം നല്കാം.
+സ്കാർഫിന്റെ യൂണിറ്റുകൾ തുടങ്ങാൻ ഡോ. ശാരദാമേനോനെ നിർബ്ബന്ധിക്കാം. അതിനുവേണ്ട ഒത്താശ
+ചെയ്യാം. മാനസികരോഗികളോടുള്ള സാമൂഹ്യ അയിത്തം മാറ്റാം. അവരോടു് കരുണകാട്ടാം. അവരുടെ
+കുടുംബങ്ങളോടും. നിസ്സഹായരായ രോഗികളും അവരുടെ കുടുംബങ്ങളും ഇത്രയും പരിഗണനയെങ്കിലും
+അർഹിക്കുന്നില്ലേ?
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">സുന്ദര്‍</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sundar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: ഏപ്രിൽ 23, 1953, തിരുവനന്തപുരം.
+</p>
+          <p>മരണം: നവംബർ 12, 2016 (വയസ്സ് 63), സിഡ്നി, ഓസ്ട്രേലിയ.
+</p>
+          <p>തൊഴിൽ: കഥാകൃത്തു്, നിരൂപകന്‍, കാർട്ടൂൺ ചരിത്രകാരൻ.
+</p>
+          <p>പൗരത്വം: ഓസ്ട്രേല്യന്‍.
+</p>
+          <p>വിദ്യാഭ്യാസം: എം.ഫില്‍., വിഷയം: സാമൂഹികവികസനം.
+</p>
+          <p>ജീവിതപങ്കാളി: ഗിരിജ
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">പ്രധാനകൃതികള്‍</head>
+            <list rend="bulleted">
+              <item>Tragic Idiom </item>
+              <item>ഹൃദയത്തിനുള്ളിലെ ഇടം </item>
+              <item>ഈ ഭ്രാന്താലയത്തിനു് നാവുണ്ടായിരുന്നെങ്കില്‍ </item>
+            </list>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Manushyante Gunaganangalinmel
+Oru Bhranthasupathri (ml: മനുഷ്യന്റെ ഗുണങ്ങളിന്മേൽ ഒരു ഭ്രാന്താശുപത്രി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sundar.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sundar,
+Manushyante Gunaganangalinmel Oru Bhranthasupathri, സുന്ദര്‍, മനുഷ്യന്റെ ഗുണങ്ങളിന്മേൽ ഒരു
+ഭ്രാന്താശുപത്രി, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+in the public domain. The text encoding and editorial notes were created and​/or prepared by
+the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Joors__Children_Feeding_Pigeons_in_the_Park.jpg">Children Feeding Pigeons in the
+Park,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Eug%C3%A8ne_Joors">Eugène
+Joors</ref>  (1850–1910). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sundar-gunangal.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sundar-gunangal.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

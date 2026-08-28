@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചങ്ങലക്കു ഭ്രാന്തുപിടിക്കുമ്പോൾ</title>
+          <title xml:lang="en" type="main">Changalaykku Bhranthupidikkumbol</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">April 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചങ്ങലക്കു ഭ്രാന്തുപിടിക്കുമ്പോൾ</title>
+              <title xml:lang="en" type="main">Changalaykku Bhranthupidikkumbol</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Changalaykku Bhranthupidikkumbol</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ചങ്ങലക്കു ഭ്രാന്തുപിടിക്കുമ്പോൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Fox_in_a_Trap.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Constant_Troyon__Fox_in_a_Trap_-_21.8_-_Museum_of_Fine_Arts.jpg">Fox in a Trap,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/en:Constant_Troyon">Constant
+Troyon</ref>  (1810–1865). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചങ്ങലക്കു ഭ്രാന്തുപിടിക്കുമ്പോൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചങ്ങലക്കു ഭ്രാന്തുപിടിക്കുമ്പോൾ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Moolam_Thirunal_Rama_Varma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശ്രീമൂലം തിരുനാൾ</figDesc>
+          </figure>
+          <p style="noindent"> നമ്മുടെ കാലഘട്ടത്തിലെ ഒരു മഹാ സ്ഥാപനമാകുന്നു കേരള ഹൈക്കോടതി.
+<ref target="https://ml.wikipedia.org/wiki/Swathi_Thirunal">സ്വാതി
+തിരുനാൾ</ref> മഹാരാജാവിന്റെ ഭരണകാലത്തു്, കൊല്ലവർഷം 1010-മാണ്ടിലാണു് (1834) തിരുവിതാംകൂറിൽ
+അപ്പീൽ കോടതി സ്ഥാപിതമായതു്. <ref target="https://en.wikipedia.org/wiki/Moolam_Thirunal">ശ്രീമൂലം തിരുനാളി</ref>
+ന്റെ കാലത്തു് അപ്പീൽകോടതി തിരുവിതാംകൂർ ഹൈക്കോടതിയായി പുനർനാമകരണം ചെയ്യപ്പെട്ടു. 1948-ൽ
+തിരുവിതാംകൂർ-കൊച്ചി സംയോജനത്തോടെ ഹൈക്കോടതിയുടെ ആസ്ഥാനം എറണാകുളമായി. 1956
+നവംബർ 1-നു് ഭാഷാ സംസ്ഥാന രൂപവത്ക്കരണത്തോടൊപ്പം കേരള ഹൈക്കോടതിയും നിലവിൽ വന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Alladi_Krishnaswamy_Iyer.jpg" rendition="gra"/>
+            <figDesc style="thumb">സർ അല്ലടി കൃഷ്ണസ്വാമി അയ്യർ</figDesc>
+          </figure>
+          <p> ബ്രിട്ടീഷ് ഭരണകാലത്തു തന്നെ സുശക്തമായ നീതിന്യായ സംവിധാനം ഇന്ത്യയിൽ നിലവിലുണ്ടായിരുന്നു.
+1950 ജനുവരി 26-നു് നിലവിൽവന്ന ഇന്ത്യൻ ഭരണഘടന, സ്വതന്ത്രവും നിഷ്പക്ഷവുമായ നീതിന്യായ സമ്പ്രദായം
+ഉറപ്പുവരുത്തിയിരിക്കുന്നു. കേന്ദ്ര-സംസ്ഥാന സർക്കാറുകൾ തമ്മിലുള്ള തർക്കങ്ങൾ പരിഹരിക്കാനും
+നിയമനിർമാണസഭകളുടെയും ഭരണകർത്താക്കളുടെയും കടന്നാക്രമണങ്ങളിൽ നിന്നു് പൗരാവകാശങ്ങളെ
+കാത്തുസൂക്ഷിക്കാനും പ്രതിജ്ഞാബദ്ധമാണു് സുപ്രീംകോടതി. ലോകത്തിലെ ഏറ്റവും ശക്തമായ നീതിപീഠമാണു്
+നമ്മുടെ സുപ്രീംകോടതി എന്നാണു് ഭരണഘടനാ ശിൽപികളിൽ പ്രമുഖനായ <ref target="https://en.wikipedia.org/wiki/Alladi_Krishnaswamy_Iyer">സർ അല്ലടി
+കൃഷ്ണസ്വാമി അയ്യർ</ref> അക്കാലത്തുതന്നെ അവകാശപ്പെട്ടിരുന്നതു്.
+</p>
+          <p>ഓരോ സംസ്ഥാനത്തും ഹൈക്കോടതി ഉണ്ടായിരിക്കണം എന്നു് ഭരണഘടനയുടെ 214-ാം അനുച്ഛേദം
+അനുശാസിക്കുന്നു. സംസ്ഥാന സർക്കാറിനോടും ഹൈക്കോടതി സുപ്രീംകോടതി ചീഫ് ജസ്റ്റിസുമാരോടും
+കൂടിയാലോചിച്ചശേഷം രാഷ്ട്രപതി (ഫലത്തിൽ കേന്ദ്രമന്ത്രിസഭ)യാണു് ഹൈക്കോടതി ജഡ്ജിമാരെ
+നിയമിക്കുന്നതു്. 1993-ലെ സുപ്രീംകോടതി വിധിപ്രകാരം നിയമനകാര്യത്തിൽ സീനിയറായ
+സഹപ്രവർത്തകരോടു് കൂടിയാലോചിക്കാൻ ചീഫ് ജസ്റ്റിസുമാർ നിർബന്ധിതരായി; സുപ്രീംകോടതി ചീഫ്
+ജസ്റ്റിസിന്റെ ഉപദേശമനുസരിച്ചു് ജഡ്ജിമാരെ നിയമിക്കാൻ രാഷ്ട്രപതിയും. അങ്ങനെ, ജഡ്ജിമാരെ ജഡ്ജിമാർ
+തന്നെ നിയമിക്കുന്ന ലോകത്തിലെ ഏകരാജ്യം എന്ന ഖ്യാതിയും ഇന്ത്യക്കുണ്ടായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Swaraj-prakash-gupta.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. പി. ഗുപ്ത</figDesc>
+          </figure>
+          <p> കേവലം നിയമപാണ്ഡിത്യത്തിലുപരി ഹൈക്കോടതി ജഡ്ജിമാർക്കുണ്ടാകേണ്ട വിവിധ ഗുണങ്ങളെപ്പറ്റി
+<ref target="https://en.wikipedia.org/wiki/Swaraj_Prakash_Gupta">എസ്. പി.
+ഗുപ്ത</ref> യുടെ കേസിൽ (1982 എ. ഐ. ആർ., എസ്. സി. 149) ജസ്റ്റിസ് <ref target="https://en.wikipedia.org/wiki/P._N._Bhagwati">പി. എൻ. ഭഗവതി</ref>
+ദീർഘമായി ഉപന്യസിച്ചിട്ടുണ്ടു്. “The appointment of a judge is dependent not merely upon his profession and
+
+functional suitability but also on several other considerations such as honesty, integrity and general pattern
+of behaviour which would ensure dispassionate and objetive adjudication with an open mind, free and
+fearless approach to matters in issue, social acceptability of the person concerned to the high judicial office
+in terms current norms and ethos of the society, commitment to democracy and the rule of law, faith in the
+constitutional objectives indicating his approach towards the preamble and the Directive Principles of state
+Policy, sympathy or absence there or with the constitutional goals and the needs of an activist judicial
+system.”
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PN_Bhagwati.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. എൻ. ഭഗവതി</figDesc>
+          </figure>
+          <p> എപ്രകാരമുള്ള ന്യായാധിപരെയാണു് ഇന്ത്യക്കാവശ്യം എന്നും ജസ്റ്റിസ് ഭഗവതി പറഞ്ഞുവെച്ചിട്ടുണ്ടു്:
+“…We need judges who are alive to the socio-economic realities of Indian life, who are anxious to
+wipe every tear from every eye. who have faith in the constitutional values and who are ready to use law as
+an instrument for achieving the constitutional objectives.” അതേ കേസിൽതന്നെ ഒരു ന്യായാധിപനു്
+
+ആവശ്യംവേണ്ട ഗുണഗണങ്ങൾ എണ്ണിപ്പറഞ്ഞു, ജസ്റ്റിസ് ഡി. എ. ദേശായി. ജസ്റ്റിസുമാരായ <ref target="https://en.wikipedia.org/wiki/Alak_Chandra_Gupta">എ. സി. ഗുപ്ത</ref> യും
+<ref target="https://en.wikipedia.org/wiki/Syed_Murtaza_Fazl_Ali">മുർതാസാ
+ഫസൽ അലി</ref> യും അവരവരുടെ മനോധർമത്തിനൊത്തവിധം ജഡ്ജിമാരുടെ യോഗ്യതകൾ
+നിഷ്കർഷിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_T_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ടി. തോമസ്</figDesc>
+          </figure>
+          <p> പ്രഥമ ജസ്റ്റിസ് കെ. ടി. കോശി മുതൽക്കിങ്ങോട്ടു് പ്രഗല്ഭമതികളായ എത്രയോ ന്യായാധിപരുണ്ടായിട്ടുണ്ടു്.
+കേരള ഹൈക്കോടതിയിൽ. സി. എ. വൈദ്യലിംഗം, <ref target="https://en.wikipedia.org/wiki/K._K._Mathew">കെ. കെ. മാത്യു</ref>, <ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ.
+കൃഷ്ണയ്യർ</ref>, <ref target="https://en.wikipedia.org/wiki/Padmanabhan_Subramanian_Poti">പി.
+സുബ്രഹ്മണ്യം പോറ്റി</ref>, <ref target="https://en.wikipedia.org/wiki/Vazhakkulangarayil_Khalid">വി.
+ഖാലിദ്</ref>, ഡോ. കൊച്ചുതൊമ്മൻ, <ref target="https://ml.wikipedia.org/wiki/K.T._Thomas(Justice)">കെ. ടി.
+തോമസ്</ref> എന്നിങ്ങനെ മലനാട്ടിലും മറുനാട്ടിലും പേരുകേട്ട എത്രയോ പേർ. നീതിനിഷ്ഠരും
+നിർഭയരുമായ ന്യായാധിപന്മാരായിരുന്നു എക്കാലത്തും കേരള ഹൈക്കോടതിയുടെ യശസ്സു കാത്തുസൂക്ഷിച്ചതു്.
+പൊതുജീവിതത്തെയാകമാനം അഴിമതി ഗ്രസിച്ചപ്പോഴും നീതിയുടെ പച്ചത്തുരുത്തായി ഹൈക്കോടതി നിലനിന്നു.
+ഇൻസാഫ് കാ മന്ദിർ ഹേ, യേ ഭഗ്വാൻ കാ ഘർ ഹേ!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/vr_krishna_iyyar.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ആർ. കൃഷ്ണയ്യർ</figDesc>
+          </figure>
+          <p> സമീപകാലത്തു് സുപ്രധാനമായ എത്രയോ വിധിന്യായങ്ങളാണു് കേരള ഹൈക്കോടതിയിൽ
+നിന്നുണ്ടായതു്. ബന്ദും ഹർത്താലും ഗതാഗത തടസ്സമുണ്ടാക്കുന്ന പ്രകടനങ്ങളും നിരോധിച്ചതു്,
+പൊതുസ്ഥലങ്ങളിൽ പുകവലി ശിക്ഷാർഹമാക്കിയതു്, സ്കൂൾ പാർലമെന്റു തെരഞ്ഞെടുപ്പിൽ കക്ഷിരാഷ്ട്രീയം
+പാടില്ലെന്നു വിധിച്ചതു്, പേര്യ മരംമുറിക്കേസ് സി. ബി. ഐ.-ക്കു വിട്ടതു്. പിരിച്ചുവിടപ്പെട്ട ചരിത്ര ഗവേഷണ
+കൗൺസിൽ സർവൈശ്വര്യങ്ങളോടും കൂടി പുനഃസ്ഥാപിച്ചതു്…
+
+</p>
+          <p>പതിറ്റാണ്ടുകൾ കൊണ്ടുനേടിയ സൽപേരു് നഷ്ടപ്പെടാൻ ഒരൊറ്റ അനിഷ്ടസംഭവം ധാരാളം മതി.
+വ്യക്തികൾക്കെന്നപോലെ സ്ഥാപനങ്ങൾക്കും ഈ തത്ത്വം ബാധകമാണു്. ഡിസംബർ 2-ാം തീയതി ഒരു
+ജഡ്ജി ബൈക്കു യാത്രക്കാരനെ കൈയ്യേറ്റം ചെയ്ത സംഭവം സംസ്ഥാനത്തെ നീതിന്യായ
+സ്ഥാപനങ്ങൾക്കുമേൽ കരിനിഴൽ പരത്തിയിരിക്കുന്നു. പട്ടാപ്പകൽ, ആൾത്തിരക്കേറിയ മേനക ജങ്ഷനിൽ
+വെച്ചായിരുന്നു ന്യായാധിപന്റെ പരാക്രമം. ഔദ്യോഗിക വാഹനത്തിനു് സൈഡു കൊടുത്തില്ല എന്നതായിരുന്നു
+ബൈക്കുകാരൻ ചെയ്ത അപരാധം. കോപാകുലനായ ജഡ്ജി കാറിൽനിന്നു് ചാടിയിറങ്ങി പത്രത്തിലച്ചടിക്കാൻ
+കൊള്ളാത്ത ഭാഷയിൽ പുലഭ്യം പറയുകയും (തെറിയുടെ ഡോസു കേട്ടപ്പോൾ പോലീസായിരിക്കുമെന്നാണത്രെ
+പയ്യൻസ് കരുതിയതു്.) ബൈക്കു യാത്രക്കാരന്റെ കരണത്തടിക്കുകയും ചെയ്തുവെന്നാണു് ആരോപണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Padmanabhan_Subramanian_Poti.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സുബ്രഹ്മണ്യം പോറ്റി</figDesc>
+          </figure>
+          <p> ഇന്ത്യൻ ശിക്ഷാ നിയമത്തിലെ വിവിധ വകുപ്പുകൾ പ്രകാരം കുറ്റകരവും ശിക്ഷാർഹവുമാണു് ന്യായാധിപന്റെ
+ചെയ്തികൾ. എന്നാൽ കേസ് റജിസ്റ്റർ ചെയ്യാനോ അന്വേഷണം നടത്താനോ പോലീസ് ഒരുമ്പെട്ടില്ല. സംഭവം
+‘ഒതുക്കി’ത്തീർക്കാനായിരുന്നു ബന്ധപ്പെട്ടവർ ആദ്യം മുതലേ ശ്രമിച്ചതു്. കരണത്തടിച്ചില്ല. കോളറിൽ
+പിടിച്ചതേയുള്ളൂ എന്നാണു് ഹൈക്കോടതി വക്താവു് വാർത്താ ലേഖകരെ അറിയിച്ചതു്. ഒരു ഫർണീച്ചർ
+കടയിലെ സെയിൽസ്മാനു് ഏതു് പരിധിവരെ സമ്മർദത്തെ അതിജീവിക്കാൻ കഴിയും? മറ്റൊരു ജഡ്ജിയുടെ
+ചെംബറിൽ നടന്ന ചർച്ചക്കിടയിൽ, തുടർ നടപടികൾക്കു് തന്റെ കക്ഷി തൽപരനല്ല എന്നു് പരാതിക്കാരന്റെ
+അഭിഭാഷകൻ അറിയിക്കുകയാൽ പ്രൊസിക്യൂഷൻ ഭീഷണി ഒഴിവായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MP_Gangadharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. പി. ഗംഗാധരൻ</figDesc>
+          </figure>
+          <p> ബൈക്കുയാത്രകാരനെ ജഡ്ജി മർദിച്ചതായുള്ള പരാതിയെപ്പറ്റി ഡിസംബർ 3-ാം തീയതിയിലെ
+മലയാളമനോരമ മൗനം പാലിച്ചു. കാരണം സുവ്യക്തം, സുലളിതം: ആരോപണ വിധേയൻ മാമോദീസാ വെള്ളം
+വീണ ക്രിസ്ത്യാനിയാകുന്നു. സെന്റ് തെരേസാസ് കോളേജ് ഹോസ്റ്റലിൽ ദലിത് വിദ്യാർഥിനികൾ
+വിവേചനത്തിനിരയായപ്പോഴും കോഴിക്കോട്ടെ ചില ആതുരാലയങ്ങൾ ആദിവാസികളുടെ വൃക്ക മുറിച്ചു വിറ്റപ്പോഴും
+‘മലയാളത്തിന്റെ സുപ്രഭാതം’ നിശബ്ദത പാലിക്കുകയായിരുന്നല്ലോ? ഇത്തവണയും മൗനം മനോരമക്കു
+ഭൂഷണം. ഡിസംബർ 4-ാം തീയതിയാകുമ്പോഴേക്കും സംഭവത്തിൽ ദുരൂഹതയുണ്ടെന്നു് മനോരമ കണ്ടുപിടിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mukundan_C_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുകുന്ദൻ സി. മേനോൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mukundan_C._Menon">മുകുന്ദൻ സി.
+മേനോന്റെ</ref> ഒറ്റപ്പെട്ട ഉദാഹരണം ഒഴിവാക്കിയാൽ മനുഷ്യാവകാശ പ്രവർത്തകരും മൗനം ഭജിച്ചു.
+ഡി. സി. സി. പ്രസിഡന്റ് <ref target="https://ml.wikipedia.org/wiki/K._P._Dhanapalan">ധനപാലനും</ref>
+സി. പി. എം. ജില്ലാ സെക്രട്ടറി ഗോപിയുമൊഴിച്ചുള്ള രാഷ്ട്രീയക്കാരും തഥൈവ. ഡിസംബർ 11-നു് പി. രാജനും
+ഡോ. കെ. എസ്. രാധാകൃഷ്ണനും മേനക ജങ്ഷനിൽ ഒരു യോഗം നടത്തി ജഡ്ജിയുടെ അതിക്രമത്തെ
+അപലപിച്ചു.
+</p>
+          <p>ഇറാനിലെ ഭൂകമ്പമായാലും പാക്കിസ്ഥാനിലെ പട്ടാള അട്ടിമറിയാണെങ്കിലും ആധികാരികമായി
+അഭിപ്രായം പറയുന്നയാളാണു് ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ.
+കൃഷ്ണയ്യർ</ref>. വിശ്വവിഖ്യാതമായ ബഷീർ കഥയിലെ സഖാവ് മൂക്കന്റെ സ്ഥാനമാണു് കേരളീയ സമൂഹത്തിൽ
+സ്വാമിക്കുള്ളതു്. നിയമവും നീതിശാസ്ത്രവുമായി ബന്ധപ്പെട്ട കാര്യമാണെങ്കിൽ ശൗര്യം കൂടും. മാതൃഭൂമി
+
+പത്രാധിപരുടെ കോടതിയലക്ഷ്യക്കേസിനെപ്പറ്റി അഭിപ്രായം പറഞ്ഞു് സ്വയം കോടതിയലക്ഷ്യ
+നടപടിക്കുവിധേയനായ ധീരപാരമ്പര്യവുമുണ്ടു് സ്വാമിക്കു്. ബൈക്കുയാത്രകാരനെ ജഡ്ജി മർദിച്ചു എന്ന വാർത്ത
+കേട്ടവരൊക്കെ ചോദിച്ചു—അതേ പറ്റി കൃഷ്ണയ്യർ എന്തുപറഞ്ഞു? അദ്ഭുതമെന്നേ പറയേണ്ടു. നീതിയുടെ
+നിത്യചൈതന്യം നിശ്ശബ്ദത പാലിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Balakrishna_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ബാലകൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> അഭിഭാഷക സംഘടനകളുടെ കൂട്ടത്തിൽ, മാർക്സിസ്റ്റ് നിയന്ത്രണത്തിലുള്ള ആൾ ഇന്ത്യാ ലോയേഴ്സ് യൂനിയൻ
+മാത്രമേ ജഡ്ജിയുടെ നടപടിയെ ഉടനടി അപലപിക്കാനുള്ള ധൈര്യം കാട്ടിയുള്ളൂ. നീതിപീഠത്തിനു
+തീരാക്കളങ്കമുണ്ടാക്കിയ ജഡ്ജി തെറ്റുമനസ്സിലാക്കി സ്ഥാനത്തുനിന്നു് പിരിഞ്ഞുപോകാനുള്ള മാന്യത
+കാണിക്കണം, അല്ലാത്തപക്ഷം അദ്ദേഹത്തെ പുറത്താക്കി കർശന നിയമനടപടികൾക്കു വിധേയനാക്കണം
+എന്നാവശ്യപ്പെട്ടു് യൂനിയൻ ജനറൽ സെക്രട്ടറി 3-ാം തീയതി തന്നെ പ്രസ്താവനയിറക്കി. പരാതിക്കാരൻ തുടർ
+നടപടികളിൽ നിന്നു് പിന്മാറിയശേഷവും ലോയേഴ്സ് യൂനിയന്റെ നിലപാടിൽ മാറ്റമില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> ഡിസംബർ 12-നു് ഹൈക്കോർട്ട് അഡ്വക്കേറ്റ് അസോസിയേഷന്റെ അസാധാരണ പൊതുയോഗം
+കരണത്തടി സംഭവത്തെക്കുറിച്ചു് അന്വേഷണം ആവശ്യപ്പെട്ടു പ്രമേയം പാസാക്കി: “ഡിസംബർ 2-നു്
+ഹൈക്കോടതിയിലെ ഒരു ജഡ്ജിയുൾപ്പെട്ട സംഭവം നടന്നതായി പത്രങ്ങളിൽ വന്ന വാർത്തയെ അതീവ
+ഉത്കണ്ഠയോടെയും അമ്പരപ്പോടെയുമാണു് അഭിഭാഷക സമൂഹം വീക്ഷിക്കുന്നതു്. നിയമ സമൂഹത്തെ ഒട്ടാകെ
+ബാധിക്കുന്നതിനാലും അഭിഭാഷകർ കോടതിയിലെ ഉത്തരവാദപ്പെട്ട ഉദ്യോഗസ്ഥരായതിനാലും നീതിന്യായ
+വ്യവസ്ഥയിൽ വിശ്വാസമുള്ള ജനം സത്യം അറിയേണ്ടതിനാലും ചീഫ് ജസ്റ്റിസ് അന്വേഷണം നടത്തണമെന്നു്
+അസോസിയേഷൻ ആവശ്യപ്പെടുന്നു. ഹൈക്കോടതിയിലെ ഒരു ജഡ്ജിയുടെ സാന്നിധ്യത്തിൽ തർക്കം
+ഒത്തുതീർന്നതായി പത്രത്തിൽ വാർത്ത കണ്ട സാഹചര്യത്തിൽ സത്യാവസ്ഥ വെളിപ്പെടേണ്ടതു് ആവശ്യമാണു്.
+ജഡ്ജിയും ബൈക്ക് യാത്രക്കാരനും തമ്മിലുള്ള കേവല തർക്കമായി സംഭവത്തെ കാണാനാവില്ല. ഈ സംഭവം
+സമാനതകളില്ലാത്തതാണു്. നീതിപീഠത്തിന്റെ നിർമലതയിലും നീതി നടപ്പാക്കുന്നവരുടെ വിശ്വാസ്യതയിലും
+അസോസിയേഷൻ അതീവ താൽപര്യം പ്രകടിപ്പിക്കുന്നു.”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/J_Jayalalithaa.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജയലളിത</figDesc>
+          </figure>
+          <p> ഭരണഘടനയുടെ 219-ാം അനുച്ഛേദപ്രകാരം ഓരോ ജഡ്ജിയും സ്ഥാനമേൽക്കുമ്പോൾ നിർദിഷ്ടമായ
+പ്രതിജ്ഞയെടുക്കേണ്ടതുണ്ടു്. പ്രതിജ്ഞയുടെ പൂർണരൂപം ഇതാണു്: “… ആയ ഞാൻ
+ഹൈക്കോടതിയിലെ ഒരു ജഡ്ജിയായി നിയമിക്കപ്പെട്ടിരിക്കുന്നതിനാൽ നിയമംവഴി നിലവിൽ വന്ന ഇന്ത്യൻ
+ഭരണഘടനയോടു് നിർവ്യാജമായ കൂറും വിശ്വസ്തതയും പുലർത്തുമെന്നും എന്റെ ഉദ്യോഗത്തിന്റെ കർത്തവ്യങ്ങൾ
+മുറപ്രകാരവും വിശ്വസ്തതയോടുകൂടിയും എന്റെ കഴിവിന്റെയും അറിവിന്റെയും നിർണയശക്തിയുടെയും പരമാവധി
+ഭീതിയോ പക്ഷപാതമോ പ്രീതിയോ വിദ്വേഷമോ കൂടാതെ അനുഷ്ഠിക്കുമെന്നും ഭരണഘടനയും നിയമങ്ങളും
+ഉയർത്തിപ്പിടിക്കുമെന്നും ദൈവനാമത്തിൽദൃഢമായി പ്രതിജ്ഞ ചെയ്തുകൊള്ളുന്നു.”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Bhimrao_Ambedkar.jpg" rendition="gra"/>
+            <figDesc style="thumb">അംബേദ്കർ</figDesc>
+          </figure>
+          <p> ഭരണഘടനയും നിയമങ്ങളും ഉയർത്തിപ്പിടിക്കാൻ പ്രതിജ്ഞാബദ്ധനായ ഒരാൾ, അതും
+പൗരാവകാശങ്ങളുടെ കാവൽഭടൻ, പട്ടാപ്പകൽ നടുറോഡിൽ നൂറുകണക്കിനാളുകൾ നോക്കിനിൽക്കെ നിയമം
+കൈയിലെടുക്കുമ്പോൾ, നിയമവാഴ്ചയെയും നീതിന്യായ സമ്പ്രദായത്തെയുംപറ്റി ജനങ്ങൾക്കുള്ള മതിപ്പു്
+പപ്പടവടയാകും. നിയമത്തിനു മുമ്പിൽ എല്ലാ പൗരന്മാരും സമന്മാരാനെന്നും നിയമങ്ങളുടെ പരിരക്ഷ എല്ലാർക്കും
+ഒരുപോലെയുണ്ടാകുമെന്നും ഭരണഘടനയുടെ 14-ാം അനുച്ഛേദം ഉറപ്പു നൽകുന്നുണ്ടു്. നിയമത്തിനുമുമ്പിൽ
+ഹൈക്കോടതി ജഡ്ജിമാർ കുറച്ചധികം സമന്മാരാണെന്നുവരുമോ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/SP_Bharucha.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. പി. ബറൂച്ച</figDesc>
+          </figure>
+          <p> ജുഡിഷ്യറിക്കിപ്പോൾ അപഹാരകാലമാണു്. ന്യായാധിപരിൽ 20 ശതമാനമെങ്കിലും അഴിമതിക്കാരാണെന്നു്
+സുപ്രീംകോടതി ചീഫ് ജസ്റ്റിസ് <ref target="https://en.wikipedia.org/wiki/Sam_Piroj_Bharucha">എസ്. പി.
+ബറൂച്ച</ref> വെളിപ്പെടുത്തിയിട്ടു് അധികം കാലമായില്ല. ബറൂച്ചയുടെ മുൻഗാമികളായ <ref target="https://en.wikipedia.org/wiki/Kamal_Narain_Singh">കെ. എൻ.
+സിംഗ്</ref>, <ref target="https://en.wikipedia.org/wiki/Aziz_Mushabber_Ahmadi">എ. എം.
+അഹ്മദി</ref>, <ref target="https://en.wikipedia.org/wiki/Madan_Mohan_Punchhi">എം. എം.
+പുഞ്ചി</ref> എന്നിവരൊക്കെ ആരോപണവിധേയരായിരുന്നു. ചീഫ് ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/A.S.Anand">എ. എസ്. ആനന്ദി</ref> ന്റെ
+ഭാര്യയും അമ്മായിയമ്മയും ചേർന്നു്, മധ്യപ്രദേശിലെ ഗുണെ ജില്ലയിൽ 1.24 കോടി രൂപ വിലമതിക്കുന്ന 47,847
+ഹെക്ടർ സ്ഥലം കള്ളക്കേസുകൊടുത്തു് സർക്കാറിൽ നിന്നു് തട്ടിയെടുത്തു എന്ന ഗുരുതരമായ ആരോപണം
+ഉന്നയിച്ചതു കേന്ദ്ര നിയമമന്ത്രി <ref target="https://en.wikipedia.org/wiki/Ram_Jethmalani">രാംജെത്മലാനി</ref>.
+ആനന്ദിന്റെ ജനനത്തീയതിയെ സംബന്ധിച്ചുമുണ്ടായി സംശയങ്ങൾ. ജെത്മലാനിയെ കുരുതി കൊടുത്തു് <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+നീതിപീഠവുമായുള്ള സൗഹാർദം വീണ്ടെടുത്തു. രേഖകൾ സഹിതം ആരോപണം പ്രസിദ്ധീകരിച്ച <ref target="https://kalchakranews.in">കാൽചക്ര</ref> പത്രാധിപർ വിനീത് നാരായൺ
+കോടതിയലക്ഷ്യ നടപടികൾ നേരിടുകയാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KN_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എൻ. സിംഗ്</figDesc>
+          </figure>
+          <p> പഞ്ചാബ്-ഹരിയാന ഹൈക്കോടതിയിലെ മൂന്ന് ജഡ്ജിമാർ—അമർ ബീർസിംഗ് ഗിൽ, എം. എൽ.
+സിംഗാൾ, മേതാബ് സിംഗ് ഗിൽ—കുപ്രസിദ്ധമായ പഞ്ചാബ് പി. എസ്. സി. ഉദ്യോഗത്തട്ടിപ്പു കേസിൽ
+ആരോപണ വിധേയരായി അന്വേഷണം നേരിടുകയാണു്. ചോദ്യക്കടലാസുകൾ മുൻകൂർ തരപ്പെടുത്തിയും മാർക്കു്
+തിരുത്തിയും അമർബീർഗില്ലിന്റെ മകൾ അമലും സിംഗാളിന്റെ മകൾ സപ്നയും സർക്കാറുദ്യോഗം നേടിയെന്നാണു്
+ആരോപണം. മേതാബ് ഗിൽ അഴിമതിവീരനായ പി. എസ്. സി. ചെയർമാൻ രവി ഇന്ദർപാൽ സിംഗ് സിദ്ദുവിന്റെ
+ഇടനിലക്കാരനായി പ്രവർത്തിച്ചു എന്നാണു് ആക്ഷേപം. ജഡ്ജിമാർക്കെതിരായ ആരോപണം
+തേച്ചുമാച്ചുകളയാൻ പഞ്ചാബ് പൊലീസും മുഖ്യമന്ത്രി <ref target="https://en.wikipedia.org/wiki/Amarinder_Singh">അമരീന്ദർസിംഗും</ref>
+പഠിച്ച പണി പത്തൊമ്പതും പയറ്റിയെങ്കിലും ഫലിച്ചില്ല. പൊലീസ് ശേഖരിക്കുന്ന വിവരങ്ങൾ പത്രങ്ങൾക്കു
+കൈമാറരുതെന്ന ജസ്റ്റിസ് കെ. എസ്. ഗ്രേവാളിന്റെ ഉത്തരവുപോലും വിപരീത ഫലമാണുണ്ടാക്കിയതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AM_Ahmadi.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എം. അഹ്മദി</figDesc>
+          </figure>
+          <p> കർണാടകത്തിൽ നിന്നുള്ള വാർത്തകൾ ഇതിലും വഷളാണു്. അവിടെയും മൂന്നു്
+ന്യായാധിപർ—ഗോപാലഗൗഡ, ചന്ദ്രശേഖരയ്യ, വീരഭദ്രയ്യ—അന്വേഷണം നേരിടുകയാണു്. ഇക്കഴിഞ്ഞ
+നവംബർ 3-നു് രാത്രിയിൽ മൈസൂരിലെ ഒരു റിസോർട്ടിൽ ന്യായാധിപന്മാരെ മൂന്നു് യുവതികളൊടൊപ്പം
+ആളറിയാതെ പോലീസ് പിടികൂടുകയായിരുന്നു. ആളുകളെ തിരിച്ചറിഞ്ഞയുടൻ വിട്ടയക്കുകയും ചെയ്തു.
+രന്ധ്രാന്വേഷികളായ പത്രക്കാർ അതു് കുത്തിപ്പൊക്കി ലൈംഗികാപവാദമാക്കി. ഇപ്രകാരമൊരു സംഭവമേ
+നടന്നിട്ടില്ല എന്നു് പോലീസും റിസോർട്ടുടമയും ആണയിട്ടുപറഞ്ഞിട്ടും പത്രക്കാർ വിടാനുള്ള ഭാവമില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MM_Punchhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. പുഞ്ചി</figDesc>
+          </figure>
+          <p> ലൈംഗികവേഴ്ചക്കു വഴങ്ങിയാൽ ഒരു കേസിൽ നിന്നു് രക്ഷപ്പെടുത്താമെന്ന ദൂതുമായി ഹൈക്കോടതി
+ഡെപ്യൂട്ടി റജിസ്ട്രാറെ ഒരു ലേഡീ ഡോക്ടറുടെ അടുത്തേക്കയച്ചു എന്നാണു് രാജസ്ഥാനിലെ ജസ്റ്റിസ് അരുൺ
+മദനിനെതിരായ ആരോപണം. അവിടെയും അന്വേഷണം നടക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ram_Jethmalani.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാംജെത്മലാനി</figDesc>
+          </figure>
+          <p> കുറ്റാരോപണങ്ങൾ തെളിഞ്ഞാൽ പോലും ഹൈക്കോടതി ജഡ്ജിമാരെ പിരിച്ചുവിടണമെങ്കിൽ
+ഇംപീച്ച്മെന്റ് നടപടി ആവശ്യമാണു്. പാർലമെന്റിന്റെ ഇരുസഭകളും മൊത്തം അംഗങ്ങളുടെ
+പകുതിയിലധികത്തിന്റെയും ഹാജരായി വോട്ടു ചെയ്യുന്നവരിൽ മൂന്നിൽ രണ്ടുഭാഗത്തിന്റെയും ഭൂരിപക്ഷത്തോടെ
+പ്രമേയം പാസാക്കിയാലേ ഇംപീച്ച്മെന്റു് പ്രാവർത്തികമാക്കൂ. 1993-മാണ്ടിൽ, തെളിയിക്കപ്പെട്ട
+കുറ്റാരോപണങ്ങളെ ചൊല്ലി സുപ്രീംകോടതി ജഡ്ജി <ref target="https://en.wikipedia.org/wiki/V._Ramaswami">വി. രാമസ്വാമി</ref>
+യെ ഇംപീച്ചു ചെയ്യാൻ ശ്രമിച്ചു് പാർലമെന്റ് ഇളിഭ്യരായതാണു്. അണ്ണാ ഡി. എം. കെ.-യുടെ പിന്തുണയോടെ <ref target="https://ml.wikipedia.org/wiki/P._V._Narasimha_Rao">നരസിംഹറാവു</ref>
+പ്രധാനമന്ത്രിയായിരിക്കുന്ന കാലം. തമിഴനായ <ref target="https://en.wikipedia.org/wiki/V._Ramaswami">രാമസ്വാമി</ref> യെ
+കുറ്റവിചാരണ ചെയ്യുന്നതു് ദ്രാവിഡരുടെ സ്വയംമര്യാദക്കു് എതിരാണെന്നു് ശെൽവി <ref target="https://ml.wikipedia.org/wiki/Jayalalita">ജയലളിത</ref> വിധിച്ചു.
+നിങ്ങളിൽ അഴിമതിക്കാരല്ലാത്തവർ ഇവനെ കല്ലെറിയട്ടെ. കോൺഗ്രസുകാർ ഒന്നടങ്കം കല്ലു താഴെയിട്ടു.
+ഇംപീച്ച്മെന്റ് പ്രമേയം പാസായില്ല. 1999-ലെ പൊതു തെരഞ്ഞെടുപ്പിൽ രാമസ്വാമി അണ്ണാ ഡി. എം. കെ.
+ടിക്കറ്റിൽ ശിവകാശിയിൽ നിന്നു് ലോക്സഭയിലേക്കു് മൽസരിച്ചു. ഇനം ഇനത്തിൽച്ചേരും എന്നാണല്ലോ?
+എരണ്ട വെള്ളത്തിൽ, അഴിമതിക്കാർ അണ്ണാ ഡി. എം. കെ.-യിൽ. കോൺഗ്രസും മാർക്സിസ്റ്റുപാർട്ടിയും
+ന്യായാധിപശ്രേഷ്ഠനു പിന്തുണ നൽകി. ജനത്തിനു വിവരമില്ലാത്തതുകൊണ്ടു് മറുമലർച്ചി ഡി. എം. കെ.-യിലെ
+ഗോപാലസ്വാമി (വൈകോ)യാണു് ജയിച്ചതു്. ഗോപാലസ്വാമിക്കു് 325829 വോട്ടുകിട്ടിയപ്പോൾ നീതിപതി
+രാമസ്വാമിക്കു 251048, തമിഴ് മാനിലാ കോൺഗ്രസിലെ ഗുണശേഖരനു് 152817, സർവതന്ത്ര സ്വതന്ത്രൻ <ref target="https://en.wikipedia.org/wiki/R._Thamaraikani">താമരക്കനി</ref> ക്കു്
+36977. വൈകോയുടെ ഭൂരിപക്ഷം 74781.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Amarinder_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">അമരീന്ദർസിംഗ്</figDesc>
+          </figure>
+          <p> ബൈക്കുയാത്രക്കാരന്റെ കരണത്തടിച്ചയാളെ പിരിച്ചുവിടണമെങ്കിൽ പക്ഷേ, ഇംപിച്ച്മെന്റിന്റെ
+ആവശ്യമില്ല. 224-ാം അനുച്ഛേദപ്രകാരം നിയമിക്കപ്പെട്ട അഡീഷനൽ ജഡ്ജിയാണു് അദ്ദേഹം. സ്ഥിരം
+ജഡ്ജിമാരുടെ കാര്യത്തിലേ ഇംപീച്ച്മെന്റ് നിർബന്ധമുള്ളൂ.
+</p>
+          <p>അന്വേഷണ വിധേയരായ ജഡ്ജിമാരെ സസ്പെന്റ് ചെയ്യാൻ ഭരണഘടനയിൽ വ്യവസ്ഥയില്ല. (മേതാബ്
+സിംഗ് ഗില്ലിനെ പോലുള്ളവർ ഹൈക്കോടതി ജഡ്ജിമാരാകും എന്നു് സങ്കൽപിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/B._R._Ambedkar">അംബേദ്കറാ</ref>
+ദികളായ ഭരണഘടനാ ശിൽപികൾക്കു കഴിഞ്ഞിരിക്കില്ല.) എന്നാൽ ആരോപണ വിധേയരായ ജഡ്ജിമാരെ
+കേസ് കേൾക്കുന്ന ചുമതലയിൽ നിന്നു് ഒഴിവാക്കാനുള്ള ആർജവം പഞ്ചാബ്-ഹരിയാന ചീഫ് ജസ്റ്റിസ് അരുൺ
+ബി. സഹാര്യ പ്രകടിപ്പിച്ചു. കർണാടകത്തിൽ ആരോപണ വിധേയർ കേസു കേൾക്കരുതെന്നു് ആവശ്യപ്പെടുന്ന
+ഹർജി തള്ളപ്പെട്ടു. ആരോപണം പ്രസിദ്ധീകരിച്ച 14 പത്രസ്ഥാപനങ്ങൾക്കെതിരെ കോടതിയലക്ഷ്യ നടപടി
+വേറെയും നടക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pvnarshimarao.jpg" rendition="gra"/>
+            <figDesc style="thumb">നരസിംഹറാവു</figDesc>
+          </figure>
+          <p> രാജൻ കേസിലെ സത്യവാങ്മൂലം വേണ്ടത്ര സത്യസന്ധമല്ല (…there has been an attempt, at
+suppressing truth than in divulging it) എന്ന ഹൈക്കോടതിയുടെ പരാമർശത്തെത്തുടർന്നാണു് 1977 ഏപ്രിൽ
+25-നു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു്</ref>
+മുഖ്യമന്ത്രിപദം ഒഴിയേണ്ടി വന്നതു്. ‘പഞ്ചാബ് മോഡൽ’ പ്രസംഗം വഴി, മന്ത്രിയെന്ന നിലക്കുള്ള സത്യപ്രതിജ്ഞ
+ലംഘിച്ചു എന്ന നിരീക്ഷണം കോടതി നടത്തുകയാൽ 1985 ജൂൺ 5-നു് <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ആർ.
+ബാലകൃഷ്ണപിള്ള</ref> ക്കും രാജിവെക്കേണ്ടി വന്നു. പ്രായപൂർത്തിയാകുംമുമ്പു് മകളുടെ വിവാഹം
+നടത്തിയതിനു് ശൈശവ വിവാഹ നിയന്ത്രണ നിയമപ്രകാരം പ്രഥമദൃഷ്ട്യാ കേസ് നിലനിൽക്കും എന്ന
+പരാമർശത്താൽ 1986 മാർച്ച് 12-നു് <ref target="https://ml.wikipedia.org/wiki/M.P._Gangadharan">എം. പി.
+ഗംഗാധരനും</ref> മന്ത്രിക്കസേര നഷ്ടമായി.
+</p>
+          <p>നിയമവാഴ്ചയോടു് <ref target="https://ml.wikipedia.org/wiki/M.P._Gangadharan">എം. പി.
+ഗംഗാധരനും</ref> <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ആർ.
+ബാലകൃഷ്ണപിള്ള</ref> ക്കുമുള്ള ബഹുമാനമെങ്കിലും ന്യായാധിപർ കാണിക്കേണ്ടതല്ലേ?
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Changalaykku
+Bhranthupidikkumbol (ml: ചങ്ങലക്കു ഭ്രാന്തുപിടിക്കുമ്പോൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Changalaykku Bhranthupidikkumbol, കെ. രാജേശ്വരി, ചങ്ങലക്കു ഭ്രാന്തുപിടിക്കുമ്പോൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Constant_Troyon__Fox_in_a_Trap_-_21.8_-_Museum_of_Fine_Arts.jpg">Fox in a Trap,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/en:Constant_Troyon">Constant
+Troyon</ref>  (1810–1865). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-bhranth.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-bhranth.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

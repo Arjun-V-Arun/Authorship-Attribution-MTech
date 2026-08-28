@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗുജറാത്ത് ബംഗാളാകുമോ?</title>
+          <title xml:lang="en" type="main">Gujarat Bengalakumo?</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">February 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗുജറാത്ത് ബംഗാളാകുമോ?</title>
+              <title xml:lang="en" type="main">Gujarat Bengalakumo?</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Gujarat Bengalakumo?</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ഗുജറാത്ത് ബംഗാളാകുമോ?</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Vincent_van_GoghBauerin.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh__B%C3%A4uerin_beim_Umgraben2.jpg">A peasant woman digging,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Vincent_van_Gogh">Vincent van
+Gogh</ref>  (1853–1890). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗുജറാത്ത് ബംഗാളാകുമോ?</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗുജറാത്ത് ബംഗാളാകുമോ?</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Indira_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദിരാഗാന്ധി</figDesc>
+          </figure>
+          <p style="noindent"> അഞ്ചു വർഷം ഭരിച്ച പാർട്ടി/മുന്നണി അടുത്ത തെരഞ്ഞെടുപ്പിൽ തോൽക്കണം;
+പ്രതിപക്ഷം അധികാരത്തിലേറണം: 1967 മുതൽ സംസ്ഥാനങ്ങളിലും 1977 മുതൽ കേന്ദ്രത്തിലും ഇതാണു്
+സാമാന്യ നിയമം. 1984-ൽ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> യുടെ
+വധത്തെത്തുടർന്നു് വീശിയടിച്ച സഹതാപതരംഗത്തിൽ കോൺഗ്രസ് അധികാരത്തിൽ തിരിച്ചെത്തിയതും
+1999-ലെ കാർഗിൽ തരംഗത്തിൽ ദേശീയ ജനാധിപത്യ സഖ്യം കൂടിയ ഭൂരിപക്ഷത്തോടെ ജയിച്ചുകയറിയതുമാണു്
+കേന്ദ്രത്തിൽ കണ്ട രണ്ടു് അപവാദങ്ങൾ. സഹതാപതരംഗത്തിനു പിന്നാലെ 1985-ൽ ഉത്തരേന്ത്യൻ
+സംസ്ഥാനങ്ങളിൾ കോൺഗ്രസ് വീണ്ടും അധികാരത്തിൽ വന്നതാണു് അഖിലേന്ത്യാ വ്യാപകമായി അനുഭവപ്പെട്ട
+മറ്റൊരു അപവാദം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunanidhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാനിധി</figDesc>
+          </figure>
+          <p> സംസ്ഥാനങ്ങളിൽ ഭരണകക്ഷി തെരഞ്ഞെടുപ്പു് ജയിച്ചു് അധികാരത്തിൽ തിരിച്ചെത്തൽ അപൂർവമാണു്.
+<ref target="https://ml.wikipedia.org/wiki/M._G._Ramachandran">എം. ജി. ആർ.</ref>
+ജീവിച്ചിരുന്ന കാലത്തോളം തമിഴ്‌നാട്ടിൽ മറ്റൊരു കക്ഷിക്കും ഭൂരിപക്ഷം കിട്ടിയിരുന്നില്ല. ഏഴൈതോഴന്റെ
+കണ്ണടഞ്ഞതും അണ്ണാ ഡി. എം. കെ. അധികാരഭ്രഷ്ടമായി. പിന്നെ, <ref target="https://ml.wikipedia.org/wiki/M._Karunanidhi">കരുണാനിധി</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/Jayalalita">ജയലളിത</ref> യും മാറി
+മാറി ജയിക്കാൻ തുടങ്ങി. ബീഹാറിൽ ലാലു-റാബ്റി ഭരണം 15 കൊല്ലത്തോളം നീണ്ടു. മൂന്നാം തവണ വളരെ
+വിഷമിച്ചും കോൺഗ്രസ് പിന്തുണയോടെയുമാണു് മന്ത്രിസഭയുണ്ടാക്കിയതു്. ഒടുവിൽ ആർ. ജെ. ഡി.-യും തോറ്റു;
+ജെ. ഡി. (യു)-ബി. ജെ. പി. സഖ്യം ബീഹാർ പിടിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Digvijaya_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദിഗ്വിജയസിംഗ്</figDesc>
+          </figure>
+          <p> രണ്ടാം തവണ അധികാരമേറിയവർ ചുരുക്കമായെങ്കിലും ഉണ്ടു്. 1998-ൽ <ref target="https://en.wikipedia.org/wiki/Digvijaya_Singh">ദിഗ്വിജയസിംഗ്</ref>
+മധ്യപ്രദേശിലും 1999 <ref target="https://en.wikipedia.org/wiki/N._Chandrababu_Naidu">ചന്ദ്രബാബു
+നായിഡു</ref> ആന്ധ്രയിലും 2003-ൽ <ref target="https://en.wikipedia.org/wiki/Sheila_Dikshit">ഷീലാദീക്ഷിത്</ref>
+ദൽഹിയിലും 2004-ൽ <ref target="https://en.wikipedia.org/wiki/Naveen_Patnaik">നവീൻ പട്നായിക്</ref>
+ഒറീസയിലും 2006-ൽ <ref target="https://en.wikipedia.org/wiki/Tarun_Gogoi">തരുൺ
+ഗൊഗോയ്</ref> ആസാമിലും ഈ നേട്ടം കൈവരിച്ചവരാണു്. 2004-ൽ അധികാരത്തിൽ തിരിച്ചെത്തിയ
+
+മഹാരാഷ്ട്രയിലെ കോൺഗ്രസ്-എൻ. സി. പി. സഖ്യത്തെ കൂടി ഈ പട്ടികയിൽ ചേർക്കാം—അവരുടെ
+ഭൂരിപക്ഷം തീരേ നേർത്തതാണെങ്കിൽക്കൂടി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/J_Jayalalithaa.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജയലളിത</figDesc>
+          </figure>
+          <p> മേൽ പ്രസ്താവിച്ച സാമാന്യനിയമത്തിനുള്ള ഏറ്റവും വലിയ അപവാദം പശ്ചിമബംഗാൾ ആകുന്നു.
+1967-ലാണു് ബംഗാളിൽ ആദ്യമായി കോൺഗ്രസിതര സർക്കാറുണ്ടായതു്. 1972-ൽ കനത്ത ഭൂരിപക്ഷത്തോടെ
+കോൺഗ്രസ് തിരിച്ചുവന്നു. 1977-ൽ കോൺഗ്രസ് കടപുഴകി, ഇടതുമുന്നണി ബംഗാൾ കീഴടക്കി. അവിടെവെച്ചു്
+സാമാന്യനിയമത്തിന്റെ പണിതീർന്നു. പിന്നീടുനടന്ന ഒരു തെരഞ്ഞെടുപ്പിലും കോൺഗ്രസ് നിലംതൊട്ടിട്ടില്ല.
+റൈറ്റേഴ്സ് ബിൽഡിംഗിനു് മുകളിൽ മുപ്പതാണ്ടിനു ശേഷവും ചെങ്കൊടി പാറുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chandrababu_Naidu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചന്ദ്രബാബു നായിഡു</figDesc>
+          </figure>
+          <p> കേരളം ബംഗാളാകണം എന്നാണു് നമ്മുടെ നാട്ടിലെ സഖാക്കളുടെ ഏറ്റവും വലിയ മോഹം. ഹജൂർ
+കച്ചേരിയുടെ മുകളിൽ എന്നേക്കും ചെങ്കൊടി പാറണം, കൽപാന്തകാലം ഇടതുഭരണം നിലനിൽക്കണം,
+കള്ളവുമില്ല ചതിവുമില്ലാത്ത കാലം, സാക്ഷാൽ മാവേലി നാടുവാണപോലൊരുകാലം. എന്തു ചെയ്യാം?
+അതൊരിക്കലും പ്രാവർത്തികമായില്ല. <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">ഏറമ്പാല കൃഷ്ണൻ
+നായനാർ</ref> <ref target="https://en.wikipedia.org/wiki/Jyoti_Basu">ജ്യോതി
+ബസു</ref> അല്ലാത്തതു കൊണ്ടാകാം, ഇവിടത്തെ വോട്ടർമാർക്കു് വിവരമില്ലാത്തതുകൊണ്ടുമാകാം. 1991-ൽ
+കേരളം ബംഗാളിന്റെ വക്കു വരെയെത്തിയതാണു്. കാലാവധി തികയുംമുമ്പു് നിയമസഭ പിരിച്ചുവിട്ടതു് വലിയ
+ഭൂരിപക്ഷത്തോടെ തിരിച്ചുവരാമെന്ന വീശ്വാസത്തോടെയാണു്. തൊണ്ടിക്കായ് പഴുത്തപ്പോൾ കാക്കക്കു്
+വായ്പ്പുണ്ണായി. ശ്രീപെരുമ്പത്തൂരിൽ ബോംബുപൊട്ടി <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref> മരിച്ചു,
+കേരള നാട്ടിൽ സഹതാപരംഗമുണ്ടായി യൂ. ഡി. എഫ്. ജയിച്ചു. അതിനുശേഷം യാതൊരു പ്രശ്നവുമില്ല. ഇത്തവണ
+ഇടതുമുന്നണിയെങ്കിൽ അടുത്ത തവണ വലതുമുന്നണി, അതിനടുത്ത തവണ വീണ്ടും ഇടതുമുന്നണി…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jyoti_Basu.png" rendition="gra"/>
+            <figDesc style="thumb">ജ്യോതി ബസു</figDesc>
+          </figure>
+          <p> കേരളം ബംഗാളാക്കും എന്നൊരു ഭീഷണി <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയനും</ref> മാറി മാറി മുഴക്കുന്നുണ്ടു്. അതു് മലർപ്പൊടിക്കാരന്റെ മധുരക്കിനാവു മാത്രമാണെന്നു്
+അവർക്കറിയാം; നമുക്കറിയാം. 2011 ആകാൻ കാത്തുനിൽക്കുകയാണു് പൊതുജനം-പുതുപ്പള്ളി <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">കുഞ്ഞൂഞ്ഞി</ref> നെയും
+പാണ്ടിക്കടവത്തു് <ref target="https://en.wikipedia.org/wiki/P._K._Kunhalikutty">കുഞ്ഞാപ്പ</ref>
+യെയും തിരികെക്കൊണ്ടുവരാൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> ബംഗാളിന്റെ വിപരീതപദമാണു് ഗുജറാത്ത്. ബംഗാൾ ഇന്ത്യാ രാജ്യത്തിന്റെ കിഴക്കുഭാഗത്താണെങ്കിൽ
+ഗുജറാത്ത് പടിഞ്ഞാറേ അറ്റത്താണു്. ബംഗാൾ കാർഷിക പ്രധാനം; ഗുജറാത്ത് വ്യവസായ പുരോഗതിക്കു്
+കേൾവികേട്ട സംസ്ഥാനം. ബംഗാൾ ഭരിക്കുന്നതു് പുരോഗമനത്തിന്റെ ഹെഡോഫീസായ മാർൿസിസ്റ്റു പാർട്ടി;
+ഗുജറാത്ത് ഭരിക്കുന്നതു് പരമപിന്തിരിപ്പന്മാരായ ഭാരതീയജനതാപാർട്ടി. വംഗനായകൻ ബുദ്ധദേവ് ബ്രാഹ്മണൻ
+മിനുക്കുവേഷം. ഗുജറാത്തു സിംഹം <ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">നരേന്ദ്രമോഡി</ref>
+പിന്നാക്കസമുദായം കത്തിവേഷം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sheila_Dikshit_Ji.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷീലാദീക്ഷിത്</figDesc>
+          </figure>
+          <p> സമകാലിക രാഷ്ട്രീയത്തിലെ ഏറ്റവും വലിയ തെറിയാണു് ‘ഗുജറാത്താകൽ’. സംഘടിത ഭൂരിപക്ഷം
+അസംഘടിത ന്യൂനപക്ഷത്തെ, സ്റ്റേറ്റിന്റെ സഹായസഹകരണങ്ങളോടെ ഉന്മൂലനം ചെയ്യുക എന്നാണു് ഈ
+അശ്ലീലപദത്തിന്റെ ഏകദേശ അർത്ഥം. നന്ദിഗ്രാമിലെ അക്രമസംഭവങ്ങളോടെ ബംഗാൾ തന്നെയും
+ഗുജറാത്താകുന്നു എന്നാണു് ദോഷൈകദൃക്കുകൾ പറയുന്നതു്.
+</p>
+          <lg>
+            <l> കുടിലുകൊട്ടാരമാകാനുയരുന്നു</l>
+            <l> കടലിരമ്പുന്നു, കൈത്തോട്ടിലെത്തുവാൻ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന <ref target="http://padyashakalangal.blogspot.com/2015/03/blogpost.html">കവിവചനത്തെ</ref> സർവധാ സാധൂകരിച്ചുകൊണ്ടു് ബംഗാൾ ഗുജറാത്തായി മാറുമ്പോൾ,
+ഗുജറാത്ത് ബംഗാളാകാൻ തയാറെടുക്കുന്നു!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajiv_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജീവ്ഗാന്ധി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മോഹൻദാസ്
+ഗാന്ധി</ref>, <ref target="https://ml.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel">വല്ലഭായി
+പട്ടേൽ</ref>, <ref target="https://ml.wikipedia.org/wiki/Morarji_Desai">മൊറാർജി ദേശായി</ref>
+മുതലായ ഗഡാഗഡിയന്മാരായ അഹിംസാവാദികളുടെ മാതൃ സംസ്ഥാനമാണു് ഗുജറാത്ത്. ഒരു കാലത്തു്
+ഗിർവനത്തിലെ സിംഹങ്ങൾകൂടിയും അഹിംസാവാദികളും ശുഭ്ര ഖദർധാരികളുമായിരുന്നു. 1967-ലെ കൊടുങ്കാറ്റിൽ
+കോൺഗ്രസ് കോട്ടകൾ പലതും നിലംപതിച്ചപ്പോൾ <ref target="https://en.wikipedia.org/wiki/Hitendra_Kanaiyalal_Desai">ഹിതേന്ദ്ര
+ദേശായി</ref> എന്നൊരു പുമാനായിരുന്നു മുഖ്യമന്ത്രി. 1969-ൽ കോൺഗ്രസു പിളർന്നപ്പോൾ ഹിതേന്ദ്രനും
+ഭൂരിപക്ഷം എമ്മെല്ലെമാരും <ref target="https://ml.wikipedia.org/wiki/Morarji_Desai">മൊറാർജി</ref>
+ഭായിക്കൊപ്പം സംഘടനാ പക്ഷത്തുനിന്നു. 1971-ലെ ലോൿസഭാ തെരഞ്ഞെടുപ്പിൽ സംഘടനാ കോൺഗ്രസ്
+നിലംപരിശായി. പിന്നാലെ മന്ത്രിസഭയും മൂക്കുകുത്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> 1972-ൽ ഇന്ദിരാ കോൺഗ്രസ് തൂത്തുവാരി. <ref target="https://en.wikipedia.org/wiki/Ghanshyam_Oza">ഘനശ്യാം ഓസ</ref>
+മുഖ്യമന്ത്രിയായി. ഒന്നരക്കൊല്ലത്തിനകം ഘനശ്യാമനെ ഇന്ദിരാജിക്കു് കണ്ടുകൂടാതായി. <ref target="https://en.wikipedia.org/wiki/Chimanbhai_Patel">ചിമൻഭായി പട്ടേൽ</ref>
+പകരക്കാരനായി വന്നു. ചിമൻജി മൊത്തം ഗുജറാത്തുകാരെയും വെറുപ്പിച്ചു. വലിയ പ്രക്ഷോഭത്തിനൊടുവിൽ
+അദ്ദേഹം രാജിവെച്ചുപോകേണ്ടതായിവന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/NaveenPatnaik.jpg" rendition="gra"/>
+            <figDesc style="thumb">നവീൻ പട്നായിക്</figDesc>
+          </figure>
+          <p> 1975 ജൂണിൽ നടന്ന ഇടക്കാല തെരഞ്ഞെടുപ്പിൽ സംഘടനാ കോൺഗ്രസ്, ജനസംഘം, സ്വതന്ത്ര
+സോഷ്യലിസ്റ്റ് പാർട്ടികൾ ജനതാ മുന്നണി രൂപവത്കരിച്ചു് ഇന്ദിരാ കോൺഗ്രസിനോടു് എതിരിട്ടു. അവർക്കു്
+കേവല ഭൂരിപക്ഷം ലഭിച്ചില്ല. എങ്കിലും കക്ഷിരഹിതരെ ചാക്കിട്ടു് മന്ത്രിസഭയുണ്ടാക്കി. <ref target="https://en.wikipedia.org/wiki/Babubhai_J._Patel">ബാബുഭായി
+പട്ടേൽ</ref> മുഖ്യമന്ത്രിയായി. തൊട്ടുപിന്നാലെ അടിയന്തിരാവസ്ഥ വന്നു. ഒമ്പതുമാസമേ കോൺഗ്രസിതര
+മന്ത്രിസഭ നിലനിന്നുള്ളു. ബാബുഭായിയെ അട്ടിമറിച്ചു് ഇന്ദിര <ref target="https://en.wikipedia.org/wiki/Madhav_Singh_Solanki">മാധവ്സിംഗ്
+സോളങ്കി</ref> യെ മുഖ്യമന്ത്രിയാക്കി. 1977-ൽ ഇന്ദിരയും പോയി, സോളങ്കിയും പോയി. <ref target="https://en.wikipedia.org/wiki/Babubhai_J._Patel">ബാബുഭായി
+പട്ടേൽ</ref> വീണ്ടും ഗുജറാത്ത് മുഖ്യനായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Tarun_Gogoi.jpg" rendition="gra"/>
+            <figDesc style="thumb">തരുൺ ഗൊഗോയ്</figDesc>
+          </figure>
+          <p> 1980-ൽ സാമാന്യനിയമത്തെ സാധൂകരിച്ചുകൊണ്ടു് കോൺഗ്രസ് തരംഗം. <ref target="https://en.wikipedia.org/wiki/Madhav_Singh_Solanki">മാധവ് സിംഗ്
+സോളങ്കി</ref> വീണ്ടും മുഖ്യമന്ത്രി. 1985-ൽ സാമാന്യ നിയമത്തെ ഉല്ലംഘിച്ചു് വടക്കേന്ത്യയിലെമ്പാടും വീണ്ടും
+കോൺഗ്രസ് തരംഗമുണ്ടായി. <ref target="https://en.wikipedia.org/wiki/Amar_Singh_Chaudhary">അമർസിംഗ്
+ചൗധരി</ref> മുഖ്യമന്ത്രിയായി. 1989-ൽ <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ് ഗാന്ധി</ref> ക്കു്
+തിരുവുള്ളക്കേടുണ്ടായി. അമർസിംഗിന്റെ കസേരപോയി. വീണ്ടും സോളങ്കി അമരക്കാരനായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞാപ്പ</figDesc>
+          </figure>
+          <p> 1989 നവംബറിൽ കേന്ദ്രത്തിലെ രാജീവ് വാഴ്ച അവസാനിച്ചു. 1990 ഫെബ്രുവരി അവസാനം നിയമസഭാ
+തെരഞ്ഞെടുപ്പുനടന്നു. കോൺഗ്രസ് തകർന്നടിഞ്ഞു. ജനതാദൾ-ബി. ജെ. പി. സഖ്യത്തിനു് വൻ ഭൂരിപക്ഷം കിട്ടി.
+ചിമൻഭായി പട്ടേൽ ജനതാദൾ ബാനറിൽ വീണ്ടും മുഖ്യമന്ത്രിയായി. 1990 മാർച്ച് 4-നു് ഗുജറാത്തിന്റെ ചരിത്രത്തിൽ
+ഒരു യുഗം അവസാനിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മോഹൻദാസ് ഗാന്ധി</ref>
+യിൽ ആരംഭിച്ചു് <ref target="https://en.wikipedia.org/wiki/Madhav_Singh_Solanki">മാധവ് സിംഗ്
+സോളങ്കി</ref> യിൽ അസ്തമിച്ച കോൺഗ്രസ് യുഗം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PinarayiVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പിണറായി വിജയൻ</figDesc>
+          </figure>
+          <p> ജനതാദൾ-ബി. ജെ. പി. സഖ്യം ഒരു വർഷംപോലും നീണ്ടുനിന്നില്ല. സോമനാഥിൽ നിന്നാരംഭിച്ച <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാൻജി</ref> യുടെ
+രഥയാത്ര ബീഹാറിലെ സമസ്തപൂരിൽ തടയപ്പെട്ടപ്പോൾ ബി. ജെ. പി. കേന്ദ്രസർക്കാറിനുള്ള പിന്തുണ
+പിൻവലിച്ചു. പിന്നാലെ ഗുജറാത്ത് സർക്കാറിൽനിന്നും പിന്മാറി. <ref target="https://en.wikipedia.org/wiki/Chimanbhai_Patel">ചിമൻഭായ്</ref>
+ആളുകേമനായിരുന്നതുകൊണ്ടു് മന്ത്രിസഭ 1994 ഫെബ്രുവരിവരെ നിലനിന്നു. ചിമൻജിയുടെ പകരക്കാരനായി
+<ref target="https://en.wikipedia.org/wiki/Chhabildas_Mehta">ഛബിൽദാസ്
+മേത്ത</ref> വന്നു.
+</p>
+          <p>1995 മാർച്ചിൽ വീണ്ടും തെരഞ്ഞെടുപ്പു് വന്നു. കോൺഗ്രസ് പൊളിഞ്ഞുപാളീസായി. ജനതാദളിന്റെ
+പൊടിപോലുമില്ല, കണ്ടുപിടിക്കാൻ. ബി. ജെ. പി.-ക്കു് വൻഭൂരിപക്ഷം കിട്ടി, <ref target="https://en.wikipedia.org/wiki/Keshubhai_Patel">കേശുഭായി പട്ടേൽ</ref>
+ഗുജറാത്ത് മുഖ്യൻ. ആറു മാസത്തിനകം പാർട്ടിയിൽ ഉരുൾപൊട്ടി. <ref target="https://en.wikipedia.org/wiki/Shankersinh_Vaghela">ശങ്കർസിംഗ്
+വഗേല</ref> കലാപക്കൊടിയുയർത്തി. കേന്ദ്ര നേതൃത്വം ഇടപെട്ടു് കേശുഭായിയെ മാറ്റി. <ref target="https://en.wikipedia.org/wiki/Suresh_Mehta">സുരേഷ്മേത്ത</ref>
+ഒത്തുതീർപ്പു് മുഖ്യമന്ത്രി. കേശുഭായിയെ വകവെക്കാത്തവരുണ്ടോ പാവം മേത്തയെ ഗൗനിക്കുന്നു? വഗേലയും
+കൂട്ടരും പാലം വലിച്ചു് മന്ത്രിസഭ പൊളിച്ചു. കുറഞ്ഞൊരു കാലം രാഷ്ട്രപതിഭരണം, പിന്നെ <ref target="https://en.wikipedia.org/wiki/Shankersinh_Vaghela">ശങ്കർസിംഗ്
+വഗേല</ref> യുടെ തട്ടിക്കൂട്ടു് മന്ത്രിസഭ. ആ മന്ത്രിസഭയും കാലാവധി തികച്ചില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Narendra_Modi.jpg" rendition="gra"/>
+            <figDesc style="thumb">നരേന്ദ്രമോഡി</figDesc>
+          </figure>
+          <p> 1998 മാർച്ചിൽ വീണ്ടും തെരഞ്ഞെടുപ്പു്. കോൺഗ്രസും ബി. ജെ. പി. വിമതരും പാടേ പരാജിതരായി.
+ഗുജറാത്തിൽ കാവിതരംഗം. കേശുഭായി വീണ്ടും മുഖ്യമന്ത്രി. 1996-ലും 98-ലും 99-ലും നടന്ന ലോൿസഭാ
+തെരഞ്ഞെടുപ്പുകളിൽ ഗുജറാത്തിൽ ബി. ജെ. പി. വൻവിജയം നേടി. 26-ൽ അഞ്ചോ ആറോ സ്ഥാനമേ
+കോൺഗ്രസിനു് കിട്ടിയുള്ളു. അതും പട്ടിക ജാതി/വർഗ സംവരണ സീറ്റുകൾ. ഹിമാചൽ, ദൽഹി, രാജസ്ഥാൻ,
+മധ്യപ്രദേശ് എന്നിവയേക്കാൾ ശക്തമായ ബി. ജെ. പി. കോട്ടയായി ഗുജറാത്ത് വിലയിരുത്തപ്പെട്ടു. ഗാന്ധിനഗർ
+അദ്വാനിയുടെ സ്ഥിരം മണ്ഡലവുമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Keshubhai_Patel.jpg" rendition="gra"/>
+            <figDesc style="thumb">കേശുഭായി പട്ടേൽ</figDesc>
+          </figure>
+          <p> കേശുഭായിയുടെ ഭരണം നാൾക്കുനാൾ വഷളായി. പാർട്ടിയിൽ വിമതശല്യം മൂർച്ഛിച്ചു.
+ഉപതെരഞ്ഞെടുപ്പുകളിലും പഞ്ചായത്ത്/മുൻസിപ്പൽ തെരഞ്ഞെടുപ്പുകളിലുമൊക്കെ ഭരണകക്ഷിക്കു്
+തിരിച്ചടിയേറ്റു. കേശുഭായിയെ പറഞ്ഞുവിടുകയല്ലാതെ കേന്ദ്ര നേതൃത്വത്തിനു് വഴിയില്ലാതായി. <ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">നരേന്ദ്രമോഡി</ref>
+പകരക്കാരനായി 2001 ഒൿടോബർ 7-നു് സത്യവാചകം ചൊല്ലി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sardar_patel.jpg" rendition="gra"/>
+            <figDesc style="thumb">വല്ലഭായി പട്ടേൽ</figDesc>
+          </figure>
+          <p> മോഡിജി വലതുകാൽ വെച്ചു് കയറിയതിനു് പിന്നാലെ ഗോധ്രയിൽ ട്രെയിൻ ട്രാജഡിയുണ്ടായി: പിന്നാലെ
+അതിഭയങ്കരമായ ഗുജറാത്ത് കലാപം. ഒട്ടേറെ മുസ്ലിംകൾക്കു് ഖബറും മീസാൻ കല്ലും ഉറപ്പിച്ചു. ഹിന്ദു ഹൃദയ
+സാമ്രാട്ടു് എന്നൊരു സ്ഥാനപ്പേരു് സംഘപരിവാർ നരേന്ദ്രമോഡിക്കു് പതിച്ചുനൽകി.
+</p>
+          <p>ഗോധ്രസംഭവവും സാമുദായിക കലാപവും സൃഷ്ടിച്ച ധ്രുവീകരണം മുതലെടുക്കാൻ നിയമസഭ നേരത്തേ
+പിരിച്ചുവിട്ടു. മുഖ്യ തെരഞ്ഞെടുപ്പു് കമീഷണർ <ref target="https://en.wikipedia.org/wiki/James_Michael_Lyngdoh">ജെ. എം.
+ലിങ്ധോ</ref> യുടെ സകല ഇടങ്കോലുകളെയും വിജയകരമായി നേരിട്ടു. 2002 ഡിസംബറിലെ
+തെരഞ്ഞെടുപ്പിൽ ബി. ജെ. പി. വൻഭൂരിപക്ഷം നേടി അധികാരസോപാനത്തിൽ തിരിച്ചെത്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Shankersinh_vaghela.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശങ്കർസിംഗ് വഗേല</figDesc>
+          </figure>
+          <p> 2002 ഡിസംബറിനുശേഷം സബർമതിയിലൂടെ വെള്ളം ഒരുപാടു് ഒഴുകി. <ref target="https://books.sayahna.org/html/asan-nalini.html">അഞ്ചുവട്ടമിഹ
+പൂത്തുകാനനം</ref>. ഇതാ വീണ്ടും തെരഞ്ഞെടുപ്പു സമാഗമമാകുന്നു. ബി. ജെ. പി.-യും കോൺഗ്രസും മുഖാമുഖം
+ഏറ്റുമുട്ടുന്നു. രണ്ടിലൊരു കൂട്ടർ അടിപെടുംവരെ മല്ലയുദ്ധപോരാട്ടം.
+</p>
+          <p>അഞ്ചുകൊല്ലം ഭരിച്ചവർ അടുത്ത തെരഞ്ഞെടുപ്പിൽ തോൽക്കും എന്ന സാമാന്യ നിയമം ബാധകമാണെങ്കിൽ
+ബി. ജെ. പി.-യുടെ കഥ കഴിഞ്ഞതുതന്നെ. ഭരണവിരുദ്ധം, പ്രബലമായ പട്ടേൽ സമുദായത്തിന്റെ എതിർപ്പു്,
+തെഹൽകയുടെ വെളിപ്പെടുത്തലുകൾ, പാർട്ടിയിലെ വിമതശല്യം—എല്ലാം പ്രധാന ഘടകങ്ങളാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Morarji_Desai.jpg" rendition="gra"/>
+            <figDesc style="thumb">മൊറാർജി ദേശായി</figDesc>
+          </figure>
+          <p> പക്ഷേ, മാധ്യമങ്ങളും അഭിപ്രായവോട്ടെടുപ്പുകാരുമൊക്കെ മോഡിയുടെ തിരിച്ചുവരവാണു് പ്രവചിക്കുന്നതു്.
+182 അംഗ അസംബ്ലിയിൽ ബി. ജെ. പി.-ക്കു് സൂക്ഷ്മം 100 സീറ്റു കിട്ടുമെന്നു് സി. എൻ. എൻ.-ഐ. ബി. എൻ. ചാനൽ
+ഇന്ത്യൻ എൿസ്പ്രസുമായി ചേർന്നു് നടത്തിയ സർവേയിൽ വെളിപ്പെട്ടു. പോളിംഗ് 45 ശതമാനത്തിൽ നിന്നാലേ
+കോൺഗ്രസിനു് ആശക്കു് വകയുള്ളു എന്നു് വീക്കിന്റെ കണക്കപ്പിള്ളമാർ വിലയിരുത്തി. അമ്പതുശതമാനമായാൽ
+ബി. ജെ. പി.-ക്കു് ഭൂരിപക്ഷം കിട്ടും; അമ്പത്തഞ്ചു് ശതമാനമെത്തിയാൽ കോൺഗ്രസിന്റെ കടപറിയും.
+ഹിന്ദുത്വത്തോടു് യാതൊരു പ്രതിപത്തിയുമില്ലാത്ത ഹിന്ദുപത്രത്തിനും മോഡിയുടെ വിജയത്തെപ്പറ്റി സന്ദേഹമില്ല.
+</p>
+          <p>പ്രചാരണരംഗത്തു് ബി. ജെ. പി. ബഹുദൂരം മുന്നിലാണു്. വിമതന്മാർ പാർട്ടി വിട്ടു പോകുകയോ
+തഴയപ്പെടുകയോ ചെയ്തിരിക്കുന്നു. സ്ഥാനർഥികളിലധികവും മോഡിയുടെ വിശ്വസ്തർ. ഒട്ടേറെ പുതുമുഖങ്ങളെ
+പരീക്ഷിക്കുന്നു. പണത്തിനും പ്രവർത്തകർക്കും ക്ഷാമമില്ല.
+</p>
+          <p>പ്രധാന പ്രചാരകൻ മോഡിതന്നെ. അദ്ദേഹം വികസനത്തെയും ഗുജറാത്തിന്റെ പുരോഗതിയെയും പറ്റി
+വാചാലനാകുന്നു. കർഷകർ ആത്മഹത്യ ചെയ്യുന്ന, വ്യവസായങ്ങളുടെ മരുപ്പറമ്പായി മാറിയ മഹാരാഷ്ട്രയോടു്
+ഗുജറാത്തിനെ താരതമ്യം ചെയ്യുന്നു. സംസ്ഥാനത്തെ ക്രമസമാധാന നിലയെക്കുറിച്ചു് ഊറ്റം കൊള്ളുന്നു,
+ഭീകരാക്രമണങ്ങളിൽനിന്നു് ഗുജറാത്തിനെ കാത്തുരക്ഷിച്ചതിൽ അഭിമാനിക്കുന്നു. ഓരോ സ്ഥലത്തും നേതാവിന്റെ
+പ്രസംഗം കേൾക്കാൻ വൻ ജനക്കൂട്ടം, ഓരോ വാക്കിനും ഹർഷാരവം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sushma_Swaraj.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുഷമസ്വരാജ്</figDesc>
+          </figure>
+          <p> മറുവശത്തു് കോൺഗ്രസിന്റെ നില പരിതാപകരം. <ref target="https://en.wikipedia.org/wiki/Shankersinh_Vaghela">ശങ്കർസിംഗ്
+വഗേല</ref> എന്ന മുൻകാല ബി. ജെ. പി.-ക്കാരനാണിപ്പോൾ സംസ്ഥാനത്തു് കോൺഗ്രസിന്റെ മഹോന്നത
+നേതാവു്. മോഡിയുടേതു് പ്രകടമായ തീവ്ര ഹിന്ദുത്വമെങ്കിൽ വഗേലയുടേതു് പ്രച്ഛന്നമായ മൃദുഹിന്ദുത്വം. <ref target="https://en.wikipedia.org/wiki/Suresh_Mehta">സുരേഷ്മേത്ത</ref>
+യെപ്പോലെ ഭൂമിക്കു് ഭാരമായ കുറെ റിബലുകളും കോൺഗ്രസ് പാളയത്തിൽ ചേക്കേറിയിട്ടുണ്ടു്. കലാപകാലത്തു്
+ചീത്തപ്പേരുണ്ടാക്കിയവരാണു് നല്ലൊരു ഭാഗം. സ്വന്ത നിലക്കു് പത്തു് വോട്ടുപിടിക്കാൻ അശക്തരുമാണു്.
+പതിനേഴു കൊല്ലമായി രാഷ്ട്രീയ വനവാസം അനുഭവിക്കുന്ന കോൺഗ്രസിന്റെ ബഹുജനാടിത്തറ മിക്കവാറും
+തകർന്നിരിക്കുന്നു. സംഘടനാ സംവിധാനം ദുർബലം. ജനങ്ങളെ ഇളക്കാൻ പറ്റിയ നേതാക്കളില്ല. ഉദരനിമിത്തം
+ബഹുകൃത വേഷക്കാരാണു് ഏറെയും. ഏറെക്കുറെ ബംഗാളിലേതിനും തുല്യമായ രാഷ്ട്രീയകാലാവസ്ഥ.
+</p>
+          <p>ഇത്രയും പ്രതികൂലഘടകങ്ങളെ അതിജീവിക്കാൻ കോൺഗ്രസിനു് കഴിയുമോ? പാടില്ലായ്കയില്ല.
+ജനാധിപത്യം എന്നതു് കൈവിട്ട കളിയാണു്, ജനം ഏതു നിമിഷവും തിരിയാം. അഭിപ്രായ വോട്ടെടുപ്പുകൾ പരമ
+അസംബന്ധമായി മാറാം. അതിനുമുണ്ടു് ദൃഷ്ടാന്തങ്ങൾ എമ്പാടും. 1999-ലെ തെരഞ്ഞെടുപ്പിൽ കോൺഗ്രസ്
+ആന്ധ്ര പിടിക്കുമെന്നു് ഇന്റലിജൻസുകാരും രാഷ്ട്രീയ നിരീക്ഷകരും അഭിപ്രായ വോട്ടെടുപ്പുകളും ഏക സ്വരത്തിൽ
+പ്രവചിച്ചതു്. ആ ധൈര്യത്തിൽ <ref target="https://en.wikipedia.org/wiki/Y._S._Rajasekhara_Reddy">വൈ. എസ്.
+രാജശേഖര റെഡ്ഡി</ref> മന്ത്രിമാരെ നിശ്ചയിച്ചു. വകുപ്പുവിഭജനവും നടത്തി. വോട്ടെണ്ണിയപ്പോൾ
+തെലുഗുദേശത്തിനു് വൻഭൂരിപക്ഷം, <ref target="https://en.wikipedia.org/wiki/N._Chandrababu_Naidu">ചന്ദ്രബാബു
+നായിഡു</ref> മുഖ്യമന്ത്രി. ഇതേ തമാശ 2003-ൽ രാജസ്ഥാനിലും 2004-ൽ കേന്ദ്രത്തിലും അരങ്ങേറി.
+രാജസ്ഥാനിൽ പ്രവാചകരെ ഞെട്ടിച്ചു് ബി. ജെ. പി. ജയിച്ചു; കേന്ദ്രത്തിൽ എൻ. ഡി. എ.-യെ അട്ടിമറിച്ചു്
+കോൺഗ്രസ് മുന്നണി അധികാരത്തിലേറി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rajnath_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജ്നാഥ്സിംഗ്</figDesc>
+          </figure>
+          <p> അതുപോലുള്ള ഒരട്ടിമറിയിൽ മാത്രമേ ഗുജറാത്തിൽ കോൺസിനു് രക്ഷയുള്ളു. സ്ഥാനാർഥികളുടെ
+മേന്മകൊണ്ടോ നേതാക്കളുടെ മാഹാത്മ്യംകൊണ്ടോ മദാമ്മാ ഗാന്ധിയുടെ തൊലിവെളുപ്പുകൊണ്ടോ അഹിംസാ
+പാർട്ടി ജയിക്കില്ല. പ്രചാരണ കോലാഹലങ്ങൾകൊണ്ടു് അളക്കാനോ തിരിക്കാനോ കഴിയാത്ത ഘടകമാണു്
+ജനങ്ങളുടെ പ്രതിഷേധം. ജനവികാരം വോട്ടായി മാറിയാൽ മോഡിയുടെ കടപുഴകും, 17 കൊല്ലത്തെ
+ഇടവേളക്കുശേഷം ഗാന്ധി നഗറിൽ ത്രിവർണപതാക പാറും.
+</p>
+          <p>ബി. ജെ. പി. ജയിച്ചാലോ? ഗുജറാത്ത് ബംഗാളാകും. പിന്നെ ഒരിക്കലും പടിഞ്ഞാറോട്ടു് നോക്കണ്ട. <ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">നരേന്ദ്രമോഡി</ref>,
+ഗുജറാത്തിലെ <ref target="https://en.wikipedia.org/wiki/Jyoti_Basu">ജ്യോതിബസു</ref> വായി മാറും.
+</p>
+          <p>ഉത്തർപ്രദേശിലെ പരാജയവും കർണാടകത്തിലെ അപമാനവും ഏൽപിച്ച ആഘാതത്തിനു് ഗുജറാത്തിലെ
+വിജയം ബി. ജെ. പി.-ക്കു് ഒരളവുവരെ പരിഹാരമാകും. കൂടുതൽ ആത്മവിശ്വാസത്തോടെ 2009-ലെ ലോൿസഭാ
+തെരഞ്ഞെടുപ്പിനു് തയാറാകാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Lkadvani.jpg" rendition="gra"/>
+            <figDesc style="thumb">അദ്വാനി</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-ക്കകത്തു് <ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">നരേന്ദ്രമോഡി</ref>
+പരമശക്തനാകും. <ref target="https://ml.wikipedia.org/wiki/Rajnath_Singh">രാജ്നാഥ്സിംഗും</ref> <ref target="https://ml.wikipedia.org/wiki/Sushma_Swaraj">സുഷമസ്വരാജു</ref>
+
+മൊക്കെ അതോടെ നിഷ്പ്രഭരാകും. <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാനി</ref> യുടെ
+പിൻഗാമി <ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">മോഡി</ref> എന്നു്
+ഉറപ്പിക്കാം. ഏതായാലും വരാനുള്ളതു് വഴിയിൽ തങ്ങില്ല. കാത്തിരുന്നു് കാണുകതന്നെ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Gujarat Bengalakumo? (ml:
+ഗുജറാത്ത് ബംഗാളാകുമോ?).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Gujarat
+Bengalakumo?, കെ. രാജേശ്വരി, ഗുജറാത്ത് ബംഗാളാകുമോ?, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh__B%C3%A4uerin_beim_Umgraben2.jpg">A peasant woman digging,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Vincent_van_Gogh">Vincent van
+Gogh</ref>  (1853–1890). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-gujarath.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-gujarath.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

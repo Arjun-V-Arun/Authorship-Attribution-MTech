@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">‘ചക്കാത്തി’ന്റെ കഥ</title>
+          <title xml:lang="en" type="main">‘Chakkathth’inte Katha</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">January 1, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">‘ചക്കാത്തി’ന്റെ കഥ</title>
+              <title xml:lang="en" type="main">‘Chakkathth’inte Katha</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>‘Chakkathth’inte Katha</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>‘ചക്കാത്തി’ന്റെ കഥ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 1, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Almeida_Junior_Reading.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Almeida_J%C3%BAnior__Reading_-_Google_Art_Project.jpg">Reading,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior">José
+Ferraz de Almeida Júnior</ref>  (1850–1899). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">‘ചക്കാത്തി’ന്റെ കഥ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">‘ചക്കാത്തി’ന്റെ കഥ</head>
+        <div type="lsection">
+          <p style="noindent">മലയാളത്തിൽ ‘ചക്കാത്തു്’ എന്നൊരു വാക്കുണ്ടു്. ‘വെറുതെ കിട്ടിയതു്’ എന്നർഥം.
+തിരുവിതാംകൂറിലും മലബാറിലുമെല്ലാം വിനിമയസാധ്യതയുള്ള വാക്കാണു്. മിക്ക സമുദായക്കാർക്കും അർഥം
+മനസ്സിലാകും. അധികം സന്ദർഭങ്ങളിലും പരിഹാസധ്വനിയോടെയാണു് ഉപയോഗിക്കുന്നതു്; അല്ലെങ്കിൽ
+വിമർശനത്തിനു്. കൊടുക്കാൻ പാടില്ലാത്തതു കൊടുത്തു, അല്ലെങ്കിൽ വാങ്ങാൻ പാടില്ലാത്തതു വാങ്ങി എന്ന
+താൽപ്പര്യത്തിലാണു് നമ്മുടെ പ്രയോഗം. ‘സർക്കാരിന്റെ മരം ചക്കാത്തായി മുറിച്ചുകൊണ്ടുപോവുകയാണു്’
+എന്നോ, ‘അയാൾക്കു് വി. സി. പദം ചക്കാത്തായി കിട്ടിയതാണു്’ എന്നോ, ‘മൂപ്പർക്കു് എന്തും ചക്കാത്തായി
+കിട്ടണം’ എന്നൊക്കെയുള്ള ശൈലികൾ ഓർത്തുനോക്കുക—ചക്കാത്തിനു് ‘വിലകെട്ടതു്’ എന്നുവരെ
+അർത്ഥമാവാം.
+</p>
+          <p>‘ശബ്ദതാരാവലി’യടക്കമുള്ള നിഘണ്ടുക്കൾ ഈ വാക്കു് രേഖപ്പെടുത്തിയിട്ടുണ്ടു്—ഉർദുവിൽ നിന്നു് കടംകൊണ്ട
+വാക്കു് എന്ന നിലയിൽ. പക്ഷേ, ഉർദുവിലും അതുപോലെ തന്നെ പാർസിയിലും ഈ പദം അറബിയിൽ
+നിന്നാണു് കടന്നുചെന്നതു്. അതിന്റെ ശരിയായ രൂപം ‘സക്കാത്ത്’ എന്നാണു്. ഇപ്പോഴും ലിപി നേരെയല്ല.
+വാക്കിന്റെ തുടക്കത്തിൽ കാണുന്നതു് സത്യത്തിൽ ‘സ’യല്ല. അതിന്റെ ഉച്ചാരണം ഇംഗ്ലീഷിലെ Z-നു് തുല്യമാണു്.
+</p>
+          <p>അറബിയിൽ ഈ ‘സക്കാത്ത്’ എന്ന പദത്തിനു് എന്താണർഥം?
+</p>
+          <p>അതിനു് അറബി നിഘണ്ടുക്കളിൽ കാണുന്ന അർഥം വളരുക, നന്നാവുക, അഭിവൃദ്ധിപ്പെടുക,
+സൻമാർഗിയാവുക, ഫലവൃഷ്ടിയുള്ളതാവുക, അനുയോജ്യമാവുക എന്നെല്ലാമാണു്. വളരുന്നതു്, വളർത്തുന്നതു്
+എന്നീ താൽപ്പര്യങ്ങളിലാണു് സാധാരണ ഉപയോഗം.
+</p>
+          <p>പക്ഷേ, കേരളത്തിലും അന്യനാടുകളിലുമെല്ലാം മുസ്ലീങ്ങൾ ‘സക്കാത്ത്’ ഉപയോഗിക്കുന്നതു് ഒരു
+സാങ്കേതികപദം എന്ന നിലക്കാണു്. ആ സാങ്കേതികപദത്തിനു് ‘നിർബന്ധദാനം’ എന്നർഥം. ഈ
+നിർബന്ധദാനമാവട്ടെ, ഇസ്ലാം മതത്തിന്റെ നിർബന്ധാനുഷ്ഠാനങ്ങളിലൊന്നാണു്.
+</p>
+          <p>ദാനവും നിർബന്ധദാനവും തമ്മിൽ എന്താണു് വ്യത്യാസം?
+</p>
+          <p>ഇസ്ലാംമതത്തിന്റെ കർമ്മാനുഷ്ഠാനങ്ങൾ അനുസരിച്ചു് രണ്ടുതരം ദാനങ്ങളുണ്ടു്.
+<list rend="numbered"><item n="">സദഖ: ഇഷ്ടമുള്ളപ്പോൾ ഇഷ്ടമുള്ളതു് ആർക്കുവേണമെങ്കിലും ദാനം ചെയ്യാം—ഇതാണു് സദഖ.
+ഇതു് പുണ്യകർമ്മമാണെങ്കിലും നിർബന്ധകർമ്മമല്ല. സദഖ ചെയ്യാതിരുന്നാൽ പാപമില്ല. </item><item n="">സക്കാത്ത്: വാർഷികവരുമാനത്തിൽ സ്വന്തം ആവശ്യം കഴിച്ചു് നീക്കിയിരുപ്പുള്ളതിൽ നിന്നു്
+നിശ്ചിത ശതമാനം നിശ്ചിത വിഭാഗത്തിൽപ്പെട്ടവർക്കു് ദാനം ചെയ്യണം. ഇതിനു് ‘സക്കാത്ത്’ എന്നു് പേരു്. ഇതു്
+വിശ്വാസത്തിന്റെ നിബന്ധനകളിൽപ്പെടുന്ന നിർബന്ധകർമ്മമാണു്. അനുഷ്ഠിച്ചാൽ പുണ്യമുണ്ടു്; ഒഴിവാക്കിയാൽ
+പാപവും. ഇതു് എല്ലാ കൊല്ലവും കൊടുത്തേ തീരൂ. </item></list>
+
+</p>
+          <p>മുസ്ലീങ്ങളുടെ വേദഗ്രന്ഥമായ ഖുർആനിൽ നിർബന്ധാനുഷ്ഠാനമായ നിസ്കാരത്തിന്റെ കൂടെ 20 തവണ
+സക്കാത്ത് പരാമർശിക്കപ്പെടുന്നുണ്ടു്.
+</p>
+          <p>വാർഷികവരുമാനത്തിന്റെ നിശ്ചിതപരിധിയെ അറബിയിൽ ‘നിസാബ്’ എന്നു പറയുന്നു. നിസാബിനു്
+പുറത്തുള്ളതിനൊക്കെ നിശ്ചിത ശതമാനം സക്കാത്തുണ്ടു്. ആണായാലും പെണ്ണായാലും അതുകൊടുക്കണം. ഒരു
+
+തരത്തിൽ വാർഷിക നികുതിയാണിതു്. അതു ലഭിക്കേണ്ടതു് പാവപ്പെട്ടവർക്കാണു്. സക്കാത്ത് എന്നതു്
+പണക്കാർ പാവപ്പെട്ടവർക്കു് നൽകുന്ന സൗജന്യമല്ല; പണക്കാരുടെ സമ്പത്തിൽ പാവപ്പെട്ടവർക്കുള്ള
+അവകാശമാണതു്. സക്കാത്ത് നൽകാൻ വിസമ്മതിച്ചവരോടു് ഒന്നാം ഖലീഫ അബൂബക്കർ യുദ്ധം
+ചെയ്യുകയുണ്ടായി.
+</p>
+          <p>വളർത്തുമൃഗങ്ങൾ (ഒട്ടകം, പശു, ചെമ്മരിയാടു് മുതലായവ), ധനം (സ്വരൂപിച്ചുവെച്ച സ്വർണ്ണം, വെള്ളി
+മുതലായവയും കച്ചവടത്തിനുപയോഗിക്കുന്ന പണവും), സമ്പത്തു് (മണ്ണിൽ നിന്നോ, ജലത്തിൽ നിന്നോ
+ലഭിക്കുന്നവ: പഴം, ധാന്യം, മൽസ്യം ആദിയായവ) എന്നിവക്കെല്ലാം സക്കാത്തു് ബാധകമാണു്.
+</p>
+          <p>ഏഴരത്തോലയാണു് സ്വർണത്തിന്റെ പരിധി (നിസാബ്) അതിനു് മുകളിലുള്ളതിനു് സക്കാത്തുണ്ടു്.
+അമ്പത്തിരണ്ടരത്തോലയാണു് വെള്ളിയുടെ പരിധി അതിനപ്പുറമുള്ളതിനു് സക്കാത്തുവേണം. 5 ഒട്ടകം, 40 ആടു്,
+30 പശു—ഇവക്കു് മുകളിലും സക്കാത്തു് കൊടുക്കണം. അങ്ങനെയങ്ങനെ.
+</p>
+          <p>സാമാന്യമായി പണത്തിന്റെ കണക്കു് രണ്ടരശതമാനം എന്നാണു്. അതായതു് ഒരു വർഷം കുടുംബം
+പുലരാൻ ആവശ്യമായതിൽക്കവിഞ്ഞു് 100 രൂപ കൈയിരിപ്പു് ഉണ്ടെങ്കിൽ രണ്ടര രൂപ സക്കാത്തുകൊടുക്കണം.
+അതു് ആയിരം ആണെങ്കിൽ 25 രൂപ. പതിനായിരമാണെങ്കിൽ 250 രൂപ. ലക്ഷമാണെങ്കിൽ 2500 രൂപ—ആ
+മട്ടിലാണു് കണക്കു്. സമ്പത്തിന്റെ സ്വഭാവം (വളർത്തുമൃഗങ്ങൾ, ധാന്യം മുതലായവ) അനുസരിച്ചു് ഈ
+കണക്കിലും വ്യത്യാസം വരും.
+</p>
+          <p>ദരിദ്രൻ, അഗതി, അടിമ, യാത്രക്കാരൻ, കടബാധ്യതയുള്ളവൻ തുടങ്ങിയവരാണു് സക്കാത്തു കിട്ടാൻ
+അർഹതയുള്ളവർ.
+</p>
+          <p>മുസ്ലീംനാടുകളിൽ ആദ്യകാലത്തെ ഭരണകർത്താക്കൾ പൗരൻമാരിൽ നിന്നു് സക്കാത്ത് സംഭരിക്കുകയും ആ
+പൊതുഫണ്ട് അർഹതപ്പെട്ടവർക്കു് വിതരണം ചെയ്യുകയും ആയിരുന്നു പതിവു്. ഇക്കാലത്തു് സർക്കാരിനു്
+നികുതികൊടുക്കുമ്പോഴും വിശ്വാസികൾ പാവപ്പെട്ടവർക്കു് നേരിട്ടു് സക്കാത്തു കൊടുക്കുന്ന രീതി ഇന്ത്യ മുതലായ
+രാജ്യങ്ങളിലുണ്ടു്. പാവങ്ങളെ പിച്ചക്കാരാക്കരുതെന്നും വ്യക്തികൾ നേരിട്ടു് വ്യക്തികൾക്കു് സക്കാത്ത്
+കൊടുക്കുന്നതിനു് പകരം ഒരു പ്രദേശത്തെ ആളുകൾ സംഘം ചേർന്നു് സക്കാത്ത് മുതൽ ശേഖരിച്ചു്
+ആസൂത്രിതമായി പാവപ്പെട്ടവർക്കു് എത്തിച്ചുകൊടുക്കണമെന്നും ഉള്ള ആശയഗതി ശക്തിപ്പെട്ടുവരുന്നുണ്ടു്.
+സാധാരണമായി ഈ ‘വാർഷികനികുതി’ കൊടുക്കുന്നതു് സൽകർമ്മങ്ങൾക്കു് ഇരട്ടി പുണ്യം കിട്ടുന്നതായി
+വിശ്വസിക്കപ്പെടുന്ന വ്രതകാല (റംസാൻമാസം)ത്താണു്.
+</p>
+          <p>ഉള്ളവനും ഇല്ലാത്തവനും തമ്മിലുള്ള അകലം കുറച്ചുകൊണ്ടുവരാൻ 1400 കൊല്ലം മുമ്പു് ഉരുവം കൊണ്ട ഒരു
+സാമ്പത്തികക്രമീകരണനടപടിയാണു് സക്കാത്ത്. സാമൂഹ്യസമത്വത്തെപ്പറ്റിയുള്ള ഗംഭീരമായ ഒരു സങ്കല്പം ആ
+പഴയകാലത്തു് അതു് ഉയർത്തിപ്പിടിച്ചിരുന്നു.
+</p>
+          <p>‘മതത്തെ നിഷേധിക്കുന്നവൻ ആരു്?’ എന്നൊരു ചോദ്യം ഖുർആനിലുണ്ടു്. അതിനു് അവിടെപ്പറഞ്ഞ മറുപടി
+എന്താണെന്നോ? ‘അവൻ അനാഥയെ തള്ളിക്കളയുന്നു; അഗതിക്കു് ആഹാരം കൊടുക്കാൻ പ്രേരിപ്പിക്കുന്നുമില്ല.’
+ശ്രദ്ധിച്ചു് നോക്കൂ—അനാഥയെ തള്ളിക്കളയുന്നവന്റെ കൂട്ടത്തിൽ പെടുത്തിയിരിക്കുന്നതു് അഗതിക്കു് ആഹാരം
+കൊടുക്കാത്തവനെ മാത്രമല്ല, അഗതിക്കു് ആഹാരംകൊടുക്കുവാൻ പ്രേരിപ്പിക്കാത്തവനെയുമാണു്!
+പാവങ്ങൾക്കു് വേണ്ടി ധനം ചെലവു ചെയ്യാത്തവനും അങ്ങനെ ചെയ്യാൻ മറ്റുള്ളവരിൽ പ്രേരണ
+ചെലുത്താത്തവനും മതനിഷേധികളാണെന്നു് താൽപ്പര്യം.
+</p>
+          <p>ഇപ്പോൾ നമുക്കു് തുടക്കത്തിലേക്കു് തന്നെ തിരിച്ചുചെല്ലാം—സക്കാത്തു് എന്ന പദത്തിനു് നമ്മുടെ നാട്ടിൽ
+സംഭവിച്ച മൂല്യശോഷണത്തെപ്പറ്റി ഒന്നാലോചിച്ചു നോക്കൂ.
+</p>
+          <p>ആ വാക്കു് എത്രമാത്രം വിലകെട്ടു പോയി! മഹത്തായ സങ്കൽപ്പങ്ങൾക്കും വലിയ
+സാംസ്കാരികചിഹ്നങ്ങൾക്കും കാലംകൊണ്ടും ദേശം കൊണ്ടും സംഭവിക്കുന്ന തകർച്ച ‘ചക്കാത്ത്’ എന്ന മലയാള
+തദ്ഭവപദം ഉദാഹരിക്കുന്നുണ്ടു്. ചൂഷണ വിരോധത്തിന്റെയും ദരിദ്രന്റെ അവകാശത്തിന്റെയും അടയാളമായി
+ചരിത്രത്തിന്റെ വഴിയിൽ അതു് ഒരു കാലത്തു് തീപ്പന്തംപോലെ നിന്നിരുന്നു…
+</p>
+          <p>
+ദേശാഭിമാനി ദിനപത്രം: 9 ഫെബ്രുവരി 1997.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  ‘Chakkathth’inte Katha (ml:
+‘ചക്കാത്തി’ന്റെ കഥ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+‘Chakkathth’inte Katha, എം. എൻ. കാരശ്ശേരി, ‘ചക്കാത്തി’ന്റെ കഥ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 1, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Almeida_J%C3%BAnior__Reading_-_Google_Art_Project.jpg">Reading,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jos%C3%A9_Ferraz_de_Almeida_J%C3%BAnior">José
+Ferraz de Almeida Júnior</ref>  (1850–1899). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-chakkath.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-chakkath.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

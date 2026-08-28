@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അനന്തം, അജ്ഞാതം
+അവർണനീയം...</title>
+          <title xml:lang="en" type="main">Anantham, Anjyatham, Avarnaneeyam...</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">October 4, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അനന്തം, അജ്ഞാതം
+അവർണനീയം...</title>
+              <title xml:lang="en" type="main">Anantham, Anjyatham, Avarnaneeyam...</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Anantham</term>
+          <term>Anjyatham</term>
+          <term>Avarnaneeyam...</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>അനന്തം</term>
+          <term>അജ്ഞാതം അവർണനീയം...</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 4, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Artist_Carried_in_a_Sillero_over_the_Chiapas.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:JeanFr%C3%A9d%C3%A9ric_Waldeck__The_Artist_Carried_in_a_Sillero_over_the_Chiapas_from_Palenque_to_Ocosingo,_Mexico__2014-147_-_Princeton_University_Art_Museum.jpg">The Artist Carried in a Sillero
+over the Chiapas from Palenque to Ocosingo, Mexico,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:JeanFr%C3%A9d%C3%A9ric_Waldeck">Jean-Frédéric Waldeck</ref>  (1766–1875).
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അനന്തം, അജ്ഞാതം അവർണനീയം...</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അനന്തം, അജ്ഞാതം അവർണനീയം…</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mayawati.jpg" rendition="gra"/>
+            <figDesc style="thumb">മായാവതി</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മെയ് 3-നു് ശുഭമുഹൂർത്തത്തിൽ ഉത്തർപ്രദേശിലെ രാഷ്ട്രീയാനിശ്ചിതത്വത്തിനു തിരശ്ശീലയിട്ടുകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> യുടെ
+നേതൃത്വത്തിലുള്ള കൂട്ടുകക്ഷിമന്ത്രിസഭ നിലവിൽവന്നു. ഏഴുവർഷത്തിനകം ഇതു് മൂന്നാംതവണയാണു് ബഹൻജി
+യു. പി.-യുടെ ഭരണസാരഥ്യമേൽക്കുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PK_Chathan_Master.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചാത്തൻ മാസ്റ്റർ</figDesc>
+          </figure>
+          <p> ജനസംഖ്യയിൽ രണ്ടാംസ്ഥാനത്തു വിസ്തീർണത്തിൽ രണ്ടാംസ്ഥാനത്തും നിൽക്കുന്ന സംസ്ഥാനമാകുന്നു.
+ഉത്തർപ്രദേശ്. വടക്കുപടിഞ്ഞാറൻ യു. പി.-യെ വെട്ടിമുറിച്ചു ഉത്തരാഞ്ചൽ ആക്കിയിട്ടും വ്യത്യാസമൊന്നുമില്ല.
+ജാതിചിന്ത ശക്തമായ ഗംഗസമതലത്തിലാണു് അതും ഉത്തർപ്രദേശിൽ. ഒരു ദളിത് വനിത മുഖ്യമന്ത്രിയാകുന്നതു്.
+ആരുടെയും ഓശാരത്തിലല്ല. ഓരോ ഇഞ്ചും പൊരുതി നേടിയതാണു് മുഖ്യമന്ത്രിസ്ഥാനം. നമ്മുടെ സാക്ഷര സുന്ദര
+കേരളത്തിൽ എന്താണു് കഥ? <ref target="https://ml.wikipedia.org/wiki/P.K.Chathan">ചാത്തൻ മാസ്റ്റർ</ref> മുതൽ
+കുട്ടപ്പൻ ഡോക്ടർ വരെയുള്ളവർക്കു് പട്ടികജാതി ക്ഷേമവകുപ്പല്ലാതെ ഭരിക്കാൻ കിട്ടിയിട്ടില്ല. ഭാർഗവിതങ്കപ്പൻ
+എന്ന ദലിത് സ്ത്രീ ‘ഡപ്പിടി’ സ്പീക്കർ വരെയായി. കെ. കെ. വിജയലക്ഷ്മിയാണെങ്കിൽ കെ. പി. സി. സി.-യുടെ 14
+ജനറൽ സെക്രട്ടറിമാരിൽ ഒരാളും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Inder_Kumar_Gujral.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഐ. കെ ഗുജ്റാൾ</figDesc>
+          </figure>
+          <p> അതിശക്തമായ ദലിത് വോട്ടുബാങ്കാണു് ബഹുജൻ സമാജ്പാർട്ടിക്കു് യു. പി.-യിലുള്ളതു്. ഉത്തർപ്രദേശിനെ
+സംബന്ധിച്ചിടത്തോളം ബി. എസ്. പി.-യെന്നാൽ <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> യാണു്.
+കാൻഷിറാമിന്റെ മാതൃസംസ്ഥാനമായ പഞ്ചാബിൽപോലും ബി. എസ്. പി.-ക്കു് പിടിച്ചുനിൽക്കാൻ കഴിയാത്ത
+അവസ്ഥയിലും ഉത്തർപ്രദേശിൽ പാർട്ടിയെ നിലനിറുത്തുന്നതു് ബഹൻജിയുടെ വൈഭവം ഒന്നുമാത്രമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mulayam_Singh_Yadav.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുലായം സിംഗ് യാദവ്</figDesc>
+          </figure>
+          <p> ബഹുജൻ സമാജ് പാർട്ടിയുടെ അടിത്തറയെക്കുറിച്ചുള്ള ബോധ്യമാണു് കാൻഷിറാമുമായി കൈകോർക്കാൻ
+<ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായം സിംഗ്
+
+യാദവി</ref> നെ പ്രേരിപ്പിച്ചതു്. ബാബരി മസ്ജിദ് തകർച്ചക്കുശേഷം 1993 നവംബറിൽ നടന്ന തെരഞ്ഞെടുപ്പ്.
+കോൺഗ്രസിതര മതേതര കക്ഷികളെല്ലാം ഒറ്റക്കെട്ടായി ബി. ജെ. പി.-യെ എതിർക്കണമെന്നായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Vishwanath_Pratap_Singh">വി. പി.
+സിംഗി</ref> ന്റെ ആഗ്രഹം. അതിനായി ത്യാഗം സഹിക്കാൻ ജനതാദളും ഇടതുപക്ഷ കക്ഷികളും
+സന്നദ്ധവുമായിരുന്നു. എന്നാൽ ബി. എസ്. പി.-യുമായി മാത്രം മതി സഖ്യമെന്നായിരുന്നു യാദവിന്റെ തീരുമാനം.
+എസ്. പി-ബി. എസ്. പി. സഖ്യം വളരെ ഫലപ്രദമായിരുന്നുതാനും. 425 അംഗ യു. പി. വിധാൻസഭയിൽ
+സഖ്യത്തിനു് 176 സീറ്റുകൾ നേടാനായി. മറുവശത്ത് ബി. ജെ. പി.-യുടെ അംഗബലം 291-ൽ നിന്നു് 177 ആയി
+കുറഞ്ഞു. കോൺഗ്രസും ജനതാദളും കനത്ത തിരിച്ചടി നേരിട്ടു. കോൺഗ്രസിന്റെ സീറ്റുകൾ 46-ൽ നിന്നു 28 ആയും
+ദളിന്റേതു് 93-ൽനിന്നു 27 ആയും ഇടിഞ്ഞു മതേതര മൂല്യങ്ങൾ സംരക്ഷിക്കാനായി എ.പി-ബി.എസ്.പി സഖ്യത്തെ
+പിന്തുണക്കുകയല്ലാതെ കോൺഗ്രസിനും ജനതാദളിനും നിവൃത്തിയില്ലാതായി.
+</p>
+          <p>ആ തെരഞ്ഞെടുപ്പോടെ യു. പി.-യെ സംബന്ധിച്ചിടത്തോളം കോൺഗ്രസും ജനതാദളും അപ്രസക്തമായി.
+പാർട്ടികളുടെ സാമുദായികാടിത്തറയിലും വലിയ മാറ്റങ്ങളുണ്ടായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Nitish_Kumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നിതീഷ്കുമാർ</figDesc>
+          </figure>
+          <p> ബ്രാഹ്മണരും മുസ്ലിംകളും പട്ടികജാതിക്കാരുമായിരുന്നു എക്കാലവും കോൺഗ്രസിന്റെ വോട്ടുബാങ്ക്.
+ബ്രാഹ്മണേതര മുന്നാക്ക ഹിന്ദുക്കൾ ബി. ജെ. പി.-യെയും പിന്നാക്ക സമുദായക്കാർ ജനതാദളിനെയും പിന്തുണച്ചു.
+ബാബരി മസ്ജിദിന്റെ തകർച്ചക്കുശേഷം മുസ്ലിംകൾ കോൺഗ്രസിനെ കൈവിട്ടു. അവരിൽ ബഹുഭൂരിപക്ഷവും
+സമാജ്വാദ് പാർട്ടിയെ പിന്താങ്ങി. ബ്രാഹ്മണർ ബി. ജെ. പി.-യും പട്ടികജാതിക്കാർ ബി. എസ്. പി.-യിലും അഭയം
+കണ്ടെത്തി. യാദവരാദികളായ പിന്നാക്ക സമുദായക്കാരേറെയും സമാജ്വാദിപാർട്ടിയുടെ കൊടിക്കീഴിൽ
+അണിനിരന്നു. എസ്. പി.-ബി. എസ്. പി. സഖ്യത്തിലൂടെ പിന്നാക്ക മുസ്ലിം ദലിത് ഐക്യം പ്രാവർത്തികമായി
+എന്നും ബി. ജെ. പി.-യുടെ ഹിന്ദുത്വമുഖംമൂടിയടണിഞ്ഞ സവർണഐക്യത്തിനു് യഥാർഥ ബദൽ ഇതാണെന്നും
+രാഷ്ട്രീയ നിരീക്ഷകർ വിലയിരുത്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_P_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. പി. സിംഗ്</figDesc>
+          </figure>
+          <p> എന്നാൽ യു. പിയിലെ ദലിത്-പിന്നാക്ക ഐക്യം അൽപായുസ്സായി. രാഷ്ട്രീയ നിരീക്ഷകരും സാമൂഹിക
+ശാസ്ത്രജ്ഞരും എന്തുതന്നെ പറഞ്ഞാലും സാമുഹിക രാഷ്ട്രീയ മണ്ഡലങ്ങളിൽ ദലിതരുടെ തൊട്ടടുത്ത
+എതിരാളികൾ പിന്നാക്ക സമുദായക്കാരാണു്. ബീഹാറിലും യു. പി.-യിലുമൊക്കെ പട്ടികജാതിക്കാരെ
+ചുട്ടുകൊല്ലുന്നതു് രജപുത്രരോ ബ്രാഹ്മണരോ അല്ല, യാദവർ മുതലായ പിന്നാക്ക ഹിന്ദുജാതിക്കാരാണു്.
+(തമിഴ്‌നാട്ടിൽ വണ്ണിയരുടെ പട്ടാളിമക്കൾ കക്ഷിയും ദലിതരുടെ പുതിയ തമിഴകവും തമ്മിലുള്ള കുടിപ്പകയും
+ഓർമിക്കുക). <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗി</ref>
+നു് <ref target="https://en.wikipedia.org/wiki/Kanshi_Ram">കാൻഷിറാമി</ref>
+നെയോ <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref>
+യെയോ തുല്യനിലയിൽ കാണാനോ ആദരിക്കാനോ കഴിയാഞ്ഞതു് സ്വാഭാവികം. കസേര ഉറപ്പിക്കാനുള്ള
+തത്രപ്പാടിൽ യാദവൻ സഖ്യകക്ഷികളെത്തന്നെ പിളർക്കാൻ തുടങ്ങി. സി. പി. ഐ, സി. പി. എം, ജനതാദൾ
+കക്ഷികളിൽനിന്നൊക്കെ എം. എൽ. എ.-മാരെ ചാക്കിട്ടുപിടിച്ചു. എതിർക്കാൻ ത്രാണിയില്ലാത്തതുകൊണ്ടു്
+അവർക്കു സഹിക്കുകയേ വഴിയുണ്ടായുള്ളൂ. ബി. എസ്. പി.-യിലെ ചില പിന്നാക്ക, മുസ്ലിം എം. എൽ. എ.-മാരെയും
+ചാക്കിൽ കയറ്റാൻ <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗ്</ref>
+ശ്രമം തുടങ്ങിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> ക്ഷോഭിച്ചു.
+എസ്. പി.-ബി. എസ്. പി. ഭിന്നത ബി. ജെ. പി. ശരിക്കും മുതലാക്കി. അവർ മായാവതിക്കു് മുഖ്യമന്ത്രിപദം ഓഫർ
+ചെയ്തു. മുഖ്യമന്ത്രിക്കസേര കണ്ടപ്പോൾ ബഹൻജിയുടെ കണ്ണു് മഞ്ഞളിച്ചു. 1995 ജൂൺ 1-നു മന്ത്രിസഭ
+അട്ടിമറിക്കപ്പെട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_R_Narayanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">നാരായണൻ</figDesc>
+          </figure>
+          <p> ലഗ്നാലോ ചന്ദ്രാലോ യോജിക്കാൻ സാധ്യതയില്ലാത്ത പാർട്ടികളാണു് ബി. ജെ. പി.-യും ബി. എസ്. പി.-യും.
+അതുവരെ ‘മനുവാദി’ പാർട്ടിയെ ആക്ഷേപിച്ചുനടന്ന <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref>, ബി. ജെ. പി.
+പിന്തുണയോടെ ജൂൺ മൂന്നിനു് മന്ത്രിസഭയുണ്ടാക്കി. ഉത്തർപ്രദേശ് മുഖ്യയാകണമെന്ന ബഹൻജിയുടെ മോഹം
+പൂവണിഞ്ഞു; മൗലാനാ മുലായമിനെ പുറത്താക്കണമെന്ന ബി. ജെ. പി.-യുടെ ലക്ഷ്യവും നിറവേറി.
+വിരുദ്ധശക്തികളുടെ ഈ കൂട്ടുകെട്ടും അൽപായുസ്സായി. ബി. ജെ. പി. പിന്തുണ പിൻവലിക്കയാൽ ഒക്ടോബർ
+17-നു് മന്ത്രിസഭ തകർന്നു: നിയമസഭയും പിരിച്ചുവിട്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sitaram_Kesari.png" rendition="gra"/>
+            <figDesc style="thumb">സീതാറാം കേസരി</figDesc>
+          </figure>
+          <p> 1996 ഒക്ടോബറിൽ നടന്ന തെരഞ്ഞെടുപ്പിൽ ബി. ജെ. പി.-യും എസ്. പി.-യും ഒറ്റക്കൊറ്റക്കു് മൽസരിച്ചു.
+ബഹുജൻസമാജ് പാർട്ടി കോൺഗ്രസുമായി സഖ്യമുണ്ടാക്കി. ബി. എസ്. പി. 300 സീറ്റിലും കോൺഗ്രസ് 125-ലും
+മൽസരിച്ചു. (<ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+യെപ്പറ്റി അശ്ശീല പരാമർശം നടത്തുന്ന <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> യുമായി
+കോൺഗ്രസ് സഖ്യമുണ്ടാക്കരുതെന്നു് യുദ്ധ ഗാന്ധിയൻ പത്രമായ മാതൃഭൂമി മുഖപ്രസംഗം വഴി ആവശ്യപ്പെട്ടിട്ടും
+ഫലമുണ്ടായില്ല). വോട്ടെണ്ണിയപ്പോൾ ആർക്കുമില്ല ഭൂരിപക്ഷം. ഏറ്റവും വലിയ ഒറ്റക്കക്ഷിയെന്ന നിലക്കു് തങ്ങളെ
+വിളിക്കണമെന്നു് ബി. ജെ. പി. ആവശ്യപ്പെട്ടെങ്കിലും ഗവർണർ ഗൗനിച്ചില്ല. <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> രൂപവത്കരിക്കുന്ന
+മന്ത്രിസഭയെ സമാജ് വാദി പാർട്ടിപുറത്തുനിന്നു പിന്താങ്ങണം എന്നു് കോൺഗ്രസ് അധ്യക്ഷൻ <ref target="https://en.wikipedia.org/wiki/Sitaram_Kesri">സീതാറാം കേസരി</ref>
+ആവശ്യപ്പെട്ടതു് <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായം സിംഗ്
+യാദവും</ref> ചെവികൊണ്ടില്ല. അക്കാലത്തു് കേന്ദ്രത്തിൽ പ്രതിരോധമന്ത്രിയായിരുന്ന യാദവിനു്
+യു. പി.-യിൽ മതേതര മന്ത്രിസഭയുണ്ടാകണമെന്നു് അത്രവലിയ നിർബന്ധമൊന്നുമില്ലായിരുന്നു.
+മായാവതിയാണെങ്കിൽ യാദവന്റെ ഒന്നാം നമ്പർ ശത്രുവും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/H_D_Deve_Gowda.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദേവഗൗഡ</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് കഴിഞ്ഞു് മാസം ആറായിട്ടും മന്ത്രിസഭയുണ്ടാകാഞ്ഞപ്പോൾ ബഹൻജി അക്ഷമയായി. ആ
+തക്കം നോക്കി ബി. ജെ. പി. പിന്തുണയുമായെത്തി. 1997 മാർച്ച് 21-നു ബി. എസ്. പി-ബി. ജെ. പി. കൂട്ടു മന്ത്രിസഭ
+യാഥാർഥ്യമായി. ഇളിഭ്യനായ കേസരി കേന്ദ്രമന്ത്രിസഭക്കുള്ള പിന്തുണ പിൻവലിച്ചു. <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref> യുടെ
+സ്ഥാനത്തു് <ref target="https://en.wikipedia.org/wiki/Inder_Kumar_Gujral">ഐ. കെ
+ഗുജ്റാൾ</ref> ആയി പ്രധാനമന്ത്രി. മുൻ നിശ്ചയപ്രകാരം ആറുമാസം തികയുമ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref>
+കല്യാൺസിംഗിനുവേണ്ടി സ്ഥാനം ഒഴിയുമോ എന്ന സംശയം നിലനിന്നു. <ref target="https://en.wikipedia.org/wiki/Kanshi_Ram">കാൻഷിറാമും</ref> <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> യും ഒളിഞ്ഞും
+തെളിഞ്ഞും ബി. ജെ. പി.-യെ വിമർശിക്കുക പതിവാക്കി. സെപ്റ്റംബർ 21-നു് മായാവതി സ്ഥാനമൊഴിഞ്ഞു:
+
+കല്യാൺസിംഗ് മുഖ്യമന്ത്രിയായി. ഒരു മാസത്തിനകം ബി. എസ്. പി. പിന്തുണ പിൻവലിച്ചെങ്കിലും കല്യാൺസിംഗ്
+കുലുങ്ങിയില്ല. കോൺഗ്രസിൽനിന്നു 22-ഉം ബി. എസ്. പിയിൽ നിന്നു 12-ഉം ജനതാദളിൽ നിന്നു് മൂന്നും അംഗങ്ങളെ
+ചാക്കിട്ടു് ഭൂരിപക്ഷം ഉറപ്പാക്കി. മന്ത്രിസഭയെ ഡിസ്മിസ് ചെയ്യാൻ കേന്ദ്രം ശിപാർശ ചെയ്തെങ്കിലും രാഷ്ട്രപതി
+<ref target="https://ml.wikipedia.org/wiki/K._R._Narayanan">നാരായണൻ</ref>
+നിരാകരിച്ചു. കാലുമാറ്റക്കാരെ അയോഗ്യരാക്കാൻ മായാവതി പഠിച്ചപണി പതിനെട്ടും പയറ്റിയെങ്കിലും
+ബി. ജെ. പി.-ക്കാരനായ സ്പീക്കർ <ref target="https://en.wikipedia.org/wiki/Keshari_Nath_Tripathi">കേസരിനാഥ്
+ത്രിപാഠി</ref> അവയൊക്കെ പരാജയപ്പെടുത്തി. 2002 ഫെബ്രുവരി വരെ ബി. ജെ. പി. ഭരണം നിലനിന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Keshari_Nath_Tripathi.jpg" rendition="gra"/>
+            <figDesc style="thumb">കേസരിനാഥ് ത്രിപാഠി</figDesc>
+          </figure>
+          <p> 1989 ഏപ്രിൽ 17-നു് <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+മന്ത്രിസഭ വിശ്വാസവോട്ട് തേടിയപ്പോൾ മായാവതി പകരംവീട്ടി. ചർച്ച തുടങ്ങുമ്പോൾ ബി. എസ്. പി.
+കയ്യാലപ്പുറത്തായിരുന്നു. രാവിലെ ബി. ജെ. പി.-യോടും വൈകിട്ടു് കോൺഗ്രസിനോടും ചർച്ച നടത്തി.
+നിഷപക്ഷത പാലിക്കുമെന്നു സഭയിൽ പ്രഖ്യാപിച്ചശേഷം പ്രമേയത്തെ എതിർത്തു് വോട്ടുചെയ്തു.
+ബി. എസ്. പി.-യുടെ അഞ്ചു് വോട്ട് മന്ത്രിസഭയുടെ വിധി നിർണയിച്ചു. 269-നെതിരെ 270 വോട്ടിനു്
+വിശ്വാസപ്രമേയം പരാജയപ്പെട്ടു. പിന്നീടു് നടന്നതെരഞ്ഞെടുപ്പിൽ ബി. എസ്. പി.-ക്കു 14 സ്ഥാനങ്ങൾ ലഭിച്ചു.
+എല്ലാം യു. പി.-യിൽ ആയിരുന്നുതാനും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kalraj_Mishra.png" rendition="gra"/>
+            <figDesc style="thumb">കൽരാജ് മിശ്ര</figDesc>
+          </figure>
+          <p> ഇക്കഴിഞ്ഞ നിയമസഭാ തെരഞ്ഞെടുപ്പിൽ ഒരു പാർട്ടിക്കും ഭൂരിപക്ഷം ലഭിക്കരുതെന്നായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> യുടെ ആഗ്രഹം.
+അതു് ഫലിക്കുകയും ചെയ്തു. 143 സീറ്റ് ലഭിച്ച സമാജ് വാദി പാർട്ടിക്കു പിന്നിൽ 98 സീറ്റോടെ ബി. എസ്. പി.
+രണ്ടാമതെത്തി; 88 സ്ഥാനങ്ങൾ ലഭിച്ച ബി. ജെ. പി. മൂന്നാമതായി. ബി. എസ്. പി.-യുടെ വോട്ടുബാങ്കിൽ
+വിള്ളലുണ്ടാക്കാൻ ബി. ജെ. പി.-ക്കോ എസ്. പി.-ക്കോ കഴിഞ്ഞില്ല. വ്യവസായികൾ പണച്ചാക്കുകളുമായി
+ബി. ജെ. പി, എസ്. പി. കക്ഷികളെ പിന്തുണച്ചു. <ref target="https://en.wikipedia.org/wiki/Rajnath_Singh">രാജ്നാഥ്സിംഗും</ref> <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗും</ref>
+പറന്നുനടന്നു് പ്രചരണം നടത്തിയപ്പോൾ പാവം <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> കാറിലാണു്
+പര്യടനം നടത്തിയതു്. ഒട്ടേറെ മുസ്ലിം മുന്നാക്ക സമുദായാംഗങ്ങൾക്കും ബി. എസ്. പി. സീറ്റ് നൽകി. അവരിൽ 32
+സവർണരും 15 മുസ്ലിംകളും ജയിച്ചുകയറി. മുമ്പൊരിക്കലും 70 സീറ്റ് തികച്ചുനേടാൻ കഴിയാഞ്ഞ (അതും
+സഖ്യത്തിൽ മൽസരിക്കുമ്പോൾ) ബഹുജൻ സമാജ് പാർട്ടി ഇത്തവണ ഒറ്റക്കു് 98 സീറ്റുകളിൽ ജയിച്ചതു്
+വലിയനേട്ടം തന്നെയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Atal_Bihari_Vajpayee.jpg" rendition="gra"/>
+            <figDesc style="thumb">വാജ്പേയി</figDesc>
+          </figure>
+          <p> ഏറ്റവും വലിയ ഒറ്റക്കക്ഷിയുടെ നേതാവായ തന്നെ മന്ത്രിസഭയുണ്ടാക്കാൻ ക്ഷണിക്കണമെന്നായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലാംയംസിംഗി</ref>
+ന്റെ ആവശ്യം. കേന്ദ്രത്തിൽ ബി. ജെ. പി.-യുടെ ഭരണമാണു്. ഗവർണർ വിഷ്ണുകാന്ത് സഹായ് മുരത്ത
+ആർ. എസ്. എസുകാരനും. 25 അംഗങ്ങളുള്ള കോൺഗ്രസ് സഹായഹസ്തം നീട്ടിയിരുന്നെങ്കിൽ പിന്നെ
+സ്വതന്ത്രന്മാരെ ചാക്കിട്ടോ ബി. എസ്. പി. പിളർത്തിയോ മന്ത്രിസഭയുണ്ടാക്കാമായിരുന്നു. പക്ഷേ, മാഡം
+
+സോണിയ കനിഞ്ഞില്ല. (കൊടുത്താൽ ലക്നോവിലും കിട്ടും. 1999 ഏപ്രിലിൽ ബദൽ മന്ത്രിസഭയുണ്ടാക്കാൻ
+തുനിഞ്ഞിറങ്ങിയ മാഡത്തെ പിന്നിൽനിന്നു്. കുത്തിയതു് യാദവൻ ആയിരുന്നില്ലല്ലോ).
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ram_Vilas_Paswan.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാംവിലാസ് പാസ്വാൻ</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് ഫലം എതിരായതുകൊണ്ടു് പ്രതിപക്ഷത്തിരിക്കും എന്നു് ബി. ജെ. പി. പ്രഖ്യാപിച്ചു. <ref target="https://en.wikipedia.org/wiki/Rajnath_Singh">രാജ്നാഥ്സിംഗും</ref> <ref target="https://en.wikipedia.org/wiki/Kalraj_Mishra">കൽരാജ് മിശ്ര</ref> യും
+പ്രഖ്യാപനം ആവർത്തിച്ചു. എന്നാലും നാളുകൾ നീങ്ങുന്തോറും ഭരണമില്ലാത്ത ജീവിതം വ്യർഥമാണെന്നു്
+തോന്നിതുടങ്ങി. <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗ്</ref>
+അധികാരം പിടിച്ചാൽ അയോധ്യാകേസ് കുത്തിപ്പൊക്കും, <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാനി</ref> യും
+ജോഷിയുമൊക്കെ അകത്താകും. ഗുജറാത്ത് സംഭവങ്ങളെ തുടർന്നു ആടി നിൽക്കുന്ന ‘മതേതര’ ഘടകക്ഷികളെ
+ഉറപ്പിച്ചുനിറുത്താനും ബി. എസ്. പി. സഖ്യം ഉപകരിക്കും. സർവോപരി, വരാനിരിക്കുന്ന രാഷ്ട്രപതി
+തെരഞ്ഞെടുപ്പിൽ ബി. എസ്. പി.-യുടെ 36,000 ഇലക്ട്രൽവോട്ട് നിർണായകമാവും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kanshiram.jpg" rendition="gra"/>
+            <figDesc style="thumb">കാൻഷിറാം</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref>
+ക്കാണെങ്കിൽ ലക്ഷ്യത്തെയോ മാർഗത്തെയോ പറ്റി ഒരു സംശയവുമുണ്ടായിരുന്നില്ല. ലക്ഷ്യം—മുഖ്യമന്ത്രി പദം,
+മാർഗം—ബി. ജെ. പി. സംഖ്യം. രാജ്യസഭാ തെരഞ്ഞെടുപ്പിൽ ബി. ജെ. പി. സ്ഥാനാർഥിക്കു വോട്ടുമറിച്ചുകൊണ്ടു്
+<ref target="https://en.wikipedia.org/wiki/Kanshi_Ram">കാൻഷിറാം</ref> ആദ്യ
+സൂചന നൽകി. പിന്നാലെ ഭീകരപ്രവർത്തൻ നിരോധന ബില്ലിന്റെ ചർച്ചാവേളയിൽ ഒടുവിൽ
+ശാസനാപ്രമേയത്തിന്റെ വോട്ടിംഗ് വേളയിലും കേന്ദ്രസർക്കാറിനെ പിന്തുണച്ചു. വരാനിരിക്കുന്ന രാഷ്ട്രപതി,
+ഉപരാഷ്ട്രപതി തെരഞ്ഞെടുപ്പുകളിലും ബി. എസ്. പി.-യുടെ വോട്ട് ബി. ജെ. പി. സ്ഥാനാർഥികൾക്കാണു്. <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> ക്കു്
+കേന്ദ്രമന്ത്രിസ്ഥാനം, കാൻഷിറാമിനു് ഉപരാഷ്ട്രപതി പദവി—ഇതൊക്കെ ബി. ജെ. പി. വാഗ്ദാനം ചെയ്തിട്ടും
+ഫലിച്ചില്ല. യു. പി. മുഖ്യമന്ത്രിയിൽ കൂടിയതോ കുറഞ്ഞതോ ആയ ഒരു സ്ഥാനവും ഞങ്ങൾക്കുവേണ്ട. ബി. ജെ. പി.
+ഉപമുഖ്യമന്ത്രി സ്ഥാനത്തിനുവേണ്ടി കെഞ്ചിയിട്ടും ലഭിച്ചില്ല. ബി. ജെ. പി. ബാന്ധവത്തിൽ പ്രതിഷേധിച്ചു് <ref target="https://en.wikipedia.org/wiki/Arif_Mohammad_Khan">ആരിഫ്
+മുഹമ്മദഖാൻ</ref> രാജിവെച്ചിട്ടും കുലുങ്ങിയില്ല മായാവതി. ഇനി <ref target="https://en.wikipedia.org/wiki/Kanshi_Ram">കാൻഷിറാം</ref> രാജിവെച്ചാൽ
+കുലുങ്ങില്ല. പിന്നയല്ലേ <ref target="https://en.wikipedia.org/wiki/Arif_Mohammad_Khan">ആരിഫ്ഖാൻ</ref>?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Arif_Mohammad_Khan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആരിഫ് മുഹമ്മദഖാൻ</figDesc>
+          </figure>
+          <p> ബി. എസ്. പി. ബാന്ധവത്തിൽ പ്രതിഷേധിച്ചു് (പുറമേക്കു് പറഞ്ഞ കാരണം വേറേയാണു്) ദേശീയ
+ജനാധിപത്യ സഖ്യം വിട്ടുപോയിരിക്കുന്നു. <ref target="https://en.wikipedia.org/wiki/Ram_Vilas_Paswan">രാംവിലാസ്
+പാസ്വാൻ</ref>. കത്തിച്ചാൽ കത്തുന്ന മതേതരനും സാമൂഹിക നീതിയുടെ അപ്പോസ്തലനുമാണു് പാസ്വാൻ.
+1977 മുതൽ ബീഹാറിലെ ഹാജിപ്പുർ (സംവരണ)മണ്ഡലം അട്ടിപ്പേറാക്കിവെച്ചിരിക്കുകയാണു് അദ്ദേഹം. 1989–90
+കാലത്തു് <ref target="https://ml.wikipedia.org/wiki/Vishwanath_Pratap_Singh">വി. പി.
+സിംഗി</ref> ന്റെയും 1996–98 കാലഘട്ടത്തിൽ <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ഗൗഡ</ref>. <ref target="https://en.wikipedia.org/wiki/Inder_Kumar_Gujral">ഗുജ്റാൾ</ref>
+മാരുടെയും മന്ത്രിസഭകളിൽ അംഗവുമായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Lal_Krishna_Advani.jpg" rendition="gra"/>
+            <figDesc style="thumb">അദ്വാനി</figDesc>
+          </figure>
+          <p> 1996 ജൂൺ 1. <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+13 ദിവസത്തെ ഭരണംകഴിഞ്ഞു് <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref> യുടെ
+സർക്കാർ അധികാരമേൽക്കുന്നു. മന്ത്രിമാരുടെ കൂട്ടത്തിൽ <ref target="https://en.wikipedia.org/wiki/Ram_Vilas_Paswan">പാസ്വാനും</ref> ഉണ്ടു്.
+സത്യപ്രതിജ്ഞ കഴിഞ്ഞു് രാഷ്ട്രപതി <ref target="https://en.wikipedia.org/wiki/Shankar_Dayal_Sharma">ശങ്കർദയാൽ
+ശർമ</ref> ഹസ്തദാനത്തിനായി <ref target="https://en.wikipedia.org/wiki/Ram_Vilas_Paswan">പാസ്വാനു</ref> നേരെ
+കൈനീട്ടി. കൈകൊടുക്കാതെ പാസ്വാൻ തിരിഞ്ഞുനടന്നു. ബ്രാഹ്മണനായ രാഷ്ട്രപതി തൊട്ടു് അശുദ്ധമാകണ്ട
+എന്നു് കരുതിയിട്ടില്ല. ബി. ജെ. പി. 13 ദിവസത്തേക്കാണെങ്കിലും മന്ത്രിസഭയുണ്ടാക്കാൻ വിളിച്ചതിലുള്ള
+പ്രതിഷേധം. 1998 ഏപ്രിലിൽ വാജ്പേയി വിശ്വാസവോട്ടുതേടുമ്പോഴും <ref target="https://en.wikipedia.org/wiki/Ram_Vilas_Paswan">രാംവിലാസ്
+പാസ്വാൻ</ref> ബി. ജെ. പി. വിരുദ്ധനാണു്. എന്നാൽ ഒക്ടോബറിൽ തെരഞ്ഞെടുപ്പാകുമ്പോഴേക്കും ദേശീയ
+ജനാധിപത്യ സഖ്യത്തിൽ ചേക്കേറി. വാജ്പേയി മന്ത്രിസഭയിൽ അംഗവുമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lalu_Prasad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലാലുപ്രസാദ് യാദവ്</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav">ലാലുപ്രസാദ്
+യാദവി</ref> നോടുള്ള പകയാണു് പാസ്വാനെ ബി. ജെ. പി. പാളയത്തിലെത്തിച്ചതു്. (വീണ്ടും ദലിത്-പിന്നാക്ക
+വൈരുധ്യം) ബീഹാറിലെ മുഖ്യമന്ത്രിക്കസേരയാണു് പാസ്വാന്റെ ലക്ഷ്യം. മതേതരും പിന്നാക്ക
+സമുദായക്കാരുമായ <ref target="https://ml.wikipedia.org/wiki/Sharad_Yadav">ശരത്യാദവ്</ref>, <ref target="https://en.wikipedia.org/wiki/Nitish_Kumar">നിതീഷ്കുമാർ</ref>
+എന്നിവരുടെയും സ്വപ്നം അതുതന്നെ. ബീഹാർ നിയമസഭാ തെരഞ്ഞെടുപ്പിൽ ഒരേ മുന്നണിയിൽനിന്നു മൂവരും
+പരസ്പരം വാരി. ഫലം—ആർക്കും ഭൂരിപക്ഷമില്ല. ഝാർഖണ്ട് മുക്തിമോർച്ചയെ സ്വാധീനിച്ചു്
+മന്ത്രിസഭയുണ്ടാക്കാൻ വാജ്പേയി നിശ്ചയിച്ചതു് നിതീഷ്കുമാറിനെ. പാസ്വാൻ എങ്ങനെ സഹിക്കും? ഏതായാലും
+നിതീഷിന്റെ മന്ത്രിസഭ ഏഴുദിവസമേ നിലനിന്നുള്ളു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Shankar_Dayal_Sharma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശങ്കർദയാൽ ശർമ</figDesc>
+          </figure>
+          <p> ബീഹാറിനെ വെട്ടിമുറിച്ചു് ഝാർഖണ്ട് ഉണ്ടാക്കിയതോടെ പാസ്വാന്റെ പ്രസക്തി ഇല്ലാതായി. ബീഹാർ
+ലാലുവിനു്, ഝാർഖണ്ട് ബി. ജെ. പി.-ക്കു്. പാസ്വാനെ വാർത്താവിനിമയ വകുപ്പിൽനിന്നു് അപ്രധാനമായ
+കൽക്കരി ഖനന വകുപ്പിലേക്കു് മാറ്റി. <ref target="https://en.wikipedia.org/wiki/Nitish_Kumar">നിതീഷിനു്</ref>
+
+കൃഷിവകുപ്പിൽനിന്നു് റെയിൽവേയിലേക്കു് സ്ഥാനക്കയറ്റവും നൽകി. അപമാനവും സഹിച്ചു് കഴിയുകയായിരുന്നു
+കഴിഞ്ഞ ഒരു വർഷം. ഉത്തർപ്രദേശ് നിയമസഭാ തെരഞ്ഞെടുപ്പിൽ പാസ്വാന്റെ പാർട്ടിക്കു് തുച്ഛമായ എട്ടു് സീറ്റേ
+മൽസരിക്കാൻ കിട്ടിയുള്ളു. അതിൽ രണ്ടെണ്ണം ജയിച്ചു. കൂട്ടുകക്ഷിയായ ബി. ജെ. പി. <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> യുടെ കൈയും
+പിടിച്ചു് അധികാരത്തിലേറുന്നതു് <ref target="https://en.wikipedia.org/wiki/Ram_Vilas_Paswan">പാസ്വാൻ</ref>
+എങ്ങനെ സഹിക്കും! ഈ രാജ്യത്തു് ഞാനല്ലാതെ ഒരു ദലിത് നേതാവോ? ഒരിക്കലും പാടില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajnath.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജ്നാഥ്സിംഗ്</figDesc>
+          </figure>
+          <p> ബി. എസ്. പി. പിന്തുണക്കു പ്രത്യുപകാരമായി പാസ്വാനെ കേന്ദ്രമന്ത്രിസഭയിൽനിന്നു് പറഞ്ഞയക്കണം
+എന്ന വ്യവസ്ഥ വെച്ചുവോ <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref>? <ref target="https://en.wikipedia.org/wiki/Ram_Vilas_Paswan">പാസ്വാന്റെ</ref>
+രാജിക്കത്തു് കിട്ടിയതും രാഷ്ട്രപതിക്കു് അയച്ചുകൊടുത്തതും ഒരുമിച്ചായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sharadyadavjdu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശരത്യാദവ്</figDesc>
+          </figure>
+          <p> കേന്ദ്രമന്ത്രസ്ഥാനം രാജിവെച്ച <ref target="https://en.wikipedia.org/wiki/Ram_Vilas_Paswan">രാംവിലാസ്
+പാസ്വാൻ</ref> വീണ്ടും മതേതരത്വത്തിന്റെയും സാമൂഹിക നീതിയുടെയും വക്കാലത്തു് ഏറ്റെടുത്തിട്ടുണ്ടു്. <ref target="https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav">ലാലുയാദവി</ref>
+നൊപ്പം കോൺഗ്രസ് മുന്നണിയിലോ <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗി</ref>
+നോടൊപ്പം മൂന്നാം മുന്നണിയിലോ എന്നേ അറിയാനുള്ളൂ. രണ്ടായാലും രാജ്യത്തിന്റെ ഭാവി സുരക്ഷിതം.
+സുശോഭനം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Anantham, Anjyatham,
+Avarnaneeyam... (ml: അനന്തം, അജ്ഞാതം അവർണനീയം...).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Anantham, Anjyatham, Avarnaneeyam..., കെ. രാജേശ്വരി, അനന്തം, അജ്ഞാതം അവർണനീയം...,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 4, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:JeanFr%C3%A9d%C3%A9ric_Waldeck__The_Artist_Carried_in_a_Sillero_over_the_Chiapas_from_Palenque_to_Ocosingo,_Mexico__2014-147_-_Princeton_University_Art_Museum.jpg">The Artist Carried in a Sillero
+over the Chiapas from Palenque to Ocosingo, Mexico,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:JeanFr%C3%A9d%C3%A9ric_Waldeck">Jean-Frédéric Waldeck</ref>  (1766–1875). The
+image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-aaa.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-aaa.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

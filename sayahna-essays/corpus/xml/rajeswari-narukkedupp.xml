@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നടുക്കെടുപ്പിലൂടെ ഒരു
+ജനാധിപത്യപരീക്ഷണം</title>
+          <title xml:lang="en" type="main">Narukkeduppiloode Oru
+Janadhipathyapareekshanam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2026">April 12, 2026</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നടുക്കെടുപ്പിലൂടെ ഒരു
+ജനാധിപത്യപരീക്ഷണം</title>
+              <title xml:lang="en" type="main">Narukkeduppiloode Oru
+Janadhipathyapareekshanam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Narukkeduppiloode Oru Janadhipathyapareekshanam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>നടുക്കെടുപ്പിലൂടെ ഒരു ജനാധിപത്യപരീക്ഷണം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 12, 2026</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Lotterieschwestern.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Josef_Gisela__Lotterieschwestern_-_7924_-_Kunsthistorisches_Museum.jpg">Lottery
+Sisters,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q26240462">Josef Gisela</ref>
+ (1851–1899). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നടുക്കെടുപ്പിലൂടെ ഒരു ജനാധിപത്യപരീക്ഷണം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നടുക്കെടുപ്പിലൂടെ ഒരു ജനാധിപത്യപരീക്ഷണം</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TU_Kuruvilla.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. യു. കുരുവിള</figDesc>
+          </figure>
+          <p style="noindent"> പറഞ്ഞുകേട്ടിട്ടുള്ളതാണു്. പാലാ-മീനച്ചിൽ ഭാഗത്തു് പണ്ടുണ്ടായിരുന്ന കുപ്രസിദ്ധ
+ഗുണ്ടാസംഘങ്ങൾ ഇരകളെയൊന്നും കിട്ടാതാകുമ്പോൾ സംഘാംഗങ്ങളിൽ നിന്നു് ഒരാളെ നറുക്കിട്ടെടുത്തു്
+കുത്തിക്കൊല്ലുമായിരുന്നുവത്രെ. പിന്നീടു് ജനാധിപത്യം ശക്തിപ്പെട്ടതിനെതുടർന്നു് ഗുണ്ടകൾ ഏറെയും
+ബ്ലേഡുകമ്പനിക്കാരുടെ ആശ്രിതരായി ഏറ്റുമാനൂർക്കു് താമസം മാറ്റി. ശേഷിച്ചവർ വിവിധ കേരള കോൺഗ്രസ്
+ഗ്രൂപ്പുകളുടെ പതാകാവാഹകരുമായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mons_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">മോൻസ് ജോസഫ്</figDesc>
+          </figure>
+          <p> നറുക്കെടുപ്പു് ആളെ കുത്തിക്കൊല്ലുന്ന കാര്യത്തിൽപോലും അനുവർത്തിക്കത്തക്കവിധത്തിൽ
+മധ്യതിരുവിതാംകൂർ ക്രിസ്ത്യാനികളിൽ അലിഞ്ഞുചേർന്നിരിക്കുന്ന ജനാധിപത്യബോധത്തെയും
+ഈശ്വരവിശ്വാസത്തെയും സ്പഷ്ടമാക്കുന്നു. തുല്യനിലയിൽ യോഗ്യരായ രണ്ടോ അതിലധികമോ പേരിൽനിന്നു്
+ഒരാളെ തെരഞ്ഞെടുക്കേണ്ടിവരുമ്പോൾ മനുഷ്യന്റെ തീർപ്പു് പക്ഷപാതപരമാകാം, തെറ്റാകാം. വോട്ടെടുപ്പു്
+ഇത്തരം സന്ദർഭങ്ങളിൽ അനുചിതമാണു്, അപ്രസക്തമാണു്. മറിച്ചു്, നറുക്കെടുപ്പിൽ തീരുമാനമെടുക്കുന്നതു്
+ദൈവമാണു്. ദൈവഹിതം തെറ്റുക അസാധ്യം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Eapen_Varghese.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഈപ്പൻ വർഗീസ്</figDesc>
+          </figure>
+          <p> ഷെവലിയാർ <ref target="https://ml.wikipedia.org/wiki/T._U._Kuruvilla">ടി. യു. കുരുവിള</ref>
+രാജിവെച്ച ഒഴിവിൽ ആരെ മന്ത്രിയാക്കണമെന്നു് നമ്മുടെ കേരള കോൺഗ്രസുകാർ തലപുകഞ്ഞു് ആലോചിച്ചു.
+ഒറ്റതിരിഞ്ഞും കൂട്ടായും ചിന്തിച്ചു നെടുകെയും കുറുകെയും കൊണോടുകോണായും കൂട്ടിയും കിഴിച്ചും നോക്കി. നാലു്
+എം. എൽ. എ.-മാരാണു് പാർട്ടിക്കുള്ളതു്. ജോസഫും <ref target="https://ml.wikipedia.org/wiki/T._U._Kuruvilla">കുരുവിള</ref> യും
+ഇതിനകം അയോഗ്യത തെളിയിച്ചുകഴിഞ്ഞു. പിന്നെ രണ്ടുപേർ <ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസും</ref> <ref target="https://ml.wikipedia.org/wiki/V._Surendran_Pillai">സുരേന്ദ്രൻപിള്ള</ref>
+യും. രണ്ടുപേരും പരമയോഗ്യർ നലമുള്ള നവഗുണപരിമളർ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_C_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. തോമസ്</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസിനും</ref><ref target="https://ml.wikipedia.org/wiki/V._Surendran_Pillai">പിള്ള</ref>
+ക്കും പിന്തുണ തുല്യമായിരുന്നില്ല. ജോസഫ് ഗ്രൂപ്പിലെ മൂപ്പന്മാരധികവും <ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസ് ജോസഫി</ref>
+നെയാണു് പിന്താങ്ങിയതു്. പ്രത്യേകിച്ചു് <ref target="https://ml.wikipedia.org/wiki/Eapen_Varghese">ഈപ്പൻ വർഗീസ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Francis_George_(politician)">ഫ്രാൻസിസ്
+ജോർജ്</ref>, <ref target="https://ml.wikipedia.org/wiki/T._U._Kuruvilla">ടി. യു. കുരുവിള</ref>,
+ഡോ. <ref target="https://ml.wikipedia.org/wiki/K.C._Joseph">കെ. സി.
+ജോസഫ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Antony_Raju">ആന്റണി രാജു</ref>, വക്കച്ചൻ
+മറ്റത്തിൽ മുതൽപേർ. മറുവശത്തു് <ref target="https://ml.wikipedia.org/wiki/V._Surendran_Pillai">സുരേന്ദ്രൻപിള്ള</ref>
+ക്കു് പിന്തുണ നൽകാൻ <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസ്</ref>
+മാത്രമേ ഉണ്ടായിരുന്നുള്ളു. വോട്ടേടുപ്പു് നടത്തിയിരുന്നെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസ്</ref> പാട്ടും പാടി
+ജയിച്ചേനെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Francis_George.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഫ്രാൻസിസ് ജോർജ്</figDesc>
+          </figure>
+          <p> കടുത്തുരുത്തിക്കാരൻ, കത്തോലിക്കൻ, ചെറുപ്പക്കാരൻ, സംശുദ്ധമായ പ്രതിച്ഛായ ഉള്ളയാൾ എന്നീ
+പരിഗണനകൾവെച്ചു് എൽ. ഡി. എഫ്. നേതൃത്വത്തിനും മുഖ്യമന്ത്രിക്കുതന്നെയും <ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസി</ref> നോടായിരുന്നു
+താൽപര്യം. നിലവിലുള്ള മന്ത്രിസഭയിൽ ഒരൊറ്റ സുറിയാനി കത്തോലിക്കനുമില്ല എന്ന കാരണത്താൽ
+സംസ്ഥാനത്തെ മൊത്തം കത്തോലിക്കാ മെത്രാന്മാരും മോൻസിനുവേണ്ടി വാദിച്ചുതാനും. പൊതുവികാരം
+മാനിച്ചും സാമുദായിക സന്തുലനം മുൻനിറുത്തിയും മോൻസിന്റെ പേരു നിർദേശിച്ചിരുന്നെങ്കിൽ ഒരാളും
+ആക്ഷേപം പറയുമായിരുന്നില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_C_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. ജോസഫ്</figDesc>
+          </figure>
+          <p> ഇനി, <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ.
+ജോസഫ്</ref> ശക്തമായി <ref target="https://ml.wikipedia.org/wiki/V._Surendran_Pillai">സുരേന്ദ്രൻപിള്ള</ref>
+യുടെ പേരു നിർദേശിച്ചിരുന്നെങ്കിലോ? നിശ്ചയമായും <ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസ്</ref>
+പിന്തിരിഞ്ഞേനെ. ഡോ. <ref target="https://ml.wikipedia.org/wiki/K.C._Joseph">കെ. സി.</ref>-യും കുർളാനും
+വക്കച്ചനും <ref target="https://ml.wikipedia.org/wiki/Eapen_Varghese">ഈപ്പച്ചനു</ref> മൊക്കെ
+അഭിപ്രായം മാറ്റി <ref target="https://ml.wikipedia.org/wiki/V._Surendran_Pillai">പിള്ളാ</ref> ച്ചന്റെ
+പിന്തുണക്കാരായേനെ. ഭൂരിപക്ഷത്തിനുമേൽ തന്റെ ഹിതം അടിച്ചേൽപിക്കാനും ഔസേപ്പച്ചൻ തുനിഞ്ഞില്ല.
+മറിച്ചു് അദ്ദേഹം തീരുമാനം ദൈവം തമ്പുരാനു വിട്ടു. നറുക്കെടുപ്പിലൂടെ മന്ത്രിയെ നിശ്ചയിച്ചു. ഭാഗ്യദേവത <ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസി</ref> നെ തുണച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_T_Chacko.png" rendition="gra"/>
+            <figDesc style="thumb">പി. ടി. ചാക്കോ</figDesc>
+          </figure>
+          <p> സംശുദ്ധ പ്രതിച്ഛായയുള്ളയാൾ മന്ത്രിയായതിൽ എൽ. ഡി. എഫിനു് സന്തോഷിക്കാം. തിരുസഭക്കു്
+പ്രാതിനിധ്യം കിട്ടിയതിനാൽ മെത്രാന്മാർക്കും സന്തോഷത്തിനു വകയുണ്ടു്. തങ്ങളുടെ ഇഷ്ടം നിറവേറിയതിൽ
+<ref target="https://ml.wikipedia.org/wiki/Eapen_Varghese">ഈപ്പച്ചൻ</ref>വക്കച്ചൻ-കുർളാന്മാർക്കും ആഹ്ലാദിക്കാം. എതിർഭാഗക്കാരുടെ തന്നിഷ്ടം അതേപടി നിറവേറിയില്ലല്ലോ,
+നറുക്കെടുപ്പുവരെ കാര്യങ്ങൾ എത്തിക്കാൻ കഴിഞ്ഞല്ലോ എന്നു് <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസ്</ref>-<ref target="https://en.wikipedia.org/wiki/Skariah_Thomas">സ്കറിയാ തോമസ്</ref>
+ടീമിനും സമാധാനിക്കാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p> മുൻകാലങ്ങളിലൊക്കെ ഇത്തരം സന്ദർഭങ്ങളിൽ എന്തൊക്കെ പുകിലും പുക്കാറുമാണു് കേരള കോൺഗ്രസും
+മാതൃസംഘടനയും അഭിമുഖികരിച്ചിട്ടുള്ളതു് എന്നു് അറിഞ്ഞാലേ നറുക്കെടുപ്പു് വിപ്ലവത്തിന്റെ പ്രസക്തിയും
+പ്രാധാന്യവും വ്യക്തമാകൂ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Antony_Raju.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി രാജു</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി.
+തോമസി</ref> ന്റെ അപ്പൻ <ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി. ചാക്കോ</ref>
+പെണ്ണുകേസിൽപ്പെട്ടു് മന്ത്രിസ്ഥാനം രാജിവെച്ചതു് 1964-ലാണു്. അന്നു് കൂടിയാലോചനയോ വോട്ടെടുപ്പോ
+കൂട്ടത്തല്ലോ ഒന്നുമുണ്ടായില്ല. മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/R._Sankar">ആർ. ശങ്കർ</ref> ആണായിരുന്നു.
+അവിടെ ശിപാർശക്കു് ഒരു മെത്രാനോ അവന്റെ അപ്പനോ ചെല്ലില്ല. <ref target="https://ml.wikipedia.org/wiki/R._Sankar">ശങ്കർ</ref> <ref target="https://ml.wikipedia.org/wiki/T.A._Thomman">ടി. എ. തൊമ്മൻ</ref>
+എന്നൊരു കത്തോലിക്കനെ വിളിച്ചു് സത്യപ്രതിജ്ഞ ചെയ്യിച്ചു. <ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">ചാക്കോ</ref> ച്ചനെ ചാടിച്ചതും
+<ref target="https://ml.wikipedia.org/wiki/T.A._Thomman">തൊമ്മച്ച</ref> നെ
+വാഴിച്ചതും കത്തോലിക്കർക്കു് വലിയ ഇൻസൾട്ടായിട്ടാണു് തോന്നിയതു്. മന്ത്രിസ്ഥാനം കിട്ടാത്തതിന്റെ
+കൊതിക്കെറുവുകാരണം <ref target="https://ml.wikipedia.org/wiki/K._M._George_(politician)">കെ. എം.
+ജോർജ്ജ്</ref> വിമതന്മാരുടെ നേതാവായി കേരളകോൺഗ്രസുണ്ടാക്കി എന്നാണു് ചരിത്രം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Scariah_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്കറിയാ തോമസ്</figDesc>
+          </figure>
+          <p> 1976-ൽ <ref target="https://ml.wikipedia.org/wiki/K._M._George_(politician)">കെ. എം.
+ജോർജ്ജ്</ref> നിര്യതനായപ്പോൾ ഗ്രൂപ്പിന്റെ പ്രതിനിധിയായി <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ആർ.
+ബാലകൃഷ്ണപിള്ള</ref> നിർദേശിച്ചതു് അകലക്കുന്നം മെമ്പർ <ref target="https://ml.wikipedia.org/wiki/A.C._Chacko">എ. സി. ചാക്കോ</ref> യെ.
+അന്നേരം <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം.
+മാണി</ref> തറവേല കാട്ടി <ref target="https://ml.wikipedia.org/wiki/K._Narayana_Kurup">കെ.
+നാരായണക്കുറുപ്പി</ref> ന്റെ പേരു പറഞ്ഞു. എരണംകെട്ട കോൺഗ്രസ്/സി. പി. ഐ. നേതാക്കൾ
+കുറുപ്പിനെ ഉറപ്പിച്ചു. കീഴൂട്ട് രാമൻപിള്ള ബാലൻപിള്ള തറവാടിയാണു്. ആരുടെയും ആട്ടും തുപ്പുമേറ്റ് മുന്നണിയിൽ
+തുടരുകയില്ല. ഉടനടി ഐക്യമുന്നണി വിട്ടു് ഇടതുപടകുടീരത്തിൽ ചേക്കേറി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KM_George.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. ജോർജ്ജ്</figDesc>
+          </figure>
+          <p> 1977 അവസാനം ആഭ്യന്തരമന്ത്രിയായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref> യുടെ
+തെരഞ്ഞെടുപ്പു് കേരള ഹൈകോടതി റദ്ദാക്കി. <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> യുടെ പിൻഗാമിയെ
+നിശ്ചയിക്കാൻ വോട്ടെടുപ്പു് വേണ്ടിവന്നു. വി. ടി. സെബാസ്റ്റ്യനെയും കെ. വി. കുര്യനെയും പിന്തള്ളി മന്ത്രിയായതു്
+തൊടുപുഴക്കാരൻ ഔസേപ്പച്ചൻ. മാണിസാറിന്റെ പരോക്ഷ പിന്തുണ ഔസേപ്പിനായിരുന്നു. അതിനു് മാണിച്ചൻ
+വലിയ വില കൊടുക്കേണ്ടതായും വന്നു. ഔസേപ്പ് പാർട്ടിയിൽ ശക്തയായ ഗ്രൂപ്പുണ്ടാക്കി. മാണി മാപ്ലയുടെ
+നേതൃത്വത്തെ വെല്ലുവിളിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Sankar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ശങ്കർ</figDesc>
+          </figure>
+          <p> 1978-ൽ ഭക്ഷ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/E._John_Jacob">ഇ. ജോൺ ജേക്കബ്</ref>
+പരലോകപ്രാപ്തനായി. ബേബിച്ചായന്റെ പിൻഗാമിയെ നിശ്ചയിക്കാൻ വോട്ടെടുപ്പു് നടത്തി. മൂന്നിൽ രണ്ടുഭാഗം
+എം. എൽ. എ.-മാരും പിന്തുണച്ചതു് പത്തനംതിട്ട മെമ്പർ ഡോ. ജോർജ് മാത്യുവിനെ. പക്ഷേ, <ref target="https://en.wikipedia.org/wiki/T._S._John">ടി. എസ്. ജോണി</ref> നെ
+വേണം മന്ത്രിയാക്കാനെന്നു് <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref> ശഠിച്ചു.
+അല്ലെങ്കിൽ പാർട്ടി നെടുകെ പിളരും. സമ്മതിക്കുകയല്ലാതെ <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> സാറിനു്
+ഗത്യന്തരമുണ്ടായിരുന്നില്ല. അങ്ങനെ <ref target="https://en.wikipedia.org/wiki/T._S._John">ജോൺ</ref> മന്ത്രിയായി
+അചിരേണ പാർട്ടി പിളർന്നു. <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> മന്ത്രിസ്ഥാനം
+വെടിയേണ്ടതായും വന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AC_Chacko.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. സി. ചാക്കോ</figDesc>
+          </figure>
+          <p> 1985-ൽ പഞ്ചാബ് മോഡൽ പ്രസംഗത്തിന്റെ പേരിൽ <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+രാജിവെക്കേണ്ടിവന്നപ്പോൾ പകരം മന്ത്രിയെ വെച്ചില്ല. പിള്ളയദ്ദേഹം അഗ്നിശുദ്ധി തെളിയിച്ചു് തിരിച്ചെത്തും
+വരെ <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> സാർ
+
+വൈദ്യുതിവകുപ്പിന്റെ അധികചുമതല വഹിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TA_Thomman.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എ. തൊമ്മൻ</figDesc>
+          </figure>
+          <p> 1995-ൽ ഇടമലയാർ കേസിൽ കുടുങ്ങി <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+വീണ്ടും രാജിവെയ്ക്കേണ്ടിവന്നു. അന്നു് പിള്ളയെ കൂടാതെ പാർട്ടിയിൽ ഒരു എം. എൽ. എ. കൂടിയുണ്ടു്—<ref target="https://ml.wikipedia.org/wiki/Joseph_M._Puthussery">ജോസഫ് എം.
+പുതുശ്ശേരി</ref>. <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">പിള്ള</ref> സാർ
+തന്നെ മന്ത്രിയാക്കുമെന്നു് പുതുശ്ശേരി ധരിച്ചു. പുതുശ്ശേരി മന്ത്രിയായി കാണാൻ പരിശുദ്ധ കാതോലിക്കാ ബാവയും
+ഇതര മെത്രാന്മാരും മോഹിച്ചുതാനും. എന്തുചെയ്യാം? <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+മന്ത്രിസ്ഥാനം തരിശിടാനാണു് നിശ്ചയിച്ചതു്. ഹതാശനായ പുതുശ്ശേരി പാർട്ടിവിട്ടു് മാണിഗ്രൂപ്പിൽ ചേർന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Narayana_Kurup.png" rendition="gra"/>
+            <figDesc style="thumb">കെ. നാരായണക്കുറുപ്പ്</figDesc>
+          </figure>
+          <p> വിമാനവിവാദത്തിൽപ്പെട്ടു് കഴിഞ്ഞവർഷം <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref>
+രാജിവെച്ചതാണു് ഏറ്റവും ഒടുവിലത്തെ സംഭവം. അന്നു് വലിയ ആലോചനയും തലപുകക്കലുമൊന്നും ഉണ്ടായില്ല.
+ഷെവലിയാർ <ref target="https://ml.wikipedia.org/wiki/T._U._Kuruvilla">കുരുവിള</ref> യുടെ പേരു്
+ഔസേപ്പച്ചൻ നിർദേശിച്ചു. മറ്റുള്ളവർ പിന്താങ്ങി പിടിച്ച പിടിയാലെ കുർളാൻജി മന്ത്രിയായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Balakrishna_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ബാലകൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> ജോസഫ് ഗ്രൂപ്പുകാർ പുതിയ മന്ത്രിയെ നറുക്കിട്ടു തീരുമാനിച്ചതിനെപ്പറ്റി പരമപരിഹാസമായാണു് നമ്മുടെ
+പത്രങ്ങൾ പ്രതികരിച്ചതു്. വോട്ടെടുപ്പിനേക്കാൾ ഏതുനിലക്കും മികച്ച സമ്പ്രദായമാണു് നറുക്കെടുപ്പു്.
+വോട്ടെടുക്കുമ്പോൾ മനുഷ്യൻ തീരുമാനിക്കുന്നു. ഇവ രണ്ടിനേക്കാളും അൽപംകൂടി മികച്ച മറ്റൊരു
+സമ്പ്രദായമുണ്ടു്—പരസ്പരം തല്ലി തീരുമാനിക്കൽ. രണ്ടിലൊരാൾ അടിപെടുംവരെ മല്ലയുദ്ധപോരാട്ടം.
+ജയിക്കുന്നവൻ മന്ത്രി, തോൽക്കുന്നവൻ കിന്ത്രി. ജോസഫ് ഗ്രൂപ്പിന്റെ അടുത്ത മന്ത്രിയെ ഈ നൂതന
+മാർഗമുപയോഗിച്ചു് തെരഞ്ഞെടുക്കാവുന്നതാണു്.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/T.A._Thomman">ടി. എ.
+തൊമ്മന്റെ</ref> സ്ഥാനത്തു് <ref target="https://ml.wikipedia.org/wiki/K._M._George_(politician)">കെ. എം.
+ജോർജി</ref> നെ മന്ത്രിയാക്കിയിരുന്നെങ്കിൽ കേരള കോൺഗ്രസുണ്ടാകുമായിരുന്നില്ല. കുറഞ്ഞപക്ഷം
+പാർട്ടിയുടെ സ്ഥാപക ചെയർമാനാകാൻ ജോർജുസാർ പോകുമായിരുന്നില്ല. <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref> രാജിവെച്ച
+ഒഴിവിൽ വി. ടി. സെബാസ്റ്റ്യനോ കെ. വി. കുര്യനോ ആണു് മന്ത്രിയായിരുന്നതെങ്കിൽ ജോസഫ് ഗ്രൂപ്പു്
+കേരളകോൺഗ്രസുണ്ടാവുകയില്ലായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. മാണി</figDesc>
+          </figure>
+          <p> ഔസേപ്പച്ചനെയും കുർളാനെയും പിന്തുടർന്നു <ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസ് ജോസഫ്</ref>
+മന്ത്രിയാകുന്നതു് കേരള കോൺഗ്രസ് രാഷ്ട്രീയത്തെ എങ്ങനെ ബാധിക്കും? യുവകോമളനും സുസ്മേരവദനനും
+അതിപുരാതന സുറിയാനി കത്തോലിക്കനുമെന്ന നിലക്കു് <ref target="https://ml.wikipedia.org/wiki/Mons_Joseph">മോൻസ്</ref> പുതിയൊരു
+അധികാര കേന്ദ്രമായി ഉയർന്നുവരാനും കാലക്രമത്തിൽ ഔസേപ്പച്ചനെത്തന്നെ നിഷ്പ്രഭനാക്കി പാർട്ടി
+പിടിച്ചെടുക്കാൻ/പിളർത്താനുള്ള സാധ്യത നിശ്ചയമായും കാണുന്നു.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/V._Surendran_Pillai">സുരേന്ദ്രൻപിള്ള</ref>
+ക്കു പിന്നിൽ ഉറച്ചുനിന്നവർ <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസും</ref> <ref target="https://en.wikipedia.org/wiki/Skariah_Thomas">സ്കറിയാ തോമസു</ref>
+മാണു്. മറ്റുവിധത്തിൽ പറഞ്ഞാൽ പഴയ ഐ. എഫ്. ഡി. പി. നേതാക്കൾ ജോസഫ് ഗ്രൂപ്പ് ഐ. എഫ്. ഡി. പി.
+ലയനം സ്വഭാവികമോ പൂർണമോ അല്ല. <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസും</ref> കൂട്ടരും
+പാലിൽ പഞ്ചസാര പോലെ അലിയുകയില്ല, വെള്ളത്തിൽ എണ്ണ പോലെ പൊങ്ങിക്കിടക്കുകയാണു്. വരുന്ന
+ലോക്സഭാ തെരഞ്ഞെടുപ്പു് നിർണായകമായിരിക്കും. ജോസഫ് ഗ്രൂപ്പിനു് മൽസരിക്കാൻ ഒരു സീറ്റേ കിട്ടൂ.
+ആരായിരിക്കും സ്ഥാനാർഥി? <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസോ</ref>
+<ref target="https://ml.wikipedia.org/wiki/Francis_George_(politician)">ഫ്രാൻസിസ്
+ജോർജോ</ref>? ആരായാലും ഒരു കാര്യം ഉറപ്പാണു് സ്ഥാനാർഥിനിർണയത്തിന്റെ പിറ്റേന്നു പാർട്ടി
+പിന്നെയും പിളരും.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Narukkeduppiloode Oru
+Janadhipathyapareekshanam (ml: നടുക്കെടുപ്പിലൂടെ ഒരു ജനാധിപത്യപരീക്ഷണം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Narukkeduppiloode Oru Janadhipathyapareekshanam, കെ. രാജേശ്വരി, നടുക്കെടുപ്പിലൂടെ ഒരു
+ജനാധിപത്യപരീക്ഷണം, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 12, 2026.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Josef_Gisela__Lotterieschwestern_-_7924_-_Kunsthistorisches_Museum.jpg">Lottery
+Sisters,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q26240462">Josef Gisela</ref>
+ (1851–1899). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-narukkedupp.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswarinarukkedupp.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

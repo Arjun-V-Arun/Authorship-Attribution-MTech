@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഉശിരുള്ള നായർ എച്ചിൽപെറുക്കി
+നായർ</title>
+          <title xml:lang="en" type="main">Usirulla Nair Echilperukki Nair</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 9, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഉശിരുള്ള നായർ എച്ചിൽപെറുക്കി
+നായർ</title>
+              <title xml:lang="en" type="main">Usirulla Nair Echilperukki Nair</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Usirulla Nair Echilperukki Nair</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ഉശിരുള്ള നായർ എച്ചിൽപെറുക്കി നായർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 9, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/At_the_Shelter_Door_by_Gribkov.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:At_the_Shelter_Door_by_Gribkov.jpg">Near
+the Almshouse Door,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Sergei_Gribkov">Sergei Gribkov</ref>
+ (1822–1893). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഉശിരുള്ള നായർ എച്ചിൽപെറുക്കി നായർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഉശിരുള്ള നായർ എച്ചിൽപെറുക്കി നായർ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p style="noindent"> ചിക്കുൻഗുനിയയെന്നു് മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനും</ref>
+അല്ലെന്നു് ആരോഗ്യമന്ത്രി ശ്രീമതി ടീച്ചറും ആണയിട്ടു പറഞ്ഞ ഒരിനം പകർച്ചപ്പനിയാൽ മനുഷ്യർ
+ഈയാംപാറ്റകളെപ്പോലെ പിടഞ്ഞുമരിക്കുന്ന കാലം. കൃത്യമായി പറഞ്ഞാൽ 2006 സെപ്റ്റംബർ 30-ാം തീയതി
+ശനിയാഴ്ച. സമയം സായംസന്ധ്യ. സ്ഥലം ചേർത്തല. മാർക്സിസ്റ്റു ശക്തികേന്ദ്രം, പകർച്ചപ്പനിയുടെ ആഗോള
+തലസ്ഥാനം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PKNarayanaPanicker.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. നാരായണപ്പണിക്കർ</figDesc>
+          </figure>
+          <p> ആ സുന്ദരസായന്തനത്തിൽ ചിക്കുൻഗുനിയക്കെതിരെ ഡി. വൈ. എഫ്. ഐ. പ്രവർത്തകർ മനുഷ്യച്ചങ്ങല
+തീർത്തു. കൊതുകിനും വൈറസിനുമെതിരെ യുവജനശക്തി ഇരമ്പിയാർത്തു. ചേർത്തലപ്പട്ടണം
+മുദ്രവാക്യമുഖരിതമായി. ആവേശം അണമുറിഞ്ഞൊഴുകി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MB_Rajesh.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ബി. രാജേഷ്</figDesc>
+          </figure>
+          <p> പകർച്ചപ്പനിക്കെതിരെ നടന്ന മനുഷ്യച്ചങ്ങല കണ്ടു് ബി. ജെ. പി.-ക്കാരും കോൺഗ്രസുകാരും
+സി. പി. ഐ.-ക്കാരുമൊക്കെ വാ പൊത്തിച്ചിരിച്ചു. ഡിഫിക്കാരുടെ ബുദ്ധിവൈഭവം അപാരം! പന്തം കൊളുത്തി
+പ്രകടനമായിരുന്നെങ്കിൽ ചൂടും പുകയുമേറ്റു് ഏതാനും കൊതുകെങ്കിലും ചത്തേനെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ma_Baby.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എ. ബേബി</figDesc>
+          </figure>
+          <p> വാരിക്കുന്തമെടുത്തു് യന്ത്രത്തോക്കിനെ നേരിട്ട വയലാർ രക്തസാക്ഷികളുടെ പിൻതലമുറക്കാരാണു്
+ചേർത്തലയിലെ ഡിഫിപ്രവർത്തകർ. കൊതുകിനെയല്ല മദയാനയെ ഭയക്കാത്തവർ. വർഗശത്രുക്കളുടെയോ
+വർഗവഞ്ചകരുടെയോ പരിഹാസത്തിൽ പതറാത്തവർ. തുടിപ്പു നിങ്ങളിൽ നൂറ്റാണ്ടുകളുടെ ചരിത്രമെഴുതിയ
+ഹൃദയങ്ങൾ, കൊളുത്തി നിങ്ങൾ തലമുറതോറും കെടാത്ത കൈത്തിരി നാളങ്ങൾ!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PinarayiVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പിണറായി വിജയൻ</figDesc>
+          </figure>
+          <p> മുദ്രാവാക്യംവിളി കേട്ടു ഭയന്നിട്ടോ എന്തോ, കൊതുകുകൾ ചേർത്തലത്താലൂക്കിൽ നിന്നു് പറന്നകന്നു.
+ഒക്ടൊബർ 10 ആകുമ്പോഴേക്കും പനി കെട്ടടങ്ങി. ഒക്ടോബർ 27-നു് വയലാർ രക്തസാക്ഷിദിനം. ചിക്കുൻഗുനിയ
+എന്ന പേരുപോലുമില്ല കേൾക്കാൻ. എങ്ങും കൊടിതോരണങ്ങൾ, മുദ്രാവാക്യങ്ങൾ മാത്രം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sindhu_Joy.jpg" rendition="gra"/>
+            <figDesc style="thumb">സിന്ധു ജോയ്</figDesc>
+          </figure>
+          <p> മെയ് 28-നു് മലയാള മനോരമയുടെ പതിനാറാമതു് എഡിഷൻ ഉദ്ഘാടനം ചെയ്തതും പത്തനംതിട്ടയിൽ
+പകർച്ചപ്പനി പൊട്ടിപ്പുറപ്പെട്ടതും ഒപ്പം. ചിക്കുൻഗുനിയയെന്നു് ആരോഗ്യമന്ത്രിപോലും സമ്മതിച്ചു. പനിയെ
+നേരിടാൻ മുഖ്യമന്ത്രി പട്ടാളത്തെ വിളിച്ചു. ആരോഗ്യവകുപ്പിന്റെ കെടുകാര്യസ്ഥതയെയും മന്ത്രിയുടെ
+കഴിവുകേടിനെയും പറ്റിയുള്ള റിപ്പോർട്ടുകൾ പാറിനടന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_sree_ramakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ശ്രീരാമകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> പട്ടാള ഇടപെടലിലും മനോരമയുടെ കുപ്രചാരണത്തിലും പ്രതിഷേധിച്ചു് ഡി. വൈ. എഫ്. ഐ.
+പത്തനംതിട്ടയിൽ മനുഷ്യച്ചങ്ങല വെണ്ടെന്നു വെച്ചു. പനിയല്ല, മാധ്യമച്ചെറ്റത്തരമാണു്
+ചെറുത്തുതോൽപിക്കപ്പെടേണ്ടതെന്നു് സി. പി. എം. സംസ്ഥാന സെക്രട്ടറിയറ്റ് പത്രക്കുറിപ്പിറക്കി.
+കേരളപ്പിറവിക്കു മുമ്പും ശേഷവും പനിപിടിച്ചു് ആളുകൾ മരിച്ചിട്ടുണ്ടെന്നു് മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണൻ</ref> വെളിപ്പെടുത്തി. ഇനി പത്തനംതിട്ടക്കാരായി, അവരുടെ പാടായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Akg.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ജി.</figDesc>
+          </figure>
+          <p> സഖാവ് മമ്മൂട്ടിയുടെ മദിരാശി പ്രസംഗമുണ്ടാക്കിയ പുകിലും പുക്കാറും കെട്ടടങ്ങിയശേഷം അൽപമൊരു
+ആലസ്യത്തിലായിരുന്നു യുവജനസഖാക്കൾ. ചിക്കുൻഗുനിയ കൈവിട്ടുപോയി. മുമ്പാണെങ്കിൽ സ്വാശ്രയ
+കോളജുകൾക്കെതിരെ സമരം ചെയ്യാമായിരുന്നു. ഇനി അതും പറ്റില്ല. രൂപതാ നയക്കാരുമായി സമവായ ചർച്ച
+നടത്തുകയാണു് <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">ബേബി</ref> സഖാവു്;
+ദേശാഭിമാനിയാണെങ്കിൽ വിതയത്തിൽ പിതാവിന്റെ ഇടയലേഖനത്തെ പ്രകീർത്തിച്ചു് മുഖപ്രസംഗം എഴുതുന്ന
+തിരക്കിലും. എന്തതിശയമേ, ദൈവത്തിൻ സ്നേഹം എത്ര മനോഹരമേ!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PGovindapilla.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ഗോവിന്ദപിള്ള</figDesc>
+          </figure>
+          <p> അലമ്പുണ്ടാക്കാൻ വിഷയമില്ലാതെ വിഷമിച്ചു വിഷാദിച്ചിരിക്കുമ്പോഴാണു് <ref target="https://ml.wikipedia.org/wiki/MB_Rajesh">എം. ബി. രാജേഷിനു</ref> മുന്നിൽ
+ശ്രീ. ഗുരുവായൂരപ്പൻ പ്രത്യക്ഷനായതു്. സൗമ്യനും സ്നേഹസമ്പന്നനുമായ ചെറുപ്പക്കാരനാണു് രാജേഷ്.
+ഒന്നാംതരം തറവാടി. വള്ളുവനാട്ടുകാരൻ, കിരിയാത്തുനായർ. <ref target="https://ml.wikipedia.org/wiki/Sindhu_Joy">സിന്ധു ജോയി</ref> യുടെ
+പൊണ്ണത്തടിയില്ല. ശ്രീരാമകൃഷ്ണന്റെ നാട്യമോ സ്വരാജിന്റെ ധർഷ്ട്യമോ തരിമ്പുമില്ല. ശ്രീരാമകൃഷ്ണൻ ഒഴിയുമ്പോൾ
+ഡിഫിയുടെ സംസ്ഥാന സെക്രട്ടറിയാകണം, കൃഷ്ണദാസിനെ തഴയുമ്പോൾ പാർലമെന്റംഗമാകണം എന്നിങ്ങനെ
+
+ചെറിയ മോഹങ്ങളേയുള്ളൂ രാജേഷിനു്. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref>
+സഖാവിന്റെ പിന്തുണയും ഗുരുവായൂരപ്പന്റെ അനുഗ്രഹവുമുണ്ടെങ്കിൽ രണ്ടും സാധിക്കാവുന്നതേയുള്ളൂ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p> അങ്ങനെ ഗുരുവായൂർ സത്യഗ്രഹം നടത്താൻ ഡിഫി തീരുമാനമായി. സത്യഗ്രഹ സമരം കൊണ്ടുള്ള
+നേട്ടങ്ങൾ പലതാണു്. ഒന്നാമതായി പ്രവർത്തകരെ ആവേശഭരിതരാക്കാം. രണ്ടാമതു് മൂന്നാർ ദൗത്യം,
+ചിക്കുൻഗുനിയ, കടലാക്രമണം, ഗ്രൂപ്പുവഴക്കു്, മാധ്യമ സിൻഡിക്കേറ്റ് എന്നിവയിൽനിന്നൊക്കെ ജനശ്രദ്ധ
+തിരിക്കാം. മൂന്നാമതു് പുരോഗമനചിന്താഗതിക്കാരുടെയും മതനിരപേക്ഷതാ നാട്യക്കാരുടെയും പിന്തുണ
+ആർജിക്കാം. എല്ലാത്തിനുമുപരി <ref target="https://ml.wikipedia.org/wiki/P._Sreeramakrishnan">പി.
+ശ്രീരാമകൃഷ്ണനു്</ref> രണ്ടാം കേളപ്പനും <ref target="https://ml.wikipedia.org/wiki/MB_Rajesh">എം. ബി. രാജേഷിനു്</ref> രണ്ടാം
+<ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ. ജി.</ref>-യുമായി
+പേരെടുക്കാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sukumar_azhikode.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുകുമാർ അഴീക്കോട്</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/MB_Rajesh">എം. ബി.
+രാജേഷി</ref> നെ സംബന്ധിച്ചിടത്തോളം വ്യക്തിപരമായ ഒരജണ്ട കൂടി കണ്ടേക്കാം. <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> യുടെ
+മകനുള്ള അയോഗ്യത രാജേഷിന്റെ മകൾക്കുമുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/Mercy_Ravi">മേഴ്സി രവി</ref> സിറിയൻ
+കത്തോലിക്കാ സമുദായാംഗമെങ്കിൽ നിനിത കണിച്ചേരി മുസ്ലീം നാമധാരിണി എന്ന വ്യത്യാസമേയുള്ളൂ.
+ഗുരുവായൂരമ്പലം അഹിന്ദുക്കൾക്കും സന്തതിപരമ്പരകൾക്കുമായി തുറന്നുകിട്ടുന്ന പക്ഷം കുട്ടിക്കു
+ചെങ്കൊടികൊണ്ടു് തുലാഭാരം നടത്താം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mercy_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മേഴ്സി രവി</figDesc>
+          </figure>
+          <p> രണ്ടാം ഗുരുവായൂർ സത്യഗ്രഹത്തിനു മുന്നോടിയായി ദേശാഭിമാനി വാരികയും ചിന്തയും ഒട്ടേറെ അച്ചടിമഷി
+പറ്റിച്ചു. <ref target="https://en.wikipedia.org/wiki/N._V._P._Unithiri">എൻ. വി. പി.
+ഉണിത്തിരി</ref>, <ref target="https://ml.wikipedia.org/wiki/MB_Rajesh">എം. ബി.
+രാജേഷ്</ref>, സ്വാമി ജ്ഞാനോദയൻ എന്നിവരാണു് ചിന്തയുടെ താളുകളെ ധന്യരാക്കിയ ചിന്തകർ.
+കൂടാതെ, ഒന്നാം ഗുരുവായൂർ സത്യഗ്രഹത്തെക്കുറിച്ചു് സഖാവ് വിഷ്ണു ഭാരതീയന്റെ ആത്മകഥയിൽനിന്നുള്ള
+ഭാഗങ്ങൾ പുനഃപ്രസിദ്ധീകരിച്ചിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/C_achuthamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതമേനോൻ</figDesc>
+          </figure>
+          <p> യാഗശാലകളിൽനിന്നും യജ്ഞശാലകളിൽനിന്നും ഹോമകുണ്ഡങ്ങളിൽനിന്നും വമിക്കുന്ന പുകപടലങ്ങളുടെ
+ഇരുട്ടിൽനിന്നു് ജനാധിപത്യ ആശയങ്ങളുടെ പ്രകാശ വഴികളിലൂടെ കേരളീയ സാമൂഹിക ജീവിതത്തെ
+മുന്നോട്ടുനയിക്കാൻ രണ്ടാം ഗുരുവായൂർ സത്യഗ്രഹം ഒരു തുടക്കമായിരിക്കും: രാജേഷ് ആത്മവിശ്വാസം
+പ്രകടിപ്പിക്കുന്നു. അതോടൊപ്പം ചരിത്രപരമായ ഒരു വെളിപ്പെടുത്തലും നടത്തിക്കാണുന്നു.; ഡി. വൈ. എഫ്. ഐ.
+വിശ്വാസികളല്ലാത്തവരുടെ മാത്രം സംഘടനയല്ല. സംഘടനയിലെ 46 ലക്ഷത്തിൽപരം അംഗങ്ങളിൽ
+ബഹുഭുരിപക്ഷവും വിവിധ വിശ്വാസങ്ങൾ വെച്ചുപുലർത്തുന്നവരാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KP_RAMANUNNI.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. പി. രാമനുണ്ണി</figDesc>
+          </figure>
+          <p> ഡോ. <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">സുകുമാർ
+അഴീക്കോട്</ref>, സ്വാമി വിശ്വഭദ്രാനന്ദ ശക്തിബോധി, <ref target="https://en.wikipedia.org/wiki/Iyyamcode_Sreedharan">ഇയ്യങ്കോട്
+ശ്രീധരൻ</ref> എന്നീ പ്രഗല്ഭമതികളുടെ ലേഖനങ്ങളും <ref target="https://ml.wikipedia.org/wiki/K.P._Ramanunni">കെ. പി. രാമനുണ്ണി</ref>
+യുമായി പി. പി. സത്യൻ നടത്തിയ അഭിമുഖവുമാണു് ദേശാഭിമാനി വാരികയിലുള്ളതു്. അഹിന്ദുക്കളെ
+ക്ഷേത്രത്തിലെന്നപോലെ അമുസ്ലീംകളെ പള്ളിയിലും കയറ്റണമെന്നു് രാമനുണ്ണി ശഠിക്കുന്നു.
+യാഥാസ്ഥിതികരായ പള്ളിക്കമ്മിറ്റിക്കാരെ ഖുർആനും ഹദീസും ഉദ്ധരിച്ചു് വിമർശിച്ചിട്ടുമുണ്ടു്.
+</p>
+          <p>സൈബർ യുഗത്തിന്റെ സകല സൗഭാഗ്യങ്ങളും അനുഭവിച്ചുകൊണ്ട് ശീതീകരിച്ച മുറിയിലിരുന്നു്
+ആധ്യാത്മികത വിളമ്പുന്ന കോമാളികളോടു് സഖാവു് ഇയ്യങ്കോടൻ ചോദിക്കുന്നു:
+<list rend="numbered"><item n="">കാലിൽ ആണിരോഗമുള്ളവരോടും ചെരിപ്പു് ധരിച്ചു് നാലമ്പലത്തിൽ കയറരുതെന്നു് നിങ്ങൾ
+സിദ്ധാന്തിക്കുന്നു. അതേസമയം പോത്തിന്റേയും പശുവിന്റേയും തോലിൽ പൊതിഞ്ഞ ചെണ്ടയും മദ്ദളവും
+ഇടയ്ക്കയും ശ്രീകോവിൽ വരെ എത്തുന്നു. </item><item n="">പൊള്ളാച്ചിയിൽ നിന്നും ഉദുമലപേട്ടയിൽനിന്നും മുസ്ലീം സഹോദരന്മാർ നടത്തുന്ന
+പൂന്തോട്ടങ്ങളിൽനിന്നു്, അവർ തന്നെ ഇറുത്തെടുത്തുകൊണ്ടുവരുന്ന ടൺകണക്കിലുള്ള ജമന്തിയും ചെണ്ടുമല്ലിയും
+തുളസിയുമെല്ലാം പുണ്യാഹം തളിച്ചാണോ ക്ഷേത്രത്തിൽ സ്വീകരിക്കുന്നതു്? </item><item n="">ആനക്കും നായക്കും പൂച്ചക്കും അമ്പലപ്രവേശനമാകാമെങ്കിൽ, അന്യമതത്തിൽ
+ജനിച്ചുപോയെന്ന അപരാധം ചുമത്തി ഗുരുവായൂർ ഭക്തനായ പൗരനെ ആട്ടിയോടിക്കുന്നതിന്റെ ന്യായമെന്തു്?
+</item><item n="">അന്യമതസ്ഥരായ വിദഗ്ദ്ധന്മാർ നിർമിക്കുന്ന ജനറേറ്ററും മോട്ടോറും ക്ഷേത്രാവശ്യത്തിനു്
+ഉപയോഗിക്കാമോ? </item><item n="">ഗുരുവായൂർ ടൗൺഷിപ്പിലെ വിദ്യുച്ഛക്തി ആപ്പീസിൽ എഞ്ചിനീയർ ക്രിസ്ത്യൻ സമുദായാംഗമാണു്.
+അദ്ദേഹം മുഖേന വിതരണം ചെയ്യുന്ന വിദ്യുച്ഛക്തിക്കു് എങ്ങനെയാണു് പുണ്യാഹം തളിക്കുക? </item><item n="">ഗുരുവയൂരമ്പലത്തിനുള്ളിൽ പലതരത്തിലുള്ള വഴിപാടിനും രസീത് നൽകുന്നുണ്ടു്. ഇതെല്ലാം
+വിവിധ മതസ്ഥരുടെ പ്രസുകളിലാണു് അച്ചടിക്കുന്നതു്. ക്ഷേത്രാചാരപ്രകാരം ഇതു് ശരിയാണോ? </item></list>
+ഇനി സഖാവു് ഇയ്യങ്കോടനോടു് ചില ചോദ്യങ്ങൾ:
+<list rend="numbered"><item n="">തനി കമ്യൂണിസ്റ്റുകാരായ സി. കെ. ഗുപ്തനും <ref target="https://ml.wikipedia.org/wiki/Thottathil_Raveendran">തോട്ടത്തിൽ
+രവീന്ദ്രനു</ref> മൊക്കെ ദൈവവിശ്വാസിയും ക്ഷേത്രവിശ്വാസിയുമാണെന്നു് പ്രതിജ്ഞയെടുത്തു് ദേവസ്വം
+ബോർഡിലിരിക്കുന്നതു് മാർക്സിസം-ലെനിനിസത്തിന്റെ തത്ത്വങ്ങൾ പ്രകാരം ശരിയാണോ? </item><item n=""><ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ
+രവി</ref> യുടെ മകന്റെ വിവാഹസമയത്തും പൗത്രന്റെ ചോറൂണുസമയത്തും കേരളം ഭരിച്ചിരുന്നതു്
+ഇടതുപക്ഷസർക്കാറുകളായിരുന്നു. ഗുരുവായൂരമ്പലം ഭരിച്ചിരുന്നതു് ഇടതുപക്ഷ കമ്മിറ്റികൾ. പുണ്യാഹം വിധിച്ച
+തന്ത്രിയെ എന്തുകൊണ്ടു് കഴുത്തിനു പിടിച്ചു പുറത്താക്കിയില്ല? </item><item n="">1957 മുതൽ 2007 വരെ എത്ര കമ്യൂണിസ്റ്റ്/
+മാർക്സിസ്റ്റ് മുഖ്യമന്ത്രിമാർ സംസ്ഥാനം ഭരിച്ചു. എന്തുകൊണ്ടു് നാളിതുവരെ ക്ഷേത്രങ്ങൾ അഹിന്ദു വിശ്വാസികൾക്കും
+അവിശ്വാസികൾക്കുമായി തുറന്നുകൊടുത്തില്ല? <ref target="https://ml.wikipedia.org/wiki/EMS">നമ്പൂതിരിപ്പാടും</ref> <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാരും</ref> <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/P._K._Vasudevan_Nair">വാസുദേവൻ
+നായരു</ref> മൊക്കെ സവർണമൂരാച്ചികളായതുകൊണ്ടാണോ? </item><item n="">യേശുദാസിനു് ക്ഷേത്രപ്രവേശനം നൽകണമെന്ന മന്ത്രിയുടെ ശിപാർശയിൽ ഗുരുവായൂർ
+ദേവസ്വം കമ്മിറ്റി എന്തു തീരുമാനമെടുത്തു? </item><item n="">യേശുദാസൊഴികെയുള്ള അഹിന്ദുവിശ്വാസികളെ മന്ത്രി എന്തേ വിസ്മരിച്ചു? ഗാനഗന്ധർവൻ
+സാംസ്കാരിക മന്ത്രിയുടെ സുഹൃത്തായതുകൊണ്ടും മകന്റെ വിവാഹച്ചടങ്ങിന്റെ സംപ്രേക്ഷണാവകാശം പാർട്ടി
+ചാനലിനു നൽകിയതുകൊണ്ടുമാണോ കത്തെഴുതിയതു്? </item><item n="">യേശുദാസിനു നൽകിയ പ്രത്യേക പരിഗണന എന്തുകൊണ്ടു് യൂസഫലി കേച്ചേരിക്കു കിട്ടിയില്ല?
+പാട്ടുകാരനേക്കാൾ മോശക്കാരനോ പാട്ടെഴുത്തുകാരൻ? </item></list>
+
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. എം. എസ്. നമ്പൂതിരിപ്പാട്</figDesc>
+          </figure>
+          <p> ഏതായാലും ജൂൺ 18 തിങ്കളാഴ്ച കിഴക്കേനടയിൽ രണ്ടാം ഗുരുവായൂർ സത്യഗ്രഹം അരങ്ങേറി. രാവിലെ
+ഒമ്പതരയുടെ ശുഭമുഹൂർത്തത്തിൽ, <ref target="https://ml.wikipedia.org/wiki/MB_Rajesh">എം. ബി. രാജേഷ്</ref> നയിച്ച
+നവോത്ഥാന ജ്വാലാപ്രയാണം എ. കെ. ജി. കവാടത്തിലെത്തിയതോടെ സത്യാഗ്രഹ പരിപാടിക്കു യവനിക
+ഉയർന്നു. മുഖ്യപ്രഭാഷണത്തിൽ ഡോ. <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">സുകുമാർ
+അഴീക്കോട്</ref> തന്ത്രിക്കും ബ്രാഹ്മണോത്തമർക്കുമെതിരെ കത്തിക്കയറി. ശ്രീനാരായണ ക്ഷേത്രങ്ങൾ
+എമ്പാടുമുള്ളപ്പോൾ മകന്റെ വിവാഹത്തിനും പൗത്രന്റെ ചോറൂണിനും ഗുരുവായൂർ തെരഞ്ഞെടുത്ത <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> ക്കെതിരെ
+കുത്തുവാക്കുകൾ തൊടുത്തുവിട്ടു. അതുകേട്ടു് ഡിഫിക്കാർ കൈയടിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Balachandran_chullikad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാലചന്ദ്രൻ ചുള്ളിക്കാട്</figDesc>
+          </figure>
+          <p> കാറ്റും മഴയും വകവെക്കാതെ ഒട്ടേറെ പ്രതിഭകൾ കിഴക്കെ നടയിലെത്തി—<ref target="https://ml.wikipedia.org/wiki/P.Govindapilla">പി. ഗോവിന്ദപിള്ള</ref>,
+
+ഡോ. <ref target="https://en.wikipedia.org/wiki/N._V._P._Unithiri">എൻ. വി. പി.
+ഉണിത്തിരി</ref>, <ref target="https://en.wikipedia.org/wiki/Balachandran_Chullikkad">ബാലചന്ദ്രൻ
+ചുള്ളിക്കാട്</ref>, <ref target="https://ml.wikipedia.org/wiki/C.V._Sreeraman">സി. വി. ശ്രീരാമൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/D._Vinayachandran">ഡി.
+വിനയചന്ദ്രൻ</ref>, <ref target="https://en.wikipedia.org/wiki/Asokan_Charuvil">അശോകൻ
+ചരുവിൽ</ref>, രാവുണ്ണി, <ref target="https://ml.wikipedia.org/wiki/Babu_M._Palissery">ബാബു എം.
+പാലിശ്ശേരി</ref>, <ref target="https://ml.wikipedia.org/wiki/Mattannoor_Sankarankutty">മട്ടന്നൂർ
+ശങ്കരൻകുട്ടി</ref> എന്നിങ്ങനെ പലരും. പ്രസംഗം കഴിഞ്ഞു കലാപരിപാടികൾ അരങ്ങേറി. നവോത്ഥാന
+മൂല്യങ്ങൾ സംരക്ഷിക്കാൻ കടുത്ത ജാഗ്രതയോടെ സമൂഹത്തെയാകെ പങ്കാളികളാക്കി മുന്നോട്ടുപോകുമെന്ന
+പ്രതിജ്ഞയോടെ സത്യഗ്രഹം സമ്പൂർണമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> അവിശ്വാസികളിൽനിന്നു് ക്ഷേത്രത്തെ രക്ഷിക്കാൻ ബി. ജെ. പി.-ക്കാർ സമാന്തര സത്യാഗ്രഹം
+നടത്തിയെങ്കിലും ക്ലച്ചുപിടിച്ചില്ല. ജൂലൈ 2-ാം തീയതിയാണു് യൂത്ത് കോൺഗ്രസിന്റെ ഗുരുവായൂർ സത്യഗ്രഹം.
+എ. ഐ. വൈ. എഫിന്റെ സത്യഗ്രഹവും വൈകാതെയുണ്ടാകും. ഡെപ്യൂട്ടി സ്പീക്കർ <ref target="https://en.wikipedia.org/wiki/Jose_Baby">ജോസ് ബേബി</ref> ഉദ്ഘാടനം
+ചെയ്യാനാണു് സാധ്യത.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Asokancharuvil.jpg" rendition="gra"/>
+            <figDesc style="thumb">അശോകൻ ചരുവിൽ</figDesc>
+          </figure>
+          <p> രണ്ടാം ഗുരുവായൂർ സത്യഗ്രഹത്തിന്റെ കൊടിയിറങ്ങി നാലാം ദിവസം, പ്രധാന സിൻഡിക്കേറ്റ് പത്രമായ
+ദീപിക അഹിന്ദുക്കളുടെ ക്ഷേത്രപ്രവേശത്തെ തള്ളിപ്പറഞ്ഞുകൊണ്ടു് അനുകരണീയമായ ശൈലിയിൽ
+മുഖപ്രസംഗം എഴുതി. ‘ആചാരങ്ങൾ തെറ്റിക്കാൻ ആകരുതു് ക്ഷേത്രപ്രവേശം’ എന്ന ശീർഷകത്തിൽ ജൂൺ 21-നു്
+ദീപിക എഴുതിയ എഡിറ്റോറിയൽ വായിച്ചാൽ <ref target="https://ml.wikipedia.org/wiki/Kummanam_Rajasekharan">കുമ്മനം
+രാജശേഖരനു</ref> പോലും രോമാഞ്ചമുണ്ടാകും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Vasudevan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">വാസുദേവൻ നായർ</figDesc>
+          </figure>
+          <p> “വിശ്വാസിക്കു ക്ഷേത്രത്തിൽ പ്രവേശനം അനുവദിക്കുന്നതു് ഹൈന്ദവ വിശ്വാസക്രമമനുസരിച്ചു്
+ആരാധിക്കാനും പ്രാർഥിക്കാനുമാണു്. അല്ലാതെ അവിടങ്ങളിൽ പാലിക്കപ്പെട്ടും അനുഷ്ഠിക്കപ്പെട്ടും പോരുന്ന
+നിഷ്ഠകളും ആചാരങ്ങളുമെല്ലാം അലങ്കോലപ്പെടുത്താനല്ല. അതുവഴി വിശ്വാസത്തെ അവഹേളിക്കാനുമല്ല.
+ഓരോരുത്തർക്കും തോന്നുംപടി മാറ്റിക്കുറിക്കാവുന്നതല്ല കർമാനുഷ്ഠാനങ്ങളും ആചാരങ്ങളും. ഹിന്ദുവായാലും
+അഹിന്ദുവായാലും വിശ്വാസത്തിന്റെ പേരുപറഞ്ഞു് ക്ഷേത്രപ്രവേശനത്തിനു് അനുമതി നേടുന്നതു് ദൈവത്തെ
+നിന്ദിക്കാനല്ല. ആകരുതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kummanam_Rajasekharan.png" rendition="gra"/>
+            <figDesc style="thumb">കുമ്മനം രാജശേഖരൻ</figDesc>
+          </figure>
+          <p> ഇവിടെ സാങ്കേതികമായ അനുമതിയോ അവകാശമോ അല്ല വിഷയം. വിശ്വാസത്തിന്റെ സംരക്ഷണവും
+ആചാരങ്ങളുടെ പാലനവുമാണു്. അവ ഉറപ്പു വരുത്താൻ തയാറാവാത്തവർ വിശ്വാസിയാണെന്നവകാശപ്പെട്ടു്
+ക്ഷേത്രത്തിൽ പ്രവേശിച്ചു് വിധികൾ അലങ്കോലമാക്കുമ്പോൾ ഒരു സമൂഹമാണു് അവഹേളിക്കപ്പെടുകയോ
+പരിഹസിക്കപ്പെടുകയോ ചെയ്യുന്നതു്. അതിനുള്ള ആയുധമല്ല ക്ഷേത്രപ്രവേശനസ്വാതന്ത്ര്യം.”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CV_Sreeraman.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. വി. ശ്രീരാമൻ</figDesc>
+          </figure>
+          <p> വിശ്വാസിയായ ഏതൊരാൾക്കും ക്ഷേത്രത്തിൽ പ്രവേശിക്കാൻ സാധിക്കുന്ന തരത്തിൽ സർക്കാർ
+നിയമനിർമാണം നടത്തുമെന്നു് മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">സുധാകരൻ</ref> പറയുന്നു.
+ജൂൺ 22-ന്റെ ലക്കം ചിന്ത കാണുക: ജന്മം കൊണ്ടോ മതം കൊണ്ടോ ഹിന്ദുവായ വ്യക്തിക്കു് ക്ഷേത്രത്തിൽ
+പ്രവേശിക്കാം എന്നാണു് നിലവിലുള്ള നിയമം. വിശ്വാസംകൊണ്ടു് ഹിന്ദുവായ ഒരാൾക്കു് തീർച്ചയായും
+ക്ഷേത്രത്തിൽ പ്രവേശിക്കാൻ അവസരം ലഭിക്കണം. അതിനാൽ വിശ്വാസംകൊണ്ടു് ഹിന്ദുവാണെങ്കിലും
+ക്ഷേത്രത്തിൽ പ്രവേശിക്കാം എന്ന തരത്തിലായിരിക്കും നിയമത്തിൽ ഭേദഗതി വരുത്തുക. വിശ്വാസിയാര് എന്നു
+തീരുമാനിക്കാനുള്ള അധികാരം തന്ത്രിമാർക്കില്ല…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Eravankara_Gopala_Kurup.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇറവങ്കര ഗോപാലക്കുറുപ്പ്</figDesc>
+          </figure>
+          <p> മാന്യ വായനക്കാരേ, നിങ്ങൾക്കെന്തു തോന്നുന്നു? ബഹു മന്ത്രി സംസ്ഥാനത്തെ സകല ക്ഷേത്രങ്ങളും
+അഹിന്ദുക്കൾക്കായി തുറന്നുകൊടുക്കുമോ? അതോ ദീപികയുടെ വിദുരോപദേശമനുസരിച്ചു് അടങ്ങിയൊതുങ്ങി
+നാമം ജപിച്ചു് ഒരിടത്തിരിക്കുമോ? രണ്ടാമത്തേതിനാണു് അധികം സാധ്യത. കാരണം
+അഹിന്ദുക്കളുടെ—യേശുദാസിന്റെ അടക്കം—ക്ഷേത്രപ്രവേശനത്തെ കഠിനമായി എതിർക്കുന്നതു്
+എൻ. എസ്. എസ്. ജനറൽ സെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/P.K._Narayana_Panicker">പി. കെ.
+നാരായണപ്പണിക്കരാ</ref> ണു്. <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">സുധാകരനെ</ref> പ്പോലെ
+വാ പോയ വാക്കത്തിയല്ല പണിക്കരദ്ദേഹം. പണിക്കരു് പറഞ്ഞാൽ പറഞ്ഞതാണു്. ഇരവിക്കുട്ടിപ്പിള്ള വലിയ
+പടത്തലവന്റെയും തലക്കുളത്തു <ref target="https://ml.wikipedia.org/wiki/Veluthampi_Dhalava">വേലുത്തമ്പി</ref>
+യുടെയും <ref target="https://ml.wikipedia.org/wiki/Raja_Kesavadas">രാജാകേശവദാസന്റെ</ref>
+യും വീരരക്തം സിരകളിലോടുന്ന, <ref target="https://ml.wikipedia.org/wiki/Mannathu_Padmanabha_Pillai">മന്നത്തു
+പത്മനാഭപിള്ള</ref> സാറിന്റെ ധീരപിൻഗാമി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/D_Vinayachandran.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡി. വിനയചന്ദ്രൻ</figDesc>
+          </figure>
+          <p> പണിക്കർ സാറിന്റെ വാക്കു ധിക്കരിച്ചു് ക്രിസ്ത്യാനികളെയും മുസ്ലീംകളെയും യഹൂദന്മാരെയുമൊക്കെ
+ക്ഷേത്രത്തിൽ വിളിച്ചുകയറ്റാൻ ചുണയുണ്ടോ, ചങ്കൂറ്റമുണ്ടോ <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">ജി. സുധാകരനു്</ref> ? സ.
+
+ഇയ്യങ്കോടന്റെ അഭിപ്രായം മാനിച്ചു് ചുറ്റമ്പലത്തിനകത്തു് ചെരിപ്പിട്ടു നടക്കാൻ ആണിരോഗിക്കാർക്കു് അനുവാദം
+നൽകാമോ? എന്നാൽ അതു തന്നെ കാണണം. തിരുവിതാംകൂർ ഭാഗത്തു് അതിശക്തമായ വോട്ടു ബാങ്കുണ്ടു്
+എൻ. എസ്. എസിനു്. മന്നത്തപ്പന്റെ പിന്തുണയോടെയാണു് 1957-ൽ ആദ്യ കമ്യൂണിസ്റ്റ് സർക്കാർ
+യാഥാർഥ്യമായതു്. മന്നം ഇടഞ്ഞപ്പോൾ 1960-ൽ സഖാക്കൾ നിലംപരിശായി. കമ്യൂണിസ്റ്റു നായന്മാരാരും
+നിയമസഭയിൽ കാണില്ലെന്ന ശപഥം കാരണവർ മിക്കവാറും പാലിച്ചു. തിരുവിതാംകൂർ പ്രദേശത്തുനിന്നു് <ref target="https://ml.wikipedia.org/wiki/Eravankara_Gopala_Kurup">ഇറവങ്കര
+ഗോപാലക്കുറുപ്പ്</ref> മാത്രമേ പാസായുള്ളൂ. 1996-ൽ എൻ. എസ്. എസ്. ഇടതുമുന്നണിയെ പിന്തുണച്ചപ്പോൾ
+<ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">ജി. സുധാകരൻ</ref>
+കായംകുളത്തു വിജയിച്ചു. 2001 സമദൂര സിദ്ധാന്തം അനുവർത്തിച്ചപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/M.M._Hassan">എം. എം. ഹസനോ</ref> ടു
+തോറ്റു. 2006-ൽ സുധാകരൻ അമ്പലപ്പുഴക്കു മാറി. <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശന്റെ</ref> വിശ്വസ്തൻ ഡി. സുഗതനായിരുന്നു എതിരാളി. സകല നായന്മാരെയും തോൽപിക്കുമെന്നു്
+നടേശൻ പ്രതിജ്ഞയെടുത്തപ്പോൾ പണിക്കരും കളത്തിലിറങ്ങി. ഫലം, ആലപ്പുഴ ജില്ലയിൽ മൽസരിച്ച സകല
+നായന്മാരും മുന്നണി ഭേദമന്യേ വിജയ വൈജയന്തി പാറിച്ചു. പ്രധാന ഗുണഭോക്താക്കൾ <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">ജി. സുധാകരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/K._C._Venugopal">കെ. സി.
+വേണുഗോപാൽ</ref>, <ref target="https://ml.wikipedia.org/wiki/B._Babu_Prasaad">ബാബു പ്രസാദ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/P.C._Vishnunath">വിഷ്ണുനാഥ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി</ref>
+യെ വെല്ലുവിളിക്കുന്ന ലാഘവത്തോടെ പണിക്കരദ്ദേഹത്തിന്റെ താടിക്കു പിടിക്കാനാവില്ലെന്നതു മൂന്നരത്തരം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_sudhakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. സുധാകരൻ</figDesc>
+          </figure>
+          <p> ഇനി <ref target="https://ml.wikipedia.org/wiki/MB_Rajesh">എം. ബി.
+രാജേഷി</ref> ന്റെ ചിന്ത ലേഖനത്തിലേക്കു തിരിച്ചുപോകാം. <ref target="https://ml.wikipedia.org/wiki/P.K._Narayana_Panicker">നാരായണപ്പണിക്കരു</ref>
+ടെ നിലപാടിനെ അപലപിച്ചുകൊണ്ടു് സഖാവു് എഴുതുന്നു: നായർക്കു മണിയടിക്കാനുള്ള അവകാശം
+നിഷിദ്ധമായിരുന്ന ഗുരുവായൂർ ക്ഷേത്രത്തിലെ ശ്രീകോവിലിൽ കയറി മണിയടിച്ചതിനു് മർദനമേറ്റു വാങ്ങുമ്പോൾ
+മഹാനായ കൃഷ്ണപിള്ള പറഞ്ഞവാക്കുകൾ ഇപ്പോഴും പ്രസക്തമാണെന്നാണു് വ്യക്തമാക്കുന്നതു്. “ഉശിരുള്ള
+നായർ മണിയടിക്കും, എച്ചിൽ പെറുക്കി നായർ പുറത്തടിക്കും.” അന്നു് കൃഷ്ണപിള്ള പറഞ്ഞതിനു് എഴുപത്തഞ്ചു
+വർഷത്തിനു ശേഷവും സാംഗത്യം നഷ്ടപ്പെട്ടിട്ടില്ലെന്നു് നാം അതോടെ തിരിച്ചറിയേണ്ടിവരും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Babu_M_Paliseery.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാബു എം. പാലിശ്ശേരി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/MB_Rajesh">രാജേഷ്</ref>
+പറയുന്നതു് അക്ഷരം പ്രതി സത്യമാണു്. സഖാവു് കൃഷ്ണപിള്ളയുടെ വാക്കുകൾക്കു സാംഗത്യം കൂടിയിട്ടേയുള്ളൂ.
+പണിക്കർസാറും രാജേഷും ഉശിരുള്ള നായന്മാരാണു്. മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">സുധാകരൻ</ref> ഉശിരുള്ള
+നായരോ വെറും എച്ചിൽ പെറുക്കിയോ എന്ന പ്രശ്നമേ ഇനി ബാക്കിയുള്ളൂ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Usirulla Nair Echilperukki Nair
+(ml: ഉശിരുള്ള നായർ എച്ചിൽപെറുക്കി നായർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Usirulla
+Nair Echilperukki Nair, കെ. രാജേശ്വരി, ഉശിരുള്ള നായർ എച്ചിൽപെറുക്കി നായർ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 9, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:At_the_Shelter_Door_by_Gribkov.jpg">Near
+the Almshouse Door,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Sergei_Gribkov">Sergei Gribkov</ref>
+ (1822–1893). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-usirulla.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-usirulla.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

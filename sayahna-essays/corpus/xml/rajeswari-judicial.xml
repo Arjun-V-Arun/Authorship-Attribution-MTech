@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സഖാക്കളേ, നമുക്കെതിരെ ജുഡീഷ്യൽ
+സിൻഡിക്കേറ്റും!</title>
+          <title xml:lang="en" type="main">Sakhakkale, Namukkethire Judicial
+Sindicatum!</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">February 14, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സഖാക്കളേ, നമുക്കെതിരെ ജുഡീഷ്യൽ
+സിൻഡിക്കേറ്റും!</title>
+              <title xml:lang="en" type="main">Sakhakkale, Namukkethire Judicial
+Sindicatum!</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Sakhakkale</term>
+          <term>Namukkethire Judicial Sindicatum!</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>സഖാക്കളേ</term>
+          <term>നമുക്കെതിരെ ജുഡീഷ്യൽ സിൻഡിക്കേറ്റും!</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 14, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_Colorful_Bird_Chirps.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:A_Colorful_Bird_Chirps_at_Yala_National_Park.jpg">A
+colorful bird spotted at Yala National Park in Sri Lanka,</ref> a photograph by Eli Solidum
+ . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സഖാക്കളേ, നമുക്കെതിരെ ജുഡീഷ്യൽ സിൻഡിക്കേറ്റും!</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സഖാക്കളേ, നമുക്കെതിരെ ജുഡീഷ്യൽ സിൻഡിക്കേറ്റും!</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Friedrich_Engels.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഏംഗൽസ്</figDesc>
+          </figure>
+          <p style="noindent"> സുഹൃത്തുക്കളേ, സഖാക്കളേ, സാമ്രാജ്യത്വ ശക്തികളിൽനിന്നും അഞ്ചാം
+പത്തികളിൽനിന്നും ഇന്ത്യയിലെ ഇടതുപക്ഷം, വിശിഷ്യ കമ്യൂണിസ്റ്റ് (മാർക്സിസ്റ്റ്) പാർട്ടി കടുത്ത വെല്ലുവിളി
+നേരിടുന്ന കാര്യത്തെക്കുറിച്ചു് നിങ്ങൾ ബോധവാന്മാരായിക്കണം. അമേരിക്കയുടെ പങ്കാളിത്തത്തോടെയും
+ഒത്താശയോടെയും നമ്മുടെ പാർട്ടിയെ ദുർബലമാക്കാൻ നടത്തുന്ന ശ്രമങ്ങൾ തിരിച്ചറിയണം, അതിനെതിരെ
+ശക്തമായി പ്രതികരിക്കണം, പ്രതിഷേധിക്കണം.
+</p>
+          <p>യാങ്കി ഏജന്റുമാർ പല രൂപത്തിൽ, പല വേഷത്തിൽ പ്രത്യക്ഷപ്പെടും. പ്രത്യക്ഷപ്പെടാതെ ഒളിവിലിരുന്നും
+യുദ്ധം നയിക്കും. പത്രമുടമകൾക്കു് പണം കൊടുത്തു് വശീകരിക്കും, മാധ്യമപ്രവർത്തകർക്കു് മദ്യം
+വാങ്ങിക്കൊടുക്കും. വ്യാജ വാർത്തകൾ മെനഞ്ഞെടുക്കും, കിംവദന്തികൾ പരത്തും, പാർട്ടി അണികളിൽ
+ആശയക്കുഴപ്പമുണ്ടാക്കാൻ പരിശ്രമിക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karl_Marx.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാർക്സ്</figDesc>
+          </figure>
+          <p> സംസ്ഥാനത്തു് നിലവിലുള്ള മാധ്യമ സിൻഡിക്കേറ്റിനെക്കുറിച്ചു്, അവരുടെ ഉദ്ദേശ്യലക്ഷ്യങ്ങളെക്കുറിച്ചു്,
+സാമ്പത്തിക സ്രോതസ്സിനെക്കുറിച്ചൊക്കെ മുമ്പൊരവസരത്തിൽ പാർട്ടി നിങ്ങളെ
+ബോധവാൻമാരാക്കുകയുണ്ടായല്ലോ? അതേതുടർന്നു് പല ചർച്ചകളുമുണ്ടായി. വാഗ്വാദങ്ങൾ നടന്നു. പാർട്ടി
+നിലപാടിനെ എതിർത്തുകൊണ്ടു് മാധ്യമ ദുഷ്പ്രഭുക്കൾ രംഗത്തുവന്നു. സിൻഡിക്കേറ്റംഗങ്ങളെ പാർട്ടി
+സെക്രട്ടറിതന്നെ തൊട്ടുകാണിച്ചു. സെനറ്റംഗങ്ങളെ പിന്നീടു് ചൂണ്ടിക്കാണിക്കും. ഏതായാലും
+ദുഷ്പ്രചാരണങ്ങളെ തിരിച്ചറിയാൻ, തുറന്നുകാട്ടാൻ പാർട്ടി അണികൾ പ്രാപ്തരായിരിക്കുന്നു.
+</p>
+          <p>മാധ്യമങ്ങളേക്കാൾ ഒട്ടും മോശമല്ലാത്ത മട്ടിൽ നമ്മുടെ പ്രസ്ഥാനത്തെ കടന്നാക്രമിക്കുന്ന മറ്റൊരു
+വിപത്തിനെക്കുറിച്ചു് സഖാക്കളെ ബോധവത്ക്കരിക്കാനാണു് ഈ ഇടയലേഖനം. സമീപകാലത്തായി,
+കോടതികളിൽനിന്നുണ്ടായിക്കൊണ്ടിരിക്കുന്ന ജനവിരുദ്ധ വിധിന്യായങ്ങളെക്കുറിച്ചു് നിങ്ങൾ
+ജാഗരൂകരായിരിക്കണം. രാജ്യത്തെ ഇടതുപക്ഷ പ്രസ്ഥാനത്തെ, പ്രത്യേകിച്ചു് സി. പി. എമ്മിനെ ദുർബലമാക്കാൻ
+അറിഞ്ഞോ അറിയാതെയോ ഉള്ള ശ്രമങ്ങൾ നാം കാണാതിരിക്കരുതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. എം. എസ്.</figDesc>
+          </figure>
+          <p> സഖാക്കളേ, ഒരുകാര്യം ആദ്യമേ വ്യക്തമാക്കട്ടെ. ഇന്ത്യയിൽ നിലവിലുള്ള നീതിന്യായ സംവിധാനം കുറ്റമറ്റ
+ഒന്നല്ല. ഇന്ത്യൻ ഭരണഘടന തന്നെ കൊളോണിയൽ ഭരണത്തിന്റെ ദുർഭഗ സന്തതിയാണു്.
+ജൂഡീഷറിയാണെങ്കിൽ ബൂർഷ്വാസി സ്വന്തം താൽപര്യങ്ങൾക്കനുസൃതമായി മെനഞ്ഞെടുത്ത ജനവിരുദ്ധ
+സ്ഥാപനവുമാണു്. രാജ്യത്തെ മിക്കവാറും നിയമങ്ങളും ചൂഷകർക്കു് അനുകൂലമായവയാണു്. ലെജിസ്ലേച്ചറും
+എക്സിക്യൂട്ടീവുമെന്നപോലെ ജുഡീഷ്യറിയും ചൂഷകർക്കും മർദകർക്കും അനുകൂലമായ നിലപാടുകളാണു്
+അനാദികാലം മുതൽ കൈക്കൊണ്ടുവരുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_sudhakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. സുധാകരൻ</figDesc>
+          </figure>
+          <p> ഭരണകൂടത്തിന്റെ മർദനോപാധികളിൽ ഒന്നാണു് കോടതിയെന്നു് സഖാക്കൾ <ref target="https://ml.wikipedia.org/wiki/Karl_Marx">മാർക്സും</ref> <ref target="https://ml.wikipedia.org/wiki/Friedrich_Engels">ഏംഗൽസും</ref> പണ്ടേ
+പറഞ്ഞുവെച്ചിട്ടുണ്ടു്. ഇക്കാര്യം സ്വാനുഭവത്തിൽനിന്നു് മനസ്സിലാക്കിയതിനാലാണു് സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Vladimir_Lenin">ലെനിൻ</ref>
+വക്കീൽപ്പണി ഉപേക്ഷിച്ചു് പാർട്ടി ഫുൾടൈമറായതും മഹത്തായ നവംബർ വിപ്ലവം നടത്തിയതും. സഖാവു് <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">ജി. സുധാകരനെയും</ref>
+സഖാവു് <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">എ. കെ.
+ബാലനെ</ref> യും പോലുള്ളവർ നിയമബിരുദം നേടിയിട്ടും കോടതികളിൽ പോകാഞ്ഞതും ഇതേ
+കാരണത്താൽ തന്നെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KEN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ഇ. എൻ. കുഞ്ഞഹമ്മദ്</figDesc>
+          </figure>
+          <p> സഖാക്കൾ ഓർമിക്കേണ്ട മറ്റൊരു സംഗതി കൂടിയുണ്ടു്. കോടതികൾ ഒരുകാലത്തും കമ്യൂണിസ്റ്റ് പാർട്ടിയോടു്
+സഹിഷ്ണുത പ്രകടിപ്പിച്ചിട്ടില്ല. ബ്രിട്ടീഷ് സാമ്രാജ്യത്വ കോടതിയാണു് കയ്യൂർ സഖാക്കളെ തൂക്കിലേറ്റാൻ
+വിധിച്ചതെങ്കിൽ, ദേശീയ ബൂർഷ്വാസി താലോലിക്കുന്ന നീതിപീഠമാണു് സഖാവു് <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസി</ref> നെ
+കോടതിയലക്ഷ്യത്തിനു് ശിക്ഷിച്ചതു്. ബൂർഷ്വാ കോടതിയിൽനിന്നു് സാധാരണക്കാർക്കോ സഖാക്കൾക്കോ നീതി
+കിട്ടുകയില്ലെന്നു് <ref target="https://en.wikipedia.org/wiki/Christopher_Caldwell_(journalist)">ക്രിസ്റ്റഫർ
+കാൾഡ്വെൽ</ref> മുതൽ <ref target="https://ml.wikipedia.org/wiki/K.E.N.Kunhahamed">കെ. ഇ. എൻ.
+കുഞ്ഞഹമ്മദ്</ref> വരെയുള്ള പാർട്ടി ബുജികൾ സിദ്ധാന്തിച്ചിട്ടുമുണ്ടു്.
+</p>
+          <p>കഴിഞ്ഞ ഏതാനും മാസങ്ങളായി സംസ്ഥാന സർക്കാറിനെയും നമ്മുടെ പാർട്ടിയെയും ജനമധ്യത്തിൽ
+അപഹാസ്യമാക്കാനുള്ള കുൽസിത ശ്രമങ്ങൾ നടന്നുവരുകയാണു്. നിർഭാഗ്യവശാൽ, അത്തരം ശ്രമങ്ങൾക്കു്
+ആക്കംകൂട്ടാനുള്ള നീക്കമാണു് നീതിപീഠത്തിന്റെ ഭാഗത്തുനിന്നു് ഉണ്ടായിക്കൊണ്ടിരിക്കുന്നതു്. ഇക്കാര്യം പാർട്ടി
+ഗൗരവപൂർവം വീക്ഷിക്കുന്നു. അണികളെ ജാഗരൂകരാക്കാനും ഉദ്ദേശിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AK_Balan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ബാലൻ</figDesc>
+          </figure>
+          <p>സമീപകാലത്തു് കോടതികൾ പുറപ്പെടുവിച്ച അസംബന്ധനിർഭരമായ വിധികളെക്കുറിച്ചും അവയുടെ
+ജനവിരുദ്ധ സ്വഭാവത്തെക്കുറിച്ചും ഓരോ പാർട്ടി അംഗവും ബോധവാനായിരിക്കണം. ന്യായാധിപരുടെ
+വർഗസ്വഭാവത്തെക്കുറിച്ചും സാമ്പത്തിക/സാമുദായിക/രാഷ്ട്രീയ സാമാന്യ വിവരമെങ്കിലും നേടിയിരിക്കണം. ഈ
+വിഷയത്തിൽ ആവശ്യമായ ബോധവത്ക്കരണം നടത്താൻ മേൽക്കമ്മിറ്റികൾ പ്രത്യേകം ശ്രദ്ധിക്കണം.
+കോടതിയെ അധിക്ഷേപിച്ചുകൊണ്ടു് ദേശാഭിമാനിയിൽ വരുന്ന വാർത്തകൾ, ലേഖനങ്ങൾ, കത്തുകൾ
+ഇവയൊക്കെ ചേർത്തു് ഒരു ഫയൽ സൂക്ഷിക്കാൻ ഓരോ ബ്രാഞ്ച് കമ്മിറ്റിയും ഉൽസാഹിക്കണം.
+</p>
+          <p>ന്യായാധിപന്മാരിൽ ഇരുപതു് ശതമാനം അഴിമതിക്കാരാണെന്ന മുൻ ചീഫ് ജസ്റ്റിസ് <ref target="https://en.wikipedia.org/wiki/Sam_Piroj_Bharucha">ബറൂച്ച</ref> യുടെ
+
+പ്രസ്താവന ലോക്കൽ കമ്മിറ്റി അംഗങ്ങൾ മുതൽ മേലോട്ടുള്ള ഓരോ സഖാവും ഹൃദിസ്ഥമാക്കണം.
+കോടതിയലക്ഷ്യത്തെക്കുറിച്ചു് ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/Markandey_Katju">കട്ജു</ref> നടത്തിയ
+അഭിപ്രായപ്രകടനവും അറിഞ്ഞിരിക്കണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/SP_Bharucha.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബറൂച്ച</figDesc>
+          </figure>
+          <p> സമീപകാല വിധികളെക്കുറിച്ചു് സി. പി. എമ്മിന്റെ സുചിന്തിതമായ നിലപാടുകൾ ഇനി പറയുംപ്രകാരമാണു്.
+ഇവ ഓരോ പാർട്ടി അംഗവും കാണാതെ പഠിക്കണം. സംശയമുള്ള കാര്യങ്ങൾ മറ്റാരൊടെങ്കിലും
+ചോദിക്കുകയോ ചർച്ച ചെയ്യുകയോ അരുതു്. ഇക്കാര്യത്തിൽ പാർട്ടി തീരുമാനം അന്തിമമാണു്.
+</p>
+          <p>ബേബിസഖാവിന്റെ സ്വാശ്രയ വിദ്യാഭ്യാസ നിയമം വിപ്ലവകരമായ ഒരു നിയമനിർമാണമായിരുന്നു.
+അതിലെ പ്രസക്തമായ വകുപ്പുകളൊക്കെ റദ്ദാക്കിയ കോടതി വിധി തികച്ചും അപലപനീയം. കോടതിയുടെ
+വർഗസ്വഭാവത്തെ തികച്ചും വ്യക്തമാക്കുന്ന ഒന്നാണു് ഈ വിധിന്യായം. മൂലധന ശക്തികളുടെ പാദസേവകരാണു്
+തങ്ങളെന്നു് ന്യായാധിപന്മാർ തെളിയിച്ചു. (ചീഫ് ജസ്റ്റിസ് ബോട്ടുയാത്ര നടത്തിയതും ഒരു ജഡ്ജിയുടെ മകൻ
+സ്വാശ്രയ കോളേജിൽ മാനേജ്മെന്റ് ക്വാട്ടയിൽ പഠിച്ചതും ഇതിനോടു് ബന്ധപ്പെടുത്തി പറയാൻ മറക്കരുതു്.
+എല്ലാ ജഡ്ജിമാരും അഴിമതിക്കാരാണെന്നു് കേൾവിക്കാർക്കു് തോന്നുന്നിടത്താണു് നമ്മുടെ വിജയം).
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KodiyeriBalakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കോടിയേരി ബാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> വേണ്ടത്ര കൂടിയാലോചന നടത്താതെയും ഭരണഘടനാ വിദഗ്ദ്ധരോടു് അഭിപ്രായം തേടാതെയുമാണു്
+തിടുക്കപ്പെട്ടു് സ്വാശ്രയ നിയമമുണ്ടാക്കിയതു് എന്ന അഭിപ്രായം ചില ഇടതുപക്ഷ സഹയാത്രികർ തന്നെ
+തട്ടിമൂളിക്കുന്നുണ്ടു്. സഖാക്കൾ ഇതേക്കുറിച്ചു് ബോധവാൻമാരാകണം. ഇന്ത്യൻ ഭരണഘടനയല്ല പാർട്ടി
+ഭരണഘടനയാണു് നമുക്കു് മുഖ്യം. സംസ്ഥാന കമ്മിറ്റിയിലെ യാജ്ഞവൽക്യന്മാരോടാലോചിച്ചിട്ടാണു്
+നിയമമുണ്ടാക്കിയതു്. കൂടിയാലോചനയുണ്ടായില്ല എന്നു് ആക്ഷേപമുന്നയിക്കുന്നവർ, ബേബി സഖാവു് രണ്ടാം
+മുണ്ടശ്ശേരിയായി ഷൈൻ ചെയ്യുന്നതിൽ ഈർഷ്യയുള്ളവരാണെന്നും സഖാക്കൾ അറിഞ്ഞിരിക്കണം.
+</p>
+          <p>ആത്മാർഥതയില്ലാതെയാണു് സർക്കാർ കോള നിരോധിച്ചതെന്നു് വിരുദ്ധന്മാർ പ്രചരിപ്പിക്കുന്നുണ്ടു്.
+ഭക്ഷ്യസാധനങ്ങളിൽ മായംചേർക്കൽ നിരോധന നിയമപ്രകാരം കേന്ദ്രസർക്കാറിനേ അധികാരമുള്ളൂ എന്നു
+പറഞ്ഞാണു് കോടതി നമ്മുടെ ഉത്തരവു് റദ്ദാക്കിയതു്. പൊതുജനാരോഗ്യ നിയമപ്രകാരം നമുക്കു് അധികാരമുണ്ടു്.
+അക്കാര്യം കോടതി കണ്ടറിഞ്ഞു് ചെയ്യാഞ്ഞതു് ആരുടെ കുറ്റം?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PinarayiVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പിണറായി വിജയൻ</figDesc>
+          </figure>
+          <p> പാർട്ടിശത്രുക്കൾ നമുക്കെതിരെ ഉന്നയിക്കുന്ന പ്രധാന ആരോപണം ലാവലിൻ കേസ് സംബന്ധിച്ചാണു്.
+ഈ വിഷയത്തിൽ പാർട്ടിയുടെ നിലപാടു് ആവർത്തിച്ചു് വ്യക്തമാക്കിയിട്ടുള്ളതാണു്. ലാവലിൻ കരാർ
+നിർദോഷവും സംസ്ഥാനത്തിന്റെ ഉത്തമ താൽപര്യം മുൻനിറുത്തി ഉണ്ടാക്കിയതുമാണു്. ഇക്കാര്യത്തിൽ <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയനോ</ref> മറ്റേതെങ്കിലും സഖാവോ അഴിമതി നടത്തിയിട്ടില്ലെന്നു് സംസ്ഥാന കമ്മിറ്റി
+തീർപ്പുകൽപിച്ചിട്ടുള്ളതും, ആയതു് പോലിറ്റ് ബ്യൂറോ അംഗീകരിച്ചിട്ടുള്ളതുമാണു്. ലാവലിനെക്കുറിച്ചു് ഇനി
+യാതൊരുവിധ ചർച്ചക്കോ അന്വേഷണത്തിനോ വ്യവഹാരത്തിനോ പ്രസക്തിയില്ല.
+</p>
+          <p>ലാവലിൻ അന്വേഷണം സി. ബി. ഐ.-ക്കു് വിടാൻ തീരുമാനിച്ചതു് കഴിഞ്ഞ യു. ഡി. എഫ്.
+സർക്കാറായിരുന്നു. തികച്ചും രാഷ്ട്രീയപ്രേരിതവും വൈരനിര്യാതന വ്യഗ്രവുമായ തീരുമാനം. എൽ. ഡി. എഫ്.
+
+സർക്കാറിനു് അതു് അംഗീകരിക്കാൻ നിയമപരമായ ബാധ്യതയില്ല. രാഷ്ട്രീയമായ വിയോജിപ്പു് ഉണ്ടുതാനും.
+അതുകൊണ്ടാണു് വിജിലൻസ് അന്വേഷണം മതിയെന്നു് അഡ്വക്കറ്റ് ജനറൽ ബോധിപ്പിച്ചതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/RK_Anand.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. കെ. ആനന്ദ്</figDesc>
+          </figure>
+          <p> സി. ബി. ഐ.-യെക്കാൾ എന്തുകൊണ്ടും മികച്ച അന്വേഷകരാണു് കേരളാ പോലീസിൽ ഉള്ളതു്.
+വിശേഷിച്ചും സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണ</ref> ന്റെ അനുപമ നേതൃത്വത്തിൽ കീഴിൽ സമർഥവും സത്യസന്ധവുമായ അന്വേഷണം
+നടക്കുമായിരുന്നു. എന്നാൽ കോടതി ഇടപെട്ടു് എല്ലാം താറുമാറാക്കി. പ്രതിപക്ഷത്തിന്റെയും ഒരുവിഭാഗം
+മാധ്യമങ്ങളുടെയും കുപ്രചാരണത്തിൽ ന്യായാധിപർ കുടുങ്ങിപ്പോയതായി പാർട്ടി വിലയിരുത്തുന്നു.
+</p>
+          <p>ലാവലിൻ കേസ് വാദിക്കാൻ സുപ്രീം കോടതിയിൽനിന്നു് വക്കീലന്മാരെ ഇറക്കുമതി ചെയ്തതിനെ ചിലർ
+വിമർശിക്കുന്നുണ്ടു്. സംസ്ഥാന സർക്കാർ സകല കേസിലും തോറ്റുകാണാൻ കൊതിക്കുന്നവരാണവർ.
+പുനഃപരിശോധനാ ഹർജി വാദിക്കാൻ സി. എസ്. വൈദ്യനാഥനെയും പൊതു താൽപര്യ ഹർജിയെ
+എതിർക്കാൻ <ref target="https://en.wikipedia.org/wiki/R._K._Anand">ആർ. കെ.
+ആനന്ദി</ref> നെയും കൊണ്ടുവന്നതു് പാർട്ടി തീരുമാനപ്രകാരമാണു്. പാർട്ടിക്കു് മീതെ പരുന്തും പറക്കില്ല.
+പറക്കാൻ സമ്മതിക്കില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mjjacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ജെ. ജേക്കബ്</figDesc>
+          </figure>
+          <p> പരിയാരം മെഡിക്കൽ കോളജ് ഭരണസമിതി പിരിച്ചുവിടാനുള്ള നമ്മുടെ നീക്കം പരാജയപ്പെടുത്തിയതും
+കോടതിയാണു്. നമ്മൾ ബോധിപ്പിച്ച സത്യങ്ങളേക്കാൾ രാഘവന്റെ കളവുകളാണു് ന്യായാധിപർക്കു്
+ബോധ്യമായതു്. സുപ്രീംകോടതിയിൽ അപ്പീൽ കൊടുക്കില്ല എന്നു മന്ത്രി പ്രഖ്യാപിച്ചതു് നീതിന്യായ
+വ്യവസ്ഥയിലുള്ള വിശ്വാസം നഷ്ടപ്പെട്ടതുകൊണ്ടാണു്.
+</p>
+          <p>സഖാവു് <ref target="https://ml.wikipedia.org/wiki/MJ_Jacob">എം. ജെ.
+ജേക്കബി</ref> നെതിരായ തെരഞ്ഞെടുപ്പു് കേസിനെക്കുറിച്ചു് ഏതാനും കാര്യങ്ങൾ അറിഞ്ഞിരിക്കണം. <ref target="https://ml.wikipedia.org/wiki/Varkala_Kahar">വർക്കല കഹാർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Thiruvanchoor_Radhakrishnan">തിരുവഞ്ചൂർ
+രാധാകൃഷ്ണൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">കെ. എം. മാണി</ref>, <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref>, <ref target="https://en.wikipedia.org/wiki/M._V._Shreyams_Kumar">എം. വി.
+ശ്രേയാംസ്കുമാർ</ref>, <ref target="https://ml.wikipedia.org/wiki/K._P._Rajendran">കെ. പി. രാജേന്ദ്രൻ</ref>
+എന്നിവർക്കെതിരെയുണ്ടായിരുന്ന ഹർജികൾ തള്ളുകയും നമ്മുടെ സഖാവിനെ മാത്രം
+വഴിയാധാരമാക്കുകയാണു് കോടതി ചെയ്തതു്. ജനപ്രാതിനിധ്യ നിയമം പ്രാബല്യത്തിൽ വരുന്നതിനു മുമ്പോ
+ശേഷമോ യാതൊരു തെരഞ്ഞെടുപ്പഴിമതിയും നടത്താത്തവരാണു് നമ്മൾ. ഇക്കാര്യം ഹൈക്കോടതിക്കും
+അറിയാത്തതല്ല. നീതിപീഠത്തിന്റെ പക്ഷപാതിത്വത്തിനു് ഉത്തമ ദൃഷ്ടാന്തമാണു് പിറവം വിധി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thiruvanchoor_Radhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലൊളി
+മുഹമ്മദ്കുട്ടി</ref> ക്കെതിരായ കോടതിയലക്ഷ്യ നടപടിയെക്കൂടി ഇതോടൊപ്പം പരിശോധിക്കണം. തികച്ചും
+സദുദ്ദേശ പ്രേരിതമായി സഖാവു് നടത്തിയ പരാമർശങ്ങളെച്ചൊല്ലിയാണു് കോടതി സ്വമേധയാ കോടതിയലക്ഷ്യ
+നടപടി കൈക്കൊണ്ടതു്. സഖാവു് നേരിട്ടു് ഹാജരായി കുറ്റസമ്മതം നടത്തിയിട്ടുപോലും കേസ്
+അവസാനിപ്പിച്ചിട്ടില്ല. നമ്മുടെ എസ്. എഫ്. ഐ. സഖാക്കൾ തെക്കുവടക്കു് നടന്നു് വെല്ലുവിളിച്ചിട്ടും ഒരു
+നടപടിയും എടുക്കാത്ത കോടതിയാണു് മാടപ്രാവിനേക്കാൾ നിഷ്കളങ്കനായ സഖാവു് പാലൊളിക്കുനേരെ
+വാളെടുത്തതെന്നും ഓർമിക്കണം. സഖാവു് ബഹുജനമധ്യത്തിൽ മാപ്പുപറയണം എന്നാണു് കോടതിയുടെ
+നിലപാടു്. കേരളത്തിൽ ഇതിനുമുമ്പു് ഒരു പൊതുപ്രവർത്തകനും ഇത്തരം ദുര്യോഗമുണ്ടായിട്ടില്ല.
+കോടതിയലക്ഷ്യത്തിനുള്ള ക്ഷമാപണം പുത്തരിക്കണ്ടം മൈതാനത്തു് നടത്തണമെന്ന വിധി അന്ധമായ
+മാർക്സിസ്റ്റ് വിരോധമല്ലാതെ മറ്റെന്താണു്?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> ഇത്രനാളും ഹൈക്കോടതിയെക്കൊണ്ടേ ഉപദ്രവമുണ്ടായിരുന്നുള്ളൂ. ഇപ്പോഴിതാ മജിസ്ട്രേറ്റുമാർ പോലും
+നമുക്കെതിരെ തിരിയുന്നു. ഏഴുകൊല്ലം മുമ്പു് തീവണ്ടി തടഞ്ഞതിനു് സഖാവു് <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">എ. കെ. ബാലനെ</ref> യും
+വേറെ ഏഴുപേരെയും ഒറ്റപ്പാലം മജിസ്ട്രേറ്റ് രണ്ടുവർഷം വീതം കഠിന തടവിനു് ശിക്ഷിച്ചിരിക്കുന്നു.
+</p>
+          <p>സഖാവു് <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">ബാലൻ</ref> മന്ത്രിയാണു്,
+സി. പി. എം. സംസ്ഥാന സെക്രട്ടേറിയറ്റ് അംഗമാണു് എന്ന യാതൊരു പരിഗണനയും കൊടുത്തില്ല.
+എന്നുമാത്രമല്ല, സഖാവിനെതിരെ അറസ്റ്റുവാറന്റ് പുറപ്പെടുവിക്കുകയും ചെയ്തു. പ്രതിപക്ഷത്തിനു് നിയമസഭയിൽ
+നിന്നിറങ്ങിപ്പോകാൻ ഒരു കാരണം കിട്ടി. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>
+രാജിവെച്ചില്ലേ, <ref target="https://ml.wikipedia.org/wiki/M.P._Gangadharan">എം. പി.
+ഗംഗാധരൻ</ref> രാജിവെച്ചില്ലേ എന്നൊക്കെ ചോദിച്ചു, കോൺഗ്രസുകാർ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. മാണി</figDesc>
+          </figure>
+          <p> ഗംഗാധരനും കരുണാകരനുമൊക്കെ പല പോഴത്തങ്ങളും ചെയ്തിരിക്കും. പക്ഷേ, അതു് ആവർത്തിക്കാൻ
+നമുക്കു് സാധ്യമല്ല. സഖാവു് ബാലൻ രാജിവെക്കുന്ന പ്രശ്നമില്ല. ട്രെയിൻ തടയുന്നതു് കുറ്റമല്ല. സി. പി. എം.
+പ്രവർത്തകർ വഴിതടയുന്നതും കല്ലെറിയുന്നതുമൊക്കെ അക്രമമായി കാണരുതു്. അതു് രാഷ്ട്ര
+പുനർനിർമാണത്തിന്റെ ഭാഗമാണു്. ബാലൻസഖാവിനെ കോടതി ശിക്ഷിക്കുകയല്ല അഭിനന്ദിക്കുകയാണു്
+വേണ്ടിയിരുന്നതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MV_Shreyams_Kumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വി. ശ്രേയാംസ്കുമാർ</figDesc>
+          </figure>
+          <p> ബാലനും ചന്ദ്രനും അറസ്റ്റുവാറന്റയച്ചതിനെ അപലപിച്ചു് നിയമസഭ പ്രമേയം പാസാക്കിയതിൽ ഒരു
+തെറ്റുമില്ല. രണ്ടും രണ്ടും കൂട്ടിയാൽ അഞ്ചാണെന്ന പ്രമേയം പാസാക്കാൻ വരെ സഭക്കു് അധികാരമുണ്ടു്.
+മജിസ്ട്രേറ്റിനെതിരെ അവകാശ ലംഘനത്തിനു് നടപടിയെടുക്കാനുമുണ്ടു് ആലോചന.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p> മജിസ്ട്രേറ്റിനെ വഴിതടയുകയോ തലവഴി കരിഓയിൽ ഒഴിക്കുകയോ ആണു് വേണ്ടിയിരുന്നതു്. കേസ് വാദിച്ച
+പ്രോസിക്യൂട്ടർക്കും പരാതിയിൽ ഉറച്ചുനിന്നു് മൊഴി കൊടുത്ത റെയിൽവേ ഉദ്യോഗസ്ഥർക്കും ഇരുട്ടടി തന്നെ
+കൊടുക്കണം. നമ്മുടെ സഖാക്കളെ ശിക്ഷിക്കാനോ അറസ്റ്റുവാറന്റ് അയക്കാനോ മേലിൽ ആരും
+ധൈര്യപ്പെടരുതു്. അതിനുള്ള പരിപാടികൾ സംസ്ഥാന നേതൃത്വം ആലോചിച്ചുവരുകയാണു്.
+</p>
+          <p>ബാലൻ സഖാവു് രാജിവെക്കില്ല എന്ന നിലപാടു് സ്വീകരിച്ചതുകൊണ്ടു് മറ്റൊരു സൗകര്യമുണ്ടു്. നാളെ
+കോടതിയലക്ഷ്യത്തിനു് ശിക്ഷകിട്ടിയാൽ പാലൊളി സഖാവും രാജിവെക്കില്ല. മറിച്ചു് ഹൈക്കോടതിക്കെതിരെ
+പ്രമേയം പാസാക്കും. വേണ്ടിവന്നാൽ ജഡ്ജിമാരെ അവകാശ ലംഘനത്തിനു് ശിക്ഷിച്ചു് തുറുങ്കിലടയ്ക്കും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MP_Gangadharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. പി. ഗംഗാധരൻ</figDesc>
+          </figure>
+          <p> സഖാക്കളേ, കേരളത്തിൽ മാത്രമല്ല നമ്മുടെ പാർട്ടി കോടതിയിൽനിന്നു് പീഡനമനുഭവിക്കുന്നതു്. നമ്മുടെ
+പിതൃ രാജ്യമായ പശ്ചിമബംഗാളിൽ പോലും സ്ഥിതി വ്യത്യസ്തമല്ല. എത്ര ലാഘവത്തോടെയാണു് നന്ദിഗ്രാം
+വെടിവെപ്പിനെക്കുറിച്ചു് സി. ബി. ഐ. അന്വേഷണത്തിനു് കൊൽക്കത്ത ഹൈക്കോടതി ഉത്തരവിട്ടതു്? സുപ്രീം
+കോടതിയിൽനിന്നു് വൈദ്യനാഥനെ കൊണ്ടുവരാനുള്ള സാവകാശം പോലും കൊടുത്തില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KP_RAJENDRAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. പി. രാജേന്ദ്രൻ</figDesc>
+          </figure>
+          <p> മാധ്യമ സിൻഡിക്കേറ്റിന്റെ മാതൃകയിൽ ഒരു നീതിന്യായ സിൻഡിക്കേറ്റിനെ കണ്ടെത്താനുള്ള ശ്രമമാണു്
+പാർട്ടി ഇനി നടത്താൻ പോകുന്നതു്. സുപ്രീംകോടതി മുതൽ മുൻസിഫ്/മജിസ്ട്രേറ്റുമാർ വരെയുള്ള
+വർഗശത്രുക്കളെ തിരിച്ചറിയുകയും തുറന്നുകാട്ടുകയും വേണം. ആവശ്യമെങ്കിൽ ശാരീരികമായിത്തന്നെ നേരിടണം.
+</p>
+          <p>വർഗശത്രുവിന്റെ മുന്നിൽ പകച്ചുനിൽക്കുന്നവൻ കമ്യൂണിസ്റ്റല്ല എന്ന <ref target="https://ml.wikipedia.org/wiki/Vladimir_Lenin">ലെനിന്റെ</ref> വചനം
+ഒരിക്കൽകൂടി നിങ്ങളെ ഓർമ്മിപ്പിക്കട്ടെ. മാധ്യമങ്ങളുടെയും നീതിപീഠത്തിന്റെയും കടന്നാക്രമണങ്ങളിൽനിന്നു്
+പ്രസ്ഥാനത്തെ കാത്തുരക്ഷിക്കാനുള്ള ചുമതല നമുക്കോരോരുത്തർക്കും ഉണ്ടു്. പ്രതിസന്ധി ഘട്ടത്തിൽ നാം
+തളരാൻ പാടില്ല. നാളെ നമ്മുടേതാണു്. സഖാക്കളേ മുന്നോട്ടു്!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sakhakkale, Namukkethire
+Judicial Sindicatum! (ml: സഖാക്കളേ, നമുക്കെതിരെ ജുഡീഷ്യൽ സിൻഡിക്കേറ്റും!).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Sakhakkale, Namukkethire Judicial Sindicatum!, കെ. രാജേശ്വരി, സഖാക്കളേ, നമുക്കെതിരെ
+ജുഡീഷ്യൽ സിൻഡിക്കേറ്റും!, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 14, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:A_Colorful_Bird_Chirps_at_Yala_National_Park.jpg">A
+colorful bird spotted at Yala National Park in Sri Lanka,</ref> a photograph by Eli Solidum
+ . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-judicial.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-judicial.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

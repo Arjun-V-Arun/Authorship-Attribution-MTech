@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മാതൃഭാഷാ ‘ഡേ’ ചിന്തകൾ</title>
+          <title xml:lang="en" type="main">Mathrbhasha ‘Day’ Chinthakal</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 20, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മാതൃഭാഷാ ‘ഡേ’ ചിന്തകൾ</title>
+              <title xml:lang="en" type="main">Mathrbhasha ‘Day’ Chinthakal</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Mathrbhasha ‘Day’ Chinthakal</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>മാതൃഭാഷാ ‘ഡേ’ ചിന്തകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 20, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Village_and_castle.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Village_and_castle_1854.jpg">Village
+and castle,</ref> a painting by anonymous  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മാതൃഭാഷാ ‘ഡേ’ ചിന്തകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മാതൃഭാഷാ ‘ഡേ’ ചിന്തകൾ </head>
+        <div type="lsection">
+          <p style="noindent">ഇന്നു് (ഫെബ്രുവരി 21) ലോകം ‘മാതൃഭാഷാദിനം’ കൊണ്ടാടുകയാണു്. മാതാവിനു്
+‘ദിനം’ ഉള്ള പോലെ മാതൃഭാഷയ്ക്കും ഒരു ദിനം!
+</p>
+          <p>കേരളീയർ ഇതെങ്ങനെ ആഘോഷിക്കുമെന്നാണു് ഞാനാലോചിക്കുന്നതു്: ഇപ്പോൾ മലയാളനാട്ടിൽ
+എത്തിപ്പെടുന്ന ആരും ഇവിടത്തെ ഭാഷ ഇംഗ്ലീഷാണോ എന്നു പകച്ചുപോകും. ഏതു പട്ടണത്തിലും ഏതു
+നാട്ടിൻപുറത്തും ചായപ്പീടിക, പുസ്തക വില്പനശാല, വസ്ത്രവ്യാപാരസ്ഥാപനം, ആഭരണശാല, മരുന്നു കട,
+ചലച്ചിത്രശാല, സർക്കാരാപ്പീസ്, വിശ്രമമന്ദിരം, മസാലപ്പീടിക മുതലായവയുടെയെല്ലാം
+പേരെഴുതിവെച്ചിരിക്കുന്നതു് അധികവും ഇംഗ്ലീഷിലാണു്. പരസ്യപ്പലകകൾ ഏറിയതും ഇംഗ്ലീഷ് തന്നെ.
+ഈയിടെയായി, മലയാള പുസ്തകങ്ങളുടെ പുറന്താളിൽ പേരു് ഇംഗ്ലീഷിലും കൂടി ചേർത്തുതുടങ്ങിയിട്ടുണ്ടു്—സ്വല്പം
+അന്തസ്സു് പുസ്തകങ്ങൾക്കും ഇരിക്കട്ടെ!
+</p>
+          <p>ഈ നാട്ടിലെ സംഘടനകളിൽ ഭൂരിഭാഗവും പുലരുന്നതു് ഇംഗ്ലീഷ് പേരുമായിട്ടാണു്. കേരളത്തിനു
+പുറത്തുള്ളവർക്കുകൂടി തിരിയേണ്ടതു് അങ്ങനെയാകുന്നതു് മനസ്സിലാക്കാം. ഒരു വിദ്യാലയത്തിലെ
+മലയാളസമാജം എന്തിനാണു് ‘മലയാളം അസോസിയേഷൻ’ ആവുന്നതു്? കലാലയത്തിലെ
+പൂർവ്വവിദ്യാർത്ഥിസംഘം എന്തിനാണു് ‘ഓൾഡ് സ്റ്റുഡന്റ്സ് അസോസിയേഷൻ’ ആവുന്നതു്?
+</p>
+          <p>കേരളത്തിൽ ഉദ്യോഗപ്പേരുകൾ നിവൃത്തിയുണ്ടെങ്കിൽ ഇംഗ്ലീഷേ ആവൂ. കൂട്ടത്തിലെ വലിയ കോമാളിരൂപം
+‘ഓംബുഡ്സ്മാൻ’ ആണു്. അധികാരികൾക്കെതിരായി ജനങ്ങൾ ഉന്നയിക്കുന്ന പരാതികൾക്കു്
+പരിഹാരമുണ്ടാക്കുന്ന ഉദ്യോഗസ്ഥൻ. ‘പരാതിപരിഹാരകൻ’ എന്നു പറഞ്ഞാൽ നാട്ടുകാർക്കു്
+മനസ്സിലായിപ്പോവും എന്ന തരക്കേടേ ഉള്ളൂ. ‘ഗ്രാമസേവകൻ’ എന്ന ലളിതമായ ജോലിപ്പേരു് ‘വില്ലേജ്
+എക്സ്റ്റൻഷൻ ഓഫീസർ’ എന്നാക്കിക്കിട്ടാൻ വേണ്ടി ആ തസ്തികയിലുള്ളവർ സമരം ചെയ്തു് വിജയിച്ച
+സംസ്ഥാനമാണിതു്!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thomas_Issac.jpg" rendition="gra"/>
+            <figDesc style="thumb">തോമസ് ഐസക്ക്</figDesc>
+          </figure>
+          <p> ഈയിടെ ധനകാര്യവകുപ്പു് ചില മേഖലകളിൽ ‘സോഷ്യൽ ഓഡിറ്റിങ്’ ഏർപ്പെടുത്തി. അതുമായി ചില്ലറ
+സഹകരണം വേണ്ടി വന്നപ്പോഴാണു് സംഗതി തെളിഞ്ഞുകിട്ടിയതു്. പരിപാടിക്കു് ‘ജനപരിശോധന’ എന്നു
+പേരിട്ടാൽ കാര്യം മനസ്സിലായ ജനങ്ങളുടെ പങ്കാളിത്തം കൂടുമല്ലോ, അങ്ങനെ ചെയ്യുന്നതു് നന്നാവില്ലേ എന്നു്
+അന്വേഷിച്ചുകൊണ്ടു് വകുപ്പുമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Thomas_Isaac">തോമസ് ഐസക്കിനു്</ref>
+ഈയുള്ളവൻ ഒരു കത്തയച്ചു. മറുപടി കിട്ടിയില്ല.
+</p>
+          <p>കോഴിക്കോട്ട് പുതുതായി പണിതീർത്ത പാലത്തിനു മുകളിൽ മലയാളലിപിയിൽ ‘ഇ. കെ. നായനാർ ഫ്ളൈ
+ഓവർ’ എന്നെഴുതിവെച്ചതു കണ്ടപ്പോൾ ഈ വിനീതനു് മറ്റൊരബദ്ധം പറ്റി. ‘ഇ. കെ. നായനാർ മേല്പ്പാലം’
+എന്നെഴുതുന്നതു് ഭംഗിയാവില്ലേ എന്നു് ഉണർത്തിക്കൊണ്ടു് അന്നത്തെ മേയർ എം. ഭാസ്ക്കരനു് കത്തയച്ചു. അതിനും
+മറുപടി കിട്ടിയില്ല.
+</p>
+          <p>ഇപ്പോഴത്തെ ജനസേവനങ്ങളിലൊന്നു് പ്ലാസ്റ്റിക് നീക്കലാണു്. നല്ലതു്. അതിനു് മലബാറിൽ കേട്ട പേരാണു്
+കേമം—‘ക്വിറ്റ് പ്ലാസ്റ്റിക് ഡേ’! നാട്ടുകാരുടെ തൊള്ളയിൽ കൊള്ളാത്ത പ്രയോഗം. സാരം മനസ്സിലാകാൻ
+പ്രയാസം. ഒരു വസ്തുവിന്റെ സാങ്കേതിക നാമമാണു് പ്ലാസ്റ്റിക്. കാര്യം തിരിയുന്നതിനാൽ ഇനിയതു്
+മലയാളമാക്കേണ്ടതില്ല. പക്ഷേ, പരിപാടിക്കു് ‘പ്ലാസ്റ്റിക് വിരുദ്ധ ദിനം’ എന്നു പേരിട്ടാൽ എന്താ തരക്കേടു്?
+പ്ലാസ്റ്റിക് മാലിന്യം പോലെ ഒന്നല്ലേ, ഭാഷാമാലിന്യം?
+</p>
+          <p>വിവിധ കക്ഷികളിൽപ്പെട്ട നേതാക്കന്മാരുടെ വർത്തമാനത്തിലെ ഇംഗ്ലീഷ്കോയ്മ ബഹുവിശേഷമാണു്.
+
+ഒരൊറ്റ ഉദാഹരണം:
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p> വ്യോമമന്ത്രിയായി അധികാരമേറ്റു് ഈയിടെ തിരുവനന്തപുരത്തെത്തിയ <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>
+മാദ്ധ്യമങ്ങളോടു പറഞ്ഞു: ‘ഡൽഹിയിൽ ഞാൻ കംഫർട്ടബിളാണു്. ഹൈക്കമാൻഡ് തീരുമാനിക്കുന്ന പക്ഷം
+ഇവിടെ അവയ്ലബ്ൾ ആവും.’
+</p>
+          <p>ഈ സെന്റൻസിലെ ഇമ്പോർട്ടൻഡ് വേഡ്സ് അണ്ടർസ്റ്റാന്റ് ചെയ്യാൻ ഓർഡിനറി പേർസൻസിനു്
+ഡിഫിക്കൽട്ടി ഉണ്ടാവും എന്നു് ഓണറബ്ൾ മിനിസ്റ്റർ മൈൻഡു ചെയ്യാത്തതെന്താണാവോ?
+</p>
+          <p>സംഗതി ലളിതം: നമ്മൾ ഒരുമാതിരി കാര്യങ്ങളൊക്കെ ആലോചിക്കുന്നതു് വിദേശഭാഷയായ
+ഇംഗ്ലീഷിലാണു്, മാതൃഭാഷയായ മലയാളത്തിലല്ല. ‘യജമാന’നായിരുന്ന സായ്പ്പ് പോയി അരനൂറ്റാണ്ടു്
+കഴിഞ്ഞിട്ടും തുടരുന്ന മാനസികമായ അടിമത്തം!
+</p>
+          <p>പിൻകുറി: ഈ ചങ്ങമ്പുഴ ജന്മശതാബ്ദി വർഷത്തിലെ ‘മദർടംഗ്സ് ഡേ’യിൽ ആർക്കും ‘രമണീയ’മായി ഒന്നു
+‘സിംഗ് ചെയ്യാൻ’ തോന്നും:</p>
+          <lg>
+            <l> എവിടെത്തിരിഞ്ഞൊന്നു നോക്കിയാലെ-</l>
+            <l> ന്തവിടെല്ലാമാംഗലവാണി മാത്രം! </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>(മലയാളമനോരമ, 21 ഫെബ്രുവരി 2010)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Mathrbhasha ‘Day’ Chinthakal
+(ml: മാതൃഭാഷാ ‘ഡേ’ ചിന്തകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Mathrbhasha ‘Day’ Chinthakal, എം. എൻ. കാരശ്ശേരി, മാതൃഭാഷാ ‘ഡേ’ ചിന്തകൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 20, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Village_and_castle_1854.jpg">Village
+and castle,</ref> a painting by anonymous  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-mathrbhasha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasserymathrbhasha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സാമൂഹ്യനോവലുകൾ</title>
+          <title xml:lang="en" type="main">Samuhyanovelukal</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 22, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സാമൂഹ്യനോവലുകൾ</title>
+              <title xml:lang="en" type="main">Samuhyanovelukal</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Samuhyanovelukal</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>സാമൂഹ്യനോവലുകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 22, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Girl-Reading-Perugini.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Girl-ReadingCharles-Edward-Perugini.jpg">Girl Reading,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Charles_Edward_Perugini">Charles
+Edward Perugini</ref>  (1839–1918). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സാമൂഹ്യനോവലുകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സാമൂഹ്യനോവലുകൾ</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chanthumenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചന്തുമേനോൻ</figDesc>
+          </figure>
+          <p style="noindent"> നോവൽ എന്ന വാക്കിൽത്തന്നെ ഒരു പുതുമ സൂചിതമായിട്ടുണ്ടല്ലോ. അതു്
+അർത്ഥവത്താണു്. എന്തെന്നാൽ കഥാകഥനരീതിയുടെ ഒരു നവീന പരിണാമമാണു് നോവൽ. കഥ പറയുന്ന
+സമ്പ്രദായം ഭാരതത്തിൽ പണ്ടേ നിലവിലുണ്ടായിരുന്നു. അതു് ഗദ്യപദ്യരൂപങ്ങളിൽ പരിപുഷ്ടമാകയും ചെയ്തു.
+എന്നിട്ടും ഇങ്ങനെയൊരു നൂതനപരിണാമം ഉണ്ടാകത്തക്കവിധം ഇവിടെ കഥാസാഹിത്യം വികസിച്ചില്ല.
+പാശ്ചാത്യസാഹിത്യത്തിലാണു നോവൽപ്രസ്ഥാനം ആദ്യമായി ആവിർഭവിച്ചതു്.
+തത്സാഹിത്യസമ്പർക്കംകൊണ്ടു മലയാളത്തിലും ഈ പ്രസ്ഥാനം മുളച്ചുവളരാൻതുടങ്ങി. എഴുപതുകൊല്ലത്തെ
+ചരിത്രമേയുള്ളു നമ്മുടെ നോവൽസാഹിത്യത്തിനു്. 1887-ലോ, 88-ലോ ആണു്, മലയാളത്തിലെ ആദ്യത്തെ
+നോവലായി ഗണിക്കപ്പെടുന്ന <ref target="https://en.wikipedia.org/wiki/Kundalatha">കുന്ദലത</ref>
+പ്രസിദ്ധീകൃതമായതു്. ആദ്യകൃതിയെന്ന നിലയ്ക്കുള്ള ചരിത്രപ്രധാനമായ പ്രാധാന്യമേ കുന്ദലതയ്ക്കുള്ളൂ.
+സാഹിത്യദൃഷ്ട്യാ നോക്കിയാൽ അതൊരു കെട്ടുകഥ മാത്രമാകുന്നു. കേരളീയമായ ജീവിതപാശ്ചാത്തലത്തിലല്ല
+അതിലെ കഥ നടക്കുന്നതു്. അതുകൊണ്ടു മലയാളത്തിലെ ഒന്നാമത്തെ സാമൂഹ്യനോവൽ എന്ന പദവി പ്രസ്തുത
+കൃതി അർഹിക്കുന്നില്ല. <ref target="https://ml.wikipedia.org/wiki/Indulekha">ഇന്ദുലേഖ</ref> യ്ക്കുള്ളതാണു് ആ
+സ്ഥാനം. ഇന്ദുലേഖയേയും ശാരദയേയും സൃഷ്ടിച്ച സഹൃദയാഗ്രേസരനായ <ref target="https://ml.wikipedia.org/wiki/O._Chandumenon">ചന്തുമേനോൻ</ref>
+തന്നെയാണു് സാമൂഹ്യനോവലുകളുടെ ആരാധ്യനായ പ്രഥമാവതാരകൻ. അനന്യദൃഷ്ടമായ കാവ്യസൗന്ദര്യം
+കളിയാടുന്ന ഈ വിശിഷ്ടകൃതികൾ ഇന്നും മലയാളനോവലുകളുടെ മുൻപന്തിയിൽ പ്രശോഭിക്കുന്നു.
+ഗതാനുഗതികന്യായേന ഈ കൃതികളെ അനുകരിച്ചു നിരവധി പ്രേമകഥകൾ പുറപ്പെട്ടുവെങ്കിലും അവയിലധികവും
+അല്പായുസ്സുകളായിപ്പോയി. എന്നാലും ഈ ചുരുങ്ങിയ കാലത്തിനുള്ളിൽ മലയാളത്തിലെ നോവൽപ്രസ്ഥാനം
+ശാഖോപശാഖമായി വളർന്നിട്ടുണ്ടെന്നു പറയാം. ചരിത്രാഖ്യായികകൾ, സാമൂഹ്യനോവലുകൾ,
+കുറ്റാന്വേഷണകഥകൾ ഇങ്ങനെ പല വകുപ്പുകളിലായി ധാരാളം നല്ല സ്വതന്ത്രകൃതികളും പരിഭാഷകളും
+കൈരളിക്കു ലഭിച്ചിട്ടുണ്ടു്. ഇവിടെ സാമൂഹ്യനോവലുകളെ മാത്രമേ ഉപരിനിരൂപണത്തിനു വിഷയമാക്കുന്നുള്ളൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Muttathu_Varkey.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുട്ടത്തു വർക്കി</figDesc>
+          </figure>
+          <p> മനുഷ്യജീവിതത്തിന്റെ വികാരസമ്മർദ്ദം കലർന്ന ഒരാഖ്യാനം (A narrative of human life under
+stress of emotion) എന്നാണു നോവലിനെപ്പറ്റിയുള്ള ഒരു സാമാന്യ നിർവ്വചനം. കഥാപാത്രങ്ങളുടെ
+പ്രവർത്തനരംഗത്തിൽ ഒരുതരം വൈകാരികമായ ജാഗരണം എല്ലാത്തരം നോവലുകളിലും കാണാം. എന്നാൽ
+ഇതരരൂപങ്ങൾക്കില്ലാത്തതായ ചില സവിശേഷതകൾ സാമൂഹ്യനോവലുകൾക്കുണ്ടു്. സാധാരണ
+ജീവിതത്തിന്റെ യഥാർത്ഥമായ ചിത്രീകരണത്തിനാണു് അവയിൽ പ്രാമുഖ്യം. തന്മൂലം അത്തരം നോവലുകൾ
+ജീവിതയാഥാർത്ഥ്യങ്ങളോടു് ഏറ്റവും അടുത്തുനില്ക്കുന്നു. ചരിത്രനോവലുകളെ നാം കേൾക്കുകയും
+സാമൂഹ്യനോവലുകളെ നാം കാണുകയും ചെയ്യുന്നുവെന്നു് ഒരു സഹൃദയൻ അഭിപ്രായപ്പെട്ടിട്ടുള്ളതു് ഇവിടെ
+സ്മർത്തവ്യമാണു്. സംഭവപ്രധാനങ്ങളാണല്ലോ, ചരിത്രനോവലുകൾ. അവിടെ പ്ലോട്ടിന്റെ, അതായതു് കഥാ
+ഗുംഫനത്തിന്റെ പിരിമുറക്കത്തിൽ ഗ്രന്ഥകാരന്റെ ശ്രദ്ധ കേന്ദ്രീകൃതമാകുന്നു. അത്ഭുതങ്ങളും അതിശയോക്തികളും
+അവയിൽ സ്ഥലംപിടിച്ചിരിക്കും. ഈ സമ്പ്രദായം സാമൂഹ്യനോവലുകളിൽ ശോഭിക്കുകയില്ല. <ref target="https://en.wikipedia.org/wiki/Marthandavarma_(novel)">മാർത്താണ്ഡവർമ്മ</ref>
+യിലെ അനന്തപത്മനാഭനെപ്പോലെ അത്ഭുതപ്രവർത്തനങ്ങളിലേർപ്പെടുന്ന ഒരു കഥാപാത്രം ഇന്ദുലേഖയിലോ
+ശാരദയിലോ പ്രത്യക്ഷപ്പെട്ടാൽ വായനക്കാർക്കു രസിക്കുമോ? സ്വാഭാവികതയുടെ സീമയെ
+
+അതിലംഘിക്കാത്തവിധത്തിലുള്ള, തന്മയത്വത്തോടുകൂടിയ പാത്ര സൃഷ്ടി, സംഭവങ്ങളേക്കാൾ അവ
+പാത്രങ്ങളിലുണ്ടാക്കുന്ന മാനസികപ്രതികരണങ്ങൾ, അനുഭവപ്രതീതിയുളവാക്കുന്ന സ്വഭാവോന്മീലനം
+എന്നിവയാണു് സാമൂഹ്യ നോവലുകളിലെ പ്രധാന ഘടകങ്ങൾ. ഒരുവിധത്തിൽ നോക്കിയാൽ
+ചരിത്രനോവലുകൾ ബഹിർമുഖങ്ങളും സാമൂഹ്യനോവലുകൾ അന്തർമുഖങ്ങളാണെന്നു കാണാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Matthew_Arnold.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാത്യു ആർനോൾഡ്</figDesc>
+          </figure>
+          <p> ചരിത്രനോവലുകളുടെ കാലം മിക്കവാറും കഴിഞ്ഞുവെന്നു തോന്നുന്നു. ഭാവി
+സാമൂഹ്യനോവലുകൾക്കുള്ളതാണു്. ഇന്നത്തെ ബഹുവിധ സാമൂഹ്യപ്രശ്നങ്ങളും രാഷ്ട്രീയസംഘർഷങ്ങളും മറ്റും
+കഥാരസം കലർന്നു പൊന്തിവരുന്നതു് അവയിലാണല്ലോ. സ്തോഭഭാവതരംഗിതമായ ജീവിതാനുഭവങ്ങളുടെ
+ചമല്ക്കാരികയായ കഥയാണു് അവയിൽ പൊതുവേ നിഴലിക്കുന്നതു്. ഒരു നല്ല നോവലിൽ
+പ്രതിഫലിതമാകുമ്പോൾ മനുഷ്യജീവിതം രസാത്മകമായ കവിതയായി പരിണമിക്കുന്നു. കവിത
+ജീവിതനിരൂപണമാണെന്നു <ref target="https://en.wikipedia.org/wiki/Matthew_Arnold">മാത്യു ആർനോൾഡ്</ref>
+പറഞ്ഞിട്ടുണ്ടു്. ഈ നിർവ്വചനം സാമൂഹ്യനോവലുകളെസ്സംബന്ധിച്ചാണു കൂടുതൽ ശരിയാവുക.
+മാനുഷികബന്ധങ്ങളുടെ സൂക്ഷ്മപ്രവർത്തനങ്ങൾവഴി അജ്ഞാതങ്ങളായ ഹൃദയാന്തർഭാഗങ്ങളിലേക്കു
+വെളിച്ചംവീശാൻ അവയ്ക്കു കൂടുതൽ കഴിവുണ്ടു്. അനുകൂലമോ പ്രതികൂലമോ ആയ സാമൂഹ്യപശ്ചാത്തലത്തിൽ
+വ്യക്തിജീവിതങ്ങൾക്കുണ്ടാകുന്ന പരസ്പരോപമർദ്ദങ്ങളും സംശ്ലേഷവിശ്ലേഷങ്ങളും സമ്മിശ്രഗതിവിഗതികളും
+ഇത്രത്തോളം ഭാവശബളിതമായി മറ്റൊരു സാഹിത്യരംഗത്തും പ്രത്യക്ഷപ്പെടുന്നില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Somerset_Maugham.jpg" rendition="gra"/>
+            <figDesc style="thumb">സോമർസെറ്റ് മോം</figDesc>
+          </figure>
+          <p> സാമൂഹ്യനോവലുകളെപ്പറ്റിയുള്ള ഈ സാമാന്യചിന്തയെ ആസ്പദമാക്കി വേണം മലയാളകൃതികളെ
+നിരൂപണംചെയ്യാൻ. പ്രസിദ്ധ നോവൽകാരനായ <ref target="https://ml.wikipedia.org/wiki/William_Somerset_Maugham">സോമർസെറ്റ്
+മോം</ref> പറയുന്നതു് ഒരു നോവലിന്റെ ഒന്നാമത്തെ നിരൂപകൻ വായനക്കാരനാണെന്നത്രെ.
+സഹൃദയനായ വായനക്കാരനെന്നു് പറഞ്ഞാലേ ഇതു് തികച്ചും ശരിയാകൂ. ഒന്നു തീർച്ച; വായനക്കാരുടെ
+അനുഭവംതന്നെയാണു് ഒന്നാമത്തെ മാനദണ്ഡം. മറ്റെന്തെല്ലാം യോഗ്യതകളുണ്ടായാലും വായിച്ചു
+രസിക്കാൻകൊള്ളാത്ത ഒരു നോവൽ അധികകാലം ജീവിച്ചിരിക്കയില്ല. കലാഭംഗിനിറഞ്ഞ ഒരു കഥാ
+ശില്പം-അതാണു് ഏതു നോവലിന്റെയും ജീവനാഡി. വിനോദവും വിജ്ഞാനവും എന്നു രണ്ടു
+സാഹിത്യധർമ്മങ്ങളിൽ രണ്ടാമത്തേതു മാത്രം ശ്രദ്ധാകേന്ദ്രമാക്കിയ നോവൽകാരന്മാർ പരാജയപ്പെട്ടിട്ടേയുള്ളു.
+<ref target="https://ml.wikipedia.org/wiki/George_Bernard_Shaw">ബർണാഡ്
+ഷാ</ref> അക്കൂട്ടത്തിൽപ്പെട്ട ആളാണു്. വിജ്ഞാനപരമായ പ്രചാരണത്തിനു നോവലുകളിൽ സ്ഥാനമില്ലേ
+എന്ന ചോദ്യം ഇവിടെ സംഗതമാകുന്നു. ഉണ്ടെന്നുതന്നെ പറയാം. പക്ഷേ, അതു കലാപരമായ മൂല്യങ്ങളെ
+അവഗണിച്ചുകൊണ്ടു വാച്യമായിപ്പോകരുതു്. സാമൂഹ്യമായ പരിഷ്കരണത്തിനും പുരോഗതിക്കും വേണ്ട
+പ്രചോദനം വ്യംഗ്യഭംഗ്യാ നിർവ്വഹിക്കപ്പെടണം. ചന്തുമേനോന്റെ വിദഗ്ദ്ധതൂലിക വിജയിച്ചതു് ആ വഴിക്കാണു്.
+ഇന്ദുലേഖയിലെ പതിനെട്ടാം അദ്ധ്യായത്തിൽ ഈ സാഹിത്യതത്വം അദ്ദേഹം വിസ്മരിച്ചതുകൊണ്ടു് അതു
+ദുസ്സഹമായിത്തീരുകയും ചെയ്തു. കഥാപാത്രങ്ങളിൽക്കൂടി ഗ്രന്ഥകാരൻതന്നെ വായനക്കാരെ അഭിമുഖീകരിച്ചു്
+സാമൂഹ്യപ്രശ്നങ്ങളെപ്പറ്റി ചർച്ചചെയ്യാൻ തുടങ്ങിയാൽ ആ നോവൽ വായിക്കാൻ അധികമാരും ഉണ്ടാകയില്ല. ഷാ
+നോവലെഴുതി തോറ്റതു് ഇങ്ങനെയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_bernard_shaw.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബർണാഡ് ഷാ</figDesc>
+          </figure>
+          <p> ഇന്ദുലേഖയുടെയും ശാരദയുടെയും ആവിർഭാവത്തിനുശേഷം നമ്മുടെ നോവൽപ്രസ്ഥാനം എത്രത്തോളം
+
+പുരോഗമിച്ചിട്ടുണ്ടു്? കലാപരമായ മേന്മയിൽ ഈ രണ്ടു കൃതികളേയും അതിശയിക്കുന്ന
+നോവലുകളുണ്ടായിട്ടുണ്ടോ? വായനക്കാരുടെ രുചിഭേദമനുസരിച്ചു വ്യത്യസ്തമാകാം ഇത്തരം ചോദ്യങ്ങൾക്കുള്ള
+മറുപടി. സാങ്കേതികത്വത്തിലേക്കു കടക്കാതെ നോവലിന്റെ മേന്മ നിർണ്ണയിക്കാൻ ഒരെളുപ്പവഴിയുണ്ടു്. ഒരു
+നോവൽ ഒരു തവണ വായിച്ചിട്ടു്, കുറേനാൾ കഴിഞ്ഞു വീണ്ടും അതു വായിക്കണമെന്നു തോന്നുക; എത്രനാൾ
+കഴിഞ്ഞാലും അതിലെ പല പാത്രങ്ങളും രംഗങ്ങളും ഒരിക്കലും മാഞ്ഞുപോകാത്തവിധം മനസ്സിൽ
+പതിഞ്ഞുകിടക്കുക. ഇപ്പറഞ്ഞ രണ്ടനുഭവത്തിന്മേൽ ഉരച്ചുനോക്കിയാൽ നെല്ലും പതിരും എളുപ്പം തിരിച്ചറിയാം.
+ചന്തുമേനോന്റെ നോവലുകൾ പുറത്തുവന്നിട്ടു് എത്രയോ കൊല്ലങ്ങളായല്ലോ. ഇതിനകം പലരും അവ രണ്ടും
+മൂന്നും തവണ വായിച്ചു രസിച്ചിട്ടുണ്ടാകാം. പഞ്ചുമേനോൻ, സൂരിനമ്പൂരിപ്പാട്, വൈത്തിപ്പട്ടർ തുടങ്ങിയ
+കഥാപാത്രങ്ങൾ ഇന്നും നമ്മുടെ ഹൃദയഫലകത്തിൽ സജീവചിത്രങ്ങളായി വിളങ്ങുന്നില്ലേ? അതുപോലെ
+അവയിലെ ഭാവസ്ഫുരത്തായ പല രംഗങ്ങളും ചന്തുമേനോന്റെ ഈ സൃഷ്ടിവൈഭവവും നിരീക്ഷണവിചക്ഷണതയും
+ഇത്രയും ഉയർന്ന നിലവാരത്തിൽ അനന്തരഗാമികളായ എത്ര നോവൽകാരന്മാർ പ്രകടിപ്പിച്ചിട്ടുണ്ടു്?
+വായനക്കാർ സ്വാനുഭവത്തെ ആസ്പദമാക്കി ഇതിനുത്തരം പറയുകയാണു യുക്തം.
+</p>
+          <p>ഒരു കാര്യം സമ്മതിക്കണം. നമ്മുടെ നോവൽസാഹിത്യം വികസിച്ചുവരുന്നുണ്ടു്.
+ഒന്നാംകിടയിൽപ്പെടുത്താവുന്ന അനേകം നല്ല നോവലുകൾ അടുത്തകാലത്തു് മലയാളത്തിൽ അവതരിച്ചിട്ടുണ്ടു്.
+<ref target="https://ml.wikipedia.org/wiki/Uroob">ഉറൂബിന്റെ</ref> <ref target="https://ml.wikipedia.org/wiki/Ummachu">ഉമ്മാച്ചു</ref>, <ref target="https://ml.wikipedia.org/wiki/Sundarikalum_Sundaranmarum">സുന്ദരികളും
+സുന്ദരൻമാരും</ref>; <ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">ബഷീറി</ref>
+ന്റെ <ref target="https://ml.wikipedia.org/wiki/Ntuppuppaakkoraanaendaarnnu">ന്റുപ്പൂപ്പാക്കൊരാനേണ്ടാർന്ന്</ref>;
+<ref target="https://ml.wikipedia.org/wiki/Thakazhi_Sivasankarappilla">തകഴി</ref>
+യുടെ <ref target="https://ml.wikipedia.org/wiki/Randidangazhi">രണ്ടിടങ്ങഴി</ref>, <ref target="https://ml.wikipedia.org/wiki/Chemmeen_(novel)">ചെമ്മീൻ</ref>; <ref target="https://ml.wikipedia.org/wiki/S._K._Pottekkat">എസ്. കെ.
+പൊറ്റെക്കാടിന്റെ</ref> വിഷകന്യക; <ref target="https://ml.wikipedia.org/wiki/P.Kesavadev">കേശവദേവി</ref> ന്റെ
+ഓടയിൽനിന്നു് മുതലായ സുപ്രസിദ്ധ കൃതികൾ ഏതൊരു ഭാഷയ്ക്കും ഭൂഷണമാകത്തക്കവിധം
+മെച്ചമേറിയവയാണെന്നു് ആരും സമ്മതിക്കും. ഇവയിൽ പലതും സമ്മാനാർഹങ്ങളുമായിട്ടുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/Moothiringode_Bhavathr%C4%81than_Namboothiripad">മുത്തിരിങ്ങോട്ടു്
+ഭവത്രാതൻ നമ്പൂതിരിപ്പാടി</ref> ന്റെ <ref target="https://ml.wikipedia.org/wiki/Aphante_Makal">അപ്ഫന്റെ മകളും</ref>,
+രാമൻനമ്പീശന്റെ കേരളേശ്വരനും എങ്ങനെയോ പിന്നണിയിൽപ്പെട്ടുപോയെങ്കിലും ഇന്നും സ്മരണീയങ്ങളാണു്.
+<ref target="https://en.wikipedia.org/wiki/G._Vivekanandan">ജി.
+വിവേകാനന്ദൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Ponjikara_Raphi">പോഞ്ഞിക്കര റാഫി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Muttathu_Varkey">മുട്ടത്തു
+വർക്കി</ref>, <ref target="https://ml.wikipedia.org/wiki/Parappurath">പാറപ്പുറത്ത്</ref> തുടങ്ങിയ
+നവോത്ഥാനികളും പ്രസ്തുത രംഗത്തു മുന്നേറിവരുന്നതു് ആഹ്ലാദപ്രദമാകുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Parappurath.jpg" rendition="gra"/>
+            <figDesc style="thumb">പാറപ്പുറത്ത്</figDesc>
+          </figure>
+          <p> ഇന്ദുലേഖയുടെ കാലത്തിനുശേഷം നമ്മുടെ സാമൂഹ്യജീവിതത്തിൽ പല പരിവർത്തനങ്ങളും സംഭവിച്ചല്ലോ.
+രൂപഭാവങ്ങളിൽ ഇവയ്ക്കനുസൃതമായ പരിണാമവും പുരോഗതിയും ഇന്നത്തെ നോവലുകളിലും കാണാം.
+ശൃംഗാരത്തിനു മുമ്പുണ്ടായിരുന്ന പ്രാധാന്യം ഇപ്പോൾ കുറഞ്ഞിരിക്കുകയാണു്. സിദ്ധാന്തപരവും
+സംഘടനാപരവുമായ പ്രതികരണങ്ങളിൽനിന്നു പൊട്ടിപ്പുറപ്പെടുന്ന സമ്മിശ്രഭാവങ്ങൾ ശക്തിപ്പെട്ട
+അനുരാഗവ്യാപാരത്തെ അധികരിച്ചുതുടങ്ങിയിരിക്കുന്നു. ഈ വ്യതിയാനം നേരിയ രീതിയിൽ
+ചന്തുമേനോൻതന്നെ ശാരദയിൽ തുടങ്ങിവെച്ചതാണു്. കുലമഹിമ പുലർത്താനുള്ള മിഥ്യാഭിജാത്യപ്രകടനങ്ങളും
+
+വ്യവഹാരകാര്യമാത്സര്യങ്ങളും മറ്റുമാണല്ലോ ആ കഥയിൽ മുന്നിട്ടുനില്ക്കുന്നതു്. മാനസികസംഘട്ടനങ്ങളുടെ
+ഫലമായുണ്ടാകുന്ന ഭാവസമ്മർദ്ദം ഇന്നത്തെ നോവലുകളിൽ കൂടുതലുണ്ടു്. സാമൂഹ്യജീവിതത്തിലെ
+അധസ്തലങ്ങളെ ചിത്രീകരിക്കുന്നുവെന്ന നിലയ്ക്കു് ഇവ കൂടുതൽ ജനകീയങ്ങളുമാണു്. ഇതിവൃത്തം, പാത്രസൃഷ്ടി,
+പ്രതിപാദനരീതി, ഭാവോദ്ദീപനം എന്നിവയിൽ ഒരു നവീനസമ്പ്രദായം ആവിഷ്ക്കരിച്ചിട്ടുള്ള രണ്ടു കൃതികളാണു്
+ഉറൂബിന്റെ ഉമ്മാച്ചുവും, സുന്ദരികളും സുന്ദരന്മാരും. ഒരു പ്രത്യേക കാലഘട്ടത്തിന്റെ ചരിത്രം പ്രതിഫലിപ്പിച്ചു
+കൊണ്ടു തലമുറകളായിത്തിരിയുന്ന കഥാപാത്രങ്ങളെ ഘടിപ്പിച്ചു്, സംഭവങ്ങൾ തുടർന്നുവരുന്ന മട്ടിൽ മെടഞ്ഞു
+കോർത്തിണക്കി നിർമ്മിച്ചിട്ടുള്ള സുദീർഘസുന്ദരമായ കഥാഗാത്രം രണ്ടിലുമുണ്ടു്. അന്യാദൃശവും അനവദ്യവുമായ
+ഈ രീതി മലയാളനോവൽപ്രസ്ഥാനത്തിലെ ഒരു പുതിയ വഴിത്തിരിവാകുന്നു.
+</p>
+          <p>കാലമാണല്ലോ ഏതൊരു കൃതിയുടേയും പ്രഥമപരിശോധകൻ. അതുകൊണ്ടു നമ്മുടെ പുതിയ
+നോവലുകളെപ്പറ്റി കാലം കുറേക്കഴിഞ്ഞിട്ടേ നിർണ്ണായകമായ ഒരഭിപ്രായം പറയാനാകൂ.
+</p>
+          <p>
+(ചിന്താതരംഗം—1958.)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Samuhyanovelukal (ml:
+സാമൂഹ്യനോവലുകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Samuhyanovelukal, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, സാമൂഹ്യനോവലുകൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 22, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Girl-Reading-CharlesEdward-Perugini.jpg">Girl Reading,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Charles_Edward_Perugini">Charles
+Edward Perugini</ref>  (1839–1918). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-samuhyanovel.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhasamuhyanovel.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

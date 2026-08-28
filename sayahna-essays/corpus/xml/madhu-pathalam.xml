@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പാതാളത്തിന്റെ തിളക്കം</title>
+          <title xml:lang="en" type="main">Pathalaththinte Thilakkam</title>
+        </title>
+        <author>Madhusudhanan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 18, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പാതാളത്തിന്റെ തിളക്കം</title>
+              <title xml:lang="en" type="main">Pathalaththinte Thilakkam</title>
+            </title>
+            <author>Madhusudhanan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-10-27</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Madhusudhanan</term>
+          <term>Pathalaththinte Thilakkam</term>
+          <term>മധുസൂദനൻ</term>
+          <term>പാതാളത്തിന്റെ തിളക്കം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-10-27</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/madhu-pathalam-03.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:Hirst-Love-Of-God.jpg">For the
+love of god,</ref> a sculpture by <ref target="https://en.wikipedia.org/wiki/Damien_Hirst">Damien Hirst</ref>
+ . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പാതാളത്തിന്റെ തിളക്കം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>മധുസൂദനൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead"/>
+        <div type="lsection">
+          <quote>
+ഇന്ത്യയിൽ, പ്രത്യേകിച്ചു് മലയാളത്തിൽ അധികം കൈകാര്യം ചെയ്യപ്പെട്ടിട്ടില്ലാത്ത ‘കൺസെപ്ച്വൽ
+ആർട്ടിനെക്കുറിച്ചുള്ള ഒരു ലേഖനമാണു് ഇന്നു് സായാഹ്ന പ്രസിദ്ധീകരിക്കുന്നതു്. ഒരു ആർട്ടിസ്റ്റ് തന്നെ എഴുതുന്ന
+ലേഖനം എന്ന പ്രത്യേകതകൂടി മധുസൂദനന്റെ ഈ ലേഖനത്തിനുണ്ടു്.
+–സായഹ്ന പ്രവർത്തകർ
+</quote>
+          <!--end of "quote"-->
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+      <div type="lchapter" xml:id="lchp2">
+        <head type="lchaphead">പാതാളത്തിന്റെ തിളക്കം<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> </head>
+        <div type="lsection">
+          <p style="noindent">രണ്ടായിരത്തി പതിനെട്ടിലെ വെള്ളപ്പൊക്കത്തിനു് ശേഷം കുട്ടനാട്ടിൽ
+ചെന്നപ്പോൾ സർവവും വെള്ളത്തിൽ മുങ്ങിയതോർത്തു ഏങ്ങലടിച്ചു കരയുന്ന ഒരമ്മയേയും കണ്ടിരുന്നു. അവളുടെ
+വീടായിരുന്നയിടം മൂന്നടിയോളം അഴുക്കുവെള്ളം കൊണ്ടു് നിറഞ്ഞിരുന്നു. തോണിയിൽ വേണം
+താമസസ്ഥലത്തേയ്ക്കു് പോകുവാൻ. അഴുക്കുവെള്ളത്തിൽ കുഴഞ്ഞുകിടക്കുന്ന അവളുടെ കിടയ്ക്കകൾക്കും
+കരിക്കലങ്ങൾക്കും മുകളിലായി മഴനനയാതിരിക്കുവാൻ ഓട്ടവീണ രണ്ടുമൂന്നു കുടകൾ
+ഉയർന്നുനിൽപുണ്ടായിരുന്നു. അവൾക്കു് പ്രധാനമായിരുന്നതൊക്കെ നഷ്ടപ്പെട്ടു. കുട്ടനാട്ടിലെ കർഷകസ്ത്രീയുടെ
+മുഖവും ശരീരഘടനയുമുള്ള ആ അമ്മയുടെ കഴുത്തിലെ നേർത്ത തിളങ്ങുന്ന ഒരു സർപ്പംപോലെയുള്ള താലിമാല
+അവൾ വലതു കൈപ്പടം കൊണ്ടു് പൊത്തിപ്പിടിച്ചിരുന്നു. സർപ്പത്തലയിൽ കൈവെച്ചാണു് അവൾ വിലപിച്ചതു്.
+എനിക്കിനി എന്തെങ്കിലും ബാക്കിയുണ്ടെങ്കിൽ ഇതു് മാത്രമേയുള്ളു എന്നു് ആ തിളങ്ങുന്ന ചരടിൽ
+പിടിച്ചുകൊണ്ടവൾ ആർത്തനാദം മുഴക്കി.
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] തലക്കെട്ടിനു
+കെ. ജി. എസ്സിനോടു് കടപ്പാടു്.</note>
+          </noteGrp>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-11.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">പ്രളയം—ആദിവാസി പെൺകുട്ടി—ഫോട്ടോ: മധുസൂദനൻ.</figDesc>
+          </figure>
+          <p>അതെ സർപ്പമാണു് അവളെയും കുട്ടനാട്ടിലെ അവളുടെ ഛായയുള്ള സ്ത്രീജന്മങ്ങളെയും പലതവണ വന്നു
+കൊത്തിയതു്. സ്ത്രീ ധനത്തിന്റെ പേരിൽ അവളുടെ മാതാപിതാക്കൾ വിഷംതീണ്ടി. അവളുടെ മംഗലത്തിന്റെ
+ആറാം മാസം തിളങ്ങുന്ന പാമ്പുകൾ വേഷം മാറിയ ഗ്യാസ് സിലണ്ടറുകളായി പൊട്ടിത്തെറിച്ചു. തിളങ്ങുന്ന
+വിഷസർപ്പങ്ങൾ വിൽക്കുന്ന വ്യാപാരശാലകൾ കുട്ടനാടും കടന്നു് കേരളത്തിലെമ്പാടും പെറ്റുപെരുകി. ഇന്നിതാ
+മഞ്ഞ പ്രഭയിൽ മുങ്ങിയ ജൂവലറി ഷോപ്പുകളാൽ തിളങ്ങി നിൽക്കുന്നു പാതാളം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-10.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">പ്രളയം—ആദിവാസി പെൺകുട്ടി—ഫോട്ടോ: മധുസൂദനൻ.</figDesc>
+          </figure>
+          <p>തിളക്കമുള്ള വസ്തുക്കളായിരുന്നു ബ്രിട്ടീഷ് ആർട്ടിസ്റ്റായ <ref target="https://en.wikipedia.org/wiki/Damien_Hirst">ഡാമിയൻ ഹിർസ്റ്റി</ref> നെ
+
+(Damian Hirst) ആകർഷിച്ചിരുന്നതു്. തിളങ്ങുന്ന ഒരാഭരണമാണു് മരണം എന്നു് മനസ്സിലായതോടെ
+മരണമായി അയാളുടെ കലയിലെ കേന്ദ്രബിന്ദു. മരണപ്പെട്ടതെന്തും തിളക്കമർന്നു എന്നെ വശീകരിക്കുന്നു.
+ഭൂമിക്കടിയിൽ കിടന്നുകൊണ്ടു് ഇമ്പമായി ഞാൻ പാടിയ ഗാനങ്ങൾ നിങ്ങൾ കേൾക്കുന്നില്ലേ? കാണുന്നില്ലേ
+അനന്തതയുടെ ഇരുട്ടിൽ കൈകോർത്തുകൊണ്ടു seventh seal (<ref target="https://en.wikipedia.org/wiki/Ingmar_Bergman">Ingmar Bergman</ref>)
+ലെ നിഴലുകൾ ചുവടുകൾ വെച്ചതു്?
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-06.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഇങ്മർ ബർഗ്മൻ—സെവൻത് സീൽ.</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer">Albrecht
+Durar</ref>-ന്റെ കുതിരപ്പുറത്തു വരുന്ന മരണം? <ref target="https://en.wikipedia.org/wiki/Franz_Kafka">കാഫ്ക</ref> യുടെ പീനൽ
+കോളനി?, മലബാറിലെ വാഗൻ ട്രാജഡി?, <ref target="https://en.wikipedia.org/wiki/Pablo_Picasso">പിക്കാസോ</ref> യുടെ
+<ref target="https://en.wikipedia.org/wiki/Minotaur">മിനോട്ടാർ</ref>?…
+എല്ലാം കൂരിരുട്ടിൽ പോലും തിളങ്ങുന്നു. പതിമൂന്നാം നൂറ്റാണ്ടിൽ ജീവിച്ചിരുന്ന <ref target="https://en.wikipedia.org/wiki/Tutankhamun">ഫറവോൻ തൂത്തുകാമുന്റെ</ref>
+മുഖാവരണം പത്തരകിലോ കലർപ്പില്ലാത്ത സ്വർണ്ണം കൊണ്ടുണ്ടാക്കിയതാണു്. മരിച്ചവന്റെ മുഖത്തു സ്വർണ്ണം
+പോലുള്ള വിലയുള്ളതും തിളക്കമുള്ളവയുമായ വസ്തുക്കൾ ചാലിച്ചു നിർമിച്ച ലേപനങ്ങൾ പുരട്ടുന്നതു്
+ആചാരമാക്കിയ ഒരു ഭൂതകാലമുണ്ടായിരുന്നു മനഷ്യർക്കു്. വരന്റെ വീട്ടുകാർക്കു് ‘പത്തര കിലോ സ്വർണ്ണം’
+സ്ത്രീധനമായി കൊടുക്കാനാവാതെ വധുവിന്റെ കുടുംബം മുഴുവൻ ആത്മഹത്യ ചെയ്യുന്ന ആചാരം മനുഷ്യന്റെ
+സമകാലീന ചരിത്രത്തിലുമുണ്ടു്.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-01.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">തൂത്തുകാമുൻ—സ്വർണ്ണമുഖാവരണം.</figDesc>
+          </figure>
+          <p>കൈറോയിലെ ഈജിപ്ത്യൻ മ്യൂസിയത്തിലാണു് തൂത്തുകാമുന്റെ മുഖാവരണമുള്ളതു്. ലോകത്തിൽ
+ഏറ്റവുംകൂടുതൽ സന്ദർശകർ കാണുന്ന കലാവസ്തുവാണു് മഞ്ഞലോഹത്തിലെ ഈ തൂത്തുകാമുൻ. കത്തിച്ചുവെച്ച
+മേശവിളക്കിലേക്കു് പറന്നെത്തുന്ന ഈയാംപാറ്റകളെപ്പോലെ മരിച്ച മനുഷ്യന്റെ തിളങ്ങുന്ന മുഖത്തിനു് കാഴ്ചക്കാർ
+പെരുകി. സ്വർണാഭരണവിഭൂഷിതയായി മംഗലതട്ടിലിരിക്കുന്ന നവവധുവിനെ നോക്കി ‘എന്തൊരൈശ്വര്യം’
+എന്നുപറയുംപോലെ തൂത്തുകാമുന്റെ മുഖത്തുനോക്കി അവർ വിസ്മയം പറഞ്ഞു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-02.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">Rijks മ്യൂസിയം.</figDesc>
+          </figure>
+          <p>ആംസ്റ്റർഡാമിൽ റെംബ്രാൻഡിന്റെ വീട്ടിൽ നിന്നു് നടക്കാവുന്ന ദൂരമേയുള്ളൂ <ref target="https://en.wikipedia.org/wiki/Rijksmuseum">Rijks</ref> മ്യൂസിയത്തിലേക്കു്.
+ആ ഭീമാകാരൻ മ്യൂസിയത്തിന്റെ കവാടത്തിനു മുകളിലായി <ref target="https://en.wikipedia.org/wiki/Damien_Hirst">ഡാമിയൻ ഹിർസ്റ്റ്</ref>
+2007-ൽ നിർമിച്ച തിളങ്ങുന്ന തലയോട്ടിയുടെ ഒരു കൂറ്റൻ ഫ്ലക്സ് തൂങ്ങിയാടുന്നുണ്ടായിരുന്നു. മരണം അതിന്റെ
+ശോഭയേറിയ കൈകളാൽ സന്ദർശകരെ ക്ഷണിക്കുകയാണു്. <ref target="https://en.wikipedia.org/wiki/Rembrandt">റെംബ്രാണ്ടി</ref> ന്റെയും <ref target="https://en.wikipedia.org/wiki/Vincent_van_Gogh">വാൻഗോഗി</ref>
+ന്റെയും അടക്കമുളള വിഖ്യാതരായ കലാകാരൻമാരുടെ ചിത്രങ്ങളും ശില്പങ്ങളും മ്യൂസിയം ശേഖരത്തിലുണ്ടു്.
+എന്നാലും തൂത്തുകാമുന്റെ സുവർണ പ്രഭ പോലെ, തിളങ്ങുന്ന മരണമാണു് ഇപ്പോൾ ഇവിടെയും പ്രധാന
+ആകർഷണം. മുപ്പതു ചതുരശ്രയടി വിസ്തീർണമുള്ള കറുത്ത ചുമരുകളുള്ള മുറിയിലാണു് ഡാമിയൻ ഹിർസ്റ്റിന്റെ
+കപാലശില്പം. ബുള്ളറ്റുപോലും കടക്കാത്ത കണ്ണാടിക്കൂട്ടിൽ സുരക്ഷിതമായി. അമ്മയിൽ നിന്നു് കടമെടുത്ത
+വാക്കുകളിൽ നിന്നു് ‘ദൈവസ്നേഹത്തിനായി’ (for the love of god) എന്നായിരുന്നു ഹിർസ്റ്റിന്റെ ശില്പത്തിനു്
+പേരു്. ശില്പത്തിലേക്കു് തുറക്കാവുന്ന താക്കോലു</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/madhu-pathalam-07.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇങ്മർ ബർഗ്മൻ.</figDesc>
+          </figure>
+          <p> കളൊന്നും ഈ പേരിലുണ്ടെന്നു തോന്നുന്നില്ല. കനത്തയിരുട്ടിൽ പൗരാണികമായ വെളുത്ത പല്ലുകൾ
+ഇളിച്ചുകാട്ടി ഒരമൂർത്തദൈവശിരസ്സുപോലെ ഇരുട്ടിന്റെ കണ്ണുകൾ കൊണ്ടു് അതു് കാണികളെ നോക്കി.
+പതിനെട്ടാം നൂറ്റാണ്ടിൽ ജീവിച്ചിരുന്ന ഒരാളുടെ തലയോട്ടി മാർക്കറ്റിൽ നിന്നു് വാങ്ങി പ്ലാറ്റിനത്തിൽ
+പകർപ്പുണ്ടാക്കി അതിനുമുകളിൽ വിലയേറിയ രത്നങ്ങൾ പതിപ്പിച്ചാണു് നിർമ്മാണം. പ്ലാറ്റിനത്തിൽ 8061
+രത്നങ്ങൾ പതിപ്പിച്ച തലയോടു്. അതിൽ നിന്നു് മ്യൂസിയം മുറിയുടെ ഇരുട്ടിൽ സൂക്ഷ്മമായി ഫോക്കസുചെയ്ത
+വൈദ്യുതി വെളിച്ചത്തിൽ ശതകോടി പ്രകാശകിരണങ്ങൾ ശരങ്ങളെപ്പോലെ പായുന്നു. കപാലത്തിനു ജീവൻ
+വെച്ചതുപോലെ പ്രകാശത്തിന്റെ ഓരോ വജ്രസൂചിയിലും നാലുപാടും പായുന്ന പടക്കുതിരകൾ. മർത്യതയും
+അമർത്യതയുമാണു് ഹിർസ്റ്റിന്റെ കരുക്കൾ. ആ കരുക്കൾ കൊണ്ടു്, ദൈവത്തോടു് പൊരുതുന്ന Ingmar
+Bergman-ന്റെ സൈനികനെപ്പോലെ Hirst മരണവുമായി ചതുരംഗം കളിക്കുന്നു.
+</p>
+          <p>ഹങ്കേറിയൻ ഫോട്ടോഗ്രഫറായ <ref target="https://en.wikipedia.org/wiki/Brassa%C3%AF">ബ്രസ്സായി</ref> (Brassai)
+1932-ൽ എടുത്ത, ഇന്നു് അതിപ്രശസ്തമായ ഒരു ഫോട്ടോഗ്രാഫുണ്ടു്. ‘മിസ് ഡയമണ്ട്’ എന്നുപേരുള്ള ചിത്രം.
+അനാഥകുട്ടികളെക്കുറിച്ചുള്ള ഫോട്ടോകളെടുക്കുവാനായി ബ്രസ്സായി പാരിസിൽ ചെന്നപ്പോൾ കണ്ട ഒരു ദൃശ്യം.
+പാരിസിലെ അധികം തിരക്കില്ലാത്ത ബാറിൽ നിത്യവും വന്നുപോകുന്ന ഒരു മധ്യവയസ്ക. ചെറുപ്പകാലത്തു
+ധനികയായിരുന്നു അവൾ. മുത്തുമാലകളും വിലപിടിച്ച വസ്ത്രങ്ങളും ധരിച്ചു ബാറിൽ വരുമായിരുന്നു.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-04.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ബ്രസ്സായി—മിസ് ഡയമണ്ട്.</figDesc>
+          </figure>
+          <p>കാലം ചെന്നതോടെ അവൾ ദരിദ്രയായി. മറ്റുള്ളവരുടെ കാരുണ്യത്തിലാണു് അവൾ ജീവിക്കുന്നതു്. എങ്കിലും
+നിത്യവും അവൾ ബാറിൽ വരും. യൗവ്വനം വേർപെട്ട കൺതടങ്ങളിൽ വിലകുറഞ്ഞ പൗഡറിട്ടു കുഴികൾനിരത്തി,
+ലിപ്സ്റ്റിക്കിട്ടു, വിലകുറഞ്ഞ പഴയകാലത്തിന്റെ ഛായയുള്ള വസ്ത്രങ്ങളും, കൃത്രിമ മുത്തുകൾകൊണ്ടുള്ള മാലയും
+വളയുമിട്ടു് മേശക്കരികെ അതേ കസേരയിൽ ഒരു ഗ്ലാസ് വിലകുറഞ്ഞ വൈനിന്റെയും, ഒഴിഞ്ഞ ആഷ് ട്രേയുടെയും
+മുന്നിൽ അവളിരിക്കും. അവളുടെ മുഖത്തു് പഴയ പ്രതാപകാലത്തിന്റെ തലയോടു് കാണാം. ഒഴിഞ്ഞ ബാറിൽ
+കൃത്രിമ വെളിച്ചം പരത്തി അവളിരിക്കുന്നു. ബ്രസ്സായിയുടെ ഈ നിശ്ചലദൃശ്യത്തിൽ Damian Hirst-ന്റെ
+
+ശില്പത്തിന്റെ ആശയവും സ്പഷ്ടമാണു്.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-05.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഇങ്മർ ബർഗ്മൻ—സെവൻത് സീൽ.</figDesc>
+          </figure>
+          <p>അമിതാദരത്തിനു പാത്രമായ വസ്തുക്കളെ fetish objects എന്നുപറയാറുണ്ടു്. കാമോദ്ദീപകങ്ങളായ
+വസ്തുക്കളെയും അങ്ങിനെ വിളിക്കാറുണ്ടു്. ഈ രണ്ടർത്ഥങ്ങളുമുള്ള ഒരിടത്താണ് കപാലം സ്ഥിതിചെയ്യുന്നതു്.
+രത്നഖചിതമായ തലയോടു് മറ്റനേകം അർത്ഥങ്ങളും ഉത്പാദിപ്പിക്കുന്നുണ്ടു്. ബ്രഹ്മാവിനാൽ
+പിച്ചക്കാരനായിപ്പോകട്ടെ എന്നു് ശപിക്കപ്പെട്ട പരമശിവന്റെ ഭിക്ഷാപാത്രമായിരുന്നു കപാലം. വജ്രയാന
+ബുദ്ധിസത്തിൽ താന്ത്രിക് ആരാധനകൾക്കായി തലയോടു് ഉപയോഗിച്ചുപോരുന്നു. ബുദ്ധമതത്തിലെ
+വജ്രയോഗിനിയും ഹിന്ദുമതത്തിലെ ചിന്നമസ്തയും തലയോടിൽ നിന്നാണു് രക്തം കുടിക്കുന്നതു്. ബുദ്ധമതത്തിൽ
+ശൂന്യതയും നടരാജവിഗ്രഹത്തിലെ കണ്ഠാഭരണത്തിൽ പൂവുമാണു് തലയോടു്.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-08.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഡാമിയൻ ഹിർസ്റ്റ്.</figDesc>
+          </figure>
+          <p>ഈ അർത്ഥങ്ങളെല്ലാം ഉൾകൊള്ളുമ്പോൾതന്നെ ആയിരക്കണക്കിനു് രത്നപവിഴകല്ലുകൾ പതിപ്പിച്ച
+Damian Hirst-ന്റെ ശില്പത്തിൽ പുതിയൊരാശയം കൂടിയുണ്ടു്. പുനരുത്ഥാനം (regenaration). ഡാമിയൻ
+ഹിർസ്റ്റിന്റെ ശില്പത്തിൽ നിന്നു് സഹസ്രരശ്മികളുടെ കുതിരകൾ ഉയിർത്തെണീറ്റു് നാലുപാടും പായുന്നതുകാണാം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-pathalam-09.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ആൽബ്രെട്ട് ഡ്യൂറർ—നൈറ്റ്, ഡെത്ത് ആന്റ് ദ് ഡെവിൾ.</figDesc>
+          </figure>
+        </div>
+        <!--end of "section 0.0/2.1"-->
+        <div type="lsection" xml:id="sec2.2">
+          <head type="lsechead">മധുസൂദനൻ</head>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhusudanan.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent"> ആലപ്പുഴ ജില്ലയിലെ കടലോരപ്രദേശത്തു ജനിച്ചു. തിരുവനന്തപുരം ഫൈൻ
+ആർട്ട് കോളജിൽ നിന്നും ബറോഡയിലെ എം. എസ്. യൂണിവേഴ്സിറ്റിയിൽ നിന്നും കലാപരിശീലനം. ഇപ്പോൾ
+സമകാലീനകലയിൽ സാധ്യമാവുന്ന എല്ലാ മാധ്യമങ്ങളും ഉപയോഗിച്ചു് കലാപ്രവർത്തനം നടത്തുന്നു.
+കലാപ്രവർത്തനങ്ങൾക്കായി ഫിലിം എന്ന മാധ്യമം വിദഗ്ദമായി ഉപയോഗിച്ചതിനു് ന്യൂയോർക്കിലെ മ്യൂസിയം
+ഓഫ് മോഡേൺ ആർട്ടിൽ നിന്നു് രണ്ടു തവണ ആദരം.
+</p>
+          <p>‘മാർക്സ് ആർകൈവ്’ എന്ന ഇൻസ്റ്റലേഷൻ രണ്ടാമത്തെ കൊച്ചി മുസരീസ് ബിയനാലെയിൽ
+പ്രദർശിപ്പിച്ചിരുന്നു. 2015-ലെ വെനീസ് ബിയനാലെയിൽ ‘മാർക്സ് ആർകൈവ്’, ‘പീനൽ കോളനി’ എന്നീ
+ഇൻസ്റ്റലേഷനുകൾ പ്രദർശിപ്പിച്ചിട്ടുണ്ടു്.
+</p>
+          <p>‘ബയസ്ക്കോപ്’ എന്ന സിനിമക്കു് മൂന്നു് അന്തർദേശീയ പുരസ്കാരങ്ങൾ. ബയസ്ക്കോപ് അഞ്ചു സംസ്ഥാന
+പുരസ്കാരങ്ങളും ദേശീയ അവാർഡും നേടിയിരുന്നു. ഡൽഹിയിലും കേരളത്തിലുമായി ജീവിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/2.2"-->
+      </div>
+      <!--end of "chapter 0/2"-->
+      <!--END OF CHAPTER 0/2-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Pathalaththinte Thilakkam (ml:
+പാതാളത്തിന്റെ തിളക്കം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Madhusudhanan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-10-27. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Madhusudhanan,
+Pathalaththinte Thilakkam, മധുസൂദനൻ, പാതാളത്തിന്റെ തിളക്കം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 18, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:Hirst-Love-Of-God.jpg">For the
+love of god,</ref> a sculpture by <ref target="https://en.wikipedia.org/wiki/Damien_Hirst">Damien Hirst</ref>
+ . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/madhu-pathalam.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/madhu-pathalam.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

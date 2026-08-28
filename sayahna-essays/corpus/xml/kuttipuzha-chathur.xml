@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഭഗവദ്ഗീതയിലെ ചാതുർവർണ്യം</title>
+          <title xml:lang="en" type="main">Bhagavathgeethayile Chathurvarnyam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 1, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഭഗവദ്ഗീതയിലെ ചാതുർവർണ്യം</title>
+              <title xml:lang="en" type="main">Bhagavathgeethayile Chathurvarnyam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Bhagavathgeethayile Chathurvarnyam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഭഗവദ്ഗീതയിലെ ചാതുർവർണ്യം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 1, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Young_Girl_at_the_Seaside.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Agapit_Stevens__Young_Girl_at_the_Seaside.jpg">Young Girl at the Seaside,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Agapit_Stevens">Agapit Stevens</ref>
+ (1848–1924). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഭഗവദ്ഗീതയിലെ ചാതുർവർണ്യം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഭഗവദ്ഗീതയിലെ ചാതുർവർണ്യം</head>
+        <div type="lsection">
+          <p style="noindent">മഹാഭാരതത്തിലെ രണ്ടു കഥാപാത്രങ്ങൾ തമ്മിൽ ഗുരുശിഷ്യസംവാദരൂപത്തിൽ
+നടത്തിയ സംഭാഷണമാണല്ലോ ഭഗവദ്ഗീത. വിഷയസ്വഭാവം കൊണ്ടു നോക്കിയാൽ അതൊരു
+തത്ത്വശാസ്ത്രഗ്രന്ഥമാണെന്നു സാമാന്യമായിപ്പറയാം. എങ്കിലും ഒരു മതഗ്രന്ഥമെന്ന നിലയ്ക്കാണു് ഇന്നു അതു
+കൂടുതലായി ആദരിക്കപ്പെടുന്നതു്. ഹിന്ദുക്കളുടെ ബൈബിളാണു് ഭഗവദ്ഗീതയെന്നു പറയുന്നവരും
+വിശ്വസിക്കുന്നവരും ധാരാളമുണ്ടു്. ഒരു മതഗ്രന്ഥത്തിനു വേണ്ട പവിത്രതയും ദിവ്യത്വവും അപ്രമാദിത്വവുമെല്ലാം
+അതിനു വന്നുചേർന്നിരിക്കുന്നു. ഗീതാപാരായണം മതപരമായ ഒരു ചടങ്ങായിത്തീർന്നിട്ടുണ്ടിപ്പോൾ. ഇങ്ങനെ
+ഭക്തന്മാരുടെ ഒരാരാധ്യവസ്തുവായാൽപ്പിന്നെ ഗീതകൊണ്ടു വലിയ പ്രയോജനമുണ്ടാകുമെന്നു തോന്നുന്നില്ല.
+എന്തെന്നാൽ ബുദ്ധിവികാസമല്ല. ബുദ്ധിസ്തംഭനമാണു് ഇത്തരം ഗ്രന്ഥാരാധനത്തിൽ നിന്നുണ്ടാകുക. ഏതു ഗ്രന്ഥം
+പഠിക്കുമ്പോഴും പഠിതാവു പാലിക്കേണ്ട ഒന്നുണ്ടു്—ത്യാജ്യഗ്രാഹ്യവിവേചനം. പക്ഷേ, മതഗ്രന്ഥങ്ങളിലേക്കു
+കടക്കുമ്പോൾ ഈ വിവേചനബുദ്ധി ഭക്തിവിശ്വാസങ്ങളുടെ സമ്മർദ്ദനമേറ്റു സ്തബ്ധമായിപ്പോകും. നിർബ്ബാധവും
+യുക്തിയുക്തവുമായ നിരൂപണം അപ്പോൾ സാധ്യമല്ലാതാകുന്നു. ഇങ്ങനെയൊരു ദുരവസ്ഥയിലേക്കു ഗീത
+അധഃപതിക്കരുതെന്നു കരുതിയിട്ടാകാം ഗീതകാരൻ പതിനെട്ടാമധ്യായത്തിൽ ‘എല്ലാം വിമർശിച്ചുനോക്കിയിട്ടു
+നിന്റെ ഇഷ്ടപ്രകാരം പ്രവർത്തിക്കുക’ (വിമൃശൈതദശേഷണ യഥേച്ഛസി തഥാ കുരു) എന്നു കൃഷ്ണനെക്കൊണ്ടു
+പറയിക്കുന്നതു്. ഗീതയിലെ ഏറ്റവും നല്ല ശ്ലോകങ്ങളിലൊന്നിന്റെ പംക്തിയാണിതു്. തന്റെ ഉപദേശം മുഴുവൻ
+യഥേഷ്ടം വിമർശിക്കാനുള്ള പൂർണസ്വാതന്ത്ര്യം ഉപദേഷ്ടാവുതന്നെ അർജ്ജുനനു നൽകിയിരിക്കുന്നു. ആ
+നിരൂപണസ്വാതന്ത്ര്യം നമുക്കും ഉപയോഗിക്കാവുന്നതാണു്, ഉപയോഗിക്കേണ്ടതുമാണു്.
+</p>
+          <p>വിശിഷ്ടതത്ത്വരത്നങ്ങളുടെ ഒരു പേടകമാണു് ഗീത എന്നതിനു സംശയമില്ല. എങ്കിലും ആധുനിക
+ചിന്താഗതിക്കു യോജിക്കാത്തതും ആവശ്യമില്ലാത്തുമായ പല ആശയങ്ങളും അതിൽ കടന്നുകൂടിയിട്ടുണ്ടു്.
+ഇക്കൂട്ടത്തിൽ തിരസ്ക്കാരമർഹിക്കുന്ന ഒന്നാണു് അതിലെ ചാതുർവർണ്യസിദ്ധാന്തം ഗീതയിൽ
+ഭഗവദ്വചനങ്ങളെന്നു് വിശ്വസിക്കപ്പെടുന്നവയെല്ലാം വാസ്തവത്തിൽ വ്യാസവചനങ്ങളാണല്ലോ.
+ബ്രാഹ്മണപ്രാമാണ്യത്തെയും ഇതര ജാതികളുടെ ബ്രാഹ്മണദാസ്യത്തെയും ഇന്ത്യയിൽ അരിക്കിട്ടുറപ്പിക്കുന്നതിനു
+സഹായിച്ചിട്ടുള്ള രണ്ടു മഹാകവികളാണു് <ref target="https://ml.wikipedia.org/wiki/Vyasa">വ്യാസനും</ref> <ref target="https://ml.wikipedia.org/wiki/Valmiki">വാല്മീകി</ref> യുമെന്നു് അവരോടുള്ള
+ഭക്ത്യാദരങ്ങൾക്കു തെല്ലും കുറവില്ലാതെതന്നെ പറയേണ്ടിയിരിക്കുന്നു. ഭാരതരാമായണഗ്രന്ഥങ്ങൾക്കു
+സാഹിതീയവും സാംസ്കാരികവുമായ മൂല്യം എന്തുമാത്രമുണ്ടായാലും മേല്പ്പറഞ്ഞ വസ്തുത നിഷേധിക്കാവുന്നതല്ല.
+അതിനുള്ള തെളിവുകൾ എത്ര വേണമെങ്കിലും രണ്ടു ഗ്രന്ഥത്തിലുമുണ്ടു്. ബ്രാഹ്മണപ്രാമാണ്യത്തിന്റെ
+അധിഷ്ഠാനമാണു് ചാതുർവർണ്യം. ഒരു തത്ത്വശാസ്ത്രഗ്രന്ഥമായ ഗീതയിൽപ്പോലും അതിനു അമിതമായ
+പ്രാധാന്യം ലഭിച്ചിരിക്കുന്നു. അർജ്ജുനനെ യുദ്ധ്യോദ്യുക്തനാക്കാൻ കൃഷ്ണൻ ക്ഷത്രിയധർമം ഉപദേശിക്കുന്നതിന്റെ
+ഉപപത്തി മനസ്സിലാക്കാം. എന്നാൽ ഈയൊരു കാര്യത്തിനുവേണ്ടി നാലു ജാതിയെയും നിരത്തി നിർത്തി
+ഇത്രയേറെ ചാതുർവർണ്യവിചാരം നടത്തേണ്ടതുണ്ടോ? ഓരോ ജാതിയും അതതിന്റെ തൊഴിൽ വിട്ടൊന്നും
+ചെയ്യരുതെന്നും ചെയ്തുപോയാൽ വർണസങ്കരം എന്ന ഭയങ്കരദോഷത്തിൽപ്പെട്ടു ലോകം നശിക്കുമെന്നും
+അർത്ഥം വരുന്ന ശ്ലോകങ്ങളനേകമുണ്ടു്. ഗീതയിൽ ഇത്രയൊക്കെ വിസ്തരിക്കാതെ തന്നെ സർവജ്ഞനായ
+ഭഗവാനു് അർജ്ജുനനെ സ്വധർമ്മനിരതനാക്കാമല്ലോ അതിനുപകരം.</p>
+          <lg>
+            <l> ‘ചാതുർവർണ്യം മയാ സൃഷ്ടം</l>
+            <l> ഗുണകർമവിഭാഗശഃ</l>
+            <l> തസ്യ കർത്താരമപി മാം</l>
+            <l> വിദ്ധ്യകർത്താരമവ്യയം’ (4–13) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു ജാതിവ്യവസ്ഥയുടെ ഉല്പത്തിമാഹാത്മ്യത്തെ ഘോഷിച്ചു കൊണ്ടാണു് ഗീതാകാരന്റെ പുറപ്പാടു്.
+ഭഗവാന്റെ സൃഷ്ടിയായാൽ പിന്നെ അതിൽപ്പരമൊരു മാഹാത്മ്യം ചാതുർവർണ്യത്തിനു വരേണ്ടതുണ്ടോ?
+ഇതിന്റെ ഉത്തരാർധം, അദ്ധ്യാത്മവാദത്തിലെ പൂർവപക്ഷസമാധാനത്തിനു വേണ്ടിയുള്ള ഒരു തർക്ക വിദ്യ
+മാത്രമാകയാൽ ഇവിടെ പരിഗണിക്കേണ്ടതില്ല. ‘മയാസൃഷ്ടം’ എന്നതുകൊണ്ടു ജന്മത്തിന്റെ
+അടിസ്ഥാനത്തിലാണു് ജാതി തിരിയുന്നതെന്നു ധ്വനിക്കുന്നു. ‘ഗുണകർമവിഭാഗശഃ’ എന്ന പ്രയോഗത്തിനു പുതിയ
+
+വ്യാഖ്യാനം കൊടുത്തു ജന്മത്തിനു ജാതീയമായ പ്രാധാന്യമില്ലെന്നു കാണിപ്പാൻ ചില നവീനർ പണിപ്പെട്ടിട്ടുണ്ടു്
+എന്നാൽ ശങ്കരഭാഷ്യത്തിൽ അങ്ങനെ ഒരു സൂചനപോലുമില്ല. മാത്രമല്ല, ബ്രാഹ്മണോ ഽസ്യ മുഖമാസീത്’ എന്ന
+പുരുഷസൂക്തമുദ്ധരിച്ചു ബ്രാഹ്മണപ്രാമാണ്യത്തെ സപ്രമാണമാക്കുകയും ഓരോ ജാതിക്കും ഇന്നയിന്ന
+ഗുണകർമങ്ങളെന്നു വീതംവെച്ചു കാണിക്കുകയുമാണു് ഭാഷ്യകാരൻ ചെയ്തിരിക്കുന്നതു്.
+സത്വരജസ്തമോഗുണങ്ങൾക്കും പ്രത്യേക കർമവാസനകൾക്കും അനുസരിച്ചു മനുഷ്യർ ബ്രാഹ്മണാദിജാതികളായി
+ജനിക്കുന്നുവെന്ന ആശയമേ അനന്തരഭാഗങ്ങളുടെ വെളിച്ചത്തിലും ഇവിടെ സംഗതമാകുന്നുള്ളു. ജനനത്തിന്റെ
+മതഭാഷ മാത്രമാണല്ലോ സൃഷ്ടി. ജാതിയുടെ ജന്മാടിസ്ഥാനം ഗീതയിലെ ഇതര ശ്ലോകങ്ങളിലും
+സ്വീകൃതമായിട്ടുണ്ടു്.</p>
+          <lg>
+            <l> ‘കൃഷിഗോരക്ഷവാണിജ്യം</l>
+            <l> വൈശ്യകർമ്മസ്വഭാവജം</l>
+            <l> പരിചാര്യാത്മകം കർമ</l>
+            <l> ശൂദ്രസ്യാപി സ്വഭാവജം’ (18–44)</l>
+            <l> ‘സഹജം കർമ കൗന്തേയ</l>
+            <l> സദോഷമപി ന ത്യജേത്’ (18–48) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇത്യാദ്യുദാഹരണങ്ങളിൽ സഹജം, സ്വഭാവജം എന്നു കർമ്മത്തിനു വിശേഷണം കല്പിച്ചിരിക്കുന്നതു
+നോക്കുക. സഹജം—ജന്മത്തോടു കൂടിത്തന്നെ ഉണ്ടായിട്ടുള്ള (ജന്മനൈവോത്പ്പന്നം) എന്നു് <ref target="https://ml.wikipedia.org/wiki/Sankaracharya">ശങ്കരാചാര്യർ</ref>
+വ്യാഖ്യാനിച്ചിട്ടുണ്ടു്. ജനനാന്തരം ഗുണകർമ്മങ്ങൾ കൊണ്ടാണു ജാതിതതിരിയുന്നതെന്ന പരിഷ്കൃതാശയം
+ഗീതയിൽ ഒരിടത്തും അംഗീകരിച്ചിട്ടില്ല. നൂറ്റാണ്ടുകളായി നിലവിലിരിക്കുന്ന അന്ധവും ക്രൂരവുമായ
+ജാതിവ്യവസ്ഥതന്നെയാണു് ഈ തത്ത്വശാസ്ത്രഗ്രന്ഥത്തിലും സ്ഥലം പിടിച്ചിരിക്കുന്നതു്. ഇതിൽ ശൂദ്രന്റെ
+നിലയാണല്ലോ ഏറ്റവും പരിതാപകരം അവന്റെ കുലവൃത്തി ത്രൈവർണികരെ, വിശേഷിച്ചു ബ്രാഹ്മണരെ,
+ശുശ്രൂഷിക്കുകയാണു്. ‘പരിചാര്യത്മകം കർമ’ എന്നതുകൊണ്ടു് അതാണു ഗീതാകാരനും വിധിച്ചിരിക്കുന്നതു്.
+അടിമത്തത്തെ ദ്യോതിപ്പിക്കുന്ന ഈ പദപ്രയോഗത്തെയും സേവനം (Service) എന്നൊരു
+നവീകൃതാർത്ഥംകൊണ്ടു പരിഷ്കരിക്കാൻ ചിലർ വ്യഥാശ്രമം ചെയ്യാറുണ്ടു്. ഗീതയ്ക്കകത്തുള്ളതെല്ലാം
+നിത്യസത്യങ്ങളാണെന്ന മിഥ്യാബോധമാണു് ഇതിനു കാരണം. പുതിയ കുപ്പിയിലാക്കിയതുകൊണ്ടു പഴയ
+വൈനിന്റെ സ്വഭാവം മാറുകയില്ലല്ലോ.</p>
+          <lg>
+            <l> ‘ബ്രാഹ്മണക്ഷത്രിയവിശാം</l>
+            <l> ശുദ്രാണാം ച പരന്തപ</l>
+            <l> കർമാണി പ്രവിഭക്താനി</l>
+            <l> സ്വഭാവ പ്രഭവൈഗ്ഗുണൈഃ’ (18–41) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഈ ശ്ലോകത്തിന്റെ ശങ്കരഭാഷ്യം ജാതിവ്യവസ്ഥയിൽ ശൂദ്രനെ എന്തവജ്ഞയോടെ
+താഴ്ത്തിക്കെട്ടിയിരിക്കുന്നുവെന്നു കാണിക്കുന്നുണ്ടു്. ‘ബ്രാഹ്മണക്ഷത്രിയവിശാം’ എന്ന സമാസത്തോടു ശൂദ്രനു്
+ദ്വിജത്വവും (ഉപനയനസംസ്കാരം) വേദാധികാരവും ഇല്ലാത്തതു കൊണ്ടാണെന്നു് ആചാര്യർ എടുത്തു
+പറഞ്ഞിരിക്കുന്നു. നോക്കുക, സമാസത്തിൽപ്പോലും ശൂദ്രനു ത്രൈവർണികരുടെ തൊട്ടടുത്തു നിൽക്കാൻ പാടില്ല.
+</p>
+          <p>ഇന്ത്യയിൽ ഇന്നു ദേശീയൈക്യം സുദൃഢമാകണമെങ്കിൽ മിശ്രവിവാഹം കൊണ്ടും മറ്റും വർണസങ്കരം
+സംഭവിച്ചു തദ്വാരാ ജാതി തീരെ നശിക്കണമെന്നാണു ബുദ്ധിമാന്മാർ പറയുന്നതു്. വർണസങ്കരം ഇന്നു്
+ഇന്ത്യയ്ക്കൊരാവശ്യമാണെന്നതിൽ സംശയിക്കാനില്ല. അതു നടപ്പായാലേ ഭാരതീയർ ഏകജാതിയാകയുള്ളു
+എന്നാൽ ഗീത പഠിപ്പിക്കുന്നതു വർണ്ണസങ്കരം നാടു മുടിക്കുന്ന ഒരാപത്താണെന്നത്രെ.</p>
+          <lg>
+            <l> ‘സങ്കരസ്യ ച കർത്താ സ്യാ-</l>
+            <l> മുപഹന്യാമിമാഃ പ്രജാഃ (3–24) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന ശ്ലോകാർദ്ധത്തിൽ സങ്കരം (ജാതിമിശ്രം) കൊണ്ടു പ്രജകൾ നശിക്കുമെന്ന ആശയം
+ഉൾക്കൊള്ളിച്ചിരിക്കുന്നു. ഈ ജാതിമിശ്രം ഉണ്ടാകാതിരിപ്പാനാണു സ്വധർമാനുഷ്ഠാനത്തെപ്പറ്റി ഗീതാകാരൻ
+ഊന്നിയൂന്നിപ്പറയുന്നതു്.</p>
+          <lg>
+            <l> ‘ശ്രയാൻ സ്വധർമ്മോ വിഗുണഃ</l>
+            <l> പരധർമ്മാതു് സ്വനിഷ്ഠിതാതു്</l>
+            <l> സ്വധർമ്മേ നിധനം ശ്രേയഃ</l>
+            <l> പരധർമ്മോ ഭയാവഹഃ (3–35) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇവിടെ സ്വധർമമെന്നു പറയുന്നതു് ഇന്നു നടപ്പിലിരിക്കുന്ന സാധാരണാർത്ഥത്തിലല്ലെന്നോർമിക്കണം.
+ഓരോ ജാതിക്കും വിധിച്ചിട്ടുളള കർമം എന്നാണു വിവക്ഷിതം ഓരോ ജാതിയെയും അതതിന്റെ
+തൊഴിലിൽത്തന്നെ കെട്ടിയിടാനുള്ള ഉപദേശമാണിതു്. സ്വധർമ്മം ഗുണമില്ലാത്തതായാലും സ്വനുഷ്ഠിതമായ
+പരധർമത്തെക്കാൾ ശ്രേഷ്ഠമാണുപോലും! സ്വധർമാനുഷ്ഠാനത്തിൽ മരണം നേരിട്ടാലും അതു ശ്രേയസ്സാണു്
+പരധർമം ഭയാവഹവും! ഉദാഹരണത്തിനു് ശൂദ്രൻ ബ്രാഹ്മണന്റെ വൃത്തിയായ തപസ്സു ചെയ്തുപോയാൽ അതു
+ഭയാവഹം. രാമായണം കഥയിൽ അവൻ വധ്യനായതു് ഈ മാതിരി പ്രമാണമനുസരിച്ചാകാം.
+മൂന്നാമദ്ധ്യായത്തിൽ ഇത്രയും പറഞ്ഞു വച്ചിട്ടു മതിവരാത്ത ഗീതാകാരൻ പതിനെട്ടാമദ്ധ്യായത്തിൽ ഈ
+ശ്ലോകത്തിന്റെ പൂർവാർദ്ധം അതേപടി ആവർത്തിച്ചിരിക്കുന്നു.</p>
+          <lg>
+            <l> ‘സ്വഭാവനിയതം കർമ</l>
+            <l> കർവന്നാപ്നോതി കില്ബിഷം’ (18–47) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് ഉത്തരാർദ്ധം മാത്രം അവിടെ പുതുതായി കൂട്ടിച്ചേർത്തും ആവർത്തിച്ചും ജാതിക്കോട്ടയ്ക്കു ബലം
+കൂട്ടിയിരിക്കയാണു്. സ്വഭാവനിയതമായ കർമം ചെയ്യുന്നുവനു പാപമില്ലെന്നാണല്ലോ ഈ ശ്ലോകാർദ്ധം കൊണ്ടു
+സിദ്ധിക്കുന്നതു്. ഇതനുസരിച്ചു കശാപ്പുകാരന്റെ ജന്തുഹിംസ പാപകരമല്ല. അവൻ ആ തൊഴിലിൽത്തന്നെ
+തുടരണം. അതു ചെയ്യാതെ പരധർമ്മത്തിനു്—അതെത്ര നല്ലതായാലും—അവൻ പുറപ്പെട്ടാൽ ആപത്തായി.
+സദോഷമാണെങ്കിൽപ്പോലും സഹജകർമം ത്യജിക്കരുതെന്ന വിധി മുമ്പുദ്ധരിച്ചിട്ടുള്ളതും ഇവിടെ
+സ്മർത്തവ്യമാണു്. ഇതുകൊണ്ടും തൃപ്തിയായില്ലെങ്കിൽ,</p>
+          <lg>
+            <l> സ്വകർമ്മണാ തമഭ്യർച്ച ്യ</l>
+            <l> സിദ്ധിം വിന്ദതി മാനവഃ (18–46) </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇത്യാദി വേറെയും പ്രമാണങ്ങളുണ്ടു് ഇവിടെയും സ്വകർമ്മണാ’ എന്നതിനു് അതതു ജാതിക്കു വിധിക്കപ്പെട്ട
+കർമംകൊണ്ടു് എന്നുതന്നെയാണു് ശങ്കരഭാഷ്യം. ഇങ്ങനെ നോക്കുമ്പോൾ നാലു ജാതിയെയും
+തത്ത്വകർമ്മങ്ങളുടെ തടവുമുറിയിലിട്ടടച്ചു ചാതുർവർണ്യത്തിന്റെ അസ്തിവാരം ഭദ്രമാക്കാനുള്ള ഒരു ശ്രമം ഗീതയിൽ
+അനേകത്ര കാണാം. അന്യഥാ ചിന്താഭാസുരമായിരിക്കുന്ന ഈ ഉദ്കൃഷ്ടകൃതിയിൽനിന്നു് ഏതാദൃശഭാഗങ്ങൾ
+നീക്കം ചെയ്താലും അതിന്റെ താത്ത്വികമുമൂല്യത്തിനു് ഒരു കുറവും വരുന്നതല്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Dr_Bhimrao_Ambedkar.jpg" rendition="gra"/>
+            <figDesc style="thumb">അംബേദ്കർ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+മിശ്രവിവാഹത്തെ അനുകൂലിക്കയും അയിത്തോച്ചാടത്തിനുവേണ്ടി അനവരതം പ്രയത്നിക്കയും
+ചെയ്തിരുന്നുവെങ്കിലും അദ്ദേഹം വർണധർമത്തിനു് എതിരല്ലായിരുന്നു. ഒരിക്കൽ ഡോക്ടർ <ref target="https://ml.wikipedia.org/wiki/B._R._Ambedkar">അംബേദ്കർ</ref> ക്കു
+കൊടുത്ത മറുപടിയിൽ ഗാന്ധിജി ഇങ്ങനെ പറയുകയുണ്ടായി: ‘ഞാൻ വിശ്വസിക്കുന്ന ഹിന്ദുമതത്തിൽ
+ഉച്ചനീചത്വമില്ല. എന്നാൽ ഡോക്ടർ അംബ്ദകർ വർണാശ്രമധർമത്തോടുതന്നെ സമരത്തിനു പുറപ്പെടുമ്പോൾ
+അദ്ദേഹത്തിന്റെ ക്യാമ്പിൽ നിൽക്കുക എനിക്കു സാദ്ധ്യമല്ല എന്തെന്നാൽ, വർണാശ്രമധർമം ഹിന്ദുമതത്തിന്റെ
+ഒരവിഭാജ്യഘടകമാണെന്നു ഞാൻ വിശ്വസിക്കുന്നു.’ രാഷ്ട്രപിതാവിനെ ഈ വിശ്വാസത്തിൽക്കൊണ്ടെത്തിച്ചതു്
+അദ്ദേഹം ഒരു പ്രമാണഗന്ഥമായിക്കരുതിയിരുന്ന ഭഗവദ്ഗീതയാണെന്നുവരാം. ഉപനിഷത്തുക്കളിൽ ഇന്നു നമ്മെ
+
+സംബന്ധിച്ചിടത്തോളം യാതൊരു പ്രസക്തിയും അർത്ഥവുമില്ലാത്തതും നിസ്സാരവുമായ കാര്യങ്ങൾ
+ധാരാളമുണ്ടെന്നു് (There is much that is trivial and without any meaning or relevence for us
+today) <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> <ref target="https://ml.wikipedia.org/wiki/The_Discovery_of_India">ഇൻഡ്യയെ
+കണ്ടെത്തൽ</ref> എന്ന ഗ്രന്ഥത്തിൽ അഭിപ്രായപ്പെട്ടിട്ടുണ്ടു്. ഈ അഭിപ്രായം ഭഗവദ്ഗീതയ്ക്കും കുറെയൊക്കെ
+യോജിക്കുന്നില്ലേ? അതേ ഗ്രന്ഥത്തിൽത്തന്നെ ജാതിയെപ്പറ്റി നെഹ്റു ‘അതു് ഇപ്പോഴും ഒരു ഭാരവും
+ശാപവുമാണു് ’ (It is still a burden and a curse)എന്നധിക്ഷേപിച്ചിരിക്കുന്നു. ഈ ഭാരത്തിന്റെയും
+ശാപത്തിന്റെയു ബീജങ്ങളാണു് ഗീതയിലെ ചാതുവർണ്യസിദ്ധാന്തത്തിൽ തത്ത്വചിന്തയുടെ
+വേഷമണിഞ്ഞുകിടക്കുന്നതു്. അവയെ വേർതിരിച്ചു കണ്ടറിയാനുള്ള ചിന്താസ്വാതന്ത്ര്യവും നിരൂപണബുദ്ധിയും
+നിത്യപാരായണോത്സുകരായ ഗീതാഭക്തന്മാർക്കും വേണ്ടതാകുന്നു.
+</p>
+          <p>
+മനനമണ്ഡലം 1964.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Bhagavathgeethayile
+Chathurvarnyam (ml: ഭഗവദ്ഗീതയിലെ ചാതുർവർണ്യം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Bhagavathgeethayile Chathurvarnyam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഭഗവദ്ഗീതയിലെ
+ചാതുർവർണ്യം, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 1, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Agapit_Stevens__Young_Girl_at_the_Seaside.jpg">Young Girl at the Seaside,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Agapit_Stevens">Agapit Stevens</ref>
+ (1848–1924). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-chathur.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-chathur.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

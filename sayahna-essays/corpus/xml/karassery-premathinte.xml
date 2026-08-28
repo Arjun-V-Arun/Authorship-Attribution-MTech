@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പ്രേമത്തിന്റെ നാനാർത്ഥങ്ങൾ</title>
+          <title xml:lang="en" type="main">Premaththinte Nanarthangal</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 24, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പ്രേമത്തിന്റെ നാനാർത്ഥങ്ങൾ</title>
+              <title xml:lang="en" type="main">Premaththinte Nanarthangal</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Premaththinte Nanarthangal</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>പ്രേമത്തിന്റെ നാനാർത്ഥങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 24, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Loves_Messenger_Stillman_DAM.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Loves_Messenger_Stillman_DAM.jpg">Love’s
+Messenger,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Marie_Spartali_Stillman">Marie
+Spartali Stillman</ref>  (1844–1927). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പ്രേമത്തിന്റെ നാനാർത്ഥങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പ്രേമത്തിന്റെ നാനാർത്ഥങ്ങൾ</head>
+        <div type="lsection">
+          <p style="noindent">പ്രേമം ഒരു നിതാന്തപ്രമേയമാകുന്നു: എല്ലാ ഭാഷയിലും എല്ലാ സാഹിത്യത്തിലും
+എല്ലാ കലാരൂപങ്ങളിലും നാം ആ ഇതിവൃത്തം തന്നെ കാണുന്നു. ഏതു നാട്ടിലും ഇതാണു് കഥ. ഏതു കാലത്തും
+ഇതാണു് കഥ.
+</p>
+          <p>എത്ര പറഞ്ഞിട്ടും എത്ര പാടിയിട്ടും എത്ര ആടിയിട്ടും ആ വിഷയത്തിനു് പുതുമ ചോർന്നിട്ടില്ല. ഇനിയുള്ള
+കാലത്തും സ്ഥിതി ഇതു തന്നെയാവാനാണു് സാധ്യത. മനുഷ്യവംശത്തിനു് ഒരിക്കലും മടുക്കാത്ത പ്രമേയം
+അതൊന്നേയുള്ളു—പ്രേമം.
+</p>
+          <p>പ്രേമം ആരംഭിക്കുന്നതു് കാമത്തിൽ നിന്നാവാം, അല്ലെങ്കിൽ ഏതവസരത്തിലും പ്രേമത്തിൽ കാമത്തിന്റെ
+ഒരംശം ഉണ്ടാവാം. ഇണചേരാനുള്ള ജന്മവാസനയുമായി ബന്ധമുണ്ടു് എന്നതു് പ്രേമത്തിന്റെ മാറ്റു കുറയ്ക്കുന്നില്ല.
+</p>
+          <p>കാമത്തിന്റെ മറ്റൊരു പേരോ പര്യായപദമോ അല്ല പ്രേമം. എല്ലാ പ്രേമത്തിലും ഇത്തിരി കാമം
+കാണാമെങ്കിലും എല്ലാ കാമത്തിലും പ്രേമം കാണില്ല. കാമം മാത്രമായാൽ പ്രേമമാവില്ല. ഒരു ഘട്ടം കഴിഞ്ഞാൽ
+കാമം ഇല്ലാതെയും പ്രേമം നിലനിൽക്കാം: വേർപെട്ടുപോയ കാമുകിയോടോ, മൺമറഞ്ഞുപോയ കാമുകനോടോ
+ചില വ്യക്തികൾ ആയുഷ്ക്കാലം മുഴുവൻ പുലർത്തുന്ന പ്രേമം ഉദാഹരണം.
+</p>
+          <p>കാമം ഒരു ജന്തു വാസനയാണു്. ആ വികാരത്തിന്റെ ഉദാത്തീകരിച്ച രൂപമാണു് പ്രേമം. മറ്റൊരു
+വ്യക്തിയോടും കാമം സാധ്യമല്ലാത്തവിധം സ്വന്തം കാമത്തെ സ്നേഹരൂപേണ ഒരാളിൽ മാത്രമായി
+കേന്ദ്രീകരിക്കുന്നതാണു് പ്രേമം.
+</p>
+          <p>അതു് പ്രകൃതിയിലുള്ളതല്ല, സംസ്കൃതിയുടെ സൃഷ്ടിയാണു്. ജനജാതികളോ പറവജാതികളോ
+സസ്യജാലങ്ങളോ പ്രേമിക്കുന്നില്ല, കാമിക്കുന്നേയുള്ളൂ.
+</p>
+          <p>എല്ലാ മനുഷ്യരും കാമിക്കുന്നു; ചുരുക്കം മനുഷ്യരേ പ്രേമിക്കുന്നുള്ളൂ. പ്രേമിക്കുന്ന ഒരേയൊരു ജന്തു
+മനുഷ്യനാണു്.
+</p>
+          <p>കാമിക്കാൻ ശരീരം മാത്രം മതി. പ്രേമിക്കാൻ ആത്മാവു് വേണം. ഒരാൾ കാമിക്കുന്നതു് ശരീരം
+കൊണ്ടാണെന്നും പ്രേമിക്കുന്നതു് ആത്മാവു് കൊണ്ടാണെന്നും പറയാം. ആത്മാവിനു് നിലനിൽക്കാൻ ഒരു
+ഘട്ടത്തിൽ ശരീരം വേണം എന്നതുപോലെ പ്രേമത്തിനു് നിലനിൽക്കാൻ ഒരു ഘട്ടത്തിൽ കാമവും വേണം.
+ആത്മാവു് ശരീരമല്ലാത്തതുപോലെ പ്രേമം കാമവുമല്ല. ആത്മാവു് നിലനിൽക്കുന്നതു് ശരീരത്തിലാണെങ്കിലും
+ശരീരം നഷ്ടമാവുന്ന കാലത്തും ആത്മാവു് നിലനിൽക്കും. കാമം നഷ്ടമാവുന്ന കാലത്തും പ്രേമം നിലനിൽക്കും.
+</p>
+          <p>ശരീരത്തിന്റെ തീവ്രമായ വിശപ്പാണു് കാമം. മനസ്സിന്റെ തീവ്രമായ ദാഹമാണു് സ്നേഹം. ആ പൈദാഹങ്ങൾ
+ഉരുകിച്ചേർന്നു് ഒറ്റ വികാരമാവുമ്പോഴാണു് പ്രേമം ഉറവെടുക്കുന്നതു്. പിന്നെ സ്നേഹം മാത്രമായി കാമത്തെ
+രൂപാന്തരപ്പെടുത്തുവാൻ പ്രേമം മനുഷ്യമനസ്സിനെ സജ്ജമാക്കുന്നു. അതിലൂടെ ഒരു ജന്തുവാസന സൃഷ്ടിക്കുന്ന
+പരിമിതി മറികടക്കുവാൻ മനുഷ്യജീവി പ്രാപ്തി നേടുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Portrait_of_Leo_Tolstoy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടോൾസ്റ്റോയി</figDesc>
+          </figure>
+          <p> റഷ്യൻ സംസ്കാരം സൃഷ്ടിച്ചതിലേക്കു് വെച്ചു് ഏറ്റവും വലിയ എഴുത്തുകാരനായ <ref target="https://ml.wikipedia.org/wiki/Leo_Tolstoy">ടോൾസ്റ്റോയി</ref> യുടെ
+ഉയിർത്തെഴുന്നേൽപ്പു് എന്ന നോവലിൽ നായകനായ നെഹലുദോവ് കാമുകി കത്യുഷയെ ആദ്യഘട്ടത്തിൽ
+ശാരീരികമായി അനുഭവിക്കുന്നതിനെപ്പറ്റി ആലോചിച്ചിരുന്നേയില്ല. ആ സാഹചര്യം ടോൾസ്റ്റോയി വർണിക്കുന്നു:
+“അവർക്കിടയിലുള്ള പരിച അവർ തമ്മിലുള്ള പ്രേമമായിരുന്നു.” തുടർന്നു വരുന്ന ഘട്ടത്തിൽ നെഹ്ലുദോവിനു്
+
+കത്യുഷയോടു് തോന്നിയിരുന്ന പ്രേമം കുറഞ്ഞുപോവുകയും അതു് കാമം മാത്രമായി തരം കെടുകയും ചെയ്തു.
+</p>
+          <p>അയാൾ അവളെ പിന്നീടു് വിസ്മൃതിയിൽ തള്ളിക്കളഞ്ഞു. അവിഹിതഗർഭം പേറേണ്ടിവന്നതുമൂലം ആ
+പെൺകിടാവു് നേരിട്ട ദുരിതങ്ങളെപ്പറ്റി വർഷങ്ങൾക്കുശേഷം തിരിച്ചറിവുണ്ടായ നെഹ്ലുദോവ് കുറ്റബോധത്തിൽ
+നീറി പ്രേമത്തിലേക്കു് മടങ്ങിയെത്തി.
+</p>
+          <p>കാമത്തിന്റെ പരിമിതികളെ മറികടക്കുവാൻ പ്രേമം മനുഷ്യജീവിയെ പ്രാപ്തമാക്കുന്നതെങ്ങനെ എന്നു്
+ചിത്രീകരിക്കുകയാണു് ടോൾസ്റ്റോയി.
+</p>
+          <p>പല സന്ദർഭങ്ങളിലും പല സാഹചര്യങ്ങളിലും ‘ആത്മീയം’ എന്നുപോലും വിളിക്കാവുന്ന തലത്തിലേക്കു്
+പ്രേമം വളരുന്നതിന്റെ അടിസ്ഥാനം ഇതാണു്. തീർത്തും ഭൗതികതലത്തിലുള്ള ഒരാവശ്യത്തെ
+ആത്മീയതലത്തിലുള്ള ഒരനുഭൂതിയാക്കി പ്രേമം ഉയർത്തിയെടുക്കുന്നു.
+</p>
+          <p>കാമം ഭൗതികമാണു്; പ്രേമം ആത്മീയവും. പാർസി ഭാഷയിലെ സൂഫിക്കവിതകളിൽ
+ആദ്ധ്യാത്മികാനുഭൂതിയുടെ രൂപകമായി സ്ത്രീപുരുഷപ്രണയം പിന്നെയും പിന്നെയും പുറപ്പെട്ടുവന്നതിന്റെ പൊരുൾ
+ഇതായിരിക്കണം.
+</p>
+          <p>പ്രണയം പോലെ അത്രയും ശക്തമായ മറ്റൊരു വികാരവുമില്ല. അതു് മനുഷ്യജീവികളെ ധീരരും ത്യാഗികളും
+ആക്കി വളർത്തിയെടുക്കുന്നു; മറ്റൊരു മനുഷ്യജീവിക്കു് വേണ്ടി ജീവിക്കുവാനും മരിക്കുവാനുമുള്ള
+സന്നദ്ധതയിലേക്കു് വഴികാണിക്കുന്നു. രാഷ്ട്രീയമോ, സാമ്പത്തികമോ, സംസ്കാരികമോ, സാമൂഹ്യമോ ആയ ഏതു്
+വിപ്ലവത്തിന്റെ ബീജവും പ്രണയത്തിന്റെ വെള്ളവും വെളിച്ചവും നേടി തെഴുക്കുന്നതായിട്ടു് എഴുത്തുകാർ
+തുടരെത്തുടരെ ചിത്രീകരിച്ചുകാണുന്നതിന്റെ സാരാംശവും അതാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Octavio_Paz.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒക്ടേവിയോ പാസ്</figDesc>
+          </figure>
+          <p> മുതലാളിയുടെ മകൾ തൊഴിലാളിയെ പ്രേമിക്കുന്ന കഥയിൽ, സ്ത്രീ പുരുഷ ബന്ധത്തിന്റെ
+മനോഹാരിതയ്ക്കൊപ്പം ഒരു സാമ്പത്തികഘടന മാറ്റിപ്പണിയുന്നതിന്റെ രാഷ്ട്രീയപ്രവർത്തനം ഉള്ളടങ്ങിക്കിടപ്പുണ്ടു്;
+‘മേൽ’ജാതിക്കാരി ‘കീഴ്’ജാതിക്കാരനെ പ്രേമിക്കുന്ന കഥയിൽ ഒരു സാമൂഹ്യഘടന പൊളിച്ചെഴുതുന്ന
+സാംസ്കാരികപ്രവർത്തനം ഉയിരെടുക്കുന്നുണ്ടു്.
+</p>
+          <p>പ്രശസ്ത കവി <ref target="https://en.wikipedia.org/wiki/Octavio_Paz">ഒക്ടേവിയോ പാസ്</ref>
+പാടുന്നു: “പ്രണയം കലാപമാണു്. രണ്ടുപേർ ചുംബിക്കുമ്പോൾ ലോകം കീഴ്മേൽ മറിയുന്നു”
+</p>
+          <p>
+മലയാളം ന്യൂസ്: 18 മാർച്ച് 2001.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Premaththinte Nanarthangal (ml:
+പ്രേമത്തിന്റെ നാനാർത്ഥങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Premaththinte Nanarthangal, എം. എൻ. കാരശ്ശേരി, പ്രേമത്തിന്റെ നാനാർത്ഥങ്ങൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 24, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Loves_Messenger_Stillman_DAM.jpg">Love’s
+Messenger,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Marie_Spartali_Stillman">Marie
+Spartali Stillman</ref>  (1844–1927). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-premathinte.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasserypremathinte.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

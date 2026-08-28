@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സപ്തതിവർഷനായ എ. ഡി.
+ഹരിശർമ്മ</title>
+          <title xml:lang="en" type="main">Sapthathivarshanaya A. D. Harisarma</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">July 7, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സപ്തതിവർഷനായ എ. ഡി.
+ഹരിശർമ്മ</title>
+              <title xml:lang="en" type="main">Sapthathivarshanaya A. D. Harisarma</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Sapthathivarshanaya A. D. Harisarma</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>സപ്തതിവർഷനായ എ. ഡി. ഹരിശർമ്മ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 7, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Harisharma_AD.jpg" width="100%"/>
+          <figDesc>A D Harisharma, a portrait by anonymous  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സപ്തതിവർഷനായ എ. ഡി. ഹരിശർമ്മ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സപ്തതിവർഷനായ
+എ. ഡി. ഹരിശർമ്മ</head>
+        <div type="lsection">
+          <p style="noindent">എഴുപതിലെത്തി <ref target="https://ml.wikipedia.org/wiki/A_D_Hari_Sharma">എ. ഡി. ഹരിശർമ്മ</ref>
+യും. കടന്നുപോന്ന ജീവിതത്തിലേയ്ക്കു തിരിഞ്ഞുനോക്കുമ്പോൾ അദ്ദേഹത്തിനു കൃതാർത്ഥതയും സംതൃപ്തിയും
+ഉണ്ടാകാം. ദീർഘകാലത്തെ സാഹിതീസപര്യയുടെ സാഫല്യംമൂലം ഹരിശർമ്മ മലയാളത്തിൽ മഹനീയവും
+സ്മരണീയവുമായ ഒരു സ്ഥാനം നേടിക്കഴിഞ്ഞിരിക്കുന്നു. എറണാകുളത്തെ പൗരാവലി അദ്ദേഹത്തിന്റെ സപ്തതി
+സമുചിതമായി ആഘോഷിച്ചു. കേരളത്തിലെ മിക്ക പത്രമാസികകളും പ്രശസ്തിപരമായ ലേഖനങ്ങൾ
+പ്രസിദ്ധീകരിക്കുകയുണ്ടായി. കൃത്രിമമായ ഒരു സംഘടിതോദ്ദ്യമം ഈ ആഘോഷത്തിന്റെ പിന്നിൽ
+ഉണ്ടായിരുന്നില്ലെന്നതാണു് ഇതിന്റെ ഒരു സവിശേഷത. എല്ലാ ചടങ്ങുകളും ഏറ്റവും ഹൃദ്യവും സ്വാഭാവികവുമായ
+രീതിയിലായിരുന്നു. മന്ത്രിമാരുടെ എഴുന്നള്ളിപ്പോ, സദ്യയുടെ ബഹളമോ ഒന്നും അവിടെ കണ്ടില്ല.
+സുഹൃത്തുക്കളുടേയും ശിഷ്യസമൂഹത്തിന്റേയും ഹൃദയത്തിൽനിന്നു സ്വയമേവാഗതമായ ഒരു പൂജ്യപൂജ എന്നു
+വേണം ഇതിനെ വിശേഷിപ്പിക്കാൻ. പൂജിതനായ വ്യക്തിയാകട്ടെ ഇതിൽ മിക്കവാറും
+നിസ്സംഗനായിരുന്നതേയുള്ളൂ. എത്രയോ മുമ്പുതന്നെ ശർമ്മ അർഹിച്ചിരുന്ന ഈ ബഹുമതി ഷഷ്ടിയും കഴിഞ്ഞു്
+സപ്തതിയിലെത്തിയപ്പോഴെങ്കിലും അദ്ദേഹത്തിനു ലഭിച്ചല്ലോ എന്നോർത്താണു് ഇതെഴുതുന്ന ആൾക്കു് അധികം
+സന്തോഷം തോന്നിയതു്. യാതൊരു ഒച്ചപ്പാടും ഉണ്ടാക്കാതെ ഒരു മൂലയിൽ ഒതുങ്ങിയിരുന്നു കൊണ്ടുതന്നെ
+ബഹുജനങ്ങളുടെ പ്രീത്യാദരങ്ങൾക്കു് പാത്രമാകാൻ ശർമ്മയെപ്പോലെ വളരെപ്പേർക്കു് കഴിഞ്ഞിട്ടില്ല.
+അദ്ദേഹത്തിന്റെ നിശ്ശബ്ദമായ സാഹിത്യസേവനം എത്രമാത്രം സമുത്കൃഷ്ടവും സമാദരണീയവുമാണെന്നു് ഈ
+സന്ദർഭത്തിൽ എല്ലാവർക്കും ബോദ്ധ്യമായി.
+</p>
+          <p>മലയാളസാഹിത്യത്തിലെ ഒരസാധാരണവ്യക്തിയാണു് ഹരിശർമ്മ. അദ്ദേഹത്തിന്റെ ഇന്നുവരെയുള്ള
+ജീവിതകഥ ശരിയായി അറിയുന്നവർ ഈ അഭിപ്രായത്തോടു യോജിക്കാതിരിക്കില്ല. മാമൂൽപ്രിയരായ
+മാതാപിതാക്കൾ, പള്ളിക്കൂടം കാണാത്ത ബാല്യകാലം, പുരോഗതിയെ തടഞ്ഞുനിർത്തുന്ന സാഹചര്യങ്ങൾ,
+സ്വന്തമായൊരു സാഹിത്യമില്ലാത്ത മാതൃഭാഷ, നിർവേദജനകമായ നിർദ്ധനത, ഈവക ദുർഘടങ്ങൾ
+അനന്യശരണനായി തരണം ചെയ്തു മറ്റൊരു ഭാഷയിലും സാഹിത്യത്തിലും ആചാര്യപദവിവരെ ചെന്നെത്തുകയും
+അനേകം സത്ഗ്രന്ഥങ്ങളുടെ രചയിതാവുകയും ചെയ്യുക എന്നതു് ഒരസാമാന്യവിജയം തന്നെയല്ലേ?
+ഈയവസരത്തിൽ മഹാകവി ഉള്ളൂർ ഓർമ്മയിൽവരുന്നു. രണ്ടു പേർക്കും തമ്മിൽ സാമ്യത്തെക്കാൾ കൂടുതൽ
+വ്യത്യസ്തതയാണുള്ളതു്. ഉള്ളൂരിനു മുന്നോട്ടുപോകാൻ പരിതഃസ്ഥിതികൾ പ്രതിബന്ധമായിരുന്നില്ല.
+മലയാളവുമായി സ്വസൃബന്ധവും വിപുലമായ സാഹിത്യവും ഉള്ള തമിഴായിരുന്നു അദ്ദേഹത്തിന്റെ മാതൃഭാഷ.
+അതിൽനിന്നു മലയാളത്തിലേയ്ക്കു് കടന്നു് സാഹിത്യനൈപുണ്യം നേടാൻ പ്രയാസമില്ല. ശർമ്മയുടെ
+മാതൃഭാഷയോ? രണ്ടിനും തമ്മിൽ എന്തന്തരം!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ulloor_S_Parameswara_Iyer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉള്ളൂർ</figDesc>
+          </figure>
+          <p>ഒരിക്കൽ തിരുവനന്തപുരത്തുവച്ചു് <ref target="https://ml.wikipedia.org/wiki/Ulloor_S._Parameswara_Iyer">ഉള്ളൂർ</ref>
+‘എനിക്കൊരു സമുദായമില്ല കൃഷ്ണപിള്ളേ’ എന്നു് അൽപ്പം സങ്കടത്തോടെ എന്നോടു പറയുകയുണ്ടായി. ആ
+വാക്യം എന്റെ ഉള്ളിൽ തട്ടി. അദ്ദേഹം അങ്ങനെ പറഞ്ഞതു് വെറുതെയല്ല. ഖേദകരമായ ഒരു സത്യം അതിലുണ്ടു്.
+നമ്മുടെ നാട്ടിൽ സമുദായത്തിന്റെ മേൽവിലാസത്തിലാണല്ലോ എന്തും വിലമതിക്കപ്പെടുന്നതു്. ഇതര
+രംഗങ്ങളിലെന്നപോലെ സാഹിത്യത്തിലും സമുദായത്തിന്റെ പിൻബലം ഇവിടെ പലരുടേയും മുന്നേറ്റത്തിനു
+സഹായിച്ചിട്ടുണ്ടു്. ഇക്കാര്യത്തിൽ ഉള്ളൂരിന്റെ അനുഭവംതന്നെയാണു് ശർമ്മയ്ക്കും ഉള്ളതു്. സമുദായമോ
+സർക്കാരോ മറ്റാരെങ്കിലുമോ ഈ പ്രയത്നശാലിയെ കൈ കൊടുത്തുയർത്തുവാൻ ശ്രമിച്ചിട്ടില്ല. അദ്ദേഹം
+തന്നത്താൻ ഉയർന്നു. അചഞ്ചലമായ ആത്മവിശ്വാസത്തോടെ ശർമ്മ ഏകനായി, ലക്ഷ്യത്തിൽ ഏക
+
+താനനായി തന്റെ ജീവിതയാത്ര തുടർന്നു. സ്വാശ്രയശീലം, സ്ഥിരപരിശ്രമം. വിജ്ഞാനതൃഷ്ണ ഈ മൂന്നുമാണു്
+അദ്ദേഹത്തെ ലക്ഷ്യത്തിലെത്തിച്ചതു്. സുഖലോലുപരും അസ്ഥിരോത്സാഹരും ആയ ഇന്നത്തെ
+വിദ്യാർത്ഥികൾക്കു് ഈ സാഹിത്യനായകന്റെ ജീവിതചരിത്രം ഒരു പാഠ്യപുസ്തകമാകേണ്ടതാണു്. പക്ഷേ,
+അതിനു് ഒരു കുറവേ ഉള്ളൂ. ആരും അതെഴുതിയിട്ടില്ലെന്നതുതന്നെ. ശർമ്മതന്നെ ആ കുറവു് പരിഹരിച്ചാൽ
+അതായേക്കാം അദ്ദേഹത്തിന്റെ തൂലികയുടെ നേട്ടങ്ങളിൽ ഏറ്റവും മെച്ചപ്പെട്ടതു്. അദ്ദേഹത്തിനു
+ജന്മസിദ്ധമായിട്ടുള്ള ചരിത്രകൗതുകം ആത്മകഥാകഥനത്തിലേയ്ക്കും പ്രസരിക്കേണ്ടതു് ഒരാവശ്യമാണെന്നു്
+തമ്മിൽക്കാണുമ്പോഴൊക്കെ ഞാൻ പറയാറുണ്ടു്.
+</p>
+          <p>മൺമറഞ്ഞുപോയ സാഹിത്യകാരന്മാരുടേയും നിന്നുപോയ പത്രമാസികകളുടേയും ചരിത്രത്തെസംബന്ധിച്ചു്
+ശർമ്മയോളം സൂക്ഷ്മബോധമുള്ളവർ ഇന്നെത്ര പേരുണ്ടു്? ഏതദ്വിഷയത്തിൽ ഒരു വിജ്ഞാന കോശം
+തന്നെയാണദ്ദേഹം. എവിടേയെങ്കിലും ഒരു തീയതിയോ മറ്റോ തെറ്റിയെഴുതിക്കണ്ടാൽമതി പിന്നെ അതു
+തിരുത്താതെ ഈ സൂക്ഷ്മദർശിക്കു മനസ്സമാധാനമുണ്ടാവില്ല. ശർമ്മ ചരിത്രമെഴുതുന്നതു്
+തത്ക്കാലത്തേയ്ക്കുമാത്രമല്ല. ഭാവി തലമുറയ്ക്കുവേണ്ടിയാണു്. ഈവക കാര്യങ്ങളിൽ അദ്ദേഹം കാണിക്കുന്ന
+ബുദ്ധിപരമായ സത്യസന്ധത സത്യാന്വേഷികളായ ഏവർക്കും അനുകരണീയമാകുന്നു. മറ്റെങ്ങും കണ്ടുകിട്ടാത്ത
+പ്രാചീനരേഖകൾ അദ്ദേഹത്തിന്റെ ഈടുവയ്പിൽ കാണും. എനിക്കുണ്ടായ ഒരനുഭവംതന്നെ ഉദാഹരണമായി
+ഇവിടെ വിവരിക്കട്ടെ. കേരളവർമ്മത്തമ്പുരാൻ എഴുതിയ ഒരു കിട്ടുവിന്റെകഥയുള്ള ബാലപാഠപുസ്തകമാണു് ഞാൻ
+പ്രൈമറിസ്ക്കൂളിൽ രണ്ടാംക്ലാസ്സിലോ മൂന്നാംക്ലാസ്സിലോ പഠിച്ചതു്. അക്കാലം കഴിഞ്ഞിട്ടു് അര നൂറ്റാണ്ടിലധികമായി.
+ഈ വയസ്സുകാലത്തു ആ പുസ്തകമൊന്നു കാണാനും കിട്ടുവിന്റെ കഥ വായിക്കാനും ഉള്ള കൗതുകം മൂലം ഞാൻ
+അതു പല സ്ഥലത്തും അന്വേഷിച്ചു. എവിടെ കിട്ടാനാണു്. ആർക്കും ഒരു വിവരവുമില്ല. പ്രൈമറിസ്ക്കൂളിൽ
+പഠിക്കാത്ത ശർമ്മയോടു ചോദിച്ചിട്ടു് ഫലമില്ലല്ലോ എന്നു വിചാരിച്ചിരുന്നു. എങ്കിലും ഒരു തവണ അദ്ദേഹത്തിന്റെ
+വസതിയിൽവെച്ചു് ഇക്കാര്യം ഞാൻ എടുത്തിട്ടു. ഇഷ്ടൻ ഒന്നും മിണ്ടാതെ ഉടൻ ചെന്നു് അലമാരികളിലെല്ലാം തപ്പി
+ആ പഴഞ്ചൻ പുസ്തകം എടുത്തുകൊണ്ടു വന്നിരിക്കുന്നു! ഞാൻ അമ്പരന്നുപോയി. അമ്പതുവർഷത്തിലധികം
+പഴക്കം ചെന്ന ഒരു ബാലപാഠപുസ്തകംപോലും ഇത്ര കരുതലോടെ സൂക്ഷിച്ചു വയ്ക്കാൻ ശ്രദ്ധിക്കുന്ന മറ്റൊരു
+പുസ്തകപ്രേമിയെ ഇക്കേരളക്കരയിൽ കാണാൻ കഴിയുമോ എന്തോ? സ്തുത്യർഹവും സുദുർല്ലഭവുമായ ഈ
+സ്വഭാവവിശേഷത്തിൽ ശർമ്മയുടെ ചരിത്രജിജ്ഞാസയും ഗവേഷണ വ്യഗ്രതയും ആണു് പ്രതിഫലിക്കുന്നതു്.
+എത്രയോ വർഷങ്ങളായി അദ്ദേഹം തുടർന്നുപോരുന്ന ഗ്രന്ഥസംഭരണം ഒരു സാമൂഹിക സേവനമാണെന്നു്
+പറയാം. എന്തെന്നാൽ സാഹിത്യചരിത്രത്തിൽ ജിജ്ഞാസുക്കളായവരുടെ ഒരു ‘റഫറൻസ്
+ലൈബ്രറി’യായിത്തീർന്നിട്ടുണ്ടു് അദ്ദേഹത്തിന്റെ ഭവനം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kumaran_Asan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുമാരനാശാൻ</figDesc>
+          </figure>
+          <p>വ്യാഖ്യാതാവു്, ചരിത്രകാരൻ, ഗവേഷകൻ, നിരൂപകൻ, അദ്ധ്യാപകൻ, എന്നീ വിവിധ നിലകളിൽ ശർമ്മ
+പ്രശസ്തിയാർജ്ജിച്ചിട്ടുണ്ടെങ്കിലും അദ്ദേഹത്തിലെ നിരൂപകനാണു് എന്നെ ഏറ്റവുമധികം ആകർഷിച്ചിട്ടുള്ളതു്.
+മലയാളസാഹിത്യത്തിലെ നിരൂപണസരണിയിൽ അത്യുന്നതമായ ഒരുമാതൃക സൃഷ്ടിക്കാൻ അദ്ദേഹത്തിനു
+കഴിഞ്ഞിട്ടുണ്ടു്. അതിൽ അദ്ദേഹത്തെ അതിശയിക്കുന്നവരുണ്ടെന്നു തോന്നുന്നില്ല. മിതവും ഹിതവുമായ
+പ്രതിപാദനം, പ്രതിപക്ഷബഹുമാനം, യുക്തിയും തെളിവും സമഞ്ജസമായി സംഘടിപ്പിച്ചുകൊണ്ടുള്ള
+ധീരോദാത്തമായ വാദരീതി, വിനയവുമായി കൈകോർത്തുപിടിച്ചു നിൽക്കുന്ന പചേളിമമായ പാണ്ഡിത്യം,
+എതിരാളിയിൽപ്പോലും ബഹുമതിയുളവാക്കുന്ന സാമ്യഭാവം, തെറ്റുപറ്റിയാൽ അതു് ഏറ്റു പറയാനുള്ള സന്നദ്ധത,
+അയത്നലളിതമായ ഭാഷാശൈലി ഇങ്ങനെ എത്രയോ ഗുണങ്ങൾ എടുത്തുപറയേണ്ടിയിരിക്കുന്നു. അന്യാദൃശവും
+അഭിജാതവുമായ ഒരു ശുചിത്വമുണ്ടു് ശർമ്മയുടെ നിരൂപണങ്ങൾക്കു് ഇസ്സംഗ്ഗതിയിൽ ഇതരനിരൂപകർ
+അദ്ദേഹത്തെ കണ്ടുപഠിച്ചാൽ നന്നായിരിക്കും. നിരൂപണമെഴുതുമ്പോൾ ഹരിശർമ്മയെപ്പോലെ സമചിത്തത
+പാലിക്കാൻ സാധിച്ചിരുന്നെങ്കിൽ എന്നെനിക്കു പലപ്പോഴും തോന്നിയിട്ടുണ്ടു്. സ്വതേ ശാന്തനും സൗമ്യനും
+ഉദാരനുമാണെങ്കിലും അദ്ദേഹം മറ്റുള്ളവരുടെ തെറ്റുകൾ ചൂണ്ടിക്കാണിക്കുന്നതിൽ യാതൊരു ദാക്ഷിണ്യവും
+കാണിക്കാറില്ല. എത്ര വമ്പനായ പ്രതിയോഗിയേയും അദ്ദേഹം തന്റെ ചോദ്യശരങ്ങൾക്കു് ശരവ്യനാക്കും. <ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">കുമാരനാശാന്റെ</ref> <ref target="https://ml.wikipedia.org/wiki/Karuna">കരുണയ്ക്കു്</ref>, സാഹിത്യപഞ്ചാനനൻ
+<ref target="https://en.wikipedia.org/wiki/P._K._Narayana_Pillai">പി. കെ.
+നാരായണപിള്ള</ref> എഴുതിയ നിരൂപണം ശർമ്മയുടെ ഖണ്ഡനത്തിനു വിഷയമായതു്
+ഇതിനൊരുദാഹരണമാണു്. പഞ്ചാനനന്റെ നിരൂപണത്തിലുള്ള അനുകരണാരോപണത്തിനു് ഒരടിസ്ഥാനമോ
+യുക്തിയോ ഇല്ലെന്നു ശർമ്മ നിഷ്പ്രയാസം സമർത്ഥിച്ചു. ഉത്തരംമുട്ടിയമട്ടിൽ അതിനൊരു മറുപടി പുറപ്പെട്ടതും
+
+അദ്ദേഹം വെറുതെ വിട്ടില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Narayana_Pillai.png" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. നാരായണപിള്ള</figDesc>
+          </figure>
+          <p> ഈ സാത്വികന്റെ ശാന്തപ്രകൃതികണ്ടു്, പാവം എന്തുപറഞ്ഞാലും കേട്ടുകൊള്ളുമെന്നു തെറ്റിദ്ധരിച്ചു് ചില
+ദോഷഗവേഷകർ അദ്ദേഹത്തിന്റെ മെക്കിട്ടുകയറാൻ ഒരുമ്പെട്ടിട്ടുണ്ടു്. അക്കൂട്ടർക്കു ചുട്ടമറുപടികൊടുത്തു് അവരെ
+മര്യാദപഠിപ്പിക്കാനും അദ്ദേഹം മടിച്ചിട്ടില്ല. ഈ നിരൂപണനിപുണന്റെ തൂലികയ്ക്കു് നിർമ്മാണശക്തിമാത്രമല്ല
+വേണ്ടിവന്നാൽ സംഹാര ശക്തിയുമുണ്ടാകുമെന്നു് ഈദൃശാവസരങ്ങളിൽ വെളിപ്പെട്ടിട്ടുണ്ടു്. ഉദ്ധതന്മാരായ
+സാഹിത്യദുർവിദഗ്ദ്ധന്മാരുടെ നേരെ അദ്ദേഹം തികച്ചും നിർദ്ദയനായിത്തന്നെ പ്രത്യക്ഷപ്പെടുന്നു. അതു
+വേണ്ടതാണുതാനും.
+</p>
+          <p>കേരളീയർക്കു പൊതുവേയും കേരളത്തിലെ ഗൗഡസാരസ്വത സമുദായത്തിനു പ്രതേകിച്ചും അഭിമാനം
+കൊള്ളാവുന്ന ഈ സാഹിത്യാചാര്യൻ ഇവിടത്തെ അക്കാദമികളിൽ അവയുടെ ആരംഭംമുതൽക്കു തന്നെ
+അംഗമാകേണ്ടതായിരുന്നു. എന്നാൽ സകലകാര്യങ്ങളിലും ഒളിഞ്ഞും തെളിഞ്ഞും സമുദായപ്രാതിനിധ്യം
+പാലിക്കുന്ന നമ്മുടെ ഗവൺമെന്റിനു് ഇക്കാര്യത്തിൽ മാത്രം കണ്ണുണ്ടായില്ല. സാഹിത്യ തറവാട്ടിലെ ഒരു
+കാരണവരോടു കാണിക്കുന്ന അക്ഷമണീയമായ ഈ അനീതിയും അനാദരവും ഇനിയെങ്കിലും
+നീക്കംചെയ്യപ്പെടുമെന്നു വിശ്വസിക്കട്ടെ.
+</p>
+          <p>
+—വിമർശനവും വീക്ഷണവും.</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sapthathivarshanaya A. D.
+Harisarma (ml: സപ്തതിവർഷനായ എ. ഡി. ഹരിശർമ്മ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Sapthathivarshanaya A. D. Harisarma, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, സപ്തതിവർഷനായ എ. ഡി.
+ഹരിശർമ്മ, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 7, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  A D Harisharma, a portrait by
+anonymous  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/harisarma-kuttipuzha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/harisarma-kuttipuzha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

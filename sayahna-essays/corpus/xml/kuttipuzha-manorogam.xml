@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മാറാത്ത മനോരോഗം</title>
+          <title xml:lang="en" type="main">Maraththa Manorogam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 8, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മാറാത്ത മനോരോഗം</title>
+              <title xml:lang="en" type="main">Maraththa Manorogam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Maraththa Manorogam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മാറാത്ത മനോരോഗം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 8, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Dedham_Lock_and_Mill.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:John_Constable__Dedham_Lock_and_Mill_-_WGA5186.jpg">Dedham Lock and Mill,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:John_Constable">John
+Constable</ref>  (1776–1837). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മാറാത്ത മനോരോഗം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മാറാത്ത മനോരോഗം</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Martin_Luther_King.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാർട്ടിൻ ലൂതർ കിങ്</figDesc>
+          </figure>
+          <p style="noindent"> സ്വതേ ക്ഷിപ്രവിശ്വാസിയാണു് മനുഷ്യൻ. എന്തും എളുപ്പം വിശ്വസിക്കാനുള്ള ഒരു
+പ്രവണത ഭൂരിപക്ഷം ജനങ്ങളിലും വേരൂന്നിക്കിടക്കുന്നുണ്ടു്. ഇതൊരു മാറാത്ത മാനസികരോഗമാണെന്നുവരെ
+പറയേണ്ടിയിരിക്കുന്നു. ജീവിതപുരോഗതിയെ തടഞ്ഞുനിർത്തുന്ന ഈ പ്രാകൃതവാസനയിൽനിന്നു്
+അഭ്യസ്തവിദ്യർക്കുപോലും മോചനം ലഭിക്കുന്നില്ല. യുക്തിപൂർവം ചിന്തിക്കാനുള്ള വൈമുഖ്യമാണു് ഇതിന്റെ
+പ്രധാനകാരണം. ‘കഠിനവും കാമ്പുറ്റതുമായ ചിന്തയിൽ സ്വമനസാ ഏർപ്പെടുന്ന മനുഷ്യരെ ചുരുക്കമായിട്ടേ നാം
+കാണുന്നുള്ളു. ചിന്തിച്ചുനോക്കേണ്ടിവരുക എന്നതിൽക്കവിഞ്ഞു് ചിലരെ അസുഖപ്പെടുത്തുന്ന മറ്റൊന്നില്ല’ (Rarely
+do we find men who willingly engage in hard, robust thinking. Nothing pains some people
+more than having to think) എന്നു് ഈയിടെ വധിക്കപ്പെട്ട നീഗ്രോനേതാവു് <ref target="https://ml.wikipedia.org/wiki/Martin_Luther_King,_Jr.">മാർട്ടിൻ ലൂതർ
+കിങ്</ref> ഒരു പള്ളിപ്രസംഗത്തിൽ പറയുകയുണ്ടായി. അദ്ദേഹം ഒരു മതവിശ്വാസിയായിരുന്നെങ്കിലും
+ബുദ്ധിമാനായ ചിന്തകനായിരുന്നു. അല്പപക്ഷം ചിന്തിക്കുക ഭൂരിപക്ഷം അതിന്റെ പിന്നാലെ പോകുക
+ഇതാണല്ലോ ലോകഗതി. വിശേഷിച്ചും മത കാര്യങ്ങളിൽ. പത്തിരുപതു് നൂറ്റാണ്ടു് മുമ്പേ ജീവിച്ചിരുന്ന മനുഷ്യർ
+അജ്ഞതമൂലം എന്തെല്ലാം അന്ധമായി വിശ്വസിച്ചിരുന്നു! അന്നത്തെ മതസ്ഥാപകരും ആചാര്യന്മാരും
+പ്രപഞ്ചവിജ്ഞാനത്തിൽ കേവലം ശിശുക്കളായിരുന്നില്ലേ? സർവ്വോൽകൃഷ്ടമായ ആത്മജ്ഞാനം
+അവർക്കുണ്ടായിരുന്നു എന്നതാകാം ഇതിനു് ചിലരുടെ പ്രത്യുത്തരം. പക്ഷേ, ആത്മാവുണ്ടായിട്ടു് വേണ്ടേ
+അതിനെപ്പറ്റി ജ്ഞാനമുണ്ടാകാൻ? മരണാനന്തരം അവശേഷിക്കുന്നതായി വിശ്വസിക്കപ്പെടുന്ന
+ശരീരനിരപേക്ഷമായൊരു ആത്മാവു് മാനവമനസ്സിന്റെ സങ്കല്പസൃഷ്ടിമാത്രമാണെന്നു് ജീവശാസ്ത്രം ഇപ്പോൾ
+കൂടുതൽ കൂടുതൽ തെളിയിച്ചുകൊണ്ടിരിക്കയാണല്ലോ. അപ്പോൾ പിന്നെ വെറും വിശ്വാസമല്ലാതെ
+ആത്മജ്ഞാനത്തിനെന്തടിസ്ഥാനം? പണ്ടത്തെ ദിവ്യന്മാരും ഇന്നത്തെ സാധാരണനേക്കാളേറെ അജ്ഞരും
+അന്ധവിശ്വാസികളുമായിരുന്നുവെന്നതാണു് ചരിത്രസത്യം. അവരുടെ തിരുവചനങ്ങൾതന്നെ ഈ വസ്തുതയ്ക്കു്
+തെളിവാണു്. അവയിൽ ഇന്നും കൊള്ളാവുന്ന പലതും കണ്ടേക്കാം. പക്ഷേ, കൊള്ളരുതാത്തവയാണു്
+ഏറിയകൂറും. എന്നിട്ടും അവയൊക്കെ വിവേചനം കൂടാതെ അപ്പടി കണ്ണടച്ചുവിശ്വസിച്ചു് മനസ്സിനെ ഒരു
+ചവറ്റുകൊട്ടയാക്കിക്കൊണ്ടു് നടക്കാൻ ഇന്നു് പഠിപ്പുള്ളവർപോലും നിർലജ്ജം മുതിരുന്നതാണത്ഭുതം.
+അഞ്ചാംവയസ്സിൽ തുന്നിച്ച ഉടുപ്പു് അമ്പതാംവയസ്സിലും ഇട്ടുനോക്കാൻ പാടുപെട്ടാൽ എന്തുചെയ്യും!
+</p>
+          <p>മനസ്സിനെ ബാധിക്കുന്ന ഒരുതരം വാതരോഗമാണു് ഈ ക്ഷിപ്രവിശ്വാസശീലം. സയൻസ് പഠിച്ചവരുടെ
+ബുദ്ധിയെയും അതു് തളർത്തിക്കളയുന്നു. പക്ഷവാതം പിടിച്ചു് ശരീരത്തിന്റെ ഒരു ഭാഗം തളർന്നു്
+മരവിക്കുന്നതുപോലെ ബുദ്ധിക്കും സംഭവിച്ചാൽ പിന്നെ രക്ഷയില്ല. ചിന്താലോകത്തിൽ പലരും മന്തന്മാരും
+മുടന്തന്മാരുമായിത്തീരുന്നതിങ്ങനെയാണു്. ബുദ്ധിയുടെ ഒരുവശം മതകാര്യങ്ങളിൽ തളർന്നും മറുവശം
+ശാസ്ത്രപഠനത്തിൽ ഉണർന്നും ഇരുന്നാൽ ഭാഗികമായി ആ ഉണർവുകൊണ്ടു് പ്രയോജനമുണ്ടാകയില്ല. ഇന്ത്യയിൽ
+ഒന്നാംകിടശാസ്ത്രജ്ഞന്മാർ ചുരുക്കമായിപ്പോകുന്നതിനുള്ള കാരണം ഇതാണെന്നു് ഈയിടെ ഒരു പണ്ഡിതൻ ഒരു
+പത്രലേഖനത്തിൽ ചൂണ്ടിക്കാണിച്ചിരിക്കുന്നു. മുഖസ്തുതിയും കൈക്കൂലിയുംകൊണ്ടു് ദൈവത്തെ തൃപ്തിപ്പെടുത്തി
+ഭക്തി പ്രകടനം നടത്തുന്ന എത്രയോ സയൻസ് പ്രൊഫസർമാരില്ലേ നമ്മുടെ നാട്ടിൽ? അന്ധവിശ്വാസങ്ങളുടെ
+വിഴുപ്പുഭാണ്ഡം ചുമന്നുകൊണ്ടാണു് ഇക്കൂട്ടർ ശാസ്ത്രപരിഷത്തിലും ഗവേഷണശാലയിലും ഹാജരാകുന്നതു്.
+ഇവരുടെ ബുദ്ധി എങ്ങനെ സ്വതന്ത്രമായി പ്രവർത്തിക്കും?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Birkenhead.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബർക്കൻഹെഡ്പ്രഭു</figDesc>
+          </figure>
+          <p> ‘വിശ്വാസം നിന്നെ രക്ഷിക്കും. അജ്ഞാനികൾക്കു് ബുദ്ധിഭേദം ജനിപ്പിക്കരുതു്’ എന്നും മറ്റും മതാചാര്യന്മാർ
+
+പണ്ടേ പറഞ്ഞുറപ്പിച്ചുവച്ചിരിക്കയാണു്. ജനതതി മതമൂഢതയിൽനിന്നു് ഉണരാതിരിക്കാൻവേണ്ടി അവർ
+പുറപ്പെടുവിച്ചിട്ടുള്ള അനർത്ഥകാരികളായ ജീർണവാക്യങ്ങളാണിവ. മതവിശ്വാസം രക്ഷയല്ല,
+മനുഷ്യജീവിതത്തിനൊരു ശിക്ഷയാണു്. പോരാ അതൊരു ശാപവും ഭാരവുമാണു്. ഒരു
+ചൂഷണോപകരണംകൂടിയാണു്. അതിന്റെ ബീഭത്സരൂപങ്ങൾ ഇന്ത്യയുടെ രാഷ്ട്രീയ-സാമൂഹ്യപുരോഗതിക്കു്
+വിലങ്ങുതടികളായിത്തീർന്നു് ഇന്നും ഭീകരതാണ്ഡവം നടത്തുന്നുണ്ടു്. ഏതൊരു വിശ്വാസവും സ്വതന്ത്രമായ
+യുക്തിവിചാരംകൊണ്ടു് നവീനവിജ്ഞാനത്തിന്റെ വെളിച്ചത്തിൽ പരിശോധിച്ചുനോക്കിയിട്ടുവേണം
+സ്വീകരിക്കാനെന്ന പ്രാഥമികപാഠംപോലും നാം മറന്നുപോകുന്നു. ആദ്യംതന്നെ വിശ്വാസം അകത്തു് കടന്നു്
+കുടിപ്പാർപ്പുതുടങ്ങുകയാണു്. പിന്നെ ആ വിശ്വാസത്തെ എങ്ങനെയെങ്കിലും സാധൂകരിക്കാനുള്ള മുട്ടുയുക്തി
+കണ്ടുപിടിക്കലായി. പണ്ഡിതമൂഢന്മാരിൽ സാധാരണ കണ്ടുവരുന്ന ചിന്താപരമായ തകിടം മറിച്ചിലാണിതു്.
+‘ഗംഭീരാശയരായ വളരെ പണ്ഡിതന്മാരെ ഞാൻ കണ്ടിട്ടുണ്ടു്. അവർ ഗംഭീരമൂഢന്മാരുമായിരുന്നു’ (I have seen
+many profound scholars who were also profound simpletons) എന്നു് <ref target="https://en.wikipedia.org/wiki/F._E._Smith,_1st_Earl_of_Birkenhead">ബർക്കൻഹെഡ്പ്രഭു</ref>
+ഒരിക്കൽ പറയുകയുണ്ടായി. ഏതു് രാജ്യത്തും കാണാം ഇമ്മാതിരി വൈരുദ്ധ്യം.
+</p>
+          <p>വിശ്വാസത്തിന്റെ ബീഭത്സരൂപങ്ങൾ നമ്മുടെ നാട്ടിൽ ഈ ശാസ്ത്രയുഗത്തിലും വർദ്ധിച്ചുവരികയാണു്.
+അടുത്തകാലത്തു് ആളുകളുടെ കണ്ണുമൂടിയ ഒരു വിചിത്രസംഭവമാണെല്ലോ തൃശൂരിനടുത്തുള്ള ഒരു ക്ഷേത്രത്തിൽ
+ആലിൻകൊമ്പത്തു് ശ്രീകൃഷ്ണൻ പ്രത്യക്ഷപ്പെട്ടതു്. എന്തൊരു ജനപ്രവാഹമായിരുന്നു അങ്ങോട്ടു്! ഡോക്ടർമാരും
+മന്ത്രിമാരും വക്കീലന്മാരും മറ്റും ദർശനത്തിനു് തിരക്കു് കൂട്ടിയപ്പോൾ പിന്നെ മറ്റുള്ളവരുടെ കഥ പറയാനുണ്ടോ?
+ഭ്രമിതമതികളായ പല യോഗ്യന്മാരും ഇതിലെന്തോ ഉണ്ടെന്നു് സമർത്ഥിക്കാനും ശ്രമിച്ചു. വിലപ്പെട്ട ചില
+പത്രങ്ങൾ ഈ ഭ്രാന്തൻവാർത്തയ്ക്കു് പ്രാധാന്യംകൊടുത്തു് സ്ഥലം പാഴാക്കിയതാണു് പരിതാപകരം.
+വാസ്തവത്തിൽ അതൊരു ജനദ്രോഹമായിരുന്നു. ഒടുവിലെന്തുണ്ടായി? ക്ഷേത്രത്തിലേക്കു് കുറെ പണം
+പിരിഞ്ഞുകിട്ടി. ക്രമേണ പൊതുജനങ്ങളുടെ മതിഭ്രമം നീങ്ങി. ആലിൻകൊമ്പത്തു് ശ്രീകൃഷ്ണനുപകരം കുറെ ഇലകൾ
+മാത്രം ശേഷിച്ചു. ഇപ്പോൾ ജനക്കൂട്ടത്തിന്റെ പൊടിപോലും അവിടെ കാണുന്നില്ല. വിശ്വാസികളുടെ കൂട്ടഭ്രാന്തു്
+കേന്ദ്രീകരിച്ചിരിക്കുന്ന മറ്റൊരിടമാണു് മുടിക്കിരീടമണിഞ്ഞു് അവതാരമൂർത്തിയുടെ വേഷംകെട്ടിയിരിക്കുന്ന ഒരു
+‘ഭഗവാന്റെ’ മഹനീയസന്നിധി. ആകാശത്തുനിന്നു് ഭസ്മം ഇറക്കുമതിചെയ്തു് ഈ ഭഗവാൻ ഭക്തജനങ്ങളെ
+വശീകരിക്കുന്നു. ‘ദാസദാസോഹം’ പാടി ദണ്ഡനമസ്കാരം ചെയ്യാൻ അവിടെയും ഓടിക്കൂടുന്നുണ്ടു്
+പ്രൊഫസർമാരും ഡോക്ടർമാരും ജഡ്ജിമാരും മറ്റും. വിശ്വാസാന്ധ്യം മൂർച്ഛിച്ചാൽ മാനംകെട്ട ഏതുപ്രവൃത്തിക്കും
+ആളുകൾ തയ്യാറാകും. ആത്മീയത്തട്ടിപ്പുകാരെ ജയിലിലടയ്ക്കാൻ നാട്ടിൽ നിയമമില്ലാത്തതാണു് മഹാകഷ്ടം.
+തല്ക്കാലവിനോദത്തിനായി കാശുവെച്ചു് പകിട കളിക്കുന്നവരെ പോലീസുകാർ പിടികൂടും; അതേസമയം
+ആദ്ധ്യാത്മികതയുടെ പേരിൽ ജനക്കൂട്ടത്തെ ചൂഷണംചെയ്തു് ലക്ഷക്കണക്കിനു് സമ്പാദിക്കുന്നവരെ ദിവ്യന്മാരായി
+വിലസാൻ സർക്കാർ അനുവദിക്കുകയുംചെയ്യുന്നു! ഇക്കണ്ടതൊന്നും പോരാഞ്ഞിട്ടെന്നപോലെ ഇപ്പോളിതാ ഒരു
+ദിനപത്രത്തിന്റെ വാരാന്ത്യപ്പതിപ്പിൽ മറ്റൊരു പ്രതിഭാസം പൊന്തിവന്നിരിക്കുന്നു—മലർന്നുകിടന്നു്
+ഊരുപ്രദേശത്തിലൊരു ഭാഗം അനാവൃതമാക്കിക്കൊണ്ടു് അപാരതയിലേക്കു് തുറിച്ചുനോക്കി ‘പരബ്രഹ്മം
+കണ്ടുരുളുന്ന’ ഒരു തപസ്വിനി! ഫോട്ടോസഹിതം വിസ്തരിച്ചൊരു ലേഖനവും. ദർശനമാത്രയിൽ
+പുളകിതഗാത്രനായി സാഷ്ടാംഗം നമസ്കരിച്ചു് കൃതാർത്ഥത നേടിയ ഒരു ഭക്തനാണു് ലേഖകൻ. ഏഴെട്ടു്
+കൊല്ലമായി ഭക്ഷണമോ മലമൂത്രവിസർജനമോ കൂടാതെയാണത്രെ ഈ അത്ഭുത ജീവി
+പ്രാണധാരണംചെയ്യുന്നതു്! ദിവ്യത്വത്തിനു് ഇതിൽക്കൂടുതൽ തെളിവെന്തു് വേണം?
+</p>
+          <p>പഴച്ചക്ക മുറിക്കുമ്പോൾ ഈച്ചകൾ കൂട്ടംകൂടുന്നതുപ്പോലെ ഇനി അങ്ങോട്ടാകും ജനസമൂഹത്തിന്റെ
+തള്ളിക്കയറ്റം. ഈവക ഞരമ്പുരോഗപ്രകടനങ്ങൾക്കു് പത്രസ്ഥലം മുടക്കുന്നതിനുമുമ്പായി ഉത്തരവാദപ്പെട്ട
+പത്രാധിപന്മാർ അവയെപ്പറ്റി ശാസ്ത്രീയമായി അന്വേഷണം നടത്തിയിരുന്നെങ്കിൽ എത്ര നന്നായിരുന്നു.
+‘മുക്കാലും മൂഢരാണിജ്ജഗതി ബുധജനം ദുർല്ലഭം’ എന്നു് വെറുതെയല്ല കവി പാടിയതു്.
+</p>
+          <p>
+(യുക്തിവിഹാരം 1968)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Maraththa Manorogam (ml:
+മാറാത്ത മനോരോഗം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Maraththa Manorogam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മാറാത്ത മനോരോഗം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 8, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:John_Constable__Dedham_Lock_and_Mill_-_WGA5186.jpg">Dedham Lock and Mill,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:John_Constable">John
+Constable</ref>  (1776–1837). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-manorogam.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-manorogam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഭാഷയിലെ ഇബ്സൻ പ്രസ്ഥാനം</title>
+          <title xml:lang="en" type="main">Bhashayile Ibson prasthanam</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">June 28, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഭാഷയിലെ ഇബ്സൻ പ്രസ്ഥാനം</title>
+              <title xml:lang="en" type="main">Bhashayile Ibson prasthanam</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-06-23</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Bhashayile Ibson prasthanam</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>ഭാഷയിലെ ഇബ്സൻ പ്രസ്ഥാനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-06-23</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/FishingCormorants.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:FishingCormorants.jpg">Fishing
+with Cormorants,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Frank_Finn">Frank Finn</ref>  .
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">‘കരുണ’യ്ക്കു മുമ്പും പിമ്പും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഭാഷയിലെ ഇബ്സൻ പ്രസ്ഥാനം</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/NKrishnaPillai01.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. കൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p style="noindent"><ref target="https://en.wikipedia.org/wiki/Moli%C3%A8re">മോളിയേ</ref> യുടെ
+വികൃതമായ അനുകരണങ്ങളിൽനിന്നു് ഇബ്സനിലേക്കു ദൂരം കുറച്ചധികമുണ്ടു്. എങ്കിലും ആ വഴിയെല്ലാം ഒരു
+ചുരുങ്ങിയ കാലംകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/N._Krishna_Pillai">എൻ. കൃഷ്ണപിള്ള</ref>
+നടന്നുതീർത്തു എന്നു പറയാം. മലയാളത്തിൽ നാടകത്തിന്റെ രൂപമുള്ള ഒട്ടധികം കൃതികൾ ഉണ്ടായി. പക്ഷേ,
+അവ അഭിനയത്തിനുതകുന്നവയോ ഏതെങ്കിലും ഗൗരവപ്രശ്നത്തെ ഉൾക്കൊള്ളുന്നവയോ ആയിരുന്നില്ല.
+ഇവയെല്ലാം കണ്ടു് അതൃപ്തനായി ഭാഷാനാടകങ്ങളുടേയും പാശ്ചാത്യനാടകങ്ങളുടേയും നിലവാരങ്ങൾ തമ്മിലുള്ള
+അന്തരം നികത്തുവാൻ ബോധപൂർവ്വം ചെയ്ത പരിശ്രമങ്ങളുടെ പ്രതിഫലനമാണു് എൻ. കൃഷ്ണപിള്ളയുടെ
+നാടകങ്ങൾ. അദ്ദേഹം <ref target="https://ml.wikipedia.org/wiki/Henrik_Ibsen">ഇബ്സനെ</ref>
+മാതൃകയാക്കി അംഗീകരിച്ചതിനും പ്രത്യേകന്യായങ്ങൾ ഉണ്ടു്. യുറോപ്യൻ നാടക പ്രസ്ഥാനത്തിനുതന്നെ
+ആരോഗ്യകരമായ ഒരു പരിവർത്തനം ഉണ്ടാക്കിയതു് ഇബ്സനാണു്. <ref target="https://ml.wikipedia.org/wiki/George_Bernard_Shaw">ബർനാഡ് ഷാ</ref>
+പോലും തനിക്കു് ഇബ്സനോടുള്ള കടപ്പാടിനെ എടുത്തുപറയുന്നുണ്ടു്. ഭാവത്തിലും രൂപത്തിലും ഇബ്സൻ
+മൗലീകമായ വ്യതിയാനങ്ങളവതരിപ്പിച്ചു. രൂപത്തിൽ, അദ്ദേഹം പരമ്പരാഗതമായ സാങ്കേതികനിയമങ്ങളെ
+നിരാകരിച്ചു് ഒരു പുതിയ സരണി വെട്ടിത്തുറന്നു. നാടകീയമെന്നു കരുതപ്പെട്ടിരുന്ന പലതും അദ്ദേഹം ഉപേക്ഷിച്ചു;
+അവ യഥാർത്ഥമെന്നു കണ്ടു് അവ യഥാർത്ഥമാണെന്ന ന്യായത്തിന്മേൽ അതുവരെ നാടകത്തിൽനിന്നു്
+ഒഴിച്ചുനിർത്തിയിരുന്ന പലതും ഇബ്സൻ രംഗത്തിലേക്കു കൊണ്ടുവരികയും ചെയ്തു. ഈ മാറ്റങ്ങൾക്കെല്ലാം
+ഒരുനിയമമേ ഉണ്ടായിരുന്നുള്ളൂ—കഥാവസ്തുവിനെ ഏറ്റവും ഫലവത്തായരീതിയിൽ പ്രകടിപ്പിക്കുക എന്നതു്.
+കഥാവസ്തുവാകട്ടെ അടിസ്ഥാനപരമായി മാറുകയും ചെയ്തു. അഭിനയിച്ചു രസിക്കുക എന്ന ഉദ്ദേശ്യം മാത്രമേ
+സാധാരണനാടകങ്ങൾക്കുണ്ടായിരുന്നുള്ളൂ. ഇബ്സൻ ചിന്തിപ്പിക്കുവാൻവേണ്ടി നാടകങ്ങൾ എഴുതി. പ്രശ്നങ്ങളും
+ആശയങ്ങളും അഭിപ്രായങ്ങളുമായി നാടകത്തിന്റെ കാതൽ. മനുഷ്യന്റെ മാനസികവും സാമൂഹ്യവുമായ പ്രശ്നങ്ങൾ
+നാടകീയ പ്രതിപാദ്യത്തിനു സ്വീകരിക്കപ്പെട്ടു. സോദ്ദേശ്യമായ സാഹിത്യത്തിന്റെ ഒരു വിശിഷ്ടവിജയമായിരുന്നു
+ഇതു്. ഇത്തരം നാടകങ്ങൾ കാണികൾക്കു രസിക്കുകയില്ലെന്നും ധരിക്കേണ്ട ആവശ്യമില്ല. ഉത്സവം കണ്ടു
+രസിക്കുകയെന്നതുപോലെയുള്ള രസം അതിൽനിന്നുണ്ടായില്ലെന്നുവരാം. പക്ഷേ, രംഗത്തു പ്രദർശിപ്പിക്കപ്പെടുന്ന
+സംഭവഗതികൾ ജനസാമാന്യത്തിൽ ഭൂരിപക്ഷത്തിന്റെയും അനുഭവങ്ങളോടു സാദൃശ്യമുള്ളവയാകയാൽ
+പ്രേക്ഷകർ അവ മനസ്സിലാക്കുകയും അവയോടൊത്തു ചിന്തിക്കുകയും ചെയ്യുമെന്നുറപ്പുണ്ടു്. സാമൂഹ്യജീവിതം
+പൊതുവെ തകർന്നുവീഴുന്ന ഒരു കാലഘട്ടത്തിൽ ആ തകർച്ചയെ ശാസ്ത്രീയമായി അപഗ്രഥിക്കുന്ന
+ഇതിവൃത്തങ്ങൾ സ്വാഗതം ചെയ്യപ്പെടുകയും ചെയ്യും. ഈ ലക്ഷ്യത്തിനു ഉപകരിക്കുക എന്നതുമാത്രമേ
+സാങ്കേതികരീതികൾ പരിഷ്ക്കരിക്കുന്നതിനെ സംബന്ധിച്ചു് ഒരു തത്ത്വമായിട്ടംഗീകരിക്കാവൂ ഇബ്സൻ തന്റെ
+ചുറ്റുപാടും കണ്ട അന്തരീക്ഷത്തിന്റെ ഒരു ഛായയാണു് എൻ. കൃഷ്ണപിള്ളയ്ക്കും അനുഭവപ്പെട്ടതു്. കലയോടും
+സമുദായത്തോടും ഇബ്സൻ ചെയ്തതുതന്നെ കൃഷ്ണപിള്ളയും ചെയ്യാൻ ശ്രമിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ibsen.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇബ്സൻ</figDesc>
+          </figure>
+          <p> ഭഗ്നവനം, കന്യക, ബലാബലം എന്നിവയാണു് കൃഷ്ണപിള്ളയുടെ പ്രധാനപ്പെട്ട നാടകങ്ങൾ. ഇവയിൽ
+ആദ്യത്തേതു് ഇബ്സന്റെ സാങ്കേതിക മാർഗ്ഗത്തെ അനുകരിക്കുവാനും രണ്ടാമത്തേതു് ഇബ്സനെ അനുഗമിച്ചു
+വിഷയം സ്വീകരിക്കുവാനും ചെയ്ത പരിശ്രമങ്ങളാണെന്നു ഗ്രന്ഥകാരൻ പറയുന്നുണ്ടു്. ഭഗ്നഭവനത്തിൽ
+
+അംഗീകൃതവിവാഹനടപടികളെ മുഴുവനോടെ പിച്ചിച്ചീന്തുകയാണു്. പൊട്ടിത്തെറിക്കുവാൻ പോകുന്ന
+ഒരഗ്നിപർവതംപോലെ വിധി ഭഗ്നഭവനത്തിനു മീതെ കാത്തു നിൽക്കുകയാണു്. ഒരു വ്യക്തിയേയും ഒഴിച്ചുവിടാതെ
+ആ ഭവനത്തെ ഇരുളിലാഴ്ത്തിക്കൊണ്ടു് വിധി അതിന്റെ നാരകീയകർമ്മം നിർവഹിക്കുന്നു. എങ്കിലും, ഈ
+ദുരന്തത്തിലൊന്നും വ്യക്തികൾക്കു യാതൊരുത്തരവാദിത്വവുമില്ല എന്നു വാദിക്കുവാനും നാടകകൃത്തു
+തയ്യാറായില്ല. കാമുകൻ ധനികനാണെന്നു കണ്ടു മാറിക്കളയുന്ന യുവതി ത്യാഗത്തിനു് ഒരു
+ബീഭത്സവേഷമണിയിക്കുകയാണു ചെയ്യുന്നതു്. അവളുടെ അനുജത്തിയും അനുഷ്ഠിക്കുന്ന പതിഭക്തി
+ആദർശപ്രേമത്തിലും അതിരുവേണമെന്നു തെളിയിക്കുന്നതാണു്. ഭർത്താവിനോടുള്ള സ്നേഹം ‘സതി’യിലേക്കു
+നയിച്ചാൽ അതു് അപകടമാണു്. ഭഗ്നഭവനത്തിന്റെ ഇതര പാത്രങ്ങളും ഇതുപോലെ ദുരന്തസൃഷ്ടിയിൽ വിധിയെ
+സഹായിക്കുന്നുണ്ടു്. സാങ്കേതികമായിട്ടുമാത്രം ഇബ്സനെ അനുകരിക്കുവാൻ പുറപ്പെട്ട കൃഷ്ണപിള്ള
+ചെന്നെത്തിയതു് ഉള്ളടക്കത്തിലും ഇബ്സന്റേതുപോലെ ഉത്തമമായ ഒരു നാടകത്തിലാണു്. ഉള്ളടക്കത്തിൽ
+ഇബ്സൻ സമ്പ്രദായത്തെ അനുകരിച്ചു രചിച്ചതാണു് ‘കന്യക.’ സ്ത്രീസ്വാതന്ത്ര്യത്തിന്റെ പേരിൽ ഈ നാടകം ഒരു
+പിന്തിരിപ്പൻ കൃതിയായി ഗണിക്കുന്നവരുണ്ടു്. ഇന്നു സമുദായത്തിൽ സ്ത്രീകൾക്കുള്ള സ്ഥാനം പല
+ശതാബ്ദങ്ങളിലെ സമരംകൊണ്ടു ലഭിച്ചതാണെന്നും സാമ്പത്തികപ്രശ്നം പരിഹരിച്ചുകഴിഞ്ഞാലും ഒരു സ്ത്രീ
+വിവാഹത്തിനാഗ്രഹിക്കൂ എന്ന പ്രസ്താവന പിന്തിരിപ്പനാണെന്നും അവർ കരുതുന്നു. പല വിവാഹങ്ങളും
+സാമ്പത്തികപരിഗണനകൾക്കുവേണ്ടിയാണു് നടക്കുന്നതെന്ന വാസ്തവം വിസ്മരിക്കാതെതന്നെ പറയുവാൻ
+കഴിയും. വിവാഹത്തിൽ സാമ്പത്തികപരിഗണനയ്ക്കപ്പുറം ഒന്നുണ്ടെന്നുള്ളതു് പ്രത്യേകിച്ചും സാമ്പത്തികപ്രശ്നങ്ങൾ
+പരിഹരിക്കപ്പെട്ട ഒരു വ്യക്തിക്കു തീർച്ചയായും ലൈംഗികാസക്തി പ്രാധാന്യമാർജ്ജിക്കും. ഈ പരമാർത്ഥം
+ആരും നിഷേധിക്കുമെന്നു തോന്നുന്നില്ല. വൈവാഹികജീവിതം ഒരു സ്ത്രീയുടെ സ്വാതന്ത്ര്യത്തിനു്
+ഹാനികരമാകണമെന്നുമില്ല. ഏതായാലും വിവാഹംചെയ്യാൻ സൗകര്യം ലഭിക്കാതെ ഊറിക്കഴിയുന്ന പല
+ഉദ്യോഗസ്ഥകളും അനുഭവിക്കുന്ന വീർപ്പുമുട്ടൽ ചിത്രീകരിക്കുവാൻ നാടകകർത്താവിനു കഴിഞ്ഞിട്ടുണ്ടു്.
+നാടകത്തിന്റെ അവസാനത്തിൽ കന്യക സ്വന്തം ഭൃത്യനെ വിവാഹംചെയ്യാൻ തീരുമാനിക്കുന്നതു്
+യാഥാർത്ഥ്യമാണോ എന്നു സംശയിക്കേണ്ടതാണു്. അത്തരം ധീരത സ്വാഗതാർഹമാണു്. പക്ഷേ, അതു
+സംഭവിക്കാൻവിഷമമാണു്. രഹസ്യവേഴ്ചയാണു കൂടുതൽ സ്വാഭാവികം—ആചാരവിരുദ്ധമെങ്കിലും.
+</p>
+          <p>വിശ്വവ്യാപിയായ ഒരു പ്രശ്നത്തെയാണു് ‘ബിലാബല’ത്തിൽ അപഗ്രഥിച്ചിരിക്കുന്നതു്. അമ്മായിയമ്മയും
+മരുമകളും തമ്മിലുള്ള മാത്സര്യമാണു് ഇതിവൃത്തം. മറ്റൊരു വീക്ഷണകോണത്തൽനിന്നു് അതിനെ
+അമ്മായിയമ്മപ്പോരെന്നും വിളിക്കാം. കേവലം ശാസ്ത്രപരമായ ഒരു പ്രാധാന്യം മാത്രമല്ല ഈ പ്രശ്നത്തിനുള്ളതു്.
+സാമുദായികജീവിതത്തിന്റെ ഇന്നത്തെ അടിസ്ഥാനമായ കുടുംബജീവിതത്തെ ആകെ ദുഷിപ്പിക്കുന്ന ഒന്നാണു്
+ഈ പ്രശ്നം. ദമ്പതികൾ വിവാഹത്തോടുകൂടി പ്രത്യേകം വീട്ടിൽ താമസം തുടങ്ങുന്ന പതിവില്ലാത്ത കേരളത്തിൽ
+ഈ പ്രശ്നത്തിന്റെ പ്രാധാന്യം വളരെയധികമാണു്. അമ്മായിയമ്മപ്പോരിനെപ്പറ്റി രണ്ടഭിപ്രായഗതികളുണ്ടു്.
+ജീവിതശാസ്ത്രത്തെപ്പറ്റി രണ്ടു ഭിന്നതത്ത്വങ്ങളുള്ളതിന്റെ പ്രതിഫലനമാണു് ഈ ആശയവൈരുദ്ധ്യം.
+ജീവരാശിയുടെ അടിസ്ഥാനപ്രേരണ ലൈംഗികമാണു്. അഥവാ സന്തത്യുല്പാദനാസക്തിയാണു്. ജീവികൾ
+ചെയ്യുന്നതെല്ലാം സ്വവർഗ്ഗത്തെ നിലനിറുത്തുവാൻവേണ്ടിമാത്രമാണു്. ഇതാണു് ഒരു സിദ്ധാന്തം.
+രണ്ടാമതൊരുവിധം ചിന്തകന്മാരുടെ അഭിപ്രായം ആത്മരക്ഷയാണു ജീവികളുടെ പ്രഥമലക്ഷ്യം. അതിനുവേണ്ടി
+അവർ ഭക്ഷണം തേടുകയും ശത്രുക്കളോടു പടവെട്ടുകയും ചെയ്യുന്നു. ഈ മനഃസ്ഥിതിയുടെ ഏറ്റവും ശക്തിയേറിയ
+പ്രകടനമാണു് അധികാരപ്രമത്തത. ആദ്യത്തെ വിഭാഗത്തിൽപ്പെട്ട ശാസ്ത്രജ്ഞന്മാർ പറയുന്നതു് രണ്ടു സ്ത്രീകൾ
+ഒരുപുരുഷനെ കൈവശപ്പെടുത്താൻവേണ്ടി ചെയ്യുന്ന സമരമാണു് അമ്മായിയമ്മപ്പോരെന്നാണു്.
+</p>
+          <p>ഈഡിപ്പസ് കോംപ്ലക്സ് എന്ന വിചിത്രഭാവത്തെ അവരുടെ വാദത്തിനു താങ്ങായി അവർ ഉന്നയിക്കുന്നുമുണ്ടു്.
+എല്ലാ അമ്മമാർക്കും സ്വന്തം പുരുഷപ്രജകളോടു് ഒളിഞ്ഞുകിടക്കുന്ന കാമവികാരമുണ്ടെന്നാണു് അവരുടെ മതം.
+ശരീരശാസ്ത്രപ്രകാരം ഇതിൽ അസാധാരണമായി ഒന്നുമില്ലെന്നു തെളിയിക്കുവാൻ അവർ കോഴി, കന്നുകാലി
+മുതലായ തിര്യക്കുകളുടെ ഇടയിൽ നടപ്പുള്ള മാതൃപുത്ര സംഭോഗത്തേയും എടുത്തു കാണിക്കുന്നു. ഈ
+തത്ത്വമനുസരിച്ചു മാതാവിനു് സ്വപുത്രനോടുള്ള കാമാസക്തി പുത്രന്റെ വിവാഹാവസരത്തിൽ ആളിക്കത്തും.
+തന്റെ പുത്രനുമായി ലൈംഗികബന്ധത്തിനു പ്രത്യേക അവകാശം സിദ്ധിച്ച ഒരു സ്ത്രീയുടെ സാന്നിദ്ധ്യത്തിൽ
+മാതാവു് മത്സരം തുടങ്ങുന്നുവത്രേ. ഇതു് പുത്രനോടു കൂടുതൽ താല്പര്യമായിട്ടും മരുമകളോടു് ദ്രോഹബുദ്ധിയായിട്ടും
+പ്രകടിപ്പിക്കപ്പെടും. ദമ്പതികളെ അകറ്റുന്നതിനു് ഉതകുന്ന എല്ലാ മാർഗ്ഗങ്ങളും അവർ സ്വീകരിക്കുകയും ചെയ്യും.
+മറ്റേക്കൂട്ടരുടെ അഭിപ്രായം അധികാരപ്രമത്തതയാണു് അമ്മായിയമ്മപ്പോരിനുള്ള കാരണമെന്നാണു്. തികച്ചും
+അടിമയെപ്പോലെ പെരുമാറുന്ന യുവതികളെപ്പോലും അമ്മായിയമ്മമാർ ദ്രോഹിക്കുന്നതിനെ ഈ
+തത്ത്വമനുസരിച്ചു വിശദീകരിക്കുവാൻ പ്രയാസമാണെങ്കിലും കൊല്ലും കൊലയും നടത്താനുള്ള ശ്രമം മനുഷ്യന്റെ
+ജന്മമവാസനയാണെന്നു സമ്മതിച്ചേതീരൂ. കൃഷ്ണപ്പിള്ള രണ്ടാമത്തെ അഭിപ്രായത്തോടാണു് കൂടുതൽ
+യോജിക്കുന്നതു്. ലക്ഷ്മിയമ്മ തന്റെ അധികാരത്തെപ്പറ്റി വീരവാദം മുഴക്കിക്കൊണ്ടാണു് നാടകം
+ആരംഭിക്കുന്നതുതന്നെ. അനന്തരരംഗങ്ങളിലും—“ഞാനിവിടെയുള്ളപ്പോൾ ഇതൊന്നും നടക്കുകയില്ല” എന്ന
+ഭാവമാണു് കാണുന്നതു്. ഭർത്താവിനെ ഭരിച്ചു വശമാക്കിയ അധികാരപ്രമത്തത പ്രകൃത്യാ ഉള്ള
+ഭരണാസക്തിയോടുകൂടിയോജിച്ചു് ലക്ഷമിയമ്മയെ സ്വാധീനപ്പെടുത്തുന്ന, പുത്രനെ കൈവശപ്പെടുത്താൻ
+വന്നിരിക്കുന്ന പുതുപെണ്ണിനോടു് അവർ സമരം പ്രഖ്യാപനംചെയ്യുന്നു. ആ അമ്മയുടെ ആവനാഴിയിലുള്ള പ്രധാന
+ആയുധം അവരുടെ അച്ഛൻ മരിച്ചതിൽപ്പിന്നെ കുട്ടികളെ വളർത്താൻ അവർ വളരെ പ്രയത്നിച്ചു എന്നതാണു്. ഈ
+
+അവകാശവാദം അത്രയ്ക്കു് അർത്ഥശുന്യവുമല്ല. അവരതു പറയുന്നതിൽ വളരെ ആത്മാർത്ഥതയുമുണ്ടു്.
+അതിന്റെകൂടെ സ്വാർത്ഥത കൂട്ടിക്കുഴക്കുന്നതു് സ്ത്രീസ്വഭാവത്തിന്റെ ഒരു പ്രത്യേകതയാണെന്നു ഗണിച്ചാൽമതി.
+ഇത്തരം വൈരുദ്ധ്യങ്ങൾ ലക്ഷ്മിയമ്മയുടെയും പങ്കജത്തിന്റെയും പെരുമാറ്റത്തിൽ കാണുന്നുണ്ടു്. പങ്കജം
+ഭർത്താവിനോടുയാത്ര പറയുമ്പോഴത്തെ വിശദീകരണം അതിനുദാഹരണമാണു്. ഇത്രയും പറഞ്ഞുകൊണ്ടു്
+ഒന്നാമത്തെ സിദ്ധാന്തം കൃഷ്ണപിള്ളപൂർണ്ണമായി പരിത്യജിച്ചിട്ടുണ്ടെന്നു തെളിയുന്നില്ല. ശേഖരൻ “ചുമരിൽ
+തുക്കിയിട്ടിരിക്കുന്ന ചിത്രത്തിനു ജീവൻ ഉണ്ടായതുപോലെ” ഇരിക്കുന്നു. ശേഖരന്റെ അച്ഛൻ വളരെ പണ്ടുതന്നെ
+മരിച്ചതാണെന്നുപറയുന്നു. അതു് അഭിനയസൗകര്യത്തിനുവേണ്ടി നാടകകൃത്തുചെയ്ത ഒരു കടുംകൈ അല്ല.
+വാർദ്ധക്യത്തിനു മുമ്പുതന്നെ വിധവകളായിത്തീരുന്ന സ്ത്രീകൾ ഈഡിപ്പസ് കോംപ്ലസിസിനു്
+അടിമകളായിത്തീരാൻ എളുപ്പമുണ്ടെന്നാണു് മനശ്ശാസ്ത്രജ്ഞന്മാർ പറയുന്നതു്. വിധവകളാണു് കൂടുതൽ
+ഭയങ്കരമായി അമ്മായിയമ്മപ്പോരുണ്ടാക്കുന്നതെന്നും അവർ പറയുന്നു. ലൈംഗികാസക്തി കൃത്രിമമായി
+ഒതുക്കിവെച്ചാൽ അതു് ഒരുവക ഞരമ്പുരോഗമായിത്തിരും. ഈ രോഗം ബാധിച്ചാൽ സാധാരണഗതിയിലുള്ള
+ലൈംഗികാനുഭവങ്ങളെ വെറുത്തുതുടങ്ങും. സ്വയം വേദനിപ്പിക്കുകയോ അല്ലെങ്കിൽ അന്യനെ വേദനിപ്പിക്കുകയോ
+ചെയ്യുക ഇത്തരം രോഗികളുടെ പതിവാണു്. സേഡിസത്തിന്റെ ഒരു വകഭേദമാണു് അമ്മായിയമ്മപ്പോരെന്നും
+വന്നുകൂടായ്കയില്ല. ഒരേ വികാരത്തിന്റെ കാര്യത്തിലല്ലെങ്കിൽ അമ്മായിയമ്മയും മരുമകളും തമ്മിൽ മത്സരത്തിനു്
+സ്ഥാനമേ ഇല്ലെന്നു വാദിക്കുന്നവരും ഉണ്ടു്. കേരളത്തിൽതന്നെ ഒരു സമുദായത്തിലെങ്കിലും ചില
+അമ്മായിയമ്മമാർ പുത്രൻ ഭാര്യയെ സമീപിക്കാതിരിക്കുവാൻവേണ്ടി മരുമകളെ സ്വന്തം കിടക്കയിൽ
+കിടത്താറുണ്ടെന്നുള്ളതു് ഒരു പരമാർത്ഥം ആണു്. ലക്ഷ്മിയമ്മയുടെ പെരുമാറ്റത്തിൽ അല്പം ലൈംഗികത്വം
+പറ്റിനിന്നാൽ അതിലത്ഭുതപ്പെടാനില്ല.
+</p>
+          <p>പങ്കജം പരാജിതയായി വീടുവിടുകയാണു ചെയുന്നതു്. അത്തരം സംഭവങ്ങൾ സാധാരണയായി
+സംഭവിക്കാറുമുണ്ടു്. എങ്കിലും. അതു പൂർണ്ണമായി സ്വാഭാവികമാണെന്നു പറഞ്ഞുകൂടാ. അമ്മമാർക്കു പ്രത്യേക
+അധികാരങ്ങളെല്ലാമുണ്ടു്; സമ്മതിക്കാം. പക്ഷേ, ഭാര്യയ്ക്കും ചില ആയുധങ്ങൾ ഉണ്ടു്. തലയണമന്ത്രത്തെ
+തടുത്തുനിർത്താൻ കഴിവുള്ള ഭർത്താക്കന്മാർ ചുരുക്കമാണു്. എങ്കിലും. പങ്കജത്തിന്റെ പരാജയം
+സാമൂഹ്യവിമർശനം എന്ന ലക്ഷ്യം കുറേക്കൂടി വിജയകരമായി നിർവ്വഹിക്കുവാൻ സഹായിക്കുന്നുണ്ടു്. രണ്ടു
+മൂന്നുദശവത്സരങ്ങൾക്കു മുമ്പു് മറിയാമ്മനാടകം സമ്പാദിച്ച വിജയമാണു് ബലാബലവും ആർജ്ജിച്ചിരിക്കുന്നതു്.
+</p>
+          <p>കൃഷ്ണപിള്ളയ്ക്കു പുറമെ മറ്റു ചിലരും ഇബ്സൻ പ്രസ്ഥാനത്തിൽ പ്രവർത്തിച്ചിട്ടുണ്ടു്. പ്രേതങ്ങളും, മുല്ലയ്ക്കൽ
+ഭവനവും, കാട്ടുതാറാവും, ജനദ്രോഹിയും മലയാളത്തിലെത്തിയിട്ടുണ്ടു്. പാശ്ചാത്യനാടകപ്രസ്ഥാനത്തെപ്പറ്റി
+അറിയണമെന്നാഗ്രഹിക്കുന്നവർക്കു് ഈ പരിഭാഷകളും അനുകരണങ്ങളും സഹായകരമാണു്. കാലക്രമത്തിൽ
+അഭിപ്രായനാടകങ്ങളും പ്രശ്നനാടകങ്ങളും വർദ്ധിച്ചുവരുമെന്നു വിശ്വസിക്കാൻ മാത്രം ഭാഷയിലെ ഇബ്സൻ
+പ്രസ്ഥാനം വളർന്നിട്ടുണ്ടു്.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Bhashayile Ibson prasthanam (ml:
+ഭാഷയിലെ ഇബ്സൻ പ്രസ്ഥാനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-06-23. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Bhashayile Ibson prasthanam, സി. ജെ. തോമസ്, ഭാഷയിലെ ഇബ്സൻ പ്രസ്ഥാനം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  June 28, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:FishingCormorants.jpg">Fishing
+with Cormorants,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Frank_Finn">Frank Finn</ref>  .
+The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-bip.xml">Download document sources in
+TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-bip.pdf">Download PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഡോക്ടർ ചേലനാടൻ</title>
+          <title xml:lang="en" type="main">Doctor Chelanadan</title>
+        </title>
+        <author>Vallathol Vasudevamenon B. A.</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 25, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഡോക്ടർ ചേലനാടൻ</title>
+              <title xml:lang="en" type="main">Doctor Chelanadan</title>
+            </title>
+            <author>Vallathol Vasudevamenon B. A.</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Thoolikachithram</term>
+          <term>Vallathol Vasudevamenon B. A.</term>
+          <term>Doctor Chelanadan</term>
+          <term>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</term>
+          <term>ഡോക്ടർ ചേലനാടൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="thoolikachithram">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 25, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/the_Ruins_of_Olinda.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Frans_Post__View_of_the_Ruins_of_Olinda,_Brazil_-_WGA18190.jpg">View of the Ruins of
+Olinda, Brazil,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Frans_Post">Frans Post</ref>
+ (1612–1680). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഡോക്ടർ ചേലനാടൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഡോക്ടർ ചേലനാടൻ</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="gra">
+            <graphic url="images/chelanadan.jpg"/>
+            <figDesc>ഡോക്ടർ ചേലനാടൻ,
+ഫോട്ടോ കടപ്പാടു്: കോഴിപ്പുറത്ത് രാമചന്ദ്രൻ.</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>എഗ്മൂർ, റോയപ്പേട്ട എന്നീ സ്ഥലങ്ങളിൽ താമസിച്ചു ശീലിച്ചിട്ടുള്ളവരെല്ലാം തടിച്ച ‘ഫ്രെയിമുള്ള കണ്ണട വെച്ചു
+സ്ഥൂലശരീരനായ ഒരാൾ, ലോകത്തോടെല്ലാം സമാധാനത്തിലും സന്തോഷത്തിലും വർത്തിക്കുന്ന
+മുഖഭാവത്തോടുകൂടി, നടന്നു പോകുന്നതു കണ്ടിട്ടുണ്ടാവാനിടയുണ്ടു്. കുറച്ചു ദൂരം നടന്നുകഴിഞ്ഞതിനുശേഷം, ഹേയ്,
+താനൊരു റിക്ഷാവണ്ടിയിലല്ലാ സഞ്ചരിക്കുന്നതു്, അല്ലേ? റിക്ഷായിലാണു പോകേണ്ടതു്, എന്നു്
+ഓർമ്മിച്ചിട്ടെന്നപോലെ അദ്ദേഹം ഒരു റിക്ഷാക്കാരനെ വിളിക്കുന്നു. റിക്ഷയിൽ കയറുമ്പോൾ കേൾക്കുന്ന റിക്ഷാ
+വണ്ടിയുടെ ഞെരക്കം ശ്രദ്ധിച്ചു, അതിനോടു് സഹതാപം ജനിച്ചിട്ടെന്നപോലെ, റിക്ഷാക്കാരനോടും, “എന്താടോ,
+വണ്ടിക്കു ബലം പോരേ?” എന്നു സ്വതസ്സിദ്ധമായ ഫലിതസ്വരത്തിൽ ചോദിച്ചതിനു ശേഷം അതിൽ
+പതിഞ്ഞിരുന്നു് തന്റെ ഉദ്യോഗസ്ഥലമായ യൂണിവേഴ്സിറ്റിയെ ലാക്കാക്കി പോവുകയും ചെയ്യുന്നു. വഴിക്കു് ആരും
+പിടികൂടിയില്ലെങ്കിൽ യൂണിവേഴ്സിറ്റിയിൽ എത്തും. അതല്ലാ പിടികൂടിയെന്നിരിക്കട്ടെ, അന്നത്തെ ആ യാത്ര
+എവിടേക്കായിരിക്കും, എവിടെ ചെന്നവസാനിക്കും എന്നൊന്നും റിക്ഷയിലിരിക്കുന്ന ചേലനാടനുതന്നെ
+അറിഞ്ഞുകൂടാ. തന്നെക്കൊണ്ടു് ഉപയോഗമുള്ള ലോകത്തിലെ മറ്റുള്ളവരുടെ അപേക്ഷകളെയും
+ആവശ്യങ്ങളെയും ഇങ്ങനെ നിഷ്കാമമായ ഔദാര്യത്തോടെ മാനിച്ചു പോന്ന ചേലനാടനെപ്പോലെയുള്ള മറ്റൊരു
+മലയാളി ഇനി ഉണ്ടാവുക പ്രയാസമാണു്. ചേലനാടന്റെ ജീവിതത്തിന്റെ മഹത്തായ വിജയവും പക്ഷേ,
+പരാജയവും ഈ ‘പരകാര്യശ്രദ്ധ’ തന്നെയാവാം എന്നു പറയുവാൻ തോന്നിപ്പോകുന്നു.
+</p>
+          <p>ചിന്താശീലം ദ്യോതിപ്പിക്കുന്നതാണെങ്കിലും ഗൗരവം ചേലനാടന്റെ മുഖത്തു് ഒരിക്കലും കണ്ടതായി
+ഞാനോർക്കുന്നില്ല. ഉപയോഗിക്കേണ്ട വാക്കും വാസ്തവത്തിൽ ഗൗരവം എന്നല്ല. ചേലനാടനുണ്ടായിരുന്ന
+ഉദ്യോഗപ്രൗഢി, സ്ഥാനമാനങ്ങൾ, പേരും പെരുമയും എന്നിവ മറ്റൊരാൾക്കാണു കിട്ടിയിരുന്നതെങ്കിൽ
+അയാളുടെ മുഖത്തു്, അയാൾ അറിഞ്ഞോ അറിയാതെയോ, സ്ഥലം പിടിക്കാനിടയുള്ള ഒരുവക അനാശാസ്യമായ
+‘കന’ത്തെയാണു് ഗൗരവം എന്ന വാക്കു കൊണ്ടു ഞാൻ ഉദ്ദേശിച്ചതു്. തങ്ങളലങ്കരിക്കുന്ന സ്ഥാനത്തിന്റെ വലുപ്പം
+കൊണ്ടു് ‘കനം’ പിടിപ്പിക്കപ്പെടാൻ അനുവദിക്കാത്ത അധികം പേരെ കാണാൻ പ്രയാസമാണു്.
+അത്തരക്കാരെപ്പറ്റി ആലോചിക്കുമ്പോളെല്ലാം ചേലനാടന്റെ മലയാളത്തിലുള്ള ‘ചെസ്റ്റർട്ടൻ’ സ്വരൂപമാണു്, ആ
+കാര്യത്തിൽ അദ്ദേഹത്തിനു ചേർന്ന സ്വതസ്സിദ്ധമായ പ്രഥമസ്ഥാനാവകാശത്തെ മാനിക്കുന്ന മറ്റുള്ളവരുടെ
+ഇടയിൽനിന്നും, അവരുടെ സഹർഷമായ സമ്മതത്തോടുകൂടി മുന്നോട്ടു നടന്നുവരുന്നതു്.
+</p>
+          <p>നന്നേ ചെറുപ്പത്തിൽ എന്നുതന്നെ പറയാം, ചേലനാടനുമായി പരിചയപ്പെടാൻ എനിക്കു സന്ദർഭം
+ലഭിക്കുകയുണ്ടായി. അദ്ദേഹം അക്കാലത്തുതന്നെ യൂണിവേഴ്സിറ്റിയിലെ മലയാളവിഭാഗത്തിന്റെ തലവനാണു്.
+ഞാൻ ഹൈസ്കൂൾ ക്ലാസ്സിൽ പഠിക്കുന്ന ഒരു വിദ്യാർത്ഥിയും. വീട്ടിൽ മറ്റാരുമില്ല. ഒരു കുട്ടിയുടെ ചോറൂൺ
+പ്രമാണിച്ചാണെന്നു തോന്നുന്നു, മറ്റെവിടെയോ പോയിരിക്കയാണു്. അപ്രതീക്ഷിതമായി ആ സമയത്തു്
+ചേലനാടൻ വിരുന്നു വന്നു. അച്ഛന്റെ ഒരു വലിയ സ്നേഹിതനായിരുന്നതിനു പുറമേ, ഡോക്ടരുടെ പദവിയും
+പ്രശസ്തിയും ഞാനോർത്തു. അല്പം ഭയം കലർന്ന സങ്കോചത്തോടു കൂടി, അദ്ദേഹം അർഹിക്കുന്ന ആദരവോടെ,
+ചേലനാടനെ സ്വീകരിച്ചുപചരിക്കുവാൻ ഞാൻ ശ്രമിച്ചു. ആ ശ്രമവും ഉപചാരവും മറ്റും അദ്ദേഹം ശ്രദ്ധിച്ചുവോ
+എന്തോ! ഇല്ലെന്നാണു തോന്നുന്നതു്. കാരണം അദ്ദേഹത്തിന്റെ പെരുമാറ്റം അത്ര പരിചിതമായ മട്ടിലായിരുന്നു.
+തനിക്കു് ഇതിലിടയ്ക്കു് ഇത്ര സമ്മതനായ ഒരു തുല്യ സുഹൃത്തിനെ കിട്ടുക ഉണ്ടായിട്ടില്ലെന്ന ഭാവത്തിൽ അദ്ദേഹം
+എന്നോടു സംഭാഷണം ആരംഭിച്ചപ്പോൾ അല്പനേരത്തേക്കു് എനിക്കു തെല്ലൊരു അമ്പരപ്പുണ്ടാവാതിരുന്നില്ല.
+പക്ഷേ, അതും അധിക നേരം നിന്നില്ല. അദ്ദേഹത്തിന്റെ സംഭാഷണ ചതുരത അത്ര ഹൃദ്യവും, വർത്തമാനം
+പറഞ്ഞിരുന്ന വിഷയങ്ങൾ അത്ര രസം പിടിപ്പിക്കുന്നവയുമായിരുന്നു. അന്നും അദ്ദേഹം പറഞ്ഞ കഥകൾ
+എന്തൊക്കെയായിരുന്നു എന്നു ഞാൻ ശരിക്കും ഓർക്കുന്നില്ല. പഴയ പല ഐതിഹ്യങ്ങൾ, പഴമ്പുരാണങ്ങൾ
+തുടങ്ങി ഒരു വാരസ്യാരെപ്പറ്റിയുള്ള, അല്പം ഗ്രാമ്യമായ ഒരു കഥ വരെ അദ്ദേഹം പറഞ്ഞു എന്നാണു് എന്റെ ഓർമ്മ
+ആ സന്ദർശനത്തിനുശേഷം ചേലനാടനെപ്പറ്റി ഓർക്കുമ്പോളെല്ലാം അദ്ദേഹത്തിന്റെ കുടവയറിനെക്കാളും,
+
+അതിനെ താങ്ങി നിന്നു ക്ഷീണിച്ചു തൂങ്ങിക്കിടക്കുന്ന ‘ട്രൗസറി’നെക്കാളും, തടിച്ച കണ്ണടയെക്കാളും എല്ലാം
+ഒന്നാമതായി എനിക്കു് ഓർമ്മ വരുക ആ സൗഹാർദ്ദഭാവമാണു്. ഏതെങ്കിലും ഒരു പ്രത്യേക പ്രായക്കാർക്കോ
+കാലത്തിനോ ചേർന്ന ആളല്ല ചേലനാടൻ. എല്ലാ കാലത്തിന്റെയും, എല്ലാ പ്രായക്കാരുടെയും പ്രതിനിധിയാണു്
+എന്നു വിശ്വസിക്കാൻ തോന്നിപ്പോകുന്നു. കലക്കത്തു <ref target="https://ml.wikipedia.org/wiki/Kunjan_Nambiar">കുഞ്ചൻനമ്പ്യാരോ</ref> ടു
+ഫലിതങ്ങൾ പറഞ്ഞു് ആനന്ദിക്കുന്ന ഒരു രസികനായും, <ref target="https://ml.wikipedia.org/wiki/Thunchaththu_Ezhuthachan">തുഞ്ചത്തെഴുത്തച്ഛന്റെ</ref>
+സമീപം അദ്ദേഹം എഴുതിയ സ്തോത്രങ്ങൾ അനുസരണപൂർവ്വം പാടുന്ന ഒരു ഭക്തശിഷ്യനായും, <ref target="https://ml.wikipedia.org/wiki/Unnayi_Warrier">ഉണ്ണായിവാരിയരു</ref> ടെ
+അടുക്കൽ വാരിയർ എഴുതിയ ആട്ടക്കഥകളിലെ ചില പദങ്ങൾ തന്മയത്വത്തോടുകൂടി ചൊല്ലിയാടുന്ന ഒരു
+നടനായും ചേലനാടനെ വിഭാവനം ചെയ്യുവാൻ എനിക്കു തീരെ പ്രയാസം തോന്നുന്നില്ല. അതേസമയം തന്നെ,
+ശീമയിൽ പണ്ഡിതന്മാരുടെ ഒരു സദസ്സിൽ നിന്നുകൊണ്ടു പ്രാചീനകേരള സംസ്കാരത്തെയും കലകളെയും പറ്റി
+അഭിമാനപൂർവ്വം സംസാരിക്കുന്ന വിദഗ്ദ്ധനായ ഒരു യൂണിവേഴ്സിറ്റി പ്രഫസറായും അദ്ദേഹത്തെ മനസ്സിൽ
+ചിത്രീകരിക്കുവാൻ എനിക്കു കഴിയും. മേല്പറഞ്ഞതെല്ലാം നിവൃത്തിയില്ലാത്തതുകൊണ്ടു് താൻ കെട്ടുന്ന
+വേഷങ്ങളാണു്; തനിക്കേറ്റവും പ്രിയപ്പെട്ട കാര്യം, സുഖമായി ശാപ്പാടും കഴിച്ചു് ഇടയ്ക്കു് ഓരോ വെണ്മണി
+ശ്ലോകങ്ങൾ ഉദ്ധരിച്ചുകൊണ്ടു കൂട്ടുകാരുമൊരുമിച്ചു് ഗ്രാമ്യങ്ങളും അല്ലാത്തവയുമായ കഥകൾ പറഞ്ഞും വെടി
+പറഞ്ഞും രസിക്കുകയാണു് എന്നു തോന്നിക്കുന്ന തരത്തിൽ ലൗകിക ക്ലേശങ്ങളും പ്രാരാബ്ധങ്ങളും
+വിസ്മരിച്ചുകൊണ്ടു സരസമായി സംസാരിച്ചു സമയം കളയുവാൻ കഴിയുന്ന ഒരു ചേലനാടനെയും എനിക്കും
+ഏകസമയത്തിൽ ഓർക്കുവാൻ കഴിയും. നാനാവിധമായ ഈ പ്രാതിനിധ്യം, അല്ലെങ്കിൽ പ്രത്യേകത കാരണം
+ചേലനാടൻ ലൗകികതയുടെ നിത്യബാല്യം പൂണ്ട രൂപമാണോ എന്നു് ഇടയ്ക്കു ഞാൻ സംശയിച്ചു
+അത്ഭുതപ്പെടാറുണ്ടു്. “സർ, കുമ്മിയടി എങ്ങനെയാണു്? ഞങ്ങൾ കണ്ടിട്ടില്ല” എന്നു് ഒരാൾ പറഞ്ഞാൽ മതി,
+“വീരാ വിരാട കുമാരാ വിഭോ…” എന്ന പ്രസിദ്ധ പദം ചൊല്ലിക്കൊണ്ടു്, അഭ്യാസം സിദ്ധിച്ച കഥകളി
+നടന്മാരുടെ ആട്ടത്തെയും, ജന്മസിദ്ധമായ അംഗലാഘവമുള്ളതു കൊണ്ടും ലാളിത്യം കൂടുന്ന അംഗനമാരുടെ
+ചുവടുവെക്കലിനെയും അധഃകരിച്ചുകൊണ്ടു്, ചേലനാടൻ കുമ്മിയടിച്ചുതുടങ്ങും. ആ സമയം, സ്വതേ
+സർവ്വപ്രാധാന്യം സിദ്ധിച്ചുയർന്നു നില്ക്കുന്ന ആ ‘കുമ്പ’ എവിടെ പോയെന്നും ആരെങ്കിലും ചോദിക്കുകയാണെങ്കിൽ
+“ആ; അതാണു് അഭ്യാസം” എന്നു പറഞ്ഞുകൊണ്ടു് ഡോക്ടർ മറ്റൊരു അഭ്യാസം കാണിക്കുവാൻ തയ്യാറായി
+നിന്നുകഴിഞ്ഞിട്ടുണ്ടാവും. ഇതു പ്രായേണ ചെന്നവസാനിക്കുക, നിന്നനില്പിൽനിന്നും യാതൊരു
+അവലംബവുമില്ലാതെ പിന്നിലേക്കു് അല്പാല്പം ഞെളിഞ്ഞു തെഴുക്കുത്തി നില്ക്കുന്നതിലായിരിക്കും!
+കണ്ടുനില്ക്കുന്നവർക്കു ഭയം തോന്നും. ചേലനാടനാകട്ടെ, അതൊരു വെറും വിനോദം മാത്രമാണു്.
+</p>
+          <p>പിശുക്കന്മാർ പണം ചെലവിടുന്നതുപോലെ ജീവിതത്തെ അളന്നു തൂക്കി ചെലവിടുന്ന ഒരു തരക്കാരുണ്ടു്.
+അവർ എല്ലാം മുൻകൂട്ടി പ്ലാനിടുന്നു. നാളെ ഇത്രമണിക്കു് ഇന്നതു ചെയ്യണം; ഇന്നിന്ന സ്ഥലത്തു പോകണം;
+ഇന്നിന്ന ആളുകളെ കാണണം; എന്നു തുടങ്ങി ഒരു മിനിട്ടു കളയാതെ സർവ്വകാര്യങ്ങളും പ്രോഗ്രാമിട്ടു
+തീർച്ചപ്പെടുത്തുന്നു. ചേലനാടൻ ഇത്തരത്തിൽപ്പെട്ട ആളല്ല. മാത്രമല്ല, ഈ വിഷയത്തിൽ ഒരു
+മഹാധൂർത്തനുമാണു്. ബൈബിളിൽ പറയുന്ന ‘ധൂർത്തപുത്രനേ’ക്കാൾ ധാരാളിയാണു്. ‘നാളത്തെ കാര്യം നാളെ’
+എന്ന ലഘുവും എളുപ്പമുള്ളതുമായ മാർഗ്ഗമാണു് ജീവിതത്തെ സംബന്ധിച്ചിടത്തോളം ചേലനാടൻ
+സ്വീകരിച്ചിരുന്നതെന്നു തോന്നും. ഇപ്പോൾ നടക്കേണ്ടതു നടക്കട്ടെ; മറ്റെല്ലാം പിന്നെ, എന്ന ഭാവത്തിലല്ലാതെ,
+യാതൊന്നും മുൻകൂട്ടി പ്ലാനിട്ടു നടത്താൻ ചേലനാടൻ പ്രകൃത്യാ ശക്തനായിരുന്നില്ല. തന്റെ കോട്ടു പോക്കറ്റിൽ
+എന്തെല്ലാം സാധനങ്ങളാണു് കിടക്കുന്നതു് എന്നതിനെപ്പറ്റിപ്പോലും അന്വേഷിക്കുവാൻ ഉദാസീനനായ ഒരാൾ
+എങ്ങനെ ‘നാളത്തെ’ പ്രോഗ്രാമിനെപ്പറ്റിയുള്ള പ്ലാനുകൾ മുൻകൂട്ടി ഉണ്ടാക്കിവെയ്ക്കും!
+</p>
+          <p>ഇതു കാരണം മുൻകൂട്ടി വിവരം അറിയിക്കാതെ ചെല്ലുന്ന ആർക്കും എപ്പോൾ വേണമെങ്കിലും ചേലനാടനെ
+ചെന്നു പിടികൂടാം. മുൻകൂട്ടി വിവരം കൊടുത്തു ചെല്ലുന്ന ആൾക്കായിരിക്കും അദ്ദേഹത്തെ കിട്ടാൻ പ്രയാസം. ഇതു
+മനഃപൂർവ്വം ചേലനാടൻ ഉണ്ടാക്കിത്തീർക്കുന്ന വിഷമമല്ല. ഒരാൾ ഇത്രമണിക്കു ചേലനാടനെ കാണാൻ
+ചെല്ലാമെന്നു് മുൻകൂട്ടി വിവരം കൊടുത്തു എന്നിരിക്കട്ടെ. ഓ, ശരി എന്നു ചേലനാടൻ സമ്മതം മൂളും, പക്ഷേ,
+അതിലിടയ്ക്കു്, വിവരമൊന്നും കൊടുക്കാത്ത ഒരാൾ, പെട്ടെന്നു കയറിച്ചെന്നു പറയുകയാണു്: “സർ,
+ഇപ്പോൾത്തന്നെ എന്റെകൂടെ ഒന്നു വരണം. ഒരു അടിയന്തിരകാര്യമാണു്. ഒമ്പതുമണിക്കുമുമ്പു ചെന്നില്ലെങ്കിൽ
+കാര്യം തകരാറാവും. എന്റെ മകന്റെ അഡ്മിഷൻ കാര്യമാണു്” എന്നു് അയാൾ ഉൽക്കണ്ഠയും വ്യസനവും
+പ്രദർശിപ്പിച്ചുകൊണ്ടു നില്ക്കുന്നു. “ശരി,” എന്നു പറഞ്ഞു ചേലനാടൻ പുറപ്പെട്ടു. ആ വന്ന ആളുടെ
+വിഷണ്ണഭാവത്തിൽ മറ്റെല്ലാം മറന്നു. തല്ക്കാലം നടക്കേണ്ടതു നടക്കട്ടെ; പിന്നത്തെ കാര്യം പിന്നെ എന്ന
+പ്രമാണം, തന്റെ കാര്യങ്ങളിലെന്നപോലെ, ചേലനാടൻ മറ്റുള്ളവരുടെ കാര്യത്തിലും താനറിയാതെ
+ആദരിച്ചുപോന്നിരിക്കണം. അതുകൊണ്ടു മുൻകൂട്ടി ‘എൻഗേജ്മെന്റ്’ നിശ്ചയിച്ച ആൾ വീട്ടിൽ വരുമ്പോൾ
+ചേലനാടൻ കൃത്യം വീട്ടിൽ നിന്നു പുറമേ പോയിരിക്കും. വരുന്ന ആൾക്കു് തന്നിമിത്തം ഉണ്ടാകുന്ന അസൗകര്യം
+അനിവാര്യമാണു്. പക്ഷേ, മനഃപൂർവം ഡോക്ടർ വരുത്തിവെക്കുന്നതല്ല അതു്. അതിന്റെ ഉത്തരവാദിത്വം മുഴുവൻ
+സന്ദർഭങ്ങൾക്കും അവയുണ്ടാക്കിത്തീർക്കുന്ന സാഹചര്യങ്ങൾക്കുമാണു്. ചിലസമയത്തു് ഇത്തരം സംഭവങ്ങൾ
+കൂടുതൽ ആകർഷകമാക്കിത്തീർക്കുന്ന ഒരു മറവി ചേലനാടനെ പിടികൂടാറുണ്ടു്: തന്നെ കൊണ്ടുപോയ ആളും
+
+വരാമെന്നു മുൻകൂട്ടി വിവരം തന്ന ആളും ഒരാൾതന്നെയാണെന്നു് അദ്ദേഹം ചിലപ്പോൾ ധരിച്ചുവശാവുന്നു.
+അങ്ങനെ വന്നാൽ, താൻ മറ്റൊരാൾക്കു് അസൗകര്യം ഉണ്ടാക്കിത്തീർത്തില്ലേ എന്ന ധാരണ പോലും
+അദ്ദേഹത്തിന്നുണ്ടാവില്ല. പരകാര്യപ്രസക്തി ഉത്തരവാദിത്വം ഏറ്റെടുക്കേണ്ട ഈ തെറ്റിദ്ധാരണയ്ക്കു് അതിന്റെ
+അനിഷേധ്യമായ നിഷ്കളങ്കത പ്രായശ്ചിത്തം വഹിക്കുന്നതുകൊണ്ടു ചേലനാടന്റെ ഈ മറവി, പലരുടെയും
+ഓർമ്മയിൽ, ഒരു ദൗർബ്ബല്യത്തിന്നു പകരം. അദ്ദേഹത്തിന്റെ ആകർഷകമായ ഒരു സ്വഭാവ വിശേഷമായി
+തങ്ങിനില്ക്കുന്നുണ്ടാവണം എന്നു ഞാൻ ഊഹിക്കുന്നു.
+</p>
+          <p>മദ്ധ്യകാലവും ആധുനിക കാലവും കൂടിച്ചേരുന്ന ഒരു ‘റൊമാന്റിക്’ സ്ഥാനത്താണു് ചേലനാടന്റെ നിൽപ്പു്.
+വടക്കൻപാട്ടുകളും, ആട്ടക്കഥകളും, തുള്ളലുകളും, മണിപ്രവാള ശ്ലോകങ്ങളും ഇഷ്ടപ്പെടുന്ന അതേ
+താൽപര്യത്തോടുകൂടി <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോളി</ref>
+നെയും <ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">ആശാനെ</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/Ulloor_S._Parameswara_Iyer">ഉളളൂരി</ref>
+നെയും സ്വീകരിക്കുന്ന ഒരു പ്രാചീന നായർ തറവാട്ടിലെ, ഇംഗ്ലീഷ് വിദ്യാഭ്യാസം സിദ്ധിച്ച,
+പുരോഗമനോന്മുഖനായ, ഒരു സാഹിത്യകാരനായിട്ടാണു് ചേലനാടൻ പുറത്തു വന്നതു്. വളരെക്കാലം മുമ്പു്
+അദ്ദേഹം തുടങ്ങുകയും കുറച്ചുകാലം ഭേദപ്പെട്ടനിലയിൽ നടത്തുകയും ചെയ്ത ഒരു മാസിക ഞാനിവിടെ ഓർക്കുന്നു.
+‘അരുണോദയം’ എന്നായിരുന്നു അതിന്റെ പേർ. ഇരുട്ടിനെ നീക്കി പ്രകാശം പരത്താൻ തുടങ്ങുന്ന ഒരു
+പ്രഭാതത്തിന്റെ നാന്ദിയെ സൂചിപ്പിക്കുന്ന സൂത്രധാരനായിട്ടേ താൻ സ്വയം കരുതുന്നുള്ളു എന്നു ചേലനാടൻ
+കരുതിയിരുന്ന പോലെ തോന്നും. അതുകൊണ്ടു് അദ്ദേഹം തൃപ്തനുമായിരുന്നു. ‘അരുണോദയ’ത്തിലെ
+മഞ്ഞണിഞ്ഞ ഇളംവെയിലിൽ ഭൂതകാലത്തിന്റെ ഹൃദ്യമായ തണുപ്പും വർത്തമാനത്തിൽ രക്തത്തുടുപ്പുള്ള ഇളം
+ചൂടും കിടപ്പുണ്ടു്. ആ ‘ചൂടു’കൊണ്ടു് ചേലനാടൻ തൃപ്തനായിരുന്നു. അതിലധികം ‘ചൂടും’ ആവശ്യപ്പെടുന്നവർ
+ക്ഷമകേടുകാട്ടി മുന്നോട്ടു് ഓടുകയാണെങ്കിൽ, ഓടിക്കൊള്ളട്ടെ. ചേലനാടനു കലഹമില്ല. എഴുത്തച്ഛന്റെ
+സ്തോത്രങ്ങളും ആട്ടക്കഥകളിലെ ഗാനമാധുരി ചൊരിയുന്ന പദങ്ങളും പാടിക്കൊണ്ടു, ഇഷ്ടമുള്ള കൂട്ടുകാരുമായി
+അവ പങ്കിട്ടുകൊണ്ടും, ഇരുട്ടൊഴിഞ്ഞ ‘അരുണോദയ’ത്തിലെ തണുപ്പു വിടാത്ത ചൂടുകൊണ്ടു് താൻ
+തൃപ്തനായിക്കൊള്ളാം എന്നായിരുന്നു ചേലനാടന്റെ സാഹിത്യത്തിലെ നിലപാടു് എന്നു തോന്നും.
+</p>
+          <p>ഈ ശാലീനത ചേലനാടനെ പഴയ മട്ടുകാരുടെയും പുതിയ സാഹിത്യ പ്രവർത്തകന്മാരുടെയും കൂടിക്കാഴ്ചയ്ക്കും
+യോജിപ്പിന്നും സഹായിക്കുന്ന ഒരു നല്ല മദ്ധ്യസ്ഥനാക്കിത്തീർത്തു. മദ്ധ്യസ്ഥൻ എന്നല്ല, സ്ഥാപനം എന്നാണു
+പറയേണ്ടതു്. കാരണം, സാഹിത്യത്തിൽ മാത്രമല്ല, മലയാളികളുടെ സാമൂഹ്യജീവിതത്തിൽത്തന്നെ, ഒരാൾ
+എന്നതു വിട്ടു, ഒരു സ്ഥാപനത്തിന്റെ പ്രാധാന്യം ചേലനാടനു കിട്ടിവന്നിരുന്നു. ചേലനാടന്റെ സഹായം ആർക്കും
+എപ്പോൾ വേണമെങ്കിലും തേടി പോകാം. മറ്റൊരാൾ അതിനിടയ്ക്കു് അദ്ദേഹത്തെ
+റാഞ്ചിക്കൊണ്ടുപോയിട്ടില്ലെങ്കിൽ, ചേലനാടന്റെ സഹായം ആ ചെന്ന ആൾക്കു ലഭിക്കുമെന്നുള്ളതു തീർച്ചയാണു്.
+തന്റെ ശ്രമത്തിൽ എപ്പോഴും അദ്ദേഹം വിജയിക്കാറില്ലായിരിക്കാം. ഫലം. എന്തായാലും,
+ശുഭാപ്തിവിശ്വാസത്തോടുകൂടി നമ്മുടെ കാര്യത്തിൽ യഥാശക്തി സഹായിക്കാൻ തയ്യാറായിട്ടുള്ള ഒരാളെ കിട്ടുക
+എന്നതു തന്നെ എന്തൊരാശ്വാസമാണു്! അദ്ദേഹത്തിന്റെ കൂടെ സഞ്ചരിക്കുന്നതാകട്ടെ, ഒരേസമയത്തു്
+വിനോദകരവും വിജ്ഞാനപ്രദവുമായിരുന്നു. ഇതിനു പ്രധാനകാരണം, അദ്ദേഹത്തിന്റെ പക്കലുള്ള കഥയുടെ
+അക്ഷയപാത്രം അവസാനിക്കില്ല എന്നുള്ളതാണു്. ആ കഥകൾ പറയുന്നതാകട്ടെ, ഒരിക്കലും തന്റെ പാണ്ഡിത്യ
+പ്രകടനത്തിന്നായിക്കൊണ്ടല്ല, കേൾക്കുന്നാളുകളുടെ വിനോദത്തിന്നാണു് തനിക്കും ആ വിഷയത്തിലുള്ള
+പാണ്ഡിത്യത്തിന്റെ പരിധി എത്രയാണെന്നുള്ള കഥപോലും ചേലനാടൻ എപ്പോഴെങ്കിലും ഓർക്കാറുണ്ടോ
+എന്നുള്ളതു സംശയമാണു്. അദ്ദേഹത്തിന്റെ കഥകൾ കേട്ടുകൊണ്ടിരിക്കുമ്പോൾ മറ്റു സർവ്വകാര്യങ്ങളും വിസ്മരിച്ചു,
+കഥകളിലെ ഇതിവൃത്തമനുസരിച്ചു, നാം തച്ചോളി ഒതേനൻ നാട്ടിലോ, മഴമംഗലത്തിന്റെകൂടെയോ, കുഞ്ഞൻ
+പണിക്കർ, ശങ്കരപ്പണിക്കർ തുടങ്ങിയ കഥകളി വേഷക്കാരുടെ ഒപ്പമോ, ഒടിയന്മാരുടെയും കുട്ടിച്ചാത്തന്മാരെ
+സേവിക്കുന്നവരുടെയും കൂടെയോ ജീവിക്കുന്നു. കുട്ടികളെയും മുതിർന്നവരെയും വൃദ്ധന്മാരെയും ഒരുപോലെ
+ആകർഷിക്കാൻ കഴിയുന്ന ചേലനാടന്റെ കഥാകഥനപാടവം ഓർക്കുമ്പോൾ അദ്ദേഹം ഇപ്പോഴും അടുത്തിരുന്നു
+കഥ പറയുന്ന പോലെ തോന്നുന്നു. <ref target="https://ml.wikipedia.org/wiki/Robinson_Crusoe">റോബിൻസൺ
+ക്രൂസോ</ref> വിനെയോ മറ്റോ പോലെ ഒരു വിജനമായ ദ്വീപിൽ ഏകാന്ത ജീവിതം നയിക്കേണ്ട ഒരു
+സന്ദർഭം വരുകയും കൂട്ടുകാരനായി ഒരാളെ വേണമെങ്കിൽ കൂടെ താമസിക്കുവാൻ തരാമെന്നു ആരെങ്കിലും
+ഔദാര്യപൂർവ്വം ഏല്ക്കുകയും ചെയ്താൽ ആ ആൾ ആരായിരിക്കണമെന്നതിനെപ്പറ്റി ചേലനാടനെ
+പരിചയമുള്ളവർക്കു സംശയമുണ്ടാവില്ല. പക്ഷേ, ഇനി എന്തു ചെയ്യും? ആ കഥാകാരനും കഥകളും മറ്റൊരു
+ലോകത്തിൽ പോയിക്കഴിഞ്ഞു! അദ്ദേഹത്തിന്റെ നിഷ്കളങ്കമായ സൗഹൃദവും പരോപകാര തല്പരതയും
+ഓർമ്മയുള്ളവരാകട്ടെ, അത്തരമൊരു നല്ല ‘അമ്മാമനെ’ കാണുവാൻ ചുറ്റും വൃഥാ തിരഞ്ഞുനോക്കുന്നു!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/vvmenon.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>കുറ്റിപ്പുറത്തു് കേശവൻ നായരുടെയും വള്ളത്തോൾ അമ്മാളുക്കുട്ടി അമ്മയുടെയും മകനായി 1916-ൽ ജനിച്ചു.
+1968-ൽ ഒരു കാറപകടത്തിൽ മരിച്ചു. മലയാളത്തിൽ വളരെയധികം എഴുതീട്ടില്ലെങ്കിലും ശ്രദ്ധിക്കപ്പെട്ട
+എഴുത്തുകാരനായിരുന്നു വി വി. കേസരി ബാലകഷ്ണപിള്ള ഇദ്ദേഹത്തിന്റെ <ref target="https://books.sayahna.org/ml/pdf/kesarikalavandi.pdf">കാളവണ്ടി</ref> എന്നകഥയെപ്പറ്റി ഒരു വിമർശനം
+എഴുതീട്ടുണ്ടു്.
+</p>
+          <div type="subsection" xml:id="sec0.0.0.0.1" n="0.0.0.0.1">
+            <head type="subsechead">കൃതികൾ</head>
+            <list rend="bulleted">
+              <item>കാളവണ്ടി </item>
+              <item>മാരാരും കൂട്ടരും </item>
+              <item>രംഗമണ്ഡപം </item>
+              <item>എവറസ്റ്റാരോഹണം </item>
+              <item>ഇന്നത്തെ റഷ്യ </item>
+              <item>സന്ധ്യ </item>
+              <item>Quest—(ജി. ശങ്കരക്കുറുപ്പിന്റെ ഓടക്കുഴൽ എന്ന സമാഹാരത്തിന്റെ ഇംഗ്ലീഷ് പരിഭാഷ) </item>
+            </list>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.1/1.2.0"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Doctor Chelanadan (ml: ഡോക്ടർ
+ചേലനാടൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Vallathol Vasudevamenon B.
+A..</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Thoolikachithram, Vallathol
+Vasudevamenon B. A., Doctor Chelanadan, വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ., ഡോക്ടർ
+ചേലനാടൻ, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 25, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Frans_Post__View_of_the_Ruins_of_Olinda,_Brazil_-_WGA18190.jpg">View of the Ruins of
+Olinda, Brazil,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Frans_Post">Frans Post</ref>
+ (1612–1680). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/vv-chelanadan.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/vv-chelanadan.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

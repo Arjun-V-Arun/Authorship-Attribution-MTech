@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചങ്ങലയ്ക്കു് ഭ്രാന്തിളകുന്നു</title>
+          <title xml:lang="en" type="main">Changalaykku Bhranthilakunnu</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 21, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചങ്ങലയ്ക്കു് ഭ്രാന്തിളകുന്നു</title>
+              <title xml:lang="en" type="main">Changalaykku Bhranthilakunnu</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Changalaykku Bhranthilakunnu</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ചങ്ങലയ്ക്കു് ഭ്രാന്തിളകുന്നു</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 21, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/American_mid-19th_century.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Unidentified_artist,_American,_mid19th_century_-_A_Street_in_Winter,_Evening_-_47.1216__Museum_of_Fine_Arts.jpg">A Street in Winter: Evening,</ref> a painting by anonymous
+ . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചങ്ങലയ്ക്കു് ഭ്രാന്തിളകുന്നു</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചങ്ങലയ്ക്കു് ഭ്രാന്തിളകുന്നു</head>
+        <div type="lsection">
+          <p style="noindent">കേരളത്തിന്റെ വടക്കൻ ഭാഗങ്ങളിൽ കലാപം ഒരു തുടർക്കഥയാവുകയാണു്.
+കോഴിക്കോട് ജില്ലയിലെ നാദാപുരത്തു് വീണ്ടും പൊട്ടിപ്പുറപ്പെട്ട കലഹം കണ്ണൂർ പ്രദേശങ്ങളിൽ
+പതിവായിക്കഴിഞ്ഞ രാഷ്ട്രീയ കൊലപാതകങ്ങളിൽനിന്നകന്നു് വർഗീയനിറം കൈവരിക്കുന്നുണ്ടോ എന്ന ആധി
+പരന്നു കഴിഞ്ഞു. മലയാളി സമൂഹത്തിൽ പിന്നെപ്പിന്നെ മുതിർന്നു വരുന്ന ഹിംസാപ്രവണത തലമുറകളിലേക്കു്
+നീണ്ടു ചെല്ലുന്ന കുടിപ്പകയുടെ ചരിത്രം വരയുവാൻ ഒരുങ്ങുകയാവാം. രാഷ്ട്രീയകലഹത്തേക്കാൾ മാരകമാണു്
+വർഗീയകലഹം. കാരണം വർഗീയ കലഹത്തിന്റെ മുറിവുകൾ ഉണങ്ങുവാൻ കുറച്ചുകാലമൊന്നും പോരാ. 1971-ൽ
+നിർഭാഗ്യവശാൽ തലശ്ശേരിയിലുണ്ടായ വർഗീയ കലാപത്തിന്റെ കയ്പേറിയ ഓർമകൾ മൂന്നു പതിറ്റാണ്ടായിട്ടും
+വേണ്ടമാതിരി ഉണങ്ങിയിട്ടില്ല.
+</p>
+          <p>മാർക്സിസ്റ്റ്–മുസ്ലിംലീഗ് സംഘട്ടനം എന്നറിയപ്പെടുന്ന ഇപ്പോഴത്തെ നാദാപുരം കുഴപ്പം സത്യത്തിൽ
+വർഗീയകലാപമാണു് എന്നു് പറയുന്നതു് വല്ലവരുമല്ല—കേരളം ഭരിക്കുന്ന, ആഭ്യന്തര വകുപ്പു് കൈകാര്യം
+ചെയ്യുന്ന മാർക്സിസ്റ്റ് പാർട്ടി തന്നെയാണു്!
+</p>
+          <p>ഓർത്തു നോക്കിയാൽ കഷ്ടമാണു്. കേന്ദ്രത്തിൽ ആഭ്യന്തര വകുപ്പു് കൈകാര്യം ചെയ്യുന്ന
+ബി. ജെ. പി.-യുടെയും കേരളത്തിൽ ആഭ്യന്തരവകുപ്പു് കൈകാര്യം ചെയ്യുന്ന സി. പി. എമ്മിന്റെയും അണികളാണു്
+കണ്ണൂർപ്രദേശത്തു് കൊലപാതകത്തിനും കൊള്ളയ്ക്കും കൊള്ളിവെപ്പിനും ഇറങ്ങിത്തിരിച്ചതു്.
+</p>
+          <p>അത്തരം എന്തെങ്കിലും കുഴപ്പമുണ്ടായാൽ പോലീസിനെയും പട്ടാളത്തെയും വിളിക്കാൻ അധികാരമുള്ളവർ.
+അല്ല, ഉത്തരവാദിത്തമുള്ളവർ. പിന്നെന്തിനാണു് നാട്ടിൽ പോലീസും പട്ടാളവും? അതു്
+കലാപബാധിതപ്രദേശങ്ങളിലെ ബി. ജെ. പി.-ക്കാർക്കും സി. പി. എമ്മുകാർക്കും തന്നെ തോന്നി.
+അവരുടെയെല്ലാം അക്രമങ്ങളിലും ഒരു ഇര പോലീസ് ആണു്. പോലീസിനെ അവർക്കു് പേടിയില്ല.
+അതിനേക്കാൾ പ്രധാനം പോലിസിനെ അവർക്കിപ്പോൾ വിലയില്ല. നീതിബോധവും ഉത്തരവാദിത്തവും
+ഇല്ലാത്ത പോലീസിനെ ആരെന്തിനു് വില വെയ്ക്കണം?
+</p>
+          <p>പോലീസിനെ ഇങ്ങനെ വീര്യം കെടുത്തിയതിന്റെ ഉത്തരവാദിത്തം തീർച്ചയായും സി. പി. എമ്മിനാണു്.
+അവരാണു് നാടു് ഭരിക്കുന്നതു്. ആവർത്തിച്ചു പറയണം, അവരുടെ മുഖ്യമന്ത്രിയാണു് പോലീസ് മന്ത്രി.
+ബി. ജെ. പി.-ക്കാർ അക്രമം കാണിച്ചെങ്കിൽ അതു് നിയന്ത്രിക്കാൻ പോലീസുണ്ടു്; ഉണ്ടാവണം. ആ പോലീസിനെ
+കാഴ്ചക്കാരായി മാറ്റിനിർത്താൻ സഖാക്കൾ നിയമം കയ്യിലെടുക്കുന്നതു് എന്തിനാണു്? അനീതിയും അക്രമവും
+തടയാൻ പോലീസിനു് കഴിയില്ല എന്നാണു് അവരുടെ വിശ്വാസമെങ്കിൽ പിന്നെ അവർ പോലീസ് വകുപ്പു്
+ഭരിക്കുന്നതെന്തിനാണു്? ഭരിക്കുന്നതു തന്നെ എന്തിനാണു്? ഭരണകക്ഷിക്കാരുടെപോലും ജീവനും സ്വത്തും
+സുരക്ഷിതമല്ല എന്നും ഓരോരുത്തനും വാളെടുത്താലേ ജീവിക്കാൻ കഴിയൂ എന്നും അല്ലേ ഇതിനർത്ഥം? തല്ലാനും
+കൊല്ലാനും തയ്യാറെടുത്തു് ഓരോരുത്തനും സ്വയം പോലീസായി, അവനവനെ കാക്കാൻ ഒരുങ്ങേണ്ട
+സ്ഥിതിയായി എന്നുണ്ടോ?
+</p>
+          <p>തമിഴ്ഭാഷയിൽ പോലീസ് എന്നതിനുള്ള വാക്കു് ‘കാവൽ’ എന്നാണു്. മലയാളനാട്ടിൽ പോലീസ് നമ്മളെ
+കാക്കുന്നില്ല. അവർക്കു് സ്വന്തം തടി കാക്കേണ്ട പണി വന്നുചേർന്നിരിക്കുന്നു!
+</p>
+          <p>ഈ സ്ഥിതിവിശേഷത്തിന്റെ ഒന്നാമത്തെ ഉത്തരവാദി, പ്രധാന കുറ്റവാളി, സി. പി. എം. ആണു്. കാരണം
+ഭരണകക്ഷി അവരാണു്. ഈ സന്ദർഭത്തിൽ സി. പി. എമ്മുകാർ ഒരു കാര്യം കൂടി ഓർക്കുന്നതു് നന്നു്. ഇങ്ങനെ
+തച്ചൊതുക്കാവുന്നതോ കൊന്നുതീർക്കാവുന്നതോ ആയി ലോകത്തു് ഒരു ആശയവുമില്ല. ബി. ജെ. പി.-യെ എന്നല്ല
+ഒരു രാഷ്ട്രീയവിശ്വാസത്തെയും ഈ മട്ടിൽ കൈകാര്യം ചെയ്ത് അവസാനിപ്പിക്കുവാൻ സാധിക്കില്ല. മറിച്ചു് ഇത്തരം
+സമീപനം ഏതു പ്രസ്ഥാനത്തിന്റെയും വളർച്ചക്കേ സഹായിക്കൂ. വിശ്വാസപ്രമാണങ്ങളുടെ സ്വഭാവമാണതു്.
+അടിച്ചൊതുക്കാൻ നോക്കുംതോറും അതു കുതിച്ചുയർന്നുവരും. തെളിവു് കേരളത്തിലെ കമ്യൂണിസ്റ്റ് പ്രസ്ഥാനം
+തന്നെ. നാട്ടിലെ സർക്കാരും പണക്കാരും ജന്മിമാരും ചില കോൺഗ്രസുകാരും 1940-കളിലും 1950-കളിലും
+കമ്മ്യൂണിസ്റ്റുകാരെ ഉന്മൂലനാശം വരുത്താൻ സംഘം ചേർന്നു് ഹിംസ നടത്തി. അവർ നശിക്കുകയല്ല,
+പൂർവാധികം തെഴുക്കുകയാണുണ്ടായതു്.
+</p>
+          <p>ഈ സ്ഥിതിയിൽ കണ്ണൂർ പ്രദേശത്തു് പണ്ടു് കമ്യൂണിസം വളർന്നതുപോലെ ഇന്നു് ഇവിടെ കമ്യൂണലിസം
+
+വളർന്നുകയറും. ആ ചരിത്രപാഠത്തിലേക്കു് നിർഭാഗ്യവശാൽ, ഒരു സഖാവിന്റെയും കണ്ണു ചെല്ലുന്നില്ല:
+‘ചരിത്രത്തിൽനിന്നു് നാം ഒന്നും പഠിക്കുന്നില്ല—ചരിത്രത്തിൽനിന്നു് നാം ഒന്നും പഠിക്കുന്നില്ല എന്ന പാഠമൊഴിച്ചു്’.
+</p>
+          <p>
+മലയാളം ന്യൂസ്: 28 ജനുവരി 2007.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Changalaykku Bhranthilakunnu
+(ml: ചങ്ങലയ്ക്കു് ഭ്രാന്തിളകുന്നു).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Changalaykku Bhranthilakunnu, എം. എൻ. കാരശ്ശേരി, ചങ്ങലയ്ക്കു് ഭ്രാന്തിളകുന്നു, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 21, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Unidentified_artist,_American,_mid19th_century_-_A_Street_in_Winter,_Evening_-_47.1216__Museum_of_Fine_Arts.jpg">A Street in Winter: Evening,</ref> a painting by anonymous
+ . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-changala.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-changala.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

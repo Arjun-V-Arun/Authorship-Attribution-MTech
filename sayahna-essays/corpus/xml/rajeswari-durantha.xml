@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">രണ്ടു് ദുരന്തനായകർ</title>
+          <title xml:lang="en" type="main">Randu Duranthanayakar</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">February 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">രണ്ടു് ദുരന്തനായകർ</title>
+              <title xml:lang="en" type="main">Randu Duranthanayakar</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Randu Duranthanayakar</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>രണ്ടു് ദുരന്തനായകർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Hilly_Landscape_in_India.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:Thomas_Daniell__Hilly_Landscape_in_India_-_Google_Art_Project.jpg">Hilly Landscape in
+India,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Daniell">Thomas
+Daniell</ref>  (1749–1840). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">രണ്ടു് ദുരന്തനായകർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">രണ്ടു് ദുരന്തനായകർ (ഒറ്റക്കൊരു വില്ലനും)</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/KMuraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരളീധരൻ</figDesc>
+          </figure>
+          <p style="noindent"> മരണത്തെപ്പറ്റിയാണു് ഈ വരികളെന്നാണു് പണ്ടു്; ‘ജീവനസംഗീതം’
+ക്ലാസിലെടുക്കവെ ഗോപി മാഷ് പറഞ്ഞതു്. മധുരമുഖനായ <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരനു്</ref>
+സ്ഥാനമൊഴിഞ്ഞു കൊടുത്തു് ഇന്ദിരാഭവന്റെ പടിയിറങ്ങുന്ന <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നല
+ബാലകൃഷ്ണപിള്ള</ref> യെ അല്ലേ കവി ഭാവനയിൽ കണ്ടതു് എന്നു് ഇപ്പോൾ സംശയം തോന്നുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Thennala.jpg" rendition="gra"/>
+            <figDesc style="thumb">തെന്നല ബാലകൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പിനെത്തുടർന്നു് കെ. പി. സി. സി.-യിലും നേതൃമാറ്റം ഉണ്ടാകും എന്നു് ഉറപ്പായിരുന്നു. പ്രദേശ്
+കോൺഗ്രസ് കമ്മിറ്റിയുടെ താൽക്കാലിക അധ്യക്ഷൻ മാത്രമായിരുന്നല്ലോ തെന്നല. ഏക വൈസ്
+പ്രസിഡന്റാണെങ്കിൽ അക്ഷമനായി കാത്തുനിൽക്കുകയും. തെരഞ്ഞെടുപ്പിനുശേഷം മുരളിയെ കെ. പി. സി. സി.
+പ്രസിഡന്റാക്കാമെന്നു് <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയാജി</ref> <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു്</ref>
+ഉറപ്പുനൽകിയിരുന്നുതാനും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MAKuttappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എ. കുട്ടപ്പൻ</figDesc>
+          </figure>
+          <p> ഇതൊക്കെയാണെങ്കിലും വിജയമുഹൂർത്തത്തിൽത്തന്നെ വന്ദ്യവയോധികനായ
+ബാലകൃഷ്ണപിള്ളയദ്ദേഹത്തെ പുറത്താക്കി പടിയടക്കുമെന്നു് ഒരാളും കരുതിയില്ല. “ഇത്ര പെട്ടെന്നു്
+സ്ഥാനമൊഴിയേണ്ടിവരുമെന്നു് കരുതിയില്ല” എന്നാണു് തെന്നല തന്നെ പറഞ്ഞതു്. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ
+സത്യപ്രതിജ്ഞക്കൊപ്പം തന്നെ മുരളീധരന്റെ അരിയിട്ടുവാഴ്ചയും നടത്തണമെന്നു് കരുണാകരൻ ശഠിച്ചപ്പോൾ,
+അല്ലാത്തപക്ഷം താനും അനുയായികളും സത്യപ്രതിജ്ഞാചടങ്ങു് ബഹിഷ്കരിക്കുമെന്നു് ഭീഷണിമുഴക്കിയപ്പോൾ
+ഹൈക്കമാൻഡിനു വേറെ വഴിയൊന്നുമില്ലാതായി. രായ്ക്കുരാമാനം <ref target="https://ml.wikipedia.org/wiki/Motilal_Vora">മോത്തിലാൽ വോറ</ref>
+പോയി തെന്നലയുടെ രാജിക്കത്തുവാങ്ങി. പിറ്റേന്നു് (മേയ് 17) ആന്റണിയുടെ സത്യപ്രതിജ്ഞ കഴിഞ്ഞയുടൻ.
+രാഹുകാലം തുടങ്ങുംമുമ്പായി, മുരളിയുടെ പട്ടാഭിഷേകവും നടന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Sankaranarayanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ശങ്കരനാരായണൻ</figDesc>
+          </figure>
+          <p> മുരളിയെ കെ. പി. സി. സി. പ്രസിഡന്റാക്കുന്നതിനെതിരെ തിരുത്തൽവാദികൾ ചില്ലറ
+അപശബ്ദമുയർത്തിയതൊന്നും ഏശിയില്ല. നിലാവുദിക്കുമ്പോൾ നായ ഓരിയിട്ടെന്നു കരുതി പൗർണമിച്ചന്ദ്രനു്
+എന്തെങ്കിലും ഗ്ലാനി സംഭവിക്കുമോ? ‘ഐ’ഗ്രൂപ്പുകാരൊഴികെയുള്ളവർ ചടങ്ങിനെത്താഞ്ഞതുകൊണ്ടും
+കെ. പി. സി. സി. പ്രസിഡന്റിനു് അപകർഷമേതും ഉണ്ടായില്ല. മുരളീധരനു് ഗ്രൂപ്പുണ്ടു്. കെ. പി. സി. സി.
+പ്രസിഡന്റിനു് ഗ്രൂപ്പില്ല എന്ന ചരിത്രപ്രസിദ്ധമായ പ്രഖ്യാപനം കേട്ടു് വാർത്താലേഖകർ കോരിത്തരിച്ചു. എന്റെ
+മോനല്ലേ എങ്ങനെ മോശംവരും എന്ന മട്ടിൽ കരുണാകർജി ഒന്നു കണ്ണിറുക്കി. പിന്നെ പതിവിലും വിസ്തരിച്ചു്
+പുഞ്ചിരി തൂകി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AL_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എൽ. ജേക്കബ്</figDesc>
+          </figure>
+          <p> അകത്തു് ആഘോഷം പൊടിപാറവേ. 1. 35 മണിയോടെ (അപ്പോഴേക്കും രാഹുകാലം തുടങ്ങി) ആരാലും
+ശ്രദ്ധിക്കപ്പെടാതെ <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നല
+ബാലകൃഷ്ണപിള്ള</ref> ഇന്ദിരാഭവന്റെ പടിയിറങ്ങി. ഒരു കാറിൽ ഏകനായി മടങ്ങുമ്പോൾ മഹാകവി <ref target="https://ml.wikipedia.org/wiki/G._Sankara_Kurup">ശങ്കരക്കുറുപ്പി</ref> ന്റെ
+വരികൾ ഓർമയിൽ ഓടിയെത്തിയിരിക്കണം:</p>
+          <lg>
+            <l> കാലാൽത്തട്ടിനിരത്തട്ടേ</l>
+            <l> കാലം ജീർണിച്ചതത്രയും;</l>
+            <l> നിത്യമാനസ ബന്ധങ്ങൾ</l>
+            <l> നിരാലംബങ്ങളൂഴിയിൽ! </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Motilal_Vora.jpg" rendition="gra"/>
+            <figDesc style="thumb">മോത്തിലാൽ വോറ</figDesc>
+          </figure>
+          <p> ശൂരനാട്ടെ എണ്ണപ്പെട്ട ജന്മിത്തറവാട്ടിലാണു് ബാലകൃഷ്ണപിള്ള ജനിച്ചതു്. അദ്ദേഹത്തിന്റെ പിതാവു് തെന്നല
+ഗോപാലപിള്ള ഉഗ്രപ്രതാപിയായ നാട്ടുപ്രമാണിയും ഉറച്ച കോൺഗ്രസുകാരനുമായിരുന്നു. ഗോപാലപിള്ളയും
+കുടിയാന്മാരുമായുള്ള സംഘർഷമാണു് 1949 ഡിസംബർ 31-ാം തീയതി ഒരു ഇൻസ്പെക്ടറുടെയും നാലു്
+പോലീസുകാരുടെയും ജീവഹാനിക്കു് ഇടയാക്കിയ ശൂരനാടു് കലാപം. 1950 ജനുവരി ഒന്നാം തീയതി തിരു-കൊച്ചി
+സംസ്ഥാനത്തു് കമ്യൂണിസ്റ്റ് പാർട്ടി നിരോധിക്കപ്പെട്ടു; ശൂരനാടു് എന്നൊരു നാടു് ഇനി വേണ്ട എന്നു് മുഖ്യമന്ത്രി
+<ref target="https://ml.wikipedia.org/wiki/Parur_T._K._Narayana_Pillai">ടി. കെ.
+നാരായണപിള്ള</ref> ഗർജിച്ചു. കമ്യൂണിസ്റ്റുകാർ പേപ്പട്ടികളെപ്പോലെ വേട്ടയാടപ്പെട്ടപ്പോൾ
+ശൂരനാടുകേസിലെ പ്രതികളിൽ ഏഴുപേർ ചോരതുപ്പി മരിച്ചു. ഒരു പ്രതി ഒളിവിലിരുന്നു് എഴുതിയ നിങ്ങളെന്ന
+കമ്യൂണിസ്റ്റാക്കി എന്ന നാടകം പാർട്ടിക്കു് വമ്പിച്ച ജനപ്രീതി നേടിക്കൊടുത്തതു വേറൊരു കഥ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Parur_T_K_Narayana_Pillai.png" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. നാരായണപിള്ള</figDesc>
+          </figure>
+          <p> അച്ഛനെപ്പോലെ കോൺഗ്രസുകാരനായി ബാലകൃഷ്ണപിള്ളയെങ്കിലും ജന്മിത്തത്തിന്റെ രാജസ്വഭാവമല്ല
+തറവാടിത്തത്തിന്റെ സാത്വിക പ്രകൃതമാണു് അദ്ദേഹത്തിനു് കിട്ടിയതു്. തണ്ടുംതലക്കനവുമില്ല
+സ്ഥാനമാനങ്ങൾക്കായി നെട്ടോട്ടമില്ല. 1977-ലാണു് തെന്നല ആദ്യമായി തെരഞ്ഞെടുപ്പിനു് നിൽക്കുന്നതു്.
+അത്തവണ അടൂർ മണ്ഡലത്തിൽനിന്നു ജയിച്ചു. 1978-ൽ കോൺഗ്രസ് പിളർന്നപ്പോൾ കരുണാകരനോടും <ref target="��.\,�����. ������">ടി. എച്ച്. മുസ്തഫ</ref>, <ref target="https://ml.wikipedia.org/wiki/K.G._Adiyodi">കെ. ജി. അടിയോടി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/N.I._Devassykutty">എൻ. ഐ.
+ദേവസിക്കുട്ടി</ref>, <ref target="https://ml.wikipedia.org/wiki/M.P._Gangadharan">എം. പി.
+ഗംഗാധരൻ</ref> എന്നിവരോടുമൊപ്പം ഇന്ദിരാവിഭാഗത്തിലാണു് നിലയുറപ്പിച്ചതു്. ആന്റണി വിഭാഗവും
+കേരള കോൺഗ്രസ് മാണി ഗ്രൂപ്പും മാർക്സിസ്റ്റ് മുന്നണിയിലായിരുന്ന 1980-ലെ തെരഞ്ഞെടുപ്പിൽ തെന്നല
+സി. പി. എമ്മിലെ <ref target="https://ml.wikipedia.org/wiki/C.P._Karunakaran_pillai">സി. പി.
+കരുണാകരപിള്ള</ref> യോടു് തോറ്റു. 1982-ൽ കരുണാകരപിള്ളയെ തോൽപിച്ചു. അത്തവണ ന്യായമായും
+മന്ത്രിസ്ഥാനം കിട്ടാവുന്നതായിരുന്നു. പക്ഷേ, മലബാർ പ്രാതിനിധ്യംപറഞ്ഞു് <ref target="https://ml.wikipedia.org/wiki/M.P._Gangadharan">എം. പി.
+ഗംഗാധരനെ</ref> യാണു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref> മന്ത്രി
+സഭയിലെടുത്തതു്. (ഗംഗാധരനുള്ള വൈഭവമൊന്നും ഒരു കാര്യത്തിലും തെന്നലക്കില്ല). <ref target="https://ml.wikipedia.org/wiki/Nawab_Rajendran">നവാബ് രാജേന്ദ്രൻ</ref>
+കൊടുത്ത കേസിൽ കുടുങ്ങി ഗംഗാധരൻ 1986 മാർച്ച് 12-ാം തീയതി രാജിവെച്ചപ്പോൾ തെന്നലക്ക് വീണ്ടും
+സാധ്യത തെളിഞ്ഞു. എന്തുചെയ്യാം? ഇത്തവണ യുവജന പ്രാതിനിധ്യത്തിനാണു് ലീഡർ മുൻഗണന നൽകിയതു്.
+അങ്ങനെ <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> മന്ത്രിയായി. 1987-ൽ സി. പി. എമ്മിലെ ആർ. ഉണ്ണിക്കൃഷ്ണപിള്ളയോടു് തോറ്റതോടെ
+തെന്നല തെരഞ്ഞെടുപ്പുരംഗം വിട്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MP_Gangadharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. പി. ഗംഗാധരൻ</figDesc>
+          </figure>
+          <p> 1992 മാർച്ചിൽ <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നലബാലകൃഷ്ണപിള്ള</ref>,
+<ref target="https://en.wikipedia.org/wiki/B._V._Abdulla_Koya">ബി. വി.
+അബ്ദുല്ലകോയ</ref> യോടും <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref>
+യോടുമൊപ്പം രാജ്യസഭയിലേക്കു് തെരഞ്ഞെടുക്കപ്പെട്ടു. 1998-ൽ കാലാവധി തീരുമ്പോഴേക്കും കേരളത്തിൽ
+ഇടതുപക്ഷഭരണം വന്നു. പ്രതിപക്ഷത്തുനിന്നു് ഒരാളെ ജയിപ്പിക്കാനേ കഴിയൂ എന്ന നിലക്കു് രാജ്യസഭാ സീറ്റ്
+മുസ്ലീംലീഗിനു് നൽകി. ലീഗിൽനിന്നു് സമദാനി രാജ്യസഭയിലുണ്ടു് എന്നതു് ആരും കണക്കിലെടുത്തില്ല. അങ്ങനെ
+കൊരമ്പയിൽ ഹാജി രാജ്യസഭാംഗമായി, തെന്നല ബാലകൃഷ്ണപിള്ള രാജ്യസഭാംഗമല്ലാതെയുമായി.
+2000-മാണ്ടിൽ രാജ്യസഭയിലേക്കു് വീണ്ടും ഒഴിവുവന്നപ്പോൾ കെ. പി. സി. സി. പ്രസിഡന്റ് എന്ന പരിഗണനവെച്ചു്
+തെന്നലക്കു് സാധ്യതയുണ്ടായിരുന്നു. അദ്ദേഹത്തിന്റെ മുൻഗാമികളായ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref> യും <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> യും
+രാജ്യസഭാംഗങ്ങൾ ആയിരുന്നല്ലോ. എന്നാൽ, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+കടുംപിടിത്തത്തിലൂടെ തൽസ്ഥാനവും ലീഗിനു് വാങ്ങിക്കൊടുത്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/C_P_Karunakaran_Pillai.png" rendition="gra"/>
+            <figDesc style="thumb">സി. പി. കരുണാകരപിള്ള</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ
+രവി</ref> യെ ഒഴിവാക്കിയപ്പോൾ മുട്ടുശാന്തിക്കു് പ്രസിഡന്റായതാണു് തെന്നല. ഒരു
+ഗ്രൂപ്പുകാരനുമല്ലാത്തതുകൊണ്ടാണു് പ്രസിഡന്റുസ്ഥാനം കിട്ടിയതു്; ഒരു ഗ്രൂപ്പിലും ഇല്ലാത്തതുകൊണ്ടു് ആരും
+ഗൗനിച്ചതുമില്ല. ഒരു തവണയെങ്കിലും കെ. പി. സി. സി. യോഗത്തിനു് വരാതിരുന്നു് മുരളിക്കു് അധ്യക്ഷത
+വഹിക്കാൻ അവസരം നൽകാത്തതുകാരണം കരുണാകരനു് തെന്നലയോടു് കടുത്ത വിദ്വേഷം ഉണ്ടാകുകയും
+
+ചെയ്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AA_Rahim.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എ. റഹീം</figDesc>
+          </figure>
+          <p> പാർട്ടിയിൽ ഐക്യം പുനഃസ്ഥാപിക്കാൻ ഹൈക്കമാന്റിനോടു് രണ്ടു വരമാണു് കരുണാകരൻ
+ആവശ്യപ്പെട്ടതു്. ഒന്നു്, യൂത്ത് കോൺഗ്രസ് പ്രസിഡന്റുപദത്തിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/K._C._Venugopal">കെ. സി.
+വേണുഗോപാലി</ref> നെ നീക്കണം. രണ്ടു്, തെന്നലക്കു പകരം <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യെ
+കെ. പി. സി. സി. അധ്യക്ഷനാക്കണം. പഞ്ചായത്തു് തെരഞ്ഞെടുപ്പു് കഴിഞ്ഞയുടനെ വേണുഗോപാലിനെ
+പറഞ്ഞയച്ചു: നിയമസഭാ തെരഞ്ഞെടുപ്പ് കഴിഞ്ഞപ്പോൾ തെന്നലയേയും. പണ്ടു് <ref target="https://ml.wikipedia.org/wiki/K.M._Chandy">കെ. എം. ചാണ്ടി</ref> യോടും
+കരുണാകരൻ ഇതുതന്നെയാണു് ചെയ്തതു്. 1978-82 കാലത്തു് ഇന്ദിരാവിഭാഗക്കാരുടെ കെ. പി. സി. സി.
+പ്രസിഡന്റും കരുണാകരന്റെ സന്തതസഹചാരിയുമായിരുന്നു പ്രൊഫ. കെ. എം. ചാണ്ടി. 1982 മേയ് മാസത്തിൽ
+അധികാരത്തിൽ തിരിച്ചെത്തിയ കരുണാകരൻ ചാണ്ടിസാറിനെ ലഫ്. ഗവർണറാക്കി പോണ്ടിച്ചേരിക്കു് അയച്ചു.
+പിന്നീടു് അദ്ദേഹം മധ്യപ്രദേശ് ഗവർണറായും പ്രശോഭിച്ചു. ഗവർണറായി വിക്ഷേപിക്കപ്പെട്ട ഒട്ടേറെ നേതാക്കൾ
+ഉണ്ടായിട്ടുണ്ടു്—<ref target="https://ml.wikipedia.org/wiki/A._J._John,_Anaparambil">എ. ജെ.
+ജോണും</ref> <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടം
+താണുപിള്ള</ref> യും മുതൽ <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">എ. എ. റഹീമും</ref> <ref target="https://ml.wikipedia.org/wiki/Vakkom_B._Purushothaman">വക്കം
+പുരുഷോത്തമനും</ref> വരെ. ഇവരിൽ വക്കമൊഴികെ മറ്റാരും പിന്നീടു് സംസ്ഥാന രാഷ്ട്രീയത്തിലേക്കു്
+മടങ്ങിവന്നില്ല. ഗവർണറായി പോകാനുള്ള പ്രായമായി. <ref target="https://ml.wikipedia.org/wiki/Thennala_Balakrishna_Pillai">തെന്നല
+ബാലകൃഷ്ണപിള്ള</ref> ക്കു്. അങ്ങനെയെങ്കിൽ ശേഷിച്ച കാലം പിഴിച്ചിലും ഞവരക്കിഴിയുമായി ഏതെങ്കിലും
+രാജ്ഭവനിൽ കഴിയാമായിരുന്നു. കേന്ദ്രത്തിൽ ബി. ജെ. പി.-യുടെ ഭരണമായതുകൊണ്ടു് അതും നടക്കുകയില്ല.
+പ്രസിഡന്റുസ്ഥാനം ഒഴിഞ്ഞാലും പോരാ 14 വർഷം കാട്ടിൽ പോയി താമസിക്കുകയും വേണം എന്നു്
+കരുണാകരൻ വരം ചോദിച്ചില്ലല്ലോ എന്ന സമാധാനം മാത്രം ബാക്കി.
+</p>
+          <p>* * *
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KC_Venugopal.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. വേണുഗോപാൽ</figDesc>
+          </figure>
+          <p> എറണാകുളം ജില്ലയിൽ പിറവത്തിനടുത്താണു് രാമമംഗലം പെരുംതൃക്കോവിൽ. പ്രധാനമൂർത്തി
+ബാലനരസിംഹം; ഉപദേവതമാർ: ഭദ്രകാളി, ശാസ്താവു്, ദുർഗ, ഭഗവതി. പ്രധാന പ്രതിഷ്ഠയായ
+നരസിംഹത്തേക്കാൾ പ്രാധാന്യം ഓവുതാങ്ങിയായ ഉണ്ണിഭൂതത്തിനാണു്. നരസിംഹം പടിഞ്ഞാറോട്ടും ഉണ്ണിഭൂതം
+വടക്കോട്ടുമാണു് ദർശനം. കൊടിമരവും രണ്ടെണ്ണമുണ്ടു്. ഉണ്ണിഭൂതത്തിനു് നാളികേരമെറിയലാണു് പ്രധാന
+വഴിപാടു്. കൊച്ചുകുട്ടികൾക്കു് അസുഖം വരുമ്പോൾ ഉണ്ണിഭൂതത്തിനു് നാളികേരമെറിയുക പതിവാണു്.
+സംഗീതജ്ഞനായിരുന്ന <ref target="https://en.wikipedia.org/wiki/Shadkala_Govinda_Marar">ഷഡ്കാല
+ഗോവിന്ദമാരാർ</ref> രാമമംഗലം ക്ഷേത്രത്തിലെ കഴകക്കാരനായിരുന്നുവത്രെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Cheriyan_Philip.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചെറിയാൻ ഫിലിപ്പ്</figDesc>
+          </figure>
+          <p> പണ്ടേതോകാലത്തു് ക്ഷേത്രം ഊരാളരിലും തന്ത്രികളിലും രണ്ടു് ഗ്രൂപ്പുണ്ടായിരുന്നുവെന്നും കിടമൽസരം
+മൂർച്ഛിച്ചപ്പോൾ തൃപ്പൂണിത്തുറ കലശദിവസംതന്നെ രാമമംഗലത്തും കലശം വെച്ചുവെന്നും തൃപ്പൂണിത്തുറ കലശം
+കഴിഞ്ഞു് പുലിയന്നൂർ തന്ത്രി എത്തുമ്പോഴേക്കും മറ്റുള്ളവർ നരസിംഹമൂർത്തിക്കു്
+കലശമാടിക്കഴിഞ്ഞിരുന്നുവെന്നും തന്ത്രി കോപാകുലാനായി ഓവു താങ്ങിക്കു് കലശമാടിയെന്നുമാണു്
+ഐതിഹ്യം. അങ്ങനെയാണത്രെ ഓവുതാങ്ങിക്കു് നരസിംഹമൂർത്തിയേക്കാൾ പ്രാധാന്യമുണ്ടായതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mkr.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കെ. രാഘവൻ</figDesc>
+          </figure>
+          <p> കേരള രാഷ്ട്രീയത്തിലെ പെരുംതൃക്കോവിലാണു് കോൺഗ്രസ് എ ഗ്രൂപ്പ്. പ്രധാനപ്രതിഷ്ഠ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref>,
+ഉപദേവന്മാർ <ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടൻ മുഹമ്മദ്</ref>,
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം.
+സുധീരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/M.M._Hassan">എം. എം.
+ഹസ്സൻ</ref> എന്നിവരും. ഏഴു് തന്ത്രിയുള്ള തംബുരുമീട്ടി, ആറു കാലങ്ങളിലും കീർത്തനമാലപിച്ച
+കഴകക്കാരൻ <ref target="https://en.wikipedia.org/wiki/Cherian_Philip">ചെറിയാൻ ഫിലിപ്പ്</ref>
+ഭാഗവതർ. പ്രധാനമൂർത്തിയേക്കാൾ ശക്തനായ ഉണ്ണിഭൂതമോ? <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> തന്നെ.
+ഓവുതാങ്ങിക്കു് കലശമാടിയ തന്ത്രികൾ മലയാളമനോരമ പത്രക്കാരും. ആന്റണി ന്യൂദൽഹിയിലേക്കും
+ഉമ്മൻചാണ്ടി കോട്ടയത്തേക്കും ദർശനം. കെ. എസ്. യു.-യൂത്ത് കോൺഗ്രസ് ബാലന്മാർക്കു് ദീനം
+മാറ്റിക്കൊടുക്കുന്നതു് ഉണ്ണിഭൂതം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KMChandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. ചാണ്ടി</figDesc>
+          </figure>
+          <p> 1940 ഡിസംബർ 28-നു് ചേർത്തലയിൽ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യും
+പുതുപ്പള്ളിയിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും
+നിയമസഭയിലേക്കു് ജയിച്ചു. 1973-ൽ കെ. പി. സി. സി. പ്രസിഡന്റായ ആന്റണി 1977-ൽ മൽസരിച്ചില്ല.
+പുതുപ്പള്ളിയിൽനിന്നു് വീണ്ടും ജയിച്ച <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+മന്ത്രിസഭയിൽ തൊഴിൽ വകുപ്പുമന്ത്രിയായി. 1977 ഏപ്രിൽ 25-ാം തീയതി കരുണാകരൻ മന്ത്രിസഭ
+രാജിവെച്ചപ്പോൾ മനസ്സില്ലാ മനസ്സോടെ ആന്റണി മുഖ്യനായി. 1978 ഒക്ടോബർ 27-നു് ആന്റണി
+രാജികൊടുത്തപ്പോൾ ഉമ്മൻചാണ്ടിയും പുറത്തായി. <ref target="https://ml.wikipedia.org/wiki/P._K._Vasudevan_Nair">പി. കെ. വി.</ref>യുടെ മന്ത്രിസഭയിൽ <ref target="https://en.wikipedia.org/wiki/M._K._Raghavan">എം. കെ. രാഘവനാ</ref>
+യിരുന്നു തൊഴിൽമന്ത്രി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_J_John.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. ജെ. ജോൺ</figDesc>
+          </figure>
+          <p> 1980-ൽ ആദ്യത്തെ ഇടതുജനാധിപത്യ മുന്നണി മന്ത്രിസഭയിൽ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> ക്കു്
+ഇടംകിട്ടിയില്ല. മാർക്സിസ്റ്റ് സഖ്യത്തിന്റെ പ്രമുഖ വക്താവു് <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി. ചാക്കോ</ref> യാണു്
+മന്ത്രിയായതു്. 1981 അവസാനം സ്പീക്കറുടെ കാസ്റ്റിംഗ് വോട്ടിന്റെ ബലത്തിൽ കരുണാകരൻ രൂപവത്ക്കരിച്ച
+മന്ത്രിസഭയിൽ ആഭ്യന്തരവകുപ്പു് കിട്ടിയെങ്കിലും രണ്ടര മാസമേ ഭരണമുണ്ടായുള്ളൂ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_M_Hassan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. ഹസ്സൻ</figDesc>
+          </figure>
+          <p> 1982-ൽ ആന്റണി ഗ്രൂപ്പിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>, <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/K_P_Nurudheen">കെ. പി.
+നൂറുദ്ദീൻ</ref> എന്നിവരാണു് മന്ത്രിമാരായതു്. <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>
+രാജിവെച്ചപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/A.L._Jacob">എ. എൽ.
+ജേക്കബ്ബും</ref> <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>
+രാജികൊടുത്തപ്പോൾ <ref target="https://en.wikipedia.org/wiki/Thachadi_Prabhakaran">തച്ചടി
+പ്രഭാകരനും</ref> മന്ത്രിമാരായി. 1987–91 കാലത്തെ ഇടതുപക്ഷ ഭരണവും കഴിഞ്ഞു് 1991 ജൂൺ 24-നു് വീണ്ടും
+ഐക്യജനാധിപത്യമുന്നണി അധികാരത്തിലെത്തിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> ക്കു്
+ധനകാര്യവകുപ്പുതന്നെ കിട്ടി. നിയമസഭാ കക്ഷി ഉപനേതാവു് ഉമ്മൻ ചാണ്ടി ആയിരുന്നെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+അമേരിക്കക്കു് ചികിൽസക്കു് പോയപ്പോൾ പൊതുഭരണവകുപ്പിന്റെ ചുമതല ഏൽപിച്ചതു് <ref target="https://ml.wikipedia.org/wiki/C.V._Padmarajan">സി. വി.
+പത്മരാജനെ</ref>, <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ. കുട്ടപ്പനു്</ref>
+രാജ്യസഭാ സീറ്റ് നൽകാത്തതിൽ പ്രതിഷേധിച്ചു് 1994 ജൂൺ 16-നു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+രാജിവെച്ചു. കരുണാകരന്റെ പതനത്തിൽ കലാശിച്ച സംഭവങ്ങൾ അവിടെനിന്നാണു് ആരംഭിച്ചതു്. സെപ്റ്റംബർ
+24-ാം തീയതി <ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">കെ. പി.
+വിശ്വനാഥനും</ref> രാജി നൽകി. നിയമസഭാ കക്ഷി നേതൃസ്ഥാനത്തു നിന്നു് കരുണാകരനെ നീക്കണമെന്നു്
+20 എം. എൽ. എ.-മാർ 27-ാം തീയതി രേഖാമൂലം ആവശ്യപ്പെട്ടു. സി. എം. പി. ഒഴികെയുള്ള ഘടകകക്ഷികളും
+ഇതേ ആവശ്യം ഏറ്റുപിടിച്ചപ്പോൾ. 1995 മാർച്ച് 16-നു് കരുണാകരൻ ക്ലിഫ്ഹൗസിന്റെ പടിയിറങ്ങി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pattom_A_Thanu_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">പട്ടം താണുപിള്ള</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+പിന്തുടർന്നു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>
+മുഖ്യമന്ത്രിയായപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/P.P._Thankachan">പി. പി. തങ്കച്ചനും</ref>
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം.
+
+സുധീരനും</ref> മന്ത്രിമാരായി. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+പുറത്തുനിന്നു് പിന്താങ്ങി. സർവകാര്യങ്ങളും തീരുമാനിക്കുന്നതു് ഉമ്മൻചാണ്ടിയാണെന്നും ഒപ്പിടുന്ന ജോലിയേ
+ആന്റണിക്കുള്ളൂ എന്നുമാണു് ശത്രുക്കൾ പ്രചരിപ്പിച്ചതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Vasudevan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വി.</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Cherian_Philip">ചെറിയാൻ
+ഫിലിപ്പി</ref> നെ മലർത്തിയടിച്ചു് പുതുപ്പള്ളിക്കോട്ട കാത്ത <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> കനപ്പെട്ട
+ഒരു വകുപ്പോടെ (ധനകാര്യമോ ആഭ്യന്തരമോ) മന്ത്രിസഭയിലെത്തുമെന്നാണു് അദ്ദേഹത്തിന്റെ ആരാധകർ
+കരുതിയതു്. കുഞ്ഞൂഞ്ഞു് ഇല്ലാത്ത കേരള മന്ത്രിസഭ ഡെൻമാർക്കിലെ രാജകുമാരനില്ലാത്ത ഹാംലെറ്റ്
+നാടകംപോലെ, കത്തോലിക്കാ ബാവയില്ലാത്ത ദേവലോകം അരമനപോലെയായിപ്പോകും എന്നു്ഒരുകൂട്ടർ
+പ്രചരിപ്പിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധീരൻ</figDesc>
+          </figure>
+          <p> മലയാളമനോരമ മനസ്സിൽ കണ്ടതു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+മാനത്തുകണ്ടു. അദ്ദേഹം തന്റെ ഗ്രൂപ്പിനുവേണ്ടി നാലു് മന്ത്രിസ്ഥാനം ആവശ്യപ്പെട്ടു. <ref target="https://ml.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസൻ</ref>, പ്രൊഫ. <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി. തോമസ്</ref>,
+അഡ്വ. <ref target="https://ml.wikipedia.org/wiki/P._Sankaran">പി.
+ശങ്കരൻ</ref>, പ്രൊഫ. <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണൻ</ref>. അതൊടെ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ആപ്പിലായി.
+സാമ്പത്തിക പ്രതിസന്ധിമൂലം മന്ത്രിമാരുടെ എണ്ണം 20 ആയി കുറച്ചിരിക്കുകയാണു്. ഘടകകക്ഷികൾക്കെല്ലാം
+കൂടി 11; കോൺഗ്രസിനു് മുഖ്യനടക്കം 9. സാമുദായിക പ്രാതിനിധ്യവും നോക്കണം. ഘടകകക്ഷികളിൽനിന്നായി
+നാലു് മുസൽമാൻമാരും മൂന്നു് ക്രിസ്ത്യാനികളും രണ്ടു വീതം നായന്മാരും ഈഴവരും മന്ത്രിമാരാകും.
+കോൺഗ്രസിൽനിന്നു് മൂന്നു് നായന്മാരും രണ്ടു് ഈഴവരും രണ്ടു് ക്രിസ്ത്യാനികളും ഒരു മുസ്ലിമും ഒരു
+പട്ടികജാതിക്കാരനുമായാൽ ഏറെക്കുറെ ഒപ്പിക്കാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p> ഒമ്പതു് കോൺഗ്രസ് മന്ത്രിമാരെ നിശ്ചയിക്കലാണു് ഏറ്റവും കഠിനം. മൂന്നാം ഗ്രൂപ്പിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയനും</ref>
+നാലാംഗ്രൂപ്പിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/G._Sudhakaran">സുധാകരനും</ref>
+നിർബന്ധമാണു്. ഓരോ നായരും ഈഴവനുമായി. ഐ ഗ്രൂപ്പിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസനെ</ref> യും <ref target="https://ml.wikipedia.org/wiki/P._Sankaran">പി. ശങ്കരനെ</ref> യും
+
+ഒഴിവാക്കാനാവില്ല. ഈഴവനും നായരും ഓരോന്നുകൂടിയായി. മുസ്ലിമായി <ref target="https://ml.wikipedia.org/wiki/M.M._Hassan">എം. എം. ഹസ്സൻ</ref>,
+പട്ടികജാതിക്കാരൻ ഡോ. <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ.
+കുട്ടപ്പൻ</ref>—രണ്ടുപേരും ‘എ’ ഗ്രൂപ്പുകാർ. പള്ളിയും പട്ടക്കാരനുമില്ല. കുർബാനയും
+കുമ്പസാരവുമില്ലാത്തയാളാണെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref>
+മാമോദീസാവെള്ളം വീണ ക്രിസ്ത്യാനിയാണല്ലോ. അപ്പോൾ ഒരു ക്രിസ്ത്യാനിയായി. ബാക്കിയുള്ളതു് ഒരു നായർ,
+ഒരു ക്രിസ്ത്യാനി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. വി. തോമസ്</figDesc>
+          </figure>
+          <p> ‘എ’ ഗ്രൂപ്പിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യെ
+മന്ത്രിസഭയിലെടുക്കുന്നപക്ഷം <ref target="https://ml.wikipedia.org/wiki/K._Sankaranarayanan">ശങ്കരനാരായണനെ</ref>
+ഒഴിവാക്കേണ്ടിവരും. മാത്രമല്ല <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി. തോമസി</ref> നു പകരം
+<ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണൻ</ref> മതിയെന്നു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+സമ്മതിക്കുകയും വേണം. അതു് സമ്മതിക്കണമെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>
+രണ്ടാമതൊരിക്കൽ കൂടി ജനിക്കണം. <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി. തോമസി</ref> നെ
+മന്ത്രിയാക്കിയെ തീരൂ എന്നു് കരുണാകരൻ ശഠിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CF_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എഫ്. തോമസ്</figDesc>
+          </figure>
+          <p> തോമസിനു പകരം ഉമ്മൻചാണ്ടിയെ മന്ത്രിയാക്കുന്നതിൽ അതിഭയങ്കരമായ മറ്റൊരു പ്രശ്നം കൂടിയുണ്ടു്.
+ഉമ്മൻചാണ്ടി സവർണ (സുറിയാനി) ക്രിസ്ത്യാനിയാണു്; തോമസ്മാഷ് പിന്നാക്കക്കാരനായ ലത്തീൻ
+കത്തോലിക്കനും. ആന്റണിയടക്കമുള്ള നാലു് ക്രിസ്ത്യൻ മന്ത്രിമാരും സുറിയാനി ക്രിസ്ത്യാനികളാണു്. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>, <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref>, <ref target="https://ml.wikipedia.org/wiki/C._F._Thomas">സി. എഫ്. തോമസ്</ref>
+എന്നിവർ സിറിയൻ കത്തോലിക്കർ; <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം. ജേക്കബ്</ref>
+യാക്കോബായ സഭക്കാരനും സിറിയൻ ക്രിസ്ത്യാനികളിൽ നല്ലൊരുഭാഗം കേരള കോൺഗ്രസുകളിലെ വിവിധ
+ഗ്രൂപ്പുകളിലാണു്. ലത്തീൻകാരാണെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Annie_Mascarene">ആനി മസ്ക്രീന്റെ</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/Alexander_Parambithara">അലക്സാണ്ടർ
+പറമ്പിത്തറ</ref> യുടെയും കാലംമുതൽക്കു് അടിയുറച്ച കോൺഗ്രസുകാരും. ലത്തീൻകാരെ അവഗണിക്കുന്നു
+എന്നു് നെയ്യാറ്റിൻകര, കൊല്ലം ആലപ്പുഴ, കൊച്ചി, വരാപ്പുഴ, കോട്ടപ്പുറം മെത്രാന്മാരും ലാറ്റിൻ കാത്തലിക്
+അസോസിയേഷനുമൊക്കെ എത്രയോ കാലമായി മുറവിളിയാണു്. പിരിച്ചുവിട്ട സഭയിൽ ആറു് ലത്തീൻ
+കത്തോലിക്കരാണുണ്ടായിരുന്നതെങ്കിൽ പുതിയ സഭയിൽ അതു് മൂന്നായി കുറഞ്ഞിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Anniemascarene.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആനി മസ്ക്രീൻ</figDesc>
+          </figure>
+          <p> ലത്തീൻ കത്തോലിക്കാ പ്രാതിനിധ്യം ഉറപ്പാക്കണമെങ്കിൽ ഉമ്മൻചാണ്ടിയെ ഉപേക്ഷിച്ചേ തീരൂ എന്നു്
+വ്യക്തമായതോടെ കരുണാകർജി അടുത്ത ഡാവിറക്കി: ഉമ്മൻചാണ്ടിയെ ഒഴിവാക്കണം എന്നു് ഞാൻ
+പറഞ്ഞിട്ടില്ല. തോമസ്മാഷെ മന്ത്രിയാക്കണം എന്നേ ഞാൻ പറഞ്ഞതിനു് അർഥമുള്ളൂ. ഉമ്മൻചാണ്ടിയെയും
+കെ. വി. തോമസിനെയും ഒരേസമയത്തു് മന്ത്രിമാരാക്കണമെങ്കിൽ പിന്നെ ആന്റണിക്കു് ഒരു വഴിയേയുള്ളൂ.
+മുഖ്യമന്ത്രിസ്ഥാനം മറ്റാരെയെങ്കിലും ഏൽപിച്ചു് മുരിങ്ങൂർക്കു് ധ്യാനത്തിനു പോകുക.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Alexander_Parambithara.jpg" rendition="gra"/>
+            <figDesc style="thumb">അലക്സാണ്ടർ പറമ്പിത്തറ</figDesc>
+          </figure>
+          <p> അങ്ങനെ ഉമ്മൻചാണ്ടി ഉപേക്ഷിക്കപ്പെട്ടു. താൻ മന്ത്രിസ്ഥാനം ആഗ്രഹിച്ചിട്ടേയില്ലെന്നും പേരു് പരിഗണിച്ച
+ആന്റണിയോടും പിന്താങ്ങിയ കരുണാകരനോടും നന്ദിയുണ്ടെന്നും അദ്ദേഹം വാർത്താലേഖകരോടു് പറഞ്ഞു.
+എന്തൊരദ്ഭുതപ്രേമസൗഭഗം. എന്തൊരാദർശസൗരഭം!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KADAVOOR_SIVADASAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടവൂർ ശിവദാസൻ</figDesc>
+          </figure>
+          <p> ഏതായാലും <ref target="https://ml.wikipedia.org/wiki/K._Sankaranarayanan">കെ.
+ശങ്കരനാരായണൻ</ref> ഒഴിഞ്ഞ ഐക്യമുന്നണി കൺവീനറുടെ തസ്തിക ഏറ്റെടുക്കാൻ ഉമ്മൻചാണ്ടി
+സന്നദ്ധത പ്രകടിപ്പിച്ചിട്ടുണ്ടു്. നാടിന്റെ സുകൃതം എന്നേ പറയേണ്ടൂ. രാമമംഗലം ക്ഷേത്രത്തിലെ ഓവുതാങ്ങിയുടെ
+റോളായിരിക്കുമോ കുഞ്ഞൂഞ്ഞിനു്?
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Randu Duranthanayakar (ml: രണ്ടു്
+ദുരന്തനായകർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Randu
+Duranthanayakar, കെ. രാജേശ്വരി, രണ്ടു് ദുരന്തനായകർ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:Thomas_Daniell__Hilly_Landscape_in_India_-_Google_Art_Project.jpg">Hilly Landscape in
+India,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Daniell">Thomas
+Daniell</ref>  (1749–1840). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-durantha.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-durantha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

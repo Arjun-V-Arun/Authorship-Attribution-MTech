@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ജീവിതവൈരുദ്ധ്യങ്ങൾ—കവികളിൽ</title>
+          <title xml:lang="en" type="main">Jeevithavairudhyangal—Kavikalil</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 23, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ജീവിതവൈരുദ്ധ്യങ്ങൾ—കവികളിൽ</title>
+              <title xml:lang="en" type="main">Jeevithavairudhyangal—Kavikalil</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Jeevithavairudhyangal—Kavikalil</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ജീവിതവൈരുദ്ധ്യങ്ങൾ—കവികളിൽ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 23, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Story_Without_Fly.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:The_Story_Without_an_End__The_Harebell_and_the_Dragon_Fly.jpg">The Harebell and the Dragon Fly,</ref> a
+
+painting by Friedrich Wilhelm Carové  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ജീവിതവൈരുദ്ധ്യങ്ങൾ—കവികളിൽ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ജീവിതവൈരുദ്ധ്യങ്ങൾ—കവികളിൽ</head>
+        <figure rend="fright" type="gra">
+          <graphic url="images/Rabindranath_Tagore.jpg" rendition="gra"/>
+          <figDesc style="thumb">ടാഗോർ</figDesc>
+        </figure>
+        <p> വൈരുദ്ധ്യങ്ങളുടെ ഒരു കൂട്ടിക്കെട്ടാണു മനുഷ്യജീവിതം; മറ്റൊരുവിധത്തിൽ പറഞ്ഞാൽ
+പൊരുത്തക്കേടുകളുടെ കൂത്തമ്പലം. കവികൾ അഥവാ സാഹിത്യകാരന്മാർ—അവരും മനുഷ്യരാണല്ലോ.
+അവരുടെ ജീവിതത്തിൽ പ്രത്യക്ഷപ്പെടുന്ന വിരുദ്ധഭാവങ്ങൾ നമ്മെ തെല്ലൊന്നു് അമ്പരപ്പിക്കുന്നു. കാരണം,
+നമ്മിൽ കുടിക്കൊള്ളുന്ന ഒരു മിഥ്യാബോധമാണു്. കവികളുടെ സ്വകാര്യജീവിതം തൽകൃതികളിൽകൂടി
+പ്രതിഫലിക്കുന്ന ആദർശജീവിതത്തോടു് പൊരുത്തപ്പെട്ടതാണെന്നു നാം വിശ്വസിച്ചുപോകുന്നു.
+സാഹിത്യകൃതികൾ ഉത്തമമാണെങ്കിൽ തൽക്കർത്താക്കളുടെ ജീവിതവും ഉത്തമമായിരിക്കുമെന്നൊരു
+ധാരണയുണ്ടല്ലോ. തപസ്സ്വാധ്യായനിരതന്മാരായ മഹർഷിമാരേയും അവരുടെ കൃതികളേയും
+ചൂണ്ടിക്കാണിച്ചുകൊണ്ടുള്ള ഒരഭിപ്രായമാണിതു്. ഇതു സാമാന്യേന ശരിയെന്നു പറയാമോ?
+ഭാരതരാമായണഗ്രന്ഥങ്ങളെ മാത്രം ആസ്പദമാക്കി വ്യാസവാല്മീകിമാരുടെ സ്വകാര്യജീവിതത്തെപ്പറ്റി
+എത്രത്തോളം എങ്ങനെ അനുമാനിക്കാം? ചരിത്രപരമായ തെളിവുകളില്ലാതെ കാവ്യങ്ങളെ മാത്രം അവലംബിച്ചു
+കവിജീവിതം അനുമാനിക്കപ്പെടുന്നതു് എത്രത്തോളം ശരിയാകും? അരങ്ങത്തു രാമനും അണിയറയിൽ രാവണനും
+ആയി അഭിനയിക്കപ്പെടുന്ന മനുഷ്യസ്വഭാവം അല്പമെങ്കിലും ഋഷികല്പന്മാരായ കവികളിലും കാണുകയില്ലേ?
+ഏറ്റവും ഉൽകൃഷ്ടമായതു് ഏറ്റവും നികൃഷ്ടമായതുമായി കൈകോർത്തുപിടിച്ചുപോകുന്നു എന്നു
+മനുഷ്യസ്വഭാവത്തെപ്പറ്റി <ref target="https://ml.wikipedia.org/wiki/Rabindranath_Tagore">ടാഗോർ</ref>
+ഒരിടത്തു പറഞ്ഞിട്ടുണ്ടു്. ഏതാർഷകവിയുടെ ഉള്ളറകളിലും ഇതിനുള്ള തെളിവു കണ്ടെത്തിയേക്കാം.
+ഉത്തമകവിതയുടെ ഉറവിടമായി പറയപ്പെടുന്നതു നിസ്തമസ്കവും ശുദ്ധസത്വമയവും ആയ കവിഹൃദയമാണല്ലോ.
+എന്നാൽ ആ കവിഹൃദയത്തിന്റെ പരിശുദ്ധിയും സാത്വികതയും കവിയിലെ മനുഷ്യനിൽ സദാപി
+പ്രതിഫലിച്ചുകൊണ്ടിരിക്കുമെന്നു വിചാരിക്കുന്നതു തെറ്റാണു്. ചരിത്രാനുഭവം അതു തെളിയിക്കുകയും ചെയ്യുന്നുണ്ടു്.
+ഏതായാലും ആലോചിച്ചു രസിക്കാൻ വകയുള്ള ഒരു വിഷയമാണിതു്.
+</p>
+        <p>കാവ്യചൈതന്യം മൂർത്തീകരിച്ച ഒരു കവിതയാണല്ലോ ‘വെടികൊണ്ട പക്ഷി’. അതെഴുതിയ മഹാകവിക്കു
+മാംസഭക്ഷണത്തിനു മനസ്സു വരുമോ എന്നൊരു ചോദ്യവുമായി ഒരിക്കൽ <ref target="https://ml.wikipedia.org/wiki/Changampuzha_Krishna_Pillai">ചങ്ങമ്പുഴ</ref>
+ഇതെഴുന്ന ആളെ സമീപിക്കുകയുണ്ടായി. ഇത്തരം ചോദ്യം നമ്മുടെ ചിന്തയെ പിടിച്ചു കുലുക്കുന്നു. മനസ്സുവരാം,
+വന്നാൽ അതിനു അത്ഭുതപ്പെടാനില്ല എന്നേ മനുഷ്യപ്രകൃതിയെപ്പറ്റി ശാസ്ത്രീയമായി പഠിച്ചിട്ടുള്ളവർ മറുപടി പറയൂ.
+ഒരു നൂറ്റാണ്ടു കഴിഞ്ഞുവരുന്ന സാഹിത്യചരിത്രകാരൻ, വെടികൊണ്ട പക്ഷിയുടെ കർത്താവു തനി
+സസ്യഭുക്കായിരുന്നുവെന്നു രേഖപ്പെടുത്തിയേക്കാം. എന്നാൽ സത്യമെന്താണെന്നു് ഇപ്പോൾ നമുക്കു
+അറിയാമല്ലോ. ഇമ്മാതിരി കാര്യങ്ങൾ കവിയുടെ യോഗ്യതയ്ക്കു മാനദണ്ഡങ്ങളാക്കുന്നവരുണ്ടു്. അവരുടെ
+നിലപാടിലാണു കുഴപ്പം. <ref target="https://ml.wikipedia.org/wiki/Thunchaththu_Ezhuthachan">തുഞ്ചത്തെഴുത്തച്ഛൻ</ref>
+മദ്യം സേവിച്ചിരുന്നു എന്നാണു് ഐതിഹ്യം പറയുന്നതു് അതു തെറ്റാണെന്നു തെളിയിക്കുന്ന
+ചരിത്രരേഖകളുണ്ടെങ്കിൽ നമുക്കു സസന്തോഷം സ്വീകരിക്കാം. അതൊന്നുമില്ലാതെ, നൂറ്റാണ്ടുകളായി
+കേരളമൊട്ടുക്കു നിലനിന്നുപോരുന്ന ഐതിഹ്യത്തെ നിസ്സംശയം നിഷേധിക്കുന്നതു യുക്തമാണോ?
+അഭിമാനവിജൃംഭിതനായ ഒരു ഭാഷാചരിത്രകാരൻ അതിനും മുതിർന്നിട്ടുണ്ടു്. വേദാന്തമദ്യമാണു് എഴുത്തച്ഛൻ
+പാനംചെയ്തിരുന്നതെന്നും മറ്റുമാണു് അദ്ദേഹത്തിന്റെ സമാധാനം. അതുപോലെ തുഞ്ചത്താചാര്യർ ഒരു
+നിത്യബ്രഹ്മചാരിയായിരുന്നുവെന്നും ആ ചരിത്രകാരൻ അനുമാനിക്കുന്നു. ഇതൊക്കെപ്പറയുന്നതു തൽകൃതികളെ
+മാത്രം അടിസ്ഥാനപ്പെടുത്തിയാണു്. എന്നാൽ ഒരു ഡസൻ കുട്ടികളുടെ പിതാവും മദ്യപാനിയുമായ ഒരാൾക്കു്,
+ജന്മസിദ്ധമായ കവിതാവാസനയും പാണ്ഡിത്യവും മറ്റും ഉണ്ടെങ്കിൽ ഇത്തരം കവിതകളെഴുതിക്കൂടെന്നില്ല.
+എഴുത്തച്ഛനു് ഒരു മകളുണ്ടായിരുന്നുവെന്നതിനു് ഇപ്പോൾ കൂടുതൽ തെളിവു കിട്ടിയിട്ടുണ്ടെന്നു കേൾക്കുന്നു. അല്പം
+അകത്തു കടന്നാൽ നല്ല കവിത പുറത്തുവരുന്ന സമ്പ്രദായവും മനുഷ്യസ്വഭാവത്തിൽ കണ്ടുവരുന്നുണ്ടു്.
+എന്തായാലും തുഞ്ചത്തു ഗുരുപാദരുടെ കവിത്വമഹത്വത്തിനു് ഇതൊക്കെ ഹാനികരമാകുമെന്നു
+വിചാരിക്കുന്നതാണു് അബദ്ധം.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/HG_Wells.jpg" rendition="gra"/>
+          <figDesc style="thumb">വെൽസ്</figDesc>
+        </figure>
+        <p> ഇനി സാഹിത്യകാരന്മാരെപ്പറ്റി ചരിത്രപ്രകാരം നമുക്കു ലഭിച്ചിട്ടുള്ള ജീവിത യാഥാർത്ഥ്യങ്ങൾ
+പരിശോധിച്ചുനോക്കാം. കൊലപാതകിയായ ഒരു സാഹിത്യകാരനെപ്പറ്റി ‘പേനയും പെൻസിലും വിഷവും’
+എന്നൊരു ലേഖനം മുമ്പെങ്ങോ വായിച്ചതായിട്ടോർക്കുന്നു. വളരെനാൾ കഴിഞ്ഞിട്ടാണു പോലീസുകാർ ആ നല്ല
+സാഹിത്യകാരൻ ഒരു നരഹന്താവുകൂടിയാണെന്നു കണ്ടുപിടിച്ചതു്. മനുഷ്യൻ ഒരു അന്തർലീനഘാതകനാണു്
+(Man is a potential killer) എന്ന <ref target="https://ml.wikipedia.org/wiki/H._G._Wells">വെൽസി</ref> ന്റെ വാക്യം
+ഇവിടെ സ്മരണീയമത്രേ.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/Oscar_Wilde.jpg" rendition="gra"/>
+          <figDesc style="thumb">ഓസ്കർ വൈൽഡ്</figDesc>
+        </figure>
+        <p> സുപ്രസിദ്ധ സാഹിത്യകാരനായ <ref target="https://ml.wikipedia.org/wiki/Oscar_Wilde">ഓസ്കർ വൈൽഡി</ref> ന്റെ
+കഥയോ? ദുർവൃത്തനെന്ന നിലയിൽ ഇത്രയും കുപ്രസിദ്ധി നേടിയ മറ്റൊരാളുണ്ടോ? സകല സന്മാർഗ്ഗ
+വ്യവസ്ഥകളേയും വലിച്ചുചീന്തി കാറ്റത്തെറിഞ്ഞു് കുടിയും വിടവൃത്തിയുമായി ജീവിതം തുലച്ച ആ കലാകാരന്റെ
+വിശിഷ്ടകൃതികൾ ഇന്നു് ഗ്രന്ഥശാലകൾക്കു വിലയേറിയ ഭൂഷണങ്ങളായിരിക്കുന്നു!
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/Leon_tolstoi.jpg" rendition="gra"/>
+          <figDesc style="thumb">ടോൾസ്റ്റോയി</figDesc>
+        </figure>
+        <p> റഷ്യയിലെ മഹർഷിയും വിശ്വസാഹിത്യത്തിലെ ആചാര്യനും ആയി ആരാധിക്കപ്പെടുന്ന <ref target="https://ml.wikipedia.org/wiki/Leo_Tolstoy">ടോൾസ്റ്റോയി</ref> യുടെ
+ജീവിതം എങ്ങനെയായിരുന്നു, വിശേഷിച്ചും ആദ്യ ഘട്ടത്തിൽ? ജീവിതത്തിലെ അഴുക്കുചാലുകളിൽക്കൂടി
+എത്രദൂരം നടന്നുകഴിഞ്ഞിട്ടാണു് അദ്ദേഹം ഒരുവിധം കരയ്ക്കെത്തിയതു്? സാഹിത്യാചാര്യൻതന്നെ ഏറ്റുപറയുന്നതു
+കേൾക്കുക:
+</p>
+        <p>‘ഹൃദയഭേദകമായ ഭീതിയോടും അവജ്ഞയോടുംകൂടിയല്ലാതെ അക്കാലത്തെപ്പറ്റി സ്മരിക്കുന്നതിനു് എനിക്കു
+സാധിക്കുകയില്ല. ഞാൻ യുദ്ധത്തിലേർപ്പെട്ടു് ആളുകളെ കൊന്നിട്ടുണ്ടു്; പലതവണ ദ്വന്ദയുദ്ധംചെയ്തു്
+എതിരാളികളുടെ കഥകഴിച്ചിട്ടുണ്ടു്. പാവപ്പെട്ട കൃഷിക്കാരുടെ പണം അപഹരിച്ചു മുഴുവൻ ചൂതുകളിച്ചു
+നശിപ്പിക്കുകയും അവരെ അകാരണമായി മർദ്ദിക്കുകയും ചെയ്തിട്ടുണ്ടു്; വേശ്യകളുമായി കൂത്താടിയിട്ടുണ്ടു്. മദ്യപാനം,
+കൊലപാതകം, വ്യഭിചാരം, അസത്യവാദം, മോഷണം—ഇതെല്ലാം ഞാൻ ചെയ്തിരിക്കുന്നു. ഇനി ഞാൻ
+ചെയ്യാത്തതായി ഒരു പാപകർമ്മവുമില്ല. എന്നിട്ടും കൂട്ടുകാർ എന്നെ ഒരു സന്മാർഗ്ഗചാരിയായി ഗണിച്ചിരുന്നു!’
+</p>
+        <p>പ്രസ്തുത ദോഷങ്ങളിൽനിന്നു പൂർണ്ണമായി മോചനം ലഭിക്കാത്ത കാലത്തും അദ്ദേഹത്തിന്റെ കവിഹൃദയം
+തുടിക്കുകയും അതിൽനിന്നു നല്ല കൃതികൾ പുറത്തു വരികയും ചെയ്തിട്ടുണ്ടെന്നു് ഓർമ്മിക്കണം. അവിടെയാണു
+വൈരുദ്ധ്യം കാണേണ്ടതു്. രസാവഹമല്ലേ ഉദ്ധൃതഭാഗങ്ങളിലെ ആ ഒടുവിലത്തെ വാചകം? കൂട്ടുകാരുടെ
+പരിഗണനം സത്യാവസ്ഥയിൽനിന്നു് എത്ര വിദൂരം! ഏതാണ്ടിതുപോലെയാണു ചില ചരിത്രകാരന്മാരും,
+കൃതികൾ മാത്രം നോക്കി കവികളുടെ ജീവിതത്തെപ്പറ്റി വിധിയെഴുതുന്നതു്.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/Byron.jpg" rendition="gra"/>
+          <figDesc style="thumb">ബയറൺ</figDesc>
+        </figure>
+        <p> ടോൾസ്റ്റോയി ഒടുവിൽ മഹർഷിതുല്യനായില്ലേ എന്നു ചിലർ വാദിച്ചേക്കാം. അതു തികച്ചും ശരിയല്ല.
+
+ലോകത്തെ പഠിപ്പിക്കാൻ പുറപ്പെട്ട ഈ ആചാര്യവര്യനു സ്വന്തം കുടുംബത്തിൽ സൈര്വത പുലർത്താൻപോലും
+സാധിച്ചിരുന്നില്ല. കാമചാപല്യം വാർദ്ധക്യത്തിലും അദ്ദേഹത്തിൽ തലപൊക്കിയിരുന്നു. ഒരു വെപ്പാട്ടിയിൽ
+തനിക്കു ജനിച്ച കുട്ടി വളർന്നുവന്നു് ഉപജീവനമാർഗ്ഗമില്ലാതെ തന്റെ ഭാര്യാപുത്രന്റെ വണ്ടിക്കാരനായി ജീവിച്ച
+കാഴ്ച അദ്ദേഹത്തെ അസ്വസ്ഥനാക്കിയില്ല. ഈ മഹാപുരുഷന്റെ അന്ത്യമോ? ഭാര്യയുടെ ശല്യം സഹിക്കവയ്യാതെ
+ഒരു രാത്രി കുടുംബത്തിൽനിന്നു് ഇറങ്ങി പുറപ്പെട്ടു. മാർഗ്ഗമദ്ധ്യേ ഒരു റെയിൽവേ സ്റ്റേഷൻമാസ്റ്ററുടെ വീട്ടിൽ
+ചെന്നുകിടന്നുള്ള മരണം! സ്ഥിതപ്രജ്ഞനെന്നുവരെ സങ്കല്പിക്കപ്പെടുന്ന ജഗദ്ഗുരുവായ ഒരു സാഹിത്യാചാര്യന്റെ
+കഥയാണിതു്. ഒരു ഗ്രന്ഥവുമെഴുതാത്ത <ref target="https://ml.wikipedia.org/wiki/Socrates">സോക്രട്ടീസി</ref> ന്റെ
+കുടുംബജീവിതം ഇതിലും എത്രയോ മെച്ചമായിരുന്നു. ഭയങ്കരിയായ ഭാര്യയിൽനിന്നു ഭർത്സനവും താഡനവും
+കുംഭോദകാഭിഷേകവും ഏറ്റുകഴിഞ്ഞതിനു ശേഷം, പുഞ്ചിരിയോടെ, ഇടിവെട്ടി മഴപെയ്തു എന്നുമാത്രം പറഞ്ഞു്
+അക്ഷോഭ്യനായി സ്ഥിതിചെയ്യത്തക്കവിധം പ്രകാശമാനമായിരുന്നു അദ്ദേഹത്തിന്റെ തത്വജ്ഞാനം. ആ
+ജ്ഞാനപ്രകാശത്തിൽത്തന്നെ ജീവിക്കാനും അദ്ദേഹത്തിനു കഴിഞ്ഞു. ടോൾസ്റ്റോയി തത്ത്വജ്ഞാനികൂടി
+ആയിരുന്നിട്ടും ആത്മനിയന്ത്രണത്തിൽ പരാജയപ്പെട്ടുപോയി. എന്തെന്താദർശങ്ങൾ, എത്രയേറെ
+ജീവിതതത്ത്വങ്ങൾ അദ്ദേഹത്തിന്റെ ഗ്രന്ഥങ്ങളിൽനിന്നു ലോകത്തിനു ലഭിച്ചിട്ടുണ്ടു്. അവയുടെ വെളിച്ചത്തിൽ
+സ്വജീവിതം ശൂദ്ധീകരിക്കാൻ അദ്ദേഹം തീവ്രയത്നം ചെയ്തുവെന്നു സമ്മതിക്കാം. എന്നാൽ ടോൾസ്റ്റോയി തന്റെ
+ഗ്രന്ഥങ്ങളിൽ പ്രദർശിപ്പിച്ച മാതൃകാമനുഷ്യനായി പൊരുത്തപ്പെടാത്ത ഒരു പ്രാകൃതമനുഷ്യൻ ആജീവന്തം
+അദ്ദേഹത്തിൽ വാസമുറപ്പിച്ചിരുന്നു.
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/Shelley.jpg" rendition="gra"/>
+          <figDesc style="thumb">ഷെല്ലി</figDesc>
+        </figure>
+        <p> ഇതുപോലെ എത്രയെത്ര ഉദാഹരണങ്ങൾ! യാതൊരു നാണവുംകൂടാതെ അഞ്ചാറു കാമനാടകങ്ങളാടിയ
+കേമനാണു മറ്റൊരു വിശ്വസാഹിത്യകാരനായ ബെൽസാക്ക്. കെട്ടിയവനിൽനിന്നു് എട്ടും കാമുകന്റെ വക
+ഒന്നും—ഇങ്ങനെ ഒൻപതു കുട്ടികളുള്ള ഒരു നാല്പത്തഞ്ചുകാരിയുമായി അടുത്തുകൂടിയ കാലത്തു് ബെൽസാക്കിനു്
+ആ തള്ളയുടെ മകനാകാൻ പ്രായമേ ഉണ്ടായിരുന്നുള്ളൂ. കണ്ടമാനം കടംമേടിച്ചു ധൂർത്തടിച്ചു
+കരാറുലംഘനക്കേസുകളിൽ ചെന്നു ചാടാനും ഈ സാഹിത്യകാരനു കൂസലുണ്ടായില്ല. അമ്മയുടെ സ്വത്തു മുഴുവൻ
+നശിപ്പിച്ചു് അവരെക്കൂടി കഷ്ടതയിലാക്കിയതാണു് അദ്ദേഹത്തിന്റെ പുത്രധർമ്മം!
+</p>
+        <figure rend="fright" type="gra">
+          <graphic url="images/Dostoevskij.jpg" rendition="gra"/>
+          <figDesc style="thumb">ഡോസ്റ്റവ്സ്കി</figDesc>
+        </figure>
+        <p> വിശ്വപ്രശസ്തി നേടിയ <ref target="https://ml.wikipedia.org/wiki/Fyodor_Dostoyevsky">ഡോസ്റ്റവ്സ്കി</ref>
+യുടെ കഥയും ഇതുപോലെതന്നെ. ചൂതു കളികൊണ്ടു് അങ്ങേയറ്റം അധഃപതിച്ചു് അദ്ദേഹവും കടക്കാരനും
+കാമുകനും ആയി ജീവിതം കുറേയേറെ താറുമാറാക്കി. ഭാര്യ മരിക്കാൻ കിടക്കുമ്പോൾ വെപ്പാട്ടിയുടെ കൂടെ
+ഓടിപ്പോകാനുള്ള ഹൃദയകാഠിന്യം എത്ര പേർക്കുണ്ടാകും? അതും ചെയ്തു ഈ സാഹിത്യാചാര്യൻ! ഒരു ചെറിയ
+പെൺകുട്ടിയെ മാനഭംഗംചെയ്ത നീചൻ എന്നു പോലും അദ്ദേഹത്തെപ്പറ്റി ഒരു നിരൂപകൻ പറയുന്നുണ്ടു്.
+</p>
+        <figure rend="fleft" type="gra">
+          <graphic url="images/Alexander_Dumas.jpg" rendition="gra"/>
+          <figDesc style="thumb">അലക്സാണ്ടർ ഡുമാസ്</figDesc>
+        </figure>
+        <p><ref target="https://en.wikipedia.org/wiki/Alexandre_Dumas">അലക്സാണ്ടർ
+ഡുമാസി</ref> നു് എത്ര നോവലെഴുതിയെന്നും എത്ര ഭാര്യമാരുണ്ടായിരുന്നുവെന്നും
+ഓർമ്മയുണ്ടായിരുന്നില്ലപോൽ! എന്തുമാത്രം അലങ്കോലപ്പെട്ടതായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Percy_Bysshe_Shelley">ഷെല്ലി</ref>
+യുടേയും <ref target="https://ml.wikipedia.org/wiki/Lord_Byron">ബയറന്റേ</ref>
+യും മറ്റും ജീവിതം! എന്നാൽ ഈ മഹാകവികൾ കവിതകളിൽക്കൂടി വിളംബരം ചെയ്ത സന്ദേശങ്ങളോ, എത്ര
+
+മഹത്തരം! ഇങ്ങനെ നോക്കുകയാണെങ്കിൽ ചെളിയിൽനിന്നു പൊന്തിവരുന്ന താമരപ്പൂക്കൾപോലെയാണു്
+ഉൽക്കൃഷ്ടസാഹിത്യകൃതികളെന്നു പറയേണ്ടിവരും. അങ്ങനെ പറയുന്നതു് മുഴുവൻ ശരിയോ? എന്തൊരു
+ജീവിതവൈരുദ്ധ്യം! ഇത്രയേറെ തമോധൂസരമാകുന്ന സ്വകാര്യജീവിതത്തിന്റെ സൂക്ഷിപ്പുകാരിൽനിന്നു് ഇത്ര
+ഭാസുരങ്ങളായ സൽകൃതിരത്നങ്ങളുണ്ടാകുന്നതെങ്ങനെ? കവിഹൃദയം ഇരുട്ടിൽനിന്നു വെളിച്ചത്തിലേക്കു
+കടക്കുന്ന ചില സന്ദർഭങ്ങളുണ്ടു്. അത്തരം സുമുഹൂർത്തങ്ങളിലാകാം അതിൽനിന്നു സാഹിത്യാമൃതം
+ബഹിർഗ്ഗമിക്കുന്നതു്. മറ്റവസരങ്ങളിൽ കവിയിലെ മനുഷ്യൻ മിക്കവാറും ഇരുട്ടിലായിരിക്കാം. ‘തമസോ മാ
+ജ്യോതിർഗമയ’ എന്നു <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+പോലും പ്രാർത്ഥിച്ചുകൊണ്ടിരുന്നില്ലേ?
+</p>
+        <p>
+(ചിന്താതരംഗം—1958)
+</p>
+        <div type="lsection" xml:id="sec1.1">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.1.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.1.1"-->
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>
+ Jeevithavairudhyangal—Kavikalil (ml: ജീവിതവൈരുദ്ധ്യങ്ങൾ—കവികളിൽ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Jeevithavairudhyangal—Kavikalil, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള,
+ജീവിതവൈരുദ്ധ്യങ്ങൾ—കവികളിൽ, Open Access Publishing, Malayalam, Sayahna Foundation,
+Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 23, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:The_Story_Without_an_End__The_Harebell_and_the_Dragon_Fly.jpg">The Harebell and the Dragon Fly,</ref> a
+painting by Friedrich Wilhelm Carové  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-vairudhyam.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhavairudhyam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

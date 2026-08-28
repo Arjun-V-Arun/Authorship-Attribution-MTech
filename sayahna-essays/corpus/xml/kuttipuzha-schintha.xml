@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സ്വതന്ത്രചിന്ത</title>
+          <title xml:lang="en" type="main">Swathanthrachintha</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 14, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സ്വതന്ത്രചിന്ത</title>
+              <title xml:lang="en" type="main">Swathanthrachintha</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Swathanthrachintha</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>സ്വതന്ത്രചിന്ത</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 14, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Man_Fishing.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Pekka_Halonen__Man_Fishing_-_A_IV_3699_-_Finnish_National_Gallery.jpg">Man Fishing,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Pekka_Halonen">Pekka Halonen</ref>
+ (1865–1933). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സ്വതന്ത്രചിന്ത</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സ്വതന്ത്രചിന്ത</head>
+        <div type="lsection">
+          <p style="noindent">ഏതാനും പേർ ചിന്തിക്കുന്നു. ബാക്കിയുള്ളവർ അവരുടെ പിറകെ പോകുന്നു.
+ഇതാണു മനുഷ്യചരിത്രത്തിൽ നാം കാണുന്ന കാഴ്ച. ഒരു സംഗതിയെപ്പറ്റി ശരിയായി ചിന്തിക്കുന്നവർ
+ചുരുക്കമാകുന്നു. അവരിൽത്തന്നെ ആ ചിന്ത സ്വതന്ത്രമായി നടത്തുന്നവർ എത്രയോ ദുർല്ലഭം. മതം, ശാസ്ത്രം,
+രാജ്യന്തരം തുടങ്ങിയ ഏതു വിഷയത്തിലും ഇതുതന്നെയാണു് സാമാന്യസമ്പ്രദായം. ഓരോ കാലഘട്ടത്തിലും
+രണ്ടോനാലോ യഥാർത്ഥചിന്തകന്മാരുണ്ടാകുന്നു. അവരുടെ ആശയങ്ങൾ ലോകത്തെ ഭരിക്കുന്നു.
+അനുകരിക്കുന്നവരും അനുസരിക്കുന്നവരും ആണു് മനുഷ്യരിൽ ഭൂരിപക്ഷവും. അറിയുന്നവരും അറിയിക്കുന്നവരും
+ഏറ്റവും ദുർല്ലഭമത്രെ. ‘ഗതാനുഗതികോ ലോക’ എന്ന വചനം ആശയങ്ങളെ സംബന്ധിച്ചും എത്രയോ
+അർത്ഥവത്തായിരിക്കുന്നു. ചിന്തിക്കുവാനുള്ള ശക്തി എല്ലാ മനുഷ്യരിലും പ്രകൃത്യാ വിലീനമായിരിക്കുന്നുണ്ടു്.
+എന്നാൽ അതു് എല്ലാവരിലും പൂർണമായി നിർബാധം വ്യാപരിക്കുന്നില്ല. അഭ്യസ്തവിദ്യരിൽത്തന്നെ
+ചിന്താവ്യപാരമില്ലാത്തവർ ധാരാളമുള്ളതുകൊണ്ടു് വിദ്യാഭ്യാസത്തിന്റെ കുറവു് ഇതിനൊരു പ്രധാന കാരണമായി
+ഗണിക്കുവാൻ നിവൃത്തിയില്ല. സാധാരണരീതിയിലല്ല ഇവിടെ ചിന്താശബ്ദം പ്രയോഗിച്ചിരിക്കുന്നതു്. ഒരു
+സംഗതിയെപ്പറ്റി യുക്തിപൂർവം വിചാരണ ചെയ്തു ഒരഭിപ്രായം രൂപപ്പെടുത്തുകയും ആ അഭിപ്രായത്തിന്റെ
+സാധുത്വം സ്വാനുഭവങ്ങളിൽക്കൂടി പരിശോധിച്ചു കൊണ്ടിരിക്കുകയും ചെയ്യുകയെന്നുള്ളതാണു് പ്രസ്തുത
+ലേഖനത്തിലെ വിവക്ഷ. ഈ രീതിയിലുള്ള ചിന്ത സ്വതന്ത്രവുംകൂടി ആയിരിക്കണം. ചിന്തയുടെ പ്രസ്തുത
+വിശേഷണത്തിനാണു് ഇവിടെ പ്രാധാന്യം കൊടുത്തിരിക്കുന്നതു്.
+</p>
+          <p>ചിന്ത സ്വതന്ത്രമാവുകയെന്നാൽ എന്താണു്? ഒരു തത്ത്വത്തെയും അംഗീകരിക്കതെ നിരങ്കുശമായി സകല
+വ്യവസ്ഥകളെയും അനാദരിച്ചു് വിചാരരശ്മികളെ നാലുപാടും പ്രസരിപ്പിക്കുകയെന്നു് അതിനർത്ഥമില്ല. നിഷ്പക്ഷത
+നിർബാധത എന്ന രണ്ടു ലക്ഷണങ്ങൾ തികഞ്ഞതാണു് സ്വതന്ത്രചിന്ത. ചിന്താലോകത്തിൽ ഇപ്പോൾ
+അസ്തമിതപ്രായമായിരിക്കുന്നതും ഈ രണ്ടു ഗുണങ്ങൾതന്നെയാണു്. നിഷ്പക്ഷതയെന്നാൽ എന്താണെന്നു
+വിവരിക്കേണ്ട ആവശ്യമില്ല. എന്നാൽ നിർബാധതയ്ക്കു ഒരു വിശദീകരണം ആവശ്യമാണു് നമ്മുടെ ചിന്താഗതി
+സാധാരണമായി പല വിധത്തിലും ബാധിതമാകാറുണ്ടു്. മനുഷ്യപ്രകൃതിയിൽ കാണുന്ന ഭാവാധിക്യം, വീരാരാധന,
+സാമുദായികാചാരങ്ങൾ, മാമൂലുകൾ, മതവിശ്വാസങ്ങൾ, കക്ഷിവ്യവസ്ഥകൾ, രാഷ്ട്രീയനിയമങ്ങൾ എന്നിങ്ങനെ
+പലതും ഒരുവന്റെ സ്വതന്ത്രമായ ചിന്താഗതിയെ ബാധിക്കുന്നു. ഇവകൊണ്ടു് ചിന്തയുടെ സ്വച്ഛന്ദവ്യാപാരം
+തടയപ്പെടുകയോ അതിനു് ഒരു നിറപ്പകർച്ച വരുകയോ ചെയ്യാതിരിക്കുന്ന അവസ്ഥയാണു് നിർബാധിതയിൽ
+സൂചിതമായിരിക്കുന്നതു്. മേല്പറഞ്ഞവയെ ഒരു വിധത്തിലും ആദരിക്കരുതെന്നു് ഇവിടെ അഭിപ്രായപ്പെടുന്നില്ല.
+എന്നാൽ അവയ്ക്കു അടിമപ്പെട്ടു വിഷയനിരൂപണത്തിനുള്ള സ്വശക്തിയെ നശിപ്പിക്കുന്നതു ആപൽക്കരമാകുന്നു.
+ചില പ്രത്യേകാശയങ്ങൾക്കും സിദ്ധാന്തങ്ങൾക്കും അടിമകളായി തീർന്നിട്ടുള്ള അനേകം പേരെ
+പണ്ഡിതലോകത്തിൽത്തന്നെ നമുക്കു കാണ്മാൻ കഴിയും അവരുടെ പ്രതിഭാപ്രസരം ഒരു ക്ലിപ്തവൃത്തത്തിനുള്ളിൽ
+ഞെരുങ്ങി നിൽക്കുകയാണെന്നു സൂക്ഷിച്ചാലറിയാം. അതിനപുറം കടന്നു ഗുണദോഷവിചിന്തനം ചെയ്യുവാൻ
+അവർ ധൈര്യപ്പെടുകയോ ഇഷ്ടപ്പെടുകയോ ചെയ്യുന്നില്ല. ഒരു വിഷയത്തെപ്പറ്റി സ്വന്തമായ ഒരഭിപ്രായം
+രൂപവല്ക്കരിക്കുവാൻ അധികംപേർക്കും സാധിക്കാതെ വരുന്നതും ഇത്തരം ആശയപാരതന്ത്ര്യം കൊണ്ടാണു്.
+ഇതിൽനിന്നു വിട്ടുനിൽക്കുകയെന്നതു് തുലോം പ്രയാസമേറിയ ഒന്നാകുന്നു. ഇതുകൊണ്ടുതന്നെയായിരിക്കാം
+സാധാരണ ലേഖനങ്ങളിലും പ്രസംഗങ്ങളിലും ആശയങ്ങളുടെ ആവർത്തനം ക്രമാതീതമായി കാണപ്പെടുന്നതു്.
+</p>
+          <p>ചിന്താവിഷയമായി മേൽക്കാണിച്ച വൈഷമ്യങ്ങളുടെ കാരണങ്ങളെ ആഭ്യന്തരമെന്നും ബാഹ്യമെന്നും
+രണ്ടായി തിരിക്കാം. ആദ്യത്തേതു മനുഷ്യസ്വഭാവത്തിൽത്തന്നെ ഒളിഞ്ഞുകിടക്കുന്നു. അതിനാണു് ഭാവാധിക്യം
+എന്നു പേരു കൊടുത്തതു്. സ്വതന്ത്രചിന്തയുടെ ഒന്നാമത്തെ ശത്രു ഇതാണെന്നു് സൂക്ഷിച്ചാലറിയാം. ഇതു
+നമ്മിൽത്തന്നെ ലയിച്ചിരിക്കുകയും പലപ്പോഴും നാം അറിയാതെതന്നെ തല പൊന്തിക്കുകയും ചെയ്യുന്നതുകൊണ്ടു്
+കുറെക്കൂടി ആപൽക്കരമായിത്തീരുന്നു. മനുഷ്യൻ എപ്പോഴും വികാരത്തിനു് അല്ലെങ്കിൽ ഭാവത്തിനു് (Emotion)
+അധീനനാകുന്നു എന്നു മാത്രമല്ല, അതിന്റെ ആധിക്യത്തിൽ അവന്റെ മറ്റു ശക്തികളെല്ലാം മന്ദീഭവിക്കുകയും
+ചെയ്യുന്നു. ഇതിൽ കൂടുതൽ വാട്ടം തട്ടുന്നതു ബുദ്ധിശക്തിക്കാണു്. ചിന്തബുദ്ധിയുടെ വ്യാപാരമാണല്ലോ
+ഏതെങ്കിലും കാരണത്താൽ ചിന്തകൻ ഭാവഭരിതനാകുമ്പോൾ അവന്റെ ചിന്ത ഹൃദയം പിടിച്ചു് വലിക്കുന്ന
+വശത്തേക്കു തിരിയുകയും തദനുസൃതമായ ഒരു തീരുമാനം അവനിൽ ഉണ്ടാവുകയും ചെയ്യുന്നു. ഇങ്ങനെ
+മാനസികമായി ചിന്താഗതിക്കു വരുന്ന ഈ വ്യതിയാനം അതിസൂക്ഷ്മമത്രെ. ഇതിൽ ശ്രദ്ധിക്കാത്തതുകൊണ്ടു
+പലരുടെയും യുക്തിവാദങ്ങൾക്കും സിദ്ധാന്തസ്ഥാപനത്തിനും വൈകല്യം നേരിടാറുണ്ടു്. ഝടിതിയിൽ സ്വയം
+നടക്കുന്ന ഒന്നാണു് ഭാവസ്ഫുരണം. അതു് ഉണ്ടാകുന്നതും നമ്മെ അടിമപ്പെടുത്തുന്നതും നാം അറിയുന്നില്ല. എന്നാൽ
+ചിന്ത അത്രത്തോളം ത്വരിതവും നിർബാധവും ആയി പ്രവർത്തിക്കുന്നില്ല. പ്രവർത്തിച്ചാൽത്തന്നെയും അതു
+
+ഭാവോത്തേജനം കൊണ്ടു പ്രതിബദ്ധമാവുകയോ ഏകപക്ഷമായി കാണുന്നതു പൂർവ്വോക്തരീതിയിലുള്ള
+ഭാവപ്രവർത്തനമായതുകൊണ്ടു് അതും ഇക്കൂട്ടത്തിൽ ഉൾപ്പെടുത്താവുന്നതാണു്.
+</p>
+          <p>ഒരു ഉദാഹരണം കൊണ്ടു് ഈ സംഗതി സുസ്പഷ്ടമാക്കാം. <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+യെപ്പറ്റി സ്മരിക്കുമ്പോൾ അദ്ദേഹത്തോടുള്ള ഭക്ത്യാധിക്യം കൊണ്ടു് വികാരാവിഷ്ടനാകുന്ന ഒരാൾക്കു്
+അദ്ദേഹത്തിന്റെ സിദ്ധാന്തങ്ങളെപ്പറ്റി സ്വതന്ത്രമായി ഗുണദോഷവിചിന്തനം ചെയ്വാൻ സാധിക്കുന്നതല്ല. ഏതു
+വിഷയത്തിലും ഗാന്ധിജിയുടെ അഭിപ്രായം സർവോപരി സാധുവാണെന്നൊരു തോന്നൽ ആ ഭക്തന്റെ ചിന്തയെ
+പിടികൂടി വളയ്ക്കുവാൻ ശ്രമിക്കുന്നു. തൽഫലമായി ദോഷമുള്ളിടത്തും അതു കാണുവാൻ അയാൾക്കു
+സാധിക്കുന്നില്ല. ഇതുപോലെതന്നെ ഏതെങ്കിലും കാരണത്താൽ മനസ്സിൽ അടിയുറച്ചുപോയിരിക്കുന്ന
+പ്രതികൂലഭാവത്തിന്റെ ഉത്തേജനത്തിൽ ഗുണമുള്ളിടത്തും ദോഷദർശനംതന്നെ നടക്കുന്നതായിരിക്കും.
+മഹാദേവദേശായി തുടങ്ങിയ അന്തേവാസികളുടെയും ‘ഒഡയർ കമ്പനി’യിൽപ്പെട്ട പ്രതികൂലരുടെയും
+വീക്ഷണരീതി പരിശോധിച്ചാൽ ഗാന്ധിയെപ്പറ്റി ഇരുകൂട്ടർക്കും തീരെ നിർബന്ധമായ നിഷ്പക്ഷനിരൂപണം
+നിർവഹിക്കുവാൻ സാധിക്കുമോ എന്നു സംശയം തോന്നുന്നതാണു്. <ref target="https://ml.wikipedia.org/wiki/Buddha">ബുദ്ധൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Jesus">ക്രിസ്തു</ref> തുടങ്ങിയ മതാചാര്യന്മാരുടെ
+വചനങ്ങളും ഈ രീതിയിൽ തദനുയായികളെ അസ്വതന്ത്രന്മാരാക്കുന്നുണ്ടു്. ഇനി ഇന്നത്തെ യുവലോകത്തിൽ
+കാണുന്ന ഉണർവു് പരിശോധിച്ചുനോക്കുക! അതിനകത്തു് ഈ ദോഷം കടന്നുകൂടിയിരിക്കുന്നതായി കാണാം.
+ആധുനിക യുവലോകം പ്രക്ഷുബ്ധമായിരിക്കുന്നു എന്ന സംഗതിതന്നെ ഇപ്പോഴത്തെ ഉണർച്ച കേവലം
+വികാരപരമായിട്ടുള്ള (Emotional awakening) ഒന്നാണെന്നു തെളിയിക്കുന്നുണ്ടു്. ചിന്തകൊണ്ടുള്ള നിയന്ത്രണം
+അതിൽ പ്രതിഫലിക്കുന്നില്ല. അനിയന്ത്രിതമായ ചില ആശയപ്രവാഹങ്ങളിൽ ജനതതി ഇളക്കിമറിഞ്ഞു മുന്നോട്ടു
+പായുന്നു. ജീർണജടിലമായ യാഥാസ്ഥിതികത്വത്തിന്റെ ധ്വംസനത്തിനു് ഇതു നല്ലതുതന്നെ പക്ഷേ,
+വികാരത്തിന്റെ ഈ തിരതല്ലൽ നമുക്കു ആവശ്യമായിരിക്കുന്ന ഉൽപതിഷ്ണുത്വത്തിൽ ഉപരിപ്ലവത്വം കൂടിക്കലർത്തി
+അതിനെ നിഷ്ഫലവും വിപല്ക്കരവുമാക്കിത്തീർക്കുന്നു. ഉൽകൃഷ്ടവിദ്യാഭ്യാസം സിദ്ധിച്ച യുവതീയുവാക്കന്മാർ ‘സ്വരാജ്യ’
+സമ്പാദനത്തിനായി നിഷ്ഠുരമായ നരഹത്യയ്ക്കു പുറപ്പെടുന്നതു് അവർ ഭാവപ്രേരണയിൽ നഷ്ടപ്രജ്ഞരാകുന്നതിന്റെ
+ഫലമത്രെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Hari_Singh_Gour.jpg" rendition="gra"/>
+            <figDesc style="thumb">സർ ഹരിസിംഗ്ഗോർ</figDesc>
+          </figure>
+          <p> സാമുദായികചാരങ്ങൾ, മാമൂലുകൾ, മതവിശ്വാസങ്ങൾ ഇവ സ്വതന്ത്രചിന്തയെ തടയുന്ന കാഴ്ച
+സർവസാധാരണവും നമുക്കു നിത്യപരിചയമുള്ളതുമാകയാൽ വിസ്തരിക്കേണ്ട ആവശ്യമില്ല. ചിന്തയാകുന്ന
+ദീപത്തിന്റെ ഒരുതരം ആവരണങ്ങളായി ഇവയെ കണക്കാക്കാം. ആവരണങ്ങളുടെ വർണഭേദമനുസരിച്ചു്
+അവയിൽ പ്രതിഫലിക്കുന്ന പ്രകാശത്തിനും നിറപ്പകർച്ച വന്നു പോകുന്നു. സുപ്രസിദ്ധ സമുദായ പരിഷ്കാരകനായ
+<ref target="https://en.wikipedia.org/wiki/Hari_Singh_Gour">സർ
+ഹരിസിംഗ്ഗോർ</ref> അസംബ്ളിയിൽ കൊണ്ടുവന്ന ഹിന്ദു വിവാഹമോചനബില്ലിനെ പല മെമ്പർമാരും
+എതിർക്കുകയുണ്ടായി. മതപരമായും സാമുദായികമായുമുള്ള അടിമത്തം ഇക്കൂട്ടരുടെ അഭിപ്രായങ്ങളിൽ ആദ്യന്തം
+തെളിഞ്ഞുകാണുന്നുണ്ടു്. സീതയേയും സാവിത്രിയേയും ഓർത്തിട്ടെങ്കിലും ഈ ബില്ലിനെ
+എതിർക്കുയെന്നായിരുന്നു ഒരു മെമ്പർ ഉദ്ഘോഷിച്ചതു്. ഹിന്ദുസമുദായം അധഃപതിച്ചുപോകുമെന്നു അദ്ദേഹം
+ഭയപ്പെട്ടു. കാലസ്ഥിതിയനുസരിച്ചു വിവാഹവ്യവസ്ഥകളിൽ മാറ്റം വരുത്തുന്നതിനു ചരിത്രലക്ഷ്യങ്ങൾക്കു പോലും
+വിഷയമാകാത്ത വണ്ണം അതിവിദൂരമായ ഒരു പ്രാചീനകാലഘട്ടത്തിൽ പക്ഷേ, കല്പിതകകഥാപാത്രങ്ങളായി
+ജീവിച്ചിരുന്ന സീതയേയും സാവിത്രിയേയും വലിച്ചിഴച്ചുകൊണ്ടുവരേണ്ട ആവശ്യമുണ്ടോ എന്നു ചിന്തിക്കുവാനുള്ള
+സ്വാതന്ത്ര്യം ആ മെമ്പർക്കു നഷ്ടമായിരിക്കുന്ന ദയനീയ ചിത്രമാണു് നാം ഇവിടെ കാണുന്നതു്. ഇത്തരം
+ബാലിശങ്ങളായ വാദങ്ങളും അവപുറപ്പെടുവിക്കുന്നവരുടെ വളർച്ചയറ്റു മുരടിച്ചുപോയ പ്രതിഭയും ഇതുപോലെ പല
+നിയമസഭകളിലും പ്രത്യക്ഷപ്പെടാറുണ്ടു്. മതം എങ്ങനെ തകർന്നുപോകുമെന്നും സമുദായം എങ്ങനെ
+അധഃപതിക്കുമെന്നും യുക്തിവാദം ചെയ്വാൻ ഇവർ സന്നദ്ധന്മാരല്ല. അതിനു് അവർക്കു സാധിക്കുകയുമില്ല.
+ആചാരങ്ങളും മാമൂലുകളും പോലെതന്നെ മതത്തോടും സമുദായത്തോടും രാജ്യത്തോടും ഉള്ള അതിരറ്റ സ്നേഹവും
+അഭിമാനവും സ്വതന്ത്രചിന്തയെ ഹനിക്കാറുണ്ടു്. ചിലരുടെ വീക്ഷണകോണം ഏതു സംഗതിയിലും
+സമുദായികമായിരിക്കും. ചിലരുടേതു മതപരമായിരിക്കും. മറ്റു ചിലരുടേതു രാജ്യത്തോടു
+സംബന്ധിപ്പിച്ചതായിരിക്കും. മതത്തോടും സമുദായത്തോടും ഒരു ബന്ധവുമില്ലാത്ത വിഷയങ്ങൾക്കുകൂടി
+അവയോടു ഘടിപ്പിച്ചു അഭിപ്രായം പ്രകടിപ്പിക്കുന്ന പലരും ഉണ്ടു്. ഇക്കൂട്ടർ ഹിമവൽ പർവതത്തിന്റെ പൊക്കം
+കണക്കാക്കുന്നതുപോലും മതസമുദായക്കണ്ണാടികളിൽക്കൂടിയായിട്ടായിരിക്കും. വർഗീയതയെ പുലർത്തുന്ന ചില
+പത്രങ്ങളും ഇത്തരത്തിൽപ്പെട്ടവയാണു്. അവയുടെ പത്രാധിപന്മാർക്കു തങ്ങളുടെ സമുദായപരിധിയെ
+
+അതിക്രമിച്ചു ന്യായാന്യായവിവേചനം ചെയ്യുവാൻ സാധിക്കുന്നില്ല. ഗാന്ധിജി മനുഷ്യവർഗത്തിനു പൊതുവേ
+എന്തുചെയ്തു എന്നല്ല തങ്ങളുടെ സമുദായത്തിനു് അദ്ദേഹത്തിൽനിന്നു് എന്തു കിട്ടിയെന്നാണു് ഇവരുടെ നോട്ടം.
+ഇതുപോലെ രാജ്യത്തെപ്പറ്റിയുള്ള സ്നേഹാഭിമാനങ്ങൾ അഭിപ്രായപ്രകടനത്തിൽ പരിപാലിക്കേണ്ട നിഷ്പക്ഷതയ്ക്കു
+പ്രതിബന്ധമാകുന്നതിനും ഉദാഹരണങ്ങൾ സുലഭങ്ങളാണു്. ആംഗ്ലേയർക്കു ആഗ്ലേയർ എന്ന നിലയിലല്ലാതെ
+മനുഷ്യർ എന്ന നിലയിൽ ഇന്ത്യൻ പ്രശ്നങ്ങളെപ്പറ്റി ചിന്തിക്കുവാൻ സാധിക്കുന്നില്ല. ലോകത്തെ ഒട്ടാകെ
+ബാധിക്കുന്ന പ്രമേയങ്ങളെപ്പറ്റി സർവരാജ്യസഭ (League of Nations) യിൽ വിചാരണ ചെയ്യുമ്പോൾ
+ഇംഗ്ലീഷുകാർ ഇംഗ്ലീഷുകാരായിട്ടും ഫ്രഞ്ചുകാർ ഫ്രഞ്ചുകാരായിട്ടും ചിന്തിക്കുന്നു. അല്ലാതെ മഹത്തായ
+മനുഷ്യസമുദായത്തിന്റെ വിവേകികളും വിജ്ഞാനികളുമായ അംഗങ്ങളെന്ന നിലയിൽ സാർവലൗകികമായ
+സമാധാനത്തിനും അഭിവൃദ്ധിക്കും വേണ്ടി കാര്യവിചാരം ചെയ്യുവാൻ അവർക്കു കഴിയുന്നില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Leo_Dawidowitsch_Trotzki.jpg" rendition="gra"/>
+            <figDesc style="thumb">ട്രോട്സ്കി</figDesc>
+          </figure>
+          <p> സ്വതന്ത്രചിന്തയെ പ്രതിരോധിക്കുന്ന രാഷ്ട്രീയനിയമങ്ങളും കക്ഷിയേർപ്പാടും മുൻപറഞ്ഞവയേക്കാൾ
+ആലോചനയ്ക്കു രസാവഹങ്ങളായിരിക്കുന്നു. രാഷ്ട്രീയനിയമങ്ങൾ എന്നു പറഞ്ഞതു പ്രധാനമായി ഗവണ്മെന്റ്
+നിയമങ്ങളെ ഉദ്ദേശിച്ചാണു്. എല്ലാ രാജ്യങ്ങളിലെ ഗവണ്മെന്റും മനുഷ്യരുടെ ചിന്താപരമായ വളർച്ചയെ
+തടയുന്നുണ്ടു്. അഭിപ്രായസ്വാതന്ത്ര്യം അനുവദനീയമാണെന്ന തത്ത്വം പരിഷ്കൃതഗവണ്മെന്റ്
+അംഗീകരിച്ചിട്ടുണ്ടെങ്കിലും പ്രയോഗത്തിൽ പലപ്രകാരത്തിലും അതിനു ചട്ടങ്ങൾ പ്രതിബന്ധങ്ങളായിരിക്കുന്നു.
+സമത്വം, സാഹോദര്യം, സ്വാതന്ത്ര്യം എന്ന മൂന്നിനം നൃത്തരംഗമായി ഇപ്പോൾ കണക്കാക്കപ്പെട്ടിരിക്കുന്ന
+രാജ്യമാണു് റഷ്യ. അവിടത്തെ സോവിയറ്റ് ഗവണ്മെന്റ് ആധുനികാദർശങ്ങൾക്കു മാതൃകയാണെന്നും കേൾക്കുന്നു.
+പക്ഷേ, അവിടെ ചിന്താസ്വാതന്ത്ര്യം ഉണ്ടോ? സോവിയറ്റ് ഗവണ്മെന്റിന്റെ തത്ത്വങ്ങളിൽനിന്നു ഭിന്നമായ ഒരു
+രീതിയിൽ ചിന്തിക്കുവാനോ അഭിപ്രായം സ്ഥാപിക്കുവാനോ ആരെങ്കിലും പുറപ്പെട്ടാൽ അവനു് അവിടെ
+വധശിക്ഷവരെ ലഭിക്കുന്നതാണു്! <ref target="https://ml.wikipedia.org/wiki/Vladimir_Lenin">ലെനിന്റെ</ref>
+വലത്തുകൈ ആയി നിന്നു പ്രവർത്തിച്ച സുപ്രസിദ്ധ രാജ്യതന്ത്രജ്ഞനായ <ref target="https://ml.wikipedia.org/wiki/Leon_Trotsky">ട്രോട്സ്കി</ref> ക്കു് ഇന്നു്
+റഷ്യയിൽ കടക്കുവാൻ പാടില്ലാത്തതു് അദ്ദേഹത്തിന്റെ ചിന്താഖനിയിൽ ചില സ്വതന്ത്രാശയങ്ങൾ
+വിളഞ്ഞുപോയി എന്ന കുറ്റംകൊണ്ടാണു്! ഇറ്റലിയിൽ ‘ഫാസിസ്റ്റ്’ ഭരണരീതിക്കു് എതിരായി ചിന്തിക്കുകയോ
+അഭിപ്രായം പുറപ്പെടുവിക്കുകയോ ചെയ്കയില്ലെന്നൊരു പ്രതിജ്ഞാപത്രം എഴുതി ഒപ്പിടുവാൻ കോളേജുകളിലെ
+പ്രൊഫസറന്മാരെക്കൂടി നിർബന്ധിച്ചിരിക്കുന്നു. ഈ അപരിഷ്കൃത നയത്തെ അനവധി
+വിദ്യാലയകേന്ദ്രങ്ങളിൽനിന്നും പ്രതിഷേധിക്കുകയുണ്ടായി. പരിശുദ്ധങ്ങളായ വിദ്യാലയങ്ങളിൽപ്പോലും
+വിജ്ഞാനോന്മുഖമായ സ്വതന്ത്രചിന്തയെ ഇങ്ങനെ തടയുന്നതു ജ്ഞാനാഭിവൃദ്ധിക്കു് എത്രമാത്രം
+ഹാനികരമാണെന്നു നോക്കുക! മനുഷ്യന്റെ വിവേചനശക്തിയെ ഇങ്ങനെ ഇടിച്ചമർത്തുന്ന മാനസികമായ
+മർദനം ശാരീരികമായ മർദനത്തേക്കാൾ പതിന്മടങ്ങു നീചവും നാശകരവുമാണെന്നു പറയേണ്ടിയിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/William_Wedgewood-Benn.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെഡ്ജ്വുഡ് ബെൻ</figDesc>
+          </figure>
+          <p> കക്ഷിയേർപ്പാടുകൊണ്ടു് (party system) ചിന്താലോകത്തിൽ നേരിടുന്ന കുഴപ്പങ്ങൾക്കു് ഇംഗ്ലണ്ടിലെ
+പാർലമെന്റു തന്നെ ഒന്നാംതരം ഉദാഹരണമാണു്. അവിടെ ഒരു തൊഴിലാളി കക്ഷിക്കു് (Labour) ഒരു
+ഉൽപതിഷ്ണു (liberal) വിനെപ്പോലെയോ യാഥാസ്ഥിതികനേ (Conservative) പ്പോലെയോ ചിന്തിക്കുവാൻ
+നിവൃത്തിയില്ല. അതുപോലെ ഒരു യഥാസ്ഥിതികനു കാര്യാലോചനയിൽ തൊഴിലാളിയുടെ ഛായ വന്നുപോയാൽ
+‘പാർട്ടി’യിൽനിന്നു പുറത്തു പോകേണ്ടി വരും. <ref target="https://en.wikipedia.org/wiki/William_Wedgwood_Benn,_1st_Viscount_Stansgate">വെഡ്ജ്വുഡ്
+ബെൻ</ref> തൊഴിലാളിലോകത്തെ സംബന്ധിച്ചു പുസ്തകങ്ങൾ എഴുതിയിട്ടുള്ള പണ്ഡിതനാണു്. അദ്ദേഹം ആ
+ഗ്രന്ഥങ്ങളിൽ അംഗീകരിച്ചിട്ടുള്ള തത്ത്വങ്ങളെ ഇന്ത്യാ സെക്രട്ടറി സ്ഥാനത്തുനിന്നുംകൊണ്ടു് അനാദരിക്കുവാൻ
+അദ്ദേഹംതന്നെ പ്രേരിതനായിപ്പോയി. പ്രധാനമന്ത്രിയാകുമ്പോൾ <ref target="https://en.wikipedia.org/wiki/John_D._MacDonald">മാക്ഡോനാൾഡി</ref>
+നു തൊഴിലാളിനായകനെന്ന നിലയിൽ കാര്യങ്ങളെപ്പറ്റി വിചിന്തനം ചെയ്യുവാൻ സാധിക്കുന്നില്ല. ഈ
+വിഷമതകൾ കണ്ടിട്ടായിരിക്കാം ഒരു പണ്ഡിതൻ ആത്മവഞ്ചകന്മാർക്കു മാത്രമേ പാർലമെന്റ്
+
+മെമ്പറന്മാരായിരിക്കുവാൻ സാധിക്കുകയുള്ളുവെന്നു് അഭിപ്രായപ്പെട്ടിട്ടുള്ളതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Bertrand_Russell.png" rendition="gra"/>
+            <figDesc style="thumb">ബർട്രാൻഡ് റസ്സൽ</figDesc>
+          </figure>
+          <p> ഇങ്ങനെ പര്യാലോചന ചെയ്തുനോക്കുമ്പോൾ നമ്മുടെ ചിന്താസരണിയിൽ നിഷ്പക്ഷത, നിർബാധത എന്ന
+രണ്ടു ഗുണങ്ങൾ തികഞ്ഞുകാണുകയെന്നതു് എത്രയെത്ര വിഷമമാണെന്നു കാണാവുന്നതാണു്. ഇതിലേക്കു ഒരു
+ചിന്തകൻ അവന്റെ കുറവുകളെ ആത്മപരിശോധനമൂലം പരിഹരിക്കേണ്ടിയിരിക്കുന്നു. അത്യന്തം ദുഷ്കരമായ
+ഇസ്സംഗതിയിൽ വിജയം നേടുന്ന പണ്ഡിതന്മാരായ ചിന്തകന്മാരാണു് ലോകത്തിലെ യഥാർത്ഥ
+ജ്ഞാനദാതാക്കൾ. അവർ എന്നും എവിടെയും ആരാധനീയന്മാരാകുന്നു. അറിവിന്റെ ശുദ്ധസ്വരൂപം അവരുടെ
+ഗ്രന്ഥങ്ങളിലെ കാണുകയുള്ളു. വിശ്രുതതത്ത്വചിന്തകനായ <ref target="https://ml.wikipedia.org/wiki/Bertrand_Russell">ബർട്രാൻഡ് റസ്സൽ</ref>
+(Bertrand Russel) ഇത്തരത്തിൽപ്പെട്ട ഒരു സൂക്ഷ്മദർശിയത്രെ സ്വതന്ത്രമായ ചിന്ത
+ഏതുവിധത്തിലുള്ളതാണെന്നു് അറിയണമെങ്കിൽ അദ്ദേഹത്തിന്റെ ഗ്രന്ഥങ്ങൾ വായിച്ചാൽ മതിയാകും.
+വസ്തുസ്ഥിതികളെയും ജീവിതഗതികളെയും നിരൂപണം ചെയ്യുമ്പോൾ യാതൊരുവിധമായ ഗണനയും
+അദ്ദേഹത്തെ ബന്ധിക്കുന്നില്ല ചുരുക്കത്തിൽ ആ ഗ്രന്ഥങ്ങളിൽ പ്രതിഫലിക്കുന്ന ചിന്ത, വ്യക്തി, സമുദായം, മതം,
+രാജ്യം ഇവയുടെ നിഴൽപ്പാടുകൾ കൊണ്ടു കളങ്കിതമാകാതെ പ്രശാന്തഭാവം പൂണ്ടു സർവ്വോപരി സംശുദ്ധമായി
+അത്യന്ത സ്വതന്ത്രമായി ഉജ്ജ്വലമായ യുക്തിപ്രകാശത്തിൽ വിലസി വിളയാടുന്നു. അതുതന്നെയാണു്
+അനുകരണീയമായ മാതൃകാരീതി.
+</p>
+          <p>
+നവദർശനം 1967.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Swathanthrachintha (ml:
+സ്വതന്ത്രചിന്ത).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Swathanthrachintha, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, സ്വതന്ത്രചിന്ത, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 14, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Pekka_Halonen__Man_Fishing_-_A_IV_3699_-_Finnish_National_Gallery.jpg">Man Fishing,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Pekka_Halonen">Pekka Halonen</ref>
+ (1865–1933). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-schintha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-schintha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

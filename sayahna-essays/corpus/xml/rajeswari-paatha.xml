@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പരസ്യത്തിന്റെ രഹസ്യം അഥവാ നീതിമാന്റെ
+പാത</title>
+          <title xml:lang="en" type="main">Parasyaththinte Rahasyam Adhava Neethimante
+Paatha</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 25, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പരസ്യത്തിന്റെ രഹസ്യം അഥവാ നീതിമാന്റെ
+പാത</title>
+              <title xml:lang="en" type="main">Parasyaththinte Rahasyam Adhava Neethimante
+Paatha</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Parasyaththinte Rahasyam Adhava Neethimante Paatha</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>പരസ്യത്തിന്റെ രഹസ്യം അഥവാ നീതിമാന്റെ പാത</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 25, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Paisaje_de_Italia.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Paisaje_de_Italia.jpg">Italian
+landscape,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Pieter_Spierinckx">Pieter
+Spierinckx</ref>  (1635–1711). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പരസ്യത്തിന്റെ രഹസ്യം അഥവാ നീതിമാന്റെ പാത</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പരസ്യത്തിന്റെ രഹസ്യം അഥവാ നീതിമാന്റെ പാത</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_T_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ടി. തോമസ്</figDesc>
+          </figure>
+          <p style="noindent"> കേൾവികേട്ട ന്യായാധിപനാണു് ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/K.T._Thomas(Justice)">കെ. ടി.
+തോമസ്</ref>. 1977 ഓഗസ്റ്റിൽ 40-ാം വയസ്സിലാണു് അദ്ദേഹം ജില്ലാ ജഡ്ജിയായി നിയമിതനായതു്. 1985-ൽ
+ഹൈക്കോടതിയിലേക്കു് ഉയർത്തപ്പെട്ടു. ആക്ടിംഗ് ചീഫ് ജസ്റ്റിസ് ആയിരിക്കവെ 1996-ൽ
+സുപ്രീംകോടതിയിലേക്കും. ഇക്കഴിഞ്ഞ ജനുവരി 30-നു് അദ്ദേഹം സർവീസിൽനിന്നു് വിരമിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref>
+കൊലക്കേസ് അടക്കം എത്രയോ വ്യവഹാരങ്ങളിൽ തീർപ്പു കൽപിച്ചു. കാൽനൂറ്റാണ്ടു നീണ്ട ഔദ്യോഗിക
+ജീവിതത്തിൽ യാതൊരു ആരോപണവും നേരിട്ടില്ല. ഞാൻ നീതിയെ ധരിച്ചു; അതു് എന്റെ ഉടുപ്പായിരുന്നു. എന്റെ
+ന്യായം ഉത്തരീയവും തലപ്പാവും പോലെയായിരുന്നു. ഞാൻ അറിയാത്തവന്റെ വ്യവഹാരം പരിശോധിച്ചു. നീതി
+കെട്ടവന്റെ അണപ്പല്ലു ഞാൻ തകർത്തു; അവന്റെ പല്ലിന്റെ ഇടയിൽനിന്നു ഇരയെ പറിച്ചെടുത്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajiv_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജീവ്ഗാന്ധി</figDesc>
+          </figure>
+          <p> സുപ്രീം കോടതിയിൽനിന്നു വിരമിക്കുന്ന ന്യായാധിപർ വാനപ്രസ്ഥത്തിൽ പ്രവേശിക്കുന്നതു് അപൂർവമാണു്.
+മനുഷ്യാവകാശ കമീഷൻ, ഉപഭോക്തൃ കമീഷൻ മുതലായവയുടെ ചെയർമാന്മാരായി ദൽഹിയിൽ
+പറ്റിക്കൂടുന്നവരാണു് അധികവും. ചിലരെങ്കിലും രാഷ്ട്രീയത്തിലും ഒരു കൈ പയറ്റാറുണ്ടു്. 1967-ൽ ചീഫ് ജസ്റ്റിസ്
+<ref target="https://en.wikipedia.org/wiki/Koka_Subba_Rao">കെ.
+സുബ്ബറാവു</ref> ഉദ്യോഗം രാജിവെച്ചു് തീവ്ര വലതുപക്ഷ കക്ഷികളായ ജനസംഘത്തിന്റെയും
+സ്വതന്ത്രപാർട്ടിയുടെയും പിന്തുണയോടെ രാഷ്ട്രപതിസ്ഥാനത്തേക്കു മൽസരിച്ചു. 1982-ൽ <ref target="https://ml.wikipedia.org/wiki/Hans_Raj_Khanna">എച്ച്. ആർ. ഖന്ന</ref> യും
+1987-ൽ <ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ.
+കൃഷ്ണയ്യരും</ref> പ്രതിപക്ഷ സ്ഥനാർഥികളായി മൽസരരംഗത്തുവന്നു. മൂവരും പരാജിതരായി. 1977–79
+കാലത്തു് ലോക്സഭാ സ്പീക്കറായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/K._S._Hegde">കെ. എസ്. ഹെഗ്ഡേ</ref>
+യുടെയും 1979–84 കാലഘട്ടത്തിൽ ഉപരാഷ്ട്രപതിയായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Mohammad_Hidayatullah">എം.
+ഹിദായത്തുള്ള</ref> യുടെയും ഉദാഹരണങ്ങളും നമുക്കുമുന്നിലുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_Subba_Rao.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സുബ്ബറാവു</figDesc>
+          </figure>
+          <p> ചീഫ് ജസ്റ്റിസായി വിരമിച്ച ബി. പി. സിൻഹ, ഹരിദാസ് മുണ്ഡ്ര എന്ന വ്യവസായിയുടെ കീഴിൽ ഉദ്യോഗം
+സ്വീകരിച്ചതു് പാർലെമെന്റിൽ ഒച്ചപ്പാടുണ്ടാക്കി. അടുത്തൂൺ പറ്റിയ ന്യായാധിപർ സ്വകാര്യ ഉദ്യോഗം
+സ്വീകരിക്കുന്നതിന്റെ ധാർമികതയെ മാന്യ അംഗങ്ങൾ ഭരണ-പ്രതിപക്ഷ ഭേദമന്യേ ചോദ്യംചെയ്തു. കേന്ദ്ര
+നിയമമന്ത്രിതന്നെയും അംഗങ്ങളുടെ വികാരത്തോടു യോജിച്ചു. ഇന്ത്യാരാജ്യംകണ്ട എക്കാലത്തെയും ഏറ്റവും
+നിർഭയനായ ന്യായാധിപൻ എന്നുപേരുകേട്ട <ref target="https://ml.wikipedia.org/wiki/Hans_Raj_Khanna">എച്ച്. ആർ. ഖന്ന</ref>
+<ref target="https://ml.wikipedia.org/wiki/Charan_Singh">ചരൺസിംഗി</ref> ന്റെ
+ക്യാബിനറ്റിൽ നിയമമന്ത്രിസ്ഥാനം സ്വീകരിച്ചതു് വമ്പിച്ച പ്രതിഷേധത്തിനിടയാക്കി. ഖന്നയുടെ രാഷ്ട്രീയപ്രവേശം
+മഹാദുരന്തമാണെന്നു് <ref target="https://ml.wikipedia.org/wiki/Nanabhoy_Palkhivala">എൻ. എ.
+പൽക്കിവാല</ref> അഭിപ്രായപ്പെട്ടു. അദ്ദേഹത്തിന്റെ ഛായാചിത്രം സുപ്രീംകോടതിയിൽനിന്നു നീക്കം
+ചെയ്യണമെന്നു് ചീഫ് ജസ്റ്റിസിനോടു് ആവശ്യപ്പെടുന്ന പ്രമേയം അഭിഭാഷക സംഘടനകൾ പാസാക്കി.
+സ്ഥാനമേറ്റതിന്റെ നാലാംദിവസം (2-8-1979) രാജി കൊടുത്തു് ഖന്ന തന്റെ സൽപേരു് വീണ്ടെടുത്തു.
+അദ്ദേഹത്തിന്റെ നീതിബോധത്തെ <ref target="https://en.wikipedia.org/wiki/M._C._Chagla">എം. സി. ഛഗ്ല</ref>
+മുതൽക്കുള്ള നിയമജ്ഞർ അഭിനന്ദിച്ചു. ഇന്ത്യൻ എക്സ്പ്രസും സ്റ്റേറ്റ്മാനുമൊക്കെ മുഖപ്രസംഗവും എഴുതി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Muhammad_Hidayatullah.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ഹിദായത്തുള്ള</figDesc>
+          </figure>
+          <p> കാലക്രമത്തിൽ ഇത്തരം പ്രതിഷേധങ്ങളും കുറഞ്ഞു. ആസാം നിയമസഭയിലേക്കു മൽസരിക്കാൻവേണ്ടി
+ബെഹറുൽ ഇസ്ലാം 1983 ജനുവരി 12-നു് രാജി കൊടുത്തപ്പോഴോ കോൺഗ്രസ് സ്ഥാനാർഥിയായി <ref target="https://ml.wikipedia.org/wiki/Ranganath_Misra">രംഗനാഥ മിശ്ര</ref> 1998
+ജൂലൈയിൽ രാജ്യസഭയിലേക്കു ജയിച്ചപ്പോഴോ, വിജയം ഉറപ്പാക്കാൻ മുൻ ചീഫ് ജസ്റ്റിസ് ചില വോട്ടർമാർക്കു
+പണം കൊടുത്തു എന്ന ആരോപണം ഉയർന്നപ്പോൾപോലുമോ വലിയ കോലാഹലമൊനുമുണ്ടായില്ല. (മിശ്രാജി
+ഇപ്പോൾ രാജ്യസഭയിലെ എത്തിക്സ് കമ്മിറ്റി ചെയർമാനുമാണു്!). 1997-ൽ <ref target="https://en.wikipedia.org/wiki/Fathima_Beevi">എം. ഫാത്തിമാബീവി</ref>
+ഗവർണർ സ്ഥാനം സ്വീകരിച്ചതിൽ ആരും അനൗചിത്യം കണ്ടില്ല. നിയമസഭാംഗമാകാൻ
+യോഗ്യതയില്ലാത്തയാൾക്കു് മുഖ്യമന്ത്രിയാകാൻ അയോഗ്യതയില്ലെന്ന മട്ടിൽ അവർ ഭരണഘടനാ വ്യാഖ്യാനം
+നടത്തുകയും ചെയ്തു. പിന്നീടു് അപമാനിതയായി മദ്രാസ് രാജ്ഭവന്റെ പടിയിറങ്ങേണ്ടി വന്ന ബീവിക്കുവേണ്ടി
+കണ്ണീരൊഴുക്കാനും വളരെ പേരൊന്നുമുണ്ടായില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Hrkhanna.jpg" rendition="gra"/>
+            <figDesc style="thumb">എച്ച്. ആർ. ഖന്ന</figDesc>
+          </figure>
+          <p> ഇവിടെയാണു് ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/K.T._Thomas(Justice)">തോമസി</ref>
+ന്റെ യഥാർഥ മഹത്ത്വം. വിദ്യാർഥിയായിരിക്കുമ്പോഴും പിന്നീടും രാഷ്ട്രീയത്തിൽനിന്നും അകന്നുനിന്നയാളല്ല
+അദ്ദേഹം. ജന്മംകൊണ്ടു് ക്രൈസ്തവനും മാർത്തോമാ സുറിയാനിസഭ വിശ്വാസിയുമെങ്കിലും ഹൈന്ദവധർമത്തോടു്
+അനുഭാവവും ആദരവും പുലർത്തുന്ന വ്യക്തിയാണു്—ഏതാണ്ടൊരു കലാംമോഡൽ ക്രിസ്ത്യാനി. ഹൈക്കോടതി
+ജഡ്ജിയായിരിക്കുമ്പോൾ എല്ലാവർഷവും എറണാകുളത്തപ്പനു് പറവെച്ചിരുന്നു. ആർ. എസ്. എസിനു
+തൊട്ടുകൂടായ്മയൊന്നുമില്ല എന്നു് അദ്ദേഹം ജൂലായ് 24-ാം തീയതി കോട്ടയത്തു് പരമേശ്വർജിയുടെ
+സാന്നിധ്യത്തിൽ തട്ടിമൂളിക്കയും ചെയ്തു. (അയിത്താചരണ നിയമപ്രകാരം കുറ്റകരവും ശിക്ഷാർഹവുമാകുന്നു.)
+റിട്ടയർ ചെയ്തശേഷം ബാലഗോകുലത്തിന്റെ പരിപാടികളിലും പങ്കെടുക്കുന്നുണ്ടു്. ജസ്റ്റിസ് തോമസിന്റെ
+ഇളയമകൻ ഹൈന്ദവ മതാചാരപ്രകാരം ഒരു ബ്രാഹ്മണ യുവതിയെ ജീവിത സഖിയാക്കിയ ആളുമാണു്. <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref>
+കൊലക്കേസിൽ ഭിന്നാഭിപ്രായ വിധിയെഴുതിയ ആളെന്ന നിലക്കു് ദ്രാവിഡ കക്ഷികൾക്കും ജോർജ്
+ഫെർണാണ്ടസിനും പ്രിയങ്കരനാണു് തോമസ്. ഈയിടെ സ്ഥാനത്യാഗം ചെയ്ത ഡോ. <ref target="https://ml.wikipedia.org/wiki/PC_Alexander">പി. സി. അലക്സാണ്ടറും</ref>
+തോമസിന്റെ അഭ്യുദയകാംക്ഷിയാണു്. ഏതുനിലക്കും ഗവർണർ ഉദ്യോഗമോ ഉപരാഷ്ട്രപതിസ്ഥാനം തന്നെയോ.
+പ്രതീക്ഷിക്കാമായിരുന്നിട്ടും കോട്ടയത്തു വന്നു് വിശ്രമജീവിതം നയിക്കാനാണു് <ref target="https://ml.wikipedia.org/wiki/K.T._Thomas(Justice)">ജസ്റ്റിസ്
+തോമസ്</ref> ആഗ്രഹിച്ചതു്. ഹോൽപക്ഷിയെപ്പോലെ ഞാൻ ദീർഘായുസ്സോടെ ഇരിക്കും. എന്റെ വേരു്
+വെള്ളത്തോളം പടർന്നുചെല്ലുന്നു. എന്റെ കൊമ്പിന്മേൽ മഞ്ഞു രാപാർക്കുന്നു; എന്റെ മഹത്ത്വം എന്നിൽ
+പച്ചയായിരിക്കുന്നു.
+
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mohamed_Ali_Currim_Chagla.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. സി. ഛഗ്ല</figDesc>
+          </figure>
+          <p> അങ്ങനെ ജഡ്ജിയുദ്യോഗവും കഴിഞ്ഞു് പേരക്കിടാങ്ങളെയും കൊഞ്ചിച്ചു് മനസ്സമാധാനത്തോടെയിരിക്കുന്ന
+<ref target="https://ml.wikipedia.org/wiki/K.T._Thomas(Justice)">കെ. ടി.
+തോമസ്</ref> ഇതാ മലയാള മനോരമ ആഴ്ചപ്പതിപ്പിന്റെ പരസ്യത്തിൽ പ്രത്യക്ഷനായിരിക്കുന്നു.
+“കോടതിമുറിയിലെ തിരക്കുകൾക്കിടയിലും നിയമപ്രശ്നങ്ങളുടെ നൂലാമാലകൾക്കിടയിലും ഇപ്പോൾ
+വിശ്രമജീവിതത്തിന്റെ ആഹ്ലാദങ്ങൾക്കിടയിലും ഞാൻ മലയാള മനോരമ ആഴ്ചപ്പതിപ്പു് മുടങ്ങാതെ
+വായിക്കാറുണ്ടു്. ജീവിതഗന്ധിയായ കഥകൾ വായിച്ചു് ആസ്വദിക്കുന്ന ആളാണു ഞാൻ. സാധാരണക്കാരന്റെ
+ജീവിതസ്പന്ദനങ്ങളും ഹൃദയത്തുടിപ്പുകളുമാണു് മലയാള മനോരമ ആഴ്ചപ്പതിപ്പിലൂടെ പ്രതിഫലിക്കുന്നതു്” എന്നാണു്
+ന്യായാധിപന്റെ അനുഭവസാക്ഷ്യം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/vr_krishna_iyyar.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ആർ. കൃഷ്ണയ്യർ</figDesc>
+          </figure>
+          <p> പെൻഷൻ പറ്റിയ ന്യായാധിപർ പരസ്യമോഡലാകുന്നതിന്റെ ന്യായതയേയോ ധാർമികതയേയോപറ്റി
+അഭിഭാഷക സംഘടനകളാകട്ടെ സാംസ്കാരിക നായകരാകട്ടെ, നാളിതുവരെ പ്രതികരിച്ചു കണ്ടില്ല. “ഇതിയാനു്
+ഇതിന്റെ വല്ല കാര്യവും ഉണ്ടായിരുന്നോ” എന്നു് കോട്ടയത്തു് അച്ചായന്മാർ അടക്കം പറയുന്നുണ്ടു്. മലയാള
+മനോരമയോടുള്ള സ്നേഹാദരങ്ങളും കോടതിയലക്ഷ്യ നിയമത്തെക്കുറിച്ചുള്ള ഭയാശങ്കകളുമാകണം പരസ്യമായ
+ചർച്ചകൾ ഉണ്ടാകാതിരിക്കാൻ കാരണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Gunter_Grass.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗുന്തർഗ്രസ്</figDesc>
+          </figure>
+          <p> ഇതെഴുതുന്നവൾ ഏതായാലും ജസ്റ്റിസ് തോമസിന്റെ ഭാഗത്താണു്. തിരക്കുപിടിച്ച ഔദ്യോഗിക
+ജീവിതത്തിനിടയിലും ജീവിതഗന്ധിയായ കഥകൾ വായിച്ചു് ആസ്വദിച്ചിരുന്നു എന്നതുതന്നെ പ്രധാനപ്പെട്ട കാര്യം.
+“ആരെങ്കിലുമൊക്കെ വായിക്കും; ഉദ്യോഗത്തിൽനിന്നു് വിരമിച്ചവരും ഇനിയും ഉദ്യോഗമൊന്നുമാകാത്തവരുമായി
+ഒട്ടേറെ ജ്ഞാനികൾ നമ്മുടെ നാട്ടിലുണ്ടല്ലോ” എന്ന <ref target="https://en.wikipedia.org/wiki/Lu_Xun">ലുഹ്സു</ref> ന്റെ വചനമാണു് കെ.
+രാജേശ്വരിയടക്കമുള്ളവരെ തുടർന്നും എഴുതാൻ പ്രേരിപ്പിച്ചുകൊണ്ടിരുന്നതു്. അപ്പോൾ, കോടതിമുറിയിലെ
+തിരക്കുകൾക്കിടയിലും ആഴ്ചപ്പതിപ്പു് വായിക്കാൻ സമയവും സൗകര്യവും കണ്ടെത്തിയ
+ജഡ്ജിയദ്ദേഹത്തിനുമുമ്പിൽ സാഷ്ടാംഗം നമസ്ക്കരിക്കുകയല്ലേ വേണ്ടതു്?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_S_Hegde.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എസ്. ഹെഗ്ഡേ</figDesc>
+          </figure>
+          <p> പിന്നെ, സുപ്രീംകോടതി ജഡ്ജിയായിരുന്ന ആൾ പൈങ്കിളി വാരിക വായിക്കുന്ന കാര്യം. ന്യായാധിപന്മാർ
+‘കാരമസോവ് സഹോദരന്മാർ’ വേണം വായിക്കാൻ എന്നു വ്യവസ്ഥയില്ല. ഒന്നും വായിക്കാത്തതിനേക്കാൾ
+എത്രയോ ഭേദമാണു് സ്ത്രീ ജന്മം വായിക്കുന്നതു്. ജസ്റ്റിസ് തോമസിന്റെ സത്യസന്ധതയും നിഷ്കളങ്കതയും എത്രയോ
+സ്തുത്യർഹം. അദ്ദേഹം മനോരമ വായിക്കുന്നു; അക്കാര്യം തുറന്നുപറയുകയും ചെയ്യുന്നു. മറിച്ചു് മംഗളം ആഴ്ചപ്പതിപ്പു്
+വായിക്കുകയും ഫാർ ഈസ്റ്റേൺ എക്കണോമിക് റിവ്യു വായിക്കുന്നു എന്നു് അവകാശപ്പെടുകയും
+ചെയ്തിരുന്നെങ്കിലോ? സ്നേഹദൂരവും കനൽപ്പൂക്കളുമൊക്കെ ശ്വാസമടക്കിപ്പിടിച്ചിരുന്നു വായിക്കുന്ന തോമസ്
+എനിക്കു <ref target="https://ml.wikipedia.org/wiki/Gunter_grass">ഗുന്തർഗ്രസി</ref> ന്റെയും
+<ref target="https://ml.wikipedia.org/wiki/Yasunari_Kawabata">കവാബത്ത</ref>
+യുടെയും നോവലുകളാണിഷ്ടം എന്നു പറഞ്ഞിരുന്നെങ്കിലോ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Yasunari_Kawabata.jpg" rendition="gra"/>
+            <figDesc style="thumb">കവാബത്ത</figDesc>
+          </figure>
+          <p> റിട്ടയർ ചെയ്ത ജഡ്ജിമാർ വക്കീൽപ്പണിയിൽ ഏർപ്പെടരുതെന്നു് ഭരണഘടനയുടെ 124(7) അനുച്ഛേദം
+വ്യവസ്ഥ ചെയ്തിരിക്കുന്നു. ലാഭകരവും നിയമവിധേയവുമായ മറ്റെന്തു തൊഴിലും സ്വീകരിക്കാം എന്നാണു് അതിന്റെ
+അർഥം. പരസ്യമോഡലിങ്ങിനും പതിത്വം കൽപിക്കേണ്ടതില്ല. മുമ്പൊന്നും ഒരു ജഡ്ജിയും പരസ്യത്തിൽ
+വന്നിട്ടില്ല എന്നു പറയുന്നവരുണ്ടു്. ന്യായാധിപന്മാരുടെ മാറുന്ന റോളിനെപ്പറ്റി ധാരണയില്ലാത്തവരാണവർ.
+പത്തുപതിനഞ്ചു കൊല്ലം മുമ്പുവരെ എത്ര പൊതുപരിപാടികളിൽ ജഡ്ജിമാർ പങ്കെടുത്തിരുന്നു. അഥവാ
+പങ്കെടുത്തവയിൽത്തന്നെ ദന്തഗോപുരനിവാസികളായ അന്നത്തെ ന്യായാധിപർ കോട്ടും സൂട്ടും
+പാപ്പാസുമിട്ടുവന്നു് കടിച്ചാൽ പൊട്ടാത്ത ഇംഗ്ലീഷിൽ പ്രസംഗിച്ചു് പോകുകയായിരുന്നു പതിവു്.
+ഇപ്പോഴാണെങ്കിൽ പുസ്തകച്ചന്തയുടെ ഉദ്ഘാടനത്തിനും ഇരിങ്ങാലക്കുട പിണ്ടിപ്പെരുന്നാളിന്റെ
+കൊടിയേറ്റിനുമൊക്കെ ജഡ്ജിമാർക്കാണു് മുൻഗണന. ജഡ്ജിമാരാണെങ്കിൽ കൃത്യസമയത്തു് വരും, ടി. എ.,
+ഡി. എ. വാങ്ങിക്കയുമില്ല. സംഘാടകർക്കു സുഖം, ലാഭം. ഈ ട്രെൻഡിനു തുടക്കം കുറിച്ചതും ജസ്റ്റിസ്
+തോമസായിരുന്നു. 1986-മാണ്ടിൽ ‘പഞ്ചാഗ്നി’, ‘താളവട്ടം’ എന്നീ ചലച്ചിത്രങ്ങളുടെ 100-ാം ദിവസത്തെ
+ആഘോഷത്തിൽ മുഖ്യാതിഥിയായി പങ്കെടുത്തതും കലാകാരന്മാർക്കും സാങ്കേതിക വിദഗ്ദ്ധർക്കും ഉപഹാരങ്ങൾ
+നൽകിയതും അദ്ദേഹമായിരുന്നു. മമ്മൂട്ടിയുടെ ആത്മകഥയിലുമുണ്ടു് ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/K.T._Thomas(Justice)">കെ. ടി.
+തോമസി</ref> നെക്കുറിച്ചുള്ള പരാമർശം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Chowdhary_Charan_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചരൺസിംഗ്</figDesc>
+          </figure>
+          <p> ഇനി, മലയാള മനോരമ ആഴ്ചപ്പതിപ്പു് അത്ര മോശമാണോ? അല്ലേയല്ല. ഹിന്ദു, മുസ്ലീം, ക്രിസ്ത്യൻ
+(സുറിയാനിയും ലത്തീനും പ്രത്യേകം) പശ്ചാത്തലങ്ങളിലുള്ള ഏഴു നോവലുകൾ, കൈയെത്തും ദൂരത്തു് എന്ന തിര
+നോവൽ വേറെയും. എല്ലാം വായനക്കാരെ നോവിപ്പിക്കുന്നവ, സ്ത്രീകളുടെ കണ്ണീർഗ്രന്ഥികളെ
+ഉത്തേജിപ്പിക്കുന്നവയും.
+</p>
+          <p>പൈങ്കിളിക്കഥകളുടെ വില മനുഷ്യൻ അറിയുന്നില്ല. തങ്കംകൊടുത്താൽ അതു കിട്ടുന്നതല്ല; അതിന്റെ
+വിലയായി വെള്ളി തൂക്കിക്കൊടുക്കാറുമില്ല. ഒഫീർപൊന്നോ വിലയേറിയ ഗോമേദകമോ നീല രത്നമോ ഒന്നും
+അതിനു് ഈടാക്കുന്നതല്ല, സ്വർണ്ണവും സ്ഫടികവും അതിനോടു് ഒക്കുന്നില്ല; തങ്കംകൊണ്ടുള്ള പണ്ടങ്ങൾക്കു
+അതിനെ മാറിക്കൊടുപ്പാറില്ല. ജീവിതഗന്ധിയായ കഥകൾ കൂടാതെ പിന്നെയുമെന്തൊക്കെയുണ്ടു്
+വായിക്കാൻ—കാണിപ്പയ്യൂർ നാരായണൻ നമ്പൂതിരിപ്പാടിന്റെയും എടപ്പാൾ ശൂലപാണി വാര്യരുടെയും ജ്യോതിഷ
+പംക്തികൾ, അന്നമ്മക്കൊച്ചമ്മയുടെ പാചകക്കുറിപ്പു്, വൈദ്യശാസ്ത്ര-മനഃശ്ശാസ്ത്ര പംക്തികൾ, നാട്ടറിവുകൾ,
+കടംകഥകൾ, പഴഞ്ചൊല്ലുകൾ, സിനിമാനടികളുടെ കുമ്പസാര രഹസ്യങ്ങൾ, ഇന്നസെന്റിന്റെ
+ചോദ്യോത്തരപംക്തി… വിലയോ വെറും മൂന്നു രൂപ അമ്പതു പൈസ. വാങ്ങിപ്പിൻ, വായിപ്പിൻ,
+ആനന്ദിക്കിൻ!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PC_Alexander.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. അലക്സാണ്ടർ</figDesc>
+          </figure>
+          <p> 1937-മാണ്ടിൽ ആരംഭിച്ചതാണു് മലയാള മനോരമ ആഴ്ചപ്പതിപ്പു്. ഇന്ത്യയിൽ ഏറ്റവും പ്രചാരമുള്ള വാരിക.
+യാതൊരു പരസ്യവും കൂടാതെ തന്നെ ലക്ഷക്കണക്കിനു കോപ്പികൾ വിറ്റുപോകുന്നു. മലയാളിക്കും മനോരമക്കും
+
+ഒരു ഹൃദയം, ഒരു മാനസം എന്നായിരുന്നു ഒരുകാലത്തു് അച്ചായന്റെ അവകാശവാദം. സ്ത്രീജനങ്ങളാണു്
+ആഴ്ചപ്പതിപ്പിന്റെ പ്രധാന ആരാധകർ. കുടമുല്ലപ്പൂവിനും മലയാളിപ്പെണ്ണിനും ഉടുക്കാൻ വെള്ളപ്പുടവ, വായിക്കാൻ
+മനോരമ ആഴ്ചപ്പതിപ്പു്. സുപ്രീംകോടതി ജഡ്ജി പരസ്യത്തിനു നിന്നാൽ സർക്കുലേഷൻ കുത്തനെ കയറും എന്നു്
+വിശ്വസിക്കാനുള്ള മൗഢ്യമൊന്നും ഉണ്ടാകുകയില്ല മനോരമയുടെ ഉടമസ്ഥർക്കു്. പണം മോഹിച്ചോ പത്രത്തിൽ
+പടം അച്ചടിച്ചുവരാനുള്ള ആഗ്രഹംകൊണ്ടോ ആവില്ല ജസ്റ്റിസ് തോമസ് പരസ്യത്തിൽ നിന്നതു്.
+സാധാരണക്കാരന്റെ ഹൃദയത്തുടിപ്പുകൾ പ്രതിഫലിപ്പിക്കുന്ന ആഴ്ചപ്പതിപ്പാണു് മനോരമ എന്ന ആത്മാർഥമായ
+അഭിപ്രായം നല്ലവരായ നാട്ടുകാരെ അറിയിക്കണമെന്ന ഉദ്ദേശ്യമേ അദ്ദേഹത്തിനുണ്ടായി കാണൂ. മനുഷ്യർ
+കാത്തിരുന്നു് എന്റെ വാക്കുകേൾക്കും, എന്റെ മൊഴി അവരുടെമേൽ ഇറ്റിറ്റുവീഴും. മഴക്കു് എന്നപോലെ അവർ
+എനിക്കായി കാത്തിരിക്കും. പിൻമഴക്കെന്നപോലെ അവർ വായ് പിളർക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Fathima_Beevi.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ഫാത്തിമാബീവി</figDesc>
+          </figure>
+          <p> ഇന്നത്തെ നോവൽ നാളത്തെ സീരിയൽ എന്നാണല്ലോ മനോരമയുടെ സിദ്ധാന്തം. ആ നിലക്കു് മനോരമ
+വിഷന്റെ ‘മകൾ മരുമകൾ’ എന്ന സീരിയലിന്റെ പരസ്യത്തിലാകും ജസ്റ്റിസ് തോമസ് അടുത്തതായി
+പ്രത്യക്ഷപ്പെടുക. ഭർത്താവു് അകാരണമായി തെറ്റിദ്ധരിക്കുന്ന നായിക കുടുംബകോടതിയിൽ
+കേസുകൊടുക്കണോ എന്ന പ്രശ്നത്തിൽ അദ്ദേഹത്തിന്റെ വിലയേറിയ അഭിപ്രായം ഉണ്ടായേക്കും. അതല്ലെങ്കിൽ
+‘സ്ത്രീജന്മം’ സീരിയലിന്റെ പരസ്യത്തിൽ. മലയാള സിനിമയിലെ ഏതൊരു നടനോടും കിടപിടിക്കാവുന്ന
+മുഖകാന്തിയും അകാരഗരിമയുമുണ്ടു് ജസ്റ്റിസിനു്. കാലക്രമേണ വനമാലയുടെയും പെപ്സിയുടെയുമൊക്കെ
+പരസ്യത്തിൽ റിട്ടയർ ചെയ്ത ജഡ്ജിമാരാവും അഭിനയിക്കുക. സിനിമാതാരങ്ങൾ ജാഗ്രതൈ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Parasyaththinte Rahasyam
+Adhava Neethimante Paatha (ml: പരസ്യത്തിന്റെ രഹസ്യം അഥവാ നീതിമാന്റെ പാത).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Parasyaththinte Rahasyam Adhava Neethimante Paatha, കെ. രാജേശ്വരി, പരസ്യത്തിന്റെ രഹസ്യം
+അഥവാ നീതിമാന്റെ പാത, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 25, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Paisaje_de_Italia.jpg">Italian
+landscape,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Pieter_Spierinckx">Pieter
+Spierinckx</ref>  (1635–1711). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-paatha.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-paatha.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

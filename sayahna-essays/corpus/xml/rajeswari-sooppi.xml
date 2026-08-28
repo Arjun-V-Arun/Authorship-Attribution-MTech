@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സൂപ്പിക്കൊരു സ്തുതിഗീതം</title>
+          <title xml:lang="en" type="main">Sooppikkoru Sthuthigeetham</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 27, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സൂപ്പിക്കൊരു സ്തുതിഗീതം</title>
+              <title xml:lang="en" type="main">Sooppikkoru Sthuthigeetham</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Sooppikkoru Sthuthigeetham</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>സൂപ്പിക്കൊരു സ്തുതിഗീതം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 27, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Martinswand_Kunsthistorisches_Museum.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Moritz_von_Schwind__Kaiser_Maximilian_I._in_der_Martinswand_-_2125__Kunsthistorisches_Museum.jpg">Emperor Maximilian I in the Martinswand,</ref> a
+
+painting by <ref target="https://en.wikipedia.org/wiki/en:Moritz_von_Schwind">Moritz von
+Schwind</ref>  (1804–1871). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സൂപ്പിക്കൊരു സ്തുതിഗീതം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സൂപ്പിക്കൊരു സ്തുതിഗീതം</head>
+        <div type="lsection">
+          <p style="noindent">താഴെക്കോട് പഞ്ചായത്തിലെ സ്ഥിരതാമസക്കാരിയും പെരിന്തൽമണ്ണ
+നിയോജകമണ്ഡലത്തിലെ സമ്മതിദായകയുമെന്ന നിലക്കു് അൽപമൊരു അഹങ്കാരത്തോടെയാണു് ഈ കുറിപ്പു്
+എഴുതുന്നതു്. കാര്യമന്തെന്നാൽ നാട്ടുകാരനും സ്ഥലം എം. എൽ. എ.-യും സർവോപരി സംസ്ഥാന
+വിദ്യാഭ്യാസമന്ത്രിയുമായ ജനാബ് നാലകത്ത് സൂപ്പിക്കു് മികച്ച ഭരണാധികാരിക്കുള്ള ശ്രേഷ്ഠാചാര്യ അവാർഡ്
+ലഭിച്ചിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാണി</figDesc>
+          </figure>
+          <p> സൂപ്പിസാഹിബിന്റെ ശ്രേഷ്ഠതയെപ്പറ്റി ഞങ്ങൾ പെരിന്തൽമണ്ണക്കാർക്കു് ഒരുകാലത്തും
+സംശയമുണ്ടായിട്ടില്ല. താഴെക്കോട്ട് നാലകത്തെ മൊയ്തീൻഹാജിയുടെയും മറിയുമ്മയുടെയും മകൻ <ref target="https://ml.wikipedia.org/wiki/Nalakath_Soopy">സൂപ്പി</ref> 1946 ആഗസ്റ്റ്
+15-നാണു് ജനിച്ചതു്. പെരിന്തൽമണ്ണ സർക്കാർ ഹൈസ്കൂളിൽ പഠിക്കുമ്പോഴേ രാഷ്ട്രീയത്തിലിറങ്ങി. ഫാറൂഖ്
+കോളേജിൽനിന്നു് ബി. കോമും തിരുവനന്തപുരം സർക്കാർ ലോ കോളേജിൽ നിന്നു് എൽ. എൽ. ബി.-യും
+പാസായശേഷം അൽപകാലം പെരിന്തൽമണ്ണ കോടതിയിൽ വക്കീലായും പയറ്റി. അപ്പോഴേക്കും രാഷ്ട്രീയം
+സൂപ്പിയെ പൂർണമായും അപഹരിച്ചു—താഴെക്കോട് പഞ്ചായത്തു പ്രസിഡന്റ്, സർവീസ് ബാങ്ക് പ്രസിഡന്റ്,
+സർക്കിൾ സഹകരണ യൂനിയൻ ചെയർമാൻ, താലൂക്കു് ലാൻഡ് ബോർഡ് അംഗം, ബീഡിത്തൊഴിലാളി
+യൂനിയൻ സെക്രട്ടറി…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> 1980-ൽ ആദ്യമായി നിയമസഭയിലേക്കു് തെരഞ്ഞെടുക്കപ്പെടുമ്പോൾ വയസ്സു് 34 ആണു് സൂപ്പിക്കു്.
+അന്നുമുതൽ ഇന്നുവരെ സൂപ്പിയാണു് പെരിന്തൽമണ്ണ എം. എൽ. എ. <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> സാറിനു പാലാ,
+<ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">കുഞ്ഞൂഞ്ഞിനു്</ref>
+പുതുപ്പള്ളി, സൂപ്പിക്കു് പെരിന്തൽമണ്ണ. <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">പി. കെ.
+കുഞ്ഞാലിക്കുട്ടി</ref> യും <ref target="https://ml.wikipedia.org/wiki/P.K.K._Bava">പി. കെ. കെ. ബാവ</ref> യും
+1982-ലാണു് ആദ്യമായി നിയമസഭയിലെത്തുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/ET._Mohammed_Basheer">ഇ. ടി. മുഹമ്മദ്
+ബഷീർ</ref> ഉപതെരഞ്ഞെടുപ്പിലൂടെ 1985-ലും.
+1991-ാം ആണ്ടിൽ മൂവരും മന്ത്രിമാരായി. പിന്നെയുമൊരു പതിറ്റാണ്ടിനു ശേഷമാണു് സൂപ്പിസാഹിബിനു
+മന്ത്രിക്കസേര കിട്ടിയതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mundassery.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോസഫ് മുണ്ടശ്ശേരി</figDesc>
+          </figure>
+          <p> പ്രൊഫ. <ref target="https://ml.wikipedia.org/wiki/Joseph_Mundassery">ജോസഫ്
+മുണ്ടശ്ശേരി</ref>, <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്. മുഹമ്മദ്
+കോയ</ref>, <ref target="https://ml.wikipedia.org/wiki/Baby_John">ബേബിജോൺ</ref>, <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം. ജേക്കബ്</ref>, <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref>
+മുതലായ പല പ്രഗല്ഭരും ഭരിച്ചതാണു് വിദ്യാഭ്യാസ വകുപ്പു്. ഇവരൊക്കെ പയറ്റി പരാജയമടഞ്ഞ ഈജിയൻ
+തൊഴുത്തിലേക്കാണു് സൂപ്പി ചെന്നുകയറിയതു്. വിദ്യാഭ്യാസ വകുപ്പു് ഭരിക്കാൻ മുനീറായിരുന്നു നല്ലതെന്ന
+ഒരഭിപ്രായം ആദ്യംമുതലേയുണ്ടായിരുന്നു. പക്ഷേ, പാണക്കാടു് തങ്ങൾക്കും സൂപ്പിയുടെ ശ്രേഷ്ഠതയെപ്പറ്റി
+തികഞ്ഞ ബോധ്യമുണ്ടു്. വകുപ്പുഭരിക്കാൻ വേണ്ടത്ര വിദ്യയും അഭ്യാസവും സൂപ്പിയുടെ കൈവശമുണ്ടുതാനും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Babyjohn.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബേബിജോൺ</figDesc>
+          </figure>
+          <p> കേവലം ഒരു വർഷത്തെ ഭരണംകൊണ്ടുതന്നെ സൂപ്പി നാട്ടുകാരെ സാമാന്യം മക്കാറാക്കി. ഡി. പി. ഇ. പി.,
+കണ്ണന്താനം ബോംബ്, സ്വാശ്രയ മെഡിക്കൽ-എഞ്ചിനീയറിംഗ് കോളേജുകൾ, എല്ലാംകൂടി ഹലാക്കിന്റെ
+അവിലുംകഞ്ഞിയായി. മന്ത്രിയദ്ദേഹത്തിന്റെ പേരു് നാലകത്ത് സുയിപ്പി എന്നാണെന്നു് ചില കുസൃതികൾ
+പറഞ്ഞുണ്ടാക്കി. മന്ത്രിസഭയുടെ ഒന്നാംവാർഷികം പ്രമാണിച്ചു് മാതൃഭൂമി നടത്തിയ അഭിപ്രായ വോട്ടെടുപ്പിൽ
+18-ാം സ്ഥാനത്തായിരുന്നു സൂപ്പി. <ref target="https://ml.wikipedia.org/wiki/Cherkalam_Abdullah">ചെർക്കളം
+അബ്ദുല്ല</ref> യും <ref target="https://ml.wikipedia.org/wiki/P._Sankaran">പി.
+ശങ്കരനു</ref> മായിരുന്നു സൂപ്പിയേക്കാൾ മോശക്കാർ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p> മുസ്ലിംലീഗിനകത്തുതന്നെ ഒരു പ്രബല വിഭാഗം സൂപ്പിക്കെതിരെ കരുനീക്കം നടത്തുന്നുണ്ടു്. ഇക്കൂട്ടരുടെ
+പ്രേരണകൊണ്ടാകാനേ തരമുള്ളൂ സെപ്റ്റംബർ 9-ാം തീയതി തിരൂരിൽ നടന്ന സമ്മേളനത്തിൽ <ref target="https://ml.wikipedia.org/wiki/ET._Mohammed_Basheer">ഇ. ടി. മുഹമ്മദ്
+ബഷീറി</ref> നോ <ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">എം. കെ. മുനീറി</ref> നോ
+ആകേണ്ടിയിരുന്നു വിദ്യാഭ്യാസ മന്ത്രി സ്ഥാനം എന്നൊരഭിപ്രായം ഗതാഗത വകുപ്പു മന്ത്രി <ref target="https://en.wikipedia.org/wiki/K._B._Ganesh_Kumar">ഗണേഷ്കുമാർ</ref>
+തട്ടിമൂളിച്ചതു്. സീതിസാഹിബ് അവാർഡുനേടിയ മുഹമ്മദ് ബഷീറിനെ ആദരിക്കാൻ ചേർന്ന
+യോഗത്തിലായിരുന്നു ഗണേശന്റെ അഭിപ്രായപ്രകടനം. പിന്നിൽനിന്നുള്ള കുത്തേറ്റു് പാവം സൂപ്പി
+തളർന്നുപോയി. മുസ്ലിംലീഗു് നേതൃത്വവും <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരനും</ref> <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശനു</ref> മൊക്കെ സമാശ്വാസ വചനങ്ങളുമായി പാഞ്ഞെത്തിയെങ്കിലും സൂപ്പിക്കു് അസാരം നൊന്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p> മുറിച്ചുരികയേന്തി സൂപ്പി അങ്കത്തട്ടിൽ തളർന്നുനിൽക്കുമ്പോഴാണു് അവാർഡുമായി നാഷനൽ കൾച്ചറൽ
+ഫോറം കടന്നുവരുന്നതു്. തിരുവല്ലാക്കാരായ ചില അച്ചായന്മാരാണു് നാ. ക. ഫോറത്തിന്റെ അമരക്കാർ.
+
+ഇങ്ങനെയൊരു ഫോറത്തെപ്പറ്റി മലയാള മനോരമയിൽ പോലും മുമ്പു കണ്ടിട്ടില്ല, കേട്ടിട്ടുമില്ല. പുതുതായി
+പൊട്ടിമുളച്ചു്, തടിവിരിഞ്ഞു് കൊമ്പും ചില്ലയുമായി പൂവണിഞ്ഞ വൃക്ഷമാകണം നാഷനൽ കൾച്ചറൽ ഫോറം.
+ഏതെങ്കിലും നിയമപ്രകാരം റജിസ്റ്റർ ചെയ്ത സംഘടനയാണോ എന്ന കാര്യം ഫോറത്തിന്റെ ഭാരവാഹികൾക്കും
+കർത്താവു് ഈശോമിശിഹാക്കും മാത്രമറിയാം. മാർത്തോമാ കോളേജിലെ മലയാളം പ്രൊഫസറായിരുന്ന
+<ref target="https://ml.wikipedia.org/wiki/Thumpaman_Thomas">തുമ്പമൺ
+തോമസ്</ref> ആകുന്നു ഫോറത്തിന്റെ പ്രസിഡന്റ്, അഡ്വ. വി. സി. സാബു ജനറൽ സെക്രട്ടറിയും.
+സാംസ്കാരിക പ്രസിദ്ധീകരണ വകുപ്പിന്റെ ഉപദേശക സമിതി ചെയർമാനായി തുമ്പമൺ തോമസ്
+എന്തുകൊണ്ടാണു് അവാർഡ് സൂപ്പിക്കു നൽകാൻ തുനിഞ്ഞതു് എന്ന കാര്യം ചിന്തനീയമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MK_Muneer.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കെ. മുനീർ</figDesc>
+          </figure>
+          <p> ഈ ഭാർഗവക്ഷേത്രത്തിൽ പല കടലാസു സംഘടനകളും അവാർഡുകൾ പ്രഖ്യാപിക്കുകയും വിതരണം
+ചെയ്യുകയും ഉണ്ടായിട്ടുണ്ടു്. എന്നാൽ അവരാരും ചെയ്യാൻ ധൈര്യപ്പെടാത്ത ഒരു കാര്യം നാഷനൽ കൾച്ചറൽ
+ഫോറം ചെയ്തു. അവാർഡുജേതാവിന്റെ പൂർണകായ ചിത്രം സഹിതം പ്രധാന പത്രങ്ങളിലൊക്കെ പരസ്യം
+കൊടുത്തു. അവാർഡുദാനച്ചടങ്ങിന്റെ കാര്യപരിപാടിയല്ല, സൂപ്പിയെക്കുറിച്ചുള്ള സ്തുതിഗീതമാണു് പരസ്യത്തിന്റെ
+കാതൽ. ‘സൗമ്യം, മധുരം, ദീപ്തം’ എന്ന തലക്കെട്ടിലുള്ള പരസ്യം ഒരു അനുപമ കലാസൃഷ്ടിതന്നെയാണു്.
+“ഉന്നതവിദ്യാഭ്യാസത്തെ ജനകീയമാക്കിയ രാജശില്പി” എന്നാണു് പരസ്യക്കാരൻ മന്ത്രിയെ വിശേഷിപ്പിക്കുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KMuraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരളീധരൻ</figDesc>
+          </figure>
+          <p> “ഐക്യജനാധിപത്യമുന്നണി സർക്കാറിന്റെ ഏറ്റവും മികച്ച നേട്ടം വിദ്യാഭ്യാസ വകുപ്പിലേതാണു്. കഴിഞ്ഞ
+നാലര പതിറ്റാണ്ടു് കാലത്തെ ഉന്നത സാങ്കേതിക വിദ്യാഭ്യാസ മേഖലയിലെ നേട്ടങ്ങൾക്കു് തുല്യമാണു്
+വിദ്യാഭ്യാസ മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Nalakath_Soopy">നാലകത്ത് സൂപ്പി</ref>
+യുടെ കഴിഞ്ഞ ഒന്നര വർഷക്കാലം. ഇക്കാലയളവിനുള്ളിൽ കേരളത്തിൽ സാങ്കേതിക വിദ്യാഭ്യാസ രംഗം വമ്പിച്ച
+കുതിച്ചുചാട്ടമാണു് നടത്തിയതു്.”
+</p>
+          <p>“പ്രകാശത്തിന്റെ തുരുത്തുകൾ എന്നു് പറയുവാൻ നമുക്കു് ഇത്തരം ചില സൂപ്പിമാർ മാത്രം. വിദ്യാഭ്യാസം
+സാർവത്രികവും മൂല്യ സമ്പുഷ്ടവുമാക്കാനുള്ള നാലകത്ത് സൂപ്പിയുടെ അഭിവാഞ്ഛയാണു് ശ്രേഷ്ഠാചാര്യ
+പുരസ്കാരത്തിനു് അദ്ദേഹത്തെ തെരഞ്ഞെടുക്കാൻ കാരണം…”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vellappally_Natesan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെള്ളാപ്പള്ളി നടേശൻ</figDesc>
+          </figure>
+          <p> ഇങ്ങനെയൊക്കെ അടിച്ചുവിടാനുള്ള കരളുറപ്പു് അഥവാ ഉളുപ്പില്ലായ്മ തിരുവിതാംകൂറുകാർക്കേ കാണൂ. പണ്ടു്
+ഇല്ലാതിരുന്നതും സ്വയം നിർമ്മിച്ചെടുത്തതുമായ വീഥിയിലൂടെ നടന്നുപോകുന്ന ഒരു ഏകാന്ത പഥികനത്രെ,
+ജനാബ് നാലകത്ത് സൂപ്പി. പതിനായിരം രൂപയാണു് അവാർഡ് തുക (സംഖ്യ തിരുവല്ലയിലെ ബധിര-മൂക
+വിദ്യാലയത്തിനു് സംഭാവന നൽകുകയും ചെയ്തു.) പരസ്യക്കൂലിയും മറ്റു് അനാമത്തു് ചെലവുകളും കൂടി ഏറ്റവും
+കുറഞ്ഞതു് ഇരുപത്തഞ്ചു് ലക്ഷം രൂപ ധൂളിയാക്കിയിട്ടുണ്ടു് കൾച്ചറൽ ഫോറം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thumpamon_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">തുമ്പമൺ തോമസ്</figDesc>
+          </figure>
+          <p> ഒക്ടോബർ 29-നു് തിരുവല്ല മാർത്തോമാ ഓഡിറ്റോറിയത്തിൽ നടന്ന പ്രൗഢഗംഭീരമായ ചടങ്ങുകളുടെ
+റിപ്പോർട്ട് പിറ്റേന്നത്തെ ചന്ദ്രികയിൽ വിശദമായി വന്നിട്ടുണ്ടു്. (പെരിന്തൽമണ്ണയിൽ അച്ചടിക്കുന്ന മാധ്യമത്തിന്റെ
+മലപ്പുറം എഡിഷൻ പക്ഷേ, ശ്രേഷ്ഠാചാര്യനെ ഒമ്പതാം പേജിൽ സ്തുതിവചനങ്ങൾ തീരെയില്ലാത്ത വെറും മൂന്നു്
+കോളം റിപ്പോർട്ടിലൊതുക്കി. പൂജ്യപൂജാ വ്യതിക്രമം എന്നല്ലാതെ എന്തു പറയാൻ!).
+</p>
+          <p>ഉന്നത വിദ്യാഭ്യാസ രംഗത്തു് ചുരുങ്ങിയകാലംകൊണ്ടു് വിപ്ലവം സൃഷ്ടിച്ച പ്രഗല്ഭനായ വിദ്യാഭ്യാസ മന്ത്രി
+എന്ന സ്ഥാനം നാലകത്ത് സൂപ്പിയിൽ കേരള ചരിത്രം രേഖപ്പെടുത്തുമെന്നു് അവാർഡുദാന പ്രസംഗവശാൽ
+മുഖ്യമന്ത്രി അഭിപ്രായപ്പെട്ടു. ഉന്നത വിദ്യാഭ്യാസ രംഗത്തു് മാത്രമല്ല പ്ലസ്ടു ഉൾപ്പെടെ കേരളത്തിന്റെ പൊതുവായ
+വിദ്യാഭ്യാസ മേഖലയിൽ ഗുണപരവും ചൈതന്യവത്തുമായ മാറ്റം സൃഷ്ടിച്ചു് പുതുജീവൻ നൽകിയതു്
+സൂപ്പിയാണെന്നും പ്ലസ്ടു രംഗത്തെ അനിശ്ചിതാവസ്ഥയും അധ്യാപകരുടെ നിയമന പ്രശ്നങ്ങളും സൂപ്പിയാണു്
+പരിഹരിച്ചതെന്നും മുഖ്യൻ കൂട്ടിച്ചേർത്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Hyderali_Shihab_Thangal.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹൈദരാലി ശിഹാബ് തങ്ങൾ</figDesc>
+          </figure>
+          <p> ദുരാരോപണങ്ങളെ അതിജീവിച്ചു് മുന്നേറാൻ കഴിവുള്ള മികച്ച ഭരണാധികാരിയാണു് നാലകത്ത്
+സൂപ്പിയെന്നു് പറഞ്ഞു <ref target="https://ml.wikipedia.org/wiki/Sayed_Hyderali_Shihab_Thangal">പാണക്കാടു്
+ഹൈദരാലി ശിഹാബ് തങ്ങൾ</ref>. വിദ്യാഭ്യാസ പരിഷ്കരണ മേഖലയിൽ <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്. മുഹമ്മദ്
+കോയ</ref> സ്വീകരിച്ച അതേ മാർഗമാണു് സൂപ്പി അവലംബിക്കുന്നതെന്നു് <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">ഇ. അഹമ്മദ്</ref> പറഞ്ഞു.
+വിദ്യാഭ്യാസ മന്ത്രി സ്ഥാനത്തു് മുസ്ലിംലീഗ് സമർപ്പിച്ച ശ്രേഷ്ഠാചാര്യനാണു് സൂപ്പിയെന്നു് ഡോ. ജോസഫ് മാർ
+ഐറേനിയോസ് സഫ്രഗൻ മെത്രാപ്പോലീത്ത. ഈ മുഖ്യമന്ത്രിയും ഈ വിദ്യാഭ്യാസ മന്ത്രിയും തുടരുന്നിടത്തോളം
+കാലം കേരളത്തിനു് അതൊരു ഭാഗ്യമാണെന്നു് ബ്രഹ്മശ്രീ ആതുരദാസ് സ്വാമി തിരുവടികൾ, അർഹതക്കുള്ള
+പാരിതോഷികവും സമ്മാനവുമാണു് മന്ത്രി സൂപ്പിക്കു് നൽകിയ ശ്രേഷ്ഠാചാര്യ അവാർഡെന്നു് <ref target="https://ml.wikipedia.org/wiki/P._P._Mukundan">പി. പി. മുകുന്ദൻ</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_Ahammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. അഹമ്മദ്</figDesc>
+          </figure>
+          <p> വിദ്യാഭ്യാസ രംഗത്തെ സ്വകാര്യവത്കരണത്തിനെതിരെ കുരിശുയുദ്ധം നടത്തിക്കൊണ്ടു് പൊതുരംഗത്തു്
+വന്നയാളാണു് സഖാവു് സുരേഷ്കുറുപ്പ്. ശ്രേഷ്ഠാചാര്യനെ അനുമോദിക്കാനെത്തിയവരിൽ കുറുപ്പും ഉണ്ടായിരുന്നു.
+“സൂപ്പിസാഹിബിനെ വളരെ അകലെനിന്നു് നോക്കിക്കാണുന്ന ഒരാളാണു് ഞാൻ. <ref target="https://ml.wikipedia.org/wiki/C._H._Mohammed_Koya">സി. എച്ച്.
+മുഹമ്മദ്കോയസാഹിബും</ref> <ref target="https://ml.wikipedia.org/wiki/Joseph_Mundassery">മുണ്ടശ്ശേരി</ref> മാഷും
+ഇരുന്ന അതേ കസേരയിലാണു് അത്രയൊന്നും ശ്രദ്ധിക്കപ്പെടാതിരുന്ന സൂപ്പി മന്ത്രിയായതു്. ’57 മുതൽ
+നടപ്പാക്കിത്തുടങ്ങിയ കേരളത്തിലെ വിദ്യാഭ്യാസ മേഖലയിലെ മികച്ച പരിഷ്കാരങ്ങൾക്കു് നേതൃത്വം നൽകിയതു്
+മന്ത്രി സൂപ്പിയാണു്. യാതൊരു പ്രകടനവുമില്ലാതെ തികഞ്ഞ സൗമ്യതയോടെ, നടപ്പാക്കേണ്ട കാര്യങ്ങൾ
+വിവാദങ്ങൾക്കിട നൽകാതെ മന്ത്രി സൂപ്പി നടപ്പാക്കി. ഈ സൗമ്യതയും സ്നേഹശീലവും മുതൽക്കൂട്ടായി തുടർന്നും
+ഉണ്ടാകട്ടെ”—കുറുപ്പ് ആശംസിച്ചു.
+</p>
+          <p>ഒറ്റയ്ക്കൊരു ദിവസം കൊണ്ടു് സൂപ്പിയുടെ താരമൂല്യം എത്ര ഉയർന്നുവെന്നു് നോക്കുക. മന്ത്രിസഭയുടെ രണ്ടാം
+വാർഷികത്തിനു് മാതൃഭൂമി അഭിപ്രായ വോട്ടെടുപ്പു് നടത്തുമ്പോൾ സൂപ്പിയാകും ടോപ്ലീഡ്. മന്ത്രിമാരായ <ref target="https://ml.wikipedia.org/wiki/Cherkalam_Abdullah">ചെർക്കളം
+അബ്ദുല്ല</ref>, <ref target="https://ml.wikipedia.org/wiki/P._Sankaran">പി.
+ശങ്കരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/C._F._Thomas">സി. എഫ്. തോമസ്</ref>
+
+എന്നിവരും ഈ വഴിക്കു് ഉൽസാഹിക്കുന്നതു് നന്നായിരിക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/CF_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എഫ്. തോമസ്</figDesc>
+          </figure>
+          <p> വിദ്യാഭ്യാസ മേഖലക്കു് നൽകിയ സംഭാവനകളെ പുരസ്കരിച്ചു് മന്ത്രി സൂപ്പിക്കു് ഡോക്ടറേറ്റ് നൽകുന്ന കാര്യം
+സർവകലാശാലകൾക്കു് പരിഗണിക്കാവുന്നതാണു്. (പുരട്ചി തലൈവിക്കും കലൈഞ്ജർക്കും ഡോക്ടറേറ്റ്
+നൽകുന്നതിൽ തമിഴ്‌നാട്ടിലെ സർവകലാശാലകൾ മൽസരിക്കുകയായിരുന്നല്ലോ.) പെരിന്തൽമണ്ണ
+ബസ്സ്റ്റാന്റിൽ മന്ത്രിയുടെ പ്രതിമ സ്ഥാപിക്കുന്ന കാര്യം നഗരസഭയും അദ്ദേഹത്തിന്റെ ജന്മദിനം പ്രമാണിച്ചു്
+ആഗസ്റ്റ് 15-നു് സ്കൂൾ കുട്ടികൾക്കു് അഞ്ചു് കിലോ അരി വീതം സൗജന്യമായി നൽകുന്ന കാര്യം മന്ത്രിസഭയും
+ഗൗരവമായി പര്യാലോചിക്കേണ്ടതാണു്. സർവശക്തനും പരമകാരുണികനുമായ അല്ലാഹു വിദ്യാഭ്യാസ
+മേഖലയെ കാത്തുരക്ഷിക്കട്ടെ. ഖുദാ ഹഫിസ്!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sooppikkoru Sthuthigeetham (ml:
+സൂപ്പിക്കൊരു സ്തുതിഗീതം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Sooppikkoru Sthuthigeetham, കെ. രാജേശ്വരി, സൂപ്പിക്കൊരു സ്തുതിഗീതം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 27, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Moritz_von_Schwind__Kaiser_Maximilian_I._in_der_Martinswand_-_2125__Kunsthistorisches_Museum.jpg">Emperor Maximilian I in the Martinswand,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Moritz_von_Schwind">Moritz von
+Schwind</ref>  (1804–1871). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-sooppi.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-sooppi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

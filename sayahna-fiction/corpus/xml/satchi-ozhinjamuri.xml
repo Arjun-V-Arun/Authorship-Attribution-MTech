@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഒഴിഞ്ഞ മുറി</title>
+          <title xml:lang="en" type="main">Ozhinjamuri</title>
+        </title>
+        <author>K. Satchidanandan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 11, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഒഴിഞ്ഞ മുറി</title>
+              <title xml:lang="en" type="main">Ozhinjamuri</title>
+            </title>
+            <author>K. Satchidanandan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-04-17</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>K. Satchidanandan</term>
+          <term>Ozhinjamuri</term>
+          <term>കെ. സച്ചിദാനന്ദൻ</term>
+          <term>ഒഴിഞ്ഞ മുറി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-04-17</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Josef_Capek.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Josef_%C4%8Capek__Harmonik%C3%A1%C5%99_(1919)_2.jpg">Čeština: Tvorba,</ref> a painting by Josef
+Čapek  (1887–1945). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഒഴിഞ്ഞ മുറി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. സച്ചിദാനന്ദൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapter" n="1" xml:id="chp1">
+        <head type="chaphead"/>
+        <div type="lsection">
+          <p style="noindent">‘കേരളീയർ നഷ്ടപ്പെട്ട ഒരു ജനതയാണു്’ എന്നെഴുതി വെച്ചു് 1982 ജൂലൈ 14-ാം
+തീയതി, ആത്മഹത്യചെയ്ത സുബ്രഹ്മണ്യദാസിനെപ്പറ്റി സച്ചിദാനന്ദൻ എഴുതിയ കവിതയാണു് ‘ഒഴിഞ്ഞ മുറി’. ഒരു
+കാലത്തിന്റെ നേരറിവുകൾ തന്ന ആത്മസംഘർഷങ്ങൾ കുറിച്ചിട്ടു് 23-ാമത്തെ വയസ്സിൽ കടന്നു പോയ ദാസിന്റെ
+ജീവിതം വേണ്ടത്ര പഠിക്കപ്പെട്ടില്ല. ദാസിന്റെ അദ്ധ്യാപകനും സുഹൃത്തുമായ സച്ചിദാനന്ദൻ ആ തീരാനഷ്ടം
+ഉണ്ടാക്കിയ വ്യഥയിൽ കുറിച്ചതാണു് ‘ഒഴിഞ്ഞമുറി’ എന്ന കവിത ‘<ref target="http://books.sayahna.org/ml/pdf/das-ph.pdf">സുബ്രഹ്മണ്യദാസ് ഇന്നും</ref>’
+എന്ന ഒരു സമാഹാരം സായാഹ്ന നേരത്തെ പ്രസിദ്ധീകരിച്ചിരുന്നു.
+</p>
+          <p>
+പി. കെ. അശോക് കുമാർ
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/sam-01.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+        </div>
+        <!--end of "section 1.0/0.1"-->
+      </div>
+      <!--end of "chapter 1/0"-->
+      <!--END OF CHAPTER 1/0-->
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead"> മഴ</head>
+        <div type="lsection">
+          <lg>
+            <l> മഴയായിരുന്നു</l>
+            <l> ജനലിൽവന്നു മരണമെന്നെ വിളിച്ചപ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> ദുഃസ്വപ്നങ്ങളുടെ വാതിൽചാരി</l>
+            <l> ഞാൻ അഭയംതേടി ഇറങ്ങിനടന്നപ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> കുളങ്ങൾ ഉത്കണ്ഠയുടെ കൃഷ്ണമണികൾപോലെ</l>
+            <l> ഞങ്ങളുടെനേരെ തിരിഞ്ഞപ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> വളഞ്ഞവഴിയുടെ കാവിയിൽ</l>
+            <l> അന്ത്യയാത്രയുടെ കാലടികൾ പതിയുമ്പോൾ</l>
+            <l> മഴയായിരുന്നു. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-ozhinjamuri-06-new.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> ഞാനും മരണവും ഒന്നിച്ചിവിടെ</l>
+            <l> വണ്ടിയിറങ്ങുമ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> എന്നെ താവളം കാണിച്ചുതന്നു്</l>
+            <l> മരണം ഒറ്റയ്ക്കു വേറെ ഭിക്ഷതേടി</l>
+            <l> മടങ്ങിപ്പോയപ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> കിളികളുടെ പാട്ടും തോഴരുടെ ചിരിയും</l>
+            <l> കേൾക്കാതിരിയ്ക്കാൻ ഞാൻ</l>
+            <l> കാതുപൊത്തിയപ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> എന്റെ ജനതയുടെയും ഭാഷയുടെയും</l>
+            <l> വറ്റിപ്പോകുന്ന</l>
+            <l> നദികളെക്കുറിച്ചു ഞാൻ നീലമഷിയിൽ</l>
+            <l> കുത്തിക്കോറുമ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> അമ്മയുടെ മടിയിലെന്നപോലെ</l>
+            <l> ഇരുമ്പിന്റെ വാത്സല്യത്തിൽ</l>
+            <l> ഞാൻ തലവെയ്ക്കുമ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> ചെവിയിൽ ചക്രങ്ങൾ യമകാലത്തിൽ</l>
+            <l> മുഴങ്ങിയുയർന്നപ്പോൾ</l>
+            <l> മഴയായിരുന്നു</l>
+            <l> ഉരുക്കുചെണ്ടകൾ എന്റെ തൊണ്ടയിലെ</l>
+            <l> നിലച്ച വാക്കുകളെ ഞെരിച്ചു-</l>
+            <l> കടന്നുപോകുമ്പോൾ.</l>
+            <l> അറ്റുപോയ ശിരസ്സ്</l>
+            <l> ഉടലിന്റെ നീലയുടുപ്പിട്ട പ്രതാപം കാണുമ്പോൾ</l>
+            <l> എനിക്കു ചിരിക്കണമെന്നുണ്ടു്; </l>
+            <l> കായ് ഇവിടെ, തടി അവിടെയും</l>
+            <l> വായ് ഇവിടെ, കൈ അവിടെയും</l>
+            <l> ഇച്ഛ ഇവിടെ, കർമ്മം അവിടെയും</l>
+            <l> ബുദ്ധി ഇവിടെ, ഹൃദയം അവിടെയും</l>
+            <l> ഉണങ്ങിയ മരത്തിൽനിന്നു്</l>
+            <l> വിളഞ്ഞ വയൽതേടി</l>
+            <l> കിളി പറന്നുപോയി,</l>
+            <l> പിളർന്ന മനംപോലെ ജഡവും രണ്ടായി.</l>
+            <l> പോരാളിയുടെ ചോരപുരണ്ട</l>
+            <l> കൂറ്റന്റെ കൊമ്പുകൾപോലെ</l>
+            <l> പാളങ്ങൾ തിളങ്ങുന്നു</l>
+            <l> അവയ്ക്കിടയിലൂടെ ശിരസ്സും താഴ്ത്തി</l>
+            <l> സുഹൃത്തിന്റ വരവുകാണുമ്പോൾ</l>
+            <l> എനിയ്ക്കു ചിരിയ്ക്കണമെന്നുണ്ടു്: </l>
+            <l> രണ്ടായിമുറിഞ്ഞ ശരീരംപോലെയാണു്</l>
+            <l> ഞങ്ങളുമിപ്പോൾ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-ozhinjamuri-04-new.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> കവിയുടെ ഭാഷയിൽപറഞ്ഞാൽ: </l>
+            <l> സ്നേഹത്താൽ പൂവിടുന്ന വൃക്ഷങ്ങളെപ്പോലെ</l>
+            <l> ഞങ്ങളൊന്നിച്ചു പുഷ്പിച്ചു</l>
+            <l> രോഷത്താൽ കവിയുന്ന പുഴകളെപ്പോലെ</l>
+            <l> ഞങ്ങളൊന്നിച്ചു പടിയിറങ്ങിപ്പോയി</l>
+            <l> താവളങ്ങളുടെ വ്രണങ്ങളുമായി</l>
+            <l> ഞങ്ങൾ തിരിച്ചുവന്നു.</l>
+            <l> ചേറിൽ പൂണ്ടുകിടന്നു് ചെറുപ്പക്കാരെ വിഴുങ്ങുന്ന</l>
+            <l> ആ കറുത്ത മുതല രണ്ടായി മുറിച്ചിട്ട</l>
+            <l> ശരീരംപോലെയാണു് ഞങ്ങളുമിപ്പോൾ; </l>
+            <l> ഈ കുതിർന്ന മണ്ണു്, പച്ചനിലാവു്,</l>
+            <l> ബലിയുടെ വിപിനങ്ങൾ, ഋതുക്കളുടെ ദീനചക്രം.</l>
+            <l> മരിച്ചവരുടെ മൂകഭാഷ-</l>
+            <l> എല്ലാം ഞങ്ങൾക്കിടയിൽ നില്ക്കുന്നു.</l>
+            <l> ‘സൗഹൃദത്തിന്റെ മുൾച്ചെടിയിൽ</l>
+            <l> മരണത്തിന്റെ നീലപ്പൂ വിടർന്നിരിക്കുന്നു.’</l>
+            <l> ഒറ്റപ്പെട്ട കുട്ടിയെപ്പോലെ അവനിതാ</l>
+            <l> എനിയ്ക്കും വെയിലിനും മീതെ കുനിഞ്ഞിരിയ്ക്കുന്നു.</l>
+            <l> മടക്കയാത്രയ്ക്കു സമയമായി</l>
+            <l> അശ്വാരൂഢരായ പനകൾ ഇനിയെന്നെ</l>
+            <l> അവയുടെ പച്ചക്കൈകളിൽ വഹിക്കും.</l>
+            <l> കുട്ടികൾ മരിച്ച വീടുകൾക്കും</l>
+            <l> അകം മരവിച്ച ആശ്രമങ്ങൾക്കുംമീതേ</l>
+            <l> അവരെന്നെ ഉടലോടുചേർത്തു വഹിയ്ക്കും-</l>
+            <l> അമ്മയുടെ അഗ്നിയിലേയ്ക്കു്</l>
+            <l> കാഴ്ചകളുടെ കടലിലേയ്ക്കു്. </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 1.0/1.1"-->
+      </div>
+      <!--end of "chapter 1/1"-->
+      <!--END OF CHAPTER 1/1-->
+      <div type="lchapter" xml:id="lchp2">
+        <head type="lchaphead">അമ്മ</head>
+        <div type="lsection">
+          <lg>
+            <l> ഒരമ്മയുടെ കണ്ണീരിനു് കടലുകളിൽ</l>
+            <l> ഒരു രണ്ടാം പ്രളയമാരംഭിക്കാൻ കഴിയും</l>
+            <l> മകനേ, എന്റെ സ്നേഹമുള്ള മകനേ,</l>
+            <l> ഏതു കുരുടൻ ദൈവത്തിനുവേണ്ടിയാണു്</l>
+            <l> നീ ബലിയായതു്?</l>
+            <l> ഭരദേവതയുടെ കാവിൽ ഞാൻ</l>
+            <l> പാട്ടും കുരുതിയും കഴിച്ചല്ലോ.</l>
+            <l> മകനേ, എന്റെ കരുണയുള്ള മകനേ,</l>
+            <l> ഏതു മാന്ത്രികവൃക്ഷം കായ്ക്കുവാനാണു്</l>
+            <l> നീ നിന്റെ ചോരകൊണ്ടു ഭൂമി നനച്ചതു്?</l>
+            <l> ഓരോ പിറന്നാളിനും നിന്റെ പേർചൊല്ലി</l>
+            <l> ഓരോ തേന്മാവു ഞാൻ നട്ടല്ലോ</l>
+            <l> മകനേ എന്റെ ധൈര്യമുള്ള മകനേ</l>
+            <l> ഏതു പൂതത്തിനു മുലചുരത്തിയിട്ടാണു</l>
+            <l> നിന്നെ അവൾ തട്ടിപ്പറിച്ചെടുത്തതു്?</l>
+            <l> കടുകും മുളകും അടുപ്പിലെറിഞ്ഞു്</l>
+            <l> നിനക്കു ഞാൻ ഏലസ്സുജപിച്ചുകെട്ടിച്ചല്ലോ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-ozhinjamuri-05-new.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> മകനേ, എന്റെ ബുദ്ധിയുള്ള മകനേ,</l>
+            <l> ഏതു ഭാഷയുടെ ചിറയുറയ്ക്കുവാനാണു്</l>
+            <l> നീ നിന്നെത്തന്നെ അറുത്തിട്ടതു്?</l>
+            <l> വയമ്പിന്റെ ചവർപ്പൂറുന്ന നാവിൽ</l>
+            <l> ഞാൻ സ്വർണ്ണംകൊണ്ടു</l>
+            <l> ഹരിഃശ്രീയെഴുതിയതാണല്ലോ</l>
+            <l> ‘ഒരമ്മയുടെ നിലവിളിയ്ക്കു് മലകളിൽ</l>
+            <l> ഒരു ഹിമപാതമാരംഭിയ്ക്കാൻ കഴിയും’</l>
+            <l> കുരിശിൽ മരിച്ചവന്റെ അമ്മ ഞാനാണു്</l>
+            <l> കുരുക്ഷേത്രധൂളിയിൽ കിടന്നുരുണ്ടവളും</l>
+            <l> ഞാനാണു്</l>
+            <l> പടയോട്ടങ്ങളുടെയെല്ലാം കുളമ്പുകൾ</l>
+            <l> ചവിട്ടിമെതിച്ച താരാട്ടാണു ഞാൻ.</l>
+            <l> യജ്ഞപതികളുടെ ഹവിസ്സിൽ വീഴുന്ന</l>
+            <l> പശുവിന്റെ ശാപമാണു ഞാൻ</l>
+            <l> രണഭൂമികളിൽ അഴിച്ചിട്ട മുടിയുമായി അലയുന്ന</l>
+            <l> ഭൂമിയുടെ നഷ്ടപ്പെട്ട ശാന്തിയാണു ഞാൻ</l>
+            <l> പുലരിയിലും നിലാവിലുംനിന്നു്</l>
+            <l> കുട്ടികളുടെ ചോരകഴുകിക്കളയുന്ന</l>
+            <l> ദീനരുടെ മഴയാണു ഞാൻ</l>
+            <l> ‘ഒരമ്മയുടെ നെടുവീർപ്പിനു് ഭൂമിയിൽ</l>
+            <l> ഒരു കാട്ടുതീയാരംഭിയ്ക്കാൻ കഴിയും’</l>
+            <l> കത്തട്ടെ പാപത്തിന്റെ കിഴക്കൻ മധുരകൾ,</l>
+            <l> കത്തട്ടെ കൊലയാളികളുടെ</l>
+            <l> സൊദോം ഗൊമോറകൾ.</l>
+            <l> തെളിയട്ടെ കനകമെന്നതുപോലെ കനലിൽ</l>
+            <l> വയലും വീടും മനവും കാവും</l>
+            <l> പാറയുടെ മുതുപിളർന്നൊഴുകട്ടെയെന്റെ മകൻ,</l>
+            <l> ഉറവയുടെ തെളിവാർന്ന പാട്ടുപാടുന്നവൻ</l>
+            <l> ഭൂമിയുടെ തോടുപൊളിച്ചുയരട്ടെയെന്റെ മകൻ,</l>
+            <l> ബലിനീലമാറ്റി ചുകപ്പുടുപ്പിട്ടവൻ</l>
+            <l> മരണത്തെ മഞ്ഞുപോലലിയിച്ചുയിർപ്പവൻ</l>
+            <l> പുലരിയുടെ കിരണത്തെ മുരളിയാക്കുന്നവൻ</l>
+            <l> ഉണരട്ടെയുണരട്ടെയുയരട്ടെ എന്റെ മകൻ </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 1.0/2.1"-->
+      </div>
+      <!--end of "chapter 1/2"-->
+      <!--END OF CHAPTER 1/2-->
+      <div type="lchapter" xml:id="lchp3">
+        <head type="lchaphead">ഒഴിഞ്ഞ മുറി</head>
+        <div type="lsection">
+          <lg>
+            <l> മുക്കുറ്റിയിതളുകളും പ്രാവിൻതൂവലുകളും കൊണ്ടു</l>
+            <l> പണിതുയർത്തിയതാണീ മുറി.</l>
+            <l> ‘വാക്കുകൾക്കും പ്രതീകങ്ങൾ’ക്കുംതാഴെ</l>
+            <l> മനുഷ്യരുടെയും മൃഗങ്ങളുടേയും മന്ത്രവാദം: </l>
+            <l> ഹുസൈന്റെ മേഘതുല്യമായ നീലക്കുതിരകൾ, </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-ozhinjamuri-01-new.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> ഹെബ്ബാറിന്റെ ചിറകുനീർത്തി</l>
+            <l> ചോരചിന്തുന്ന പോർക്കോഴികൾ,</l>
+            <l> അമൃതയുടെ യാതന തിളക്കിയ</l>
+            <l> ലോലരായ ഗ്രാമീണർ,</l>
+            <l> സുധീറിന്റെ കരുത്തരും</l>
+            <l> ഏകാകികളുമായ നാഗരികർ,</l>
+            <l> ഇലകൾപോലെ പെരുത്തുപെരുത്തുവരുന്ന</l>
+            <l> ജോഗെന്റെ ആണുങ്ങളും പെണ്ണുങ്ങളും</l>
+            <l> ഗുലാംമൊഹമ്മദിന്റെ വർണ്ണശബളമായ</l>
+            <l> ഗൃഹാതുരത്വങ്ങൾ… </l>
+            <l> പിന്നെ അവൻ അവന്റേതാക്കിയ കവിതകൾ: </l>
+            <l> പദ്യത്തിന്റെ ദീർഘവൃത്തങ്ങളിലും</l>
+            <l> ഗദ്യത്തിന്റെ സമചതുരങ്ങളിലും</l>
+            <l> തരളമായഹൃദയം പൂഴ്ത്തുന്ന ശീലമുള്ളവർ—</l>
+            <l> കടമ്പുവൃക്ഷങ്ങളുടെ വിജനതയിൽ</l>
+            <l> സ്വയം മുറിവേല്പിച്ചു</l>
+            <l> ചോരയൊലിപ്പിക്കുന്ന സുഗത,</l>
+            <l> പാറപ്പുറത്തു വെയിലിന്നൊപ്പം</l>
+            <l> പല്ലുരച്ചു മൂർച്ചകൂട്ടുകയും</l>
+            <l> ഒറ്റയ്ക്കു കുഞ്ഞുങ്ങളെയോർത്തു</l>
+            <l> തലയറയുകയും ചെയ്യുന്ന</l>
+            <l> വ്യാകുലരായ കലാപകാരികൾ… </l>
+            <l> യാത്രികരിറങ്ങിപ്പോയ തീവണ്ടിമുറിയിൽ</l>
+            <l> ബാക്കിയായ പത്രങ്ങളും ചീട്ടുകളുംപോലെ</l>
+            <l> അവന്റെ അനാഥമായ പുസ്തകങ്ങൾ: </l>
+            <l> സ്നേഹത്തിനു ചരിത്രത്തിന്റെ കണ്ണുകളും</l>
+            <l> ഉരുക്കിന്റെ പേശികളും നല്കിയ മാർക്സ്,</l>
+            <l> വോൾഗയുടെ സൂര്യനെപ്പോലെ ഉദിച്ചുയർന്നു്</l>
+            <l> രാത്രിയുടെ പ്രവചനംപോലെ</l>
+            <l> അസ്തമിച്ച ലെനിൻ,</l>
+            <l> ലാവോത്സുവിന്റെ കാരുണ്യത്തെ</l>
+            <l> താഴ്‌വരകളിലേയ്ക്കു പിടിച്ചിറക്കിയ</l>
+            <l> രക്തസ്നാതനായ</l>
+            <l> ആ പുതിയ ബുദ്ധൻ, മാവോ,</l>
+            <l> ഈ വിചിത്രസൗഹൃദങ്ങൾക്കിടയിൽ,</l>
+            <l> നരകാഗ്നിയിൽ കൈചൂടാക്കിയ</l>
+            <l> ദസ്തെയെവ്സ്കി,</l>
+            <l> ഇരുണ്ട ഗോപുരങ്ങളുടെ</l>
+            <l> പിരിയൻ കോവണികൾ</l>
+            <l> കയറിയിറങ്ങി രക്തം തുപ്പുന്ന കാഫ്ക,</l>
+            <l> നദിയുടെ ഈണങ്ങൾക്കു</l>
+            <l> കാതോർത്തിരിക്കുന്ന</l>
+            <l> ഹെസ്സെയുടെ സിദ്ധാർത്ഥൻ… </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi-ozhinjamuri-03-new.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> എല്ലാറ്റിലും അവന്റെ നിശ്ശബ്ദമായ രക്തം</l>
+            <l> ചിതറിവീണിരിക്കുന്നു</l>
+            <l> ഒരാൾക്കും അവനെ രക്ഷിക്കാനായില്ല.</l>
+            <l> തടവറയിൽ അവസാനം വായിച്ചുകൊണ്ടിരുന്ന</l>
+            <l> പുസ്തകം നിവർത്തിവെച്ചു്</l>
+            <l> തടവുകാരൻ തൂക്കുമരത്തിലേയ്ക്കു</l>
+            <l> നടന്നുപോയിരിക്കുന്നു.</l>
+            <l> ബാക്കിയായതു് നീലക്കടലാസ്സിൽ</l>
+            <l> കുത്തിക്കോറിയ ചില വരികൾമാത്രം.</l>
+            <l> അവസാനത്തെ ഹൃദയസ്പന്ദനത്തിന്റെ</l>
+            <l> ചിറകടി മാത്രം</l>
+            <l> അവസാനത്തെ നെടുവീർപ്പിന്റെ</l>
+            <l> ഇളംചൂടറ്റ പ്രതിദ്ധ്വനി മാത്രം.</l>
+            <l> ഉരിഞ്ഞിട്ട പേരും ഊരിവെച്ച ചെരിപ്പും മാത്രം.</l>
+            <l> ജീവിയ്ക്കപ്പെടാത്ത ഒരു ജീവിതം മുഴുവൻ</l>
+            <l> ഈ മുറിയിൽ അവനെ കാത്തിരിയ്ക്കുന്നു.</l>
+            <l> ജീവിയ്ക്കപ്പെടാത്ത ഒരു ജീവിതം,</l>
+            <l> പ്രതീക്ഷകളുടെയും സാദ്ധ്യതകളുടേയും</l>
+            <l> കുഴിയ്ക്കപ്പെടാത്ത ഒരു ഖനി. </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/satchi.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">സച്ചിദാനന്ദൻ</figDesc>
+          </figure>
+          <p>ചിത്രങ്ങൾ: വി. മോഹനൻ
+</p>
+        </div>
+        <!--end of "section 1.0/3.1"-->
+      </div>
+      <!--end of "chapter 1/3"-->
+      <!--END OF CHAPTER 1/3-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ozhinjamuri (ml: ഒഴിഞ്ഞ മുറി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Satchidanandan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-04-17. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, K. Satchidanandan,
+Ozhinjamuri, കെ. സച്ചിദാനന്ദൻ, ഒഴിഞ്ഞ മുറി, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 11, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Josef_%C4%8Capek__Harmonik%C3%A1%C5%99_(1919)_2.jpg">Čeština: Tvorba,</ref> a painting by Josef
+Čapek  (1887–1945). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/satchi-ozhinjamuri.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/satchi-ozhinjamuri.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

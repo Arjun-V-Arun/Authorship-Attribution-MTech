@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കരുണ ചെയ്വാനെന്തു താമസം
+കൃഷ്ണാ?</title>
+          <title xml:lang="en" type="main">Karuna Cheyvanenthu Thamasam
+Krishna?</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2026">April 12, 2026</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കരുണ ചെയ്വാനെന്തു താമസം
+കൃഷ്ണാ?</title>
+              <title xml:lang="en" type="main">Karuna Cheyvanenthu Thamasam
+Krishna?</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Karuna Cheyvanenthu Thamasam Krishna?</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കരുണ ചെയ്വാനെന്തു താമസം കൃഷ്ണാ?</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 12, 2026</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Mother_and_Child_in_Prayer.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Fran%C3%A7ois_Fines__Mother_and_Child_in_Prayer_-_Walters_372578.jpg">Mother and Child in
+Prayer,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q27946393">Eugène François Fines</ref>
+ (1826–1901). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കരുണ ചെയ്വാനെന്തു താമസം കൃഷ്ണാ?</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കരുണ ചെയ്വാനെന്തു താമസം കൃഷ്ണാ?</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p style="noindent"> കേരള രാഷ്ട്രീയം കണ്ട എക്കാലത്തെയും പ്രഗല്ഭനായ ചതുരംഗക്കളിക്കാരനാണു്
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ.
+കരുണാകരൻ</ref>. കളത്തെയും കരുക്കളെയും സംബന്ധിച്ചു് സൂക്ഷ്മജ്ഞാനം, ചടുലമായ നീക്കങ്ങൾ,
+കുശാഗ്രബുദ്ധി, വിപദിധൈര്യം എല്ലാം ചേരേണ്ടവിധം ചേർന്ന അപൂർവ പ്രതിഭ. ചാണക്യനെ വെല്ലുന്ന തന്ത്ര,
+കുതന്ത്രങ്ങൾ; മെയ്യു കണ്ണാക്കിയ അഭ്യാസപാടവം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_C_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. ജോസഫ്</figDesc>
+          </figure>
+          <p> കണ്ണൂരെ ചിറക്കൽനിന്നു് ചിത്രകല പഠിക്കാൻ തൃശ്ശിവപേരൂർക്കു പുറപ്പെട്ട <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കണ്ണോത്തു
+കരുണാകരൻ</ref> നാലുവട്ടം കേരള മുഖ്യമന്ത്രിയും കാൽ നൂറ്റാണ്ടിലേറെ കോൺഗ്രസ് നിയമസഭാകക്ഷി
+നേതാവും കുറഞ്ഞൊരു കാലം കേന്ദ്രത്തിൽ കിംഗ്മേക്കറുമായി വിലസിയതു് രാഷ്ട്രീയ കരുനീക്കങ്ങളിലുള്ള
+പാടവം കൊണ്ടാണു്. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> മനസ്സിൽ
+കാണുന്നതു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> മരത്തിൽ കാണും,
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+മാനത്തുകാണും.
+</p>
+          <p>കല്യാണീകാന്തന്റെ കടും കൈകൾ പറഞ്ഞാലൊടുങ്ങില്ല. എത്രയെത്ര വീരന്മാരെയാണു് കരുൺജി
+ഒടിച്ചുമടക്കി മൂലക്കിരുത്തിയതെന്നു് കൈയുംകണക്കുമില്ല. സ്ഥാലീപുലാകന്യായേന രണ്ടുദാഹരണങ്ങൾ പറയാം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thiruvanchoor_Radhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> 1978. അഖിലേന്ത്യാതലത്തിൽ കോൺഗ്രസ് പിളർന്നു. രാജൻകേസിലെ പ്രതികൂല
+പരാമർശങ്ങളെത്തുടർന്നു് കിരീടവും ചെങ്കോലും പോയി. കോടതി നിരങ്ങിനടക്കുകയാണു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>.
+അദ്ദേഹം <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാജി</ref> യുടെ
+പാർട്ടിയിൽ ചേർന്നു. ആളില്ല, പണമില്ല, എണ്ണിപ്പറയാൻ നേതാക്കളില്ല. <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്. മുസ്തഫ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/P._P._George">പി. പി. ജോർജ്ജ്</ref>
+മുതലായ പ്രതിഭാശാലികളേയുള്ളു ലീഡറോടൊപ്പം. റബർബോർഡ് ചെയർമാൻ പദമൊഴിഞ്ഞു് പാലായിൽ
+അടങ്ങിയൊതുങ്ങി കുടുംബത്തിരുന്ന പ്രൊഫ. <ref target="https://ml.wikipedia.org/wiki/K.M._Chandy">കെ. എം. ചാണ്ടി</ref> യെ
+
+വീട്ടിൽപോയി ക്ഷണിച്ചു കൊണ്ടുവന്നു് ഇന്ദിരാ കെ. പി. സി. സി.-യുടെ പ്രസിഡന്റാക്കിയതു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>.
+പിന്നീടങ്ങോട്ടു് രണ്ടാളും ഒറ്റക്കരളായിരുന്നു. ചാണ്ടിയില്ലാതെ കരുണനില്ല, കരുണനില്ലാതെ ചാണ്ടിയുമില്ല.
+1982-ൽ യു. ഡി. എഫ്. ഭൂരിപക്ഷം നേടി <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+മുഖ്യമന്ത്രിയുമായി. അതോടെ ചാണ്ടിസാറിനെക്കൊണ്ടുള്ള ഉപയോഗം കഴിഞ്ഞു. ഏറ്റവുമടുത്ത മുഹൂർത്തത്തിൽ
+അതിയാനെ ലഫ്. ഗവർണറാക്കി പോണ്ടിച്ചേരിക്കു നാടുകടത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> കോൺഗ്രസിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനോ</ref> ളം
+തന്നെ സീനിയറായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">എ. എ. റഹീം</ref>. തലയെടുപ്പും
+തറവാടിത്തവും കരുണനേക്കാൾ കൂടും. 1979 അവസാനം നടന്ന പാർലമെന്റ് തെരഞ്ഞെടുപ്പിൽ <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">റഹീമി</ref> നു് മൽസരിക്കാൻ
+കിട്ടിയതു് ജയസാധ്യത നന്നേ കുറഞ്ഞ ചിറയിൻകീഴ് സീറ്റാണു്. ഈഴവരുടെ കൈലാസം, മാർക്സിസ്റ്റ്
+സി. പി. ഐ. കക്ഷികൾ പ്രബലം. എതിർസ്ഥാനാർഥി <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> സിറ്റിംഗ്
+മെമ്പർ. വോട്ടെണ്ണിത്തീർന്നപ്പോൾ നേരിയ ഭൂരിപക്ഷത്തോടെ <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">റഹീം</ref> ജയിച്ചു. കേന്ദ്രത്തിൽ
+സഹമന്ത്രിസ്ഥാനവും ലഭിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AA_Rahim.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. എ. റഹീം</figDesc>
+          </figure>
+          <p> 1984-ൽ വിണ്ടും തെരഞ്ഞെടുപ്പു് <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">റഹീം</ref> സ്വദേശമായ
+കൊല്ലത്തു മൽസരിക്കാൻ മോഹിച്ചു. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകർജി</ref>
+പക്ഷേ, കൊല്ലം <ref target="https://ml.wikipedia.org/wiki/S._Krishna_Kumar">കൃഷ്ണകുമാറി</ref> നു
+കൊടുത്തു. ചിറയിൻകീഴ് <ref target="https://en.wikipedia.org/wiki/Thalekunnil_Basheer">തലേക്കുന്നിൽ
+ബഷീറി</ref> നും കൊടുത്തു. കേന്ദ്രമന്ത്രിക്കു മൽസരിക്കാൻ സീറ്റില്ല. <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">റഹീമി</ref> നെപ്പോലൊരു
+സീനിയർ നേതാവു് വെയിൽകൊണ്ടു് തെരഞ്ഞെടുപ്പു പ്രചാരണം നടത്തണോ? രാജ്യസഭാ സീറ്റ് തരാം എന്നു്
+ലീഡർ ഉറപ്പുകൊടുത്തു. രാജ്യസഭയിലേക്കു് ഒഴിവുവന്നപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> സ്ഥാനാർഥി.
+<ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">റഹീമി</ref> നു് അടുത്ത
+സീറ്റ് വാഗ്ദാനം. അടുത്ത ഒഴിവുവന്നപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനി</ref> ലെ
+മഹാഗാന്ധിയൻ ഉയിർത്തെഴുന്നേറ്റു. പട്ടികജാതിക്കാരൻ എന്നു പറഞ്ഞു <ref target="https://ml.wikipedia.org/wiki/T.K.C._VADUTHALA">ടി. കെ. സി. വടുതല</ref>
+ക്കു കൊടുത്തു. <ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">എ. എ.
+റഹീം</ref> പിന്നീടൊരിക്കലും പാർലമെന്റംഗമായില്ല എന്നുപറഞ്ഞാൽ കഥ കഴിഞ്ഞു അതാണു <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KMChandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. എം. ചാണ്ടി</figDesc>
+          </figure>
+          <p> 1995-ൽ മുഖ്യമന്ത്രിപദം നഷ്ടമായപ്പോൾ 1996-ലെ തെരഞ്ഞെടുപ്പിൽ തോറ്റപ്പോൾ കാരണവരുടെ കളി
+അവസാനിച്ചു എന്നുപറഞ്ഞവരുണ്ടു്. പക്ഷേ, അതിനെയും അതിജീവിച്ചു. <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരനെ</ref>
+കെ. പി. സി.-യുടെ ഏക വൈസ്പ്രസിഡന്റ് തുടർന്നു് പ്രസിഡന്റുമാക്കിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യെ
+പുറത്തുനിറുത്തി. <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി.
+തോമസി</ref> നെ മന്ത്രിയാക്കിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+പല്ലിനു ശൗര്യം തെല്ലും കുറഞ്ഞിട്ടില്ല എന്നു ജനം തിരിച്ചറിഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TKC_VADUTHALA.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. സി. വടുതല</figDesc>
+          </figure>
+          <p> കേരള രാഷ്ട്രീയത്തിലെ പരസ്പര പൂരകങ്ങളായ രണ്ടു് ആത്മാക്കളാണു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref>.
+കരുണാകരന്റെ കാപട്യമുണ്ടെങ്കിലേ ആന്റപ്പന്റെ ആദർശശുദ്ധിക്കു ധാവള ്യമുള്ളു. മറിച്ചു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ
+ആവണക്കെണ്ണ മുഖവും അനങ്ങാപ്പാറനയവും കാണുമ്പോഴേ കരുണന്റെ കർമചൈതന്യം ബോധ്യപ്പെടു.
+കരുണാകരനില്ലെങ്കിൽ ആന്റണിയില്ല, ആന്റണിയില്ലെങ്കിൽ കരുണാകരനുമില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>
+ഭൂമിയോളം ക്ഷമിച്ചു. വിട്ടു വീഴ്ച ചെയ്തു. വിട്ടുവീഴ്ച ചെയ്താണു് ആദർശധീരന്റെ മുഖം കോടിയതും സ്വരം പതറിയതും.
+രാജ്യസഭയിലേക്കു റെബലിനെ നിറുത്തിയപ്പോൾ ഹൈക്കമാന്റ് വാളൂരിയതാണു്. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> പറഞ്ഞു് വാൾ
+ഉറയിലിടുവിച്ചു. അതോടെ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു്</ref>
+ആവേശം കൂടി. എറണാകുളത്തു് റാലിനടത്തി. ഹൈക്കമാന്റിനെ വെല്ലുവിളിച്ചു. തിരുവനന്തപുരത്തു് യോഗം കൂടി.
+പുതിയ പാർട്ടിക്കു് തെരഞ്ഞെടുപ്പു ചിഹ്നവും കൊടിയും തീരുമാനിച്ചു. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> പിന്നെയും
+കാലുപിടിച്ചു. <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യെ
+മന്ത്രിയാക്കി. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു്</ref>
+രാജ്യസഭാ സീറ്റും, <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജ</ref> ക്കു്
+മുകുന്ദപുരം ലോക്സഭാ മണ്ഡലവും കാഴ്ചവെച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Muraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരളീധരൻ</figDesc>
+          </figure>
+          <p> 2004 മേയിൽ നടന്ന തെരഞ്ഞെടുപ്പു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref>
+വാട്ടർലു ആയി. <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജ</ref> തോറ്റു,
+<ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref>
+തോറ്റു, <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">ചെന്നിത്തല</ref> യും
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരനും</ref>
+വരെ തോറ്റു. കോൺഗ്രസ് കടപുഴകി. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും
+കൂട്ടരും അന്തോണിസുപുണ്യാളനെ പിന്നിൽനിന്നു കുത്തി. മദാമ്മാ ഗാന്ധിയുടെ അപ്രിയത്തിനു പാത്രീഭൂതനായി
+പുണ്യാളച്ചൻ പടിയിറങ്ങി. തൽസ്ഥാനത്തു് പുതുപ്പള്ളിക്കാരൻ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">കുഞ്ഞൂഞ്ഞ്</ref> മുഖ്യനായി.
+പരിശുദ്ധ കാതോലിക്കാബാവക്കും മലയാളമനോരമക്കും സ്തോത്രം!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. വി. തോമസ്</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>
+വീണപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref> കളി
+കഴിഞ്ഞു. മന്ത്രിസഭാ രൂപവത്കരണ വേളയിൽ കാരണവർ കൊടുത്ത ലിസ്റ്റ് കുഞ്ഞൂഞ്ഞ് കുട്ടയിലിട്ടു.
+കരുണാകരപക്ഷപാതികളായ <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+ക്കും <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം.
+ജേക്കബിനും</ref> വരെ മന്ത്രിസ്ഥാനം നഷ്ടപ്പെട്ടു. ലീഡർക്കും മകനും പാർട്ടിയിൽ പുല്ലുവിലയായി. ഒന്നുകിൽ
+പാർട്ടി വിട്ടുപോകുക അല്ലെങ്കിൽ ആട്ടും തുപ്പുമേറ്റു് കഴിയുക. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+അവഹേളനത്തിനൊപ്പം <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref> യുടെ
+പ്രലോഭനം കൂടിയായപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരനു്</ref>
+പിടിച്ചുനിൽക്കാനായില്ല—അങ്ങനെ ഡി. ഐ. സി. (കെ) ഉണ്ടായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ramesh_Chennithala.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമേശ് ചെന്നിത്തല</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണകരനെ</ref> യും
+പരിവാരങ്ങളെയും പടിയടിച്ചു പിണ്ഡംവെക്കുന്നതിനു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> എതിരായിരുന്നു.
+കാരണം കരുണനില്ലെങ്കിൽ പിന്നെ കേരളരാഷ്ട്രീയത്തിൽ ആദർശധീരനു പ്രസക്തിയില്ല. ഇക്കാര്യം <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യേക്കാൾ
+നന്നായി <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> ക്കു്
+അറിയാം. അതുകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യെ
+
+കോൺഗ്രസിൽനിന്നു് സസ്പെന്റ് ചെയ്യിക്കാനും പുറത്താക്കാനും കുഞ്ഞൂഞ്ഞ് ഉൽസാഹിച്ചു. കരുണജി ഒഴിഞ്ഞ
+രാജ്യസഭാ സീറ്റിൽ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യെ
+ദൽഹിക്കയയ്ക്കുന്നതിലും <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> വിജയിച്ചു.
+പാർട്ടിയും മുന്നണിയും ഭരണവും പൂർണമായി അതിയാന്റെ കൈയിൽ അമർന്നു. പക്ഷേ, <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+തൊട്ടതൊക്കെ പിഴച്ചു. അറുവഷളൻ ഭരണം. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> എത്ര
+ഭേദമായിരുന്നു എന്നു് ആളുകളെക്കൊണ്ടു് പറയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Padmaja_venugopal.jpg" rendition="gra"/>
+            <figDesc style="thumb">പത്മജ</figDesc>
+          </figure>
+          <p>കറുപ്പനയ്യാ മൂപ്പനാരും ചിദംബരവും തമിഴ്‌നാട്ടിൽ പയറ്റിയ തന്ത്രമാണു <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref>
+മകനും ഇവിടെ പരീക്ഷിച്ചതു്. ഇടതുമുന്നണിയിൽ ഇടംനേടുക, ഉമ്മൻ കോൺഗ്രസിനെ നാമാവശേഷമാക്കി
+കരുത്തുതെളിയിക്കുക, യഥാർഥ കോൺഗ്രസ് തങ്ങളുടേതെന്നു് ഹൈക്കമാന്റിനു മുന്നിൽ തെളിയിക്കുക. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യും
+തമ്മിൽ സീറ്റുവിഭജനം മാത്രമല്ല, മന്ത്രിമാരുടെ വകുപ്പുചർച്ചവരെ കഴിഞ്ഞു. കരുനീക്കം വൻ
+വിജയമായേനെ—പോളിറ്റ് ബ്യൂറോയുടെ ഇടപെടൽ ഇല്ലായിരുന്നെങ്കിൽ ഡി. ഐ. സി.-യുമായി സഖ്യമോ
+ധാരണയോ പാടില്ലെന്നു് <ref target="https://ml.wikipedia.org/wiki/Prakash_Karat">കാരാട്ട്</ref> ശഠിച്ചപ്പോൾ
+<ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യുടെ
+മുഖകമലം വാടി <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+കണക്കുകൂട്ടൽ അമ്പേ തെറ്റി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധീരൻ</figDesc>
+          </figure>
+          <p> തക്കസമയത്തു് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+ഇടപെട്ടു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരാ</ref> ദികളെ
+യു. ഡി. എഫ്. ക്യാമ്പിലേക്കു തിരിച്ചുകൊണ്ടുപോയി. <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> ക്കു
+പിടിച്ചുകയറാൻ കൊടുവള്ളിയും ഒരുക്കി കോൺഗ്രസുകാർ പരസ്പരം വാരി. വിരുദ്ധ ഗ്രൂപ്പുകാരുടെ പരാജയം
+ഉറപ്പാക്കി കൊടുവള്ളി പൊട്ടി. <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരൻ</ref>
+മലർന്നടിച്ചുവീണു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p> ഇടതുമുന്നണിയിൽ ചേക്കേറാൻ അവസാനശ്രമമെന്ന നിലക്കാണു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref>
+കൂട്ടരും എൻ. സി. പി.-യിൽ ചേർന്നതു്. തിരുവമ്പാടി ഉപതെരഞ്ഞെടുപ്പിൽ എൽ. ഡി. എഫിനു വേണ്ടി നടന്നു
+പ്രസംഗിക്കുകയും ചെയ്തു. കിംഫലം? തെരഞ്ഞെടുപ്പുകഴിഞ്ഞപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> മാത്രമല്ല
+<ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക്
+ജോണും</ref> <ref target="https://ml.wikipedia.org/wiki/A.K._Saseendran">ശശീന്ദ്രനും</ref> വരെ
+ഇടതുമുന്നണിക്കു പുറത്തായി. കാരണവരുടെ തന്ത്രങ്ങൾ പിന്നെയും പിന്നെയും പാളുന്നുവെന്നു്
+തിരിച്ചറിഞ്ഞപ്പോൾ ശങ്കരനും <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭന</ref> യുമൊക്കെ
+മാതൃസംഘടനയിലേക്കു മടങ്ങി. കടത്തുവള്ളം യാത്രയായീ… കരയിൽ നീ മാത്രമായീ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Balakrishna_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാലകൃഷ്ണപിള്ള</figDesc>
+          </figure>
+          <p> അങ്ങനെ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref>
+മകനും ഒരു മുന്നണിയിലുമില്ലാതെ രാഷ്ട്രീയത്തിന്റെ പുറമ്പോക്കിൽ കഴിയുമ്പോഴാണു് ഐക്യകാഹളം
+മുഴങ്ങുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+തിരിച്ചുകൊണ്ടുവന്നു് കോൺഗ്രസിനെ ശക്തിപ്പെടുത്തണം!
+</p>
+          <p>കരുണാകരകലാപവും ഡി. ഐ. സി.-യുടെ ആവിർഭാവവും കോൺഗ്രസിനെ ദുർബലമാക്കിയിരുന്നു എന്നതു്
+സത്യം. നല്ലൊരു ഭാഗം പ്രവർത്തകർ പ്രത്യേകിച്ചു് യുവാക്കൾ ലീഡർക്കൊപ്പം പാർട്ടി വിട്ടിരുന്നു. പാർട്ടി
+അനുഭാവികളിലോ സ്ഥിരം വോട്ടർമാരിലോ അത്രവലിയ ചോർച്ച ഉണ്ടായില്ലതാനും. പക്ഷേ, പ്രവർത്തകരുടെ
+അഭാവം തെരഞ്ഞെടുപ്പു പ്രചാരണരംഗത്തു് വലിയ മാന്ദ്യം സൃഷ്ടിക്കുകയും പരാജയത്തിലേക്കു വഴിതെളിക്കുകയും
+ചെയ്യുന്നതു് എറണാകുളം ഉപതെരഞ്ഞെടുപ്പു മുതൽ വ്യക്തമാണു്. ഡി. ഐ. സി./എൻ. സി. പി.
+അസ്തമിക്കുന്നതോടെ പ്രവർത്തകർ കോൺഗ്രസിലേക്കു തിരിച്ചു വരും എന്നതും ഉറപ്പാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PinarayiVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പിണറായി വിജയൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref>
+പരിവാരങ്ങളും പോയതോടെ കോൺഗ്രസിനുണ്ടായ പ്രധാന മേന്മ ഗ്രൂപ്പിസം അവസാനിച്ചു എന്നതാണു്.
+നേതാവില്ലാതെ പഴയ ഐ ഗ്രൂപ്പുകാർ നിസ്തേജരായി. ഐ ഗ്രൂപ്പില്ലാതായതോടെ എ ഗ്രൂപ്പും ഗ്രൂപ്പില്ലാ ഗ്രൂപ്പുമൊക്കെ
+അപ്രസക്തമായി. എ ഗ്രൂപ്പിൽ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+നയിക്കുന്ന കോർഗ്രൂപ്പു മാത്രം നിലനിന്നു. അവർ പരമശക്തരായി. പാർട്ടി കുഞ്ഞൂഞ്ഞിന്റെയും കൂട്ടാളികളുടെയും
+പിടിയിലൊതുങ്ങി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Dominic_Presentation.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡൊമിനിക് പ്രസന്റേഷൻ</figDesc>
+          </figure>
+          <p> കോർഗ്രൂപ്പെന്നു പറഞ്ഞാൽ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും കാളി
+കൂളി വേതാളങ്ങളും ഉൾപ്പെട്ട ചെറുസംഘമാണു്. അസുരഗുരു ശുക്രാചാര്യരുടെ വേഷത്തിൽ <ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടൻ മുഹമ്മദ്</ref>,
+സന്തത സഹപ്രവർത്തകരായി <ref target="https://ml.wikipedia.org/wiki/Thiruvanchoor_Radhakrishnan">തിരുവഞ്ചൂർ
+രാധാകൃഷ്ണൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/K.C._Joseph">കെ. സി. ജോസഫ്</ref>. <ref target="https://ml.wikipedia.org/wiki/Dominic_Presentation">ഡൊമിനിക്
+പ്രസന്റേഷൻ</ref> കുഞ്ഞൂഞ്ഞിന്റെ ഇടംകൈയും വലംകൈയുമായി <ref target="https://ml.wikipedia.org/wiki/P.T._Thomas">പി. ടി. തോമസും</ref> <ref target="https://ml.wikipedia.org/wiki/Benny_Behanan">ബെന്നി ബഹനാനും</ref>
+ഇവരാണു് സംസ്ഥാനത്തു് കോൺഗ്രസിനെ നയിക്കുകയും നിയന്ത്രിക്കുകയും ചെയ്യുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/M.M._Hassan">എം. എം. ഹസനും</ref> <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ. കുട്ടപ്പനും</ref>
+സീറ്റു നിഷേധിക്കാൻ പോലും ശക്തരാണു്. ഈ സംഘം ചങ്കുറപ്പും മനോരമയുടെ പിന്തുണയുമാണു്
+കോർഗ്രൂപ്പിന്റെ മുലധനം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AK_Saseendran.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ശശീന്ദ്രൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+വാലാണു് <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> എന്ന സത്യം വെട്ടിത്തുറന്നു പറഞ്ഞതു് വീരശ്രീ <ref target="https://ml.wikipedia.org/wiki/Vellappally_Natesan">വെള്ളാപ്പള്ളി
+നടേശൻ</ref>. എൻ. എസ്. എസ്. ജനറൽസെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/G._Sukumaran_Nair">സുകുമാരൻ
+നായരു</ref> ടെയും പിൻബലമാണു് കെ. പി. സി. സി. അധ്യക്ഷന്റെ പ്രധാന ‘യോഖ്യത’. രമേശ്ജി
+പ്രസിഡന്റായി വന്നപ്പോഴാണു് <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">കെ. മുരളീധരൻ</ref>
+എത്രകേമനായിരുന്നു എന്നു് കോൺഗ്രസ് പ്രവർത്തകർ തിരിച്ചറിഞ്ഞതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Benny_Behanan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബെന്നി ബഹനാൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി.
+തോമസും</ref><ref target="https://ml.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസനും</ref> മുതൽ <ref target="https://ml.wikipedia.org/wiki/P._Sankaran">പി. ശങ്കരനും</ref> എം. എ.
+ചന്ദ്രശേഖരനും വരെയുള്ള പഴയ ഐ ഗ്രൂപ്പുകാർ, <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">ജി. കാർത്തികേയനെ</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/M._I._Shanavas">എം. ഐ.
+ഷാനവാസി</ref> നെയും പോലുള്ള മുൻ മൂന്നാംചേരിക്കാർ <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്. മുസ്തഫ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/K.K._RAMACHANDRAN">കെ. കെ.
+രാമചന്ദ്രൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി.
+ചാക്കോ</ref> എന്നിങ്ങനെയുളള ഒറ്റയാന്മാർ <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Mullappally_Ramachandran">മുല്ലപ്പള്ളി
+രാമചന്ദ്രൻ</ref>, <ref target="https://en.wikipedia.org/wiki/Thalekunnil_Basheer">തലേക്കുന്നിൽ
+ബഷീർ</ref>, <ref target="https://en.wikipedia.org/wiki/K._Mohammed_Ali">കെ.
+മുഹമ്മദാലി</ref> മുതലായ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ബ്രാൻഡ്
+ആദർശധീരർ—ഇവരൊക്കെ അസംതൃപ്തരും അസ്വസ്ഥരുമാണു്. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> ക്ലീക്കിന്റെ
+അപ്രമാദിത്വം അവസാനിക്കണം. അഹിംസാപാർട്ടിയിൽ ഉൾപ്പാർട്ടി ജനാധിപത്യത്തിന്റെ പുതുയുഗം
+പിറക്കണം എന്നു് അവരൊക്കെ ആത്മാർഥമായി ആഗ്രഹിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PC_Chacko.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. ചാക്കോ</figDesc>
+          </figure>
+          <p> അശരണർക്കും ആലംബഹീനർക്കും ആശ്രയം ആദർശധിരനല്ലാതെ മറ്റാരു്? കേന്ദ്രത്തിൽ
+പ്രതിരോധമന്ത്രി വരെ ആകാൻ കഴിഞ്ഞെങ്കിലും തന്നെ മുഖ്യമന്ത്രിസ്ഥാനത്തുനിന്നു് പുകച്ചുചാടിച്ച <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യോടു്
+അടങ്ങാത്ത പക വെച്ചു പുലർത്തുന്നയാളാണു് അന്തപ്പൻ, <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരൻ</ref>, <ref target="https://en.wikipedia.org/wiki/Thalekunnil_Basheer">തലേക്കുന്നിൽ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Mullappally_Ramachandran">മുല്ലപ്പള്ളി</ref>
+പ്രഭൃതികൾക്കൊകെ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ മനോഗതം
+കൃത്യമായി അറിയാം. അവരും പ്രതികാരത്തിനായി ദാഹിക്കുന്നവരാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_M_Hassan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. ഹസൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കു്
+2009 മേയിലോ അതിനു മുമ്പോ കേന്ദ്രമന്ത്രി ഉദ്യോഗം അവസാനിപ്പിച്ചു് സംസ്ഥാനത്തേക്കു മടങ്ങിവരണം.
+തൽസമയത്തു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യെ
+മാറ്റണം. 2011-ൽ വീണ്ടും കേരള മുഖ്യമന്ത്രിയാകണം. വളരെ ലളിതമായ അജണ്ട.
+</p>
+          <p>പക്ഷേ, <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കു വലിയൊരു
+പരാധീനതയുണ്ടു്. അദ്ദേഹം ആദർശധീരനാണു് പരസ്യമായി ഗ്രൂപ്പുപ്രവർത്തനം നടത്താൻ പറ്റില്ല—അതും
+വൽസലശിഷ്യൻ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+ക്കെതിരെ. <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരനെ</ref>
+ക്കൊണ്ടോ <ref target="https://ml.wikipedia.org/wiki/Mullappally_Ramachandran">മുല്ലപ്പള്ളി</ref>
+യെകൊണ്ടോ അസംതൃപ്തരെ ഒരു കൊടിക്കീഴിൽ അണിനിരത്താനുമാവില്ല. പ്രശ്നം രണ്ടാണു്. ഒന്നാമതു് <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരനെ</ref> <ref target="https://ml.wikipedia.org/wiki/K.K._RAMACHANDRAN">കെ. കെ.
+രാമചന്ദ്രനും</ref> <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്. മുസ്തഫ</ref>
+യുമൊന്നും നേതാവായി അംഗീകരിക്കില്ല. രണ്ടാമതു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യും <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">സുധീരനും</ref> തമ്മിലുള്ള
+ഹൃദയൈക്യം ഇന്നാട്ടിൽ കൊച്ചുകുട്ടികൾക്കുവരെ അറിയാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MI_Shanavas.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ഐ. ഷാനവാസ്</figDesc>
+          </figure>
+          <p> ഇത്തരമൊരു വിഷമസന്ധിയിൽ ആദർശധീരന്റെ വളക്കൂറുള്ള ബുദ്ധിയിൽ തെളിഞ്ഞ പരിഹാരമാർഗമാണു്
+ഐക്യകാഹളം. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+അംഗീകരിക്കാൻ <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">മുസ്തഫ</ref> തയാർ, <ref target="https://ml.wikipedia.org/wiki/Mullappally_Ramachandran">മുല്ലപ്പള്ളി</ref>
+തയാർ, <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി.
+ചാക്കോ</ref> യും <ref target="https://ml.wikipedia.org/wiki/M._I._Shanavas">എം. ഐ.
+ഷാനവാസും</ref>, <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">ജി. കാർത്തികേയനും</ref>
+തയാർ, <ref target="https://ml.wikipedia.org/wiki/M._M._Jacob">എം. എം.
+ജേക്കബു</ref> മുതൽ <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാ ജോർജ്ജ്</ref>
+വരെയുള്ളവർ—തയാർ, തയാർ, തയാർ! ഹൈക്കമാന്റ് പച്ചക്കൊടി കാണിച്ചാൽ മാത്രം മതി. കാരണവർ
+തിരിച്ചുവരും. കായാകൽപ ചികിൽസകൊണ്ടു് പാർട്ടിയെ ശക്തിപ്പെടുത്തും. ആദ്യം <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> യെ വടക്കോട്ടു് വിടും, പിന്നെ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യെ
+മൂലക്കിരുത്തും. ഒത്തുതീർപ്പു് സ്ഥാനാർഥിയായി <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> മടങ്ങിവരും.
+കേരളത്തിലെ കോൺഗ്രസ് നേതൃത്വം ഏറ്റെടുക്കും.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയ</ref>
+വിളിച്ചാൽ <ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽ</ref> നിർബന്ധിച്ചാൽ
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു്</ref>
+നിഷേധിക്കാനാവില്ല. <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റുജി</ref> <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാജി</ref> മാരുടെ
+കാലംമുതൽ നെഹ്റു-ഗാന്ധിജി കുടുംബവുമായുള്ള ബന്ധം അതാണു് അച്ഛനോടൊപ്പം ചെന്നു് പാർട്ടിയെ
+ശക്തിപ്പെടുത്താൻ <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജ</ref> ക്കും
+കൊതിയായി. എൻ. സി. പി. തകർന്നിട്ടായാലും നാത്തൂൻ ചത്തിട്ടായാലും ആങ്ങളയുടെ കണ്ണീർ
+കാണണമെന്നേയുള്ളു മലർമങ്കക്കുമോഹം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_T_THOMAS.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ടി. തോമസ്</figDesc>
+          </figure>
+          <p> അങ്ങനെ ഐക്യകാഹളം മുഴങ്ങി. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+തിരിച്ചുകൊണ്ടുവരണമെന്നു ആദ്യം പറഞ്ഞതു്. <ref target="https://ml.wikipedia.org/wiki/M._M._Jacob">എം. എം. ജേക്കബ്</ref> പിന്നെ
+
+<ref target="https://ml.wikipedia.org/wiki/K.K._RAMACHANDRAN">കെ. കെ.
+രാമചന്ദ്രനും</ref> <ref target="https://en.wikipedia.org/wiki/T._H._Musthafa">ടി. എച്ച്. മുസ്തഫ</ref>
+യുമൊക്കെ അതു് ആവർത്തിച്ചു. ഘടകകക്ഷികളും മടിച്ചുനിന്നില്ല, <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> യും <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">പിള്ള</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ജേക്കബു</ref> മൊക്കെ
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണകാരന്റെ</ref>
+പ്രസക്തിയെപ്പറ്റി വാചാലരായി. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+വിളിക്കു, ഐക്യമുന്നണിയെ രക്ഷിക്കൂ!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_Karthikeyan.png" rendition="gra"/>
+            <figDesc style="thumb">ജി. കാർത്തികേയൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+തിരിച്ചുവിളിക്കണം എന്നു തെളിച്ചുപറഞ്ഞില്ലെങ്കിലും കോൺഗ്രസിന്റെ ‘അടിത്തറ’ ശക്തമാക്കേണ്ടതിന്റെ
+ആവശ്യകത <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യും വ്യക്തമാക്കി.
+ഏതാണ്ടു് ഇതുപോലൊരു പ്രസ്താവന പാസാക്കി <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> യും
+ധന്യനായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p> ഹൈക്കമാന്റ് പ്രശ്നം പഠിക്കാൻ <ref target="https://en.wikipedia.org/wiki/Mohsina_Kidwai">മുഹ്സിന കിദ്വായി</ref>
+യെ കേരളത്തിലേക്കയച്ചു. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">ചെന്നിത്തല</ref> യും
+കൂടി <ref target="https://en.wikipedia.org/wiki/Mohsina_Kidwai">മുഹ്സിന</ref>
+യെ കുപ്പിയിലിറക്കി. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+നിഴൽപറ്റി <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരനും</ref>
+പാർട്ടിയിലേക്കു തിരിച്ചുവരണം. അച്ചടക്കം കുട്ടിച്ചോറാകുമെന്നും ബോധ്യപ്പെടുത്തി. ഐക്യത്തിന്റെയും
+അച്ചടക്കത്തിന്റെയും പ്രാധാന്യത്തെക്കുറിച്ചാണു <ref target="https://en.wikipedia.org/wiki/Mohsina_Kidwai">മുഹ്സിന</ref> അധികം
+പറഞ്ഞതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mohsina_Kidwai.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുഹ്സിന കിദ്വായി</figDesc>
+          </figure>
+          <p> അച്ഛന്റെ രാഷ്ട്രീയ ഭാവിക്കു ദുർനിമിത്തമാകേണ്ട എന്ന ചിന്താഗതി കാരണം <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+എൻ. സി. പി.-യിൽനിന്നു വിടുതൽ ചെയ്തു. ഇനി അച്ഛനായി അച്ഛന്റെ പാടായി. സർവതന്ത്ര സ്വതന്ത്രനായി,
+കുളിച്ചു കുറിതൊട്ടു ശുദ്ധനായി ഭക്ത <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+മദാമാഗാന്ധിയുടെ പടിവാതിൽക്കൽ വിളികാത്തു് ചെവി വട്ടംപിടിച്ചു നിൽക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shobhana_George.png" rendition="gra"/>
+            <figDesc style="thumb">ശോഭനാ ജോർജ്</figDesc>
+          </figure>
+          <p>വയോധികനും രോഗാതുരനുമായ മുതിർന്ന നേതാവിനെ കരുവാക്കി ചതുരംഗം കളിക്കുകയാണു് ക്രൂര
+നസ്രാണികൾ—<ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യും <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും.
+അച്ഛനെ കരുവാക്കി അതേ കളിതന്നെ ആവർത്തിക്കുന്നു. <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യും <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജ</ref> യും <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ചാണ്ടി</ref> സാറിന്റെ,
+<ref target="https://ml.wikipedia.org/wiki/A.A._Rahim">റഹീം</ref> സാഹിബിന്റെ
+<ref target="https://ml.wikipedia.org/wiki/Xavier_Arakkal">സേവ്യർ
+അറയ്ക്കലി</ref> ന്റെ വേറെയും ഒരുപാടു് പേരുടെ ശാപം <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകർജി</ref> യുടെ
+തലക്കുമീതെയുണ്ടു്. ആരുടെയൊക്കെ എന്തൊക്കെ വിനോദങ്ങൾക്കു വിധേയനായാലാണു് അദ്ദേഹത്തിന്റെ
+ആയുസ്സൊടുങ്ങുക? കൃഷ്ണാ, ഗുരുവായൂരപ്പാ, ഭക്തവൽസലാ, കരുണനു നീയേ തുണ!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Karuna Cheyvanenthu Thamasam
+Krishna? (ml: കരുണ ചെയ്വാനെന്തു താമസം കൃഷ്ണാ?).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Karuna
+Cheyvanenthu Thamasam Krishna?, കെ. രാജേശ്വരി, കരുണ ചെയ്വാനെന്തു താമസം കൃഷ്ണാ?, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 12, 2026.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Fran%C3%A7ois_Fines__Mother_and_Child_in_Prayer_-_Walters_372578.jpg">Mother and Child in
+Prayer,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q27946393">Eugène François Fines</ref>
+ (1826–1901). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-karuna.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-karuna.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

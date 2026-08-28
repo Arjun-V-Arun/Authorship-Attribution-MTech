@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഡയറക്ടർ</title>
+          <title xml:lang="en" type="main">Director</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">July 29, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഡയറക്ടർ</title>
+              <title xml:lang="en" type="main">Director</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-06-03</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Director</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>ഡയറക്ടർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-06-03</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Antoine_Watteau_040.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Antoine_Watteau_040.jpg">The
+Embarkation for Cythera,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Antoine_Watteau">Jean-Antoine
+Watteau</ref>  (1684–1721). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഡയറക്ടർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഡയറക്ടർ</head>
+        <div type="lsection">
+          <p style="noindent">നാടകം ഏറ്റവും ജനകീയമായ ഒരു കലയാണു്. വളരെയാളുകൾ അതു കുറേസമയം
+കണ്ടുരസിക്കുന്നുണ്ടു്. ഒരു സംഘം ആളുകളുടെ സംയുക്തപ്രവർത്തനമാണു് നാടകാഭിനയം. ഇതൊക്കെ
+ശരിയാണെങ്കിലും നാടകം നടന്നുകൊണ്ടിരിക്കുന്നതിനിടയിൽ ഡെമോക്രസി അപ്രത്യക്ഷമാകും. ഒരാൾ എഴുതിയ
+ഒരു നാടകം ഒരു സംഘം ആളുകൾ ചേർന്നഭിനയിക്കുമ്പോൾ അവിടെ ഒരു പ്രത്യേകതരം കേന്ദ്രീകരണം
+ആവശ്യമായിത്തീരുന്നു. നാടകകർത്താവു് വിഭാവനംചെയ്യുന്ന ഒരു ആശയമാണു് അവിടെ പ്രകടിപ്പിക്കേണ്ടതു്.
+പ്രകടിപ്പിക്കുന്നതു മറ്റു കുറെ ആളുകളുമാണു്. ഇതെല്ലാം കണ്ടുരസിക്കാനുള്ളതു് ഇനിയും വേറെ ചിലരും.
+ഇവരെയെല്ലാം കൂട്ടിച്ചേർക്കുക (ആശയപരമായി) എന്നതാണു പ്രധാനമായി നടക്കേണ്ട കാര്യം. നാടകം വായിച്ചു
+പഠിച്ചു്, അതിനെപ്പറ്റി ചിന്തിച്ചു്, നാടകകൃത്തിന്റെ ലക്ഷ്യം വ്യക്തമായി ഗ്രഹിച്ചു് അതു നാട്യസംഘത്തിനു പകർന്നു
+കൊടുക്കുവാനുള്ള ചുമതല ഒരാൾ വഹിച്ചേതീരൂ. നടന്മാർ നാടകം വായിക്കയും പഠിക്കയും ചെയ്യുന്നതു്
+ആവശ്യമാണു്. അവരും നാടകം മനസ്സിലാക്കാൻ പരിശ്രമിക്കും. പക്ഷേ, അതുകൊണ്ടുമാത്രമായില്ല.
+</p>
+          <p>അവർക്കുതന്നെ ഭിന്നാഭിപ്രായങ്ങൾ ഉണ്ടായിയെന്നു വരാം. മനസ്സിലാകാത്തവരെ മനസ്സിലാക്കുവാനും
+ഭിന്നാഭിപ്രായക്കാരെ യോജിപ്പിക്കുവാനും ഒരാൾ ഉണ്ടാകണം. ആ ചുമതലക്കാരനാണു് ഡയറക്ടർ. മറ്റുള്ളവർക്കു്
+അഭിപ്രായം പറഞ്ഞുകൂടെന്നില്ല. അന്ത്യതീരുമാനം എപ്പോഴും ഡയറക്ടറുടേതായിരിക്കും എന്നുമാത്രം.
+ഡയറക്ടറാണെന്നതുകൊണ്ടു് അയാൾക്കു ലഭിക്കുന്ന ഒരു പ്രത്യേക അവകാശമല്ല ഇതു്. നേരെമറിച്ചു
+നാടകത്തെപ്പറ്റിയും, അഭിനയത്തെപ്പറ്റിയും ഏറ്റവും ശരിയായ അറിവുള്ളയാൾ ഡയറക്ടറാവുകയാണു ചെയുന്നതു്.
+ഗ്രന്ഥകർത്താവു പലപ്പോഴും ഡയറക്ടറാകാറുണ്ടെങ്കിലും നാട്യകലയെപ്പറ്റി ജ്ഞാനമില്ലാത്ത നാടകകൃത്തുകൾ
+ഡയറക്റ്റു ചെയുന്നതു് ബുദ്ധിയായിരിക്കില്ല. ഡയറക്ടർ നടന്മാരെ നാടകത്തിന്റെ അടിസ്ഥാനാശയം
+മനസ്സിലാക്കിക്കൊടുക്കുക മാത്രമല്ല ചെയ്യുന്നതു്. നടന്മാരേയും സദസ്സിനോടും യോജിപ്പിക്കുന്നതും അയാളുടെ
+പണിയാണു്. അഥവാ നാടകത്തിന്റെ ആശയം കാണികൾക്കു മനസ്സിലാകത്തക്കവണ്ണം നടന്മാരെക്കൊണ്ടു
+പ്രകടിപ്പിക്കയെന്ന ജോലി. ഈ ജോലിയാണു് അയാൾ റിഹേഴ്സലിൽ നിർവഹിക്കുന്നതു്. ഇവിടെയും അയാളാണു്
+അവസാനതീരുമാനമെടുക്കാൻ അധികാരമുള്ളയാൾ.
+</p>
+          <p>പരിശീലനമെല്ലാം കഴിഞ്ഞു് അഭിനയത്തിന്റെ സമയത്താണു ഡയറക്ടർ സർവാധിപതിയായിത്തീരുന്നതു്.
+ആ രണ്ടു മണിക്കൂർ സമയത്തേക്കു് മറ്റാരുടേയും അഭിപ്രായത്തിനു് അയാൾ വിലവെച്ചില്ലെന്നു വരും. ഇത്രയധികം
+തലവേദനയുണ്ടാക്കുന്ന മറ്റൊരു ജോലിയുണ്ടെന്നു തോന്നുന്നില്ല. അയാളുടെ അധികാരത്തിന്റെ ശക്തി മുഴുവനും
+ഉത്തരവാദിത്തത്തിന്റെ ഭാരമാണു്. അഭിനയത്തിനും, നടന്മാരുടെ അച്ചടക്കത്തിനും, രംഗസംവിധാനത്തിനും
+എന്നുവേണ്ട രംഗവേദിയിലുള്ള സകലതിനും അയാളാണുത്തരവാദി. ഒരു വശത്തു് അയാൾ ഒരു നടന്റെ സംശയം
+തീർക്കേണ്ടിയിരിക്കും. മറുവശത്തു നടന്മാർക്കുള്ള ലഘുഭക്ഷണം പരിശോധിക്കേണ്ടതും അയാൾ തന്നെ.
+രംഗത്തിൽ എന്തിലും കുഴപ്പമുണ്ടായാൽ അയാളാണതിനു സമാധാനം പറയേണ്ടതു്. ചുരുങ്ങിയ ഒരു
+സമയത്തിനിടയിൽ ഇത്രയധികം കാര്യങ്ങൾ ചെയ്തുതീർക്കേണ്ട ഒരു വ്യക്തിക്കു് അവിടെ ആജ്ഞകൾ
+കൊടുക്കുവാനുള്ള അവകാശമില്ലെങ്കിൽ കാര്യക്ഷമത കുറയും. അയാൾക്കു ശത്രുക്കളെ
+സമ്പാദിച്ചുകൊടുക്കുന്നവയാണു്. അനാവശ്യമായതിനകത്തു കടന്നുകൂടി അസൌകര്യം സൃഷ്ടിക്കുന്നവരെ അയാൾ
+പുറത്താക്കണം. യവനികയ്ക്കിടയിലൂടെ ഒളിഞ്ഞുനോക്കുന്നവരെയും സംസാരിച്ചു ശബ്ദമുണ്ടാക്കുന്നവരെയും
+അയാൾ തന്നെയാണു തടയേണ്ടതു്. അഭിനയത്തിനിടയിൽ വേണ്ടിവന്നേക്കാവുന്ന നൂറുകൂട്ടം സാധനങ്ങൾ
+അവിടെ എത്തിക്കേണ്ടതും അയാളുടെ ചുമതലയിലെ ഒരിനമാണു്. അതിനിടയിൽ അണിയറയുടെ കാര്യവും ഉണ്ടു്.
+അണിയറയിലെ അന്തരീക്ഷം വളരെ സ്ഫോടനാത്മകമായ ഒന്നാണു്. കലാസമിതികളിലെ അംഗങ്ങളുടെ
+പെരുമാറ്റത്തിന്റെ ഭംഗിക്കുറവുകൊണ്ടു ലോകപ്രസിദ്ധമായ സ്ഥാപനങ്ങൾ പോലും കേരളത്തിൽ തകർന്നു
+പോയിട്ടുണ്ടു്. അങ്ങനെയുള്ള സന്ദർഭങ്ങൾ ഏറ്റവും അധികം ഉണ്ടാകുന്നതു് അണിയറയിൽവെച്ചാണു്. ഇങ്ങനെ
+നിരവധി പ്രശ്നങ്ങളുടെ നടുവിൽക്കിടന്നു നട്ടംതിരിയുന്ന ഡയറക്ടർ വഹിക്കുന്ന ഭാരം വലിയതാണു്.
+നാടകാഭിനയത്തിൽ. പ്രതേകിച്ചും പ്രദർശനത്തിന്റെ സമയത്തു്, അയാളെ സർവാധിപതിയായി
+അവരോധിക്കുക മാത്രമേ നിർവാഹമുള്ളൂ. പ്രദർശനത്തിന്റെ സകല വശങ്ങളെയും സമപ്രാധാന്യത്തോടെ
+കാണുകയും മനസ്സിലാക്കുകയും ചെയ്യുന്ന ഏകവ്യക്തി അയാളാണു്. അവയെല്ലാം വിജയകരമായി
+നടത്തുവാനുള്ള ചുമതലയും അയാളുടേതാണു്. അതുകൊണ്ടു്, അയാൾക്കുതന്നെയായിരിക്കണം
+സർവാധികാരവും. അയാളെ നിഷേധിക്കാനുള്ള അവകാശം മുമ്പായിരുന്നു; അയാളെ ആ
+സ്ഥാനത്തിരുത്തുന്നതിനുമുമ്പു്.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Director (ml: ഡയറക്ടർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-06-03. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas, Director,
+സി. ജെ. തോമസ്, ഡയറക്ടർ, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 29, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Antoine_Watteau_040.jpg">The
+Embarkation for Cythera,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Antoine_Watteau">Jean-Antoine
+Watteau</ref>  (1684–1721). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-director.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-director.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

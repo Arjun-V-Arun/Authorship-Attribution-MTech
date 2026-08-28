@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ചരിത്രമറിയുന്നവരിൽ കോൺഗ്രസുകാർ
+തലതാഴ്ത്തുക</title>
+          <title xml:lang="en" type="main">Charithramariyunnavaril Congressukar
+Thalathazhththuka</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ചരിത്രമറിയുന്നവരിൽ കോൺഗ്രസുകാർ
+തലതാഴ്ത്തുക</title>
+              <title xml:lang="en" type="main">Charithramariyunnavaril Congressukar
+Thalathazhththuka</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Charithramariyunnavaril Congressukar Thalathazhththuka</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ചരിത്രമറിയുന്നവരിൽ കോൺഗ്രസുകാർ തലതാഴ്ത്തുക</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Winter_at_the_River_Simoa.jpg" width="100%"/>
+          <figDesc><ref target="https://no.wikipedia.org/wiki/Fil:Frits_Thaulow_-  _Winter_at_the_River_Simoa_-_Google_Art_Project.jpg">Winter at the River
+Simoa,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/no:Frits_Thaulow">Frits Thaulow</ref>
+ (1847–1906). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ചരിത്രമറിയുന്നവരിൽ കോൺഗ്രസുകാർ തലതാഴ്ത്തുക</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ചരിത്രമറിയുന്നവരിൽ കോൺഗ്രസുകാർ തലതാഴ്ത്തുക</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Uk_kumaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">യു. കെ. കുമാരൻ</figDesc>
+          </figure>
+          <p style="noindent"> കോൺഗ്രസിൽ ആരാണു് ചരിത്രം പഠിക്കാൻ മെനക്കെടുന്നതു്? ചോദിക്കുന്നതു്
+കുമാരനാണു്. <ref target="https://ml.wikipedia.org/wiki/U.K._Kumaran">യു. കെ.
+കുമാരൻ</ref>—കഥാകൃത്തു്, പത്രപ്രവർത്തകൻ, സർവോപരി കേരള സാഹിത്യ അക്കാദമി വൈസ്
+ചെയർമാൻ.
+</p>
+          <p>കോൺഗ്രസുകാരായ അപൂർവം സാഹിത്യകാരന്മാരിൽ ഒരാളാണു് കുമാരൻ. കെ. എസ്. യു.-വിലൂടെ
+രാഷ്ട്രീയത്തിലും വീക്ഷണത്തിലൂടെ പത്രപ്രവർത്തനരംഗത്തും പ്രവേശിച്ചയാൾ. വീക്ഷണം അസ്തമിച്ചപ്പോൾ
+കേരള കൗമുദിയിൽ ചേക്കേറിയെങ്കിലും രാഷ്ട്രീയ വീക്ഷണം തരിമ്പും മാറിയില്ല. ഖദർധാരിയാണു് കുമാരൻ. നമ്മൾ
+നൂറ്റ നൂലുകൊണ്ടും നമ്മൾ നെയ്ത വസ്ത്രംകൊണ്ടും നിർമിതം ഇതനീതിക്കൊരന്ത്യാവരണം. കോൺഗ്രസിലെ
+ആന്റണി വിഭാഗത്തോടാണു് കുമാരൻജിക്കു് പ്രതിബദ്ധത. ആദർശധീരന്റെ ജനോപകാര പരിപാടികൾക്കു്
+സൈദ്ധാന്തിക പിന്തുണ നൽകുന്നവരിൽ പ്രധാനിയാണു് അദ്ദേഹം. മുത്തങ്ങയിൽ ആദിവാസികൾക്കു് നേരെ
+നടന്ന പൊലീസ് അതിക്രമത്തെ സാംസ്കാരിക നായകർ ആകമാനം അപലപിച്ചപ്പോഴും കുമാരൻ കുലുങ്ങിയില്ല.
+കലാകൗമുദിയുടെ 1435-ാം ലക്കത്തിൽ (2003 മാർച്ച് 2) അദ്ദേഹമെഴുതിയ ലേഖനം <ref target="https://ml.wikipedia.org/wiki/M.T._Vasudevan_Nair">എം. ടി.</ref>-<ref target="https://ml.wikipedia.org/wiki/Paul_Zacharia">സക്കറിയ</ref>-<ref target="https://ml.wikipedia.org/wiki/Punathil_Kunjabdulla">കുഞ്ഞബ്ദുള്ള</ref><ref target="https://en.wikipedia.org/wiki/Sarah_Joseph_(author)">സാറാ
+ജോസഫ്</ref> പ്രഭൃതികൾക്കുള്ള ചുട്ട മറുപടിയായിരുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MT_VASUDEVAN_NAIR.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ടി.</figDesc>
+          </figure>
+          <p> ഇത്രയൊക്കെ പാടുപെട്ടിട്ടും <ref target="https://ml.wikipedia.org/wiki/N._P._Muhammad">എൻ. പി. മുഹമ്മദ്</ref>
+മരിച്ച ഒഴിവിൽ അക്കാദമി അധ്യക്ഷസ്ഥാനം കൊടുത്തില്ല സർക്കാർ. സാമുദായിക പരിഗണനയാൽ
+കേച്ചേരിയിൽ നിന്നൊരു പാട്ടെഴുത്തുകാരനെ കൊണ്ടുവന്നു് ചെയർമാനാക്കി. എന്നാലും കുമാരനു്
+കുണ്ഠിതമേതുമില്ല. ത്യാഗമെന്നതേ നേട്ടം, താഴ്മതാനഭ്യുന്നതി, താരകാമണിമാല ചാർത്തിയാലതും കൊള്ളാം.
+ഈ സർവോദയ മനഃസ്ഥിതിതന്നെയാകണം നവംബർ 3-ാം തീയതിയിലെ കേരള കൗമുദിയിൽ
+‘കോൺഗ്രസുകാരിൽ ചരിത്രം വായിക്കുന്നവർ കൈപൊക്കുക’ എന്ന സോദ്ദേശ ലേഖനമെഴുതാനും പ്രേരണ
+നൽകിയതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Punathil.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞബ്ദുള്ള</figDesc>
+          </figure>
+          <p> ചരിത്രബോധമില്ലാത്തവരാണു് കോൺഗ്രസുകാരേവരും എന്നു് കരുതരുതു്. ‘<ref target="https://ml.wikipedia.org/wiki/Glimpses_of_World_History">ഗ്ലിംസസ്
+ഓഫ് വേൾഡ് ഹിസ്റ്ററി</ref>’യും ‘<ref target="https://ml.wikipedia.org/wiki/The_Discovery_of_India">ഡിസ്കവറി ഓഫ്
+ഇന്ത്യ</ref>’യുമെഴുതിയതാരാണു്? <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">പണ്ഡിറ്റ് ജവഹർലാൽ
+നെഹ്റു</ref>—രാഷ്ട്രശില്പി, കോൺഗ്രസ് നേതാവു്. ഇന്ത്യാ ചരിത്രത്തിലും സമ്പന്നവും
+വൈവിധ്യപൂർണ്ണവുമായ ഭാരതീയ സംസ്കാരത്തിലും അഗാധ പണ്ഡിതയാണു് കോൺഗ്രസിന്റെ നേതാവു് <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയ മായ്നോ
+ഗാന്ധി</ref>, കേരള ചരിത്ര ഗവേഷണ കൗൺസിൽ പിരിച്ചുവിട്ടു് ഗസറ്റിയേഴ്സ് വകുപ്പു് പുനസ്ഥാപിക്കാൻ
+ശ്രമിച്ച നമ്മുടെ സാംസ്കാരിക മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയൻജി</ref>
+യേയും മറക്കാൻ പാടില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Npmuhammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. പി. മുഹമ്മദ്</figDesc>
+          </figure>
+          <p>കോൺഗ്രസിലെ ഗ്രൂപ്പുവഴക്കും കരുണാകരപക്ഷക്കാർക്കു് പെട്ടെന്നുണ്ടായ മാർക്സിസ്റ്റ് പ്രണയവുമാണു്
+ലേഖനത്തിന്റെ പ്രമേയം. മതേതര ശക്തികളുടെ ശിഥിലീകരണവും ദൗർബല്യവും വർഗീയ ഫാഷിസ്റ്റ്
+ശക്തികളുടെ വളർച്ചക്കാണു് വഴിയൊരുക്കുക എന്നു് കുമാരൻ താക്കീതു് നൽകുന്നു: “കോൺഗ്രസ്
+ശിഥിലീകരിച്ചാൽ ഭാവിയിൽ അഭിമുഖീകരിക്കുന്ന ഒരു വലിയ ദുരന്തവും ഇതായിരിക്കും. എന്നാൽ, നേരത്തേ
+നിർണയിക്കപ്പെട്ട ചിലതു് നേടിയെടുക്കാനുള്ള വ്യഗ്രതയിൽ ചിലർ ഈ ഭീകര യാഥാർത്ഥ്യത്തെ മറക്കുകയോ
+കണ്ടില്ലെന്നു് നടിക്കുകയോ ചെയ്യുന്നു.” 1979–80 കാലഘട്ടത്തിൽ ഇവിടെയൊരു കൂട്ടർ കോൺഗ്രസിനെ
+ശക്തിപ്പെടുത്താനായി മാർക്സിസ്റ്റ് പടകുടീരത്തിൽ കുടിയേറിയ പഴങ്കഥ കുമാരൻജി മറന്നതോ ഓർമയില്ലെന്നു്
+നടിക്കുന്നതോ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sara_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">സാറാ ജോസഫ്</figDesc>
+          </figure>
+          <p> 1976-ൽ (അച്ചടിപ്പിശകാവാനേ തരമുള്ളൂ, 1996 എന്നു് തിരുത്തി വായിക്കുക) യു. ഡി. എഫിനു് ജയിക്കാനുള്ള
+വ്യക്തമായ രാഷ്ട്രീയ സാഹചര്യം ഉണ്ടായിട്ടും പരാജയപ്പെടുകയായിരുന്നു. കുമാരൻ എഴുതുന്നു: “യു. ഡി. എഫ്.
+സ്ഥാനാർത്ഥികൾ, പ്രത്യേകിച്ചും കോൺഗ്രസ് സ്ഥാനാർത്ഥികൾ പല സ്ഥലത്തും പരാജയപ്പെട്ടതു് നിസ്സാര
+വോട്ടുകൾക്കാണു്. വളരെ സമർഥമായ കാലുവാരലിന്റെ ഫലമായിരുന്നു ഇതു്. കോൺഗ്രസ്
+ഭരണത്തിലെത്തിയില്ലെങ്കിലും കുഴപ്പമില്ല, മറ്റു ചിലർ അധികാരത്തിൽ തിരിച്ചെത്തരുതെന്ന നിർബന്ധബുദ്ധിയുടെ
+ഫലമായിരുന്നു ഈ തോൽവി.” കുന്നംകുളത്തു് ഐ. ഗ്രൂപ്പിലെ <ref target="https://ml.wikipedia.org/wiki/T.V._Chandramohan">ടി. വി.
+ചന്ദ്രമോഹൻ</ref> തോറ്റതു് 884 വോട്ടിനാണു്. തൃശൂർ പാർലമെന്റ് സീറ്റിൽ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>
+പരാജയപ്പെട്ടതു് ആയിരത്തിൽപരം വോട്ട് വ്യത്യാസത്തിലും. അങ്ങനെയെങ്കിൽ കാലു വാരിയവരാരു്?
+കോൺഗ്രസ് അധികാരത്തിൽ തിരിച്ചെത്തിയില്ലെങ്കിലും കുഴപ്പമില്ല എന്നു് നിനച്ചവർ ആരൊക്കെ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jnehru.jpg" rendition="gra"/>
+            <figDesc style="thumb">നെഹ്റു</figDesc>
+          </figure>
+          <p> അവസാന ഖണ്ഡികയിലാണു് കുമാരേട്ടന്റെ ചരിത്രവിജ്ഞാനം കര കവിഞ്ഞൊഴുകുന്നതു്. “1976-ൽ പശ്ചിമ
+ബംഗാളിലും ഇതുപോലുള്ള ഒരു രാഷ്ട്രീയ സമസ്യ ഉരുത്തിരിയുകയുണ്ടായി. കോൺഗ്രസിന്റെ നെടുങ്കോട്ടയായ
+ബംഗാളിൽ ഗ്രൂപ്പുകൾ തലപൊക്കി. അജയ മുഖർജിയുടെ നേതൃത്വത്തിൽ ബംഗ്ലാ കോൺഗ്രസുണ്ടായി. മാർക്സിസ്റ്റ്
+പാർട്ടിയുടെ സഹായത്തോടെ <ref target="https://ml.wikipedia.org/wiki/Ajoy_Mukherjee">മുഖർജി</ref>
+മുഖ്യമന്ത്രിയായി. ഏതാനും മാസം അദ്ദേഹം ഭരിച്ചു. അദ്ദേഹത്തെ താഴെയിറക്കി പിന്നീടു് നടന്ന
+തെരഞ്ഞെടുപ്പിൽ ഇടതു മുന്നണി അധികാരത്തിലേറി. അതിനു് ശേഷം ബംഗാളിൽ കോൺഗ്രസ്
+അധികാരത്തിൽ വന്നിട്ടില്ല…”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/G_Karthikeyan.png" rendition="gra"/>
+            <figDesc style="thumb">കാർത്തികേയൻ</figDesc>
+          </figure>
+          <p> ലേഖകൻ പറയുന്ന രാഷ്ട്രീയ സമസ്യ ഉരുത്തിരിഞ്ഞതു് 1967-ലാണു്; 1976-ലല്ല. (വീണ്ടും അച്ചടിപ്പിശകെന്നു്
+സമാധാനിക്കുക.) <ref target="https://ml.wikipedia.org/wiki/Ajoy_Mukherjee">അജയ് കുമാർ മുഖർജി</ref>
+യെ ബംഗാൾ പി. സി. സി. പ്രസിഡന്റ് സ്ഥാനത്തുനിന്നു് നീക്കിയതു് 1966 ജനുവരി 20-നു്, ബംഗ്ലാ
+കോൺഗ്രസുണ്ടാക്കിയതു് ആ വർഷം ജൂലൈ 15-നു്. 1967 ഫെബ്രുവരിയിൽ നടന്ന പൊതുതെരഞ്ഞെടുപ്പിൽ
+കോൺഗ്രസായിരുന്നു ഏറ്റവും വലിയ ഒറ്റക്കക്ഷി. 280 അംഗസഭയിൽ കോൺഗ്രസിനു് 127;
+ഇടതുപാർട്ടികൾക്കെല്ലാംകൂടി 151. അജയ് മുഖർജി മുഖ്യമന്ത്രിയും സഖാവു് <ref target="https://ml.wikipedia.org/wiki/Jyoti_Basu">ജ്യോതിബസു</ref>
+ഉപമുഖ്യനുമായി മാർച്ച് 2-നു് ഐക്യമുന്നണി സർക്കാർ അധികാരത്തിലേറി. നവംബർ 2-നു് ഭക്ഷ്യമന്ത്രി
+ഡോ. പി. സി. ഘോഷ് പാലംവലിച്ചു. ഗവർണർ ധരംവീര മന്ത്രിസഭയെ ഡിസ്മിസ് ചെയ്തു. കോൺഗ്രസ്
+പിന്തുണയോടെ ഡോ. ഘോഷ് മന്ത്രിസഭയുണ്ടാക്കിയെങ്കിലും അതും അൽപായുസ്സായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ajoy_Mukherjee.jpg" rendition="gra"/>
+            <figDesc style="thumb">അജയ് കുമാർ മുഖർജി</figDesc>
+          </figure>
+          <p> 1969 ഫെബ്രുവരി 9-നു് ബംഗാൾ നിയമസഭയിലേക്കു് ഇടക്കാല തെരഞ്ഞെടുപ്പു് നടന്നു. ഐക്യമുന്നണിക്കു് 210
+സീറ്റ് കിട്ടി. സി. പി. എം. 80, സി. പി. ഐ. 30, ബംഗ്ലാ കോൺഗ്രസ് 33, ഫോർവേഡ് ബ്ലോക്ക് 21, ആർ. എസ്. പി.
+12, മറ്റുള്ളവർ 34. വീണ്ടും അജയ് മുഖർജി മുഖ്യമന്ത്രി, ജ്യോതിബസു ഉപമുഖ്യമന്ത്രി. ഇത്തവണ മുന്നണിക്കകത്തു്
+അഭിപ്രായവ്യത്യാസം രൂക്ഷമായി. 1970 മാർച്ച് 16-നു് മന്ത്രിസഭ നിലംപൊത്തി. ബദലുണ്ടാക്കാൻ ജ്യോതിബസു
+കിണഞ്ഞു ശ്രമിച്ചെങ്കിലും ഫലമുണ്ടായില്ല. മാർച്ച് 19-നു് ബംഗാൾ രാഷ്ട്രപതിഭരണത്തിലായി.
+</p>
+          <p>1971 മാർച്ച് 10-നു് വീണ്ടും തെരഞ്ഞെടുപ്പു്. സി. പി. എം. മുന്നണിക്കു് 108, കോൺഗ്രസിനു് 105. അത്തവണ
+അജയ് മുഖർജി കോൺഗ്രസ് പിന്തുണയോടെ മന്ത്രിസഭയുണ്ടാക്കി. കിഴക്കൻ പാക്കിസ്ഥാനിൽ നിന്നുള്ള
+അഭയാർഥി പ്രവാഹവും നക്സൽ അക്രമവും സർക്കാറിന്റെ നില തെറ്റിച്ചു. ജൂൺ 28-നു് മുഖർജിയുടെ മൂന്നാമൂഴവും
+കഴിഞ്ഞു, വീണ്ടും രാഷ്ട്രപതിഭരണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 1972 മാർച്ച് 11-നു് നടന്ന തെരഞ്ഞെടുപ്പിൽ സി. പി. എം. തകർന്നടിഞ്ഞു. കോൺഗ്രസ്-സി. പി. ഐ. മുന്നണി
+പശ്ചിമ ബംഗാൾ തൂത്തുവാരി. 280-ൽ 216-ഉം കോൺഗ്രസ് നേടി; സി. പി. എം. 13-ൽ ഒതുങ്ങി. അതിഗംഭീര ബൂത്തു
+പിടിത്തവും അക്രമവും നടന്ന ബാരാനഗറിൽ ജ്യോതിബസു പരാജിതനായി. സി. പി. ഐ. സ്ഥാനാർത്ഥി
+ശിവപാദ ഭട്ടാചാര്യയുടെ ഭൂരിപക്ഷം 38,000. 1946 മുതൽ ബംഗാൾ നിയമസഭയുടെ അവിഭാജ്യ ഘടകമായിരുന്ന
+ജ്യോതിബസുവിന്റെ ഏക തെരഞ്ഞെടുപ്പു് പരാജയം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Siddharta_Shankar_Ray.jpg" rendition="gra"/>
+            <figDesc style="thumb">സിദ്ധാർഥ ശങ്കർ റായ്</figDesc>
+          </figure>
+          <p> 1972 മാർച്ച് 20-നു് കോൺഗ്രസ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/Siddhartha_Shankar_Ray">സിദ്ധാർഥ ശങ്കർ
+റായ്</ref> മന്ത്രിസഭ രൂപവത്കരിച്ചു. ഭരണഘടനാ വിദഗ്ദ്ധൻ, ദേശബന്ധു, സി. ആർ. ദാസിന്റെ ചെറുമകൻ.
+ഭരണം പൊടിപൊടി. നക്സലുകളെന്നു് സംശയിക്കപ്പെട്ട നൂറുകണക്കിനു് യുവാക്കൾ പൊലീസുമായുള്ള
+‘ഏറ്റുമുട്ടലിൽ’ കൊല്ലപ്പെട്ടു. മുമ്പേ പറന്ന പക്ഷികളത്രയും സർക്കാറിന്റെ ഉരുക്കുമുഷ്ടിയാൽ പിടഞ്ഞുമരിച്ചു.
+പിന്നാലെ അടിയന്തിരാവസ്ഥയുമെത്തി—കരൾ പിളരുംകാലം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> 1977 മാർച്ചിൽ നടന്ന ലോക്സഭാ തെരഞ്ഞെടുപ്പിൽ ഉത്തരേന്ത്യയിലാകമാനം കോൺഗ്രസ് തകർന്നടിഞ്ഞു.
+ബംഗാളിലെ 42 സീറ്റുകളിൽ മൂന്നിടത്തേ പാർട്ടി ജയിച്ചുള്ളു. സി. പി. എം. 17, ജനത 13, മറ്റുള്ളവർ 7. ഏപ്രിൽ 30-നു്
+സംസ്ഥാന മന്ത്രിസഭ ഡിസ്മിസ് ചെയ്യപ്പെട്ടു. സിദ്ധാർഥ ദാ റൈറ്റേഴ്സ് ബിൽഡിംഗ് വിട്ടിറങ്ങി. ജൂണിൽ നടന്ന
+തെരഞ്ഞെടുപ്പിൽ സി. പി. എം. ഒറ്റക്കു് ഭൂരിപക്ഷം നേടി—178 സീറ്റ്. ജനതാപാർട്ടിക്കു് 29, കോൺഗ്രസിനു് 20.
+</p>
+          <p>1977 ജൂൺ 21-നു് ജ്യോതിബസു മുഖ്യമന്ത്രിയായി സത്യവാചകം ചൊല്ലി. അന്നുയർന്ന ചെങ്കൊടി ഇന്നും
+അക്ഷീണം പാറുകയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jyotibasu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജ്യോതിബസു</figDesc>
+          </figure>
+          <p> എന്താണു് ബംഗാളിലെ ഇടതുമുന്നണിയുടെ വിജയരഹസ്യം? ഭൂപരിഷ്കരണം നടപ്പാക്കിയതോ,
+കോൺഗ്രസിലെ ഗ്രൂപ്പുവഴക്കോ? ബംഗാളിയിൽ മനോരമ പ്രസിദ്ധീകരിക്കാത്തതുകൊണ്ടാണെന്നു്
+വാദിക്കുന്നവരുണ്ടു്; ജ്യോതിബസുവിനു് <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാരോ</ref> ളം
+നർമബോധമില്ലാത്തതുകൊണ്ടാണെന്നു് സമർഥിക്കുന്നവരും. 1972–77 കാലത്തെ കോൺഗ്രസ് ഭരണത്തിന്റെ
+മധുരസ്മരണകൾ ബംഗാളിയുടെ ഹൃദയത്തിൽ മായാതെ നിൽക്കുന്നു എന്നതും കാരണമാകാം. <ref target="https://ml.wikipedia.org/wiki/U.K._Kumaran">യു. കെ. കുമാരൻ</ref>
+അംഗീകരിച്ചാലും ഇല്ലെങ്കിലും ഒരു കാര്യം സത്യമാണു്—1949–50 കാലത്തു് തിരുകൊച്ചിയിലും
+അടിയന്തിരാവസ്ഥക്കാലത്തു് സംസ്ഥാനത്താകെയും നടന്നതിലും എത്രയോ ഭയാനകമായ മനുഷ്യാവകാശ
+ലംഘനമാണു് കോൺഗ്രസ് ഭരണകാലത്തു് ബംഗാളിൽ നടന്നതു്. കരുണാകരനു് മാപ്പു് കൊടുക്കാൻ
+മലയാളിക്കാവും, <ref target="https://ml.wikipedia.org/wiki/Siddhartha_Shankar_Ray">സിദ്ധർഥ ശങ്കർ
+റായി</ref> യോടു് ക്ഷമിക്കാൻ ബംഗാളിക്കു് സാധിക്കില്ല.
+</p>
+          <p>1999 ഒക്ടോബറിൽ ലോക്സഭാ തെരഞ്ഞെടുപ്പിൽ കൊൽക്കത്ത നോർത്ത് വെസ്റ്റിൽ കോൺഗ്രസ്
+സ്ഥാനാർത്ഥിയായി മൽസരിച്ച സിദ്ധാർഥനു് ജാമ്യസംഖ്യ തിരിച്ചുപിടിക്കാൻ കഴിഞ്ഞില്ല!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Ajoy_Mukherjee">അജയ്
+മുഖർജി</ref> യല്ല, <ref target="https://ml.wikipedia.org/wiki/Siddhartha_Shankar_Ray">സിദ്ധാർഥ ശങ്കർ
+റായി</ref> യാണു് ബംഗാളിൽ കോൺഗ്രസിന്റെ കുഴിതോണ്ടിയതു്. ഇവിടെ കോൺഗ്രസിന്റെ ശവപ്പെട്ടിയിൽ
+
+അവസാനത്തെ ആണിയടിക്കുന്നതു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ആയിരിക്കും.
+വിലാപയാത്രക്കു് മുന്നിൽ കുന്തിരിക്കം പുകയുന്ന ധൂപക്കുറ്റി വീശുന്നവർ കുമാരൻ മുതൽപേരും.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Charithramariyunnavaril
+Congressukar Thalathazhththuka (ml: ചരിത്രമറിയുന്നവരിൽ കോൺഗ്രസുകാർ തലതാഴ്ത്തുക).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Charithramariyunnavaril Congressukar Thalathazhththuka, കെ. രാജേശ്വരി, ചരിത്രമറിയുന്നവരിൽ
+കോൺഗ്രസുകാർ തലതാഴ്ത്തുക, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://no.wikipedia.org/wiki/Fil:Frits_Thaulow__Winter_at_the_River_Simoa_-_Google_Art_Project.jpg">Winter at the River
+Simoa,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/no:Frits_Thaulow">Frits Thaulow</ref>
+ (1847–1906). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-thala.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-thala.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

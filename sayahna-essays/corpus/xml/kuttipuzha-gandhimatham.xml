@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗാന്ധിമതം</title>
+          <title xml:lang="en" type="main">Gandhimatham</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">November 15, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗാന്ധിമതം</title>
+              <title xml:lang="en" type="main">Gandhimatham</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Gandhimatham</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഗാന്ധിമതം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 15, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Eremit_in_Felslandschaft.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Carl_Blechen__Eremit_in_Felslandschaft.jpg">Hermit in a rocky landscape,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Carl_Blechen">Carl Blechen</ref>
+ (1798–1840). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗാന്ധിമതം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗാന്ധിമതം</head>
+        <div type="lsection">
+          <p style="noindent">ഭിന്നമതങ്ങളുടെ തിക്കുംതിരക്കുംകൊണ്ടു് ശ്വാസംമുട്ടുന്ന ഇന്ത്യയ്ക്കു് ഈ
+ആപത്തിൽനിന്നു് എന്നു് മോചനം ലഭിക്കുമെന്നു് ആർക്കും നിശ്ചയിച്ചുകൂടാ. ഹിന്ദുമതം എന്ന
+വിശാലവലയത്തിൽത്തന്നെ പ്രത്യേകം പ്രത്യേകം ‘ലേബൽ’ ഒട്ടിച്ചു് നിരത്തി നിർത്തിയിരിക്കുന്ന എത്രയെത്ര
+ഉപമതങ്ങളുണ്ടു്! ഇക്കൂട്ടത്തിൽ ഇന്നു ഗാന്ധിമതം എന്നൊരു പുതിയ മയക്കുവിദ്യകൂടി തലപൊന്തിക്കുമോ എന്നു്
+ഭയപ്പെടേണ്ടിയിരിക്കുന്നു. ഏതായാലും അതിനുള്ള ലക്ഷണങ്ങൾ ഇപ്പോൾ പ്രത്യക്ഷപ്പെട്ടുതുടങ്ങിയിട്ടുണ്ടു്.
+അങ്ങനെ സംഭവിക്കുന്നപക്ഷം നാല്പതുകോടി ജനങ്ങളെ മാനസികമായി ബന്ധിച്ചിട്ടിരിക്കുന്ന മതച്ചങ്ങലയ്ക്കു്
+മറ്റൊരു കണ്ണികൂടി ഉണ്ടാകുമെന്നുള്ളതു് തീർച്ചയാണു്. ഈ ആപത്തിനെ മുളയിൽത്തന്നെ നുള്ളിക്കളയാൻ
+ശ്രമിക്കേണ്ടതു് സ്വരാജ്യസ്നേഹികളുടെ കടമയാകുന്നു. ഗാന്ധിമതം സാധാരണരീതിയിലുള്ള ഒരു മതമല്ല. അതു്
+മതവും രാജ്യതന്ത്രവും ഇടകലർന്നിണങ്ങിയ ഒരു വിചിത്രസൃഷ്ടിയത്രെ. തന്മൂലം അതിന്റെ വശീകരണത്തിനു്
+വ്യാപ്തികൂടിയിരിക്കുന്നു. ഇതുവെറും അന്ധമായ ഒരു ദോഷാരോപണമാണെന്നു് ഗാന്ധിശിഷ്യന്മാർ വാദിച്ചേക്കാം.
+ഗാന്ധിതന്നെ ഇപ്രകാരമൊരു മതസ്ഥാപനത്തിനു് എതിർ നില്ക്കുന്നുണ്ടെന്നും സ്വതന്ത്രചിന്തയെ അദ്ദേഹം
+പ്രോത്സാഹിപ്പിക്കുകയാണു് ചെയ്യുന്നതെന്നും മറ്റും സമർത്ഥിക്കുവാൻ ഇക്കൂട്ടർക്കു് തെളിവുകളും ലഭിച്ചേക്കാം.
+പക്ഷേ, ഫലമെന്താണെന്നാണു് നോക്കേണ്ടതു്. താൻ ദൈവത്തിന്റെ പ്രതിപുരുഷനും മറ്റുമല്ലെന്നും ഒരിക്കലും
+തന്റെ പ്രതിമയുണ്ടാക്കി പൂജിക്കരുതെന്നും ബുദ്ധൻ മരിക്കുന്നതുവരെ ജനക്കൂട്ടത്തോടു് ഉപദേശിച്ചു. എന്നിട്ടോ?
+ആയുഷ്കാലം മുഴുവൻ ഇങ്ങനെ ഉപദേശിച്ചിട്ടും ബുദ്ധന്റെ കാലശേഷം ഹിമവൽപ്രാന്തങ്ങൾ മുതൽ
+കന്യാകുമാരിവരെയുള്ള സമസ്തദേശങ്ങളും ബുദ്ധപ്രതിമകൾകൊണ്ടു് നിറഞ്ഞു! ദിവ്യത്വത്തിന്റെ സകല
+ലക്ഷണങ്ങളും ചടങ്ങുകളും ബുദ്ധചരിതത്തിൽ അനന്തരഗാമികൾ തുന്നിപ്പിടിപ്പിച്ചു. ഇങ്ങനെയാണു്
+വിശ്വാസലഹരിയിൽ ബുദ്ധിമാന്ദ്യം ബാധിക്കുന്ന ജനസമൂഹം പോകുന്ന പോക്കു്. ആട്ടിൻപറ്റങ്ങളെപ്പോലെ
+ഇടവും വലവും നോക്കാതെ ഏതെങ്കിലുമൊരു മഹർഷിയുടെയോ മഹാത്മാവിന്റെയോ പിറകേ പോകുകയെന്ന
+ദുഷിച്ച പാരമ്പര്യം ഭാരതീയർക്കു് പണ്ടേ ഉള്ളതാണു്. അതു് നശിക്കാത്തകാലത്തോളം അവർക്കു് സാക്ഷാത്തായ
+സ്വാതന്ത്ര്യവും സമത്വവും ആസ്വദിക്കുവാൻ സാധിക്കുന്നതല്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Gandhi1.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗാന്ധി</figDesc>
+          </figure>
+          <p> ഇന്ത്യാക്കാരുടെ മതപരമായ ഈ ദൗർബല്യം മറ്റാരേയുംകാൾ കൂടുതലായി അറിയാവുന്ന ആളാണു് <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധി</ref>. ഇന്ത്യ
+ഉറങ്ങുന്നതും ഉണരുന്നതും മതത്തിൽക്കൂടിയാണെന്നു് അദ്ദേഹം മനസ്സിലാക്കിയിട്ടുണ്ടു്.
+അതുകൊണ്ടുതന്നെയായിരിക്കാം ഭാരതീയരിൽ രാഷ്ട്രീയപ്രബുദ്ധത കുത്തിവെയ്ക്കുവാൻ അദ്ദേഹം മതമാർഗം
+അവലംബിച്ചതു്. മതത്തിന്റെ വേഷത്തിലും ഭാഷയിലും അല്ലേ ഗാന്ധി രാഷ്ട്രീയകാര്യവിചാരണ നടത്തുന്നതെന്നു്
+നോക്കുക! ഈ വേഷവും ഭാഷയുംകൊണ്ടു് ഇന്ത്യയെ പെട്ടെന്നു് ഉണർത്തുവാൻ അദ്ദേഹത്തിനു് കഴിഞ്ഞുവെന്നതു്
+വാസ്തവം തന്നെ. പക്ഷേ, ഉണർന്നതുകൊണ്ടു് മാത്രം ആയില്ല, രാജ്യം മുന്നോട്ടുനീങ്ങണം. അതു് കാലാനുകൂലമായ
+നവീനമാർഗത്തിൽകൂടിയാകുകയും വേണം. ഈ രണ്ടിനും ഇന്നു് ഇന്ത്യയ്ക്കു് സാദ്ധ്യമാകുന്നില്ലെങ്കിൽ അതിനുള്ള
+കാരണങ്ങളിലൊന്നു് അടിയുറച്ചുപോയ ഗാന്ധിമതമാണെന്നു് പറയേണ്ടിയിരിക്കുന്നു. ചുരുക്കത്തിൽ
+ഏതൊന്നുകൊണ്ടു് ഗാന്ധി ഇന്ത്യയെ സുപ്തോത്ഥിതമാക്കിയോ അതുതന്നെ ഈ രാജ്യത്തിന്റെ പുരോഗമനത്തിനു്
+പ്രതിബന്ധമായിത്തീരുന്നു. സൂക്ഷിച്ചുനോക്കിയാൽ ബുദ്ധിപരമായ ഒരു സ്തംഭനം ഇന്നു് ഇന്ത്യൻ നാഷണൽ
+കോൺഗ്രസ്സിൽ കടന്നുകൂടിയിട്ടുള്ളതായി കാണാം. ഇളക്കാൻവയ്യാത്ത ഒരു ചട്ടക്കൂടായിത്തീർന്നിട്ടുണ്ടു്
+ഗാന്ധിസിദ്ധാന്തങ്ങളിൽ പലതും. അതിനകത്തു് കുടുങ്ങിപ്പോകുന്നവർക്കു് ഇടത്തോട്ടും വലത്തോട്ടും തിരിയുവാൻ
+സാധിക്കുന്നില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Adolf_Hitler.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹിറ്റ്ലർ</figDesc>
+          </figure>
+          <p> മതവും രാജ്യതന്ത്രവും തമ്മിൽ കൂട്ടിക്കുഴയ്ക്കുന്ന സമ്പ്രദായം നന്നല്ലെന്നും ആപല്ക്കരമാണെന്നും പല
+ചിന്തകന്മാരും അഭിപ്രായപ്പെട്ടിട്ടുണ്ടു്. എന്നിട്ടും ഗാന്ധി അപകടജടിലമായ ഈ മാർഗത്തിൽനിന്നും പിന്മാറാൻ
+ഭാവമില്ല. അദ്ദേഹത്തിന്റെ സാമ്പത്തികസിദ്ധാന്തം പുതിയ നാമരൂപങ്ങൾപൂണ്ട പഴയ വ്യവസ്ഥതന്നെയാണു്.
+അതു് അപ്രകാരമാക്കുന്നതും മതപരമായ പ്രചോദനം മൂലമാകുന്നു. സെമീന്ദാർമാരുടെയും ജന്മിമാരുടെയും മറ്റും
+സ്വകാര്യസ്വത്തു് തൊട്ടുപോകരുതെന്നു് അദ്ദേഹം വിലക്കുന്നു. തൊട്ടാൽ ഹിംസയായിപോലും! അഹിംസാമന്ത്രം
+ഉരുക്കഴിച്ചു് മുതലാളിമാരെയെല്ലാം പാവങ്ങളുടെ ‘ട്രസ്റ്റി’മാരാക്കിത്തീർക്കാമെന്നാണു് അദ്ദേഹത്തിന്റെ വിശ്വാസം.
+കുറുക്കന്റെ കൈയിൽ കോഴികളെ വളർത്താൻ കൊടുക്കുന്നതുപോലെയാണു് ഇതു്. രണ്ടിന്റെയും ആത്മാവു്
+ഒന്നായതുകൊണ്ടു് പക്ഷേ, ഹിംസ സംഭവിച്ചാലും ഭഗവത്ഗീതപ്രകാരം അതു് അഹിംസയാക്കി സമാധാനിക്കാം!
+കൊന്നാലും കൊലയല്ലെന്നും മറ്റുമാണല്ലോ അതിലെ തത്ത്വങ്ങൾ. ഗാന്ധിയുടെ ഉപദേശസൂക്തികളിൽ ഏറ്റവും
+ആപല്ക്കരമായതു്. ഈ ‘ട്രസ്റ്റിഷിപ്പ്’ സിദ്ധാന്തമാകുന്നു. ഇത്രയും അന്ധവും അപ്രായോഗികവുമായ ഒരഭിപ്രായം,
+അതു് ഗാന്ധിയിൽനിന്നു് പുറപ്പെടുന്നു എന്ന കാരണത്താലാണു് ഈ രാജ്യത്തു് സമാദരണീയമായിത്തീരുന്നതു്.
+അഹിംസയുടെ പേരിൽ ഹിംസയ്ക്കു് വളംവെയ്ക്കുന്ന ഈ സിദ്ധാന്തം വേരുറച്ചുപോയാൽ അതു്
+തൊഴിലാളിലോകത്തിന്റെ കണ്ഠേകുഠാരമായിത്തീരും. മതലഹരിയിൽ മയങ്ങിപ്പോയ ‘ബൂർഷ്വാ’
+മനഃസ്ഥിതിയുള്ളവരെല്ലാം ഇങ്ങനെ ഏതെങ്കിലും പ്രകാരത്തിൽ ‘ക്യാപ്പിറ്റലി’സത്തെ പവിത്രീകരിക്കുവാനേ
+ശ്രമിക്കുകയുള്ളു. സമൂലമായ സാമ്പത്തികവിപ്ലവത്തിനു് അവർ ഒരിക്കലും അനുകൂലികളാകുകയില്ല. ക്ഷേമത്തിനും
+സമാധാനത്തിനുംവേണ്ടി ഇന്നു് ലോകം മുഴുവൻ സോഷ്യലിസത്തിലേക്കു് തിരിഞ്ഞുകൊണ്ടിരിക്കുമ്പോൾ
+ഗാന്ധിയുടെ ഈ സാമ്പത്തികനയം ഇന്ത്യയെ പിന്നാക്കം പിടിച്ചു വലിക്കുകയാണു് ചെയ്യുന്നതു്. ഗീതയിലും
+രാമായണത്തിലുംനിന്നു് രൂപപ്പെടുത്തിയ അദ്ദേഹത്തിന്റെ ‘ഫിലോസഫി’ ഈ പിന്തിരിപ്പൻ നയത്തിനൊരു
+താങ്ങായിട്ടും നിൽക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jnehru.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജവഹർലാൽ നെഹ്രു</figDesc>
+          </figure>
+          <p> മനഃപൂർവമായാലും അല്ലെങ്കിൽ പണ്ടത്തെമട്ടിലുള്ള ഒരു മതസ്ഥാപകന്റെ വേഷഭാഷാദികളും
+നടപടികളുമാണു് ഗാന്ധി സ്വീകരിച്ചിരിക്കുന്നതു്. അർദ്ധനഗ്നത, മുളവടി, ഭജനപ്പാട്ടു്, ഉപവാസം, നാമമന്ത്രം,
+പ്രാർത്ഥന, ആശ്രമം, അനുഗ്രഹദാനം, അന്തേവാസികൾ, അന്തഃകരണാഹ്വാനം അഥവാ അന്തർവാണി (inner
+voice)—ഇങ്ങനെ ഒരു ഗാന്ധിമതത്തിന്റെ രൂപവൽക്കരണത്തിനു് വഴി തെളിക്കുന്ന സകല സാമഗ്രികളും
+സമ്പ്രദായങ്ങളും അദ്ദേഹം അംഗീകരിച്ചിട്ടുണ്ടു്. ഗാന്ധിയോടു് ചോദിച്ചാൽ ഇവ ഓരോന്നും ഓരോ തത്വത്തിന്മേൽ
+അധിഷ്ഠിതമാണെന്നു് വാദിച്ചേക്കാമെങ്കിലും ഇവയെല്ലാം മതവിശ്വാസമഗ്നരായ ഭാരതീയരുടെ
+മനംമയക്കുവാനുള്ള വിദ്യകളായിട്ടുമാത്രമേ ചിന്തകന്മാർ ദർശിക്കുകയുള്ളു. ഇത്തരം മതഭ്രമമൊന്നുംകൂടാതെ <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാലി</ref>
+നെപ്പോലെ ഗാന്ധി രാഷ്ട്രീയകാര്യവിചാരം ചെയ്തിരുന്നുവെങ്കിൽ അദ്ദേഹത്തിന്റെ മഹത്ത്വത്തിനു്
+മാറ്റുകൂടുമായിരുന്നു എന്നാണു് എനിക്കു് തോന്നുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Subhas_Chandra_Bose.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുബാസ് ചന്ദ്രബോസ്</figDesc>
+          </figure>
+          <p> ഏതാണ്ടൊരു അർദ്ധദൈവമോ അതിമാനുഷനോ ആയിത്തീർന്നിരിക്കുയാണു് നമ്മുടെ രാഷ്ട്രീയനേതാവു്.
+<ref target="https://ml.wikipedia.org/wiki/Adolf_Hitler">ഹിറ്റ്ലറും</ref> ഇതേ
+രൂപത്തിൽത്തന്നെയല്ലേ ജർമനിയിൽ നേതൃത്വം പാലിച്ചതു്? രണ്ടുപേരിലും എന്തോ ദിവ്യമായ ഒരു
+ശക്തിവിശേഷം പ്രവർത്തിക്കുന്നു എന്നു് അതാതു് രാജ്യത്തിലെ ജനസമൂഹം വിശ്വസിച്ചു വന്നു. അവരുടെ
+ദിവ്യവചനങ്ങളെ ചോദ്യംചെയ്വാൻ അധികമാരും ധൈര്യപ്പെടുകയില്ല. ധൈര്യപ്പെട്ടാൽ ഇന്ത്യയിൽ അതിന്റെ
+ഫലമെന്താണെന്നു് <ref target="https://en.wikipedia.org/wiki/Subhas_Chandra_Bose">സുബാസ്
+ചന്ദ്രബോസി</ref> ന്റെ അനുഭവം തെളിയിച്ചുകഴിഞ്ഞു. ഗാന്ധി സിദ്ധാന്തത്തിന്റെ ചട്ടക്കൂടു് പൊളിക്കാൻ
+ആദ്യമായി ഉയർന്ന ആ കരങ്ങൾ അന്ധമായ ഭൂരിപക്ഷബലത്താൽ അടിച്ചമർത്തപ്പെട്ടു. വാസ്തവത്തിൽ
+സുബാസ്ചന്ദ്രബോസിനെ തേജോവധംചെയ്കയാണുണ്ടായതു്. ജർമൻനേതാവിൽനിന്നും കേൾക്കുന്ന വിളിയും
+‘ദൈവവിളി’യുടെ ഒരു പ്രതിധ്വനിയാണു്. ഗാന്ധി ഇക്കാര്യം യാതൊരു കൂസലും കൂടാതെ തുറന്നു്
+സമ്മതിക്കുന്നുമുണ്ടു്. ഉത്തരം മുട്ടുന്ന ഘട്ടങ്ങളിലെല്ലാം അദ്ദേഹം ചെവികൊള്ളാറുള്ള അന്തർവാണി (Inner
+
+voice) ഒരുതരം ദൈവവചനമാണെന്നു് പറയപ്പെടുന്നു! എന്താണിതെന്നു് ചോദിച്ചാൽ സാമാന്യജനങ്ങൾക്കു്
+മനസ്സിലാകത്തക്കവിധം ഒരു വിശദീകരണം നൽകുവാൻ അദ്ദേഹത്തിനു് കഴിയുമോ എന്തോ? ഏതായാലും
+അനേകലക്ഷം ജനങ്ങളുടെ ജീവിതപരിപാടി ഒരാളുടെ ഉള്ളിലെ വിളിയോ വെളിച്ചമോ അനുസരിച്ചു് തിരുത്തി
+എഴുതിക്കൊണ്ടിരിക്കണമെന്നുവന്നാൽ അതിൽപ്പരമൊരാപത്തു് ഒരു രാജ്യത്തിനുവരാനില്ല! മാനസികമായ
+അടിമത്തത്തിന്റെ ഒരു പരിഷ്കരിച്ച പതിപ്പുമാത്രമാണിതു്. പണ്ടത്തെ മതാചാര്യന്മാരിൽ പലരും ഇത്തരം
+ദൈവവിളി കേട്ടവരാണു്. അവർ വിളികേട്ടു് കെട്ടിപ്പടുത്ത മതങ്ങൾ അനന്തരകാലത്തു് ലോകത്തെ എത്രമാത്രം
+അന്ധതയിലാഴ്ത്തി എന്നുള്ളതിനു് ചരിത്രം സാക്ഷിയാണല്ലോ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/C_Rajagopalachari.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. രാജഗോപാലാചാരി</figDesc>
+          </figure>
+          <p> ഗാന്ധിശിഷ്യന്മാരുടെ ഇടയിൽ പരമതാസഹിഷ്ണുതയും ഇപ്പോൾ വർദ്ധിച്ചുവരുന്നുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/C._Rajagopalachari">സി.
+രാജഗോപാലാചാരി</ref> യുടെ അനുഭവങ്ങൾതന്നെ ഇതിലേക്കു് ഉദാഹരണങ്ങളാകുന്നു.
+ധിഷണശാലിയായ അദ്ദേഹത്തെപ്പോലും കോൺഗ്രസ്സിലേക്കു് സ്വാഗതം ചെയ്യുവാൻ ചിലർ വൈമുഖ്യം
+പ്രദർശിപ്പിച്ചു. അസഹിഷ്ണുത മതഭ്രാന്തരുടെ ഒന്നാമത്തെ ലക്ഷണമാണു്. ഈ രോഗം ഗാന്ധിയുടെ
+ശിഷ്യസംഘത്തിൽ സംക്രമിച്ചതിന്റെ ഫലമായി പല സ്വതന്ത്രചിന്തകന്മാരും കോൺഗ്രസ്സിൽനിന്നു്
+ബഹിഷ്കൃതരായിട്ടുണ്ടു്. എതിരാളികളെ പുറംതള്ളാൻ ഗാന്ധിമതത്തിലെ ചില ‘സനാതനികൾ’ ചെയ്യുന്ന
+ഗൂഢയത്നങ്ങളും പറഞ്ഞുപരത്തുന്ന ദുഷ്പ്രമാദങ്ങളും ജുഗുപ്സാവഹങ്ങളെന്നേ പറയേണ്ടു. ഇന്ത്യയിൽ
+വ്യാപരിച്ചിരിക്കുന്ന ബുദ്ധിസ്തംഭനത്തിന്റെ ദുഷിച്ച ഫലങ്ങളാണിവയെല്ലാം. ഇക്കണക്കിനു് മുന്നോട്ടുപോയാൽ
+ഗാന്ധിസംകൊണ്ടുണ്ടാകുന്ന മനോബന്ധനത്തിൽനിന്നു് മോചനം നേടേണ്ട ആവശ്യവും നമ്മുടെ രാജ്യത്തിനു്
+നേരിടും.
+</p>
+          <p>
+(വിമർശരശ്മി 1945)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Gandhimatham (ml:
+ഗാന്ധിമതം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Gandhimatham, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഗാന്ധിമതം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 15, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Carl_Blechen__Eremit_in_Felslandschaft.jpg">Hermit in a rocky landscape,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Carl_Blechen">Carl Blechen</ref>
+ (1798–1840). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-gandhimatham.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhagandhimatham.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

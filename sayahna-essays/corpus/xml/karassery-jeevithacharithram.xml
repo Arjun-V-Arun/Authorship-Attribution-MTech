@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ജീവചരിത്രം</title>
+          <title xml:lang="en" type="main">Jeevacharithram</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 5, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ജീവചരിത്രം</title>
+              <title xml:lang="en" type="main">Jeevacharithram</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Jeevacharithram</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ജീവചരിത്രം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 5, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Plantain_trees_a_waterfall.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Plantain_trees_%28Musa_x_paradisiaca%29_growing_by_a_waterfall_w_Wellcome_V0043237.jpg">
+trees growing by a waterfall,</ref> a coloured lithograph by J B Kidd  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ജീവചരിത്രം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ജീവചരിത്രം</head>
+        <div type="lsection">
+          <p style="noindent">ആക്ഷേപഹാസ്യകൃതികളിൽ ‘വിനീതനായ ഈ ചരിത്രകാരൻ’ ആയി സ്വയം
+പ്രത്യക്ഷപ്പെടുന്ന എഴുത്തുകാരനാണു് <ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">ബഷീർ</ref>.
+അത്തരം കൃതികളെ ‘കഥ’ എന്നല്ല ‘ചരിത്രം’ എന്നാണു് അദ്ദേഹം വിളിക്കാറു്. വർത്തമാനകാല ചരിത്രത്തെ
+കോമാളിവേഷം കെട്ടിക്കുന്ന പണിയാണു് അവിടെ ചെയ്യുന്നതു്. ആ കഥകളിലും നോവലുകളിലുമെല്ലാം,
+സ്വാഭാവികമായും വർത്തമാനകാലചരിത്രം കടന്നുവരുന്നുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ponkunnam_Varkey.jpg" rendition="gra"/>
+            <figDesc style="thumb">പൊൻകുന്നം വർക്കി</figDesc>
+          </figure>
+          <p><ref target="https://books.sayahna.org/html/kesari-bio.html">കേസരി
+ബാലകൃഷ്ണപിള്ള</ref>, <ref target="https://ml.wikipedia.org/wiki/Ronald_E._Asher">ആർ. ഇ. ആഷർ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Thakazhi_Sivasankarappilla">തകഴി
+ശിവശങ്കരപിള്ള</ref>, <ref target="https://ml.wikipedia.org/wiki/Ponjikara_Raphi">പോഞ്ഞിക്കര റാഫി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Prem_Nazir">പ്രേംനസീർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Ponkunnam_Varkey">പൊൻകുന്നം
+വർക്കി</ref>, <ref target="https://ml.wikipedia.org/wiki/S._K._Pottekkat">എസ്. കെ.
+പൊറ്റക്കാട്ട്</ref>, <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">സുകുമാർ
+അഴീക്കോടു്</ref>, <ref target="https://ml.wikipedia.org/wiki/T.N._Gopinathan_Nair">ടി. എൻ.
+ഗോപിനാഥൻനായർ</ref>, <ref target="https://ml.wikipedia.org/wiki/U.A.Khader">യു. എ. ഖാദർ</ref> തുടങ്ങിയ
+സുഹൃത്തുക്കളെപ്പറ്റി സാന്ദർഭികമായി എഴുതിയ കുറിപ്പുകൾ ജീവചരിത്രത്തിന്റെ കണക്കിൽ പെടുത്താൻ
+മാത്രമില്ല.
+</p>
+          <p>ഇതിനപ്പുറത്തു് ബഷീർ ചരിത്രം നേരിട്ടു് കൈകാര്യം ചെയ്യുന്ന സന്ദർഭങ്ങൾ വിരളമാണു്. ഏതാനും
+വ്യക്തികളെപ്പറ്റിയുള്ള ജീവചരിത്രരചനകളാണു് ഈ വിഭാഗത്തിൽ ആകപ്പാടെയുള്ളതു്—ഒരു പുസ്തകവും ചില
+ലേഖനങ്ങളും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/U_a_khader.jpg" rendition="gra"/>
+            <figDesc style="thumb">യു. എ. ഖാദർ</figDesc>
+          </figure>
+          <p> ബഷീറിന്റെ സുഹൃത്തും ദാർശനികനും വഴികാട്ടിയുമായ <ref target="https://ml.wikipedia.org/wiki/M.P._Paul">എം. പി. പോളി</ref>
+(1904–1952)നെപ്പറ്റി എഴുതിയ ചെറിയൊരു പുസ്തകമാണു് എം. പി. പോൾ (1991)—അദ്ദേഹം എഴുതിയ
+ഒരേയൊരു ജീവചരിത്രകൃതി. ഇംഗ്ലീഷ് അധ്യാപകൻ, പണ്ഡിതൻ, നിരൂപകൻ, പുരോഗമന സാഹിത്യ
+പ്രസ്ഥാനത്തിന്റെയും സാഹിത്യ പ്രവർത്തകസഹകരണ സംഘത്തിന്റെയും നായകൻ, വാഗ്മി എന്നീ
+
+നിലകളിലെല്ലാം പ്രശസ്തനായിരുന്നു. അച്ചടക്കമില്ലാത്ത ബഷീറിന്റെ മനസ്സു് അടുക്കും ചിട്ടയുമായി ജീവിതകഥ
+പറയുന്നില്ല. പോൾ തനിക്കാരായിരുന്നു എന്നാണു് പ്രധാനമായും പറയുന്നതു്. അക്കാലത്തെ
+സാഹിത്യാന്തരീക്ഷത്തെപ്പറ്റിയും കോട്ടയത്തു് പോളിന്റെ മേൽനോട്ടത്തിൽ നടന്നിരുന്ന ‘സാഹിതീസഖ്യം’ എന്ന
+വേദിയെപ്പറ്റിയും ചെറിയൊരു ചിത്രം ഇതിൽ കിട്ടും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sukumar_azhikode.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുകുമാർ അഴീക്കോടു്</figDesc>
+          </figure>
+          <p> പല നിലക്കും സമൂഹത്തിൽ അംഗീകാരമുണ്ടായിരുന്ന പോൾ <ref target="https://ml.wikipedia.org/wiki/Baalyakaalasakhi">ബാല്യകാലസഖി</ref>
+ക്കു് അവതാരിക എഴുതിയതു് അന്നു് ബഷീറിന്നു് ശ്രദ്ധ കിട്ടാൻ ഉപകരിച്ചിട്ടുണ്ടു്. മലയാളത്തിലെ ശ്രദ്ധേയമായ
+അവതാരികകളിൽ ഒന്നാണതു്. ‘ബാല്യകാലസഖി ജീവിതത്തിൽ നിന്നു് വലിച്ചുചീന്തിയ ഒരേടാണു്. വക്കിൽ
+രക്തംപൊടിഞ്ഞിരിക്കുന്നു’ എന്ന അതിലെ ആദ്യവാക്യം ഒരു ചൊല്ലുപോലെ പ്രചാരം നേടുകയുണ്ടായി.
+സാഹിത്യത്തെ സംബന്ധിച്ചും ഗ്രന്ഥകാരനെ സംബന്ധിച്ചും പല ഉൾക്കാഴ്ചകളും നിറഞ്ഞ ആ അവതാരിക
+എത്രമാത്രം ദീർഘവീക്ഷണത്തോടുകൂടി എഴുതിയതാണു് എന്നു് ബഷീറിന്റെ പിൽക്കാല ജീവിതം തെളിയിച്ചു. ഈ
+അവതാരികയുടെയും പുസ്തകത്തിന്റെ ഒന്നാംപതിപ്പു് പുറത്തിറക്കാൻ അനുഭവിച്ച കഷ്ടനഷ്ടങ്ങളുടെയും കഥ
+ഇവിടെ വിസ്തരിക്കുന്നുണ്ടു്.
+</p>
+          <p>ബഷീറിന്റെ ഏതു പുസ്തകവും പോലെ ഈ ജീവചരിത്രവും മിക്കഭാഗത്തും സ്വന്തം കഥയാണു്.
+</p>
+          <p>ഈ വകുപ്പിൽ ഇനിയുള്ളതു് ചില ലേഖനങ്ങളാണു്—<ref target="https://ml.wikipedia.org/wiki/Karl_Marx">കാറൽ മാർക്സ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref>, <ref target="https://en.wikipedia.org/wiki/Al-Hallaj">മൻസൂർ ഹല്ലാജ്</ref>, <ref target="https://en.wikipedia.org/wiki/Attar_of_Nishapur">ഫരീദുദ്ദീൻ
+അത്താർ</ref> തുടങ്ങിയവരെപ്പറ്റിയുള്ളവ. ഇതിൽ ജീവചരിത്രലേഖനത്തിന്റെ ചിട്ടകൾ മാർക്സിനെപ്പറ്റി
+എഴുതിയതിലേ (1939) കാണുന്നുള്ളൂ. ദരിദ്രരോടും തൊഴിലാളികളോടും മാർക്സിനുണ്ടായിരുന്ന അങ്ങേയറ്റത്തെ
+സഹഭാവത്തെ കൊണ്ടാടുവാൻ വേണ്ടിയാണു് ഈ ലേഖനമെഴുതിയതു്. മാർക്സിന്റെ നിരീശ്വരത്വത്തോടു് ബഷീറിനു്
+വിപ്രതിപത്തിയുണ്ടു്. ഗാന്ധിജി എന്ന ലേഖനം (യാ ഇലാഹീ, 1997) മഹാത്മാവിനുള്ള ആദരപ്രണാമമാണു്.
+</p>
+          <p>അനൽഹഖ് (ഞാനാണു് സനാതനസത്യം) എന്നു് പ്രഖ്യാപിച്ചതിന്റെ പേരിൽ ക്രി. വ. 922 മാർച്ച് 26-നു്
+ബാഗ്ദാദിൽ കുരിശിൽ തറച്ചുകൊല്ലപ്പെട്ട മൻസൂർ ഹല്ലാജിന്റെ ജീവിതകഥ വിവരിച്ചുകൊണ്ടു്, ആ ബലിയുടെ
+വർണ്ണന വികാരപൂർണമായി നിർവഹിച്ചുകൊണ്ടു്, കേട്ടുകേൾവികളും അത്ഭുതകഥകളും ഇടകലർത്തി ബഷീർ
+എഴുതിയ ‘അനൽഹഖ്’ (‘അനർഘനിമിഷം’) കഥയുടെ സ്വഭാവത്തിലുള്ളതാണു്. ഫരീദുദ്ദീൻ അത്താർ എന്ന
+സൂഫിക്കവിയെപ്പറ്റിയുള്ള ലേഖനം (മാതൃഭൂമി ആഴ്ചപ്പതിപ്പു്: 1940) സൂഫിപഥത്തോടു് ബഷീറിനുള്ള ആഭിമുഖ്യം
+വ്യക്തമാക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Jeevacharithram (ml:
+ജീവചരിത്രം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Jeevacharithram, എം. എൻ. കാരശ്ശേരി, ജീവചരിത്രം, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 5, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Plantain_trees_%28Musa_x_paradisiaca%29_growing_by_a_waterfall_w_Wellcome_V0043237.jpg">
+trees growing by a waterfall,</ref> a coloured lithograph by J B Kidd  . The image is
+taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karasseryjeevithacharithram.xml">Download document sources in TEI encoded XML
+format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karasseryjeevithacharithram.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

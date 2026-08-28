@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ബുദ്ധദർശനം</title>
+          <title xml:lang="en" type="main">Budhadarsanam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">January 30, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ബുദ്ധദർശനം</title>
+              <title xml:lang="en" type="main">Budhadarsanam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Budhadarsanam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ബുദ്ധദർശനം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 30, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Gandhara_Buddha.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Gandhara_Buddha_(tnm).jpeg">Standing
+Buddha,</ref> a stone sculpture by Unknown artist  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ബുദ്ധദർശനം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ബുദ്ധദർശനം</head>
+        <div type="lsection">
+          <p style="noindent">മതാചാര്യന്മാരുടെ ഉപദേശങ്ങളും അവരെ കേന്ദ്രീകരിച്ചു് കാലാന്തരത്തിൽ
+ഉണ്ടായിട്ടുള്ള മതസിദ്ധാന്തങ്ങളും തമ്മിൽ വളരെ വ്യത്യാസം കാണുന്നുണ്ടു്. ബുദ്ധമതം ഇതിനു നല്ല
+ഉദാഹരണമാണു്. ആർക്കും മനസ്സിലാവുന്ന ഭാഷയിൽ ഏറ്റവും ലളിതമായ രീതിയിൽ ജീവിതദുഃഖനിവൃത്തിക്കുള്ള
+ധർമ്മോപദേശം നൽകുകയാണു് <ref target="https://ml.wikipedia.org/wiki/Buddha">ബുദ്ധൻ</ref> പ്രധാനമായി ചെയ്തതു്
+എന്നാൽ, പാമരന്മാർക്കുപോലും സുഗ്രാഹ്യമായിരുന്ന അദ്ദേഹത്തിന്റെ പ്രഭാഷണങ്ങൾക്കു് അനന്തരകാലത്തു
+ദുർഗ്രഹങ്ങളും വാദജടിലങ്ങളുമായ വ്യാഖ്യാനങ്ങളുണ്ടായി. ബുദ്ധസിദ്ധാന്തങ്ങൾ മാത്രമല്ല ബുദ്ധചരിതം കൂടി
+പണ്ഡിതന്മാരുടെയിടയിൽ വിചിത്ര വർണഭേദത്തോടെ പ്രചരിച്ചു തുടങ്ങി. ഒടുവിൽ ബുദ്ധനും ബുദ്ധമതവും തമ്മിൽ
+വല്ല ബന്ധവുമുണ്ടോ എന്നു സംശയിക്കത്തക്ക നിലവരെയെത്തി. എല്ലാ മതങ്ങളുടെ ഉല്പത്തിയും വളർച്ചയും
+ഏതാണ്ടിതുപോലെതന്നെയാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ബുദ്ധിപരമായ സത്യസന്ധത</head>
+          <p style="noindent">സത്യാന്വേഷണപരമായ സ്വതന്ത്രചിന്തകൊണ്ടും മഹത്തായ ധാർമികമൂല്യങ്ങളുടെ
+പ്രബോധനം കൊണ്ടും ശ്രീബുദ്ധൻ മതസ്ഥാപകരിൽ അഗ്രേസരനാകുന്നു. ബുദ്ധിപരമായ സത്യസന്ധത
+അദ്ദേഹത്തോളം പ്രദർശിപ്പിച്ചിട്ടുള്ളവരില്ല. അന്തേവാസികളുടെ ചോദ്യങ്ങൾക്കു് എന്തെങ്കിലും സമാധാനം
+പറഞ്ഞു് അവരെ അന്ധമായ വിശ്വാസത്തിലേക്കു പിടിച്ചുവലിക്കുന്ന സമ്പ്രദായം അദ്ദേഹത്തിനുണ്ടായിരുന്നില്ല.
+സർവജ്ഞനെന്ന പേരുണ്ടായിരുന്നെങ്കിലും തനിക്കു് അജ്ഞാതങ്ങളായ പ്രപഞ്ചരഹസ്യങ്ങളുണ്ടെന്നു് ബുദ്ധൻ
+സമ്മതിച്ചു. ഇപ്രകാരം അറിഞ്ഞുകൂടാത്തതു് അറിഞ്ഞുകൂടെന്നു തുറന്നു സമ്മതിക്കുന്ന ബുദ്ധിപരമായ
+സത്യസന്ധത എത്ര മതസ്ഥാപകർ പരിപാലിച്ചിട്ടുണ്ടു്. ഈശ്വരനെയും ആത്മാവിനെയുംപറ്റി ശിഷ്യൻ
+ചോദിച്ചപ്പോൾ ആ വക ഗഹനവിഷയങ്ങൾ തനിക്കു നിശ്ചയമില്ലെന്നത്രെ ബുദ്ധൻ പറഞ്ഞതു്. എന്നിട്ടും
+തദനുയായികൾ കെട്ടിപ്പടുത്ത മതസിദ്ധാന്തങ്ങളിൽ ദൈവം മാത്രമല്ല, ഉപദൈവങ്ങളും ആത്മാവും
+മതിഭ്രമമുളവാക്കുന്ന മറ്റു നൂലാമാലകളും കടന്നുകൂടി. ഈ കാടും പടലും കൊണ്ടുണ്ടായ വിശ്വാസത്തണലിലാണു്
+ഇന്നു ബുദ്ധമതം ജീവിക്കുന്നതു്. സ്തോഭഭാവോദ്ദീപകങ്ങളായ വിശ്വാസാചാരങ്ങളില്ലാത്ത ഒരു മതംകൊണ്ടു
+തൃപ്തിപ്പെടുവാൻ വികാരപ്രധാനനായ മനുഷ്യനു സാദ്ധ്യമല്ലായിരിക്കാം. യുക്തിവിചാരത്തിന്റെ പൊള്ളുന്ന
+വെയിലേൽക്കാനാണു് ബുദ്ധൻ ജനസമൂഹത്തെ ആഹ്വാനം ചെയ്തതു്. ആത്മാവിനു ആശ്വാസം നൽകുന്ന
+വിശ്വാസത്തണലിനുള്ള പന്തൽ അദ്ദേഹം കെട്ടിയുണ്ടാക്കിയില്ല. അതുകൊണ്ടാകാം ബുദ്ധമതം ഇൻഡ്യയിൽ
+പരാജയമടഞ്ഞതും ഇതര രാജ്യങ്ങളിൽ വികൃതരൂപം പൂണ്ടതും.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">ഏറ്റവും വലിയ യുക്തിവാദി</head>
+          <p style="noindent">പ്രത്യേകിച്ചൊരു ദർശനത്തിന്റെ സ്ഥാപകനാണോ ബുദ്ധൻ? ദർശനം
+(Philosophy) എന്ന വാക്കിന്റെ സാങ്കേതികാർത്ഥത്തിൽ ഈ ചോദ്യത്തിനു നിഷേധരൂപത്തിൽ മറുപടി
+പറയാനേ നിവൃത്തിയുള്ളു. ‘ഇൻഡ്യയിൽ യുക്തിവാദിയായിട്ടാരെങ്കിലും ഉണ്ടായിരുന്നെങ്കിൽ അതു് ബുദ്ധനാണു്
+എന്നു് രാധാകൃഷ്ണൻ ഈയിടെ പ്രസംഗിക്കുകയുണ്ടായി. ഏറ്റവും ശ്രദ്ധേയമായ ഒരഭിപ്രായമാണിതു്. ജനങ്ങളുടെ
+ബുദ്ധിയെ ബന്ധിക്കുന്ന ഒരു മതസിദ്ധാന്തം സ്ഥാപിക്കാൻ ഒരു യുക്തിവാദി പുറപ്പെടുകയില്ല. നാലുപാടും
+തിരിഞ്ഞു നോക്കാൻ വയ്യാത്തവിധം ഒരു ഫിലോസഫിയുടെ ചട്ടക്കൂട്ടിനകത്തു കയറിയിരുന്നുകൊണ്ടല്ല ബുദ്ധൻ
+ഉപദേശിച്ചതു്. അതാണു് അദ്ദേഹത്തിനുള്ള മെച്ചവും. തർക്കകർക്കശമായ ആദ്ധ്യാത്മികക്കസർത്തുകൾ
+
+അദ്ദേഹത്തിന്നിഷ്ടമായിരുന്നില്ല. ഗുരുശിഷ്യസംഭാഷണങ്ങളിൽ പലയിടത്തും ഈ അപ്രീതി വെളിപ്പെട്ടിട്ടുണ്ടു്.
+ചുരുക്കത്തിൽ ബുദ്ധദർശനമെന്നു പറഞ്ഞാൽ പിൽക്കാലത്തു ബുദ്ധന്റെ പേരിൽ നടപ്പായ ദർശനമെന്നേ
+അർത്ഥമാക്കേണ്ടതുള്ളു. ബുദ്ധന്റെ കാലശേഷം ഒന്നോ രണ്ടോ നൂറ്റാണ്ടു കഴിഞ്ഞിട്ടാണു് അദ്ദേഹത്തിന്റെ
+പ്രഭാഷണങ്ങൾ രേഖപ്പെടുത്തിയതെന്നു ചരിത്രകാരന്മാർ പറയുന്നു. ഈ കാലത്തിനിടയിൽ അവയ്ക്കു എന്തെന്തു
+മാറ്റങ്ങൾ വന്നിട്ടുണ്ടാകാം.
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">ശീലം, സമാധി</head>
+          <p style="noindent">എന്താണു് ബുദ്ധൻ ഉപദേശിച്ചതു്? ജീവിതം ദുഃഖാത്മകമാണു് തൃഷ്ണയാണു് അതിന്റെ
+അടിസ്ഥാനകാരണം തൃഷ്ണയെ നശിപ്പിച്ചെങ്കിലേ ദുഃഖമോചനം ഉണ്ടാകൂ. ശീലം, സമാധി എന്നീ രണ്ടു
+മാർഗങ്ങളിൽക്കൂടി ഇതു സാധിക്കാം. ശീലം എന്നാൽ, നല്ല നടത്തംതന്നെ. കക്കരുതു്, കൊല്ലരുതു്, മദ്യപിക്കരുതു്
+എന്നു തുടങ്ങിയ സുപ്രസിദ്ധമായ പഞ്ചശീലം ഇതിലുൾപ്പെടുന്നു. ദുഷ്കർമ്മനിവർത്തനവും
+ഇന്ദ്രിയമനോനിഗ്രഹവുമാണു ശീലത്തിനാസ്പദം. നിരന്തരധ്യാനമാണു സമാധി. ഇതുകൊണ്ടു് ക്ലേശങ്ങളുടെ വേരറ്റു
+തൃഷ്ണയ്ക്കു പരമായ ശമനമുണ്ടാകും. തൽഫലമായി പ്രജ്ഞ—യഥാർത്ഥ ബോധം—ഉദയംചെയ്യും.
+പ്രജ്ഞാസമ്പത്തി അടുത്തപടിയായി നിർവാണത്തിലേക്കു വഴിതെളിക്കും. ജീവിതത്തിന്റെ വിശ്രമസ്ഥാനമാണു്
+നിർവാണം അഥവാ വിമുക്താവസ്ഥ. മൈത്രി, കരുണ, മുദിത, ഉപേക്ഷ എന്നീ നാലു തരത്തിലുള്ള
+ഭാവനകൾകൊണ്ടുവേണം സമാധി ശീലിക്കാൻ. സർവ്വഭൂതസ്നേഹമാണു് മൈത്രി, സർവ്വഭൂതദയതന്നെ കരുണ,
+സർവലോകസുഖവും സന്തുഷ്ടിയും മുദിത, ശത്രു മിത്രഭാവാദിയിലും സ്വാർത്ഥചിന്തയിലും മറ്റുമുള്ള ഉദാസീന
+മനോഭാവം ഉപേക്ഷ. ഇമ്മാതിരി സദ്ഭാവനാപരമായ ധ്യാനം കൊണ്ടു് ക്രോധവിദ്വോഷാദി ദോഷങ്ങളെ
+ജയിക്കാം. ‘അക്രോധേന ജയേൽ ക്രോധം’ എന്ന പ്രമാണം ഈ ധ്യാനമാർഗപരീശീലനത്തെയാണു
+സൂചിപ്പിക്കുന്നതു്. ആവർത്തിച്ചാർവർത്തിച്ചുള്ള സദ്ഭാവനാനുസന്ധാനം ചിത്തശുദ്ധീകരണത്തിനു പര്യാപ്തമാകും.
+ഇങ്ങനെ നിരന്തരധ്യാനം കൊണ്ടു കാമക്രോധാദി മാനസികദോഷങ്ങൾ നീങ്ങി ക്രമേണ മനോവൃത്തികളെല്ലാം
+നശിക്കും. ഈയവസ്ഥയ്ക്കാണു ബുദ്ധമതക്കാർ ചേതോവിമുക്തിയെന്നു പറയുന്നതു്. ഒരു തരം ജീവന്മുക്തന്റെ
+അവസ്ഥയാണിതു്. നിർവാണവും ഇതുതന്നെയത്രെ. ജീവിച്ചിരിക്കുമ്പോൾ മനുഷ്യനു് ഈ നിലയിലെത്താം.
+അപ്പോൾ അവൻ അർഹതൻ, ബോധിസത്വൻ എന്നും മറ്റുമുള്ള പേരുകളാൽ അറിയപ്പെടുന്നു. ഇങ്ങനെ
+ജീവിതബന്ധം വിട്ടാലും അന്ത്യകാലം വരെ ഒരു ഭിക്ഷു പരദുഃഖശമനാർത്ഥം കർമം ചെയ്യണമെന്നും ബുദ്ധൻ
+ഉപദേശിച്ചിട്ടുണ്ടു്. ജീവിതാവസാനത്തിൽ ആത്യന്തികവിശ്രമസ്ഥാനമായ പരമശാന്തിയിൽ അഥവാ
+പരിശൂന്യാവസ്ഥയിൽ ലയിക്കുമ്പോൾ അതിനു പരിനിർവാണമെന്നു പറയുന്നു. ബുദ്ധോപദേശത്തിന്റെ
+രത്നച്ചുരുക്കമാണിതു്. സ്വാനുഭവത്തിൽ നിന്നു മനഃശ്ശാസ്ത്രപരമായ പദ്ധതിയിൽക്കൂടിയാണു് ബുദ്ധൻ ജീവിതപഠനം
+നടത്തിയതു്. പ്രകൃത്യതീതമായ ഒരു ശക്തിവിശേഷത്തെയോ യുക്ത്യധിഷ്ഠിതമല്ലാത്ത വിശ്വാസത്തെയോ
+അദ്ദേഹം പ്രമാണമാക്കിയില്ല. യാഗാദികർമ്മങ്ങളെ നിഷേധിച്ചു അന്ധവിശ്വാസങ്ങളെ ധ്വംസിച്ചും
+കൊണ്ടായിരുന്നു അദ്ദേഹത്തിന്റെ പോക്കു്. ബുദ്ധഭിക്ഷുക്കൾ സദ്കർമ്മവിമുഖരായ അലസജീവിതം
+നയിക്കണമെന്നല്ലായിരുന്നു അദ്ദേഹത്തിന്റെ ഉദ്ദേശം. അലോഭം, അദ്വേഷം, അമോഹം എന്നീ മൂന്നു
+ഗുണങ്ങളോടുകൂടിയ കർമ്മങ്ങളേ ചെയ്യാവൂ എന്നദ്ദേഹം നിർബന്ധിച്ചു. ഇന്ദ്രിയ മനോനിഗ്രഹം, ധ്യാനം ഈ
+രണ്ടിനും ഇത്രത്തോളം പ്രാധാന്യം കല്പിച്ച മറ്റൊരു മതം ഉണ്ടായിട്ടില്ല. ആർക്കും എന്നും ആവശ്യമായ
+ഉൽകൃഷ്ടജീവിതമാർഗമാണതു്. ചിലർ തെറ്റിദ്ധരിച്ചിട്ടുള്ളതുപോലെ പ്രപഞ്ചത്തെ പേടിച്ചു തപോവനങ്ങളിലേക്കും
+പർവതഗുഹാന്തരങ്ങളിലേക്കും ഓടിപ്പോകാൻ ബുദ്ധൻ ഉപദേശിച്ചില്ല. പ്രാപഞ്ചകത്വത്തോടു അഥവാ
+മാനസികദോഷങ്ങളോടു മല്ലിട്ടു ജയിക്കാൻ അങ്ങനെ—ജിനന്മാരാകാൻ അദ്ദേഹം ശിഷ്യന്മാരോടാവശ്യപ്പെട്ടു.
+സമസ്തജീവിജാലങ്ങളെയും ആശ്ലേഷിക്കത്തക്കവിധം മനസാ വാചാ കർമണാ സത്യവും സ്നേഹവും അഹിംസയും
+വളർത്തിക്കൊണ്ടുവരാനുള്ള വിശിഷ്ടസന്ദേശമാണു് ബുദ്ധന്റേതു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.4"-->
+        <div type="lsection" xml:id="sec1.5">
+          <head type="lsechead">ദർശനം</head>
+          <p style="noindent">ഇതുവരെ പറഞ്ഞതു് ബുദ്ധമതത്തിന്റെ പ്രായോഗികവശത്തെപ്പറ്റിയാണല്ലോ
+അതിനാണു പ്രാധാന്യവും. ഇനി സിദ്ധാന്തപരമായ വശത്തെപ്പറ്റിയും വിചാരണ ചെയ്യാം. ഇതിലധികഭാഗവും
+മുമ്പു സൂചിപ്പിച്ചവിധം ബൗദ്ധപണ്ഡിതന്മാരുടെ ബുദ്ധിയിൽ വിളഞ്ഞതാണു് അതുകൊണ്ടു് ഇവിടെ അധികം
+
+വിസ്തരിക്കേണ്ടതില്ല.
+</p>
+          <p>ഭാരതീയദർശനങ്ങളെ ആസ്തികമെന്നും നാസ്തികമെന്നും രണ്ടായി തിരിക്കാം. വേദപ്രാമാണ്യം സ്വീകരിച്ചവ
+ആസ്തികങ്ങൾ നിഷേധിച്ചവ നാസ്തികങ്ങളും സാംഖ്യയോഗാദി ഷഡ്ദർശനങ്ങൾ ആദ്യത്തെ വകുപ്പിലും പെടുന്നു.
+ബുദ്ധൻ യാഗാദി വൈദികകർമ്മങ്ങളെ നിഷേധിച്ചെങ്കിലും അദ്ദേഹത്തിന്റെ തത്ത്വചിന്ത ഉപനിഷത്തിലെ
+ചിന്താഗതിയോടു സാമ്യം വഹിക്കുന്നുണ്ടു്. അതിൽ കാണുന്നതുപോലെ ബുദ്ധമതത്തിലെ പ്രപഞ്ചവും
+അവിദ്യാജന്യവും മിഥ്യയുമാണു്. എന്നാൽ, ബ്രഹ്മസത്ത സ്വീകൃതമായിട്ടില്ല. ബുദ്ധമതപ്രകാരം ഒന്നിനും പരമമായ
+സത്തയില്ല. ബൗദ്ധഭാഷയിൽ പറഞ്ഞാൽ പ്രപഞ്ചവും ജീവിതവുമെല്ലാം ഒരു ക്ഷണികവിജ്ഞാനധാരയത്രെ.
+ഇവിടെ വിജ്ഞാനമെന്നു പറയുന്നതു് അന്തഃകരണബോധത്തെയാണു്. നിമിഷം തോറും മാറികൊണ്ടിരിക്കുന്ന
+ക്ഷണികബോധങ്ങളുടെ ശൃംഖല <ref target="https://dict.sayahna.org/stv/34075">അലാത</ref> വലയംപോലെ
+നാമരൂപാത്മകമായ പ്രപഞ്ചമായി പ്രതിഭാസിക്കുന്നു. തീക്കൊള്ളി ചുറ്റിക്കറക്കുമ്പോൾ കാണുന്ന വലയം
+വാസ്തവത്തിൽ ഉള്ളതല്ലല്ലോ അതൊരു തോന്നൽ മാത്രം. അതുപോലെതന്നെ പ്രപഞ്ചവും ജീവിതവും ഒന്നിനും
+ഒരവസ്ഥയിലും സത്തയില്ല. എല്ലാം പ്രതിക്ഷണം മാറിക്കൊണ്ടിരിക്കുന്നു. ബുദ്ധമതം മാറ്റത്തിന്റെ
+ഫിലോസഫിയാണെന്നാണു് രാധാകൃഷ്ണൻ പറയുന്നതു്. അതു് ഇന്നത്തെ സയൻസിനോടും <ref target="https://ml.wikipedia.org/wiki/Karl_Marx">മാർക്സി</ref> ന്റെ
+സിദ്ധാന്തത്തിനോടും വളരെ അടുത്തു വരുന്നുണ്ടു്. ഒരു വസ്തു ഉണ്ടെന്നോ ഇല്ലെന്നോ തീർത്തു പറയുവാൻ
+വയ്യാത്തവിധം അതു സ്ഥിതി ഗത്യാത്മകമായിരിക്കുന്നു. കാരണകാര്യശൃംഖലയായി കാണപ്പെടുന്ന
+അവസ്ഥാഭേദങ്ങളുടെ ഒരു തുടർച്ച മാത്രമാണതു്. ഇപ്രകാരമുള്ള ക്ഷണികങ്ങളായ സ്ഥിതി ഗതികളുടെ
+അഭിവ്യക്തിയാണു ജീവിതവും അതു ഭൗതികവും മാനസികവുമായ കേവലതത്ത്വങ്ങളുടെ സമാഹാരങ്ങളായ
+പഞ്ചസ്കന്ധങ്ങളായി വിഭജിക്കപ്പെട്ടിരിക്കുന്നു. ഒരു തരം മനോവിജ്ഞാനീയത്തെ ആസ്പദമാക്കിയാണു് ഈ
+വിഭജനം. ‘ഞാൻ’ എന്ന വ്യവഹാരത്തിനു വിഷയം ആത്മാവല്ല മേല്പ്പറഞ്ഞ സ്കന്ധങ്ങളിൽ ഒന്നോ മുഴുവനോ
+ആണെന്നു ബുദ്ധൻ വാദിക്കുന്നു. അദ്ദേഹം പുനർജന്മത്തിലും കർമഫലത്തിലും വിശ്വസിച്ചിരുന്ന സ്ഥിതിക്കു്
+ആത്മസത്തയെ നിഷേധിക്കുന്നതെങ്ങനെ? ജന്മാന്തരസംക്രമണത്തിനു് ആസ്പദം ആത്മാവല്ല പൂർവ്വോക്ത
+പഞ്ചസ്കന്ധങ്ങളാണെന്നത്രെ ഇതിനുള്ള സമാധാനം അവിദ്യയുടെ ഫലമായി മനുഷ്യൻ ഭവചക്രത്തിൽ (Wheel
+of existence) സ്ഥിതിചെയ്യുന്ന കാലത്തോളം ഈ ദൃശ്യഭാവനകൾ ഉണ്ടാകും. യഥാർത്ഥബോധദീപ്തിയിൽ
+പ്രപഞ്ചശൂന്യത സാക്ഷാത്കരിക്കപ്പെടുമ്പോൾ അവൻ നിർവാണം പ്രാപിക്കും കർമമൂലങ്ങളും
+ക്ലേശമൂലങ്ങളുമാകുന്ന ജീവിതജ്വാലകളെല്ലാം കെട്ടടങ്ങുന്ന ആ നിശ്ചലശുന്യാവസ്ഥയിൽ എത്തുകയെന്നതാണു്
+അന്തിമ ലക്ഷ്യം.
+</p>
+        </div>
+        <!--end of "section 0.0/1.5"-->
+        <div type="lsection" xml:id="sec1.6">
+          <head type="lsechead">ബുദ്ധമതം—ഇന്നു്</head>
+          <p style="noindent">ശൂന്യവാദം, വിജ്ഞാനവാദം മുതലായ പേരുകളിൽ നിസ്സാരങ്ങളായ ചില
+തത്ത്വഭേദങ്ങളോടെ പല വാദമുഖങ്ങളും ബുദ്ധദർശനത്തിൽ കാണാം. <ref target="https://en.wikipedia.org/wiki/Nagarjuna">നാഗാർജ്ജുനൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/A%C5%9Bvagho%E1%B9%A3a">അശ്വഘോഷൻ</ref>
+തുടങ്ങിയ പ്രസിദ്ധ തത്ത്വജ്ഞാനികൾ പിൽക്കാലത്തു രൂപവല്ക്കരിച്ചതാണിവയെല്ലാം. ഹീനയാനം, മഹായാനം
+മന്ത്രയാനം, തന്ത്രയാനം ഇങ്ങനെയുള്ള വിചിത്രവിഭാഗങ്ങളും അതിൽ സ്ഥലം
+പിടിച്ചിട്ടുണ്ടു്—ഇവയെപ്പറ്റിയൊന്നും വിസ്തരിക്കാതിരിക്കുകയാണു നല്ലതു്. ഹിന്ദുമതത്തിലെ അന്ധവിശ്വാസങ്ങൾ
+നീക്കിയാൽ ബുദ്ധമതമാകുമെന്നു സാധാരണ പറയാറുണ്ടു്. എന്നാൽ മന്ത്രതന്ത്രംകൊണ്ടു കാടുകയറിയ
+ഇന്നത്തെ ബുദ്ധമതം മൂഷികസ്ത്രീ പിന്നെയും മൂഷികസ്ത്രീയായതാണു്.
+</p>
+          <p>
+ചിന്താതരംഗം 1957.
+</p>
+        </div>
+        <!--end of "section 0.0/1.6"-->
+        <div type="lsection" xml:id="sec1.7">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.7.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.7.1"-->
+        </div>
+        <!--end of "section 0.0/1.7"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Budhadarsanam (ml:
+ബുദ്ധദർശനം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Budhadarsanam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ബുദ്ധദർശനം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 30, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Gandhara_Buddha_(tnm).jpeg">Standing
+Buddha,</ref> a stone sculpture by Unknown artist  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-budhadarsha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-  budhadarsha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

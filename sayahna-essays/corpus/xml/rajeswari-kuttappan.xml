@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കുട്ടപ്പൻ സാക്ഷി</title>
+          <title xml:lang="en" type="main">Kuttappan Sakshi</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 22, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കുട്ടപ്പൻ സാക്ഷി</title>
+              <title xml:lang="en" type="main">Kuttappan Sakshi</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Kuttappan Sakshi</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കുട്ടപ്പൻ സാക്ഷി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 22, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/RUNNING_HORSE.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:RUNNING_HORSEOIL_PAINTING_BY_RAJASEKHARAN.jpg">Running Horse,</ref> a oil painting by <ref target="https://commons.wikimedia.org/wiki/User:Rajasekharan_Parameswaran">Rajasekharan
+Parameswaran</ref>  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കുട്ടപ്പൻ സാക്ഷി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കുട്ടപ്പൻ സാക്ഷി</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/MAKuttappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എ. കുട്ടപ്പൻ</figDesc>
+          </figure>
+          <p style="noindent"> ബഹു: മന്ത്രി <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref>
+മാന്യനാണെന്നു മനസ്സിലായി. മറ്റാരെങ്കിലുമായിരുന്നെങ്കിൽ ഇമ്മാതിരി കുനട്ടു പിടിച്ച ചോദ്യങ്ങളുന്നയിച്ചു
+ശല്യപ്പെടുത്തിയ പത്രലേഖകനെതിരെ കേസെടുപ്പിച്ചേനെ. പത്രലേഖകർക്കും വകതിരിവുവേണം എം. എൽ. എ.
+ആയിരിക്കുമ്പോൾ അതും പ്രതിപക്ഷത്തായിരിക്കുമ്പോൾ എന്തൊക്കെ ആവശ്യപ്പെടും. മന്ത്രിയായെന്നുവെച്ചു്
+അതു വല്ലതും നടപ്പാക്കാനൊക്കുമോ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> ലേഖകരെക്കാളും വിവേകമതികളാണു് പത്രഉടമകൾ. അതുകൊണ്ടാണല്ലോ പട്ടിക ജാതിക്കാർക്കെതിരായ
+വിവേചനം കുത്തക പത്രങ്ങളിൽ വാർത്തയേ ആകാഞ്ഞതു്. കോളേജധികൃതരുടെ നിഷേധക്കുറിപ്പാണു് മലയാള
+മനോരമയിൽ ആദ്യം വന്നതു് . ശുദ്ധ ഗാന്ധിയൻ പത്രമായ മാതൃഭൂമി നിഷേധക്കുറിപ്പും പ്രസിദ്ധീകരിക്കാതെ
+ഇരുപത്തിനാലു കാരറ്റ് നിഷ്പക്ഷത തെളിയിച്ചു. രാഷ്ട്രീയക്കാരും അവസരത്തിനൊത്തുയർന്നു. വിവേചനം
+ദൗർഭാഗ്യകരമാണു് എന്നു പറയാൻ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനേ</ref>
+ഉണ്ടായിരുന്നുള്ളു. ഇടതു-വലതു കമ്യുണിസ്റ്റ് പാർട്ടികൾ മൗനം ദീക്ഷിച്ചു. മനുഷ്യാവകാശ പ്രവർത്തകനും
+ഭരണഘടനാ വിദഗ്ദ്ധനുമായ അന്നത്തെ സ്ഥലം എം. എൽ. എ.-ക്കും ഉരിയാട്ടമുണ്ടായില്ല. ഡോ. <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ. കുട്ടപ്പൻ</ref>
+തന്നെയും വഴിപാടിനു് ഒരു പ്രസ്താവന ഇറക്കിയെന്നേയുള്ളു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> കുട്ടപ്പനു് കുരുത്തമില്ല എന്നൊരഭിപ്രായം പണ്ടേയുണ്ടു് കോൺഗ്രസിൽ. യുക്തിവാദി സംഘവും അംബേദ്കർ
+മിഷനുമൊക്കെയായി സർക്കാർ സർവ്വീസിൽ ഡോക്ടറായി വിരാജിച്ച കുട്ടപ്പനെക്കൊണ്ടു് ജോലി
+രാജിവെപ്പിച്ചതും എം. എൽ. എ.-യാക്കിയതും പരമഭക്തനായ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരൻ</ref>.
+പത്തനംതിട്ട ജില്ലയിലെ വെണ്ണിക്കുളത്തിനടുത്തു് വാളകുഴി സ്വദേശിയായ കുട്ടപ്പൻ കന്നിയങ്കം കുറിച്ചതു് 1980-ൽ
+മലപ്പുറം ജില്ലയിലെ വണ്ടൂരിൽ. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> കോൺഗ്രസിലെ
+സുരേഷായിരുന്നു എതിരാളി. മുസ്ലിംലീഗിന്റെ അകമഴിഞ്ഞ സഹകരണമുണ്ടായാതുകൊണ്ടു് <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref> വിജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. വി. തോമസ്</figDesc>
+          </figure>
+          <p> നിയമസഭാംഗമായിരിക്കവെ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകർജി</ref> യുടെ
+അപ്രീതിക്കു പാത്രീഭൂതനായി <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref>.
+പുകഞ്ഞകൊള്ളി പുറത്തു് എന്നാണല്ലോ കാരണവരുടെ സിദ്ധാന്തം. ലീഡറുടെ പ്രതാപകാലവുമാണു്. അങ്ങനെ
+1982-ലെ തെരഞ്ഞെടുപ്പിൽ സീറ്റു നിഷേധിക്കപ്പെട്ട ഏക കോൺഗ്രസ് എം. എൽ. എ.-യായി. കുട്ടപ്പൻ വണ്ടൂരിൽ
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+തന്റെ വിനീത വിധേയൻ <ref target="https://en.wikipedia.org/wiki/Pandalam_Sudhakaran">പന്തളം
+സുധാകരനെ</ref> നിർത്തി ജയിപ്പിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pandalamsudhakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">പന്തളം സുധാകരൻ</figDesc>
+          </figure>
+          <p> 1982-ൽ മന്ത്രിയോഗം തെളിഞ്ഞതു് <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണനാ</ref> യിരുന്നു. ഭാര്യ മരിച്ചു കിടക്കുമ്പോഴും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+കാസ്റ്റിംഗ് മന്ത്രിസഭ നിലനിർത്താൻ സഭയിൽ ഓടിയെത്തിയതിന്റെ പ്രത്യുപകാരം. ഹരിജനക്ഷേമ വകുപ്പു,
+പക്ഷേ, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+കൈവശംവെച്ചു. <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">ബാലകൃഷ്ണനു</ref>
+കിട്ടിയതു ഗതാഗതവകുപ്പു്. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകർജി</ref> യുടെ
+ഭരണകാലത്താണു് ഐ. ആർ. ഡി. പി. പ്രകാരം പട്ടികജാതിക്കാർക്കു് ആനയെ വാങ്ങിക്കൊടുത്തതും
+ബലാത്സംഗത്തിനിരയാകുന്നവർക്കു് 5000 രൂപ ധനസഹായം പ്രഖ്യാപിച്ചതും കേരള ഹൈക്കോടതിയിൽ
+ആദ്യമായി പട്ടികജാതിക്കാരൻ ജഡ്ജിയായതും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Velayudan.png" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. വേലായുധൻ</figDesc>
+          </figure>
+          <p> ഒരു കൊല്ലത്തിനകം മന്ത്രിസഭാ പുനഃസംഘടനയുണ്ടായി. <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണൻ</ref> <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണി</ref> നും
+ജോസ് കുറ്റ്യാനിക്കുമൊപ്പം മറുകണ്ടം ചാടി. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ഗ്രൂപ്പിനെ
+പ്രതിനിധാനം ചെയ്തു് എം. എൽ. എ.-യും മന്ത്രിയുമായ <ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">വേലായുധൻ</ref> ക്രമേണ
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+ആളായി. ആഭ്യന്തര വകുപ്പു നഷ്ടപ്പെട്ട <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>
+മന്ത്രിസ്ഥാനം രാജിവെച്ചപ്പോൾ ഐക്യദാർഢ്യം പ്രകടിപ്പിച്ചുകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">വേലായുധനും</ref>
+രാജിവെക്കുമെന്നായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ പ്രതീക്ഷ.
+<ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">വേലായുധൻ</ref>
+പക്ഷേ, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനോ</ref> ടു്
+ഒട്ടിനിന്നു. 1987-ലെ തെരഞ്ഞെടുപ്പിൽ <ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">വേലായുധന്റെ</ref> പേരു്
+<ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> വെട്ടി.
+അതോടെ <ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">വേലായുധന്റെ</ref>
+രാഷ്ട്രീയ ഭാവി ആടു കടിച്ചു. നാളിതുവരെ ഒരു തെരഞ്ഞെടുപ്പിലും <ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">പി. കെ. വേലായുധനു</ref>
+സീറ്റുകിട്ടിയില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KK_Balakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കെ. ബാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/P.K._Velayudan">വേലായുധനെ</ref> വെട്ടിയ
+<ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പനു</ref> സീറ്റു
+തരപ്പെടുത്തി. തൃശുർ ജില്ലയിലെ ചേലക്കരയിൽനിന്നു് ഏഴായിരത്തിൽപ്പരം വോട്ടിനു ജയിച്ചു കയറിയപ്പോൾ
+ഭരണമില്ല. അഞ്ചു വർഷം കഴിഞ്ഞു് ഭരണം കിട്ടിയപ്പോൾ ആലപ്പുഴ ജില്ലയിലെ പന്തളത്തു് സിറ്റിംഗ്
+എം. എൽ. എ. കേശവനോടു് പൊരുതിത്തോൽക്കാനായിരുന്നു <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പന്റെ</ref> വിധി.
+<ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref>
+ഇട്ടെറിഞ്ഞുപോയ ചേലക്കരയിൽ കോൺഗ്രസിലെ <ref target="https://ml.wikipedia.org/wiki/M.P._Thami">എം. പി. താമി</ref> പുഷ്പം
+പോലെ ജയിക്കുകയും ചെയ്തു. വണ്ടൂരുനിന്നു് മൂന്നാമതും ജയിച്ചുവന്ന <ref target="https://en.wikipedia.org/wiki/Pandalam_Sudhakaran">പന്തളം
+സുധാകരനാ</ref> ണു് മന്ത്രിയായതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p> 1994 ജുണിൽ ഒഴിവുവന്ന രാജ്യസഭാ സ്ഥാനങ്ങളിൽ ഒന്നു് പട്ടികജാതിക്കാരനെന്ന നിലയിൽ <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ. കുട്ടപ്പനു</ref>
+കൊടുക്കണമെന്നു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ഗ്രൂപ്പ്
+ആവശ്യപ്പെട്ടു. നേരത്തെ <ref target="https://ml.wikipedia.org/wiki/P.K._Kunjachan">പി. കെ. കുഞ്ഞച്ചനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/T.K.C._VADUTHALA">ടി. കെ. സി.
+വടുതല</ref> യുമൊക്കെ രാജ്യസഭാംഗങ്ങളായിരുന്നതുമാണല്ലോ. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു</ref> പക്ഷേ,
+<ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പനെ</ref>
+ബോധിച്ചില്ല. ഒരു സീറ്റ് <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref> യ്ക്കു
+കൊടുത്തു. മറ്റേതു് മുസ്ലിംലീഗിലെ സമദാനിക്കും. മൂന്നാമത്തെ സീറ്റ് മാർക്സിസ്റ്റ് പാർട്ടിയുടേതാണു്. അങ്ങനെ
+<ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പനെ</ref>
+വീണ്ടും ഒതുക്കി.
+</p>
+          <p><ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പനെ</ref>
+തഴഞ്ഞതിൽ പ്രതിഷേധിച്ചു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> മന്ത്രിപദം
+ഒഴിഞ്ഞു. പിന്നാലെ <ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">കെ. പി.
+വിശ്വനാഥനും</ref> രാജികൊടുത്തു. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ഗ്രൂപ്പ് നേതൃമാറ്റം
+ആവശ്യപ്പെട്ടു. ഘടകക്ഷികളും അതേ ആവശ്യം ഏറ്റുപിടിച്ചപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+കടപുഴകി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PK_Kunjachan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. കുഞ്ഞച്ചൻ</figDesc>
+          </figure>
+          <p> 1996-ൽ എറണാകുളം ജില്ലയിലെ ഞാറക്കൽ മണ്ഡലത്തിൽ മൽസരിച്ച <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref> നേരിയ
+ഭൂരിപക്ഷത്തോടെ സിറ്റിംഗ് എം. എൽ. എ. <ref target="https://ml.wikipedia.org/wiki/V.K._Babu">വി. കെ. ബാബു</ref> വിനെ
+തോൽപിച്ചു. ഭരണം ഇടതുമുന്നണിക്കും കിട്ടി. നിയമസഭക്കകത്തും പുറത്തും പട്ടികജാതിക്കാരുടെ
+അവകാശങ്ങൾക്കുവേണ്ടി <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref>
+ശബ്ദമുയർത്തി. തന്നെ ‘ഹരിജൻ കുട്ടപ്പൻ’ എന്നു പരാമർശിച്ച മുഖ്യമന്ത്രിക്കെതിരെ കേസുകൊടുക്കാനും മടിച്ചില്ല.
+ഹരിജൻ എന്നു വിശേഷിപ്പിച്ചതിൽ അധിക്ഷേപകരമായി ഒന്നുമില്ല എന്നായിരുന്നു ഹൈക്കോടതി വിധി,
+(കോടതിയിലും പട്ടികജാതിക്കാർക്കു രക്ഷയില്ല; പുലനാടി എന്നു വിളിച്ചാലും ആക്ഷേപകരമല്ല എന്നു് ഈയിടെ
+വിധിയുണ്ടായി).
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Oommen_Chandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമ്മൻചാണ്ടി</figDesc>
+          </figure>
+          <p> നെടുമ്പാശ്ശേരി വിമാനത്താവളക്കമ്പനിയിലെ നിയമനങ്ങളിൽ സംവരണം പാലിക്കണമെന്നാവശ്യപ്പെട്ടു്
+നിരാഹാരസമരം നടത്തിയതായിരുന്നു <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പന്റെ</ref> മറ്റൊരു
+പരാക്രമം. സെന്റ് തെരേസാസിനു മുമ്പിൽ സത്യഗ്രഹത്തിനൊന്നും തുനിഞ്ഞില്ല കുട്ടപ്പൻ. കാരണം ഞാറക്കൽ
+മണ്ഡലത്തിൽ ക്രിസ്ത്യാനികൾ, വിശേഷിച്ചു് ലത്തീൻ കത്തോലിക്കർ ആണു് കോൺഗ്രസിനു വോട്ടു ചെയ്യാറു്.
+പട്ടികജാതിക്കാരുടെയും ഈഴവരുടെയും വോട്ട് നിശ്ചയമായും കമ്യുണിസ്റ്റുകാർക്കാണു്. വെറുതേ ഉള്ള വോട്ടിൽ
+ചുക്കിട്ടു കാച്ചരുതല്ലോ. കുടുംബത്തിനകത്തും പ്രശ്നങ്ങൾ ഉണ്ടാകാനിടയുണ്ടു്—കുട്ടപ്പന്റെ നല്ല പാതി
+നസ്രാണിത്തരുണിയാകുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_V_Raghavan_.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വി. രാഘവൻ</figDesc>
+          </figure>
+          <p> ഇത്തവണ മാർക്സിസ്റ്റ് സ്ഥാനാർത്ഥി ജയിക്കുമെന്നു് കോൺഗ്രസുകാർ ഉറപ്പിച്ച സീറ്റാണു് ഞാറക്കൽ.
+ക്രിസ്ത്യാനികളിൽ ഒരു വിഭാഗം നീരസം പ്രകടിപ്പിച്ചിട്ടും തരംഗത്തിന്റെ ബലത്തിൽ <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref> പിടിച്ചു
+കയറി. <ref target="https://ml.wikipedia.org/wiki/K.K._Balakrishnan">കെ. കെ.
+ബാലകൃഷ്ണൻ</ref> മരിക്കുകയും <ref target="https://en.wikipedia.org/wiki/Pandalam_Sudhakaran">പന്തളം
+സുധാകരൻ</ref> തോൽക്കുകയും ചെയ്ത സാഹചര്യത്തിൽ മന്ത്രിസ്ഥാനവും കുട്ടപ്പനെ തേടിയെത്തി.
+നിയമസഭയിൽ പട്ടികജാതിക്കാർ 14 പേരുള്ള സ്ഥിതിക്കു് മന്ത്രിമാർ രണ്ടു പേർ ആകാമായിരുന്നു. ഈഴവേതര
+പിന്നാക്ക ഹിന്ദുക്കൾക്കു പ്രാതിനിധ്യമേ ഇല്ലാത്ത സാഹചര്യത്തിൽ പട്ടികജാതിക്കാരൻ ഒന്നായിപ്പോയതിൽ
+അതിശയിക്കാനില്ല. വകുപ്പോ? പട്ടിക ജാതിക്ഷേമം തന്നെ. കുട്ടപ്പൻ ഡോക്ടറായതുകൊണ്ടു മാത്രം
+ആരോഗ്യവകുപ്പു കിട്ടണമെന്നില്ലല്ലോ. 54-കാരനായ <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പനു</ref> (ജനനം
+12.4.1947) കിട്ടിയ മറ്റൊരു വകുപ്പു് യുവജനക്ഷേമമാണു്.
+</p>
+          <p>ഒന്നുമില്ലാത്തതിലും ഭേദമാണു് പട്ടികജാതിക്ഷേമ വകുപ്പു് എന്നു സമാധാനിച്ചു ഭരിക്കാൻ തുടങ്ങുമ്പോഴാണു്
+പത്രലേഖകൻ സെന്റ് തെരേസാസും പൊക്കിപ്പിടിച്ചു് ഗുലുമാലുണ്ടാക്കുന്നതു്. പ്രിൻസിപ്പാൾ സി.
+ടെസ്സയടക്കമുള്ളവരെ അറസ്റ്റു ചെയ്തു തുറുങ്കിലടക്കണമെന്നു് <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പനു്</ref>
+ആഗ്രഹമുണ്ടു്. പക്ഷേ, വരാപ്പുഴ, കൊച്ചി, കോട്ടപ്പുറം മെത്രാന്മാരും മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി. തോമസും</ref>
+കോപിക്കും. സി. ടി. സുകുമാരൻ എന്ന ഐ. എ. എസുകാരന്റെ ദുരൂഹമരണത്തെപ്പറ്റി
+അന്വേഷണത്തിനുത്തരവിട്ടാലോ, കോൺഗ്രസിന്റെ അത്യുന്നത നേതൃത്വം വരെ എതിരാകും.
+ഒടിയന്മാരെപ്പറ്റിയുള്ള അന്ധവിശ്വാസം നിലനിൽക്കുന്ന തെക്കേ മലബാറിൽ പറയ സമുദായക്കാർക്കെതിരെ
+നടക്കുന്ന ആക്രമങ്ങൾ തടയാൻ ശ്രമിച്ചാൽ ലീഗുകാരാകും ഇളകുക. ചുരുക്കത്തിൽ മർമവിദ്യ പഠിച്ച
+നമ്പൂതിരിയുടെ അവസ്ഥയിലാണു് <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref>. എവിടെ
+നോക്കിയാലും മർമം. പശുവിനു് ഒരടിപോലും കൊടുക്കാനാവില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TKC_VADUTHALA.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. സി. വടുതല</figDesc>
+          </figure>
+          <p> ആകയാൽ ‘അടഞ്ഞ അധ്യായ’മേ ശരണം. സെന്റ് തെരേസാസ് അടഞ്ഞ അധ്യായം. സി. ടി. സുകുമാരൻ
+പണ്ടേ അടഞ്ഞ അധ്യായം. മുള്ളൻകൊല്ലിയിൽ ആദിവാസികൾ പട്ടിണി കിടന്നുമരിക്കുന്നതു്
+അടഞ്ഞുകൊണ്ടിരിക്കുന്ന അധ്യായം. കട്ടപ്പനക്കടുത്തു് ചെമ്പക്കപ്പാറയിൽ പതിനഞ്ചുകാരിയായ ദലിത്
+പെൺകുട്ടിയെ 22 പേർ ചേർന്നു് മാനഭംഗപ്പെടുത്തിയതും ചടയമംഗലത്തിനടുത്തു് കുരിയോടു് ആദിവാസി
+ഹോസ്റ്റലിലെ ഒമ്പതുവയസ്സുകാരൻ പ്രകൃതി വിരുദ്ധ ലൈംഗിക വേഴ്ചയിൽ കൊല്ലപ്പെട്ടതും ഉടനെ
+അടയാനിരിക്കുന്ന അധ്യായങ്ങൾ. ആദിവാസി ഭൂമി അന്യാധീനപ്പെട്ടതും അട്ടപ്പാടിയിലെയും വയനാട്ടിലെയും
+അവിവാഹിതരായ അമ്മമാരുമൊക്കെ ആർക്കും താൽപര്യമില്ലാത്ത കാര്യങ്ങൾ മാത്രം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> നെടുമ്പാശ്ശേരി വിമാനത്താവള കമ്പനിയുടെ തലപ്പത്തു് <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാർ</ref> മാറി <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> വന്നു.
+നിയമനത്തിൽ പട്ടികജാതിക്കാർക്കു സംവരണം ഇപ്പോഴും മരീചിക തന്നെ. എന്തിനു വിമാനത്താവള
+കമ്പനിയെ മാത്രം പറയണം? നമ്മുടെ നാട്ടിലെ സഹകരണ ബാങ്കുകളിലൊക്കെ നിയമനങ്ങളിൽ പത്തു
+ശതമാനം പട്ടികജാതി/വർഗക്കാർക്കായി സംവരണം ചെയ്തുകൊണ്ടു് രജിസ്ട്രാർ ഉത്തരവിറക്കിയിട്ടു കൊല്ലം
+പത്തായി. ഒരൊറ്റ പട്ടികജാതിക്കാരനും നിയമനം കിട്ടാത്ത സഹകരണ ബാങ്കുകൾ എത്രയാണു്. സംവരണം
+നടപ്പാക്കിയവർ തന്നെ പ്യൂൺ അറ്റൻഡർ തസ്തികകളാണു് പട്ടികജാതിക്കാർക്കായി നീക്കിവെച്ചതു്.
+ഹൈക്കോടതി ജഡ്ജിസ്ഥാനത്തേക്കു് പ്രമോഷൻ പരിഗണിക്കുമ്പോൾ ജുഡിഷ്യൽ സർവീസിലെ ഏറ്റവും
+സീനിയറായ ജില്ലാജഡ്ജി തഴയപ്പെടുന്നു. തൊട്ടു താഴെയുള്ളയാളുടെ പേരു് ശിപാർശ ചെയ്യപ്പെടുകയും
+ചെയ്യുന്നു. തഴയപ്പെട്ടതു് പട്ടികജാതിക്കാരൻ. ശിപാർശ ചെയ്യപ്പെട്ടതു് സവർണൻ ശിപാർശ നടത്തിയ
+കൊളേജ്യത്തിൽ അധ്യക്ഷത വഹിച്ചതു് <ref target="https://ml.wikipedia.org/wiki/Sahodaran_Ayyappan">സഹോദരൻ
+
+അയ്യപ്പന്റെ</ref> നേരനന്തരവൾ!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sahodaran_Ayyappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">സഹോദരൻ അയ്യപ്പൻ</figDesc>
+          </figure>
+          <p> വിദ്യാഭ്യാസത്തിലായാലും ഉദ്യോഗസ്ഥ നിയമനത്തിലായാലും പട്ടികജാതിക്കാർക്കുള്ള ആനുകൂല്യം
+തട്ടിയെടുക്കുന്നതു വേറൊരു കൂട്ടർ: വ്യാജ ജാതിസർട്ടിഫിക്കറ്റുകൾ വിറ്റു് വില്ലേജ് ഓഫിസർമാരും
+തഹസിൽദാർമാരും സമ്പന്നരായിരിക്കുന്നു. 1999–2000 വിദ്യാഭ്യാസ വർഷത്തിൽ മഹാത്മാഗാന്ധി
+സർവകലാശാലയിലെ മുപ്പതു കോളേജുകൾ പട്ടികജാതിക്കാർക്കു് നീക്കിവെച്ച സീറ്റുകൾ സ്വന്തക്കാർക്കു് നൽകി
+എന്നാണു് ഔദ്യോഗിക കണക്കു്. മിക്കവാറും ക്രിസ്ത്യൻ കോളേജുകൾ; അവയിലേറെയും കത്തോലിക്കരുടെയും.
+എറണാകുളം സെന്റ് തെരേസിൽ പട്ടികജാതിക്കാരായ വിദ്യാർഥിനികൾ എത്ര ശതമാനമുണ്ടാകുമെന്ന് ബഹു:
+മന്ത്രി ഒന്നു് അന്വേഷിച്ചാൽ നന്നായിരിക്കും. അതു് മിക്കവാറും പൂജ്യത്തോടടുത്ത ഒരു ശതമാനമാകാനാണിട.
+</p>
+          <p>പട്ടികജാതി/പട്ടികവർഗ്ഗക്കാരുടെ ക്ഷേമത്തിനായി 335 കോടി രൂപയാണു് ശങ്കരനാരായണൻജിയുടെ
+പുതുക്കിയ ബജറ്റിൽ വകകൊള്ളിച്ചിട്ടുള്ളതു്. മൊത്തം വാർഷിക പദ്ധതിയുടെ 11.11 ശതമാനം. വക
+കൊള്ളിച്ചതിന്റെ 11 ശതമാനമെങ്കിലും ഉദ്ദേശിച്ച കാര്യത്തിനു ചെലവായാൽ പട്ടികജാതിക്കാരുടെ ഭാഗ്യം.
+</p>
+          <p>പട്ടികജാതിക്കാർക്കും പട്ടികവർഗ്ഗക്കാർക്കും മൂന്നു വീതം റസിഡൻഷ്യൽ സ്കൂളുകൾ തുടങ്ങുമെന്നും
+ഉന്നതവിദ്യാഭ്യാസത്തിനായി സെന്റർ ഓഫ് എക്സലൻസ് സ്ഥാപിക്കുമെന്നുമാണു് ബജറ്റു വാഗ്ദാനം.
+മുഖ്യധാരയിലെ വിദ്യാഭ്യാസ സ്ഥാപനങ്ങളിൽനിന്നു് പട്ടികജാതിക്കാരെ മാറ്റി നിറുത്തുകയാവില്ലേ ഇവയുടെ
+ആത്യന്തികമായ ഫലം. അമേരിക്കയിലെ പഴയ seperate but equal സ്ഥാപനങ്ങൾ പോലെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KR_Gouriamma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗൗരിയമ്മ</figDesc>
+          </figure>
+          <p> സെന്റ് തെരേസാസ് സംഭവം അടഞ്ഞ അധ്യായമാണെന്നു <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പൻ</ref>
+ആലുവാകൊട്ടാരത്തിലിരുന്നു പ്രസ്താവിച്ചതു് ജുലായ് 12-ാം തീയതി വ്യാഴാഴ്ചയായിരുന്നു. അടുത്ത ബുധനാഴ്ച അതേ
+വിവേചനം കുട്ടപ്പനും അനുഭവിച്ചു. നിയമസഭാ മന്ദിരത്തിലെ ലിഫ്റ്റിൽ കയറിയ കുട്ടപ്പൻ പെട്ടെന്നു പുറത്തിറങ്ങി
+ലിഫ്റ്റിൽ നിന്നു് സ്പീക്കർ ഇറക്കിവിട്ടതാണെന്നും രണ്ടുപക്ഷമുണ്ടു്. സ്പീക്കർക്കൊപ്പം ലിഫ്റ്റിൽ കയറാൻ മറ്റാർക്കും
+അവകാശമില്ലത്രെ. <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പന്റെ</ref> സ്ഥാനത്തു്
+<ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരിയമ്മ</ref>
+യായിരുന്നെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/M._V._Raghavan">എം. വി. രാഘവനോ</ref>
+<ref target="https://ml.wikipedia.org/wiki/Cherkalam_Abdullah">ചെർക്കളം
+അബ്ദുല്ല</ref> യോ <ref target="https://ml.wikipedia.org/wiki/K._Sudhakaran">കെ. സുധാകരനോ</ref>
+ആയിരുന്നെങ്കിൽ എന്തായേനെ കഥ? കുട്ടപ്പൻ സാധുവും തീണ്ടൽ ജാതിക്കാരനുമായതുകൊണ്ടു് ലിഫ്റ്റിൽ നിന്നു
+ബഹിഷ്കൃതനായി എന്നതാണു് സത്യം. സ്പീക്കറുടെ പ്രവൃത്തിയെപ്പറ്റി കുട്ടപ്പൻ മുഖ്യനോടു പരാതിപ്പെട്ടിട്ടുണ്ടു്.
+മുഖ്യമന്ത്രി പതിവിൻപടി പ്രശ്നം പഠിക്കുകയാണു്. മന്ത്രിസഭയുടെ കാലാവധി തീർന്നാലും തിരുമാനം
+പ്രതീക്ഷിക്കേണ്ടതില്ല. അടഞ്ഞ അധ്യായം ഒരെണ്ണം കൂടി.
+</p>
+          <p>നട്ടെല്ലിന്റെ സ്ഥാനത്തു വാഴപ്പിണ്ടിയാണെങ്കിൽ ഇതും ഇതിലപ്പുറവും നടക്കും. എങ്ങനെയെങ്കിലും
+മുഖ്യമന്ത്രിയായി തുടരണമെന്നേ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കുള്ളു:
+കഴിയുന്നത്രകാലം മന്ത്രിക്കസേരയിൽ ചടഞ്ഞുകൂടണമെന്നു <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">കുട്ടപ്പനും</ref>.
+സ്റ്റേറ്റുകാറും മന്ത്രി മന്ദിരവും മാത്രമാണു് തുറന്ന അധ്യായങ്ങൾ. ‘പട്ടികജാതിക്കാരെ ദൈവം രക്ഷിക്കട്ടെ.’
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kuttappan Sakshi (ml: കുട്ടപ്പൻ
+സാക്ഷി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Kuttappan Sakshi, കെ. രാജേശ്വരി, കുട്ടപ്പൻ സാക്ഷി, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 22, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:RUNNING_HORSEOIL_PAINTING_BY_RAJASEKHARAN.jpg">Running Horse,</ref> a oil painting by <ref target="https://commons.wikimedia.org/wiki/User:Rajasekharan_Parameswaran">Rajasekharan
+Parameswaran</ref>  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kuttappan.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kuttappan.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

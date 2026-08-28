@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ധനശാസ്ത്രം പിന്നെയും</title>
+          <title xml:lang="en" type="main">Dhanasasthram Pinneyum</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 12, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ധനശാസ്ത്രം പിന്നെയും</title>
+              <title xml:lang="en" type="main">Dhanasasthram Pinneyum</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-05-05</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>Dhanasasthram Pinneyum</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>ധനശാസ്ത്രം പിന്നെയും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-05-05</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/money.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Marinus_van_Reymerswaele_(Follower_of)__The_Money_Changers_-_Google_Art_Project.jpg">Los cambistas,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/Marinus_van_Reymerswaele">Marinus van
+Reymerswaele</ref>  (1490–1546). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ധനശാസ്ത്രം പിന്നെയും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ധനശാസ്ത്രം പിന്നെയും</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kdamodaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദാമോദരൻ</figDesc>
+          </figure>
+          <p style="noindent"> “ഗവണ്മെന്റിന്റെ നിയമങ്ങൾക്കു ധനശാസ്ത്രതത്ത്വങ്ങളോടു പൊരുതി ജയിക്കാൻ
+കഴിഞ്ഞില്ല”, ശ്രീ. <ref target="https://ml.wikipedia.org/wiki/K._Damodaran">കെ.
+ദാമോദര</ref> ന്റെ ‘<ref target="http://ax.sayahna.org/kd/k-damodaran-2-3.html">ഉറുപ്പിക</ref>’ എന്ന
+പുസ്തകത്തിൽ കാണുന്ന ഒരു വാചകമാണിതു്. ഈ ഒറ്റവാചകത്തിൽ ആധുനികലോകത്തിലെ ഏറ്റവും
+മൗലികമായ വൈരുദ്ധ്യത്തിന്റെ സ്വഭാവം സംഗ്രഹിച്ചിരിക്കുന്നു.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/Aristotle">അരിസ്റ്റോട്ടിലും</ref><ref target="https://ml.wikipedia.org/wiki/Chanakya">ചാണക്യനും</ref> മറ്റും <ref target="https://ml.wikipedia.org/wiki/Arthashastra">അർത്ഥശാസ്ത്രത്തെ</ref> പ്പറ്റി
+പഠനങ്ങൾ നടത്തിയെന്നു ചരിത്രം ഘോഷിക്കുന്നുണ്ടെങ്കിലും അവയൊന്നും ഇന്നത്തെ സാമ്പത്തിക
+ഘടനയെപ്പറ്റി പഠിക്കുവാൻ ഉതകുന്നവയല്ല. ലോകത്തിന്റെ ആറിൽ അഞ്ചുഭാഗങ്ങളിൽ ഇന്നു നിലവിലിരിക്കുന്ന
+സാമ്പത്തികരീതി മുതലാളിത്തമാണു്. മുതലാളിത്തം ഉണ്ടായതുതന്നെ പതിനെട്ടാം നൂറ്റാണ്ടോടുകൂടി മാത്രമാണു്;
+അതും അല്പാല്പമായി യൂറോപ്പിൽ മാത്രം. അത്തരം ഒരു സമ്പ്രദായത്തെ സംബന്ധിച്ചിടത്തോളം ക്രിസ്തുവിനുമുമ്പു
+നടത്തിയ പൗരാണികപര്യവേക്ഷണങ്ങൾ പ്രയോജനകരമായിരിക്കാൻ മാർഗ്ഗമില്ലല്ലോ.
+മുതലാളിത്തകാലത്തിന്റെ പ്രഥമധനശാസ്ത്രജ്ഞൻ <ref target="https://ml.wikipedia.org/wiki/Adam_Smith">ആഡം സ്മിത്താ</ref> ണു്. ‘<ref target="https://en.wikipedia.org/wiki/The_Wealth_of_Nations">രാഷ്ട്രങ്ങളുടെ
+സമ്പത്തു്</ref> ’ എന്ന പുസ്തകത്തിൽ അദ്ദേഹം നിലവിലുണ്ടായിരുന്ന സാമ്പത്തികഘടനയെയും, അതു
+തകർന്നു് മുതലാളിത്തം ഉയർന്നുവരുന്ന രീതിയെയും വിശകലനം ചെയ്തു. മുതലാളിത്തം,
+ഫ്യൂഡലിസ(നാടുവാഴിപ്രഭുത്വം)ത്തിൽ നിന്നുള്ള സാമ്പത്തിക വിപ്ലവമായിരുന്നു. അതുകൊണ്ടു് അന്നത്തെ
+സ്ഥിതിയെ സംബന്ധിച്ചിടത്തോളം ആ ഗ്രന്ഥത്തിലെ അനുമാനങ്ങൾ ശരിയായിരുന്നു. ഇതിനെ തുടർന്നു്
+ഇംഗ്ലണ്ടിൽ ശാസ്ത്രീയമായ ധനശാസ്ത്രപഠനം തുടർന്നുവന്നു. ഇതുകൊണ്ടാണു് ഇംഗ്ലണ്ട് ധനശാസ്ത്രത്തിന്റെ
+മാതാവായിത്തീർന്നതു്. റിക്കാർഡോ മുതലായ ഫ്രഞ്ച് ചിന്തകന്മാരും ഈ ശാസ്ത്രത്തെ പോഷിപ്പിച്ചിട്ടുണ്ടു്.
+എന്നാൽ, ആഡംസ്മിത്തിന്റെയും റിക്കാർഡോയുടെയും ധനശാസ്ത്രത്തെ വ്യഭിചരിപ്പിക്കേണ്ട ഒരു കാലമുണ്ടായി.
+ലോകചരിത്രത്തിലെ ഇതര സാമ്പത്തിക</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Aristoteles_Louvre.jpg" rendition="gra"/>
+            <figDesc style="thumb">അരിസ്റ്റോട്ടിൽ</figDesc>
+          </figure>
+          <p> സമ്പ്രദായങ്ങളെപ്പോലെ മുതലാളിത്തത്തിലും കാലാന്തരത്തിൽ ചില പ്രശ്നങ്ങൾ ഉത്ഭവിച്ചു. നാടുവാഴിയും
+അടിമയും തമ്മിലുള്ള വർഗ്ഗവിരോധത്തെ ഉപയോഗിച്ചാണു് വ്യവസായിയും കച്ചവടക്കാരനും മുതലാളിത്തവിപ്ലവം
+നടത്തിയതു്. രാഷ്ട്രീയമായും സാമ്പത്തികമായും ഒരു പുതിയ വ്യവസ്ഥിതി നിലവിൽ വന്നു. രാജാവിന്റെ
+സ്ഥാനത്തു പ്രസിഡന്റും ജന്മിയുടെ സ്ഥാനത്തു മുതലാളിയും സ്ഥാനാരോഹണം ചെയ്തപ്പോൾ അടിമയുടെ
+സ്ഥാനത്തു തൊഴിലാളിയും വന്നുചേർന്നു. വർഗ്ഗസമരം മറ്റൊരു രൂപത്തിൽ തുടർന്നു. മുതലാളിത്തത്തിന്റെ
+അഭിവൃദ്ധിയുടെ ഈ കാലഘട്ടത്തിൽ വർഗ്ഗവൈരുദ്ധ്യം ഒരു വലിയ പ്രശ്നമായിരുന്നില്ല. ശാസ്ത്രം കോട്ടിവളയ്ക്കേണ്ട
+ആവശ്യവും ഉണ്ടായിരുന്നില്ല. പക്ഷേ, മുതലാളിത്തത്തിന്റെ അനുസ്യൂതമായ പുരോഗതി കുറെക്കാലം
+കഴിഞ്ഞുനിലച്ചു. സാമ്പത്തികഘടനയിൽ ഒരു പരിവർത്തനംകൂടി വരേണ്ടതു് ആവശ്യമായിത്തീർന്നു.
+വർഗ്ഗവൈരുദ്ധ്യം മൂർദ്ധന്യാവസ്ഥയെ പ്രാപിച്ചതും തൊഴിലാളിവർഗ്ഗം അനന്തരവിപ്ലവത്തിനു
+കോപ്പുകൂട്ടിത്തുടങ്ങിയതും ഇതിന്റെ ലക്ഷണങ്ങളാണു്. ഇതോടുകൂടി മുമ്പിലത്തെ വിപ്ലവത്തിന്റെ നേതാക്കൾ
+പിന്തിരിപ്പൻ ശക്തികളായിത്തീർന്നു. കൈയിൽ കിട്ടിയ ശക്തി കൈവിട്ടുകളയാൻ അവർ തയ്യാറായിരുന്നില്ല.
+സാമ്പത്തിക ജീവിതത്തിന്റെ സ്വാഭാവികഗതിയെ തടയുകയല്ലാതെ അവർക്കും ഗത്യന്തരമില്ലെന്നുവന്നു.
+
+അതോടുകൂടിത്തന്നെ സാമ്പത്തിക ശാസ്ത്രത്തെയും ദുഷിപ്പിക്കേണ്ടിവന്നു. അന്നുമുതൽ സാമ്പത്തിക ശാസ്ത്രത്തിൽ
+രണ്ടു പ്രസ്ഥാനങ്ങളുണ്ടു്. റിക്കാർഡോയെ അനുഗമിച്ചു്, സ്വാർത്ഥ താല്പര്യത്തെ നോക്കാതെ ശാസ്ത്രസത്യം മാത്രം
+ലക്ഷ്യമാക്കി വളർത്തിയ സാമ്പത്തിക ശാസ്ത്രമാണു് മാർക്സിയൻ ധനശാസ്ത്രം. വില, കൂലി, സ്ഥലവാടക, മിച്ചവില
+മുതലായവയെല്ലാം മാർക്സ് റിക്കാർഡോയിൽനിന്നു പകർത്തിയതാണു്. അവയെല്ലാം കുറെക്കൂടി
+വിശദീകരിച്ചുവെന്നുമാത്രം. പക്ഷേ, ഇതിന്റെയെല്ലാം അന്തിമാനുമാനം മുതലാളിത്തഘടന വർഗ്ഗസമരം മൂലം
+തകർന്നു് തൊഴിലാളി അധിപതിയാകുന്ന ഒരു സമ്പ്രദായം ഉണ്ടാവുമെന്നും തന്മൂലം വർഗ്ഗഭിന്നത തന്നെ
+ഇല്ലാതായിത്തീരുമെന്നും ആയിരുന്നു. ഇതു മുതലാളിവർഗ്ഗത്തിന്റെ താല്പര്യത്തിനു വിരുദ്ധമായിരുന്നതുകൊണ്ടു്
+അവർക്കു് ഇതിനെ എതിർക്കേണ്ടിവന്നു. ഇടത്തരക്കാരായ ശാസ്ത്രജ്ഞന്മാരിൽ ഒരു വിഭാഗം എപ്പോഴും
+അധികാരവർഗ്ഗത്തിന്റെ താളത്തിനു തുള്ളുന്നവരാണല്ലോ. ഈ വിഭാഗത്തെ കൂട്ടുപിടിച്ചു് ഒരു പുതിയ ധനശാസ്ത്രം
+അവർ സൃഷ്ടിച്ചു. ഇതു് അനുമാനങ്ങൾ ആദ്യമേ ഉണ്ടാക്കിയിട്ടു് അതിനുവേണ്ടി വാദങ്ങൾ സമ്പാദിക്കുന്ന
+സമ്പ്രദായമായിരുന്നു. പ്രത്യക്ഷത്തിൽ ഈ ചിന്താഗതി തെറ്റാണെന്നു മനസ്സിലാക്കാൻ വിഷമമില്ല. പക്ഷേ,
+രാഷ്ട്രീയാധികാരം മുതലാളിവർഗ്ഗത്തിന്റെ കൈയിലായതുകൊണ്ടു് ഇതു യഥാർത്ഥ വിജ്ഞാനമായി
+ജനതയുടെമേൽ വെച്ചുകെട്ടാൻ അവർക്കു ബുദ്ധിമുട്ടുണ്ടായില്ല. കലാലയങ്ങളിൽ ഈ തലതിരിഞ്ഞ ധനശാസ്ത്രം
+മാത്രമാണു് പഠിപ്പിക്കാൻ പാടുള്ളതു്. ഗവണണ്മെന്റുദ്യോഗത്തിനും കമ്പനികളിലെ ഉദ്യോഗത്തിനും ‘അംഗീകൃത’
+കലാശാലകളുടെ സാക്ഷിപത്രം ആവശ്യമാണല്ലോ. ഇങ്ങിനെ തെറ്റായ ഒരു ശാസ്ത്രത്തെ നിർബ്ബന്ധം കൊണ്ടു
+പ്രചരിപ്പിക്കാനുള്ള യത്നമാണു് ആധുനിക ലോകത്തിൽ കാണുന്നതു്. ഇതിന്റെ ഫലമായി നമ്മുടെ
+വിദ്യാർത്ഥികൾ പഠിക്കുന്നതു ധനശാസ്ത്രമല്ല. നേരെമറിച്ചു്, തകരുന്ന മുതലാളിത്തത്തിന്റെ നില്ക്കക്കള്ളിയില്ലാത്ത
+നീതീകരണങ്ങളാണു്. അദ്ധ്യാപകന്മാരും ഈ ബുദ്ധിമുട്ടറിയുന്നുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/chanakya.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചാണക്യൻ</figDesc>
+          </figure>
+          <p> ഇക്കാലമത്രയും പട്ടിണിയും ദുരിതവും അനുഭവിച്ച ചില പണ്ഡിതന്മാർ യഥാർത്ഥ ധനശാസ്ത്രത്തിന്റെ
+ദീപത്തെ കാത്തുപോന്നു. സംഘടിതതൊഴിലാളിവർഗ്ഗം അതിനെ സ്വീകരിച്ചു. സമരത്തിനുള്ള നിർദ്ദേശങ്ങളും
+ഭാവിയെപ്പറ്റി നശിക്കാത്ത ഒരു പ്രത്യാശയും അവർക്കതു പ്രദാനം ചെയ്തു. 1931-ലെ സാമ്പത്തികക്കുഴപ്പം പഴയ
+അനുമാനങ്ങളെ തെറ്റെന്നു തെളിയിച്ചപ്പോൾ സോവിയറ്റിലെ പഞ്ചവത്സരപദ്ധതി മാർക്സിയൻ ധനശാസ്ത്രത്തെ
+നീതീകരിച്ചു. ഈ ശാസ്ത്രം കേരളീയർക്കു പരിചിതമാക്കിക്കൊടുത്ത പ്രഥമചിന്തകനാണു് ശ്രീ. കെ. ദാമോദരൻ.
+ഈ ചിന്താഗതിയിൽ എഴുതപ്പെട്ടിട്ടുള്ള രണ്ടു ഗ്രന്ഥങ്ങളാണു് ‘നാണയപ്രശ്നവും’ ‘ഉറുപ്പികയും’. നാണയത്തിന്റെ
+ഉദ്ദേശ്യവും അതിന്റെ ഉത്ഭവവും അനന്തരഗതികളുമാണു് നാണയ പ്രശ്നത്തിലെ ഉള്ളടക്കം. സമുദായത്തിൽ
+കൊള്ളക്കൊടുക്കകൾക്കു് ഒരു മദ്ധ്യവർത്തി ആവശ്യമായിത്തീർന്നപ്പോൾ സൃഷ്ടിച്ച ഘടകമാണു് പണം.
+ആദിമകാലങ്ങളിൽ ഇതു് ഏതെല്ലാം രൂപങ്ങൾ കൈക്കൊണ്ടുവെന്നു ശ്രീ. ദാമോദരൻ വിവരിക്കുന്നു. പിന്നീടു്
+സമുദായത്തിന്റെ സാമ്പത്തികഘടന കൂടുതൽ കൃത്രിമമായിത്തീർന്നതോടുകൂടി ഉത്ഭവിച്ച നാണയ പ്രശ്നങ്ങളെ
+പരാമർശിക്കുന്നു. നാണയമടിക്കുന്ന ലോഹവും ഒരു വില്പനച്ചരക്കാണു്. അതുകൊണ്ടു് ലോഹവിലയനുസരിച്ചു
+നാണയത്തിന്റെ വിലയും മാറിക്കൊണ്ടിരുന്നു. വിലയെസ്സംബന്ധിച്ചു് ഒരു സ്ഥിരതവേണമെന്നു് ആഗ്രഹിച്ച
+സമുദായം വലിയ ഇളക്കം തട്ടാത്ത ഒരു നാണയത്തിനുവേണ്ടി പരിശ്രമിച്ചു. ഈ ലക്ഷ്യം ഒരു സോഷ്യലിസ്റ്റ്
+സാമ്പത്തികരീതിയിൽ മാത്രമേ സാദ്ധ്യമാവുകയുള്ളൂ. എങ്കിലും, കഴിയുന്നത്ര സ്ഥിരമായ ഒരു
+നാണയവ്യവസ്ഥയ്ക്കുവേണ്ടിയുള്ള പരിശ്രമത്തിന്റെ കഥ ശ്രീ. ദാമോദരൻ സംഗ്രഹിച്ചിട്ടുണ്ടു്. പണവും
+സമുദായത്തിന്റെ സാമ്പത്തികസ്ഥിതിയും തമ്മിൽ അഭേദ്യമായ ഒരു ബന്ധമുണ്ടു്. ചരക്കുകളുടെ വിലമാറ്റം,
+നോട്ടിന്റെ വർദ്ധനവു്, വിദേശവ്യാപാരവും പണവുമായിട്ടുള്ള ബന്ധം മുതലായവയെല്ലാം വിശദമായി ഈ
+പുസ്തകത്തിൽ പ്രതിപാദിക്കപ്പെട്ടിട്ടുണ്ടു്. പണത്തിന്റെ വിലയിൽനിന്നു ജനങ്ങളുടെ ജീവിതത്തോടു്
+മനസ്സിലാക്കുവാൻ കണ്ടുപിടിച്ചിരിക്കുന്ന സൂചകസംഖ്യയെപ്പറ്റിയും ശ്രീ. ദാമോദരൻ എടുത്തുപറഞ്ഞിരിക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Adam_Smith.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആഡം സ്മിത്ത്</figDesc>
+          </figure>
+          <p> ഇതിന്റെ വെളിച്ചത്തിൽ നമ്മുടെ പ്രധാനനാണയമായ രൂപയുടെ കഥ വിശദമായി പറയുന്ന ഗ്രന്ഥമാണു്
+‘ഉറുപ്പിക.’ ഇന്ത്യയിലെ പ്രാചീന നാണയങ്ങൾ, 1742, 1818, 1823, 1835 ഈ വർഷങ്ങളിൽ ബ്രിട്ടീഷുകാർ ഇന്ത്യയിൽ
+നടപ്പിൽ വരുത്തിയ നാണയക്രമങ്ങൾ മുതലായവയെല്ലാം ഈ പുസ്തകത്തിൽ വിവരിച്ചിട്ടുണ്ടു്. അന്നുമുതൽ
+ഇന്നുവരെയുള്ള ഉറുപ്പികയുടെ ചരിത്രം ശാസ്ത്രത്തെ തോല്പിക്കാനുള്ള പരിശ്രമങ്ങളുടെ കഥയാണു്.
+നാണയവ്യവസ്ഥയിൽ നിന്നുതന്നെ ഇന്ത്യയിൽ നിന്നു് ഒരു ഭീമമായ സംഖ്യചൂഷണം ചെയ്യുക എന്നതായിരുന്നു
+
+ബ്രിട്ടന്റെ പരിപാടി. പക്ഷേ, ധനശാസ്ത്രതത്ത്വങ്ങൾ ഇതിനെ എതിർത്തു. അഥവാ സമുദായത്തിന്റെ യഥാർത്ഥ
+സാമ്പത്തികജീവിതത്തിന്റെ മുമ്പിൽ ഈ പരിശ്രമങ്ങൾ ഗോഷ്ഠികളായി പരിണമിച്ചു. വെള്ളിമാനം,
+ദ്വിലോഹനാണ്യവ്യവസ്ഥ, സ്വർണ്ണവിനിമയമാനം മുതലായ ഒട്ടനവധി പരീക്ഷണങ്ങൾ ഇന്ത്യൻ
+നാണയവ്യവസ്ഥയിൽ ബ്രിട്ടൻ നടത്തിയിട്ടുണ്ടു്. ഇതോരോന്നും ശാസ്ത്രത്തിനെതിരായിരുന്നു. ഇവയിലെല്ലാം
+തന്നെ നഗ്നമായ ചൂഷണം വ്യക്തമായി കാണാമായിരുന്നു. ചരക്കുകളുടെ വിലയിടിവും, വിലക്കയറ്റവും
+ഒരുപോലെ ഇന്ത്യയ്ക്കു ഹാനികരമാകത്തക്ക ഒരു നാണ്യനയമാണു് സാമ്രാജ്യത്വം സ്വീകരിച്ചിരുന്നതു്.
+ഇതിനെയെല്ലാം ഇന്ത്യാക്കാർ എതിർത്തു. അത്തരം സന്ദർഭങ്ങളിലെല്ലാം ഓരോ അന്വേഷകസമിതിയെ
+നിയമിച്ചു് ബ്രിട്ടൻ സംതൃപ്തിയടഞ്ഞു. ഈ കമ്മറ്റികൾതന്നെ വിദേശ്യമായിരുന്നെങ്കിലും അവയുടെ
+നിർദ്ദേശങ്ങൾപോലും ഗവണ്മെന്റു കൂട്ടാക്കിയില്ല. 1866-ലെ മാൻസ്ഫീൽഡ് കമ്മീഷൻ സ്വർണ്ണമാനത്തെ
+ശുപാർശ ചെയ്തെങ്കിലും ഗവണ്മെന്റ് അതു സ്വീകരിച്ചില്ല. 1892-ൽ നിയമിച്ച ഹെർഷൽ കമ്മറ്റിയിലെ ഏക ഇന്ത്യൻ
+അംഗമായ ദാദാബായി നവറോജി ഗവണ്മെന്റിന്റെ നയത്തെ എതിർത്തു. 1898-ൽ നിയമിതമായ <ref target="https://en.wikipedia.org/wiki/Fowler_Commission">ഫൌളർ
+കമ്മറ്റിയുടെ</ref> ശുപാർശകളെപ്പോലും ഗവണ്മെന്റ് അവഗണിച്ചു. ഇതെല്ലാം ഇന്ത്യയുടെ
+സാമ്പത്തികനിലയെ സാരമായി ബാധിച്ചു. പക്ഷേ, ഗവണ്മെന്റ് അവരുടെ ചൂഷണം തുടർന്നു കൊണ്ടിരുന്നു.
+ഒന്നാം ലോകമഹായുദ്ധത്തോടുകൂടി സ്ഥിതിഗതികൾ കൂടുതൽ വഷളായി. ബേബിംഗ്ട്ടൻ സ്മിത്തു് കമ്മറ്റി, <ref target="https://en.wikipedia.org/wiki/Hilton_Young_Commission">ഹിൽട്ടൻയങ്
+കമ്മീഷൻ</ref> എന്ന രണ്ടു സമിതികൾ നിയമിക്കപ്പെട്ടെങ്കിലും ഇന്ത്യയ്ക്കു പ്രതികൂലമായ
+വിനിമയനിരക്കുകളോ നാണയവ്യവസ്ഥയോ മാറ്റപ്പെട്ടില്ല. ഈ നയത്തിനു മകുടം ചാർത്തിയതു <ref target="https://en.wikipedia.org/wiki/Reserve_Bank_of_India">റിസർവ്
+ബാങ്കാണു്</ref>. ഈ ബാങ്ക് ഇന്ത്യയുടെ കേന്ദ്രബാങ്കാണെങ്കിലും അതിന്റെ മൂലധനത്തിൽ അധികപങ്കും
+ഇംഗ്ലണ്ടിലാണു്. അതിന്റെ ഘടനയും നയവും സാമ്രാജ്യത്വത്തിനു് അനുകൂലവുമാണു്. അതുകൊണ്ടാണു്
+രണ്ടാംലോകമഹായുദ്ധത്തിൽ ഇംഗ്ലണ്ടിൽ കണക്കെഴുതി, ഇന്ത്യയ്ക്കു പണമൊന്നും കൊടുക്കാതെ ഇന്ത്യയിൽനിന്നു്
+ഒട്ടേറെ ചരക്കുകൾ ഇംഗ്ലണ്ടിൽ വാങ്ങാൻ കഴിഞ്ഞതു്. ഈ കണക്കാണു് ഇന്നു സ്റ്റെർലിംഗ് മിച്ചം എന്നു
+പറയുന്നതു്. ആ തുക മടക്കിത്തരാൻ ഇംഗ്ലണ്ടിനു ഭാവമില്ല. ഇത്രയും കൊണ്ടു്, സാമ്രാജ്യത്വം ഇന്ത്യയിൽ ആരംഭിച്ചു
+നടത്തിപ്പോന്ന നാണ്യനയം ഇന്ത്യയ്ക്കു് എത്രമാത്രം ഹാനികരമാണെന്നു തെളിയുന്നുണ്ടല്ലോ. ഇതെല്ലാം സവിസ്തരം
+വിവരിക്കുകയും വ്യക്തമായി വിശദീകരിക്കുകയുമാണു് ശ്രീ. ദാമോദരൻ ‘ഉറുപ്പിക’യിൽ ചെയ്തിരിക്കുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Wealth_of_Nations.jpg" rendition="gra"/>
+          </figure>
+          <p> ഈ രണ്ടു പുസ്തകങ്ങൾക്കും ഒരു പ്രത്യേകതയുണ്ടു്. മുതലാളിത്ത ധനശാസ്ത്രം ഇന്നു പരമാബദ്ധങ്ങൾ
+പ്രചരിപ്പിക്കുകയാണെന്നു പറഞ്ഞല്ലോ. ഈ വൈരുദ്ധ്യം ഗവണ്മെന്റിന്റെ നയത്തിൽ ഉടനീളം കാണുന്നുമുണ്ടു്.
+അതു ശ്രീ. ദാമോദരൻ ചുണ്ടിക്കാണിച്ചിട്ടുമുണ്ടു്. അത്തരമൊരു ഗ്രന്ഥം പാഠ്യപുസ്തകമായിത്തീരുക സാദ്ധ്യമല്ല.
+എങ്കിലും, ഈ പുസ്തകങ്ങളുടെ കഥ വേറെയാണു്. ഗവണ്മെന്റിന്റെ നാണ്യനയം ഇന്ത്യൻ മുതലാളിവർഗ്ഗത്തിനും
+ഹാനികരമായിരുന്നു. അവരോടു് ഒട്ടിച്ചേർന്നു നിന്നിരുന്ന ഇന്ത്യൻ ധനശാസ്ത്രജ്ഞന്മാരും ഈ വിഷയത്തെ
+സംബന്ധിച്ചിടത്തോളം സത്യാവസ്ഥകൾ മറച്ചുവെച്ചിട്ടില്ല. അതുകൊണ്ടു ശ്രീ. ദാമോദരന്റെ ഈ പുസ്തകങ്ങളും
+‘അംഗീകൃത’ ധനശാസ്ത്രഗ്രന്ഥങ്ങളും തമ്മിൽ വലിയ ഭിന്നതയില്ല. വളരെ ദുർഘടമായ ഒരു വിഷയമാണിതു്,
+സാധാരണ ധനശാസ്ത്രവിദ്യാർത്ഥികൾ പണത്തെ പരാമർശിച്ചുള്ള ചോദ്യങ്ങൾ വിട്ടുകളയുകയാണു് പതിവു്.
+അതുപോലുള്ള ഒരു വിഷയത്തെപ്പറ്റി മലയാളത്തിൽ ഇത്ര വിശദമായി രണ്ടു ഗ്രന്ഥങ്ങൾ ചമയ്ക്കുക എന്നതു്
+അനിതരസാധാരണമായ ഒരു വിജയമാണു്. ഇന്ത്യയ്ക്കു സ്വാതന്ത്യം കിട്ടിക്കഴിഞ്ഞ ഇക്കാലത്തെങ്കിലും ലണ്ടൻ
+സ്കൂളിന്റെ തലതിരിഞ്ഞ ധനശാസ്ത്രം പഠിപ്പിക്കുന്നതിനു പകരം ശ്രീ. ദാമോദരന്റെ ഗ്രന്ഥങ്ങൾ
+സർവ്വകലാശാലകൾ ഉപയോഗിക്കേണ്ടതാണു്. ധനശാസ്ത്രം ഇംഗ്ലീഷിലേ പഠിപ്പിക്കൂ എന്നു വല്ല
+ശാഠ്യവുമുണ്ടെങ്കിൽ ഈ പുസ്തകങ്ങൾ ഇംഗ്ലീഷിലേയ്ക്കു പരിഭാഷപ്പെടുത്തിയാൽ മതി. ഇന്ത്യൻ നാണയ
+പ്രശ്നത്തെപ്പറ്റി ഇത്രനല്ല കൃതികൾ ഇംഗ്ലീഷിലും ഉള്ളതായി ഈ വിമർശകനു് അറിവില്ല. ഇന്നു് എത്ര തലകാഞ്ഞു
+പഠിച്ചിട്ടും നാണയവ്യവസ്ഥയെന്ന ഭാഗം വിദ്യാർത്ഥികൾക്കു മനസ്സിലാകുന്നില്ല. ഒരു ശാസ്ത്രം മനഃപൂർവ്വം
+കുഴച്ചുമറിച്ചിട്ടിട്ടു പഠിച്ചാൽ വ്യക്തമാകുവാൻ മാർഗ്ഗമില്ലല്ലോ. എല്ലാം മലയാളത്തിലേ പഠിപ്പിക്കൂ എന്നു നിർബ്ബന്ധം
+തുടങ്ങിയിരിക്കുന്ന തിരുവിതാംകൂർ സർവ്വകലാശാലയ്ക്കെങ്കിലും ശ്രീ. ദാമോദരന്റെ ഗ്രന്ഥങ്ങൾ
+പാഠ്യപുസ്തകങ്ങളായി നിശ്ചയിക്കാം. ശാസ്ത്രവിജ്ഞാനത്തെയെങ്കിലും വ്യഭിചരിക്കാതിരിക്കുവാനുള്ള അവസരം
+അദ്ധ്യാപകാദ്ധ്യേതാക്കൾക്കില്ലെങ്കിൽ സ്വാതന്ത്ര്യവും, ഉത്തരവാദഭരണവുമെല്ലാം കിലുക്കാംപെട്ടികൾ
+മാത്രമായിരിക്കും.
+</p>
+          <p>
+വിലയിരുത്തൽ 1951.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Dhanasasthram Pinneyum (ml:
+ധനശാസ്ത്രം പിന്നെയും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-05-05. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas,
+Dhanasasthram Pinneyum, സി. ജെ. തോമസ്, ധനശാസ്ത്രം പിന്നെയും, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 12, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Marinus_van_Reymerswaele_(Follower_of)__The_Money_Changers_-_Google_Art_Project.jpg">Los cambistas,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/Marinus_van_Reymerswaele">Marinus van
+Reymerswaele</ref>  (1490–1546). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-dhanasasthram.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-dhanasasthram.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

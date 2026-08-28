@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ജനനനിയന്ത്രണം</title>
+          <title xml:lang="en" type="main">Janananiyanthranam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 8, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ജനനനിയന്ത്രണം</title>
+              <title xml:lang="en" type="main">Janananiyanthranam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Janananiyanthranam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ജനനനിയന്ത്രണം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 8, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Gade_i_Torello.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Gade_i_Torello_%281890_painting%29.jpg">Street
+in Torello,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Peder_Severin_Kr%C3%B8yer">Peder
+Severin Krøyer</ref>  (1851–1909). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ജനനനിയന്ത്രണം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ജനനനിയന്ത്രണം</head>
+        <div type="lsection">
+          <p style="noindent">ഒരു നവീനഭാരതം കെട്ടിപ്പടുക്കുന്നതിൽ നമ്മുടെ ശ്രദ്ധ ചെലുത്തേണ്ട പല
+കാര്യങ്ങളുണ്ടെങ്കിലും അവയിൽ ഏറ്റവും അടിയന്തിരപ്രാധാന്യം അർഹിക്കുന്ന ഒന്നാണു് കുടുംബസംവിധാനം.
+ജീവിക്കാനുള്ള കഴിവിനനുസരിച്ചു് കുടുംബത്തിലെ സന്താനങ്ങളുടെ സംഖ്യ പരിമിതമാക്കുകയെന്നതാണല്ലോ
+ഇതിലെ മുഖ്യസംഗതി. ഇവിടെ കഴിവു് എന്ന ചെറിയവാക്കിൽ പല വലിയ കാര്യങ്ങളും ഉൾപ്പെടുന്നുണ്ടു്.
+സാമ്പത്തികസ്ഥിതി, ആരോഗ്യനില, വിദ്യാഭ്യാസസാധ്യത, ചികിത്സാസൗകര്യം എന്നിവയെല്ലാം
+കഴിവാലോചിക്കുമ്പോൾ ഓർമിക്കേണ്ടതാണു്. സന്താനസംരക്ഷണത്തിനു് അത്യന്താപേക്ഷിതമായ ഈവക
+കഴിവുകളൊന്നുമില്ലാത്ത പരിതഃസ്ഥിതിയിൽ ഒരു കുട്ടിയെ ജനിപ്പിക്കുക എന്നതു് ആ കുട്ടിയോടുചെയ്യുന്ന ഏറ്റവും
+കടുത്ത തെറ്റാകുന്നു. പോരാ, അതു് ശിക്ഷാർഹമായ കുറ്റമാണെന്നും പറയണം. ആഹാരത്തിനു് വകയുണ്ടെങ്കിൽ
+സന്തത്യുല്പാദനം അനിയന്ത്രിതമായാലും കുഴപ്പമില്ലെന്നു് ചിലർ വിചാരിക്കുന്നുണ്ടു്. അതും തെറ്റാണു്.
+ആടുമാടുകളെപ്പോലെ തീറ്റിപ്പോറ്റാൻമാത്രം വേണ്ടിയുള്ളവരല്ല കുട്ടികൾ. രാജ്യത്തിലെ ഉത്തമപൗരന്മാരായി
+വളരാനുള്ള സകലസൗകര്യങ്ങളും അവർക്കു് ലഭിക്കണം. ഇവയിലേതിന്റെയെങ്കിലും കുറവുള്ളപ്പോഴും ഒരു കുട്ടി
+ജനിക്കുന്നതു് കഷ്ടമാണു്. മാതാപിതാക്കളാകുന്നതിനു് മുമ്പുതന്നെ ഇത്തരം കാര്യങ്ങൾ അവധാനപൂർവം
+ആലോചിച്ചു് ഭാവി സന്താനസംഖ്യ മനസ്സിൽ കുറിക്കേണ്ടതു് നവദമ്പതിമാരുടെ ഒന്നാമത്തെ കടമയാകുന്നു. അതു്
+ചെയ്യാതെ ഉത്തരവാദിത്തം മുഴുവൻ ദൈവത്തിന്റെയോ മറ്റെന്തിന്റെയോ പേരിലാക്കിക്കൊണ്ടു് കണ്ടമാനം
+കുട്ടികളെ ജനിപ്പിച്ചാൽ ഇന്നത്തെ ലോകം അതൊരു ദുഷ്കർമ്മമായിട്ടേ കണക്കാക്കൂ. ഉച്ഛൃംഖലമായ ഇത്തരം
+സന്തത്യുല്പാദനം, തൽകർത്താക്കൾ കുടുംബത്തോടും കുട്ടികളോടും സർവ്വോപരി രാജ്യത്തോടും ചെയ്യുന്ന
+മഹാപരാധമായി ഗണിക്കപ്പെടുന്ന കാലം വന്നുചേർന്നിരിക്കയാണു്. ഒരു കുട്ടിയെ ജനിപ്പിക്കുക എന്നതു്
+ഒന്നിനോടും ബന്ധപ്പെടാത്ത ഒരു സ്വേച്ഛാപ്രവൃത്തിയല്ല. കുടുംബത്തിനോടുള്ളതിനു പുറമേ, ആ പ്രവൃത്തിക്കു്
+സമൂഹത്തോടും രാജ്യത്തോടും ഉത്തരവാദിത്തമുണ്ടു്. അതു് ഒരിക്കലും സാമൂഹ്യക്ഷേമത്തെ ബാധിക്കുന്ന
+നിലയിലാകരുതു്. ‘ജനകത്വം ബോധപൂർവ്വവും മനഃപൂർവ്വവുമായ പ്രവൃത്തിയായിരിക്കണം’ (Parenthood should
+be a conscious and deliberate act) എന്നൊരു ശാസ്ത്രജ്ഞൻ പറഞ്ഞിട്ടുള്ളതു് എത്രയും ശരിയാണു്. ഈ
+തത്ത്വമനുസരിച്ചു് വസ്തുനിഷ്ഠവും ശാസ്ത്രീയവുമായ സമീപനമായിരിക്കണം. ഇന്നു് നാം പ്രസ്തുത വിഷയത്തിൽ
+കൈകൊള്ളേണ്ടതു്.
+</p>
+          <p>എന്നാൽ, ഇക്കാര്യത്തിൽ ഇന്ത്യക്കാരുടെ സമാന്യനിലയെന്താണു്? അന്ധരെ അന്ധർ നയിക്കുന്ന
+സ്വഭാവമായിരുന്നു അടുത്തകാലംവരെ കണ്ടിരുന്നതു്. ഇന്നും അതു് വിട്ടുമാറിയിട്ടില്ല. നേരത്തെ വിവാഹം
+കഴിക്കയും നേരത്തെ മരിക്കുകയുമെന്നതാണു് ഒരു ഇന്ത്യാക്കാരന്റെ മുദ്രാവാക്യമെന്നു് (Early to marry and
+early to die is the motto of an Indian) ഏതോ സായ്പ് പറയുകയുണ്ടായി. ഇപ്പോഴും ഈ നിലയ്ക്കു് വലിയ
+കുറവൊന്നും ഉണ്ടായിട്ടില്ല. പത്നിയെ ഒരു പ്രസവയന്ത്രം മാത്രമാക്കിത്തീർക്കുന്ന കഠോരപതികളെ ധാരാളം
+കാണാം. പട്ടിണിയുടെയും രോഗത്തിന്റെയും നടുക്കു് തുരുതുരെ പെറ്റുകൂട്ടുന്ന പതിവു് ഇന്നുമുണ്ടല്ലോ,
+പാവങ്ങളുടെയിടയിൽ. ജനസംഖ്യയിൽ അധികവും അവരാണുതാനും. യാതൊരു ബോധവുമില്ല
+അവർക്കിതിനെപ്പറ്റി. എല്ലാം ദൈവം തരുന്നതാണു്. വായ കീറിയിട്ടുണ്ടെങ്കിൽ ഇരയും കല്പിച്ചിട്ടുണ്ടാകും എന്ന
+മുത്തശ്ശിപ്രമാണമേ അവർക്കുള്ളു. ഈവക അന്ധവിശ്വാസച്ചവറുകൾ ചുട്ടെരിച്ചു് അവരുടെ അന്തർമണ്ഡലത്തിൽ
+വെളിച്ചം കടത്തുകയാണു് കുടുംബസംവിധാനപ്രവർത്തകർ ആദ്യമായി വേണ്ടതു്. ഏതദ്വിഷയകമായി
+ആശയപരമായ ഒരു പരിവർത്തനമുണ്ടാകണം എന്നാലേ അനന്തരകാര്യങ്ങൾ സുകരമാകൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Julian_Huxley.jpg" rendition="gra"/>
+            <figDesc style="thumb">സർ ജൂലിയൻ ഹൿസ്ലി</figDesc>
+          </figure>
+          <p> ഇന്നാട്ടിലെ ജനപ്പെരുപ്പം കാണിക്കാൻ സംഖ്യകളുദ്ധരിച്ചു് ക്ലേശിക്കേണ്ടതില്ല. അതെല്ലാവർക്കും
+അറിയാവുന്ന വസ്തുതയാണു്. പോരെങ്കിൽ നാലുമണിക്കു് പള്ളിക്കൂടം വിടുമ്പോൾ ചെന്നൊന്നു് നോക്കിയാൽ മതി.
+കേരളം മനുഷ്യമഹാസമുദ്രത്തിൽ മുങ്ങിച്ചാകാൻ പോകയാണെന്നു് അപ്പോൾ മനസ്സിലാകും.
+ഇന്ത്യയിലെങ്ങുമില്ലാത്ത ജനസാന്ദ്രതയും ജീവിതവൈഷമ്യങ്ങളുമാണു് ഇവിടെയുള്ളതു്. മുമ്പു്
+ജനനനിരക്കനുസരിച്ചു് മരണനിരക്കും ഏതാണ്ടൊപ്പം നിന്നിരുന്നു. ഇപ്പോഴാകട്ടെ, മനുഷ്യന്റെ ശാസ്ത്രജ്ഞാനം
+പ്രകൃതിയുടെ സംഹാരകൃത്യത്തെ പലവിധത്തിലും തടയുന്നതിന്റെ ഫലമായി ഈ സമീകൃതനിലയ്ക്കു് വലിയ
+
+വ്യത്യാസം വന്നിട്ടുണ്ടു്. വൈദ്യശാസ്ത്രം പുരോഗമിച്ചതോടെ മരണനിരക്കു് കുറഞ്ഞു. കഴിഞ്ഞ നൂറുകൊല്ലംകൊണ്ടു്
+ലോകത്തിലെ ജനസംഖ്യ ഇരട്ടിയായിരിക്കുന്നു. ഐക്യരാഷ്ട്രസംഘടനയുടെ കണക്കുപ്രകാരം ലോകത്തിൽ
+ദിനംപ്രതി ഒരുലക്ഷത്തിഇരുപതിനായിരം ജനനം നടക്കുന്നുണ്ടത്രേ. ഇതിലധികവും ഏഷ്യാഭൂഖണ്ഡത്തിലാണു്.
+1980 ആകുമ്പോഴേയ്ക്കും ഇന്ത്യയിലെയും ചൈനയിലെയും ആകെ ജനസംഖ്യ ഇന്നു് ലോകം മുഴുവനുമുള്ള
+ജനങ്ങളുടെ മൊത്തം സംഖ്യയോളം വരുമെന്നു് കണക്കാക്കപ്പെട്ടിരിക്കുന്നു. രണ്ടു് കൊല്ലംമുമ്പു് ഇന്ത്യയിൽ
+പര്യടനം നടത്തിയ സുപ്രസിദ്ധ ശാസ്ത്രജ്ഞനായ <ref target="https://en.wikipedia.org/wiki/Julian_Huxley">സർ ജൂലിയൻ
+ഹൿസ്ലി</ref> ഇവിടത്തെ ജനപ്പെരുപ്പം ഭയാനകമായിട്ടുണ്ടെന്നു് ചൂണ്ടിക്കാണിക്കുകയുണ്ടായി. ഇന്ത്യയിലെ
+ഇപ്പോഴത്തെ ജനനനിരക്കു് തൂടർന്നുപോകുകയാണെങ്കിൽ ഈ നൂറ്റാണ്ടു് കഴിയുന്നതിനുമുമ്പുതന്നെ, നാം
+സാമ്പത്തികമായി വരുമാനമില്ലാത്ത ഒരു സ്തംഭനാവസ്ഥയിലെത്തുമെന്നും തൽഫലമായി ഇന്ത്യ
+ഒരവികസിതരാജ്യമായിത്തന്നെ ഇരിക്കുമെന്നും മാത്രമല്ല സാമ്പത്തികരംഗത്തിൽ നാം കൂടുതൽ കൂടുതൽ
+അധഃപതിക്കുമെന്നും അതുകൊണ്ടു് ഒട്ടും വൈകാതെ ജനനനിരക്കു് അമ്പതുശതമാനമെങ്കിലും കുറവുചെയ്യുന്നതു്
+അത്യാവശ്യമാണെന്നും അദ്ദേഹം പറഞ്ഞിരിക്കുന്നു. ‘the position is extremely urgent’ എന്നാണു് അദ്ദേഹം
+താക്കീതു് ചെയ്യുന്നതു്. കണക്കുകൂട്ടാതെയും പഠിക്കാതെയും അഭിപ്രായം പറയുന്ന ആളല്ല ജൂലിയൻ ഹൿസ്ലി.
+ഇന്ത്യാക്കാർ എപ്പോഴും ഓർമ്മിക്കേണ്ട അർത്ഥഗർഭമായ ഒരു പ്രവചനമാണിതു്. അത്യന്തം ആപൽക്കരമായ
+ഈ ദുർഘടസന്ധിയെ എങ്ങനെ നേരിടാം? അതിനു് ഇതരമാർഗങ്ങളുണ്ടെന്നു് ചിലർ പറയാറുണ്ടു്. ശാസ്ത്രീയമായ
+കൃഷിസമ്പ്രദായം നടപ്പാക്കിയും തരിശുഭൂമികൾ കൃഷിസ്ഥലമാക്കിത്തീർത്തും വിളവു് വർദ്ധിപ്പിച്ചു് ഭക്ഷ്യക്ഷാമം
+പരിഹരിക്കാമെന്നു് പലരും വിചാരിക്കുന്നു. എന്നാൽ, വിളവർദ്ധനയ്ക്കും ഭൂവിസ്തൃതിക്കും ഒരു പരമാവധിയുണ്ടെന്ന
+കാര്യം ഇവർ ഓർമ്മിക്കുന്നില്ല. കൃത്രിമവളപ്രയോഗം, ജലസേചനപരിപാടി മുതലായവകൊണ്ടു്
+ഊഷരഭൂമികൾപോലും ഉർവരപ്രദേശങ്ങളാക്കാമായിരിക്കാം. പക്ഷേ, എത്രനല്ല കാർഷികനിലത്തിന്റെയും
+ഉൽപാദനക്ഷമതയ്ക്കു് ഒരതിരുണ്ടു്. അതു് പരകോടിയിലെത്തിയാൽ പിന്നെ അതിന്റെ ഗതി കീഴോട്ടാകുമെന്നുള്ളതു്
+അനുഭവംകൊണ്ടു് തെളിഞ്ഞിട്ടുള്ള സത്യമാണു്. ഇതിനു് വരുമാനക്ഷയന്യായം (Law of diminishing returns)
+എന്നാണു് സാമ്പത്തികശാസ്ത്രകാരന്മാർ പറയുന്നതു്. ഇതു് തെറ്റാണെന്നു് ഒരു കർഷകനും അനുഭവപ്പെട്ടിട്ടില്ല.
+അനിയന്ത്രിതാവസ്ഥയിൽ ജനസംഖ്യ ഭക്ഷ്യ വർദ്ധനവിനെക്കാൾ എത്രയോ വേഗത്തിൽ
+പെരുകിക്കൊണ്ടിരിക്കുമെന്നു് പഴയ ‘മാൽത്ത്യുസിയൻ’ സിദ്ധാന്തം ഇടക്കാലത്തു്
+വാദവിഷയമായിത്തീർന്നെങ്കിലും സാരാംശത്തിൽ ഈ ശാസ്ത്രയുഗത്തിലും ശരിയാണു്. ഇന്ത്യയിൽ ഇപ്പോഴത്തെ
+നിരക്കിൽ ജനസംഖ്യ വർദ്ധിക്കുകയാണെങ്കിൽ പഞ്ചവത്സരപദ്ധതികൾ എത്രയുണ്ടായാലും ഇവിടത്തെ
+പട്ടിണിയും തൊഴിലില്ലായ്മയും പരിഹരിക്കപ്പെടുകയില്ല. ഇതിനൊരൊറ്റ നിവാരണമാർഗമേ ഉള്ളു—അതായതു്
+ബോധപൂർവമായ ജനന നിയന്ത്രണം. ഇതു് മനസ്സിലാക്കിയതുകൊണ്ടാണു് ഇന്ത്യാഗവണ്മെന്റ് ഇപ്പോൾ ഇതിൽ
+സത്വര ശ്രദ്ധ പതിച്ചിരിക്കുന്നതു്.
+</p>
+          <p>ജനനനിയന്ത്രണാധിഷ്ഠിതമായ കുടുംബസംവിധാനത്തിൽ ഇന്നു് ആർക്കും വിപ്രതിപത്തിയുണ്ടെന്നു്
+തോന്നുന്നില്ല. പക്ഷേ, അതിനുള്ള പദ്ധതികളെപ്പറ്റി വാദപ്രതിവാദങ്ങൾ നടക്കാറുണ്ടു്. ഗർഭനിരോധനത്തിനു്
+കൃത്രിമോപകരണങ്ങൾ ഉപയോഗിക്കുന്നതിനെ മതത്തിന്റെ പേരിൽ ഒരു വിഭാഗക്കാർ എതിർക്കുന്നു.
+ഇക്കൂട്ടരുടെ വാദഗതി നോക്കിയാൽ ഇവർ ജാംബവാന്റെ കാലത്താണോ ജീവിക്കുന്നതെന്നു് തോന്നിപ്പോകും.
+രണ്ടു് മൂവായിരം കൊല്ലങ്ങൾക്കുമുമ്പുണ്ടായ ഏതെങ്കിലും ഗ്രന്ഥത്തിൽ കാണുന്നതൊക്കെ ഈ അണുയുഗത്തിലും
+ജീവിതപ്രമാണമാക്കണമെന്നു് ശഠിക്കുന്നവർ സുബോധമുള്ളവരാകാൻ വഴിയില്ല. ബ്രഹ്മചര്യാനുഷ്ഠാനംകൊണ്ടു്
+വേണം ജനനനിയന്ത്രണം നിർവഹിക്കുകയെന്നു് വാദിക്കുന്ന ചില സ്വപ്നദർശികളുണ്ടു്. അവർ മനുഷ്യ
+ലോകത്തിലെ യാഥാർത്ഥ്യങ്ങളെ കണക്കിലെടുക്കാതെ ആദർശധൂമികയിൽ തപ്പിനടക്കുന്നവരത്രേ. ആഹാരം
+കഴിക്കാം, നീഹാരം പാടില്ല എന്നു് പറയുന്നതിനു് തുല്യമാണിവരുടെ വാദം. പ്രായോഗികജീവിതവുമായി
+പൊരുത്തപ്പെടാത്ത ഇത്തരം കീറാമുട്ടികളെടുത്തിട്ടു് ജനനനിയന്ത്രണത്തിൽ ഗവണ്മെന്റിനും മറ്റുള്ളവർക്കും
+മാർഗവിഘ്നം വരുത്തുന്നതു് ഏറ്റവും ഗർഹണീയമായ ഒരു സാമൂഹ്യവിരുദ്ധപ്രവൃത്തിയാണെന്നു്
+പറയേണ്ടിയിരിക്കുന്നു. തീരെ നിർദോഷമെന്നു് പറയപ്പെടുന്ന ഒരു ഋതുക്രമപദ്ധതിയുണ്ടു് (Rhythm Method).
+അതു് ഈ പഴമക്കാർപോലും ഇപ്പോൾ അംഗീകരിക്കുന്നുണ്ടെന്നു് തോന്നുന്നു. എന്നാൽ, പ്രായോഗികതലത്തിൽ
+പലപ്പോഴും പരാജയപ്പെടുന്നതുകൊണ്ടു് അതും അവലംബനീയമെന്നു് പറഞ്ഞുകൂടാ. ഏതായാലും
+കൃത്രിമപദ്ധതികൾക്കു് അശുദ്ധി കല്പിക്കുന്നതു് മുഴുത്ത മൂഢതയാകുന്നു.
+</p>
+          <p>ഈ പ്രശ്നം പരിഹരിക്കാൻ ജപ്പാൻകാരെയാണു് നാം കണ്ടുപഠിക്കേണ്ടതു്. അവർ ഇതിൽ നേടിയിട്ടുള്ള
+വിജയം അത്ഭുതാവഹമാണു്. ജപ്പാനിൽ കഴിഞ്ഞ പത്തു് കൊല്ലംകൊണ്ടു് ജനനനിരക്കു് നേർപകുതിയായി
+കുറഞ്ഞിട്ടുണ്ടു്. 1870-ൽ മൂന്നുകോടിയായിരുന്ന അവിടത്തെ ജനസംഖ്യ 1957-ൽ ഒമ്പതരക്കോടിയായി പെരുകിയതു്
+കണ്ടു് സംഭ്രാന്തരായ ജപ്പാൻകാർ ജനനനിയന്ത്രണത്തിനുള്ള സകലമാർഗങ്ങളും തുറന്നുകൊടുത്തു. ഗ്രാമങ്ങളിലും
+നഗരങ്ങളിലും കുടുംബസംവിധാനസൗകര്യങ്ങൾ ഗവണ്മെന്റ് ഏർപ്പാടുചെയ്തു. കൃത്രിമോപകരണങ്ങൾ
+ഉപയോഗിക്കേണ്ട രീതി അവിടെ ഇപ്പോൾ എല്ലാ മെഡിക്കൽ സ്കൂളുകളിലും പഠിപ്പിക്കുന്നുണ്ടു്. അവ പ്രയാസം
+കൂടാതെ ലഭിക്കാനും സൗകര്യങ്ങൾ ഏർപ്പെടുത്തിയിരിക്കുന്നു. ഇങ്ങനെ പ്രശംസനീയവും കാലോചിതവുമായ
+പ്രായോഗികബുദ്ധി സർക്കാരും ജനങ്ങളും സഹകരിച്ചു് പ്രകടിപ്പിക്കുന്നതുമൂലം ആ രാജ്യത്തു്
+സാന്മാർഗികാധഃപതനമോ ദൈവകോപമോ ഒന്നും ഉണ്ടായിട്ടില്ല; നേരെമറിച്ചു് രാഷ്ട്രം സന്തുഷ്ടവും സംതൃപ്തവും
+
+ആരോഗ്യസമ്പന്നമാകുകയാണു്.
+</p>
+          <p>ഇന്ത്യാഗവണ്മെന്റ് ഇപ്പോഴെങ്കിലും തത്തുല്യമായ പ്രബുദ്ധതയോടും പ്രായോഗികബുദ്ധിയോടും കൂടി
+പ്രവർത്തിക്കാൻ മുന്നോട്ടുവന്നിരിക്കുന്നതു് ആശ്വാസകരംതന്നെ. പക്ഷേ, എല്ലാ ജനവിഭാഗങ്ങളും മറ്റു്
+പരിഗണനകളൊന്നും കൂടാതെ ഇക്കാര്യത്തിൽ ഗവണ്മെന്റുമായി സഹകരിച്ചെങ്കിൽ മാത്രമേ പ്രസ്തുത പ്രശ്നം
+തൃപ്തികരമായി പരിഹരിക്കപ്പെടുകയുള്ളു. കേരളത്തിൽ ഇതൊരു ജീവന്മരണപ്രശ്നംതന്നെയാണു്. അതുകൊണ്ടു്
+തത്സംബന്ധമായി ഗവണ്മെന്റ് ആവിഷ്കരിച്ചിട്ടുള്ള പ്രവർത്തനപദ്ധതികളെല്ലാം സർവപ്രകാരേണയും
+പ്രചരിപ്പിക്കുക എന്നതു് അതിവിശിഷ്ടമായ ഒരു സാമൂഹ്യസേവനമാകുന്നു.
+</p>
+          <p>
+(മാനസോല്ലാസം 1962)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Janananiyanthranam (ml:
+ജനനനിയന്ത്രണം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Janananiyanthranam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ജനനനിയന്ത്രണം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 8, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Gade_i_Torello_%281890_painting%29.jpg">Street
+in Torello,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Peder_Severin_Kr%C3%B8yer">Peder
+Severin Krøyer</ref>  (1851–1909). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-janana.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-janana.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

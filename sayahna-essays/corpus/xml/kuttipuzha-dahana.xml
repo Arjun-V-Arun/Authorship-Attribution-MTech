@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മാനസികമായ ദഹനക്കേടു്</title>
+          <title xml:lang="en" type="main">Manasikamaya Dahanakkedu</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">November 10, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മാനസികമായ ദഹനക്കേടു്</title>
+              <title xml:lang="en" type="main">Manasikamaya Dahanakkedu</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Manasikamaya Dahanakkedu</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മാനസികമായ ദഹനക്കേടു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 10, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_Girl_with_a_Candle.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_%2816431706%29_%28after%29_-_A_Girl_with_a_Candle_-_1298329__National_Trust.jpg">A Girl with a Candle,</ref> a painting by anonymous  .
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മാനസികമായ ദഹനക്കേടു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മാനസികമായ ദഹനക്കേടു്</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vallathol-Narayana-Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">വള്ളത്തോൾ</figDesc>
+          </figure>
+          <p style="noindent"> വളരെ വായിച്ചിട്ടുള്ള ഒരു പണ്ഡിതനെപ്പറ്റി <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോൾ</ref>
+ഒരിക്കൽ സംഭാഷണമദ്ധ്യേ പറയുകയുണ്ടായി, അയാൾ ഒട്ടേറെ വായിച്ചിട്ടുണ്ടു്. ഒന്നും ദഹിച്ചിട്ടില്ല എന്നു്.
+നമ്മളിൽ പലരെ സംബന്ധിച്ചും ഈ അഭിപ്രായം ശരിയാകാം. ഒരുതരം ദഹനക്കേടു് ബാധിച്ചിട്ടുള്ളവരാണു്
+നമ്മിലധികംപേരും; ശരീരത്തിനുമാത്രമല്ല, മനസ്സിനും. സംഖ്യയില്ലാതവണ്ണം പുസ്തകങ്ങൾ പുറത്തുവരുന്നകാലം.
+കൈയിൽ കിട്ടുന്നതെല്ലാം നാം വായിച്ചുതള്ളുന്നു. എന്തൊക്കെയോ മനസ്സിനകത്തു് കടന്നുവീണു്
+സ്ഥലംപിടിക്കുന്നു. അവയ്ക്കു് തമ്മിൽ വല്ല പൊരുത്തവുമുണ്ടോ, അവ നമ്മുടെ ബോധതലത്തിൽ
+ഇണങ്ങിച്ചേരുന്നുണ്ടോ എന്നൊന്നും നമ്മൾ നോക്കാറില്ല. സർവജ്ഞപീഠത്തിൽനിന്നായാലും വേണ്ടില്ല,
+മനസ്സിന്റെ പടിവാതിൽക്കൽ വന്നു് നിൽക്കുന്നതെന്തും ഒന്നു് പരിശോധിച്ചേ അകത്തേക്കു് കടത്തിവിടൂ എന്നൊരു
+തീവ്രനിഷ്ഠ പിപഠിഷുക്കൾ അനുഷ്ഠിക്കേണ്ടതാണു്. സ്വന്തം യുക്തിവിചാരത്തിൽ പാകപ്പെടുത്താതെ ഗ്രന്ഥങ്ങളിൽ
+കാണുന്നതെല്ലാം വലിച്ചുവാരി പച്ചയോടെ ഉള്ളിലേക്കു് തള്ളിവിടുന്നതു് ആപൽക്കരമാകുന്നു. ബുദ്ധിപരമായ ഈ
+അമിതബുഭുക്ഷ (Intellectual gluttony) ഗുണത്തെക്കാൾ അധികം ദോഷം ചെയ്യും. ‘കുറെ അധികം
+തെറ്റിദ്ധരിക്കുന്നതിനെക്കാൾ നല്ലതു് കുറച്ചെങ്കിലും ശരിയായി മനസ്സിലാക്കുന്നതാണു്’ (It is better
+understand little than to misunderstand a lot) എന്നു് അനട്ടോൾ ഫ്രാൻസ് പറഞ്ഞിട്ടുള്ളതു് ഈ
+മാനസികരോഗത്തിനൊരു പ്രതിവിധിയത്രെ. ‘എല്ലാ ജ്ഞാനവും അടങ്ങിയിരിക്കുന്നതു് വിലയിരുത്താനുള്ള
+പ്രാപ്തിയിലാണു്. നിങ്ങളുടെ തലയ്ക്കകത്തു് ഒരുപാടു് കാര്യങ്ങൾ കൂട്ടിയിട്ടിരിക്കുന്നു. അവ വിലയിരുത്തുവാൻ നിങ്ങൾ
+പഠിക്കണം, മറക്കാനുള്ള ശക്തി വളർത്തിക്കൊണ്ടുവരിക’ (All wisdom consists in the power of
+valuation. You have a mass of things put into your head and you must learn to valuate them.
+Cultivate the power of forgetting) എന്നും മറ്റും <ref target="https://ml.wikipedia.org/wiki/George_Bernard_Shaw">ബർനാഡ്ഷാ</ref>
+ഉപദേശിച്ചിട്ടുള്ളതും മാനസികമായ ദീപനശക്തിയില്ലാത്തവരെ ഉദ്ദേശിച്ചാകുന്നു. ഷായുടെ രസകരമായ
+നിരീക്ഷണത്തിൽ ഇന്നത്തെ പണ്ഡിതന്റെ മനസ്സു് എങ്ങനെയിരിക്കുന്നുവെന്നു് നോക്കുക:
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Arthur_Stanley_Eddington.jpg" rendition="gra"/>
+            <figDesc style="thumb">എഡിങ്ടൺ</figDesc>
+          </figure>
+          <p> ‘The educated man of today has a mind which can be compared only to a store in which
+the very lastest and most precious acquisitions are flung on top of a noisome heap of rag—and
+bottle refuse and worthless antiquities from the museum lumber room. No mind can operate
+reasonably in such a mess’.അതെ—ഭൂതകാലത്തിലെ പഴഞ്ചരക്കുകളുടെമീതെ വർത്തമാനകാലത്തിലെ
+പുത്തൻസാമാനങ്ങൾ ഇട്ടു് നിറച്ചിട്ടുള്ളൊരു കലവറയാണു് ആധുനികപണ്ഡിതന്റെ മനസ്സു്. ബൈബിളും
+ഭഗവദ്ഗീതയും പരിണാമവാദവും ക്വാണ്ടം തിയറിയും എല്ലാം ഒരു ചെപ്പിലടച്ചു് സൂക്ഷിപ്പാൻ അതു് വൃഥാശ്രമം
+ചെയ്യുന്നു! പഴന്തുണിയും കോടിവസ്ത്രവും തമ്മിൽ തുന്നിപ്പിടിപ്പിക്കുവാനുള്ളൊരു മതി ഭ്രമം! വർത്തമാനത്തിലെ
+വിപ്ലവക്ഷുഭിതാവസ്ഥയിൽനിന്നു് ഭൂതത്തിലെ ശ്മശാനശാന്തതയിലേക്കു് അഭയാർത്ഥിയായി പോകുന്ന മനസ്സിൽ
+ഇത്തരം കുഴപ്പങ്ങൾ ധാരാളം സംഭവിക്കും. കഷ്ടകാലത്തിനു് ജീൻസ്, <ref target="https://ml.wikipedia.org/wiki/Arthur_Eddington">എഡിങ്ടൺ</ref>
+തുടങ്ങിയ കുറെ സയൻസുകാരുടെ ചില ഗ്രന്ഥങ്ങളും അവരുടെ ചില ഞായറാഴ്ചപ്രസംഗങ്ങളും ഈ കുഴപ്പങ്ങൾ
+വർദ്ധിപ്പിക്കുവാൻ കാരണവുമായിട്ടുണ്ടു്. ഏതു് നിലയ്ക്കു്, എപ്പോൾ, എങ്ങനെ പുറത്തുവന്നതാണു് അവരുടെ
+അഭിപ്രായങ്ങൾ എന്നൊന്നും ആലോചിക്കാതെ അവരുടെ പേരിൽ അച്ചടിപ്പുസ്തകത്തിൽ കാണുന്നതൊക്കെ
+അപ്പടിവിഴുങ്ങിയാൽ ദഹനക്കേടു് ബാധിക്കാതിരിക്കുമോ? നമ്മുടെ അറിവെല്ലാം സാപേക്ഷമാണെന്ന
+
+മൗലികതത്ത്വം വിസ്മരിച്ചു് കേവലവും സനാതനവും ആയ എന്തോ ഒന്നുണ്ടെന്നും ആ അജ്ഞാത
+രഹസ്യത്തിലേക്കാണു് ഇന്നത്തെ സയൻസിന്റെ പ്രയാണമെന്നും മറ്റും വിശ്വസിക്കുവാൻ ഇന്നു് അനേകം
+പണ്ഡിതന്മാർ സന്നദ്ധരായിക്കാണുന്നുണ്ടു്. സയൻസിന്റെ പിൻബലത്തോടുകൂടി മതത്തിന്റെ ജീർണോദ്ധാരണം
+നടത്താമെന്നും ഇക്കൂട്ടർ വിചാരിക്കുന്നു. ദഹിക്കാത്ത ആശയങ്ങളുൾക്കൊള്ളുന്ന മനസ്സിന്റെ വിരേചനത്തിൽ
+ഇങ്ങനെ അർദ്ധസത്യങ്ങളുടെയും അസത്യങ്ങളുടെയും കഷണങ്ങൾ പുറത്തുവരിക സ്വാഭാവികമാണല്ലൊ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_bernard_shaw.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബർനാഡ്ഷാ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Shriharsha">ശ്രീഹർഷൻ</ref>
+അദ്ദേഹത്തിന്റെ നൈഷധം കാവ്യത്തിൽ വിദ്യാഭ്യാസത്തെ സംബന്ധിച്ചു് നാലു ഘട്ടം പരാമർശിക്കുന്നുണ്ടു്:
+അധീതി, ബോധം, ആചരണം, പ്രചാരണം. പഠിപ്പിന്റെ ആദ്യഘട്ടമാണു് അധീതി, അതായതു്,
+ഗ്രന്ഥങ്ങളിൽനിന്നും ആചാര്യന്മാരിൽനിന്നും ആശയങ്ങൾ ശേഖരിച്ചുവെയ്ക്കുക—പച്ചക്കറിസാമാനങ്ങൾ ശേഖരിച്ചു്
+കറിക്കു് നുറുക്കി പാത്രത്തിൽ നിറയ്ക്കുന്നതുപോലെതന്നെ.
+</p>
+          <p>ഇതത്ര പ്രയാസമുള്ളൊരു കാര്യമല്ല; പരിശ്രമംകൊണ്ടു് ആർക്കും സാദ്ധ്യമാകും.
+രണ്ടാമത്തേതില്ലേ—ബോധം—അതാണു് ഏറ്റവും പ്രധാനം. ആളെ അളക്കേണ്ടതു് അതുകൊണ്ടാണു്. കറിക്കു്
+നുറുക്കിയ കഷണങ്ങൾ അടുപ്പത്തിരുന്നു് വേവുന്നതുപോലെ, മനഃപാത്രത്തിൽ ശേഖരിച്ചതെല്ലാം സ്വന്തം
+ചിന്തയിലൊന്നു് പാകപ്പെടാനുണ്ടു്, അപ്പോഴേ അതു് ബോധമായിത്തീരുകയുള്ളു.
+</p>
+          <p>അങ്ങനെ അവനവന്റേതായിത്തീരുന്ന ബോധത്തിനനുസരിച്ചാകണം പ്രവൃത്തി—ആചരണം. ഇങ്ങനെ മൂന്നു്
+ഘട്ടവും കടന്നതിനുശേഷമേ പ്രചാരണത്തിനു്, മറ്റുള്ളവരെ പഠിപ്പിക്കാൻ പുറപ്പെടാവൂ. എന്നാൽ, ഇന്നത്തെ
+പരിഷ്കൃതവിദ്യാഭ്യാസത്തിൽ എന്താണു് കാണുന്നതു്? രണ്ടു് ഘട്ടം മാത്രം: ആദ്യത്തേതും ഒടുവിലത്തേതും.
+അധീതിയിൽനിന്നു് പ്രചാരണത്തിലേക്കൊരു എടുത്തുചാട്ടം! എന്തൊക്കെയോ വായിച്ചുകൂട്ടിക്കൊണ്ടു് നാം
+പ്രചാരണത്തിനു്—പ്രൊപ്പഗാൻഡയ്ക്കു്—പുറപ്പെടുന്നു. ബോധം തെളിയണമെന്ന വിചാരമേയില്ല.
+ആചരണത്തിന്റെ കഥ പറയാനുമില്ലല്ലൊ. എങ്ങനെയെങ്കിലും വിജ്ഞാനത്തിന്റെ ഭാണ്ഡം വീർപ്പിച്ചാൽ മതി;
+ഒന്നാം ക്ലാസ് പണ്ഡിതൻ ആകാം. ആ ഭാണ്ഡവും അതിന്റെ ഉടമസ്ഥനും തമ്മിൽ എന്തുമാത്രം ബന്ധമുണ്ടെന്നു്
+ഇന്നത്തെ ബഹളത്തിൽ ആരു് നോക്കാനാണു്.
+</p>
+          <p>
+(നിരീക്ഷണം 1948)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Manasikamaya Dahanakkedu (ml:
+മാനസികമായ ദഹനക്കേടു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Manasikamaya Dahanakkedu, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മാനസികമായ ദഹനക്കേടു്, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 10, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Godfried_Schalcken_%2816431706%29_%28after%29_-_A_Girl_with_a_Candle_-_1298329__National_Trust.jpg">A Girl with a Candle,</ref> a painting by anonymous  . The
+image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-dahana.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-dahana.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

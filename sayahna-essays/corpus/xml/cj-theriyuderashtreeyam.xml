@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">രാഷ്ട്രീയപ്രവർത്തനവും
+ആഭാസസാഹിത്യവും</title>
+          <title xml:lang="en" type="main">Rashtreeyapravarthanavum
+Abhasasaahithyavum</title>
+        </title>
+        <author>C. J. Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 14, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">രാഷ്ട്രീയപ്രവർത്തനവും
+
+ആഭാസസാഹിത്യവും</title>
+              <title xml:lang="en" type="main">Rashtreeyapravarthanavum
+Abhasasaahithyavum</title>
+            </title>
+            <author>C. J. Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-06-02</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>C. J. Thomas</term>
+          <term>Rashtreeyapravarthanavum Abhasasaahithyavum</term>
+          <term>സി. ജെ. തോമസ്</term>
+          <term>രാഷ്ട്രീയപ്രവർത്തനവും ആഭാസസാഹിത്യവും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-06-02</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Chrysanthemums_by_a_stream.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Chrysanthemums_by_a_stream_with_rocks.jpg">Chrysanthemums
+by a stream, with rocks,</ref> a painting by Itō Jakachū  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">രാഷ്ട്രീയപ്രവർത്തനവും ആഭാസസാഹിത്യവും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">രാഷ്ട്രീയപ്രവർത്തനവും ആഭാസസാഹിത്യവും</head>
+        <div type="lsection">
+          <p style="noindent">മനുഷ്യർ തെറി പറയുന്നതു് എപ്പോഴാണു്?
+</p>
+          <p>ഒരാൾക്കു് മറ്റൊരാളോടു് എന്തെങ്കിലും കാരണവശാൽ വിരോധമുണ്ടു്, എന്നിരിക്കട്ടെ. ഇവരിൽ ഒരാൾ
+ശക്തനും മറ്റെയാൾ ബലഹീനനുമാണു്. ബലം കൂടിയവൻ രണ്ടാമത്തവനെ ഒന്നടിക്കുന്നു. എന്തായിരിക്കും ഫലം?
+അപൂർവ്വം ചിലർ തിരിച്ചടിക്കും, ഭവിഷ്യത്തുകളെ കൂട്ടാക്കാതെ. സാധാരണയായി കാണുന്ന കഥ അതല്ല. അടി
+കൊണ്ടവൻ അപകടമേഖലയ്ക്കു പുറത്തുനിന്നുകൊണ്ടു് കുറെ ഭരണിപ്പാട്ടുകൾ പാടി സംതൃപ്തനാകും. അതെ,
+അശക്തിബോധത്തിന്റെ തുറന്ന പ്രഖ്യാപനമാണു് തെറിപറയൽ.
+</p>
+          <p>ഈ പറഞ്ഞകാര്യം രാഷ്ട്രീയപ്രവർത്തനത്തെ സംബന്ധിച്ചിടത്തോളം പരമാർത്ഥമാണു്.
+മറ്റെല്ലാകാര്യങ്ങളിലും രാഷ്ട്രീയകക്ഷികൾ തമ്മിൽ കലഹിക്കും. പക്ഷേ, ഇക്കാര്യത്തിൽ അവർക്കു് പൊതു
+ഐക്യമുണ്ടു്. സ്ത്രീപുരുഷബന്ധത്തെപ്പറ്റി രാഷ്ട്രീയക്കാരുടെ ഉത്തരവിനപ്പുറം കടന്നു് ഒരു സാഹിത്യകാരൻ
+എന്തെങ്കിലും എഴുതിപ്പോയാൽ ഈ രാഷ്ട്രീയക്കാരെല്ലാം ഒത്തുചേർന്നു് ആർത്തുവിളിക്കുകയായി, ‘ആഭാസൻ!’
+ഈ പരിശുദ്ധന്മാരുടെ നിഘണ്ടുവിലെ പദങ്ങൾ കേട്ടാൽ പൂരപ്പാട്ടുകാർകൂടി ലജ്ജിച്ചു തലതാഴ്ത്തുകയും ചെയ്യും.
+യാതൊരു രാഷ്ട്രീയ കക്ഷിയും ഈ ആരോപണത്തിൽ നിന്നൊഴിവല്ല. അവരോരോരുത്തരും പറയും അവരുടെ
+എതിർകക്ഷിക്കാരാണു പുലഭ്യക്കാർ എന്നു്. പക്ഷേ, ഇവരുടെയെല്ലാം പ്രസംഗം കേൾക്കേണ്ടിവരുന്ന ഒരു
+സാധാരണക്കാരൻ ചെവിപൊത്താതെ നിവൃത്തിയില്ല. എന്താണിതിനു കാരണം? അതു് ആദ്യം പറഞ്ഞതുതന്നെ
+—അശക്തിബോധം അഥവാ പരാജയബോധം. ഒരു രാഷ്ട്രീയപ്രവർത്തകനും ശരിയായ ഉത്തരം കൊടുക്കാൻ
+കഴിയാത്ത പ്രശ്നങ്ങൾ ഉണ്ടു്. അങ്ങനെയുള്ള സന്ദർഭങ്ങളിൽ ‘ഉത്തരം മുട്ടിയാൽ കൊഞ്ഞനം കാട്ടുക’
+എന്നാണല്ലോ പ്രമാണം. മറ്റു സന്ദർഭങ്ങളും ഉണ്ടാകും. സ്ഥിരപ്രതിഷ്ഠ ലഭിച്ച ഒരു രാഷ്ട്രീയാശയത്തെ മറ്റൊരാൾ
+ചോദ്യംചെയ്യുന്നുവെന്നിരിക്കട്ടെ. ആ വിമർശനത്തിനു ഒന്നാമത്തെയാൾക്കു് മറുപടിയില്ലെങ്കിൽ അയാൾ
+തെറിപറയാൻ തുടങ്ങും. ഇക്കാര്യത്തിൽ വിമർശകനും യോഗ്യനല്ല. അയാൾ തെറിപറയുന്ന ഒരു സന്ദർഭമുണ്ടു്.
+തന്റെ വിമർശനം ഫലിക്കുന്നില്ല എന്നു ബോധമുണ്ടാവുമ്പോഴാണതു്. ‘വാദം മുട്ടിയാൽ എതിർവക്കീലിനെ ചീത്ത
+പറയുക’ എന്നൊരു ഇംഗ്ലീഷ് പഴഞ്ചൊല്ലുണ്ടു്.
+</p>
+          <p>രാഷ്ട്രീയത്തിൽ മാത്രമാണീ സമ്പ്രദായം എന്നെനിക്കഭിപ്രായമില്ല. ഇന്നത്തെ വിവാഹനിയമങ്ങളെ ഒരാൾ
+ചോദ്യംചെയ്താൽ നാമെന്താണു പറയുന്നതു്? അയാൾ മഹാകീചകനായതുകൊണ്ടാണു് അങ്ങനെയൊരഭിപ്രായം
+പറഞ്ഞതെന്നു്. നിരീശ്വരവാദികളെപ്പറ്റി സാധാരണയുള്ള ഒരാരോപണം, അവർക്കു് ദുർമ്മാർഗ്ഗികളായി
+ജീവിക്കാൻവേണ്ടിയാണു് നാസ്തികത്വത്തിൽ വിശ്വസിക്കുന്നതെന്നാണു്. സാഹിത്യത്തിലെ കഥ പറയാനുമില്ല.
+അങ്ങനെ ജീവിതത്തിന്റെ എല്ലാ തുറകളിലും പുലഭ്യം പരാജയപ്പെട്ടവന്റെ ആയുധമാണു്. ഇവിടെ തല്ക്കാലം
+രാഷ്ട്രീയരംഗത്തെ മാത്രമേ എടുക്കുന്നുള്ളൂവെന്നുമാത്രം.
+</p>
+          <p>തിരുവിതാംകൂറിൽ പോലീസും ജനങ്ങളുമായി
+ഉണ്ടായ ഒരു സംഘട്ടനത്തെപ്പറ്റി ഒരു നേതാവു് പ്രസംഗിച്ചതു്, ആ സ്ഥലത്തു ബലാൽസംഗം ചെയ്യപ്പെട്ടവരുടെ
+സ്ഥാനത്തു് താനായിരുന്നെങ്കിൽ പോലീസുകാരുടെ മറ്റതു് കടിച്ചുപറിച്ചുകളയുമായിരുന്നുവെന്നാണു്. ആ
+പ്രസംഗം കേട്ടിരുന്നവരിൽ ഭൂരിപക്ഷവും കൈയടിച്ചു. പക്ഷേ, ചില നേതാക്കന്മാർ പറഞ്ഞു: അപ്പറഞ്ഞതു
+തെറിയാണെന്നു്. ഒരു വർഷത്തിനുശേഷം ആ നേതാവുതന്നെ (കക്ഷിയൊന്നു മാറി) പ്രസംഗിച്ചു. ആ സംഘട്ടനം
+നടന്ന സ്ഥലത്തു് സ്ഥാനാർത്ഥിയായി നിന്ന സ്ത്രീ ‘ദേശീയ’മാക്കപ്പെട്ടിരിക്കുകയാണെന്നു്. ഒരു വർഷംമുമ്പു്
+തെറിയെന്നു വിമർശിച്ചവർ കൈയടിച്ചു. കൈയടിച്ചവർ പറഞ്ഞു.‘അയാൾ കള്ളുകുടിച്ചു് തെറി പറയുകയാണു്.’
+എതിർകക്ഷിയുടെ തെറി ഇരുകൂട്ടരും മനസ്സിലാക്കി. സ്വന്തം തെറി കണ്ടുമില്ല.
+</p>
+          <p>ഈ പ്രസ്ഥാനത്തിന്റെ പാരമ്പര്യം വളരെ പഴയതാണു്. മുസ്ലിം ആക്രമണമുണ്ടായപ്പോൾ ഇന്ത്യയിലെ
+ഹിന്ദുരാജാക്കന്മാർ അവരെ മ്ലേച്ഛന്മാരെന്നു് വിളിച്ചു തൃപ്തിയടഞ്ഞു. ആഭ്യന്തരകലഹങ്ങളും ജീവിക്കാൻ
+കൊള്ളുകില്ലാത്ത ഒരു ജീവിതവീക്ഷണവുംകൊണ്ടു് അവർ സ്വന്തം നാടിനെ പരാജയപ്പെടുത്തി. ശത്രു
+അജയ്യനാണെന്ന ബോധം വന്നപ്പോൾ തെറിയെ ആശ്രയിക്കുകയാണു് ചെയ്തതു്. ഇംഗ്ലീഷുകാർ വന്നപ്പോഴും
+ഇതുതന്നെയുണ്ടായി. ആയുധവും ചുണയുമില്ലാതെ, അവരെ വെള്ളക്കുരങ്ങെന്നും വെള്ളപ്പട്ടിയെന്നും വിളിച്ചു
+തൃപ്തിപ്പെടുകയായിരുന്നു പതിവു്. ഈ ചിന്താഗതി സ്വാതന്ത്ര്യസമരത്തെ സഹായിച്ചിട്ടുണ്ടെന്നു തോന്നുന്നില്ല.
+ഒരുവനു ശക്തിയായ പ്രതിഷേധമുണ്ടാകാം. കോപംകൊണ്ടു നിഷ്കരുണം എന്തെങ്കിലും പ്രവർത്തിച്ചുവെന്നും
+വരാം, ഭഗത്സിംഗിനെപ്പോലെ. പക്ഷേ, പട്ടിയെന്നും കുരങ്ങെന്നും വിളിക്കുന്നതുകൊണ്ടു് സ്വന്തം
+
+സംസ്ക്കാരശുന്യതയെ മാത്രമല്ല, ബലഹീനതയെയുമാണു് കാണിക്കുന്നതു്. നാട്ടുരാജ്യസ്വാതന്ത്ര്യസമരങ്ങളിലും
+ഇതുതന്നെ കാണുവാനിടയായിട്ടുണ്ടു്, ഒരു പ്രജാപരിഷത്തും ദിവാനുമായിട്ടാണല്ലൊ സംഘട്ടനം.
+ആയുധമേന്തിയോ അല്ലാതെയോ ഒരു വിപ്ലവം നടത്തുന്നതിനു പകരം എന്താണു് പലയിടങ്ങളിലും ഉണ്ടായതു്.
+പഠിച്ചുവെച്ചിട്ടുള്ള വൃത്തികെട്ട വാക്കുകളെല്ലാം ദിവാന്റെ തലയ്ക്കെറിയുക. കോഴിക്കോടു് രണ്ടു പത്രങ്ങൾ തമ്മിൽ
+പരസ്പരം പുലഭ്യം പറഞ്ഞുകൊണ്ടിരുന്ന കാലത്തു് ഇരുകൂട്ടരുടേയും ആരോപണം ഒന്നുതന്നെയായിരുന്നു. മറ്റവൻ
+തെറിയനാണെന്നു്. പുരോഗമനത്തിനും സദാചാരത്തിനും കുത്തകയെടുത്തിരിക്കുന്ന ഒരു വ്യക്തി നെഹ്റുവിനെ
+വിമർശിക്കാൻ കണ്ട പ്രധാനകാര്യം അദ്ദേഹം പാമിളാ മൗണ്ട് ബാറ്റനെ ചുംബിച്ചുവെന്നതായിരുന്നു. ഇതുകേട്ടാൽ
+തോന്നും വർഗ്ഗസമരത്തിന്റെ അടിസ്ഥാനം ചുംബനമാണെന്നു്. യഥാർത്ഥകാരണമല്ലേ? അതെഴുതിയ ആളിനു്
+ബഹുജനങ്ങളിൽ ഒരു വിഭാഗത്തിന്റെ സ്വഭാവമറിയാം. ലേഡി വെല്ലിംങ്ടനെപ്പറ്റിയും, സി. പി. രാമസ്വാമി
+അയ്യരെപ്പറ്റിയും പറഞ്ഞിരുന്ന കഥകൾക്കു് എന്തു പ്രചാരമുണ്ടായിരുന്നെന്നു് ആ എഴുത്തുകാരൻ
+മനസ്സിലാക്കിയിട്ടുണ്ടു്.
+</p>
+          <p>ഈ സമ്പ്രദായം ഒട്ടും ഫലപ്രദമല്ലെന്നു പറയാനെനിക്കു ധൈര്യമില്ല, ഒരു ചെറിയവിഭാഗം ജനങ്ങൾക്കു്
+അതു് രുചിച്ചെന്നുവരും. ഒരു ഭാഗം അത്രയധികം പരിശുദ്ധമാണെങ്കിൽ ശത്രുവിഭാഗങ്ങൾ തമ്മിലുള്ള
+വൈരുദ്ധ്യത്തിനു മൂർച്ചകൂടുകയും ചെയ്തേക്കാം. എങ്കിലും, അങ്ങനെ സംഭവിക്കുമെന്നു തീർച്ചയാക്കാൻ പാടില്ല.
+സാധാരണയായി തെറി പറയുന്നതും തെറികേട്ടു രസിക്കുന്നതും ഭീരുക്കളാണു്. അവശതാബോധമാണു് തെറി
+പറയിക്കുന്നതെന്നു നാം കണ്ടല്ലോ. എങ്കിലും, ഇതു് എല്ലാ രാഷ്ട്രീയകക്ഷികളും ഉപയോഗിക്കുന്ന
+ഒരായുധമായതുകൊണ്ടു് അവരെല്ലാം അതിന്റെ വിജയത്തിൽ വിശ്വസിക്കുന്നുവെന്നുവേണം കരുതാൻ.
+അതുകൊണ്ടു് അതിന്റെ അനന്തരഫലങ്ങളെന്തെന്നു് ഒന്നു പരിശോധിക്കേണ്ടതാവശ്യമാണു്.
+</p>
+          <p>എന്താണു് തെറി ഒരായുധമാക്കുന്നതിൽ തെറ്റു്? തെറി പറയുന്നതു് പാപമായതുകൊണ്ടാണോ, അല്ല. അതു
+മതപ്രചാരകന്മാരുടെ കാര്യമാണു് (അവരാണെങ്കിൽ ഈ തൊഴിലിൽ ഒട്ടും പിന്നിലല്ലതാനും). ഇവിടെ തെറിയെ
+ഒരു രാഷ്ട്രീയായുധമാക്കരുതെന്നു് പറയുന്നതിന്റെ കാരണം രാഷ്ട്രീയമാണു്. രാഷ്ട്രീയസമരങ്ങളിൽ ശത്രുവിനെ
+വിമർശിക്കുമ്പോൾ ദുർബ്ബലമായി വിമർശിക്കണമെന്നല്ല ഇവിടെ വിവക്ഷിക്കുന്നതു്. ആത്മാർത്ഥമായി ഒരു
+പരിപാടിയിൽ വിശ്വസിക്കുന്നവൻ തന്റെ ശത്രുവിനെ വിമർശിക്കുമ്പോൾ ഒരു കരുണയും കാണിക്കുകയില്ല;
+കാണിക്കേണ്ടതുമില്ല. പക്ഷേ, തെറി ശക്തിയായ വിമർശനമാണെന്നു തെറ്റിദ്ധരിക്കരുതെന്നുമാത്രം. തെറി
+ബലഹീനതയാണു്. “ശക്തിയായ ഭാഷയിൽ ഈശ്വരനെ വിമർശിച്ചു” എന്നാരും കൊടുങ്ങല്ലൂർ ഭരണിയെപ്പറ്റി
+പറയാറില്ല. പോരെങ്കിൽ തെറിക്കൊരു പ്രത്യേകസ്വഭാവമുണ്ടു്. അതു തിരിഞ്ഞടിക്കും. സ്വന്തം മുഖത്തുതന്നെ അതു
+വന്നുവിഴും. കേട്ടുനിൽക്കുന്നവരിൽ ഒരു നല്ല വിഭാഗം തെറിപറയുന്നവനെ നോക്കി പുച്ഛമായി
+ചിരിയ്ക്കുകയായിരിയ്ക്കും. തൽക്കാലത്തേക്കു ജയം നേടാൻ തെറി സഹായിച്ചേക്കും. ഉദാഹരണമായി ‘<ref target="https://en.wikipedia.org/wiki/Skunk">സ്കങ്ക്</ref> ’ എന്ന ജന്തുവിനെ
+നോക്കുക. ശത്രുക്കൾ സമീപത്തുണ്ടെന്നു കണ്ടാൽ അതു് ഒരു ഭയങ്കരദുർഗ്ഗന്ധം വമിപ്പിച്ചു തുടങ്ങും. ആ ദുർഗ്ഗന്ധം
+സഹിച്ചുകൊണ്ടു് അടുത്തിരിക്കാൻ കഴിയുന്ന ജന്തുക്കൾ ചുരുങ്ങും. അങ്ങനെ ‘സ്കങ്ക്’ സ്വയം രക്ഷിക്കുന്നു. ഈ
+സ്വഭാവം മനുഷ്യൻ ചിലപ്പോഴൊക്കെ അനുകരിക്കുന്നതുകൊണ്ടായിരിക്കണം ‘തൂറി തോല്പിക്കുക’ എന്ന
+പ്രയോഗം ഗ്രാമീണരുടെയിടയിൽ ഉണ്ടായതു്. ചാത്തൻസേവയുടെ പ്രധാനകഴിവു് എന്താണെന്നും
+അന്വേഷിച്ചുനോക്കുക. ഇതൊന്നും ജയിക്കുന്നവന്റെയോ ആത്മവിശ്വാസമുള്ളവന്റെയോ പരിപാടികളല്ല,
+നിസ്സഹായനായ കോപിഷ്ഠന്റെയാണു്.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/Striped_Skunk.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">സ്കങ്ക്.</figDesc>
+          </figure>
+          <p>ഈ തെറ്റായ രീതി രാഷ്ട്രീയപ്രവർത്തനത്തിൽ അംഗീകരിക്കുന്നതിന്റെ ഫലംതേടി വളരെ അകലെ
+പോകണ്ട. ഇന്ത്യാവിഭജനം കഴിഞ്ഞു് ഉണ്ടായ സംഭവം നോക്കുക. മുസ്ലീംകളും ഹിന്ദുക്കളും തമ്മിലുള്ള മത്സരത്തെ
+അടിസ്ഥാനപ്പെടുത്തി പറഞ്ഞ തെറികളുടെയെല്ലാം പരിണതഫലം അന്നാണനുഭവിച്ചതു്. ഒരു വർഗ്ഗക്കാർ മറ്റു
+വർഗ്ഗക്കാരുടെ മൂക്കും മുലയും ഛേദിച്ചതും, ബലാൽസംഗം ചെയ്തതും എന്തു രാഷ്ട്രീയ
+വിജയത്തിനുവേണ്ടിയായിരുന്നു? എന്തു വർഗ്ഗീയ ഗുണത്തിനുവേണ്ടിയായിരുന്നു? സംഭവിച്ചതിതാണു്. ഇരുകൂട്ടരും
+ന്യായമായ അടിസ്ഥാനത്തിലല്ല നിന്നതു്. അവർക്കു ന്യായമായ യാതൊരു വാദഗതിയും ഇല്ലായിരുന്നു.
+അതുകൊണ്ടു മ്ലേച്ഛനെന്നും കാഫറെന്നും വിളിക്കുകയല്ലാതെ പരിപാടിയുണ്ടായിരുന്നില്ല. ഇത്തരമൊരു
+
+പ്രവർത്തനത്തിൽ പങ്കെടുക്കുന്നവരുടെ മനഃസ്ഥിതി അധഃപതിക്കാതിരിക്കാൻ നിവൃത്തിയില്ലല്ലോ. ഒരു
+ജനതയുടെ പുറത്തുകാണുന്ന നിയമങ്ങളും പരിപാടികളും എന്തുതന്നെയായിക്കൊള്ളട്ടെ അവരുടെ
+യഥാർത്ഥസംസ്കാരമാണു് കാര്യങ്ങളെ നയിക്കുന്നതു്. ഈ വാസ്തവം മനസ്സിലാക്കാതെ തെറികൊണ്ടുമാത്രം ഒരു
+രാഷ്ട്രം കെട്ടിപ്പടുക്കാമെന്നോ, സാമൂഹ്യവിപ്ലവം നടത്താമെന്നോ വ്യാമോഹിക്കുന്നവരുണ്ടെങ്കിൽ അവർക്കു്
+അവരുടെ ജോലി അറിഞ്ഞുകൂടാ. അവർ അവരുടെ പരീക്ഷണങ്ങൾ നടത്താൻ മനുഷ്യവർഗ്ഗത്തെ
+പരീക്ഷണശാലയാക്കുകയാണു്; മനുഷ്യനെ ഗിനിപ്പന്നിയാക്കുകയാണു്. ഭീരുവിനു് വിപ്ലവമുണ്ടാക്കാൻ കഴിവില്ല.
+മനുഷ്യത്വമില്ലാത്ത ഇരുകാലിമൃഗം ഭൂലോകസ്വർഗ്ഗം സൃഷ്ടിക്കുകയുമില്ല. മനുഷ്യസമുദായത്തെ നന്നാക്കുവാൻ
+ചുമതലയേല്ക്കുന്നതിനുമുമ്പു് ഒന്നു് വ്യക്തമായി ധരിച്ചിരിക്കണം. സംസ്കാരത്തിന്റേയും മര്യാദയുടേയും ഒരു പൊടി
+നഷ്ടപ്പെടുത്തിയിട്ടു ലഭിക്കുന്ന സ്വർഗ്ഗം സ്വർഗ്ഗമായിരിക്കുകയില്ല.
+</p>
+          <p>രണ്ടുവർഷമായി ഇന്ത്യ ഒരു ഡൊമീനിയനായിട്ടു്, ഇതിനിടയിൽ നമുക്കു കിട്ടിയ രാഷ്ട്രീയപ്രവർത്തനം
+അഞ്ചുശതമാനം വിമർശനവും തൊണ്ണൂറ്റഞ്ചുശതമാനം തെറിയുമായിരുന്നു. ഇങ്ങനെ രാഷ്ട്രം പണിതുണ്ടാക്കിയാൽ
+ഭാവി ശോഭനമല്ല. ഹിറ്റ്ലർ നൂറുശതമാനം തെറിയുടെ മുകളിലാണു് രാഷ്ട്രം പണിതതു്. വെറുപ്പു്, വിദ്വേഷം, വഞ്ചന,
+അസൂയ, കള്ളപ്രചരണം ഇതെല്ലാംകൊണ്ടു് ഹിറ്റ്ലർ തന്റെ രാഷ്ട്രം അലങ്കരിച്ചു. നമുക്കും അതു കൂടിയേ തീരൂ
+എന്നുണ്ടോ?
+</p>
+          <p>ഇത്രയും പറഞ്ഞതിനു് എന്നെ തെറി പറഞ്ഞിട്ടു കാര്യമില്ല. കണ്ണാടി വലിച്ചെറിഞ്ഞാൽ മുഖത്തിന്റെ
+വൈകൃതം തീരുകയില്ലല്ലോ.
+</p>
+          <p>
+ധിക്കാരിയുടെ കാതൽ 1955.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ. തോമസിന്റെ
+ലഘു ജീവചരിത്രക്കുറിപ്പു്.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Rashtreeyapravarthanavum
+Abhasasaahithyavum (ml: രാഷ്ട്രീയപ്രവർത്തനവും ആഭാസസാഹിത്യവും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  C. J. Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-06-02. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, C. J. Thomas,
+Rashtreeyapravarthanavum Abhasasaahithyavum, സി. ജെ. തോമസ്, രാഷ്ട്രീയപ്രവർത്തനവും
+ആഭാസസാഹിത്യവും, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 14, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Chrysanthemums_by_a_stream_with_rocks.jpg">Chrysanthemums
+by a stream, with rocks,</ref> a painting by Itō Jakachū  . The image is taken from
+<ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-theriyuderashtreeyam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cjtheriyuderashtreeyam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ലാൽകൃഷ്ണന്റെ പുനരവതാരം</title>
+          <title xml:lang="en" type="main">Lalkrishnante Punaravatharam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">April 5, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ലാൽകൃഷ്ണന്റെ പുനരവതാരം</title>
+              <title xml:lang="en" type="main">Lalkrishnante Punaravatharam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Lalkrishnante Punaravatharam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ലാൽകൃഷ്ണന്റെ പുനരവതാരം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 5, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Braillelommeur.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Braillelommeur.jpg">Pocket
+watch for the visually impaired,</ref> a photograph by Fisle Nor  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ലാൽകൃഷ്ണന്റെ പുനരവതാരം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ലാൽകൃഷ്ണന്റെ പുനരവതാരം</head>
+        <div type="lsection" xml:id="sec1.1">
+          <head type="lsechead">ഇനിയങ്ങോട്ടു് ധർമസംസദുകളുടെ കന്നിമാസമായിരിക്കും.</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Manmohansingh.jpg" rendition="gra"/>
+            <figDesc style="thumb">മൻമോഹൻസിംഗ്</figDesc>
+          </figure>
+          <p style="noindent"> പതിനാലാം ലോൿസഭ നിലവിൽ വരുകയാണു്. ദേശീയ ജനാധിപത്യസഖ്യം
+അധികാരഭ്രഷ്ടരായിരിക്കുന്നു. തൽസ്ഥാനത്തു് കോൺഗ്രസ് നേതൃത്വത്തിലുള്ള ഐക്യ പുരോഗമനസഖ്യം.
+മദാമ്മാഗാന്ധിയുടെ വിദേശജനനം സംബന്ധിച്ചും മന്ത്രിമാരുടെ വകുപ്പുവിഭജനം സംബന്ധിച്ചുമുണ്ടായ
+ഈശാപോശകൾക്കു് വിരാമം. <ref target="https://ml.wikipedia.org/wiki/Manmohan_Singh">മൻമോഹൻസിംഗ്</ref>
+പ്രധാനമന്ത്രിയും <ref target="https://en.wikipedia.org/wiki/P._Chidambaram">പി.
+ചിദംബരം</ref> ധനകാര്യമന്ത്രിയുമായുള്ള മന്ത്രിസഭ ഇതാ മാർക്സിസ്റ്റ് പിന്തുണയോടെ ഇന്ത്യാ മഹാരാജ്യത്തെ
+പുരോഗതിയിലേക്കു്, സോഷ്യലിസത്തിലേക്കു് നയിക്കാനൊരുങ്ങുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chidambaram.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ചിദംബരം</figDesc>
+          </figure>
+          <p> വിജയികൾ ആർത്തുല്ലസിക്കുന്നു. യക്ഷ-കിന്നര-ഗന്ധർവ-കിം പുരുഷന്മാർ സ്തുതിഗീതങ്ങൾ ആലപിക്കുന്നു.
+<ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയാഗാന്ധി</ref> യുടെ
+പരമത്യാഗത്തെയും മൻമോഹൻസിംഗിന്റെ മഹത്ത്വത്തെയും എത്ര വാഴ്ത്തിയിട്ടും മതിവരുന്നില്ല, മാധ്യമങ്ങൾക്കും
+തൂലികത്തൊഴിലാളികൾക്കും. കേവലം മൂന്നാഴ്ച മുമ്പു് <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+യെ ദുനിയാവിലെ ഏറ്റവും സ്വാധീനശക്തിയുള്ള ഇരുപതു് രാഷ്ട്രീയക്കാരുടെ കൂട്ടത്തിൽപെടുത്തിയ,
+കോൺഗ്രസിലെ വംശവാഴ്ചയെ ഭർത്സിച്ച ടൈം മാഗസിൻ ഇതാ ‘Sonia Shining’ എന്ന കവർസ്റ്റോറി
+പ്രസിദ്ധീകരിച്ചിരിക്കുന്നു. 1965-ൽ കേംബ്രിജിലെ ഗ്രീക്ക് റെസ്റ്റോറന്റിൽ സോണിയ മായ്നോ എന്ന
+മധുരപ്പതിനെട്ടുകാരി <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref> യെ
+കണ്ടുമുട്ടിയതും പ്രണയിച്ചതുമായ പഴങ്കഥ വാരിവിളമ്പിയിട്ടുമുണ്ടു്. ടൈമിന്റെ സ്ഥിതി ഇതെങ്കിൽ ദ വീക്കിന്റെ,
+ഇന്ത്യാ ടുഡേയുടെ, ഔട്ട്ലുക്കിന്റെ സ്ഥിതി എന്തായിരിക്കും? ‘ചരിത്രം സൃഷ്ടിച്ചു് സോണിയ; ചരിത്രം സൃഷ്ടിക്കാൻ
+മൻമോഹൻസിംഗ്’ എന്ന സമകാലിക മലയാളം വാരികയുടെ കവർസ്റ്റോറി വായിച്ചു് ഇതെഴുതുന്നവൾ
+കരഞ്ഞുപോയി: “പ്രധാനമന്ത്രിപദം പരിത്യജിക്കാൻ തീരുമാനിച്ചതുവഴി ഇന്ത്യയുടെ ഹൃദയത്തിലാണു്
+സോണിയാഗാന്ധി സ്ഥാനം നേടിയതു്. ഒരിക്കൽപോലും പ്രധാനമന്ത്രിസ്ഥാനം മോഹിച്ചിട്ടില്ലാത്ത
+മൻമോഹൻസിംഗ് ഒടുവിൽ സോണിയയുടെ നിർബന്ധത്തിനു വഴങ്ങി പ്രധാനമന്ത്രിയാകുന്നു.
+അധികാരമോഹികളുടെ അസംബന്ധ നാടകങ്ങൾ കണ്ടുമടുത്ത ജനങ്ങൾക്കു് ആത്മാഭിമാനം പകരുകയാണു്
+ഈ ചരിത്രമുഹൂർത്തം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Atal_Bihari_Vajpayee.jpg" rendition="gra"/>
+            <figDesc style="thumb">വാജ്പേയി</figDesc>
+          </figure>
+          <p> വിജയികളെയും പിന്തുണക്കാരെയും സ്തുതിഗായകരെയും അവരുടെ വഴിക്കു് വിടുക. കോൺഗ്രസ്
+
+സഖ്യകക്ഷികളും കഴിയുംവിധം ഭരിക്കട്ടെ, സമ്പാദിക്കട്ടെ, നാടു് നന്നാക്കട്ടെ. വിരുന്നുവീട്ടിൽ
+പോകുന്നതിനെക്കാൾ വിലാപഭവനത്തിൽ പോകുന്നതു് ഉത്തമം എന്നു് സത്യവേദപുസ്തകത്തിൽ
+പറഞ്ഞുകാണുന്നു. (സഭാ പ്രഭാഷകൻ 7; 2) ആകയാൽ നാം പരാജിതരുടെ പടകുടീരത്തിലേക്കു് പോകുക.
+</p>
+          <p>വികസനം, സൽഭരണം മുതലായ മഹോന്നത ആശയങ്ങളല്ല മറിച്ചു് ജാതീയതയാണു് സാധു വോട്ടർമാരെ
+പലേടത്തും ആവേശിച്ചതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajiv_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാജീവ്ഗാന്ധി</figDesc>
+          </figure>
+          <p> ഉത്തരവാദിത്തത്തോടെ ക്രിയാത്മക പ്രതിപക്ഷമായി അദ്വാൻജിക്കുള്ള പ്രതിബദ്ധത അവിതർക്കിതമാണു്.
+ഹൈദരാബാദിലെ (സിൻഡ്) ആർ. എസ്. എസ്. ശാഖയിൽ ചേരുമ്പോൾ വയസ്സു് പതിനഞ്ചേ ആയിരുന്നുള്ളൂ
+<ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">ലാൽകൃഷ്ണനു്</ref>.
+ഡി. ജി. നാഷനൽ കോളേജിൽനിന്നു് ബിരുദപഠനം പൂർത്തിയാക്കി കറാച്ചിയിൽ കാര്യവാഹായിരിക്കുമ്പോൾ
+ഇന്ത്യാവിഭജനം. സ്വാതന്ത്ര്യാനന്തര കാലഘട്ടത്തിൽ രാജസ്ഥാനിൽ സംഘപ്രചാരകൻ. ഭാരതീയ
+ജനസംഘത്തിന്റെ മുഴുവൻ സമയ പ്രവർത്തകരായി ഗുരുജി വിട്ടുകൊടുത്ത പ്രചാരകരിൽ ഒരാളായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാനി</ref>.
+1952-57 കാലത്തു് രാജസ്ഥാനിലും തുടർന്നു് ദൽഹിയിലും ജനസംഘത്തിന്റെ കാര്യദർശി. 1960-67-ൽ
+ഓർഗനൈസറിന്റെ സഹപത്രാധിപൻ. 1967-70 കാലയളവിൽ ദൽഹി മെട്രോപോളിറ്റൻ കൗൺസിൽ
+ചെയർമാൻ. 1970 മുതൽ രാജ്യസഭാംഗം.
+</p>
+          <p>1973-ൽ കാൺപൂരിൽ നടന്ന സമ്മേളനം അദ്വാനിയെ ജനസംഘത്തിന്റെ ദേശീയ പ്രസിഡന്റായി
+തെരഞ്ഞെടുത്തു. സ്ഥാനമൊഴിഞ്ഞ പ്രസിഡന്റ് അടൽബിഹാരി വാജ്പേയി പറഞ്ഞു: നമുക്കെല്ലാം
+പ്രിയങ്കരനാണു് അദ്വാൻജി; നമ്മുടെ ദീനദയാൽ രണ്ടാമൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Deendayal_upadhyaaya.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദീൻദയാൽ ഉപാധ്യായ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Deendayal_Upadhyaya">ദീൻദയാൽ
+ഉപാധ്യായ</ref> യെപ്പോലെ തികഞ്ഞ സ്വയംസേവകനും കിടയറ്റ സംഘാടകനുമായിരുന്നു അദ്വാനി.
+കനത്ത മേൽമീശ, മൃദുവായ സംസാരം, കർക്കശ സ്വഭാവം, പാരിലില്ല ഭയമെന്നും ഒട്ടുമില്ലാരിലും കരുണയെന്നും
+ഏതിനും പോരുമെന്നും അരുളുന്ന ധീരമായ മുഖകാന്തി. ഇംഗ്ലീഷും ഹിന്ദിയും നന്നായി സംസാരിക്കും.
+വാജ്പേയിയുടേതുപോലെ കാവ്യാത്മകമല്ല പ്രസംഗശൈലി. കവിയോ സ്വപ്നജീവിയോ അല്ല, തികച്ചും
+പ്രായോഗികമതിയായ രാഷ്ട്രീയക്കാരൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Uddhav_thackeray.jpg" rendition="gra"/>
+            <figDesc style="thumb">താക്കറെ</figDesc>
+          </figure>
+          <p> 1971-ൽ പാർലമെന്റിലേക്കും 72-ൽ സംസ്ഥാന നിയമസഭകളിലേക്കും നടന്ന തെരഞ്ഞെടുപ്പുകളിൽ കനത്ത
+പരാജയമാണു് ജനസംഘത്തിനുണ്ടായതു്. ലോൿസഭയിൽ 35 സീറ്റുണ്ടായിരുന്നതു് 22 ആയി കുറഞ്ഞു.
+ബംഗ്ലാദേശ് യുദ്ധത്തിനുശേഷം 1972 മാർച്ചിൽ 13 സംസ്ഥാനങ്ങളിലെയും 5 കേന്ദ്രഭരണ പ്രദേശങ്ങളിലെയും
+നിയമസഭകളിലേക്കു് നടന്ന തെരഞ്ഞെടുപ്പിൽ ദയനീയമായിരുന്നു പ്രകടനം. മൽസരിച്ച സീറ്റുകൾ 1,233,
+ജയിച്ചതു് 104; കിട്ടിയ വോട്ട് 3.82 ശതമാനം. മധ്യപ്രദേശിലും (48) ബീഹാറിലും (25) മാത്രമേ രണ്ടക്കം
+തികക്കാനായുള്ളു. ഹരിയാനയിൽ 2, ജമ്മു കാശ്മീരിലും ഗുജറാത്തിലും 3 വീതം, രാജസ്ഥാനിൽ 8, ഹിമചൽ,
+ദൽഹി, മഹാരാഷ്ട്ര എന്നിവിടങ്ങളിൽ 5 വീതം—ഇതായിരുന്നു നിലവാരം. ആന്ധ്രയിലോ മൈസൂരിലോ
+
+പഞ്ചാബിലോ ബംഗാളിലോ ആസാമിലോ ജനസംഘം നിലംതൊട്ടിട്ടില്ല. തൊട്ടടുത്തവർഷം <ref target="https://ml.wikipedia.org/wiki/Balraj_Madhok">ബാൽരാജ് മാധോക്</ref>
+പാർട്ടി വിട്ടതും ജനസംഘത്തിനു് തിരിച്ചടിയായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jayaprakash_Narayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജയപ്രകാശ് നാരായണൻ</figDesc>
+          </figure>
+          <p> ഈ അന്തരാളഘട്ടത്തിലാണു് അദ്വാനി നേതൃത്വമേൽക്കുന്നതു്. പാർട്ടി സംഘടനയെ
+ശക്തിപ്പെടുത്തുന്നതിലും ഭരണകക്ഷിക്കെതിരെ പാർലമെന്റിനകത്തും പുറത്തും ആക്രമണമഴിച്ചു വിടുന്നതിലും
+ദത്തശ്രദ്ധനായിരുന്നു അദ്വാൻജി. 1974–75-ൽ ജയപ്രകാശ് പ്രസ്ഥാനത്തിൽ ജനസംഘം നിർണായക പങ്കു
+വഹിച്ചു. 1975 ജൂണിൽ സംഘടനാ കോൺഗ്രസ്, സ്വതന്ത്രപാർട്ടികളോടു് ചേർന്നു് ഗുജറാത്തിൽ അധികാരം
+പിടിച്ചു. അടിയന്തിരാവസ്ഥയിൽ കാരാഗൃഹവാസം അനുഭവിച്ചു. തുടർന്നു് നടന്ന തെരഞ്ഞെടുപ്പിൽ
+ജനതാപാർട്ടിയുടെ പ്രവർത്തനങ്ങൾക്കു് ചുക്കാൻ പിടിച്ചു. 90 ജനസംഘക്കാരാണു് അത്തവണ
+ലോൿസഭയിലെത്തിയതു്. ജനതാ സർക്കാറിൽ വാർത്താവിതരണ-പ്രക്ഷേപണ വകുപ്പിന്റെ
+ചുമതലക്കാരനായിരുന്നു അദ്വാനി.
+</p>
+          <p>1980 ഏപ്രിൽ 5, 6 തീയതികളിൽ ദൽഹിയിൽ നടന്ന കൺവെൻഷനിൽ പഴയ ജനസംഘക്കാർ
+ജനതാപാർട്ടിയിൽനിന്നു് വേർപെട്ടു് പുതിയ കക്ഷിയുണ്ടാക്കി—ബി. ജെ. പി. അധ്യക്ഷൻ അടൽബിഹാരി
+വാജ്പേയി. ലോക നായക് <ref target="https://ml.wikipedia.org/wiki/Jayaprakash_Narayan">ജയപ്രകാശ്
+നാരായണന്റെ</ref> സ്വപ്നങ്ങൾ സാക്ഷാത്കരിക്കാൻ പാർട്ടി പ്രതിജ്ഞാബദ്ധമാണെന്നു് വാജ്പേയി
+പ്രഖ്യാപിച്ചു. രാഷ്ട്രീയരംഗത്തുനിന്നു് നഷ്ടമായിക്കൊണ്ടിരിക്കുന്ന വിശ്വാസ്യത പുനഃസ്ഥാപിക്കാൻ പാർട്ടി
+കഠിനാദ്ധ്വാനം ചെയ്യുമെന്നും പദവികൾക്കോ അധികാരത്തിനോ വേണ്ടി അലഞ്ഞുനടക്കില്ലെന്നും അടൽജി
+പ്രസംഗവശാൽ ഉറപ്പുനൽകി.
+</p>
+          <p>മതേതരത്വം, ജനാധിപത്യം, ദേശീയോദ്ഗ്രഥനം, മൂല്യാധിഷ്ഠിത രാഷ്ട്രീയം, ഗാന്ധിയൻ സോഷ്യലിസം
+എന്നിവയായിരുന്നു ഭാ. ജ. പാ.-യുടെ അടിസ്ഥാന പ്രമാണങ്ങൾ. ഗാന്ധിയെ കൊന്നവർക്കെന്തു് ഗാന്ധിയൻ
+സോഷ്യലിസം എന്നു് എതിരാളികൾ പരിഹസിച്ചു. ദീൻദയാൽജിയുടെ ഏകാത്മക മാനവവാദം
+ആകേണ്ടിയിരുന്നു അടിസ്ഥാനപ്രമാണം എന്നു് ആർ. എസ്. എസുകാർ മുറുമുറുത്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/NTRamaRao.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. ടി. രാമറാവു</figDesc>
+          </figure>
+          <p> മൂല്യാധിഷ്ഠിത രാഷ്ട്രീയവും ഗാന്ധിയൻ സോഷ്യലിസവുമൊക്കെ എടുക്കാച്ചരക്കുകളാണെന്നു് 1984-ലെ
+തെരഞ്ഞെടുപ്പു് തെളിയിച്ചു. 545 അംഗ സഭയിൽ രണ്ടേ രണ്ടു് സീറ്റിലാണു് ബി. ജെ. പി. ജയിച്ചതു്. ഒന്നു്
+ഗുജറാത്തിൽ, മറ്റേതു് <ref target="https://ml.wikipedia.org/wiki/N._T._Rama_Rao">എൻ. ടി. രാമറാവു</ref>
+വിന്റെ കാരുണ്യംകൊണ്ടു് ആന്ധ്രയിൽ. സാക്ഷാൽ <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">അടൽ ബിഹാരി
+വാജ്പേയി</ref> സ്വദേശമായ ഗ്വാളിയോറിൽ <ref target="https://en.wikipedia.org/wiki/Madhavrao_Scindia">മാധവറാവു
+സിന്ധ്യ</ref> യോടു് വൻവ്യത്യാസത്തിൽ തോറ്റു.
+</p>
+          <p>നടുക്കുന്ന പരാജയത്തെ സമചിത്തതയോടെ കാണാൻ കഴിഞ്ഞ ഏക നേതാവു് <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാനി</ref>
+യായിരുന്നു. രണ്ടിടത്തേ ജയിക്കാനായുള്ളുവെങ്കിലും പോൾ ചെയ്ത വോട്ടിന്റെ 7.4 ശതമാനം നേടാൻ കഴിഞ്ഞ
+കാര്യം അദ്ദേഹം എടുത്തുപറഞ്ഞു. ബി. ജെ. പി. ‘ഹിന്ദുത്വ’യിൽ നിന്നകന്നു് പോയതാണു് പരാജയകാരണം എന്നു്
+മനസ്സിലാക്കാൻ അദ്വാനിക്കു് കഴിഞ്ഞു. 1972-ൽ ബംഗ്ലാദേശ് യുദ്ധവും 84-ൽ ഇന്ദിരാഗാന്ധിയുടെ വധവും സൃഷ്ടിച്ച
+കോൺഗ്രസ് അനുകൂല ദേശീയ ഹിന്ദു വികാരമാണു് ജനസംഘത്തിനു് ക്ഷീണം ചെയ്തതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Narendra_Modi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മോഡി</figDesc>
+          </figure>
+          <p> 1986 ഏപ്രിലിൽ വാജ്പേയിയുടെ കാലാവധി അവസാനിച്ചു; <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">എൽ. കെ.
+അദ്വാനി</ref> പാർട്ടി അധ്യക്ഷനായി. “മയമില്ലാത്ത തീരുമാനങ്ങൾ നടപ്പാക്കേണ്ടിവരുമ്പോൾ ഞങ്ങളെല്ലാം
+അദ്വാനിജിയെയാണു് ഉറ്റുനോക്കാറുളളതു്”—<ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+പറഞ്ഞു. ഗാന്ധിയൻ സോഷ്യലിസത്തെപ്പറ്റിയോ ലോകനായക് <ref target="https://ml.wikipedia.org/wiki/Jayaprakash_Narayan">ജയപ്രകാശ്
+നാരായണ</ref> ന്റെ സ്വപ്നങ്ങളെക്കുറിച്ചോ പിന്നീടൊന്നും കേട്ടിട്ടില്ല. കശ്മീരിനു് പ്രത്യേക പദവി നൽകുന്ന
+370-ാം അനുച്ഛേദം പിൻവലിക്കുക, ഏക സിവിൽ കോഡ് നടപ്പാക്കുക, ന്യൂനപക്ഷ കമീഷന്റെ സ്ഥാനത്തു്
+മനുഷ്യാവകാശ കമീഷൻ രൂപവത്കരിക്കുക എന്നീ ആവശ്യങ്ങൾ ഭാ. ജ. പാ. മുന്നോട്ടുവെച്ചു.
+</p>
+          <p>അദ്വാനി നേതൃത്വമേറ്റതിനു് തൊട്ടുപിന്നാലെ മാരകമായ മറ്റൊരായുധം കൈവന്നു—മുസ്ലിം വനിതാ
+സംരക്ഷണനിയമം. ഷാബാനുകേസിലെ സുപ്രീം കോടതിവിധി മറികടക്കാൻ <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref>
+യുണ്ടാക്കിയ നിയമം. കമ്യൂണിസ്റ്റുകാരുൾപ്പെടെയുള്ള പുരോഗമന ചിന്താഗതിക്കാർ നിയമത്തെ അപലപിച്ചു.
+എങ്കിലും രാഷ്ട്രീയ മുതലെടുപ്പു് നടത്തിയതു് ബി. ജെ. പി.-യാണു്. കേന്ദ്ര സർക്കാർ മതമൗലികവാദികൾക്കു്
+കീഴടങ്ങുകയായിരുന്നെന്നു് അദ്വാനി ആക്ഷേപിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Uma_Bharati.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമാഭാരതി</figDesc>
+          </figure>
+          <p> അപ്പോഴേക്കും വിശ്വഹിന്ദുപരിഷത്തു് രാമജന്മഭൂമിപ്രശ്നം കുത്തിപ്പൊക്കിയിരുന്നു. പരിഷത്തിന്റെ
+യുവജനവിഭാഗം—ബജ്റംഗദൾ—നിലവിൽ വന്നു. <ref target="https://en.wikipedia.org/wiki/Vinay_Katiyar">വിനയ് കത്യാർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Uma_Bharti">ഉമാഭാരതി</ref>, <ref target="https://en.wikipedia.org/wiki/Sadhvi_Rithambara">സാധ്വി ഋതംഭര</ref>
+മുതലായ യുവനേതാക്കൾ നിരന്തരം തീതുപ്പി. നാടൊട്ടുക്കു് രാമശിലാപൂജകൾ നടന്നു. ഹിന്ദുത്വവികാരം
+ആളിക്കത്തി. വടക്കേന്ത്യയിലാകെ വർഗീയസംഘർഷം പടർന്നുപിടിച്ചു. ജയ്പൂർ, കോട്ട, ഇൻഡോർ, ഗോധ്ര
+എന്നിവിടങ്ങളിൽ ലഹളയുണ്ടായി. ഭഗൽപൂർ കലാപത്തിൽ 800-ഓളം പേർ പരലോകം പൂകി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_P_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. പി. സിംഗ്</figDesc>
+          </figure>
+          <p> 1989-ലെ പാർലമെന്റ് തെരഞ്ഞെടുപ്പിൽ ബി. ജെ. പി.-ക്കു് ഗംഭീരനേട്ടമുണ്ടായി. ഹിമാചൽ, രാജസ്ഥാൻ,
+മധ്യപ്രദേശ് സംസ്ഥാനങ്ങളിൽ വൻ വിജയം. യു. പി.-യിലും ബീഹാറിലും മഹാരാഷ്ട്രയിലും സാന്നിദ്ധ്യം
+തെളിയിച്ചു. പോൾ ചെയ്തതിന്റെ 11.5 ശതമാനം വോട്ട് കിട്ടി. സീറ്റുകൾ 88 ആയി. അത്തവണ വാജ്പേയി
+മൽസരിച്ചില്ല. അതേസമയം 19 വർഷമായി രാജ്യസഭാംഗമായ അദ്വാനി ന്യൂദൽഹിയിൽനിന്നു്
+ലോൿസഭയിലേക്കു് തെരഞ്ഞെടുക്കപ്പെട്ടു. ബി. ജെ. പി.-യിലെ യഥാർത്ഥ ശക്തികേന്ദ്രം ഏതാണെന്നു്
+പകൽപോലെ വ്യക്തമായി. 1990 ഫെബ്രുവരിയിൽ എട്ടു് സംസ്ഥാനങ്ങളിൽ തെരഞ്ഞെടുപ്പു് നടന്നു.
+മധ്യപ്രദേശിലും രാജസ്ഥാനിലും ഹിമാചലിലും ബി. ജെ. പി.-ക്കു് മുഖ്യമന്ത്രിമാരുണ്ടായി. മണ്ഡൽ കമീഷൻ
+റിപ്പോർട് നടപ്പാക്കുക വഴി ഹിന്ദു വോട്ട്ബാങ്ക് പിളർത്താൻ <ref target="https://ml.wikipedia.org/wiki/Vishwanath_Pratap_Singh">വി. പി.
+സിംഗ്</ref> തുനിഞ്ഞപ്പോൾ കടുത്ത നടപടിക്കു് നിർബന്ധിതനായി ലാൽകൃഷ്ണ അദ്വാനി. ബി. ജെ. പി.
+അയോധ്യാപ്രശ്നം ആളിക്കത്തിച്ചു. 1990 ഒക്ടോബർ 30-നു് അയോധ്യയിൽ കർസേവ നടത്തുമെന്നും അതിനു്
+
+മുന്നോടിയായി അദ്വാനി രഥയാത്ര നടത്തുമെന്നും പ്രഖ്യാപനമുണ്ടായി. “ചരിത്രത്തിലെ ഏറ്റവും വലിയ
+ജനമുന്നേറ്റമായിരിക്കും കർസേവ. അതു് തടഞ്ഞാൽ ഗുരുതരമായ പ്രത്യാഘാതമുണ്ടാകും,” എയർകണ്ടീഷൻ
+ചെയ്ത ഡി. സി. എം. ടൊയോട്ടയായിരുന്നു ലാൽകൃഷ്ണ രഥം. സെപ്റ്റംബർ 25-നു് സോമനാഥക്ഷേത്രത്തിൽനിന്നു്
+പുറപ്പെട്ട രഥം ഒക്ടോബർ 23-നു് സമസ്തിപ്പൂരിൽ തടയപ്പെട്ടു. അന്നുതന്നെ ബി. ജെ. പി. മന്ത്രിസഭക്കുള്ള പിന്തുണ
+പിൻവലിച്ചു. വിശ്വാസപ്രമേയം പരാജയപ്പെടുകയാൽ നവംബർ 7-നു് വി. പി. സിംഗ് രാജിവെച്ചു.
+</p>
+          <p>1991 മേയിലെ തെരഞ്ഞെടുപ്പിൽ അദ്വാനിയും കൂട്ടരും ആളിക്കത്തി. <ref target="https://ml.wikipedia.org/wiki/Uma_Bharti">ഉമാഭാരതി</ref> യും <ref target="https://en.wikipedia.org/wiki/Vinay_Katiyar">വിനയ് കത്യാറും</ref> സ്വാമി
+സച്ചിദാനന്ദ ഹരിസാക്ഷിയും <ref target="https://en.wikipedia.org/wiki/Mahant_Avaidyanath">മഹന്ത്
+അവൈദ്യനാഥു</ref> മെല്ലാം ബി. ജെ. പി. സ്ഥാനാർത്ഥികളായി. <ref target="https://en.wikipedia.org/wiki/Sadhvi_Rithambara">സാധ്വി ഋതംഭര</ref>
+തീതുപ്പി: നാം മൗലാനാ മുലായമിനെയും <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref> യെയും
+മറക്കില്ല. സരയൂനദിയുടെ ഗദ്ഗദവും അയോധ്യയുടെ വേദനയും കർസേവകരുടെ രക്തസാക്ഷിത്വവും നിങ്ങൾ
+ഓർക്കുക. അമ്മമാരേ, യുവാക്കളേ, ഒരു ഹിന്ദുവിനും രാമക്ഷേത്രത്തിൽനിന്നു് മുഖംതിരിക്കാനാവില്ല. രാമന്റെ ഒരു
+ശത്രുവിനെയും നമ്മൾ വെറുതേ വിട്ടുകൂടാ…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lalu_Prasad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലാലുപ്രസാദ്</figDesc>
+          </figure>
+          <p> പൊതുതെരഞ്ഞെടുപ്പിന്റെ ഒന്നാംഘട്ടം പൂർത്തിയായശേഷം രാജീവ്ഗാന്ധി ബോംബുസ്ഫോടനത്തിൽ
+മരിച്ചതു്. അദ്വാനിയുടെ കണക്കുക്കൂട്ടൽ തെറ്റിച്ചു. അനുതാപതരംഗത്താൽ കോൺഗ്രസ് ഏറ്റവും വലിയ
+ഒറ്റക്കക്ഷിയായി. ബി. ജെ. പി.-യുടെ വോട്ട് 20.1 ശതമാനം ആയും സീറ്റുകൾ 121 ആയും വർദ്ധിച്ചു. രാമതരംഗം
+അലയടിച്ച ഉത്തർപ്രദേശിൽ ബി. ജെ. പി. അധികാരത്തിലേറി.
+</p>
+          <p>1992 ഡിസംബർ 6-നു് ബാബരി മസ്ജിദ് തകർക്കപ്പെട്ടു. കർസേവകർക്കു് നേതൃത്വം നൽകാൻ അദ്വാനിയും
+ഉണ്ടായിരുന്നു. ശ്രീരാമദേവൻ ജനിച്ചതെവിടെയെന്നു് കോടതിയല്ല തീരുമാനിക്കേണ്ടതു് എന്നാണു്
+അദ്വാൻജിയുടെ സുചിന്തിതമായ അഭിപ്രായം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kashiram_Rana.jpg" rendition="gra"/>
+            <figDesc style="thumb">കാശിറാം റാണ</figDesc>
+          </figure>
+          <p> 1996 ആകുമ്പോഴേക്കും രാജ്യത്തെ ഏറ്റവും പ്രബലനായ രാഷ്ട്രീയനേതാവായിത്തീർന്നു ലാൽകൃഷ്ണ അദ്വാനി.
+അടുത്ത അവസരം ബി. ജെ. പി.-യുടേതാണെന്നും അദ്വാൻജിയായിരിക്കും വിധാതാവെന്നും
+സംഘസ്വയംസേവകർ ഉറച്ചു് വിശ്വസിച്ചു. ജെയിൻ ഹവാലാ കേസ് വീണ്ടും കണക്കുക്കൂട്ടലുകൾ തെറ്റിച്ചു. അദ്വാനി
+തൽക്ഷണം പ്രതിപക്ഷ നേതൃസ്ഥാനം രാജിവെച്ചു. കുറ്റവിമുക്തനാകുംവരെ അധികാരസ്ഥാനങ്ങൾ
+സ്വീകരിക്കില്ലെന്നും പ്രഖ്യാപിച്ചു. 1998-ലെ തെരഞ്ഞെടുപ്പാകുമ്പോഴേക്കും അദ്വാനി കേസിൽനിന്നു് ഒഴിവാക്കപ്പെട്ടു.
+കിം ഫലം? വാജ്പേയി ബി. ജെ. പി.-യുടെയും മുന്നണിയുടെയും അനിഷേധ്യ നേതാവായിക്കഴിഞ്ഞു. തീവ്ര
+ഹിന്ദുത്വവാദിയും കർക്കശക്കാരനുമായ അദ്വാനിയേക്കാൾ മിതവാദിയും കവിയും മാനുഷിക
+ദൗർബല്യങ്ങൾക്കടിമയുമായ വാജ്പേയി സ്വീകാര്യൻ!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Murli_Manohar_Joshi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരളി മനോഹർ ജോഷി</figDesc>
+          </figure>
+          <p> അന്നുമുതലിന്നോളം ആഭ്യന്തരവകുപ്പിന്റെ ചുമതലക്കാരനും മന്ത്രിസഭയിലെ
+
+രണ്ടാംസ്ഥാനക്കാരനുമായിക്കഴിഞ്ഞു അദ്വാനി. ഒടുവിൽ ഡപ്പിടി പ്രധാന മന്ത്രി എന്നൊരു സമാശ്വാസപദവിയും
+ചാർത്തിക്കിട്ടി. ഇപ്പോൾ വാജ്പേയി പരാജിതനും പരിക്ഷീണിതനുമായിരിക്കുന്നു. രണ്ടാം സ്ഥാനത്തിനു്
+വെല്ലുവിളിയുയർത്തിയ <ref target="https://en.wikipedia.org/wiki/Murli_Manohar_Joshi">മുരളി മനോഹർ
+ജോഷി</ref> തെരഞ്ഞെടുപ്പിൽ തോറ്റു് കളത്തിനു് പുറത്താവുകയും ചെയ്തിരിക്കുന്നു. ഇനിയങ്ങോട്ടു്
+ഭാ. ജ. പാ.-യുടെ പരമോന്നത നേതാവു് <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">ലാൽകൃഷ്ണ
+അദ്വാനി</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Om_Prakash_Chautala.png" rendition="gra"/>
+            <figDesc style="thumb">ഓംപ്രകാശ് ചൗതാല</figDesc>
+          </figure>
+          <p> ഇത്തവണയും അദ്വാനിക്കില്ല കുലുക്കം. ബി. ജെ. പി.-യെ അപേക്ഷിച്ചു് ഏഴ് സീറ്റേ കൂടുതലുള്ളു
+കോൺഗ്രസിനു്. കിട്ടിയ വോട്ടിന്റെ ശതമാനം തുല്യം. കോൺഗ്രസിന്റേതിനേക്കാൾ സഖ്യകക്ഷികളുടെ—രാഷ്ട്രീയ
+ജനതാദൾ, ടി. ആർ. എസ്., ഡി. എം. കെ.—വിജയം. ബി. ജെ. പി.-യുടേതിനേക്കാൾ കൂട്ടാളികളുടെ—മമത,
+നായിഡു, ജയലളിത—പരാജയം. കഴിഞ്ഞതവണ ജയിച്ചവർ ഇത്തവണ തോറ്റു. ഇക്കുറി തോറ്റവർ അടുത്തവട്ടം
+ജയിച്ചേ മതിയാവൂ. തീവ്രദേശീയ ഹിന്ദുത്വവികാരംകൊണ്ടാണു് 1972-ലും 84-ലും കോൺഗ്രസ് 99-ൽ
+ബി. ജെ. പി.-യും ജയിച്ചതു്. തിളക്കവും സുഖാനുഭൂതിയുമൊക്കെ മധുരപദങ്ങളാണു്. തെരഞ്ഞെടുപ്പു് ജയിക്കാൻ
+ഹിന്ദുത്വംതന്നെ വേണം. മതേതരത്വത്തെ കാത്തുസൂക്ഷിക്കാൻ പ്രതിജ്ഞാബദ്ധമായ ഇടതുപക്ഷപാർട്ടികൾ
+പിന്തുണക്കുന്നിടത്തോളം കാലം കേന്ദ്രസർക്കാർ നിലനിൽക്കും. ഒരുപക്ഷേ, കാലാവധി തികക്കാൻപോലും
+സാധ്യതയുണ്ടു്. 2009-ാമാണ്ടുവരെ ബി. ജെ. പി.-ക്കു് കാത്തിരിക്കേണ്ടിവരുമെന്നർത്ഥം. അദ്വാനിക്കു് 77 വയസ്സായി.
+(ജനനം: 8.11.1927) പറയത്തക്ക അസുഖമൊന്നുമില്ല. എന്നാലും 2009 വളരെ അകലെയാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/GOVINDACHARYA.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗോവിന്ദാചാര്യ</figDesc>
+          </figure>
+          <p> മൻമോഹൻ സർക്കാറിനെതിരെ പഴയ ഹിന്ദുത്വ തീവ്രദേശാഭിമാന അജണ്ട തന്നെ പയറ്റാനാണു് സാധ്യത.
+വിദേശജന്മപ്രശ്നം കുത്തിപ്പൊക്കി <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയ</ref> യുടെ
+സ്ഥാനാരോഹണം മുടക്കിയ രീതി നോക്കുക. രാഷ്ട്രീയ സ്വാഭിമാൻ ആന്ദോളന്റെ ബാനറിൽ <ref target="https://en.wikipedia.org/wiki/K._N._Govindacharya">ഗോവിന്ദാചാര്യ</ref>
+യാണു് പ്രശ്നം ആളിക്കത്തിച്ചതു്. വാജ്പേയിയെ അധിക്ഷേപിച്ചതിനു് ബി. ജെ. പി. വിടേണ്ടിവന്നയാളാണു്
+ഗോവിന്ദാചാര്യ. സംഘപ്രചാരകൻ, അദ്വാനിയുടെ അടുപ്പക്കാരൻ. ഗോവിന്ദാചാര്യക്കു് പിന്തുണയുമായി
+ഇദയക്കനി <ref target="https://ml.wikipedia.org/wiki/Uma_Bharti">ഉമാഭാരതി</ref> യും ഗ്ലാമർഗേൾ
+<ref target="https://ml.wikipedia.org/wiki/Sushma_Swaraj">സുഷമാ
+സ്വരാജും</ref> രംഗത്തുവന്നു. ഇരുവരും അദ്വാനിയുടെ ഗുളികച്ചെപ്പേന്തിയവർ. ഇവർക്കൊക്കെ ധാർമിക
+പിന്തുണ നൽകിയതു് രാഷ്ട്രീയ സ്വയംസേവകസംഘവും വിശ്വഹിന്ദുപരിഷത്തും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sushma_Swaraj.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുഷമാ സ്വരാജ്</figDesc>
+          </figure>
+          <p> ഇനിയങ്ങോട്ടു് ധർമസംസദുകളുടെ കന്നിമാസമായിരിക്കും. സ്വാമി ചിന്മയാനന്ദ, മഹന്ത് അവൈദ്യനാഥ്,
+സാധ്വി ഋതംഭര എന്നിവരുടെ പുതിയ പതിപ്പുകൾ രംഗത്തിറങ്ങും. അയോധ്യ, കാശി, മഥുര, പിന്നെ മൂവായിരം മറ്റു്
+പള്ളികൾ. ഗോവധനിരോധം, ഏക സിവിൽകോഡ്, കശ്മീരിന്റെ പ്രത്യേക പദവി, പണ്ഡിറ്റുകളുടെ
+പുനരധിവാസം… അങ്ങനെ എത്രയെത്ര വിഷയങ്ങൾ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Pramod_Mahajan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രമോദ് മഹാജൻ</figDesc>
+          </figure>
+          <p> ഒന്നാന്തരം പാർലമെന്റേറിയനാണു് അദ്വാനി. ലോൿസഭയിൽ അദ്വാനി-ഫെർണാണ്ടസ് ടീം സർക്കാറിന്റെ
+സൈരം കെടുത്തുമെന്നതു് ഉറപ്പാണു്. <ref target="https://en.wikipedia.org/wiki/Nitish_Kumar">നിതീഷ് കുമാർ</ref>, <ref target="https://en.wikipedia.org/wiki/Mamata_Banerjee">മമതാ ബാനർജി</ref>,
+<ref target="https://en.wikipedia.org/wiki/Kashiram_Rana">കാശിറാം റാണ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/PA_Sangma">പി. എ. സാംഗ്മ</ref>,
+അനന്തകുമാർ എന്നിവരുൾപ്പെട്ടതാണു് രണ്ടാംനിര. രാജ്യസഭയിൽ ജസ്വന്ത്സിംഗ്, <ref target="https://en.wikipedia.org/wiki/Pramod_Mahajan">പ്രമോദ് മഹാജൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Sushma_Swaraj">സുഷമാ സ്വരാജ്</ref>
+എന്നിവർക്കായിരിക്കും ആക്രമണത്തിന്റെ ചുമതല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Nitish_Kumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നിതീഷ് കുമാർ</figDesc>
+          </figure>
+          <p> വരാനിരിക്കുന്ന നിയമസഭാ തെരഞ്ഞെടുപ്പുകൾക്കു് പാർട്ടിയെ സജ്ജമാക്കുകയാണു് അദ്വാനിയുടെ
+അടിയന്തിര ചുമതല. ഈ വർഷം ഒക്ടോബറിനകം മഹാരാഷ്ട്രയിൽ തെരഞ്ഞെടുപ്പു് നടക്കും. അടുത്തവർഷമാദ്യം
+ബീഹാർ, ഝാർഖണ്ഡ്, ഹരിയാന, പിന്നെ പഞ്ചാബ്; അതിനുശേഷം ബംഗാൾ, കേരളം, തമിഴ്‌നാട്.
+അതുംകഴിഞ്ഞു് ഉത്തർപ്രദേശ്. പരമാവധി സംസ്ഥാനങ്ങളിൽ ഭരണം പിടിക്കണം; പരമാവധി പേരെ
+രാജ്യസഭയിലെത്തിക്കണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Arjun_Munda.jpg" rendition="gra"/>
+            <figDesc style="thumb">അർജുൻമുണ്ട</figDesc>
+          </figure>
+          <p>മഹാരാഷ്ട്രയിൽ സേന—ബി. ജെ. പി. സഖ്യം നല്ല നിലയിലാണു്. <ref target="https://en.wikipedia.org/wiki/Vilasrao_Deshmukh">വിലാസ്റാവു
+ദേശ്മുഖിനെ</ref> മാറ്റി <ref target="https://ml.wikipedia.org/wiki/Sushilkumar_Shinde">സുശീൽകുമാർ
+ഷിൻഡേ</ref> യെ കൊണ്ടുവന്നിട്ടും ഗുണപരമായ മാറ്റമൊന്നുമുണ്ടായിട്ടില്ല. അഴിമതിയും ഗ്രൂപ്പിസവും
+അനുദിനം വർദ്ധിക്കുന്നു. കോൺഗ്രസും എൻ. സി. പി.-യും ആർ. പി. ഐ. ഗ്രൂപ്പുകളും ഒത്തു പിടിച്ചിട്ടും ഈ
+തെരഞ്ഞെടുപ്പിൽ 23 സീറ്റേ നേടാനായുള്ളു. സേന—ബി. ജെ. പി. സഖ്യം വലിയ നാട്യങ്ങളൊന്നുമില്ലാതെ 25
+സീറ്റ് നേടി. നിയമസഭാ തെരഞ്ഞെടുപ്പിൽ ഉണ്ടാകാനിടയുള്ള ഭരണവിരുദ്ധവികാരംകൂടി കണക്കിലെടുത്താൽ
+കോൺഗ്രസിന്റെ കാര്യം ഗോപിയാകും. മുംബൈ വ്യവസായികളുടെയും പഞ്ചസാര ലോബിയുടെയും
+സാമ്പത്തികപിന്തുണ ഉറപ്പാക്കുന്നതിനു് മഹാരാഷ്ട്രയുടെ നിയന്ത്രണം ഇരുകൂട്ടർക്കും നിർണായകമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mamata_Banerjee.jpg" rendition="gra"/>
+            <figDesc style="thumb">മമതാ ബാനർജി</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav">ലാലുപ്രസാദി</ref> ന്റെ
+
+ഭരണം അവസാനിപ്പിക്കേണ്ടതു് ബി. ജെ. പി.-യുടെ പരമമായ ലക്ഷ്യങ്ങളിലൊന്നാണു്. ബീഹാറിൽ
+ബി. ജെ. പി.-യും ഐക്യജനതാദളും പത്തൊമ്പതടവും പയറ്റും. അദ്വാനിയും നിതീഷും ഫെർണാണ്ടസും
+ആവനാഴിയിലെ അവസാനത്തെ അമ്പും എടുത്തു് പ്രയോഗിക്കും. കഴിഞ്ഞതവണ ശത്രുപാളയത്തിലായിരുന്ന
+രാംവിലാസ് പാസ്വാൻ ലാലുവിനോടൊപ്പം ചേർന്നിരിക്കുന്നു. ജൂനിയർ പാർട്ണറായി കോൺഗ്രസുമുണ്ടു്.
+അവസാനനിമിഷം സി. പി. ഐ. കൂടി ഈ സഖ്യത്തിൽ ചേർന്നേക്കാം. ബി. ജെ. പി.-ക്കു് സ്വാധീനമുണ്ടായിരുന്ന
+ഗിരിവർഗ മേഖല ഝാർഖണ്ഡിലായതും ലാലുവിനു് ആശ്വാസം നൽകുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ആന്റണി</figDesc>
+          </figure>
+          <p>ബീഹാറിൽ ഭരണം പിടിക്കുന്നതിലും ദുഷ്കരം ഝാർഖണ്ഡിൽ ഭരണം നിലനിറുത്തൽ. മൂന്നുവർഷത്തെ
+ഭരണംകൊണ്ടു് നല്ലവരായ നാട്ടുകാരെ മൊത്തം വെറുപ്പിച്ചുകഴിഞ്ഞു. ഏതാണ്ടു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref> യുടെ
+നിലവാരത്തിലെത്തിയിട്ടുണ്ടു് മുഖ്യമന്ത്രി <ref target="https://en.wikipedia.org/wiki/Arjun_Munda">അർജുൻമുണ്ട</ref>. മറുവശത്തു്
+കോൺഗ്രസ്—ജെ. എം. എം-സി. പി. ഐ. സഖ്യം ശക്തമാണുതാനും. ഹരിയാനയിൽ <ref target="https://en.wikipedia.org/wiki/Om_Prakash_Chautala">ഓംപ്രകാശ്
+ചൗതാല</ref> അസൂയാർഹമായ നിലയിലാണു്—ബി. ജെ. പി.-യുമായി കൂട്ടുചേർന്നാലും ഇല്ലെങ്കിലും
+തോൽവി ഉറപ്പു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sushilkumar_Shinde.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുശീൽകുമാർ ഷിൻഡേ</figDesc>
+          </figure>
+          <p> അദ്ഭുതങ്ങൾ പ്രവർത്തിക്കാൻ കഴിവും പ്രാപ്തിയുമുള്ള നേതാവാണു് <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാനി</ref>.
+ആർ. എസ്. എസിന്റെ മൊത്തം പ്രഹരശേഷിയും അദ്ദേഹത്തിനു് അധീനം. ബാദലിനെയും <ref target="https://ml.wikipedia.org/wiki/Uddhav_Thackeray">താക്കറെ</ref> യെയും
+ഫെർണണ്ടസിനെയും പോലുള്ള കൂട്ടാളികൾ, <ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">മോഡി</ref> യെയും <ref target="https://ml.wikipedia.org/wiki/Uma_Bharti">ഉമാഭാരതി</ref> യെയും
+പോലുള്ള സഹപ്രവർത്തകർ, മാധ്യമങ്ങളുടെ പിന്തുണ, 2009-ലെ ലോൿസഭാ തെരഞ്ഞെടുപ്പിനകം
+എവിടെയൊക്കെ വർഗീയ ലഹളകളുണ്ടാകും, എത്ര കോടിയുടെ മുതൽ വെന്തെരിയും, എത്ര സാധുക്കളുടെ
+പ്രാണൻ പോകും എന്നൊക്കെ കാത്തിരുന്നു് കാണുവിൻ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Lalkrishnante Punaravatharam
+(ml: ലാൽകൃഷ്ണന്റെ പുനരവതാരം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Lalkrishnante Punaravatharam, കെ. രാജേശ്വരി, ലാൽകൃഷ്ണന്റെ പുനരവതാരം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 5, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Braillelommeur.jpg">Pocket
+watch for the visually impaired,</ref> a photograph by Fisle Nor  . The image is taken
+from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-lal.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-lal.pdf">Download Phone
+
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

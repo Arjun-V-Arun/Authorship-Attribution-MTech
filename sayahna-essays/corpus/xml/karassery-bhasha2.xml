@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഭാഷ</title>
+          <title xml:lang="en" type="main">Bhasha</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 5, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഭാഷ</title>
+              <title xml:lang="en" type="main">Bhasha</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Bhasha</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ഭാഷ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 5, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Shepherd_Boy_listening_to_a_Mockingbird.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough__Portrait_of_a_Shepherd_Boy_listening_to_a_Mockingbird.jpg">Portrait of a
+Shepherd Boy listening to a Mockingbird,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Gainsborough">Thomas
+Gainsborough</ref>  (1727–1788). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഭാഷ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഭാഷ</head>
+        <div type="lsection">
+          <p style="noindent">ബഷീറിന്റെ രചനകൾ മലയാളസാഹിത്യത്തിൽ വെട്ടിത്തിരിഞ്ഞുനിൽക്കുന്നതു്
+സവിശേഷമായ ആ ശൈലികൊണ്ടാണു്. ലാളിത്യം അതിന്റെ മുഖമുദ്രയാകുന്നു.
+</p>
+          <p>അദ്ദേഹത്തിന്റെ സ്കൂൾ വിദ്യാഭ്യാസം ഫിഫ്ത്ത്ഫോമിൽ (ഇന്നത്തെ ഒമ്പതാം ക്ലാസ്) അവസാനിച്ചു.
+വർഷങ്ങൾ നീണ്ടുനിന്ന യാത്രയിൽ ഇംഗ്ലീഷും ഹിന്ദുസ്ഥാനിയും അദ്ദേഹം പരിചയിച്ചു.
+</p>
+          <p>മലയാളത്തിലും ഇംഗ്ലീഷിലുമുള്ള കഥകളും നോവലുകളും യാത്രാവിവരണങ്ങളും കുറെയേറെ വായിച്ചിട്ടുണ്ടു്
+എന്നതിനപ്പുറം ഔപചാരികമായ പഠിപ്പിൽനിന്നോ, ഗ്രന്ഥങ്ങളിൽനിന്നോ നേടിയ പാണ്ഡിത്യം
+അദ്ദേഹത്തിനില്ല. അലച്ചിലിന്റെയും രാഷ്ട്രീയ പ്രവർത്തനത്തിന്റേയും സ്വന്തം അനുഭവത്തിന്റെയും
+ജീവിതനിരീക്ഷണത്തിന്റെയും സാകല്യത്തിൽ നിന്നു് ഊറിക്കൂടിയ ജ്ഞാനമേ അദ്ദേഹത്തിനുള്ളു. ആ ഭാഷ
+വരുന്നതു് അറിവിൽ നിന്നല്ല, അനുഭവത്തിൽ നിന്നാണു്.
+</p>
+          <p><ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">ബഷീർ</ref>
+കഥ എഴുതുകയല്ല, ‘പറയുക’യാണു്. കഴിയുന്നത്ര വാമൊഴിയിൽ മാത്രമായി ആഖ്യാനം നിർവഹിക്കുക
+എന്നതാണു് ശീലം. <ref target="https://ml.wikipedia.org/wiki/Shabdangal">ശബ്ദങ്ങൾ</ref> എന്ന നോവൽ
+മുഴുക്കെ രണ്ടുപേർ തമ്മിലുള്ള സംഭാഷണമാണു്. വരമൊഴിസമ്പ്രദായങ്ങളെയും
+പരമ്പരാഗതസാഹിത്യശീലങ്ങളെയും വ്യാകരണത്തെയും പരിഹസിക്കുന്നതു് മൂപ്പരുടെ പതിവാണു്.
+</p>
+          <p>എഴുതിയതു് അധികവും നിരക്ഷരരും നിർധനരും ആയ സാധാരണക്കാരുടെ കഥകളാണു്. ജീവിതത്തിന്റെ
+പുറംപോക്കിൽ കിടക്കുന്ന അത്തരം സാധാരണക്കാർക്കുകൂടി വായിച്ചുകേട്ടാൽ മനസ്സിലാവുന്ന ഗദ്യത്തിലാണു്
+എഴുതുന്നതു്.
+</p>
+          <p>മുസ്ലിം സാമൂഹ്യജീവിതവും ഇസ്ലാമികപുരാവൃത്തങ്ങളും നോവലുകളിലും കഥകളിലും ആവിഷ്കരിക്കുന്ന
+ആദ്യത്തെ മലയാളസാഹിത്യകാരൻ ബഷീറാണു്. സ്വാഭാവികമായും മലയാളി മുസ്ലിംകളുടെ വാമൊഴി ഈ
+ഭാഷയുടെ ഊടും പാവുമായിത്തീരുന്നു. <ref target="https://ml.wikipedia.org/wiki/Baalyakaalasakhi">ബാല്യകാലസഖി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Ntuppuppaakkoraanaendaarnnu">ന്റുപ്പുപ്പാക്കൊരാനേണ്ടാർന്നു!</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Pathummayude_Aadu">പാത്തുമ്മയുടെ
+ആടു്</ref> തുടങ്ങിയ നോവലുകളിൽ കാണുംപോലെ ഇസ്ലാമിക പുരാവൃത്തത്തിലെ കഥകളും
+സങ്കൽപങ്ങളും കഥാപാത്രങ്ങളുടെ സംഭാഷണങ്ങളിലും ഓർമ്മകളിലും ആലോചനകളിലും വന്നുനിറയുന്നു.
+രാജാക്കന്മാരുടെയും മേൽജാതിക്കാരുടെയും ജന്മിമാരുടെയും പണ്ഡിതന്മാരുടെയും പാരമ്പര്യത്തിനും
+സാഹചര്യത്തിനും ലോകബോധത്തിനും ചേർന്ന സംസ്കൃതസ്വാധീനമേറിയ ഭാഷയാണു് അതുവരെ
+മലയാളകഥാസാഹിത്യത്തിൽ പുലർന്നുപോന്നതു്. ബഷീറിന്റെ ആദ്യകാല കൃതികളിലൊന്നായ <ref target="https://ml.wikipedia.org/wiki/Baalyakaalasakhi">ബാല്യകാലസഖി</ref>
+യുടെ ആദ്യത്തെ കുറെ അധ്യായങ്ങൾ പ്രസ്സുകാർ ഭാഷ തിരുത്തി സംസ്കൃതീകരിച്ചു് ‘ശുദ്ധം’ ആക്കി അച്ചടിച്ച കഥ
+അദ്ദേഹം ‘എം. പി. പോൾ’ എന്ന ജീവചരിത്രകൃതിയിൽ വിസ്തരിക്കുന്നുണ്ടു്: അതു കണ്ടെത്തിയ ബഷീർ കത്തി
+കാണിച്ചു് അവരെ ഭീഷണിപ്പെടുത്തി, അച്ചടിച്ചതു് കത്തിച്ചുകളഞ്ഞു് എല്ലാം താൻ നേരത്തേ എഴുതിയപോലെ
+അച്ചടിക്കാൻ കൽപന കൊടുത്തു! (അഞ്ചാം അധ്യായം). സ്വന്തം ഭാഷക്കുവേണ്ടി അദ്ദേഹത്തിനു്
+കത്തിയെടുക്കേണ്ടി വന്നിട്ടുണ്ടു് എന്നർത്ഥം. വ്യാകരണനിഷ്ഠക്കാരനായ അനുജൻ അബ്ദുൽഖാദറിനോടു് തന്റെ
+ഭാഷക്കുവേണ്ടി ബഷീർ കലഹിക്കുന്ന രംഗം <ref target="https://ml.wikipedia.org/wiki/Pathummayude_Aadu">പാത്തുമ്മയുടെ
+ആടി</ref> ൽ കാണാം. അവിടെ ബഷീർ പറയുന്നുണ്ടു്: ‘ഇതെല്ലാം ഞാൻ വർത്തമാനം പറയുന്ന
+മാതിരിത്തന്നെയാണു് എഴുതിവെച്ചിരിക്കുന്നതു്.’ (അഞ്ചാം അധ്യായം)
+</p>
+          <p>സ്വന്തം രക്തത്തിൽ തൂലിക മുക്കി ബഷീർ എഴുതിയപ്പോൾ തീർത്തും വ്യത്യസ്തമായ ഒരു ഭാഷ പിറന്നു.
+
+കേരളീയസമൂഹത്തിന്റെ പുറംപോക്കുകളിൽ നിന്നാണു് ആ ശൈലി അന്നം കണ്ടെത്തിയതു്.
+ജനാധിപത്യത്തിനുവേണ്ടി യൗവനകാലം മുഴുവൻ പോരാടിയ ഈ എഴുത്തുകാരൻ ഭാഷയുടെയും
+സാഹിത്യത്തിന്റെയും ചരിത്രത്തിൽ ഇടംകിട്ടിയിട്ടില്ലാത്തവർക്കുവേണ്ടി തന്റെ ഭാഷ കൊണ്ടു് അത്തരം ഒരു ഇടം
+സൃഷ്ടിച്ചു. നിരക്ഷരരായ ഒരു മുസ്ലിം സ്ത്രീയുടെ വായിൽ നിന്നു് പുറപ്പെടുന്ന ഒരു വാക്യം തന്റെ പ്രധാനപ്പെട്ട
+നോവലിന്റെ തലക്കെട്ടാക്കാൻ അരനൂറ്റാണ്ടുമുമ്പേ അദ്ദേഹം ധൈര്യപ്പെട്ടു: <ref target="https://ml.wikipedia.org/wiki/Ntuppuppaakkoraanaendaarnnu">ന്റുപ്പുപ്പാക്കൊരാനേണ്ടാർന്നു!</ref>
+അന്നു് ആ തലക്കെട്ടു് കണ്ടും അതിലെ സംഭാഷണങ്ങൾ വായിച്ചും സാധാരണ വായനക്കാർ ആദ്യം
+അമ്പരന്നുപോയിട്ടുണ്ടു്. ആ കൃതിയിലെ അറബി പദങ്ങളും ഇസ്ലാമികപുരാവൃത്തവുമായി ബന്ധപ്പെട്ട
+സങ്കല്പങ്ങളും ജാതിമതഭേദമില്ലാതെ വായനക്കാർക്കു് മനസ്സിലായതു് ആഖ്യാനത്തിന്റെ മിടുക്കുകൊണ്ടു
+മാത്രമാണു്. കേരളീയമുസ്ലിംകളെ മലയാളസാഹിത്യത്തിന്റെ വായനക്കാരാക്കിത്തീർത്തതിൽ ഈ ശൈലി
+വലിയ പങ്കുവഹിച്ചിട്ടുണ്ടു്.
+</p>
+          <p>കഥനം വേറെ, കഥാപാത്രം വേറെ, കഥാകാരൻ വേറെ എന്നൊരനുഭവം ഈ ലോകത്തില്ല. പല
+കഥകളിലും ‘ഞാൻ’ ആണു് കഥാപാത്രം. തന്നെത്തന്നെ കഥയാക്കിത്തീർക്കുന്ന ആ ഭാഷ അനുഭവത്തിന്റെ ചൂടും
+ചൂരും കൊണ്ടു് സുതാര്യമായി; എഴുത്തുകാരൻ എളുപ്പം എല്ലാതരത്തിൽ പെട്ട വായനക്കാർക്കും
+പ്രിയങ്കരനായിത്തീർന്നു.
+</p>
+          <p>കൊച്ചുകൊച്ചു വാക്യങ്ങളും ഖണ്ഡികകളുമായി വളരെ കുറുക്കിയാണു് അദ്ദേഹം എഴുതുന്നതു്. എന്തും എപ്പോഴും
+വെട്ടിത്തുറന്നുപറയും. ശ്ലീലാശ്ലീലങ്ങളെയോ സഭ്യാസഭ്യങ്ങളെയോ വകവെക്കുകയില്ല. യഥാതഥ (റിയലിസ്റ്റിക്)
+മാണു് രീതി. അതി വൈകാരികതയോ, അലങ്കാരഭ്രമമോ കാണില്ല. കഥാകഥനം അത്രമേൽ
+സ്വാഭാവികമായതുകൊണ്ടു് വായനക്കാർക്കു് മിക്കപ്പോഴും മാധ്യമത്തിന്റെ സാന്നിധ്യം അനുഭവപ്പെടുകയില്ല.
+</p>
+          <p>ഈ ഭാഷയുടെ പ്രധാനപ്പെട്ട ഗുണം നർമ്മമാധുരിയാണു്. ഏതു് ജീവിത സാഹചര്യത്തിൽനിന്നും നർമ്മം
+കണ്ടെടുക്കാൻ അദ്ദേഹത്തിനു പ്രയാസമില്ല. <ref target="https://ml.wikipedia.org/wiki/Shabdangal">ശബ്ദങ്ങൾ</ref> എന്ന
+നോവലിന്റെ അവസാനഭാഗത്തു് നായകനായ പട്ടാളക്കാരൻ ദുരിതങ്ങളിൽ സഹികിട്ടാതെ ആത്മഹത്യചെയ്യാൻ
+റെയിൽപാളത്തിൽ തല വെച്ചു കിടക്കുന്നു. എന്തു സംഭവിച്ചുവെന്നോ? അയാളെ ഞെട്ടിച്ചുകൊണ്ടു് തൊട്ടപ്പുറത്തെ
+പാളത്തിലൂടെ തീവണ്ടി ചീറിക്കുതിച്ചു പാഞ്ഞുപോയി! മരിക്കാൻ പോലും സാഹചര്യമില്ലാത്ത ജീവിതം…
+</p>
+          <p>ഏതു് ജീവിതസന്ദർഭവും ബഷീറിന്റെ ആ സവിശേഷമായ രീതിയിൽ പറഞ്ഞാൽ തമാശയായിത്തീരും.
+എന്തിന്റെയും മറുപുറം കണ്ടെത്തുന്ന ആ സമ്പ്രദായം എപ്പോഴും വൈരുദ്ധ്യത്തിലൂടെ നർമ്മം കണ്ടെടുക്കും.
+</p>
+          <p>അക്കാലംവരെ ആളുകൾ എഴുതുവാൻ അറച്ചുനിന്ന ബുദ്ദൂസ്, ബഡ്ക്കൂസ് തുടങ്ങിയ നാടൻ വാക്കുകൾ
+എവിടെയും വളരെ സ്വാഭാവികമായി അദ്ദേഹം പ്രയോഗിക്കും. ആനവാരി രാമൻനായർ, പൊൻകുരിശു തോമാ,
+ഒറ്റക്കണ്ണൻ പോക്കര്, തൊരപ്പൻ അവറാൻ തുടങ്ങിയ പരിഹാസപ്പേരുകൾ കഥാപാത്രങ്ങൾക്കു്
+കൊടുക്കുന്നതിൽ അദ്ദേഹത്തിന്നു് സവിശേഷമായ കഴിവുണ്ടു്. ഹാസ്യത്തിനുവേണ്ടിയോ പ്രത്യേകമായ ഭാവങ്ങൾ
+ആവിഷ്ക്കരിക്കുന്നതിനുവേണ്ടിയോ നിരർത്ഥകം എന്നു് തോന്നാനിടയുള്ള പുതിയ പദങ്ങൾ ഉൽപാദിപ്പിക്കുന്ന
+ബഷീറിനു് സാറാമ്മയുടെ വാനിറ്റി ബാഗിനെ ഡങ്കുഡുതഞ്ചി (<ref target="https://ml.wikipedia.org/wiki/Premalekhanam">പ്രേമലേഖനം</ref>) എന്നോ,
+ചെറിയ പരിക്കണ്ണിയുടെ വലിയ ചന്തിയെ ബബ്ളിമൂസ് ചന്തി (ഭാർഗവീനിലയം) എന്നോ, വ്യാകരണവിധികളെ
+ലൊഡുക്കൂസ് ആഖ്യാതം (<ref target="https://ml.wikipedia.org/wiki/Pathummayude_Aadu">പാത്തുമ്മയുടെ
+ആടു്</ref> ) എന്നോ, ഗവണ്മെന്റിനെ കൊള്ളരുതാത്തതു് എന്ന അർഥത്തിൽ പളുങ്കൂസൻ (<ref target="https://en.wikipedia.org/wiki/Vishwavikhyathamaya_Mookku">വിശ്വവിഖ്യാതമായ
+മൂക്കു്</ref> ) എന്നോ വിളിക്കുവാൻ കൂസലില്ല.
+</p>
+          <p>നിത്യജീവിതത്തിന്റെ യഥാതഥാചിത്രീകരണത്തിനു് എന്നതുപോലെ ദാർശനികമാനങ്ങളുടെ ആഴം
+ആവിഷ്ക്കരിക്കേണ്ടി വരുമ്പോൾ അതിനും പ്രാപ്തമായിത്തീരുന്ന ആ ഭാഷ ആ സാഹചര്യത്തിൽ കാൽപനിക
+(റൊമാന്റിക് ) ഭാവം കൂടി കൈവരിക്കുന്നു. അങ്ങനെ അത്യന്തം ലളിതമായ പദങ്ങളിലൂടെ ശോകത്തിന്റെയും
+അർത്ഥാന്വേഷണത്തിന്റെയും ഗാംഭീര്യം അനുഭൂതമായിത്തീരുന്നു.
+</p>
+          <p>ഇത്തരം ചില സാഹചര്യങ്ങളിൽ ആ ശൈലി പതിവു് തെറ്റിച്ചു് അലങ്കാരസമൃദ്ധമായിത്തീരും.
+</p>
+          <p>ഈ ഭാഗം നോക്കൂ:
+</p>
+          <p>‘കടന്നു പോകുന്ന ഹേ, അജ്ഞാത സുഹൃത്തേ!’
+
+</p>
+          <p>‘പാടുവാൻ കഴിയുമെങ്കിൽ,’
+</p>
+          <p>‘ഒരു കുളിർഗാനനിശ്വാസത്താൽ,’
+</p>
+          <p>‘എന്റെ ഹൃദയവ്യഥയെ അൽപമൊന്നു ലഘൂകരിച്ചാലും!’
+</p>
+          <p>‘ശാന്തമോഹനമായ ജീവിതത്തിന്റെ ഒരു മധുരഗാനാലാപാൽ’
+</p>
+          <p>‘എന്നെ ഒന്നുറക്കീട്ടു് പോകൂ!’ (അജ്ഞാതമായ ഭാവിയിലേക്കു്—‘അനർഘനിമിഷം’).
+</p>
+          <p>ഒരു കാലത്തു് കേരളത്തിലെ പല യുവാക്കളും ബഷീറിന്റെ ഇത്തരം വരികൾ കാണാപ്പാഠം പഠിച്ചു്
+കവിതയെന്നപോലെ ഉരുവിട്ടുനടന്നിരുന്നു.
+</p>
+          <p>ആ ഭാഷ എത്ര ഹ്രസ്വമായും ശക്തമായും വികാരങ്ങൾ ആവിഷ്കരിക്കുന്നു എന്നു് ഒന്നുരണ്ടു്
+ഉദാഹരണത്തിലൂടെ കാണിക്കാം:
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/Baalyakaalasakhi">ബാല്യകാലസഖി</ref>
+യിലെ നായകൻ മജീദ് അപകടത്തിൽ പരിക്കുപറ്റി ആശുപത്രിയിൽ കിടക്കുകയാണു്. ബോധം
+വീണ്ടുകിട്ടിയപ്പോൾ തന്റെ ഒരു കാലിന്റെ പകുതി നഷ്ടപ്പെട്ടു എന്നു് മനസ്സിലായി. ആ രംഗമിതാ:
+</p>
+          <p>‘വീണ്ടും മജീദ് തപ്പിനോക്കി. ശൂന്യത! കീഴ്പോട്ടു് ഒന്നുമില്ല. ദുസ്സഹമായ വേദന! സുഹ്റയുടെ പ്രഥമചുംബനം
+ലഭിച്ച വലതുകാൽ! അതെവിടെപ്പോയി?’ (പതിനൊന്നാമധ്യായം)
+</p>
+          <p>തന്റെ വലതുകാലിന്റെ പ്രാധാന്യം സുഹ്റയുടെ ആദ്യത്തെ ചുംബനം ഏറ്റു വാങ്ങിയ അവയവം എന്നതാണു്!
+ആ സ്നേഹബന്ധത്തിന്റെ ആഴം ഇത്ര ചുരുങ്ങിയ വാക്കുകളിൽ ഇതിലധികം ഭംഗിയായി എങ്ങനെയാണു്
+ആവിഷ്കരിക്കുക?
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/Ntuppuppaakkoraanaendaarnnu">ന്റുപ്പുപ്പാക്കൊരാനേണ്ടാർന്നു!</ref>
+എന്ന നോവലിൽ നായിക കുഞ്ഞുപാത്തുമ്മ സുഖമില്ലാതെ കിടക്കുന്ന വെളിച്ചമില്ലാത്ത മുറിയുടെ ജനാല
+തുറക്കുവാൻ നായകൻ നിസാർ അഹമ്മദിന്റെ ബാപ്പ ആവശ്യപ്പെട്ടു.
+</p>
+          <p>തുടർന്നു് വരുന്ന ഭാഗം:
+</p>
+          <p>‘അദ്ദേഹം ജനൽ തുറന്നു. കാറ്റും വെളിച്ചവും അകത്തു കടക്കുകയാണു്. വെളിച്ചത്തിന്നു് എന്തൊരു വെളിച്ചം!’
+(പത്താമധ്യായം)
+</p>
+          <p>വെളിച്ചം അകത്തുകടന്നു എന്നല്ല, കടക്കുകയാണു് എന്നാണു്. അതൊരു നിരന്തരപ്രവാഹമാണു് എന്നു്
+സൂചന. ആ മുറിയിലേക്കു് മാത്രമല്ല, യാഥാസ്ഥിതികത കട്ടകുത്തിയ ആ കുടുംബത്തിലേയ്ക്കും ആധുനികതയുടെ
+വെളിച്ചം കടന്നുവരികയാണു് എന്നും സൂചന! ‘വെളിച്ചത്തിനു് എന്തൊരു വെളിച്ചം’ എന്നെഴുതിയപ്പോൾ
+പ്രത്യക്ഷത്തിൽ നിരർത്ഥകം എന്നു തോന്നുന്ന ഒരു പ്രയോഗത്തിലൂടെ ജീവിതം പുതുമയിലേയ്ക്കു്
+കുതികൊള്ളുന്നതിന്റെ മഹിമ സൂചിതമായി.
+</p>
+          <p>ആ ഭാഷ വായനക്കാർക്കിടയിൽ നേടിയ അംഗീകാരത്തിന്റെ സൂചനകളിലൊന്നു് ബഷീർകൃതികളിലെ പല
+സംഭാഷണങ്ങളും കഥാപാത്രങ്ങളുടെ പേരുകളും മലയാളികൾക്കിടയിൽ ശൈലി (ഇഡിയം) ആയിത്തീർന്നു
+എന്നതാണു്.
+</p>
+          <p>മലയാളകഥയിൽ പുതിയൊരു ഭാഷ സൃഷ്ടിക്കുവാൻ കഴിഞ്ഞു എന്നതാണു് വൈക്കം മുഹമ്മദ് ബഷീറിന്റെ
+ഏറ്റവും വലിയ നേട്ടം. മലയാളത്തിലെ സാഹിത്യഭാഷയെ ജനാധിപത്യവൽക്കരിച്ചതിൽ അദ്ദേഹത്തിനുള്ള പങ്കു്
+വലുതാണു്. വാമൊഴിയുടെയും സംക്ഷിപ്തതയുടെയും നർമ്മത്തിന്റെയും ദർശനത്തിന്റെയും വിവിധമാനങ്ങൾ,
+പുറമേയ്ക്കു് ലളിതമെങ്കിലും അഗാധമായ, ആ ശൈലിയിൽ ആവിഷ്കാരം നേടി. കേരളീയരുടെ ലക്ഷണമൊത്ത
+ആദ്യത്തെ നോവലായ <ref target="https://ml.wikipedia.org/wiki/Indulekha">ഇന്ദുലേഖ</ref> (1889) യിൽ നിന്നും
+തീർത്തും വ്യതസ്തമായ ഒരു കഥനഭാഷ വരുന്നതു് ബഷീറിന്റെ <ref target="https://ml.wikipedia.org/wiki/Baalyakaalasakhi">ബാല്യകാലസഖി</ref>
+(1944)യിലാണു്. പിന്നീടു് കഥനഭാഷ മാറുവാൻ മലയാളകഥക്കു് <ref target="https://ml.wikipedia.org/wiki/Khasakkinte_Ithihasam">ഖസാക്കിന്റെ
+ഇതിഹാസ</ref> (1969) ത്തോളം കാത്തിരിക്കേണ്ടിവന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Bhasha (ml: ഭാഷ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Bhasha, എം. എൻ. കാരശ്ശേരി, ഭാഷ, Open Access Publishing, Malayalam, Sayahna Foundation,
+Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 5, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough__Portrait_of_a_Shepherd_Boy_listening_to_a_Mockingbird.jpg">Portrait of a
+Shepherd Boy listening to a Mockingbird,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Thomas_Gainsborough">Thomas
+Gainsborough</ref>  (1727–1788). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-bhasha2.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-bhasha2.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

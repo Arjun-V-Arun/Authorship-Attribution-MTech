@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അഭിനവബുദ്ധൻ</title>
+          <title xml:lang="en" type="main">Abhinavabudhan</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">March 26, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അഭിനവബുദ്ധൻ</title>
+              <title xml:lang="en" type="main">Abhinavabudhan</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Abhinavabudhan</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>അഭിനവബുദ്ധൻ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>March 26, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Buddha_in_Sarnath_Museum.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg">Seated
+Buddha,</ref> a sandstone by Unknown artist  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അഭിനവബുദ്ധൻ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അഭിനവബുദ്ധൻ</head>
+        <div type="lsection">
+          <p style="noindent">1964 മേയ് മാസം ഇരുപത്തിയാറാം തീയതി വൈശാഖപൗർണ്ണമി ആയിരുന്നു.
+<ref target="https://ml.wikipedia.org/wiki/Gautama_Buddha">ബുദ്ധൻ</ref>
+ജനിച്ചതും ബോധവാനായതും പരിനിർവാണമടഞ്ഞതും ആ ദിനത്തിലാണെന്നു പറയപ്പെടുന്നുണ്ടു്.
+വൈശാഖപൗർണ്ണമിയുടെ അടുത്ത ദിനമായ മേയ് ഇരുപത്തേഴാം തീയതിയാണല്ലോ <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> മരിച്ചതു്.
+യാദൃച്ഛികമായിട്ടാകാം. എങ്കിലും അതു് ബുദ്ധനും നെഹ്റുവും തമ്മിൽ ചിന്താഗതിയിലുള്ള അടുപ്പത്തേയും
+സാദൃശ്യത്തേയും അനുസ്മരിപ്പിക്കുന്നു.
+</p>
+          <p>ബുദ്ധന്റെ കഥ ബാല്യം മുതല്ക്കേ തന്നെ ആകർഷിച്ചുവെന്നു് നെഹ്രു ‘<ref target="https://ml.wikipedia.org/wiki/The_Discovery_of_India">ഇന്ത്യയെ
+കണ്ടെത്തൽ</ref>’ എന്ന ഗ്രന്ഥത്തിൽ എടുത്തു പറയുന്നുണ്ടു്. ബുദ്ധചരിതകാവ്യമായ ‘<ref target="https://en.wikipedia.org/wiki/The_Light_of_Asia">പൗരസ്ത്യദീപം</ref>’
+(Light of Asia) എന്ന ഗ്രന്ഥവും അദ്ദേഹത്തിനു് അന്നേ ഇഷ്ടമായിരുന്നുവത്രേ. ബുദ്ധകഥയോടു ബന്ധപ്പെട്ട
+ചരിത്രപ്രസിദ്ധങ്ങളായ സ്ഥലങ്ങൾ സന്ദർശിക്കാനും അക്കാലത്തു് അദ്ദേഹത്തിനു് പ്രത്യേകം കൗതുകം
+തോന്നിയിരുന്നു. ബുദ്ധജീവിതമഹത്വത്തെപ്പറ്റി നെഹ്റു തന്റെ ഗ്രന്ഥത്തിൽ രണ്ടുമൂന്നു ഘട്ടങ്ങളിലായി സവിസ്തരം
+പ്രതിപാദിച്ചിട്ടുണ്ടു്. അദ്ദേഹം പ്രധാനമന്ത്രിയായതിനുശേഷം ബുദ്ധസന്ദേശത്തിനു ഒരു പുനരുദ്ധാരണം തന്നെ
+ഉണ്ടായി. അതുവരെ അഗണ്യകോടിയിൽ തള്ളപ്പെട്ടിരുന്ന അശോകചക്രത്തിനു് നമ്മുടെ ദേശീയപതാകയിൽ
+സ്ഥാനം ലഭിച്ചതു് ഇതിനൊരുദാഹരണമാണു്. ബുദ്ധജയന്ത്യാഘോഷം ഐതിഹ്യപ്രധാനങ്ങളായ
+പുണ്യസ്ഥലങ്ങളുടെ പരീക്ഷണം, ബുദ്ധമതസാഹിത്യഗവേഷണം മുതലായ കാര്യങ്ങൾ ഇന്നു് ഇന്ത്യയിൽ
+പൂർവാധികം ശ്രദ്ധിക്കപ്പെടുന്നുണ്ടു്. ഇതിനൊക്കെ പ്രചോദനം നൽകിയതും മറ്റൊരാളല്ല എന്തുകൊണ്ടാണു്
+നിർമ്മതനായ നെഹ്റുവിനു് ഈ മതാചാര്യനിൽ ഇത്രമാത്രം പ്രീത്യാദരങ്ങൾ തോന്നിയതു്? ജീവിതചിന്തയിൽ
+രണ്ടുപേർക്കുമുള്ള ആശയസാദൃശ്യം തന്നെയാകാം മുഖ്യ കാരണം നെഹ്റുവിനെ അഭിനവബുദ്ധനായിക്കാണാൻ
+ഈ സാദൃശ്യം നമ്മെ പ്രേരിപ്പിക്കുന്നുണ്ടു്. ബുദ്ധന്റെ ചില ആശയങ്ങൾ പുനരുദ്ധരിക്കേണ്ടതു് ഇന്നത്തെ
+ഒരാവശ്യമാണെന്നു് അദ്ദേഹം കണ്ടിരിക്കണം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">സാമൂഹ്യവിപ്ലവം</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sarvepalli_Radhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p style="noindent"> ഇന്ത്യയിൽ ഒരു സാമൂഹ്യവിപ്ലവം സൃഷ്ടിച്ച ചിന്തകനാണു് ബുദ്ധൻ എന്നു് നെഹ്റു
+പറയുന്നുണ്ടു്. ഹിന്ദുമതത്തിലെ കർമകാണ്ഡം, ചാതുർവർണ്യം, പൗരോഹിത്യം ഇവയെ എതിർക്കുകയാണു്
+ബുദ്ധൻ ആദ്യമായി ചെയ്തതു്. ജാത്യാചാരദുഷ്ടമായ ഉച്ചനീചവ്യവസ്ഥയെ തച്ചുടച്ചു് തികച്ചും ജനകീയമായ ഒരു
+ഭിക്ഷുസംഘടന അദ്ദേഹം നടപ്പാക്കി. അക്കാലത്തു് ഇതൊരു വിപ്ലവംതന്നെയായിരുന്നു. നെഹ്റുവാകട്ടെ
+ഇരുപതാം നൂറ്റാണ്ടിലെ വിചാരലോകത്തിൽ വിപ്ലവം സൃഷ്ടിച്ച മഹാത്മാവാണു്. മതമണ്ഡലത്തിൽ മാത്രമല്ല. മറ്റു്
+മണ്ഡലങ്ങളിലും മതത്തിലെ അന്ധമായ വിശ്വാസാചരങ്ങളേയും സർവ്വോപരി ജാതിഭേദത്തെയും അദ്ദേഹം
+സന്ദർഭം വരുമ്പോഴൊക്കെ അസന്ദിഗ്ദ്ധം അപലപിച്ചിരുന്നു. മതം ആവശ്യമാണെങ്കിൽത്തന്നെ അതു
+വ്യക്തിപരമായ ഒരു കാര്യമാകണമെന്നും വിശ്വാസം കാടുകയറി വ്യക്തിയേയും സമൂഹത്തെയും രാഷ്ട്രത്തേയും
+കിരാത ദശയിലേക്കു പിടിച്ചുവലിക്കരുതെന്നും മനുഷ്യൻ ശാസ്ത്രജ്ഞാനത്തിന്റെ വെളിച്ചത്തിൽ സത്യാന്വേഷണം
+നടത്തണമെന്നും ആയിരുന്നു നെഹ്റുവിന്റെ ആശയം. ബുദ്ധനെപ്പോലെ സദ്ധർമ്മാചരണത്തിനാണു് അദ്ദേഹം
+സർവപ്രധാന്യം കല്പിച്ചതു്. മതകാര്യങ്ങളിൽ ബുദ്ധനെപ്പോലെ ബുദ്ധിപരമായ സത്യസന്ധത നെഹ്റുവും
+
+പാലിച്ചിരുന്നു. ഈശ്വരനെയും ആത്മാവിനേയുംപറ്റി ചോദിച്ച ശിഷ്യരോടു് ബുദ്ധൻ പറഞ്ഞതു്, തനിക്കു് അത്തരം
+അജ്ഞേയവിഷയങ്ങളെപ്പറ്റി ഒന്നും അറിഞ്ഞുകൂടാ എന്നാണു്. മാത്രമല്ല അറിവിന്റെ പരിധിക്കപ്പുറമുള്ള
+വിഷയങ്ങളാലോചിച്ചു് വിഷിമിക്കുന്നതുകൊണ്ടു് പ്രയോജനമില്ലെന്നും അദ്ദേഹം പറയുകയുണ്ടായി. തന്റെ
+ഗ്രന്ഥത്തിൽ ബുദ്ധോപദേശങ്ങളെപ്പറ്റി നിരൂപിക്കുമ്പോൾ ഇവയെല്ലാം അദ്ദേഹം ഉപദേശിച്ചതു് യാതൊരു
+വിധമായ മതാനുശാസനമോ, അല്ലെങ്കിൽ ദൈവത്തെയോ പരലോകത്തെയോപറ്റി എന്തെങ്കിലും പരാമർശമോ
+കൂടാതെയാണു്. (All this he preached without any religious sanction of any reference to God or
+another world) എന്നു് നെഹ്റു ചൂണ്ടിക്കാണിക്കുന്നു. ഏതാണ്ടിതുതന്നെയാണു് ഈ അഭിനവ ബുദ്ധന്റെയും
+നിലപാടു്. അദ്ദേഹം ഒരു പടികൂടി കടന്നു താൻ ഇവയിലൊന്നും വിശ്വസിക്കുന്നില്ലെന്നും തുറന്നു പറഞ്ഞിട്ടുണ്ടു്.
+ബുദ്ധന്റെ യുക്തി യുക്തമായ സ്വതന്ത്രചിന്തയും ചാതുർവർണ്യപൗരോഹിത്യവിരോധവും തദുപദേശത്തിന്റെ
+ധാർമികവും ജനാധിപത്യപരവുമായ സ്വഭാവവുമാണു് നെഹ്റുവിനെ ഏറ്റവും കൂടുതലായി
+ആകർഷിച്ചതു്. ‘ഇന്ത്യയിൽ യുക്തിവാദിയായിട്ടു് ആരെങ്കിലും ഉണ്ടായിരുന്നെങ്കിൽ അതു് ബുദ്ധനാണു്’ എന്നു് <ref target="https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan">രാധാകൃഷ്ണൻ</ref>
+ഒരിക്കൽ പ്രസംഗിച്ചതു് ഇവിടെ സ്മരണീയമത്രെ. നെഹ്റുവിനെപ്പറ്റിയും ഈ തത്ത്വജ്ഞാനിക്കു് ഇതുതന്നെ
+പറയേണ്ടിവരും.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">തൃഷ്ണാശാന്തി</head>
+          <p style="noindent">ബുദ്ധൻ തൃഷ്ണാശാന്തിക്കായി ശീലം, സമാധി എന്ന രണ്ടു മാർഗ്ഗം നിർദ്ദേശിച്ചിട്ടുണ്ടു്.
+ഹിംസിക്കരുതു്, മോഷ്ടിക്കരുതു് ഇത്യാദ്യുപദേശങ്ങളടങ്ങിയ പഞ്ചശീലം നെഹ്റു എത്ര ഇഷ്ടപ്പെട്ടുവെന്നതിനു്
+അതേ പേരു് അർത്ഥത്തിലല്ലെങ്കിലും രാഷ്ട്രങ്ങൾ തമ്മിലുള്ള പെരുമാറ്റത്തിൽ അദ്ദേഹം നടപ്പാക്കിയതൊരു
+തെളിവാകുന്നു. രണ്ടാമത്തേതായ സമാധി പരിശീലിക്കാൻ മൈത്രി, മുദിത, കരുണ, ഉപേക്ഷ എന്ന നാലുതരം
+ഭാവന ആവശ്യമാണെന്നു് ബുദ്ധൻ പറയുന്നു. ഈ നാലിന്റേയും നവീന പ്രതീകമായിരുന്നു നെഹ്രു.
+സർവഭൂതസ്നേഹമാണു് മൈത്രി. സർവഭൂതദയതന്നെ കരുണ; സർവ്വലോകസന്തുഷ്ടി മുദിതയും.
+ശത്രുമിത്രഭാവാദിയിലും സ്വാർത്ഥചിന്തയിലുമുള്ള ഉദാസീനമനോഭാവമത്രെ ഉപേക്ഷ. ഈവക ഗുണങ്ങൾ
+നെഹ്റുവിൽ എത്ര സ്വാഭാവികമായും സമൃദ്ധമായും പരിലസിച്ചിരുന്നുവെന്നു് പറയേണ്ടതില്ലല്ലോ. വെടിയേറ്റ
+മാനിന്റെ മരണം കണ്ടു് മനസ്സലിഞ്ഞു് അന്നുമുതൽ അദ്ദേഹം നായാട്ടു നിർത്തിയ സംഭവം സുവിദിതമാണു്.
+ബുദ്ധന്റെ ജീവകാരുണ്യമല്ലേ ഇവിടേയും പ്രത്യക്ഷപ്പെട്ടതു്? ‘ഉപേക്ഷ’യുടെ പ്രതിഫലനം നെഹ്റുവിന്റെ
+രാഷ്ട്രീയതലത്തിലുള്ള ചേരിചേരാനയത്തിൽപോലും കാണാം. സർവാശ്ലേഷിയായ സ്നേഹവും സന്തുഷ്ടിയും
+ആകാശവിശാലമായ ആ ഹൃദയത്തിൽ ഓളംവെട്ടിയിരുന്നു. ‘അക്രോധേന, ജയേൽ ക്രോധം’, ‘അഹിംസാ
+പരമോ ധർമ്മഃ’ എന്നീ ബൗദ്ധതത്ത്വങ്ങൾ കഴിയുന്നിടത്തോളം പ്രായോഗികമാക്കാൻ ഈ മനുഷ്യസ്നേഹി
+നിരന്തരം യത്നം ചെയ്തു. ബുദ്ധന്റെ മദ്ധ്യമാർഗമാണു് ഏറ്റവും ഉത്തമമെന്ന അഭിപ്രായവും അദ്ദേഹത്തിൽ
+അടിയുറച്ചിരുന്നു. ഇങ്ങനെ ഏതുവിധം നോക്കിയാലും ചിന്താമധുരമായ സാദൃശ്യം രണ്ടുപേരുടെയും
+ജീവിതാവലോകത്തിൽ കണ്ടെത്താം.
+</p>
+          <p>ഇത്രയും പറഞ്ഞതുകൊണ്ടു് ബുദ്ധമതമെന്നപേരിൽ നിലവിലുള്ള സർവ്വവും നെഹ്റു സ്വീകരിച്ചിരുന്നുവെന്നു്
+ആരും അർത്ഥമാക്കുകയില്ലല്ലോ. ബുദ്ധനും ബുദ്ധമതവും രണ്ടും രണ്ടാണു്: അദ്ദേഹത്തെ ഒരു മതസ്ഥാപകനായിട്ടു
+ഗണിക്കുന്നതുതന്നെ ശരിയല്ല. ഒരു സന്മാർഗ്ഗോപദേഷ്ടാവായിരുന്നു വാസ്തവത്തിൽ ബുദ്ധൻ. തന്റെ
+പ്രതിമയുണ്ടാക്കി ആരാധിക്കരുതെനു മരിക്കുന്നതുവരെ അദ്ദേഹം ശിഷ്യരെ താക്കീതു ചെയ്തിരുന്നു. എന്നിട്ടോ?
+ഫലമെന്തായി? നാടു മുഴുവൻ ബുദ്ധപ്രതിമകൊണ്ടു നിറഞ്ഞു. ഇതുപോലെ ബുദ്ധോപദേശത്തിന്റെ പേരിൽ
+കുറെയേറെ കാടും പടലും നൂറ്റാണ്ടുകളായി തഴച്ചുവളർന്നു മതത്തിന്റെ രൂപം പൂണ്ടിട്ടുണ്ടു്. അവയൊന്നും നെഹ്റു
+സ്വീകരിച്ചിട്ടില്ല.
+</p>
+          <p>‘ബുദ്ധമതത്തിലെ വിഷാദാത്മകത ജീവിതത്തോടുള്ള എന്റെ സമീപനവുമായി പൊരുത്തപ്പെട്ടിട്ടില്ല.
+അതുപോലെ തന്നെ ജീവിതത്തെയും അതിലെ പ്രശ്നങ്ങളെയും വിട്ടു ദൂരെപ്പോകാനുള്ള വാസനയും.’ (The
+pessimism of Budhism did not fit in with my approach to life, nor did the tendency to walk
+away from life and its problems) എന്നു് അദ്ദേഹം പ്രത്യേകം പ്രസ്താവിച്ചിട്ടുണ്ടു്. എങ്കിലും ബുദ്ധനെ ഒരു
+‘പെസ്സിമിസ്റ്റാ’യിട്ടല്ല നെഹ്റു കാണുന്നതു്. ക്രിയാത്മകമായ ചൈതന്യവും ആത്മനിയന്ത്രണവും കാരുണ്യവും
+ബുദ്ധപ്രതിമയിൽ നിന്നു നിർഗളിക്കുന്നതായി തനിക്കു തോന്നുന്നുവെന്നും അദ്ദേഹം പറയുന്നുണ്ടു്. ആ പ്രതിമയെ
+മനസ്സിൽ കണ്ടുകൊണ്ടു തുടിക്കുന്ന കലാഹൃദയത്തോടെ നെഹ്റു എഴുതിയിട്ടുള്ള പല വാക്യങ്ങളും
+ദേശകാലോചിതമായ ഒരു നവദർശനമുൾക്കൊള്ളുന്നവയാണു്.
+</p>
+          <p>അദ്ദേഹത്തിന്റെ സ്വരം നമ്മുടെ ചെവിയിൽ മന്ത്രിക്കുകയും ജീവിതമത്സരത്തിൽനിന്നു ഓടിപ്പോകാതിരിക്കുക.
+ശാന്തദൃഷ്ടിയോടെ അതിനെ അഭിമുഖീകരിക്കുക എന്നു നമ്മോടു പറയുകയും ചെയ്യുന്നു.’ (His voice whispers in
+our ears and tells us not to run away from the struggle but calm-eyed to face it). ഭാവസ്ഫുരത്തായ
+ഈ വാക്യത്തിന്റെ പിറകിലുള്ള ചിന്തയും ബൗദ്ധസിദ്ധാന്തത്തിലെ ശൂന്യവാദവും തമ്മിലെന്തന്തരം! ‘ഇന്ത്യയെ
+കണ്ടെത്തലി’ലെ ഏതാദൃശഭാഗങ്ങൾ ശാക്യമുനിയെ ഒരു പുതിയ കാഴ്ചപ്പാടിൽ വേണം കാണാനെന്നു നമ്മെ
+ഉദ്ബോധിപ്പിക്കുന്നു.
+</p>
+          <p>ഹിന്ദുമതപണ്ഡിതന്മാർ ബുദ്ധനെ ഹിന്ദുവാക്കാൻ നോക്കി. അതുവേണ്ടത്ര ഫലിച്ചില്ല. ഇതുപോലെ
+അഭിനവബുദ്ധനെ ഇന്നൊരു കൂട്ടർ ഈശ്വരവിശ്വാസിയും മതവിശ്വാസിയുമാക്കിത്തീർക്കാൻ നോക്കുന്നുണ്ടു്.
+ചരിത്രസത്യത്തിന്മേൽ മൂടുപടമിടാനുള്ള ഈ പുറപ്പാടും ഫലിക്കാൻ പോകുന്നില്ല. അങ്ങനെ ഇക്കാര്യത്തിലും
+കാണാം നെഹ്റുവിനെസ്സംബന്ധിച്ചു വിചിത്രമായൊരു ബൗദ്ധസാദൃശ്യം.
+</p>
+          <p>
+മനനമണ്ഡലം 1964.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.4.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.4.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.4"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Abhinavabudhan (ml:
+അഭിനവബുദ്ധൻ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Abhinavabudhan, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, അഭിനവബുദ്ധൻ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  March 26, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Buddha_in_Sarnath_Museum_(Dhammajak_Mutra).jpg">Seated
+Buddha,</ref> a sandstone by Unknown artist  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-abhinava.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-abhinava.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">രാമായണത്തിലെ
+നാസ്തികയുക്തിവാദം</title>
+          <title xml:lang="en" type="main">Ramayanaththile Nasthikayukthivadam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 9, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">രാമായണത്തിലെ
+നാസ്തികയുക്തിവാദം</title>
+              <title xml:lang="en" type="main">Ramayanaththile Nasthikayukthivadam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Ramayanaththile Nasthikayukthivadam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>രാമായണത്തിലെ നാസ്തികയുക്തിവാദം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 9, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Old_Woman_with_a_Basket_of_Coal.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-  _Old_Woman_with_a_Basket_of_Coal_-_Google_Art_Project.jpg">Old Woman with a
+Basket of Coal,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Peter_Paul_Rubens">Peter Paul
+Rubens</ref>  (1577–1640). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">രാമായണത്തിലെ നാസ്തികയുക്തിവാദം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">രാമായണത്തിലെ നാസ്തികയുക്തിവാദം</head>
+        <div type="lsection">
+          <p style="noindent">വാല്മീകിരാമായണം അയോദ്ധ്യാകാണ്ഡത്തിൽ നൂറ്റിയെട്ടാം സർഗം ചിന്താർഹവും
+രസകരവുമായ ഒന്നാണു്. ജാബാലിയുടെ നാസ്തികമതനിരൂപണം എന്നാണു് മൂലത്തിൽ ആ സർഗത്തിന്റെ പേരു്.
+പക്ഷേ, പ്രതിപാദ്യവിഷത്തിനു് ഈ പേരു വേണ്ടത്ര യോജിച്ചതാണെന്നു തോന്നുന്നില്ല. നാസ്തികമതത്തെപ്പറ്റി
+പൊതുവായ ഒരു നിരൂപണമല്ല ഇതിലുള്ളതു്. ജാബാലി ഒരു നാസ്തികന്റെ നിലയിൽ രാമനോടു തൽക്കാല
+കർത്തവ്യത്തെപ്പറ്റി ഒരുവാദം നടത്തുന്നുവെന്നേയുള്ളു. രാമനെ നാട്ടിലേക്കു തിരിച്ചു കൊണ്ടുവരാൻ പുറപ്പെട്ട
+ഭരതന്റെ കൂടെ ഏതാനും ബ്രാഹ്മണപണ്ഡിതന്മാരും ഉണ്ടായിരുന്നു. അവരിൽ ഒരാളാണു് ജാബാലി. രാമൻ
+തിരിച്ചുവന്നു് രാജ്യഭാരമേൽക്കണമെന്നു് ഭരതനും അനുയായികളും താണുവീണു കേണപേക്ഷിച്ചിട്ടും ആ
+സത്യവ്രതൻ വഴിപ്പെട്ടില്ല. പിതാവു് കൈകേയിയോടു ചെയ്തുപോയ പ്രതിജ്ഞ പാലിക്കണമെന്ന
+ദൃഢവ്രതമായിരുന്നു രാമന്റേതു്. ഈ നിലപാടു് എത്രത്തോളം ന്യായയുക്തവും ധർമാനുസൃതവുമാണെന്ന കാര്യം
+ചിന്തനീയമാണെന്നു ചിലർക്കെങ്കിലും തോന്നിയിരിക്കണം. രാമൻ എന്തായാലും സ്വനിശ്ചയത്തിൽനിന്നു്
+ഇളകുന്നില്ലെന്നു കണ്ടപ്പോൾ സ്വതന്ത്രചിന്തകനായ ജാബാലി മുന്നോട്ടു വന്നു് തത്ത്വപരമായ ഒരു ന്യായവാദം
+നടത്തിനോക്കി. രാമനും മറ്റു ശ്രോതാക്കൾക്കും അതൊരു നാസ്തികവാദമായിട്ടാണു തോന്നിയതു്.
+</p>
+          <p>‘ധർമം വിട്ടീവിധം ചൊന്നാൻ ജാബാലി ബ്രാഹ്മണോത്തമൻ’ എന്നു കവി പറയുന്നു. എന്താണീ ധർമം?
+അക്കാലത്തെ പുരോഹിതാനുശാസനമായ വൈദികധർമംതന്നെ. <ref target="https://ml.wikipedia.org/wiki/Valmiki">വാല്മീകി</ref> വസിഷ്ഠപ്രഭൃതികളും
+രഘുവംശ രാജാക്കന്മാരും മറ്റും വൈദിക ധർമത്തിൽ ഉറച്ചുനിൽക്കുന്നവരുമാണല്ലോ. അനേകധാ പ്രദുഷ്ടമായ
+പ്രസ്തുതധർമത്തെ ചോദ്യംചെയ്ത <ref target="https://ml.wikipedia.org/wiki/Buddha">ബുദ്ധൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Kapila">കപിലൻ</ref> തുടങ്ങിയ ചിന്തകർ
+അക്കാലത്തു നാസ്തികന്മാരായിട്ടാണു ഗണിക്കപ്പെട്ടിരുന്നതു്. അപ്പോൾ ജാബാലിയും‘ധർമം’ വിട്ടു
+സംസാരിച്ചതുമൂലം നാസ്തികനായിപ്പോയതിൽ അത്ഭുതപ്പെടാനില്ല.
+</p>
+          <p>പിതൃപുത്രാദിബന്ധങ്ങളിലുള്ള വൈകാരികാംശത്തെ തീരെ തള്ളിക്കളഞ്ഞു് അവയെ താത്ത്വികദൃഷ്ടിയോടെ
+കേവലം ബുദ്ധിപരമായി വിശകലനം ചെയ്തുകൊണ്ടാണു് ജാബാലി തന്റെ വാദമാരംഭിക്കുന്നതു്.</p>
+          <lg>
+            <l> 1 ആരാർക്കു ബന്ധു?വാർക്കെന്തോ-</l>
+            <l> ന്നെന്തൊന്നാലുണ്ടു ലഭ്യമായ്</l>
+            <l> താനേ വന്നു പിറക്കുന്നു</l>
+            <l> താനേ ചാകുന്നു ദേഹികൾ</l>
+            <l> 2 അതിനാലിങ്ങമ്മയച്ഛ-</l>
+            <l> നെന്നെവൻ രാമ, സക്തനാം</l>
+            <l> അവനേതാണ്ടൊരുന്മത്ത-</l>
+            <l> നില്ലൊരാൾക്കുമൊരാളുമേ</l>
+            <l> 3 ഗ്രാമാന്തരം പോകുമൊരാ-</l>
+            <l> ളെങ്ങാനും ചെന്നു പാർക്കയും</l>
+            <l> പിറ്റേന്നാപ്പാർപ്പിടം വിട്ടു</l>
+            <l> പോകയും ചെയ്യുകയില്ലയോ?</l>
+            <l> 4 ഇവ്വണ്ണം തന്നെ മനുജർ-</l>
+            <l> ക്കച്ഛനമ്മ ഗൃഹം ധനം</l>
+            <l> കാകുൽസ്ഥ, പാർപ്പിടം മാത്രം</l>
+            <l> സക്തരാകില്ലിതിൽ ബുധർ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vallathol-Narayana-Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">വള്ളത്തോൾ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോളി</ref>
+ന്റെ ഈ പരിഭാഷ സുവ്യക്തമാകയാൽ ഇവിടെ അർത്ഥവിവരണം ആവശ്യമില്ലല്ലോ. നിർവികാരനായ ഒരു
+ശുഷ്കവേദാന്തിയുടെ മട്ടിലാണു് ജാബാലിയുടെ ഈ ചോദ്യോത്തരങ്ങൾ. രാമൻ അച്ഛന്റെ വാക്കിനു് അത്ര വലിയ
+വിലയൊന്നും കല്പിക്കേണ്ടതില്ലെന്നും രാജ്യം ത്യജിച്ചു വനവാസിയായതു ബുദ്ധിപൂർവ്വകമല്ലെന്നുമത്രേ ഇതിലെ
+സൂചന. തത്ത്വമാലോചിച്ചു നോക്കിയാൽ:</p>
+          <lg>
+            <l> നിനക്കാരദ്ദശരഥ-</l>
+            <l> നാരദ്ദേഹത്തിനും ഭവാൻ</l>
+            <l> ആ നൃപൻ വേറെ നീ വേറെ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു വീണ്ടും ഉദ്ബോധിപ്പിച്ചുകൊണ്ടു് ജാബാലി രാമനോടു് അയോദ്ധ്യയിലേക്കു തിരിച്ചുവന്നു നാടുവാഴാൻ
+നിർബന്ധിക്കുന്നു.</p>
+          <lg>
+            <l> ‘പ്രാണിക്കച്ഛൻ വെറും വിത്ത്</l>
+            <l> മാതാവിലൃതുവേളയിൽ</l>
+            <l> ചേർന്ന ശുക്ലാസ്രമാണല്ലോ</l>
+            <l> ജന്മഹേതു നരന്നിഹ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നിങ്ങനെ ഈ ബ്രാഹ്മണൻ യാതൊരു സങ്കോചവും കൂടാതെ ജന്മഹേതുവിനെപ്പറ്റി ഒരു
+ശാസ്ത്രീയവിശദീകരണവും നിൽക്കുന്നുണ്ടു്. പിതൃപുത്രബന്ധത്തെ തത്ത്വദൃഷ്ട്യാ വീക്ഷിക്കാൻ രാമനെ അതു
+സഹായിക്കുമെന്നു് അദ്ദേഹം വിചാരിച്ചിരിക്കാം. പിതൃക്കൾക്കുവേണ്ടി ചാത്തമിടുന്ന സമ്പ്രദായത്തെ
+ഒരന്ധാചാരമെന്ന നിലയിൽ ജാബാലി അപലപിക്കുന്നതും പ്രത്യേകം ശ്രദ്ധേയമാണു്.
+</p>
+          <p>‘നോക്കു ചോറ്റിന്റെ ചെലവു്! ചത്താളൂണുകഴിക്കുമോ?’ എന്ന ചോദ്യം രസകരമായിട്ടുണ്ടു്.</p>
+          <lg>
+            <l> ‘ഒരാളിങ്ങുണ്ടതന്യന്റെ</l>
+            <l> ദേഹത്തിൽച്ചെല്ലുമെങ്കിലോ</l>
+            <l> പോയവന്നൂട്ടിയാൽച്ചാത്തം</l>
+            <l> വഴിച്ചോറായിടേണ്ടയോ?</l>
+            <l> മയക്കു പുസ്തകമിതു</l>
+            <l> ലാഭാർത്ഥം പ്രാജ്ഞരാൽ കൃതം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതിലെ അന്ത്യഭാഗം മനുഷ്യരെ വഴിപിഴപ്പിക്കുന്ന പൗരോഹിത്യത്തിന്റെയും മതമേഖലയിലെ മറ്റു
+നിക്ഷിപ്തതാല്പര്യങ്ങളുടെയും തലയ്ക്കടിക്കുന്ന ഒന്നാണു്. മതത്തിലെ ഈ മയക്കുപുസ്തകങ്ങൾ പാരായണം ചെയ്തു
+ബുദ്ധികെട്ടിട്ടാണല്ലോ മനുഷ്യർ അന്ധതയിലാണ്ടു പുരോഹിതവർഗ്ഗത്തിന്റെ ചൂഷണത്തിനിരയായിപ്പോകുന്നതു്.
+ജാബാലി ഇത്ര രസികനും ഉല്പതിഷ്ണുവുമാണെന്നു് ഈ ഭാഗം വായിക്കുമ്പോഴെ തെളിയുന്നുള്ളു. അവസാനമായി
+അദ്ദേഹം പറകയാണു്. പ്രത്യക്ഷം സ്വീകരിച്ചാലും പരോക്ഷം പിന്നിലാക്കി നീ എന്നും.</p>
+          <lg>
+            <l> ‘ആസർവലോകാദ്യതമാം</l>
+            <l> ബുദ്ധി മുന്നിർത്തിയിട്ടു നീ</l>
+            <l> രാജ്യത്തെയേറ്റു വാങ്ങിക്ക</l>
+            <l> ഭരതന്റെയപേക്ഷയാൽ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നും അജ്ഞേയമായ പരോക്ഷകാര്യങ്ങളെപ്പറ്റി വിചാരിച്ചു ജീവിതം പാഴാക്കാതെ സുവിജ്ഞാതമായ
+
+പ്രത്യക്ഷകാര്യങ്ങളിൽ ശ്രദ്ധിക്കാനാണു് ഇവിടെ ജാബാലി ഉപദേശിക്കുന്നതു്. ഇതു് ഏറ്റവും
+അർത്ഥവത്തായിട്ടുണ്ടു്. അന്നത്തെപ്പോലെ തന്നെ ഇന്നും ഭാരതീയർക്കു് ആവശ്യമായ വിലപ്പെട്ട ഒരു
+ഉപദേശമാണിതു്. പ്രത്യക്ഷത്തെ അപ്രധാനീകരിച്ചു പരോക്ഷത്തിന്റെ അതായതു് ആത്മാവു്, പരലോകം
+തുടങ്ങിയ നിഴലുകളുടെ പിന്നാലെ പോയതു കൊണ്ടല്ലേ വേർതിരിച്ചു നിർത്തി ആദ്യത്തേതു നിസ്സാരവും
+രണ്ടാമത്തേതു സസാരവുമാണെന്നു പരിഗണിക്കുന്ന ഒരു പാരമ്പര്യമുണ്ടല്ലോ ഭാരതീയർക്കു്. ഈ
+വ്യത്യസ്തപരിഗണനം വെറും അബദ്ധപ്പഞ്ചാംഗമാണെന്ന ബോധം ഇപ്പോഴെങ്കിലും അവരിൽ തെളിഞ്ഞു
+തുടങ്ങിയിട്ടുണ്ടു്. ‘ഈ ലോകത്തിലും ഈ ജീവിതത്തിലുമാണു് എനിക്കു താല്പര്യം. മറ്റേതെങ്കിലും ലോകത്തിലോ
+അനന്തരജീവിതത്തിലോ അല്ല’ എന്നു നമ്മുടെ രാഷ്ട്രശില്പിയായ <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> <ref target="https://dict.sayahna.org/stv/36027/">ആമ്രേഡനം</ref> ചെയ്തിരുന്നതു
+വെറുതെയല്ല. ജനങ്ങളുടെ ജീവിതാവലോകനത്തിൽ ഇത്തരമൊരു പരിവർത്തനം വരണമെന്നു വിചാരിച്ചാണു്.
+</p>
+          <p>അയോദ്ധ്യാകാണ്ഡത്തിലെ അടുത്ത സർഗ്ഗംകൂടി നോക്കുക. അതിലാണു് രാമന്റെ നാസ്തികമതനിരാകരണം.
+ജാബാലിയുടെ യുക്തിവാദത്തിനു യുക്തികൊണ്ടല്ല രാമൻ മറുപടി പറയുന്നതു്. അതു് അത്ര എളുപ്പവുമല്ല.
+പരമ്പരസിദ്ധമായ മതവിശ്വാസത്തെയാണു് അദ്ദേഹം മുഖ്യമായി ആശ്രയിക്കുന്നതു്.
+</p>
+          <p>ജാബാലി പറഞ്ഞതെല്ലാം സത്യധർമ്മസദാചാരങ്ങക്കു വിരുദ്ധമാണെന്നു മൊത്തത്തിൽ ആക്ഷേപിക്കുക
+മാത്രമേ രാമൻ ചെയ്യുന്നുള്ളു. എന്താണു സത്യം ഏതാണു ധർമ്മം, ഏതു വിധമാണു സദാചാരം എന്നീ
+പ്രശ്നങ്ങളെപ്പറ്റി യുക്തിവിചാരം ചെയ്യാൻ അദ്ദേഹം ഒരുമ്പെടുന്നില്ല.</p>
+          <lg>
+            <l> ‘സത്യംതാനീശ്വരൻ ലോകേ’</l>
+            <l> ‘ഇല്ല സത്യാൽപരം പദം’</l>
+            <l> ‘ലോകം സത്യത്തിൽ നില്പതാം’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നും മറ്റുമുള്ള സത്യമാഹാത്മ്യഘോഷണമേ രാമന്റെ മറുപടിയിൽ മുഴങ്ങിക്കേൾക്കുന്നുള്ളു.
+പ്രതിയോഗിയുടെ വാദമുഖങ്ങൾക്കു യുക്തിപൂർവം സമാധാനം പറയാൻ വയ്യാതാകുമ്പോൾ വാദിക്കു
+കോപംവരുക സാധാരണമാണല്ലോ. ഇവിടെ രാമനും ക്രുദ്ധനാകുന്നുണ്ടു്.</p>
+          <lg>
+            <l> ‘ഇബ്ബുദ്ധിയും പൂണ്ടു നടക്കുവോനെ-</l>
+            <l> ദ്ധർമം വിടും നാസ്തികനാം ഭവാനെ</l>
+            <l> അബൗദ്ധനും ചോരനുമൊപ്പമാണി-</l>
+            <l> ങ്ങവ്വണ്ണമേ നാസ്തികനെന്നുമോർക്ക’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇങ്ങനെ ജാബാലിയെ ഭർത്സിക്കുകയാണു് ഒടുവിൽ രാമൻ ചെയ്യുന്നതു്. ഇവിടെ ബൗദ്ധനെയും ചോരനെയും
+നാസ്തികനെയും ഒരേ നിലയിൽ നിഷിദ്ധരാക്കിയിരിക്കുന്നതു നോക്കുക! വൈദികമതസ്ഥർക്കു് ബുദ്ധമതത്തോടും
+അന്നത്തെ അവൈദികചിന്താപദ്ധതിയോടും എന്തുമാത്രം വെറുപ്പുണ്ടായിരുന്നുവെന്നു് ഇതുകൊണ്ടു
+മനസ്സിലാക്കാം. ഇതിലെ ബൗദ്ധപരാമർശം ചരിത്രപണ്ഡിതന്മാരുടെ ശ്രദ്ധയിൽപ്പെട്ടിരിക്കാം. ബുദ്ധന്റെ
+കാലത്തിനു ശേഷമായിരിക്കണം രാമായണനിർമാണം എന്നനുമാനിക്കാൻ ഇതൊരു തെളിവാണു്. അതങ്ങനെ
+നിൽക്കട്ടെ. പ്രകൃതം തുടരാം.
+</p>
+          <p>രാമന്റെ അധിക്ഷേപത്തിനും അപ്രീതിക്കും പാത്രമായി എന്നു കണ്ടപ്പോൾ ജാബാലി തന്റെ അടവൊന്നു
+മാറ്റുന്നതാണു് ഇനി കാണേണ്ടതു്. തന്ത്രശാലിയും ബുദ്ധിപ്രധാനനും ആയ ഒരു ബ്രാഹ്മണന്റെ സാർമർത്ഥ്യമെല്ലാം
+അവിടെ പ്രത്യക്ഷപ്പെടുന്നുണ്ടു്. താൻ വാസ്തവത്തിൽ നാസ്തികനല്ലെന്നും രാമന്റെ പ്രത്യാഗമനത്തിനുവേണ്ടി
+സദുദ്ദേശ്യത്തോടെ ഇങ്ങനെയൊന്നു വാദിച്ചുനോക്കിയതാണെന്നും ജാബാലി പറയുന്നു. അതിന്റെ
+അനുബന്ധമായി താൻ തരംപോലെ നാസ്തികനും ആസ്തികനുമാകുമെന്ന കാര്യവും അയാൾ തുറന്നു
+സമ്മതിക്കുന്നു.</p>
+          <lg>
+            <l> ‘അവസ്ഥ പാർത്താസ്തികനായ് ചമഞ്ഞിടും</l>
+            <l> ഭവിക്കുമേ നാസ്തികനായി വീണ്ടും’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> ഇതൊരു ബുദ്ധിക്കസർത്താണു്. ഇങ്ങനെ തകിടം മറിയുന്നതിനു് ആത്മാർത്ഥത വേണമെന്നില്ലല്ലോ.
+അവസ്ഥ പാർത്തു് എന്നതിനു് സമീക്ഷ്യകാലം എന്നാണു മൂലം. അതായതു് കാലം നോക്കി ഏതുതരം
+തത്ത്വചിന്തയുടെയും കോലംകെട്ടിനോക്കുമെന്നു സാരം. പ്രാചീനഭാരതത്തിലെ തത്ത്വജ്ഞാനമണ്ഡലത്തിൽ
+വിഭിന്നചിന്താഗതികൾ നിലവിലുണ്ടായിരുന്നു. അന്നത്തെ ബ്രാഹ്മണപണ്ഡിതന്മാർ ആ ചിന്താഗതികളിലേക്കു്
+അങ്ങോട്ടുമിങ്ങോട്ടും മാറിക്കൊണ്ടിരിക്കാൻ മടി കാണിച്ചിരുന്നില്ല. മാത്രമല്ല അന്യോന്യവിരുദ്ധങ്ങളായ
+ആശയങ്ങളെപ്പോലും അല്പാല്പം ഭേദപ്പെടുത്തി അവർ കൂട്ടിച്ചേർക്കയും ചെയ്തിരുന്നു.
+</p>
+          <p>ഭഗവദ്ഗീത നോക്കിയാൽ കാണാം ഇതിനു ധാരാളം ഉദാഹരണങ്ങൾ. ഒരു വശത്തുകൂടി തിരസ്കൃതമായ
+ബുദ്ധമതത്തിലെ ചില തത്ത്വങ്ങൾ മറുവശത്തുകൂടി കടന്നു് ഹിന്ദുമതഗ്രന്ഥങ്ങളിൽ സ്ഥലം പിടിച്ചതും ഈ
+രീതിയിലാകാം. ഇതിനും പുറമേ അന്നന്നു ഭരിച്ചിരുന്ന രാജാക്കന്മാരുടെ മതവിശ്വാസവും ആശയപരമായ ഈ
+മാറ്റത്തിനും സങ്കലനത്തിനും പ്രേരകമായിരുന്നിട്ടുണ്ടു്. അതുകൊണ്ടു് ജാബാലിയെപ്പോലെ കാലം നോക്കി
+വിഭിന്ന സിദ്ധാന്തങ്ങൾ പ്രയോഗിക്കുന്ന സമ്പ്രദായം അന്നു സാധാരണമായിരുന്നിരിക്കാം.
+</p>
+          <p>എന്തിനാണു് <ref target="https://ml.wikipedia.org/wiki/Valmiki">വാല്മീകി</ref> ജാബാലിയെക്കൊണ്ടു്
+ഇങ്ങനെയൊരു നാസ്തികവേഷം കെട്ടിച്ചതു്?
+</p>
+          <p>ഉത്തമവിശ്വാസമില്ലാതെ തരംപോലെ ചിന്താഗതി മാറ്റുന്ന പണ്ഡിതന്മാരെ കളിയാക്കാനും
+ബുദ്ധചാർവാകമതങ്ങളെ മനഃപൂർവം അധിക്ഷേപിക്കാനും അല്ലേ? അങ്ങനെ വിചാരിക്കാനാണു് അധികം
+ന്യായം. അഥവാ ഈ കവീശ്വരനിൽ വിലീനമായിരുന്ന സ്വതന്ത്രചിന്താശീലവും യുക്തിവാദമനോഭാവവും ഒരു
+കഥാപത്രത്തിൽക്കൂടി പൊട്ടിപ്പുറപ്പെട്ടുവെന്നു് വിചാരിക്കരുതോ. പിന്നീടു് വൈദികധർമ്മവിരോധം ഭയന്നു്
+കവിപ്രതിഭ കൗശലത്തിൽ പഴയസ്ഥാനത്തേക്കു പിൻവലിഞ്ഞുവെന്നും വരാമല്ലോ.
+</p>
+          <p>
+മനനമണ്ഡലം 1964.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ramayanaththile
+Nasthikayukthivadam (ml: രാമായണത്തിലെ നാസ്തികയുക്തിവാദം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Ramayanaththile Nasthikayukthivadam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, രാമായണത്തിലെ
+നാസ്തികയുക്തിവാദം, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 9, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens__Old_Woman_with_a_Basket_of_Coal_-_Google_Art_Project.jpg">Old Woman with a
+Basket of Coal,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Peter_Paul_Rubens">Peter Paul
+Rubens</ref>  (1577–1640). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-ramanastic.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzharamanastic.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

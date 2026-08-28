@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">എം. പി. പോൾ</title>
+          <title xml:lang="en" type="main">M. P. Paul</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">July 11, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">എം. പി. പോൾ</title>
+              <title xml:lang="en" type="main">M. P. Paul</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>M. P. Paul</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>എം. പി. പോൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 11, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/mppaul1.jpg" width="100%"/>
+          <figDesc>M P Paul, a portrait by Anonymous  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">എം. പി. പോൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">എം. പി. പോൾ</head>
+        <div type="lsection">
+          <p style="noindent">എന്നെന്നേയ്ക്കുമായി പിരിഞ്ഞുപോയ ഒരാത്മസുഹൃത്തിന്റെ ജീവിത മഹത്ത്വത്തെ
+അനുസന്ധാനം ചെയ്യുമ്പോൾ ഭാവസ്ഥിരങ്ങളായ പല സൗഹൃദ ചിന്തകളും പൊന്തിവരാം. അവയൊന്നും ഇവിടെ
+പ്രപഞ്ചനം ചെയ്യുന്നില്ല. <ref target="https://ml.wikipedia.org/wiki/M.P._Paul">എം. പി. പോൾ</ref>
+കേരളത്തിലെ സംസ്ക്കാരമണ്ഡലത്തിൽ അനന്യദൃഷ്ടമായ പ്രകാശം വീശിയ ഒരു സാഹിത്യജ്യോതിസ്സായിരുന്നു.
+ആ നിലയിൽ അദ്ദേഹത്തെ നോക്കിക്കാണുകയാണു് ഇവിടെ ഉദ്ദിഷ്ടം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mundassery2.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോസഫ് മുണ്ടശ്ശേരി</figDesc>
+          </figure>
+          <p>“പ്രൊഫസർ എം. പി. പോൾ എല്ലാംകൊണ്ടും ഒരു ജീനിയസ്സായിരുന്നു” എന്നു് അദ്ദേഹം
+അകാലചരമമടഞ്ഞപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Joseph_Mundassery">ശ്രീ. മുണ്ടശ്ശേരി</ref>
+രേഖപ്പെടുത്തി. <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">ശ്രീ.
+പനമ്പിള്ളി</ref> യും ആയിടയ്ക്കു പരേതനെപ്പറ്റി ഒരു പ്രൗഢപ്രബന്ധം എഴുതി വായിക്കുകയുണ്ടായി.
+പ്രശംസാത്മകമായ മറ്റു പല അനുസ്മരണകളും അന്നു് പുറത്തുവന്നു. എന്നാൽ പോൾ ജീവിച്ചിരുന്ന കാലത്തു്
+അദ്ദേഹം അർഹിച്ചിരുന്ന ഈ പ്രശസ്തിക്കു് വേണ്ടത്ര പ്രസിദ്ധീകരണം ലഭിച്ചിരുന്നില്ല. ഇമിറ്റേഷൻ
+സാധനങ്ങൾക്കു പ്രചാരക്കൂടുതലുള്ള നമ്മുടെ നാട്ടിൽ തനിപ്പൊന്നിന്റെ വിലയറിയുന്നവർ ചുരുക്കമാണല്ലോ.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ശാലീനതയും നിർഭയത്വവും</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/panampilli-govindamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">പനമ്പിള്ളി ഗോവിന്ദമേനോൻ</figDesc>
+          </figure>
+          <p style="noindent"> പോൾ പ്രകൃത്യാ ശാലീനനും പ്രശസ്തിവിമുഖനുമായിരുന്നു. പേരിനും പെരുമയ്ക്കും
+വേണ്ടി സ്വയം പെരുമ്പറകൊട്ടാൻ അദ്ദേഹം ഇഷ്ടപ്പെട്ടില്ല. ‘മരിക്കാൻ പ്രയാസമില്ല, മനുഷ്യത്വത്തോടെ
+ജീവിക്കാനാണു് വിഷമം’ എന്നു് അദ്ദേഹം പലപ്പോഴും പറഞ്ഞിട്ടുണ്ടു്. മനുഷ്യത്വം മാനിക്കപ്പെടാത്ത
+കാലഘട്ടത്തിൽ ജീവിക്കുന്ന താദൃശന്മാരായ സ്വതന്ത്രബുദ്ധികൾക്കു പല വൈഷമ്യങ്ങളും നേരിടാം. എതിർപ്പും
+ഏഷണിയും അവഹേളനവും അപവാദവും അവർക്കു സഹിക്കേണ്ടിവരും. പോളിനും ഈ അനുഭവം
+കുറെയുണ്ടായി. ജാതിമതസമുദായങ്ങളുടെ ഇടുങ്ങിയ മതിൽക്കെട്ടിനുള്ളിൽ കുടുങ്ങിക്കിടക്കുന്ന ഒന്നല്ല മനുഷ്യത്വം.
+അതിന്റെ വിശാല വീഥിയിൽ, അന്ധവും സങ്കുചിതവുമായ സകലതിനേയും വെല്ലുവിളിച്ചുകൊണ്ടു്,
+അകുതോഭയനായിട്ടാണു് പോൾ സഞ്ചരിച്ചതു്. ആ ധീരാത്മാവിന്റെ ഉത്പതിഷ്ണുത്വവും സ്വതന്ത്ര ചിന്തയും
+ശാസ്ത്രീയമനോഭാവവും മതമണ്ഡലത്തിലെ കൂപമണ്ഡൂകങ്ങളെ വിറളിപിടിപ്പിച്ചതിൽ അത്ഭുതപ്പെടാനില്ല.
+സാഹിത്യത്തിൽ മാത്രമല്ല മതത്തിലും പോൾ പുതിയൊരു വെളിച്ചമായിരുന്നുവെന്നു ഭാവിതലമുറകൾ
+മനസ്സിലാക്കിക്കൊള്ളും.
+
+</p>
+          <p>പണ്ഡിതൻ, നിരൂപകൻ, പ്രബന്ധകാരൻ, അധ്യാപകൻ, സൗന്ദര്യാരാധകൻ, പുരോഗമനവാദി
+എന്നിങ്ങനെ എത്രയോ നിലകളിൽ സ്മര്യപുരുഷൻ തന്നെ മായാത്ത വ്യക്തിമുദ്രപതിച്ചിട്ടുണ്ടു്. ഗംഭീരാശയനായ
+ഒരു പണ്ഡിതൻ എന്നു് പോളിനെ വിശേഷിപ്പിച്ചാൽ അതുകൊണ്ടു മാത്രം അദ്ദേഹത്തിന്റെ യോഗ്യത മുഴുവൻ
+വെളിപ്പെടുന്നതല്ല. അന്യാദൃശമായ സഹൃദയത്വം കൊണ്ടും സൗന്ദര്യപ്രബോധംകൊണ്ടും മധുരീകരിച്ചതായിരുന്നു
+ആ പാണ്ഡിത്യം.</p>
+          <lg>
+            <l> “പണ്ഡാ തു സംസ്കൃതാ ബുദ്ധി:-</l>
+            <l> തദ്വാൻ പണ്ഡിത ഉച്യതേ.” </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നൊരു നിർവ്വചനം കേട്ടിട്ടുണ്ടു്. യഥാർത്ഥ പാണ്ഡിത്യത്തിന്റെ ലക്ഷണമായ ഈ സംസ്കൃതബുദ്ധി
+പോളിന്റെ ചിന്തയിലും വചനത്തിലും പ്രവൃത്തിയിലും പൂർണ്ണമായി പരിലസിച്ചിരുന്നു. അറിവിന്റെ വെറും ചുമടല്ല
+അദ്ദേഹം നേടിയതു്. ‘വിദ്യയുമിരുളേ പൊരുളില്ലാഞ്ഞാൽ’ എന്നൊരാപ്തവാക്യമുണ്ടു്. പോളിന്റെ വിദ്യാസമ്പത്തു
+പൊരുൾത്തെളിഞ്ഞു് ഒളിവീശുന്നതായിരുന്നു. പരിപക്വമായ വിജ്ഞാനവും സമുൽക്കൃഷ്ടമായ സംസ്ക്കാരവും
+അദ്ദേഹത്തിൽ കൈകോർത്തു പിടിച്ചിരുന്നു. സ്വന്തം ചിന്തയിൽ ദഹിച്ചു ചേരാത്ത വിജ്ഞാനഖണ്ഡങ്ങൾ
+നിറഞ്ഞ പാണ്ഡിത്യഭാണ്ഡം ഭേസി നടക്കുന്ന പലരേയും നാം കണ്ടിട്ടുണ്ടല്ലോ. അവരോടു്
+താരതമ്യപ്പെടുത്തുമ്പോഴേ പോളിന്റെ പാണ്ഡിത്യ മഹിമ വെളിപ്പെടുകയുള്ളൂ. തന്റെ മനീഷാചഷകത്തിലിട്ടു
+പുടപാകം ചെയ്തു സ്വാംശീകരിച്ചിട്ടേ അദ്ദേഹം ഏതറിവും മറ്റുള്ളവർക്കു പകർന്നുകൊടുക്കൂ. ജീവിതത്തെ
+സമഗ്രമായി വീക്ഷിച്ച ഒരു ദാർശനികനേയും നമുക്കു പോളിൽ കാണാം. അദ്ദേഹത്തിന്റെ ഒരു ഗ്രന്ഥത്തിലുമില്ല
+അശാസ്ത്രീയമായ പാർശ്വവീക്ഷണം. സിദ്ധാന്തബദ്ധമോ ഏകപഥീനമോ ആയിരുന്നില്ല ആ പ്രതിഭ.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">സാഹിത്യസംഭാവന</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ramavarma_Appan_Thampuran.jpg" rendition="gra"/>
+            <figDesc style="thumb">അപ്പൻതമ്പുരാൻ</figDesc>
+          </figure>
+          <p style="noindent"> നമ്മുടെ സാഹിത്യത്തിനു പോളിൽനിന്നു് എന്തു നേട്ടമുണ്ടായി എന്ന ചോദ്യം
+ഈയവസരത്തിൽ സംഗതമാണു്. നോവൽ സാഹിത്യം, ചെറുകഥാപ്രസ്ഥാനം, സൗന്ദര്യനിരീക്ഷണം,
+സാഹിത്യവിചാരം, ഗദ്യകലിക, ലുബ്ധൻ എന്ന നാടകം ഇവയാണു് അദ്ദേഹത്തിന്റെ പ്രധാന കൃതികൾ.
+ആദ്യത്തെ മൂന്നും ലക്ഷണഗ്രന്ഥങ്ങളാണു്. അവ കൈരളീകണ്ഠത്തിലെ തേച്ചുമിനുക്കിയ രത്നങ്ങളാണെന്നു്
+അതിശയോക്തികൂടാതെ പറയാം. കഥാപ്രസ്ഥാനങ്ങളെപ്പറ്റി ഇത്ര വിപുലവും വിജ്ഞാനപ്രദവുമായ
+നിരൂപണഗ്രന്ഥങ്ങൾ മലയാളത്തിൽ വേറെയില്ല എന്നതുതന്നെ അവയുടെ മേന്മയെ വെളിപ്പെടുത്തുന്നു.
+‘നോവൽ സാഹിത്യ’ത്തിലെ <ref target="https://ml.wikipedia.org/wiki/Ramavarma_Appan_Thampuran">അപ്പൻതമ്പുരാന്റേ</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/C._V._Raman_Pillai">സി. വി.
+രാമൻപിള്ള</ref> യുടേയും കൃതികളെപ്പറ്റിയുള്ള ഗുണദോഷവിചിന്തനം ഗ്രന്ഥകാരന്റെ അഭിപ്രായധീരതയ്ക്കും
+നിരൂപണനൈപുണിക്കും ഉദാഹരണമാണു്. നോവലെഴുത്തുകാർക്കു് ഒരു ബൈബിളായിട്ടുണ്ടു് ഈ
+ലക്ഷണഗ്രന്ഥം. പോളിന്റെ ഇരുപത്താറാം വയസ്സിലാണു് ഇതെഴുതിയതെന്നോർക്കുമ്പോൾ ആ
+പ്രതിഭാവിലാസത്തിൽ നമുക്കു് അത്ഭുതം തോന്നാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CV_as_a_young_man.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. വി. രാമൻപിള്ള</figDesc>
+          </figure>
+          <p> ‘ചെറുകഥാപ്രസ്ഥാ’നവും ഇതുപോലെതന്നെ എണ്ണം പറഞ്ഞ ഒരു കൃതിയാകുന്നു. അതിന്റെ
+
+രണ്ടാംപതിപ്പിൽ “ഇതു വിമർശകനെ വിമർശിക്കാനും കഥാകൃത്തിനെ കഥയെഴുതാനും മാത്രമല്ല വായനക്കാരെ
+വായിക്കാനും പഠിപ്പിക്കുന്നു” എന്നു പ്രസാധകൻ പറഞ്ഞിട്ടുള്ളതു് തികച്ചും വാസ്തവമാണു്. ചെറുകഥാഗാത്രത്തിന്റെ
+സർവ്വാവയവങ്ങളും ഇതിൽ സനിഷ്ക്കർഷം നിരൂപിതമായിട്ടുണ്ടു്. ചുരുക്കത്തിൽ കഥാസാഹിത്യ നിരൂപണത്തിന്റെ
+ഒന്നാംതരം മാതൃകകളാകുന്നു ഈ രണ്ടു ഗ്രന്ഥങ്ങളും.
+</p>
+          <p>എന്നാൽ മൂല്യനിർണ്ണയത്തിൽ ഈ രണ്ടിനേയും അതിശയിക്കുന്നുണ്ടു് ‘സൗന്ദര്യനിരീക്ഷണം.’
+സൗന്ദര്യശാസ്ത്രത്തെ സംബന്ധിച്ചു് ഈയൊരു ഗ്രന്ഥമേ മലയാളത്തിലുള്ളൂ. അതു് ഒറ്റതിരിഞ്ഞ നക്ഷത്രം പോലെ
+പ്രശോഭിക്കുന്നു. പോളിന്റെ സൗന്ദര്യാവബോധം ശാസ്ത്രീയവും അതേസമയം സഹൃദയാസ്വാദനത്തിൽ
+അധിഷ്ഠിതവുമാണു്. പാശ്ചാത്യവും പൗരസ്ത്യവുമായ സൗന്ദര്യബോധത്തെ സമന്വയിപ്പിച്ചു് നൂതനമായൊരു
+വിചാരണസരണിയെ ഗ്രന്ഥകാരൻ ഇതിൽ അവതരിപ്പിച്ചിരിക്കുന്നു. സൗന്ദര്യമെന്നാലെന്തു് എന്ന ചോദ്യം
+ഒരെത്തും പിടിയുമില്ലാത്ത ഒന്നാണല്ലോ. പോളിനെപ്പോലുള്ള കലാമർമ്മജ്ഞർക്കേ അതിനു ശരിക്കുത്തരം
+പറയാൻ കഴിയൂ. ആകൃതിയിൽ ചെറുതാണെങ്കിലും ഉള്ളടക്കംകൊണ്ടു കനംകൂടിയ ഈ കൃതി അദ്ദേഹത്തിന്റെ
+ഏറ്റവും വലിയ സംഭാവനയായിട്ടു കണക്കാക്കാം.
+</p>
+          <p>ഏതാനും പ്രബന്ധങ്ങളുടെ സമാഹാരമാണു് ‘സാഹിത്യവിചാരം.’ കലയും കാലവും, പാശ്ചാത്യരുടെ
+കാവ്യനിർവ്വചനം, ഭാഷാഗദ്യശൈലി, കവിതയിൽ വാഗാർത്ഥങ്ങൾക്കുള്ള സ്ഥാനം, കത്തുകൾ, ആത്മഗതം,
+കാവ്യ പ്രചോദനം, ഹാസ്യത്തിന്റെ ഉത്പത്തി, ആധുനിക ഗദ്യസാഹിത്യം, സാഹിത്യ പുരോഗതി എന്നീ
+വിവിധവിഷയങ്ങളെ ഇതിൽ ചർച്ചചെയ്തിരിക്കുന്നു. ഇന്നത്തെ സാഹിത്യകാരന്മാർ അറിയേണ്ടതും
+ആലോചിക്കേണ്ടതുമായ പല തത്ത്വങ്ങളും ഓരോ നിരൂപണത്തിലുമുണ്ടു്. ഗദ്യകവിതാവൈകൃതത്തെപ്പറ്റി “പു, തു
+ഇത്യാദി ഉപസർഗ്ഗങ്ങൾകൊണ്ടു മോടിപിടിപ്പിച്ചു പ്രാസാനുപ്രാസങ്ങൾ കണക്കിലേറെ ചെലുത്തി, സൗന്ദര്യം
+നടിക്കുന്ന ചില ആശയങ്ങൾക്കൊണ്ടു് അമ്മാനമാടുന്ന വിദ്യയാണോ നമ്മുടെ ഗദ്യകവിതയെന്നു തോന്നിപ്പോകും”
+എന്നു് ഒറ്റവാക്യത്തിൽ അടക്കം ചെയ്തിരിക്കുന്ന ആക്ഷേപം ഗദ്യകവിതാനിർമ്മാതാക്കളുടെ കണ്ണുതുറപ്പിക്കും.
+ഇപ്പോഴത്തെ കവിതാ നിരൂപണമോ? അതിനെപ്പറ്റിയുള്ള ഗ്രന്ഥകാരവിമർശം ഇതിനേക്കാളേറെ രസകരമാണു്.
+കേൾക്കുക: “കവിതയിൽ വാക്കിനും അർത്ഥത്തിനും തമ്മിലുള്ള സമ്പർക്കമെങ്ങനെയാണെന്നു്
+അറിഞ്ഞുകൂടാത്ത നിരൂപകന്മാരും അതു വിസ്മരിച്ചുകൊണ്ടുള്ള നിരൂപണങ്ങളും ഇന്നു ധാരാളമുണ്ടു്. ചിലർ
+ശബ്ദപ്രധാനമായ കവിതയുടെ പുറംമോടിയെ അപലപിക്കുന്നു. മറ്റുചിലർ ശബ്ദഭംഗിയുടെ പക്ഷം പിടിച്ചു്
+ആശയകാർക്കശ്യത്തെ അവഹേളിക്കുന്നു. മൂന്നാമതൊരു കൂട്ടർ ഒരു മാർക്സിയൻ കുറുവടിയുമായി
+കവിതാഹർമ്മ്യത്തിൽ ചാടിക്കയറി അവിടെയുള്ള വെള്ളിപ്പാത്രങ്ങളിലും സ്വർണ്ണപ്പാത്രങ്ങളിലും കൊട്ടിനോക്കി
+‘ഇങ്കിലാബ് ’ മുഴങ്ങുന്നുണ്ടോ എന്നു ചെവിയോർത്തു് അവയുടെ വില നിശ്ചയിക്കുന്നു. സനാതനമായ ഓങ്കാരമാണു്
+മറ്റുചിലർക്കു കേൾക്കേണ്ടതു്. ഇങ്ങനെയുള്ള കോലാഹലങ്ങൾക്കിടയിൽ കുളിപ്പിച്ചു് കുളിപ്പിച്ചു് ഇല്ലാതാക്കിയ
+കുട്ടിയുടേതുപോലെയാണു് കവിതയുടെ സ്ഥിതി.” ഇതു കേൾക്കുന്നവരിൽ ചിലർ പോളിനെ ഒരു
+പിന്തിരിപ്പനാക്കിയേയ്ക്കാം. പക്ഷേ, കാടുകയറാൻ തുടങ്ങിയ പുരോഗമനസാഹിത്യത്തെ നേർവഴിക്കു തിരിച്ചതു്
+ഏതാദൃശാഭിപ്രായങ്ങളാണെന്നു് നിർമ്മത്സരർ സമ്മതിക്കും. ഏറെക്കാലം ആ സാഹിത്യ സംഘടനയുടെ
+പ്രസിഡണ്ടെന്ന നിലയിൽ അദ്ദേഹം നൽകിയ നേതൃത്വവും അനുഷ്ഠിച്ച സേവനവും അവിസ്മരണീയമാകുന്നു
+കവിതയുടെ മർമ്മം കുറിക്കുന്ന മറ്റൊരു ഭാഗം കൂടി ഉദ്ധരിക്കട്ടെ. “കവിതയിൽ വാഗർത്ഥങ്ങൾ
+സംയോജിക്കുമ്പോൾ വാക്കും അർത്ഥവും മാത്രമല്ല അനിർവ്യാചമായ മൂന്നാമതൊന്നു് ഉളവാകുന്നുണ്ടെന്നും
+അതിന്റെ മാനദണ്ഡം സഹൃദയന്റെ അനുഭൂതിയാണെന്നും അതില്ലാത്ത കൃതി മറ്റെന്തൊക്കെ ഉണ്ടായിരുന്നാലും
+കവിതയാകയില്ലെന്നും വിസ്മരിക്കാതിരുന്നാൽ നിരൂപണലോകത്തിലുള്ള പല ദുർവാദങ്ങളും
+ആശയക്കുഴപ്പങ്ങളും നിവാരണം ചെയ്യാം.” കാവ്യനിരൂപകരും കവികളും കാണാപാഠം പഠിക്കേണ്ട ഒരു
+വാക്യമാണിതു്. പുരോഗമന സാഹിത്യത്തിന്റെ ലക്ഷ്യം പലപ്പോഴും വിവാദവിഷയമായിട്ടുണ്ടല്ലോ. അതിലും
+പോളിനു് ഉറച്ചൊരു നിലപാടുണ്ടു്. അദ്ദേഹം പറയുകയാണു്. “പുരോഗമന സാഹിത്യകാരന്റെ മനോഭാവവും
+വീക്ഷണഗതിയും സാർവ്വലൗകികമായിരിക്കണം. വിഷയത്തിലും പ്രതിപാദനത്തിലും അതിനു പൂർണ്ണസ്വാതന്ത്ര്യം
+വേണം. അതു സാമാന്യ ജനതയുടെ ജീവിതത്തിന്റെ അഭിന്നാംശമായിരിക്കണം. അതു മനുഷ്യഹൃദയങ്ങളിൽ
+ശുഭോദർക്കമായ പരിവർത്തനമുണ്ടാക്കി സമുദായത്തെ മുന്നോട്ടു നയിക്കണം. പുരോഗതിക്കുപകരിക്കുന്ന
+ശാസ്ത്രനിർദ്ദിഷ്ടമായ സദാചാര ബോധമായിരിക്കണം അതിനെ ഉത്തേജനം ചെയ്യേണ്ടതു്. സത്യത്തേയും
+സൗന്ദര്യത്തേയും ഭിന്ന ലോകങ്ങളിൽ അകറ്റിനിർത്താതെ അവ രണ്ടിനേയും സമീകരിക്കണം. പ്രകൃത്യാ
+പരിവർത്തന വിമുഖനായ മനുഷ്യനെ കർത്തവ്യനിരതനും അമോഘചിന്തകനും പുരോഗമനേച്ഛുവുമാക്കാൻ അതു
+സമർത്ഥമാകണം.” പോളിന്റെ ഈ സിംഹാവലോകനത്തിൽ പുരോഗമന സാഹിത്യത്തിന്റെ അന്തസ്സത്ത
+മുഴുവൻ അടങ്ങിയിരിക്കുന്നു. ഇതുപോലെ ഉദ്ധരണയോഗ്യങ്ങളായ എത്രയോ ഭാഗങ്ങൾ
+‘സാഹിത്യവിചാര’ത്തിലുണ്ടു്. വിസ്തരഭയത്താൽ അങ്ങോട്ടു കടക്കുന്നില്ല. ‘ഗദ്യകലിക’ എന്ന ലേഖന
+സമാഹാരവും പഠനാർഹമായ ഒരു ഗ്രന്ഥമാണു്. ലൂബ്ധൻ എന്ന നാടകം പോളിന്റെ പരിഭാഷാപാടവത്തിനു
+മകുടോദാഹരണമാകുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">ഗദ്യശൈലി</head>
+          <p style="noindent">ഈ കലാവല്ലഭന്റെ മനോഹരമായ ഗദ്യശൈലിയെപ്പറ്റിയും രണ്ടുവാക്കു
+പറയേണ്ടതുണ്ടു്. ഇത്ര നല്ല ഗദ്യമെഴുതുന്നവർ മലയാളത്തിലധികമില്ല. ആഴമേറിയതും എന്നാൽ അടിത്തട്ടു
+കാണാവുന്നതുമായ ഒരരുവിയാണു് അദ്ദേഹത്തിന്റെ ഗദ്യശൈലി. ദുർഗ്രഹമായ ഏതു വിഷയവും അതിൽ
+പ്രതിഫലിക്കുമ്പോൾ സുഗ്രഹമായിത്തീരും. സ്വന്തമായ വിചാരണസരണി, ആത്മാർത്ഥത,
+സംഭാഷണഭാഷാസമ്പർക്കം എന്നീ മൂന്നു ഗുണങ്ങളുള്ളതാണു് വ്യക്തിമുദ്രയുള്ള ഗദ്യശൈലി എന്നു പോൾ
+ഒരിടത്തു പറയുന്നുണ്ടു്. ഈ ലക്ഷണമൊത്തതത്രേ അദ്ദേഹത്തിന്റെ ശൈലി. അർത്ഥം നിറഞ്ഞു തുളുമ്പുന്ന
+സ്ഫടികസ്ഫുടമായ വാക്യങ്ങൾ ആ തൂലികയിൽ നിന്നു താനേ വാർന്നു വീഴും. കലുഷമായ പ്രതിപാദനം ഒരിടത്തുമില്ല.
+‘അധ്യാപകന്റെ മഹത്വം ഭാഷയുടെ ലാളിത്യത്തിൽ സ്ഥിതിചെയ്യുന്നു’ എന്ന ചൊല്ലു ശരിയാണെങ്കിൽ
+പോളിനെസ്സംബന്ധിച്ചിടത്തോളം അതു് ഏറ്റവും അർത്ഥവത്താണു്. വെറും ശബ്ദജാലത്തെ അദ്ദേഹം
+വെറുത്തിരുന്നു. “ബുദ്ധിക്കില്ലാത്ത ഗാംഭീര്യം ഭാഷയിൽ പ്രകടിപ്പിക്കുന്നവരാണു് ഇന്നധികവും” എന്നു് അദ്ദേഹം
+അധിക്ഷേപിച്ചിട്ടുണ്ടു്. ഇതു വാസ്തവമല്ലേ? ഉള്ളിലൊന്നുമില്ലാതെ മുഴക്കം മാത്രം കേൾക്കുന്ന മദ്ദളസദൃശമായ
+വാക്കുകൊണ്ടുള്ള ചെപ്പടിവിദ്യ ഇന്നു ധാരാളം കാണുന്നുണ്ടല്ലോ. ജീവിതത്തിലും സാഹിത്യത്തിലും നിഷ്കപടമായ
+ആത്മാർത്ഥതയാണു് രമണീയം” പോളിന്റെ അർത്ഥഗർഭമായ മറ്റൊരു വാക്യമാണിതു്. ഏതദർത്ഥത്തിൽ
+തികച്ചും രമണീയമായിരുന്നു അദ്ദേഹത്തിന്റെ ജീവിതവും സാഹിത്യവും. എം. പി. പോൾ എന്ന വ്യക്തിയെപ്പറ്റി
+കൂടുതലായി അറിയണമെങ്കിൽ മിസ്സിസ് പോൾ എഴുതിയ അനുസ്മരണം വായിച്ചുനോക്കണം. ഒരിക്കലും
+മങ്ങാത്ത ആ പുഞ്ചിരി, ഏതിലും തലപൊക്കുന്ന നർമ്മബോധം, ഇടയ്ക്കിടയ്ക്കിളകുന്ന സംഗീതഭ്രമം, മക്കളുമായുള്ള
+കളിയാട്ടം, പൂക്കളോടുള്ള കൂട്ടുകെട്ടു് മുതലായ സ്വഭാവവിശേഷങ്ങളെല്ലാം അതിൽ ഭംഗിയായി നിഴലിക്കുന്നുണ്ടു്.
+സാഹിത്യത്തിൽ ആധികാരികമായി അഭിപ്രായം പറയാൻ സർവ്വഥാ അർഹനായ ഒരപൂർവ്വാചാര്യനായിരുന്നു
+എം. പി. പോൾ. അദ്ദേഹം നമ്മെ വിട്ടുപിരിഞ്ഞിട്ടു് ഒൻപതു കൊല്ലം കഴിഞ്ഞു. മഹത്തായ ആ ജീവിതവും
+അതിൽനിന്നു് എമ്പാടും പ്രസരിച്ച സാംസ്കാരികപ്രഭയും കേരളീയരുടെ പുരോഗതിക്കു പ്രചോദനം നൽകട്ടെ.
+</p>
+          <p>
+മാനസോല്ലാസം 1962.
+</p>
+        </div>
+        <!--end of "section 0.0/1.4"-->
+        <div type="lsection" xml:id="sec1.5">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, ക്രേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.5.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.5.1"-->
+        </div>
+        <!--end of "section 0.0/1.5"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  M. P. Paul (ml: എം. പി. പോൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, M. P. Paul, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, എം. പി. പോൾ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 11, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  M P Paul, a portrait by
+Anonymous  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/mppaul-kuttipuzha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/mppaul-kuttipuzha.pdf">Download
+
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

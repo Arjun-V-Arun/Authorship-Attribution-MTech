@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഞാനൊരു ബാലനശക്തനെന്നാകിലും,
+മാനിയാമെന്നുടെ താതനെയോർക്ക നീ</title>
+          <title xml:lang="en" type="main">Njanoru Balanasakthanennakilum, Maniyamennude
+Thathaneyorkka Nee</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">November 17, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഞാനൊരു ബാലനശക്തനെന്നാകിലും,
+മാനിയാമെന്നുടെ താതനെയോർക്ക നീ</title>
+              <title xml:lang="en" type="main">Njanoru Balanasakthanennakilum, Maniyamennude
+Thathaneyorkka Nee</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Njanoru Balanasakthanennakilum</term>
+          <term>Maniyamennude Thathaneyorkka Nee</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ഞാനൊരു ബാലനശക്തനെന്നാകിലും</term>
+          <term>മാനിയാമെന്നുടെ താതനെയോർക്ക നീ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 17, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Millet_-_Knitting_Lesson_of_Fine_Arts.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:JeanFran%C3%A7ois_Millet_-_Knitting_Lesson_-_06.2423__Museum_of_Fine_Arts.jpg">Knitting Lesson,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jean-Fran%C3%A7ois_Millet">JeanFrançois Millet</ref>  (1814–1875). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഞാനൊരു ബാലനശക്തനെന്നാകിലും, മാനിയാമെന്നുടെ താതനെയോർക്ക
+നീ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഞാനൊരു ബാലനശക്തനെന്നാകിലും, മാനിയാമെന്നുടെ താതനെയോർക്ക
+നീ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Muraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. മുരളീധരൻ</figDesc>
+          </figure>
+          <p style="noindent"> ഒരു മാളത്തിൽനിന്നു് രണ്ടുതവണ കടിയേൽക്കുന്നവൻ സത്യവിശ്വാസിയല്ല എന്ന
+നബിവചനം എൻ. സി. പി. നേതാവു് <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">കെ. മുരളീധരൻ</ref>
+കേട്ടിട്ടുണ്ടോ എന്തോ? <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref>
+സഖാവിനെ വിശ്വസിച്ചു് കോൺഗ്രസ് പിളർത്തി ഡി. ജെ. സി. കെ. ഉണ്ടാക്കുകയും പിന്നീടു് ഡിക്കിനെ
+എൻ. സി. പി.-യിൽ ലയിപ്പിക്കുകയും ചെയ്ത ചിന്ന ലീഡർ ഇതാപെരുവഴിയാധാരം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> കോൺഗ്രസിലെ ഗ്രൂപ്പുവഴക്കു് ഇന്നോ ഇന്നലെയോ ആരംഭിച്ചതല്ല. നാളെയോ മറ്റന്നാളോ അതു്
+അവസാനിക്കുകയുമില്ല. യഥാർത്ഥത്തിൽ കോൺഗ്രസ് ഒരൊറ്റ പാർട്ടിയല്ല. നിരവധി ഗ്രൂപ്പുകളുടെ
+വ്യത്യസ്തതാൽപര്യങ്ങളുടെ സമ്മർദങ്ങളുടെ കൂട്ടായ്മയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PinarayiVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പിണറായി വിജയൻ</figDesc>
+          </figure>
+          <p> അഖിലേന്ത്യാതലത്തിൽ ഗ്രൂപ്പുകളിച്ച് ആദ്യം പിളർപ്പുണ്ടാക്കിയവർ <ref target="https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak">ബാലഗംഗാധരതിലകനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Gopal_Krishna_Gokhale">ഗോപാലകൃഷ്ണ
+ഗോഖലെ</ref> യുമായിരുന്നു. <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+ക്കെതിരെ ഗ്രൂപ്പൂണ്ടാക്കിയവർ <ref target="https://simple.wikipedia.org/wiki/C._R._Das">സി. ആർ. ദാസും</ref> <ref target="https://ml.wikipedia.org/wiki/Motilal_Nehru">മോത്തിലാൽ നെഹ്റു</ref>
+വും. അവരുടെ ഡി. ഐ. സി.-യുടെ പേരു് സ്വരാജ് പാർട്ടി. അഖിലേന്ത്യ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+റോളിൽ <ref target="https://ml.wikipedia.org/wiki/Subhash_Chandra_Bose">സുഭാഷ്
+ചന്ദബോസി</ref> നെ പുകച്ചു ചാടിച്ചതു് മഹാത്മജി. <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാൽ
+നെഹ്റു</ref> വിന്റെ ഏകഛത്രാധിപത്യത്തെ വെല്ലുവിളിച്ചു് കിസാൻ മസ്ദൂർ പ്രജാപാർട്ടിയുണ്ടാക്കിയതു്
+<ref target="https://ml.wikipedia.org/wiki/J._B._Kripalani">ആചാര്യ
+കൃപലാനി</ref>. ആചാര്യന്റെ കേരളീയ ശിഷ്യന്മാർ <ref target="https://ml.wikipedia.org/wiki/K._Kelappan">കെ. കേളപ്പനും</ref> <ref target="https://ml.wikipedia.org/wiki/K.A.Damodara_menon">കെ. എ.
+ദാമോദരമേനോനും</ref> 1969-ലും 1978-ലും ദേശീയാടിസ്ഥാനത്തിൽ പാർട്ടി പൊളിച്ചതു് <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാലി</ref> ന്റെ
+വത്സലപുത്രി <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാ
+പ്രിയദർശനി</ref>. രണ്ടു തവണയും ജനം ഇന്ദിരക്കൊപ്പം നിന്നതിനാൽ അവശിഷ്ട കോൺഗ്രസ്
+അപ്രസക്തം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TMVargheese.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. വർഗീസ്</figDesc>
+          </figure>
+          <p> ഗ്രൂപ്പുവഴക്കിന്റെയും പിളർപ്പിന്റെയും കാര്യത്തിൽ ദേശീയ നേതൃത്വത്തിന്റെ പാത പിന്തുടരുന്നു കേരള പ്രദേശ്
+കോൺഗ്രസ് പാർട്ടി. <ref target="https://ml.wikipedia.org/wiki/K._Kelappan">കേളപ്പന്റെ</ref> യും <ref target="https://ml.wikipedia.org/wiki/Mohammad_Abdurahman">മുഹമ്മദ്
+അബ്ദുറഹ്മാന്റെ</ref> യും കാലം മുതൽ മലബാറിൽ ഗ്രൂപ്പുണ്ടു്; ഭരണാധികാരമേറ്റു് ആറുമാസത്തിനകം <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടം
+താണുപിള്ള</ref> യെ കെട്ടുകെട്ടിച്ച വീരപാരമ്പര്യം തിരുവിതാംകൂറിനും <ref target="https://ml.wikipedia.org/wiki/T.M._Varghese">ടി. എം. വർഗീസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/A._J._John,_Anaparambil">എ. ജെ.
+ജോൺ</ref>, <ref target="https://ml.wikipedia.org/wiki/Kumbalathu_Sanku_Pillai">കുമ്പളത്തു
+ശങ്കുപിള്ള</ref> എന്നീ തിരുവിതാംകുർ മല്ലന്മാരെ മലർത്തിയടിച്ച കൊച്ചിൻഗാമ <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">പനമ്പിള്ളി
+ഗോവിന്ദമേനോൻ</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KR_Gouriamma.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗൗരിയമ്മ</figDesc>
+          </figure>
+          <p> ഐക്യകേരളപ്പിറവിക്കുശേഷം ഗ്രൂപ്പു യുദ്ധത്തിനു കനത്ത സംഭാവന നൽകിയവർ <ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി. ചാക്കോ</ref>, <ref target="https://ml.wikipedia.org/wiki/C.K._Govindan_Nair">സി. കെ. ഗോവിന്ദൻ
+നായർ</ref> രണ്ടാളും അകാലമൃത്യുവടഞ്ഞെങ്കിലും ശിഷ്യന്മാർ വർധിച്ച ഉത്സാഹത്തോടെ പോരാട്ടം തുടർന്നു.
+മലയോര കർഷകർക്കു് കേരള കോൺഗ്രസ് എന്നൊരു പാർട്ടിയുണ്ടായി. ആ പാർട്ടി വളരുന്തോറും പിളർന്നു.
+പിളരുന്തോറും വളർന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kumbalath_sanku_pillai.png" rendition="gra"/>
+            <figDesc style="thumb">കുമ്പളത്തു ശങ്കുപിള്ള</figDesc>
+          </figure>
+          <p> പഴയ പി. ടി. ചാക്കോ ഗ്രൂപ്പുകാർ പോയെന്നുകരുതി കോൺഗ്രസിലെ ഗ്രൂപ്പുകളിക്കു എന്തെങ്കിലും കുറവു
+സംഭവിച്ചോ? ഒരിക്കലുമില്ല. <ref target="https://ml.wikipedia.org/wiki/C.K._Govindan_Nair">സി. കെ. ജി.</ref>-യും
+<ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">ചാക്കോ</ref> യും
+നിറുത്തിയിടത്തുനിന്നു <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref> <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യും ആരംഭിച്ചു.
+അധികാരദണ്ഡ് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു്</ref>,
+ആദർശകിരീടം <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ക്കു്,
+ആദർശത്തിന്റെ അസുഖം മൂർച്ഛിച്ചു് കുറേക്കാലം മാർക്സിസ്റ്റ് പാളയത്തിൽ കഴിഞ്ഞയാളാണു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>. <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരഗാന്ധി</ref> യും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു</ref>
+മൊക്കെ എത്രഭേദം എന്നു് മനസ്സിലായപ്പോൾ മാതൃസംഘടനയിലേക്കു് മടങ്ങിവന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_sree_ramakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ശ്രീരാമകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ രവി</ref>,
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം.
+സുധീരൻ</ref> മുതൽ പേരൊക്കെ മടങ്ങിപ്പോയപ്പോഴും മാർക്സിസ്റ്റ് മുന്നണിയിൽ ഉറച്ചുനിന്നവരാണു് <ref target="https://ml.wikipedia.org/wiki/Ramachandran_Kadannappalli">കടന്നപ്പള്ളി
+രാമചന്ദ്രൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി.
+ചാക്കോ</ref>, ടി. പി. പീതാംബരൻ മാസ്റ്റർ, <ref target="https://ml.wikipedia.org/wiki/A.K._Saseendran">എ. കെ. ശശീന്ദ്രൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/A._C._Shanmugha_das">എ. സി.
+ഷൺമുഖദാസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/V.C._Kabeer">വി. സി. കബീർ</ref>
+എന്നിങ്ങനെ ഏതാനും ആദർശധീരർ. അവർ അന്നു് <ref target="https://en.wikipedia.org/wiki/Sharad_Pawar">ശരത്പവാറി</ref> നൊപ്പം
+കോൺഗ്രസ്-എസ് ആയി നിലനിന്നു. <ref target="https://en.wikipedia.org/wiki/Sharad_Pawar">ശരത്പവാർ</ref> തന്നെ
+ഇന്ദിരാ കോൺഗ്രസിലേക്കു് പോയപ്പോഴും കടന്നപ്പള്ള്യാദികൾ കോൺഗ്രസ്-എസിൽ തുടർന്നു. <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി. ചാക്കോ</ref> മാത്രം
+പവാറിനൊപ്പം പോയി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> 1987-ലും 1996ലും കോൺഗ്രസ്-എസിനു മന്ത്രിമാരുണ്ടായി; നിയമസഭയിൽ മൂന്നു മുതൽ ഏഴുവരെ
+അംഗങ്ങളും. ലോക്സഭയിലെ ഏറ്റവും കനപ്പെട്ട അംഗവും കോൺഗ്രസ്-എസുകാരൻ <ref target="https://ml.wikipedia.org/wiki/K.P._Unnikrishnan">കെ. പി.
+ഉണ്ണികൃഷ്ണൻ</ref>. ഉണ്ണ്യേട്ടൻ പോയതോടെ സി. പി. എം. വടകര സീറ്റ് ഏറ്റെടുത്തു. പോകപ്പോകെ
+കോൺഗ്രസ്-എസ് ക്ഷയിച്ചു. എല്ലും തൊലിയുമായി. അപ്പോഴാണു് വടക്കു് പവാർ-സാംഗ്മ കലാപം. <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയഗാന്ധി</ref> യുടെ
+വിദേശജന്മപ്രശ്നമുന്നയിച്ചു കലാപകാരികൾ നാഷനലിസ്റ്റ് കോൺഗ്രസ് പാർട്ടിയുണ്ടാക്കിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/A._C._Shanmugha_das">ഷൺമുഖദാസും</ref>
+കൂട്ടരും എൻ. സി. പി.-യിൽ ലയിച്ചു ധന്യരായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KADamodara_menon.png" rendition="gra"/>
+            <figDesc style="thumb">കെ. എ. ദാമോദരമേനോൻ</figDesc>
+          </figure>
+          <p>മേഘാലയത്തിൽ ബി. ജെ. പി.-യോടും മഹാരഷ്ട്രത്തിൽ കോൺഗ്രസിനോടും ഭരണം പങ്കിടുന്ന
+എൻ. സി. പി.-യെ ഇടതുമുന്നണിയിൽനിന്നു പുറത്താക്കണമെന്ന അഭിപ്രായം അന്നേ ഉയർന്നുവന്നെങ്കിലും
+മാർക്സിസ്റ്റുകാർ ഉദ്ദേശ്യശുദ്ധിയാൽ മാപ്പു നൽകി. എൻ. സി. പി.-യുടെ വഴിപിഴച്ചപോക്കിൽ മനംനൊന്തു് <ref target="https://ml.wikipedia.org/wiki/Ramachandran_Kadannappalli">കടന്നപ്പള്ളി
+രാമചന്ദ്രൻ</ref> കോൺഗ്രസ്-എസ് പുനഃസ്ഥാപിച്ചു. <ref target="https://ml.wikipedia.org/wiki/V.C._Kabeer">കബീർ മാസ്റ്റർ</ref>
+മാതൃസംഘടനയിലേക്കു് മടങ്ങിപ്പോയി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Oommen_Chandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമ്മൻചാണ്ടി</figDesc>
+          </figure>
+          <p> 2006-ലെ പൊതുതെരഞ്ഞെടുപ്പിൽ കേവലം രണ്ടുസീറ്റാണു് എൻ. സി. പി.-ക്കു മൽസരിക്കാൻ
+കിട്ടിയതു്—ബാലുശ്ശേരിയും പാലായും പള്ളുരുത്തിയും പേരാവൂരും ഒറ്റപ്പാലവുമടക്കമുള്ള പരമ്പരാഗത
+എൻ. സി. പി. സീറ്റുകളത്രയും സി. പി. എം. ഏറ്റെടുത്തു. <ref target="https://ml.wikipedia.org/wiki/A._C._Shanmugha_das">ഷൺമുഖദാസ്</ref>
+അങ്കത്തട്ടിൽ ഇറങ്ങിയില്ല. ബാലുശ്ശേരിയിൽ <ref target="https://ml.wikipedia.org/wiki/A.K._Saseendran">ശശീന്ദ്രൻ</ref> ജയിച്ചു.
+പാലായിൽ <ref target="https://ml.wikipedia.org/wiki/Mani_C._Kappan">മാണി സി.
+കാപ്പൻ</ref> പൊരുതിത്തോറ്റു. ഏകാംഗ കക്ഷികൾക്കൊന്നും മന്ത്രിസ്ഥാനമില്ലെന്നു് എ. കെ. ജി. സെന്റർ
+കൽപിച്ചതുകൊണ്ടു് കൂടുതൽ പൊല്ലാപ്പു് ഒഴിവായി. <ref target="https://ml.wikipedia.org/wiki/Uzhavoor_Vijayan">ഉഴവൂർ വിജയനും</ref>
+മാമ്മൻ ഐപ്പും കോർപറേഷൻ ചെയർമാന്മാരായി. കിടച്ചതു കല്യാണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pattom_A_Thanu_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">പട്ടം താണുപിള്ള</figDesc>
+          </figure>
+          <p> ഇടതുമുന്നണിപ്പന്തലിൽ കാടിവെള്ളം ഊതിക്കുടിച്ചുകൊണ്ടിരിക്കുമ്പോഴാണു് എൻ. സി. പി.-ക്കു മുന്നിൽ
+നിർഭാഗ്യദേവത <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരന്റെ</ref>
+രൂപത്തിൽ അവതരിക്കുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കണ്ണോത്ത്
+കരുണാകരൻ</ref> എന്നെ മെലിഞ്ഞ കൊമ്പനെ <ref target="https://en.wikipedia.org/wiki/Sharad_Pawar">ശരത്പവാറി</ref> ന്റെ
+തൊഴുത്തിൽ കെട്ടണം. അങ്ങനെയെങ്കിലും ഇടതുമുന്നണിയിൽ ഇടം കിട്ടണം. വിജയൻസഖാവിന്റെ
+കരങ്ങൾക്കു് ശക്തിപകരണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p>കറതീർന്ന കരുണാകരവിരോധമായിരുന്നു പഴയ കോൺഗ്രസ്-എസിന്റെ ആധാരശില. കരുണാകര
+വിദ്വേഷത്താൽ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യെ
+
+തള്ളിപ്പറഞ്ഞവരാണു് <ref target="https://ml.wikipedia.org/wiki/A._C._Shanmugha_das">ഷൺമുഖദാസും</ref>
+പീതാംബരനും <ref target="https://ml.wikipedia.org/wiki/A.K._Saseendran">ശശീന്ദ്രനും</ref>
+കരുണാകരമന്ത്രിസഭയിൽനിന്നു പുറത്താക്കപ്പെട്ടതിനെത്തുടർന്നു് രായ്ക്കുരാമാനം മറുകണ്ടം ചാടിയയാൾ <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോൺ</ref>.
+<ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref>
+ബോംബുപൊട്ടി മരിച്ചകാലത്തു് <ref target="https://en.wikipedia.org/wiki/Sharad_Pawar">ശരത്പവാറി</ref> ന്റെ
+പ്രധാനമന്ത്രിപദമോഹം തല്ലിക്കെടുത്തിയവരിൽ മുമ്പൻ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>.
+കാണ്ണോത്തെ കാരണവരുടെ കഷ്ടാവസ്ഥ കണ്ടു് കരളലിഞ്ഞ എൻ. സി. പി.-ക്കാർ കഴിഞ്ഞതൊക്കെ മറന്നു്
+ലയനത്തിനു് പച്ചക്കൊടികാട്ടുകയായിരുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_J_John.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. ജെ. ജോൺ</figDesc>
+          </figure>
+          <p> കറുപ്പനയ്യാ മൂപ്പനാരുടെ മഹനീയ മാതൃകയാണു് പാർട്ടി പിളർത്തുമ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു്</ref>
+മുന്നിലുണ്ടായിരുന്നതു്. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയനു</ref> മായി സഖ്യം, ഭരണപങ്കാളിത്തം, ഉമ്മൻകോൺഗ്രസിന്റെ ഉന്മൂലനം. ഒടുവിൽ വിജീഗിഷുവായി
+മാതൃസംഘടനയിലേക്കു് മടങ്ങിവരവു്. <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദന്റെ</ref>
+കുത്തുവാക്കു് കേട്ടില്ലെന്നു് നടിച്ചതും, തിരുവനന്തപുരത്തു് തെരഞ്ഞെടുപ്പു പ്രചാരണം നടത്തിയതും, കത്തിക്കാളുന്ന
+വെയിലത്തു് <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരൻ</ref>
+കാസർക്കോട്ടുനിന്നു് തലസ്ഥാനത്തേക്കു് പദയാത്ര നടത്തിയതുമൊക്കെ അതിനുവേണ്ടിയായിരുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധീരൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref>
+സഖാവിന്റെ കേരള മാർച്ചിനു് പുഷ്പാർച്ചന നടത്താനും സ്വാഗത ഗാനമാലപിക്കാനും മുന്നിൽനിന്നതു്
+ഡി. ഐ. സി. പ്രവർത്തകർ (അസൂയാകുക്ഷികളായ സി. പി. ഐ.-ക്കാരെ അരയാൽത്തറയിലും കണ്ടില്ല.
+അമ്പലനടയിലും കണ്ടില്ല). അനുദിനമിങ്ങനെ ശുശ്രൂഷചെയ്കയാൽ പിണറായി-മുരളി അച്ചുതണ്ടു് അതിവേഗ
+വേഗം വളർന്നുവന്നു. കവിഭാഷയിൽ അജപാലബാലനിൽ ഗ്രാമീണകന്യതൻ അനുരാഗകന്ദളമെന്ന പോലെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Panampilly_Govinda_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">പനമ്പിള്ളി ഗോവിന്ദമേനോൻ</figDesc>
+          </figure>
+          <p> ഈടാർന്നു വായ്ക്കുമനുരാഗനദിക്കു വിഘ്നം കൂടാതൊഴുക്കു രാഷ്ട്രീയത്തിലും സാധ്യമല്ല. ഡി. ഐ. സി.-കെയെ
+ഇടതുമുന്നണിയിലെടുക്കരുതെന്നു് ആദ്യം പറഞ്ഞതു് ആർ. എസ്. പി. ഏറ്റുപിടിച്ചതു് സി. പി. ഐ. <ref target="https://ml.wikipedia.org/wiki/T.J._Chandrachoodan">ചന്ദ്രചൂഡന്റെ</ref>
+യും ഭാർഗവനാശാന്റെയും പിന്നിൽ അച്ചുമ്മാന്റെ കറുത്തകൈ ദർശിച്ചവർ അനവധി. സി. പി. ഐ.,
+ആർ. എസ്. പി. കക്ഷികളെ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+കണക്കിനു പരിഹസിച്ചപ്പോൾ ഡി. ഐ. സി.-യെ എതിർക്കുന്നവർ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യെ
+അധികാരത്തിൽ തിരിച്ചുകൊണ്ടുവരാൻ ആഗ്രഹിക്കുന്നവരാണെന്നു് <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref> കുറ്റപ്പെടുത്തിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യുടെ
+മുന്നണിപ്രവേശം ഉറപ്പായെന്നു് ഏവരും കരുതി. പക്ഷേ, തക്കസമയത്തു് ബംഗാൾ സഖാക്കളും <ref target="https://ml.wikipedia.org/wiki/Brinda_Karat">വൃന്ദാകാരാട്ടും</ref> <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനെ</ref>
+പിന്തുണച്ചു. ബീഹാറിൽ സി. പി. ഐ.-യെ തഴഞ്ഞു് <ref target="https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav">ലാലുയാദവു</ref> മായി
+കൂട്ടുചേർന്നതിന്റെ ഫലം പോളിറ്റ് ബ്യൂറോയുടെ കണ്ണു് തുറപ്പിച്ചു—<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു</ref> മായി
+യാതൊരിടപാടും പാടില്ല എന്നു തീരുമാനമുണ്ടായി. പോയ കാള കൊമ്പൻ കാള എന്നു് <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി
+മുഹമ്മദ്കുട്ടി</ref> യും <ref target="https://ml.wikipedia.org/wiki/P._Sreeramakrishnan">പി.
+ശ്രീരാമകൃഷ്ണനും</ref> വിലപിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lalu_Prasad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലാലുയാദവ്</figDesc>
+          </figure>
+          <p> ത്രിശങ്കുസ്വർഗത്തിലായ <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരനു്</ref>
+സഹായഹസ്തവുമായി ചെന്നതു് ജനാബ് <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">പി. കെ.
+കുഞ്ഞാലിക്കുട്ടി</ref>. <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/K.R._Gowri_Amma">ഗൗരിയമ്മ</ref> യും <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> യുമൊക്കെ <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലി</ref> യുടെ
+നീക്കത്തെ സർവാത്മനാ പിന്താങ്ങി. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> ഐക്യത്തിന്റെ
+പ്രവാചകനായി. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+എതിർത്തെങ്കിലും ഫലമുണ്ടായില്ല. തെരഞ്ഞെടുപ്പിനുശേഷം കോൺഗ്രസിൽ ലയിക്കാമെന്ന ഉപാധിയോടെ
+ഡി. ഐ. സി-യു. ഡി. എഫ്.
+ധാരണയുണ്ടായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാണി</figDesc>
+          </figure>
+          <p> അടിച്ചേൽപിക്കപ്പെട്ട ധാരണ യു. ഡി. എഫിനു് ഗുണം ചെയ്തില്ല. ഡി. ഐ. സി.-കെ അക്ഷരാർഥത്തിൽ
+കടപുഴകി <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളിയും</ref> ശങ്കരനും
+<ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭന</ref>
+യുമൊക്കെ തോറ്റു് തട്ടിൻ പുറത്തുകയറിപ്പോൾ കുട്ടനാട്ടെ കുവൈറ്റ് ചാണ്ടിമാത്രം തടികഴിച്ചിലാക്കി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Uzhavoor_Vijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉഴവൂർ വിജയൻ</figDesc>
+          </figure>
+          <p> ഐക്യമുന്നണിയുടെ പരാജയത്തിനു് പ്രധാനകാരണങ്ങൾ നാലെണ്ണമായിരുന്നു ഒന്നാമതു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>-<ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> മാരുടെ
+ഭരണപരാജയം, രണ്ടാമതു് അവസാന നിമിഷമുണ്ടാക്കിയ ഡി. ഐ. സി. സഖ്യം. മൂന്നാമതു് മുസ്ലിം
+വോട്ടുബാങ്കുതകർച്ച നാലാമതു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+അനുകൂല വികാരം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AK_Saseendran.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ശശീന്ദ്രൻ</figDesc>
+          </figure>
+          <p> അഞ്ചുവർഷം നീണ്ട യു. ഡി. എഫ്. ഭരണം സമ്പൂർണ പരാജയമായിരുന്നെന്നു് കോൺഗ്രസിനു്
+അംഗീകരിക്കാനാവില്ല. സംസ്ഥാനത്തു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+തരംഗമുണ്ടായെന്നും അവർ സമ്മതിക്കില്ല. മുസ്ലിംകൾ മാറിച്ചിന്തിച്ചു എന്നു പറഞ്ഞാൽ ലീഗു കോപിക്കും.
+ആകയാൽ പരാജയത്തിന്റെ പാപഭാരം മൊത്തമായി ഡി. ഐ. സി.-കെയുടെ പിടലിക്കുവെച്ചുകെട്ടി.
+കോൺഗ്രസ്-ഡി. ഐ. സി. ലയനം ഇരുപാർട്ടികളും ഏകസ്വരത്തിൽ നിരാകരിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Natwar_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">നട്വർസിംഗ്</figDesc>
+          </figure>
+          <p> ഒന്നുകൊണ്ടും ഒമ്പതുകൊണ്ടും പഠിക്കില്ല, <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">കെ. മുരളീധരൻ</ref>
+ഇടതുമുന്നണിയിൽ ചേക്കേറാനുള്ള പൂതി തെരഞ്ഞെടുപ്പിൽ തോറ്റിട്ടും അടങ്ങിയില്ല. എൻ. ഡി. പി.-ഡി. ഐ. സി.
+ലയനം എന്ന ഒറ്റമൂലിയാണു് ഏക പരിഹാരമാർഗം. <ref target="https://en.wikipedia.org/wiki/Sharad_Pawar">ശരത്പവാർ</ref>, <ref target="https://en.wikipedia.org/wiki/Natwar_Singh">നട്വർസിംഗ്</ref>
+എന്നിവരോടു ചേർന്നു് സോണിയാകോൺഗ്രസിനു് ബദലുണ്ടാക്കുന്നതിനെക്കുറിച്ചു് കാരണവരും മകനും
+മനപ്പായസമുണ്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/A_C_Shanmugha_das.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. സി. ഷൺമുഖദാസ്</figDesc>
+          </figure>
+          <p> എൻ. സി. പി. ലയനമെന്നു കേട്ടതും രണ്ടാംനിരനേതാക്കൾ എതിരായി. <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം. ജേക്കബ്</ref> സ്വന്തം
+പാർട്ടി പുനരുജ്ജിവിപ്പിച്ചു. ശങ്കരനും കിങ്കരന്മാരും മാനംകെട്ടു് മാതൃസംഘടനയിലേക്കു മടങ്ങി—തറവാട്ടിൽ
+വലിയ സ്വാഗതമൊന്നും കിട്ടില്ല എന്നറിഞ്ഞുകൊണ്ടുതന്നെ. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനും</ref> <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> ക്കുമൊപ്പം
+ഉറച്ചുനിന്നവർ <ref target="https://ml.wikipedia.org/wiki/M.P._Gangadharan">എം. പി.
+
+ഗംഗാധരനെ</ref> യും <ref target="https://ml.wikipedia.org/wiki/T.V._Chandramohan">ടി. വി
+ചന്ദ്രമോഹനെ</ref> യും പോലെ ഏതാനും നേതാക്കൾ പിന്നെ ലീഡറേ കൺകണ്ട ദൈവം എന്നു കരുതുന്ന
+പ്രവർത്തകർ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Brinda_Karatt.jpg" rendition="gra"/>
+            <figDesc style="thumb">വൃന്ദാകാരാട്ട്</figDesc>
+          </figure>
+          <p> ഡി. ഐ. സി.-എൻ. സി. പി. ലയനത്തിനും കരുണാകരാദികളുടെ ഇടതുമുന്നണി പ്രവേശത്തിനും തീരെ
+അനുകൂലമല്ലാത്ത നിലപാടു സ്വീകരിച്ചു. <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദ</ref>ഭാർഗവ-<ref target="https://ml.wikipedia.org/wiki/T.J._Chandrachoodan">ചന്ദ്രചൂഡന്മാർ</ref>
+മുമ്പു് <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+യും മകനും ജനതാദളിൽ ലയിക്കാനൊരുങ്ങിയപ്പോൾ ഇടങ്കോലിട്ടതും ഇവർ തന്നെ. അതേസമയം, ദേശീയ
+ജനാധിപത്യ സഖ്യത്തിൽ ബി. ജെ. പി.-ക്കൊപ്പം ഉണ്ടും ഉറങ്ങിയും കഴിഞ്ഞ <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസ്</ref>
+ഐ. എഫ്. ഡി. പി. പിരിച്ചുവിട്ട് ജോസഫ് ഗ്രൂപ്പിൽ ചേർന്നപ്പോൾ ഈ വിപ്ലവകാരികൾക്കാർക്കും ഒരു
+പരാതിയുമുണ്ടായില്ല. കാരണം, <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">തോമസിനു്</ref>
+കത്തോലിക്കാ മെത്രാന്മരുടെ പിന്തുണയുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ബാലകൃഷ്ണപിള്ള</ref>
+ക്കോ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനോ</ref>
+എൻ. എസ്. എസിന്റെ പിന്തുണയില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sharad_Pawar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശരത്പവാർ</figDesc>
+          </figure>
+          <p> തിരുവമ്പാടിയിൽ എൻ. സി. പി.-ക്കാർ കൊണ്ടുപിടിച്ചു് പരിശ്രമിച്ചു. പ്രായാധിക്യം മറന്നു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+തെരഞ്ഞെടുപ്പു് പ്രചാരണത്തിനെത്തി. കടുത്ത പോരാട്ടത്തിനൊടുവിൽ എൽ. ഡി. എഫ്. സ്ഥാനാർഥി കഷ്ടിച്ചു
+ജയിച്ചു. വോട്ടെണ്ണൽ കഴിഞ്ഞതും <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനും</ref>
+ഭാർഗവനും <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+തള്ളിപ്പറഞ്ഞു. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref> മാത്രം
+എൻ. സി. പി.-യുടെ സഹായത്തിനു് കൃതജ്ഞത രേഖപ്പെടുത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/TM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p> ഇടതുമുന്നണി യോഗത്തിൽ അതേ <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref> എൻ. സി. പി.-യെ തള്ളിപ്പറഞ്ഞു! <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകര</ref>-<ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരന്മാ</ref> രുടെ
+കാൽവർക്കത്തുകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/P._Cyriac_John">സിറിയക് ജോണും</ref>
+<ref target="https://ml.wikipedia.org/wiki/A.K._Saseendran">ശശീന്ദ്രനും</ref>
+പീതാംബരനും കൂടി മുന്നണിയിൽനിന്നു് കുടിയിറക്കപ്പെട്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mani_CKappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാണി സി. കാപ്പൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">കെ.
+മുരളീധരൻ</ref> ഇനി എന്തുചെയ്യും? ഐക്യജനാധിപത്യമുന്നണിയിൽ എൻ. സി. പി.-യെ എടുക്കില്ലെന്നു്
+കൺവിനർ <ref target="https://ml.wikipedia.org/wiki/P.P._Thankachan">പി. പി.
+തങ്കച്ചൻ</ref> പറഞ്ഞു കഴിഞ്ഞു. കോൺഗ്രസിന്റെ വാതിലടഞ്ഞെന്നു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും
+ഉത്തരവായിട്ടുണ്ടു് ഇനി <ref target="https://ml.wikipedia.org/wiki/A.V._Thamarakshan">താമരാക്ഷന്റെ</ref>
+ആർ. എസ്. പി.-യെപ്പോലെ ഒരു മുന്നണിയിലുമില്ലാതെ നിൽക്കുമോ എൻ. സി. പി.? അതോ,
+ബി. ജെ. പി.-യുമായി ചേർന്നു് മൂന്നാം ചേരിയുണ്ടാക്കുമോ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kadannappally_Ramachandran.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടന്നപ്പള്ളി രാമചന്ദ്രൻ</figDesc>
+          </figure>
+          <p> തൽക്കാലം <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> സമദൂര
+സിദ്ധാന്തം പയറ്റാനാണു് സാധ്യത ഭരണ-പ്രതിപക്ഷകക്ഷികളെ വിമർശിച്ചും, ജാഥകൾ നടത്തി പ്രവർത്തകരെ
+ആവേശഭരിതരാക്കിയും മുന്നേറും—തിരുവനന്തപുരത്തുനിന്നു് കാസർകോട്ടേക്കു് പദയാത്ര നടത്താനുള്ള
+സാധ്യതയുമുണ്ടു്. അങ്ങനെ വരുന്ന പാർലമെന്റ് തെരഞ്ഞെടുപ്പുവരെ പിടിച്ചുനിന്നാൽ രക്ഷയുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_C_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. തോമസ്</figDesc>
+          </figure>
+          <p> 2009 ഏപ്രിൽ–മേയിൽ ലോക്സഭാ തെരഞ്ഞെടുപ്പു് നടക്കും. ഒരുപക്ഷേ, 2008 ഒക്ടോബറിൽ ദൽഹി,
+രാജസ്ഥാൻ, മധ്യപ്രദേശ്, ഛത്തീസ്ഗഢ് അസംബ്ലി തെരഞ്ഞെടുപ്പുകൾക്കൊപ്പം പാർലമെന്റ് തെരഞ്ഞെടുപ്പും
+നടക്കാനിടയുണ്ടു്. പരമാവധി സീറ്റുകൾ ജയിക്കേണ്ടതു് കോൺഗ്രസിന്റെ ആവശ്യമാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പാകുമ്പോഴുക്കും എൻ. സി. പി.-ക്കുവേണ്ടി മുസ്ലീംലീഗ് സമ്മർദം ചെലുത്തും.
+മാണി-പിള്ള-ജേക്കബ് ഗ്രൂപ്പ് കേരള കോൺഗ്രസുകളും അതേ പാത പിന്തുടരും. ഒടുവിൽ എൻ. സി. പി.-യെക്കൂടി
+ചേർത്തു് ഐ. ജ. മുന്നണിയുടെ ബഹുജനാടിത്തറ ശക്തിപ്പെടുത്തും. <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളീധരൻ</ref>
+വയനാട് സീറ്റ് ചോദിക്കും, കോഴിക്കോട് കിട്ടിയാലും തൃപ്തിപ്പെടും.
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MP_Gangadharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. പി. ഗംഗാധരൻ</figDesc>
+          </figure>
+          <p> 1978-ൽ കേവലം എൻ. ഡി. പി.-യെക്കൂട്ടി <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരനു</ref>
+ണ്ടാക്കിയതാണു് ഐക്യജനാധിപത്യമുന്നണി. അവിടേക്കു തിരിച്ചുചെല്ലാൻ <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">കെ. മുരളീധരനു്</ref>
+ആരെയും വകവെക്കേണ്ടതില്ല. ഞാനൊരു ബാലനശക്തനെന്നാകിലും മാനിയാമെന്നുടെ
+താതനെയോർക്കനീ…
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Njanoru
+Balanasakthanennakilum, Maniyamennude Thathaneyorkka Nee (ml: ഞാനൊരു
+ബാലനശക്തനെന്നാകിലും, മാനിയാമെന്നുടെ താതനെയോർക്ക നീ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Njanoru
+Balanasakthanennakilum, Maniyamennude Thathaneyorkka Nee, കെ. രാജേശ്വരി, ഞാനൊരു
+ബാലനശക്തനെന്നാകിലും, മാനിയാമെന്നുടെ താതനെയോർക്ക നീ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 17, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:JeanFran%C3%A7ois_Millet_-_Knitting_Lesson_-_06.2423__Museum_of_Fine_Arts.jpg">Knitting Lesson,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jean-Fran%C3%A7ois_Millet">JeanFrançois Millet</ref>  (1814–1875). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-thathan.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-thathan.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

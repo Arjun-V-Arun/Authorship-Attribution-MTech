@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഒരു ചെറുകഥയെപ്പറ്റി</title>
+          <title xml:lang="en" type="main">Oru cherukathayepatti</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>JS Aswathy</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">September 24, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഒരു ചെറുകഥയെപ്പറ്റി</title>
+              <title xml:lang="en" type="main">Oru cherukathayepatti</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Lokavani</publisher>
+            <pubPlace>Kerala</pubPlace>
+            <date>1950</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Oru cherukathayepatti</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>ഒരു ചെറുകഥയെപ്പറ്റി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Kerala, India</name>
+          <time>1950</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/DavidtheShepherdBoy.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:DavidtheShepherdBoy.jpg">David
+the shepherd boy,</ref> a painting by Anonymous  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഒരു ചെറുകഥയെപ്പറ്റി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഒരു ചെറുകഥയെപ്പറ്റി</head>
+        <div type="lsection">
+          <p style="noindent">“ഞങ്ങളുടെ വീടിന്റെ തൊട്ടുകിഴക്കേതു് ഒരു വലിയ ജന്മിയുടെ മനയാണു്.”
+</p>
+          <p>നിഷ്കൃഷ്ടമായി വിശകലനം ചെയ്തുനോക്കിയാൽ ഈഡിപ്പസ് കോംപ്ലക്സ് വരെ ചെന്നെത്തുന്ന ഒരു
+ചെറുകഥയുടെ ആരംഭമാണിതു്. ഏതാണ്ടു് മണ്ണാങ്കട്ടയും കരിയിലയും കൂടി കാശിക്കുപോയി എന്നതുപോലെ.
+അത്രയ്ക്കു ലളിതവും ഋജുവും. ഈ സാധാരണതടം കാരൂരിന്റെ സവിശേഷമായ വ്യക്തിമുദ്രയാണു്. മാത്രമല്ല,
+ഇവിടെ പ്രത്യേകിച്ചു് അതിനൊരു ഔചിത്യവുമുണ്ടു്. ഗൗരവമായിട്ടൊന്നും പറയുവാൻ ഭാവം അതിലില്ല.
+എന്നുവെച്ചാൽ ഒരു കുട്ടിയുടെ ശൈലിപോലെ. അതെ, കഥയും അങ്ങനെത്തന്നെയാണു്. ഒരു കുട്ടിയാണു കഥ
+പറയുന്നതു്; അവനൊരിക്കലും മനസ്സിലാക്കാൻ കഴിവില്ലാത്ത ഒരു വിഷയത്തെക്കുറിച്ചാണു കഥ. ആയാസം
+കൂടാതെ അതങ്ങു പറഞ്ഞുപോവുകയാണു്. അവനു കാര്യമെല്ലാം വ്യക്തമാണു്. അതെഴുതി ഫലിപ്പിക്കാനാണു
+പ്രയാസം. കാരൂർ ഒരു കുട്ടിയായിരുന്ന കാലം വളരെ പണ്ടാണു്. എങ്കിലും ഒരു ബാലഹൃദയത്തിലേക്കു്
+ഒതുങ്ങിയിറങ്ങി കഥ പറയാൻ സാധിക്കുന്നതാണു് കാരൂരിന്റെ കലാകൗശലം.
+</p>
+          <p>അവൻ പറയുകയാണു്: ‘എനിക്കേതാണ്ടു പുരുഷപ്രാപ്തിയായി, അവരൊരന്തർജ്ജനവും.’ വ്യാകരണം
+ഇവിടെ ഒളിച്ചോട്ടം. പക്ഷേ, വ്യാകരണപ്പിശകിൽ നിന്നും കലയുണ്ടാക്കാമെന്നായിരിക്കണം കാരൂരിന്റെ മതം.
+പ്രത്യക്ഷത്തിൽ പരസ്പരബന്ധമില്ലാത്ത രണ്ടു കാര്യങ്ങളെ ഒരു അർദ്ധവിരാമംകൊണ്ടു കൂട്ടിക്കെട്ടുക; അതുകൊണ്ടു
+കലയുടെ മൂലതന്തുവിനെത്തന്നെ കൂട്ടിക്കെട്ടുക. ഇതെല്ലാം കഥ പറയുന്ന ആൾ അറിയാതെ ‘യാദൃച്ഛികമായി’
+സംഭവിക്കുക. അമ്പോ, എന്തൊരു കരവിരുതു്!
+</p>
+          <p>‘പൂവമ്പഴ’ത്തിനുശേഷം അവനെയൊന്നു കാണണം. അവനാണെങ്കിൽ പതിനാലിൽ കൂടിയ
+പെണ്ണുങ്ങളെയെല്ലാം പുച്ഛമാണു്. ഒന്നു പെറ്റു് കുട്ടി മരിച്ച ഒരന്തർജ്ജനവിധവയ്ക്കു് എന്തെല്ലാം വികാരങ്ങൾ
+ഉണ്ടാകാമെന്നു് അവനൊരു രൂപവുമില്ല. അവരോടുകിണ്ണാണ്ണം പറഞ്ഞുനില്ക്കുന്നതു് അവന്റെ കണ്ണിൽ തീരെ
+നിരർത്ഥകമാണു്.
+</p>
+          <p>‘ആ മതിലിനു് അവളുടെ അരയോളമേ പൊക്കമുള്ളുവെങ്കിലും അവർ നില്ക്കുന്ന പുരയിടം എന്റെ തലയോളം
+ഉയർന്നതാണു്.
+</p>
+          <p>വെറും ഒരു ഭൂമിശാസ്ത്രവർണ്ണന. പക്ഷേ, കഥ കുറേക്കൂടി മുന്നോട്ടുപോയി. പു. സാ. യാണെന്നു് ആരും
+തെറിപറയുകയുമില്ല. പിന്നീടു് അവനെ അടുത്തുവിളിച്ചു് ‘നഗ്നമായ ഒരു കൈ നീട്ടി’ നാണയം ഇട്ടുകൊടുക്കുമ്പോൾ
+നമ്മളിൽ നീതിമാന്മാർക്കെല്ലാം തോന്നും, ആ പയ്യനെ ഒന്നു പുറകോട്ടുവലിക്കാൻ. കാരൂരിനു് അങ്ങനെ
+തോന്നിയതുകൊണ്ടായിരിക്കണം, ‘ആ മതിലിൽകൂടി ഒരണ്ണാൻ ഓടിച്ചാടിവന്നു് ഛി ഛി ഛി എന്നു പറഞ്ഞു.’
+</p>
+          <p>അവനെ അവർ അഭിനന്ദിച്ചപ്പോൾ അപ്പുവിനു തോന്നുകയാണു്: ‘അവരുടെ മകനുണ്ടായിരുന്നെങ്കിൽ
+ഇതൊക്കെ അറിയാമായിരുന്നേനല്ലോ എന്നു വിഷാദിക്കുകയായിരിക്കണം ആ അമ്മ.’
+</p>
+          <p>എന്താ സംശയമുണ്ടോ? ഈ വിഷാദംകൊണ്ടുതന്നെയായിരിക്കും അവർ പിന്നെയും അപ്പുവിനെ വിളിച്ചു
+നെയ്യപ്പം കൊടുക്കുന്നതു്! മാത്രമല്ല, വെറ്റിലമുറുക്കാത്ത ആ അന്തർജ്ജനത്തിനു് കുറച്ചു വെറ്റിലമുറുക്കാൻ കൂടിയേ
+കഴിയു. അതിനവൻ മതിലിന്മേൽകൂടി കയറണം. അതു മര്യാദയാണോ? അവനൊരു സംശയം.
+</p>
+          <p>‘അപ്പുവിനു മര്യാദയൊന്നും നോക്കണ്ട. ഇഷ്ടമുള്ളതിലേ കേറാം. ഇതിലേയിങ്ങു കേറിക്കൊള്ളൂ.’
+</p>
+          <p>നല്ല തത്ത്വശാസ്ത്രം! ലോകത്തിലുള്ള സകലതും ചെയ്യാൻ ഒരു പൊതുലൈസൻസ്. പക്ഷേ, അപ്പുവിനു
+ലൈസൻസുകൊണ്ടു് എന്തു ഗുണം?
+</p>
+          <p>‘അവരൊരു വാഴക്കുട്ടത്തിൽ നിന്നുകൊണ്ടു് ഞാൻ മരത്തിൽ കയറുന്നതു നോക്കി.’
+</p>
+          <p>കുറച്ചു കടന്നുപോയില്ലേ എന്നു് ആരും കാരൂരിനോടു ചോദിക്കേണ്ട. നിങ്ങൾ ഭയപ്പടുന്നതൊന്നും കാരൂർ
+ഉദ്ദേശിക്കുന്നില്ല:
+</p>
+          <p>അന്തർജ്ജനവും. ഒരു ‘ഇതു്’ അത്രയേയുള്ളു. നാലുകെട്ടിന്റെ വരാന്തയിലേക്കു വെറ്റില കൊണ്ടുചെല്ലാൻ
+
+പറയുമ്പോഴും നാം മൂക്കിൽ വിരൽവെക്കണ്ട. വേണ്ടാത്തതു ചിന്തിക്കുവാൻ നമുക്കുള്ള വാസനയെ ഒന്നു
+ഇക്കിളിയിട്ടു നമ്മെ നാണിപ്പിക്കുക മാത്രമാണു് കാരൂർ ചെയ്യുന്നതു്.
+</p>
+          <p>പൂവമ്പഴം പിന്നെയും കിണ്ണാണ്ണം തുടരുകയാണു്. ഇക്കുറി ഒരുകല്ല്യാണത്തെപ്പറ്റി. നോക്കൂ കുറേ ചോദ്യങ്ങൾ:
+</p>
+          <p>‘പെണ്ണു മിടുക്കിയാണോ?’
+</p>
+          <p>‘കണ്ടാൽ നല്ല പെണ്ണാണോ?
+</p>
+          <p>‘എന്നെക്കാൾ വെളുത്തതാണോ?’
+</p>
+          <p>അവന്റെ പ്രായത്തിൽ കവിഞ്ഞ വല്ല വളർച്ചയും അപ്പുവിനുണ്ടെങ്കിൽ അവൻ കേശവന്റെ ഭാര്യ വഴി
+പൂവമ്പഴത്തിന്റെ പെണ്ണത്വത്തിലെത്തിച്ചേരും. അവരുടെ നാക്കു പിന്നെയും ചിലയ്ക്കുകയാണു്.
+</p>
+          <p>‘വെള്ളക്കാർക്കങ്ങനെയല്ലപോലും!’ എങ്ങനെയല്ല? സ്ത്രീയ്ക്കു വയസ്സു കുറഞ്ഞിരിക്കണമെന്ന നിബന്ധനയാണു
+ചർച്ചാവിഷയം. സ്ത്രീയ്ക്കു പ്രായം കൂടുതലാകുന്നതിൽ തെറ്റൊന്നുമില്ലെന്നു് നമുക്കു കൂട്ടിച്ചേർക്കാനും അവകാശമുണ്ടു്.
+അതൊന്നും ആ വിധവയ്ക്കു പറഞ്ഞുകൂടാ. പക്ഷേ, സ്വന്തം വേളിയുടെ കാര്യം പറയുന്നതിൽ തെറ്റൊന്നുമില്ലല്ലോ.
+കണക്കറിയാവുന്ന അപ്പുവിനു് കൂട്ടിനോക്കിയാൽ അവർക്കു വയസ്സു മുപ്പത്തിമൂന്നേയായിട്ടുള്ളു എന്നു
+മനസ്സിലാക്കാനുള്ള വകയും അവർ കൊടുക്കുന്നുണ്ടു്. പക്ഷേ, അവർക്കു ഗൗരവമായ ലക്ഷ്യമൊന്നുമില്ല.
+അവർക്കവരുടെ മനസ്സുതന്നെ അറിഞ്ഞുകൂടാ. പക്ഷേ, വർഗ്ഗവാസന കൊണ്ടായിരിക്കാം…
+</p>
+          <p>‘അവർ മുറിക്കകത്തു് കതകിന്റെ ഒരു പാളിയിൽ മാറിടംകൊള്ളിച്ചു നില്ക്കുകയാണു്. അവരുടെ കഴുത്തിലൊരു
+മുണ്ടുള്ളതു കയറുപോലെ കിടക്കുകയാണു്.’ അതിന്റെ രണ്ടു തലയും പുറകോട്ടായിരുന്നു. അവരുടെ കഴുത്തിൽ
+താലിയില്ലെന്നുള്ള വസ്തുത മാത്രം മറയ്ക്കാൻ പറ്റിയതായിരുന്നു ആ മുണ്ടു്.
+</p>
+          <p>ഇത്രയുമാവാമെങ്കിൽ ചക്കിപ്പൂച്ച ആത്തേമ്മാരുടെ കൂടെ രാത്രി കിടക്കുന്നതും പറയാമല്ലോ:
+</p>
+          <p>‘അവർ എന്റെ നേരെ ഒന്നു നോക്കി. തുളച്ചുകയറുന്ന ഒരു നോട്ടം. അവരുടെ മുഖം കതകിന്റെ മറവിലേക്കു
+മാറുകയും ചെയ്തു.’
+</p>
+          <p>അതിന്റെയെല്ലാം അർത്ഥം അപ്പുവിനു മനസ്സിലാകണമെങ്കിൽ കുറേ വർഷങ്ങളുടെയും ഒരു
+കൊച്ചുപെൺകുട്ടിയുടേയും സഹായം വേണം. തല്ക്കാലം അവനു വീട്ടിൽ പോകണമെന്നു മാത്രമാണു് തോന്നുന്നതു്.
+</p>
+          <p>ആ ഗൃഹത്തിൽ ഒരു വിവാഹംകൂടി. പിന്നെയെങ്ങനെയാണു പൂവമ്പഴത്തിനു സുഖക്കേടു വരാതിരിക്കുന്നതു്?
+</p>
+          <p>പിന്നീടു് അപ്പു അവരെ കാണുന്നതു് മരണത്തിനുമുമ്പാണു്. മരണത്തെപ്പറ്റിയാണു് അവരുടെ ചിന്ത. എങ്കിലും
+അവൻ അവരെ ‘കുഞ്ഞാത്തോരമ്മാ’ എന്നു വിളിക്കുമ്പോൾ അവരതാവർത്തിക്കുന്നു.
+</p>
+          <p>പക്ഷേ, കാലം കുറേ കഴിഞ്ഞിരിക്കുന്നു. അപ്പുവിനു ചില സംശയങ്ങളെല്ലാമുണ്ടു്. ദാഹിച്ചു വന്ന ആളിനു്
+അവൻ കുടിക്കാൻ കൊടുക്കാതിരുന്നിട്ടുണ്ടോ? അവൻ സ്വയം ചോദിക്കുകയാണു്. അവൻ അവരുടെ സ്ത്രീത്വത്തെ
+അപമാനിച്ചിട്ടുണ്ടോ? അവനു് ഉത്തരം മുട്ടിപ്പോയി. പക്ഷേ, പ്രായമായിട്ടും അക്കഥ മറക്കാൻ കഴിയുന്നില്ല.
+</p>
+          <p>ഒരു ചെറുകഥയെപ്പറ്റി ഇത്രയൊക്കെ പറയാനുണ്ടോ? ഉണ്ടു്. ‘പൂവമ്പഴം’ കുറേ വായനക്കാരുടെ തലയ്ക്കുമീതെ
+പോയേക്കാമെന്നുള്ളതുകൊണ്ടല്ല. അങ്ങനെയെങ്കിൽ ഒരു ടിപ്പണിയാണു വേണ്ടതു്. ചെറുകഥയുടെ ആദർശം
+ഭാവഗീതമായിരിക്കണമെന്നു കാണിക്കാൻവേണ്ടി പറഞ്ഞേ തീരു. സംശയമുണ്ടെങ്കിൽ ‘പൂവമ്പഴം’
+വായിച്ചുനോക്കൂ.
+</p>
+          <p>
+ലോകവാണി വാർഷികപ്പതിപ്പു് മെയ് 1950.
+</p>
+          <p>
+സി. ജെ. വിചാരവും വീക്ഷണവും 1985.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Oru cherukathayepatti (ml: ഒരു
+ചെറുകഥയെപ്പറ്റി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Lokavani;
+Kerala; 1950. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas, Oru
+cherukathayepatti, സി ജെ തോമസ്, ഒരു ചെറുകഥയെപ്പറ്റി, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 24, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:DavidtheShepherdBoy.jpg">David
+the shepherd boy,</ref> a painting by Anonymous  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  JS Aswathy; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-cherukatha.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-cherukatha.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

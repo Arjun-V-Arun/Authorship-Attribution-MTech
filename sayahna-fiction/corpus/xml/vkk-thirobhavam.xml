@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തിരോഭാവം</title>
+          <title xml:lang="en" type="main">Thirobhavam</title>
+        </title>
+        <author>V. K. K. Ramesh</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 13, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തിരോഭാവം</title>
+              <title xml:lang="en" type="main">Thirobhavam</title>
+            </title>
+            <author>V. K. K. Ramesh</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-05-18</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Short Story</term>
+          <term>V. K. K. Ramesh</term>
+          <term>Thirobhavam</term>
+          <term>വി. കെ. കെ. രമേഷ്</term>
+          <term>തിരോഭാവം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="short story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-05-18</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Caspar_David_Friedrich.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich__Tageszeitenzyklus,_Der_Mittag_(1821-22).jpg">The times of day: The
+midday,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Caspar_David_Friedrich">Caspar David
+Friedrich</ref>  (1774–1840). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തിരോഭാവം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>വി. കെ. കെ. രമേഷ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തിരോഭാവം</head>
+        <div type="lsection">
+          <p style="noindent">1975 സ്വച്ഛസുന്ദരമായ കാലമായിരുന്നോ എന്നു ചോദിച്ചാൽ, എനിക്കൊന്നും
+പറയാനാവില്ല. ആകാശം പിടിക്കാൻ മുകളിലേയ്ക്കു കയറ്റിവെച്ച മരപ്പെട്ടികൾ അണിതെറ്റി താഴോട്ടു
+പൊട്ടിച്ചാടുന്ന ശബ്ദം കേട്ടു്, രാത്രിനേരങ്ങളിൽ ഞെട്ടിയുണരുമ്പോൾ, മുത്തച്ഛൻ പറയും—“പേടിയ്ക്കണ്ട,
+ഭൂമികുലുക്കമാണു്.” പാടത്തു്, പോലീസുകാരുടെ ബൂട്ടടിശബ്ദം പാഞ്ഞുപോകുന്നതാണു്. മുത്തച്ഛൻ പറയില്ല,
+കുട്ടിയായ ഞാൻ പേടിക്കേണ്ടെന്നു കരുതിയിട്ടാണു്. വടക്കേ ജനൽ തുറന്നില്ലെങ്കിൽപ്പോലും പുറത്തെ ശബ്ദങ്ങൾ
+അകത്തേയ്ക്കു കയറിവരും. രാത്രിയായാലും പകലായാലും. ജനലിനപ്പുറം പാടങ്ങളാണു്. കർക്കിടകത്തിൽ
+മഴത്തുള്ളികളും, ധനുവിൽ മഞ്ഞും, കുംഭത്തിൽ കുടമിട്ടുരുട്ടാൻപോന്ന കാറ്റും പാടം കടന്നുവന്നു് ജനലിൽ
+മുട്ടിവിളിക്കും. കളിക്കാൻ വിളിക്കുന്നതാണു്. കൃഷിനോക്കാൻ മുത്തച്ഛന്റെ കൂടെ ഞാനെന്നും പോകും.
+ചതുരക്കൂടുകൾ ചേർത്തു വെച്ചതുപോലെ, ദൂരം പിടിക്കാനോടുന്ന കൊച്ചുപാടങ്ങളായിരുന്നു ഞങ്ങളുടേതു്.
+പടിഞ്ഞാറുനോക്കി അതങ്ങനെ പുഴവരെ നീണ്ടുചെരിഞ്ഞുകിടക്കും. പരന്ന പച്ചയ്ക്കിടയിൽ വരച്ചുവെച്ച
+ചതുരങ്ങൾപോലെ കിടക്കുന്ന വരമ്പുകളിലൂടെ മുത്തച്ഛന്റെ പിന്നിൽ നടക്കുമ്പോൾ, തവളക്കുട്ടികളും
+മീൻപൊടിപ്പുകളും വരമ്പിലെ ഞണ്ടുകളുമൊക്കെ സൂത്രത്തിൽ കോക്രികാട്ടി കളിക്കാൻ വിളിക്കും.
+</p>
+          <p>പുലരി കുങ്കുമമെടുത്തു് കിഴക്കൻ കുന്നുകളിൽ പുരട്ടുമ്പോൾ, ഞാനും മുത്തച്ഛനും വരമ്പിൽ കാലുവെച്ചിട്ടുണ്ടാവും.
+കരിമേഘം കുങ്കുമം മായ്ച്ചുകളയുന്ന മഴക്കാലങ്ങളിലും ഞങ്ങളുടെ യാത്രാസമയത്തിൽ മാറ്റമില്ല.
+മിഥുനത്തിലൊക്കെ തോരാമഴ പട്ടക്കുടയ്ക്കു മുകളിൽ പടക്കം പൊട്ടിച്ചു കളിക്കും. കൊച്ചു പട്ടക്കുടയാണു് എന്റേതു്.
+മുന്നിൽ നടക്കുന്ന മുത്തച്ഛന്റെ കുട തെറിപ്പിക്കുന്ന വെള്ളം, മലരിയിൽനിന്നും പൊട്ടിത്തെറിക്കുന്ന
+തുള്ളികളേപ്പോലെ മുന്നിൽ ചിതറിവീഴുന്നതും കണ്ടു് ഞാനങ്ങനെ നടക്കും.
+</p>
+          <p>പാടംചുറ്റി തിരിച്ചെത്തി, മുത്തശ്ശി വിളമ്പുന്ന കഞ്ഞി കുടിച്ചുകഴിഞ്ഞാൽ, പോലീസ് സ്റ്റേഷനിലേയ്ക്കുള്ള
+യാത്രയാണു്. “അവനേപ്പറ്റി വിവരം വല്ലതുമുണ്ടോ?” മുത്തച്ഛൻ ചോദിക്കും. രാമൻനായരുപോലീസുപോലും
+വിഷമത്തിലാവും. “ഇല്ലല്ലോ കാരണോരേ.”
+</p>
+          <p>മകനെ കാണാനില്ലെന്ന തന്റെ പരാതിയുടെ പിൻബലത്തിലാണു് മുത്തച്ഛൻ അവിടെയെന്നും
+എത്തിയിരുന്നതു്. അവരെ സംബന്ധിച്ചിടത്തോളം അച്ഛൻ ഒരു പിടികിട്ടാപ്പുള്ളിയാണു്. രണ്ടുപേർക്കും രണ്ടു
+രീതിയിൽ അച്ഛനെ ആവശ്യമായിരുന്നു. പിടിക്കപ്പെടുന്നതോടെ പിന്നീടൊരിക്കലും തിരിച്ചുകിട്ടാത്തവിധം സ്വന്തം
+മകൻ തനിക്കു നഷ്ടപ്പെടുമെന്നു മനസ്സിലാക്കാനുള്ള രാഷ്ട്രീയബോധമൊന്നും മുത്തച്ഛനില്ലായിരുന്നു. മാത്രവുമല്ല,
+കിട്ടിയാൽത്തന്നെ കൈകാര്യംചെയ്യുന്നതു്, ക്രൈംബ്രാഞ്ചുകാരായിരിക്കും.
+</p>
+          <p>“അമ്മയില്ലാത്ത കുട്ടിയാണു്.” എന്റെ കുട്ടിത്തലയിൽ തലോടിക്കൊണ്ടു് മുത്തച്ഛൻ പറയും.
+</p>
+          <p>“കണ്ടുകിട്ടിയാൽ അറിയിക്കാം ട്ടോ കാരണോരെ.” രാമൻനായരുപോലീസ് സമാധാനിപ്പിക്കും.
+</p>
+          <p>ഒരുവട്ടം തിരിച്ചു നടക്കുമ്പോൾ, രാമൻനായർ മറ്റൊരു കോൺസ്റ്റബിളിനോടായി പറയുന്നതു കേട്ടു.
+</p>
+          <p>“മിസയ്ക്കു് രണ്ടാം ഭേദഗതി ഓർഡിനൻസും ഇറങ്ങി, ഇനിയെന്തു രക്ഷ?” മടക്കയാത്രയിൽ, രാശുചെട്ട്യാരുടെ
+കടയിൽനിന്നും എനിക്കൊരു കോലുമിട്ടായി കിട്ടി. അമ്മയില്ലാത്ത കുട്ടികൾക്കു് എവിടെപ്പോയാലും മധുരമാണു്!
+</p>
+          <p>തിരിച്ചുനടക്കുമ്പോൾ, അച്ഛനെ ഓർമ്മവന്നു. അച്ഛനു് നല്ല ഭംഗിയുള്ള പല്ലുകളാണുള്ളതു്. ഇരുട്ടിലും തിളങ്ങും.
+ഉറക്കത്തിനിടയിൽ ഉണർത്തിവിളിക്കുകയാണു് എപ്പോഴും പതിവു്. കണ്ണുതുറന്നാൽ, ആദ്യമേതന്നെ ചിരിക്കുന്ന
+പല്ലുകളാണു് കണ്ണിൽപ്പെടുക. ഉമ്മ കിട്ടുമ്പോൾ, പല്ലുവന്നു് കവിളിൽകൊള്ളും. നല്ല സുഖമാണു്. അടുത്തുകിടക്കും.
+പള്ളിക്കൂടത്തിലെ വിശേഷങ്ങൾ ചോദിക്കും. ഉറക്കിക്കിടത്തി, രാത്രിയിലെപ്പോഴോ തിരിച്ചുപോവുകയുംചെയ്യും.
+പിറ്റേന്നുണരുമ്പോൾ, നടന്നതു് സ്വപ്നമായിരുന്നോ എന്നു സംശയം വരും. സ്മരണയിൽ നിന്നും പല്ലുകൾ
+മാഞ്ഞുപോകില്ല. ചിലപ്പോൾ, കവിളിൽ പിൻനിലാവു പോലെ അതിന്റെ പാടു കാണാം.
+പാടത്തേയ്ക്കിറങ്ങിയപ്പോൾ, തലേന്നു രാത്രിയിലെ ‘ഭൂകമ്പ’ത്തിൽ വരമ്പിളകിക്കിടക്കുന്നതു കണ്ടു.
+ബൂട്ടടിപ്പാടുകളാണെങ്ങും. വരമ്പിന്റെ വശങ്ങളിൽ അങ്ങിങ്ങു് പൊട്ടിയിട്ടുണ്ടു്.
+</p>
+          <p>“മുത്തശ്ശാ,” ഞാൻ വിളിച്ചു, “അച്ഛനെ കിട്ടിയാൽ പോലീസുകാരു് തല്ലോ?” മുത്തച്ഛൻ പരുങ്ങി. പാവം,
+
+അങ്ങനെ ആലോചിച്ചിട്ടുപോലുമുണ്ടാവില്ല. മുത്തച്ഛൻ മുന്നിൽ നടക്കുമ്പോൾ, ഞാൻ വരമ്പിൽ നിന്നും കിട്ടിയ
+ഈർക്കിലിയെടുത്തു് ഞണ്ടിന്റെ പോട്ടിലേക്കു താഴ്ത്തി. ഞണ്ടു് അതിലെങ്ങാൻ കയറിപ്പിടിച്ചാൽ, പൊക്കിയെടുത്തു്
+വെളിയിലിടും.
+</p>
+          <p>“ഞണ്ടേ, ഞണ്ടേ നിന്നുടെയുള്ളിൽ” എന്നു പാടാമല്ലൊ, നല്ല രസമാ.
+</p>
+          <p>പെട്ടെന്നു്, അവിടെനിന്നും എനിക്കൊരു പല്ലു കിട്ടി. തിളങ്ങുന്ന പല്ലു്! “മുത്തശ്ശാ… ” ഞാൻ വിളിച്ചു.
+പിന്നീടൊന്നും പറയാൻ എനിക്കായില്ല, ഞാനൊന്നും പറഞ്ഞതുമില്ല.
+</p>
+          <p>സ്വന്തം മകനു് എന്തുപറ്റിയെന്നു് അറിയാതെതന്നെയാണു് മുത്തച്ഛൻ ഭൂമിവിട്ടതു്, ഏറെ വൈകാതെ മുത്തശ്ശി
+ഭ്രാന്തിന്റെ ചിത്രപ്പൂട്ടിലുമായി. എന്റെ മരണശേഷം, ആരും കാണാത്ത പല്ലുപോലെ ആ രഹസ്യം
+ചരിത്രത്തിൽപ്പെടാതെ തിരോഭവിക്കും, തീർച്ച.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">വി. കെ. കെ. രമേഷ്</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/vkkramesh.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>1969-ൽ തമിഴ്‌നാട്ടിൽ ജനനം. ആദ്യ ഭാഷ തമിഴ്. പഠിച്ചതും വളർന്നതും തിരുവില്വാമലയിൽ. 4 പുസ്തകങ്ങൾ
+എഴുതിയിട്ടുണ്ടു്. ‘ഹൂ ഈസ് അഫ്റൈഡ് ഓഫ് വി. കെ. എൻ.’ എന്ന ആദ്യ പുസ്തകത്തിനു് 2018-ലെ ഹാസ്യ
+സാഹിത്യത്തിനുള്ള കേരള സാഹിത്യ അക്കാദമി പുരസ്ക്കാരം ലഭിച്ചു. നിരവധി റേഡിയോ നാടകങ്ങളും സ്കിറ്റുകളും
+രചിച്ചിട്ടുണ്ടു്. ആകാശവാണി ഡ്രാമാ ബി. ഗ്രേഡ് ആർട്ടിസ്റ്റ്. ടെലിവിഷൻ സ്കിറ്റുകളിൽ അഭിനയിച്ചിട്ടുണ്ടു്.
+വി. കെ. എൻ. അമ്മാമനാണു്. തിരുവില്വാമലയിൽ സ്ഥിരതാമസം.
+</p>
+          <p>ഭാര്യ: ജ്യോതി
+</p>
+          <p>മക്കൾ: ബ്രഹ്മദത്തൻ, നിരഞ്ജന
+</p>
+          <p>കലിഗ്രഫി: എൻ. ഭട്ടതിരി
+</p>
+          <p>ചിത്രീകരണം: വി. പി. സുനിൽകുമാർ
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thirobhavam (ml: തിരോഭാവം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  V. K. K. Ramesh.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-05-18. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Short Story, V. K. K. Ramesh,
+Thirobhavam, വി. കെ. കെ. രമേഷ്, തിരോഭാവം, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 13, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich__Tageszeitenzyklus,_Der_Mittag_(1821-22).jpg">The times of day: The
+midday,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Caspar_David_Friedrich">Caspar David
+Friedrich</ref>  (1774–1840). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/vkk-thirobhavam.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/vkk-thirobhavam.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

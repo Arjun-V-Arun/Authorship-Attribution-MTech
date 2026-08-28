@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ദാമു</title>
+          <title xml:lang="en" type="main">Damu</title>
+        </title>
+        <author>KGS</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">December 11, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ദാമു</title>
+              <title xml:lang="en" type="main">Damu</title>
+            </title>
+            <author>KGS</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-04-17</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>KGS</term>
+          <term>Damu</term>
+          <term>കെ ജി എസ്</term>
+          <term>ദാമു</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-04-17</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Hauptweg_und_Nebenwege.jpg" width="100%"/>
+          <figDesc>Hauptweg und Nebenwege, a painting by <ref target="https://en.wikipedia.org/wiki/Paul_Klee">Paul Klee</ref>
+ (1879–1940). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ദാമു</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ ജി എസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="chapter" n="1" xml:id="chp1">
+        <head type="chaphead"/>
+        <div type="lsection">
+          <p style="noindent">ദാസിനെപ്പറ്റിത്തന്നെ. ആ ദിവസവും, അതിൽപ്പിന്നെ നാം ( സച്ചി, അശോകൻ,
+കെ. ജി. എസ്.) ദാസിന്റെ വീട്ടിൽ പോയി ദാസിന്റെ അച്ഛനമ്മമാരെ കണ്ട പെരിഞ്ഞനം ദിവസവും, കഴിഞ്ഞൊരു
+ദിവസം എഴുതിയതു്.
+</p>
+          <p>മൌനവും സ്നേഹവും ഐക്യവും കർമ്മപ്രേരണയും സ്നേഹശാസനയും ഉത്തരമില്ലായ്കയും ഉൾപ്പടർപ്പായ
+എന്റെ ദാസനുഭവത്തിൽ നിന്നാണു് ആവത് നിർവികാരമാക്കിയ ഈ ഓർമ്മക്കെട്ടു്.
+</p>
+          <p>
+സ്നേഹത്തോടെ,
+</p>
+          <p>
+കെ. ജി. എസ്.
+</p>
+        </div>
+        <!--end of "section 1.0/0.1"-->
+      </div>
+      <!--end of "chapter 1/0"-->
+      <!--END OF CHAPTER 1/0-->
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ദാമു</head>
+        <div type="lsection">
+          <lg>
+            <l> മഴനാളിൽ വെങ്കിടി, ഗോപി, ലക്ഷ്മി,</l>
+            <l> പലർ ഞങ്ങളോരോന്നു് ചൊന്നിരിക്കെ</l>
+            <l> കുടയുമുടലും നനഞ്ഞു വന്നു്</l>
+            <l> പറയുന്നു നീലനീ ദുഃഖവാർത്ത:</l>
+            <l> റെയിലിന്മേൽ ദാമു<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref>
+സ്വയം മരിച്ചു. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-damu-02.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> കാളിക്കളമായ കാവരികിൽ</l>
+            <l> പാടവും കുന്നും നിശ്ശബ്ദതയും</l>
+            <l> നാളേക്കു് പാളം വിരിച്ച തോടും,</l>
+            <l> അവിടെന്തേ മൃത്യു കൊതിച്ചു ദാമു?</l>
+          </lg>
+          <lg>
+            <l> ‘ദാരികനാണു് ഞാ,നല്ല ദാമു;</l>
+            <l> തീവണ്ടിയല്ലി,തലറിയെത്തും</l>
+            <l> കാളി,യിവളെന്നെത്തീർത്തു് പോട്ടെ.’</l>
+            <l> തോന്നലെന്തിങ്ങനെയവനു് വന്നു?</l>
+          </lg>
+          <lg>
+            <l> അവനച്ഛനമ്മാർക്കേക പുത്രൻ</l>
+            <l> അവനെന്തിനിങ്ങനെ വീടൊഴിച്ചു?</l>
+            <l> അറിയുവോർക്കൊക്കെയുമാത്മമിത്രം</l>
+            <l> അവനെന്തിനിങ്ങനെ നാടൊഴിച്ചു?</l>
+          </lg>
+          <lg>
+            <l> 2</l>
+          </lg>
+          <lg>
+            <l> മരണമറിയുവാൻ പോയ് വരുമ്പോൾ</l>
+            <l> വാക്കും നടപ്പും പതുക്കെയായി.</l>
+            <l> കൂടെക്കുറച്ചുപേർ പോന്നിരുന്നു, സ്വന്തം</l>
+            <l> വീടെത്തിയപ്പോഴവർ പിരിഞ്ഞു; പാതയിൽ</l>
+            <l> ഇനി നമ്മൾ രണ്ടു് പേർ മാത്രം, നമ്മുടെ</l>
+            <l> വീടോ ഇനിയെത്ര എത്ര ദൂരെ!</l>
+          </lg>
+          <lg>
+            <l> നഗരച്ചുടുവെട്ടം തൊട്ടുപോണം</l>
+            <l> ചങ്ങാതി നമ്മെക്കുറിച്ചു് ചൊല്ലും</l>
+            <l> നുണ കേട്ടു് ചുമ്മ ചിരിച്ചു പോണം</l>
+            <l> സമരവെയിലുമതിന്നറുതി-</l>
+            <l> ച്ചോരച്ചതിയും ജയിച്ചു പോണം.</l>
+          </lg>
+          <lg>
+            <l> കടവും കിതപ്പും അതിന്നറുതി–</l>
+            <l> പ്പലകൈത്തണലിൽ കുളിർന്നു പോണം</l>
+            <l> ചുഴിയുമൊഴുക്കും കടന്നു് പോണം</l>
+            <l> ചുടലയും കാടുമറിഞ്ഞു പോണം.</l>
+            <l> ഒളിവിലും തെളിവിലും ചത്തോരെല്ലാം</l>
+            <l> മുറിയിലും മുറ്റത്തും വന്നു് മിന്നാ-</l>
+            <l> മിന്നിയായ് കാക്കയായ് മൈനയായും</l>
+            <l> കാവലും കൂട്ടുമായ് കൂടും നമ്മുടെ</l>
+            <l> വീടോ ഇനിയെത്ര എത്ര ദൂരെ ?</l>
+          </lg>
+          <lg>
+            <l> 3</l>
+          </lg>
+          <lg>
+            <l> വഴിയിലിളകുന്നു പാഴിലകൾ…അതിൻ</l>
+            <l> മീതേയിഴയുന്നു വലിയ മേലങ്കി,</l>
+            <l> വരവായിളം കാറ്റിൽ മൌനമാലാഖ. </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-damu-01.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <lg>
+            <l> അറിയാത്തതിനൊക്കെ രൂപമാകും</l>
+            <l> പറയാത്തതിനൊക്കെ ഭാഷയാകും</l>
+            <l> മൌനമേ, ഞങ്ങളെ കേട്ടിരിക്കേ,</l>
+            <l> ഇല്ലായ്മ വിട്ടുയർന്നുള്ളവരായ്</l>
+            <l> മാറിയ ഞങ്ങളെത്തെല്ലുകാലം</l>
+            <l> കൂടെക്കഴിഞ്ഞുമറിഞ്ഞിരിക്കേ,</l>
+            <l> അവനെന്തേ പ്രത്യാശായറ്റുപോയി?</l>
+            <l> മൌനമേ നിന്നെയും തന്നു പോയി. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p>1982.
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>]
+വടക്കാഞ്ചേരിക്കടുത്തു് ഓട്ടുപാറ ഉത്രാളിക്കാവിനടുത്താണു് ദാസ് ജീവനൊടുക്കിയതു്.</note>
+          </noteGrp>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/kgs-santhosh-t.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>ഡ്രോയിങ്: വി. ആർ. സന്തോഷ്
+</p>
+          <p>ചിത്രങ്ങൾ: പോൾ ക്ലീ
+
+</p>
+        </div>
+        <!--end of "section 1.0/1.1"-->
+      </div>
+      <!--end of "chapter 1/1"-->
+      <!--END OF CHAPTER 1/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Damu (ml: ദാമു).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  KGS.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-04-17. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, KGS, Damu, കെ ജി
+എസ്, ദാമു, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 11, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Hauptweg und Nebenwege, a
+painting by <ref target="https://en.wikipedia.org/wiki/Paul_Klee">Paul
+Klee</ref>  (1879–1940). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kgs-damu.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kgs-damu.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

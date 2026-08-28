@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">യേശുവിന്റെ ചില ദിവസങ്ങൾ </title>
+          <title xml:lang="en" type="main">Yesuvinte Chila Divasangal</title>
+        </title>
+        <author>Zacharia</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>KB Sujith</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">February 5, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">യേശുവിന്റെ ചില ദിവസങ്ങൾ </title>
+              <title xml:lang="en" type="main">Yesuvinte Chila Divasangal</title>
+            </title>
+            <author>Zacharia</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-06-28</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Short Story</term>
+          <term>Zacharia</term>
+          <term>Yesuvinte Chila Divasangal</term>
+          <term>സക്കറിയ</term>
+          <term>യേശുവിന്റെ ചില ദിവസങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="short story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-06-28</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/deadsea.jpg" width="100%"/>
+          <figDesc><ref target="https://tinyurl.com/2a5wb3hr">Tree planted on salt pile,
+Dead Sea (Israel),</ref> a photograph by <ref target="https://tinyurl.com/5hamprrv">Eranrez</ref>  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സക്കറിയ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>യേശുവിന്റെ ചില ദിവസങ്ങൾ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">യേശുവിന്റെ ചില ദിവസങ്ങൾ</head>
+        <div type="lsection" xml:id="sec1.1">
+          <head type="lsechead">ഒരു പുലർച്ച</head>
+          <p style="noindent">വെള്ള കീറുംമുൻപു് യേശു ഉണർന്നു. തലയിണയായി വെച്ചിരുന്ന കൈകൾ
+കുടഞ്ഞു. കുറേ നേരം ആകാശത്തേക്കു് നോക്കിക്കിടന്നു. തിരിഞ്ഞുകിടന്നപ്പോൾ പുറത്തു് ഒട്ടിയിരുന്ന പൂഴി
+രോമാഞ്ചങ്ങൾപോലെ പൊഴിഞ്ഞു. ഇരുട്ടിൽ ഗലീലിത്തടാകം ഓളങ്ങളുടെ നേരിയ ശബ്ദം മാത്രം. കാറ്റിനു്
+ഉണക്കമീനിന്റെ മണം. ആകാശത്തിൽ അങ്ങിങ്ങു് കുറച്ചു് നക്ഷത്രങ്ങൾ മിന്നുന്നുണ്ടു്. ഒരു ശിഷ്യൻ കൂർക്കം വലിച്ചു.
+മറ്റൊരുവൻ ഉറക്കത്തിൽ പിറുപിറുത്തു.
+</p>
+          <p>യേശു എണീറ്റിരുന്നു. മടക്കിയ മുട്ടുകളിലേക്കു തലകുനിച്ചു് കുറച്ചുനേരമിരുന്നു. വെള്ളപ്പാത്രമെടുത്തു് നാലഞ്ചു
+കവിൾ കുടിച്ചു. എന്നിട്ടു് തിരകളുടെ ശബ്ദം കേട്ടുകൊണ്ടു് തടാകത്തിലേക്കു നോക്കിയിരുന്നു. കടൽകാക്കകൾ
+കരഞ്ഞു തുടങ്ങി. തടാകത്തിനു മീതെ ഉദയത്തിന്റെ വെളിച്ചങ്ങൾ പ്രത്യക്ഷപ്പെട്ടു. ഒരു ശിഷ്യൻ പുതപ്പിനുള്ളിൽ
+മൂരിനിവർന്നു. യേശു എണീറ്റുനിന്നു. പുതച്ചിരുന്ന ഉത്തരീയമെടുത്തു് അരയിൽ ചുറ്റി അകലെയുള്ള
+കുറ്റിക്കാടുകളിലേക്കു് പോയി. ഒരു പടർപ്പിൽനിന്നു് ഒരു പക്ഷി ചിറകടിച്ചുയർന്നു് യേശുവിനെ നടുക്കി. യേശു
+ഇരുണ്ട ആകാശത്തിൽ അതിന്റെ രൂപം കാണാൻ ശ്രമിച്ചു.
+</p>
+          <p>തിരിച്ചുവന്നു് ഉത്തരീയം അഴിച്ചുവെച്ച് ഓളങ്ങളുടെ വക്കിലിരുന്നു ശൗചം ചെയ്തു. പിന്നെ തടാകത്തിലേക്കു്
+ഇറങ്ങിച്ചെന്നു് മുങ്ങി. കുളിച്ചു. കുറച്ചു നീന്തി. കഴുത്തൊപ്പം വെള്ളത്തിൽ ചാഞ്ചാടിക്കൊണ്ടു് വെളിച്ചം പടരുന്ന
+ആകാശത്തിലേക്കു നോക്കി. ഇരുകൈകളിലും ഗലീലിയുടെ ശുദ്ധജലമെടുത്തു് കവിൾക്കൊണ്ടു് നീട്ടിത്തുപ്പി.
+പാദങ്ങളെ മീനുകൾ രുചിച്ചപ്പോൾ യേശു പുഞ്ചിരിച്ചു.
+</p>
+          <p>കരയ്ക്കു കയറി ഉത്തരീയം വെള്ളത്തിൽ വീശിക്കഴുകി, ഊരിപ്പിഴിഞ്ഞു തോർത്തി. വീണ്ടും കഴുകിപ്പിഴിഞ്ഞു്,
+കുടഞ്ഞു്, അതുടുത്തുകൊണ്ടു് ശിഷ്യന്മാർ ഉറങ്ങുന്നിടത്തേക്കു നടന്നു. നേരം പുലർന്നിരുന്നു. തടാകത്തിനു മീതെ
+കടൽകാക്കകളുടെ ബഹളം. അകലെ ഗോലൻകുന്നുകളിൽ നിന്നു് ഉദയസൂര്യന്റെ ചൂണ്ടുവിരൽ തിരകളിൽ
+പൊങ്ങിയും താണും കുലുങ്ങിയും യേശുവിനുനേരെ നീണ്ടു. നനഞ്ഞ കുറ്റിത്തലമുടി വിരലുകൾകൊണ്ടു് ഇളക്കി
+ആകാശത്തിലേക്കു് നോക്കി യേശു പറഞ്ഞു: “പൂപോലെയുണ്ടു് ഈ പുലരി!”
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ഒരു മധ്യാഹ്നം</head>
+          <figure rend="fcenter" type="grf">
+            <graphic url="images/zacharia-yesu-01.jpg" rendition="grf"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മാർത്തയുടെയും മറിയത്തിന്റെയും വീടു് അടുത്തപ്പോൾ യേശുവിന്റെ കണ്ണ് നിറഞ്ഞു. ലാസറേ, കൂട്ടുകാരാ,
+യേശു തനിക്കുള്ളിൽ പറഞ്ഞു, നീ മരിച്ചു, അല്ലേ? നിന്നെ ഇനി ഞാൻ കാണില്ല, അല്ലേ? കണ്ണു തുടച്ചു്
+നോക്കുമ്പോൾ മാർത്ത തനിക്കുനേരെ വരുന്നുണ്ടു്. മുഖം ദുഃഖംകൊണ്ടു് കരിവാളിച്ചിരിക്കുന്നു. കണ്ണുകൾ
+കലങ്ങിയിരിക്കുന്നു. യേശു അവളെ ആലിംഗനം ചെയ്തു തല തന്റെ തോളിൽ ചേർത്തു. അവൾ ഒരു മൃദുസ്വരത്തിൽ
+വിങ്ങിക്കരഞ്ഞു. അവളുടെ ചൂടുള്ള കണ്ണീർ യേശുവിന്റെ കഴുത്തിനെ നനച്ചു. അവൾ വിതുമ്പിക്കൊണ്ടു പറഞ്ഞു,
+“എന്റെ സഹോദരനു് രോഗമാണെന്നറിയിച്ചിട്ടും നീ വന്നില്ലല്ലൊ. നീ ഇവിടെയുണ്ടായിരുന്നെങ്കിൽ അവൻ
+മരിക്കുമായിരുന്നില്ല”. അവളുടെ മുടി യേശുവിന്റെ കവിളിൽ ഉരുമ്മി. യേശു ഒന്നും കാണുന്നില്ലാത്ത
+കണ്ണുകൾകൊണ്ടു് അകലേക്കു് നോക്കിനിന്നു. എന്നിട്ടു പതുക്കെ പറഞ്ഞു, “അവൻ ഉറങ്ങുകയായിരിക്കണം”.
+</p>
+          <p>മാർത്ത പോയി. യേശു അവിടെത്തന്നെ നിന്നു.
+അപ്പോൾ മറിയം എത്തി. അവൾ യേശുവിന്റെ പാദങ്ങളിൽ മുഖമമർത്തി പൊട്ടിക്കരഞ്ഞുകൊണ്ടു പറഞ്ഞു, “നീ
+ഇവിടെയുണ്ടായിരുന്നെങ്കിൽ എന്റെ സഹോദരൻ മരിക്കുമായിരുന്നില്ല”. അവളുടെ ചൂടുകണ്ണീർ യേശുവിന്റെ
+പാദങ്ങളിൽ വീണു. യേശു കരഞ്ഞു. മറിയം എണീറ്റ് യേശുവിന്റെ കണ്ണീർ തുടച്ചു. യേശു ചോദിച്ചു. “അവനെ
+എവിടെ അടക്കിയിരിക്കുന്നു?” മറിയം പറഞ്ഞു, “നീ വന്നു കാണുക”.
+</p>
+          <p>കല്ലറയ്ക്കു മുമ്പിൽ യേശു നിന്നു. അതു് അടച്ചിരുന്ന കല്ല് കുറച്ചുപേർ ഉരുട്ടിമാറ്റി. അകത്തെ ഇരുട്ടിൽ ലാസർ
+ഒരു ബന്ധിയെപ്പോലെ കിടക്കുന്നുണ്ടു്. യേശു കുനിഞ്ഞു് ഉള്ളിലേക്കു നോക്കി വിളിച്ചു, “ലാസറേ, കൂട്ടുകാരാ, ഞാൻ
+വന്നിരിക്കുന്നു. നീ എണീറ്റു വരൂ”. ലാസറിന്റെ പൊതിഞ്ഞു കെട്ടിയ രൂപം അനങ്ങി. എണീറ്റിരിക്കാൻ ശ്രമിച്ചു.
+യേശു ഉള്ളിലേക്കു് എത്തിവലിഞ്ഞു് അവനെ ഉയർത്തിക്കൊണ്ടു് പറഞ്ഞു, “നീ ഉറങ്ങിയതു മതി”. കുറച്ചുപേർ
+ചേർന്നു ലാസറിനെ എടുത്തു് പുറത്തുകൊണ്ടുവന്നു. അവന്റെ കെട്ടുകൾ അഴിച്ചുതുടങ്ങി. മറിയവും മാർത്തയും
+യേശുവിന്റെ കൈകളെടുത്തു് അവരുടെ കണ്ണീരൊട്ടുന്ന മുഖങ്ങളിലമർത്തി. യേശു കെട്ടുകൾ അഴിക്കപ്പെടുന്ന
+ലാസറിനെ അത്ഭുതത്തോടെ നോക്കിക്കൊണ്ടു് അവരോടു പറഞ്ഞു. “ഞാൻ പറഞ്ഞില്ലേ? അവൻ
+ഉറങ്ങുകയായിരുന്നു!”
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">ഒരു സായാഹ്നം</head>
+          <figure rend="fcenter" type="grf">
+            <graphic url="images/zacharia-yesu-02.jpg" rendition="grf"/>
+          </figure>
+          <p style="noindent"> യൂദാ സമതലത്തിലെ ചരൽപ്പാതയിലൂടെ യേശു വേഗം വേഗം നടന്നു. പിന്നാലെ
+ശിഷ്യന്മാരും ഒരാൾക്കൂട്ടവും. ചെരിപ്പിനുള്ളിൽ കുടുങ്ങിയ കല്ലു നീക്കാൻ യേശു കുനിഞ്ഞപ്പോൾ പിന്തുടർന്നവരും
+നിന്നു. യേശു വീണ്ടും നടന്നു. പിറകിൽ യൂദാമലകളിലേക്കു താണുകൊണ്ടിരുന്ന സൂര്യൻ യേശുവിന്റെ നിഴലിനെ
+വലിച്ചുനീട്ടി മുന്നോട്ടോടിച്ചു. ചാവുകടൽ ഒളിച്ചിരിക്കുന്ന ചക്രവാളത്തിലേക്കു നോക്കിക്കൊണ്ടു് യേശു സ്വയം
+പറഞ്ഞു, ഹ! ഹ! ഇന്നെനിക്കു ചാവുകടൽ! ഗലീലിയുടെ തെളീനീർ ഇന്നു വേണ്ട. എന്റെ വിഷമങ്ങളെല്ലാം
+ചാവുകടലിന്റെ ഉപ്പിലും ഗന്ധകത്തിലും കഴുകിക്കളയാം! യേശു പുഞ്ചിരിച്ചു.
+</p>
+          <p>സൂര്യൻ യൂദാമലകളെ തൊട്ടുതൊട്ടില്ലെന്നായപ്പോൾ യേശു ചാവുകടലിലേക്കു നോക്കിനിൽക്കുന്ന ഒരു
+കുന്നിൻ പുറത്തെത്തി. കടൽ ശ്വാസമടക്കി, അനക്കമില്ലാതെ, ക്ലാവ് നിറത്തിൽ യോർദാൻ കരയിലേക്കു്
+പരന്നകന്നു പോകുന്നു. ആകാശത്തിന്റെ നീല കടലിന്റെ പച്ചയായി മാറുന്നു. നടക്കാൻ നല്ല ഒരു പച്ചപ്പുൽ
+മൈതാനം പോലെയുണ്ടു്! യേശു തന്നോടു് തന്നെ പറഞ്ഞു, കൂടെ വന്നവരെ തിരിഞ്ഞു നോക്കി യേശു ചോദിച്ചു,
+“കുളിക്കാൻ ആരുണ്ടു്?” എന്നിട്ടു് കുന്നിന്റെ തിട്ടകളും ചെരിവുകളും ചാടിയിറങ്ങി വേഗത്തിൽ താഴേക്കു പോയി.
+ശിഷ്യന്മാരും കുറച്ചുപേരും പിറകേ ചെന്നു.
+</p>
+          <p>കടലിന്റെ വക്കിൽ യേശു നിന്നു. അങ്കിയും പുതയും ഊരി ഒരു മൺതിട്ടമേൽവച്ചു. ചെരിപ്പുകൾ അടുത്തുവച്ചു.
+കടലിലേക്കു് നടന്നു. കടൽ ഒരു പാത്രത്തിലെ കുറുകിയ പാനീയംപോലെ അല്പാല്പം അനങ്ങിക്കൊണ്ടിരുന്നു.
+വെള്ളത്തിലേക്കു കാലെടുത്തുവച്ചപ്പോൾ ഒരു ചെറുതണുപ്പു് യേശുവിനെ കോരിത്തരിപ്പിച്ചു. അരയൊപ്പം
+വെള്ളത്തിലെത്തിയപ്പോൾ യേശു കുത്തിയിരുന്നു് കഴുത്തുവരെ മുങ്ങി. ഗന്ധകത്തിന്റെ നേർത്ത ഗന്ധം
+മൂക്കിലെത്തി. കുറച്ചുകഴിഞ്ഞു് മലർന്നു് കാലുകൾ നീട്ടി കൈകൾ വിരിച്ചു് പൊന്തിക്കിടന്നു. ആകാശത്തിലേക്കു
+നോക്കി. അവിടെ വെളിച്ചം മങ്ങിത്തുടങ്ങിയിരുന്നു. യേശു കൈകൾകൊണ്ടു് തുഴഞ്ഞു് കടലിനുള്ളിലേക്കു് അല്പദൂരം
+ഒഴുകി. കടലിലിറങ്ങിയിരുന്ന ശിഷ്യന്മാർക്കും മറ്റാളുകൾക്കുമിടയിലൂടെ കുറച്ചുനേരം ഒഴുകി നടന്നു. പിന്നെ
+കരയിൽ കയറി രണ്ടു് കൈകളും കൊണ്ടു് ഓരത്തെ ഉപ്പും ഗന്ധകവുമലിഞ്ഞ ചെളി കുഴിച്ചെടുത്തു് ദേഹത്തു തേച്ചു.
+പുറത്തു് ചെളി പുരട്ടാൻ ഒരു ശിഷ്യൻ സഹായിച്ചു. യേശുവിന്റെ മുഖം ഇപ്പോൾ കണ്ണുകൾ മാത്രം അനങ്ങുന്ന ഒരു
+മൺമുഖംമൂടിയായി. ദേഹം ഒരു ചെളിപ്രതിമയും. ചെളി ദേഹത്തേക്കു് തിരുമ്മിപ്പിടിച്ചു് പുഞ്ചിരിച്ചുകൊണ്ടു് യേശു
+ആത്മഗതം ചെയ്തൂ, ഹാ! ഹാ! ഇപ്പോൾ ഞാൻ വാസ്തവത്തിലൊരു മനുഷ്യപുത്രനായി!
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">ഒരു രാത്രി</head>
+          <figure rend="fcenter" type="grf">
+            <graphic url="images/zacharia-yesu-03-new.jpg" rendition="grf"/>
+          </figure>
+          <p style="noindent"> വഞ്ചി ഒരു ഉരസൽ ശബ്ദത്തോടെ തീരത്തെ മണലിലേക്കു് വന്നുകയറി.
+</p>
+          <p>യേശു പുറത്തേക്കു് വച്ച പാദങ്ങളെ ഗലീലിയുടെ ചെറുതിരകൾ വന്നു് നക്കി. അണിയത്തു് കെട്ടിവച്ചിരുന്ന
+പന്തം കെടാറായിരുന്നു. അതിന്റെ മങ്ങുന്ന വെളിച്ചത്തിൽ യേശു കരയിലേക്കു നടന്നു. യേശുവിന്റെ പാദങ്ങൾക്കു
+മുമ്പിൽ കൊച്ചു ഞണ്ടുകൾ പ്രകാശവേഗത്തിൽ പാഞ്ഞുപോയി മണ്ണിൽ തുരന്നുകയറി. ശിഷ്യന്മാർ അവരുടെ
+ഭാണ്ഡങ്ങളെടുക്കുകയായിരുന്നു. യേശു കാത്തുനിന്നു.
+</p>
+          <p>തടാകത്തിനുമീതേ ആകാശക്കാറ്റുകൾ ചന്ദ്രക്കലയെ പുകമേഘങ്ങളിലൂടെ പറത്തുന്നതു് യേശു കണ്ടു. സമയം
+പാതിരയായിക്കാണും, യേശു ചിന്തിച്ചു. കരയിൽ ഒരു വിളക്കുപോലും തെളിയുന്നില്ല. വഞ്ചിയിലെ പന്തം
+കരിപുരണ്ട ഒരു തിളക്കം മാത്രമായിത്തീർന്നിരുന്നു. ഒരു ശിഷ്യൻ അതു കെട്ടഴിച്ചെടുത്തു് വീണ്ടുംവീണ്ടും വീശി. ഒന്നു
+മിന്നിയ ശേഷം അതു കെട്ടു.
+</p>
+          <p>ഒരു ശിഷ്യൻ പറഞ്ഞു, “റാബ്ബായ്,<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> രാത്രി വളരെ വൈകി, നമുക്കു് മറിയത്തിന്റെ വീട്ടിലേക്കു പോയാലോ?
+അവളുടെ ഗ്രാമം മാഗ്ദല അടുത്താണു്”. യേശു പറഞ്ഞു, “ശരി, നിനക്കു വഴിയറിയാമോ?” അയാൾ പറഞ്ഞു,
+“ഒരുവിധം അറിയാം”. അവർ നടന്നു തുടങ്ങി. അവരുടെ നിശ്ശബ്ദ രൂപങ്ങൾ അരണ്ട നക്ഷത്രവെളിച്ചത്തിലൂടെ
+രഹസ്യപ്പോരാളികളെപ്പോലെ മുന്നോട്ടു് പോയി. യേശു ചിന്തിച്ചു: പാവം മറിയം! അവൾ ഇനി ഈ പാതിരയ്ക്കു്
+എണീറ്റു് ഞങ്ങളെ സല്ക്കരിക്കണം! വഴികാട്ടിയായ ശിഷ്യൻ ഇടയ്ക്കു നിന്നും, ചുറ്റും നോക്കിയും, അടയാളങ്ങൾ
+കണ്ടുപിടിച്ചും മുന്നോട്ടു നീങ്ങി. യേശു ചിലപ്പോൾ താഴേയ്ക്കു മാത്രം നോക്കിയും ചിലപ്പോൾ തലയുയർത്തി
+അകലേക്കും ഇരുവശത്തേക്കും കണ്ണോടിച്ചും നടന്നു.
+</p>
+          <p>ഇരുട്ടു പുതച്ച മണൽപരപ്പുകളിലൂടെയും കുറ്റിക്കാടുകളിലൂടെയും ചെറുമരക്കൂട്ടങ്ങളിലൂടെയും അവർ
+നടന്നുപോയി. ഒരു മുയൽ പേടിച്ചോടുന്നതും കുറ്റിച്ചെടികൾക്കു പിന്നിൽ ഒരു കുറുക്കൻ കുടുംബത്തിന്റെ കണ്ണുകൾ
+തിളങ്ങുന്നതും ഒരു പാറമേലിരുന്ന കാട്ടുപൂച്ചയുടെ പച്ചക്കണ്ണുകൾ ജ്വലിക്കുന്നതും യേശുകണ്ടു. ആകാശത്തിൽ
+വവ്വാലുകൾ വേട്ടയാടുന്നതു് യേശു ഒരു നിമിഷം നോക്കിനിന്നു.
+</p>
+          <p>ഒരു ഒറ്റപ്പെട്ട മരത്തിനടുത്തെത്തിയപ്പോൾ വഴികാട്ടിയ ശിഷ്യൻ നിന്നു. അയാൾ അമ്പരപ്പോടെ ചുറ്റും
+നോക്കി. എന്നിട്ടു് സങ്കടപൂർവം യേശുവിനോടു പറഞ്ഞു, “റാബ്ബായ്, എനിക്കു വഴി തെറ്റി. ഈ ഇരുട്ടിൽ ഒന്നും
+മനസ്സിലാവുന്നില്ല”. യേശു പറഞ്ഞു, “നന്നായി, മറിയം സമാധാനമായി ഉറങ്ങട്ടെ, നമുക്കു് ഇവിടെ കിടക്കാം”.
+യേശു മരച്ചുവട്ടിലേക്കു നീങ്ങി. വെള്ളപ്പാത്രമെടുത്തു് അല്പം വെള്ളംകൊണ്ടു് മുഖം തുടച്ചു. കുറച്ചു് പാദങ്ങളിലൊഴിച്ചു.
+എന്നിട്ടു് നിലത്തിരുന്നു് മരത്തിൽ ചാരി ആകാശത്തിലേക്കു നോക്കി. അവിടെ മേഘങ്ങളെ കാറ്റു്
+കൊണ്ടുപോയിക്കഴിഞ്ഞിരുന്നു. ചന്ദ്രക്കല പുഞ്ചിരിക്കുന്നുണ്ടായിരുന്നു. നക്ഷത്രങ്ങളും ആകാശഗംഗയും വിഹരിച്ചു.
+യേശു എണീറ്റു് അങ്കിയൂരി മടക്കി മരത്തിന്റെ പൊങ്ങിനിന്ന വേരിൽവച്ചു.
+</p>
+          <p>എന്നിട്ടു് നിലത്തെ കരിയിലകളുടെ മേൽ നീണ്ടുനിവർന്നുകിടന്നു് അങ്കിയിൽ തലവച്ചു. പിന്നെ ഒരു
+വശത്തേക്കു തിരിഞ്ഞുകിടന്നു് നിദ്രപ്രാപിച്ചു. മരക്കൊമ്പിലിരുന്ന ഒരു മൂങ്ങ തല വട്ടംതിരിച്ചു് മിന്നുന്ന കണ്ണുകൾ
+കൊണ്ടു് യേശുവിനെ പലതവണ നോക്കി. എന്നിട്ടു് മൂളി: “ഗൂം… ഗൂ… ഗൂ”.
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] ഗുരു.</note>
+          </noteGrp>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Paul_Sakaria.jpg" rendition="gra"/>
+            <figDesc style="thumb">സക്കറിയ</figDesc>
+          </figure>
+          <p>ചിത്രങ്ങൾ: വി. മോഹനൻ
+
+
+
+</p>
+        </div>
+        <!--end of "section 0.0/1.4"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Yesuvinte Chila Divasangal (ml:
+യേശുവിന്റെ ചില ദിവസങ്ങൾ ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Zacharia.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-06-28. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Short Story, Zacharia,
+Yesuvinte Chila Divasangal, സക്കറിയ, യേശുവിന്റെ ചില ദിവസങ്ങൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 5, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://tinyurl.com/2a5wb3hr">Tree planted on salt pile, Dead Sea
+(Israel),</ref> a photograph by <ref target="https://tinyurl.com/5hamprrv">Eranrez</ref>  . The image is taken
+from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  KB Sujith.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/zacharia-yesu.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/zacharia-yesu.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">‘സമാന്തരരേഖകളു’ടെ അവതാരിക</title>
+          <title xml:lang="en" type="main">‘Samanthararekhakalu’de Avatharika</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">October 23, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">‘സമാന്തരരേഖകളു’ടെ അവതാരിക</title>
+              <title xml:lang="en" type="main">‘Samanthararekhakalu’de Avatharika</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>‘Samanthararekhakalu’de Avatharika</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>‘സമാന്തരരേഖകളു’ടെ അവതാരിക</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 23, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/CALM_WATER_AT_KINGSTON.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:%27_CALM_WATER_AT_KINGSTON%27_OIL_PAINTING_BY_JAIME_PROSSER.jpg">Calm
+Water at Kingston,</ref> a painting by Jaime Prosser  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">‘സമാന്തരരേഖകളു’ടെ അവതാരിക</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">‘സമാന്തരരേഖകളു’ടെ അവതാരിക</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rabindranath_Tagore.jpg" rendition="gra"/>
+            <figDesc style="thumb">രവീന്ദ്രനാഥടാഗൂർ</figDesc>
+          </figure>
+          <p style="noindent"> കവിതയുടെ രസമാധുര്യം അറിയുന്നതു് കവിയല്ല,
+വ്യാഖ്യാതാവാണു്—പഴയകാലത്തു് സംസ്കൃതക്കാർ അങ്ങനെ പറഞ്ഞുവെച്ചിട്ടുണ്ടു്. അപ്പറഞ്ഞതു പക്ഷേ, സ്വന്തം
+കവിതയുടെ കാര്യമാണു്. അന്യരുടെ കവിത വായിക്കുമ്പോൾ കവികൾ രസമാധുര്യം അറിയുന്നവരാണു്,
+വിമർശകരാണു്. നിരൂപണമെഴുതിയ കവികൾ പലരുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/Rabindranath_Tagore">രവീന്ദ്രനാഥടാഗൂറി</ref>
+ന്റെ സാഹിത്യപഠനങ്ങൾ ഓർത്തുനോക്കുക. മലയാളത്തിലെ നല്ല ഉദാഹരണം <ref target="https://ml.wikipedia.org/wiki/Kumaran_Asan">ആശാൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോൾ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Ulloor_S._Parameswara_Iyer">ഉള്ളൂർ</ref>
+എന്നിവരുടെ നിരൂപണങ്ങളാണു്. പണ്ടു് ‘കവനകൗമുദി’യിൽ ‘ഉമാകേരള’ത്തിന്റെ നിരൂപണം പദ്യത്തിൽ
+വന്നിട്ടുണ്ടു്! ഇതിനൊരു മറുവശവും പറയാം: നമ്മുടെ നിരൂപകരായ <ref target="https://ml.wikipedia.org/wiki/Kuttikrishna_Marar">കുട്ടികൃഷ്ണമാരാരും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Joseph_Mundassery">മുണ്ടശ്ശേരി</ref>
+യുമൊക്കെ കവിത എഴുതിയിട്ടുണ്ടു്.
+</p>
+          <p>മലയാളികളുടെ പ്രിയപ്പെട്ട കവി <ref target="https://ml.wikipedia.org/wiki/O._N._V._Kurup">ഒ. എൻ. വി. കുറുപ്പി</ref>
+ന്റെ ‘കവിതയിലെ സമാന്തരരേഖകൾ’ എന്ന നിരൂപണപുസ്തകം വായിക്കാനെടുക്കുമ്പോൾ കവിതയിലെ
+നിരൂപണവും നിരൂപണത്തിലെ കവിതയും എന്ന വിഷയം, ആലോചിച്ചുചെല്ലാൻ രസമുള്ളതു തന്നെ.
+കുമാരനാശാനിലെ നിരൂപകൻ ലേഖനങ്ങളിലെന്നപോലെ ‘ഏഴാമിന്ദ്രിയം’ പോലുള്ള കവിതകളിലും
+കുടിയിരിക്കുന്നു എന്നു് ഈ പുസ്തകം കാണിച്ചുതരുന്നുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/Changampuzha_Krishna_Pillai">ചങ്ങമ്പുഴ</ref>
+യെ <ref target="https://ml.wikipedia.org/wiki/Vyloppilli_Sreedhara_Menon">വൈലോപ്പിള്ളി</ref>
+ഒരു കവിതയിൽ വർണ്ണിച്ചതു് ഉദ്ധരിച്ചിട്ടു് ഒ. എൻ. വി. എഴുതുകയാണു്: “വൈലോപ്പിള്ളി ചങ്ങമ്പുഴയുടെ
+വ്യക്തിത്വത്തിന്റെ ഒരു സമഗ്രസുന്ദര ചിത്രമെഴുതിയിരിക്കുന്നു. ഓരോ വിശേഷണവും ചങ്ങമ്പുഴയെക്കുറിച്ചുള്ള ഒരു
+ലഘുപഠത്തിനു് തുല്യമാണു്. ” (ആമുഖം)
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vallathol-Narayana-Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">വള്ളത്തോൾ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Matthew_Arnold">മാത്യു
+ആർനോൾഡി</ref> ന്റെ “ജീവിതനിരൂപണമാണു് കവിത” എന്ന നിർവചനം—തനിക്കു്
+പഥ്യമായിത്തീർന്നതിനാൽ ആവർത്തിക്കുവാൻ മുണ്ടശ്ശേരിക്കു് മടുപ്പു് തോന്നാതിരുന്ന ആ
+നിരീക്ഷണം—വിശദാംശങ്ങളിൽ വിയോജിക്കുന്നവർക്കു പോലും പൂർണ്ണമായും തള്ളിക്കളയാനാവില്ല.
+ജീവിതത്തിന്റെ ഭാഗമായ കവിതയെ പില്ക്കാലകവികൾ വിലയിരുത്തുന്നതു് സ്വാഭാവികം—അതിന്റെ രൂപം
+കവിതയാവാം, ലേഖനമാവാം. <ref target="https://en.wikipedia.org/wiki/Kalidasa">കാളിദാസനെ</ref> പ്പറ്റി ചങ്ങമ്പുഴ
+കവിത എഴുതുന്നതിലും (‘കാളിദാസൻ’) ഒ. എൻ. വി. കാവ്യം എഴുതുന്നതിലും (‘ഉജ്ജയിനി’) പ്രവർത്തിക്കുന്ന ഈ
+
+മനസ്സു തന്നെയാണു് കവികളുടെ നിരൂപണങ്ങളിലും വെളിപ്പെടുന്നതു്: കവിതയും നിരൂപണവും സമാന്തരങ്ങളല്ല.
+</p>
+          <p>നമ്മുടെ ഭാഷയിലെ രണ്ടു് പ്രമുഖകവികളെ ചേർത്തുവച്ചു് വായിക്കുവാനും കൂട്ടത്തിൽ കാവ്യരചനയുമായും
+ആസ്വാദനവുമായും ബന്ധപ്പെട്ട ചില പ്രശ്നങ്ങൾ ആഴത്തിൽ ചർച്ച ചെയ്യുവാനും ഉള്ള സഫലശ്രമത്തിന്റെ
+ആവിഷ്കാരമായ ഈ പുസ്തകം രൂപപരമായി ചങ്ങമ്പുഴയോടും ഭാവപരമായി വൈലോപ്പിള്ളിയോടും ഒ. എൻ. വി.
+പുലർത്തുന്ന ആഭിമുഖ്യത്തിന്റെ രേഖയാകുന്നു.
+</p>
+          <p>നമ്മുടെ വിമർശനത്തിനു മുമ്പാകെ ഗ്രന്ഥകാരൻ പ്രധാനമായും ഉന്നയിക്കുന്നതു് രണ്ടു് പ്രശ്നങ്ങളാണു്:
+</p>
+          <p>ഒന്നു്—സാമാന്യമായി കാല്പനികതയുടെ തായ്വഴിയിൽപ്പെട്ടവരെന്നു് ഒഴുക്കൻ മട്ടിൽ നാം ചങ്ങമ്പുഴയെയും
+വൈലോപ്പിള്ളിയെയും സ്ഥാനപ്പെടുത്താറുണ്ടു്. സത്യത്തിൽ തീർത്തും വ്യത്യസ്തമായ, ഒരിക്കലും കൂട്ടിമുട്ടാത്ത
+സമാന്തരധാരകൾ സൃഷ്ടിക്കുകയാണു് അവർ ചെയ്തതു്. ഇതു് തിരിച്ചറിയപ്പെടാതെ പോവുന്നതെന്തുകൊണ്ടാണു്?
+</p>
+          <p>രണ്ടു്—ഒരേ വർഷം ഒരേ ദേശത്തു് ജനിച്ചുവളർന്നു്, ഒരേ തരം രാഷ്ട്രീയസാമൂഹ്യസാഹചര്യങ്ങൾ പങ്കിട്ട
+രണ്ടുപേരുടെ ശൈലിയും വീക്ഷണവും എങ്ങനെ ഇത്രമാത്രം സമാന്തരമായി? കലയും കാലവും തമ്മിലുള്ള
+ബന്ധത്തെപ്പറ്റി നാം പഠിച്ചുറപ്പിച്ചുവെച്ച ചിലതെങ്കിലും ഈ ഉദാഹരണത്തിനു മുമ്പിൽ വീണ്ടുവിചാരം
+ആവശ്യപ്പെടുന്നില്ലേ?
+</p>
+          <p>ഇവിടെ ഈ പ്രശ്നങ്ങൾ സൈദ്ധാന്തികതലത്തിൽ ചർച്ചചെയ്യുന്നില്ല; അവ കാവ്യാസ്വാദനത്തിന്റെ വിവിധ
+തലങ്ങൾ ഇഴവിടർത്തുന്നതിലൂടെ നിവർന്നുനിവർന്നു് വരികയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Onv.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒ. എൻ. വി. കുറുപ്പ്</figDesc>
+          </figure>
+          <p> താരതമ്യചിന്ത മലയാളനിരൂപണത്തിന്റെ പഥ്യരീതികളിലൊന്നാണു്. കവിത്രയനിരൂപണത്തിലൂടെ
+തന്റേടം ആർജ്ജിച്ച മലയാളവിമർശനത്തിന്നു് എന്നും കവിത്രയത്തിന്റെ രചനകളെ പരസ്പരം തട്ടിച്ചു
+നോക്കുന്നതിൽ വലിയ കൗതുകം തോന്നിയിരുന്നു. ‘ആരാണു് മേലെ?’ എന്ന ആലോചനയാണു് അവയുടെ
+അടിപ്പടവു്. ഈയിടെയായി പ്രചാരം നേടിവരുന്ന ‘താരതമ്യസാഹിത്യവിമർശന’ത്തിനു് പക്ഷേ, ഈ ‘മേല്-കീഴ്’
+ഒരു വിഷയമേ അല്ല. ദേശം കൊണ്ടോ ഭാഷകൊണ്ടോ വ്യത്യസ്തമായ സാഹിത്യരചനകൾ
+അടുത്തടുത്തുവെയ്ക്കുമ്പോൾ തെളിയുന്ന സാജാത്യവൈജാത്യങ്ങളും അവയിലൂടെ ഊറിവരുന്ന അനന്യതകളും
+ആണു് അവിടെ ചർച്ചാ പ്രമേയം. ‘ഏതാണു് കേമം?” എന്നു കണ്ടെത്തുവാനല്ല, താരതമ്യത്തിലൂടെ
+ഓരോന്നിന്റെയും സവിശേഷതകൾ തിരിച്ചറിയുവാനാണു് ‘താരതമ്യസാഹിത്യം’ ഉത്സാഹിക്കുന്നതു്. ഈ
+രീതിയാണു് ദേശംകൊണ്ടും ഭാഷ കൊണ്ടും കാലം കൊണ്ടും ഏറ്റവും അടുത്തു കിടക്കുന്ന രണ്ടു് കവികളെ ചേർത്തു
+പിടിക്കുന്ന ഒ. എൻ. വി. ഉപയോഗിക്കുന്നതു്.
+</p>
+          <p>‘ചങ്ങമ്പുഴയോ വൈലോപ്പിള്ളിയോ?’ എന്നതല്ല ‘ചങ്ങമ്പുഴയും വൈലോപ്പിള്ളിയും’ എന്നതാണു്
+നിലപാടു്—അവർക്കിടയിൽ നിലനില്ക്കുന്ന സമാന്തരതയിൽ ഓരോന്നും അതതിന്റെ തനിമയിൽ വിലപ്പെട്ടതാണു്
+എന്നു് അടയാളപ്പെടുത്തുക.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Matthew_Arnold.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാത്യു ആർനോൾഡ്</figDesc>
+          </figure>
+          <p> നമ്മുടെ നിരൂപണത്തിന്റെ ശീലക്കേടുകൾ സ്വതസ്സിദ്ധമായ സൗമ്യശൈലിയിൽ ഒ. എൻ. വി.
+ചിത്രീകരിക്കുന്നുണ്ടു്: വൈലോപ്പിള്ളിയുടെ പ്രഥമകൃതിയായ ‘കന്നിക്കൊയ്ത്തി’ന്റെ അവതാരകനാവാൻ
+കഴിഞ്ഞതിൽ അഭിമാനിച്ച <ref target="https://ml.wikipedia.org/wiki/Kuttikrishna_Marar">കുട്ടികൃഷ്ണമാരാരു്</ref>
+ചങ്ങമ്പുഴക്കവിത നേടിയ ജനപ്രീതിയിൽ പ്രകോപിതനായതു് ചൂണ്ടിക്കാട്ടിയതു് ഉദാഹരണം. “ഈ പ്രതികരണ
+വൈചിത്രം, പ്രതികരണത്തിനാസ്പദമായ കവിതയിലെ നിലീനവൈപരീത്യങ്ങളിലേയ്ക്കു വിരൽചൂണ്ടുന്നു” എന്നു്
+എഴുതിയപ്പോൾ (ആമുഖം) ഒ. എൻ. വി.-യിൽ തെളിഞ്ഞതു് നിരൂപണനിരൂപണത്തിന്റെ ഉൾക്കാഴ്ചയാണു്.
+</p>
+          <p>‘രമണനെ’പ്പറ്റി നമ്മൾ ഒരുപാടു് പറഞ്ഞു, ഒരുപാടു് കേട്ടു. പക്ഷേ, അതിൽ കേട്ടുതഴമ്പിച്ച ഒരു വിഷയമല്ല
+‘ഗൃഹാതുരത്വം’. കേരളത്തിനു് പുറത്തുകടന്ന മലയാളിയുടെ കാതിലൂടെ ‘രമണൻ’ കേൾക്കുമ്പോഴുള്ള അനുഭൂതി
+രേഖപ്പെടുത്തിക്കൊണ്ടാണു് ഗ്രന്ഥം തുടങ്ങുന്നതു്—പ്രകൃതി ‘രമണീയത’യും സംഗീതമാധുരിയും ഓരോ
+കേരളീയന്റെ ഉള്ളിലും സ്വന്തം കേരളത്തെ സൃഷ്ടിക്കുന്നതു് ചിത്രപ്പെടുത്തിക്കൊണ്ടു്. ഈ പരിസരത്തിൽ ഒരു
+തെങ്ങു കാണുമ്പോൾ പോലും പിറന്ന നാടിന്റെ ഓർമ്മയുണരുന്ന മറുനാടൻ ജീവിതത്തിന്റെ കഥയായ ‘ആസ്സാം
+പണിക്കാരെ’ ചേർത്തുവെയ്ക്കുന്നതിനു് സവിശേഷമായ ചാരുതയുണ്ടു്. ആദ്യത്തേതിലെ സ്വപ്നത്തിനും
+രണ്ടാമത്തേതിലെ യാഥാർത്ഥ്യത്തിനും ഉള്ള പ്രത്യേകമായ പ്രസക്തികൾ തൊട്ടുകാണിച്ചിട്ടുണ്ടു്; അവ രണ്ടും
+സ്നേഹമായി പരിണമിക്കുന്നതെങ്ങനെയെന്നും. ഈ ആലോചന സാഹിത്യചരിത്രത്തിലേയ്ക്കു്
+നീണ്ടുചെല്ലുകയാണു്. “ചങ്ങമ്പുഴയും വൈലോപ്പിള്ളിയും സ്വന്തം ഗ്രാമങ്ങളിലെ കൈകൊട്ടിക്കളിപ്പാട്ടുകളെയും
+തിരുവാതിരപ്പാട്ടുകളെയും നാടോടിപ്പാട്ടുകളെയും അളവറ്റു സ്നേഹിച്ചിരുന്നു. ആ പാട്ടുകളുടെ താളങ്ങൾക്കും
+ശീലുകൾക്കും അവർ സ്വന്തം കൃതികളിലൂടെ മാന്യത നൽകി എന്നതും ഗൃഹാതുഹരത്വത്തെ അതിന്റെ
+സൂക്ഷ്മസ്വഭാവത്തിൽ പ്രകാശിപ്പിക്കുന്നു.” (ഗൃഹാതുരത്വത്തിന്റെ വിഭിന്നസ്വരങ്ങൾ)
+</p>
+          <p>ഈ കവികൾ സ്ത്രീവ്യക്തിത്വത്തെ ആവിഷ്കരിച്ചതിലുള്ള വ്യത്യാസങ്ങൾ പ്രധാനമാണു്—സ്ത്രീവാദം
+മുന്നേറിവരുന്ന ഇക്കാലത്തു് വിശേഷിച്ചും. “നിയതമായ ജീവിതവീക്ഷണമില്ലാത്ത” ചങ്ങമ്പുഴയുടെ സരളതയും
+വൈകാരികതയും ക്ഷിപ്രപ്രതികരണരീതിയും ഒ. എൻ. വി. ആമുഖമായി എടുത്തു പറയുന്നുണ്ടു്. സ്ത്രീവർണ്ണനയിൽ
+ചങ്ങമ്പുഴ ഉപയോഗിക്കുന്ന കടുംചായങ്ങളും അമൂർത്തശൈലിയും ശ്രദ്ധിക്കണം. അവിടെ ദേവതയും പിശാചും
+മനുഷ്യസ്ത്രീയും ഒക്കെയായി സ്ത്രീ മാറുകയാണു്.
+</p>
+          <p>സ്ത്രീത്വത്തെ സംബന്ധിച്ച ‘സത്യത്തിന്റെ സൂക്ഷ്മസങ്കീർണ്ണതകളി’ലേയ്ക്കാണു് ‘നെഞ്ചുകീറി നേരിനെക്കാട്ടുന്ന’
+വൈലോപ്പിള്ളി നമ്മെ കൊണ്ടുപോവുന്നതു്. അവിടെ സ്ത്രീ ആരാധിക്കപ്പെടേണ്ട മൂർത്തിയല്ല, വെറുക്കപ്പെടേണ്ട
+പിശാചല്ല—പിന്നെയോ, സ്ത്രീ മാത്രം. ചങ്ങമ്പുഴ അപ്പപ്പോൾ കാണുന്ന സത്യം വിളിച്ചുപറയുന്ന കുട്ടിയാണെങ്കിൽ
+വൈലോപ്പിള്ളി വിഗ്രഹങ്ങൾ വെറും കല്ലാണെന്നുവെച്ചു് തൊഴാൻ മടിച്ചു നിൽക്കുന്ന കുട്ടിയാണു്.
+</p>
+          <p>ഇവിടെയും സ്വപ്നത്തിന്റെ ലാളിത്യവും യാഥാർത്ഥ്യത്തിന്റെ സങ്കീർണ്ണതയും തമ്മിലുള്ള സമാന്തരത
+തന്നെയാണു് പുലരുന്നതു്: ചങ്ങമ്പുഴ സൗന്ദര്യത്തിന്റെ സത്യം ആവിഷ്ക്കരിച്ചു; വൈലോപ്പിള്ളി സത്യത്തിന്റെ
+സൗന്ദര്യവും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ulloor_S_Parameswara_Iyer.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉള്ളൂർ</figDesc>
+          </figure>
+          <p> പ്രേമഗായകനായി വമ്പിച്ച പ്രീതിനേടിയ ചങ്ങമ്പുഴ, പരക്കെ അറിയാവുന്നപോലെ, കാല്പനികതയുടെ
+വൈകാരികതയ്ക്കു് ചേർന്ന വിധം സൗന്ദര്യത്തെയും പ്രണയാർദർശത്തെയും യുവമിഥുനങ്ങളുടെ
+സ്നേഹദാഹത്തെയും വാഴ്ത്തിപ്പാടി. വൈലോപ്പിള്ളിയാകട്ടെ, “വധൂഹൃദയത്തിൽ മാതൃവാത്സല്യത്തിന്റെ
+തേൻകണങ്ങളും പുരുഷനിൽ സഹതാപാർദ്രമായ സ്നേഹവും” കാണാനിഷ്ടപ്പെട്ടു. “സ്ത്രീയെയും പുരുഷനെയും
+വാക്കും അർത്ഥവും പോലെ സംപൃക്തമാക്കുന്ന ഒരുത്ക്കൃഷ്ട ഭാവമായി പ്രേമത്തെ സങ്കല്പിച്ച” കാളിദാസന്റെയും
+കുമാരനാശാന്റെയും പരമ്പരയിലാണു് വൈലോപ്പിള്ളി ചേർന്നുനില്ക്കുന്നതു്. പ്രേമം ചങ്ങമ്പുഴയിൽ
+താരുണ്യത്തിന്റെ സ്വപ്നത്തിൽ കുതിർന്ന വൈകാരികതയാണെങ്കിൽ വൈലോപ്പിള്ളിയിൽ അതു് മധ്യവയസ്സിന്റെ
+വിവേകിതയിൽ അടിയുറച്ച സ്നേഹഭാവമാണു്. അതുകൊണ്ടാണു് ചങ്ങമ്പുഴയിൽ കാണുംപോലെ, സ്നേഹം
+ദുഃഖമോ ഉന്മാദമോ വേദനയുടെ ലഹരിയോ ആയി വൈലോപ്പിള്ളിയിൽ കത്തിപ്പടരാത്തതു്.
+അതുകൊണ്ടുതന്നെയാവാം സ്നേഹം നിഗ്രഹോത്സുകമാവാമെന്നും നിഗ്രഹോത്സുകതയിലും
+സ്നേഹമുണ്ടാവാമെന്നും വൈലോപ്പിള്ളി തിരിച്ചറിയുന്നതു്.
+</p>
+          <p>വിപരീതദിശകളിൽ സഞ്ചരിക്കുന്ന മറ്റൊരു പ്രധാനപാതയിലേയ്ക്കു് ഒ. എൻ. വി. ചൂണ്ടുപലക നാട്ടുന്നു.
+കാവ്യരചന സാംസ്കാരിക പ്രവർത്തനമാണെന്നു് ചങ്ങമ്പുഴ കണക്കാക്കുകയില്ല. വൈലോപ്പിള്ളിയുടെ
+സർഗ്ഗാത്മകതയിൽ ഈ ബോധം ശക്തമായും സൂക്ഷ്മമായും പ്രവർത്തിച്ചിരുന്നു.
+</p>
+          <p>ഇതാണു് തീർപ്പു്: “സമാന്തരപഥങ്ങളിലൂടെ സഞ്ചരിച്ചുകൊണ്ടു് ചങ്ങമ്പുഴയും വൈലോപ്പിള്ളിയും
+താന്താങ്ങളുടെ സ്വത്വം വാറ്റിയെടുത്തു് നമുക്കു് നിവേദിച്ചതു് വായിച്ചുതീരാത്ത കവിതകളാണു്.”
+</p>
+          <p>നാടൻ ശീലുകളുടെ ഈണവും താളവും ഇരുവരിലും ജീവിക്കുന്നതു് എങ്ങനെയാണെന്നും ചങ്ങമ്പുഴയിൽ
+വൃത്തശില്പം പ്രവർത്തിക്കുന്നതു് എങ്ങനെയാണെന്നും സാങ്കേതികതയുടെ അടിയുറപ്പോടെ വിവരിച്ചുതരുവാനും
+ഗ്രന്ഥകാരൻ ശ്രദ്ധിച്ചിട്ടുണ്ടു്. മലയാളിയുടെ കവിതാചരിത്രത്തിലേയ്ക്കും സംഗീതപാരമ്പര്യത്തിലേയ്ക്കും പുതിയ
+
+ഉൾക്കാഴ്ച നല്കുന്ന നിരീക്ഷണങ്ങളാൽ ശ്രദ്ധേയമാണു് ഈ ഭാഗം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mundassery.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുണ്ടശ്ശേരി</figDesc>
+          </figure>
+          <p> പുസ്തകത്തിന്റെ രണ്ടാം ഭാഗത്തിനു് ചങ്ങമ്പുഴ, വൈലോപ്പിള്ളി എന്നിവരോടുള്ളതു്
+പരോക്ഷബന്ധമാണു്—സംഗീതത്തിന്റെയും താളത്തിന്റെയും കാവ്യകലയുടെയും വഴികളെപ്പറ്റി ആലോചിച്ചു
+ചെല്ലുന്ന ഈ ലേഖനങ്ങൾ മറ്റൊരു നിലയ്ക്കു് ഈ കവികളുടെ രചനകൾ അടുത്തറിയാൻ ഉപകാരപ്പെടും.
+അനുഭൂതികൾ സംഗീതസാന്ദ്രമായി ആവിഷ്കരിക്കുന്നതിൽ വിജയം നേടിയ കവിയും ലോകത്തിന്റെ പല
+ഭാഗത്തുള്ള കവിതകൾ മനസ്സിരുത്തി പഠിച്ച അധ്യാപകനും ആയ ഗ്രന്ഥകാരന്റെ അറിവും അനുഭവവും
+ആലോചനയിൽ ലയിച്ചു ചേരുന്നതിന്റെ ആവിഷ്കാരം ഇവിടെക്കാണാം.
+</p>
+          <p>വൃത്തവും താളവും കവിതയ്ക്കു് കൈവിലങ്ങാവുന്നു എന്നു് ആലോചിക്കുന്നവരുണ്ടു്. ഒ. എൻ. വി. എഴുതുന്നു:
+“കവിത ആരുടെയും കണ്ടുപിടിത്തമല്ലാത്തതുപോലെ, ഛന്ദസ്സും ആരുടെയും കണ്ടുപിടുത്തം അല്ല. ഛന്ദസ്സും
+സ്വയമേവാഗതമാണു്.” കവിതയുടെ സ്വാച്ഛന്ദ്യവും കവിയുടെ സ്വാതന്ത്ര്യവും, നഷ്ടപ്പെടുത്തുന്ന ഒന്നിലും
+സ്വാഭാവികമായും ഈ കവിക്കു് താല്പര്യമില്ല. മുക്തഛന്ദസ്സിനെ നിരാകരിക്കാത്ത അദ്ദേഹം ഓർമ്മിപ്പിക്കുന്നു:
+“അന്തര്യാമിയായ ഒരു താളം ഏതു കവിതയിലും ഉണ്ടാവാതെ വയ്യ. വിദഗ്ദ്ധഛന്ദസ്സായവനേ
+മുഗ്ധച്ഛന്ദസ്സാവാനൊക്കൂ.” ചങ്ങമ്പുഴയ്ക്കും വൈലോപ്പിള്ളിക്കും എന്ന പോലെ ഒ. എൻ. വി.-ക്കും താളം
+ശ്വസോച്ഛ ്വാസത്തിന്റെ ഭാഗം തന്നെ.
+</p>
+          <p>ഭാവഗീതത്തെപ്പറ്റിയുള്ള പ്രൗഢമായ പഠനത്തിൽ കിഴക്കും പടിഞ്ഞാറും അതിന്റെ സമാന്തരതകൾ
+എങ്ങനെ വെളിപ്പെടുന്നു എന്നാണു് ആലോചിക്കുന്നതു്. “ഗീതമായി പരിണമിക്കുന്ന ഭാവം” എന്നു് ഭാവഗീതത്തെ
+ഒ. എൻ. വി. നിർവചിക്കുന്നു. “കവിതയുടെ ഏറ്റവും പ്രാചീനവും ഇന്നും ചൈതന്യത്തോടെ നിലനില്ക്കുന്നതുമായ
+രൂപം” എന്നു് താൻ വിചാരിക്കുന്ന ഭാവഗീതം അത്തരമൊരു പേരു് വിളിച്ചില്ലെങ്കിൽത്തന്നെയും പണ്ടത്തെ
+ഭാരതത്തിലും ഉണ്ടായിരുന്നു എന്നാണു് അദ്ദേഹത്തിന്റെ നില. അതിന്റെ സവിശേഷതകളിൽ പ്രധാനം
+സംഗീതാത്മകതയാണു്. ഉദാഹരണം തേടി അദ്ദേഹം ചങ്ങമ്പുഴയിലും വൈലോപ്പിള്ളിയിലും ചെന്നെത്തുന്നു;
+അവരെ പ്രചോദിപ്പിച്ച പാശ്ചാത്യകവികളിലും.
+</p>
+          <p>കാവ്യകലയെപ്പറ്റി ആശാനും വള്ളത്തോളും എഴുതിയ പ്രശസ്തകവിതകളുടെ താരതമ്യം ആ
+കാവ്യസങ്കല്പങ്ങളിലൂടെ അവരുടെ കവിതകളിലേയ്ക്കു് ഒരു കിളിവാതിൽ തുറന്നിടുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kumaran_Asan_1973_stamp_of_India.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആശാൻ</figDesc>
+          </figure>
+          <p> കാവ്യപ്രചോദനത്തെപ്പറ്റി നിരൂപകന്മാർ പലപാടു് പറഞ്ഞിട്ടുണ്ടു്. ഇവിടെ അനുഭവത്തിന്റെ
+ആധികാരികതയോടെയും പഠനത്തിന്റെ പിൻബലത്തോടെയും സിദ്ധിയും പ്രചോദനവും സാധനയും
+സാമൂഹ്യവീക്ഷണവും ഒത്തു ചേരുന്നതെങ്ങനെ എന്നു് ഒ. എൻ. വി. വിശകലനം ചെയ്യുന്നുണ്ടു്. ബംഗാളിലെ
+നാടോടികളായ ബാവുൽഗായകരെപ്പറ്റിയുള്ള വർണ്ണന ആ നാടൻഗാനസാഹിതീപാരമ്പര്യത്തിന്റെ സുഖാനുഭവം
+മലയാളത്തിലേയ്ക്കു പറിച്ചു നടുന്നു.
+</p>
+          <p>നിരീക്ഷണത്തിലെ വ്യത്യസ്തത, കാല്പനികചാരുത മുറ്റിയ ഭാഷയിൽ അടയാളപ്പെടുത്തുന്നു എന്നൊരു കാര്യം
+ഈ പുസ്തകത്തെപ്പറ്റി വിശേഷാൽ എടുത്തു പറയണം. സാഹിത്യനിരൂപണത്തെ സാമൂഹ്യചരിത്രവുമായി
+കണ്ണിചേർക്കുന്ന ഈ വാക്യം നോക്കു: “സ്വപ്നങ്ങളിൽ മയങ്ങി നില്ക്കുന്ന ഒരു കന്യകയെപ്പോലെയുള്ള ഗ്രാമത്തിന്റെ
+ചിത്രം ചങ്ങമ്പുഴ വരച്ചതു് എല്ലാ മനസ്സുകളിലും ചെന്നു പതിഞ്ഞു—ആയിടയ്ക്കു് <ref target="https://ml.wikipedia.org/wiki/Raja_Ravi_Varma">രവിവർമ്മ</ref> ചിത്രങ്ങൾ
+നമ്മുടെ വീട്ടുചുമരുകളെ അലങ്കരിച്ചതുപോലെ.” (ആമുഖം)
+</p>
+          <p>വിഷാദാമഗ്നനായ കവിയെ വർണ്ണിക്കുവാൻ ഉപയോഗിച്ചിരിക്കുന്ന ഈ ഉപമയോ: “ഒരു താമരയിലകൊണ്ടു്
+തന്റെ ഇണ മറയ്ക്കപ്പെട്ടാൽ കൂടി വിരഹാതുരമായി ഉറക്കെ വിലപിച്ചുപോകുന്ന ചക്രവാകത്തെപ്പോലെയായിരുന്നു
+
+ചങ്ങമ്പുഴ.” (ആമുഖം)
+</p>
+          <p>വൈലോപ്പിള്ളിയുടെ ‘പടക്കളത്തിലെ പൂമ്പാറ്റ’യെക്കുറിച്ചുള്ള നിരീക്ഷണമാണിതു്: “ചോരകൊണ്ടു്
+വിരാമചിഹ്നമിട്ട ഒരു ഗൃഹാതുരത്വത്തിന്റെ ദുരന്തകഥയാണതു്.” (ഗൃഹാതുരത്വത്തിന്റെ വിഭിന്നസ്വരങ്ങൾ)
+</p>
+          <p>കേരളീയർക്കു് അടുത്തു പരിചയമുള്ള ഒ. എൻ. വി. അതിപ്രശസ്തനായ കവിയും അത്യന്തം ജനകീയനായ
+ഗാനരചയിതാവും ആണു്. പലതലങ്ങളിലുള്ള ചൂഷണങ്ങൾക്കെതിരായി നടന്ന സമരങ്ങളിൽ പാവപ്പെട്ടവരുടെ
+പക്ഷത്തു് നിലയുറപ്പിച്ച പോരാളിയായും പല തലമുറകളിലേയ്ക്കു പടരുന്ന ശിഷ്യസമൂഹത്തിന്നു് സാഹിത്യത്തിന്റെ
+അകത്തളത്തിലേയ്ക്കു വഴികാട്ടിയ ഗുരുനാഥനായും ഒ. എൻ. വി.യെ നമുക്കറിയാം. ഇതിന്റെയെല്ലാം തിളക്കത്തിൽ
+നമ്മുടെ സജീവശ്രദ്ധയിൽനിന്നു് തെന്നിമാറുന്നുവെങ്കിലും വിവർത്തകനും (കാൾ മാർക്സിന്റെ കവിതകൾ)
+ബാലസാഹിത്യകാരനും (വളപ്പൊട്ടുകൾ) കഥയെഴുത്തുകാരനും (ബലി) ഒക്കെയായി രൂപം പകരുന്ന മറ്റൊരു
+ഒ. എൻ. വി.-യുണ്ടു്. ആ വസ്തുതയിലേയ്ക്കു് ചൂണ്ടിയാണു് പ്രസക്തമായ ചിന്തകളാൽ സമ്പന്നമെങ്കിലും ലളിതമായ
+ഭാഷയാൽ അനുഗൃഹീതമായ ഈ നിരൂപണപുസ്തകം നില്ക്കുന്നതു്.
+</p>
+          <p>കവിതയിലെ സമാന്തരരേഖകൾ: ഒ. എൻ. വി. കുറുപ്പു്, രണ്ടാംപതിപ്പു്: ഗ്രീൻബുക്സ്, തൃശൂർ: ഫെബ്രുവരി 2005.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  ‘Samanthararekhakalu’de
+Avatharika (ml: ‘സമാന്തരരേഖകളു’ടെ അവതാരിക).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+‘Samanthararekhakalu’de Avatharika, എം. എൻ. കാരശ്ശേരി, ‘സമാന്തരരേഖകളു’ടെ അവതാരിക,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 23, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:%27_CALM_WATER_AT_KINGSTON%27_OIL_PAINTING_BY_JAIME_PROSSER.jpg">Calm
+Water at Kingston,</ref> a painting by Jaime Prosser  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-samanthara.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-samanthara.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

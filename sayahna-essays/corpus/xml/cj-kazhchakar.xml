@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കാഴ്ചക്കാർ</title>
+          <title xml:lang="en" type="main">Kazhchakar</title>
+        </title>
+        <author>CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>JS Aswathy</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">March 29, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കാഴ്ചക്കാർ</title>
+              <title xml:lang="en" type="main">Kazhchakar</title>
+            </title>
+            <author>CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-03-30</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Kazhchakar</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>കാഴ്ചക്കാർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-03-30</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Disappointed.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Untitled_(Disappointed).jpg">Disappointed,</ref>
+a painting by Jogesh Chandra Seal  (1895–1926). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കാഴ്ചക്കാർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കാഴ്ചക്കാർ</head>
+        <div type="lsection">
+          <p style="noindent">രാഷ്ട്രീയനേതാക്കന്മാർ എന്തുതന്നെ പറഞ്ഞാലും, കലയ്ക്കു് ഒരു
+സാമൂഹ്യലക്ഷ്യമുണ്ടെന്നുള്ളതു ജനസാമാന്യം സമ്മതിക്കുന്ന വസ്തുതയല്ല. ഈ അഭിപ്രായം
+പൊതുജനവിദ്വേഷമാണെന്നോ പിന്തിരിപ്പത്തമാണെന്നോ മുദ്രയടിച്ചു തള്ളിയതുകൊണ്ടു കാര്യമായില്ല.
+വിപ്ലവകാരിയായാലും സാമൂഹ്യപരിഷ്കർത്താവായാലും ഒരുവൻ തന്റെ ചുറ്റിലുമുള്ള സമുദായത്തിന്റെ യഥാർത്ഥ
+മാനസികനിലവാരം മനസ്സിലാക്കിയിരിക്കണം. ജനസാമാന്യത്തിനു പൊതുവെ എന്തെങ്കിലും ഒരു കുറവുണ്ടെന്നു
+പറയുന്നതു് ഒരു പിന്തിരിപ്പൻ ആശയമല്ല. അതു ജനങ്ങളെ അവഹേളിക്കുകയുമല്ല. സമുദായത്തിനു
+സാംസ്കാരികമായി ഉയരേണ്ട ആവശ്യമില്ലെന്നുവന്നാൽ പുരോഗമനം തന്നെ അനാവശ്യമായിത്തീരും.
+പരിവർത്തനം നിരർത്ഥകവും. ഇന്നത്തെ സാമൂഹ്യവ്യവസ്ഥിതിയുടെയും പരമ്പരാഗതമായ ഇതര
+ഘടകങ്ങളുടെയും ഫലമായി സമുദായത്തിന്റെ സാംസ്കാരികനിലവാരം ഏറ്റവും
+അധഃപതിച്ചിരിക്കുന്നുവെന്നതാണു സത്യം. ഭൂരിപക്ഷത്തിനും ഭക്ഷണത്തിനു മാർഗ്ഗമില്ലാത്ത ഒരു
+വ്യവസ്ഥിതിയിൽ അവർ കലാസ്വാദനം നടത്തുന്നില്ലെങ്കിൽ അതിലത്ഭുതമില്ല. ഇരതേടുന്ന ബഹളത്തിനിടയിൽ
+കലയെ മറന്നുപോകുന്നതു് അവരുടെ ഉത്തരവാദിത്വമല്ല. ഇന്നു സാധാരണക്കാരൻ നാടകപ്രസ്ഥാനത്തിന്റെ
+ശത്രുവായിത്തീരാൻ പ്രത്യേക കാരണമുണ്ടു്. ഉയർന്നവർഗ്ഗക്കാർ കലയെ ഒരു കുത്തകയായി
+ഗണിക്കുന്നുവെന്നതുപോകട്ടെ, സാധാരണക്കാരൻ തന്റെ ജീവിതസമരത്തിനിടയിൽ അപൂർവ്വമായി ലഭിക്കുന്ന
+അവസരങ്ങൾ ഉല്ലാസത്തിനുവേണ്ടി ചെലവാക്കാൻ ആഗ്രഹിക്കുന്നു. നാടകംപോലെ കൂടുതൽ ബുദ്ധിപരമായ
+കാര്യങ്ങൾ മനസ്സിലാക്കുവാനോ രസിക്കുവാനോ അവനു കഴിവില്ല. അവനെ ആരും അതിലേക്കു ക്ഷണിച്ചിട്ടില്ല.
+മദ്യവും മറ്റുചിലതുമാണു് ഇന്നു് അവനു രസംകൊടുക്കുന്നതു്. അവയോടു് ഏറ്റവും അടുത്തുനിൽക്കുന്ന പ്രകടനങ്ങളേ
+അവനെ രസിപ്പിക്കുന്നുള്ളു. ഉത്സവത്തിനോ സർക്കസ്സിനോ പോകുന്നതിന്റെ ലക്ഷ്യം തന്നെയാണു് നാടകത്തിനും
+അവൻ കാണുന്നതു്—ഒരുവക മേളം. ശബ്ദകോലാഹലം നിറഞ്ഞ കുറെ പാട്ടും മെലോഡ്രാമയും കൃത്രിമ സ്ത്രീ
+സൗന്ദര്യവും ഇവയാണു് അവൻ ഇന്നൊരു നാടകത്തിൽനിന്നു പ്രതിക്ഷിക്കുന്നതു്. ഇവയെല്ലാം വേണ്ടുവോളം
+വിളമ്പിക്കൊടുക്കുന്ന നാടകങ്ങളെ അവൻ അംഗീകരിക്കും. വേലക്കാരൻ സെമിന്ദാരുടെ മകളെ കല്യാണം
+കഴിക്കുന്ന കഥയാണവനിഷ്ടം. സംഘട്ടനപരമായ കഥയും, കഥയുടെ സ്വാഭാവികതയും പാത്രസൃഷ്ടിയും
+അഭിനയവും ഒന്നും അവനു മനസ്സിലാകുന്നില്ല. ഉണർത്തുകയും ചിന്തിപ്പിക്കുകയും ചെയ്യുന്നതു കലയുടെ
+ലക്ഷ്യമായി അവനു തോന്നിയിട്ടില്ല. നാടകമാണെങ്കിൽ കാഴ്ചക്കാരുടെ ഉള്ളഴിഞ്ഞ സഹകരണമില്ലാതെ
+വിജയിക്കാൻ കഴിയാത്ത ഒരു കലയാണു്. സാമ്പത്തികമായിട്ടും കലാപരമായിട്ടും അതങ്ങനെയാണു്.
+</p>
+          <p>സാധാരണക്കാരന്റെ മനസ്സിനെ ആകർഷിക്കുന്ന നാടകങ്ങൾ രചിക്കേണ്ടതാണെന്നു പറയുന്നതു
+ശരിയാണു്. യാതൊരു സാങ്കേതികജ്ഞാനവും കൂടാതെത്തന്നെ നാടകത്തിനു് രസിപ്പിക്കുവാനും കഴിയും.
+അവന്റെ ജീവിതപ്രശ്നങ്ങളെപ്പറ്റി പ്രതിപാദിക്കുന്ന കഥകൾ പ്രദർശിപ്പിച്ചാൽ ഏതു പാമരനും അതിന്റെ
+ആത്മാവിലേക്കു പ്രവേശിക്കുമെന്നു പറയുന്നതിലും കുറെ വാസ്തവമുണ്ടു്. പക്ഷേ, നമ്മുടെയിടയിൽ കാളിദാസന്മാർ
+ഇല്ലാതിരിക്കുന്നിടത്തോളംകാലം നാടകം സാവധാനത്തിലേ വളരുകയുള്ളൂ. അത്ര ഉത്തമമായ നാടകങ്ങൾ
+രചിക്കാൻ മാത്രം നമ്മുടെ കലാകാരന്മാർ വളർന്നിട്ടില്ല. നാടകം നന്നായി അഭിനയിക്കപ്പെടുകയും
+ആസ്വദിക്കപ്പെടുകയും ചെയ്യുന്നതുകൊണ്ടുമാത്രമേ നാടകസാഹിത്യവും വളരാനിടയുള്ളു. നാടകപ്രസ്ഥാനത്തിന്റെ
+ഒരംശം മാത്രമായി പുരോഗമിക്കുകയില്ല. പരിപൂർണ്ണമല്ലാത്ത നാടകങ്ങളെ കാഴ്ചക്കാർ പിച്ചിക്കീറുന്നതിന്റെ ഫലം
+അർത്ഥഗർഭമായ നാടകങ്ങൾ എഴുതുന്ന പണിയിൽനിന്നു സാഹിത്യകാരനെ ഓടിച്ചുകളയുക എന്നതു
+മാത്രമായിരിക്കും. സാധാരണക്കാരന്റെ പ്രശ്നങ്ങൾ എടുത്തുകാണിക്കുവാൻവേണ്ടി എഴുതപ്പെടുന്ന നാടകങ്ങൾ,
+‘മനസ്സിലാകുന്നില്ല’ എന്നു പറഞ്ഞു് ഇന്നു തല്ലിത്തകർക്കുന്നതു സാധാരണക്കാരൻ തന്നെയാണു്.
+പണമുള്ളവരെല്ലാം നല്ല കലാസ്വാദകരാകണമെന്നില്ല. ചില പ്രമാണിമാരുടെ നാട്ടിൽ നാടകം കളിക്കാൻതന്നെ
+സാദ്ധ്യമല്ല. എങ്കിലും നാടകപ്രസ്ഥാനത്തിൽ അവരെ അവഗണിക്കാം. സാധാരണക്കാരന്റെ
+രക്ഷാധികാരമാണു് നാടകവേദിയുടെ ഭൗതികസ്വത്തു്. എന്നാൽ, നിർഭാഗ്യമെന്നു പറയട്ടെ. സാധാരണക്കാരന്റെ
+കലയെപ്പറ്റിയുള്ള അടിസ്ഥാനബോധംതന്നെ തെറ്റാണു്. കലയെന്നു പറയുന്നതു് ഒരു വെറും ഒളിച്ചോട്ടമല്ലെന്നും
+അതു് ഏകകാലത്തിൽ വിജ്ഞാനവും രസവും നൽകുന്ന ഒരുപാധിയാണെന്നും അതു് മുഖ്യമായി അവന്റെ
+താല്പര്യത്തിനുവേണ്ടി നിലകൊള്ളുന്നുവെന്നും അവൻ മനസ്സിലാക്കിയേ തിരൂ. പുരോഗമനപരമായ നാടകങ്ങൾ
+ഇന്നു നിലനിർത്തിക്കൊണ്ടിരിക്കുന്നതു് ഇടത്തരക്കാരും ചിന്താശീലന്മാരുമാണു്. സാധാരണക്കാരനാകട്ടെ ഇന്നു്
+നല്ല നാടകങ്ങളെ സ്വാഗതംചെയുന്നില്ലെന്നു മാത്രമല്ല. പലപ്പോഴും കൂക്കുവിളിയും ബഹളവുംകൊണ്ടു് നാടകശാല
+ഒരു മദ്യശാലയാക്കിത്തീർക്കുകയും ചെയുന്നുണ്ടു്. ‘നാടകക്കാർ’ എന്ന വാക്കിനു് ഒരു അവജ്ഞാപരമായ
+അർത്ഥംതന്നെ ഇന്നുണ്ടായിട്ടുണ്ടു്. നാടകപ്രസ്ഥാനത്തെപ്പറ്റിയുള്ള മനോഭാവത്തിന്റെ പ്രതിഫലനമാണതു്. ഈ
+ദുഃസ്ഥിതി അനേകം ഉത്തമകലാകാരന്മാരെ രംഗവേദിയിൽനിന്നു പിന്തിരിയാൻ പ്രേരിപ്പിച്ചിട്ടുണ്ടു്. പിന്നെ
+
+അവശേഷിക്കുന്നതോ, പണത്തിനുവേണ്ടി എന്തും ചെയ്യാൻ മടിയില്ലാത്ത ഒരു വകക്കാർ മാത്രം.
+നാടകപ്രസ്ഥാനം അവരുടെ കുത്തകയായിത്തീരുകയും ചെയ്യും.
+</p>
+          <p>കലാകാരനും സാധാരണക്കാരനും പരസ്പരം സഹകരിക്കുന്നതിലാണു് നാടക പ്രസ്ഥാനത്തിന്റെ ഭാവി
+നിലനിൽക്കുന്നതു്. സാധാരണക്കാരൻ കലാസ്വാദനത്തിലും പെരുമാറ്റമര്യാദയിൽത്തന്നെയും ഉയർന്നാൽ
+മാത്രമേ നാടകകലകൾ അഭിവൃദ്ധിപ്പെടുകയുള്ളു. ഇതുണ്ടാകണമെങ്കിൽ ബോധപൂർവ്വമായ ഒരു പരിശ്രമം
+സാധാരണക്കാരൻതന്നെ നടത്തേണ്ടിയിരിക്കുന്നു ഇക്കാര്യത്തിൽ കുറെയൊക്കെ പരിശ്രമങ്ങൾ നടന്നിട്ടുണ്ടു്.
+എങ്കിലും വളരെ വിജയിച്ചിട്ടില്ല. ചില രാഷ്ട്രീയ നേതാക്കന്മാർ ഇക്കാര്യത്തിൽ ഒരു മഹാദ്രോഹം ചെയ്യുന്നുണ്ടു്.
+തുറന്നടിച്ചു് കുറെ മുദ്രാവാക്യങ്ങൾ പ്രഖ്യാപനം ചെയ്യുന്ന കലകളൊഴിച്ചു് സകലതിനേയും അവർ നിഷേധിക്കുന്നു.
+അങ്ങനെ ചെയ്യുവാൻ അനുയായികളെ പ്രേരിപ്പിക്കുകയും ചെയ്യുന്നു. അതിപ്രധാനപ്രശ്നങ്ങൾ അങ്ങനെ
+പച്ചവെള്ളംപോലെ പറഞ്ഞുതീർക്കാവുന്നതല്ലെന്നു് അവർ മനസ്സിലാക്കുന്നില്ല. പ്രശ്നനാടകങ്ങളും
+ആശയനാടകങ്ങളും എപ്പോഴും കുറച്ചു ഗഹനമായിരിക്കും. സാമൂഹ്യപരിവർത്തനത്തിനു സഹായിക്കുന്ന
+നാടകങ്ങൾ എല്ലാം ഇത്തരത്തിലുള്ളവയായതുകൊണ്ടു് അവയെ മനസ്സിലാക്കുവാനുള്ള ഒരു യത്നത്തിലാണു്
+അവരെ പ്രേരിപ്പിക്കേണ്ടതു്. അല്പമൊരു പരിശ്രമമുണ്ടെങ്കിൽ അതു സാധിക്കുകയും ചെയ്യും. പൊതുവെ
+പറഞ്ഞാൽ കേരളത്തിലെ കാഴ്ചക്കാരുടെ കലാബോധം ഉയർന്നിട്ടുണ്ടെന്നു പറയാം. നിരന്തരമായ
+പരിശ്രമംകൊണ്ടു് അതിനിയും ഉയരും. ഉയർത്തുകയും വേണം.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kazhchakar (ml: കാഴ്ചക്കാർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-03-30. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Kazhchakar, സി ജെ തോമസ്, കാഴ്ചക്കാർ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  March 29, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Untitled_(Disappointed).jpg">Disappointed,</ref>
+a painting by Jogesh Chandra Seal  (1895–1926). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  JS Aswathy; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-kazhchakar.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-kazhchakar.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

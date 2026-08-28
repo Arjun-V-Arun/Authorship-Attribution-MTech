@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അക്കമ്മ മുതൽ പത്മജ വരെ</title>
+          <title xml:lang="en" type="main">Akkamma Muthal Padmaja Vare</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">July 7, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അക്കമ്മ മുതൽ പത്മജ വരെ</title>
+              <title xml:lang="en" type="main">Akkamma Muthal Padmaja Vare</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Akkamma Muthal Padmaja Vare</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>അക്കമ്മ മുതൽ പത്മജ വരെ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 7, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/BastianLepage.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:BastianLepage.jpg">Jules
+Bastien-Lepage,</ref> a painting by Unknown author  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അക്കമ്മ മുതൽ പത്മജ വരെ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അക്കമ്മ മുതൽ പത്മജ വരെ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pattom_A_Thanu_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">പട്ടം താണുപിള്ള</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>1938 ഒക്ടോബർ 23. അന്നദാതാവായ പൊന്നു തിരുമേനിയുടെ, ശ്രീ. പത്മനാഭദാസൻ ബാലരാമവർമ
+മഹാരാജാവിന്റെ തിരുനാളായിരുന്നു. സാധാരണഗതിയിൽ തിരുമനസ്സിലെ ആയുരാരോഗ്യങ്ങൾക്കും
+സന്താനസൗഖ്യത്തിനും വേണ്ടിയുള്ള പ്രാർഥനയും വഴിപാടുകളും ഘോഷയാത്രകളുമൊക്കെയാണു്
+തിരുവനന്തപുരത്തു് നടക്കേണ്ടതു്. എന്നാൽ, ആ വർഷത്തെ തിരുനാളാഘോഷം തികച്ചും സംഘർഷപൂരിതമായ
+അന്തരീക്ഷത്തിലാണു് നടന്നതു്. സ്റ്റേറ്റ് കോൺഗ്രസ് പ്രക്ഷോഭണം കൊടുമ്പിരിക്കൊണ്ടിരിക്കുന്നു. <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടം
+താണുപിള്ള</ref> മുതൽ <ref target="https://ml.wikipedia.org/wiki/Kuttanad_Ramakrishna_Pillai">കുട്ടനാടു്
+രാമകൃഷ്ണപിള്ള</ref> വരെയുള്ള പതിനൊന്നു് ‘ഡിക്ടേറ്റർമാർ’ നിയമലംഘനം നടത്തി ജയിലിലടക്കപ്പെട്ടു
+കഴിഞ്ഞു. ലാത്തിച്ചാർജ്ജും വെടിവെപ്പുമെല്ലാം നിത്യസംഭവങ്ങളായി മാറി.
+</p>
+          <p>സ്റ്റേറ്റ് കോൺഗ്രസിന്റെ പന്ത്രണ്ടാമതു് ഡിക്ടേറ്ററായി നാമനിർദേശം ചെയ്യപ്പെട്ട കുമാരി <ref target="https://ml.wikipedia.org/wiki/Akkamma_Cherian">അക്കമ്മ
+ചെറിയാനാ</ref> ണു് തിരുനാൾ ദിവസം രാജകൊട്ടാരത്തിലേക്കു് പ്രകടനം നയിച്ചതു്. ഖദർ വസ്ത്രങ്ങളും
+ഗാന്ധിത്തൊപ്പിയും ധരിച്ച അവർ ഒരു തുറന്ന കാറിൽ വളണ്ടിയർമാരുടെ അകമ്പടിയോടെ മുന്നോട്ടു നീങ്ങി.
+അരലക്ഷത്തോളം കോൺഗ്രസ് പ്രവർത്തകരാണു് ആ മഹാപ്രകടനത്തിൽ പങ്കെടുത്തതു്. പൊലീസിന്റെയും
+രാജഭക്തരായ ഗുണ്ടകളുടെയും പ്രകോപനങ്ങളെ അതിജീവിച്ചു് കോട്ടവാതിൽക്കലെത്തിയപ്പോൾ പട്ടാളമേധാവി
+കേണൽ വാട്കിസ് മുന്നോട്ടുവന്നു് കൈത്തോക്കെടുത്തു് ഉയർത്തിക്കൊണ്ടു്, ജനങ്ങൾ
+പിരിഞ്ഞുപോകാത്തപക്ഷം വെടിവെച്ചു പിരിച്ചുവിടും എന്നു് ഭീഷണി മുഴക്കിയപ്പോൾ “ആദ്യം എന്റെ നെഞ്ചിൽ
+വെടിവക്കണം” എന്നായി അക്കമ്മ ചെറിയാൻ. അനിതരസാധാരണമായ ആ ധീരതക്കു മുന്നിൽ കേണലിന്റെ
+ശിരസ്സു് താണുപോയി. രാഷ്ട്രീയത്തടവുകാരെ മോചിപ്പിക്കാനുള്ള രേഖയിൽ അന്നുതന്നെ മഹാരാജാവു് തൃക്കൈ
+വിളയാടി. തിരുവിതാംകൂറിലെ ഝാൻസിറാണി എന്നു് അക്കമ്മ ചെറിയാൻ വാഴ്ത്തപ്പെട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ROSAMMA.jpg" rendition="gra"/>
+            <figDesc style="thumb">റോസമ്മ</figDesc>
+          </figure>
+          <p> 1909-ാമാണ്ടിൽ കാഞ്ഞിരപ്പള്ളിയിലെ പുരാതന സുറിയാനി ക്രിസ്ത്യാനി കുടുംബത്തിലാണു് അക്കമ്മയുടെ
+ജനനം. ബി. എ. എൽ. ടി. പരീക്ഷകൾ ജയിച്ചു് സ്ഥലത്തെ പള്ളിവക സ്ക്കൂളിൽ ഹെഡ് മിസ്ട്രസായിരിക്കെയാണു്
+അക്കമ്മക്കും അനുജത്തി <ref target="https://ml.wikipedia.org/wiki/Rosamma_Punnoose">റോസമ്മ</ref> ക്കും
+രാഷ്ട്രീയ വിളിയുണ്ടായതു്. ഉദ്യോഗം വലിച്ചെറിഞ്ഞു് അവർ സമരത്തീച്ചൂളയിലേക്കെടുത്തു ചാടുകയായിരുന്നു.
+</p>
+          <p>സ്റ്റേറ്റ് കോൺഗ്രസ് വനിതാ വിഭാഗമായ ദേശസേവികാ സംഘത്തിന്റെ തലൈവിയായിരുന്ന അക്കമ്മ
+ചെറിയാനെയും സഹോദരി റോസമ്മാ ചെറിയാനെയും 1938 ഡിസംബർ 24-ാംനു് കാഞ്ഞിരപ്പള്ളിയിൽവെച്ചു്
+അറസ്റ്റുചെയ്തു. ഇരുവരും തിരുവനന്തപുരം സെൻട്രൽ ജയിലിൽ അടയ്ക്കപ്പെട്ടു. സ്റ്റേറ്റ് കോൺഗ്രസ്
+പ്രവർത്തകസമിതി അംഗം മിസ് <ref target="https://ml.wikipedia.org/wiki/Annie_Mascarene">ആനി മസ്ക്രീൻ</ref>
+അതിനുമുമ്പു തന്നെ അവിടെ എത്തിച്ചേർന്നിരുന്നു.
+
+</p>
+          <p>തിരുവനന്തപുരത്തു് ഒരു ലത്തീൻ കത്തോലിക്കാ കുടുംബത്തിലാണു് 1902-ൽ ആനി മസ്ക്രീൻ പിറന്നതു്.
+പിതാവു്, തിരുവിതാംകൂർ ദിവാന്റെ ഡഫേദാർ ആയിരുന്നു. എം. എ., ബി. എൽ. ബിരുദങ്ങൾ നേടി
+അഭിഭാഷകയായിരിക്കവെയാണു് രാഷ്ട്രീയത്തിൽ പ്രവേശിക്കുന്നതു്. സ്റ്റേറ്റ് കോൺഗ്രസിന്റെ സ്ഥാപക
+നേതാക്കളിൽ ഒരാളായിരുന്ന ആനി മസ്ക്രീനു് കടുത്ത യാതനകൾ അനുഭവിക്കേണ്ടതായി വന്നു. ഒരിക്കൽ
+കൊല്ലത്തു് സ്റ്റേറ്റ് കോൺഗ്രസ് പ്രവർത്തനത്തിനു് പോയിരിക്കുമ്പോൾ അവരുടെ വീടു് കൊള്ളയടിക്കപ്പെട്ടു.
+ഉപ്പുചിരട്ടപോലും ബാക്കിയുണ്ടായിരുന്നില്ല. പോലീസിന്റെ ഒത്താശയോടെ ഏതാനും രാജഭക്തരായിരുന്നു
+കൊള്ള നടത്തിയതു്.
+</p>
+          <p>ആനി മസ്ക്രീന്റെയും അക്കമ്മ-റോസമ്മമാരുടെയും ജയിൽ ജീവിതം ആനന്ദകരമാക്കാൻ വേണ്ട എല്ലാ
+നടപടികളും രാജകിങ്കരന്മാർ ഏർപ്പാടാക്കിയിരുന്നു. ജയിൽ വാർഡർമാരും അവരുടെ പ്രേരണയാൽ ക്രിമിനൽ
+പുള്ളികളും ഈ നേതാക്കൾക്കുനേരെ അസഭ്യവർഷം നടത്തി. ഒരു പിഞ്ചുകുഞ്ഞിനെ കൊന്നു് ആഭരണം
+മോഷ്ടിച്ചതിനു് ജീവപര്യന്തം തടവുശിക്ഷയനുഭവിച്ചിരുന്ന മൂവാറ്റുപ്പുഴക്കാരിയായ സ്ത്രീക്കായിരുന്നു തെറിവിളിയുടെ
+ചാർജ്. സഹികെട്ടു് അക്കമ്മ ചെറിയാൻ മജിസ്ട്രേറ്റിനോടു് പരാതിപ്പെട്ടു. തങ്ങളുടെ മാനവും ജീവനും
+അപകടത്തിലാണെന്നു് ഭയപ്പെടുന്നു എന്നു് കാണിച്ചു് ഒരു സ്റ്റേറ്റ്മെന്റ് കോടതിയിൽ ഫയൽ ചെയ്തു.
+</p>
+          <p>ജയിലിലെ പീഡനകഥ നാട്ടിലെമ്പാടും പ്രതിഷേധമുയർത്തി. 1939 ഫെബ്രുവരി 18-ാം തീയതിയിലെ
+‘ഹരിജനി’ൽ <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+എഴുതി: “ഒരു രാഷ്ട്രീയത്തടവുകാരിയായ അക്കമ്മ ചെറിയാനോടു് മര്യാദകേടായി പെരുമാറിയതിനെപ്പറ്റി
+വിവരിക്കുന്ന ഒരു കത്തു് എന്റെ മുന്നിലുണ്ടു്. അവർ കോടതിയിൽ പ്രസ്താവിച്ചതു് ശരിയാണെങ്കിൽ അവരോടു്
+കാണിച്ച മര്യാദകേടു് ലജ്ജാകരമാണു്. അവർ സംസ്ക്കാര സമ്പന്നയായ ഒരു സ്ത്രീയാണു്. സ്വാതന്ത്ര്യസമരത്തിൽ
+പങ്കെടുക്കാൻ ഒരു സ്ക്കൂളിലെ ഹെഡ്മിസ്ട്രസ്സ് ജോലി ഉപേക്ഷിക്കുകയാണു് ഉണ്ടായതു്. വിദ്യാസമ്പന്നനായ ഒരു
+രാജാവും തുല്യനിലയിൽ അഭ്യസ്തവിദ്യയായ അമ്മ മഹാറാണിയും പരിചയ സമ്പന്നനായ ദിവാനും ഭരിക്കുന്നു
+എന്നു് അഭിമാനിക്കുന്ന, തിരുവിതാംകൂറു പോലെ പുരോഗതി പ്രാപിച്ച ഒരു നാട്ടുരാജ്യത്തു് സ്വാതന്ത്ര്യേച്ഛയെ
+മൃഗീയമായ മർദനംകൊണ്ടു് ശ്വാസംമുട്ടിക്കുന്നു എന്ന വസ്തുത വേദനാജനകമാണു്.”
+</p>
+          <p>അക്കമ്മക്കും റോസമ്മക്കും ഒരുവർഷം വീതം കഠിനതടവും ആയിരം രൂപ വീതം പിഴയുമാണു് ശിക്ഷ
+കിട്ടിയതു്. ആനി മസ്ക്രീനു് 18 മാസം തടവു്. ആയിരം രൂപ പിഴ. പിന്നെ ജയിലിൽപോക്കു് ഒരു ശീലമായി മാറി.
+1942-ൽ നിരോധനാജ്ഞ ലംഘിച്ചതിനു് ആറാറുമാസം. 1947-ൽ സ്വതന്ത്ര തിരുവിതാംകൂറിനെ എതിർത്തതിനു്
+പിന്നെയും ജയിൽവാസം…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kuttimalu_Amma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. വി. കുട്ടിമാളു അമ്മ</figDesc>
+          </figure>
+          <p>സ്വാതന്ത്ര്യസമരത്തിൽ വലിയ പങ്കുവഹിച്ച സ്ത്രീകൾ മലബാറിലുണ്ടായിരുന്നു. 1925 മേയ് 11-ാം തീയതി <ref target="https://ml.wikipedia.org/wiki/Kozhippurath_Madhavamenon">കോഴിപ്പുറത്തു്
+മാധവമേനോൻ</ref> ആനക്കര വടക്കത്തെ <ref target="https://ml.wikipedia.org/wiki/A._V._Kuttimalu_Amma">കുട്ടിമാളുവമ്മ</ref>
+ക്കു് പുടവ കൊടുത്തതു് ഒരു പരുക്കൻ ഖദർസാരിയായിരുന്നു. “മാധവേട്ടനെയും കോൺഗ്രസിനെയും ഒരേ
+പന്തലിൽവെച്ചു് ഞാൻ വരിച്ചു” എന്നു് അവർ പിന്നീടു് അനുസ്മരിക്കുകയുണ്ടായി. 1932-ലെ സമരകാലത്തു് നിയമം
+ലംഘിച്ചു് ഘോഷയാത്രയിൽ പങ്കെടുത്ത കുട്ടിമാളുവമ്മക്കു് രണ്ടുകൊല്ലം തടവുശിക്ഷ ലഭിച്ചു. രണ്ടുമാസം പ്രായമുള്ള
+തന്റെ ഇളയ മകളെക്കൂടി ജയിലിൽ കൊണ്ടുപോകാൻ അനുവദിക്കണം എന്ന അപേക്ഷ നിരാകരിക്കപ്പെട്ടു.
+“നിങ്ങളെപ്പോലുള്ള സ്ത്രീകൾ നിയമലംഘനത്തിനും മറ്റും പുറപ്പെടുമ്പോൾ അതിന്റെ ഭവിഷ്യത്തുകൾ കൂടി
+ആലോചിക്കേണ്ടതായിരുന്നു” എന്നൊരു കുത്തുവാക്കും പറഞ്ഞു സബ്ഡിവിഷനൽ മജിസ്ട്രേറ്റ്. ആറു വയസ്സിനു്
+താഴെ പ്രായമുള്ള കുട്ടികളെ ജയിലിൽ കൂട്ടാൻ അമ്മക്കു് അവകാശമുണ്ടെന്ന ജയിൽനിയമത്തിലെ വ്യവസ്ഥ
+ചൂണ്ടിക്കാട്ടി കുട്ടിമാളുവമ്മ ഉദ്യോഗസ്ഥരെ നിശ്ശബ്ദരാക്കി. കൈക്കുഞ്ഞിനെയുമെടുത്തു് ആ അമ്മ ജയിലിലേക്കു്
+യാത്രയായി.
+</p>
+          <p>തലശ്ശേരിയിലെ കമലാബായി പ്രഭുവിനു് നിയമലംഘനത്തിൽ പങ്കെടുത്തതിനു് കിട്ടിയ ശിക്ഷ ആറുമാസം
+തടവും ആയിരം രൂപ പിഴയുമാണു്. പിഴയടയ്ക്കാത്തപക്ഷം ആറുമാസംകൂടി തടവു് അനുഭവിക്കണം. പിഴയടയ്ക്കാൻ
+
+താൻ സന്നദ്ധയല്ലെന്നും ആറുമാസം കൂടി ജയിലിൽ കഴിയാനാണു് ഇഷ്ടമെന്നും അവർ പറഞ്ഞപ്പോൾ
+മജിസ്ട്രേറ്റിനു് ഹാലിളകി. കമലാബായിയുടെ ആഭരണങ്ങൾ അഴിച്ചെടുക്കാൻ ഉത്തരവായി. മോതിരവും
+മൂക്കുത്തിയും മാത്രമല്ല, മംഗല്യസൂത്രം വരെ കണ്ടുകെട്ടി.
+</p>
+          <p>അവസാനം സ്വാതന്ത്ര്യം കിട്ടിയപ്പോഴോ? അതുവരെ വഞ്ചീശ മംഗളം പാടി നടന്നവരൊക്കെ ഖദറിട്ടു്
+കോൺഗ്രസ്സുകാരായി. ദിവാൻ സ്വാമിയുടെ വെണ്ണക്കൽ പ്രതിമയുണ്ടാക്കി ഹജൂർ കച്ചേരിയുടെ മുമ്പിൽ സ്ഥാപിച്ച
+ഒരു പുമാൻ പിൽക്കാലത്തു് കേരള മുഖ്യമന്ത്രിയായി. സ്വതന്ത്ര തിരുവിതാംകൂറിനു് വേണ്ടി റേഡിയോ പ്രഭാഷണം
+നടത്തിയ മാന്യദേഹം കേന്ദ്രമന്ത്രിയും. പുത്തൻചന്ത ലോക്കപ്പിൽനിന്നു് മാപ്പെഴുതിക്കൊടുത്തു്
+തടികഴിച്ചിലാക്കിയ പല മാന്യന്മാരും തിരുകൊച്ചിയിലും പിന്നീടു് കേരളസംസ്ഥാനത്തും മന്ത്രിമാരായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/tknarayanapillai.png" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. നാരായണപിള്ള</figDesc>
+          </figure>
+          <p>സ്വാതന്ത്ര്യസമരത്തിലെ മുന്നണിപ്പോരാളികൾ വിസ്മൃതിയിൽ വിലയം പ്രാപിച്ചു. അക്കമ്മ ചെറിയാനും ആനി
+മസ്ക്രീനും 1948-ൽ തിരുവിതാംകൂർ നിയമസഭാംഗങ്ങളായി. അതേകാലത്തു് കുട്ടിമാളുവമ്മ മദ്രാസ്
+നിയമസഭാംഗവുമായിരുന്നു. <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടം
+താണുപിള്ള</ref> യുടെ അപ്രീതിക്കു് പാത്രമായ അക്കമ്മ മന്ത്രിസ്ഥാനത്തേക്കു് പരിഗണിക്കപ്പെട്ടില്ല. ആനി
+മസ്ക്രീൻ <ref target="https://ml.wikipedia.org/wiki/Parur_T._K._Narayana_Pillai">ടി. കെ.
+നാരായണപിള്ള</ref> യുടെ മന്ത്രിസഭയിൽ അംഗമായെങ്കിലും മാസങ്ങൾക്കകം രാജിവെക്കേണ്ടതായി വന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/R_Sankar.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ശങ്കർ</figDesc>
+          </figure>
+          <p>1952-ലെ പൊതു തെരഞ്ഞെടുപ്പിൽ അക്കമ്മ ചെറിയാൻ മീനച്ചിൽ ലോക്സഭാ സീറ്റ് ചോദിച്ചു. തോട്ടമുടമയും
+ധനാഢ്യനുമായ ജോർജ് ജോസഫ് കൊട്ടുകാപ്പിള്ളിയോടായിരുന്നു നേതൃത്വത്തിനു് താൽപര്യം. അവസാനം
+<ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി. ചാക്കോ</ref>
+യെ ഒത്തുതീർപ്പു് സ്ഥാനാർത്ഥിയാക്കി. ഒരു വർഷത്തിനുശേഷം ചാക്കോ വ്യക്തിപരമായ കാരണങ്ങളാൽ
+പാർലമെന്റ് അംഗത്വം രാജിവെച്ചു. ഉപതെരഞ്ഞെടുപ്പിൽ കൊട്ടുകാപ്പിള്ളി ജയിക്കുകയും ചെയ്തു.
+കോൺഗ്രസ്സിൽനിന്നു് രാജിവെച്ച ആനി മസ്ക്രീൻ തിരുവനന്തപുരത്തു് സ്വതന്ത്ര സ്ഥാനാർഥിയായി മത്സരിച്ചു.
+കമ്യൂണിസ്റ്റ് പാർട്ടി പിന്താങ്ങിയതുകൊണ്ടു് ജയിച്ചു. പാർലമെന്റംഗവുമായി. കോൺഗ്രസ് നേതാവു് വി. വി.
+വർക്കിയെ വിവാഹം ചെയ്തു് (1951) അക്കമ്മ ചെറിയാൻ ഗൃഹസ്ഥാശ്രമത്തിൽ പ്രവേശിച്ചു. സഖാവ് പി. ടി.
+പുന്നൂസിനെ പരിണയിച്ച റോസമ്മയാണെങ്കിൽ സജീവ കമ്യൂണിസ്റ്റായി, ഒന്നിലേറെത്തവണ
+നിയമസഭാംഗവുമായി. ആനിമസ്ക്രീൻ, ആമരണം അവിവാഹിതയായി തുടർന്നു. 1957-ൽ രാഷ്ട്രീയവും ഉപേക്ഷിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/bharathiudayabhanu1.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഭാരതി ഉദയഭാനു</figDesc>
+          </figure>
+          <p>1954 മാർച്ചിൽ തിരു-കൊച്ചി നിയമസഭയിൽനിന്നു് രാജ്യസഭയിലേക്കു് ഒരു ഒഴിവുവന്നു. പ്രമുഖ നേതാക്കളായ
+<ref target="https://ml.wikipedia.org/wiki/R._Sankar">ആർ. ശങ്കറും</ref> എൻ.
+
+അലക്സാണ്ടറും ഭൈമീകാമുകരായി രംഗത്തുവന്നെങ്കിലും സ്ത്രീയെന്ന പരിഗണനവെച്ചു് <ref target="https://ml.wikipedia.org/wiki/Bharathy_Udayabanu">ഭാരതി
+ഉദയഭാനു</ref> വിനാണു് നറുക്കുവീണതു്. കോൺഗ്രസ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/A._P._Udhayabhanu">എ. പി. ഉദയഭാനു</ref>
+വിന്റെ ധർമപത്നി എന്നതായിരുന്നു. ഭാരതിയുടെ ഏകയോഗ്യത. കോൺഗ്രസിന്റെ നാലണ
+മെമ്പറെങ്കിലുമായിരുന്നുവോ അവർ എന്നതു സംശയമാണു്, 1958-ൽ ഒരിക്കൽകൂടി അവരെ രാജ്യസഭയിലേക്കു
+തെരഞ്ഞെടുത്തയച്ചു. ഒരു പതിറ്റാണ്ടു് രാജ്യസഭയിൽ വിരാജിച്ച ഭാരതി അടുക്കളയിൽനിന്നു പാർലമെന്റിലേക്കു്
+എന്ന പുസ്തകവും എഴുതി. സ്വാതന്ത്ര്യസമരത്തിൽ പങ്കെടുത്ത പാരമ്പര്യമോ ജയിലിൽക്കിടന്ന
+അനുഭവയോഗ്യതയോ അല്ല പാർലമെന്റംഗത്വത്തിന്റെ അർഹത നിശ്ചയിക്കുന്നതെന്നു് ഭാരതി ഉദയഭാനു
+തെളിയിച്ചു. സ്ത്രീണാംചചിത്തം പുരുഷസ്യഭാഗ്യം എന്നു ഋഷിപ്രോക്തം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/anie_thayil.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആനി തയ്യിൽ</figDesc>
+          </figure>
+          <p> 1964 മാർച്ചിൽ ഭാരതി ഉദയഭാനുവിന്റെ കാലാവധി തീർന്ന ഒഴിവിൽ കോൺഗ്രസുകാർ വീണ്ടുമൊരു
+വനിതയെ സ്ഥനാർഥിയാക്കി. കുമാരി <ref target="https://ml.wikipedia.org/wiki/���_������">ആനി ജോസഫ്</ref> (പിന്നീടു് ആനി
+തയ്യിൽ). വോട്ടിംഗിൽ പക്ഷേ, ആറു കോൺഗ്രസ് എം. എൽ. എ.-മാർ തക്ക പ്രതിഫലം വാങ്ങി വോട്ടുമാറ്റിച്ചെയ്തു.
+ഫലം, മുസ്ലീംലീഗിലെ സാലെ മുഹമ്മദ് സേട്ട് പാർലമെന്റിലേക്കു് പോയി. നാക്കിന്റെ മൂർച്ചകൊണ്ടു മാത്രം
+പാർലമെന്റംഗമാകാൻ കഴിയില്ല. പണമാണു് പരമപ്രധാനം എന്നും തെളിവായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/AP_udayabanu.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. പി. ഉദയഭാനു</figDesc>
+          </figure>
+          <p> 1971-ലെ ലോകസഭാ തെരഞ്ഞെടുപ്പു്; വടകര മണ്ഡലത്തിലേക്കു് കെ. പി. സി. സി. അംഗീകരിച്ചു്
+ദൽഹിക്കയച്ച പേരു് ലീലാദാമോദരമേനോന്റെതായിരുന്നു. ദൽഹിക്കയച്ച പേരു് <ref target="https://ml.wikipedia.org/wiki/Leela_Damodara_Menon">ലീലാദാമോദര
+മേനോന്റെ</ref> തായിരുന്നു. ദൽഹിയിൽനിന്നു മടങ്ങിവന്ന പേരു് കെ. പി. ഉണ്ണിക്കൃഷ്ണന്റേതും.
+ലീലേടത്തിയുടെ പേരു് ആരു് എങ്ങനെ വെട്ടിച്ചു എന്നതു് ഇന്നും അജ്ഞാതം. തൊട്ടടുത്ത വർഷം അവരെ
+രാജ്യസഭയിലേക്കു് തെരഞ്ഞെടുത്തയച്ചു എന്നതു് വേറൊരു കാര്യം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Leela_Damodara_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലീലാദാമോദര മേനോൻ</figDesc>
+          </figure>
+          <p>സർവീസിലിരുന്നു മരിക്കുന്ന സർക്കാർ ജീവനക്കാരുടെ അനന്തരാവകാശികൾക്കു് അതേ വകുപ്പിൽത്തന്നെ
+അനുതാപ നിയമനം നൽകാൻ വ്യവസ്ഥയുണ്ടല്ലോ. കോൺഗ്രസിലുമുണ്ടു് ഈ സമ്പ്രദായം. കുളങ്ങര
+കിഞ്ഞുകൃഷ്ണന്റെ വിധവ <ref target="https://ml.wikipedia.org/wiki/Saraswati_Kunjukrishnan">സരസ്വതി
+കുഞ്ഞുകൃഷ്ണൻ</ref>, കെ. രാഘവൻ മാസ്റ്ററുടെ (വടക്കെ വയനാടു്) വിധവ <ref target="https://ml.wikipedia.org/wiki/Radha_raghavan">രാധാ രാഘവൻ</ref>
+എന്നിവർ ഉദാഹരണങ്ങൾ. അഖിലേന്ത്യാ തലത്തിൽ <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയാഗാന്ധി</ref> യും
+രമാപൈലറ്റുമൊക്കെ ഉദാഹരണമായി നമുക്കു മുന്നിലുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sonia_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">സോണിയാഗാന്ധി</figDesc>
+          </figure>
+          <p>റാന്നിയിലെ പ്രമുഖ കോൺഗ്രസ്സുകാരായിരുന്നു എം. സി. ചെറിയാനും സണ്ണി പനവേലിയും 1978-ൽ
+കോൺഗ്രസ് ഭിന്നിച്ചപ്പോൾ ചെറിയാൻ ആന്റണി ഗ്രൂപ്പിൽനിന്നു; സണ്ണി കരുണാകരനോടൊപ്പവും. 1980-ലെ
+തെരഞ്ഞെടുപ്പിൽ റാന്നി മണ്ഡലത്തിൽ ഇരുവരും ഏറ്റുമുട്ടിയപ്പോൾ ജയം ചെറിയാനായിരുന്നു. 1982
+ആയപ്പോഴേക്കും രണ്ടു ഗ്രൂപ്പും ഒരേ മുന്നണിയിലായി. സിറ്റിങ് എം. എൽ. എ. എന്ന പരിഗണനവെച്ചു് ചെറിയാനു
+സീറ്റുകിട്ടി. ഉടനെ സണ്ണി പനവേലി കോൺഗ്രസ് എസിൽ ചേക്കേറി. അത്തവണ സണ്ണി ജയിച്ചു.
+അദ്ദേഹത്തിന്റെ മരണത്തെത്തുടർന്നു് ഉപതെരഞ്ഞെടുപ്പ് നടന്നപ്പോൾ (1986) ഭാര്യ <ref target="https://ml.wikipedia.org/wiki/Rachel_Sunny_Panaveli">റേച്ചൽ
+സണ്ണി</ref>, എം. സി. ചെറിയാനെ തോൽപിച്ചു. എം. സി. ചെറിയാൻ മരിച്ചപ്പോൾ അനന്തരവകാശിയായി
+ഭാര്യ മറിയാമ്മ രംഗത്തുവന്നു. റേച്ചൽ സണ്ണിയാണെങ്കിൽ മകൻ ബിജിലിക്കുവേണ്ടി രംഗംവിട്ടു. ഇത്തവണ
+ഏറ്റവും വൈകി തീരുമാനമായ സീറ്റുകളിലൊന്നാണു് റാന്നി. ആന്റണി ഗ്രൂപ്പിലെ മറിയാമ്മ ചെറിയാനെ വെട്ടി
+ഐ ഗ്രൂപ്പിലെ ബിജിലി പനവേലി സ്ഥാനാർത്ഥിത്വം നേടി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/mccherian.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. സി. ചെറിയാൻ</figDesc>
+          </figure>
+          <p>കോൺഗ്രസിന്റെ ഏറ്റവും ഉറച്ച ലോകസഭാ സീറ്റാണു് മുകുന്ദപുരം. പൊന്നാനിയും മഞ്ചേരിയും മൂവാറ്റുപുഴയും
+കഴിഞ്ഞാൽ ഏറ്റവും ഉറപ്പുള്ള യു. ഡി. എഫ്. സീറ്റും മുകുന്ദപുരം തന്നെ. 1989-ലെ തെരഞ്ഞെടുപ്പിൽ മുകുന്ദപുരത്തു
+മത്സരിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/Vayalar_Ravi">വയലാർ
+രവി</ref> ക്കു് മോഹം. സിറ്റിംഗ് എം. എൽ. എ.-മാർ ലോകസഭയിലേക്കു മൽസരിക്കരുതു് എന്ന
+ലോകതത്ത്വം പറഞ്ഞു് കരുണാകരൻ രവിയുടെ മോഹത്തിന്റെ കൂമ്പുനുള്ളി. (<ref target="https://en.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> യെ കോട്ടയത്തു മത്സരിപ്പിക്കാൻ ലോകതത്ത്വം വിലങ്ങു തടിയായതുമില്ല). മുകുന്ദപുരത്തു
+വനിതാ സ്ഥാനാർത്ഥി വേണം എന്നായി ലീഡർ. <ref target="https://en.wikipedia.org/wiki/M._Leelavathy">ഡോ. എം. ലീലാവതി</ref>
+യുടെയും ശാന്താപണിക്കരുടെയും (എ. ഐ. സി. സി. സെക്രട്ടറി വാസുദേവപ്പണിക്കരുടെ വിധവ) പേരുകളാണു്
+ആദ്യം കേട്ടതു്. എന്നാൽ സീറ്റു കിട്ടിയതു് <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">പ്രൊഫ. സാവിത്രി
+ലക്ഷ്മണനാ</ref> ണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ramesh_Chennithala.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമേശ് ചെന്നിത്തല</figDesc>
+          </figure>
+          <p>സാവിത്രി ലക്ഷ്മണൻ എന്ന പേരു കേട്ടു് മുകുന്ദപുരത്തെ വോട്ടർമാർ അമ്പരന്നു. ആരിവൾ? ഇരിങ്ങാലക്കുട
+സെന്റ് ജോസഫ്സ് കോളേജിലെ മലയാളം അധ്യാപിക; അറിയപ്പെടുന്ന ബി. ജെ. പി. പശ്ചാത്തലമുള്ള വ്യക്തി.
+1987-ലെ തെരഞ്ഞെടുപ്പിൽ മാളയിൽ തനിക്കുവേണ്ടി പ്രവർത്തിച്ചതിന്റെ ഉപകാരസ്മരണയിൽ കരുണാകരൻ
+കാണിച്ച ഔദാര്യം. ഏതായാലും സാവിത്രി ടീച്ചർ പുല്ലുപോലെ ജയിച്ചുകയറി. 1991-ൽ എതിരാളി
+അതിപ്രബലനായിരുന്നുവെങ്കിലും വിജയം ടീച്ചർക്കുതന്നെ. 1996-ൽ ലീഡർ തൃശ്ശൂരു മത്സരിച്ചതുകൊണ്ടു് <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി. ചാക്കോ</ref> യെ
+മുകുന്ദപുരത്തേക്കു മാറ്റി. സാവിത്രി ലക്ഷ്മണനു് ചാലക്കുടി നിയമസഭാ സീറ്റു നൽകി. ചാലക്കുടിയുടെ
+
+ചരിത്രത്തിലെ ഏറ്റവും വലിയ ഭൂരിപക്ഷത്തോടെ (11,166) ടീച്ചർ നിയമസഭയിലെത്തി. ഇത്തവണത്തെ
+കോൺഗ്രസ് വനിതാ സ്ഥാനാർത്ഥികളിൽവെച്ചു് ഏറ്റവും ഉറപ്പുള്ള സീറ്റ് സാവിത്രി ടീച്ചറുടേതാണു്.
+യു. ഡി. എഫിനു ഭൂരിപക്ഷം കിട്ടുന്നപക്ഷം മന്ത്രിയാകാൻ സാധ്യതയുള്ള വനിതയും അവർ തന്നെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P-C_Chacko.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. ചാക്കോ</figDesc>
+          </figure>
+          <p>ഇതിലും സ്തോഭജനകമാണു് <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാ ജോർജി</ref>
+ന്റെ കഥ: അഖിലകേരള ബാലജന സഖ്യത്തിലൂടെയാണു് ശോഭന പൊതുരംഗത്തു വരുന്നതു്; കേരള
+കോൺഗ്രസിന്റെ വിദ്യാർത്ഥി വിഭാഗമായ കെ. എസ്. സി.-യിലൂടെ രാഷ്ട്രീയത്തിലും കച്ചകെട്ടി. അങ്ങനെയിരിക്കെ
+പെട്ടെന്നൊരു സുപ്രഭാതത്തിൽ ചെങ്ങന്നൂരെ കോൺഗ്രസ് സ്ഥാനാർത്ഥിയായി ശോഭന രംഗപ്രവേശം
+ചെയ്യുന്നു. 1977 മുതൽ 91 വരെയും യു. ഡി. എഫ്. എൻ. ഡി. പി.-ക്കു് കൊടുത്ത സീറ്റാണു് ചെങ്ങന്നൂർ. 1991-ൽ
+എൻ. ഡി. പി.-ക്കു് ആറന്മുള കൊടുത്തു് ചെങ്ങന്നൂർ കോൺഗ്രസ് ഏറ്റെടുക്കുകയായിരുന്നു. ആന്റണിയോ
+കരുണാകരനോ ശോഭനയുടെ പേരു് നിർദേശിച്ചിരുന്നില്ല. കോൺഗ്രസിലെ മൂന്നു്, നാലു് ഗ്രൂപ്പുകൾ അന്നു്
+നിലവിൽവന്നിരുന്നുമില്ല. അന്നു് പാർലമെന്റംഗമായിരുന്ന ഒരു യുവ നേതാവു് (ഇപ്പോഴും അദ്ദേഹം
+പാർലമെന്റിലുണ്ടു്) ദൽഹിയിൽ ചരടുവലി നടത്തി ശോഭനയെ സ്ഥാനാർത്ഥിയാക്കുകയായിരുന്നു. ഏതായാലും
+<ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ഗാന്ധി</ref>
+കൊല്ലപ്പെട്ടതിനെത്തുടർന്നുണ്ടായ സഹതാപ തരംഗത്തിൽ ശോഭന ജയിച്ചുകയറി. 1996-ൽ വിജയം
+ആവർത്തിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/mercyravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മെഴ്സി രവി</figDesc>
+          </figure>
+          <p> ഭാരതി ഉദയഭാനുവിനുണ്ടായിരുന്നതു തന്നെയാണു് <ref target="https://ml.wikipedia.org/wiki/Mercy_Ravi">മെഴ്സി രവി</ref> യുടെയും
+യോഗ്യത. വീട്ടുകാരെ ധിക്കരിച്ചു് വയലാർ രവി എന്ന കെ. എസ്. യു. നേതാവിനെ പരിണയിച്ച പാരമ്പര്യവും
+അദ്ദേഹത്തിന്റെ മൂന്നു് കുട്ടികളെ പെറ്റുവളർത്തിയ പരിചയവുമാണു് മെഴ്സിയുടെ കൈമുതൽ. കോൺഗ്രസിൽ
+നേതാവാകാൻ ഇതൊക്കെ ധാരാളമാണു് മാഷേ. പക്ഷേ, സാവിത്രിയോളമോ ശോഭനയോളമോ ശോഭിച്ചില്ല
+മെഴ്സി. ലീഡർ ഒഴിഞ്ഞ മാളയിലാണു് മേഴ്സി ഭാഗ്യം പരീക്ഷിച്ചതു്. കരുണാകർജിയുടെ അകൈതവമായ പിന്തുണ
+മെഴ്സിക്കുണ്ടായിട്ടും കമ്യൂണിസ്റ്റ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/V.K._Rajan">വി. കെ. രാജനാ</ref> ണു്
+വിജയിച്ചതു്. ഭൂരിപക്ഷം 3241.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/M_Kamalam.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. കമലം</figDesc>
+          </figure>
+          <p>സ്ത്രീകൾക്കു് പാർലമെന്റിലും സംസ്ഥാന നിയമസഭകളിലും 33 ശതമാനം സീറ്റു സംവരണം ചെയ്യാൻ
+പ്രതിജ്ഞാബദ്ധമാണു് കോൺഗ്രസ് പാർട്ടി. പക്ഷേ, 88 പേരടങ്ങുന്ന സ്ഥാനാർത്ഥിപട്ടികയിൽ കേവലം എട്ടു
+വനിതകൾക്കേ ഇടം കിട്ടിയുള്ളൂ. കഴിഞ്ഞ തവണ വനിതാ സ്ഥാനാർത്ഥികൾ ഒമ്പതു പേരുണ്ടായിരുന്നു. സിറ്റിംഗ്
+എം. എൽ. എ.മാർക്കെല്ലാം (വിമതനായി ജയിച്ച സുന്ദരൻ നാടാർ അടക്കം) വീണ്ടും സീറ്റു ലഭിച്ചപ്പോഴും
+മണലൂരുനിന്നു ജയിച്ച <ref target="https://ml.wikipedia.org/wiki/Rosamma_Chacko">റോസമ്മ ചാക്കോ</ref>
+
+ഒഴിവാക്കപ്പെട്ടു. മുൻ മന്ത്രിമാരായ <ref target="https://en.wikipedia.org/wiki/M._Kamalam">എം. കമലം</ref>, <ref target="https://ml.wikipedia.org/wiki/M.T._Padma">എം. ടി. പത്മ</ref> എന്നിവരും
+മുൻ എം. എൽ. എ. <ref target="https://ml.wikipedia.org/wiki/KC_Rosakutty">റോസക്കുട്ടി</ref> യും
+തഴയപ്പെട്ടു. <ref target="https://ml.wikipedia.org/wiki/Alphonsa_John">അൽഫോൺസാ
+ജോണി</ref> നെ കുണ്ടറയിൽനിന്നും വിജയസാധ്യത കുറഞ്ഞ കോവളത്തേക്കു തുരത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shobhana_George.png" rendition="gra"/>
+            <figDesc style="thumb">ശോഭനാ ജോർജ്</figDesc>
+          </figure>
+          <p>സീറ്റുകിട്ടിയവരിൽ തന്നെ <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണൻ</ref>, രാധാരാഘവൻ, <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാ ജോർജ്</ref>
+എന്നിവർക്കേ വിജയസാധ്യതയുള്ള മണ്ഡലങ്ങൾ കിട്ടിയുള്ളൂ. കോട്ടയത്തു് മെഴ്സിരവിയും കോവളത്തു്
+അൽഫോൺസാ ജോണും ഏറെ അധ്വാനിക്കേണ്ടിവരും. തൃത്താലയിൽ രാജമ്മയോ ചേലക്കരയിൽ
+തുളസിയോ ആലത്തൂരിൽ ചെല്ലമ്മ ടീച്ചറോ ജയിക്കണമെങ്കിൽ മഹാദ്ഭുതങ്ങൾ സംഭവിക്കേണ്ടിയിരിക്കുന്നു.
+</p>
+          <p>ലഗ്നാലോ ചന്ദ്രാലോ ജയിക്കാൻ യാതൊരു സാധ്യതയുമില്ലാത്ത മണ്ഡലങ്ങൾ സ്ത്രീ സ്ഥാനാർത്ഥികളുടെ
+പിടലിക്കുവെച്ചു കെട്ടുന്ന പരിപാടിയുമുണ്ടു് കോൺഗ്രസിൽ. 1996-ലും 1998-ലും ലോക്സഭയിലേക്കു മത്സരിക്കാൻ
+വനിതക്കു നൽകിയ സീറ്റ് ഒറ്റപ്പാലമായിരുന്നു. 1999-ൽ അതു് പാലക്കാടു് ആയി. ഫലം എല്ലായ്പ്പോഴും പരാജയം
+തന്നെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vayalar_Ravi.jpg" rendition="gra"/>
+            <figDesc style="thumb">വയലാർ രവി</figDesc>
+          </figure>
+          <p>“കേട്ട ഗാനം മധുരം, കേൾക്കാത്തതോ മധുരതരം” എന്നു് പണ്ടൊരു കവി പാടിയില്ലേ? ഇത്തവണത്തെ
+തെരഞ്ഞെടുപ്പിൽ സീറ്റു ലഭിച്ച വനിതകളേക്കാൾ ശ്രദ്ധാകേന്ദ്രമായതു് സീറ്റു കിട്ടാത്ത വനിതയാണു് കെ. പത്മജ.
+കോൺഗ്രസ് തറവാട്ടിലെ കരുണാകരൻ ഗുരുക്കളുടെ ഏകമകൾ; കെ. പി. സി. സി. ഏക വൈസ് പ്രസിഡന്റ്
+മുരളിച്ചേകവരുടെ അങ്കംവെട്ടും നേർപെങ്ങൾ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/akantony.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ആന്റണി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ.
+ആന്റണി</ref> ചേർത്തലയിലായിരിക്കുമോ തിരുവമ്പാടിയിലാകുമോ മൽസരിക്കുക എന്നു
+സംശയിച്ചവരുണ്ടു്. എന്നാൽ ഒരാൾക്കും ഒരു സംശയവും ഇല്ലാത്തകാര്യം ചാലക്കുടിയിൽ പത്മജയായിരിക്കും
+സ്ഥാനാർത്ഥി എന്നതായിരുന്നു. ചാലക്കുടിയിൽനിന്നു കുടിയിറക്കപ്പെടുന്ന സാവിത്രി ടീച്ചറെ മാളയിലോ
+വടക്കേക്കരയിലോ കുടിയിരുത്തുക എന്നതേ ബാക്കിയുണ്ടായിരുന്നുള്ളൂ.
+</p>
+          <p>പത്മജക്കെന്താണു പ്രവർത്തനപരിചയം, പാരമ്പര്യം എന്നു് ഒരാളും ചോദിച്ചില്ല. ‘പണ്ടച്ഛൻ
+
+ആനപ്പുറമേറിയതല്ലേ ഉണ്ടാകുമല്ലോ പുത്രിക്കുമാത്തഴമ്പു്’ എന്നു കോൺഗ്രസുകാർ സമാധാനിച്ചു. ഒന്നുമില്ലെങ്കിൽ
+പത്മജക്കു് മലയാളമറിയാമല്ലോ. ഇന്ത്യാ മഹാരാജ്യത്തെ നിരവധി ഭാഷകളിലൊന്നെങ്കിലും അറിയാത്ത മറ്റൊരു
+വനിതയാണല്ലോ കോൺഗ്രസ് അധ്യക്ഷ! പണ്ടു് പതിനഞ്ചു ഭാഷയറിയാവുന്ന മറ്റൊരു മഹാൻ
+അധ്യക്ഷനായിരുന്നപ്പോഴത്തേക്കാളും വളരെയൊന്നും മോശമല്ല ഇപ്പോഴത്തെ അവസ്ഥ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Dr_m_leelavathy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. എം. ലീലാവതി</figDesc>
+          </figure>
+          <p> തിരുവനന്തപുരത്തുനിന്നു കൊണ്ടുപോയ പാനലിൽ പത്മജയുടെ പേരില്ലാഞ്ഞപ്പോഴും ആർക്കുമുണ്ടായില്ല
+വേവലാതി. ദൽഹിയിൽനിന്നു മടങ്ങി വരുമ്പോൾ പത്മജയുടെ പേരാകും ഉണ്ടാകുക എന്നു് ഉറപ്പായിരുന്നല്ലോ.
+ഹൈക്കമാൻഡിൽ ചർച്ച നടന്നപ്പോൾ പത്മജയുടെ പേരു് ആരും മിണ്ടിയില്ല. കരുണാകരൻ തറവാടിയാണു്.
+അദ്ദേഹം മക്കൾക്കൊന്നും വേണ്ടി ശിപാർശ ചെയ്യില്ല. പത്മജയുടെ കാര്യത്തിൽ ആന്റണി വേണ്ടതു ചെയ്യുമെന്നു
+ലീഡർ കരുതി. കരുണാകർജി മൂത്രമൊഴിക്കാൻ പോയപ്പോഴും ആന്റണി വാതുറന്നില്ല. പത്മജയുടെ പോയിട്ടു്
+പത്മരാജന്റെ പേരുപോലും ആന്റണി പറഞ്ഞില്ല. അതോടെ ലീഡറുടെ മുഖപത്മം വാടി, എ. കെ. ആന്റണിയുടെ
+പേരു് ജനശത്രുക്കളുടെ പട്ടികയിലായി. ചാലക്കുടി വേണ്ട, വടക്കേക്കര മതിയെന്നു സാവിത്രി ലക്ഷ്മണൻ
+കരഞ്ഞുപറഞ്ഞിട്ടും ഇന്ദിരാജിയുടെ മകന്റെ ഭാര്യ ഗൗനിച്ചില്ല.
+</p>
+          <p>പത്മജക്കു സീറ്റുകിട്ടാഞ്ഞതല്ല, തന്റെ ഗ്രൂപ്പുകാരെ തഴഞ്ഞതിലാണു് കരുണാകരനുരോഷം. പത്മജയുടെ
+കാര്യമല്ല മുഖ്യം എന്നു് മുരളീധരനും പറയുന്നു. താൻ സ്വമേധയാ പിന്മാറുകയാണെന്നു് പത്മജ പ്രഖ്യാപിക്കുന്നു.
+അരിയും തിന്നു് ആശാരിച്ചിയേയും കടിച്ചു്, പിന്നെയും പത്രക്കാർക്കാണു മുറുമുറുപ്പു്.
+</p>
+          <p>സീറ്റു കിട്ടിയില്ലെങ്കിലും താൻ കോൺഗ്രസിൽ ഉറച്ചുനിൽക്കുമെന്നും ഒരു കാരണവശാലും രാഷ്ട്രീയം
+ഉപേക്ഷിക്കയില്ലെന്നുമുള്ള പത്മജയുടെ പ്രഖ്യാപനം കേട്ടു് <ref target="https://ml.wikipedia.org/wiki/Akkamma_Cherian">അക്കമ്മ ചെറിയാ</ref>
+ന്റെയും <ref target="https://ml.wikipedia.org/wiki/A._V._Kuttimalu_Amma">കുട്ടിമാളുവമ്മ</ref>
+യുടെയും ആത്മാക്കൾ പുളകംകൊണ്ടിരിക്കണം.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Akkamma Muthal Padmaja Vare
+(ml: അക്കമ്മ മുതൽ പത്മജ വരെ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Akkamma Muthal Padmaja Vare, കെ. രാജേശ്വരി, അക്കമ്മ മുതൽ പത്മജ വരെ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 7, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:BastianLepage.jpg">Jules
+Bastien-Lepage,</ref> a painting by Unknown author  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswariakkammapathmaja.xml">Download document sources in TEI encoded XML
+format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-  akkammapathmaja.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

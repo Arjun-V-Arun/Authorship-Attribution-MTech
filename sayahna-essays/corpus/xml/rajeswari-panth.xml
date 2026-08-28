@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പന്തു് മൈതാനമധ്യത്തിലാണു്</title>
+          <title xml:lang="en" type="main">Panth Maithanamadhyaththilanu</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പന്തു് മൈതാനമധ്യത്തിലാണു്</title>
+              <title xml:lang="en" type="main">Panth Maithanamadhyaththilanu</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Panth Maithanamadhyaththilanu</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>പന്തു് മൈതാനമധ്യത്തിലാണു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Edouard_Manet_-_The_Plum.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_The_Plum__National_Gallery_of_Art.jpg">The Plum,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:%C3%89douard_Manet">Édouard
+Manet</ref>  (1832–1883). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പന്തു് മൈതാനമധ്യത്തിലാണു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പന്തു് മൈതാനമധ്യത്തിലാണു്</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Cristiano_Ronaldo.jpg" rendition="gra"/>
+            <figDesc style="thumb">റൊണാൾഡോ</figDesc>
+          </figure>
+          <p style="noindent"> ജപ്പാനിലും കൊറിയയിലുമായി നടന്ന 2002-ലെ ലോക ഫുട്ബാൾ മേള. ഇംഗ്ലണ്ടും
+ബ്രസീലും തമ്മിലുള്ള ക്വാർട്ടർ ഫൈനൽ. അത്തവണത്തെ ഏറ്റവും മികച്ച ടീമുകൾ, ഏറ്റവും ആവേശകരമായ
+മൽസരം. കളിയുടെ ഗതിക്കെതിരായി ഇംഗ്ലണ്ട് ആദ്യം ഗോൾ നേടി. ഡിഫൻഡർ ലൂസിയോയുടെ പിഴവു്
+മുതലെടുത്തു് മൈക്കൽ ഓവൻ വലകുലുക്കിയപ്പോൾ ബ്രസീൽ നടുങ്ങി. ലോകമെമ്പാടും ആരാധകർക്കു്
+ശ്വാസതടസ്സമുണ്ടായി. ഒന്നാംപകുതി അവസാനിക്കുന്നതിനു് തൊട്ടു മുമ്പു് സമനില ഗോൾ വന്നു. നാലു്
+ഡിഫൻഡർമാരെ ഒന്നൊന്നായി മറികടന്ന ബ്രസീലിയൻ മിഡ്ഫീൽഡർ റൊണാൾഡീന്യോ, പന്തു്
+റിവാൾഡോക്ക് മറിച്ചുകൊടുത്തു. റിവാൾഡോയുടെ വെടിയുണ്ടപോലെയുള്ള അടി ഫുൾബാക്ക്
+സോൾകാംബെല്ലിനെയും ഗോളി സീമാനെയും അമ്പേ പരാജയപ്പെടുത്തി ഇംഗ്ലീഷ് വലയിൽ വീണു. 50-ാം
+മിനിറ്റിൽ ബ്രസീലിനു് അനുകൂലമായ ഫ്രീകിക്ക്. 35 വാര അകലെനിന്നു് കിക്കെടുത്തതു് റൊണാൾഡീന്യോ.
+അതിസുന്ദരമായ ഫാളിംഗ് ലീഫ് കിക്ക്. സീമാനല്ല, പടച്ചവനുപോലും തടയാൻ കഴിയാത്ത ഒന്നു്. ഇംഗ്ലണ്ടിന്റെ
+പോസ്റ്റിൽ രണ്ടാമത്തെ ഗോൾ. ഇതാ പുതിയ രാജകുമാരൻ എന്നു് കമന്റേറ്റർമാർ ആർത്തുവിളിച്ചു, കാണികൾ
+എഴുന്നേറ്റു് നിന്നു് കൈയടിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Roberto_Carlos.jpg" rendition="gra"/>
+            <figDesc style="thumb">റൊബർട്ടോ കാർലോസ്</figDesc>
+          </figure>
+          <p> ഇവൻ അങ്ങനെയങ്ങു് ഷൈൻ ചെയ്യേണ്ട എന്നു് റഫറിക്കു് തോന്നിയതു് സ്വാഭാവികം. ബാറ്റിസ്റ്റ്യൂട്ടയും
+സിദാനും ഒളിമങ്ങിയ ലോകകപ്പിൽ ഒരു പീക്രി ചെക്കൻ വിലസുകയോ? അതും ബ്രസീൽ ടീമിൽത്തന്നെ <ref target="https://en.wikipedia.org/wiki/Cristiano_Ronaldo">റൊണാൾഡോ</ref>,
+<ref target="https://en.wikipedia.org/wiki/Rivaldo">റിവാൾഡോ</ref>, <ref target="https://en.wikipedia.org/wiki/Roberto_Carlos">റൊബർട്ടോ
+കാർലോസ്</ref> മുതലായ പ്രതിഭകളുള്ളപ്പോൾ? 57-ാം മിനിറ്റിൽ നിസ്സാരമായ ഒരു ഫൗൾ. ഏറ്റവും കൂടിയതു്
+മഞ്ഞക്കാർഡ് കാണിക്കാം. പക്ഷേ, റഫറി ചുവപ്പുകാർഡ് വീശി. റൊണാൾഡിന്യോ കളത്തിനു് പുറത്തു്.
+മഞ്ഞപ്പടയുടെ അംഗബലം 10 ആയി ചുരുങ്ങി. ജയിച്ചാലും സെമിയിലും ഫൈനലിലും റൊണാൾഡീന്യോക്കു്
+കളിക്കാനാവില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rivaldo.jpg" rendition="gra"/>
+            <figDesc style="thumb">റിവാൾഡോ</figDesc>
+          </figure>
+          <p> ശേഷിച്ച 33 മിനിറ്റ് പത്തുപേരെ വെച്ചു് ബ്രസീൽ ഇംഗ്ലണ്ടിനും റഫറിക്കുമെതിരെ പിടിച്ചുനിന്നു. സെമിയിൽ
+തുർക്കിയെ ഒറ്റ ഗോളിനു് വീഴ്ത്തി, ഫൈനലിൽ ജർമ്മനിയെ രണ്ടു് ഗോളിനും. മൂന്നു ഗോളുമടിച്ചതു് റൊണാൾഡോ.
+അഞ്ചാം തവണയും ലോകകപ്പ് ബ്രസീൽ കൊണ്ടുപോയി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> 57-ാം മിനിറ്റിലെ ചുവപ്പുകാർഡ് പ്രയോഗത്തെ പലവിധത്തിലും ഓർമ്മിപ്പിക്കുന്നു <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനെ</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയനെ</ref> യും സസ്പെന്റ് ചെയ്യാനുള്ള പോളിറ്റ് ബ്യൂറോ തീരുമാനം.
+</p>
+          <p>വി. എസും വിജയനും കളി തുടങ്ങിയിട്ടു് കാലം കുറെയായി. പിണറായിയെ സെക്രട്ടറിസ്ഥാനത്തുനിന്നു്
+പുറത്താക്കാൻ രണ്ടു് വർഷം മുമ്പു് അച്യുതാനന്ദൻ ശ്രമിച്ചു് പരാജയപ്പെട്ടു. പോളിറ്റ് ബ്യൂറോയുടെ ആജ്ഞ ലംഘിച്ചു്
+സഖാവു് നിറുത്തിയ 12 സ്ഥാനാർഥികളും തോറ്റു. കാരണവരെ സകലവിധത്തിലും താഴ്ത്തികെട്ടാനുള്ള ശ്രമമാണു്
+പിന്നീടു് വിജയൻ നടത്തിയതു്. <ref target="https://ml.wikipedia.org/wiki/S._Sharma">എസ്. ശർമ്മ</ref> യും <ref target="https://en.wikipedia.org/wiki/M._Chandran">എം. ചന്ദ്രനും</ref> സംസ്ഥാന
+സെക്രട്ടറിയേറ്റിൽനിന്നു് ഒഴിവാക്കപ്പെട്ടു; ദേശാഭിമാനി പത്രാധിപസ്ഥാനത്തുനിന്നു് അച്യുതാനന്ദൻ തന്നെയും
+നിഷ്കാസിതനായി. കൊമ്പുകളും ചില്ലകളുമൊക്കെ വെട്ടിയിറക്കിയശേഷം തടിമുറിക്കാനായിരുന്നു വിജയന്റെ
+പദ്ധതി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/S_Sharma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. ശർമ്മ</figDesc>
+          </figure>
+          <p> അതിനിടെ ലാവ്ലിൻ പൊങ്ങിവന്നതുകൊണ്ടു് പദ്ധതി പാളി. മുഖ്യമന്ത്രിക്കസേര മരീചികയായി.
+ഡി. ഐ. സി. ബന്ധത്തിനെതിരെ വി. എസും ഘടകകക്ഷികളും വാളെടുത്തു. പോളിറ്റ് ബ്യൂറോ അവർക്കൊപ്പം
+നിന്നു. അങ്ങനെ കരുണാകര ബാന്ധവം കുന്തമായി. വികസന വിരുദ്ധനും ന്യൂനപക്ഷ വിരുദ്ധനുമായി മുദ്രയടിച്ചു്
+അച്യുമ്മാനെ ഒതുക്കാനായി അടുത്ത ശ്രമം. പാർട്ടി സംസ്ഥാന സെക്രട്ടറിയേറ്റും കേന്ദ്ര കമ്മിറ്റിയും <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+മൽസരിക്കണ്ട എന്നു വിധിച്ചു. സംസ്ഥാന കമ്മിറ്റിയും അതേ നിലപാടു് അംഗീകരിക്കുമായിരുന്നു. അപ്പോഴേക്കും
+ബൂർഷ്വാ മാധ്യമങ്ങൾ ഉറഞ്ഞുതുള്ളി. <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി
+മുഹമ്മദ്കുട്ടി</ref> സമുദായത്തിനു് സ്വീകാര്യനല്ലെന്നു് മാധ്യമം തുറന്നടിച്ചു. കേരള കൗമുദിയുടെ ഈഴവരക്തം
+തിളച്ചു. ഏഷ്യാനെറ്റിനും ഇന്ത്യാവിഷനും മാതൃഭൂമിക്കും മനോരമക്കും ഒരു ഹൃദയം ഒരു മാനസം!
+വി. എസില്ലെങ്കിൽ കളി തോൽക്കുമെന്നു് ഹിന്ദു പത്രാധിപൻ പറഞ്ഞപ്പോൾ കാരാട്ടിന്റെ കരളെരിഞ്ഞു. ബംഗാൾ
+സഖാക്കൾ അച്യുതാനന്ദന്റെ വക്കാലത്തുപിടിച്ചു. പോളിറ്റ് ബ്യൂറോ ഇടപെട്ടു് പുന്നപ്ര സമരനായകനു്
+സീറ്റുകൊടുപ്പിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ferenc_Puskas.jpg" rendition="gra"/>
+            <figDesc style="thumb">പുഷ്കാസ്</figDesc>
+          </figure>
+          <p> കിക്കോഫിൽനിന്നുതന്നെ അച്യുതാനന്ദൻ ഇരമ്പിക്കയറി. തെരഞ്ഞെടുപ്പു് രംഗത്തു് <ref target="https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s">പുഷ്കാസും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Pele">പെലെ</ref> യും <ref target="https://ml.wikipedia.org/wiki/Diego_Maradona">മറഡോണ</ref>
+യുമൊക്കെ <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+തന്നെ. ജനനായകനെക്കാണാൻ, ആരോഹണാവരോഹണങ്ങളോടെയുള്ള പ്രസംഗം കേട്ടു് ധന്യരാവാൻ
+പതിനായിരങ്ങൾ തടിച്ചുകൂടി. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യുമൊക്കെ നിഷ്പ്രഭരായി. കോൺഗ്രസിന്റെയും ലീഗിന്റെയും പോസ്റ്റിൽ ഒട്ടെറെ ഗോളുകൾ വീണു. വി. എസിനെ
+ഫൗൾ ചെയ്തുവീഴ്ത്തി അധികാരം പിടിക്കാനും ഔദ്യോഗിക പക്ഷം ശ്രമിക്കാതിരുന്നില്ല. കോള, കരിമണൽ,
+ഇരുമ്പുരുക്കു് വ്യവസായികൾ പണമൊഴുക്കിയിട്ടും മലമ്പുഴയിൽ മാരാരിക്കുളം ആവർത്തിച്ചില്ല. തികച്ചും
+
+ഏകപക്ഷീയമായ മൽസരത്തിൽ ഇടതുമുന്നണി വിജയിച്ചു; വി. എസ്. മുഖ്യമന്ത്രിയുമായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pele.jpg" rendition="gra"/>
+            <figDesc style="thumb">പെലെ</figDesc>
+          </figure>
+          <p> നിയമസഭാ തെരഞ്ഞെടുപ്പു് കേവലം സെമിഫൈനൽ മാത്രം. മുഖ്യമന്ത്രിയായി അധികാരമേൽക്കുമ്പോഴേ
+അച്യുതാനന്ദനറിയാം കലാശക്കളി <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref> നയിക്കുന്ന ഔദ്യോഗിക പക്ഷവുമായിട്ടാകുമെന്നു്.
+</p>
+          <p>കണ്ണൂർ ലോബിയുടെ കരുത്തും കാർക്കശ്യവും വിളിച്ചറിയിക്കുന്ന ലൈനപ്പ്. മുന്നേറ്റനിരയിൽ എണ്ണംപറഞ്ഞ
+അഞ്ചു് ഫോർവേഡുകൾ—<ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">എ. കെ. ബാലൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.K._Sreemathi">പി. കെ. ശ്രീമതി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Elamaram_Kareem">എളമരം
+കരീം</ref>, <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ.
+ബേബി</ref>, മിഡ്ഫീൽഡിൽ പിണറായിക്കിടവുംവലവും പരിചയസമ്പന്നരായ <ref target="https://ml.wikipedia.org/wiki/E.P._Jayarajan">ഇ. പി. ജയരാജനും</ref>
+<ref target="https://en.wikipedia.org/wiki/M._V._Govindan">എം. വി. ഗോവിന്ദൻ
+മാസ്റ്ററും</ref>. ഡീപ് ഡിഫൻസിൽ മുതിർന്ന പത്രപ്രവർത്തകൻ എൻ. മാധവൻ കുട്ടി, ദീപികയുടെ പുതിയ
+മുതലാളി <ref target="https://ml.wikipedia.org/wiki/Pharis_Aboobaker">ഫാരീസ്
+അബുബക്കർ</ref>. ഗോൾകീപ്പർ, പുള്ളിപ്പുലിയുടെ മെയ്വഴക്കമുള്ള ദേശാഭിമാനി പത്രാധിപർ
+ദക്ഷിണാമൂർത്തി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Maradona.jpg" rendition="gra"/>
+            <figDesc style="thumb">മറഡോണ</figDesc>
+          </figure>
+          <p> ടീം വി. എസ്. മോശമൊന്നുമല്ല. സ്റ്റാർ സ്ട്രൈക്കർ അച്യുതാനന്ദൻ തന്നെ. ഇടതുവിംഗിൽ <ref target="https://ml.wikipedia.org/wiki/S._Sharma">ശർമ</ref>, വലതുവിംഗിൽ <ref target="https://ml.wikipedia.org/wiki/P.K._Gurudasan">ഗുരുദാസൻ</ref>. കളിയുടെ
+വേഗം നിയന്ത്രിക്കുന്നതും നായകനു് പന്തെത്തിച്ചുകൊടുക്കുന്നതും മിഡ്ഫീൽഡ് ജനറൽ <ref target="https://ml.wikipedia.org/wiki/K._Chandran_Pillai">കെ.
+ചന്ദ്രൻപിള്ള</ref>. കൂടെ വിശ്വസ്തരായ <ref target="https://ml.wikipedia.org/wiki/N._N._Krishnadas">എൻ. എൻ.
+കൃഷ്ണദാസ്</ref>, <ref target="https://en.wikipedia.org/wiki/M._Chandran">എം.
+ചന്ദ്രൻ</ref>, തന്ത്രങ്ങൾ മെനയുന്നതു് കെ. എം. ഷാജഹാൻ. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref> യുടെ
+ആക്രമണങ്ങൾക്കെതിരെ പ്രതിരോധമൊരുക്കുന്നതു് മാതൃഭൂമി, മാധ്യമം, കേരള കൗമുദി പത്രങ്ങൾ, സമകാലിക
+മലയാളം ആഴ്ചപ്പതിപ്പു്. ഗോൾവല കാക്കാൻ ലെവ്യാഷിന്റെ നേരനന്തരവൻ ജി. ശക്തിധരൻ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് കഴിഞ്ഞതും കളിയുടെ നിയന്ത്രണം പിണറായി സഖാവു് ഏറ്റെടുത്തു. അച്യുതാനന്ദന്റെ
+ഇഷ്ടത്തിനെതിരായി മന്ത്രിമാരുടെ എണ്ണം 19 ആയി വർദ്ധിപ്പിച്ചു. അതിൽ 12 പേർ സി. പി. എമ്മുകാർ, എട്ടുപേർ
+
+പിണറായി ഗ്രൂപ്പുകാർ. ആഭ്യന്തര-വിജിലൻസ് വകുപ്പുകൾ മുഖ്യമന്ത്രിയിൽനിന്നെടുത്തു് <ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി</ref>
+യെ ഏൽപിച്ചു. ഭാരിച്ച വകുപ്പുകളത്രയും പിണറായി പക്ഷക്കാർ കൈക്കലാക്കി. വി. എസ്. ഗ്രൂപ്പുകാർക്കു് പുല്ലും
+വൈക്കോലും മാത്രം. ഷാജഹാനെ ചുവപ്പുകാർഡ് കാണിച്ചു് പുറത്താക്കി. ശക്തിധരൻ ദേശാഭിമാനിയിൽ നിന്നു്
+തടികഴിച്ചിലാക്കി. പഴയ നസ്രാണി ദീപിക പിണറായി ദീപികയായി വേഷംമാറി ആഴ്ചയിൽ ഏഴുദിവസവും
+അച്യുതാനന്ദനെ പുലഭ്യം പറഞ്ഞു. ദേശാഭിമാനിയും കൈരളി-പീപ്പിൾ ചാനലുകളും മുഖ്യമന്ത്രിക്കെതിരെ
+ഒളിയമ്പുകളെയ്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/AK_Balan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ബാലൻ</figDesc>
+          </figure>
+          <p> കനത്ത മാധ്യമപിന്തുണയും <ref target="https://ml.wikipedia.org/wiki/K._Chandran_Pillai">ചന്ദ്രൻപിള്ള</ref>
+യുടെ മികച്ച തന്ത്രങ്ങളുമുണ്ടായിട്ടും, പിണറായി പക്ഷത്തിന്റെ ഇരച്ചുകയറ്റത്തിനു് മുന്നിൽ വി. എസ്. തികച്ചും
+പ്രതിരോധത്തിലായി. സീറ്റ് നിഷേധിച്ചപ്പോൾ ജനനായകനുവേണ്ടി ജാഥ നടത്തിയവരെയും മുദ്രാവാക്യം
+വിളിച്ചവരെയുമൊക്കെ പാർട്ടിയിൽനിന്നു് പുറത്താക്കി. മഞ്ഞക്കാർഡ് വീശി <ref target="https://ml.wikipedia.org/wiki/N._N._Krishnadas">കൃഷ്ണദാസി</ref> നെ
+തരംതാഴ്ത്തി; ടി. ശശിധരനെ സൈഡ് ബെഞ്ചിലിരുത്തി. <ref target="https://en.wikipedia.org/wiki/Rishiraj_Singh">ഋഷിരാജ്സിംഗി</ref> ന്റെ
+പ്രശ്നത്തിൽ ഡി. ജി. പി.-യെ വിളിച്ചുവരുത്തി ശാസിച്ചപ്പോൾ മാത്രമാണു് പഴയ പ്രഹരശേഷിയുടെ മിന്നലാട്ടം
+കണ്ടതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/P_k_sreemathi.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. ശ്രീമതി</figDesc>
+          </figure>
+          <p> മുഖ്യനെയും ഘടകകക്ഷി നേതാക്കളെയും ആസാക്കിക്കൊണ്ടു് എ. ഡി. ബി. കരാർ ഒപ്പിടാൻ പിണറായി
+പക്ഷത്തിനു് സാധിച്ചു. പണ്ടേ വേണ്ടേന്നുവെച്ച സൈലന്റ് വാലി പദ്ധതി, പാത്രക്കടവായി പുനർനാമകരണം
+ചെയ്തു് നടപ്പാക്കാൻ മന്ത്രിസഭ ഭരണാനുമതി നൽകിയപ്പോൾ, എൿസ്പ്രസ് വേ, തെക്കു-വടക്കു്
+പാതയെന്നപേരിൽ യാഥാർഥ്യമാക്കുമെന്നു് പൊതുമരാമത്തു് മന്ത്രി പ്രഖ്യാപിച്ചപ്പോൾ വി. എസ്.
+അപ്രസൿതനായി എന്നു് നിരീക്ഷകർ വിധികൽപിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Elamaram_Kareem.png" rendition="gra"/>
+            <figDesc style="thumb">എളമരം കരീം</figDesc>
+          </figure>
+          <p> പന്തിന്റെ നിയന്ത്രണവും പാർട്ടിയുടെ പിന്തുണയുമുണ്ടായിട്ടും പിണറായി പക്ഷ മന്ത്രിമാർക്കു് സ്കോർ
+ചെയ്യാൻ കഴിഞ്ഞില്ല. അവരുടെ അടികളത്രയും പോസ്റ്റിലോ ക്രോസ്ബാറിലോ തട്ടി മടങ്ങി, അല്ലെങ്കിൽ
+പുറത്തുപോയി. മാധ്യമങ്ങളുടെ വിമർശനവും കോടതിയുടെ പ്രഹരവും ഏറെ ഏറ്റു വാങ്ങേണ്ടിവന്നതും പിണറായി
+പക്ഷക്കാർക്കുതന്നെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ma_Baby.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എ. ബേബി</figDesc>
+          </figure>
+          <p> സ്വാശ്രയ വിദ്യാഭ്യാസ നിയമത്തിലൂടെ <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref>
+
+കണ്ണഞ്ചിപ്പിക്കുന്ന ഗോൾ നേടിയതാണു്. ആഹ്ലാദാരവങ്ങൾ ഒടുങ്ങും മുമ്പു് കോടതി ഓഫ്സൈഡാണെന്നു്
+വിധിച്ചു. <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">എ. കെ.
+ബാലനെ</ref> ക്രിമിനൽ കേസിൽ ശിക്ഷിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി
+മുഹമ്മദ്കുട്ടി</ref> കോടതിയലക്ഷ്യത്തിൽപ്പെട്ടു് ചക്രം ചവിട്ടി. പരിയാരം ഭരണസമിതി പിരിച്ചുവിട്ട
+സുധാകരനും കിട്ടി കനത്ത പ്രഹരം. നീതിപീഠത്തിനും മാധ്യമങ്ങൾക്കുമെതിരെ ബാലിശമായ പരാമർശങ്ങൾ
+നടത്തി കുട്ടിസഖാക്കൾ സ്വയം പരിഹാസ്യരായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_P_Jayarajan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. പി. ജയരാജൻ</figDesc>
+          </figure>
+          <p> ലാവ്ലിൻ കേസിൽ പിണറായി സെൽഫ് ഗോൾ വഴങ്ങി. മുൻ സർക്കാർ അന്വേഷണം സി. ബി. ഐ.-ക്കു്
+വിട്ടു് കൃതാർഥരായിരുന്നു. കൃത്യാന്തര ബാഹുല്യത്തിനിടക്കു് ലാവ്ലിൻ അന്വേഷിക്കാൻ നിവൃത്തിയില്ല എന്നു്
+സി. ബി. ഐ. പറഞ്ഞതും വിജിലൻസ് അന്വേഷണം മതിയെന്നു് അഡ്വക്കേറ്റ് ജനറൽ ബോധിപ്പിച്ചു. ഫൗൾ
+എന്നാക്രോശിച്ചുകൊണ്ടു് പ്രതിപക്ഷവും പൊതുതാൽപര്യ വ്യവഹാരികളും ചാടിവീണു. ദൽഹിയിൽനിന്നു്
+മണികെട്ടിയ വക്കീലന്മാരെ കൊണ്ടുവന്നിട്ടും ഫലമുണ്ടായില്ല—സി. ബി. ഐ. തന്നെ അന്വേഷിക്കണമെന്നു്
+ഹൈക്കോടതി ശഠിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Veliyam_Bhargavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെളിയം ഭാർഗവൻ</figDesc>
+          </figure>
+          <p> പിണറായിപക്ഷത്തെ മൂന്നു് പ്രമുഖ മന്ത്രിമാർ—<ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/P.K._Sreemathi">ശ്രീമതി</ref>, <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">ബാലൻ</ref>—പരമ
+പരാജയങ്ങളായി. കോടിയേരിയുടെ ഭരണത്തിൻ കീഴിൽ കസ്റ്റഡി മരണങ്ങൾ പെരുകി, ക്രമസമധാനനില
+മുമ്പത്തേതിനെക്കാൾ വഷളായി, നിയമപാലകരുടെ അഴിമതി കൂടി. മൻമോഹൻ ബംഗ്ലാവിന്റെ മോടികൂട്ടിയതും
+കാടാമ്പുഴയിൽ പൂമൂടൽ നടത്തിയതും മകനെ പിടികിട്ടാപ്പുള്ളിയായി പ്രഖ്യാപിച്ചതുമൊക്കെ ക്ഷീണമായി. ചികുൻ
+ഗുനിയയും, എസ്. എ. ടി. ആശുപത്രിയിലെ ശിശുമരണങ്ങളും <ref target="https://ml.wikipedia.org/wiki/P.K._Sreemathi">ശ്രീമതി ടീച്ചറു</ref> ടെ
+യശോധാവള ്യം കെടുത്തി. പാത്രക്കടവിനു് വേണ്ടിയുള്ള കടുംപിടിത്തവും പെരിയാർ മലിനീകരണവും <ref target="https://ml.wikipedia.org/wiki/A._K._Balan">ബാലനെ</ref> ബാധിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pkg.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗുരുദാസൻ</figDesc>
+          </figure>
+          <p> കളി അങ്ങനെ വിരസമായ സമനിലയിലേക്കു് വഴുതി നീങ്ങവേ, മന്ത്രിസഭയുടെ ഒന്നാം
+വാർഷികാഘോഷത്തിനു് ദിവസങ്ങൾ മാത്രം ശേഷിക്കുമ്പോൾ അതാ ആദ്യ ഗോൾ! മൈതാനമധ്യത്തുനിന്നു്
+ഒറ്റക്കു മുന്നേറി മുഖ്യമന്ത്രി സ്മാർട്ട് സിറ്റി കരാർ ഉറപ്പിച്ചു. ടീകോമിന്റെ ശാഠ്യമൊന്നും പുന്നപ്ര സമരനായകനോടു്
+വിലപ്പോയില്ല. ഇൻഫോ പാർക്ക് വിട്ടുകൊടുക്കില്ല, സ്ഥലം തീറുകൊടുക്കേണ്ട, വില വളരെ വർദ്ധിച്ചു,
+തൊഴിലവസരങ്ങൾ കുത്തനെ കൂടി. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> ക്കു് മുഖം
+നഷ്ടപ്പെട്ടു. ഒറ്റദിവസംകൊണ്ടു് വികസനവിരുദ്ധൻ വികസന നായകനായി, മനോരമ പോലും എണീറ്റു നിന്നു്
+കൈയടിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Chandran_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ചന്ദ്രൻപിള്ള</figDesc>
+          </figure>
+          <p> ഹർഷാരവങ്ങൾ അടങ്ങുംമുമ്പു് അതാ വരുന്നു, രണ്ടാമത്തെ ഗോൾ. മൂന്നാറിലെ കൈയേറ്റക്കാരെ
+ഒഴിപ്പിക്കാമോ എന്നു് വെല്ലുവിളിക്കുമ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref> ഇത്രയും കരുതിയില്ല. തിരുവനന്തപുരത്തുനിന്നു് മുഖ്യന്റെ ഫാളിംഗ് ലീഫ്കിക്ക്!
+ഭരണപക്ഷത്തെയും പ്രതിപക്ഷത്തെയും ഒരുപോലെ അമ്പരപ്പിച്ചുകൊണ്ടു് മൂന്നംഗ ദൗത്യസംഘം മൂന്നാറിൽ
+അദ്ഭുതം സൃഷ്ടിച്ചു. പ്രഖ്യാപനമല്ല, പ്രവൃത്തിയും വശമെന്നു് അച്യുതാനന്ദൻ തെളിയിച്ചു. സി. പി. എം.
+സെക്രട്ടറിയേറ്റിന്റെ അന്ത്യശാസനം കോഴി കോട്ടുവായിട്ടപോലായി. <ref target="https://ml.wikipedia.org/wiki/Veliyam_Bharghavan">വെളിയം
+ഭാർഗവനും</ref> പ്രൊഫ. ചന്ദ്രചൂഡനും ഊരിയ വാൾ ഉറയിലിട്ടു് രംഗത്തുനിന്നു് നിഷ്ക്രമിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ramesh_Chennithala.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമേശ് ചെന്നിത്തല</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ. ജി.</ref>-യേക്കാൾ
+വലിയ ജനനായകൻ, <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോനേക്കാൾ</ref>
+മികച്ച ഭരണാധികാരിയെന്നു് മാധ്യമങ്ങൾ വിശേഷിപ്പിച്ചതു് സ്വാഭാവികം. ഇന്ത്യാ ടുഡേ, <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+യോടാണു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനെ</ref>
+താരതമ്യം ചെയ്തതു്; മൂന്നാർ ഒഴിപ്പിക്കലിനെ ഉപ്പുസത്യാഗ്രഹത്തോടും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/M_V_Govindan_Master.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വി. ഗോവിന്ദൻ</figDesc>
+          </figure>
+          <p> വി. എസിന്റെ ജനപ്രീതി വാനോളമുയർന്നു. ഇടതുഭരണത്തിന്റെ ഇതഃപര്യന്തമുള്ള വീഴ്ചകൾ, പോരായ്മകൾ,
+പോക്കണംകേടുകളൊക്കെ ജനം വിസ്മരിച്ചു. മന്ത്രിസഭയുടെ ഒന്നാം വാർഷികം പ്രമാണിച്ചു് ടി. വി. ചാനലുകൾ
+സംഘടിപ്പിച്ച അഭിപ്രായ വോട്ടെടുപ്പുകൾ ഇക്കാര്യം വ്യക്തമാക്കി. ഭരണം തൃപ്തികരമെന്നു് ബഹുഭൂരിപക്ഷവും
+അഭിപ്രായപ്പെട്ടു. ഏറ്റവും പ്രധാന നേട്ടം മൂന്നാർ ഒഴിപ്പിക്കൽ, പിന്നെ സ്മാർട്ട് സിറ്റി. മനോരമ ന്യൂസിന്റെ
+വോട്ടെടുപ്പിൽ മുഖ്യമന്ത്രിക്കു് 70 ശതമാനം വോട്ടു കിട്ടിയപ്പോൾ തൊട്ടടുത്തു വന്ന <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref> ക്കു് അഞ്ചും
+കോടിയേരിക്കു് നാലും ശതമാനം വോട്ടാണു് കിട്ടിയതു്! ഇന്ത്യാവിഷനിൽ വി. എസിനു് 58 ശതമാനം കിട്ടിയപ്പോൾ
+<ref target="https://ml.wikipedia.org/wiki/Thomas_Isaac">ഐസക്</ref>, <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">ബേബി</ref>, <ref target="https://ml.wikipedia.org/wiki/P.K._Sreemathi">ശ്രീമതി</ref> മാർക്കു്
+ഒന്നുമുതൽ ഒന്നേകാൽ ശതമാനം വോട്ടാണു് കിട്ടിയതു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Akg.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ജി.</figDesc>
+          </figure>
+          <p> ഇന്നാട്ടിൽ ഒരു എസ്. എം. എസ്. സിൻഡിക്കേറ്റ് പ്രവർത്തിക്കുന്നുണ്ടെന്നു് ദേശാഭിമാനി സംശയിച്ചതിൽ
+തെറ്റില്ല. <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+
+വിജയൻ</ref> കോപാകുലനായതിലും അദ്ഭുതത്തിനവകാശമില്ല. മെയ് 19-നു് <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാരു</ref> ടെ
+ചരമവാർഷികാചരണത്തിനിടയിൽ സഖാവു് കാര്യങ്ങൾ വെട്ടിത്തുറന്നു് പറഞ്ഞു: മൂന്നാർ ഒഴിപ്പിച്ചതു്
+പാർട്ടിയാണു്, ഏതെങ്കിലും വ്യക്തിക്കു് ക്രെഡിറ്റ് അവകാശപ്പെടാൻ സാധ്യമല്ല. മറിച്ചു് ധരിക്കുന്ന സുന്ദര
+വിഡ്ഢികൾക്കു് നല്ല നമസ്കാരം. മിനിറ്റുകൾക്കകം തിരുവനന്തപുരത്തു് മുഖ്യൻ മറുപടി പറഞ്ഞു: ഞാൻ ക്രെഡിറ്റ്
+അവകാശപ്പെട്ടിട്ടില്ല. ദൗത്യസംഘത്തെപ്പറ്റി പരാതി പറഞ്ഞവരാണിപ്പോൾ വിജയം അവകാശപ്പെടുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/C_achuthamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതമേനോൻ</figDesc>
+          </figure>
+          <p> മുഖ്യമന്ത്രി പറഞ്ഞു് നാവെടുക്കുംമുമ്പു് മറ്റൊരദ്ഭുതം കൂടി നടന്നു. പ്രമുഖ വിപ്ലവ നേതാവിന്റെ ബിനാമിയുടെ
+പേരിലുള്ള റിസോർട്ട് ദൗത്യസംഘം തവിടുപൊടിയാക്കി. ഇതഃപര്യന്തം മൂന്നാർ ദൗത്യത്തെ അവഗണിച്ച
+അബ്കാരി ചാനൽ ഞെട്ടിയുണർന്നു് ഫൗൾ എന്നാക്രോശിച്ചു. ദീപിക ഒഴിപ്പിക്കലിലെ വിവേചനത്തിനെതിരായി
+ഒന്നാംപേജിൽ മുഖപ്രസംഗമെഴുതി. അടുത്ത ഘട്ടത്തിൽ മൂന്നാറിനെ തൂർക്ക്മാൻ ഗേറ്റിനോടും മുഖ്യമന്ത്രിയെ
+<ref target="https://ml.wikipedia.org/wiki/Sanjay_Gandhi">സഞ്ജയ്ഗാന്ധി</ref>
+യോടും ഉപമിച്ചു!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> മാധ്യമ സിൻഡിക്കേറ്റിനെപ്പറ്റി പരാതിപറഞ്ഞവർതന്നെ അതിനെ ഉപയോഗപ്പെടുത്തുകയാണെന്നു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+പറഞ്ഞു. മുഖ്യമന്ത്രി സാമാന്യമര്യാദ പാലിക്കണമെന്നു് <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി</ref>. മര്യാദ
+രണ്ടുപേർക്കും വേണമെന്നു് വീണ്ടും
+വി. എസ്. പോളിറ്റ് ബ്യൂറോ ഇതൊക്കെ സസൂക്ഷ്മം വീക്ഷിക്കുന്നുണ്ടു്; അടുത്ത യോഗത്തിൽ ചർച്ചചെയ്യുമെന്നു് <ref target="https://ml.wikipedia.org/wiki/S._Ramachandran_Pillai_(Member,_Seventh_Kerala_Assembly)">എസ്.
+രാമചന്ദ്രൻപിള്ള</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thomas_Issac.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഐസക്</figDesc>
+          </figure>
+          <p> ഇരുതലമൂർച്ചയുള്ള കായംകുളം വാളാണു് രാമചന്ദ്രൻപിള്ള. പാർട്ടിസംഘടനയെ മൊത്തം വരുതിയിൽ
+നിറുത്തുന്ന വിജയനോടും അതിഗംഭീര ജനപിന്തുണയുള്ള വി. എസിനോടും എസ്. ആർ. പി.-ക്കുള്ള വികാരം
+എന്തെന്നു് മാന്യവായനക്കാർ ഊഹിച്ചുകൊൾക. പോളിറ്റ് ബ്യൂറോ അച്ചടക്ക ഖഡ്ഗം വീശി. വി. എസിനും
+വിജയനും ചുവപ്പുകാർഡ്. ഇനിയൊരുത്തരവുണ്ടാകുംവരെ പോളിറ്റ് ബ്യൂറോയിൽ കയറാനാവില്ല. ശേഷം
+കാര്യങ്ങൾ ജൂൺ 24-നു് കേന്ദ്ര കമ്മിറ്റി ആലോചിച്ചു് തീരുമാനിക്കും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sanjay_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">സഞ്ജയ്ഗാന്ധി</figDesc>
+          </figure>
+          <p> മുഖ്യമന്ത്രിയായിരിക്കാൻ വി. എസിനോ പാർട്ടി സെക്രട്ടറിയായി തുടരാൻ വിജയനോ തൽക്കാലം
+വിലക്കൊന്നുമില്ല. പരസ്യ വിഴുപ്പലക്കൽ പാടില്ലെന്നേയുള്ളു, രഹസ്യമായി ഗ്രൂപ്പ് പ്രവർത്തനം തുടരാൻ തടസ്സമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ramachandran_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. രാമചന്ദ്രൻപിള്ള</figDesc>
+          </figure>
+          <p> കേന്ദ്ര കമ്മിറ്റി ഇനി എന്തുചെയ്യും? വിഭാഗീയതയുടെ പേരുപറഞ്ഞു് സംസ്ഥാന കമ്മിറ്റി
+പിരിച്ചുവിടുമോ?അങ്ങനെയെങ്കിൽ രാമചന്ദ്രൻപിള്ളയുടെ നേതൃത്വത്തിൽ അഡ്ഹോക്ക് കമ്മിറ്റി വരും.
+സെക്രട്ടറിസ്ഥാനത്തുനിന്നു് നിഷ്കാസിതനായാൽ വിജയന്റെ കട്ടയും പടവും മടങ്ങും. <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">ബേബി</ref> യും <ref target="https://ml.wikipedia.org/wiki/Thomas_Isaac">ഐസക്കും</ref>
+എസ്. ആർ. പി.-യുടെ മച്ചമ്പിമാർ. കറതീർന്ന കണ്ണൂർക്കാരൊഴികെ ഒരാളെയും നമ്പാനൊക്കില്ല.
+എസ്. ആർ. പി.-യുടെ കണ്ണു് പണ്ടേ മുഖ്യമന്ത്രിക്കസേരയിലാണു്. ബേബിക്കു് തൽക്കാലം പാർട്ടി
+സെക്രട്ടറിയായാൽ മതി.
+</p>
+          <p>പന്തു് ഇപ്പോൾ മൈതാനമധ്യത്തിലാണു്. വലിയ ജനപിന്തുണയുള്ളതുകൊണ്ടു് മുഖ്യമന്ത്രിയെ മാറ്റുക
+അസാധ്യം. ചന്ദ്രൻപിള്ള ഇനിയെന്തു് തന്ത്രമാണു് ആവിഷ്കരിക്കുക, വി. എസ്. ഏതു് സമരമുഖമാണു് തുറക്കുക,
+അച്ചടക്ക നടപടിക്കെതിരെ കണ്ണൂർ ലോബി എന്തു പ്രതിരോധമാണു് ഉയർത്തുക എന്നൊക്കെയുള്ള കാര്യങ്ങൾ
+കാത്തിരുന്നു കാണാം. ഫൈനൽ വിസിലിനു് ഇനിയും ഏറെ സമയം ബാക്കിയുണ്ടു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ഒടുവിൽ കിട്ടിയതു്</head>
+          <p style="noindent">അച്യുതാനന്ദനെ സസ്പെന്റ് ചെയ്ത അതേ സായാഹ്നത്തിൽ ഗെറ്റഫെക്കെതിരെ
+ബാഴ്സലോണയുടെ വിജയഗോളടിച്ച റൊണാൾഡീന്യോയെ റഫറി ചുവപ്പുകാർഡു കാണിച്ചു പുറത്താക്കി.
+സ്പാനിഷ് ലീഗിലെ നിർണായകമായ അടുത്ത രണ്ടു മൽസരങ്ങൾ സൈഡ് ബെഞ്ചിലിരുന്നു് കാണേണ്ടിവരും.
+കളി തുടരുകയാണു്…
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.3"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Panth Maithanamadhyaththilanu
+(ml: പന്തു് മൈതാനമധ്യത്തിലാണു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Panth
+Maithanamadhyaththilanu, കെ. രാജേശ്വരി, പന്തു് മൈതാനമധ്യത്തിലാണു്, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_The_Plum__National_Gallery_of_Art.jpg">The Plum,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:%C3%89douard_Manet">Édouard
+Manet</ref>  (1832–1883). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-panth.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-panth.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

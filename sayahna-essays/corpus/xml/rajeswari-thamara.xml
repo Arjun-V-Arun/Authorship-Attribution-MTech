@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വയലിലെ താമര</title>
+          <title xml:lang="en" type="main">Vayalile Thamara</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വയലിലെ താമര</title>
+              <title xml:lang="en" type="main">Vayalile Thamara</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Vayalile Thamara</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>വയലിലെ താമര</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Magic_Apple_Tree.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:The_Magic_Apple_Tree.jpg">The
+Magic Apple Tree,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Samuel_Palmer">Samuel Palmer</ref>
+ (1805–1881). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വയലിലെ താമര</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വയലിലെ താമര</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എസ്. അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p style="noindent"> 2005 ജൂൺ 17 വെള്ളിയാഴ്ച രാവിലെ ഒമ്പതു മണി സമയം. പാലക്കാട് ജില്ലയിൽ
+കരിമ്പുഴ പഞ്ചായത്തിൽപ്പെട്ട കോട്ടപ്പുറത്തു് അമ്പതോളം സഖാക്കൾ പ്രകടനമായെത്തി
+കവുങ്ങിൻതോപ്പുകളിലേക്കു് ഇരച്ചുകയറി. ഇങ്കിലാബ് വിളികളാൽ സ്ഥലം മുഖരിതമായി. <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദനും</ref> മാർക്സിസ്റ്റ് പാർട്ടിക്കും ജയ്വിളിച്ചുകൊണ്ടു് അവർ കവുങ്ങിൻതൈകൾ വെട്ടാൻ
+തുടങ്ങി…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Oommen_Chandy.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഉമ്മൻചാണ്ടി</figDesc>
+          </figure>
+          <p> ബാലൻ നായർ, കോയ, സ്കന്ദൻ, നരേന്ദ്രൻ, കുര്യൻ, മുരളി തുടങ്ങിയ പതിനഞ്ചോളം പേരുടെ
+കവുങ്ങിൻതോപ്പുകൾ കൊടുവാളിനും കൈമഴുവിനും ഇരയായി. കർഷകരിൽ ചിലർ വിപ്ലവകാരികളുടെ
+കാലുപിടിച്ചു കരഞ്ഞു; കഞ്ഞികുടി മുട്ടിക്കല്ലേ എന്നപേക്ഷിച്ചു. എന്തുഫലം? വിദ്യാർത്ഥികളുടെ മുന്നിലിട്ടു്
+അധ്യാപകനെ വെട്ടിക്കൊല്ലുന്നവരുണ്ടോ കൃഷിക്കാരുടെ കരച്ചിൽ കണ്ടാൽ കുലുങ്ങുന്നു? അവർ മുദ്രാവാക്യം
+വിളിച്ചുകൊണ്ടുതന്നെ തുടർന്നു വെട്ടി: രക്തസാക്ഷികൾ സിന്ദാബാദ്! രക്തപതാക സിന്ദാബാദ്!
+</p>
+          <p>12 മണിയായപ്പോഴേക്കും ജോലി പൂർത്തിയായി. 25 ഏക്കർ സ്ഥലം നിരപ്പായി, 4000-ൽ പരം
+കവുങ്ങുകൾ—ഒരു വർഷം മുതൽ അഞ്ചുവർഷം വരെ പ്രായമായവ—പരലോകപ്രാപ്തരായി. ധീര സഖാക്കൾ
+മുദ്രാവാക്യം വിളിച്ചുകൊണ്ടുതന്നെ പിരിഞ്ഞുപോയി—നെൽപ്പാടത്തു് കവുങ്ങുകൃഷി നടത്താനൊരുങ്ങിയ
+വർഗശത്രുക്കളെ നിലംപരിശാക്കിയ കൃതാർത്ഥതയോടെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_Kanaran.png" rendition="gra"/>
+            <figDesc style="thumb">എ. കണാരൻ</figDesc>
+          </figure>
+          <p> പറയുമ്പോൾ എല്ലാം പറയണമല്ലോ? വെട്ടിനിരത്തിയതത്രയും വിരുദ്ധന്മാരുടെയും വർഗശത്രുക്കളുടെയും
+കവുങ്ങുകൾ മാത്രം. പാർട്ടി സഖാക്കളുടെ കവുങ്ങുകൾ നെൽവയലുകളിൽ തലയുയർത്തി നിന്നു. കരിമ്പുഴ
+പഞ്ചായത്ത് പ്രസിഡന്റടക്കം പല സി. പി. എം. നേതാക്കളും വയലുകൾ കവുങ്ങിൻതോട്ടമാക്കിയവരാകുന്നു.
+അവയിൽനിന്നൊന്നും ഒരാളും കൂമ്പാളപോലും അടർത്തിയില്ല. രക്തപതാക തണലിൽ വിരിയും വർഗവികാരം
+സിന്ദാബാദ് !
+</p>
+          <p>ഭൂനിയോഗ ഉത്തരവു് പ്രകാരം നെൽവയലുകൾ തരിശിടുന്നതും നാണ്യവിളകൾ കൃഷിചെയ്യുന്നതും
+കുറ്റകരമാണു്. നിയമലംഘനം തടയാനും കുറ്റവാളികളെ പാഠംപഠിപ്പിക്കാനും തുനിഞ്ഞിറങ്ങിയവരെ
+അഭിനന്ദിക്കുകയല്ലേ വേണ്ടതു്? എന്നാൽ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+പൊലീസ് ധീരദേശാഭിമാനികൾക്കെതിരെ കേസ് റജിസ്റ്റർ ചെയ്തു. അറസ്റ്റുചെയ്തു് കോടതിയിൽ ഹാജരാക്കി.
+നീതിപീഠം കനിഞ്ഞു് ജാമ്യം അനുവദിച്ചു. കേസ് ഇപ്പോഴും നടക്കുന്നു.
+</p>
+          <p>കവുങ്ങുവെട്ടുസമരത്തിന്റെ ആവേശകരമായ ദൃശ്യങ്ങൾ അന്നുതന്നെ ടെലിവിഷൻ ചാനലുകൾ
+ജനങ്ങളിലെത്തിച്ചു. പിറ്റേ ദിവസം പത്രങ്ങളായ പത്രങ്ങളൊക്കെ ഏറ്റുപിടിച്ചു. മുതലക്കണ്ണീരുമായി
+കോൺഗ്രസും ബി. ജെ. പി.-യും പാഞ്ഞെത്തി. വർഗ വഞ്ചകരായ വലതു കമ്യൂണിസ്റ്റുകാരും അവരോടൊപ്പം കൂടി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_UNNI.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ഉണ്ണി</figDesc>
+          </figure>
+          <p> പാർട്ടി ജില്ലാ സെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/P._Unni">പി.
+ഉണ്ണി</ref> യും കർഷകത്തൊഴിലാളി യൂനിയൻ സെക്രട്ടറി ആർ. ചിന്നക്കുട്ടനും വരെ (രണ്ടാളും പിണറായി
+ഗ്രൂപ്പുകാർ) കവുങ്ങുവെട്ടുകാരെ കൈയൊഴിഞ്ഞുകളഞ്ഞു! നേതൃത്വത്തിന്റെ അറിവോടെയല്ല സമരമെന്നു് ഉണ്ണി.
+പഞ്ചായത്ത് തെരഞ്ഞെടുപ്പു് ആസന്നമായിരുന്ന വേളയിൽ നേതാക്കൾ അടവുനയം പയറ്റിയതാകാം. പക്ഷേ,
+സമരക്കാരെ ആ വാക്കുകൾ നൊമ്പരപ്പെടുത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Veliyam_Bhargavan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വെളിയം ഭാർഗവൻ</figDesc>
+          </figure>
+          <p> സെപ്റ്റംബറിൽ പഞ്ചായത്തു് തെരഞ്ഞെടുപ്പു് നടന്നു. പാലക്കാട് ജില്ലയിലെമ്പാടും ചെങ്കൊടി പാറി. ജില്ലാ
+പഞ്ചായത്തിലെ 29 ഡിവിഷനുകളിൽ 28-ഉം ജയിച്ചു. 13-ൽ 12 ബ്ലോക്ക് പഞ്ചായത്തുകളും നേടി. കരിമ്പുഴ പക്ഷേ,
+മുഖം തിരിച്ചുനിന്നു. ഇടതുപക്ഷത്തിനു് ഭരണം നഷ്ടമായി. 17 അംഗ പഞ്ചായത്തിൽ ലീഗിനു് ആറും കോൺഗ്രസിനു്
+നാലും മെമ്പർമാരുണ്ടായി. സി. പി. എമ്മിനു് അഞ്ചും സി. പി. ഐ.-ക്കു് രണ്ടും സ്ഥാനങ്ങളേ ജയിക്കാനായുള്ളു.
+ഡി. ഐ. സി.-യോ ബി. ജെ. പി.-യോ നിലംതൊട്ടില്ല. യു. ഡി. എഫിലെ പ്രേമ രാധാകൃഷ്ണൻ പ്രസിഡന്റായി
+തെരഞ്ഞെടുക്കപ്പെട്ടു.
+</p>
+          <p>ഒരു പതിറ്റാണ്ടു മുമ്പു് ആലപ്പുഴ ജില്ലയിലാണു് വാഴവെട്ടുസമരത്തിന്റെ ആവിർഭാവം. വയലുകളിൽ വാഴ,
+തെങ്ങു്, മരച്ചീനി, കൈതച്ചക്ക എന്നിവ കൃഷിചെയ്യുന്നതിനെതിരെ മാർക്സിസ്റ്റ് നേതൃത്വത്തിലുള്ള
+കെ. എസ്. കെ. ടി. യു. രംഗത്തുവന്നു. നെൽക്കൃഷി ഇല്ലാത്തതുകൊണ്ടു് കർഷകത്തൊഴിലാളികൾക്കു്
+തൊഴിലില്ലാതാകുന്നു. വാഴയും തെങ്ങും വെട്ടിനിരത്തിക്കൊണ്ടു് സഖാക്കൾ പ്രത്യക്ഷ സമരം നടത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CK_CHANDRAPPAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കെ. ചന്ദ്രപ്പൻ</figDesc>
+          </figure>
+          <p> കടം കയറി മുടിഞ്ഞ കർഷകൻ തെങ്ങോ വാഴയോ നടരുതു്, നെൽക്കൃഷിതന്നെ നടത്തണം എന്നു
+ശഠിക്കുന്നതിന്റെ ലോജിക്ക് സി. പി. ഐ.-ക്കാർക്കു് പിടികിട്ടിയില്ല. വാഴവെട്ടുസമരത്തെ മനോരമയേക്കാൾ
+രൂക്ഷമായി വിമർശിച്ചതു് കിസാൻ സഭാ നേതാവു് <ref target="https://ml.wikipedia.org/wiki/C._K._Chandrappan">സി. കെ.
+ചന്ദ്രപ്പൻ</ref>. ഏറ്റുപിടിച്ചതു് <ref target="https://ml.wikipedia.org/wiki/Veliyam_Bharghavan">വെളിയം
+ഭാർഗവൻ</ref>. വലതന്മാർക്കു് ചുട്ട മറുപടി നൽകിയവർ <ref target="https://ml.wikipedia.org/wiki/A._Kanaran">എ. കണാരനും</ref> <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദനും</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/C_achuthamenon.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതമേനോൻ</figDesc>
+          </figure>
+          <p> തൊഴിലവസരം നഷ്ടപ്പെടുത്തുന്ന യാതൊരു പരിഷ്കാരത്തെയും സി. പി. എം. പിന്തുണക്കുകയില്ല.
+എഴുപതുകളുടെ തുടക്കത്തിൽ ട്രാക്ടറിനും എൺപതുകളിൽ കമ്പ്യൂട്ടറിനുമെതിരെ നടത്തിയ ഐതിഹാസിക
+സമരങ്ങൾ ഉത്തമ ദൃഷ്ടാന്തം. ട്രാക്ടറും പവർടില്ലറും അവതരിപ്പിച്ചതിനു് മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/C._Achutha_Menon">അച്യുതമേനോനും</ref>
+വ്യവസായമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/T.V._Thomas">ടി. വി.
+തോമസും</ref> അഗ്രോ മെഷിനറി കോർപറേഷൻ ചെയർമാൻ <ref target="https://ml.wikipedia.org/wiki/E.P._Gopalan">ഇ. പി. ഗോപാലനും</ref>
+എത്ര പഴികേട്ടു? അഗ്രോ ഉഗ്രോ ഗോപാലാ, നിന്നെപ്പിന്നെക്കണ്ടോളാം എന്നായിരുന്നു അക്കാലത്തെ ഒരു
+ജനപ്രിയ മുദ്രാവാക്യം.
+</p>
+          <p>തൊഴിൽനഷ്ടത്തെക്കുറിച്ചല്ലാതെ പരിസ്ഥിതി പ്രശ്നത്തെക്കുറിച്ചു് അന്നൊന്നും സഖാക്കൾക്കു് ചിന്തയേ
+ഉണ്ടായിരുന്നില്ല. സിംഹവാലനെ സംരക്ഷിക്കാൻ ജലവൈദ്യുത പദ്ധതി ഉപേക്ഷിക്കുന്നതിനെ നിശിതമായി
+വിമർശിച്ചവർ, സൈലന്റ് വാലിയില്ലെങ്കിൽ പൂയംകുട്ടി നടപ്പാക്കിയേ പറ്റൂ എന്നു് ശഠിക്കുന്നവർ. ശാസ്ത്ര സാഹിത്യ
+പരിഷത്തിന്റെ എക്കാലത്തെയും ഏറ്റവും കടുത്ത വിമർശകൻ സഖാവു് <ref target="https://ml.wikipedia.org/wiki/E._Balanandan">ഇ. ബാലാനന്ദനാ</ref> ണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. വി. തോമസ്</figDesc>
+          </figure>
+          <p> മതികെട്ടാൻചോല മാണി ഗ്രൂപ്പുകാർ കൈയേറിയ പ്രശ്നം ഏറ്റെടുത്തുകൊണ്ടാണു് വി. എസിന്റെ
+രംഗപ്രവേശം. പെരിയാറും മലമ്പുഴ ജലസംഭരണിയും വിൽക്കാനുള്ള നീക്കത്തെയും പ്രതിപക്ഷ നേതാവു്
+കഠിനമായി എതിർത്തു. പിന്നീടങ്ങോട്ടു് ജൈത്രയാത്രയായിരുന്നു—വാഗമൺ, പൂയംകുട്ടി, പഞ്ചാരക്കൊല്ലി,
+പ്ലാച്ചിമട, മറയൂർ…പരിസ്ഥിതിപ്രേമികളുടെ വീരനായകൻ <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദൻ</ref>. വയലുകൾ നികത്തുന്നതുകൊണ്ടാണു് കിണറുകൾ വറ്റുന്നതും വരൾച്ചയുണ്ടാകുന്നതും.
+അങ്ങനെ നോക്കുമ്പോൾ പഴയ വാഴവെട്ടു സമരം പരിസ്ഥിതിയെ സംരക്ഷിക്കാൻ, വരൾച്ച തടയാനുള്ള ധീര
+ശ്രമം. ജലസംരക്ഷണത്തിനാവശ്യം നെൽവയലുകൾ, മനോരമക്കുഴികളല്ല.
+</p>
+          <p>മലമ്പുഴയിൽ വി. എസിനെ തോൽപിക്കാൻ വനം-കോള-കരിമണൽ-റിയൽ എസ്റ്റേറ്റ് ലോബി
+പണമൊഴുക്കി. സ്വന്തം പാർട്ടിയിലെ ചില യൂദാസുകളും അവർക്കൊപ്പം ചേർന്നു. സകല കുന്തന്ത്രങ്ങളെയും
+അതിജീവിച്ചു് അച്യുതാനന്ദൻ ജയിച്ചുകയറിയപ്പോൾ, മുഖ്യമന്ത്രിയായപ്പോൾ പരിസ്ഥിതിപ്രേമികൾ ആശ്വസിച്ചു,
+നെൽവയലുകൾ കോരിത്തരിച്ചു—ഇതാ രക്ഷകൻ!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/EP_Gopalan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. പി. ഗോപാലൻ</figDesc>
+          </figure>
+          <p> ഭൂവിനിയോഗ ഉത്തരവനുസരിച്ചു് നെൽവയലുകളുടെ സംരക്ഷകർ റവന്യൂ വകുപ്പാണു്. റവന്യൂ മന്ത്രിയുടെ
+നിലപാടു് വലിയൊരളവുവരെ വയൽ സംരക്ഷണത്തെ ബാധിക്കും. അച്യുതാനന്ദൻ
+പ്രതിപക്ഷനേതാവായിരുന്നപ്പോൾ കമ്യൂണിസ്റ്റ് നിയമസഭാ കക്ഷി നേതാവായിരുന്നയാളാണു് പുതിയ റവന്യൂ
+മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/K._P._Rajendran">കെ. പി.
+രാജേന്ദ്രൻ</ref>. മറ്റു സി. പി. ഐ.-ക്കാരെപ്പോലെയല്ല, വി. എസിനോടു് അഗാധമായ
+സ്നേഹാദരവുകളുള്ളയാളാണു്; പരിസ്ഥിതിപ്രശ്നത്തിൽ മുഖ്യമന്ത്രിയുടെ നിലപാടിനോടു് യോജിപ്പുമുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/PJ_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ജെ. ജോസഫ്</figDesc>
+          </figure>
+          <p> അങ്ങനെ കാര്യങ്ങൾ ജിൽജില്ലായി മുന്നോട്ടുനീങ്ങുമ്പോൾ അടുത്ത കഥാപാത്രം പ്രവേശിക്കുന്നു—ജനാബ്
+<ref target="https://ml.wikipedia.org/wiki/M.A._Yousuf_Ali">എം. എ.
+യൂസഫലി</ref>. തൃശൂർ ജില്ലയിലെ തളിക്കുളം സ്വദേശി, ദുബൈ കേന്ദ്രമാക്കി പ്രവർത്തിക്കുന്ന എം. കെ.
+ഗ്രൂപ്പിന്റെ അമരക്കാരൻ, ഇന്ത്യയിലും ഗൾഫിലും കെനിയയിലും ടാൻസാനിയയിലും സ്പെയിനിലും
+ഇന്തോനേഷ്യയിലും ഹോങ്കോംഗിലുമൊക്കെയായി പരന്നുകിടക്കുന്ന വമ്പൻ വ്യവസായ സാമ്രാജ്യത്തിനു്
+അധിപൻ. 120 മില്യൻ ദിർഹം ചെലവിട്ടു് ദുബൈയിൽ പണിതീർത്ത ലുലു ഹൈപ്പർ മാർക്കറ്റ് മാത്രം മതി
+യൂസഫലി സാഹിബിന്റെ വാണിജ്യവൈഭവം വെളിപ്പെടാൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_balanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. ബാലാനന്ദൻ</figDesc>
+          </figure>
+          <p> കേരളത്തിലെ സാമൂഹിക-സാംസ്കാരിക മണ്ഡലങ്ങളിൽ കനപ്പെട്ട സംഭാവനകൾ നൽകിയ ആളാണു്
+യൂസഫലി. കൊച്ചി അന്താരാഷ്ട്ര വിമാനത്താവളത്തിന്റെ മുഖ്യ ശിൽപികളിലൊരാൾ, കേന്ദ്ര വഖഫ് കൗൺസിൽ
+അംഗം, പെരിന്തൽമണ്ണ എം. ഇ. എസ്. മെഡിക്കൽ കോളേജ് ചെയർമാൻ, ദയാപരനും ധർമ്മിഷ്ഠനുമാണു്.
+അക്കാരണംകൊണ്ടുതന്നെ രാഷ്ട്രീയ നേതാക്കൾക്കും മതമേലധ്യക്ഷന്മാർക്കും പ്രിയങ്കരൻ. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരന്റെ</ref>
+ആത്മമിത്രം. ബി. ജെ. പി. ഭരിക്കുമ്പോഴാണു് യൂസഫലിയെ കേന്ദ്രസർക്കാർ വഖഫ് കൗൺസിലിലേക്കു്
+നാമനിർദ്ദേശം ചെയ്തതു്. പരിശുദ്ധ പത്രോസ് ശ്ലീഹയുടെ സിംഹാസനത്തിലിരുന്നരുളുന്ന യാക്കോബായ,
+സുറിയാനി സഭയുടെ പരമാധ്യക്ഷൻ, അന്ത്യോഖ്യയുടെയും കിഴക്കിന്റെയും പാത്രിയാർക്കീസ് നിതാന്തവന്ദ്യ
+മേറോൻ മോർ ഇഗ്നാത്തിയോസ് സക്കാ പ്രഥമൻ ബാവ കഴിഞ്ഞകൊല്ലം കേരളത്തിൽ വന്നപ്പോൾ യൂസഫലി
+സാഹിബിനെ സഭയുടെ കമാന്ററായി പ്രഖ്യാപിച്ചു. അന്ത്യോഖ്യയുടെ കമാന്ററാകുന്ന ആദ്യത്തെ നാലാം
+വേദക്കാരൻ ഇദ്ദേഹമാണെന്നു് പറയേണ്ടതില്ലല്ലോ? യാക്കോബായക്കാരേക്കാൾ ബുദ്ധിമാന്മാരാണു്
+കത്തോലിക്കരെന്നതു് സുവിദിതം. 1996-ൽ തന്നെ നസ്രാണി ദീപിക യൂസഫലിക്കു് അന്താരാഷ്ട്ര
+ബിസിനസുകാരനുള്ള അവാർഡ് കൊടുത്തു് ബഹുമാനിച്ചു. 2005-ാം ആണ്ടിൽ ഇന്ത്യാ ഗവൺമെന്റ് പ്രവാസി
+ഭാരതീയ സമ്മാനത്താലും സാഹിബിനെ ആദരിച്ചു. വൈകാതെ പത്മഭൂഷണവും കിട്ടിയേക്കാം.
+</p>
+          <p>പബ്ലിസിറ്റിയിൽ കമ്പമില്ലാത്തതാണോ പത്രക്കാർക്കു് കള്ളുവാങ്ങിക്കൊടുത്തതാണോ എന്നറിയില്ല,
+യൂസഫലി സാഹിബിന്റെ അപദാനങ്ങൾ അധികമങ്ങനെ പാടിക്കേട്ടിട്ടില്ല. നമ്മുടെ നാട്ടിൽ ചില മുന്തിയ
+അബ്കാരികളോളംപോലും ഇദ്ദേഹം അറിയപ്പടുന്നില്ല എന്നതു് ദുഃഖസത്യം മാത്രം. യൂസഫലി എന്ന പേരു
+കേൾക്കുമ്പോൾ മലയാളികളുടെ മനസ്സിലേക്കു് കയറിവരുന്നതു് തളിക്കുളത്തെ വ്യവസായി അല്ല, കേച്ചേരിയിലെ
+പാട്ടെഴുത്തുകാരനാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KP_RAJENDRAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. പി. രാജേന്ദ്രൻ</figDesc>
+          </figure>
+          <p> സ്വന്തം നാട്ടിൽ ആധുനിക സൗകര്യങ്ങളോടുകൂടിയ ഒരു കൺവെൻഷൻ സെന്റർ പണിതുയർത്തണമെന്നു്
+യൂസഫലി ആഗ്രഹിച്ചതു് സ്വാഭാവികം. തൃശൂർ കോർപറേഷൻ പരിധിക്കുള്ളിൽ (പഴയ അയ്യന്തോൾ
+പഞ്ചായത്ത് ) പുഴയ്ക്കൽ ആണു് അനുയോജ്യമായി കണ്ടെത്തിയതു്. പതിനെട്ടു് ഏക്കർ കോൾനിലം വാങ്ങി
+മണ്ണടിച്ചു് നികത്തിയപ്പോൾ ഒരാളും ആക്ഷേപം പറഞ്ഞില്ല. കെ. എസ്. കെ. ടി. യു. മിണ്ടിയില്ല. വില്ലേജ് ഓഫിസർ
+മുതൽ ലാന്റ് യൂസ് കമീഷണർ വരെയുള്ള പ്രതാപശാലികളാരും അങ്ങോട്ടു തിരിഞ്ഞുനോക്കിയില്ല. കാരണം
+ലളിതം-കരിമ്പുഴയിലെ കവുങ്ങുകർഷകരെപ്പോലെ ഏഴാംകൂലികളല്ല എം. കെ. ഗ്രൂപ്പുകാർ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Yusuffali_MA.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എ. യൂസഫലി</figDesc>
+          </figure>
+          <p> അങ്ങനെ പുഴയ്ക്കൽ പാടത്തു് താജ്മഹൽപോലെ ഉയർന്നു വന്നൂ, ലുലു ഇന്റർനാഷനൽ കൺവെൻഷൻ
+സെന്റർ. കേരളത്തിലെ ഏറ്റവും വലുതു്, ഇന്ത്യയിൽ രണ്ടാമത്തേതു്. 1800 കാറുകൾക്കു് പാർക്കിംഗ് സൗകര്യം,
+
+സ്വന്തം ഹെലിപാഡ്, 4750 പ്രതിനിധികൾക്കുവേണ്ട സൗകര്യങ്ങൾ, ഓപ്പൺ എയർ ഓഡിറ്റോറിയം, ബാങ്ക്വറ്റ്
+ഹാൾ, കോൺഫറൻസ് ഹാളുകൾ—എല്ലാം എം. കെ. ഗ്രൂപ്പിന്റെ പ്രൗഢിക്കിണങ്ങുന്നവ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TN_Prathapan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എൻ. പ്രതാപൻ</figDesc>
+          </figure>
+          <p> കൺവെൻഷൻ സെന്ററിന്റെ ഉദ്ഘാടനം ജൂലൈ രണ്ടിനു് മുഖ്യമന്ത്രി നിർവഹിക്കും എന്ന വാർത്ത
+വന്നതോടെ പ്രതിഷേധക്കാർ കൂടിളകി. നക്സലുകൾ തനതു് ശൈലിയിൽ പോസ്റ്ററൊട്ടിച്ചു. വയൽ നികത്തി
+പണിതീർത്ത കെട്ടിടത്തിന്റെ ഉദ്ഘാടനം നടത്തരുതെന്നു് കാണിച്ചു് <ref target="https://ml.wikipedia.org/wiki/T.N._Prathapan">ടി. എൻ. പ്രതാപൻ</ref>
+മുഖ്യമന്ത്രിക്കു് നിവേദനം നൽകി. കോൺഗ്രസിലെ ആന്റണി ഗ്രൂപ്പുകാരനും <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരന്റെ</ref>
+വിനീത ശിഷ്യനുമാണു് പ്രതാപൻ. യൂസഫലിയുടെ ജന്മനാടായ തളിക്കുളം ഉൾപ്പെടുന്ന നാട്ടിക മണ്ഡലത്തെ
+പ്രതിനിധാനം ചെയ്യുന്ന എം. എൽ. എ.-യുമാണു്?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TM_Jacob.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. എം. ജേക്കബ്</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+യെപ്പോലെ ഉദ്ഘാടനക്കമ്പക്കാരനല്ല, <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദൻ</ref>.
+സ്വർണാഭരണശാലകളുടെയോ ബാർബർഷാപ്പുകളുടെയോ ഉദ്ഘാടനത്തിനു് വി. എസിനെ പ്രതീക്ഷിക്കരുതു്.
+കർശന പരിശോധനക്കു ശേഷമേ ചടങ്ങുകൾ സ്വീകരിക്കൂ. 2003-ാമാണ്ടിൽ പിറവത്തും കോതമംഗലത്തുമായി
+<ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം. ജേക്കബി</ref>
+ന്റെ നിയമസഭാംഗത്വ രജതജൂബിലി കൊണ്ടാടിയപ്പോൾ പ്രതിപക്ഷനേതാവിനെ ക്ഷണിച്ചതാണു്. അഴിമതി
+ആരോപണ വിധേയന്റെ ആഘോഷത്തിൽ പങ്കെടുക്കാൻ വേറെ ആളെ നോക്കണം എന്നു് മുഖത്തടിച്ചു പറഞ്ഞു.
+അതാണു് വി. എസ്! അതേ വി. എസിനു് മന്ത്രിസഭയിൽ ജേക്കബിന്റെ പഴയ നേതാവു് <ref target="https://ml.wikipedia.org/wiki/P.J._Joseph">പി. ജെ. ജോസഫ്</ref>
+മൈത്രി-പൂക്കൃഷി ആരോപണ വിധേയനായി സസുഖം തുടരുന്നുവെന്നതു് മറ്റൊരു സംഗതി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധീരൻ</figDesc>
+          </figure>
+          <p> ഏതായാലും കൺവെൻഷൻ സെന്റർ ഉദ്ഘാടനത്തിൽനിന്നു് മുഖ്യമന്ത്രി പിൻമാറിയില്ല. ചടങ്ങിൽ
+അധ്യക്ഷത വഹിക്കുന്നതിൽനിന്നു് പ്രതാപന്റെ നേതാവു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും
+പിൻവാങ്ങിയില്ല (മുഖ്യമന്ത്രി ഉദ്ഘാടകനും പ്രതിപക്ഷനേതാവു് അധ്യക്ഷനുമായി ഏതെങ്കിലും ചടങ്ങു് ഇതിനു മുമ്പു്
+ഭൂമിമലയാളത്തിൽ നടന്നതായി അറിയില്ല. ലോക സമാധാനത്തിനും അന്താരാഷ്ട്ര സഹവർത്തിത്വത്തിനുമുള്ള
+നൊബേൽ സമ്മാനത്തിനും യൂസഫലി സാഹിബിനെ പരിഗണിക്കാവുന്നതാണു്). വയൽ നികത്തലിനെതിരെ
+നടപടിയെടുക്കാൻ ബാധ്യസ്ഥരായ റവന്യൂ മന്ത്രി <ref target="https://en.wikipedia.org/wiki/K._P._Rajendran">കെ. പി. രാജേന്ദ്രനും</ref>
+ജില്ലാകലക്ടർ കെ. എസ്. പ്രേമചന്ദ്രക്കുറുപ്പും ആശംസാപ്രസംകരായും എത്തി. കൂടാതെ, സ്ഥലം എം. പി. എന്ന
+നിലക്കു് <ref target="https://ml.wikipedia.org/wiki/C._K._Chandrappan">സി. കെ.
+ചന്ദ്രപ്പനും</ref> എം. എൽ. എ. <ref target="https://en.wikipedia.org/wiki/Therambil_Ramakrishnan">തേറമ്പിൽ
+രാമകൃഷ്ണനും</ref> മേയർ <ref target="https://en.wikipedia.org/wiki/R._Bindu">ആർ. ബിന്ദു</ref> വും ആശംസ
+നേർന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Bindhu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ബിന്ദു</figDesc>
+          </figure>
+          <p> ഉദ്ഘാടന മഹാമഹം സമംഗളം പര്യവസാനിച്ചു എന്നെഴുതാൻ വയ്യ. കാരണം, മുഖ്യമന്ത്രി പ്രസംഗിക്കാൻ
+എഴുന്നേറ്റയുടൻ ‘പോരാട്ടം’ പ്രവർത്തകർ എന്നു് അവകാശപ്പെടുന്ന മൂന്നു് യുവാക്കൾ ‘നൿസൽബാരി
+സിന്ദാബാദ് ’ വിളിച്ചു് കരിങ്കൊടി വീശി വേദിയിലേക്കു് കുതിച്ചു. ഇടതുസർക്കാറിന്റെ വാക്കും പ്രവൃത്തിയും
+തമ്മിലുള്ള വൈരുധ്യം വിശദമാക്കുന്ന ലഘുലേഖകൾ അവർ യോഗസ്ഥലത്തു് വാരിവിതറി. ആദ്യം
+ഒന്നമ്പരന്നെങ്കിലും നിയമപാലകർ പാഞ്ഞെത്തി പ്രതിഷേധക്കാരെ തൂക്കിയെടുത്തു് കൊണ്ടുപോയി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/S_Sharma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. ശർമ</figDesc>
+          </figure>
+          <p> വയൽനികത്തലിനെതിരായ തന്റെ നിലപാടിൽ യാതൊരു മാറ്റവും വന്നിട്ടില്ലെന്നു് മുഖ്യൻ
+ഉദ്ഘാടനപ്രസംഗത്തിൽ പറഞ്ഞു. വാഴവെട്ടുസമരത്തിൽ തനിക്കുണ്ടായ ചരിത്രപരമായ
+പങ്കാളിത്തത്തെക്കുറിച്ചും ഏതാനും ചില കാര്യങ്ങൾ അനുസ്മരിച്ചു. നിലംനികത്തലിനെതിരെ കുട്ടനാട്ടിൽ നടന്ന
+കൺവെൻഷൻ ഉദ്ഘാടനം ചെയ്തു എന്നതു് സത്യമാണു്. ആ യോഗത്തിൽ പങ്കെടുത്ത ഒരാൾ ഒരു വാഴത്തൈ
+ഒടിച്ചു എന്നതു സത്യം. അതിന്റെ പേരിൽ ബൂർഷ്വാ പത്രങ്ങൾ തന്നെ വെട്ടിനിരത്തലിന്റെ നായകനാക്കി
+ചിത്രീകരിക്കുകയായിരുന്നു.(വി. എസിന്റെ ഗീർവാണം കേട്ടു് വേദിയിലിരുന്ന സഖാവു് ചന്ദ്രപ്പന്റെ വികാര
+വിചാരങ്ങൾ മാന്യ വായനക്കാർ ഭാവനചെയ്യുക.)
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Therambil_Ramakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തേറമ്പിൽ രാമകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> നിലംനികത്തുന്നതിനു് പച്ചക്കൊടി കാട്ടിയവർ ഇപ്പോൾ പ്രതിഷേധവുമായി രംഗത്തുവന്നതിനെ ജനം
+തിരിച്ചറിയുമെന്നു് പ്രതാപനെ കൊള്ളിച്ചു് മുഖ്യമന്ത്രി പറഞ്ഞു. 15 കൊല്ലമായി കൃഷി നടക്കാതെ കാടുപിടിച്ചു്
+കിടന്ന പ്രദേശത്തു് താമരപോലെ 40 കോടി ചെലവാക്കി ഒരു സ്ഥാപനം പടുത്തുയർത്തിയവരെ
+അഭിനന്ദിക്കുകയാണു് വേണ്ടതു്, അല്ലതെ പ്രതിഷേധ ഗോഷ്ഠി കാണിക്കുകയല്ല—നൿസലുകളെ വി. എസ്.
+ഉപദേശിച്ചു.
+</p>
+          <p>വി. എസിനെ ഇനി ആർക്കും ന്യൂനപക്ഷവിരുദ്ധനോ വികസനവിരുദ്ധനോ ആയി മുദ്രകുത്താനാവില്ല.
+ക്രാന്തദർശികളായ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ.
+കരുണാകരനും</ref> <ref target="https://ml.wikipedia.org/wiki/M.A._Yousuf_Ali">എം. എ. യൂസഫലി</ref>
+യും കൂട്ടരും നെടുമ്പാശ്ശേരി വില്ലേജിലെ ആവണംകോട്-തുറവുങ്കര പാടം നികത്തിയതുകൊണ്ടാണു്
+അച്യുതാനന്ദനു് കൊച്ചി അന്തർദേശീയ വിമാനത്താവളക്കമ്പനി ചെയർമാനും സഖാവു് <ref target="https://ml.wikipedia.org/wiki/S._Sharma">എസ്. ശർമ</ref> ക്കു് ഡയറൿടറും
+ആകാൻ കഴിഞ്ഞതു് എന്ന കാര്യവും പ്രസ്താവ്യമാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> വയൽ നികത്തുന്നതിനെതിരെ കർശനമായ വ്യവസ്ഥകളോടെ പുതിയ നിയമം നിയമസഭയുടെ അടുത്ത
+സമ്മേളനത്തിൽ അവതരിപ്പിക്കുമെന്നു് റവന്യൂ മന്ത്രി <ref target="https://en.wikipedia.org/wiki/K._P._Rajendran">രാജേന്ദ്രൻ</ref>
+പ്രഖ്യാപിച്ചിട്ടുണ്ടു്. പ്രവാസി വ്യവസായികൾക്കു് ഇളവുനൽകുമെന്നു് പ്രത്യാശിക്കുക. മാർൿസിസ്റ്റ് പാർട്ടിയുടെയും
+കെ. എസ്. കെ. ടി. യു.-വിന്റെയും സമ്മേളനങ്ങൾക്കു് ലുലു കൺവെൻഷൻ സെന്റർ സൗജന്യമായോ
+സഹായനിരക്കിലോ ലഭ്യമാക്കുന്നതു് നന്നായിരിക്കും. അങ്ങനെയെങ്കിൽ, വിപ്ലവകാരികളുടെ
+സഹായ-സഹകരണങ്ങൾ തുടർന്നും പ്രതീക്ഷിക്കാം. വിപ്ലവം ജയിക്കട്ടെ! കർഷകത്തൊഴിലാളി-പ്രവാസി
+വ്യവസായി ഐക്യം നീണാൾ വാഴട്ടെ!
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vayalile Thamara (ml: വയലിലെ
+താമര).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Vayalile Thamara, കെ. രാജേശ്വരി, വയലിലെ താമര, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:The_Magic_Apple_Tree.jpg">The
+Magic Apple Tree,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Samuel_Palmer">Samuel Palmer</ref>
+ (1805–1881). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-thamara.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-thamara.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

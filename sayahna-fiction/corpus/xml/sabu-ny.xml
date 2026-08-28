@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നിറങ്ങളുടെ യുദ്ധം</title>
+          <title xml:lang="en" type="main">Nirangalude Yudham</title>
+        </title>
+        <author>Sabu Hariharan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 14, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നിറങ്ങളുടെ യുദ്ധം</title>
+              <title xml:lang="en" type="main">Nirangalude Yudham</title>
+            </title>
+            <author>Sabu Hariharan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-08-20</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Short Story</term>
+          <term>Sabu Hariharan</term>
+          <term>Nirangalude Yudham</term>
+          <term>സാബു ഹരിഹരൻ</term>
+          <term>നിറങ്ങളുടെ യുദ്ധം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="short story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-08-20</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Hausfrau.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:%22Hausfrau%22,_1961__NARA_-_558868.jpg">Hausfrau,</ref> a painting by Gebra Kristos Desta  .
+</figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നിറങ്ങളുടെ യുദ്ധം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സാബു ഹരിഹരൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead"/>
+        <div type="lsection">
+          <p style="noindent">ചില്ലു ജാലകത്തിനരികിലിരുന്നാണു് അച്ഛനും മകനും ചെസ്സ് കളിച്ചു
+കൊണ്ടിരുന്നതു്. ഇന്നിതു മൂന്നാമത്തെ കളിയാണു്. ആദ്യത്തെ രണ്ടു കളിയിലും അച്ഛൻ സ്നേഹപൂർവം തോറ്റു
+കൊടുത്തിരുന്നു. കുഞ്ഞു കണ്ണുകൾ ചുവക്കുന്നതോ, നിറയുന്നതോ ആ അച്ഛൻ ഇഷ്ടപ്പെട്ടിരുന്നില്ല. മാത്രവുമല്ല,
+താൻ തോൽക്കുമ്പോഴും ചില നീക്കങ്ങൾ പൈതൽ പഠിക്കുന്നുണ്ടല്ലോ എന്നതായിരുന്നു ആ പിതാവിന്റെ
+വിചാരം. അതു കൊണ്ടാവണം, തന്ത്രപരമായ ചില നീക്കങ്ങൾ മകനു ചൂണ്ടി കാണിച്ചു കൊടുക്കാൻ പോലും
+അദ്ദേഹം മടി കാണിച്ചില്ല.
+</p>
+          <p>ഉറങ്ങുന്നതിനു മുൻപു് കുറച്ചു് നേരം ചെസ്സ് കളിക്കുക—അതാണു് പതിവു്. ഇരുട്ടു് വീണതോടെ, സ്നേഹം
+നിറഞ്ഞ ശാസനയോടെ അമ്മ രംഗത്തു് വന്നു. കളി പൂർത്തിയാക്കാതെ കിടക്കയിലേക്കു് പോകാൻ മകൻ
+ഒരുതരത്തിലും കൂട്ടാക്കിയില്ല. രണ്ടു വട്ടം ജയം രുചിച്ചതിന്റെ ഉത്സാഹത്തിലായിരുന്നു അവൻ. ഒടുവിൽ അച്ഛൻ
+ബുദ്ധിപൂർവം കളങ്ങൾക്കു പുറത്തു് ഒരു നീക്കം നടത്തി.
+</p>
+          <p>‘നമുക്കിതു് ഇങ്ങനെ തന്നെ വെച്ചേക്കാം. അനക്കരുതു്! നാളെ രാത്രി ഊണു കഴിഞ്ഞു ഇതിന്റെ ബാക്കി
+കളിക്കാം. പോരെ?’
+</p>
+          <p>ആ നീക്കത്തിൽ മകൻ അടിയറവു് പറഞ്ഞു. അമ്മയുടെയും അച്ഛന്റേയും മുഖത്തു് ആശ്വാസം നിറഞ്ഞു.
+</p>
+          <p>പുറത്തു് പാതിരാക്കാറ്റു് വീശി തുടങ്ങുമ്പോഴേക്കും ഓടിട്ട ആ വീട്ടിലുള്ളവർ മെത്തയിൽ സസുഖം
+ഉറങ്ങാനാരംഭിച്ചു കഴിഞ്ഞിരുന്നു. അപ്പോഴാണു് മേഘങ്ങളെ വകഞ്ഞു മാറ്റി ചന്ദ്രരശ്മികൾ ഭൂമിയിലേക്കു്
+സഞ്ചരിക്കാനാരംഭിച്ചതു്. ചില്ലുജാലകത്തിലൂടെ വീട്ടിനുള്ളിലേക്കു് പ്രവേശിച്ച നിലാവിന്റെ നേർത്ത നീല വെളിച്ചം,
+ചെസ്സ് ബോർഡിൽ അമർന്നിരുന്ന യോദ്ധാക്കളുടെ മേൽ പതിച്ചു. വിളറിയ നീണ്ട നിഴലുകൾ ചെസ്സ് ബോർഡിൽ
+പ്രത്യക്ഷമായി…
+</p>
+          <p>‘ഇന്നത്തെ നീക്കങ്ങളെല്ലാം വിജയകരമായിരുന്നു. പ്രയോഗിച്ച തന്ത്രങ്ങളെല്ലാം തന്നെ ഫലവത്തായിരുന്നു.
+മഹാരാജൻ! നമ്മുടെ വെളുത്ത അശ്വങ്ങളുടെ നീക്കങ്ങൾ ശ്രദ്ധിച്ചില്ലേ?’—വെളുത്ത കളത്തിലിരുന്ന, വെളുത്ത
+പടച്ചട്ടയണിഞ്ഞ മന്ത്രിയുടേതായിരുന്നു ആ അഭിപ്രായം. വലതു വശത്തിരുന്ന രാജാവു് ആഢ്യത്വം വിടാതെ അതു
+ശരിവെച്ചു.
+</p>
+          <p>‘എങ്കിലും വെറുമൊരു കാലാളിനെ വിട്ടു എന്നെ തോൽപ്പിക്കാൻ ശത്രുവിനെങ്ങനെ ധൈര്യം വന്നു?’
+രാജാവിനു കഴിഞ്ഞ കളിയിലെ ആ നീക്കം ഇപ്പോഴും അലോസരമുണ്ടാക്കി കൊണ്ടിരിക്കുന്നു എന്നു് അമാത്യനു
+മനസ്സിലായി.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/sabu-ny-t-01.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>‘മഹാരാജനതോർത്തു വ്യാകുലപ്പെടേണ്ടതില്ല. അന്തിമജയം നമുക്കു് തന്നെയായിരുന്നില്ലേ? മന്ത്രിയായി
+അടിയനെന്നും ഒപ്പമുണ്ടാവും. എന്താ അടിയന്റെ തന്ത്രങ്ങളിൽ വിശ്വാസക്കുറവുണ്ടോ?’
+</p>
+          <p>‘ഏയ്! ഒരിക്കലുമില്ല. താങ്കളുടെ നീക്കങ്ങൾ ഒരിക്കലും പിഴയ്ക്കില്ല. നമുക്കു് നിശ്ചയമുണ്ടു്.
+ശ്വേതരാജാക്കന്മാരുടെ വിജയകഥകൾ പാടി നടക്കാത്ത നാവുകളുണ്ടോ? എങ്കിലും… നമുക്കൊരു
+സന്ദേഹമുണ്ടു്. അതു് പറയാതെ വയ്യ’
+
+</p>
+          <p>മന്ത്രിയുടെ മുഖത്തു് ഗൗരവഭാവം നിറഞ്ഞു.
+</p>
+          <p>‘എന്താണു് മഹാരാജൻ? അടിയനെ അറിയിച്ചാലും’
+</p>
+          <p>‘ഇന്നോ ഇന്നലെയോ തോന്നി തുടങ്ങിയ സംശയമല്ല, ചിന്ത മുഴുവൻ ഈ രണ്ടു സാമ്രാജ്യങ്ങളെക്കുറിച്ചാണു്.
+ഈ യുദ്ധങ്ങളുടെ ആരംഭം എന്നാണെന്നു് അറിവുണ്ടോ?’
+</p>
+          <p>‘അക്കാര്യത്തിൽ അടിയനു് കേട്ടറിവു് മാത്രമാണുള്ളതു്. നൂറ്റാണ്ടുകളായി വെളുത്തവരും കറുത്തവരും തമ്മിൽ
+യുദ്ധം ചെയ്യാൻ തുടങ്ങിയിട്ടു്. ‘നിറങ്ങളുടെ യുദ്ധം’ എന്നറിയപ്പെടുന്ന ഈ യുദ്ധത്തിന്റെ ആരംഭകാലവും,
+കാരണവും ഇന്നും അജ്ഞാതമാണു മഹാരാജൻ’
+</p>
+          <p>‘ആ വിഷയത്തിലാണെന്റെ സംശയം… ഈ യുദ്ധം… ഇതിന്റെ കാരണം? എത്രയോ വട്ടം
+കറുത്തരാജനുമായി നാം നേർക്കു നേർ വന്നിരിക്കുന്നു. നിശ്ചിതമായ അകലങ്ങൾ പാലിച്ചു് മുഖത്തോടു് മുഖം
+നോക്കുമ്പോഴും എനിക്കു് ഒരു കാര്യത്തിൽ മാത്രമേ വ്യത്യാസം കാണാൻ കഴിയുന്നുള്ളൂ… നിറം…
+നിറത്തിൽ മാത്രം… എന്താ താങ്കൾ അതു ശ്രദ്ധിച്ചില്ലെന്നുണ്ടോ? ഒരേ രൂപം, ഒരേ ഭാവം, ഒരേ
+വേഷം… എന്നാൽ നിറം മാത്രം…’
+</p>
+          <p>‘ശരിയാണു്… അടിയനും അതേക്കുറിച്ചു് നിരവധി രാത്രികളിൽ ഗാഢമായി ചിന്തിച്ചിട്ടുണ്ടു്…
+തലമുറകളായി പക വളർത്തിയെടുത്തതിൽ ആർക്കാണു് പങ്കു് എന്നും. പക്ഷേ, ഉത്തരങ്ങൾ തേടാൻ മാത്രം
+സമയം നമ്മളോ അവരോ ഒരിക്കലും അനുവദിച്ചിരുന്നില്ലല്ലോ… യുദ്ധം ചെയ്യുന്നതിൽ മാത്രമായി
+അവസാനിച്ചു പോകുന്നു നമ്മുടെ ജന്മങ്ങൾ’
+</p>
+          <p>‘ഇതിനൊരു അവസാനമില്ലെന്നാണോ താങ്കൾ പറയുന്നതു?’
+</p>
+          <p>‘ആരംഭത്തേക്കുറിച്ചു് അറിവില്ലാത്തതു് പോലെ അവസാനത്തെക്കുറിച്ചും ആർക്കും അറിവുണ്ടാകില്ല എന്നു
+മാത്രം നിശ്ചയമായും പറയാം. ഒരിക്കലാരംഭിച്ചാൽ ഒരു യുദ്ധവും ഒരിക്കലും അവസാനിക്കുകയില്ലല്ലോ’
+</p>
+          <p>‘പക്ഷേ, നമുക്കു് പിന്നാലെ വരുന്നവർ… അവരോടു് യുദ്ധത്തിനെന്തു കാരണം പറയും? എന്തു ന്യായം
+പറയും?’
+</p>
+          <p>‘ആക്രമണത്തിനു കാരണം ആക്രമണം തന്നെ! ചരിത്രം ചികയാൻ ആരും ആർക്കും സമയം
+അനുവദിക്കില്ലല്ലോ. യുക്തിവിചാരത്തിനെവിടെ സമയം?’
+</p>
+          <p>‘എനിക്കു് മറ്റൊരു സംശയം ബാക്കി’
+</p>
+          <p>‘എന്താണു് മഹാരാജൻ?’
+</p>
+          <p>‘താങ്കളുടെ ശ്രദ്ധയിലും പെട്ടു കാണും, കഴിഞ്ഞ ചില യുദ്ധങ്ങൾ… നമ്മുടെ ആക്രമണങ്ങൾ…
+നമ്മുടെ ശത്രുക്കൾ സ്വയം ഇരയാവാൻ തയ്യാറെടുത്തു് വന്നതു പോലെ…’
+</p>
+          <p>‘മഹാരാജൻ എന്താണു് പറഞ്ഞു വരുന്നതു?’
+</p>
+          <p>‘ഒരു പക്ഷേ, അവർ യുദ്ധം എന്നന്നേയ്ക്കുമായി അവസാനിക്കാൻ വേണ്ടി തോൽവി
+ഏറ്റുവാങ്ങുന്നതാണെങ്കിലോ?’
+</p>
+          <p>‘അതെങ്ങനെ?… പഴയ കണക്കുകൾ… അവരതെങ്ങനെ മറക്കും?’
+</p>
+          <p>‘ചിലപ്പോൾ അവർ മനപൂർവ്വം തോൽക്കുകയാവും…’
+</p>
+          <p>‘എന്തിനാവണം അങ്ങനെ?’
+</p>
+          <p>‘അതാണവരുടെ ജയം! തോൽപ്പിക്കുന്നതിനേക്കാൾ ശക്തമാണു് സ്വയം തോൽവി ഏറ്റുവാങ്ങുന്നതു്’
+</p>
+          <p>‘മഹാരാജൻ എന്താണു് പറഞ്ഞു വരുന്നതു?… ഇനി നമ്മൾ യുദ്ധത്തിൽ നിന്നു് പിൻമാറണമെന്നോ?’
+
+</p>
+          <p>‘മന്ത്രി ശ്രേഷ്ഠാ, അതു സാധ്യമല്ല! നമുക്കെന്നല്ല അവർക്കും!’
+</p>
+          <p>‘എന്തു കൊണ്ടു്?’
+</p>
+          <p>‘കാരണം നമ്മളല്ല യുദ്ധം ചെയ്യുന്നതു് എന്നതു തന്നെ!’
+</p>
+          <p>‘പിന്നെയാരാണു്?’
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/sabu-ny-t-02.png" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p>‘നമ്മൾ വെറും കരുക്കൾ മാത്രമല്ലേ?… കാലം മുന്നോട്ടു് നീക്കുന്ന കരുക്കൾ… ശ്രദ്ധിച്ചിട്ടില്ലേ?
+നമ്മെ യുദ്ധഭൂമിയിൽ നിർണ്ണായകമായ, തന്ത്രപ്രധാനമായ സ്ഥാനങ്ങളിൽ കൊണ്ടു് നിർത്തി യുദ്ധം
+അനിവാര്യമാക്കുന്നവരെ?… അവരുടെ കൈകളെ നിയന്ത്രിക്കാൻ നമ്മളശക്തരാണു്… അവരുടെ
+നിയമങ്ങളനുസരിച്ചു്, അവരുടെ ഇഷ്ടമനുസരിച്ചു് നമ്മൾ വൃഥാ നീങ്ങുന്നു, പൊരുതുന്നു… അത്ര തന്നെ!’
+</p>
+          <p>‘അപ്പോൾ നിറങ്ങളുടെ യുദ്ധമോ?… കേട്ട കഥകൾ?’
+</p>
+          <p>‘കഥകൾ! കഥകൾ സൃഷ്ടിക്കുക എത്ര എളുപ്പമാണു്! കഥകൾ കഥകളല്ല എന്നു വിശ്വസിപ്പിക്കുന്നതിലല്ലേ
+കൗശലം? ഈ യുദ്ധങ്ങൾ തന്നെ അവസാനമില്ലാത്ത കഥയായി മാറുന്നതറിയുന്നില്ലേ?’
+</p>
+          <p>‘അതു നീചമായ ഒരു പ്രവൃത്തിയല്ലേ?’
+</p>
+          <p>‘അതെ! താങ്കളും അതു തന്നെയല്ലേ ചെയ്തു കൊണ്ടിരിക്കുന്നതു?! കാലാകാലങ്ങളായി! അല്ലെന്നു സധൈര്യം
+പറയാൻ കഴിയുമോ?… താങ്കൾക്കു് വരും തലമുറയോടു് കഥകൾ പറയാതിരിക്കാനാവുമോ?’
+</p>
+          <p>കിടപ്പു മുറിയിൽ മകൻ അടക്കം പിടിച്ച ശബ്ദത്തിൽ
+പറഞ്ഞു,
+</p>
+          <p>‘അച്ഛാ… അച്ഛൻ കേട്ടോ? ആരോ സംസാരിക്കുന്നു…’
+</p>
+          <p>‘എവിടെ?…’ പാതിയുറക്കത്തിലാണു് അച്ഛൻ ചോദിച്ചതു്.
+</p>
+          <p>‘മുൻവശത്തെ മുറീല്…’
+</p>
+          <p>‘ഇല്ലല്ലോ മോനെ… അച്ഛൻ… കേട്ടില്ലല്ലോ…’
+</p>
+          <p>‘ഞാൻ കേട്ടു…’ അതു പറഞ്ഞു അവൻ വീണ്ടും ശ്രദ്ധയോടെ ശബ്ദങ്ങൾ കേൾക്കാൻ കാത്തിരുന്നു.
+</p>
+          <p>‘കിടന്നുറങ്ങ് മോനെ… നാളെ നേരത്തെ എഴുന്നേൽക്കാനുള്ളതല്ലേ?’
+</p>
+          <p>അനുസരണയോടെ കണ്ണുകളിറുക്കി അടച്ചെങ്കിലും, ഇരുട്ടിൽ അവൻ ചെവി വട്ടം പിടിച്ചു് കിടന്നു…
+ഉറക്കം അവന്റെ കാതും കണ്ണും മൂടും വരെ.
+</p>
+          <p>പുറത്തു് നിലാവെളിച്ചം പതിയെ മങ്ങിത്തുടങ്ങി.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">സാബു ഹരിഹരൻ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/sabu_hariharan.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent"> ജനനം: 1972-ൽ.
+</p>
+          <p>സ്വദേശം: തിരുവനന്തപുരം.
+</p>
+          <p>അമ്മ: പി. ലളിത
+</p>
+          <p>അച്ഛൻ: എം. എൻ. ഹരിഹരൻ
+</p>
+          <p>കെമിസ്ട്രിയിൽ ബിരുദവും, കമ്പ്യൂട്ടർ സയൻസിൽ ബിരുദാനന്തര ഡിപ്ലോമയും. സോഫ്റ്റ് വെയർ ഇഞ്ചിനീയർ.
+വായന, എഴുത്തു്, യാത്ര, ഭക്ഷണം എന്നിവയിൽ താത്പര്യം. താഴെ പറയുന്നവയിൽ കഥകൾ പ്രസിദ്ധീകരിച്ചു
+വന്നിട്ടുണ്ടു്. മാതൃഭൂമി, ദേശാഭിമാനി, കേരള കൗമുദി, അകം (ആഴ്ച്ചപ്പതിപ്പു്),
+</p>
+          <p>മാതൃഭൂമി, ജനയുഗം, കേരളകൗമുദി, കേരളഭൂഷണം (വാരാന്തപ്പതിപ്പു്)
+</p>
+          <p>അകം, കേരള കൗമുദി (ഓണപ്പതിപ്പു്).
+</p>
+          <p>രണ്ട് പുസ്തകങ്ങൾ (കഥാസമാഹാരങ്ങൾ) പ്രസിദ്ധീകരിച്ചു.
+<list rend="numbered"><item n="">‘നിയോഗങ്ങൾ’ (പൂർണ പബ്ലിക്കേഷൻസ്, 2015) </item><item n="">‘ഉടൽദാനം’ (സൈകതം ബുക്സ്, 2017) </item></list>
+
+</p>
+          <p>കഴിഞ്ഞ പത്തു വർഷങ്ങളായി ന്യൂ സീലാന്റിൽ ഭാര്യയും മകനുമൊത്തു് താമസം.
+</p>
+          <p>ഭാര്യ: സിനു
+</p>
+          <p>മകൻ: നന്ദൻ
+</p>
+          <p>കലിഗ്രഫി: എൻ. ഭട്ടതിരി
+</p>
+          <p>ചിത്രങ്ങൾ: വി. മോഹനൻ
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Nirangalude Yudham (ml:
+നിറങ്ങളുടെ യുദ്ധം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sabu Hariharan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-08-20. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Short Story, Sabu Hariharan,
+Nirangalude Yudham, സാബു ഹരിഹരൻ, നിറങ്ങളുടെ യുദ്ധം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 14, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:%22Hausfrau%22,_1961__NARA_-_558868.jpg">Hausfrau,</ref> a painting by Gebra Kristos Desta  . The
+image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sabu-ny.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sabu-ny.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

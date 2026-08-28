@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">റിയലിസം</title>
+          <title xml:lang="en" type="main">Realism</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">October 21, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">റിയലിസം</title>
+              <title xml:lang="en" type="main">Realism</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Realism</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>റിയലിസം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 21, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/The_Skylark_Trust.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:David_Cox_the_elder_%2817831859%29_-_The_Skylark_-_1947P76_-_Birmingham_Museums_Trust.jpg">The
+Skylark,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:David_Cox_Jr.">David Cox Jr.</ref>
+ (1809–1885). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">റിയലിസം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">റിയലിസം</head>
+        <div type="lsection">
+          <p style="noindent">പാശ്ചാത്യരാജ്യങ്ങളിൽ പ്രഭുശക്തിയുടഞ്ഞുതകർന്നു ജനശക്തി തലപൊക്കാൻ
+തുടങ്ങിയതോടൊപ്പം സാഹിത്യത്തിലും തദനുരൂപമായ പരിണാമമുണ്ടായി. അതു വരെ തഴച്ചുനിന്ന റൊമാന്റിക്
+പ്രസ്ഥാനത്തിനുടവുതട്ടി; റിയലിസ്റ്റിക് പ്രസ്ഥാനം മുളച്ചുപൊന്തി. കൃത്രിമങ്ങളായ സാമൂഹ്യവ്യവസ്ഥകൾക്കുള്ളിൽ
+ജീവിതയാഥാർഥ്യങ്ങളെ ഒളിച്ചുവെച്ചു പുറമെ ശുദ്ധിയും ഔന്നത്യവും നടിച്ചു ജനതതിയെ വഞ്ചിക്കുന്ന
+സമ്പ്രദായത്തിനു നിൽക്കക്കള്ളിയില്ലാതായി. ഒന്നും ഒളിച്ചുവെയ്ക്കരുതു്; എല്ലാം നേരെ നോക്കിക്കാണണമെന്ന
+മനോഭാവം കലാകാരന്മാരും കൈകൊണ്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Leon_tolstoi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടോൾസ്റ്റോയി</figDesc>
+          </figure>
+          <p> ചുരുക്കത്തിൽ കല യാഥാർത്ഥ്യങ്ങളെ അടച്ചുപൂട്ടിയിടുന്ന കലവറയാകരുതു്; കമനീയതയോടെ
+പ്രതിഫലിപ്പിക്കുന്ന കണ്ണാടിയാകണമെന്ന നിലവന്നു. ഏതു സാഹിത്യത്തിലും സത്യമാണു പ്രധാന
+നായകനെന്നു് (Truth is the main hero in any literature) <ref target="https://ml.wikipedia.org/wiki/Leo_Tolstoy">ടോൾസ്റ്റോയി</ref> യെക്കൊണ്ടു
+പറയിച്ചതും ഈ വാദമാണു്. വിപ്ലവംകൊണ്ടു കീഴുമേൽ മറിഞ്ഞ ഫ്രാൻസിലാണു് ഈ സാഹിത്യപരിവർത്തനം
+ആദ്യം സംഭവിച്ചതു്. റഷ്യയിൽ <ref target="https://en.wikipedia.org/wiki/Nikolai_Gogol">ഗോഗോളും</ref> ഫ്രാൻസിൽ
+<ref target="https://en.wikipedia.org/wiki/Gustave_Flaubert">ഫ്ളാബർട്ടും</ref>
+റിയലിസ്റ്റ് പ്രസ്ഥാനത്തിന്റെ പ്രഥമാവതാരകരെന്ന നിലയിൽ പ്രശസ്തി നേടി. ഇന്നു് എല്ലാ രാജ്യങ്ങളിലും
+സാഹിത്യപുരോഗതി ഈ വഴിക്കു തിരിഞ്ഞിരിക്കുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Gogol.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗോഗോൾ</figDesc>
+          </figure>
+          <p> റിയിലിസ്റ്റ് സാഹിത്യത്തെപ്പറ്റി രൂക്ഷാക്ഷേപങ്ങൾ പലരും പുറപ്പെടുവിക്കാറുണ്ടു്. ഏതു പ്രസ്ഥാനവും
+വളർന്നുവരുമ്പോൾ കുറെയൊക്കെ ദോഷസ്പൃഷ്ടമാകുന്നതു പോലെ ഇതും ചിലപ്പോൾ
+വഴിപിഴച്ചുപോകുന്നുണ്ടാകാം. അതുകൊണ്ടു് ആ പ്രസ്ഥാനംതന്നെ പരിത്യാജ്യമെന്നോ അനാദരണീയമെന്നോ
+വരുന്നതല്ല. ജീവിതത്തിലെ നഗ്നയാഥാർത്ഥ്യങ്ങൾ സാഹിത്യത്തിൽ ചിത്രീകരിക്കേണ്ടവതന്നെയാണു്. അതു
+കലാഭംഗിയോടെ നിർവ്വഹിക്കണമെന്നേ നിർബന്ധമുള്ളൂ. മൂടുപടമിടാതെ ജീവിതം പ്രതിപാദ്യമാക്കുന്നുവെന്നതു
+കൊണ്ടുമാത്രം പ്രസ്തുതരീതി ആക്ഷേപാർഹമായി ആരെങ്കിലും കരുതുന്നുണ്ടെങ്കിൽ അവരുടെ ദുഷിച്ച
+മാനസികപാരമ്പര്യത്തെയാണു് അതിനു കുറ്റപ്പെടുത്തേണ്ടതു്. ജീവിതത്തിന്റെ ലൈംഗികവശം
+അനാവൃതമാകുമ്പോൾ ക്ഷോഭിച്ചു ശകാരം ചൊരിയുന്ന ചില അതിസന്മാർഗ്ഗവാദികളുണ്ടല്ലോ നമ്മുടെയിടയിൽ.
+ഈ ക്ഷോഭത്തിന്റെ അടിയിൽ കിടക്കുന്ന ‘സൈക്കോളജി’ രസകരമാണു്. സ്വന്തം കുഞ്ഞിനെ
+പൊക്കിക്കാണിക്കുന്ന മേനകയുടെ മുമ്പിൽ മുഖം തിരിച്ചുപിടിച്ചു വെറുപ്പു നടിച്ചുനില്ക്കുന്ന വിശ്വാമിത്രന്റെ ഒരു ചിത്രം
+കണ്ടിട്ടില്ലേ? അതുപോലെ കുറ്റംചെയ്ത മനഃസാക്ഷിയുടെ സൂക്ഷിപ്പുകാരാണു മിക്ക മനുഷ്യരും. അവരുടെ
+രഹസ്യജീവിതത്തിന്റെ അനിഷ്ടഫലങ്ങളുടെ നേരെ നോക്കാനാവർക്കൊരു മടി—അവയുടെ
+ഉത്തവരാദിത്വമേല്ക്കാനൊരു ഭയം. നമ്മെയെല്ലാവരെയും ഒരുവിധത്തിലല്ലെങ്കിൽ മറ്റൊരു വിധത്തിൽ
+ബാധിച്ചിരിക്കുന്ന ഈ അന്തകരണഭീരുതയുടെ നേരെ പൊക്കിപ്പിടിച്ചിരിക്കുന്ന കണ്ണാടിയാണു് റിയലിസ്റ്റ്
+സാഹിത്യം. മർക്കടം കണ്ണാടിയിൽ സ്വന്തരൂപം കണ്ടു് ഇളകിത്തുള്ളുന്നതുപോലെ നമ്മളും അത്തരം
+സാഹിത്യകൃതികൾ വായിച്ചു ക്ഷോഭിച്ചുപോകുന്നു. അധികം ക്ഷോഭിക്കുന്നവരെ കൂടുതൽ സൂക്ഷിക്കണം. അവരുടെ
+മാനസികാരോഗ്യം കുറെയേറെ താറുമാറായിക്കാണും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Gustave_Flaubert.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഫ്ളാബർട്ട്</figDesc>
+          </figure>
+          <p> ഫ്ളാബർട്ടിന്റെ പ്രസിദ്ധ കൃതിയായ ‘<ref target="https://en.wikipedia.org/wiki/Madame_Bovary">മാഡം ബൗറി</ref>’
+പുറത്തുവന്നപ്പോൾ അന്നത്തെ ഫ്രഞ്ചുഗവൺമ്മെന്റ് ക്ഷോഭിച്ചു ഗ്രന്ഥകാരനെ ‘പ്രോസിക്യൂട്ട്’ ചെയ്തു. ഫ്രാൻസിലെ
+ബൂർഷ്വാജനതയുടെ ദുഷ്ടമായ ലൈംഗികജീവിതത്തിന്റെ നേരെയുള്ള കടുത്ത അവഹേളനമാണീ നോവൽ.
+ഭർത്താവിനെ വഞ്ചിക്കുന്ന അതിലെ നായികയും അവളുടെ കാമുകരും അന്നത്തെ
+ഭരണാധികാരികളുൾപ്പെടെയുള്ള ജനസമുദായത്തിന്റെ പ്രതിനിധികളാണു്. ആ നിലയ്ക്കു് അവർ
+കോപാവിഷ്ടരായതിൽ അത്ഭുതപ്പെടാനുണ്ടോ? ശുദ്ധവും സ്വാഭാവികവുമായ ഒരു ലൈംഗികജീവിതം ഇന്നത്തെ
+സാമൂഹ്യവ്യവസ്ഥയിൽ ആർക്കും സാദ്ധ്യമാകുന്നില്ല.
+</p>
+          <p>‘പ്രണയമെന്ന ആ ചെറിയ വാക്കിൽ നിറഞ്ഞിരിക്കുന്നിടത്തോളം നുണയും ചതിയും ഇന്നു മറ്റൊരു
+വാക്കിലുമില്ല.’ (No word is full of falsehood and fraud as the word love has become today) എന്നു്
+<ref target="https://ml.wikipedia.org/wiki/Henrik_Ibsen">ഇബ്സൻ</ref>
+പറഞ്ഞിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ibsen.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇബ്സൻ</figDesc>
+          </figure>
+          <p> അജ്ഞത, അന്ധാചാരം, ഭീഷണി, വിലക്കു് (Taboo) കൃത്രിമസന്മാർഗ്ഗം മുതലായവകൊണ്ടു വികാരങ്ങൾ
+അടിച്ചമർത്തപ്പെട്ടു് അസ്വാഭാവികവും അശുദ്ധവുമായിത്തീർന്ന ബൂർഷ്വാജീവിതത്തിലെ പ്രണയസ്വഭാവമാണിതു്.
+മനുഷ്യരുടെ ലൈംഗിക ജീവിതത്തിനും അവരെ വലയംചെയ്യുന്ന സാമൂഹ്യസാമ്പത്തികവ്യവസ്ഥകൾക്കും തമ്മിൽ
+ഗണ്യമായ ബന്ധമുണ്ടു്. വഞ്ചനയും ശങ്കാവിഷവും നിറഞ്ഞ ചൂഷണഭീഷണമായൊരു സാമൂഹ്യവ്യവസ്ഥയിൽ
+ജീവിക്കുന്നവരുടെ സ്നേഹോദിതഭാവങ്ങൾ പോലും ഭൂഷിതഭ്രഷ്ടങ്ങളാകും. ‘സ്വയമശുദ്ധഃ പരാനാശങ്കതേ’ എന്ന
+മട്ടിൽ പരസ്പരം അവിശ്വസിച്ചും കുറ്റപ്പെടുത്തിയും സ്വയം കുറ്റംചെയ്തും കുടുംബജീവിതത്തെ കലുഷിതമാക്കും.
+ഡോക്ടർ ശസ്ത്രക്രിയ ചെയ്യുന്നതുപോലെ ഈ ജീവിതവ്രണങ്ങളെല്ലാം കീറിമുറിച്ചു തുറന്നിടുകയാണു് ഒരു റിയലിസ്റ്റ്
+സാഹിത്യകാരൻ ചെയ്യുന്നതു്. അതാവശ്യവുമാണു്. എന്നാൽ മാത്രമേ അവയിൽ കെട്ടിക്കിടക്കുന്ന അഴുക്കെല്ലാം
+പുറത്തുപോകയുള്ളൂ. സത്യസ്ഥിതി കാണാതെ ഒട്ടകപ്പക്ഷിയെപ്പോലെ ജീവിക്കുന്ന അതിസന്മാർഗ്ഗവാദികളിൽ
+മുന്നിട്ടുനില്ക്കുന്ന ഒന്നത്രേ ‘ഇമ്പ്യൂരിറ്റി കോംപ്ലെക്സ്’ (Impurity Complex) എന്നു പറയുന്ന ഒരുതരം
+അശുദ്ധിമനോബാധ. ‘Purity in the sense of ignorance and suppressed curiosity is a highly dangerous state
+of mind. And such purity in alliance with prudery and defensive hypocrisy makes any honest discussion or
+essential readjustment of out institutions and habits extremely difficult’ എന്നിങ്ങനെ ഒരു ശാസ്ത്രജ്ഞൻ
+
+ചൂണ്ടിക്കാണിച്ചിട്ടുള്ള വൈഷമ്യങ്ങൾ നീക്കംചെയ്യുന്നതിനും ഉത്തമമായ റിയലിസ്റ്റ് സാഹിത്യം ഒട്ടേറെ
+ഉപകരിക്കും.
+</p>
+          <p>പട്ടിണിയും കഷ്ടപ്പാടും മാത്രം കാവ്യവിഷയമാക്കുന്നുവെന്നതു മറ്റൊരാക്ഷേപമായി കേൾക്കാറുണ്ടു്.
+ജീവിതത്തിനു വേറൊരു വശമില്ലേയെന്നു് ആക്ഷേപകരുടെ പ്രധാന ചോദ്യം. പക്ഷേ, ഈ വേറൊരു വശം
+കാണാൻ വയ്യാത്തവിധം എതിർവശത്തെ ഇരുട്ടുകേറി കണ്ണിൽ കത്തുന്നുണ്ടെന്ന കാര്യം അവരോർക്കുന്നില്ല.
+ഭോഗസമൃദ്ധിയും ശൃംഗാരത്തിളപ്പും ഓളംതല്ലുന്ന പ്രാചീനസാഹിത്യം ആസ്വദിച്ചാസ്വദിച്ചുണ്ടായ
+പാരമ്പര്യത്തിൽനിന്നു പുറപ്പെടുന്നൊരു ചോദ്യമാകാമിതു്. ദാരിദ്ര്യം—അതല്ലേ ഇന്നത്തെ
+ജീവിതയാഥാർത്ഥ്യങ്ങളിൽ ഒന്നാമത്തേതു്?—ജീവിതദുഃഖങ്ങളിലേറ്റവും കഠിനം? എവിടെ നോക്കിയാലും
+കാണുന്നതു് അതിന്റെ കരിനിഴലുകളാണെങ്കിൽ കണ്ണും കരളുമുള്ള ഒരു കവി അതല്ലാതെ മറ്റെന്തു പ്രതിപാദിക്കും?
+പ്രതിപാദനം നന്നായിട്ടില്ലെങ്കിൽ കുറ്റം പറയേണ്ടതുതന്നെ. അതു സമ്മതിക്കാം. ജീവിതവൃക്ഷത്തിൽ
+അങ്ങിങ്ങായി കാണുന്ന ചില പൂക്കൾ നോക്കി ആഹ്ളാദംകൊള്ളുകയും ആമൂലാഗ്രം ബാധിച്ചിട്ടുള്ള
+ഇത്തിക്കണ്ണികൾ കാണാതിരിക്കുകയും ചെയ്യുന്ന ഒരു കവിയെ ഇന്നാരും ഒരു സാമൂഹ്യജീവിയായി എണ്ണുമെന്നു
+തോന്നുന്നില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Swami_Vivekananda.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്വാമി വിവേകാനന്ദൻ</figDesc>
+          </figure>
+          <p> ‘വിശപ്പും പട്ടിണിയുംകൊണ്ടു വലയുന്നൊരു രാജ്യമാണു് ഇൻഡ്യ. സത്യത്തേയും ദൈവത്തേയും
+ജീവിതത്തിലെ മറ്റുപല വിശേഷസംഗതികളേയും പറ്റി ബഹുലക്ഷം പട്ടിണിപ്പാവങ്ങളുടെ മുമ്പിൽ
+പ്രസംഗിക്കുകയെന്നതു വെറും പരിഹാസം‌ തന്നെയാണു്’ എന്നു <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാൽ</ref>,
+സയൻസ് കോൺഗ്രസ്സ് ഉൽഘാടനം ചെയ്തപ്പോൾ പ്രസ്താവിച്ചതു കവികളും ചെവിക്കൊള്ളേണ്ടതാകുന്നു.
+മതാചാര്യന്മാർ, രാഷ്ട്രീയ നേതാക്കൾ, ഭരണാധികാരികൾ, കവികൾ, കലാകാരന്മാർ—എന്നുവേണ്ട
+മനുഷ്യസേവനോത്സുകരമായ സകലരുടേയും ഇന്നത്തെ കർത്തവ്യം പട്ടിണികൊണ്ടുള്ള ജീവിതയാതനയുടെ
+നിവാരണമല്ലാതെ മറ്റെന്താണു്? എന്റെ നാട്ടിൽ വിശപ്പുകൊണ്ടു വലയുന്ന ഒരു പട്ടിപോലും ഉള്ള കാലത്തോളം
+അതിനാഹാരം കൊടുക്കുകയെന്നതായിരിക്കും എന്റെ ഏകമതം.’ (So long as there should be a famished
+dog in my country, to feed it, would be my only religion) എന്നു <ref target="https://ml.wikipedia.org/wiki/Vivekananda">സ്വാമി വിവേകാനന്ദൻ</ref>
+പറയുകയുണ്ടായി. കുപ്പക്കുഴിയിൽ എച്ചിലിനുവേണ്ടി ശ്വാക്കളുമായി മത്സരിക്കുന്ന മനുഷ്യപ്രേതങ്ങൾ
+ലക്ഷക്കണക്കിനില്ലേ നമ്മുടെ നാട്ടിൽ. സത്യസൗന്ദര്യങ്ങൾ തേടി ഭൂമി വിട്ടു് ആകാശത്തേക്കുയരുന്ന ഒരു
+കവിയുടെ കൃത്രിമഭാവനയ്ക്കു് അവിടെ എന്തൊരു സ്ഥാനമാണുള്ളതു്? എന്നിട്ടും കലയുടെ പേരിൽ നാം
+അരിശംകൊള്ളുന്നു; അതിന്റെ സുന്ദരരൂപത്തിനു്, അതിന്റെ ആനന്ദധർമ്മത്തിനു് ഉടവുതട്ടുന്നെന്നു പറഞ്ഞു്. അതു
+പ്രചാരണപരമാകാതെ കേവലാനന്ദലഹരിയുളവാക്കണംപോലും!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rabindranath_Tagore.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടാഗോർ</figDesc>
+          </figure>
+          <p> ‘സകലപ്രയോജനമൗലാഭൂതം, സമനന്തരമേവരസാസ്വാദന സമുദ്ഭൂതം വിഗളിതവേദ്യാന്തരമാനന്ദം’ എന്നു
+പ്രാചീനർ ആനന്ദത്തെ നിർവൃചിച്ചിട്ടുണ്ടു്. കഞ്ചാവിന്റെ ലഹരിയിൽ മയങ്ങിയിരിക്കുന്നതുപോലെ
+വിഗളിതവേദ്യാന്തരമായൊരാനന്ദത്തിലങ്ങനെ മുഴുകിയിരുന്നാൽ മതിയോ ഇന്നു്? അതുമാത്രമാണോ കലയുടെ
+പരമപ്രയോജനം? ഇങ്ങനെ വാദിക്കുന്നവർ <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref> യുടെ
+അഭിപ്രായങ്ങൾക്കു വല്ല വിലയും കൽപിക്കുന്നുണ്ടോ ആവോ! “ദരിദ്രലക്ഷങ്ങൾക്കു
+പ്രയോജനപ്പെടാവുന്നതെന്തോ, അതു് എന്റെ മനസ്സിന്നു സുന്ദരമാണു്… ജീവിതത്തിനു് അത്യാവശ്യമായ
+സംഗതികൾ നമുക്കു് ആദ്യം കൊടുക്കാം. മറ്റുള്ള നന്മകളും അലങ്കാരങ്ങളും താനേ വന്നുകൊള്ളും.
+ബഹുലക്ഷങ്ങളോടു സംസാരിക്കാൻ കഴിയുന്ന കലയും സാഹിത്യവുമാണു് ഞാൻ ആവശ്യപ്പെടുന്നതു്’
+എന്നദ്ദേഹം പറയുന്നു. ഗാന്ധിജി ഒരു <ref target="https://ml.wikipedia.org/wiki/Rabindranath_Tagore">ടാഗോർ</ref>
+അല്ലാത്തതുകൊണ്ടു് ഇപ്പറഞ്ഞതൊക്കെ എത്രത്തോളം ശരിയാണെന്നു സംശയിക്കുന്നവരുണ്ടാകാം.
+ഏതായാലും മഹാത്മജി പറയുന്നതരത്തിലുള്ളൊരു സാഹിത്യം—ബഹുലക്ഷം ജനങ്ങളോടു സംസാരിക്കുന്ന,
+അവരുടെ യഥാർത്ഥരൂപം ചിത്രീകരിക്കുന്ന, ഒരു സാഹിത്യം—ഉണ്ടാകണമെങ്കിൽ ഒന്നാമതായി അതു
+റിയലിസ്റ്റിക് ആകണം.
+</p>
+          <p>
+(നിരീക്ഷണം 1948)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Realism (ml: റിയലിസം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Realism, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, റിയലിസം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 21, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:David_Cox_the_elder_%2817831859%29_-_The_Skylark_-_1947P76_-_Birmingham_Museums_Trust.jpg">The
+Skylark,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:David_Cox_Jr.">David Cox Jr.</ref>
+ (1809–1885). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-realism.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-realism.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

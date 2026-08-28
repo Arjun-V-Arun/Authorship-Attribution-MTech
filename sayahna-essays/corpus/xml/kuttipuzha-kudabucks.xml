@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">‘കുഡാബൿസി’ന്റെ ചെമ്പു
+തെളിഞ്ഞു</title>
+          <title xml:lang="en" type="main">‘Kuda Bux’inte Chembu Thelinju</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">November 24, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">‘കുഡാബൿസി’ന്റെ ചെമ്പു
+തെളിഞ്ഞു</title>
+              <title xml:lang="en" type="main">‘Kuda Bux’inte Chembu Thelinju</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>‘Kuda Bux’inte Chembu Thelinju</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>‘കുഡാബൿസി’ന്റെ ചെമ്പു തെളിഞ്ഞു</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 24, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Young_Girl_Holding_a_Doll.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Fritz_ZuberBuhler_Young_Girl_Holding_a_Doll.jpg">Young Girl Holding a Doll,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/Fritz_Zuber-Buhler">Fritz
+Zuber-Buhler</ref>  (1822–1896). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">‘കുഡാബൿസി’ന്റെ ചെമ്പു തെളിഞ്ഞു</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">‘കുഡാബൿസി’ന്റെ ചെമ്പു തെളിഞ്ഞു</head>
+        <div type="lsection">
+          <p style="noindent">അജ്ഞാതകാരണങ്ങളായിട്ടുള്ള സംഭവങ്ങളെ ദൈവികശക്തിയുടെ
+സന്താനങ്ങളായി വിശ്വസിച്ചു് വിസ്മയിക്കുന്ന പതിവു് നമ്മുടെയിടയിൽ ധാരാളമാണു്. പ്രകൃത്യാ വിശ്വാസിയായ
+മനുഷ്യൻ അത്ഭുതസംഭവങ്ങളുടെ കാര്യകാരണ ബന്ധം കണ്ടുപിടിക്കുന്നതിൽ അശ്രദ്ധനും അപ്രാപ്തനുമാകുന്നു.
+അത്ഭുതവിദ്യകൾ കാണിച്ചു് അമാനുഷത്വം നേടുന്ന ഒന്നാന്തരം സിദ്ധന്മാരെയും ഭക്തന്മാരെയും ഇന്ത്യയിൽ
+എവിടെയും കാണാം. ഇവരുടെ ‘വിദ്യ’കൾ ക്ഷിപ്രവിശ്വാസികളായ സാമാന്യജനങ്ങളുടെയിടയിൽ എന്തുമാത്രം
+മിഥ്യാബോധം പരത്തിയിട്ടുണ്ടെന്നു് പറഞ്ഞറിയിക്കാവതല്ല. തീക്കുഴിയിൽക്കൂടി കാലുപൊള്ളാതെ നടക്കുന്ന വിദ്യ
+ഇക്കൂട്ടത്തിൽ മുഖ്യമായിട്ടുള്ള ഒന്നാണു്. ഭക്തിയും സിദ്ധിയും കൊണ്ടുമാത്രം സാദ്ധ്യമാകുന്ന ഒന്നായിട്ടു് ഈ
+അടുത്തകാലംവരെ പ്രസ്തുതവിദ്യ വിശ്വസിക്കപ്പെട്ടിരുന്നു. എന്നാൽ, ഇപ്പോൾ ശാസ്ത്രീയാന്വേഷണത്തിന്റെ
+ഫലമായി ഇതിന്റെ ചെമ്പു തെളിഞ്ഞിരിക്കുന്നു.
+</p>
+          <p>പാശ്ചാത്യശാസ്ത്രജ്ഞന്മാരാണു് ഇതിന്റെ രഹസ്യം തെളിയിച്ചിരിക്കുന്നതു്. ആദ്യകാലത്തു് അവർക്കും
+ഇന്ത്യാക്കാരുടെ ഈ വിദ്യയിൽ അത്ഭുതം തോന്നിയിരുന്നു. തത്സംബന്ധമായി ഇംഗ്ലണ്ടിൽവെച്ചു് നടത്തിയ ചില
+പരീക്ഷണങ്ങൾ ‘നേച്ചർ’ എന്ന ശാസ്ത്രീയമാസികയിൽ വിവരിച്ചിട്ടുള്ളതു് ഇന്ത്യാക്കാർ പ്രത്യേകിച്ചും
+വായിച്ചറിയേണ്ടതാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kuda_Bux_magician.png" rendition="gra"/>
+            <figDesc style="thumb">കുഡാബൿസ്</figDesc>
+          </figure>
+          <p> തീക്കനൽച്ചാട്ടത്തിൽ പ്രസിദ്ധിനേടിയിട്ടുള്ള ഒരു ഇന്ത്യാക്കാരനാണു് <ref target="https://en.wikipedia.org/wiki/Kuda_Bux">കുഡാബൿസ്</ref> (Kuda Bux)
+എന്ന മുഹമ്മദീയൻ. 1935 സെപ്തംബർ മാസം
+17-ാം തീയതി അയാൾ കാർഷൽടൺ (Carshalten) എന്ന സ്ഥലത്തുവെച്ചു് അധികം
+ആംഗ്ലേയശാസ്ത്രജ്ഞന്മാരുടെ സാന്നിദ്ധ്യത്തിൽ ഒരു പരീക്ഷണം നടത്തി. ഇതിലേക്കായി നിർമിച്ച
+അഗ്നികുണ്ഡത്തിന്റെ നീളം, വീതി, താഴ്ച, ഉപയോഗിച്ച വിറകിന്റെ തൂക്കം, ചൂടിന്റെ അളവു്, പരീക്ഷകന്റെ തൂക്കം
+ഇവയെല്ലാം പ്രത്യേകം രേഖപ്പെടുത്തിയിട്ടുണ്ടു്. പതിനൊന്നടി നീളത്തിലുള്ള ഒരു ചെറിയ കിടങ്ങാണു് ഇതിലേക്കു്
+തയ്യാർ ചെയ്തതു്. തീ കത്തിജ്വലിച്ചു കനൽപ്പരുവമായപ്പോൾ അതിനു് 430 (430◦ C) ഡിഗ്രി ചൂടുണ്ടായിരുന്നു.
+കുഡാബൿസിന്റെ തൂക്കം 120 റാത്തലാണു്. നിശ്ചിതസമയത്തു് അയാൾ അതിൽക്കൂടി നടന്നു് പരീക്ഷണത്തിൽ
+വിജയിയായി. നടക്കുന്നതിനു് മുമ്പും പിമ്പും അയാളുടെ കാലിന്റെ ഉള്ളടികൾ ശാസ്ത്രജ്ഞന്മാർ പരിശോധിച്ചിരുന്നു.
+യാതൊരു വ്യത്യാസവും അവർ കണ്ടെത്തിയില്ല. ഇതിനുള്ള കാരണമെന്താണെന്നു് അവർ അന്നു മുതൽ
+ആലോചിച്ചുതുടങ്ങി. തന്റെ ഈശ്വരഭക്തിയും വിശ്വാസവും കൊണ്ടാണു് ഇതു് സാധിക്കുന്നതെന്നത്രേ
+കുഡാബൿസ് പറഞ്ഞതു്. ഇംഗ്ലണ്ടിലെ ശാസ്ത്രജ്ഞർക്കു് ഈ സമാധാനം തൃപ്തികരമായില്ല.
+ശാസ്ത്രീയവിചാരത്തിൽ അവർ ഒരു കാരണം കണ്ടുപിടിച്ചു. അന്നു് അതു് പലർക്കും സംശയജനകമായി
+തോന്നിയെങ്കിലും ഇപ്പോൾ അവരുടെ അഭിപ്രായം ശരിയെന്നു് വെളിപ്പെട്ടിരിക്കുന്നു. ഒന്നോ രണ്ടോ
+സെക്കന്റുകൊണ്ടാണു് ഈ തീക്കുഴിയിൽക്കൂടി പരീക്ഷകൻ നടക്കുന്നതു്. ആ ചുരുങ്ങിയ സമയത്തിനുള്ളിൽ
+അഗ്നിയും പാദവും തമ്മിലുണ്ടാകുന്ന സ്പർശം ഏറ്റവും ലഘുവായിട്ടുള്ള ഒന്നത്രേ. അത്രത്തോളം ലഘുവും
+ഝടിതിയിൽ ഉണ്ടാകുന്നതുമായ സ്പർശം കൊണ്ടു് ആരുടെയും കാലു പൊള്ളുന്നതല്ല എന്നായിരുന്നു
+ശാസ്ത്രജ്ഞന്മാർ അഭിപ്രായപ്പെട്ടതു്. പ്രസ്തുതാഭിപ്രായത്തെ സാധൂകരീക്കുന്ന ഒരു പരീക്ഷണം ഇപ്പോൾ
+നടന്നിരിക്കുന്നു. ഇക്കാര്യത്തിൽ ഈശ്വരനുമായി യാതൊരു ബന്ധവുമില്ലാത്ത ഒരു ഇംഗ്ലീഷുകാരനാണു് ഇതു്
+നടത്തിയതു്. കഴിഞ്ഞലക്കം ‘സയൻസ് മാസിക’യിൽ ഈ നവീന പരീക്ഷണത്തെപ്പറ്റി വിവരിക്കുകയും
+അതിനെ ആദ്യത്തേതുമായി താരതമ്യപ്പെടുത്തുകയും ചെയ്തിട്ടുണ്ടു്.
+</p>
+          <p>കഴിഞ്ഞ ഏപ്രിൽമാസം ഇരുപതാം തീയതി അലൿസാണ്ട്റാ പാലസ്സിൽ വെച്ചാണു് പ്രസ്തുത പരീക്ഷണം
+നടന്നതു്. കേംബ്രിഡ്ജിലെ ഒരു ഗ്രാഡ്വേറ്റായ റെജിനാൾഡ് ആഡ്കാക്സ്, അഹമ്മദ് ഹുസ്സെയിൻ ഇങ്ങനെ
+രണ്ടു പേർ ഇത്തവണ പരീക്ഷയിൽ ഏർപ്പെട്ടിരുന്നു.
+</p>
+          <p>12 അടി നീളം, 4 അടി വീതി, 9 ഇഞ്ചു് താഴ്ചയുള്ള കിടങ്ങു്, ഓക്ക്മരത്തിന്റെ 4 ടൺ വിറകു്. ഉപരിതലത്തിലെ
+ചൂടു് 800 ഡിഗ്രി—ഇതൊക്കെയാണു് ഇത്തവണത്തെ കണക്കു്. 126 റാത്തൽ തൂക്കമുള്ള ഹുസ്സെയിൻ ആദ്യം നടന്നു.
+അയാൾ 1.6 സെക്കന്റുകൊണ്ടു് നാലു് അടിവെച്ചു. കാലിനു് യാതൊരു പൊള്ളലും പറ്റിയില്ല. രണ്ടാമതു് നടന്ന
+ആഡ്കാൿസിനു് 160 റാത്തലാണു് തൂക്കം. അയാൾ 1.8 സെക്കന്റിൽ മൂന്നടിവെച്ചു് ഒട്ടും പൊള്ളൽ പറ്റാതെ ആ
+കനൽച്ചാൽ കടന്നു. ഇവരുടെ പരീക്ഷണം കുഡാബൿസിന്റേതിനോടു് താരതമ്യപ്പെടുത്തുമ്പോൾ കൂടുതൽ
+പ്രയാസമുള്ളതാണെന്നുവേണം പറയുവാൻ. എന്തെന്നാൽ ബൿസ് വിശ്വാസംകൊണ്ടു് നടന്ന കനൽച്ചാലിന്റെ
+ചൂടിനേക്കാൾ ഏതാണ്ടു് ഇരട്ടി ചൂടാണു് ഈ സാധാരണന്മാരുടെ പരീക്ഷയ്ക്കു് വിഷയമായതു്. ഏതായാലും കാലു
+പൊള്ളാത്തതിന്റെ കാരണം ഭക്തിയോ സിദ്ധിയോ വിശ്വാസമോ ഒന്നുമല്ലെന്ന സംഗതി ഇതോടുകൂടി
+തെളിവുസഹിതം വെളിപ്പെട്ടിരിക്കുന്നു. ശാസ്ത്രജ്ഞന്മാരുടെ അഭിപ്രായമാണു് ശരിയെന്നു് സ്ഥാപിതമാകുകയും
+ചെയ്തു.
+</p>
+          <p>ഇന്ത്യയിൽ ഇത്തരം അഗ്നിപരീക്ഷകൾ എത്രകാലമായി നടന്നുവരുന്നു! അവയെല്ലാം ഈശ്വരന്റെ
+വെളിപാടുകളെന്നു് അന്ധമായി വിശ്വസിക്കാതെ അവയെപ്പറ്റി ശാസ്ത്രീയമായി അന്വേഷിക്കാൻ ആരെങ്കിലും
+ഉദ്യമിക്കുന്നുണ്ടോ? ഇതു് യൂറോപ്യന്മാരുടെ കൈയിൽ കിട്ടിയപ്പോൾ അവർ എത്ര നിഷ്കർഷയോടുകൂടി, എത്ര
+പണം ചെലവാക്കി എങ്ങനെയെല്ലാം പരിശോധന നടത്തിയെന്നു് നോക്കുക! താദൃശമായ ഒരു
+ശാസ്ത്രീയമനഃസ്ഥിതിയും ജിജ്ഞാസയും നമ്മുടെയിടയിൽ പൊന്തിവരണമെങ്കിൽ ഇനിയും എത്രകാലം വേണ്ടി
+വരും.
+</p>
+          <p>
+(വിചാരവിപ്ലവം 1937)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  ‘Kuda Bux’inte Chembu Thelinju
+(ml: ‘കുഡാബൿസി’ന്റെ ചെമ്പു തെളിഞ്ഞു).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, ‘Kuda Bux’inte Chembu Thelinju, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ‘കുഡാബൿസി’ന്റെ ചെമ്പു
+തെളിഞ്ഞു, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 24, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Fritz_ZuberBuhler_Young_Girl_Holding_a_Doll.jpg">Young Girl Holding a Doll,</ref> a painting
+by <ref target="https://en.wikipedia.org/wiki/Fritz_Zuber-Buhler">Fritz
+Zuber-Buhler</ref>  (1822–1896). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-kudabucks.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-kudabucks.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

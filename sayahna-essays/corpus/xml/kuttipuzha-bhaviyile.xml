@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഭാവിയിലെ ക്ഷേത്രങ്ങൾ</title>
+          <title xml:lang="en" type="main">Bhaviyile Kshethrangal</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">January 30, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഭാവിയിലെ ക്ഷേത്രങ്ങൾ</title>
+              <title xml:lang="en" type="main">Bhaviyile Kshethrangal</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Bhaviyile Kshethrangal</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഭാവിയിലെ ക്ഷേത്രങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 30, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Cornflowers_in_a_Glass_Vase.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Alfred_Rouby_%281849__1909%29_%C2%ABCornflowers_in_a_Glass_Vase%C2%BB.jpg">Cornflowers in a
+Glass Vase,</ref> a painting by Alfred Rouby  (1849 - 1909). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഭാവിയിലെ ക്ഷേത്രങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഭാവിയിലെ ക്ഷേത്രങ്ങൾ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Louis_Pasteur.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലൂയി പാസ്ചിയർ</figDesc>
+          </figure>
+          <p style="noindent"> “തസ്മാച്ഛാസ്ത്രം പ്രമാണം തേ”—അതുകൊണ്ടു് ശാസ്ത്രമാണു് നിനക്കു് പ്രമാണം
+എന്നു് ഗീതാകാരൻ പറയുന്നു. പക്ഷേ, അന്നു് ശാസ്ത്രമെന്നു് പറഞ്ഞാൽ ശ്രുതിസ്മൃതിപുരാണാദിയെന്നാണു്
+അർത്ഥം. ഇന്നു് അതൊക്കെ മാറിയിരിക്കുന്നു. സയൻസാണു് ഇന്നത്തെ ശാസ്ത്രം. അതുതന്നെയാണു് നമുക്കു്
+പ്രമാണം. അതാണു് ജ്ഞാനസാധനമാകേണ്ടതും. മതവും തത്ത്വശാസ്ത്രവും എത്രയോ നൂറ്റാണ്ടുകളോളം
+മനുഷ്യന്റെ വിജ്ഞാനമാർഗത്തിൽ പ്രവർത്തിച്ചു. എന്നിട്ടും ജീവിതപുരോഗതിക്കാവശ്യമായ വെളിച്ചം അവൻ
+കണ്ടെത്തിയില്ല. മനുഷ്യൻ സംശയിക്കാനും ചോദ്യം ചെയ്യാനും അന്വേഷിക്കാനും തുടങ്ങിയപ്പോഴാണു്
+അറിവിന്റെ നുറുങ്ങുകൾ ഓരോന്നായി പുറത്തുവന്നതു്. മതം ഈ ചിന്താശീലത്തിനു് പ്രതിബന്ധമായിരുന്നു.
+തത്ത്വശാസ്ത്രത്തിനാകട്ടെ, മതത്തിന്റെ പിണിയാളായിരുന്നതിനാൽ സ്വതന്ത്രചിന്മാർഗത്തിൽ
+സ്വച്ഛന്ദസഞ്ചാരംചെയ്യാൻ കഴിഞ്ഞില്ല. സയൻസിന്റെ നിരീക്ഷണപരീക്ഷണങ്ങളാണു് പ്രായോഗികവും
+ഫലവത്തുമായ വിജ്ഞാനത്തിന്റെ കവാടോദ്ഘാടനം നടത്തിയതു്. പാസ്ചിയർ ഇൻസ്റ്റിറ്റ്യൂട്ടിലെ വിശ്രുത
+ശാസ്ത്രജ്ഞനായിരുന്ന മെച്ച്നികാഫ്, മനുഷ്യപ്രകൃതി (The Nature of Man) എന്ന പേരിൽ എഴുതിയിട്ടുള്ള ഒരു
+പുസ്തകത്തിൽ മതത്തിനും തത്ത്വശാസ്ത്രത്തിനും പറ്റിയ പരാജയത്തെക്കുറിച്ചു് തെളിവുസഹിതം പ്രസ്താവിക്കുന്നുണ്ടു്.
+മാനുഷികപ്രശ്നങ്ങൾക്കു് പരിഹാരം കാണാൻ ഈ രണ്ടിനും കഴിഞ്ഞിട്ടില്ലെന്നും സയൻസാണു് അതിൽ
+വിജയിക്കാൻ പോകുന്നതെന്നും അദ്ദേഹം അഭിപ്രായപ്പെടുന്നു. മെച്ച്നികാഫിന്റെ അഭിപ്രായത്തോടു് നാം
+പൂർണമായി യോജിച്ചാലുമില്ലെങ്കിലും മനുഷ്യജീവിതത്തിൽ ശാസ്ത്രജ്ഞാനത്തിനുള്ള മർമപ്രധാനമായ
+സമുന്നതസ്ഥാനത്തെ ആർക്കും നിഷേധിക്കാവുന്നതല്ല. അജ്ഞാനതിമിരാന്ധമായിരുന്ന ഭൂതകാലത്തിന്റെ
+പരിമർദനത്തിൽനിന്നു് തികച്ചും മോചനം ലഭിക്കാതെ ഇന്നും മാനവസംസ്കാരം സങ്കുചിതജീവിതവൃത്തങ്ങളിൽ
+ഞെങ്ങിഞെരുങ്ങിക്കിടക്കയാണല്ലോ. ഏകലോകസംസ്കാരമായി വികസിക്കുന്നതിനുള്ള വിശുദ്ധിയും വ്യാപ്തിയും
+നമ്മുടെ സംസ്കാരത്തിനുണ്ടാകണമെങ്കിൽ സയൻസിന്റെ ഗായത്രിമന്ത്രംതന്നെ ഉരുവിടേണ്ടിവരും.
+വിശ്വപൗരത്വത്തെ വാർത്തെടുക്കുന്ന ഒരു നവീനവിജ്ഞാനസംസ്കാരം ഇന്നത്തെ ലോകത്തിൽ
+വേരുറയ്ക്കേണ്ടിയിരിക്കുന്നു. അതിനു് സയൻസിന്റെ മാർഗമേ അവലംബമായിട്ടുള്ളു. സുപ്രസിദ്ധ ശാസ്ത്രാചാര്യനായ
+<ref target="https://ml.wikipedia.org/wiki/Louis_Pasteur">ലൂയി
+പാസ്ചിയർ</ref>, പരീക്ഷണശാലകളെപ്പറ്റി, ‘ഇവയാണു് ഭാവിയിലെ
+ക്ഷേത്രങ്ങൾ—ജീവിതസുസ്ഥിരതയുടെയും സൗഖ്യത്തിന്റെയും ക്ഷേത്രങ്ങൾ. അവിടെയാണു് മർത്യവർഗം
+കൂടുതൽ മഹത്വത്തിലും ബലത്തിലും നന്മയിലും വളരുന്നതു്’ (These are the temples of the future,
+temples of well-being and happiness… where humanity grows greater, stronger, better)
+എന്നു് പ്രവചിട്ടുള്ളതു് എത്രയും ശരിയാണു്. ഇതേ ആശയം <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">പണ്ഡിറ്റ് നെഹ്റു</ref>
+വും നിസ്സന്ദേഹം ആവർത്തിച്ചുകൊണ്ടിരുന്നു.
+</p>
+          <p>
+(യുക്തിവിഹാരം 1965)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Bhaviyile Kshethrangal (ml:
+ഭാവിയിലെ ക്ഷേത്രങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Bhaviyile Kshethrangal, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഭാവിയിലെ ക്ഷേത്രങ്ങൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 30, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Alfred_Rouby_%281849__1909%29_%C2%ABCornflowers_in_a_Glass_Vase%C2%BB.jpg">Cornflowers in a
+Glass Vase,</ref> a painting by Alfred Rouby  (1849 - 1909). The image is taken from
+<ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>
+ and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-bhaviyile.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-bhaviyile.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നമ്മുടെ മുമ്പിലെ കണ്ണാടികൾ</title>
+          <title xml:lang="en" type="main">Nammude Mumpile Kannadikal</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 6, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നമ്മുടെ മുമ്പിലെ കണ്ണാടികൾ</title>
+              <title xml:lang="en" type="main">Nammude Mumpile Kannadikal</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Nammude Mumpile Kannadikal</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>നമ്മുടെ മുമ്പിലെ കണ്ണാടികൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 6, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Returning_from_the_market.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Fr%C3%A8re_Returning_from_the_market.jpg">Returning
+from the market,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Catherine_Madox_Brown">Pierre
+Édouard Frère</ref>  (1819–1886). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നമ്മുടെ മുമ്പിലെ കണ്ണാടികൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നമ്മുടെ മുമ്പിലെ കണ്ണാടികൾ</head>
+        <div type="lsection">
+          <p style="noindent">നമ്മുടെ ദുരിതങ്ങളിൽ പ്രധാനം മറ്റുള്ളവരുമായുള്ള ഇടപഴക്കമാണു്—വീട്ടിലും
+റോട്ടിലും ജോലിസ്ഥലത്തുമെല്ലാം സ്ഥിതി ഒന്നു തന്നെ. തമ്മിലൊക്കുന്നില്ല എന്ന ദുരന്തം. ഭാര്യയും ഭർത്താവും
+തമ്മിൽ, ആങ്ങളയും പെങ്ങളും തമ്മിൽ, പിതാവും മക്കളും തമ്മിൽ, അമ്മായിയമ്മയും മരുമകളും തമ്മിൽ,
+മേലുദ്യോഗസ്ഥനും കീഴുദ്യോഗസ്ഥനും തമ്മിൽ… അങ്ങനെ എണ്ണിയാലൊടുങ്ങാത്ത സാഹചര്യങ്ങളിൽ
+ഈ ഒക്കായ്മ തലകാണിക്കുന്നു. എന്തിനു്, ബസ്സിൽ കയറിയാൽ കണ്ടക്ടറുമായി പെരുമാറുന്നതുപോലും
+‘ടെൻഷനാണു് ’. പരിചയമില്ലാത്തവരോടു് പെരുമാറാൻ പ്രയാസം! പരിചയമുള്ളവരോടു് പെരുമാറാൻ
+അതിലേറെ പ്രയാസം!!
+</p>
+          <p>ഇണക്കത്തെക്കാൾ അധികം പിണക്കം. ഇതെങ്ങനെ വന്നുകൂടുന്നു? എന്താണിതിന്നു പരിഹാരം? ഒറ്റയടിക്കു
+മറുപടി പറയാൻ പ്രയാസം. ആളുകളുടെ സ്വഭാവം പല വഴിക്കാണു്—‘ഭിന്നവിചിത്രമാർഗം’. എങ്ങനെയാണു്
+മറ്റുള്ളവരുടെയെല്ലാം സ്വഭാവം കാണാപ്പാഠം പഠിച്ചുവെച്ചു പെരുമാറുക? സ്വഭാവം പഠിക്കുന്ന പണി,
+പരിചയമുള്ളവരുടെ കാര്യത്തിലേ നടക്കൂ. പരിചയമില്ലാത്തവരുടെ സ്വഭാവം എന്താണെന്നു് എങ്ങനെ പഠിക്കും?
+</p>
+          <p>ഈ പ്രശ്നത്തിനു് ഞാൻ ഒരെളുപ്പവഴി പറയാം: നമ്മൾ അവനവന്റെ സ്വഭാവം പഠിച്ചറിയാൻ ശ്രമിക്കുക; അതു
+മാറ്റിപ്പണിയാനും പരിഷ്കരിക്കുവാനും ശ്രമിക്കുക. ഇതും അത്ര എളുപ്പമല്ല എന്നു് നമുക്കറിയാം. എങ്കിലും
+നാട്ടുകാരുടെയെല്ലാം സ്വഭാവം പഠിക്കാൻ നടക്കുന്നതിനെക്കാൾ പ്രയാസം കുറഞ്ഞ പണി തന്നെയാണിതു്.
+</p>
+          <p>നമ്മുടെ സ്വഭാവം എത്ര നേരെയാക്കിയിട്ടെന്താ മറ്റുള്ളവർ മോശമായി പെരുമാറിയാൽ എന്തു ചെയ്യും എന്നു
+നിങ്ങൾക്കു ചോദിക്കാം. എന്റെ മറുചോദ്യം: ഒരാൾ നിങ്ങളോടു് എങ്ങനെ പെരുമാറണം എന്നു്
+തീരുമാനിക്കുന്നതു് നിങ്ങളാണോ, അയാളാണോ? സത്യത്തിൽ അതു തീരുമാനിക്കുന്നതു് നിങ്ങളാണു്. നിങ്ങൾ
+അയാളോടു് എങ്ങനെ പെരുമാറുന്നു, നിങ്ങൾ നിങ്ങളെപ്പറ്റിയും അയാളെപ്പറ്റിയും എന്തു ഭാവിക്കുന്നു
+എന്നതിനെല്ലാം അനുസരിച്ചാണു് അയാൾ നിങ്ങളോടു പെരുമാറുന്നതു്.
+</p>
+          <p>ഇപ്പറഞ്ഞതിനു് ചെറിയൊരു ഉദാഹരണം പറയാം: നിങ്ങൾ സമയം പാലിക്കുന്നതിൽ നിഷ്ഠയുള്ള
+ആളാണെങ്കിൽ മറ്റുളളവർ മിക്കപ്പോഴും അതു നിങ്ങളോടും പാലിക്കും. വൈകുന്നേരം 4 മണിക്കു് എത്താം എന്നു
+നിങ്ങൾ പറഞ്ഞിട്ടു എത്തിയില്ല എങ്കിൽ അതിനർഥം നിങ്ങൾ സ്വന്തം വാക്കിനെ വിലവെച്ചില്ല എന്നാണു്.
+നിങ്ങളുടെ വാക്കിനെ നിങ്ങൾ വിലവെച്ചില്ലെങ്കിൽ പിന്നെ ആരു് അതിനെ വിലവെക്കും? സ്വന്തം വാക്കിനോടു്
+നിങ്ങൾ പെരുമാറുന്ന വിധത്തിൽ മറ്റുള്ളവർ അതിനോടു് പെരുമാറിയാൽ പോരേ?
+</p>
+          <p>പിന്നെ, ഒരാളോടു് ഏതളവിൽ സ്വാതന്ത്ര്യം എടുക്കണം; ഒരാൾക്കു് ഏതളവിൽ സ്വാതന്ത്ര്യം കൊടുക്കണം
+എന്നെല്ലാം തീരുമാനിക്കുന്നതു നിങ്ങളാണു്. നിങ്ങൾ സ്നേഹം കൊടുത്താലേ നിങ്ങൾക്കു് സ്നേഹം കിട്ടൂ; നിങ്ങൾ
+ബഹുമാനം കൊടുത്താലേ നിങ്ങൾക്കു് ബഹുമാനം കിട്ടൂ.
+</p>
+          <p>പ്രായം കൂടിയവരിൽ നിന്നു് നിങ്ങൾക്കു് സ്നേഹം കിട്ടണമെങ്കിൽ നിങ്ങൾ അവർക്കു് ബഹുമാനം കൊടുക്കണം.
+പ്രായം കുറഞ്ഞവരിൽ നിന്നു് നിങ്ങൾക്കു് ബഹുമാനം കിട്ടണമെങ്കിൽ നിങ്ങൾ അവർക്കു് സ്നേഹം കൊടുക്കണം.
+</p>
+          <p>കണ്ടോ, കണ്ടോ: എല്ലാം നിങ്ങളെത്തന്നെ ആശ്രയിച്ചാണു്. നിങ്ങൾക്കു് ചുറ്റുമുള്ള ലോകം നിങ്ങൾ തന്നെ
+സൃഷ്ടിക്കുന്നതാണു്. ആരോടു് കൂടുതൽ അടുക്കാം; ആരോടു് കൂടുതൽ അടുത്തുകൂടാ എന്നു് തീരുമാനിക്കേണ്ടതും
+നിങ്ങൾ തന്നെയാണു്.
+</p>
+          <p>മറ്റൊരാളുമായുള്ള പിണക്കവും കലഹവും കൂടാതെ കഴിക്കണം എന്നു് നമ്മൾ ആഗ്രഹിക്കുമ്പോൾ
+സാധാരണ നിലയ്ക്കു് നമ്മൾ ആലോചിക്കുന്നതു് അതിന്നുവേണ്ടി മറ്റേയാൾ എന്തു ചെയ്യണം എന്നാണു്.
+യഥാർഥത്തിൽ വേണ്ടതു് അതിനുവേണ്ടി നമ്മൾ എന്തു ചെയ്യണം എന്നു് ആലോചിക്കുകയാണു്.
+</p>
+          <p>ഭാര്യയും ഭർത്താവും തമ്മിലുള്ള സ്വരച്ചേർച്ചയില്ലായ്മ ഒഴിവാക്കാൻ ഭാര്യ എന്തു വേണമെന്നു് ഭർത്താവോ,
+ഭർത്താവു് എന്തു വേണമെന്നു് ഭാര്യയോ ആലോചിക്കുന്നതിൽ കഥയില്ല. മറിച്ചു് ഭാര്യ എന്തുവേണമെന്നു് ഭാര്യയും
+ഭർത്താവു് എന്തുവേണമെന്നു് ഭർത്താവും ആലോചിക്കണം. അതനുസരിച്ചു് പ്രവർത്തിക്കണം. കാര്യം: നമുക്കു്
+മറ്റൊരാളെ മാറ്റാൻ കഴിയില്ല. പകരം നമ്മളെ സ്വയം മറ്റാം. ആ മാറ്റം മറ്റേയാളെ മാറ്റിയേക്കാം. അതു കൊണ്ടേ
+
+വല്ല പ്രയോജനവും ഉണ്ടാവൂ. മറ്റേയാൾ എങ്ങനെയൊക്കെ മാറണമെന്നു് കണ്ടുപിടിക്കുകയും നമ്മൾ മാറാതെ
+നില്ക്കുകയും ചെയ്തിട്ടെന്തു കിട്ടാനാണു്?
+</p>
+          <p>അവനവനെ മാറ്റിപ്പണിയണമെങ്കിൽ വിനയം വേണം, യാഥാർഥ്യ ബോധം വേണം, അവനവനു് തെറ്റുപറ്റി
+എന്നു സമ്മതിക്കണം, അതു തിരുത്തുവാനുള്ള മര്യാദവേണം—ഇത്രയൊക്കെ ഉണ്ടെങ്കിൽ ലോകം
+എന്തൊക്കെയായാലും, എങ്ങനെയൊക്കെ പെരുമാറിയാലും ഒരു പരിധിയിലധികം അതു നമ്മളെ ബാധിക്കില്ല.
+മറ്റുള്ളവർ എങ്ങനെ പെരുമാറിയാലും നമ്മൾ നമ്മൾക്കനുസരിച്ചേ പെരുമാറൂ എന്നു് വെച്ചാൽ വലിയൊരു
+ശതമാനം അസ്വാസ്ഥ്യം ഒഴിവാക്കാം എന്നു തന്നെയാണു് എന്റെ ബോധ്യം.
+</p>
+          <p>മറ്റൊരാൾ നമ്മളോടു പെരുമാറുമ്പോൾ നമ്മൾ നമ്മളെത്തന്നെ കണ്ണാടിയിലെന്ന പോലെ കാണുകയാണു്.
+മറ്റേയാൾ നമ്മുടെ മുമ്പിലെ കണ്ണാടി മാത്രമാണു്. ആ കാണുന്നതിൽ വല്ല പിശകും ഉണ്ടെങ്കിൽ മാറ്റം വേണ്ടതു്
+കണ്ണാടിക്കല്ല, നമുക്കാണു്.
+</p>
+          <p>
+വർത്തമാനം ദിനപത്രം: 8 ജൂലൈ 2005.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Nammude Mumpile Kannadikal
+(ml: നമ്മുടെ മുമ്പിലെ കണ്ണാടികൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Nammude Mumpile Kannadikal, എം. എൻ. കാരശ്ശേരി, നമ്മുടെ മുമ്പിലെ കണ്ണാടികൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 6, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Fr%C3%A8re_Returning_from_the_market.jpg">Returning
+from the market,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Catherine_Madox_Brown">Pierre
+Édouard Frère</ref>  (1819–1886). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-kannadikal.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-kannadikal.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നമത് വാഴ്‌വും കാലമും</title>
+          <title xml:lang="en" type="main">Namath Vazhvum Kaalamum</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നമത് വാഴ്‌വും കാലമും</title>
+              <title xml:lang="en" type="main">Namath Vazhvum Kaalamum</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Namath Vazhvum Kaalamum</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>നമത് വാഴ്‌വും കാലമും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/All_Souls_Day.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Jakub_Schikaneder__All_Souls%27_Day.jpg">All Souls’ Day,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jakub_Schikaneder">Jakub
+Schikaneder</ref>  (1855–1924). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നമത് വാഴ്‌വും കാലമും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നമത് വാഴ്‌വും കാലമും</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sukumar_azhikode.jpg" rendition="gra"/>
+            <figDesc style="thumb">സുകുമാർ അഴീക്കോട്</figDesc>
+          </figure>
+          <p style="noindent"> മൂന്നക്ഷരംകൊണ്ടു് മൂപ്പാരും പുകഴ്പെറ്റ പൊടിപൂരം തിരുനാൾ നാടുനീങ്ങി.
+അപ്രതീക്ഷിതമോ ആകസ്മികമോ ആയിരുന്നില്ല അന്ത്യം. അക്കാരണംകൊണ്ടുതന്നെ പത്രമാസികാദികളും
+ദൃശ്യമാധ്യമങ്ങളും മഹച്ചരമം ശരിക്കാഘോഷിച്ചു. യക്ഷകിന്നര ഗന്ധർവന്മാർ വീരഭദ്ര പ്രചോദിതരായി
+വിലാപഗാനാലാപം നടത്തി. ഡെയ്ലി ടെലഗ്രാഫ് മുതൽ ഗോമതിവരെ മുഖപ്രസംഗമെഴുതി; സഞ്ചയനം
+പ്രമാണിച്ചു് വാരികകളുടെ നടുമുറ്റത്തു് കണ്ണോക്കു ലേഖനങ്ങൾ കൂമ്പാരം കൂടി. അനുശോചന സന്ദേശങ്ങൾ
+അണമുറിഞ്ഞൊഴുകി: ലിറ്റൻസ്ട്രാച്ചിയുടെ, വാട്ടർഗേറ്റ് നിക്സന്റെ, കൊച്ചിത്തമ്പുരാന്റെ, ഇട്ടൂപ്പു മുതലാളിയുടെ,
+ചീതക്കുട്ടി കെട്ടിലമ്മയുടെ, ശോഭനാ ജോർജിന്റെ…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/kgs-new.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ജി. ശങ്കരപ്പിള്ള</figDesc>
+          </figure>
+          <p> സർക്കാർ ബഹുമതിയോ ആചാരവെടിയോ സർവാണിസദ്യയെങ്കിലുമോ ഉണ്ടായില്ലെങ്കിലും
+ഐവർമഠത്തിൽ നടന്ന സംസ്കാര കർമങ്ങൾ പൊടിപാറിയെന്നാണു് റോയിറ്റർ റിപ്പോർട്ട്. പുലരുവാനേഴര
+രാവുള്ളപ്പോൾ ടൂർ പ്രോഗ്രാം തെറ്റിച്ചു് ടൂറിസം മന്ത്രിയെത്തി; കിഴക്കു വെള്ളകീറിയതും ചുവപ്പുനാടകൊണ്ടു് കെട്ടിയ
+പുഷ്പ ചക്രവുമേന്തി അഡീഷനൽ ജില്ലാ മജിസ്ട്രേറ്റും. ശവസംസ്കാരം കഴിഞ്ഞ ശേഷമാണു് സാംസ്കാരിക മന്ത്രി
+വന്നതു്. പയ്യൻസിന്റെ സ്മരണ നിലനിറുത്താൻ സാംസ്കാരികവകുപ്പു് നടപടി എടുക്കും എന്നൊരു ഭീഷണി മുഴക്കി
+കശ്മലൻ. ശവസംസ്കാരച്ചടങ്ങുമായി സർക്കാർ സഹകരിച്ചില്ല എന്ന പരാതി ഗൗരവമായി പരിശോധിക്കും,
+കുറ്റക്കാർക്കെതിരെ നടപടിയും ഉണ്ടാകും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sara_Joseph.jpg" rendition="gra"/>
+            <figDesc style="thumb">സാറാജോസഫ്</figDesc>
+          </figure>
+          <p> സർക്കാർ ബഹുമതിയോടെ ശവമടക്കു നടത്തേണ്ടും പുള്ളികളുടെ പട്ടികയിൽ സാഹിത്യകാരന്മാരുടെ
+പേരുവിവരം കാണുന്നില്ലെന്നാണു് ബന്ധപ്പെട്ട രേഖകൾ പരിശോധിച്ച ശേഷം ഡപ്പിടി കളക്ടൻ അറിയിച്ചതു്.
+അതല്ല, ബഹുമതി കൂടിയേ തീരുവെന്നാണെങ്കിൽ നിർദ്ദിഷ്ട ഫാറത്തിൽ അഞ്ചുർപ്യ സ്റ്റാമ്പൊട്ടിച്ചു് മറുപടിക്കു
+ലാക്കോട്ടു സഹിതം അപേക്ഷിക്കണം. സർക്കാറിൽനിന്നു് സ്പെഷൽ ഓർഡർ വാങ്ങണം. അന്തിക്കാടു
+ഭഗവതീക്ഷേത്ര നടയിലെ ആലുമുറിച്ചു് ആസനം പൊള്ളിയ വി. എം. ഗോപാലമേനോനാണു് തൃശ്ശിവപേരൂർ
+ജില്ലാ കളക്ടൻ. കാഞ്ഞവെള്ളത്തിൽ ചാടിയ മേനോൻ പച്ചവെള്ളം കണ്ടാലും ഞെട്ടും. വല്ലാത്ത സർക്കാർ
+പ്രഭാവത്തിനേക്കാൾ ഇല്ലാത്ത സർക്കാർ പ്രഭാവം സുഖംകേൾ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Balachandran_chullikad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബാലചന്ദ്രൻ ചുള്ളിക്കാട്</figDesc>
+          </figure>
+          <p> വിവാദ കുതുകികളായ ചില സാംസ്കാരിക നായകർ ഈയവസരം മുതലാക്കി സർക്കാറിന്റെ മണ്ടക്കു മേടി.
+
+<ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">സുകുമാർ
+അഴീക്കോട്</ref>, <ref target="https://en.wikipedia.org/wiki/Sarah_Joseph_(author)">സാറാജോസഫ്</ref>,
+<ref target="https://books.sayahna.org/html/kgs-bio.html">കെ. ജി.
+ശങ്കരപ്പിള്ള</ref>, <ref target="https://en.wikipedia.org/wiki/Balachandran_Chullikkad">ബാലചന്ദ്രൻ
+ചുള്ളിക്കാട്</ref> എന്നിവർ അവയിൽ പ്രമാണികൾ. ആദ്യത്തെ മൂന്നുപേരും അടുത്തൂൺ പറ്റിയ കോളേജ്
+അധ്യാപകരും കേരള-കേന്ദ്ര സാഹിത്യ അക്കാദമി അവാർഡു ജേതാക്കളും ഇടതുപക്ഷ സഹയാത്രികരും
+അക്കാരണംകൊണ്ടുതന്നെ കാർത്തികേയവിരോധികളുമാകുന്നു. ഇന്നു നീ, നാളെ ഞാൻ. നാം നാടുനീങ്ങുമ്പോഴും
+ഐക്യമുന്നണി ഭരണമാണെങ്കിൽ, <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയൻ</ref>
+തന്നെയാണു് മന്ത്രി, ഗോപാലമേനോനാണു് കളക്ടറുമെങ്കിൽ ഔദ്യോഗിക ബഹുമതി ഗോപി! അതുകൊണ്ടു്
+കാറ്റുള്ളപ്പോൾ പാറ്റണം, വെയിലുള്ളപ്പോൾ വൈക്കോലുണക്കണംം. മറ്റുള്ളവരുടെ അനുഭവത്തിൽ നിന്നു് പാഠം
+പഠിക്കുന്നവരല്ലോ വിവേകശാലികൾ!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vkn.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. കെ. എൻ.</figDesc>
+          </figure>
+          <p> അധികാരത്തെ വിമർശിച്ച <ref target="https://ml.wikipedia.org/wiki/VKN">വി. കെ. എൻ.</ref> ഇപ്പോഴുണ്ടായ
+സംഭവങ്ങൾ കണ്ടുചിരിക്കുകയായിരിക്കുമെന്നു് പറഞ്ഞു, ശങ്കരപ്പിള്ള. <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">പനമ്പിള്ളി</ref>
+യെപ്പോലുള്ള ഭരണാധികാരികൾ ഇപ്പോഴില്ല എന്നു അഴീക്കോടു് പരിതപിച്ചു. സർക്കാറിന്റെ കാഴ്ചപ്പാടു്
+സങ്കുചിതമാണു്. അവർക്കു് വി. കെ. എന്നിന്റെ മഹത്ത്വം അറിയില്ല. പോൾ സാറിനെ
+തെമ്മാടിക്കുഴിയിലടക്കിയപ്പോൾ (1952) പനമ്പിള്ളി മന്ത്രി എന്തുചെയ്തു, <ref target="https://ml.wikipedia.org/wiki/Vyloppilli_Sreedhara_Menon">വൈലോപ്പിള്ളി</ref>
+യുടെ ശവദാഹം എ. ഐ. ടി. യു. സിക്കാർ തടഞ്ഞപ്പോൾ (1985) ഇടതുപക്ഷ ബുദ്ധിജീവികൾഎവിടെയായിരുന്നു
+എന്നൊന്നും തിരിച്ചുചോദിക്കരുതു്. സാഗരഗർജനത്തിൽ ചോദ്യമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_Karthikeyan.png" rendition="gra"/>
+            <figDesc style="thumb">കാർത്തികേയൻ</figDesc>
+          </figure>
+          <p> സാറാജോസഫ് ഒരടികൂടി മുന്നോട്ടു കയറി, പത്മശ്രീ കിട്ടാത്തതുകൊണ്ടു് സംസ്ഥാന ബഹുമതി നിഷേധിച്ചു
+എന്ന വാദഗതി അൽപത്തമാണെന്നു പറഞ്ഞു. <ref target="https://ml.wikipedia.org/wiki/Anju_Bobby_George">അഞ്ജു ബോബി
+ജോർജിനു</ref> വരെ ലഭിച്ച പത്മശ്രീ കിട്ടാഞ്ഞതോ വി. കെ. എന്നിന്റെ അയോഗ്യത? എങ്കിൽ പത്മ
+അവാർഡുകളൊന്നും ലഭിക്കാതിരുന്ന <ref target="https://ml.wikipedia.org/wiki/N._P._Muhammad">എൻ. പി. മുഹമ്മദ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Nagavally_R.S._Kurup">നാഗവള്ളി
+ആർ. എസ്. കുറുപ്പ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Thikkodiyan">തിക്കോടിയൻ</ref> മുതൽ
+പേരുടെ ശവസംസ്കാരം സർക്കാർ ബഹുമതിയോടെ നടത്തിയോ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Panampilly_Govinda_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">പനമ്പിള്ളി</figDesc>
+          </figure>
+          <p> അത്ലറ്റിക്സിനെക്കുറിച്ചുള്ള ഫെമിനിസ്റ്റ് വീക്ഷണം എന്തെന്നറിയില്ല. വി. കെ. എന്നിന്റെ മരിച്ചടക്കിനു്
+
+സർക്കാർ ബഹുമതി കിട്ടാഞ്ഞതിനു് പാവം അഞ്ജു ബോബി ജോർജ് എന്തുപിഴച്ചു? കഴിഞ്ഞ
+ആഗസ്റ്റ്–സെപ്റ്റംബറിൽ ഫ്രാൻസിലെ സാങ്ദെനിയിൽ നടന്ന 9-ാമതു് ലോക അത്ലറ്റിക് ചാമ്പ്യൻഷിപ്പിൽ
+6.70 മീറ്റർ ചാടി വെങ്കലം നേടിയവൾ അഞ്ജു. കഴിഞ്ഞയാണ്ടിൽ അർജുന അവാർഡു നേടി, ഈ വർഷം
+പത്മശ്രീയും. വെങ്കലവും അർജുനയും പത്മശ്രീയുമൊക്കെപ്പോയാലും 6.70 മീറ്റർ എന്ന മഹാദൂരം ബാക്കി
+നിൽക്കുകയില്ലേ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Npmuhammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. പി. മുഹമ്മദ്</figDesc>
+          </figure>
+          <p> ബാലചന്ദ്രനിൽ രുദ്രൻവെളിച്ചപ്പാടു് ആവേശിച്ചു. പള്ളിവാളും കാൽച്ചിലമ്പുമായി കവി ഉറഞ്ഞുതുള്ളി:
+“പൊലീസ് നായ ചത്താലും സംസ്ഥാന ബഹുമതികളോടെ സംസ്കരിക്കുന്ന കേരളത്തി… ഹിയ്യേ…
+വി. കെ. എന്നോടു് കാട്ടിയ വിവേചനം സാംസ്കാരികാപരാധം… ഹിയ്യേ, ഹിയ്യേ… കോൺഗ്രസിലെ
+അഴിമതിയും അധികാരക്കൊതിയും തുറന്നുകാണിച്ചതുകൊണ്ടാണു് സംസ്ഥാന ബഹുമതി നിഷേധിച്ചതു്…”
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Anju_Bobby_George.jpg" rendition="gra"/>
+            <figDesc style="thumb">അഞ്ജു ബോബി ജോർജ്</figDesc>
+          </figure>
+          <p> വീക്ഷണത്തിൽ ജോലി ചെയ്യുമ്പോഴും പിന്നീടും അഴിമതിയോടു്, വിശിഷ്യാ കോൺഗ്രസിലെ അഴിമതിയോടു്
+അസഹിഷ്ണുത പുലർത്തിയ ധീരനാണു് ബാലചന്ദ്രൻ. ഒരു പതിറ്റാണ്ടുമുമ്പു്, ദേശീയ സാംസ്കാരിക ഐക്യത്തിന്റെ
+ഉന്നമനം ലാക്കാക്കി പ്രവർത്തിച്ചിരുന്ന ‘സുരഭി’ എന്ന സന്നദ്ധ സാംസ്കാരിക സംഘടനയുമായി സഹകരിച്ചു് കവി
+സംഘടിപ്പിച്ച മാനസോൽസവംതന്നെ മനോഹരമായ ഉദാഹരണം. അക്കാലത്തു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+മനഃസാക്ഷി സൂക്ഷിപ്പുകാരനും കോൺഗ്രസിലെ ഹെവിവെയ്റ്റു താരവുമായ എൻ. വേണുഗോപാലായിരുന്നു
+സുരഭിയുടെ ചെയർമാൻ. യുവ കോൺഗ്രസ് നേതാക്കൾ കെ. സി. രമേശ്, സി. എം. ഉണ്ണി, ജോൺ ഡേവിഡ്
+എന്നിവർ ഇതര സംഘാടകർ. സ്വാഗതസംഘം കൺവീനർ <ref target="https://en.wikipedia.org/wiki/Balachandran_Chullikkad">ബാലചന്ദ്രൻ
+ചുള്ളിക്കാടു്</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thikkodiyan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിക്കോടിയൻ</figDesc>
+          </figure>
+          <p> 1994 സെപ്റ്റംബർ 17-നു് ആലുവാ മണപ്പുറത്തു് മാനസോൽസവത്തിന്റെ ഉദ്ഘാടനകർമ്മം നിർവഹിച്ചതു്
+എതിരവീരശരച്ചന്ദ്ര—ബൗദ്ധൻ, എതിരറ്റ സിംഹള സാഹിത്യകാരൻ. അധ്യക്ഷൻ <ref target="https://ml.wikipedia.org/wiki/U.R._Ananthamurthy">ഡോ. യു. ആർ.
+അനന്തമൂർത്തി</ref>, മുഖ്യപ്രഭാഷകൻ <ref target="https://ml.wikipedia.org/wiki/M.T._Vasudevan_Nair">എം. ടി. വാസുദേവൻ
+നായർ</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. കരുണാകരൻ</figDesc>
+          </figure>
+          <p> 19-ാം തീയതി സമാപന സമ്മേളനം ഉദ്ഘാടനം ചെയ്തതു് അന്നത്തെ മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ.
+കരുണാകരൻ</ref>—താളവാദ്യകലാകാരൻ, കേരള രാഷ്ട്രീയത്തിലെ ഭീഷ്മപിതാമഹൻ സർ ചാത്തു.
+
+ഇന്ത്യയുടെ ഐക്യത്തിനും അഖണ്ഡതക്കും എന്നും ദേശീയ സാഹിത്യത്തിന്റെ സംഭാവനയുണ്ടായിരുന്നു. ഒരൊറ്റ
+ഇന്ത്യ എന്ന സങ്കല്പത്തെ ഊട്ടിയുറപ്പിച്ചതു് മഹാഭാരതവും രാമായണവും പോലുള്ള ഇതിഹാസങ്ങളാണു്.
+മതസമന്വയത്തിന്റെയും സത്യത്തിന്റെയും അഹിംസയുടെയും ഉന്നതമൂല്യങ്ങൾക്കുവേണ്ടിയാണു്
+ദേശീയസാഹിത്യം എന്നും നിലകൊണ്ടതു്, രാജ്യം രാഷ്ട്രീയമായി വേർതിരിഞ്ഞിനിന്ന കാലത്തും കലയും
+സാഹിത്യവും ജനങ്ങളെയും സംസ്കാരങ്ങളെയും സമന്വയിപ്പിക്കാനാണു് ശ്രമിച്ചതു്: കരുണാകരൻ പറഞ്ഞു.
+സുരഭിയുടെ ആഭിമുഖ്യത്തിൽ ദേശീയസാഹിത്യഫോറം രൂപവത്കരിക്കുമെന്നു് ചടങ്ങിൽ അധ്യക്ഷത വഹിച്ച
+എൻ. വേണുഗോപാൽ അറിയിച്ചു. കൃതജ്ഞതപറഞ്ഞ ബാലചന്ദ്രൻ മുഖ്യനെ നിതരാം സ്തുതിച്ചു. ഓണനിലാവിൽ
+മുങ്ങിയ ആലുവാ മണപ്പുറം കവിവചനം കേട്ടു് കോരിത്തരിച്ചു. ഭീഷ്മാചാര്യൻ വെൺചന്ദ്രികക്കു് നിറം കൂടുമാറൊന്നു
+പുഞ്ചിരിക്കൊള്ളുക മാത്രം ചെയ്തു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/UR_Ananthamurthy.jpg" rendition="gra"/>
+            <figDesc style="thumb">യു. ആർ. അനന്തമൂർത്തി</figDesc>
+          </figure>
+          <p> ചടങ്ങിനൊടുവിൽ മുഖ്യമന്ത്രിയും സംഘാടകരും സാഹിത്യ നായകരും ചേർന്നു് ദേശീയ ഐക്യത്തിനും
+സമാധാനത്തിനും വേണ്ടിയുള്ള ഹൃദയംഗമായ മൗനപ്രാർത്ഥനയോടെ ദീപ്തമായ നൂറുകണക്കിനു്
+മൺചെരാതുകൾ പെരിയാറ്റിലൊഴുക്കി.
+</p>
+          <p>ആലുവാപ്പുഴ പിന്നെയുമൊഴുകി. സുരഭിയെക്കുറിച്ചോ ദേശീയ സാഹിത്യ ഫോറത്തെക്കുറിച്ചോ
+പിന്നീടൊരിക്കലും ആരും കേൾക്കുകയുണ്ടായില്ല. മാസങ്ങൾക്കകം കരുണാകരന്റെ മന്ത്രിസഭ തകർന്നു.
+വേണുഗോപാലും കെ. സി. രമേശുമൊക്കെ മൂന്നാംഗ്രൂപ്പിൽ ചേക്കേറി (ഇക്കഴിഞ്ഞ എറണാകുളം
+ഉപതെരഞ്ഞെടുപ്പിനു മുമ്പായി ഇരുവരും കരുണാകരപക്ഷത്തു തിരിച്ചെത്തി). ഭരണസ്വാധീനമുപയോഗിച്ചു്
+നെല്ലായും പണമായും ഖദർധാരികൾ പിരിച്ചതിന്റെ—പുട്ടടിച്ചതിന്റെയും—കണക്കു് കംപ്ട്രോളർ ആന്റ് ഓഡിറ്റർ
+ജനറൽ പരിശോധിച്ചു ബോധ്യപ്പെട്ടോ എന്തോ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MT_VASUDEVAN_NAIR.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ടി. വാസുദേവൻ നായർ</figDesc>
+          </figure>
+          <p> 1998 ഡിസംബറിൽ പ്രസിദ്ധീകരിച്ച ‘ചിദംബര സ്മരണ’ ആദ്യ പതിപ്പിലെ കവിയുടെ ജീവചരിത്രക്കുറിപ്പിൽ
+ഇങ്ങനെയും ഒരു വാക്യം കാണുന്നു: 1994 സെപ്റ്റംബറിൽ ആലുവായിൽവെച്ചു് കേന്ദ്ര സാഹിത്യ
+അക്കാദമിയുടെയും സുരഭിയുടെയും സംയുക്താഭിമുഖ്യത്തിൽ 22 ഇന്ത്യൻ ഭാഷകളിലെ 220 സാഹിത്യകാരന്മാരെ
+പങ്കെടുപ്പിച്ചു നടത്തിയ ‘മാനസോൽസവം’ എന്ന ദേശീയ സാഹിത്യ സമ്മേളനത്തിന്റെ സ്വാഗതസംഘം
+കൺവീനറായി പ്രവർത്തിച്ചു.
+</p>
+          <p>ഇനി ഡോ. കെ. ഗോപിനാഥൻ എഡിറ്റ് ചെയ്തു് തൃശൂർ കറന്റ് പ്രസിദ്ധീകരിച്ച ‘ഇ. എം. എസ്.: വാക്കും
+സമൂഹവും’ എന്ന ഗ്രന്ഥത്തിൽ നിന്നു് ബാലചന്ദ്രന്റെ ഒരു വാക്യം: <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസി</ref> ന്റെ അറിവോ
+സമ്മതമോ അംഗീകാരമോ ആശീർവാദമോ ഇല്ലാതെതന്നെ ഒരു എഴുത്തുകാരൻ എന്ന നിലയിൽ അംഗീകാരം
+നേടാൻ എനിക്കു കഴിഞ്ഞു എന്ന കാര്യത്തിൽ അനൽപമായ ചാരിതാർഥ്യം എനിക്കുണ്ടു്. (കെ.
+കരുണാകരനോടു് അസൂയതോന്നും സഖാവു് ഇ. എമ്മിനു്).
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. എം. എസ്.</figDesc>
+          </figure>
+          <p> അക്കാദമി അവാർഡ് വാങ്ങിയവർ, നിരസിച്ചവർ, തിരിച്ചുകൊടുത്തവർ എന്ന ഭേദ ചിന്ത കൂടാതെ ഏതൊരു
+സാഹിത്യകാരന്റെയും ശവദാഹവും പുലകുളിയടിയന്തിരവും സർക്കാർ ഏറ്റെടുത്തു നടത്തട്ടെ. നെല്ലും അരിയും
+എണ്ണയും സിവിൽസപ്ലൈസ് വകുപ്പിന്റെ ഓണച്ചന്തയിൽനിന്നു്, വിറകു് വനംവകുപ്പിന്റെ ഗോഡൗണിൽനിന്നും.
+ഇളയതിന്റെ ദക്ഷിണ ദേവസ്വം വകുപ്പു നൽകണം. സ്വദേശി-വിദേശി ഭേദമെന്യേ സകല ഷാപ്പുകൾക്കും ഉച്ചവരെ
+
+ഹർത്താൽ നിർബന്ധം. അനുശോചന പ്രമേയങ്ങളെ വിനോദനികുതിയിൽനിന്നു് തീർത്തും ഒഴിവാക്കണം.
+ശവസംസ്കാരവേളയിൽ പൊലീസ് ബാന്റ് ‘ഹയീസേ ജോളീ ഗുഡ് ഫെല്ലോ’ എന്ന ത്യാഗരാജ കീർത്തനം
+അഠാണ രാഗത്തിൽ ആലപിക്കുകകൂടി ചെയ്താൽ സുഖം, സന്തോഷം, സമാധാനായങ്ങടു് സമാധ്യാവാം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Namath Vazhvum Kaalamum (ml:
+നമത് വാഴ്‌വും കാലമും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Namath
+Vazhvum Kaalamum, കെ. രാജേശ്വരി, നമത് വാഴ്‌വും കാലമും, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Jakub_Schikaneder__All_Souls%27_Day.jpg">All Souls’ Day,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jakub_Schikaneder">Jakub
+Schikaneder</ref>  (1855–1924). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-vazhv.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-vazhv.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

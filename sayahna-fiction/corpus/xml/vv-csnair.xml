@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വിദ്വാൻ സി. എസ്. നായർ</title>
+          <title xml:lang="en" type="main">Vidwan C. S. Nair</title>
+        </title>
+        <author>Vallathol Vasudevamenon B. A.</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">October 27, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വിദ്വാൻ സി. എസ്. നായർ</title>
+              <title xml:lang="en" type="main">Vidwan C. S. Nair</title>
+            </title>
+            <author>Vallathol Vasudevamenon B. A.</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Thoolikachithram</term>
+          <term>Vallathol Vasudevamenon B. A.</term>
+          <term>Vidwan C. S. Nair</term>
+          <term>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</term>
+          <term>വിദ്വാൻ സി. എസ്. നായർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="thoolikachithram">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 27, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Peach_tree_in_blossom.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh__Peach_tree_in_blossom_-_Google_Art_Project.jpg">Almond tree in blossom,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Vincent_van_Gogh">Vincent van
+
+Gogh</ref>  (1853–1890). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വിദ്വാൻ സി. എസ്. നായർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വിദ്വാൻ സി. എസ്. നായർ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Otto_Wegener_Proust.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രൗസ്റ്റ്</figDesc>
+          </figure>
+          <p style="noindent"> ആളുകളായിട്ടും അടുപ്പം വളർത്താതിരുന്നെങ്കിൽ എത്ര
+നന്നായിരുന്നെന്നു—ഇടയ്ക്കു ഞാനാലോചിക്കാറുണ്ടു്. ഇതു അഭിനന്ദനീയമായ ഒരു മനോഗതിയല്ലായിരിക്കാം.
+എന്നാൽ, അവനവൻ ഉറ്റവർക്കും ഇഷ്ടജനങ്ങൾക്കും അത്യാപത്തു നേരിടുമ്പോൾ അതു സഹിക്കാനുള്ള
+അശക്തിനിമിത്തം എനിക്കിടയ്ക്കു നിസ്സഹായനായി ഖേദിക്കാതിരിക്കാൻ കഴിയാറില്ല. “കഷ്ടം! അവരായിട്ടു്”
+എന്തിനിത്ര വലിയ അടുപ്പം വളർത്തിവന്നു? “ പക്ഷേ, ഈ നിസ്സഹായതാബോധത്തിന്നും ഇത്ര നിശിതമായ
+പ്രതികാരബുദ്ധിയോടെ വന്നു ആശിക്കുവാൻ കഴിയുമെന്നു ഞാനൊരിക്കലും വിചാരിക്കുകയുണ്ടായില്ല; അത്ര
+തീവ്രമായ മനോവേദനയും കഠിനമായ ശൂന്യതയുമാണു് <ref target="https://ml.wikipedia.org/wiki/C.S._Nair">സി. എസ്. നായരുടെ</ref> ചരമം
+അനുഭവപ്പെടുത്തുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sigmund_Freud_LIFE.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഫ്രോയ്ഡ്</figDesc>
+          </figure>
+          <p> “സംസ്കൃതമായ മനസ്സു്, വിസ്തൃതമായ വീക്ഷണ ഗതി, വിശാലമായ സൗഹാർദ്ദം, ഒരിക്കലും തൃപ്തിവരാത്ത ഒരു
+സൽക്കാരപ്രതിപത്തി; ഇതൊക്കെ ഉൾക്കൊണ്ടുകൊണ്ടു് ഒരു സ്ക്കൂൾക്കുട്ടിയുടെ ഉന്മേഷവും ഉത്സാഹവും
+കുടികൊള്ളുന്ന ചെറിയൊരു വപുസ്സും—സി. എസ്. നായർ പ്രതീക്ഷയ്ക്കു വിപരീതമായ ഒരത്ഭുതമനുഷ്യനായിട്ടാണു്
+എനിക്കു് ആദ്യത്തെ കൂടിക്കാഴ്ചയിൽ അനുഭവപ്പെട്ടതെന്നു”, ഞങ്ങളുടെ പരിചയം വളർന്നുവന്നതിനുശേഷം,
+ഒരിക്കൽ ഞാൻ അദ്ദേഹത്തോടു പറയുകയുണ്ടായി. അതിനു കിട്ടിയ മറുപടി ഉച്ചത്തിലുള്ള ഒരു പൊട്ടിച്ചിരിയാണു്.
+സംസ്കൃതമായ മനസ്സും, വിശാലമായ ജ്ഞാനവും, സർവോപരി ഒരു നിരൂപകന്നത്യാവശ്യമായ
+ദാക്ഷിണ്യസ്വഭാവവും അദ്ദേഹത്തിന്നുണ്ടെന്നു്, അദ്ദേഹത്തെ അറിയുന്നതിനു മുമ്പുതന്നെ, ലേഖനങ്ങൾ വഴി ഞാൻ
+മനസ്സിലാക്കിയിരുന്നു. എന്നാൽ ഗഹനങ്ങളായ പലേ വിഷയങ്ങളെയും പറ്റി അന്യാദൃശമായ ഗൗരവസ്വരത്തിൽ,
+ഒരു കവിയുടെ ഹൃദയാലുത്വത്തോടും, ഒരു സഹൃദയന്റെ ദാക്ഷിണ്യത്തോടും കൂടി സമർത്ഥമായി നിരൂപണം
+ചെയ്തിരുന്ന അദ്ദേഹത്തിന്റെ നിരവധി ലേഖനങ്ങൾ സകൗതുകം വായിച്ചിരുന്നപ്പോൾ അവയുടെ ഉടമസ്ഥന്നു ഒരു
+സ്കൂൾക്കുട്ടിയുടെ അടങ്ങാത്ത പ്രസരിപ്പും ഉത്സാഹശീലവും കൂടി ഉണ്ടെന്നൂഹിക്കുവാൻ എനിക്കു കഴിഞ്ഞിരുന്നില്ല.
+വായിക്കുന്ന കൃതികളുടെ സ്വഭാവമനുസരിച്ചും അവയുടെ കർത്താക്കൾക്കു വായനക്കാരന്റെ ഭാവന ഓരോ രൂപം
+കല്പിച്ചു കൊടുക്കുക പതിവുണ്ടു്. എന്റെ ഭാവനയാകട്ടെ, ഈ പ്രവൃത്തിയിൽ ഒരു വലിയ ധാരാളിയാണു്. അതു്
+സി. എസ്. നായരുടെ ലേഖനങ്ങളുടെ സ്വഭാവമനുസരിച്ചു തദനുരൂപമായ ഒരു രൂപവും സ്വഭാവവും
+അദ്ദേഹത്തിന്നു നിർണ്ണയിച്ചുകൊടുത്തിരുന്നു. ആർഷസംസ്കാരത്തിന്റെ സഹജമായ ചിന്താശീലത്തിന്നും
+ഗൗരവസ്വഭാവത്തിന്നും യോജിച്ച മട്ടിൽ ആംഗലസംസ്കാരം കൂടി സമ്മേളിച്ച ഒരു വിശാലഹൃദയനായിരുന്നു ആ
+സി. എസ്. നായർ. എന്തായാലും, ഭാവനയിൽ കണ്ട ആ സി. എസ്. നായർക്കു ഒരു സ്കൂൾക്കുട്ടിയുടെ
+ഉല്ലാസചിത്തം ഞാനൊരിക്കലും നല്കുവാൻ തയ്യാറായിരുന്നില്ല. ഞാൻ കണ്ട സി. എസ്. നായരാകട്ടെ. എന്റെ
+പ്രതീക്ഷയിൽ നിന്നെല്ലാം എത്ര അകന്നാണു പ്രത്യക്ഷപ്പെട്ടതു്! ലേഖനങ്ങൾ മുഖാന്തരം ഞാൻ പരിചയപ്പെട്ട
+ആൾതന്നെയോ ഞാൻ കണ്ട സി. എസ്. നായർ എന്നു തീർച്ചപ്പെടുത്തുവാൻ എനിക്കല്പം സമയം വേണ്ടിവന്നു.
+അദ്ദേഹം അത്ര ഉന്മേഷചിത്തനും ആഹ്ലാദശീലനുമായിട്ടാണു പെരുമാറിയതു്. ഒരു മുതിർന്ന കട്ടിയുടെ പ്രസരിപ്പും
+ആഹ്ലാദശീലവും അദ്ദേഹത്തിന്റെ ഓരോ വാക്കിലും ചലനത്തിലും കണ്ടു് ഞാനത്ഭുതപ്പെട്ടുപോയി. ഞാൻ
+ഭാവനയിൽ കണ്ടിരുന്ന ആ സാഹിത്യഗുരുവിനോടുള്ള എന്റെ ബഹുമാനാദരങ്ങൾ അതിനുശേഷം
+ഞാനറിയാതെതന്നെ എന്നെ വിട്ടുപോകാൻ തുടങ്ങുകയും, അതിന്റെ സ്ഥാനത്തു ഒരു സഹപാഠിയോടും
+സ്നേഹിതനോടുമുള്ള ദൃഢസ്നേഹവും വിശ്വാസവും വളർന്നുവരികയും ചെയ്തു. പിന്നീടു പലപ്പോഴും,
+അദ്ദേഹത്തോടുള്ള എന്റെ പെരുമാറ്റത്തിലെ വിനയക്കുറവിനെപ്പറ്റി ഞാനാലോചിച്ചു പരിതപിക്കുകയും ഇനി
+അങ്ങനെ വന്നുപോകരുതെന്നു ശ്രദ്ധിക്കുവാൻ ശ്രമങ്ങൾ നടത്തുകയും ചെയ്തിട്ടുണ്ടു്. പക്ഷേ, എന്തു
+
+ശ്രമിച്ചിട്ടെന്താണു്? ആ മുതിർന്ന കുട്ടിയുടെ ഉല്ലാസപ്രദമായ സംഭാഷണചാതുരിയുടെ നിരായുധമാക്കുന്ന
+പ്രലോഭനത്തിന്നു മുമ്പിൽ എന്റെ ശ്രമം കൃത്രിമമായി അനുഭവപ്പെട്ടു. അതു പലപ്പോഴും അദ്ദേഹത്തിന്നു
+പരിഹാസവിഷയമായിത്തീരുകയും ചെയ്തു. സംഭാഷണരസത്തിൽ മതിമറക്കുക കാരണം, അരയിൽനിന്നു
+കിഴിഞ്ഞു പോയ മുണ്ടു് താനറിയാതെതന്നെ വേണ്ടതിലധികം വലിച്ചുകയറ്റി, “താളം മടികെട്ടി,
+നിത്യസഹചാരിയായ പൊടിക്കുപ്പിയും കൈയിലേന്തി, ഒരു സ്കൂൾക്കുട്ടിയുടെ പ്രസരിപ്പോടും വാശിയോടും കൂടി
+തന്റെ അഭിപ്രായം സ്ഥാപിക്കുവാനായി സി. എസ്. നായർ സംസാരിച്ചുകൊണ്ടു മുന്നോട്ടു വരുന്ന ആ ചിത്രമിതാ,
+ഞാനിപ്പോഴും മുമ്പിൽ കാണുന്നു. അദ്ദേഹത്തിന്നു താൽപര്യം ജനിക്കാത്ത വിഷയങ്ങളില്ല. അദ്ദേഹം വായിച്ചു
+സാമാന്യമായ അറിവെങ്കിലും ശേഖരിക്കാത്ത പുസ്തകങ്ങളും കുറവാണു്. <ref target="https://ml.wikipedia.org/wiki/Sigmund_Freud">ഫ്രോയ്ഡിന്റെയും</ref>
+<ref target="https://w.wiki/3qzp">പ്രൗസ്റ്റിന്റെയും</ref> മനഃശാസ്ത്രവും, <ref target="https://w.wiki/Fh3r">എല്ലസ്സിന്റെ</ref> ലൈംഗികശാസ്ത്രവും. <ref target="https://ml.wikipedia.org/wiki/John_Maynard_Keynes">കെയിൻസിന്റെ</ref>
+വിഷമമേറിയ നാണയവിനിമയശാസ്ത്രവും, <ref target="https://ml.wikipedia.org/wiki/Karl_Marx">മാർക്സിന്റെയും</ref> <ref target="https://ml.wikipedia.org/wiki/Friedrich_Engels">ഏംഗൽസിന്റെയും</ref>
+സാമ്പത്തികശാസ്ത്രവും, <ref target="https://ml.wikipedia.org/wiki/Charles_Darwin">ഡാർവിന്റെ</ref>
+പരിണാമവാദശാസ്ത്രവും മറ്റും വാമനഭട്ടൻ കാവ്യതത്ത്വനിരൂപണം പോലെ രസകരമായ ജ്ഞാനതൃഷ്ണയോടെ
+അദ്ദേഹം വായിച്ചിരുന്നു. ആ അടങ്ങാത്ത പഠനതൃഷ്ണയ്ക്കു അതുപോലെ മറ്റൊരുദാഹരണം കിട്ടുക എളുപ്പമല്ല.
+ഞാനിന്നും ഓർക്കുന്നു, അദ്ദേഹത്തെ ആദ്യമായി കണ്ടു പരിചയപ്പെട്ട ദിവസം, അദ്ദേഹം
+നാണയവിനിമയത്തെപ്പറ്റി ബി. എൽ. ക്ലാസ്സിൽ പഠിക്കുന്ന ഒരു വിദ്യാർത്ഥിക്കു് ലളിതമായ ഭാഷയിൽ
+വിവരിച്ചുകൊടുക്കുകയായിരുന്നു. ഞാനത്ഭുതപ്പെട്ടു. ‘വിദ്വാൻ’ എന്ന പദം സാകല്യേന ആധുനികമായ യാതൊരു
+പ്രശ്നവും കേട്ടുപരിചയംകൂടിയില്ലാത്ത ചില പഴഞ്ചൻ സാഹിത്യകാരന്മാരെ വിശേഷിപ്പിക്കുന്ന ഒരു
+നിസ്സാരബിരുദമാണെന്നു കരുതുവാനുള്ള ധിക്കാരം എനിക്കുമുണ്ടായിരുന്നു. കലുഷമായ ആ
+വിഷയത്തെപ്പറ്റിയുള്ള സി. എസ്സിന്റെ ഗ്രഹണ പാടവവും അതിലധികം ലളിതമായ അദ്ദേഹത്തിന്റെ
+പ്രതിപാദനസാമർത്ഥ്യവും കേട്ടപ്പോൾ ലജ്ജിച്ചു തലതാഴ്ത്തിപ്പോയി. ഞാനുള്ളിൽ വിചാരിച്ചു:
+‘ഇദ്ദേഹത്തെപ്പോലെ ഒരു നാലാൾ മലയാളത്തിലുണ്ടാവുകയും അവർ മലയാളസാഹിത്യത്തെ
+സേവിക്കുവാനൊരുമ്പെടുകയും ചെയ്തിരുന്നുവെങ്കിൽ…’
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Keynes_1933.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെയിൻസ്</figDesc>
+          </figure>
+          <p> മലയാളസാഹിത്യത്തിനും അസഹ്യമായ നഷ്ടങ്ങളിലൊന്നാണു സി. എസ്. നായരുടെ ചരമം മൂലം
+സംഭവിച്ചിട്ടുള്ളതു്. അത്ര ഹൃദയാലുവും സൂക്ഷ്മദൃക്കുമായ ഒരു സാഹിത്യ നിരൂപകൻ ഇനിയുണ്ടാവുക എളുപ്പമല്ല.
+വിശാലമായ വീക്ഷണഗതി, വിസ്തൃതമായ ജ്ഞാനം, ദാക്ഷിണ്യപൂർവമായ അഭിപ്രായ രൂപവൽക്കരണം—ഒരു
+നിരൂപകൻ വിട്ടുപോയ ഈ പാരമ്പര്യം ഏതു ഭാഷയ്ക്കും അഭിമാനകരമാണു്. നിരൂപണമെന്നൊരു വിഭാഗം തന്നെ
+തഴച്ചുവളർന്നിട്ടില്ലാത്ത മലയാളഭാഷയ്ക്കാകട്ടേ, അതൊരമൂല്യസ്വത്താണു്. അതിന്റെ സ്മരണയിൽ അദ്ദേഹത്തിന്റെ
+യശഃശരീരം സുസ്ഥാപിതമായിത്തീരുകയും ചെയ്തുകഴിഞ്ഞിട്ടുണ്ടെന്നു ഞാൻ വിശ്വസിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Charles_Darwin.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡാർവിൻ</figDesc>
+          </figure>
+          <p> പക്ഷേ, ജ്ഞാനാധിക്യം കൊണ്ടു കുനിഞ്ഞു പോയ ആ കൃശഗാത്രന്റെ ചൈതന്യദായകമായ സാഹചര്യവും
+സംഭാഷണരസവും അദ്ദേഹത്തെ അടുത്തു പരിചയമുള്ളർവക്കെല്ലാം നഷ്ടപ്പെട്ടു കഴിഞ്ഞു. അത്ര വിചാരപൂർണ്ണവും
+നിർവ്യാജമനോഹരവുമായ സംഭാഷണചാതുരി ഇനി എവിടെ കാണാൻ കഴിയും? സംഭാഷണത്തിലുള്ള രസം
+ഒരു ദൗർബ്ബല്യം എന്ന നിലയ്ക്കു് അദ്ദേഹത്തെ പിടികൂടിയിരുന്നു. സരസമായി സംസാരിക്കാൻ ഒരു സ്നേഹിതനെ
+കിട്ടുകയാണെങ്കിൽ പിന്നെ അദ്ദേഹത്തിന്നും ഊണും ഉറക്കവും വേണ്ടാ. ഒരിക്കൽ തൃശ്ശിവപേരൂർ സാഹിത്യ
+പരിഷത്തു നടക്കുന്ന കാലത്തു മൂന്നു ദിവസം മുഴുവൻ ഇടവിടാതെ ഉറക്കമൊഴിച്ചും അദ്ദേഹം സംഭാഷണം ചെയ്തതു്
+ഇന്നും ഞാനോർക്കുന്നു. ഒരു സ്നേഹിതന്റെ വീട്ടിൽ ഞങ്ങളനവധിപേരുണ്ടായിരുന്നു. എല്ലാവർക്കും ഇരുന്നു
+വിശ്രമിക്കുവാനുള്ള സ്ഥലം അവിടെ കഷ്ടിയാണു്. വീടു ചെറുതായിട്ടല്ല, വീട്ടുടമസ്ഥന്റെ ഔദാര്യം ഒരു ചെറിയ
+
+പരിഷത്തിനു വേണ്ടത്ര സ്നേഹിതന്മാരെ ആ വീട്ടിലേക്കാകർഷിച്ചിരുന്നതുകൊണ്ടു്. ഏതായാലും സി. എസ്സിനു
+വളരെ സന്തോഷകരമായ ഒരവസരമായിരുന്നു അതു്. സഹൃദയരായ നിരവധി സ്നേഹിതന്മാർ; സാഹിത്യരസം
+തുളുമ്പുന്ന സദസ്സു്; ഇതിൽപരം എന്തു വേണം? അദ്ദേഹം അരയിൽനിന്നു കിഴിഞ്ഞുപോയ മുണ്ടു് ധൃതിയിൽ
+എടുത്തുടുക്കുന്നതും, വളരെ നേരമായി വിസ്മരിച്ചുകിടക്കുന്ന തന്റെ പ്രാതൽ വീട്ടുടമസ്ഥനെ സന്തോഷിപ്പിക്കാനായി
+അല്പം എടുത്തു കഴിക്കുന്നതും, വന്നുപോകുന്ന സ്നേഹിതന്മാരോടു കുശലങ്ങൾ ചോദിക്കുന്നതും, തന്നെ കാണാൻ
+വന്നിരിക്കുന്ന സാഹിത്യപ്രണയികളോടു സരസമായി സംഭാഷണം നടത്തുന്നതും മറ്റും ഞാനിപ്പോഴും മുമ്പിൽ
+നടക്കുന്നതുപോലെ കാണുന്നു. തന്റെ ദേഹസ്ഥിതിയെപ്പറ്റി വീണ്ടുവിചാരമില്ലാതെ അങ്ങനെ ഉടനീളം
+സംസാരിക്കുന്നതിൽനിന്നും അദ്ദേഹം തുറന്നിടുന്ന തന്റെ വിജ്ഞാനഭണ്ഡാഗാരത്തിൽനിന്നു കിട്ടുന്നതു
+ലാഭിക്കുവാൻ ഔത്സുക്യപൂർവം കാത്തുനിന്നിരുന്ന സ്വാർത്ഥികളായ ഞങ്ങളെല്ലാവരും മിക്കവാറും ഞങ്ങളുടെ
+കർത്തവ്യം വിസ്മരിക്കുകയാണുണ്ടായതു്. വളരെ സന്തോഷത്തോടുകൂടി സ്വന്തം ഇഷ്ടപ്രകാരം
+ചെയ്യുന്നതാണെങ്കിലും, സംഭാഷണം ആയാസകരമായ ഒരു ജോലിയാണു്. സി. എസ്. നായരെപ്പോലുള്ള
+ക്ഷീണ ശരീരന്മാർക്കും അതു വിശേഷിച്ചും ആയാസകരമാണു്. വളരെക്കാലമായി അദ്ദേഹത്തിന്റെ ആരോഗ്യം
+ക്ഷയിച്ചിരുന്നു. ഗുരുവായ ഭക്ഷണപദാത്ഥങ്ങളൊന്നും അദ്ദേഹത്തിന്റെ ദേഹസ്ഥിതിക്കു യോജിച്ചിരുന്നില്ല.
+അദ്ദേഹത്തിന്റെ ദിനചര്യയിൽ ഭക്ഷണത്തിന്റെ ഭാഗം തന്നെ വളരെ മോശമായിരുന്നു. അതു്,
+മഹർഷിമാർക്കുകൂടി കഷ്ടിയാകത്തക്കവണ്ണം അത്ര ലഘുവായിരുന്നു. വളരെക്കാലമായി അദ്ദേഹത്തിന്റെ
+ദിവസങ്ങളെ യാത്രയയച്ചിരുന്നതു് ഒരുകപ്പു ചായ മാത്രമാണു്. ഇത്ര ലഘുവായ ഒരു ഭക്ഷണക്രമത്തിന്മേലാണു്
+ആ ബൃഹത്തായ ഉത്സാഹശക്തി നിലനിന്നിരുന്നതെന്നോർക്കുമ്പോൾ ആർക്കു് അത്ഭുതപ്പെടാതിരിക്കാൻ
+കഴിയും! അതിൽക്കാണുന്ന നിഷ്കളങ്കതയാവട്ടെ, മറ്റൊരിടത്തു കാണുവാനായി ഞാൻ വൃഥാ തിരയുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karl_Marx_001.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാർക്സ്</figDesc>
+          </figure>
+          <p> ഈ നിർവ്യാജമായ ഉത്സാഹശീലം സി. എസ്. നായരുടെ സഹജമായ ഗുണമാണു്. അതല്ലെങ്കിൽ
+അദ്ദേഹം ലയോളാ കോളജിലെ തന്റെ ഉദ്യോഗകാലം കഴിഞ്ഞതിനു ശേഷം, നാട്ടിൽ വന്നു ദരിദ്രമായ സംസ്കൃത
+കോളജിന്റെ കനത്ത ഭാരം കൈയേല്ക്കുവാൻ തയ്യാറാവുകയില്ലായിരുന്നു. ഏതു ധനികന്റെ ഭണ്ഡാരത്തെയും
+ഏതാരോഗ്യസമ്പന്നന്റെ ആരോഗ്യത്തെയും കാർന്നു തിന്നാലും മതിയാവാത്ത മട്ടിൽ അത്ര
+അധഃപതിച്ചുകിടക്കുകയായിരുന്നു സംസ്കൃതകോളജിന്റെ സ്ഥിതി.
+</p>
+          <p>തന്റെ ഗുരുപാദരുടെ മൃതപ്രായമായ ആ പ്രിയസന്താനത്തെ സി. എസ്. നായർ ഒരു മുതിർന്ന കുട്ടിയുടെ
+ഉത്സാഹത്തോടെ ശുശ്രൂഷിക്കാനൊരുമ്പെട്ടു. അതിന്റെ ഫലമായി ആ കോളജ് നശിക്കതെ രക്ഷപ്പെട്ടു—പക്ഷേ,
+അദ്ദേഹമോ?…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Friedrich_Engels.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഏംഗൽസ്</figDesc>
+          </figure>
+          <p> സി. എസ്. നായരെ സംബന്ധിച്ചിടത്തോളം ജീവിക്കുക എന്നതിനർത്ഥം
+സാഹിത്യപരിശ്രമങ്ങളിലേർപ്പെടുക എന്നതായിരുന്നു. എന്നാൽ കോളജ് അദ്ദേഹത്തിന്റെ സർവനിമിഷങ്ങളും
+ആവശ്യപ്പെട്ടു. വാത്സല്യനിധിയായ ഒരു പിതാവിനെപ്പോലെ തന്റെ സർവനിമിഷങ്ങളും അദ്ദേഹം അതിന്റെ
+ശുശ്രൂഷയ്ക്കായി ബാക്കിവെക്കുകയും ചെയ്തു. അതുകൊണ്ടു്, മാനസികമായി ‘ജീവിക്കുക’ എന്ന അദ്ദേഹത്തിന്റെ
+നില എന്നോ അവസാനിച്ചു കഴിഞ്ഞിരുന്നു. പിന്നെ കായികമായിട്ടുള്ള ജീവിതമായിരുന്നു. അങ്ങനെ
+അവസാനജീവചൈതന്യം കൂടി ദരിദ്രമായ സംസ്കൃതകോളജിന്റെ നഗ്നതയ്ക്ക ആവരണമുണ്ടാക്കുവാൻ സമ്മാനിച്ചു
+ഇതാ, അദ്ദേഹം മറഞ്ഞുകഴിഞ്ഞു!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Havelock_Ellis.jpg" rendition="gra"/>
+            <figDesc style="thumb">എല്ലസ്സ്</figDesc>
+          </figure>
+          <p> വളരെ എളുപ്പത്തിൽ സമ്പാദിക്കുന്ന സമ്പ്രദായക്കാരനായിരുന്നു സി. എസ്. നായർ. അദ്ദേഹത്തിന്നുവേണ്ടി
+
+ആരും യശഃസ്തംഭം കെട്ടേണ്ടിവരില്ല മലയാളസാഹിത്യമുള്ളേടത്തോളം കാലം അദ്ദേഹത്തിന്റെ കൃതികൾ തന്നെ
+അതു നിർവഹിച്ചുകൊള്ളും. എന്നാൽ, ഏതൊരു സ്ഥാപനത്തിന്റെ നിലിനില്പിന്നു വേണ്ടി അദ്ദേഹം ഇത്രയും
+കാലം ഏകനായി നിന്നു പൊരുതിയോ, ഏതൊന്നിന്റെ നഗ്നത മറയ്ക്കുവാൻ അദ്ദേഹം തന്റെ ആരോഗ്യത്തിന്റെ
+പുതപ്പിലെ ഒടുക്കത്തെ ജീവിതനാളം കൂടി സമ്മാനിച്ചുവോ, ആ സംസ്കൃതകോളജിന്റെമേൽ ഉദാരമതികളായ
+സാഹിത്യപ്രണയികളുടെ ദയാദൃഷ്ടി ഇടയ്ക്കു പതിയുമെങ്കിൽ, ഉപരിസ്ഥിതനായ ആ മുതിർന്ന കുട്ടി. സന്തോഷിച്ചു
+കൊള്ളും.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ.</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/vvmenon.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>കുറ്റിപ്പുറത്തു് കേശവൻ നായരുടെയും വള്ളത്തോൾ അമ്മാളുക്കുട്ടി അമ്മയുടെയും മകനായി 1916-ൽ ജനിച്ചു.
+1968-ൽ ഒരു കാറപകടത്തിൽ മരിച്ചു. മലയാളത്തിൽ വളരെയധികം എഴുതീട്ടില്ലെങ്കിലും ശ്രദ്ധിക്കപ്പെട്ട
+എഴുത്തുകാരനായിരുന്നു വി വി. കേസരി ബാലകഷ്ണപിള്ള ഇദ്ദേഹത്തിന്റെ <ref target="https://books.sayahna.org/ml/pdf/kesarikalavandi.pdf">കാളവണ്ടി</ref> എന്നകഥയെപ്പറ്റി ഒരു വിമർശനം
+എഴുതീട്ടുണ്ടു്.
+</p>
+          <div type="subsection" xml:id="sec0.0.0.0.1" n="0.0.0.0.1">
+            <head type="subsechead">കൃതികൾ</head>
+            <list rend="bulleted">
+              <item>കാളവണ്ടി </item>
+              <item>മാരാരും കൂട്ടരും </item>
+              <item>രംഗമണ്ഡപം </item>
+              <item>എവറസ്റ്റാരോഹണം </item>
+              <item>ഇന്നത്തെ റഷ്യ </item>
+              <item>സന്ധ്യ </item>
+              <item>Quest—(ജി. ശങ്കരക്കുറുപ്പിന്റെ ഓടക്കുഴൽ എന്ന സമാഹാരത്തിന്റെ ഇംഗ്ലീഷ് പരിഭാഷ) </item>
+            </list>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.1/1.2.0"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vidwan C. S. Nair (ml: വിദ്വാൻ സി.
+എസ്. നായർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Vallathol Vasudevamenon B.
+A..</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Thoolikachithram, Vallathol
+Vasudevamenon B. A., Vidwan C. S. Nair, വള്ളത്തോൾ വാസുദേവമേനോൻ ബി. എ., വിദ്വാൻ സി. എസ്.
+നായർ, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 27, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh__Peach_tree_in_blossom_-_Google_Art_Project.jpg">Almond tree in blossom,</ref>
+a painting by <ref target="https://en.wikipedia.org/wiki/en:Vincent_van_Gogh">Vincent van
+Gogh</ref>  (1853–1890). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/vv-csnair.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/vv-csnair.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഏതു കണ്ണീരിലുമുണ്ടു് ചിരി</title>
+          <title xml:lang="en" type="main">Ethu Kanneerilumundu Chiri</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 24, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഏതു കണ്ണീരിലുമുണ്ടു് ചിരി</title>
+              <title xml:lang="en" type="main">Ethu Kanneerilumundu Chiri</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Ethu Kanneerilumundu Chiri</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ഏതു കണ്ണീരിലുമുണ്ടു് ചിരി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 24, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Theft_of_the_Sampo.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Pekka_Halonen__Theft_of_the_Sampo,_sketch.jpg">Theft of the Sampo,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Pekka_Halonen">Pekka Halonen</ref>
+ (1865–1933). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഏതു കണ്ണീരിലുമുണ്ടു് ചിരി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഏതു കണ്ണീരിലുമുണ്ടു് ചിരി</head>
+        <div type="lsection">
+          <p style="noindent">ഇന്ത്യാരാജ്യത്തിന്റെ മഹാദുരന്തമായ ഗുജറാത്തു് ഭൂകമ്പം.
+</p>
+          <p>ഒരു ഫലിതകഥയും ആ ദുരന്തവാർത്തകൾക്കു് ഇടയിലുണ്ടായിരുന്നു: ഭുജിൽ ഇരുന്നൂറോളം കുറ്റവാളികൾ
+ജയിലിന്റെ ചുമരിടിഞ്ഞു വീണു് രക്ഷപ്പെട്ടു.
+</p>
+          <p>ഈ കൊടൂരമായ ഫലിതം അവിടംകൊണ്ടു് അവസാനിച്ചില്ല. ഭൂകമ്പം കൊണ്ടു് തരിപ്പണമായ
+പ്രദേശങ്ങളിൽ കൊള്ള നടക്കുന്നു. അതു് നടത്തുന്നതു് കുറ്റവാളികളാവാം എന്നു് വാർത്ത വന്നിരിക്കുന്നു…
+</p>
+          <p>തടവറയിൽ ശിക്ഷ അനുഭവിച്ചും കൊലമരം കാത്തും ഇരിക്കുന്നവർക്കു് പിന്നെയും കൊള്ളയും കൊലയും
+നടത്താൻ ഭൂകമ്പം സൗകര്യം ഒരുക്കിയിരിക്കുന്നു. അവരെയല്ല, അവരെ തടവിലിട്ട കെട്ടിടത്തെയാണു് ഭൂകമ്പം
+നശിപ്പിച്ചതു്. അന്നാട്ടുകാർ ഭൂകമ്പത്തെ പേടിക്കണോ, കുറ്റവാളികളുടെ കൊള്ളയെ പേടിക്കണോ?
+</p>
+          <p>ഭൂകമ്പമുണ്ടായേടത്തെ പ്രധാന പണി കൊള്ളക്കാരെ നേരിടലാണു്!
+</p>
+          <p>എനിക്കു് ഈ നേരത്തു് <ref target="https://ml.wikipedia.org/wiki/Nasreddin">മുല്ലാ നാസറുദ്ദീന്റെ</ref> ഒരു
+ഫലിതം ഓർമവരുന്നു:
+</p>
+          <p>മുല്ല ഒരിടവഴിയിലൂടെ നടന്നുപോവുകയായിരുന്നു. ആ സമയത്തു് ഇടവഴിക്കടുത്തുള്ള ഒരു മരത്തിൽനിന്നു്
+ഒരുത്തൻ പിടിവിട്ടു് വീണു. അയാൾ വീണതു് മുല്ലയുടെ കഴുത്തിലേക്കാണു്. അയാൾക്കു് ഒന്നും പറ്റിയില്ല. മുല്ല
+കഴുത്തിനു് പരിക്കുപറ്റി ചികിത്സയിലുമായി. ആ കിടപ്പിൽ മുല്ലയെ ചെന്നു കണ്ട ശിഷ്യന്മാർ ചോദിച്ചു.
+</p>
+          <p>‘മുല്ലാ, ഈ അനുഭവത്തിന്റെ പാഠം എന്താണു്?’
+</p>
+          <p>മുല്ല: ‘വളരെ ലളിതം. മരത്തിൽനിന്നു് വീഴുന്നതു് ഒരുത്തൻ. അതുകൊണ്ടു് കഴുത്തൊടിഞ്ഞു് കിടപ്പിലാവുന്നതു്
+വേറൊരുത്തൻ. അല്ലാതെന്താ?’
+</p>
+          <p>ടെലിവിഷനിലും പത്രത്തിലും ഭൂകമ്പദുരന്തത്തിന്റെ ദൃശ്യങ്ങൾ കണ്ടു മനുഷ്യർ ഞെട്ടി. ആ ഭൂമി നേരിട്ടുകണ്ട
+കൊള്ളക്കാർക്കാവട്ടെ ഞെട്ടാനല്ല, തട്ടാനാണു് തോന്നിയതു്.
+</p>
+          <p>കെട്ടിടം തുരക്കുന്ന പണി കുറഞ്ഞുകിട്ടി എന്നു് അവർക്കൊരു ആശ്വാസം തോന്നിയിരിക്കണം! ഭൂകമ്പം
+അവിശ്വസനീയമാംവിധം സ്വന്തം സ്വാതന്ത്ര്യം തിരിച്ചുതന്നല്ലോ എന്നൊരു നന്ദിയുടെ കണക്കിൽ പോലും
+അവർക്കു് ഇത്തിരി അലിവു് തോന്നിയില്ല. കൊള്ളയടിക്കാനുള്ള സ്വാതന്ത്ര്യം തിരിച്ചുകിട്ടി എന്നാവാം അവർക്കു്
+തോന്നിപ്പോയതു്.
+</p>
+          <p>ജീവിതദുരന്തങ്ങളുടെ ഏതു് തിരക്കഥയിലും ഒരു ‘കോമഡി ട്രാക്ക്’ ഉണ്ടെന്നായിരിക്കുമോ ഇതിന്റെയെല്ലാം
+അർഥം?
+</p>
+          <p>ഇനി, ഏതു് ചിരിയിലും കണ്ണീരുണ്ടു് എന്നതുപോലെ ഏതു് കണ്ണീരിലും ചിരിയുണ്ടു് എന്നായിരിക്കുമോ
+ഇതിന്റെയെല്ലാം പൊരുൾ?
+</p>
+          <p>ആവോ, ആർക്കറിയാം?
+</p>
+          <p>
+മലയാളം ന്യൂസ്: 9 ഫെബ്രുവരി 2001.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ethu Kanneerilumundu Chiri (ml:
+ഏതു കണ്ണീരിലുമുണ്ടു് ചിരി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery, Ethu
+Kanneerilumundu Chiri, എം. എൻ. കാരശ്ശേരി, ഏതു കണ്ണീരിലുമുണ്ടു് ചിരി, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 24, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Pekka_Halonen__Theft_of_the_Sampo,_sketch.jpg">Theft of the Sampo,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Pekka_Halonen">Pekka Halonen</ref>
+ (1865–1933). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-chiri.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-chiri.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

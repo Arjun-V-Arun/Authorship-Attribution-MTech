@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഓട്ട </title>
+          <title xml:lang="en" type="main">Otta</title>
+        </title>
+        <author>KGS</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">August 21, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഓട്ട </title>
+              <title xml:lang="en" type="main">Otta</title>
+            </title>
+            <author>KGS</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-08-21</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>KGS</term>
+          <term>Otta</term>
+          <term>കെ. ജി. എസ്.</term>
+          <term>ഓട്ട</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-08-21</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Redon_spirit-waters.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Redon_spiritwaters.jpg">Guardian Spirit of the Waters,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Odilon_Redon">Odilon Redon</ref>
+ . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഓട്ട</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. ജി. എസ്.</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead"> ഓട്ട</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="grc">
+            <graphic url="images/kgs-otta-1-t.png" rendition="grc"/>
+          </figure>
+          <p style="noindent"/>
+          <lg>
+            <l> വെറ്റിലയിൽ ചെറിയോരോട്ട.</l>
+            <l> ചെറുതേതും വലുതിൻ സൂചന.</l>
+            <l> പെരുകാമിതു് പെരിയ കിടങ്ങായ്. </l>
+          </lg>
+          <lg>
+            <l>
+ഒരു പുഴു ഒളിവിലിരുന്നു് </l>
+            <l> തുളയ്ക്കുന്നോ കാതൽ?</l>
+            <l> പേജോരോന്നും </l>
+            <l> വാക്കോരോന്നും</l>
+            <l> വെളിവോരോന്നും</l>
+            <l> വീറായ് വീശും കൊടിയോരോന്നും </l>
+            <l> തുളയിട്ടു് തുലയ്ക്കുന്നോ </l>
+            <l> ഒളിവിലിരുന്നൊരു തിമിരക്കീടം? </l>
+          </lg>
+          <lg>
+            <l>
+ചെയ്തികൾ തോറും</l>
+            <l> ദൃശ്യം തോറും </l>
+            <l> സാരം തോറുമിരുണ്ട കയം.</l>
+          </lg>
+          <lg>
+            <l>
+ഒരു പുഴു ഉള്ളിലിരുന്നു് </l>
+            <l> ചുരുട്ടുന്നോ നമ്മെ,</l>
+            <l> ഉള്ളു് ചുരുട്ടിക്കീടം?</l>
+            <l> തടയുന്നോ ഭീരുക്കീടം </l>
+            <l> മുഴുരൂപം ഉദിക്കൽ? </l>
+            <l> മുഴുനോട്ടം നോക്കൽ?</l>
+            <l> മുഴുസത്യം കാണൽ?</l>
+            <l> മുഴുപ്രേമം പ്രേമിക്കൽ?</l>
+            <l> മുഴുമയ്ക്കായ് പോരാടി </l>
+            <l> മുഴുനീതി ജയിക്കൽ?</l>
+            <l> മുഴുജന്മം ജീവിക്കൽ?</l>
+          </lg>
+          <lg>
+            <l>
+
+ഒരു പുഴു മുന്നിൽ നടന്നു് നയിക്കുന്നോ,</l>
+            <l> ഒരു വാഗ്ദാനക്കീടം?</l>
+            <l> വീഴ്ത്തുന്നോ തുള മൊഴിയിൽ</l>
+            <l> മിനിയാന്നേ കൂടിയ കീടം?</l>
+            <l> കേടില്ലാതൊരു വിളയും </l>
+            <l> പാടില്ലെന്നോ കൃഷിയിൽ?</l>
+            <l> ഒരു പുഴു നമ്മെത്തിന്നും</l>
+            <l> നമ്മിലഴുക്കു് നിറച്ചും </l>
+            <l> ഉള്ളു് കശക്കുന്നോ?</l>
+            <l> ഒരു വിശ്വാസക്കീടം?</l>
+          </lg>
+          <lg>
+            <l>
+മഴയെവിടെപ്പെയ്തെന്നാലും </l>
+            <l> ചോരുന്നെൻ കൂര.</l>
+            <l> പ്രായമെനിക്കേറും തോറും.</l>
+            <l>
+</l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കെ. ജി. എസ്.</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kgs-biopic.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent"> മലയാള കവി.
+
+</p>
+          <p>ചിത്രം: വി. മോഹനൻ
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Otta (ml: ഓട്ട ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  KGS.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-08-21. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, KGS, Otta, കെ. ജി.
+എസ്., ഓട്ട, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 21, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Redon_spiritwaters.jpg">Guardian Spirit of the Waters,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Odilon_Redon">Odilon Redon</ref>  .
+The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kgs-otta.xml">Download document sources
+in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kgs-otta.pdf">Download
+
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

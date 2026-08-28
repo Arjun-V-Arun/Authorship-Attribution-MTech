@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ബാങ്ക് ദേശസാല്ക്കരണം</title>
+          <title xml:lang="en" type="main">Bank Desasalkaranam</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">September 11, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ബാങ്ക് ദേശസാല്ക്കരണം</title>
+              <title xml:lang="en" type="main">Bank Desasalkaranam</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Bank Desasalkaranam</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>ബാങ്ക് ദേശസാല്ക്കരണം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 11, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Jama_Masjid_Delhi.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Jama_Masjid,_Delhi,_watercolour,_1852.jpg">Jama
+Masjid, Delhi,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:William_Carpenter_(painter)">William
+Carpenter</ref>  (1818–1899). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ബാങ്ക് ദേശസാല്ക്കരണം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ബാങ്ക് ദേശസാല്ക്കരണം</head>
+        <div type="lsection">
+          <p style="noindent">നിങ്ങൾ ഈ തലക്കെട്ടു് എങ്ങനെയാണു് വായിച്ചതു്—ബാങ്ക് എന്നോ? ബേങ്ക്
+എന്നോ? എന്താ വ്യത്യാസം? മലയാളത്തിൽ വളരെ കൃത്യമായി എഴുതിക്കാണിക്കാൻ വയ്യാത്ത ഒരു
+ഉച്ചാരണമാണു് ഇംഗ്ലീഷിൽ Bank-നുള്ളതു്.
+</p>
+          <p>ഉച്ചാരണം എങ്ങനെയാണെങ്കിലും താല്പര്യം ഒന്നുതന്നെയല്ലേ?
+</p>
+          <p>അല്ല, ഇംഗ്ലീഷിലെ ബാങ്ക് കൂടാതെ, നമ്മുടെ നാട്ടിൽ മറ്റൊരു ബാങ്ക് കൂടിയുണ്ടു്. ഇവിടത്തെ
+മുസ്ലീംപള്ളികളിലെ പ്രാർത്ഥനയ്ക്കുള്ള വിളി. അതിനും പറയുന്നതു് ബാങ്ക് എന്നാണു്.
+</p>
+          <p>ഓ, ഇതെങ്ങനെയാണു് മനസ്സിലാക്കുക?
+</p>
+          <p>പണമിടപാടുസ്ഥാപനത്തെ കുറിക്കുന്ന ബാങ്കിലെ ഉച്ചാരണത്തിൽ ആദ്യഭാഗത്തു് ഇംഗ്ലീഷ് മട്ടിൽ ഒരു
+പരത്തലുണ്ടു്. പ്രാർത്ഥനയ്ക്കുള്ള വിളിയെ കുറിക്കുമ്പോൾ അതു സാധാരണമട്ടിൽ ഒരു ദീർഘമായ ‘ബാ’ ആണു്.
+</p>
+          <p>ഇങ്ങനെയൊരു കൺഫ്യൂഷൻ ഉണ്ടാവാം എന്നു് എനിക്കു് എങ്ങനെ മനസ്സിലായെന്നോ?
+</p>
+          <p>1969-ൽ അന്നത്തെ പ്രധാനമന്ത്രി ഇന്ദിരാഗാന്ധി ബാങ്ക് ദേശസാല്ക്കരിച്ചുവല്ലോ. അന്നു് സകല കടലാസിലും
+ആ കിസ്സ ഉണ്ടായിരുന്നു. ഒരു ദിവസം മാതൃഭൂമിയിൽ വാർത്തവായിച്ചു് എന്റെ ബാപ്പ (മരിച്ചുപോയി. ആൾ വലിയ
+രസികനായിരുന്നു എന്നാണു് നാട്ടുകാരും ഞങ്ങൾ വീട്ടുകാരും പറയുന്നതു്) എന്നോടു പറഞ്ഞു:
+</p>
+          <p>“എടോ മുക്രിമാർക്കു് പണിയില്ലാതായല്ലോ.”
+</p>
+          <p>മുക്രി എന്നു പറയുന്നതു് മുസ്ലിംപള്ളിയിലെ പരിചാരകനാണു്. ക്രിസ്ത്യൻ പള്ളിയിലെ കപ്യാർക്കു് തുല്യൻ.
+സാധാരണയായി നിസ്കാരത്തിനുവേണ്ടി ബാങ്കുവിളിക്കുന്നതു് മൂപ്പരുടെ വകുപ്പാണു്.
+</p>
+          <p>ബാപ്പയുടെ വർത്തമാനം എനിക്കു് പിടികിട്ടിയില്ല. ഞാൻ ചോദിച്ചു: “ങ് ഏ? എന്തുപറ്റി?”
+</p>
+          <p>“ഇതാടോ മാതൃഭൂമീല്, ബാങ്ക് ദേശസാല്ക്കരിച്ചൂന്നു്. ഇനി ബാങ്കൊക്കെ ഗേർമെണ്ട് കൊടുത്തോളും പിന്നെ
+മുക്രിക്കു് പണിണ്ടാവ്വോ?”
+</p>
+          <p>ഞാൻ ചിരിച്ചു. നേരു് പറഞ്ഞാൽ ഈ രണ്ടു പദങ്ങളും തമ്മിലുള്ള ബന്ധത്തെപ്പറ്റി ഞാൻ
+ആലോചിച്ചുതുടങ്ങിയതു് അന്നുമുതല്ക്കാണു്.
+</p>
+          <p>മുസ്ലിം ജീവിതവുമായി ബന്ധപ്പെട്ട, ‘ബാങ്ക്’ എന്ന പദം അറബിയാണെന്നു തോന്നാമെങ്കിലും സംഗതി
+അങ്ങനെയല്ല. അറബിയിൽ ഈ വിളിക്കു് ‘അദാൻ’ എന്നാണു് പറയുക നമ്മുടെ നാട്ടിൽ ഉപയോഗിക്കുന്നതു്
+പേർഷ്യൻ പദമാണു് ‘വിളി’ എന്നർത്ഥം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/OVVijayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒ. വി. വിജയൻ</figDesc>
+          </figure>
+          <p>പിന്നെയാണു് എന്റെ ശ്രദ്ധയിൽപെട്ടതു്: നമ്മുടെ നാട്ടിൽ പലരും മുസ്ലീം പള്ളികളിൽനിന്നുള്ള വിളിയെ
+‘വാങ്ക്’ എന്നാണു് പരാമർശിക്കുന്നതു്. അപ്പോൾ നേരത്തെ പറഞ്ഞ സംശയത്തിനു് ഇടമില്ല. ആളുകൾ
+വർത്തമാനം പറയുമ്പോൾ മാത്രമല്ല, എഴുത്തുകാർ എഴുതുമ്പോഴും അങ്ങനെത്തന്നെ. <ref target="https://ml.wikipedia.org/wiki/O._V._Vijayan">ഒ. വി. വിജയൻ</ref> ‘<ref target="https://ml.wikipedia.org/wiki/Khasakkinte_Ithihasam">ഖസാക്കിന്റെ
+ഇതിഹാസ</ref>’ത്തിൽ ‘വാറ്റു ചാരായത്തിന്റെ തെളിമയോടെ വാങ്കുവിളി’ എന്നു പ്രയോഗിച്ചിരിക്കുന്നു.
+പൊന്നാനിയുടെ ചിത്രമെഴുതുമ്പോൾ ‘ശവവും മന്തുകാലും വാങ്കുവിളിയും പൊന്നാനിയായ്’ എന്നു് <ref target="https://ml.wikipedia.org/wiki/M._Govindan">എം. ഗോവിന്ദൻ</ref> ഈ
+വ/ബ വ്യത്യാസം സാഹചര്യവശാൽ ശ്രദ്ധിക്കാനിടയുള്ള <ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">വൈക്കം മുഹമ്മദ്
+ബഷീർ</ref> പോലും ‘സന്ധ്യാപ്രണാമ’ത്തിൽ “അകലെനിന്നെങ്ങോ കേൾക്കുകയാണു് ഒരു വാങ്കും”
+എന്നെഴുതിയിട്ടുണ്ടു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/M_Govindan.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ഗോവിന്ദൻ</figDesc>
+          </figure>
+          <p>വല്ല കുഴപ്പവുമുണ്ടോ? ഇല്ല, തീർച്ചയായും ഇല്ല. ആ പാർസിപദം തത്സമമായും തത്ഭവമായും
+നമുക്കുപയോഗിക്കാം. മലയാളത്തിൽ ഓഫീസും ആപ്പീസും ഹോസ്പിറ്റലും ആസ്പത്രിയും ഒക്കെ ഒരേ സമയം
+ആകാമെങ്കിൽ ബാങ്കും വാങ്കും ആകാം മറ്റൊരു ബാങ്ക് നാട്ടിൽ കൂടുതൽ പ്രചാരത്തിലുള്ളപ്പോൾ വിശേഷിച്ചും.
+</p>
+          <p>മാത്രവുമല്ല ഇവിടത്തെ മുസ്ലിം വാമൊഴിയിൽ പലപ്പോഴും വ/ബ വ്യത്യാസം പാലിക്കാറില്ല. ‘വല’ ‘ബല’യും
+‘ബാല്യം’ ‘വാല്യ’വും ആകുന്നതു് ഉദാഹരണം.
+</p>
+          <p>പിൽക്കാലത്തു് ചില സന്ദർഭങ്ങളിൽ ബാപ്പ പറഞ്ഞു കേട്ട ആ തമാശ വീണ്ടും ഓർക്കാൻ എനിക്കു് ഇടയായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pvnarshimarao.jpg" rendition="gra"/>
+            <figDesc style="thumb">നരസിംഹറാവു</figDesc>
+          </figure>
+          <p> 1992 ഡിസംബർ 6-നു് തകർക്കപ്പെട്ട <ref target="https://ml.wikipedia.org/wiki/Babri_Mosque">ബാബരിമസ്ജിദ്</ref>
+സർക്കാർ ചെലവിൽ പുതുക്കിപ്പണിയും എന്നു് പ്രധാനമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/P._V._Narasimha_Rao">നരസിംഹറാവു</ref>
+പിറ്റേദിവസം പ്രഖ്യാപിച്ചപ്പോൾ ഞാൻ ഓർത്തു. ഇനി “ഗേർമെണ്ട്” ബാങ്ക് കൊടുത്തു തുടങ്ങും. അതു്
+മുൻപ്രധാനമന്ത്രി നേരത്തെ ദേശസാല്ക്കരിച്ചതാണാല്ലോ.
+</p>
+          <p>മുക്രിമാർക്കു് പെൻഷൻ കൊടുക്കുന്നു എന്ന വാർത്ത കണ്ടപ്പോൾ ഞാൻ ഉള്ളറിഞ്ഞു് ചിരിച്ചു: ഇതാ,
+‘ഗേർമെണ്ട് ബാങ്കു കൊടുത്തു’ തുടങ്ങിയിരിക്കുന്നു!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Basheer.jpg" rendition="gra"/>
+            <figDesc style="thumb">വൈക്കം മുഹമ്മദ് ബഷീർ</figDesc>
+          </figure>
+          <p> ബാപ്പ പറഞ്ഞതു് നിറവടിയായി. ബാപ്പയുടെ പേരു് ‘മുഹമ്മദ്’ എന്നാണു് ഇക്കൂട്ടത്തിൽ വേറൊരു വഴിക്കു്
+കാര്യങ്ങൾ എതിർദിശയിലേയ്ക്കും വന്നു കൊണ്ടിരിക്കുകയാണു്—വലിയ കോലാഹലത്തോടെ ബാങ്ക്
+ദേശസാല്ക്കാരിച്ച സർക്കാർ ഇപ്പോൾ എല്ലാം സ്വകാര്യമേഖലയ്ക്കു കൈമാറിക്കൊണ്ടിരിക്കുകയാണു്. സർക്കാർ
+കുത്തകയിൽ നടന്നുവരുന്ന വിമാനസർവ്വീസ് രംഗത്തേയ്ക്കു് സ്വകാര്യക്കമ്പനികൾ പറന്നുവന്നു. റയിൽ വെയും
+തപാലും ടെലിഫോണും ഒക്കെ സ്വകാര്യക്കാരുടേതാവാൻ പോവുകയാണത്രെ. ദേശസാല്ക്കരിച്ച ബാങ്കുകൾ ഇനി
+“മറ്റിച്ചാവാൻ” എത്ര നേരം വേണ്ടിവരുമോ ആവോ?
+</p>
+          <p>ഞാൻ ഇപ്പോൾ ഓർക്കുന്നതു് എന്റെ നാട്ടിൽ പണ്ടുണ്ടായ ഒരു തമാശയാണു്. എന്റെ നാടു് എന്നു പറയുന്നതു്
+ബിർളക്കാരുടെ ഗ്വാളിയോർ റയൺസ് പ്രവർത്തിക്കുന്ന മാവൂരിനടുത്തൊരു ഗ്രാമപ്രദേശമാണു്.
+</p>
+          <p>മാവൂർ ബിർളാകമ്പനിക്കെതിരെ സമരം ചെയ്യുന്ന തൊഴിലാളികളും അവരുടെ അനുഭാവികളും കൂടി ജാഥ
+പോവുകയാണു്. അവർ ഉച്ചത്തിൽ വിളിച്ചു പറഞ്ഞു:
+</p>
+          <p>“ബിർളാക്കമ്പനി സർക്കാർ ഏറ്റെടുക്കണം. ബിർളാക്കമ്പനി സർക്കാർ ഏറ്റെടുക്കണം… ”
+</p>
+          <p>ജാഥ തീർന്നു് അവരിലൊരാൾ ചായമക്കാനിയിൽ തിരിച്ചെത്തിയപ്പേൾ ഞങ്ങളുടെ നാട്ടുകാരിൽ ഒരു
+രസികൻ പറഞ്ഞു:
+</p>
+          <p>“എടോ കുട്ട്യോളെ, ജാദയൊക്കെ ഉഷാറായി. ബിളിച്ചു് പറഞ്ഞതു്, ഞമ്മക്ക് പറ്റീല.”
+</p>
+          <p>“ങ്ഏ?”
+</p>
+          <p>“നടക്ക്ണ കാര്യം പറ്യണ്ടേ? ഞമ്മളെ ഗേർമെണ്ട് ബിജാരിച്ചാ ബിർളാക്കമ്പനി ഏറ്റെടുക്കാൻ കയ്യൂല.
+ങ്ങക്കതു് മറിച്ചു് വിളിച്ചുടായ്ന്യോ?”
+</p>
+          <p>“എങ്ങനെ വിളിക്കണം?”
+</p>
+          <p>“ഗേർമെണ്ടിനെ ബിർള ഏറ്റെടുക്കണംന്നു്.”
+</p>
+          <p>ഇതാണു് അവസ്ഥ ‘ഗേർമെണ്ടു’കളെപ്പറ്റി രസികനായ ആ നാടനു് തന്റെ സഹജശേഷിയാൽ കൈവന്ന
+ഉൾക്കാഴ്ച നമ്മുടെ ധനശാസ്ത്രവിദഗ്ദ്ധന്മാർക്കു് കിട്ടാതെ പോയിരിക്കാം.
+</p>
+          <p>ഞാൻ ആലോചിക്കുകയാണു്—ഈ പോക്കുപോയാൽ ദേശസാല്ക്കരിച്ച ബാങ്കുകളൊക്കെ വീണ്ടും
+സ്വകാര്യമേഖലയിൽ വരും. “ഗേർമെണ്ടി”നു് ആകെക്കൂടി ദേശസാല്ക്കരിക്കാവുന്നതു് മുസ്ലിം പള്ളികളിലെ ബാങ്ക്
+മാത്രമാവും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Indira_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദിരാഗാന്ധി</figDesc>
+          </figure>
+          <p> ഒരു പക്ഷേ, 1969-ൽ <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref>
+ദേശസാല്ക്കരിച്ചതു് പള്ളിബാങ്ക് ആയിരുന്നു എന്നും അതു് അവരുടെ മതേതരബോധത്തിന്റെ ചിഹ്നമായി
+കാണേണ്ടതാണു് എന്നും വല്ല ഗവേഷണവും സമീപഭാവിയിൽ നടന്നേയ്ക്കാം.
+</p>
+          <p>ആരറിഞ്ഞു ഏതെങ്കിലുമൊരു ഇന്ത്യൻ യൂനിവേഴ്സിറ്റിയിൽ ഇപ്പോൾതന്നെ അത്തരമൊരു
+ഗവേഷണപ്രബന്ധം തയ്യാറായിട്ടില്ലെന്നു്!
+</p>
+          <p>
+നവതരംഗം സുവനീർ: 1996.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Bank Desasalkaranam (ml: ബാങ്ക്
+ദേശസാല്ക്കരണം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Bank Desasalkaranam, എം. എൻ. കാരശ്ശേരി, ബാങ്ക് ദേശസാല്ക്കരണം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 11, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Jama_Masjid,_Delhi,_watercolour,_1852.jpg">Jama
+Masjid, Delhi,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:William_Carpenter_(painter)">William
+Carpenter</ref>  (1818–1899). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-bank.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-bank.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ആഭരണങ്ങൾ</title>
+          <title xml:lang="en" type="main">Abharanangal</title>
+        </title>
+        <author> CJ Thomas</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">November 24, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ആഭരണങ്ങൾ</title>
+              <title xml:lang="en" type="main">Abharanangal</title>
+            </title>
+            <author> CJ Thomas</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-11-29</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>CJ Thomas</term>
+          <term>Abharanangal</term>
+          <term>സി ജെ തോമസ്</term>
+          <term>ആഭരണങ്ങൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-11-29</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_Neapolitan_Beauty.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:A_Neapolitan_Beauty__Joseph_Pierre_Olivier_Coomans.jpg">A Neapolitan Beauty,</ref> a painting by
+Joseph Pierre Olivier Coomans  (1816–1889). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ആഭരണങ്ങൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി ജെ തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ആഭരണങ്ങൾ</head>
+        <div type="lsection">
+          <p style="noindent">സമുദായസമുദ്രത്തിലെ അലതല്ലലുകൾ തട്ടിയും തടഞ്ഞും ഒരു ഞരക്കത്തോടുകൂടി
+ഇഴഞ്ഞുപോകുന്ന ഭാഷാശൈലി, അങ്ങിങ്ങായി മിന്നിത്തെളിയുന്ന ചില കലാരശ്മികൾ—ഇതാണു് ശ്രീ. ശങ്കരൻ
+കരിപ്പായിയുടെ പത്തു കഥകൾ കോർത്തിണക്കിയ ആഭരണങ്ങളുടെ സ്വഭാവവിശേഷങ്ങൾ. കഴിവില്ലാഞ്ഞിട്ടോ,
+വേണ്ടെന്നുവെച്ചിട്ടോ, ജീവിതാനുഭവങ്ങളുടെ അടിത്തട്ടിലേക്കിറങ്ങി മാനസികവും വൈകാരികവുമായ
+കഠിനപ്രശ്നങ്ങളെ വാദിക്കാൻ അദ്ദേഹം മുതിരുന്നില്ല. നിസ്സാരമായ സംഗതികളുടെ ചിത്രീകരണത്തിൽ
+കലാസൗന്ദര്യമുണ്ടായിക്കൂടെന്നില്ല. അവയെ ഫലവത്തായി ചിത്രീകരിക്കാൻ അനന്യസാധാരണമായ
+കലാപാടവം വേണമെന്നുമാത്രം. അതു ഗ്രന്ഥകാരനുണ്ടെന്നു വിചാരിക്കാൻ ഈ പുസ്തകം ഇടതരുന്നില്ല.
+</p>
+          <p>വിശ്വസിച്ചു സ്നേഹിച്ചിരുന്ന ഒരു ഭാര്യ എങ്ങനെ ഭർത്താവിനെ വഞ്ചിച്ചുവെന്നു് അവളുടെ മരണശേഷം
+തെളിയുന്നതാണു് “ആഭരണങ്ങൾ” എന്ന കഥ. പറയത്തക്ക ഒരു രസവും ഇക്കഥയിലില്ല. ജീവിതകാലം
+ഏതായാലും സുഖമായിക്കഴിഞ്ഞല്ലോ എന്നോ മറ്റോ പരമുപിള്ള ആശ്വസിക്കുന്നതായി കാണിച്ചിരുന്നെങ്കിൽ ഒരു
+തലതിരിഞ്ഞ രസമെങ്കിലും അതിലുണ്ടാകുമായിരുന്നു. എന്നാൽ, ഇവിടെ കഥ വായിച്ചുതീരുമ്പോൾ ഒരു
+ശൂന്യതയാണനുഭവപ്പെടുന്നതു്. കഥയുടെ ആദ്യംതന്നെ ആഭരണങ്ങളുടെ രഹസ്യം നമുക്കു
+മനസ്സിലാകുന്നതുകൊണ്ടു് അത്ഭുതത്തിന്റെ ഗുണംപോലും കഥയിലുണ്ടാവുന്നില്ല. പോരെങ്കിൽ, ഇക്കഥതന്നെ
+ഇംഗ്ലീഷിലുള്ളതുകൊണ്ടു് അറിയാതെ തന്നെ ഒരു താരതമ്യം നടക്കുകയും ചെയ്യും. ബസ്സിൽ
+യാത്രചെയ്യുന്നതിനിടയ്ക്കു് ഒരു സ്ത്രീയുമായി കുറച്ചു കൂട്ടിമുട്ടിയും മറ്റും രസിക്കുന്നതാണു് രണ്ടാമത്തെ കഥ. ഇതിന്റെ
+അവസാനഭാഗം അതൊരു കഥയാക്കിത്തീർക്കാൻവേണ്ടി ഏച്ചു കെട്ടിയതാണു്. അതു വല്ലാതെ
+മുഴച്ചിരിക്കുന്നുണ്ടുതാനും. “യുവത്വത്തിലേക്കു്” എന്ന ആ തലക്കെട്ടിന്റെ പ്രസക്തി എത്ര ആലോചിച്ചിട്ടും
+വ്യക്തമാകുന്നില്ല. അസംതൃപ്തമായ കാമമെല്ലാം യുവത്വത്തിലേക്കുള്ള ആശയായി
+വ്യാഖ്യാനിക്കുന്നതെന്തിനാണാവോ!
+</p>
+          <p>‘അന്നുരാത്രി’ എന്ന കഥ അവിവാഹിതനായ ഒരു യുവാവിന്റെ രാത്രികാലചിന്തകളാണു്. വേനലിന്റെ
+ചൂടുകൊണ്ടല്ല അയാൾ ഉറങ്ങാത്തതു്. ആ ഉഷ്ണത്തും തന്റെ കിടക്കയ്ക്കൊരു പങ്കുകാരിയുണ്ടായിരുന്നെങ്കിൽ
+അയാൾക്കു് അത്ര ഉഷ്ണം തോന്നുമായിരുന്നില്ല. അതങ്ങനെ തുറന്നുപറയുന്നില്ലെങ്കിലും, ആ പാവപ്പെട്ട
+എൻ. ജി. ഒ.-യ്ക്കു വേണ്ടതു് ഒരു സംബന്ധമാണു്. അയാളുടെ ധനസ്ഥിതി അതിനനുവദിക്കുന്നില്ല. ഈ ഉഷ്ണകാലത്തു്
+അയാളെപ്പോലെ കേരളത്തിന്റെ നാനാഭാഗത്തും ഉറങ്ങാതെ കിടന്നുറങ്ങുന്ന അനേകായിരം യുവാക്കന്മാർക്കു്
+ഈ കഥ ഒരു കണ്ണാടിയായിരിക്കും. ഈ കഥയിൽ ശ്രീ. ശങ്കരൻ കരിപ്പായി സമുദായത്തിലെ ഒരു
+മർമ്മപ്രശ്നത്തെത്തന്നെ ഉന്നയിച്ചിട്ടുണ്ടു്. ഈ പ്രശ്നംതന്നെ ഒരു യുവതിയിലുണ്ടാക്കുന്ന മാറ്റങ്ങളും അതിന്റെ
+പരിഹാരത്തോടുകൂടി പ്രത്യക്ഷമാക്കുന്ന സ്വഭാവവ്യത്യാസവുമാണു് “എന്റേട്ടത്തി”യിലെ കഥാവസ്തു. ഈ
+കഥയിലാണു് ഗ്രന്ഥകർത്താവു് ഏറ്റവുമധികം കലാവൈദഗ്ദ്ധ്യം കാണിച്ചിരിക്കുന്നതു്. ഏട്ടത്തിക്കു ലഭിച്ച
+പരിഹാരത്തിൽനിന്നു തുലോം ഭിന്നമായ ഒന്നാണു് അവിവാഹിതയായ അമ്മുക്കുട്ടിക്കു ലഭിച്ചതു്. സ്വന്തമായി
+സമ്പത്തു ലഭിക്കുന്നതിനുപകരം ഒരു മോഷണം. അവൾ പോയി ആയിരം പ്രാവശ്യം മുങ്ങിക്കുളിക്കാനുള്ള
+കാരണം വേലപ്പന്റെ വൈരൂപ്യമല്ല. കാത്തിരുന്നു കാത്തിരുന്നു് അവളുടെ ക്ഷമ നശിച്ചു് മാനസികരോഗം
+പിടിപെട്ടതായി ഈ അനുമാനത്തിനു് മാനസിക അപഗ്രഥനക്കാർ സർട്ടിഫിക്കറ്റ് എഴുതിയേക്കാമെങ്കിലും
+അമ്മുക്കുട്ടി അവരുടെ ശപഥം പാലിക്കുമെന്നു് എനിക്കു വിശ്വാസമില്ല. ഉമ്മാത്തുവിനു് ഇത്രയധികം
+ആഗ്രഹസംയമനം വേണ്ടിവന്നതായി തോന്നുന്നില്ല. അവൾക്കു കുപ്പിവള വേണമെന്നു തോന്നിയപ്പോൾ മമ്മതു്
+അതു വാങ്ങിച്ചുകൊടുത്തു. അതിലപകടമൊന്നുമുണ്ടായിരുന്നില്ല. മമ്മതിനു് അവളെ ഉപദേശിക്കുവാൻ
+കഴിഞ്ഞിരുന്നില്ല. കാലക്കേടുകൊണ്ടാണു് മമ്മതിനു് അവളുടെ കുഞ്ഞിന്റെ അച്ഛനാകാൻ കഴിയാതെപോയതു്.
+മീരാനും കുപ്പിവളകളുമായി പ്രവേശിക്കുന്നുണ്ടു്. പക്ഷേ, ഉമ്മാത്തു അതിൽ ശ്രമിക്കുന്നില്ല. യാചകിയെങ്കിലും
+അവൾക്കും പ്രേമത്തിന്റെ വിലയറിയാമെന്നു തോന്നുന്നു. “എന്താണു തരക്കേടു്” എന്ന കഥയിൽ ഭർത്താവു്
+ഉപേക്ഷിച്ചുപോയ ഒരു സ്ത്രീ ജീവിതസുഖത്തിനും കാലയാപനത്തിനുംവേണ്ടി മറ്റൊരാളെ വിവാഹം ചെയ്യുന്നതിനു്
+നീതീകരണമന്വേഷിച്ചു നടക്കുകയാണു്. തെറ്റായ എന്തെങ്കിലും ഒരു കാര്യം ചെയ്യാൻ ആരംഭിക്കുമ്പോൾ അതിനു
+പറ്റിയ ഒരു തത്ത്വം സൃഷ്ടിക്കുക മനുഷ്യപ്രകൃതിയാണു്. അതിൽ കുറേയധികം
+ആത്മവഞ്ചനയടങ്ങിയിട്ടുള്ളതുകൊണ്ടായിരിക്കാം അന്യന്റെ സമ്മതപത്രവും കൂടി കിട്ടണമെന്നു് ആഗ്രഹിക്കുന്നതു്.
+പ്രതിപാദനം അത്രയ്ക്കു വിശേഷമല്ലെങ്കിലും മാനസികമായ ഈ പ്രശ്നത്തെ ഒരു കഥാവിഷയമാക്കിയതിൽ ശ്രീ.
+ശങ്കരൻ കരിപ്പായിയെ അനുമോദിക്കുകതന്നെവേണം.
+</p>
+          <p>ഈ കഥകളുടെയെല്ലാം ലക്ഷ്യം മനസ്സിലാക്കാം. അവയിലെ പത്രങ്ങളിലെ ഉദ്ദേശ്യവും വ്യക്തമാണു്. പക്ഷേ,
+
+ആ ‘ഗുമസ്തന്റെഭാര്യ’ എന്തിനാണു് ആ മനുഷ്യനെ കട്ടിലിൽ പിടിച്ചിരുത്തുന്നതു്? യഥാർത്ഥമായി അവൾ
+അയാളെ സ്നേഹിക്കുന്നുണ്ടോ? അതോ, അവൾ അയാളുടെ മടിശ്ശീലയെയാണോ കണ്ണുവെക്കുന്നതു്? രണ്ടും
+കുറേയൊക്കെയുണ്ടാവാനാണു വഴി. ലഭിച്ച സഹായത്തിനു് സ്വന്തം ശരീരമല്ലാതെ പകരം
+കൊടുക്കുവാനില്ലാത്തതുകൊണ്ടാണു് അവൾ അതിനു തുനിയുന്നതെന്നായിരിക്കാം ഗ്രന്ഥകാരന്റെ ഭാവം.
+അങ്ങനെയാണെങ്കിൽ അക്കാര്യത്തിൽ അദ്ദേഹത്തിന്റെ ശ്രമം പരാജയപ്പട്ടിട്ടുണ്ടെന്നു തോന്നുന്നു. ‘ആ
+നാലുമണിക്കൂർ’ ഒരു ജാരസംസർഗ്ഗത്തിന്റെ ചിത്രമാണു്. അതിൽ തിങ്ങിനില്ക്കുന്ന ആശങ്കയല്ലാതെ മറ്റൊന്നും
+ഉണ്ടെന്നുപറയാൻ നിവൃത്തിയില്ല. ആകെക്കൂടി പറഞ്ഞാൽ ഈ സമാഹാരത്തിലെ കഥകളെല്ലാം ഒരു
+വിഷയത്തെ സംബന്ധിച്ചുള്ളതാണു്. ലൈംഗികജീവിതത്തിലെ പല വശങ്ങളും ഇതിൽ പ്രതിപാദിക്കുന്നുണ്ടു്.
+ഒന്നുമാത്രം വിട്ടുപോയിരിക്കുന്നു യഥാർത്ഥ പ്രണയം. അങ്ങനെ വന്നതിന്റെ കാരണം ഗ്രന്ഥകർത്താവിന്റെ
+ചിന്താഗതിയുടെ തെറ്റാണെന്നു ഞാൻ ഗണിക്കുന്നില്ല. യഥാർത്ഥജീവിതത്തിൽ ഒരായിരം
+ലൈംഗികവൈകൃതങ്ങൾക്കിടയിൽ മാത്രമാണു് നാം ഒരു യഥാർത്ഥ പ്രണയകഥ കണ്ടെത്തുന്നതു്, ഇന്നത്തെ
+സമുദായം അങ്ങനെയാണു്. പൊറുപ്പും പരിഹാരവുമില്ലാത്ത ഏക അപരാധം പ്രണയമാണു്.
+അതുകൊണ്ടായിരിക്കണം ശ്രീ. കരിപ്പായിയുടെ ദൃഷ്ടി ഈ പുഴുക്കുത്തുകളിൽ മാത്രം ചെന്നുപറ്റിയതു്.
+ഇതിന്റെയെല്ലാം കാരണം, അതു മതമായാലും ധനമായാലും എന്താണെന്നുകൂടി അന്വേഷിക്കുന്ന
+കഥകളായിരുന്നെങ്കിൽ അവയ്ക്കു കുറേക്കൂടി കഴമ്പുണ്ടാകുമായിരുന്നു.
+</p>
+          <p>
+പരിഷത്തു് ദ്വൈമാസിക മാർച്ച് 1948.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി ജെ
+തോമസിന്റെ ലഘു ജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Abharanangal (ml:
+ആഭരണങ്ങൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>   CJ Thomas.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-11-29. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, CJ Thomas,
+Abharanangal, സി ജെ തോമസ്, ആഭരണങ്ങൾ, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 24, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:A_Neapolitan_Beauty__Joseph_Pierre_Olivier_Coomans.jpg">A Neapolitan Beauty,</ref> a painting by
+Joseph Pierre Olivier Coomans  (1816–1889). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-abharanam.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-abharanam.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

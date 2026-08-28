@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സദ്യനിരൂപണം</title>
+          <title xml:lang="en" type="main">Sadyanirupanam</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">July 2, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സദ്യനിരൂപണം</title>
+              <title xml:lang="en" type="main">Sadyanirupanam</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2022-07-02</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Sadya nirupanam</term>
+          <term>സഞ്ജയൻ</term>
+          <term>സദ്യനിരൂപണം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2022-07-02</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Multicolored.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Kandinsky__Blue_over_Multicolored,_1925.jpg">Blue over Multicolored,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Wassily_Kandinsky">Wassily
+Kandinsky</ref>  (1866–1944). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സദ്യനിരൂപണം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സദ്യനിരൂപണം</head>
+        <div type="lsection">
+          <p style="noindent">പത്രാധിപന്മാരെ സദ്യയ്ക്കു ക്ഷണിച്ചാൽ അവർ മറ്റുള്ള അതിഥികളെപ്പോലെ ഊണു
+കഴിഞ്ഞ്, കൈ കഴുകി, ഗൃഹസ്ഥനോട് യാത്രയും പറഞ്ഞ് പടിയിറങ്ങി സദ്യയുടെ കഥതന്നെ
+മറന്നുകളയുന്നതിന്റെ രഹസ്യം എനിക്കു മനസ്സിലാകുന്നില്ല. ഇക്കാര്യത്തിൽ അവർക്കു ചില ബാധ്യതകളും
+ഉത്തരവാദിത്വവും ഒക്കെയുണ്ടെന്ന് അവർ എന്തുകൊണ്ടാണ് ആലോചിക്കാത്തത്? തങ്ങൾക്ക് വെറുതേ
+അനുഭവിക്കുവാൻ ആളുകൾ സമ്മാനിക്കുന്ന ഏതു വസ്തുവിന്റെയും നിഷ്പക്ഷമായ ഒരു ഗുണദോഷനിരൂപണം
+അവരുടെ പത്രങ്ങൾ മുഖേന വായനക്കാർക്ക് പ്രതീക്ഷിക്കുവാൻ അധികാരമുണ്ടെന്നുള്ള കഥ അവരറിയുകയില്ലേ?
+ഇല്ലെങ്കിൽ എന്തിനാണ് അവരെ പത്രാധിപന്മാരാക്കിയിരിക്കുന്നത്?
+</p>
+          <p>നിങ്ങളുടെയും എന്റെയും കാര്യം എടുക്കണ്ട. നമ്മളെ ഒരു സദ്യയ്ക്കു ക്ഷണിച്ചാൽ, സമയത്തിനുമുൻപ്,
+അവിടെ ഹാജരായി, കുറെ ആളുകളോടൊക്കെ മന്ദഹസിച്ചു ‘വന്നിട്ട് കുറച്ചു നേരമായി-ഇല്ലേ?’ എന്നോമറ്റോ
+അർഥമില്ലാത്ത കുറെ ‘ലോഗ്യം’ പറഞ്ഞ്, ഊണും കഴിഞ്ഞ് ഇറങ്ങിയാൽ കൈ തോർത്തുന്നത് പടി കടന്നിട്ടു മതി.
+നമ്മൾക്ക് ആരെങ്കിലും അവരവർ ഉണ്ടാക്കിയ കവിതയോ നോവലോ അയച്ചുതന്നാലും പതിവ് ഇതുതന്നെ.
+സമയമുണ്ടെങ്കിൽ വായിക്കും; വല്ല അഭിപ്രായവും തോന്നിയിട്ടുണ്ടെങ്കിൽ, അതു ഭാര്യയോടോ ഒന്നോ രണ്ടോ
+സ്നേഹിതന്മാരോടോപറയും; നമ്മളാരും സദ്യയേയോ പുസ്തകത്തേയോ കുറിച്ചുള്ള നമ്മുടെ അഭിപ്രായം
+കൊട്ടിഘോഷിക്കാറില്ല: ഉണ്ടോ?
+</p>
+          <p>ഒരു വിദ്വാൻ പണ്ട് ശ്രമിച്ചിരുന്നുപോലും. സാപ്പാട് കഴിച്ചുനില്ക്കുന്ന ഘട്ടത്തിൽ ഒരു ഒന്നാംപന്തിക്കാരനോട്
+രണ്ടാംപന്തിക്കാരൻ ‘സദ്യ എങ്ങനെ?’ എന്നു ചോദിച്ചുവത്രേ. ‘സദ്യ മഹാ-’ എന്നു പറഞ്ഞു
+തിരിഞ്ഞുനോക്കുമ്പോൾ ഗൃഹസ്ഥനുണ്ട് ഒരു പച്ചച്ചിരിയോടുകൂടി പിന്നിൽ, നില്ക്കുന്നു! നമ്മുടെ വിമർശകൻ
+ഭക്ഷിച്ചതു മുഴുവൻ ദഹിച്ചുപോയ് പക്ഷേ, അദ്ദേഹം വിട്ടില്ല: ‘നന്നായിരിക്കുന്നു’ എന്നു വേഗത്തിൽ പറഞ്ഞു
+തിരിഞ്ഞുനോക്കാതെ നടന്നുകളയുകയാണു ചെയ്തത്. പിന്നീടു് അദ്ദേഹം ആ വീട്ടിൽനിന്ന് ഊണുകഴിച്ചത്
+ഗൃഹസ്ഥന്റെ ശ്രാദ്ധത്തിനായിരുന്നു. (ഇക്കഥ കുറച്ചു പഴയതാണെന്ന് എനിക്കറിയാം. നിങ്ങൾ മുൻപ്
+ഇതെവിടെയെങ്കിലും കേട്ട ആളാണെങ്കിൽ ചിരിക്കേണ്ട-തീർന്നില്ലേ?
+</p>
+          <p>പ്രസ്തുതവിമർശകന്റെ ചരിത്രപ്രധാനമായ ബ്ലീച്ചടിയുടെ ശേഷമാണ് ആളുകൾ പബ്ലിക്കായി സദ്യകളെ
+വിമർശിക്കാത്തത്. പക്ഷേ, പത്രാധിപന്മാരെ അങ്ങനെ വിടാമോ? എന്നാണ് സഞ്ജയൻ ചോദിക്കുന്നത്
+പത്രാധിപന്മാർക്കു ലജ്ജയോ, മര്യാദയോ, ദയയോ ഇല്ലെന്നുള്ളത് ‘ഇന്നുള്ളതല്ലാ ജഗത്പ്രസിദ്ധം ദൃഡം. ‘ഒരു’
+പത്രാധിപർക്കു വെറുതേ ഒരു പുസ്തകം അയച്ചുനോക്കുവിൻ
+<list type="gloss"><label>പത്രാധിപർ:</label><item> തനിക്കെന്താണു പിടിച്ചുപോയത്?
+</item><label>സഞ്ജയൻ:</label><item> എന്തെങ്കിലും ആയിക്കൊള്ളട്ടെ. ഞാൻ എനിയും എന്തൊക്കെ പറയാൻ പോകുന്നു! ഒരു
+പത്രാധിപർക്ക് ഒരു പുസ്തകം അയച്ചുകൊടുക്കിൻ! ‘വെറുതേ കിട്ടിയതല്ലേ? ആകപ്പാടെ തരക്കേടില്ല! എന്നു
+പറഞ്ഞേക്കാം’ എന്നൊരു നാട്ടുമര്യാദ ആ മനുഷ്യൻ വിചാരിക്കുമോ? ഈ ജന്മത്തിലില്ല, അതിലെ
+അച്ചടിപ്പിഴകൾകൂടി ആ മഹാപാപി എണ്ണിപ്പെറുക്കിപ്പറയും. പുസ്തകം അയച്ചുകൊടുത്ത വിഡ്ഡിക്കു കൂടി ‘ഇങ്ങനെ
+ഒരു വങ്കത്തം ഞാൻ ചെയ്തുപോയല്ലോ!’ എന്നു പശ്ചാത്താപം തുടങ്ങും. ഇത്രത്തോളം അമര്യാദ ‘ഇങ്ങനെയാണ്
+‘ഞങ്ങളു’ അഭിപ്രായം എന്നും പറഞ്ഞു പ്രവർത്തിക്കുന്ന കൂട്ടർക്ക് എന്താണ് ചെയ്തുകൂടാത്തത്? ഞങ്ങൾ! ഏതു
+’ഞങ്ങൾ? </item></list>
+</p>
+          <p>അതുകൊണ്ട് എനിക്കു തോന്നുന്നത് പത്രാധിപന്മാരെക്കൊണ്ട് മേലിൽ സദ്യകളുടെ നിരൂപണങ്ങൾ
+എഴുതിക്കണമെന്നാണ്. സദ്യ പബ്ലിക് ഫ്രങ്ഷനായതുകൊണ്ട് അതിനെ വിമർശിക്കുന്നത് പബ്ളിക് ഡ്യൂട്ടിയാണ്.
+നതിനെ സ്തുതിക്കണം; ചീത്തയെ ഇടിക്കണം. :
+
+</p>
+          <p>‘പരിത്രാണായ സാധുനാം വിനാശായ ച ദുഷ്കൃതാം സദൃസംസ്ഥാപനാർഥായ.’
+</p>
+          <p>നല്ലതും ചീത്തയും ഇടകലർന്നുള്ളതിനെ സ്തുതിക്കുകയും ഇടിക്കുകയും വേണം. ഗൃഹസ്ഥന്റെയോ
+‘ദേഹണ്ണക്കാരന്റെയോ മുഖം നോക്കരുത്. വിമർശനം പ്രസിദ്ധപ്പെടുത്തിക്കഴിഞ്ഞാൽ കുറച്ചു ദിവസത്തേക്കു
+ഗൃഹസ്ഥനെ കാണുമ്പോൾ വഴിമാറി പോയ്ക്കൊള്ളണം. ക്രമേണ അയാളുടെ ദേഷ്യം തണുക്കും.
+അടുത്തുപെരുമാറ്റം പിന്നീടു മതി. ധൈര്യമായിട്ടെഴുതണം. ‘ഞങ്ങൾ’ എഴുതുന്നതല്ലേ? ‘ഞങ്ങൾക്ക് ആരോട്
+സ്നേഹം?
+</p>
+          <p>‘സമോഹം സർവഭുതേഷു ന മേ ദേഷ്യോസ്തി ന പ്രിയഃ’
+</p>
+          <p>പത്രാധിപന്മാർ എന്തു വിചാരിക്കുന്നു? ‘ഞങ്ങൾ’ക്ക് സമ്മതമാണോ? ആണെങ്കിൽ, രണ്ടുമൂന്ന് സാമ്പിളുകൾ
+സഞ്ജയൻ എഴുതി സമർപ്പിക്കുന്നത് അനുചിതമായിപ്പോകുമോ? നിങ്ങളുടെ കടലാസിന്റെ അഖിലമലബാർ
+സ്വന്തം സദ്യറിപ്പോർട്ടരുടെ സ്ഥാനം യോഗ്യത നോക്കി കൊടുക്കുമോ? എന്നെ നിശ്ചയിച്ചാൽ യാതൊരു
+പ്രതിഫലവുമില്ലാതെ ഞാൻ ജോലിയെടുക്കാം. പൊതുജനസേവനമാണ് എന്റെ ആദർശം. ദൈവത്താണേ
+നേർ! അതിന്-മേപ്പടി പൊതുജനസേവനത്തിന്-വേണ്ടി എന്തു കഷ്ടപ്പാടും ഞാൻ സഹിക്കുവാൻ തയ്യാറാണ്.
+സദ്യയല്ല സർവാണികൂടി സ്വീകരിക്കേണ്ടിവരും എന്നു പറഞ്ഞാൽക്കൂടി ഞാൻ പിൻവാങ്ങുകയില്ല.
+</p>
+          <p>ആദ്യം ഞാൻ ഖണ്ഡനനിരുപണത്തിന്റെ ഒരു മാതൃക ചേർക്കുന്നു:
+</p>
+          <p>‘പുവലാടത്ത് ഇട്ടിരാരിശ്ശൂമേനവനവർകളുടെ ക്ഷണം സ്വീകരിച്ചു ഞങ്ങൾ (1) അദ്ദേഹത്തിന്റെ ഇരുപത്തൊന്നു
+വയസ്സ് തികയുന്ന പിറന്നാൾസദ്യയ്ക്കു ഹാജരായി. സദ്യ നടത്തുന്നതിൽ ഇത് മി. മേനവന്റെ ഇദംപ്രഥമമായ
+ശ്രമമാണെന്ന് അവിടെയുള്ള ബഹളവും ലഹളയും പാച്ചലും വീഴലുംകൊണ്ട് ധാരാളം തെളിയുന്നുണ്ട്. ഈ യുവ
+സദ്യകാരന്റെ വാസനയും പരിശ്രമശീലവും ഞങ്ങൾ അനുമോദിക്കുന്നവരല്ലെന്നില്ല. അതിഥികളെ മുഴുവൻ
+പുല്പായകളിൽ നിലവിളക്കിനു ചുറ്റും ഇരുത്തിയത് പഴയ പ്രസ്ഥാനത്തിനു യോജിച്ചതുതന്നെയെങ്കിലും പുതിയ
+പ്രസ്ഥാനക്കാർക്കു പിടിക്കുന്ന കാര്യം നന്നേ സംശയത്തിലാണ്. നേരെമറിച്ച്, ചോറും കറികളും ബസ്സികളിലാക്കി
+മേശപ്പുറത്ത് ഏർപ്പാടു ചെയ്തത് പുതിയ പ്രസ്ഥാനത്തിന് അനുയുക്തമെങ്കിലും പഴമക്കാർക്ക് അതു
+രുചിക്കുകയില്ലെന്നു ധൈര്യസമേതം പറയാം. ആകപ്പാടെ ഈ വിഷയത്തിൽ കുറെ പരിചയം സിദ്ധിച്ച
+വല്ലവരുടേയും സഹായത്തെ മി. മേനോൻ അപേക്ഷിക്കേണ്ടതായിരുന്നു എന്നാണ് ഞങ്ങൾക്കു തോന്നുന്നത്. മി.
+മേനോന്റെ അടുത്ത ഉദ്യമത്തിന് ഞങ്ങൾ സർവവിജയങ്ങളും ആശംസിച്ചുകൊള്ളുന്നു.’
+</p>
+          <p>എനി സമ്മിശ്രനിരൂപണത്തിന്റെ ഒരു സാമ്പിൾ പശ്യ:
+</p>
+          <p>പൊന്ത്യാമ്പള്ളി ത്രിവിക്രമൻ തിരുമുൽപ്പാട് ഈ മാസം 1ാംനു–നടത്തിയ മകന്റെ ചോറുണുസദ്യയാണ്,
+ഇക്കൊല്ലം ഇതുവരെ പ്രസിദ്ധപ്പെടുത്തിയ സദ്യകളിൽ പ്രാഥമ്യം വഹിക്കുന്നത്. ഇദ്ദേഹം ഇതിനു മുൻപ് അനേകം
+വമ്പിച്ച സദ്യകൾ രചിച്ചു പേരെടുത്തിട്ടുള്ള ഒരു സഹൃദയനും സദ്യരസികനുമാകയാൽ, ഈ ലഘുസദ്യയിന്മേലല്ലാ
+അദ്ദേഹത്തിന്റെ കീർത്തി നില്ക്കുന്നതെന്ന് എളുപ്പത്തിൽ പറയാം. പക്ഷേ, ഒരു മഹാസദ്യയായില്ലെങ്കിലും, ഒരു
+യഥാർഥസദ്യകാരന്റെ യോഗ്യത അയാളുടെ ഖണ്ഡസദ്യകളിലും കാണപ്പെടുമെന്നാണ് ഞങ്ങൾക്കു
+പറയാനുള്ളത്.
+</p>
+          <p>അതിഥികളെ സ്വീകരിക്കുന്ന രീതിയിലും, അവരോടു കുശലം പറയുന്ന സമ്പ്രദായത്തിലും ഈ സുപ്രസിദ്ധ
+സദ്യകാരന്റെ ആശയശുദ്ധിയും സാരസ്യവും നൈപുണ്യവും ഒഴുക്കും തഴക്കവും തെളിഞ്ഞുകാണ്മാനുണ്ടു്.
+</p>
+          <p>മി. അയ്യോസ്വാമിയായിരുന്നു വെപ്പുകാരൻ. പേരെടുത്ത ഒരു പാചക പ്രമാണിയെന്ന നിലയിൽ മി.
+അയ്യോസ്വാമി ഞങ്ങളുടെ വായനക്കാരിൽ അധികം പേർക്കും സുപരിചിതനായിരിക്കണം. ഇദ്ദേഹത്തിന്റെ
+വൈദഗ്ധ്യം നേരിട്ടനുഭവിക്കാത്തവരായി ഈ പ്രദേശക്കാരിൽ ആരും ഉണ്ടെന്നു തോന്നുന്നില്ല.
+</p>
+          <p>മി. സ്വാമിയുടെ രചനാഗുണം അന്നന്നു കൂടിവരികയാണ്. വിശേഷിച്ച് ഈയിടെയായി സാമ്പാറിന് എരുവ്
+ചേർക്കുന്ന വിഷയത്തിൽ ഇദ്ദേഹംശ്രദ്ധവെക്കുന്നുണ്ടെന്നു കണ്ടതിൽ ഞങ്ങൾ വളരെ സന്തോഷിക്കുന്നു.
+ചെറുപ്പകാലത്ത് ഇദ്ദേഹം ഇക്കാര്യത്തിൽ കടുപ്പുക്കൈ കാണിച്ച ഒരാളാണെന്ന് ഞങ്ങൾ നേരിട്ടറിഞ്ഞ
+സംഗതിയാണ്. (അക്കാലത്ത് ഒരു ദിവസം സാമ്പാർ കൂട്ടി കണ്ണിൽ വെള്ളം നിറഞ്ഞുപോയതിനാൽ ഞങ്ങളാണ്
+ഇയാൾക്ക് ‘അയ്യോ! സ്വാമി!’ എന്ന സ്ഥാനപ്പരു കൊടുത്തിരുന്നത്. ഇദ്ദേഹത്തിന്റെ യഥാർഥ നാമധേയം
+ശുപ്പണ്ണാവെന്നാണ്.)
+</p>
+          <p>കൂട്ടുകറിയും മറ്റു കറികളും പതിവുപോലെയുള്ള പദാർഥവിജ്ഞാനത്തോടുകൂടിത്തന്നെയാണ് മി. സ്വാമി
+രചിച്ചിട്ടുള്ളത്.
+
+</p>
+          <p>പക്ഷേ, ചില ദോഷങ്ങൾ ഞങ്ങൾ അവിടവിടെയായി കണ്ടെത്തിയിട്ടില്ലെന്നു വിചാരിച്ച് മി. സ്വാമി അധികം
+ഞെളിയുകയും വേണ്ട. ഉപ്പേരി സാധാരണ പച്ചമലയാളികൾക്കു കടിച്ചാൽപൊട്ടാത്തവിധത്തിൽ
+കഠിനമായിപ്പോയില്ലേ എന്നു ഞങ്ങൾ സംശയിക്കുന്നു. പ്രകൃത്യാ ലളിതമായിരിക്കേണ്ടുന്ന ചേന ഉപ്പേരിയുടെ
+കാര്യത്തിലിതൊരു ഗണ്യമായ ദോഷംതന്നെയാണ്. പരിപ്പുപ്രഥമൻ എന്തിനാണ് ഇത്ര മാധുര്യം? വറവ് സ്വല്പ?
+കരിക്കുന്നത് കൂട്ടാന്റെ രുചിയെ വർധിപ്പിക്കുമെന്നു ചില സദ്യമർമജന്മാർക്കും അഭിപ്രായമുള്ളതായി ഞങ്ങൾ
+അറിയും. പക്ഷേ, ഞങ്ങൾ ആ അഭിപ്രായക്കാരല്ല. അതായിരിക്കാം മി. സ്വാമിയുടെ വറുത്തെരുശ്ശേരി
+അദ്ദേഹത്തിന്റെ ഓലനെപ്പോലെ ഞങ്ങൾക്കു പിടിക്കാഞ്ഞത്. ഒരു സംഗതികൂടി ഞങ്ങൾ വെറും സ്നേഹബുദ്ധ്യാ
+മി. സ്വാമിയോടു പറഞ്ഞുകൊള്ളട്ടെ ‘അവിയലിൽ എന്തും ചേരും’ എന്നുള്ള പഴമൊഴിയെ കണ്ണടച്ചു വിശ്വസിച്ച്
+‘എന്തും’ ചേർക്കുന്നത് കഷ്ടമാണ്. അവിയലാണെന്നു വിചാരിച്ച്, അതിൽ അജാളിയും ചതകുപ്പയും
+ആവണക്കെണ്ണയും കിരിയാത്തും ചേർത്താലോ?
+</p>
+          <p>പക്ഷേ, എന്തു പറഞ്ഞാലെന്താണ്! ചില്ലറ ദോഷം ഗുണസന്നിപാതത്തിൽ, മഹാസമുദ്രത്തിൽ
+ചെറുകല്ലിനെപ്പോലെ, നിമജ്ജതി. പാലിലട വന്നപ്പോളാണ് മി. സ്വാമിയുടെ സാക്ഷാൽ സ്വരുപം
+പ്രത്യക്ഷപ്പെട്ടത്. ജഗദീശ്വരാ! എന്തൊരു ലാളിത്യമായിരുന്നു! എന്തൊരു നിറം! എന്തൊരു മാധുര്യം!
+ഉദാഹരണത്തിന് ഒന്നുരണ്ടു കയ്യിൽ ഇവിടെ വിളമ്പുവാൻ നിവൃത്തിയില്ലല്ലോ എന്നാണു ഞങ്ങളുടെ ഒരൊറ്റ
+വ്യസനം. മി. സ്വാമിയുടെ പാൽപ്രഥമൻ, രവിവർമയുടെ കലാകൌശലക്കൊടുമുടികളിൽ എവറസ്റ്റായ ‘മോഹിനി’
+എന്ന പടത്തെയാണ് ഞങ്ങളുടെ ഓർമച്ചുമരിൽ ആണിയടിച്ചു തൂക്കുന്നത്. ഞങ്ങൾ എത്ര പ്രാവശ്യമാണ്
+ഒരിരുപ്പിൽ ഇതിനെ പാരായണം ചെയ്തതെന്നു ഞങ്ങൾക്ക് ഓർമയില്ല. ഊണു കഴിഞ്ഞ് അതിഥികളൊക്കെ
+പോയതിനുശേഷം സ്വകാര്യമായി ഒരു കോപ്പയിൽ ഞങ്ങൾ ഇതിനെ വീണ്ടും പാരായണം ചെയ്തു. എനിയും
+ഇതെവിടെയെങ്കിലും കണ്ടാൽ ഞങ്ങൾ എനിയും ഇതിനെ പാരായണം ചെയ്യും. മി. സ്വാമിക്ക് പ്രസാധകനായ
+മി. തിരുമുല്പാട് കൊടുത്ത പ്രതിഫലം, എത്രയായാലും ഒട്ടും അധികമായിപ്പോവുകയില്ലെന്നാണ് ഞങ്ങളുടെ
+പൂർണാഭിപ്രായം.
+</p>
+          <p>ടീപ്പാർട്ടി, ഗാർഡൻപാർട്ടി, വെറും തമാശച്ചായവിരുന്ന് (ഹാസസദ്യപ്രസ്ഥാനം) മുതലായവയുടെ
+നിരൂപണപദ്ധതി ഇതിൽനിന്നു കുറച്ചു വ്യത്യസ്തമാണ്. അവയുടെ സാമ്പിളുകൾ കൊടുപ്പാൻ സ്ഥലം
+മതിയാവുകയില്ല. എങ്കിലും എനിക്ക് ഇതു ചെയ്യാൻ കഴിയുമെന്ന് നിങ്ങൾക്കു ബോധ്യമായില്ലേ? വേണമെങ്കിൽ
+ഗൃഹപ്രവേശങ്ങളേയും, വനിതാസമ്മേളനങ്ങളേയും, പാലം, നിരത്ത്, വായനശാല മുതലായവയുടെ
+ഉൽഘാടനങ്ങളേയും, സുഗന്ധസോപ്പുകളേയും സഞ്ജയൻ ഇതേ തോതിൽ വിമർശിക്കാം.
+<list type="gloss"><label>പത്രാധിപർ:</label><item> വനിതാസമ്മേളനങ്ങളേയോ?
+</item><label>സഞ്ജയൻ:</label><item> അതെ, എന്താണ്?
+</item><label>പത്രാധിപർ:</label><item> ഒന്നുമില്ല; ഞങ്ങൾ സ്വീകരിക്കുകയില്ല.
+</item><label>സഞ്ജയൻ:</label><item> വേണ്ട, ഞാൻ തനിയേ വായിച്ചുരസിക്കും. അതിനു നിങ്ങളുടെ ശിപാർശി വേണ്ടല്ലോ! </item></list>
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sadyanirupanam (ml:
+സദ്യനിരൂപണം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2022-07-02. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, Sadya
+nirupanam, സഞ്ജയൻ, സദ്യനിരൂപണം, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 2, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Kandinsky__Blue_over_Multicolored,_1925.jpg">Blue over Multicolored,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Wassily_Kandinsky">Wassily
+Kandinsky</ref>  (1866–1944). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-sadya.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-sadya.pdf">Download
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

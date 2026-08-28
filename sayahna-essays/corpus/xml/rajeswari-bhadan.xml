@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഒരു ഭടൻ കിടന്നുകൊണ്ടു്
+പ്രവേശിക്കുന്നു</title>
+          <title xml:lang="en" type="main">Oru Bhadan Kidannukondu
+Pravesikkunnu</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2026">April 6, 2026</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഒരു ഭടൻ കിടന്നുകൊണ്ടു്
+പ്രവേശിക്കുന്നു</title>
+              <title xml:lang="en" type="main">Oru Bhadan Kidannukondu
+Pravesikkunnu</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Oru Bhadan Kidannukondu Pravesikkunnu</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ഒരു ഭടൻ കിടന്നുകൊണ്ടു് പ്രവേശിക്കുന്നു</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 6, 2026</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Reichenbachia_Orchids.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Illustration_from_Reichenbachia_Orchids_by_Frederick_Sander,_digitally_enhanced_by_rawpixe com_103.jpg">Dendrobium phalænopsis var statterianum from Reichenbachia
+Orchids,</ref> a painting by Rawpixel  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഒരു ഭടൻ കിടന്നുകൊണ്ടു് പ്രവേശിക്കുന്നു</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഒരു ഭടൻ കിടന്നുകൊണ്ടു് പ്രവേശിക്കുന്നു</head>
+        <div type="lsection">
+          <p style="noindent">‘നീതിനിമിത്തം ഉപദ്രവിക്കപ്പെടുന്നവർ ഭാഗ്യവാന്മാർ സ്വർഗരാജ്യം
+അവർക്കുള്ളതു് ” (മത്തായി 5: 10)
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mathai_manjooran.png" rendition="gra"/>
+            <figDesc style="thumb">മത്തായി മാഞ്ഞൂരാൻ</figDesc>
+          </figure>
+          <p>എല്ലാ തമ്പ്രാക്കളും തമ്പ്രാക്കളല്ല; എല്ലാ മത്തായിമാരും മത്തായിയുമല്ല. ആഴ്‌വഞ്ചേരിത്തമ്പ്രാക്കളാണു്
+യഥാർഥ തമ്പ്രാക്കൾ. മത്തായി മാഞ്ഞൂരാനായിരുന്നു സാക്ഷാൽ. <ref target="https://ml.wikipedia.org/wiki/Mathai_Manjooran">മത്തായി
+മാഞ്ഞൂരാനെ</ref> വെല്ലാൻ ഒരു മത്തായി ഭൂമിമലയാളത്തിലുണ്ടായിട്ടില്ല. ഇനി ഉണ്ടാകാനും പ്രയാസം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/John_Manjooran.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോൺ</figDesc>
+          </figure>
+          <p> ജന്മനാ പ്രക്ഷോഭകരായിരുന്നു മാഞ്ഞൂരാൻ സഹോദരൻ—ചെറിയാൻ, <ref target="https://ml.wikipedia.org/wiki/Mathai_Manjooran">മത്തായി</ref>, <ref target="https://ml.wikipedia.org/wiki/John_Manjooran">ജോൺ</ref>. 1927-ൽ
+സൈമൺ കമീഷൻ ബഹിഷ്കരണ സമരത്തിൽ പങ്കെടുക്കുമ്പോൾ വയസ്സു് പതിനഞ്ചാണു് മത്തായിക്കു്. 1993-ൽ
+ബി. എ. പാസായി അധികം കഴിയുംമുമ്പു് കൊടുങ്ങല്ലൂരുപോയി കർഷകസമരത്തിൽ പങ്കെടുത്തു. ഇത്തവണ
+മാഞ്ഞൂരാൻ ആളിക്കത്തി മൈസൂരിൽനിന്നു ഡൈനാമിറ്റും സ്ഫോടക വസ്തുക്കളും ഒളിച്ചുകടത്തി. കോഴിക്കോട്ടു
+വെച്ചു് ബോംബുണ്ടാക്കിയ പരിപാടിയുടെ സൂത്രധാരൻ അദ്ദേഹമായിരുന്നു. കീഴരിയൂർ ബോംബ് കേസിലും
+പ്രതിയായിരുന്നെങ്കിലും പൊലീസിനു് പിടികൊടുത്തില്ല. ഒളിവിലിരിക്കവെ കൊച്ചി രാജാവിനു്
+പാട്ടവുമായിപ്പോയ നെല്ലുവണ്ടി തടഞ്ഞു് നെല്ലുമുഴുവൻ സാധുക്കൾക്കു് വിതരണം ചെയ്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jayaprakash_Narayan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജയപ്രാകശ് നാരായണൻ</figDesc>
+          </figure>
+          <p> 1946 ആദ്യം പാറ്റ്നയിൽ നടന്ന കോൺഗ്രസ്-സോഷ്യലിസ്റ്റ് പാർട്ടിയുടെ അഖിലേന്ത്യാ സമ്മേളനത്തിൽ
+ശ്രീകണ്ഠൻ നായരോടൊപ്പം <ref target="https://ml.wikipedia.org/wiki/Mathai_Manjooran">മത്തായി
+മാഞ്ഞൂരാനും</ref> പങ്കെടുത്തിരുന്നു. തൊഴിലാളി വർഗ സർവാധിപത്യത്തെയും സായുധ സമരത്തെയും
+അപലപിച്ചുകൊണ്ടു് <ref target="https://en.wikipedia.org/wiki/Jayaprakash_Narayan">ജയപ്രാകശ്
+നാരായണൻ</ref> കൊണ്ടുവന്ന പ്രമേയത്തെ അവരിരുവരും എതിർത്തു. 1947 മാർച്ച് 6, 7 തീയതികളിൽ
+നടന്ന ഇന്ത്യൻ സോഷ്യലിസ്റ്റ് പാർട്ടിയുടെ പ്രഥമ സമ്മേളനത്തിൽ മാർക്സിസം ലെനിനിസം സോഷ്യലിസ്റ്റ്
+പാർട്ടിയുടെ അടിസ്ഥാന പ്രമാണമായി അംഗികരിക്കുന്നു എന്ന പ്രമേയം ശ്രീകണ്ഠൻനായർ അവതരിപ്പിച്ചു.
+<ref target="https://ml.wikipedia.org/wiki/Mathai_Manjooran">മത്തായി
+
+മാഞ്ഞൂരാൻ</ref> പിന്താങ്ങി. പ്രമേയത്തെ <ref target="https://ml.wikipedia.org/wiki/K.B._Menon">ഡോ. കെ. ബി. മേനോനും</ref>
+അരങ്ങിൽ ശ്രീധരനും വരെ എതിർത്തു. <ref target="https://ml.wikipedia.org/wiki/Asoka_Mehta">അശോക്മേത്ത</ref> യും <ref target="https://ml.wikipedia.org/wiki/Rammanohar_Lohia">രാംമനോഹർ
+ലോഹ്യ</ref> യും നയിക്കുന്ന സോഷ്യലിസ്റ്റ് പാർട്ടിയുണ്ടോ മാർക്സിസം അംഗീകരിക്കുന്നു? അതോടെ
+മത്തായിയും ശ്രീകണ്ഠനും വേറെ വഴിതേടി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/DrKB_menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. കെ. ബി. മേനോൻ</figDesc>
+          </figure>
+          <p> 1947 സെപ്റ്റംബർ 21-നു കോഴിക്കോട്ടു് മത്തായി മാഞ്ഞൂരാന്റെ അധ്യക്ഷതയിൽ കൂടിയ സമ്മേളനത്തിൽ
+‘കേരള സോഷ്യലിസ്റ്റ് പാർട്ടി’ രൂപംകൊണ്ടു. ശ്രീകണ്ഠൻ നായരായിരുന്നു. ജനറൽ സെക്രട്ടറി 1949
+ആകുമ്പോഴേക്കും പാർട്ടിയിൽ ഭിന്നത മൂർച്ഛിച്ചു. കേരളം ഒരു സ്വതന്ത്ര പരമാധികാര റിപ്പബ്ലിക്കാകണം എന്നു്
+മത്തായി അത്രയും വേണ്ട എന്നു് ശ്രീകണ്ഠൻ 1949 ഫെബ്രുവരി ആറിനു് കെ. എസ്. പി. പിളർന്നു. ശ്രീകണ്ഠൻ
+നായരും കൂട്ടരും റവല്യൂഷണറി സോഷ്യലിസ്റ്റ് പാർട്ടിയിൽ ചേക്കേറി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Panampilly_Govinda_Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">പനമ്പിള്ളി ഗോവിന്ദമേനോൻ</figDesc>
+          </figure>
+          <p> സ്വാതന്ത്ര്യലബ്ധിക്കുശേഷവും മത്തായിയുടെ പരാക്രമശീലത്തിനു കുറവേതുമുണ്ടായില്ല. 1947 ഒക്ടോബർ 10-നു്
+മത്തായിയും ശിഷ്യരും കൊച്ചി നിയമസഭാ മന്ദിരത്തിൽ അതിക്രമിച്ചുകയറി സ്പീക്കറെയും മറ്റംഗങ്ങളെയും
+തള്ളിപ്പുറത്താക്കി. അന്നു് കൊച്ചി രാജ്യപ്രധാനമന്ത്രിയായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">പനമ്പിള്ളി</ref>
+യും മറ്റും ജീവനുകൊണ്ടോടി.
+</p>
+          <p>1952-ലും 54-ലും തിരു-കൊച്ചി നിയമസഭയിലേക്കു് നടന്ന തെരഞ്ഞെടുപ്പുകളിൽ കമ്യൂണിസ്റ്റ് നേതൃത്വത്തിലുള്ള
+മുന്നണിയിലായിരുന്നു കെ. എസ്. പി. 1952-ൽ <ref target="https://ml.wikipedia.org/wiki/Mathai_Manjooran">മത്തായി
+മാഞ്ഞൂരാൻ</ref> രാജ്യസഭയിലേക്കു് തെരഞ്ഞെടുക്കപ്പെട്ടു. 1957-ൽ മുന്നണി തകർന്നു. മത്തായിയും കൂട്ടരും
+കമ്യൂണിസ്റ്റ് വിരുദ്ധ ചേരിയിലായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Lohia.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാംമനോഹർ ലോഹ്യ</figDesc>
+          </figure>
+          <p> കമ്യൂണിസ്റ്റുകാരും വിരുദ്ധരും തമ്മിലുണ്ടായ ഏറ്റുമുട്ടലുകളിൽ ഏറ്റവും രൂക്ഷമായതു് 1958 ജൂലൈ 26-നു് തൃശൂർ
+ജില്ലയിലെ വരന്തരപ്പിള്ളിയിൽ അരങ്ങേറി. പുതുക്കാട് പൊലീസ് സ്റ്റേഷൻ പരിധിയിൽപ്പെട്ട ഒരു മലയോര
+ഗ്രാമമാണു് വരന്തരപ്പിള്ളി. സ്ഥലത്തെ കമ്യൂണിസ്റ്റ് നേതക്കളായ <ref target="https://ml.wikipedia.org/wiki/T._Ubaid">ടി. ഉബൈദ്</ref>, കെ. പി.
+ഉണ്ണിൻകുട്ടി എന്നിവരുടെ നേതൃത്വത്തിൽ പാലപ്പിള്ളിയിൽ നിന്നാരംഭിച്ച ജാഥയെ വരന്തരപ്പിള്ളി
+അങ്ങാടിയിൽവെച്ചു് വിരുദ്ധന്മാർ തടഞ്ഞു. കശപിശ കത്തിക്കുത്തായി വളർന്നു. അഞ്ചു വിരുദ്ധന്മാർ—സി. ടി.
+കൊച്ചാപ്പു, കണിയാമ്പറൻ കൃഷ്ണൻ, ചാക്കോലി അന്തോണി, പാണ്ടിയൻ കൊച്ചപ്പൻ, ഇല്ലിക്കൻ
+അപ്പച്ചൻ—തൽക്ഷണം മരിച്ചു ഒരു കമ്യൂണിസ്റ്റുകാരൻ അടക്കം ഏഴുപേർ ആശുപത്രിയിലായി ആഗ്സ്റ്റ് 7-ാം
+തീയതി ലോനപ്പൻ തോമസ് എന്ന വിരുദ്ധകൂടി മരിച്ചു. മരണസംഖ്യ ആറായി.
+</p>
+          <p>ജുലൈ 26-നുതന്നെ പുതുക്കാട് എസ്. ഐ. കേസ് രജിസ്റ്റർ ചെയ്തു. (ക്രൈം നമ്പർ 105/58) പിന്നാലെ തൃശൂർ
+സർക്കിൾ ഇൻസ്പെക്ടർ അന്വേഷണം ഏറ്റെടുത്തു. പിറ്റേദിവസം തൃശൂർ, മുകുന്ദപുരം താലൂക്കുകളിൽ ക്രിമിനൽ
+
+നടപടി നിയമത്തിലെ 144-ആം വകുപ്പു് പ്രകാരം നിരോധാജ്ഞ പ്രഖ്യാപിച്ചു. വരന്തരപ്പിള്ളിയിലെ
+ആക്രമത്തെപ്പറ്റി കമ്യൂണിസ്റ്റ് വിരുദ്ധ പത്രങ്ങൾ വലിയവായിൽ ഒച്ചയിട്ടു. പി. എസ്. പി. നേതാവു് <ref target="https://ml.wikipedia.org/wiki/K.B._Menon">ഡോ. കെ. ബി. മേനോൻ</ref>
+വരന്തരപ്പിള്ളി സംഭവം ആഗസ്റ്റ് 11-ാം തീയതി ലോക്സഭയിൽ ഉന്നയിച്ചു. കേരളത്തിലെ താറുമാറായ
+ക്രമസമാധാന നിലയെപ്പറ്റി <ref target="https://ml.wikipedia.org/wiki/Asoka_Mehta">അശോക്മേത്ത</ref>
+സെപ്റ്റംബർ 4-നു് അടിയന്തര പ്രമേയം ഉന്നയിച്ചു: കോൺഗ്രസ് വർക്കിംഗ് കമ്മിറ്റി സെപ്റ്റംബർ 18-നു്
+പ്രമേയവും പാസാക്കി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_M_S_Namboodiripad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. എം. എസ്.</figDesc>
+          </figure>
+          <p> വരന്തരപ്പിള്ളി കേസിനെപ്പറ്റി ആഗസ്റ്റ് 8-ാം തീയതി മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/EMS">ഇ. എം. എസ്.</ref> തിരുവനന്തപുരത്തു്
+നടത്തിയ പത്രപ്രസ്താവന കോടതിയലക്ഷ്യമാണെന്നാരോപിച്ചു് കൊല്ലപ്പെട്ട കൊച്ചാപ്പുവിന്റെ മകൻ തോമൻ
+കുട്ടി. <ref target="https://ml.wikipedia.org/wiki/Panampilly_Govinda_Menon">അഡ്വ.
+പനമ്പിള്ളി ഗോവിന്ദമേനോൻ</ref> മുഖേന ഹൈക്കോടതിയെ സമീപിച്ചു. 1958 ഒക്ടോബർ 13-നു് മുഖ്യമന്ത്രി
+ഹൈക്കോടതിയിൽ നേരിട്ടു് ഹാജരായി നിരുപാധികം ക്ഷമായാചനം നടത്തി. ഇം. എം. എസിന്റെ
+അഭിഭാഷകൻ പി. ബാലഗംഗാധരമേനോൻ കുറ്റസമ്മതം കോടതിയിൽ വായിച്ചു. “എന്റെ പ്രസ്താവന
+കോടതിയലക്ഷ്യമായിട്ടുണ്ടെന്നു് എനിക്കു് ഇപ്പോൾ ഉപദേശം കിട്ടിയിരിക്കുന്നു. അതു്
+പരസ്യപ്പെടുത്താനിടയായതിൽ ഞാൻ പരിതപിക്കുകയും പ്രസ്താവന പുറപ്പെടുവിച്ചതിൽ ബഹു. കോടതി
+മുമ്പാകെ ക്ഷമായാചനം ചെയ്യുകയും ചെയ്യുന്നു. എന്റെ അപേക്ഷ സ്വീകരിച്ചു് എനിക്കു് മാപ്പ് തരികയും
+മേൽനടപടി നടത്താതിരിക്കൻ ഉത്തരവാകുകയും ചെയ്യാൻ കോടതിക്കു് കാരുണ്യം ഉണ്ടാകണം…”
+</p>
+          <p>ക്ഷമായാചനം നടത്താൻ ആർജവം കാട്ടിയ മുഖ്യമന്ത്രിയെ ചീഫ് ജസ്റ്റിസ് കെ. ടി. കോശിയും ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/M.S.Menon">എം. എസ്. മേനോനും</ref>
+ഉൾപ്പെട്ട ഡിവിഷൻബെഞ്ച് ശ്ലാഘിച്ചു. കുറ്റസമ്മതം നടത്തിയതുകൊണ്ടു് മുഖ്യമന്ത്രിയുടെ പദവിക്കു് താഴ്ചയല്ല
+ഉയർച്ചയാണുണ്ടാതെന്നും കോടതി അഭിപ്രായപ്പെട്ടു. ക്ഷമായാചനം സ്വീകരിച്ചു് മേൽനടപടികൾ
+അവസാനിപ്പിച്ചു.
+</p>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mathai_Manjooran">മത്തായി
+മാഞ്ഞൂരാന്റെ</ref> പത്രാധിപത്യത്തിൽ എറണാകുളത്തുനിന്നും പ്രസിദ്ധീകരിച്ചിരുന്ന കേരള പ്രകാശം
+പത്രത്തിൽ ജുലൈ 29-ാം തീയതി വന്ന മൃഗീയമായ ആ ‘കമ്യൂണിസ്റ്റ് കൊലപാതകത്തിന്റെ കറുത്തകഥ’ എന്ന
+റിപ്പോർട്ട് കോടതിയലക്ഷ്യമാണെന്നാരോപിച്ചു സെപ്റ്റംബർ 9-ാം തീയതി സർക്കാർ ഹൈക്കോടതിയെ
+സമീപിച്ചു. നിയമമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ. കൃഷ്ണയ്യർ</ref>
+വിദേശപര്യടനത്തിലായിരുന്നതിനാലാണു് കോടതിയലക്ഷ്യകേസ് ഫയൽ ചെയ്യാൻ അൽപം
+കാലതാമസമുണ്ടായതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/vr_krishna_iyyar.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ആർ. കൃഷ്ണയ്യർ</figDesc>
+          </figure>
+          <p> കമ്യൂണിസ്റ്റ് വിരുദ്ധ പത്രങ്ങളെ വെറുതെ വിടില്ല എന്ന നിലപാടുകാരനായിരുന്നു കൃഷ്ണയ്യർ.
+പത്രസ്വാതന്ത്ര്യത്തിന്റെ മറവിൽ എന്തു് ആഭാസവും അച്ചടിച്ചിറക്കാമെന്നു് വ്യാമോഹിക്കരുതെന്നു് മന്ത്രി താക്കീതു്
+ചെയ്തു. “മനുഷ്യരെ കൽപിച്ചുകൂട്ടി അപകീർത്തിപ്പെടുത്തുന്നവർ അവരെത്ര വലിയ ആളുകളായാലും ശരി.
+കോടതികളുടെ മുമ്പാകെ ഉത്തരം പറയേണ്ടിവരും. അതുപറയിപ്പിക്കുക തന്നെ ചെയ്യും. പത്രസ്വാതന്ത്ര്യത്തിന്റെ
+പതാകാവാഹകരായി ഇവിടെ അഭിനയിക്കുന്നവർ പത്രമുടമകളെ ഇക്കാര്യം അറിയുന്നതു് നന്നു്. മറ്റുള്ളവരെ
+അപകീർത്തിപ്പെടുത്തുന്നതു് അഭിമാനകരമായ ഒരു ജോലിയല്ല. നിയമത്തെയും നീതിന്യായാസനങ്ങളെയും
+നാവുകൊണ്ടുമാത്രം സേവിച്ചു് മന്ത്രിമാരെപ്പറ്റി സഭ്യേതരങ്ങളും അപമാനകരങ്ങളും അടിസ്ഥാനരഹിതവുമായ
+
+ആരോപണങ്ങൾ ഉന്നയിക്കുന്നവർ നിയമത്തിന്റെ കൈയിൽനിന്നു് രക്ഷപ്പെടുമെന്നു് വ്യാമോഹിക്കേണ്ടതില്ല.”
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/TV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. വി. തോമസ്</figDesc>
+          </figure>
+          <p> ദിനമണി, പൊതുജനം പത്രങ്ങൾക്കെതിരെ മാനനഷ്ടക്കേസ് ഫയൽചെയ്ത കൃഷ്ണയ്യർതന്നെ
+സഹപ്രവർത്തകർക്കു് മാതൃക കാട്ടി. എക്സ്പ്രസിനെതിരെ <ref target="https://ml.wikipedia.org/wiki/T.V._Thomas">ടി. വി. തോമസും</ref> കേരള
+ഭൂഷണത്തിനെതിരെ <ref target="https://ml.wikipedia.org/wiki/M._N._Govindan_Nair">എം. എൻ. ഗോവിന്ദൻ
+നായരും</ref> മലയാള മനോരമക്കെതിരെ <ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ.
+കൃഷ്ണയ്യരും</ref> കേസുകൾ ഫയലാക്കി മുഖപ്രസംഗത്തിലൂടെ ജനങ്ങളെ കലാപത്തിനു് പ്രേരിപ്പിച്ചു
+എന്നാരോപിച്ചു ദീപിക പത്രാധിപർക്കെതിരെ ക്രിമിനൽ കേസ് ചാർജ്ജ് ചെയ്യിച്ചു…
+</p>
+          <p>വരന്തരപ്പിള്ളി സംഭവം റിപ്പോർട്ട് ചെയ്തതു സംബന്ധിച്ചു് ഒരു പ്രമുഖ കോട്ടയം പത്രത്തിനെതിരെയും
+കോടതിയലക്ഷ്യക്കേസുണ്ടായി. ധീരനായ കോട്ടയം പത്രാധിപർ കോടതിയിൽ നേരിട്ടു് ഹാജരായി
+ക്ഷമായാചനം നടത്തി തടിരക്ഷപ്പെടുത്തി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Govindan_Nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എൻ. ഗോവിന്ദൻ നായർ</figDesc>
+          </figure>
+          <p> ഖേദപ്രകടനം, ക്ഷമായാചനം മുതലായ വാക്കുകളൊന്നും ഒരു കാലത്തും മത്തായിയുടെ
+നിഘണ്ടുവിലുണ്ടായിട്ടില്ല. വിശദമായ എതിർ സത്യവാങ്മൂലം തന്നെ ഫയലാക്കി. വക്കീലിനെ
+ഏർപ്പെടുത്തിയില്ല. നിയമബിരുദമൊന്നുമില്ലെങ്കിലും സ്വയം കേസാസ്വദിക്കുകയാണു് മത്തായി ചെയ്തതു്.
+മറുഭാഗത്തു് സർക്കാറിനുവേണ്ടി അഡ്വക്കേറ്റ് ജനറൽ കെ. വി. സൂര്യനാരായണയ്യർ ഹാജരായി. കോടതിയലക്ഷ്യ
+നിയമത്തിലെ വകുപ്പുകൾ തലനാരിഴ കീറി പരിശോധിച്ച ഡിവിഷൻ ബെഞ്ച് ജൂലൈ 29-ലെ റിപ്പോർട്ട്
+കോടതിയലക്ഷ്യമാണെന്നു് കണ്ടെത്തി. ആ ഘട്ടത്തിലെങ്കിലും ഖേദപ്രകടനം നടത്തിയിരുന്നെങ്കിൽ മത്തായിക്കു്
+തലയൂരാമായിരുന്നു. അതുമുണ്ടായില്ല. പത്രാധിപർ മത്തായി മാഞ്ഞൂരാനു് 100 രൂപയും പ്രസാധകൻ <ref target="https://ml.wikipedia.org/wiki/K._Sudhakaran">കെ. സുധാകരനു്</ref> 50
+രൂപയും പിഴശിക്ഷ വിധിച്ചു. സുപ്രീംകോടതിയിൽ അപ്പീൽ കൊടുക്കാൻ ഉദ്ദേശിക്കുന്നതിനാൽ ശിക്ഷ ഉടൻ
+നടപ്പാക്കരുതെന്നു് മത്തായി അപേക്ഷിച്ചെങ്കിലും ചീഫ് ജസ്റ്റിസ് കോശിയും ജസ്റ്റിസ് വൈദ്യലിംഗവും ഉൾപ്പെട്ട
+ഡിവിഷൻബെഞ്ച് ചെവിക്കൊണ്ടില്ല പിഴയടയ്ക്കാൻ മത്തായി കേസ് വിധി പറഞ്ഞ 1959 ജനുവരി 20-നു് മത്തായി
+മാഞ്ഞൂരാനെ ഹൈക്കോടതിയിൽ നിന്നു് നേരെ വിയ്യൂർ സെൻട്രൽ ജയിലിലേക്കാണു് കൊണ്ടുപോയതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ksudhakaran.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സുധാകരൻ</figDesc>
+          </figure>
+          <p> 1959 ജനുവരി 31-നു് ചീഫ് ജസ്റ്റിസ് കെ. ടി. കോശി സർവീസിൽനിന്നു് വിരമിച്ചു. മത്തായിക്കേസിന്റെ
+പശ്ചാത്തലത്തിൽ അന്നത്തെ ഹൈക്കോർട്ട് ബാർ അസോസിയേഷൻ പ്രസിഡന്റ് തൈക്കാട് സുബ്രഹ്മണ്യയ്യർ
+അടക്കമുള്ളവർ യാത്രയയപ്പു് യോഗം ബഹിഷ്കരിച്ചു മറുഭാഗത്തു് ജയിൽമോചിതനായ മത്തായിമാഞ്ഞൂരാനു്
+രാജകീയ സ്വീകരണം ലഭിച്ചു. വിയ്യൂരുനിന്നു് ഘോഷയാത്രയായി തൃശൂർക്കു് കൊണ്ടുവന്നു
+വിദ്യാർത്ഥികോർണറിൽനിന്നു് <ref target="https://ml.wikipedia.org/wiki/Mathai_Manjooran">മത്തായി
+മാഞ്ഞൂരാൻ</ref> നിയമത്തെയും നീതിപീഠത്തെയും നിശിതമായി വിമർശിച്ചു് പ്രസംഗിച്ചു.
+</p>
+          <p>കമ്യൂണിസ്റ്റ് ഭരണത്തിൻകീഴിൽ മത്തായി മാഞ്ഞൂരാനുംപോലും ഒരു തവണയേ കോടതിയലക്ഷ്യ നടപടി
+
+നേരിടേണ്ടിവന്നുള്ളു. എന്നാൽ കഴിഞ്ഞ എൽ. ഡി. എഫ്. സർക്കാറിന്റെ ഭരണകാലത്തു് നിരന്തരമായി
+സുപ്രീംകോടതിയിലും ഹൈകോടതിയിലും കോടതിയലക്ഷ്യ നടപടികൾ അഭിമുഖീകരിക്കേണ്ടിവന്നതു്
+ഇടതുപക്ഷ ചായ്വുള്ള കേരളകൗമുദി പത്രത്തിനാണു്. കേരള കൗമുദിയും അന്നത്തെ അഡ്വക്കേറ്റ് ജനറലും
+തമ്മിലുണ്ടായിരുന്ന ഊഷ്മളമായ ബന്ധമായിരുന്നു. കോടതിയലക്ഷ്യ നടപടികളുടെ മൂലാധാരം. (മാർക്സ്സ്റ്റ്
+പാർട്ടിയിലെ ഗ്രൂപ്പ് വഴക്കുമായി ഇതിനു് ബന്ധമുണ്ടെന്നാണു് വിരുദ്ധന്മാരുടെ വിദഗ്ധാഭിപ്രായം നേരാണോ
+എന്തോ?)
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Medhapatkar.jpg" rendition="gra"/>
+            <figDesc style="thumb">മേധാപട്കർ</figDesc>
+          </figure>
+          <p> കുപ്രസിദ്ധമായ പയ്യാവൂർ കോടതിയലക്ഷ്യക്കേസിലാണു് അഡ്വക്കേറ്റ് ജനറലും കേരള കൗമുദിയും
+തമ്മിലുള്ള സ്നേഹബന്ധം മറനീക്കി പുറത്തു വന്നതു്. 1998 സെപ്റ്റംബർ 1-ാം തീയതി നടക്കുന്ന അവിശ്വാസ
+പ്രമേയ ചർച്ചയ്ക്കു പൊലീസ് സംരക്ഷണം നൽകമെന്നായിരുന്നു 27.08.1998-ലെ ഇടക്കാല ഉത്തരവു് പഞ്ചായത്ത്
+ഡെപ്യൂട്ടി ഡയറക്ടറുടെയും പൊലീസ് സൂപ്രണ്ടിന്റെയും കൺമുന്നിൽ ഉത്തരവു് ലംഘിക്കപ്പെട്ടു. ചീഫ്
+സെക്രട്ടറിയടക്കമുള്ളവർക്കെതിരെ സിവിൽ കോടതിയലക്ഷ്യ നടപടികൾ തുടങ്ങി. ചീഫ് സെക്രട്ടറി
+മോഹൻകുമാർ 1998 നവംബർ 4-ാം തീയതി കോടതിയിൽ നേരിട്ടു് ഹാജരായി കുറ്റം നിഷേധിച്ചു. വാദം
+നടക്കുമ്പോഴത്രയും (മൂന്നര മണിക്കൂറിലേറെ) അറുപതിന്റെ പടിവാതിലിലെത്തിയ ചീഫ് സെക്രട്ടറി നിന്നനിൽപ്പു്
+നിൽക്കേണ്ടിവന്നു. ചീഫ് സെക്രട്ടറി നിൽക്കുന്ന കാര്യം സർക്കാർ അഭിഭാഷകൻ കോടതിയുടെ ശ്രദ്ധയിൽ
+പെടുത്താഞ്ഞിട്ടല്ല കോടതിയലക്ഷ്യകേസിലെ പ്രതിക്കു് ഇരിപ്പിടം നൽകാൻ വ്യവസ്ഥയില്ലത്രെ. നിരുപാധികം
+ക്ഷമചോദിച്ചു് രക്ഷപ്പെടാൻ മോഹൻകുമാറിനു് മോഹമില്ലാഞ്ഞിട്ടുമല്ല. സർക്കാർ സമ്മതിച്ചില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Arundhati_Roy.jpg" rendition="gra"/>
+            <figDesc style="thumb">അരുന്ധതി റോയ്</figDesc>
+          </figure>
+          <p> അഡ്വക്കേറ്റ് ജനറൽ ഓഫിസിന്റെ വീഴ്ചകൊണ്ടാണു് ചീഫ് സെക്രട്ടറി കുടുങ്ങിയതു് എന്നു് കാണിച്ചു് നവംബർ
+7-നു് കേരള കൗമുദി വെണ്ടക്ക നിരത്തി. അന്നുതന്നെ മുരളീധരൻ എന്നയാൾ പത്രത്തിനെതിരെ ക്രിമിനൽ
+കോടതിയലക്ഷ്യ നടപടി സ്വീകരിക്കാൻ അനുവാദം തേടി. അഡ്വക്കേറ്റ് ജനറലിനെ സമീപിച്ചു് അനുമതി
+വൈകാതെ കിട്ടി. അങ്ങനെ ചീഫ് സെക്രട്ടറിയെ സിവിൽ കോടതിയലക്ഷ്യത്തിൽനിന്നു് കരകയറ്റാനിറങ്ങിയ
+കേരള കൗമുദി പത്രാധിപരും പ്രസാധകനും ലേഖകനും ക്രിമിനൽ കോടതിയലക്ഷ്യകേസിൽ പ്രതികളായി!
+ഒന്നരക്കൊല്ലത്തോളം അവർ കോടതി കയറിയിറങ്ങി. അവസാനം കേസിനാസ്പദമായ വാർത്തയിൽ
+കോടതിയെ സ്വാധീനിക്കത്തക്കതായോ നീതിനിർവഹണത്തെ തടസ്സപ്പെടുത്തുന്നതായോ യാതൊന്നുമില്ല
+എന്നുകണ്ടു് ഡിവിഷൻബെഞ്ച് അനന്തര നടപടികൾ ഉപേക്ഷിക്കുകയാണുണ്ടായതു്.
+</p>
+          <p>ഇപ്പോൾ കോടതിയലക്ഷ്യ നടപടികൾ നേരിടുന്നവരിൽ ഏറ്റവും പ്രമുഖ <ref target="https://ml.wikipedia.org/wiki/Arundhati_Roy">അരുന്ധതി റോയ്</ref>
+തന്നെ. അവരോടൊപ്പം കുറ്റാരോപിതരായ <ref target="https://ml.wikipedia.org/wiki/Medha_Patkar">മേധാപട്കറും</ref> <ref target="https://ml.wikipedia.org/wiki/Prashant_Bhushan">പ്രശാന്ത് ഭൂഷണും</ref>
+ഒഴിവാക്കപ്പെട്ടിരിക്കുന്നു. അരുന്ധതിയാണെങ്കിൽ കുഴപ്പത്തിൽനിന്നു് കൂടുതൽ കുഴപ്പത്തിലേക്കു നീങ്ങുകയാണു്.
+ഓരോ തവണയും അവരുടെ സത്യവാങ്മൂലം കോടതിയെ കൂടുതൽ ചൊടിപ്പിക്കുന്നു. കോടതിയലക്ഷ്യത്തെ
+ഏറ്റവും അലക്ഷ്യമായി നേരിടുകയാണു് <ref target="https://ml.wikipedia.org/wiki/Arundhati_Roy">അരുന്ധതി</ref>.
+</p>
+          <p>മുൻ ചീഫ്ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/A.S.Anand">എ. എസ്. ആനന്ദി</ref> നെതിരെ
+ഭൂമിതട്ടിപ്പു് സംബന്ധിച്ചു് ആരോപണമുന്നയിച്ച കാൽചക്രയിലെ വിനീത് നാരായണനും കോടതിയലക്ഷ്യ
+നടപടികൾ നേരിടുകയാണു്. ജമ്മു-കാശ്മീർ ഹൈക്കോടതിയിൽനിന്നു് കേസ് ദൽഹി ഹൈക്കോടതിയിലേക്കു്
+മാറ്റണം എന്ന പത്രാധിപരുടെ അപേക്ഷ സുപ്രീം കോടതി നിരാകരിച്ചു എന്നാണു് ഒടുവിൽ കിട്ടയ വാർത്ത.
+</p>
+          <p>നാലുപതിറ്റാണ്ടിനുശേഷം മത്തായിമാഞ്ഞൂരാനു് മലയാള നാട്ടിൽ ഒരു പിൻഗാമിയുണ്ടായിരുന്നു. മാതൃഭൂമി
+
+പത്രാധിപർ <ref target="https://ml.wikipedia.org/wiki/K._Gopalakrishnan">കെ.
+ഗോപാലകൃഷ്ണൻ</ref>. പയറ്റിത്തെളിഞ്ഞ പത്രപ്രവർത്തകനാണു് ഗോപാലകൃഷ്ണൻ. അദ്ദേഹം
+ചുമതലയേറ്റശേഷം മാതൃഭൂമിയുടെ മാറ്റുവർധിച്ചു എന്നു് എതിരാളികൾപോലും സമ്മതിക്കും മാനേജിംഗ്
+ഡയറക്ടറുടെ ചിത്രവും പ്രസംഗസംഗ്രഹവും പത്രത്തിൽനിന്നു് ഉച്ചാടനം ചെയ്തതു മാത്രം മതി പത്രാധിപരുടെ
+കഴിവു് ബോധ്യപ്പെടുത്താൻ.
+</p>
+          <p>2000-മാണ്ടു് നവംബർ 28-നു് കല്ലുവാതുക്കൽ മദ്യദുരന്തത്തെപ്പറ്റി പ്രസിദ്ധീകരിച്ച വാർത്തയാണു്
+പത്രാധിപകർക്കെതിരായ കോടതിയലക്ഷ്യ നടപടികളിലേക്കു് നയിച്ചതു്. മദ്യരാജാവു് മണിച്ചന്റെ സഹോദരൻ
+കൊച്ചനി പരവൂർ കോടതിയിൽ കീഴടങ്ങിയതു് രാവിലെ 10.30-നായിരുന്നെന്നും കോടതി സമയം 11
+മണിയാണെന്നിരിക്കെ കൊച്ചനി വരുമെന്നറിഞ്ഞു് കോടതി അനധികൃതമായി നേരത്തെ
+കൂടുകയായിരുന്നെന്നുമാണു് വാർത്തയുടെ കാതൽ പ്രസ്തുത പരാമർശം കോടതിയുടെ നിഷ്പക്ഷതയെക്കുറിച്ചു്
+സംശയങ്ങൾ ഉണർത്തുന്നുവെന്നും മജിസ്ട്രേറ്റിനു് അപകീർത്തികരമാണെന്നും പൊലീസിന്റെ രഹസ്യ
+അജണ്ടയിൽ മജിസ്ട്രേറ്റും കക്ഷിയാണെന്ന തെറ്റിദ്ധാരണ പരത്തുന്നുവെന്നും ആരോപിച്ചാണു് കോടതിയലക്ഷ്യ
+ഹർജി നൽകിയിരിക്കുന്നതു്.
+</p>
+          <p>കോടതിയലക്ഷ്യക്കേസിലെ പ്രതികൾ ഓരോ അവധിക്കും ഹാജരാകണമെന്നാണു് ചട്ടം. (ചീഫ്
+സെക്രട്ടറിയുടെ ദുർവിധി ഓർമിക്കുക) വാഹനാപകടത്തിൽ പരിക്കുപറ്റി ചികിൽസയിലായിരുന്നു മാതൃഭൂമി
+പത്രാധിപർ നവംബർ 9-നു് സട്രെക്ചറിൽ കോടതിയിൽ ഹാജരായി കോടതി നടപടികളിൽ തുടർന്നു
+ഹാജാരാകുന്നതിൽനിന്നു് ഒഴിവാക്കണമെന്ന ഹർജിയിൽ തീരുമാനമൊന്നും കൈക്കൊള്ളാഞ്ഞതിനാൽ
+സ്ട്രെക്ചറിനെ ശരണം പ്രാപിക്കയേ ഗതിയുണ്ടായിരുന്നുള്ളു എന്നാണു് പത്രാധിപരുടെ പക്ഷം നേരിട്ടു്
+ഹാജരാകുന്നതിൽനിന്നു് ടിയാനെ നേരത്തേതന്നെ ഒഴിവാക്കിയിരുന്നുവെന്നാണു് ന്യായാധിപരുടെ ന്യായവാദം.
+</p>
+          <p>കോടതിയിൽനിന്നു തിരിച്ചുപോയ ശേഷം മെഡിക്കൽ ട്രസ്റ്റ് ആശുപത്രിയിൽ കിടന്നു <ref target="https://ml.wikipedia.org/wiki/K._Gopalakrishnan">ഗോപാലകൃഷ്ണൻ</ref>
+നടത്തിയ പത്രസമ്മേളനം സ്ഫോടനാത്മകം തന്നെയായിരുന്നു. ഒരു ന്യായാധിപന്റെ പേരെടുത്തു് പറഞ്ഞു്
+പത്രാധിപർ ആക്ഷേപം ചൊരിഞ്ഞു: “…എന്നെ നേരിട്ടു് ഹാജരാക്കുന്നതിൽനിന്നു് നേരത്തെ
+ഒഴിവാക്കിയെന്നു പറയുന്നതു് ജഡ്ജിക്കു് മാത്രമറിയാവുന്ന രഹസ്യമാണു്. ജഡ്ജി ഇങ്ങനെ പറഞ്ഞതു്.
+എന്തുകൊണ്ടാണെന്നറിയില്ല നേരിട്ടു് ഹാജരാകുന്നതിൽനിന്നു് ഒഴിവാക്കിക്കൊണ്ടുള്ള ഉത്തരവു് ഫയലിൽ
+രേഖപ്പെടുത്തിയിട്ടുണ്ടോ എന്നു് പരിശോധിക്കാനായി ഹൈക്കോടതിയിൽ അന്വേഷിച്ചപ്പോൾ ഫയൽ
+പത്രലേഖകർക്കു് ലഭ്യമാക്കിയില്ല. ഫയൽ രഹസ്യരേഖയല്ലെന്നിരിക്കെ എന്തുകൊണ്ടാണു് അതു്
+ലഭ്യമാക്കാത്തതെന്നും വ്യക്തമല്ല. കോടതി ആവശ്യപ്പെട്ടതനുസരിച്ചു ഞാൻ നേരിട്ടു് ഹാജരാകുമ്പോൾ ഇതു്
+നാടകമാണെന്നു് ജഡ്ജി തന്നെ വിലയിരുത്തുന്നതു് ജഡ്ജിയുടെ തന്നെ കോടതി നടപടികളോടുള്ള
+ബഹുമാനമില്ലായ്മയാണു് പ്രകടമാക്കുന്നതു്… പൊതുതാൽപര്യം മുൻനിറുത്തി പ്രസിദ്ധീകരിച്ച ഒരു
+റിപ്പോർട്ടിന്റെ പേരിൽ ഈ കോടതി സ്വീകരിച്ച നടപടികളിൽ വൈരനിര്യാതനബുദ്ധി നിഴലിക്കുന്നു. ഇതു്
+കോടതിയുടെ അന്തസ്സിനും നിക്ഷ്പക്ഷതക്കും കളങ്കമാണു്.”
+</p>
+          <p>നിർണായക ഘട്ടത്തിൽ പത്രാധിപർക്കു് അതിശക്തമായ പിന്തുണ കിട്ടിയതു്. <ref target="https://ml.wikipedia.org/wiki/V.R._Krishna_Iyer">വി. ആർ.
+കൃഷ്ണയ്യരി</ref> ൽനിന്നാണു്. (നാലു് പതിറ്റാണ്ടുകൊണ്ടു് സ്വാമിയും വളരെ മാറി) ന്യൂദൽഹിയിൽ ചെങ്കൽ
+സൗധത്തിൽ നിലക്കൊള്ളുന്ന അത്യുന്നത നീതിപീഠമായ സുപ്രീംകോടതി ഇടിച്ചുപൊളിക്കണമെന്നു് ജനങ്ങൾ
+പറയുന്ന ഒരു ദിനമുണ്ടാകും എന്നു പറഞ്ഞതുപോലും കോടതിയലക്ഷ്യമായിട്ടില്ല. പിന്നെയാണോ കല്ലുവാതുക്കൽ
+വിഷമദ്യദുരന്തത്തിലെ ഒരു പ്രതിയെ പരാമർശിച്ചു് മാതൃഭൂമി പ്രസിദ്ധീകരിച്ച റിപ്പോർട്ട് എന്നാണു് കൃഷ്ണയ്യരുടെ
+ചോദ്യം. കോടതികളെയും കോടതി നടപടികളെയും വിമർശിക്കുന്നതിൽ തെറ്റില്ല. വല്ല പ്രത്യേക
+കാരണമുണ്ടെങ്കിലേ കോടതിയലക്ഷ്യക്കേസിലെ—എതിർകക്ഷികളോടു് നേരിട്ടു് ഹാജരാകാൻ കൽപിക്കാവൂ.
+</p>
+          <p>നവംബർ 9-ാം തീയതിയിലെ ഗോപാലകൃഷ്ണന്റെ പത്രപ്രസ്താവനക്കുശേഷം സംഗതികൾ തികച്ചും
+സങ്കീർണമാണു്. ജഡ്ജിക്കെതിരായ കുറ്റാരോപണ പത്രികയാണു് ആ പത്രപ്രസ്താവന. അതിലെ പല
+പരാമർശങ്ങളും കോടതിയലക്ഷ്യമായേക്കും. ജഡ്ജിക്കാണെങ്കിൽ നിഷേധംകുറിപ്പിക്കാനോ
+അപകീർത്തിക്കേസ് കൊടുക്കാനോ സാധ്യത കാണുന്നതു്.
+</p>
+          <p>കേരള കൗമുദിയെ കോടതിയലക്ഷ്യക്കേസുകൾ നിരന്തരം വേട്ടയാടിയപ്പോൾ മാതൃഭൂമിയടക്കം ഒരു പത്രവും
+ഐക്യദാർഢ്യം പ്രകടിപ്പിച്ചില്ല. ഇപ്പോഴും സ്ഥിതിഗതികൾ വളരെയൊന്നും വ്യത്യസ്തമല്ല. അമ്മായിം കുടിച്ചു
+പാൽക്കഞ്ഞി എന്ന മട്ടിലൊരു പ്രസ്താവനയിറക്കി, പത്രപ്രവർത്തകയൂണിയൻ കൃതാർഥരായി. കേരളത്തിലെ
+പത്രലേഖകരെ പൗലോസ് അപ്പോസ്തലന്റെ വാക്കുകൾ ഓർമിപ്പിക്കുക മാത്രം ചെയ്തുകൊണ്ടു് ഉപസംഹരിക്കട്ടെ:
+“ജാഗരൂകരായി നിങ്ങളുടെ വിശ്വാസത്തിൽ ഉറച്ചുനിൽക്കുക. ധീരരും ശക്തരുമായിരിക്കുക. ചെയ്യുന്നതെല്ലാം
+നിങ്ങൾ സ്നേഹത്തിൽ ചെയ്യുക.” (1 കൊറിന്ത്യർ 16: 13–14).
+
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Oru Bhadan Kidannukondu
+Pravesikkunnu (ml: ഒരു ഭടൻ കിടന്നുകൊണ്ടു് പ്രവേശിക്കുന്നു).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Oru
+Bhadan Kidannukondu Pravesikkunnu, കെ. രാജേശ്വരി, ഒരു ഭടൻ കിടന്നുകൊണ്ടു് പ്രവേശിക്കുന്നു,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 6, 2026.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Illustration_from_Reichenbachia_Orchids_by_Frederick_Sander,_digitally_enhanced_by_rawpixe com_103.jpg">Dendrobium phalænopsis var statterianum from Reichenbachia
+Orchids,</ref> a painting by Rawpixel  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-bhadan.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-bhadan.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

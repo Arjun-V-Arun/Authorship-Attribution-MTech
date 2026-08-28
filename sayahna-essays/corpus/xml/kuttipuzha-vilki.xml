@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വെൻഡൽ വിൽക്കിയുടെ
+ഏകലോകം</title>
+          <title xml:lang="en" type="main">Vendal Vilkiyude Ekalokam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 23, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വെൻഡൽ വിൽക്കിയുടെ
+ഏകലോകം</title>
+              <title xml:lang="en" type="main">Vendal Vilkiyude Ekalokam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Vendal Vilkiyude Ekalokam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>വെൻഡൽ വിൽക്കിയുടെ ഏകലോകം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 23, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Old_man_sleeping.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:David_Rijckaert_%28III%29__Old_man_sleeping.jpg">Old man sleeping,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:David_Ryckaert_III">David Ryckaert
+III</ref>  (1612–1661). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വെൻഡൽ വിൽക്കിയുടെ ഏകലോകം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വെൻഡൽ വിൽക്കിയുടെ ഏകലോകം<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> </head>
+        <div type="lsection">
+          <p style="noindent">ഒരൊറ്റ പുസ്തകംകൊണ്ടു് ഏറ്റവും കൂടുതൽ പ്രശസ്തി നേടുക എന്നതു് അധികം
+ഗ്രന്ഥകാരന്മാർക്കും സാധ്യമാകാത്ത ഒരു കാര്യമാണു്. അമേരിക്കയിലെ രാജ്യതന്ത്രപ്രവീണനായ വെൻഡൽ
+വിൽക്കി അതു് സാധിച്ചു. അദ്ദേഹത്തിന്റെ ‘ഏകലോകം’ (One World) എന്ന ഗ്രന്ഥത്തിനു് സിദ്ധിച്ച പ്രചാരവും
+പ്രശംസയും വിസ്മയാവഹമെന്നേ പറയേണ്ടു. മറ്റൊരു പുസ്തകത്തിനും ഇത്ര വളരെ പ്രചാരം സിദ്ധിച്ചിട്ടില്ലത്രേ.
+ഒരു കൊല്ലം തികഞ്ഞിട്ടില്ല അതെഴുതി അച്ചടിപ്പിച്ചിട്ടു്. അപ്പോഴേക്കും അതിന്റെ പത്തു് ലക്ഷത്തിലധികം
+പ്രതികൾ ചെലവായിക്കഴിഞ്ഞിരിക്കുന്നു; ഗ്രന്ഥകാരൻ ദിഗന്തവിശ്രാന്ത കീർത്തിമാനുമായി.
+</p>
+          <p>വെൻഡൽ വിൽക്കി അടുത്ത കാലത്തു് നടത്തിയ ഒരു ലോകപര്യടനമാണു് ഇങ്ങനെയൊരു
+ഗ്രന്ഥമെഴുതുന്നതിനു് അദ്ദേഹത്തെ പ്രേരിപ്പിച്ചതു്. വിമാനസഞ്ചാരത്തിൽ ആകാശസ്ഥിതനായി ലോകം
+നോക്കിക്കണ്ടപ്പോൾ അതു് ഏകമായി അദ്ദേഹത്തിനു് തോന്നി. ഗ്രന്ഥകാരന്റെ മനസ്സിനുതന്നെ ഒരു
+ആകാശവിശാലതയുണ്ടായി. രാഷ്ട്രം, വർഗ്ഗം, മതം മുതലായ അതിർത്തികളെ ഭേദിച്ചു് ലോകത്തെ ഒന്നായി
+ആശ്ലേഷിക്കുന്നതിനുള്ള ഒരു പ്രചോദനം അതിലങ്കുരിച്ചു. അതിന്റെ ഫലമായിട്ടാണു് പ്രസ്തുത പുസ്തകം
+പുറത്തുവന്നതു്. ഏക ലോകദർശനത്താൽ പ്രചോദിതവും പ്രബുദ്ധവും ആയ ഒരു മനസ്സിൽനിന്നും സ്വഭാവേന
+പുറപ്പെട്ട നവീനാശയങ്ങളുടെ സ്വതന്ത്രവും സുന്ദരവുമായ ആവിഷ്കരണം—അതാണു് ഈ ഗ്രന്ഥത്തിനുള്ളൊരു
+മേന്മ. എന്നാലും അതിനു് ചില കുറവുകളുണ്ടു്. അവ യഥാസന്ദർഭം വെളിപ്പെടുത്താം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Winston_Churchill.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചർച്ചിൽ</figDesc>
+          </figure>
+          <p> അമേരിക്കൻ പ്രസിഡണ്ടിന്റെ പ്രതിനിധിയെന്ന നിലയിൽ യുദ്ധരംഗങ്ങൾ സന്ദർശിക്കുകയെന്നതായിരുന്നു
+വിൽക്കിയുടെ പ്രധാന യാത്രോദ്ദേശ്യം. തന്റെ സ്ഥാനത്തിനു് ചേർന്ന സജ്ജീകരണങ്ങളോടുകൂടി 1942 ആഗസ്റ്റ്
+മാസത്തിൽ അദ്ദേഹം ന്യൂയോർക്കിൽനിന്നും വിമാനമാർഗം യാത്ര തിരിച്ചു. നാല്പത്തൊമ്പതു് ദിവസംകൊണ്ടു്
+ഈജിപ്ത്, ഇറാക്ക്, ഇറാൻ, റഷ്യ, ചൈന എന്നീ രാജ്യങ്ങൾ ചുറ്റി സഞ്ചരിച്ചശേഷം അലാസ്കാവഴി അദ്ദേഹം
+മടങ്ങിയെത്തി. ഇതൊരു ഭൂലോകപര്യടനമായിട്ടാണു് ഗ്രന്ഥകാരൻ പരിഗണിച്ചിരിക്കുന്നതെങ്കിലും അതിൽ
+അതിവിസ്തൃതമായ ഇന്ത്യാമഹാരാജ്യം ഉൾപ്പെട്ടിട്ടില്ലെന്നുള്ളതു് പ്രത്യേകം ഓർമിക്കേണ്ടതാകുന്നു. താൻ ഇന്ത്യ
+സന്ദർശിക്കരുതെന്നു് പ്രസിഡണ്ട് പ്രത്യേകം ആജ്ഞാപിച്ചിരുന്നു എന്ന രഹസ്യം ഗ്രന്ഥകാരൻ ഒരിടത്തു്
+വെളിപ്പെടുത്തിയിട്ടുണ്ടു്. സർവലോകരുടെയും സ്വാതന്ത്ര്യത്തിനുവേണ്ടി സമർത്ഥമായി വാദം നടത്തുകയാണു്
+അദ്ദേഹം പ്രസ്തുത ഗ്രന്ഥത്തിൽ ചെയ്യുന്നതു്. എന്നാൽ, അതേസമയം ദേശസഞ്ചാരത്തിൽപ്പോലും തനിക്കു്
+നേരിട്ട ഈ അസ്വാതന്ത്ര്യത്തെപ്പറ്റി അദ്ദേഹം മൗനം ദീക്ഷിക്കുന്നതേയുള്ളു! രസകരങ്ങളായ യാത്രാനുഭവങ്ങൾ,
+യുദ്ധരംഗങ്ങളിലെ സ്ഥിതിഗതികൾ, പൗരസ്ത്യരുടെ പരാധീനത, അവരുടെ ഹൃദയാന്തർഭാഗത്തു്
+തിരതല്ലിക്കൊണ്ടിരിക്കുന്ന വിപ്ലവോന്മുഖമായ വികാരവിശേഷങ്ങൾ, കപടകുടിലമായ
+പാശ്ചാത്യരാജ്യതന്ത്രത്തോടുള്ള അവജ്ഞ, അനുദിനം പ്രബുദ്ധമായിക്കൊണ്ടിരിക്കുന്ന ദേശീയചൈതന്യം
+എന്നിങ്ങനെ പല വിഷയങ്ങളും ഈ ഗ്രന്ഥത്തിൽ സരസ ലളിതമായി പ്രതിപാദിക്കപ്പെട്ടിട്ടുണ്ടു്. യുദ്ധാനന്തര
+പുനസ്സംഘടയെപ്പറ്റിയാണല്ലൊ ഇന്നു് സകല നേതാക്കന്മാരും ആലോചിച്ചുകൊണ്ടിരിക്കുന്നതു്. ഒരു പുതിയ
+ലോകം—രാഷ്ട്രീയവും സാമുദായികവും സാമ്പത്തികവുമായ ഒരു നവവ്യവസ്ഥിതി—യുദ്ധം കഴിഞ്ഞാൽ
+പ്രത്യക്ഷപ്പെടുമെന്നു് എല്ലാവരും വിശ്വസിച്ചുകൊണ്ടിരിക്കയാണു്. സർവപ്രധാനമായ ഈ
+സംഗതിയെപ്പറ്റിത്തന്നെയാണു് വെൻഡൽ വിൽക്കിയും കാഹളം മുഴക്കിയിട്ടുള്ളതു്. പക്ഷേ, പുസ്തകം മുഴുവൻ
+വായിച്ചുകഴിയുമ്പോൾ പല സംശയങ്ങളും വായനക്കാരിൽ ഉണ്ടാകാം. ഇന്നു് പരസ്പരം വെടിവെച്ചു്
+നശിച്ചുകൊണ്ടിരിക്കുന്ന രാഷ്ട്രങ്ങളെല്ലാം സംഘടിച്ചു് ലോകം മുഴുവൻ സമത്വം, സ്വാതന്ത്ര്യം, സാഹോദര്യം എന്നീ
+സകാരത്രയത്തിൽ ഒന്നായിത്തീരണമെന്നു് ഗ്രന്ഥകാരനെപ്പോലെ വാദിക്കുന്നവർ ധാരാളമുണ്ടു്. പക്ഷേ, ഇത്തരം
+പണ്ഡിതന്മാരല്ല പ്രസ്തുത രാഷ്ട്രങ്ങളുടെ ഭരണയന്ത്രം തിരിച്ചുകൊണ്ടിരിക്കുന്നവർ. വൈഷമ്യം അതിലാണു്
+കിടക്കുന്നതു്. ആദർശവാദികളെ തൃപ്തിപ്പെടുത്താൻവേണ്ടി പഴയ വൈൻ പുതിയ കുപ്പിയിലാക്കുവാൻ ഉദ്യമിക്കുന്ന
+യാഥാസ്ഥിതികാരാണല്ലോ ഭരണകർത്താക്കൾ. നൂറ്റാണ്ടുകളായി പഴകി മുരടിച്ചു് പരചൂഷണംകൊണ്ടു്
+പങ്കിലമായിപ്പോയിട്ടുള്ള ഒരു മനസ്സാണു് അവരുടേതു്. അതിനൊരു മാറ്റം വരികയെന്നതു് അസാദ്ധ്യമത്രെ.
+
+അന്ധതയുടെയും മാമൂലിന്റെയും ചെങ്കോൽ പിടിച്ചിരിക്കുന്ന ഈ ജാംബവാന്മാരെ അധികാരസ്ഥാനങ്ങളിൽനിന്നു്
+നീക്കം ചെയ്തെങ്കിൽ മാത്രമേ ലോകത്തിനു് രക്ഷയുള്ളു എന്നതു് കുട്ടികൾക്കുപോലും അറിയാവുന്ന ഒരു
+സംഗതിയാണു്. എന്നാൽ, അതിനെപ്പറ്റി തുറന്നു് പറയുവാൻ ഏകലോകപ്രണേതാവു് ധൈര്യപ്പെട്ടിട്ടില്ല. ബ്രിട്ടീഷ്
+സാമ്രാജ്യത്തെ പഴയമട്ടിൽ സൂക്ഷിക്കുവാൻ പാടുപെടുന്ന ചർച്ചിലിനെപ്പറ്റി മിസ്സിസ് റൂസ്വെൽട്ട് ഈയിടെ
+പ്രസ്താവിച്ചതാണു് സത്യം. ചർച്ചിൽ വൃദ്ധനായിപ്പോയെന്നും അതുകൊണ്ടു് അദ്ദേഹത്തിന്റെ
+മനോഭാവത്തിന്നൊരു പരിവർത്തനം വരിക സാദ്ധ്യമല്ലെന്നും ആ മദാമ്മ തുറന്നു് പറയുകയുണ്ടായി.
+ആയോധനപടുവാണെങ്കിലും സമാധാനസ്ഥാപനത്തിനു് അപ്രാപ്തൻ എന്നു് ഇദ്ദേഹത്തെപ്പറ്റി <ref target="https://en.wikipedia.org/wiki/Louis_Lusky">പ്രൊഫസർ ലസ്കി</ref>
+അഭിപ്രായപ്പെട്ടതും ഇവിടെ സ്മരണീയമാണു്. ഇതുപോലെ എത്രയെത്ര പണ്ഡിതന്മാർ <ref target="https://ml.wikipedia.org/wiki/Winston_Churchill">ചർച്ചിലിന്റെ</ref>
+യാഥാസ്ഥിതികത്വത്തെ നിരൂപണംചെയ്തിട്ടുണ്ടു്! എന്നിട്ടും ഭാവിലോകകാര്യാലോചനകളിൽ പ്രാമുഖ്യം
+വഹിക്കുന്നതു് ഇദ്ദേഹമല്ലേ? ഒരു നവലോകദർശനത്തിനു് മതിയായ ഉൽപതിഷ്ണുത്വവും ഹൃദയവിശാലതയും
+അമേരിക്കൻ പ്രസിഡണ്ടിനുപോലും ഇല്ലെന്നുള്ളതു് സൂക്ഷിച്ചുനോക്കിയാൽ അറിയാം. അഥവാ
+ഉണ്ടായാൽത്തന്നെ അതിനൊരു മൂടുപടം ഇടുന്നതിനു് തയ്യാറായിനിൽക്കുന്ന ‘പഴഞ്ചന്മാ’രാണു് അദ്ദേഹത്തിന്റെ
+അനുയായികളിൽ പലരും. പ്രത്യേകിച്ചൊരു സ്നേഹവും ബഹുമതിയും അമേരിക്കക്കാരെപ്പെറ്റി പൗരസ്ത്യർക്കു്
+തോന്നിയിട്ടുണ്ടെന്നാണു് വെൻഡൽ വിൽക്കി പറയുന്നതു്. തങ്ങളുടെ ഭാവി അവർ അമേരിക്കക്കാരിലാണു്
+സമർപ്പിച്ചിരിക്കുന്നതു്. ആ നവഭൂഖണ്ഡത്തിൽനിന്നെങ്കിലും നീതിയും ന്യായവും പുറപ്പെടുമെന്നു് അവർ
+ആശിച്ചുകൊണ്ടിരുന്നുപോൽ. പൗരസ്ത്യരുമായി സമഭാവനയോടെ മൈത്രി പുലർത്തിക്കൊണ്ടു പോകണമെങ്കിൽ
+പുതിയ നേതാക്കന്മാരും പുതിയ ആശയങ്ങളും ആവശ്യമാണെന്നു് ഗ്രന്ഥകാരൻ ചൂണ്ടിക്കാണിക്കുന്നുണ്ടു്. യുദ്ധം
+നടത്തിക്കൊണ്ടിരിക്കുന്ന പല സേനാധിപന്മാരോടും വിൽക്കി നേരിട്ടു് സംഭാഷണം ചെയ്യുകയുണ്ടായി.
+അവർക്കാർക്കുംതന്നെ ലോകസ്ഥിതി മാറിക്കൊണ്ടിരിക്കുന്നു എന്ന ബോധം ഉണ്ടായിട്ടില്ലത്രേ. എന്നാൽ,
+അതിദൂരവ്യാപകമായ ഒരു പരിവർത്തനത്തിന്റെ ലക്ഷണങ്ങളാണു് പൗരസ്ത്യദേശങ്ങളിൽ ഗ്രന്ഥകാരനു്
+കാണ്മാനിടവന്നതു്. കഴിഞ്ഞ പത്തുനൂറ്റാണ്ടുകൾകൊണ്ടുണ്ടായതിനേക്കാൾ കൂടുതലായ ഒരു മാറ്റം വരുന്ന
+പത്തുകൊല്ലം കൊണ്ടു് സംഭവിക്കും (Their lives will change more in the next ten years than they
+have in the last ten centuries) എന്നു് അദ്ദേഹം വിളിച്ചുപറയുന്നു. പക്ഷേ, ഇതു് ആരു് കേൾക്കാനാണു്?
+</p>
+          <p>വെൻഡൽ വിൽക്കിയുടെ പുസ്തകത്തിൽ സോവിയറ്റ് റഷ്യയെപ്പറ്റിയുള്ള പ്രസ്താവമാണു് പ്രത്യേകം
+ശ്രദ്ധേയമായിട്ടുള്ളതു്. അദൃഷ്ടപൂർവവും അത്യന്തം നവ്യവുമായ ഒരു മാനവസംസ്കാരം ആ രാജ്യത്തു്
+ഉദയംചെയ്തിട്ടുണ്ടെന്നും മനുഷ്യവർഗത്തിന്റെ ഭാവിജീവിതത്തെ അതു് സാരമായി സ്പർശിക്കുമെന്നും ഗ്രന്ഥകാരൻ
+സമ്മതിക്കുന്നു. അവിടത്തെ ഭരണസമ്പ്രദായത്തെപ്പറ്റി നിഷ്പക്ഷമായി പഠിച്ചു് നിരൂപണം ചെയ്യുന്നവർ ഇന്നു്
+എത്രപേരുണ്ടു്. ഒരു ആയുഷ്കാലപഠനംതന്നെ ഇതിലേക്കു് വേണ്ടിവരുമെന്നാണു് ഗ്രന്ഥകാരൻ പറയുന്നതു്.
+</p>
+          <p>‘The country is so vast and the change it has gone through so complicated that only a
+life-time of study and shelf-ful of books could begin to tell the whole truth about the Soviet
+Union’ എന്നു് അദ്ദേഹം അഭിപ്രായപ്പെടുന്നതു് നോക്കുക. ചില കേട്ടുകേൾവികളെയും പത്രപ്രസ്താവനകളെയും
+മാത്രം അടിസ്ഥാനപ്പെടുത്തി ആ രാജ്യത്തിലെ കുറ്റങ്ങളും കുറവുകളും പെരുമ്പറയടിച്ചു് പരസ്യപ്പെടുത്തുന്ന
+ഉപരിപ്ലവബുദ്ധികൾ ഈ അഭിപ്രായം പ്രത്യേകിച്ചും ഓർമ്മിക്കേണ്ടതാകുന്നു. ഗ്രന്ഥകാരൻ കമ്മ്യൂണിസ്റ്റ്
+സിദ്ധാന്തത്തെ അനുകൂലിക്കുന്നയാളല്ല. തന്റെ നാട്ടിൽ നട്ടുപിടിപ്പിച്ചിരിക്കുന്ന ‘റിപ്പബ്ലിക്കൻ’ സമ്പ്രദായമാണു്
+അദ്ദേഹത്തിനു് കൂടുതൽ ഇഷ്ടം. റഷ്യയിലെ ജീവിതമഹത്ത്വം അദ്ദേഹത്തിന്റെ ശ്രദ്ധയെ
+ബലാദാകർഷിക്കുന്നുണ്ടെങ്കിലും അതു് ലോകം മുഴുവൻ വ്യാപരിച്ചാലേ മനുഷ്യവർഗത്തിനു് രക്ഷയുള്ളു എന്നു്
+സമ്മതിക്കുവാൻ അദ്ദേഹം തയ്യാറാകുന്നില്ല. മനുഷ്യരാശിയുടെ വിശേഷിച്ചും അടിമത്തത്തിൽ കിടക്കുന്ന
+പൗരസ്ത്യലോകത്തിന്റെ മോചനത്തിനുള്ള ഒരു യുദ്ധമാണു് ഇതു് (A war of liberation) എന്നു് വിൽക്കി
+ഉദ്ഘോഷിക്കുന്നു. മഹത്തായ ഈ കർമം നിർവഹിക്കുന്നതിൽ സർവശക്തമായ അമേരിക്കയ്ക്കുള്ള
+കടമയെപ്പറ്റിയും അദ്ദേഹം ഗംഭീരമായി പ്രസംഗിക്കുന്നുണ്ടു്. പക്ഷേ, അവിടത്തെ ഭരണയവനികയുടെ ഉള്ളിൽ
+ഒളിച്ചിരുന്നുകൊണ്ടു് ചരടുപിടിക്കുന്നവർ മുതലാളിത്തം മൂർത്തീകരിച്ച ഏതാനും ബാങ്കർമാരും
+കമ്പനിയുടമസ്ഥന്മാരും ആണെന്നുള്ള സത്യസ്ഥിതി ഗ്രന്ഥകാരൻ വിസ്മരിച്ചിരിക്കുന്നു. ഈ മനുഷ്യച്ചെന്നായ്ക്കളുടെ
+സഹോദരന്മാർതന്നെയാണു് റഷ്യയൊഴിച്ചുള്ള ഇതര രാജ്യങ്ങളെയും ഭരിച്ചുകൊണ്ടിരിക്കുന്നതു്. ഇംഗ്ലണ്ടിലെ
+‘ഡിമോക്രാസി’യും അമേരിക്കയിലെ റിപ്പബ്ലിക്കൻരീതിയും സത്യത്തിന്റെയും ധർമത്തിന്റെയും പേരിൽ
+പ്രത്യക്ഷപ്പെട്ടിട്ടുള്ള ഒരു വഞ്ചന മാത്രമാകുന്നു. അതിന്റെ വേരറ്റുപോകണമെങ്കിൽ ‘ക്യാപ്പിറ്റലിസ’ത്തെ
+അടിസ്ഥാനമാക്കിയുള്ള സാമൂഹ്യജീവിതവ്യവസ്ഥ നിശ്ശേഷം നശിക്കുകതന്നെ വേണം. അതെന്നു്
+സാദ്ധ്യമാകുന്നുവോ അന്നു് മാത്രമേ ഏകലോകം യാതൊരു തടവുമില്ലാതെ പ്രായോഗികമായിത്തീരുകയുള്ളു.
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>]
+യുദ്ധകാലത്തെഴുതിയതാണീ ലേഖനം.</note>
+          </noteGrp>
+          <p>(വിമർശരശ്മി 1946)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vendal Vilkiyude Ekalokam (ml:
+വെൻഡൽ വിൽക്കിയുടെ ഏകലോകം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Vendal Vilkiyude Ekalokam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, വെൻഡൽ വിൽക്കിയുടെ ഏകലോകം,
+Open Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 23, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:David_Rijckaert_%28III%29__Old_man_sleeping.jpg">Old man sleeping,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:David_Ryckaert_III">David Ryckaert
+III</ref>  (1612–1661). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-vilki.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-vilki.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പ്രസിദ്ധിയും പരസ്യവും</title>
+          <title xml:lang="en" type="main">Prasidhiyum Parasyavum</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">September 19, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പ്രസിദ്ധിയും പരസ്യവും</title>
+              <title xml:lang="en" type="main">Prasidhiyum Parasyavum</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Prasidhiyum Parasyavum</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>പ്രസിദ്ധിയും പരസ്യവും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 19, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Sommerdag.png" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Hans_Hils%C3%B8e__Sommerdag_i_en_g%C3%A5rdhave.png">A summer day in a garden,</ref> a painting
+by Hans Hilsøe  (1871–1942). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പ്രസിദ്ധിയും പരസ്യവും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പ്രസിദ്ധിയും പരസ്യവും</head>
+        <div type="lsection">
+          <p style="noindent">ലോകത്തു് കലഹമുണ്ടാകുന്നതു് കനകം, കാമിനി എന്നിവ കൊണ്ടാണെന്നു് കവി
+പറഞ്ഞുവെച്ചിട്ടുണ്ടു്. കലഹകാരണങ്ങളായ ഇവയുടെ കൂട്ടത്തിൽ ഒരിനംകൂടി പെടുത്തേണ്ടതുണ്ടു്. ആ സംഗതി
+‘പ്രസിദ്ധി’യാകുന്നു.
+</p>
+          <p>കനകത്തിനും കാമിനിക്കും വേണ്ടി മറ്റെന്തും കയ്യൊഴിക്കാം, അവ കിട്ടുമെങ്കിൽ എന്തു കലഹവുമാകാം
+എന്നിത്യാദി വിചാരങ്ങളെക്കുറിച്ചോർത്താണല്ലോ ഉലകത്തിലെ കലഹകാരണങ്ങളായി അവയെ
+വിശേഷിപ്പിച്ചതു്.
+</p>
+          <p>പ്രസിദ്ധിക്കുവേണ്ടി ആളുകൾ, വിശേഷിച്ചു് ഈ നൂറ്റാണ്ടിലെ ജനങ്ങൾ, എന്തും ത്യജിക്കും; കനകവും
+കാമിനിയും പോലും അവർക്കു പ്രശ്നമായെന്നു് വരില്ല. പ്രസിദ്ധനാകാൻ വേണ്ടി ഏതു് വിധത്തിലുള്ള മത്സരത്തിനും
+അവരൊരുക്കവുമാണു്.
+</p>
+          <p>ഇതിനു ഉദാഹരണം തേടി എങ്ങും പോകേണ്ടതില്ല നമ്മുടെ ചുറ്റുമുള്ള അപ്രസിദ്ധരായ
+സാധാരണക്കാരിൽപോലും ചെറിയ തോതിലെങ്കിലും ഈ പ്രസിദ്ധിദാഹം ഉണ്ടു്. “സൽപ്പേരു്”
+കളഞ്ഞുകുളിക്കാൻ ആരും മുതിരുകയില്ല, അതിന്റെ മുമ്പിൽ സുഖഭോഗങ്ങളിൽ മിക്കതും ചെറുതായിത്തോന്നുന്നു.
+മോഹമില്ലാഞ്ഞിട്ടാണോ, ആളുകൾ കക്കാത്തതും ബലാത്സംഗം ചെയ്യാത്തതും?
+</p>
+          <p>ഇപ്പോൾ ഈ കാര്യത്തിൽ ഒരു സദാചാരപ്രശ്നം തലനീട്ടുകയായി: അതെ സൽപ്പേരു് നമ്മുടെ
+സമൂഹത്തിന്റെ ഒരു മൂല്യമാണു്—സത്യം, അഹിംസ തുടങ്ങിയവ പോലെ സദാചാരത്തിന്റെ വേലി പൊളിക്കാൻ
+ആർക്കും പേടിയില്ല—അതു് മൂലം അവനവന്റെ സൽപ്പേരിന്റെ മതിൽ പൊളിയരുതെന്ന ഒറ്റ നോട്ടമേയുള്ളു.
+അങ്ങനെ പറഞ്ഞുവരുമ്പോൾ സമൂഹം ഉപയോഗിക്കുന്ന തട ഈ സൽപ്പേരിന്റേതാണു് എന്നു വന്നുകൂടും.
+</p>
+          <p>ഇരിക്കട്ടെ, ഈ സൽപ്പേരു് കൊണ്ടും പ്രസിദ്ധികൊണ്ടും എന്തുണ്ടൊരു കുഴപ്പം?
+</p>
+          <p>പ്രസിദ്ധികൊണ്ടും സൽപ്പേരു് കൊണ്ടും തരിമ്പും കുഴപ്പമില്ല. പക്ഷേ, ഈ ഇടക്കാലത്തു് ഇക്കൂട്ടത്തിൽ
+കയറിപ്പറ്റിയ ഒരു കള്ളനാണയത്തെപ്പറ്റിയാണു് ഈ ലേഖനം പരാതിപ്പെടുന്നതു്. ആ കള്ളനാണയം ‘പരസ്യം’
+ആകുന്നു.
+</p>
+          <p>പ്രസിദ്ധിയും പരസ്യവും ഒന്നല്ല: ഒന്നാകാൻ വയ്യ. പ്രസിദ്ധനാവുക എന്നതിനർത്ഥം പേരു് പ്രസിദ്ധപ്പെടുക
+എന്നു മാത്രമല്ല തന്നെ. സമൂഹത്തിനും സംസ്കാരത്തിനും ഗുണകരമായി വല്ലതും ചെയ്യുമ്പോഴാണു് ഒരാൾ
+പ്രസിദ്ധനാവുന്നതു്. പ്രസിദ്ധനാകാൻ കൊതിക്കുന്ന ആരും അത്തരം വല്ലതും ചെയ്തുവെക്കാൻ ആഗ്രഹിക്കുന്നു;
+ഒരുങ്ങുകയും ചെയ്യുന്നു. ഇതു് പാപമല്ല; നന്മയാണുതാനും. പരസ്യം കൊതിക്കുന്നവനെ ഇതിന്റെ
+നാലയലത്തെങ്ങും കൊണ്ടുവരരുതു്. പണം, സൗഹൃദബന്ധങ്ങൾ, രാഷ്ടീയസ്വാധീനം തുടങ്ങിയ ‘വിദ്യ’കളിലൂടെ
+സാഹിത്യസംസ്ക്കാരികമണ്ഡലങ്ങളിൽ കയറിപ്പയറ്റി പേരു് പരസ്യപ്പെടുത്തുന്നവർ തങ്ങൾ പ്രസിദ്ധരാണെന്നു
+കരുതുന്നു. അവരോടൊപ്പം പൊലിഞ്ഞുപോകുന്നതും പൊലിഞ്ഞുപോകേണ്ടതും ആയ ഈ ‘പേരി’നെയാണു്
+ഇവിടെ പരസ്യം എന്നു വിളിച്ചതു്.
+</p>
+          <p>പ്രസിദ്ധിയും പരസ്യവും തമ്മിലുള്ള വ്യത്യാസവും ഇതാണു്: ഒന്നു് പ്രചണ്ഡമായ മദ്ധ്യാഹ്നസൂര്യനാണെങ്കിൽ
+മറ്റേതു് ഏതോ വഴിപോക്കൻ കത്തിച്ചുകാട്ടിയ ചൂട്ടാകുന്നു.
+</p>
+          <p>ഈ പരസ്യപ്രവണതക്കാരെ ദുഷ്കീർത്തിക്കാരെന്നോ, ചീത്തപ്പേരുകാരൊന്നോ വിളിക്കാൻ നിവൃത്തിയില്ല.
+പ്രസിദ്ധിയിൽ കമ്പമുള്ളവർ എന്നു് ഇവരെ ആക്ഷേപിക്കുന്നതും ശരിയല്ല. ഇവർക്കു് പ്രസിദ്ധിയിൽ അശേഷം
+താല്പര്യമില്ല! ഇവരുടേതു് ‘പേരു’മാത്രമാണു് അതിനോടു വിശേഷണം ചേർന്നു നിൽക്കില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗാന്ധിജി</figDesc>
+          </figure>
+          <p> പ്രസിദ്ധിയെ തന്നെ കുപ്രസിദ്ധിയെന്നും സുപ്രസിദ്ധിയെന്നും വക തിരിച്ചിട്ടുണ്ടല്ലോ എന്നു ചോദിക്കാം.
+പ്രസിദ്ധിക്കു് തീർച്ചയായും അങ്ങനെയൊരു തരം തിരിവു് വേണ്ടിവരും. ശാശ്വതതിന്മയായി ചരിത്രത്തിൽ
+വിളികൊള്ളുന്ന വ്യക്തികളെ വിശേഷിപ്പിക്കാൻ കുപ്രസിദ്ധനെന്ന വാക്കു് നമുക്കു് ആവശ്യമാണു്. മഹാത്മജിയായി
+ജീവിക്കുവാൻ ഒരു വ്യക്തി പെടുന്ന പാടുകൾ നന്മയെ എത്രമേൽ ഉദാഹരിക്കുന്നുവോ, അതേ അളവിൽ തിന്മയെ
+ഉദാഹരിക്കുവാനാണു് ആ പുണ്യാത്മാവിനെപ്പോലും വെടിവെച്ചു് കൊല്ലുവാൻ ഒരു വ്യക്തി തോക്കുയർത്തി
+നിൽക്കുന്നതു്. തുല്യപ്രാധാന്യമുള്ള രണ്ടു് വിപരീതപ്രതിഭാസങ്ങളാണവയെന്നർത്ഥം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Nathuram_godse.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗോദ്സേ</figDesc>
+          </figure>
+          <p> ഇവയെ സംബന്ധിച്ച തീർപ്പു് തികച്ചും വ്യക്തിപരമാണു് അതുകൊണ്ടാണു് ചിലർക്കെങ്കിലും <ref target="https://ml.wikipedia.org/wiki/Nathuram_Godse">ഗോദ്സേ</ref>
+സുപ്രസിദ്ധനും <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref>
+കുപ്രസിദ്ധനുമാകുന്നതു്.
+</p>
+          <p>ആ കൂട്ടത്തിലെങ്ങും ഈ ‘പരസ്യപ്പേരുകാരൻ’ പെട്ടുപോകരുതെന്നാണു് ഇവിടത്തെ വാദം.
+കുപ്രസിദ്ധിയുടെയോ സുപ്രസിദ്ധിയുടെയോ പട്ടികയിൽ പോയിട്ടു് പ്രസിദ്ധിയുടെ പട്ടികയിൽപോലും അയാൾ
+വരില്ലല്ലോ.
+</p>
+          <p>ഈ വെറും പേരു് ഇത്ര ചീത്തയാകുന്നതെങ്ങനെ?
+</p>
+          <p>ഒന്നാമത്തെ കുഴപ്പം പരസ്യം ഒരു ലഹരിയാണു് എന്നതത്രെ. ഏതു തരം ലഹരിയും ചീത്തയാണു്
+പരസ്യത്തിൽ രമിച്ചു തുടങ്ങിയാൽ പിന്നെ മറ്റൊന്നിനും നേരം കിട്ടിയെന്നു വരില്ല.
+</p>
+          <p>രണ്ടാമതു് അതൊരു ബാദ്ധ്യതയാണു്. ചില രംഗത്തൊക്കെ ചെന്നു് പേരു് പിടിച്ചാൽ പിന്നെ ആ വകയിൽ
+പെടുന്നതും അതിന്റെ ‘അളിയന്റെ വകയിൽ’ പെടുന്നതുമൊക്കെ കേറിപ്പിടിച്ചുകളയും. ഊരിപ്പോരാൻ
+തരപ്പെടുകയുമില്ല.
+</p>
+          <p>മേൽപ്പറഞ്ഞപോലെ പണവും മറ്റു അവശ്യവസ്തുക്കളും ഈ ‘പരസ്യദേവത’ക്കു് അർപ്പിച്ചു കൈയും കെട്ടി
+നിൽക്കുന്ന ഒരു പതനത്തിലെത്തിച്ചേരാനും എളുപ്പമുണ്ടു്. പ്രസിദ്ധി നേടിയാൽ മറ്റുളളവർ നമുക്കു വേണ്ടി
+ചെലവാക്കിക്കൊള്ളും. പരസ്യം തേടുന്നവനാകട്ടെ എന്നും എപ്പോഴും മറ്റുള്ളവർക്കു് വേണ്ടി ചെലവിടുന്നു.
+</p>
+          <p>പരസ്യത്തിൽ കിടന്നു പുളിച്ചുപോയ പേരു് ശുദ്ധമാക്കിയെടുക്കുക എളുപ്പമല്ല എന്നതാണു് പ്രധാന കുഴപ്പം.
+അതെ, പിന്നെ പ്രസിദ്ധനാകാൻ പറ്റില്ല.
+</p>
+          <p>പ്രസിദ്ധിക്കു് കോപ്പില്ലാത്തവൻ അതു കൊതിക്കുമ്പോൾ അവന്റെ മുമ്പിൽ പ്രത്യക്ഷപ്പെടുന്ന
+കാനൽജലമാണു് പരസ്യം. പ്രസിദ്ധിക്കു കോപ്പുള്ളവൻ ഈ കാനൽ ജലം നോക്കിപ്പോയാലത്തെ നഷ്ടം
+അവനെ കാത്തിരിക്കുന്ന സാക്ഷാൽ മരുപ്പച്ച പിറകെ വരുന്ന വല്ലവരും എന്നേക്കുമായി കൈയടക്കിക്കളയും
+എന്നതത്രെ.
+</p>
+          <p>ഈ നൂറ്റാണ്ടിന്റെ വാണിജ്യവാണിയിൽ പറഞ്ഞാൽ പ്രസിദ്ധി സമ്പത്താണു്; പരസ്യം ബാധ്യതയും.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Prasidhiyum Parasyavum (ml:
+പ്രസിദ്ധിയും പരസ്യവും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Prasidhiyum Parasyavum, എം. എൻ. കാരശ്ശേരി, പ്രസിദ്ധിയും പരസ്യവും, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 19, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Hans_Hils%C3%B8e__Sommerdag_i_en_g%C3%A5rdhave.png">A summer day in a garden,</ref> a painting
+by Hans Hilsøe  (1871–1942). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-prasidhi.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-prasidhi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

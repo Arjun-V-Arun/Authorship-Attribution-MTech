@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഗ്രന്ഥശാലകൾ</title>
+          <title xml:lang="en" type="main">Grandhasalakal</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 6, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഗ്രന്ഥശാലകൾ</title>
+              <title xml:lang="en" type="main">Grandhasalakal</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Grandhasalakal</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ഗ്രന്ഥശാലകൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 6, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/National_Museum_in_Warsaw.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Georg_Reimer__In_the_library_-_129045_-_National_Museum_in_Warsaw.jpg">In the
+library,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Georg_Reimer">Georg Reimer</ref>
+
+ (1828–1866). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഗ്രന്ഥശാലകൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഗ്രന്ഥശാലകൾ<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> </head>
+        <div type="lsection">
+          <p style="noindent">ഗ്രന്ഥശാലാപ്രസ്ഥാനത്തിന്റെ പ്രവർത്തനത്തെപ്പറ്റിയോ അതിന്റെ
+സാങ്കേതികവശങ്ങളെപ്പറ്റിയോ അല്ല ഇവിടെ ചിന്തിക്കുന്നതു്. ഗ്രന്ഥങ്ങളുടെ തിരഞ്ഞെടുപ്പിനെപ്പറ്റിയാണു്.
+അതാണല്ലോ ഏറ്റവും പ്രധാനമായ കാര്യം. ഗ്രന്ഥങ്ങൾ സുഹൃത്തുക്കളെപ്പോലെയാകുന്നു. അതുകൊണ്ടു് അവ
+തിരഞ്ഞെടുക്കുമ്പോൾ പ്രത്യേകിച്ചും സൂക്ഷിക്കേണ്ടതുണ്ടു്. പക്ഷേ, ഗ്രന്ഥശേഖരണവിഷയത്തിൽ വേണ്ടത്ര
+വിവേചനബുദ്ധി ഇന്നു് കാണുന്നില്ല.
+</p>
+          <p>നമ്മുടെ നാട്ടിൻപുറത്തുള്ള ഗ്രന്ഥശാലകളിൽ ചിലതു് ഞാൻ പരിശോധിച്ചിട്ടുണ്ടു്. നന്മതിന്മ നോക്കാതെ
+പുതിയ പുസ്തകങ്ങൾമാത്രം സംഭരിക്കുന്നതിലാണു് തൽപ്രവർത്തകർ ശ്രദ്ധിച്ചുകാണുന്നതു്. ചുരുക്കത്തിൽ
+പ്രാചീനഗ്രന്ഥങ്ങളോടു് സാർവ്വത്രികമായ ഒരനാദരം പ്രത്യക്ഷപ്പെട്ടിരിക്കുന്നു. ഇതു് നന്നല്ല. ഇക്കാര്യത്തിൽ
+സുപ്രസിദ്ധമായ കാളിദാസവചനം തന്നെയാണു് പ്രമാണമാകേണ്ടതു്:</p>
+          <lg>
+            <l> ‘പുരാണമിത്യേവ ന സാധു സർവം</l>
+            <l> ന ചാപി കാവ്യം നവമിത്യവദ്യം</l>
+            <l> സന്തഃ പരീക്ഷ്യാന്യതരദ് ഭജന്തേ</l>
+            <l> മൂഢഃ പരപ്രത്യയനേയബുദ്ധിഃ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> പഴയതാണെന്നു് കരുതി എല്ലാ കൃതികളും നല്ലതാകണമെന്നില്ല, അതുപോലെ ഒരു കാവ്യം
+പുത്തനാണെന്നതുകൊണ്ടു് ചീത്തയാകണമെന്നില്ല എന്നാണു് അദ്ദേഹം പറയുന്നതു്. ഇന്നു് ഈ അഭിപ്രായം
+ഒന്നു് മറിച്ചിട്ടാൽ മതി. പഴയതൊക്കെ ചീത്തയും പുതിയതൊക്കെ നല്ലതും എന്ന മനോഭാവത്തെ നാം
+മാറ്റേണ്ടിയിരിക്കുന്നു. പിന്നെ എന്താണു് വേണ്ടതു്? ‘സന്തഃ പരീക്ഷ്യ—’ പണ്ഡിതന്മാർ പരീക്ഷിച്ചുനോക്കി
+നല്ലതുമാത്രം സ്വീകരിക്കണം. പ്രസ്തുതപദ്യത്തിലെ മൂന്നാമത്തെ വരി എന്നും എവിടെയും മാനദണ്ഡമാക്കാവുന്ന
+ഒന്നാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vallathol-Narayana-Menon.jpg" rendition="gra"/>
+            <figDesc style="thumb">വള്ളത്തോൾ</figDesc>
+          </figure>
+          <p> ഭാരതീയസാഹിത്യത്തിന്റെ വിജയക്കൊടികളാകുന്നു ഭാരതവും രാമായണവും. ഇരുപത്തിനാലായിരം
+പദ്യങ്ങളുള്ള മധുരമനോഹരമായ രാമായണകാവ്യം <ref target="https://ml.wikipedia.org/wiki/Vallathol_Narayana_Menon">വള്ളത്തോൾ</ref>
+ലളിതമായ മലയാളത്തിൽ പരിഭാഷപ്പെടുത്തി നമുക്കു് തന്നിട്ടില്ലേ? അതുപോലെ ലക്ഷത്തിൽപ്പരം
+ശ്ലോകങ്ങളുള്ള മഹാഭാരതം <ref target="https://ml.wikipedia.org/wiki/Kodungallur_Kunjikkuttan_Thampuran">കുഞ്ഞിക്കുട്ടൻതമ്പുരാനും</ref>
+കൈരളിക്കു് കാഴ്ചവെച്ചിട്ടുണ്ടല്ലോ. ഈ മഹാഗ്രന്ഥങ്ങളുടെ ഓരോ പ്രതി നമ്മുടെ എത്ര ഗ്രന്ഥശാലകളിലുണ്ടു്?
+<ref target="https://ml.wikipedia.org/wiki/Bhasa">ഭാസൻ</ref>, <ref target="https://en.wikipedia.org/wiki/Kalidasa">കാളിദാസൻ</ref> എന്നുവേണ്ട
+<ref target="https://ml.wikipedia.org/wiki/Cherusseri">ചെറുശ്ശേരി</ref>, <ref target="https://ml.wikipedia.org/wiki/Thunchaththu_Ezhuthachan">എഴുത്തച്ഛൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Kunjan_Nambiar">കുഞ്ചൻനമ്പ്യർ</ref>
+തുടങ്ങിയ പ്രാചീന മലയാളകവികൾക്കുപോലും സ്ഥാനം ലഭിക്കാത്ത ഗ്രന്ഥശാലകൾ നമ്മുടെ നാട്ടിലുണ്ടെന്നു്
+വന്നാൽ അതു് കഷ്ടാൽ കഷ്ടതരമല്ലേ? ഒരു ഗ്രാമീണവായനശാലയിൽ ചെന്നു് ‘ശാകുന്തളമുണ്ടോ?’ എന്നു്
+ചോദിച്ചപ്പോൾ ഇല്ലെന്നായിരുന്നു മറുപടി. ചുരുക്കത്തിൽ ഗ്രന്ഥശാലകളിലെ പുസ്തകലിസ്റ്റ് ഒന്നു്
+പുനഃപരിശോധന ചെയ്യണമെന്നാണു് എന്റെ അഭിപ്രായം. മഹാർഹങ്ങളായ പ്രാചീനഗ്രന്ഥങ്ങൾകൊണ്ടു്
+
+ഗ്രന്ഥശാലാസൗധത്തിന്റെ അടിത്തറ കെട്ടിയിട്ടുവേണം പുത്തൻകൃതികൾകൊണ്ടു് അലങ്കരിക്കുക. ഇന്നു്
+നവീനകൃതികൾ ധാരാളം പുറത്തുവരുന്നുണ്ടു്. പക്ഷേ, അവയിൽ ഉൾക്കട്ടിയുള്ളവ ചുരുങ്ങും. മലയാളത്തിൽ
+കാലത്തു് കാപ്പിക്കുള്ള വകയാണു് ഇന്നധികവും ഉണ്ടായിക്കൊണ്ടിരിക്കുന്നതു്. നമുക്കു് കാപ്പിയും പലഹാരവും
+മതിയോ? ഒരു നേരമെങ്കിലും ഊണു് വേണ്ടേ? ശരീരത്തിനെന്നപോലെ പോഷകാംശമുള്ള ആഹാരം മനസ്സിനും
+ആവശ്യമാണു്. ഗ്രന്ഥങ്ങൾ മനസ്സിന്റെ ആഹാരമത്രേ. ഭക്ഷ്യപദാർത്ഥങ്ങളെ സാത്വികം, രാജസം, താമസം
+എന്നു് പ്രാചീനാചാര്യന്മാർ മൂന്നായി വിഭജിച്ചിട്ടുണ്ടു്. ഗ്രന്ഥങ്ങൾക്കും ഈ വിഭജനം യോജിക്കും. താമസം എന്ന
+വകുപ്പിൽപ്പെടുന്ന പുസ്തകങ്ങളാണു് ഇന്നധികവും വിറ്റഴിയുന്നതു്. ഈവക പുസ്തകങ്ങൾ തിരഞ്ഞെടുക്കുമ്പോൾ
+പ്രത്യേകം സൂക്ഷിക്കണം. കള്ളനാണയങ്ങൾ കൈയിൽപ്പെടാതിരിക്കാൻ നാം ശ്രദ്ധിക്കാറില്ലേ? അത്രയുംതന്നെ
+ശ്രദ്ധ ഗ്രന്ഥങ്ങളുടെ കാര്യത്തിലും വേണ്ടിയിരിക്കുന്നു. ഗ്രന്ഥക്കമ്പോളത്തിലും ധാരാളം കള്ളനാണയങ്ങൾ ഇന്നു്
+പ്രചരിക്കുന്നുണ്ടു്. ഓരോ ഗ്രന്ഥശാലയിലും പണ്ഡിതന്മാരുടെ ഒരുപദേശകസമിതിയുണ്ടാകുന്നതുകൊള്ളാം.
+അവരുടെ ഉപദേശത്തോടുകൂടിവേണം ഗ്രന്ഥങ്ങളുടെ ലിസ്റ്റ് തയ്യാറാക്കാൻ. യഥേഷ്ടം ഗ്രന്ഥങ്ങൾ വാങ്ങാനുള്ള
+സ്വാതന്ത്ര്യം ഇന്നു് വായനശാലകൾക്കുണ്ടു്. അതു് നല്ലതുതന്നെ. എന്നാൽ, ഈ സ്വാതന്ത്ര്യത്തെ
+വിനിയോഗിക്കുന്നതു് വിവേകത്തോടുകൂടിയായിരിക്കണം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Kodungallur_Kunjikkuttan_Thampuran.png" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞിക്കുട്ടൻതമ്പുരാൻ</figDesc>
+          </figure>
+          <p> പുതുമഴയ്ക്കു് ഈയാൻപാറ്റകൾ എന്നതുപോലെ ഇപ്പോൾ മലയാളത്തിൽ ഒരുതരം കുറ്റാന്വേഷണകഥകൾ
+പെരുകിവരുന്നുണ്ടു്. ഇത്തരം ദുഷ്കൃതികൾ മനസ്സിന്റെ കറുപ്പും കഞ്ചാവുമാണെന്നു് പറയാം. ഇവയുടെ ലഹരി
+വർദ്ധിക്കുന്നതു് ആപല്ക്കരമാണെന്നുതന്നെ പറയാം. ഒരു ഗ്രന്ഥശാലയിൽ ഒരു കൊല്ലം പുസ്തകങ്ങൾക്കായി
+നീക്കിവെച്ച ഇരുനൂറ്റിയൻപതുരൂപയിൽ ഇരുനൂറുരൂപയും ഈ ‘കറുപ്പും കഞ്ചാവും’ വാങ്ങാനാണു് ചിലവഴിച്ചതു്!
+വായന വെറും വിനോദത്തിനുവേണ്ടിയായാലും അല്പമെങ്കിലും പ്രയോജനമുള്ള പുസ്തകങ്ങൾ വായിക്കരുതോ?
+കുറ്റാന്വേഷണകഥകൾ സർവത്ര പരിവർജ്യം എന്നു് ഞാൻ പറയുന്നില്ല. അക്കൂട്ടത്തിലും ചിലതു്
+കൊള്ളാവുന്നവയാകാം. എന്നാൽ, ഇന്നു് പുറത്തുവരുന്നവയിൽ അധികവും കഥാപരമായും ഭാഷാപരമായും
+നോക്കിയാൽ, നിഷിദ്ധങ്ങളാണെന്നു് പറയേണ്ടതു്. ലാഭക്കച്ചവടത്തിനുള്ള കള്ളച്ചരക്കുകളാണവ.
+</p>
+          <p>തൃശൂരിൽ സ്തുത്യർഹമാംവിധം നടത്തപ്പെടുന്ന ഒരു സർക്കുലേറ്റിംഗ് ലൈബ്രറിയുണ്ടു്.
+ഗ്രാമീണവായനശാലകൾക്കു് ഗ്രന്ഥവിതരണം ചെയ്യുകയെന്നതാണു് അതിന്റെ പ്രവർത്തനം. ഏതുതരം
+പുസ്തകങ്ങളാണു് ഇന്നു് വായനക്കാർ കൂടുതൽ ആവശ്യപ്പെടുന്നതെന്നു് ഞാൻ അതിന്റെ സെക്രട്ടറിയോടു് ഒരിക്കൽ
+ചോദിക്കുകയുണ്ടായി. കുറ്റാന്വേഷണകഥകൾ എന്നായിരുന്നു മറുപടി. അത്തരം പുസ്തകങ്ങൾ കൊടുത്തില്ലെങ്കിൽ
+വായനശാലയിൽ അംഗങ്ങളായിച്ചേരാൻ ആളുകൾ കുറവാകുമത്രേ. വായനക്കാരുടെ അഭിരുചി
+ദുഷിച്ചുകൊണ്ടിരിക്കുന്ന കാഴ്ചയാണു് ഇതിൽ കാണുന്നതു്. അധഃപതിക്കുന്ന അഭിരുചിയെ സംസ്കരിച്ചു്
+ഉയർത്തിക്കൊണ്ടുവരികയെന്നതാവണം ഒരു ഉത്തമഗ്രന്ഥാലയത്തിന്റെ പ്രവൃത്തി. ദുഷിച്ച ആഹാരത്തിനു്
+ആവശ്യക്കാരുണ്ടാവുമ്പോൾ അതുതന്നെ വിതരണം ചെയ്യുകയാണെങ്കിൽ ആരോഗ്യം നശിക്കില്ലേ?
+ഗ്രന്ഥങ്ങളുടെ കാര്യത്തിലും ഇതുതന്നെയാകും അനുഭവം. ചർച്ചാസമിതികളും കവിതാപാരായണസമ്മേളനങ്ങളും
+മറ്റും സംഘടിപ്പിച്ചു് ഗ്രന്ഥശാലാംഗങ്ങളുടെ സഹൃദയത്തെ വികസിപ്പിച്ചെങ്കിൽ മാത്രമേ ഈ ദുഃസ്ഥിതി
+പരിഹരിക്കപ്പെടുകയുള്ളു. പ്രവർത്തകരുടെ ശ്രദ്ധ സവിശേഷം പതിയേണ്ട ഒരു കാര്യമാണിതു്. ചുരുക്കത്തിൽ
+ഉൽകൃഷ്ടഗ്രന്ഥങ്ങളിലേക്കു് വായനക്കാരെ തിരിച്ചുവിടുന്നതിനുതകുന്ന അന്തരീക്ഷവും സാഹചര്യങ്ങളും
+പ്രചോദനവും ഒരു ഗ്രന്ഥശാലയിൽ ഉണ്ടായിരിക്കണം.
+</p>
+          <p>ഇനി ശാസ്ത്രഗ്രന്ഥങ്ങളെപ്പറ്റി ചിന്തിക്കാം. സാഹിത്യകൃതികൾ മാത്രം മതിയോ നമുക്കു്?
+വിനോദത്തോടൊപ്പം വിജ്ഞാനവും ഒരു ഗ്രന്ഥാലയത്തിൽനിന്നു് പുറപ്പെടണം. ശാസ്ത്രത്തിന്റെ യുഗമാണിതു്.
+ശാസ്ത്രജ്ഞാനം കെണ്ടേ ഇന്നത്തെ ജീവൽപ്രശ്നങ്ങൾ പരിഹരിക്കപ്പെടുകയുള്ളു എന്നതും തീർച്ചപ്പെട്ടിരിക്കുന്നു.
+ഈ നിലയിൽ സാമാന്യമായ ശാസ്ത്രബോധവും ശാസ്ത്രീയമായ വീക്ഷണവും ആധുനികജീവിതത്തിനു്
+അത്യന്താപേക്ഷിതമാണു്. ഇന്നലെ ശാസ്ത്രസമ്മേളനത്തിലെ അദ്ധ്യക്ഷൻ <ref target="https://ml.wikipedia.org/wiki/K._Bhaskaran_nair">കെ. ഭാസ്കരൻ
+നായർ</ref> ചെയ്ത പ്രസംഗം കേട്ടു് ഞാൻ അമ്പരന്നുപോയി. പാശ്ചാത്യവിജ്ഞാനത്തെ
+അപലപിച്ചുകൊണ്ടായിരുന്നു അദ്ദേഹത്തിന്റെ പോക്കു്. അദ്ദേഹത്തിന്റെ വാദരീതി പിന്തുടർന്നാൽ അതു്
+ചെന്നവസാനിക്കുന്നതു് ഹിമാലയൻ ഗുഹകളിലായിരിക്കും. ഇന്നു് സയൻസ് സംഹാരവേഷത്തിൽ
+പ്രത്യക്ഷപ്പെട്ടിരിക്കുന്നതുകൊണ്ടു് അതു് നിഷിദ്ധമെന്നു് വരുമോ? സയൻസ് സൃഷ്ടികർത്താവുമാണു് എന്ന കഥ
+അദ്ദേഹം വിസ്മരിച്ചിരിക്കുന്നു. ഭക്ഷണം പാകംചെയ്യുന്ന അഗ്നി ചിലപ്പോൾ ഭവനം ദഹിപ്പിക്കുന്നുണ്ടെന്നുകരുതി
+അതു് സർവ്വത്ര വർജ്യമെന്നു് ആരെങ്കിലും പറയുമോ? പ്രൊഫസർ <ref target="https://en.wikipedia.org/wiki/Albert_Einstein">ഐൻസ്റ്റെയിന്റെ</ref>
+സുപ്രസിദ്ധമായ സൂത്രവാക്യം (E = mc2 ) ഒരുതരം ഭാഷയെന്നതിൽക്കവിഞ്ഞെന്താണു് എന്നു് അദ്ധ്യക്ഷൻ
+ചോദിക്കുകയുണ്ടായി. ഒരു നീഗ്രോവിന്റെ ഭാഷയ്ക്കും ഇതുപോലെ പ്രാധാന്യമില്ലെന്നു് എങ്ങനെ പറയാം എന്നാണു്
+അദ്ദേഹത്തിന്റെ സംശയം. ഈ ഭാഷാവാദം കേട്ടപ്പോൾ നമ്മുടെ മായാവാദത്തെയാണു് ഞാൻ ഓർമ്മിച്ചതു്.
+പക്ഷേ, ഹിരോഷിമയിലെ ജനസമൂഹത്തിന്റെ തലയിൽ വന്നുവീണതു് വെറും ഭാഷായായിരുന്നില്ല. മേല്പറഞ്ഞ
+സൂത്രവാക്യത്തിലെ ആശയം സംഹാരരൂപം പൂണ്ടതായിരുന്നു. വസ്തുനിഷ്ഠമായ ഒരു സത്യം അതിനകത്തുണ്ടു്. ആ
+സത്യത്തെ നമ്മുടെ കാമധേനുവാക്കിത്തീർക്കുകയുമാവാം. ഈ നിലയിൽ പ്രൊഫസർ ഐൻസ്റ്റൈയിൻ ഭൂമിയെ
+സ്വർഗമാക്കാനുള്ള കവാടം തുറന്ന മഹർഷിയാണെന്നു് ഞാൻ പറയും. വിശ്വാമിത്രവസിഷ്ഠാദികളെപ്പോലെതന്നെ
+അദ്ദേഹവും നമുക്കാരാധ്യനാണു്. പാശ്ചാത്യവിജ്ഞാനത്തിന്റെ കൊടുമുടിയിലെത്തിയ അദ്ദേഹം
+മാനവസംസ്കാരത്തിന്റെയും മഹോന്നതപദവിയെ അലങ്കരിച്ചിരുന്നു. ശാസ്ത്രജ്ഞനായ അദ്ധ്യക്ഷൻ
+ഭയപ്പെടുന്നതുപോലെ സയൻസിന്റെ തീനാമ്പുകൾ ഭാരതീയസംസ്കാരത്തെ കരിച്ചുകളയുമെന്നു് ഞാൻ
+വിചാരിക്കുന്നില്ല; എന്നുമാത്രമല്ല നമ്മുടെ സംസ്കാരത്തിലെ കരിനിഴലുകൾ നീങ്ങിപ്പോകണമെങ്കിൽ
+സയൻസിന്റെ വെളിച്ചം വീശുകതന്നെ വേണമെന്നും എനിക്കഭിപ്രായമുണ്ടു്. മതത്തിനും തത്ത്വശാസ്ത്രത്തിനും
+ഭാരതീയരെ അന്ധവിശ്വാസഗർത്തത്തിൽനിന്നുദ്ധരിക്കാൻ കഴിഞ്ഞിട്ടില്ല. നമ്മുടെ ഇതുവരെയുള്ള ചരിത്രം,
+സാമാന്യമായിപ്പറഞ്ഞാൽ പട്ടിണിയുടെയും രോഗത്തിന്റെയും അജ്ഞതയുടെയും ചരിത്രമാണു്. ഈ ദുരവസ്ഥയെ
+പരിഹരിക്കാനും സയൻസിന്റെ കരാവലംബം കൂടിയേ കഴിയൂ. ഇതൊക്കെ നേരെയായിട്ടുവേണ്ടേ
+ആധ്യാത്മികകാര്യങ്ങൾ പ്രസംഗിക്കാൻ? പട്ടിണിപ്രേതങ്ങളുടെ മുമ്പിൽനിന്നു് മനുഷ്യൻ അപ്പംകൊണ്ടുമാത്രമല്ല
+ജീവിക്കുന്നതെന്നു് ഉപദേശിച്ചാൽ കല്ലേറുകൊള്ളേണ്ടിവരും. ഇങ്ങനെ ഏതു് പ്രകാരത്തിൽ നോക്കിയാലും
+ശാസ്ത്രവിജ്ഞാനത്തെ അപലപിക്കുകയല്ല, ആരാധിക്കുകയാണു് നാം വേണ്ടതെന്നു് മനസ്സിലാകും.
+</p>
+          <p>ഈ നിലയ്ക്കു് ശാസ്ത്രഗ്രന്ഥങ്ങൾക്കും ഗ്രന്ഥശാലകളിൽ സുപ്രധാനമായ സ്ഥാനമുണ്ടു്. എല്ലാവരും
+സാങ്കേതികാർത്ഥത്തിൽ ശാസ്ത്രജ്ഞരായിക്കൊള്ളണമെന്നല്ല ഇവിടെ വിവക്ഷിക്കുന്നതു്. നമുക്കറിയേണ്ട
+വിഷയങ്ങളെപ്പറ്റി ശാസ്ത്രീയമായി ലളിതമായ ഭാഷയിൽ പ്രതിപാദിച്ചിട്ടുള്ള ഗ്രന്ഥങ്ങൾ വായിച്ചു് പഠിക്കണം.
+തദ്വാരാ ഒരു ശാസ്ത്രീയമനോഭാവം നമുക്കുണ്ടാകണം. അതിനുപകരിക്കുന്ന ലളിതങ്ങളായ ശാസ്ത്രഗ്രന്ഥങ്ങൾ
+മലയാളത്തിൽ അധികമില്ലെങ്കിലും ഉള്ളവ വാങ്ങി ശേഖരിക്കുകയും അവ വായിക്കുന്നതിനു് ഗ്രന്ഥശാലാംഗങ്ങളെ
+പ്രേരിപ്പിക്കുകയും വേണമെന്നേ ഇവിടെ പറയുന്നുള്ളു. പാശ്ചാത്യസംസ്കാരം, പൗരസ്ത്യസംസ്കാരം എന്നിങ്ങനെ
+വേലികെട്ടിത്തിരിച്ചു് നമ്മുടെ സംസ്കാരത്തിന്റെ മഹിമയെ പാടിപ്പുകഴ്ത്താനുള്ള കാലം കഴിഞ്ഞു് പോയി. ലോകം
+മുഴുവൻ ഒരു കുടുംബമായിത്തീർന്നിരിക്കുന്ന ഇക്കാലത്തു് ഒരു സംസ്കാരമേ പരിഗണനീയമായിട്ടുള്ളു—അതായതു്
+മാനവസംസ്കാരം. അതു് വികസിച്ചുവരുന്നതു് ശാസ്ത്രബോധത്തിലൂടെയാണു്. മനുഷ്യരുടെയിടയിൽ
+വർഗവിവേചനം അർത്ഥമില്ലാത്ത അന്ധാചാരമാണെന്നു് ശാസ്ത്രാചാര്യൻ പഠിപ്പിച്ചപ്പോഴേ ലോകം
+ശ്രദ്ധിച്ചുതുടങ്ങിയുള്ളു. എല്ലാം ഒന്നാണെന്നു് മതോപദേഷ്ടാവു് നൂറ്റാണ്ടുകൾ ഉരുവിട്ടിട്ടും ഫലമുണ്ടായില്ല.
+</p>
+          <p>ഇനി മാസികാപത്രങ്ങളെസ്സംബന്ധിച്ചുകൂടി ഒരു വാക്കു്. രാഷ്ട്രീയപ്പാർട്ടികളും അവയുടെ ജിഹ്വകളായ
+പത്രമാസികകളും പരസ്പരസ്പർദ്ധികളായിരിക്കുന്ന ഒരു കാലമാണിതു്. ഏതുതരം പത്രങ്ങളും മാസികകളുമാണു്
+ഗ്രന്ഥശാലകളിൽ വരുത്തേണ്ടതെന്നു് പ്രവർത്തകർ സന്ദേഹിക്കുന്നു. ഇതിൽ സംശയിക്കാനില്ല.
+നിവൃത്തിയുള്ളിടത്തോളം എല്ലാ കക്ഷികളുടെയും പ്രസിദ്ധീകരണങ്ങൾ വരുത്തി വായിക്കണം. സത്യാവസ്ഥ
+കണ്ടുപിടിക്കാൻ കണക്കിലേറെ കഷ്ടപ്പെടേണ്ട ഒരു കാലഘട്ടത്തിലാണു് നാം ജീവിക്കുന്നതു്. ലോകത്തുള്ള
+സകല ഗവൺമെന്റുകളും നുണപറയാൻതന്നെ പ്രത്യേക ഡിപ്പാർട്ട്മെന്റ് ഉണ്ടാക്കിയിട്ടുണ്ടു്.
+പ്രസിദ്ധീകരണവകുപ്പെന്നാണു് ഇതിനു് പേരു്.
+എല്ലാക്കാര്യങ്ങളും—സ്ഥിതിവിവരക്കണക്കുകൾപോലും—വെള്ളയടിച്ചു് കാണിക്കാനുള്ള വേലയാണു് ഈ
+വകുപ്പിനകത്തു് നടക്കുന്നതു്. ആ സ്ഥിതിക്കു് രാഷ്ട്രീയപ്പാർട്ടികളുടെ കഥ പറയേണ്ടതുണ്ടോ? അതുകൊണ്ടു്
+അനുവാചകർതന്നെ എല്ലാ പക്ഷവും മനസ്സിലാക്കി ശരിയും തെറ്റും കണ്ടുപിടിക്കാൻ സ്വയം ഒരു യത്നം
+നടത്തേണ്ടിയിരിക്കുന്നു. ഗ്രന്ഥശാലകളിലെ ചർച്ചാസമിതികൾ ഇക്കാര്യത്തിൽ പ്രത്യേകിച്ചും ഉപകരിക്കും.
+ഗ്രന്ഥങ്ങൾ വഴിയായും പത്രമാസികകൾ വഴിയായും കിട്ടുന്ന അറിവിനെ സ്വന്തം ബുദ്ധിയുപയോഗിച്ചു് നിരൂപണം
+ചെയ്തു് സ്വതന്ത്രമായ ഒരു നിഗമനത്തിലെത്തിച്ചേരാനുള്ള ഒരു പരിശീലനം ഗ്രന്ഥശാലാരംഗങ്ങളിൽ
+നിർവഹിക്കാവുന്നതാണു്.</p>
+          <lg>
+            <l> ‘സ്വന്തമാം പ്രജ്ഞയില്ലാത്തോ-</l>
+            <l> നന്തമെന്ന്യേ പഠിക്കിലും</l>
+            <l> ശാസ്ത്രാർത്ഥമറിയാ, കൈലു</l>
+            <l> കറിസ്വാദു കണക്കിനേ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന മഹാഭാരതവാക്യം ഈ ഘട്ടത്തിൽ സ്മരണീയമത്രേ. ആയിരക്കണക്കിനു് പുസ്തകങ്ങൾ വായിച്ചാലും
+അവയിലെ അറിവു് സ്വന്തം ചിന്തയിൽ പാകപ്പെട്ടില്ലെങ്കിൽ അതു് നിഷ്പ്രയോജനമാകും.
+
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] ഒരു
+പ്രസംഗത്തിൽ നിന്നു്.</note>
+          </noteGrp>
+          <p>
+(മാനസോല്ലാസം 1957)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Grandhasalakal (ml:
+ഗ്രന്ഥശാലകൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Grandhasalakal, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ഗ്രന്ഥശാലകൾ, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 6, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Georg_Reimer__In_the_library_-_129045_-_National_Museum_in_Warsaw.jpg">In the
+library,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Georg_Reimer">Georg Reimer</ref>
+ (1828–1866). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-grandasala.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhagrandasala.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഒറ്റയാനായ ഒരു മെഡിക്കൽ വിദ്യാർത്ഥിയുടെ
+കുറിപ്പുകളിൽനിന്നു്</title>
+          <title xml:lang="en" type="main">Ottayanaya Oru Medical Vidhyarthiyude
+Kurippukalilninnu</title>
+        </title>
+        <author>Sundar</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">November 8, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is in the public domain. The text encoding and editorial notes
+were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഒറ്റയാനായ ഒരു മെഡിക്കൽ വിദ്യാർത്ഥിയുടെ
+കുറിപ്പുകളിൽനിന്നു്</title>
+              <title xml:lang="en" type="main">Ottayanaya Oru Medical Vidhyarthiyude
+Kurippukalilninnu</title>
+            </title>
+            <author>Sundar</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sundar</term>
+          <term>Ottayanaya Oru Medical Vidhyarthiyude Kurippukalilninnu</term>
+          <term>സുന്ദര്‍</term>
+          <term>ഒറ്റയാനായ ഒരു മെഡിക്കൽ വിദ്യാർത്ഥിയുടെ കുറിപ്പുകളിൽനിന്നു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 8, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Joseph_Strong.jpg" width="100%"/>
+          <figDesc>Man with a Yoke Carrying Taro, a painting by Joseph Strong  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഒറ്റയാനായ ഒരു മെഡിക്കൽ വിദ്യാർത്ഥിയുടെ
+കുറിപ്പുകളിൽനിന്നു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സുന്ദര്‍</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഒറ്റയാനായ ഒരു മെഡിക്കൽ വിദ്യാർത്ഥിയുടെ കുറിപ്പുകളിൽനിന്നു്</head>
+        <div type="lsection">
+          <p style="noindent">മൃഗശാലയിലൂടെ നടക്കുന്നതുപോലെയായിരുന്നു. ഒരു വലിയ
+ക്യാമ്പസ്—മുപ്പത്തിരണ്ടു് ഏക്കർ—ആരോ പറഞ്ഞു.
+</p>
+          <p>ഓ. പി. ബ്ലോക്ക് കടന്നു് ഒരിറക്കത്തിലൂടെ ഞങ്ങൾ നടന്നു—രണ്ടു കെട്ടിടങ്ങൾ കടന്നു്—വാർഡുകൾ. ഓരോ
+വാർഡിന്റെയും വരാന്തയിൽ നൂറോളംപേർ നിലക്കുന്നുണ്ടായിരുന്നു. വാർഡുകൾ
+വൃത്തിയാക്കുകയാണു്—ഡോക്ടർ പറഞ്ഞു.
+</p>
+          <p>വാർഡിലെത്ര ബെഡ്ഡുണ്ടു്?
+</p>
+          <p>ക്ഷമാപണപൂർവ്വം ഡോക്ടടൊന്നു ചിരിച്ചു: ബെഡ്ഡോ? ബെഡ്ഡൊന്നുമില്ല. അവർ നിലത്തു കിടക്കും.
+</p>
+          <p>ഇത്രയധികം പേരോ?
+</p>
+          <p>അതെ. ശരിക്കും ഓവർക്രൗഡഡ് ആണു്. പുതിയ കെട്ടിടങ്ങളില്ല. രോഗികളുടെ എണ്ണം കൂടുന്നുമുണ്ടു്.
+</p>
+          <p>*****
+</p>
+          <p>എങ്ങനെയുണ്ടു് ഇവിടത്തെ ജീവിതം? നോർമലാണെന്നു് തോന്നിക്കുന്ന ഒരാളോടു് ഞാൻ ചോദിച്ചു.
+</p>
+          <p>ജീവിതമോ? ജീവിതം മോശമാണു്. വേണ്ടത്ര ആഹാരമില്ല. അയാൾ രണ്ടുകഷണം മോഡേൺബ്രഡ്
+കൈയിൽ പിടിച്ചിട്ടുണ്ടായിരുന്നു.
+</p>
+          <p>ഇതാണു് ഞങ്ങൾക്കു് കിട്ടുന്നതു്.
+</p>
+          <p>ഒരാൾ വലിയൊരു അലുമിനിയം ബക്കറ്റിൽനിന്നു പരന്ന അലുമിനിയം പാത്രങ്ങളിലേക്കു് കടുത്ത ബ്രൗൺ
+നിറമുള്ളൊരു ദ്രാവകം ഒഴിക്കുകയായിരുന്നു.
+</p>
+          <p>അതെന്താണു്—ഞാൻ അത്ഭുതപ്പെട്ടു—ചെളിവെള്ളംപോലിരിക്കുന്നു.
+</p>
+          <p>കാപ്പിയായിരിക്കും. ഒരു വിദ്യാർത്ഥി പറഞ്ഞു.
+</p>
+          <p>ആ പരന്ന പാത്രങ്ങൾ കതകിനടിയിലൂടെ സെല്ലിനുള്ളിലേക്കു തള്ളി.
+</p>
+          <p>It was appalling downright shocking
+</p>
+          <p>*****
+</p>
+          <p>കുടുസ്സായ സെല്ലുകളിലോരോന്നിലും ശരാശരി ആറെട്ടു് ഇൻമേറ്റ്സ്—മിക്കവരും പൂർണ്ണനഗ്നർ. മറ്റുള്ളവർ
+അഴുക്കുമുണ്ടുടുത്തിരിക്കുന്നു.
+</p>
+          <p>*****
+</p>
+          <p>ഞങ്ങൾ ഫീമെയിൽവാർഡ് നടന്നുകാണവേ ഒരു വിദ്യാർത്ഥി പറഞ്ഞു: അസുഖം ഭേദമായവരെ കണ്ടുപിടിച്ച്
+പറഞ്ഞുവിടാൻ എന്തെങ്കിലുമൊരു സിസ്റ്റമുണ്ടാക്കണം. പേഷ്യൻസിന്റെ അബ്നോർമാലിറ്റിയുടെ ബേസിസിൽ
+അവരെ ഗ്രേഡ്ചെയ്യേണ്ടതാണു്.
+</p>
+          <p>അതെയതെ. അത്തരമൊരു സിസ്റ്റമുണ്ടാവേണ്ടതാണു്. മറ്റുപലരും യോജിച്ചു.
+
+</p>
+          <p>പക്ഷേ, ആരാണീ സിസ്റ്റം നടപ്പിലാക്കാൻപോകുന്നതു? ആർക്കാണു് താല്പര്യം? ആരു് മുൻകൈയെടുക്കും?
+നമ്മൾ ചെയ്യുമോ? നമുക്കു് സജസ്റ്റ്ചെയ്യാം. എല്ലാരും ചെയ്യുന്നുമുണ്ടു്. എല്ലാവർക്കും എത്ര ഐഡിയലായിട്ടാണു്
+കാര്യങ്ങൾ നടേത്തണ്ടതെന്നറിയാം. പക്ഷേ, നിങ്ങളോ ഞാനോ അതിന്റെ റെസ്പോൺസിബിലിറ്റി
+എടുക്കുമോ? ആർക്കും സത്യത്തിൽ താല്പര്യമില്ല. അതാണു് പ്രശ്നം.
+</p>
+          <p>അതെ. ആർക്കാണു് താല്പര്യം?
+</p>
+          <p>തിരുവനന്തപുരം മാനസികരോഗാശുപ്രതിയിലെ സ്റ്റാഫ് പാറ്റേൺ താഴെ കൊടുക്കുന്നു: (ഇതിൽ ഓഫീസ്
+സ്റ്റാഫ് ഉൾപ്പെടുന്നില്ല).
+</p>
+          <figure rend="fcenter" type="grj">
+            <graphic url="images/sundar-ottayan-table1.jpg"/>
+          </figure>
+          <p>ആകെ പന്ത്രണ്ടു് ഡോക്ടർമാരുള്ളതിൽ ആറുപേർ സൈക്യാട്രിസ്റ്റുകളാണു്.
+</p>
+          <p>ഇതു് തീർത്തും അപര്യാപ്തമാണു്. ഉദാഹരണത്തിനു് നഴ്സിങ് സ്റ്റാഫിന്റെ കാര്യമെടുക്കാം. എണ്ണൂറു്
+രോഗികൾക്കു് ശാസ്ത്രീയമായി ഇരുനൂറു് നേഴ്സുമാർ വേണം. ഈ ആശുപത്രിയിലെ അനുവദിച്ച ബെഡ് സ്ട്രങ്ത്ത്
+അഞ്ഞൂറ്റിയേഴാണു്. അതിനുപോലും നൂറ്റിയിരുപത്തേഴു് നേഴ്സുകളാവശ്യമാണു്. ഇപ്പോൾ
+മുപ്പത്തൊന്നുപേരാണുള്ളതു്. പലപ്പോഴും ആയിരത്തോളം രോഗികളുണ്ടാവാറുണ്ടു്. കൂടുതൽ സ്റ്റാഫിനെ
+നിയമിക്കുക. ശാസ്ത്രീയമായ അനുപാതത്തിൽ സൈക്യാട്രിസ്റ്റിന്റെയും ക്ലിനിക്കൽ സൈക്കോളജിസ്റ്റിന്റെയും
+സൈക്യാട്രിക് സോഷ്യൽ വർക്കറിന്റെയും സൈക്യാട്രിക് നേഴ്സിന്റെയും തസ്തികകൾ പുനർനിർണ്ണയം
+ചെയ്യുകയും നല്ല ടീം വർക്ക് ഉറപ്പുവരുത്തുകയും ചെയ്യേണ്ടതാണു്.
+</p>
+          <p>*****
+</p>
+          <p>അഡ്മിഷനും ഡിസ്ചാർജ്ജും ഇപ്പോൾ തീർത്തും അശാസ്ത്രീയമാണു്. അതു് ശാസ്ത്രീയമാക്കുകയും
+ഇപ്പോൾ ഇവിടെയുള്ള രോഗികളെ നന്നായി പരിശോധിച്ചു് അസുഖമില്ലാത്തവരെ—ഭേദമായവരെ
+വിടുക—റിഹാബിലിറ്റേറ്റ് ചെയ്യുക.
+</p>
+          <p>ഇപ്പോൾ ഇവിടെ ജോലിചയ്യുന്നവർ വർഷങ്ങളായി ഈ വൃത്തിേകടും മാലിന്യവും കണ്ടു് പ്രതികരണശേഷി
+നഷ്ടപ്പെട്ടവരായതിനാൽ ഡോക്ടറും ഓഫീസ് സ്റ്റാഫും ഉൾപ്പെടുന്ന അവരെ സ്ഥലംമാറ്റി പുതിയ ജീവനക്കാരെ
+ഈ ആശുപത്രിയിലേക്കു് റിക്രൂട്ടുചെയ്യുകയും ട്രാൻസ്ഫർ ചെയ്യുകയും ചെയ്യുക. അതോടൊപ്പം പരമാവധി ഒന്നു്,
+ഒന്നരമാസത്തിനപ്പുറമൊരു തീയതി ഡെഡ്ലൈനാക്കി നിശ്ചയിച്ചു് ഒരു ‘ഓപ്പറേഷൻ സ്റ്റിംക്’
+നടപ്പിലാക്കുക—ഇവിടെ മാത്രമല്ല, കോഴിക്കോട്ടെയും തൃശൂരെയും ആശുപത്രികളിലും.
+</p>
+          <p>26-6-85-ൽ ഇവിടെയുണ്ടായിരുന്ന രോഗികളുടെ എണ്ണംവച്ചു നോക്കുമ്പോൾ ഒരു രോഗിക്കു് ദിവസവും
+ശരാശരി ഒരുരൂപ തൊണ്ണൂറ്റിയെട്ടു് പൈസയുടെ മരുന്നു മാത്രമാണു് ലഭിക്കുന്നതു്. ഇതു് തീരെ കുറവാണു്. ഏറ്റവും
+കുറഞ്ഞതു് മുപ്പതുലക്ഷം രൂപയെങ്കിലും ഒരുവർഷത്തേക്കു് മരുന്നിനുവേണ്ടിമാത്രം ലഭ്യമാക്കേണ്ടതാണു്.
+</p>
+          <p>*****
+</p>
+          <p>ബന്ധുക്കൾക്കും പൊതുജനങ്ങൾക്കും പത്രക്കാർക്കും സന്ദർശനസമയത്തിലെങ്കിലും വാർഡിൽ കയറി
+രോഗികളെ കാണാനുള്ള സൗകര്യങ്ങളുണ്ടാക്കുക.—ഈ നരകത്തിനൊരു അറുതി വരുത്തുന്നതെങ്ങനെ?
+</p>
+          <p>‘അസൈലം’ സങ്കല്പം ഉരുത്തിരിഞ്ഞുവന്നതു് മാനസികരോഗികളെ സമൂഹത്തിൽനിന്നു
+രക്ഷിക്കാൻവേണ്ടിയാണു്. അല്ലാതെ സമൂഹത്തെ രോഗികളിൽനിന്നു രക്ഷിക്കാനല്ല.
+</p>
+          <p>ഒരു മാനസികരോഗാശുപത്രി എങ്ങനെ പ്രവർത്തിക്കുന്നുെവന്നറിയാൻ ഈ കാര്യങ്ങൾ
+പരിശോധിക്കേണ്ടിവരും:
+<list rend="bulleted"><item>ആശുപത്രിയുടെ ശുചിത്വം </item><item>രോഗികളുടെ സ്വകാര്യവകകൾ </item><item>രോഗികൾ എങ്ങനെ ഒരുദിവസം ചെലവാക്കുന്നു? </item><item>ആശുപത്രിക്കകത്തെ അവരുടെ ചലനസ്വാതന്ത്ര്യം </item><item>ഡോക്ടർമാരുടെയും ജീവനക്കാരുടെയും രോഗികളോടുള്ള മനോഭാവം </item><item>ആശുപത്രിയിലെ സൗകര്യങ്ങൾ അഡ്മിഷൻ ഡിസ്ചാർജ് നടപടിക്രമങ്ങൾ </item><item>ബോർഡ് ഓഫ് വിസിറ്റേഴ്സിന്റെ പ്രവർത്തനം </item><item>രോഗികൾക്കുകിട്ടുന്ന ചികിത്സയും ആഹാരവും </item><item>ഇവെയല്ലാം തുല്യപ്രാധാന്യമുള്ളവയാണു്. </item></list>
+
+</p>
+          <p>*****
+</p>
+          <p>അടിസ്ഥാനപരമായി മാനസികരോഗാശുപത്രി ഒരു ആശുപ്രതിയാണു്. അതു കൊണ്ടുതന്നെ കാറ്റും വെട്ടവും
+കടക്കുന്ന വൃത്തിയുള്ള കെട്ടിടങ്ങൾ, കസേര, കട്ടിൽ, കിടക്ക, ഷീറ്റ്, ഫാൻ, കാലാവസ്ഥയ്ക്കനുസൃതമായ വേഷം,
+മൂട്ട, കൊതുകു് എന്നിവയിൽനിന്നുള്ള മോചനം, വേണ്ടത്ര വൃത്തിയുള്ള ബാത്ത്റൂമുകൾ, കുളിക്കാനും കുടിക്കാനും
+ശുദ്ധജലം, ടോയ്ലറ്റുകൾ, മഗ്ഗുകൾ, ബക്കറ്റുകൾ, സോപ്പ്, പേസ്റ്റ്, എണ്ണ, കാരം, ആവശ്യത്തിനുവേണ്ട നല്ല
+വൃത്തിയുള്ള പാത്രങ്ങൾ, ശുചിത്വം, ശുചിയായ സമീകൃതാഹാരം ഇവ മാന്യമായി ഉറപ്പുവരുത്തേണ്ടതാണു്.
+</p>
+          <p>*****
+</p>
+          <p>മെന്റൽ ഹോസ്പിറ്റൽ അഡ്മിനിസ്ട്രേഷനിൽ കുറെ അന്താരാഷ്ട്രീയ മാനദണ്ഡങ്ങളുണ്ടു്. റിക്രിയേഷനും
+പുനരധിവാസത്തിനുമുള്ള സൗകര്യം, ഓക്കുപ്പേഷണൽ തെറപ്പി, സൈക്കോ തെറപ്പി, ബിഹേവിയറൽ തെറപ്പി,
+മില്യൂ തെറപ്പി ഇവ അനിവാര്യമാണു്. ഒരു നല്ല ലബോറട്ടറി, ത്വകു് രോഗം, ശ്വാസകോശ രോഗങ്ങൾ, ഇ. എൻ. റ്റി.,
+റെസ്പിറേറ്ററി, ഡെൻറൽ രോഗങ്ങൾ എന്നിവയ്ക്കു് ചികിത്സാ സൗകര്യങ്ങൾ, ഒരു ആംബുലൻസ്, വേണ്ടത്ര മരുന്നു്
+എന്നിവ ഉടനടി ഉണ്ടാവേണ്ടതാണു്.
+</p>
+          <p>*****
+</p>
+          <p>ഒരു കനത്ത തുക നോൺപ്രാക്ടീസിങ് അലവൻസായി നല്കിയെങ്കിലും ഡോക്ടർമാരുടെ പ്രൈവറ്റ് പ്രാക്ടീസ്
+കർശനമായി നിരോധിക്കേണ്ടതാണു്.
+</p>
+          <p>*****
+</p>
+          <p>രോഗികളെ ഉപദ്രവിക്കുന്നവർക്കെതിരെ, കൈക്കൂലിവാങ്ങുന്നവർക്കെതിരെ, സാധനങ്ങൾ
+കടത്തിക്കൊണ്ടുപോകുന്നവർക്കെതിരെ, ഡ്യൂട്ടിയിൽ അലംഭാവം കാണിക്കുന്നവർക്കെതിരെ കർശനമായ
+അച്ചടക്കനടപടികൾ എടുക്കുക. ഒപ്പം സ്റ്റാഫിന്റെ റിസ്ക് അലവൻസ് ഇപ്പോഴുള്ളതിന്റെ നാലിരട്ടിയെങ്കിലുമാക്കി
+വർദ്ധിപ്പിക്കേണ്ടതാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">സുന്ദര്‍</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sundar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: ഏപ്രിൽ 23, 1953, തിരുവനന്തപുരം.
+</p>
+          <p>മരണം: നവംബർ 12, 2016 (വയസ്സ് 63), സിഡ്നി, ഓസ്ട്രേലിയ.
+</p>
+          <p>തൊഴിൽ: കഥാകൃത്തു്, നിരൂപകന്‍, കാർട്ടൂൺ ചരിത്രകാരൻ.
+</p>
+          <p>പൗരത്വം: ഓസ്ട്രേല്യന്‍.
+</p>
+          <p>വിദ്യാഭ്യാസം: എം.ഫില്‍., വിഷയം: സാമൂഹികവികസനം.
+</p>
+          <p>ജീവിതപങ്കാളി: ഗിരിജ
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">പ്രധാനകൃതികള്‍</head>
+            <list rend="bulleted">
+              <item>Tragic Idiom </item>
+              <item>ഹൃദയത്തിനുള്ളിലെ ഇടം </item>
+              <item>ഈ ഭ്രാന്താലയത്തിനു് നാവുണ്ടായിരുന്നെങ്കില്‍ </item>
+            </list>
+            <p style="noindent"/>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ottayanaya Oru Medical
+Vidhyarthiyude Kurippukalilninnu (ml: ഒറ്റയാനായ ഒരു മെഡിക്കൽ വിദ്യാർത്ഥിയുടെ
+കുറിപ്പുകളിൽനിന്നു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sundar.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sundar, Ottayanaya
+Oru Medical Vidhyarthiyude Kurippukalilninnu, സുന്ദര്‍, ഒറ്റയാനായ ഒരു മെഡിക്കൽ
+വിദ്യാർത്ഥിയുടെ കുറിപ്പുകളിൽനിന്നു്, Open Access Publishing, Malayalam, Sayahna Foundation, Free
+Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 8, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+in the public domain. The text encoding and editorial notes were created and​/or prepared by
+the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Man with a Yoke Carrying Taro, a
+painting by Joseph Strong  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sundar-ottayan.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sundar-ottayan.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

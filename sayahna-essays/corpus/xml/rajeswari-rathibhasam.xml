@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">രതിഭാസം</title>
+          <title xml:lang="en" type="main">Rathibhasam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">രതിഭാസം</title>
+              <title xml:lang="en" type="main">Rathibhasam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Rathibhasam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>രതിഭാസം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/At_School_Doors.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:1897_BogdanovBelsky_At_School_Doors.jpg">At the School Door,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Nikolay_Bogdanov-Belsky">Nikolay
+Bogdanov-Belsky</ref>  (1868–1945). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">രതിഭാസം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">രതിഭാസം</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Najma_Heptulla.jpg" rendition="gra"/>
+            <figDesc style="thumb">നജ്മാ ഹിബത്തുല്ല</figDesc>
+          </figure>
+          <p style="noindent"> ഇന്ത്യക്കു് സ്വാതന്ത്ര്യം കിട്ടിയതു് 1947-ലാണു്. റിപ്പബ്ളിക്കായതു് 1950-ൽ.
+സ്വാതന്ത്ര്യത്തിന്റെ 19-ാം വർഷത്തിൽ രാജ്യത്തിനു് ആദ്യത്തെ വനിതാ പ്രധാനമന്ത്രിയുണ്ടായി—<ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാ പ്രിയദർശിനി</ref>.
+1966 മുതൽ 77 വരെയും 1980 മുതൽ 84 വരെയും ഇന്ദിരാജി ഭരണചക്രം തിരിച്ചു. ദുനിയാവിലെ രണ്ടാമത്തെ
+വനിതാ പ്രധാനമന്ത്രിയായിരുന്നു അവർ. ഒന്നാമത്തേതു് <ref target="https://ml.wikipedia.org/wiki/Sirimavo_Bandaranaike">സിരിമാവോ
+ബണ്ടാര നായകെ</ref>. സിരിമാവോയുടെയും ഇന്ദിരയുടെയും പാത പിന്തുടർന്നു് പിന്നെയും ഒട്ടേറെ
+മഹതികൾ വിവിധ രാജ്യങ്ങളുടെ ഭരണഭാരം കൈയാളി—<ref target="https://ml.wikipedia.org/wiki/Golda_Meir">ഗോൾഡാ മേയർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Margaret_Thatcher">മാർഗരറ്റ് താച്ചർ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Benazir_Bhutto">ബേനസീർ
+ഭൂട്ടോ</ref>, <ref target="https://ml.wikipedia.org/wiki/Sheikh_Hasina">ഷേഖ്
+ഹസീന</ref>, <ref target="https://ml.wikipedia.org/wiki/Khaleda_Zia">ബീഗം
+ഖാലിദ സിയ</ref>, <ref target="https://en.wikipedia.org/wiki/Tansu_%C3%87iller">തൻസു സില്ലർ</ref>
+…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Margaret_Thatcher.png" rendition="gra"/>
+            <figDesc style="thumb">മാർഗരറ്റ് താച്ചർ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref> തോറ്റു്
+അധികാരഭ്രഷ്ടയായ 1977-ലാണു് വനിതാ രാഷ്ട്രപതിയെക്കുറിച്ചുള്ള ആലോചന ആദ്യമുണ്ടായതു്. <ref target="https://ml.wikipedia.org/wiki/Rukmini_Devi_Arundale">രുഗ്മിണീദേവി
+അരുൺണ്ഡേൽ</ref> ഇന്ത്യൻ പ്രസിഡന്റായാൽ നന്നായിരിക്കുമെന്നു് പ്രധാനമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/Morarji_Desai">മൊറാർജി ദേശായി</ref> ക്കു
+തോന്നി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sirimavo_Bandaranayaka.jpg" rendition="gra"/>
+            <figDesc style="thumb">സിരിമാവോ ബണ്ടാര നായകെ</figDesc>
+          </figure>
+          <p> ഭരതനാട്യ കലാകാരിയും അഡയാറിലെ തിയോസഫിക്കൽ സൊസൈറ്റി അധ്യക്ഷയുമായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/Rukmini_Devi_Arundale">രുഗ്മിണീ
+ദേവി</ref>. ഏതായാലും മൊറാർജി ഭായിയേക്കാൾ വിവേകമതിയായിരുന്നു, കലാകാരി. ആയമ്മ
+രാഷ്ട്രപതിപദം നിഷ്കരുണം നിരാകരിച്ചു. ഒടുവിൽ ലോക്സഭാ സ്പീക്കർ <ref target="https://ml.wikipedia.org/wiki/Neelam_Sanjiva_Reddy">നീലം സഞ്ജീവ
+റെഡ്ഡി</ref> രാഷ്ട്രപതിയായി തെരഞ്ഞെടുക്കപ്പെട്ടു.
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Begum_Zia.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബീഗം ഖാലിദ സിയ</figDesc>
+          </figure>
+          <p> പിന്നെയും കാൽനൂറ്റാണ്ടിനു ശേഷമാണു് ഒരു വനിത രാഷ്ട്രപതി സ്ഥാനത്തേക്കു മൽസരിച്ചതു്. അതും
+മലയാളി മങ്ക. ആനക്കര വടക്കത്തു കുടുംബാംഗം <ref target="https://ml.wikipedia.org/wiki/Lakshmi_Sahgal">ക്യാപ്റ്റൻ ലക്ഷ്മി</ref>.
+<ref target="https://ml.wikipedia.org/wiki/Subhash_Chandra_Bose">നേതാജി
+സുഭാഷ് ചന്ദ്രബോസി</ref> നൊപ്പം തോക്കെടുത്തു പോരാടിയ പൊന്നാനിയുടെ വീരപുത്രി. <ref target="https://ml.wikipedia.org/wiki/A._P._J._Abdul_Kalam">എ. പി. ജെ. അബ്ദുൽ
+കലാമി</ref> നെതിരെ വിജയസാധ്യത തെല്ലുമില്ലെന്നറിഞ്ഞുകൊണ്ടും പ്രായത്തിന്റെ പരാധീനത വിസ്മരിച്ചു്
+അങ്കത്തട്ടിൽ ചാടിയിറങ്ങി. കലാം ജയിച്ചു എന്നതു് പരമാർഥം. പക്ഷേ, മലനാട്ടു മലർമങ്ക ശിരസ്സു് നമിച്ചില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Golda_Meir.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഗോൾഡാ മേയർ</figDesc>
+          </figure>
+          <p> ആനക്കര വടക്കത്തെ ലക്ഷ്മിയമ്മയുടെ വീരോചിത പോരാട്ടം കഴിഞ്ഞു് അഞ്ചുവട്ടമിഹ പൂത്തു കാനനം.
+കലാമിന്റെ കാലവും കഴിഞ്ഞു. പുതിയ രാഷ്ട്രപതിയെ തെരഞ്ഞെടുക്കേണ്ട സമയം സമാഗതമായി.
+</p>
+          <p>നലമുള്ളൊരു നവഗുണപരിമളനായിരിക്കണം രാഷ്ട്രപതിയെന്നു് ഇടതുപക്ഷ പാർട്ടികൾ കാലേക്കൂട്ടി
+വ്യവസ്ഥ വെച്ചു. ആൾ രാഷ്ട്രീയക്കാരനായിരിക്കണം. കലാമിനെപ്പോലെ അരാഷ്ട്രീയ ബുദ്ധിജീവികൾ പറ്റില്ല.
+പുരോഗമന ചിന്താഗതിക്കാരും പവൻമറ്റു് മതനിരപേക്ഷരരും ആയേ മതിയാകൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Tansu_Ciller.jpg" rendition="gra"/>
+            <figDesc style="thumb">തൻസു സില്ലർ</figDesc>
+          </figure>
+          <p> എണ്ണിപ്പറയാൻ ഗുണങ്ങൾ ഒമ്പതും തികഞ്ഞ ഒരാൾ സി. പി. എമ്മിലുണ്ടു്—<ref target="https://ml.wikipedia.org/wiki/Somnath_Chatterjee">സോമനാഥ്
+ചാറ്റർജി</ref>. ഹിന്ദുമഹാസഭാ നേതാവു് <ref target="https://en.wikipedia.org/wiki/Nirmal_Chandra_Chatterjee">നിർമൽചന്ദ്
+ചാറ്റർജി</ref> യുടെ മകൻ. പ്രമുഖ അഭിഭാഷകൻ, പ്രഗല്ഭ പാർലമെന്റേറിയൻ. ലോക്സഭ കണ്ട
+എക്കാലത്തേയും ഏറ്റവും കാൻറ്റാങ്കർസ് സ്പീക്കർ. സോമൻ സഖാവിനെ രാഷ്ട്രപതിയാക്കിയാൽ സോഷ്യലിസം
+ഉടനടി നടപ്പാകും. <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായം</ref>, <ref target="https://en.wikipedia.org/wiki/Lalu_Prasad_Yadav">ലാലു</ref> യാദവരുടെ
+പിന്തുണ <ref target="https://ml.wikipedia.org/wiki/Somnath_Chatterjee">സോമനാഥനു</ref>
+പ്രതീക്ഷിക്കാം. അതുവെച്ചു് കോൺഗ്രസിനോടു് വിലപേശാമെന്നായിരുന്നു പദ്ധതി. കഴിഞ്ഞ ജനുവരിയിൽ
+മുലായം സർക്കാറിനെ പിരിച്ചുവിടാൻ കേന്ദ്രം തുനിഞ്ഞിറങ്ങിയപ്പോൾ, 356-ാം അനുച്ഛേദത്തിന്റെ ആജന്മശത്രു
+<ref target="https://en.wikipedia.org/wiki/M._Karunanidhi">മുത്തുവേൽ
+കരുണാനിധി</ref> വരെ ആ നീക്കത്തെ പിന്തുണച്ചപ്പോൾ അതിനെ ചെറുത്തുതോൽപിച്ചതു് സി. പി. എം.
+ആയിരുന്നു. കാരണം, കൊൽക്കത്തയിൽ നിന്നു് ദൽഹിയിലേക്കുള്ള പാത ലക്നോവിലൂടെയാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mohsina_Kidwai.jpg" rendition="gra"/>
+            <figDesc style="thumb">മൊഹ്സിനാ കിദ്വായ്</figDesc>
+          </figure>
+          <p> ഉത്തർപ്രദേശിലെ തെരഞ്ഞെടുപ്പു് ഫലം സഖാക്കളുടെ കണക്കുകൂട്ടൽ തെറ്റിച്ചു. മുലായമിന്റെ മുഖ്യശത്രു
+<ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> ഒറ്റക്കു്
+അധികാരം പിടിച്ചു. യാദവ ബന്ധുക്കളായ മാർക്സിസ്റ്റുകാരെ യാതൊരു കാരണവശാലും ബഹൻജി
+പിന്താങ്ങുകയില്ല. സോമൻസഖാവു് തന്ത്രപൂർവം പിൻമാറി. പകരം ഇടതുപക്ഷ നേതാക്കൾ കോൺക്ലേവു കൂടി
+പുരോഗമന വാദിയും മതനിരപേക്ഷനുമെന്നു് അവർക്കു് തോന്നിയ ഒരു കോൺഗ്രസുകാരനെ രാഷ്ട്രപതി
+സ്ഥാനത്തേക്കു നിർദേശിച്ചു—<ref target="https://ml.wikipedia.org/wiki/Pranab_Mukherjee">പ്രണബ്കുമാർ
+മുഖർജി</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rukmini_Devi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രുഗ്മിണീദേവി അരുൺഘേൽ</figDesc>
+          </figure>
+          <p> മുഖർജി നിസ്സാരനല്ല. മുതിർന്ന നേതാവാണു്. കേന്ദ്രത്തിൽ സുപ്രധാന വകുപ്പുകൾ മിക്കതും കൈയാളി
+കഴിവുതെളിയിച്ചിട്ടുണ്ടു്. ആരോപണവിധേയനല്ല. വൃത്തിയും വെടിപ്പുമുണ്ടു്. സൗമ്യനാണു്, സോമനാഥനെപ്പോലെ
+ചാടിക്കടിക്കില്ല. മുമ്പു് മൂന്നു തവണ പ്രധാനമന്ത്രിപദത്തിനടുത്തുവരെ എത്തിയതാണു്—ആദ്യം <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാജി</ref> വെടിയേറ്റു
+മരിച്ചപ്പോൾ, പിന്നെ <ref target="https://ml.wikipedia.org/wiki/Rajiv_Gandhi">രാജീവ്ജി</ref>
+ബോംബുസ്ഫോടനത്തിൽ കൊല്ലപ്പെട്ടപ്പോൾ, ഏറ്റവുമൊടുവിൽ മദാമ്മജി പ്രധാനമന്ത്രിപദം നിരാകരിച്ചപ്പോൾ.
+</p>
+          <p>മൂന്നു തവണയും കപ്പിനും ചുണ്ടിനുമിടക്കു തട്ടിപ്പോയി. പ്രധാനമന്ത്രിയാകാൻ കഴിയാത്തവനെ പ്രഥമ
+പൗരനാക്കുന്നതിൽ കാവ്യനീതിയുടെ ഒരംശമുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Sheikh_Hasina.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷേഖ് ഹസീന</figDesc>
+          </figure>
+          <p> പക്ഷേ, കോൺഗ്രസുകാർ സമ്മതിച്ചില്ല. എറിയാനറിയാവുന്നവനു് വടി കൊടുക്കരുതെന്നാണു് പാർട്ടിയുടെ
+നയം. ജനപിന്തുണയില്ലാത്തവരെയും കാൽകാശിനു കൊള്ളാത്തവരെയുമേ കോൺഗ്രസിനു്
+അംഗീകരിക്കാനാകൂ. പ്രധാന വകുപ്പുകൾ കൈയാളുന്നവരത്രയും രാജ്യസഭാവാസികളാണു്—<ref target="https://ml.wikipedia.org/wiki/Manmohan_Singh">മൻമോഹൻ സിംഗ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Arjun_Singh">അർജുൻ സിംഗ്</ref>,
+<ref target="https://en.wikipedia.org/wiki/Shivraj_Patil">ശിവരാജ്
+പാട്ടീൽ</ref>, <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ.
+ആന്റണി</ref>, <ref target="https://en.wikipedia.org/wiki/Oscar_Fernandes">ഓസ്കാർ
+ഫെർണാണ്ടസ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Murli_Deora">മുരളി ദേവ്റ</ref> …
+പഞ്ചാബിൽ ജനിച്ചു് ദൽഹിയിൽ സ്ഥിരതാമസമാക്കിയ മൻമോഹൻജി രാജ്യസഭാംഗമാകാൻ വേണ്ടി റേഷൻ
+കാർഡ് ഗുവാഹത്തിക്കു് മാറ്റിയ ആളാണു്. പാർലമെന്റിലേക്കെന്നല്ല പഞ്ചായത്തിലേക്കു ജയിക്കാൻ വേണ്ടത്ര
+ജനപിന്തുണയെങ്കിലുമുണ്ടായിരുന്നെങ്കിൽ മദാമ്മാ ഗാന്ധി സർദാർജിയെ പ്രധാനമന്ത്രിയാക്കുമായിരുന്നില്ല.
+ഏതായാലും മുഖർജിയുടെ പേരു് മദാമ്മ വെട്ടി. ബാബുജിയെ കേന്ദ്രമന്ത്രിസഭയിൽ നിന്നു് ഒഴിവാക്കാനാവില്ല
+എന്നാണു് പുറമേക്കു പറഞ്ഞ ന്യായം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/NeelamSanjeevaReddy.jpg" rendition="gra"/>
+            <figDesc style="thumb">നീലം സഞ്ജീവ റെഡ്ഡി</figDesc>
+          </figure>
+          <p> പകരം, കോൺഗ്രസ് ഏതാനും പേരുകൾ നിർദേശിച്ചു—<ref target="https://ml.wikipedia.org/wiki/Motilal_Vora">മോത്തിലാൽ വോറ</ref>,
+<ref target="https://en.wikipedia.org/wiki/Shivraj_Patil">ശിവരാജ്
+പാട്ടീൽ</ref>, <ref target="https://en.wikipedia.org/wiki/Karan_Singh">ഡോ.
+കരൺസിംഗ്</ref>, <ref target="https://ml.wikipedia.org/wiki/Sushilkumar_Shinde">സുശീൽ കുമാർ
+ഷിൻഡെ</ref>. ഹിന്ദുത്വ വാദിയും മുൻ കാശ്മീർ മഹാരാജാവുമായ <ref target="https://en.wikipedia.org/wiki/Karan_Singh">കരൺസിംഗ്</ref>
+ഇടതുപക്ഷത്തിനു് അസ്വീകാര്യൻ. മുൻ മഹാരാഷ്ട്ര മുഖ്യനും പട്ടികജാതിക്കാരനുമായ ഷിൻഡെയും സ്വീകാര്യനല്ല.
+<ref target="https://en.wikipedia.org/wiki/Shivraj_Patil">ശിവരാജ്
+പാട്ടീൽ</ref> ദുർബല സ്ഥാനാർഥി, ശെഖാവത്തിനോടേറ്റുമുട്ടിയാൽ ജയിക്കണമെന്നില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Nirmala_Deshpande.jpg" rendition="gra"/>
+            <figDesc style="thumb">നിർമലാ ദേശ്പാണ്ഡെ</figDesc>
+          </figure>
+          <p> ഉത്തർപ്രദേശുകാരൻ ബ്രാഹ്മണൻ വേണം രാഷ്ട്രപതിയാകാൻ എന്നു് <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> നിർദേശിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Sushilkumar_Shinde">സുശീൽകുമാർ
+ഷിൻഡെ</ref> യെ ഒരു കാരണവശാലും പരിഗണിക്കരുതെന്നും ശഠിച്ചു. (ഈ കാട്ടിൽ മറ്റൊരു സിംഹമോ,
+അതും നാം യു. പി. ഭരിക്കുമ്പോൾ?) കോൺഗ്രസ് ഹൈക്കമാന്റ് ഷിൻഡെയെ കൈവിട്ടു. താജ്
+ഇടനാഴിക്കേസിൽ ബഹൻജിയെ പ്രോസിക്യൂട്ട് ചെയ്യാനുള്ള അപേക്ഷ യു. പി. ഗവർണർ നിരാകരിച്ചപ്പോൾ
+തൃപ്തിയായി. ബ്രാഹ്മണൻ വേണം എന്ന ആവശ്യം ഉപേക്ഷിച്ചു. കോൺഗ്രസിനു് ബി. എസ്. പി. നിരുപാധിക
+പിന്തുണ പ്രഖ്യാപിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Lakshmi_Sahgal.jpg" rendition="gra"/>
+            <figDesc style="thumb">ക്യാപ്റ്റൻ ലക്ഷ്മി</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> യുടെ
+പിന്തുണ ഉറപ്പായതോടെ സി. പി. എമ്മിന്റെ പ്രസക്തി കുറഞ്ഞു. <ref target="https://en.wikipedia.org/wiki/Shivraj_Patil">ശിവരാജ് പാട്ടീൽ</ref>
+ദുർബലൻ, ജനപിന്തുണയില്ലാത്തവൻ എന്നു് പരിഭവിച്ച സഖാക്കൾക്കു മുന്നിൽ കോൺഗ്രസ് കുഴിയിലേക്കു കാൽ
+നീട്ടിയിരിക്കുന്ന മൂന്നു നേതാക്കികളെ അവതരിപ്പിച്ചു—<ref target="https://ml.wikipedia.org/wiki/Nirmala_Deshpande">നിർമലാ
+ദേശ്പാണ്ഡെ</ref>, <ref target="https://en.wikipedia.org/wiki/Pratibha_Patil">പ്രതിഭാ പാട്ടീൽ</ref>,
+<ref target="https://en.wikipedia.org/wiki/Mohsina_Kidwai">മൊഹ്സിനാ
+കിദ്വായ്</ref>. മൂന്നുപേരും തുല്യനിലയിൽ അപ്രശസ്തർ, അപ്രസക്തർ. ആരെ വേണമെങ്കിൽ
+തെരഞ്ഞെടുക്കാം. ഏതെടുത്താലും ഒന്നര ഉറുപ്പിക.
+</p>
+          <p>ഇടതുപക്ഷക്കാർക്കു് പൊതുവിലും മാർക്സിസ്റ്റുകാർക്കു് പ്രത്യേകിച്ചും ബുദ്ധി കടുകട്ടിയാണു്. അവർ ഉടനെ
+പ്രതിഭാ പാട്ടീൽ മതിയെന്നു പറഞ്ഞു. കാരണം, ആയമ്മയുടെ പേരിൽതന്നെയുണ്ടു് പ്രതിഭ!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karan_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. കരൺസിംഗ്</figDesc>
+          </figure>
+          <p> നിലവിൽ രാജസ്ഥാൻ ഗവർണറാണു് <ref target="https://en.wikipedia.org/wiki/Pratibha_Patil">പ്രതിഭാ പാട്ടീൽ</ref> മുമ്പു്
+മഹാരാഷ്ട്രയിൽ മന്ത്രിയായിരുന്നു. കുറച്ചുകാലം പി. സി. സി. അധ്യക്ഷയായും വളരെ കുറച്ചുകാലം രാജ്യസഭാ
+ഉപാധ്യക്ഷയായും പ്രവർത്തിച്ചിട്ടുണ്ടു്. അഖിലേന്ത്യാ പ്രസിദ്ധയൊന്നുമല്ല. ഒരു പദവിയിലും വ്യക്തിമുദ്ര
+പതിപ്പിച്ചിട്ടുമില്ല. ശ്രീമതി ടീച്ചറെപ്പോലെ ഒരു മന്ത്രി, <ref target="https://ml.wikipedia.org/wiki/Savithri_Lakshmanan">സാവിത്രി
+ലക്ഷ്മണനെ</ref> പ്പൊലൊരു പാർലമെന്റംഗം, തെന്നലച്ചേട്ടനെപ്പോലെ പി. സി. സി. പ്രസിഡന്റ്, <ref target="https://ml.wikipedia.org/wiki/Ram_Dulari_Sinha">രാംദുലാരി സിൻഹ</ref>
+യെപ്പോലുള്ള ഗവർണർ.
+</p>
+          <p><ref target="https://en.wikipedia.org/wiki/Pratibha_Patil">പ്രതിഭാ
+പാട്ടീലി</ref> ന്റെ ഗുണഗണങ്ങൾ പാടിപ്പുകഴ്ത്തുകയാണു് മുഖ്യധാരാ മാധ്യമങ്ങൾ.</p>
+          <lg>
+            <l> ആരോമലാമഴകു ശുദ്ധി മൃദുത്വമാഭ</l>
+            <l> സാരള ്യമെന്ന ഗുണത്തിനെല്ലാം</l>
+            <l> പാരിങ്കലേതുപമ </l>
+            <l>
+(വീണപൂവു്, കുമാരനാശാൻ) </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fright" type="gra">
+            <graphic url="images/Apj_abdul_kalam.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. പി. ജെ. അബ്ദുൽ കലാം</figDesc>
+          </figure>
+          <p> എന്നു് അദ്ഭുതം കൂറുന്നു. പഠിക്കുന്ന കാലത്തു് പ്രതിഭ കോളജ് ബ്യൂട്ടിയായിരുന്നെന്നു് സൗന്ദര്യാരാധകർ,
+പിംഗ്പോങ്ങ് ചാമ്പ്യനായിരുന്നെന്നു് കായികപ്രേമികൾ. രാഷ്ട്രപതിയുടെ സ്ത്രീലിംഗം രാഷ്ട്രപത്നിയോ
+രാഷ്ട്രപതിച്ചിയോ എന്ന കാര്യത്തിൽ സംസ്കൃത പണ്ഡിതരുടെ അഭിപ്രായം തേടുന്നു, ഭാഷാസ്നേഹികൾ.
+ജൽഗാവിന്റെ മാണിക്യം, മഹാരാഷ്ട്രത്തിന്റെ മരതകം, മരുഭൂമിയിൽ വിരിഞ്ഞ കൽഹാര കുസുമം എന്നൊക്കെ
+വർണിക്കുന്ന കവികുഞ്ജരന്മാരുമുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Murli_Deora.png" rendition="gra"/>
+            <figDesc style="thumb">മുരളി ദേവ്റ</figDesc>
+          </figure>
+          <p> ഇദംപ്രഥമമായി ഒരു വനിതയെ പ്രസിഡന്റ് പദത്തിലെത്തിച്ചതിന്റെ ക്രെഡിറ്റ് അവകാശപ്പെടുന്നു.
+ഇടതു-വലതു് കമ്യൂണിസ്റ്റ് പാർട്ടികൾ. <ref target="https://ml.wikipedia.org/wiki/K._R._Narayanan">കെ. ആർ.
+നാരായണൻ</ref> രാഷ്ട്രപതിയായപ്പോഴും സഖാക്കൾ ഇതേ ഡാവിറക്കിയിരുന്നു. എട്ടുകാലി മമ്മൂഞ്ഞു്
+വെൽവുതാക!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Shivraj_Patil.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശിവരാജ് പാട്ടീൽ</figDesc>
+          </figure>
+          <p> ഡോ. <ref target="https://ml.wikipedia.org/wiki/Rajendra_Prasad">രാജേന്ദ്രപ്രസാദ്</ref>
+മുതൽ ഡോ. <ref target="https://ml.wikipedia.org/wiki/A._P._J._Abdul_Kalam">എ. പി. ജെ.
+അബ്ദുൽകലാം</ref> വരെ പല പ്രതിഭാശാലികളും അലങ്കരിച്ച രാഷ്ട്രപതി സ്ഥാനത്തേക്കു് <ref target="https://en.wikipedia.org/wiki/Pratibha_Patil">പ്രതിഭാ പാട്ടീലി</ref> നു്
+എന്താണു് യോഗ്യത? മൂത്തുനരച്ച കോൺഗ്രസ് നേതാവെന്നതോ, പേരിൽ തന്നെ പ്രതിഭയുണ്ടെന്നതോ?
+
+നെഹ്റു-ഗാന്ധി കുടുംബത്തിന്റെ അക്രീത ദാസി എന്നതാണോ? പ്രസിഡന്റു സ്ഥാനത്തേക്കു്
+പരിഗണിക്കപ്പെടാൻ മറ്റൊരു വനിതയുമില്ലേ, ഈ ഭാരതവർഷത്തിൽ?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lalu_Prasad.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലാലു പ്രസാദ് യാദവ്</figDesc>
+          </figure>
+          <p> പത്തു കൊല്ലം മുമ്പു് <ref target="https://en.wikipedia.org/wiki/Najma_Heptulla">നജ്മാ ഹിപ്ത്തുല്ല</ref>
+യുടെ പേരു് ഉപരാഷ്ട്രപതി സ്ഥാനത്തേക്കു് ഉയർന്നുവന്നപ്പോൾ ടാങ്കുവെച്ചതു് കോൺഗ്രസുകാർ തന്നെ.
+പ്രത്യേകിച്ചു് കോൺഗ്രസ് അധ്യക്ഷൻ <ref target="https://en.wikipedia.org/wiki/Sitaram_Kesri">സീതാറാം കേസരി</ref>.
+കഴിവും കാര്യപ്രാപ്തിയുമുള്ള, തന്റേടവും താൻപോരിമയുമുള്ള നേതാവാണു് നജ്മ. അവരുടെ ചെരിപ്പിന്റെ
+വാറഴിക്കാൻ യോഗ്യതയില്ല പ്രതിഭാ പാട്ടീലിനു്. <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയ ഗാന്ധി</ref>
+യുടെയും ഉപജാപകരുടെയും പീഡനം സഹിക്കവയ്യാതെ നജ്മ ബി. ജെ. പി.-യിൽ അഭയം തേടിയെന്നാണു്
+ചരിത്രം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mulayam_Singh_Yadav.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുലായം സിങ്ങ് യാദവ്</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-യിൽ ചേക്കേറി എന്ന അയോഗ്യതയുണ്ടു് നജ്മക്കു്. <ref target="https://en.wikipedia.org/wiki/Sheila_Dikshit">ഷീലാ ദീക്ഷിതോ</ref>?
+അടിയുറച്ച കോൺഗ്രസുകാരി, മതനിരപേക്ഷ കാഴ്ചപ്പാടുണ്ടു്, കഴിവും പ്രാപ്തിയുമുണ്ടു്. കഴിഞ്ഞ ഒമ്പതു കൊല്ലമായി
+ദൽഹി മുഖ്യമന്ത്രി. മികച്ച ഭരണാധികാരി. അഴിമതിയുടെ നിഴൽപോലും തീണ്ടിയിട്ടില്ല. ജനസമ്മത,
+ജഗത്പ്രസിദ്ധ. പക്ഷേ, മദാമ്മാഗാന്ധിക്കു കണ്ടുകൂടാ. ഏറ്റവുമടുത്ത മുഹൂർത്തത്തിൽ മുഖ്യമന്ത്രിപദത്തിൽനിന്നു്
+കെട്ടുകെട്ടിക്കും. പിന്നല്ലേ, രാഷ്ട്രപതി?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mayawati.jpg" rendition="gra"/>
+            <figDesc style="thumb">മായാവതി</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Fakhruddin_Ali_Ahmed">ഫക്രുദീൻ
+അലി അഹ്മദിന്റെ</ref> യും <ref target="https://en.wikipedia.org/wiki/Zail_Singh">ഗ്യാനി സെയിൽസിംഗി</ref>
+ന്റെയും ശ്രേണിയിൽപെട്ട പ്രസിഡന്റായിരിക്കും <ref target="https://en.wikipedia.org/wiki/Pratibha_Patil">പ്രതിഭാ പാട്ടീൽ</ref> 10,
+ജനപഥിൽ നിന്നു് ചരടുവലിക്കുമ്പോൾ ചാടുന്ന, തുള്ളുന്ന, നൃത്തംവെക്കുന്ന പാവ. കിട്ടാവുന്നതിൽ ഏറ്റവും കഴിവു
+കുറഞ്ഞയാളെ തെരഞ്ഞെടുത്തു, <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയ ഗാന്ധി</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pratibha_Patil.jpg" rendition="gra"/>
+            <figDesc style="thumb">പ്രതിഭാ പാട്ടീൽ</figDesc>
+          </figure>
+          <p> അമ്മായിയമ്മ വേലിചാടിയാൽ മരുമകൾ മതിലു ചാടുമെന്നൊരു പഴമൊഴിയുണ്ടു്. <ref target="https://en.wikipedia.org/wiki/Fakhruddin_Ali_Ahmed">ഫക്രുദീനെയും</ref>
+
+<ref target="https://en.wikipedia.org/wiki/Zail_Singh">സെയിൽസിംഗി</ref>
+നെയും <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാഗാന്ധി</ref>
+തന്നിഷ്ടപ്രകാരം തെരഞ്ഞെടുത്തതാണു്. പ്രതിഭയെ സോണിയ തെരഞ്ഞെടുത്തു് ബുദ്ധിരാക്ഷസരായ ഇടതുപക്ഷ
+നേതാക്കളെക്കൊണ്ടു് അംഗീകരിപ്പിച്ചു, അവരുടെ നേട്ടമായി അവകാശപ്പെടാൻ അവസരവും നൽകി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_Karunanidhi_.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുത്തുവേൽ കരുണാനിധി</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Pratibha_Patil">പ്രതിഭാ
+പാട്ടീലി</ref> ന്റെ സ്ഥാനാരോഹണം സ്ത്രീശാക്തീകരണത്തെ ത്വരിതപ്പെടുത്തുമെന്നു പറയുന്നവരുണ്ടു്.
+വനിതാ പ്രധാനമന്ത്രിയുടെ കാലത്തു നടന്ന ശാക്തീകരണത്തെക്കുറിച്ചു് ബോധ്യമില്ലാത്തവർ. <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാജി</ref> യുടെ
+ഭരണകാലത്താണു് വധൂദഹനം സുകുമാര കലയായി വളർന്നുവന്നതു്. പെൺഭ്രൂണഹത്യയുടെ തുടക്കം ഇന്ദിര
+ഭരിക്കുമ്പോൾ, സതിയുടെ പുനരാഗമനം രാജീവ് നാടുവാഴുമ്പോൾ. സോണിയ-പ്രതിഭാ യുഗവും
+മോശമാകാനിടയില്ല.
+</p>
+          <p>ഒറ്റയൊരു കാര്യത്തിൽ സമാധാനത്തിനു് വകയുണ്ടു്: <ref target="https://en.wikipedia.org/wiki/Pratibha_Patil">പ്രതിഭാ പാട്ടീലി</ref> ന്റെ
+സ്ഥാനത്തു് <ref target="https://ml.wikipedia.org/wiki/Renuka_Chowdary">രേണുകാ
+ചൗധരി</ref> യെയോ <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാ ജോർജിനെ</ref>
+യോ രാഷ്ട്രപതി സ്ഥാനാർഥിയാക്കിയില്ലല്ലോ?
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Rathibhasam (ml: രതിഭാസം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Rathibhasam, കെ. രാജേശ്വരി, രതിഭാസം, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:1897_BogdanovBelsky_At_School_Doors.jpg">At the School Door,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Nikolay_Bogdanov-Belsky">Nikolay
+Bogdanov-Belsky</ref>  (1868–1945). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-rathibhasam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-  rathibhasam.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

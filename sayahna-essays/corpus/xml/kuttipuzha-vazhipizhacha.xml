@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വഴിപിഴച്ച മായാവാദം</title>
+          <title xml:lang="en" type="main">Vazhipizhacha Mayavadam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">January 18, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വഴിപിഴച്ച മായാവാദം</title>
+              <title xml:lang="en" type="main">Vazhipizhacha Mayavadam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Vazhipizhacha Mayavadam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>വഴിപിഴച്ച മായാവാദം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>January 18, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Rain_Oil_paining.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Rain._Oil_paining.jpg">Rain,</ref>
+a oil painting by Lev Razumovsky  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വഴിപിഴച്ച മായാവാദം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വഴിപിഴച്ച മായാവാദം</head>
+        <div type="lsection">
+          <p style="noindent">അന്യോന്യഭിന്നങ്ങളായ അനേകം സിദ്ധാന്തങ്ങളുൾക്കൊള്ളുന്ന ഒന്നാണു്
+ഭാരതീയതത്ത്വചിന്ത. രണ്ടായിരത്തിൽപ്പരം വർഷങ്ങൾക്കു മുമ്പുതന്നെ തത്ത്വചിന്ത ഇവിടെ ഉദയംചെയ്തു.
+അന്നുമുതൽ ഇന്നുവരെ വിചിത്രങ്ങളായ പല വികാസപരിണാമങ്ങളും അതിനുണ്ടായിട്ടുണ്ടു്. തത്ത്വജ്ഞാനത്തെ
+ദർശനം എന്ന വാക്കുകൊണ്ടു കുറിക്കുന്ന ഏർപ്പാടു നൂറ്റാണ്ടുകൾക്കു മുമ്പേ ഭാരതത്തിൽ നടപ്പായി.
+തത്ത്വദൃഷ്ടാക്കളായ മഹർഷിമാരുടെ അന്തർദർശനത്തിൽ വെളിപ്പെട്ട രഹസ്യങ്ങൾ എന്നാകാം ഇതിനർത്ഥം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ഒരു തെറ്റിദ്ധാരണ</head>
+          <p style="noindent">ചരിത്രപരമായി നോക്കിയാൽ നവദർശനങ്ങളുടെ ഒരു സമാഹാരമാണു്
+ഭാരതീയതത്ത്വചിന്തയെന്നു കാണാം. എന്നാൽ ഇവയിൽ സാംഖ്യയോഗാദിഷഡ്ദർശനങ്ങൾക്കു മാത്രമേ
+ബ്രാഹ്മണപൗരോഹിത്യം വിലകല്പിച്ചിട്ടുള്ളു. കാരണം, ഈ ദർശനങ്ങൾ വേദപ്രാമാണ്യത്തെ
+സ്വീകരിച്ചിരിക്കുന്നുവെന്നതാണു്. ജൈനബൗദ്ധദർശനങ്ങളും ചാർവാകദർശനവും വേദപ്രാമാണ്യത്തെ
+നിഷേധിച്ചതിൽ അവ നാസ്തികമതങ്ങളെന്ന നിലയിൽ ബഹിഷ്കൃതങ്ങളായി. വിശേഷിച്ചു ചാർവാകദർശനം
+തികച്ചും ഭൗതികമായതിനാൽ വൈദികബ്രാഹ്മണരുടെ ദൃഷ്ടിയിൽ അത്യന്തം നിഷിദ്ധമായിത്തീർന്നു. <ref target="https://ml.wikipedia.org/wiki/Kapila">കപിലന്റെ</ref> സാംഖ്യം, <ref target="https://ml.wikipedia.org/wiki/Patanjali">പതഞ്ജലി</ref> യുടെ യോഗം,
+<ref target="https://en.wikipedia.org/wiki/Jaimini">ജൈമിനി</ref> യുടെ
+പൂർവമീമാംസ, <ref target="https://en.wikipedia.org/wiki/B%C4%81dar%C4%81ya%E1%B9%87a">ബാദരായണന്റെ</ref>
+ഉത്തരമീമാംസ, <ref target="https://ml.wikipedia.org/wiki/Gautama_Maharishi">ഗൗതമന്റെ</ref>
+ന്യായം, <ref target="https://ml.wikipedia.org/wiki/Kanada">കണാദന്റെ</ref>
+വൈശേഷികം എന്നിവയാണു് ബ്രാഹ്മണസമ്മതി നേടിയ ഷഡ്ദർശനങ്ങൾ.
+</p>
+          <p>ഭാരതീയതത്ത്വചിന്തയെന്നു പറഞ്ഞാൽ ഈ ആറെണ്ണം മാത്രമാണെന്നൊരു തെറ്റിദ്ധാരണപോലും
+ജനമധ്യത്തിൽ പ്രചരിച്ചിട്ടുണ്ടു്. ഇവയിൽ താരതമ്യേന കൂടുതൽ പ്രസിദ്ധവും പരിഗണനാർഹവുമായിത്തീർന്നതു്
+ഉപനിഷത്സൂക്തികളെ ആസ്പദമാക്കിയുള്ള ഉത്തരമീമാംസ അഥവാ വേദാന്തമാകുന്നു. ബാദരായണന്റെ
+ബ്രഹ്മസൂത്രങ്ങളാണു് വേദാന്തത്തിന്റെ മൂലഗ്രന്ഥം. ഈ സൂത്രങ്ങൾക്കു കാലാന്തരത്തിൽ ഭിന്നഭാഷ്യങ്ങൾ
+ഉണ്ടാകുകയും അവയെ അടിസ്ഥാനമാക്കി ദ്വൈതം, അദ്വൈതം, വിശിഷ്ടാദ്വൈതം എന്നു് ഇന്ത്യൻ വേദാന്തം
+മൂന്നായി തിരിയുകയും ചെയ്തു.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">ദ്വൈതാദ്വൈതങ്ങൾ</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Radhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോക്ടർ രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p style="noindent"> സിദ്ധാന്തപരമായി അത്യന്തം വിരുദ്ധമായ നിലയാണു്, ദ്വൈതത്തിനും
+അദ്വൈതത്തിനുമുള്ളതെന്നു പേരുകൊണ്ടുതന്നെ തെളിയുന്നുണ്ടല്ലോ. ഭൗതികതത്വവിരുദ്ധമായ
+ആശയവാദമാകുന്നു അദ്വൈതം. പ്രപഞ്ചത്തിന്റെ വസ്തുനിഷ്ഠമായ സത്തയെ അതു പാടേ നിഷേധിക്കുന്നു.
+നേരേമറിച്ചു് ദ്വൈതം പ്രപഞ്ചസത്തയെ യുക്തിപൂർവം സ്ഥാപിക്കുന്നു. എന്നാലും രണ്ടിനും പ്രമാണഗ്രന്ഥം
+ഒന്നുതന്നെ—ബ്രഹ്മസൂത്രം! ഇങ്ങനെ ഒരേ പ്രമാണഗ്രന്ഥത്തെ അവലംബിച്ചു ഭാഷ്യഭേദങ്ങൾ വഴിയായി
+വിരുദ്ധസിദ്ധാന്തങ്ങൾ സ്ഥാപിക്കുകയെന്നതു്, ഈ രാജ്യത്തെ തത്ത്വചിന്തയുടെ ഒരു പ്രത്യേകതയാകുന്നു.
+സംസ്കൃതഭാഷയ്ക്കു സ്വതസ്സിദ്ധമായിട്ടുള്ള ശബ്ദജാലവൈഭവം കൊണ്ടാണു് ഇതൊക്കെ സാധിക്കുന്നതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Swami_Vivekananda.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്വാമി വിവേകാനന്ദൻ</figDesc>
+          </figure>
+          <p> സ്വതന്ത്രമായ സത്യാന്വേഷണമല്ല, ഈദൃശനിരൂപണങ്ങളിൽ മുന്നിട്ടുനിൽക്കുന്നതു്, ഒരുതരം
+ബുദ്ധിക്കസർത്താണു്. ഇതിൽ അദ്വൈതം മറ്റു രണ്ടുശാഖകളെയും എങ്ങനെയോ പുറംതള്ളി വിജയിച്ചിരിക്കുന്നു.
+<ref target="https://ml.wikipedia.org/wiki/Sankaracharya">ശങ്കരാചാര്യരു</ref>
+ടെ ബ്രഹ്മസൂത്രഭാഷ്യമാണു് ഇതിനു പ്രധാന പിൻബലം. ഇതര സിദ്ധാന്തങ്ങളെയെല്ലാം ആചാര്യൻ അതിൽ
+സമർത്ഥമായി ഖണ്ഡിച്ചിരിക്കുന്നു. പക്ഷേ, ദ്വൈതികളും പൂർവമീമാംസാവാദികളും അത്രയും
+സമർത്ഥമായിത്തന്നെ അദ്വൈതസിദ്ധാന്തത്തെയും ഖണ്ഡിച്ചിട്ടുണ്ടു്. എങ്കിലും പണ്ഡിതന്മാർ ഇക്കാര്യം
+ഓർമ്മിക്കാറില്ല. അവർ അദ്വൈതത്തെയാണു് ഭാരതീയതത്ത്വചിന്തയുടെ അത്യുന്നതശിഖരമായി കാണുന്നതു്.
+<ref target="https://ml.wikipedia.org/wiki/Vivekananda">സ്വാമി
+വിവേകാനന്ദൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Sarvepalli_Radhakrishnan">ഡോക്ടർ
+രാധാകൃഷ്ണൻ</ref> തുടങ്ങിയ ആധുനികചിന്തകരും ഇക്കൂട്ടത്തിൽപ്പെടുന്നു. പ്രസ്തുത സിദ്ധാന്തത്തിനു സിദ്ധിച്ച
+അനർഹമായ ഈ അംഗീകാരം ഇൻഡ്യയ്ക്കു ഗുണത്തെക്കാൾ കൂടുതൽ ദോഷമാണു ചെയ്തിട്ടുള്ളതെന്നു
+പറയേണ്ടിയിരിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">മായാവാദം—കയറും പാമ്പും</head>
+          <p style="noindent">അദ്വൈതത്തിന്റെ ഒരു പ്രധാന ഘടകമാണു് മായാവാദം. ജഗന്മിഥ്യാവാദമെന്നും
+ഇതിനു പേരുണ്ടു്. സങ്കേതികമായി മായയ്ക്കു അവിദ്യ അല്ലെങ്കിൽ അജ്ഞാനം എന്നാണർത്ഥം. ഇക്കാണുന്ന
+പ്രപഞ്ചമെല്ലാം വാസ്തവത്തിൽ ഇല്ലാത്തതാണെന്നും ബ്രഹ്മം മാത്രമേ സത്യമായിട്ടുള്ളുവെന്നും അദ്വൈതി
+വാദിക്കുന്നു. ഇല്ലാത്ത പ്രപഞ്ചം ഇന്ദ്രിയപ്രത്യക്ഷം (Sense perception) വഴി ഉള്ളതായിട്ടു നമുക്കു
+അനുഭവപ്പെടുന്നുണ്ടല്ലോ, അതെങ്ങനെയെന്നു ചോദിച്ചാൽ മായകൊണ്ടു് എന്നത്രെ മറുപടി. അതായതു് നമ്മുടെ
+അജ്ഞാനം മൂലമുണ്ടാകുന്ന മനോവിഭ്രാന്തിയാണതു്.
+</p>
+          <p>ഇതിനെ വിശദീകരിക്കാൻ സുപ്രസിദ്ധമായൊരു ഉദാഹരണവുമുണ്ടു്. ഇരുട്ടിൽ കയറ് പാമ്പാണെന്നു നാം
+തെറ്റിദ്ധരിക്കാറുണ്ടല്ലോ. വെളിച്ചം കൊണ്ടു വന്നു നോക്കുമ്പോൾ സത്യസ്ഥിതി വെളിപ്പെടുന്നു. ഇവിടെ
+വാസ്തവത്തിലുള്ളതു കയറാണു് ഇരുട്ടുകൊണ്ടു് അല്ലെങ്കിൽ അജ്ഞാനം മൂലം നാം അതിൽ സർപ്പബുദ്ധി
+ആരോപിക്കുന്നു. അതുപോലെ അധിഷ്ഠാനമായ ബ്രഹ്മസത്യത്തിൽ മായകൊണ്ടു പ്രപഞ്ചബുദ്ധി
+ആരോപിതമായിരിക്കയാണു്. യഥാർത്ഥ ജ്ഞാനം ഉദിക്കുമ്പോൾ പ്രപഞ്ചം മിഥ്യയാണെന്നുള്ള ബോധം
+തെളിയും.</p>
+          <lg>
+            <l> ‘ഉലകിനു വേറൊരു സത്തയില്ലതുണ്ടെ-</l>
+            <l> ന്നുലകരുരപ്പതു സർവമൂഹ ഹിനം</l>
+            <l> ജളനു വിലേശയമെന്നു തോന്നിയാലും</l>
+            <l> നലമിയലും മലർമാല നാഗമാമോ?’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നു് <ref target="https://ml.wikipedia.org/wiki/Sreenarayana_Guru">ശ്രീനാരായണഗുരു</ref>
+പ്രസ്തുതവാദം ഒരു ശ്ലോകത്തിൽ അടക്കം ചെയ്തിരിക്കുന്നു. ബ്രഹ്മസത്താഭിന്നമായി ലോകത്തിനു വേറൊരു
+സത്തയില്ലെന്നു കാണിപ്പാൻ ഇവിടെ മലർമാലയുടെയും സർപ്പത്തിന്റെയും ഉദാഹരണമാണു് അദ്ദേഹം
+കൊണ്ടുവരുന്നതു്.
+</p>
+          <p>ഇങ്ങനെ വാഗ്വിലാസം കൊണ്ടു വാദിച്ചുപോകാൻ എളുപ്പമത്രെ. പക്ഷേ, നമ്മുടെ പ്രത്യക്ഷാനുഭവത്തിനു
+കടകവിരുദ്ധമായ ഒരു സിദ്ധാന്തം അപ്പടിസ്വീകരിക്കാൻ ഈ ശാസ്ത്രയുഗത്തിൽ ലൗകികമായ സുബോധമുള്ളവർ
+സന്നദ്ധരാകുമോ എന്നേ സംശയമുള്ളു. പ്രതിപക്ഷത്തെ തൃപ്തിപ്പെടുത്താൻവേണ്ടി പ്രപഞ്ചത്തിനു് ഒരു
+വ്യാവഹാരികസത്തയുണ്ടെന്നു് അദ്വൈതികൾ കഷ്ടിച്ചു സമ്മതിക്കുന്നുണ്ടു്. അതിനു യുക്തികല്പിക്കാൻ
+മിഥ്യാശബ്ദത്തിനു് അനിർവചനീയത്വം—അതായതു് ഉണ്ടെന്നും ഇല്ലെന്നും പറയാൻ പാടില്ലാത്ത
+അവസ്ഥ—എന്നൊരു അർത്ഥം നിശ്ചയിച്ചു് ഒരു പോം വഴി കണ്ടുപിടിച്ചിരിക്കുന്നു.
+</p>
+          <p>ഈ ദുർഘടവ്യാഖ്യാനം തന്നെ അദ്വൈതവാദത്തിന്റെ ദൗർബല്യത്തെ തെളിയിക്കുന്നുണ്ടു്. ഇനി, പരമാത്മാവു്
+പരബ്രഹ്മം എന്നൊക്കെപ്പറയുന്ന ഈ ‘ആ എന്തോ ഒന്നി’നെപ്പറ്റി ആർക്കെങ്കിലും വല്ല വിവരവുമുണ്ടോ? അതിനു
+മാത്രമാണല്ലോ ആത്യന്തികസത്ത (ultimate reality) ഉള്ളതെന്നു പറയുന്നതു്. അതെന്താണെന്നു പറയാൻ
+അദ്വൈതാചാര്യന്മാർപോലും വിഷമിക്കുന്നു. നേതി നേതി എന്ന നിഷേധമാർഗത്തിലൂടെ യാത്ര. അവരുടെ
+ബ്രഹ്മാന്വേഷണം ഒടുവിൽ ചെന്നെത്തുന്നതു് ഒരു ശുന്യാവസ്ഥയിലാണു്.
+</p>
+          <p>മഹായാന ബുദ്ധമതത്തിലെ ശൂന്യവാദത്തിനും അദ്വൈത സിദ്ധാന്തത്തിനും തമ്മിൽ ഗണ്യമായ സാദൃശ്യം
+കാണുന്നുണ്ടു്. അതുകൊണ്ടാണു് പ്രതിയോഗികൾ ശങ്കരാചാര്യരെ പ്രച്ഛന്ന ബുദ്ധൻ എന്നാക്ഷേപിച്ചിട്ടുള്ളതു്.
+‘യതോ വാചോ നിവർത്തന്തേ അപ്രാപ്യമനസാ സഹ’ ഇത്യാദ്യുപനിഷദ്വാക്യങ്ങളനുസരിച്ചു വാക്കിനും
+മനസ്സിനും വിഷയമല്ലാത്ത ഒന്നാണു് ബ്രഹ്മം. അചിന്ത്യവും അവ്യക്തവുമായ ആ ഒന്നിനെ എങ്ങനെ
+സാക്ഷാത്ക്കരിക്കും? ഇന്ദ്രിയാതീതമായ നിർവികല്പസമാധിയിൽ അതു സാദ്ധ്യമാകുമെന്നു
+വാദിക്കുകയാണെങ്കിൽ ഇതിൽപ്പരം ഒരു ജീവിതനിഷേധം വേറെയില്ലെന്നു പറയേണ്ടിവരും.
+</p>
+          <p>ചുരുക്കത്തിൽ മനുഷ്യനെ സാമൂഹ്യജീവിയല്ലാതാക്കിത്തീർക്കുന്ന അപകടം പിടിച്ചൊരു സിദ്ധാന്തമാണു്
+അദ്വൈതം. വ്യക്തിയുടെ ഏകാന്തസുഖത്തിനായി കണ്ടുപിടിച്ച സ്വാർത്ഥപ്രേരിതമായ വിചാരപദ്ധതിയെന്നും
+ഇതിനെ വിശേഷിപ്പിക്കേണ്ടതുണ്ടു്. അദ്വൈതാനുഭൂതി സുഷുപ്ത്യാനന്ദത്തിനു തുല്യമാണെന്നു പറയപ്പെടുന്നു.
+അങ്ങനെയാണെങ്കിൽ നമ്മളെല്ലാവരും രാത്രിയിൽ കുറെ നേരമെങ്കിലും അദ്വൈതികളും പകലൊക്കെ
+ദ്വൈതികളുമാണെന്നു പറയാം. ശാശ്വതമായ സുഷുപ്ത്യവസ്ഥയിലേക്കു മനുഷ്യരെ നയിക്കാനാണു് ഈ
+‘ഫിലോസഫി’ കെട്ടിപ്പടുത്തതെങ്കിൽ ഇതു് കുംഭകർണന്മാർക്കേ പ്രയോജനപ്പെടുകയുള്ളു.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.4"-->
+        <div type="lsection" xml:id="sec1.5">
+          <head type="lsechead">അദ്വൈതാഭാസം</head>
+          <p style="noindent">സാധാരണജനങ്ങൾക്കു ദുർഗ്രഹവും ജീവിതവുമായി ബന്ധപ്പെടാത്തതുമാകയാൽ
+അദ്വൈതം ഇൻഡ്യയിൽ അദ്വൈതാഭാസമായി അധഃപതിക്കുകയാണുണ്ടായതു്. ഇഹലോകജീവിതത്തിനു് ഒരു
+വിലയും കല്പിക്കാത്ത അതിലെ മായാവാദം നാട്ടിലൊട്ടേറെ ദുഷ്ടഫലങ്ങളുളവാക്കിയിട്ടുണ്ടു്. അതു ജനങ്ങളെ
+കർമവിമുഖരും അലസരും സമൂഹവിരുദ്ധരുമാക്കിത്തീർക്കുന്നുവെന്നതാണു് ഏറ്റവും വലിയ ദോഷം.
+പ്രവൃത്തിയിൽനിന്നു നിവൃത്തിയിലേക്കുള്ള ഒരു പോക്കാണല്ലോ അദ്വൈതം. യഥാർത്ഥ ജ്ഞാനോദയത്തിനു
+കർമസന്ന്യാസം അത്യാവശ്യമാണെന്നുപോലും <ref target="https://ml.wikipedia.org/wiki/Sankaracharya">ശങ്കരാചാര്യർ</ref>
+വാദിക്കുന്നു.
+</p>
+          <p>ആദ്ധ്യാത്മികതലത്തിലെ ഈ കർമസന്ന്യാസത്തിന്റെ അർത്ഥമെന്തായാലും അതു
+ലൗകികതലത്തിലേക്കിറങ്ങിവന്നു മൂഢജനങ്ങളെ പ്രവൃത്തി വിമുഖരാകാൻ പ്രേരിപ്പിക്കുന്നുവെന്നതിനു
+സംശയമില്ല. മതാചാര്യന്മാരുടെ വചനങ്ങൾ കണ്ണുമടച്ചു വിശ്വസിച്ചു ശീലിച്ചിട്ടുള്ള സാധാരണജനങ്ങളെ ഇതു
+വഴിപിഴപ്പിച്ചു് അപകടത്തിൽ ചാടിച്ചു. ഇത്തരം വേദാന്തചിന്ത ഇൻഡ്യൻ ജനതയുടെ അദ്ധ്വാനശക്തിയെ
+തല്ലിക്കെടുത്തുകയാണുണ്ടായതു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.5"-->
+        <div type="lsection" xml:id="sec1.6">
+          <head type="lsechead">ഉദരംഭരികൾ</head>
+          <p style="noindent">സ്വകുടുംബത്തോടോ സമുദായത്തോടോ ഒരുത്തരവാദിത്തവുമില്ലാതെ,
+ദേഹാദ്ധ്വനത്തിൽനിന്നു തീരെ ഒഴിഞ്ഞുമാറി കാഷായവേഷം ധരിച്ചു്, പരാന്നഭോജനം കൊണ്ടു
+മേദോമാംസലംബോദരന്മാരായി ദേശാടനം നടത്തിക്കൊണ്ടിരിക്കുന്ന എത്രയോ ലക്ഷം സന്ന്യാസിമാരുണ്ടു്
+ഇൻഡ്യയിൽ. വേദാന്തോപദേശമാണു് ഇവരുടെ തൊഴിൽ. ‘ഉദരനിമിത്തം ബഹുകൃതവേഷഃ’ എന്നു്
+ആദിശങ്കരൻതന്നെ ഇക്കൂട്ടരെ ആക്ഷേപിച്ചിട്ടുണ്ടു്. ഇവരുടെ സംഖ്യവർദ്ധിച്ചു വരികയാണു്. രാഷ്ട്രത്തിന്റെ
+ഇത്തിക്കണ്ണികളായിത്തീർന്നിരിക്കുന്ന ഈ സന്ന്യാസി വേഷക്കാരെക്കൊണ്ടു് എന്തെങ്കിലും
+പണിയെടുപ്പിക്കണമെന്നു് <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">പണ്ഡിത് നെഹ്റു</ref>
+പല തവണ പറഞ്ഞിട്ടുണ്ടു്. പക്ഷേ, എന്തുചെയ്യാം! ഇവരെ പൂജിക്കാനും ഇവർക്കു ഭിക്ഷ കൊടുത്തു് അനുഗ്രഹം
+വാങ്ങാനുമാണല്ലോ ജനതതി തിരക്കുകൂട്ടുന്നതു്. അത്രയ്ക്കു മൂഢതയിലാണ്ടുപോയ ഒരു രാജ്യം എങ്ങനെ
+നന്നാകാനാണു് ?
+</p>
+          <p>ഇന്നു് ഇൻഡ്യയിൽ സന്ന്യാസിമാർക്കും സംഘടനകൾ ഉണ്ടായിട്ടുണ്ടു്. ഇവയിൽ രാമകൃഷ്ണമിഷനൊഴിച്ചു്
+മറ്റേതെങ്കിലും മനുഷ്യർക്കു പ്രയോജനമുള്ള കാര്യങ്ങൾ ചെയ്യുന്നുണ്ടോ എന്നു സംശയമാണു്.
+പാശ്ചാത്യസംസ്കാരസമ്പർക്കം കൊണ്ടാണു നമ്മുടെയിടയിൽ സാമൂഹ്യസേവനബോധം വളർന്നുവന്നതു്.
+</p>
+          <p>ആധുനികരീതിയിലുള്ള സാമൂഹ്യസേവനത്തിനു പഴയ സന്ന്യാസിപാരമ്പര്യത്തിൽ സ്ഥാനമില്ല. വ്യക്തിയുടെ
+മോക്ഷമാണല്ലോ വേദാന്തത്തിൽ പരമലക്ഷ്യം. സമൂഹക്ഷേമത്തെ ലക്ഷീകരിച്ചുള്ള ചിന്തതന്നെ അതിലുണ്ടെന്നു
+പറഞ്ഞുകൂടാ. തന്മൂലം ആത്മാവിന്റെ രക്ഷയ്ക്കായി ജീവിതത്തിൽനിന്നു ഒളിച്ചോടിപ്പോകുന്നതും ഈ രാജ്യത്തു
+ബഹുമാന്യമായ ഒരു പ്രവൃത്തിയായിത്തീർന്നു. ചുരുക്കത്തിൽ അലസന്മാരെ സൃഷ്ടിച്ചും കർമവൈമുഖ്യം
+വളർത്തിയും മതാന്ധതയ്ക്കു മാറ്റു കൂട്ടിയും ഭൗതിക ജീവിതോത്കർഷത്തിനു വിലങ്ങുതടിയായിത്തീർന്നു ഈ
+മായാവാദം.
+</p>
+          <p>
+ദീപാവലി 1967.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.6"-->
+        <div type="lsection" xml:id="sec1.7">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.7.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.7.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.7"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Vazhipizhacha Mayavadam (ml:
+വഴിപിഴച്ച മായാവാദം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Vazhipizhacha Mayavadam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, വഴിപിഴച്ച മായാവാദം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 18, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Rain._Oil_paining.jpg">Rain,</ref>
+a oil painting by Lev Razumovsky  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzhavazhipizhacha.xml">Download document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhavazhipizhacha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

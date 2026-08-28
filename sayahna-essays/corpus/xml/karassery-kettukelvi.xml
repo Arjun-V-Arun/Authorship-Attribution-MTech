@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കേട്ടുകേൾവി പോയ പോക്കു്</title>
+          <title xml:lang="en" type="main">Kettukelvi Poya Pokku</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">September 7, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കേട്ടുകേൾവി പോയ പോക്കു്</title>
+              <title xml:lang="en" type="main">Kettukelvi Poya Pokku</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Kettukelvi Poya Pokku</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>കേട്ടുകേൾവി പോയ പോക്കു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 7, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Grigorjewitsch_Perow.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Wassilij_Grigorjewitsch_Perow_009.jpg">Paris
+Ragman,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Vasily_Perov">Vasily Perov</ref>
+ (1833–1882). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കേട്ടുകേൾവി പോയ പോക്കു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കേട്ടുകേൾവി പോയപോക്ക്</head>
+        <div type="lsection">
+          <p style="noindent">അന്നത്തെ നിലയ്ക്കു് അതൊരു സംഭവമായിരുന്നു. വിരൂപറാണി പെരിയമ്മ
+ഞങ്ങളുടെ സോഷ്യോളജി അസോസിയേഷൻ ഉദ്ഘാടനം ചെയ്തു.
+</p>
+          <p>1970-ലാണു്. ഞങ്ങളൊക്കെ അന്നു് കോഴിക്കോടു് ഗുരുവായൂരപ്പൻ കോളേജിൽ പഠിക്കുകയാണു്.
+കോഴിക്കോടു് കെങ്കേമമായി വൈരൂപ്യമത്സരം നടന്നു. മാഹിക്കാരൻ ഖാലിദ് വിരൂപരാജനും തമിഴത്തി
+പെരിയമ്മ വിരൂപറാണിയും ആയി തിരഞ്ഞെടുക്കപ്പെട്ടു. എസ്. സുന്ദർദാസിന്റെ നേതൃത്വത്തിൽ ഞങ്ങൾ
+വിരൂപറാണിയെ കോളേജിൽ കൊണ്ടുവന്നു. അവർ സോഷ്യോളജി അസോസിയേഷൻ നിലവിളക്കു് കൊളുത്തി
+ഉദ്ഘാടനം ചെയ്തു. അവർക്കുവേണ്ടി മുൻകൂട്ടി എഴുതിത്തയ്യാറാക്കിയ ഉദ്ഘാടനപ്രസംഗം വായിച്ചതു് ഞാനാണു്.
+</p>
+          <p>ആ തീയതി ഞാൻ ഓർത്തുവെച്ചിരിക്കുന്നു—1970 ഡിസംബർ 8 ചൊവ്വാഴ്ച.
+</p>
+          <p>പിറ്റേന്നു് കോളേജിലെത്തുമ്പോഴേക്കു് ഞങ്ങളൊക്കെ ചില്ലറ ഹീറോമാരായിക്കഴിഞ്ഞിരുന്നു. പെരിയമ്മ
+നിലവിളക്കു് കൊളുത്തി ഉദ്ഘാടനം നിർവഹിക്കുന്ന ചിത്രം സഹിതം എല്ലാ പത്രങ്ങളിലും വാർത്ത!
+</p>
+          <p>നാലഞ്ചു ദിവസം കഴിഞ്ഞപ്പോൾ കോളേജ് നോട്ടീസ് ബോർഡിൽ അസോസിയേഷൻ ഉദ്ഘാടനത്തിലെ
+വിവിധ രംഗങ്ങളുടെ ഫോട്ടോ പതിച്ചുകണ്ടു. ഒന്നുരണ്ടു് ഫോട്ടോകളിൽ ഞാനുണ്ടു്. ഉദ്ഘാടനപ്രസംഗത്തിന്റെ
+ഫോട്ടോയിൽ പെരിയമ്മയും ഞാനും മാത്രമേയുള്ളു—എനിക്കു് ചില്ലറ പത്രാസ് തോന്നി. നാലാള് കാണുന്നിടത്തു്
+ഫോട്ടോ വന്നല്ലോ.
+</p>
+          <p>ഊണുകഴിഞ്ഞു് ബാലകൃഷ്ണൻ ആറാട്ടുപുഴയോടൊപ്പം ക്ലാസിലേക്കു് പോവുമ്പോൾ ഒന്നുകൂടി ആ ഫോട്ടോ
+ചെന്നുനോക്കി. എന്റെ തല പെരുത്തു.
+</p>
+          <p>ഞാനും പെരിയമ്മയും നിൽക്കുന്ന ഫോട്ടോവിന്റെ ചുവടെ ഒരടിക്കുറിപ്പു് “വിരൂപരാജനും വിരൂപറാണിയും.”
+</p>
+          <p>ബാലൻ ആർത്തു.
+</p>
+          <p>“കൊടു് കയ്യ്. ഉഗ്രൻ ഐഡിയാ.”
+</p>
+          <p>എനിക്കു് കൈകൊണ്ടു് ബാലന്റെ മോന്തയ്ക്കു് ഒന്നു കൊടുക്കാനാണു് തോന്നിയതു്.
+</p>
+          <p>നോട്ടീസ് ബോർഡിനു് പൂട്ടുണ്ടായിട്ടും ആരിതു് ഒപ്പിച്ചു? എങ്ങനെയാണു് അതൊന്നു് വലിച്ചു കീറിക്കളയുക?
+ഏതു പ്യൂണിന്റെ സേവപിടിച്ചാലാണു് അതൊന്നു് എടുത്തുമാറ്റാൻ കഴിയുക?
+</p>
+          <p>കാണേണ്ടവരൊക്കെ കണ്ടുകഴിഞ്ഞിരിക്കും. ഇനിയിപ്പോൾ കീറിക്കളഞ്ഞിട്ടു് എന്തു കൃതം?
+</p>
+          <p>ഞാൻ തലയും താഴ്ത്തി ക്ലാസിലേക്കു് നടന്നു. അബ്ദുറഹിമാന്റെയും സരസയുടെയും മുഖത്തു് ചിരി.
+ആനന്ദവല്ലിയും ശോഭയും എന്തോ ഒളിക്കാൻ നോക്കുന്നുണ്ടു്. അബു ആ അടിക്കുറിപ്പു് ആഘോഷിക്കുന്നതുപോലെ
+തോന്നി.
+</p>
+          <p>രണ്ടു ദിവസത്തിനകം വേറെ ഏതോ ഫോട്ടോകൾ പതിക്കാൻ വേണ്ടി ഈ ഫോട്ടോകൾ
+എടുത്തുനീക്കിയെങ്കിലും എന്റെ പേരു് കിടന്നു. വിരൂപരാജൻ!
+</p>
+          <p>സുന്ദർദാസ് ചോദിച്ചു;
+</p>
+          <p>“ഞാൻ പ്രവചിച്ചിരുന്നില്ലേ, മത്സരത്തിനു് പോയാൽ വിരൂപരാജന്റെ പട്ടം നിനക്കു് കിട്ടുമെന്നു്. ഇപ്പോഴോ,
+പോകാതെത്തന്നെ കിട്ടി!”
+</p>
+          <p>എനിക്കു് കയ്ച്ചു.
+
+</p>
+          <p>“പിന്നെ, നീ കവിയല്ലേ, ക്രാന്തദർശി! പോടാ.”
+</p>
+          <p>ചില മാസങ്ങൾ കഴിഞ്ഞാണു്.
+</p>
+          <p>വെളുപ്പിനു് ആ പത്രവാർത്തകണ്ടു് ഞാൻ വായപൊളിച്ചുപോയി.
+</p>
+          <p>വിരൂപറാണിയെ ബലാത്സംഗം ചെയ്തു!
+</p>
+          <p>തളിയിലെ ഏതോ പീടികക്കോലായിൽ കിടന്നുറങ്ങുകയായിരുന്ന പെരിയമ്മ ബലാത്സംഗത്തിനു് ഇരയായി
+അവശനിലയിൽ ആസ്പത്രിയിലാണു്. പോലീസ് കേസ് രജിസ്റ്റർ ചെയ്തു് അന്വേഷണം നടത്തിവരുന്നു…
+ദൈവമേ, എന്തൊരു നാടു്?
+</p>
+          <p>വിരൂപറാണിയായിട്ടും രക്ഷയില്ല!
+</p>
+          <p>വൈകുന്നേരം ആഴ്ചവട്ടത്തെ വീട്ടിലിരുന്നു് ക്ലാർക്ക് മാധവൻനായരോടു് ഞാൻ ആ വാർത്തയുടെ വിവിധ
+വശങ്ങളെപ്പറ്റി വർത്തമാനം പറയുകയാണു്. അപ്പോൾ എനിക്കൊരു ഫോൺ—ചന്ദ്രിക ആഴ്ചപ്പതിപ്പിൽനിന്നു്
+കാനേഷ് പൂനൂരാണു്. വിഷയം ബലാത്സംഗം. കേസ്സുമായി ബന്ധപ്പെട്ടു് കാരശ്ശേരിയെ പോലീസ് അന്വേഷിക്കുന്നു
+എന്നു് കെ. പി. കുഞ്ഞിമ്മൂസ പറഞ്ഞുവത്രെ! ഞാൻ ആർത്തുചിരിച്ചു.
+</p>
+          <p>പിറ്റേന്നു് രാവിലെ ബസ്സിൽവെച്ചു് സുന്ദർദാസിനെ കണ്ടപ്പോൾ ഞാൻ കാനേഷ് പറഞ്ഞ തമാശ പൊട്ടിച്ചു.
+ഉടനെ കക്ഷി പറയുകയാണു്. “ഓ, ഇതു് ഇന്നലെത്തന്നെ കോളേജിൽ ചിലരൊക്കെ പറഞ്ഞിരുന്നു.”
+</p>
+          <p>ഞാൻ വിയർത്തുപോയി.
+</p>
+          <p>വൈകുന്നേരം എൻ. ബി. എസ്. പൂട്ടി വീട്ടിലേക്കു് സൈക്കിളിൽ മടങ്ങുന്നവഴി ആഴ്ചവട്ടത്തുവച്ചു് കണ്ടപ്പോൾ
+ശ്രീധരൻ ചോദിച്ചു: “നിന്നെ എപ്പഴാ പോലീസ് വിട്ടതു്?” കുഞ്ഞിമ്മൂസ്സയോ കാനേഷോ ഫോൺ ചെയ്തു കാണും.
+</p>
+          <p>ദൈവമേ, കളി കാര്യമാവുകയാണോ?
+</p>
+          <p>അതിന്റെ പിറ്റേന്നു് വാർത്ത വന്നു. വിരൂപറാണിയെ ബലാത്സംഗം ചെയ്തവനെ പൊലീസ് പിടികൂടി. ചില്ലറ
+മോഷണവുമായി നടക്കുന്ന തമിഴനാണു് പ്രതി. തീരെ ചെറുപ്പം. പെരിയമ്മയുടെ പകുതി വയസ്സേയുള്ളൂ.
+</p>
+          <p>പതുക്കെ ആ വാർത്തയുടെ ചൂടും ചൂരും കെട്ടടങ്ങി.
+</p>
+          <p>ഏതാനും മാസം കഴിഞ്ഞു് പെരിയമ്മ എന്തോ അസുഖം ബാധിച്ചു് മരണപ്പെട്ട വാർത്ത ചരമംകോളത്തിൽ
+പ്രത്യക്ഷപ്പെട്ടു. ആയിടെ ചിലർ എനിക്കെഴുതിയ കത്തുകളിൽ അനുശോചനം അറിയിച്ചിരുന്നു.
+</p>
+          <p>കഴിഞ്ഞയാഴ്ച:
+</p>
+          <p>ചില സുഹൃത്തുക്കളും ഞാനും എന്തോ സംസാരിച്ചുനിൽക്കുകയാണു്. അവിടേയ്ക്കുവന്ന ഒരു പരിചയക്കാരൻ
+എന്നോടു ചോദിച്ചു;
+</p>
+          <p>“കുറേമുമ്പു് കോഴിക്കോട്ടു് ഒരു വൈരൂപ്യമത്സരം നടന്നിരുന്നൊ?”
+</p>
+          <p>“ഉവ്വു്, കാൽനൂറ്റാണ്ടാവുന്നു—1970-ലാണു്.”
+</p>
+          <p>“നിങ്ങളും ചില സുഹൃത്തുക്കളും ചേർന്നാണോ അതു് സംഘടിപ്പിച്ചതു്?”
+</p>
+          <p>“അല്ല. ഞാൻ അന്നു് കോളേജിൽ പഠിക്കുകയാണു്. രാമദാസൻ വൈദ്യരും ചങ്ങാതിമാരും കൂടിയാണു് അതു്
+ഒപ്പിച്ചതു്.”
+</p>
+          <p>“നിങ്ങൾക്കതിൽ ഒരു പങ്കുമില്ലേ?”
+</p>
+          <p>“ഇല്ല. എനിക്കതു് കാണാൻ പോകാൻ കൂടി കഴിഞ്ഞില്ല.”
+
+</p>
+          <p>“ഒരു കാര്യം ചോദിക്കട്ടെ. ദേഷ്യം വരരുതു്.”
+</p>
+          <p>“എന്താണു് ?” എന്റെ ആകാംക്ഷ വർധിച്ചു.
+</p>
+          <p>“പറഞ്ഞ ആളെ ചോദിക്കരുതു്.”
+</p>
+          <p>ചിരി വരുത്തിക്കൊണ്ടു് ഞാൻ പറഞ്ഞു.
+</p>
+          <p>“എന്തോ ദുഷിപ്പായിരിക്കും. ആളെ പറയേണ്ട. മനസ്സിനു് ഭാരമാവും. കാര്യം പറയൂ.”
+</p>
+          <p>“സ്ത്രീകളെപ്പറ്റി നിങ്ങൾ എഴുതിയ ചില ലേഖനങ്ങളെപ്പറ്റി സംസാരിക്കാനിടയായി. അയാൾ നിങ്ങളെ വളരെ
+ആക്ഷേപിച്ചു പറഞ്ഞു.”
+</p>
+          <p>“കാര്യമെന്താ?”
+</p>
+          <p>“അന്നു് വൈരൂപ്യമത്സരം നടന്ന സ്റ്റേജിൽ വെച്ചു് ആരോ വിരൂപറാണിയെ പരസ്യമായി ചുംബിച്ചുവെന്നു്.
+നേരാണോ?”
+</p>
+          <p>കൂട്ടുകാരോടൊപ്പം ഞാനും പൊട്ടിച്ചിരിച്ചുപോയി. ഞാൻ പറഞ്ഞു,
+</p>
+          <p>“അങ്ങനെയൊരു സംഭവം നടന്നതായി ഞാൻ കേട്ടിട്ടില്ല.”
+</p>
+          <p>അയാൾ കണ്ണാലെ കണ്ടതാണെന്നു് പറഞ്ഞു.
+</p>
+          <p>“എന്തോ, ഞാൻ കേട്ടിട്ടില്ല.”
+</p>
+          <p>“നിങ്ങളാണതു് ചെയ്തതു് എന്നും പറഞ്ഞു. നേരാണോ?”
+</p>
+          <p>ഞാൻ ശരിക്കും ഞെട്ടി.
+</p>
+          <p>തടി ഓർമയില്ലാതെ ഞാൻ നിൽക്കുകയാണു്.
+ആരൊക്കെയോ പിന്നെയും എന്തൊക്കെയോ പറയുന്നുണ്ടു്. കൂട്ടച്ചിരി മുഴങ്ങുന്നുണ്ടു്… ആരോ എവിടെയോ
+പൊട്ടിച്ച ഒരു തമാശ ഇരുപത്തിനാലു കൊല്ലം കഴിഞ്ഞിട്ടും ചൂടു് തണിയാതെ നിലനിൽക്കുന്നു.
+</p>
+          <p>ഇപ്പോഴിതാ, കറങ്ങിത്തിരിഞ്ഞു് കാര്യമായ ഒരപവാദത്തിന്റെ കോലത്തിൽ അതെന്നെ
+തിരഞ്ഞെത്തിയിരിക്കുന്നു…
+</p>
+          <p>ഈശ്വരാ, ഈ ദുനിയാവിൽ എങ്ങനെ കഴിഞ്ഞുകൂടും?
+</p>
+          <p>
+മാതൃഭൂമി വാരാന്തപ്പതിപ്പു്: 19 ജൂൺ 1994.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kettukelvi Poya Pokku (ml:
+കേട്ടുകേൾവി പോയ പോക്കു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Kettukelvi Poya Pokku, എം. എൻ. കാരശ്ശേരി, കേട്ടുകേൾവി പോയ പോക്കു്, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 7, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Wassilij_Grigorjewitsch_Perow_009.jpg">Paris
+Ragman,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Vasily_Perov">Vasily Perov</ref>
+ (1833–1882). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-kettukelvi.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-kettukelvi.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

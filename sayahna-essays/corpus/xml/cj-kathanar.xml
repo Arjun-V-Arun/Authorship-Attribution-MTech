@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സഖാവു് കത്തനാർ</title>
+          <title xml:lang="en" type="main">Sakhav Kathanar</title>
+        </title>
+        <author>Thomas CJ</author>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2021">September 30, 2021</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സഖാവു് കത്തനാർ</title>
+              <title xml:lang="en" type="main">Sakhav Kathanar</title>
+            </title>
+            <author>Thomas CJ</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-08-25</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Thomas CJ</term>
+          <term>Gogve</term>
+          <term>തോമസ് സി ജെ</term>
+          <term>സഖാവു് കത്തനാർ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-08-25</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Marie_Antoinette_Execution.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Marie_Antoinette_Execution1.jpg">The
+execution of Queen Marie Antoinette of France,</ref> a painting by Isidore Stanislas Helman
+ (1743–1806). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സഖാവു് കത്തനാർ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സി. ജെ. തോമസ്</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സഖാവു് കത്തനാർ</head>
+        <div type="lsection">
+          <p style="noindent">ദൈവങ്ങളെക്കൊണ്ടു് ഉപദ്രവമില്ല. അവയുടെ സോൾ ഏജന്റുമാരാണു്
+വിഷമക്കാർ.
+</p>
+          <p>പണ്ടു് മതത്തിലെ പുരോഹിതന്മാരെക്കൊണ്ടായിരുന്നു പൊറുതികേടു്. ഇപ്പോൾ
+രാഷ്ട്രീയപുരോഹിതന്മാരെക്കൊണ്ടു്. എവിടെയായാലും ഇവർക്കു് അപ്പോസ്തോലിക പിൻതുടർച്ചയും തെറ്റില്ലാ
+വരവും ഉണ്ടു്. രണ്ടുകൂട്ടരും കുരിശുയുദ്ധങ്ങൾക്കു് മനുഷ്യരെ കണ്ണടച്ചു് ബലികഴിക്കും. സകലതും കഴിയുമ്പോൾ
+കണ്ണുനീരോടെ ശവസംസ്ക്കാരപ്രസംഗവും നടത്തും. രണ്ടുകൂട്ടരും ദൈവത്തെക്കാണുന്നുണ്ടു്. മനുഷ്യനോടാണു്
+വെറുപ്പു്, കാണാവുന്ന മനുഷ്യനെ വെറുത്തു് കാണാത്ത ദൈവത്തെ പൂജിക്കുന്ന വർഗ്ഗം ദൈവത്തെ പലപ്പോഴും
+ഒരു ഊന്നുവടിയായി ഉപയോഗപ്പെടുത്തും—പ്രത്യേകിച്ചും ശിശുമനഃസ്ഥിതിക്കാർക്കും നട്ടെല്ലില്ലാത്തവർക്കും.
+പുരോഹിതനാകട്ടെ, <ref target="https://en.wikipedia.org/wiki/Sinbad_the_Sailor">സിൻബാദിന്റെ</ref>
+പിടലിക്കു് കയറിയ കടൽമനുഷ്യനെപ്പോലെ കാലു് കഴുത്തിൽ ഇടുകയും ചുമക്കുന്നവന്റെ തലയിൽ
+താളംപിടിക്കുകയും ചെയ്യും. ദൈവമില്ലെങ്കിലും ഈ ജന്തു ഉണ്ടായിരിക്കും. നിരീശ്വരമതങ്ങൾക്കും
+പുരോഹിതന്മാരുണ്ടു്. വേണ്ടിവന്നാൽ, ബുദ്ധമതത്തിലെപ്പോലെ ദൈവമില്ലെന്നു വന്നാൽ, മരിച്ചുപോയ
+പുരോഹിതനെ അവർ ദൈവമായി വാഴിക്കും. എന്നല്ല, മതം തന്നെയില്ലെങ്കിലും പുരോഹിതനുണ്ടു്, അവൻ
+അനശ്വരനാണു്, മത്സ്യകൂർമ്മ… എന്നു പറഞ്ഞതുപോലെ പല രൂപത്തിൽ പലപ്പോഴായി ഇവ
+യുഗാനുസാരം അവതരിക്കുന്നു.
+</p>
+          <p>പൊതുവെ ഒരു സ്വഭാവം മാത്രമേ ഇവയ്ക്കുള്ളൂ മനുഷ്യനു വേണ്ട യാതൊരു വേലയും ചെയ്യാതെ സുഖമായി
+ഭക്ഷണം കഴിക്കുക; പുതിയ സകലതിനേയും എതിർക്കുക; പുതിയതിനു് ശക്തി ലഭിക്കുന്ന ഉടനെ പഴയ
+സകലതിനേയും എതിർക്കുക; അങ്ങനെ എപ്പോഴും ഭൂരിപക്ഷത്തിന്റെ മറപറ്റിനിന്നു് ന്യൂനപക്ഷത്തിനെ
+പീഡിപ്പിക്കുക. സാമ്രാജ്യവാദി, കാപാലികൻ, ബ്രാഹ്മണൻ, മഹർഷി, ലേവ്യക്കാരൻ, പാതിരി
+മുതലായവരോടൊപ്പം ഒരു കുടുംബത്തിലെ അംഗങ്ങളാണു്. ഈ വർഗ്ഗത്തിന്റെ ചരിത്രം വളരെ രസാവഹമാണു്,
+നീണ്ടതും.
+</p>
+          <figure rend="fleft">
+            <graphic url="images/Aaron.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">അഹറോൻ</figDesc>
+          </figure>
+          <p> ഭൂതകാലാന്ധകാരത്തിലേക്കു് ചുഴിഞ്ഞുനോക്കിയാൽ ഒരു അഗ്നികുണ്ഡത്തിനകത്തേക്കു എന്തോ ഒക്കെയിട്ടു്
+പുകയുണ്ടാക്കി, നിരർത്ഥകമായ പദങ്ങളും മന്ത്രിച്ചുകൊണ്ടിരിക്കുന്ന ഒരു വികൃത രൂപത്തെ കാണാം.
+മരണത്തിന്റേയും ഇടിവെട്ടുന്നതിന്റേയും, മാംസം വേവുന്നതിന്റേയും രഹസ്യം അവനറിയാമത്രെ! അവൻ
+സകലരോഗവും ഭേദമാക്കും. മറ്റുളളവർക്കറിഞ്ഞുകൂടാത്തതെല്ലാം അവനറിയാം. അവനാണു് സകല
+പുരോഹിതന്മാരുടേയും വല്യപ്പൂപ്പനായ മന്ത്രവാദി. അവന്റെ ജീവിതതത്ത്വം ഇതാണു്. അറിയാൻ പാടില്ലാത്തതു്
+എല്ലാം മഹത്താണു്. സകലമതങ്ങളുടേയും അടിസ്ഥാനം ഇതാണു്. നിർവ്വാണരഹസ്യവും കുർബ്ബാനരഹസ്യവും
+എല്ലാം ഇതുതന്നെ—അന്ധനും അജ്ഞനുമായ മനുഷ്യനെ ഭയപ്പെടുത്തി ഭരിക്കുവാനുള്ള തന്ത്രം. മന്ത്രവാദിയുടെ
+സന്താനപരമ്പരയിൽ നരബലിക്കാരനായ കാപാലികനും <ref target="https://en.wikipedia.org/wiki/Aaron">അഹറോന്റെ</ref> അനുയായികളും
+വന്നുകൂടി. ബ്രാഹ്മണമതം ആരംഭകാലത്തിൽ എന്തായിരുന്നാലും നാമറിയുന്ന കാലത്തു് നമ്പൂതിരിയുടെ കൂടെ
+ലൈംഗികകർമ്മം നടത്തുന്ന—അന്യജാതിസ്ത്രീകൾക്കു മോക്ഷവിതരണം ചെയ്യാനുള്ള
+ഒരേജൻസിയായിത്തീർന്നിരുന്നു. ക്രിസ്തുവിന്റെ പുറകെ വരുന്നവരുടെ കഥ അതിലും രസകരമാണു്. അവരുടെ
+പ്രധാനവിഷയങ്ങൾ പരിച്ഛേദനം വേണോ വേണ്ടയോ, ഏകത്വത്തിൽ ത്രിത്വമോ, ത്രിത്വത്തിൽ ഏകത്വമോ
+
+എന്നൊക്കെയായിരുന്നു. അതുകൊണ്ടു്, പിൽക്കാലങ്ങളിൽ പാളിച്ചയും പിളർപ്പും, റഷ്യയിലെ പുരോഹിതന്റെ
+‘പ്രഥമരാത്രി അവകാശ’വുമൊക്കെ വന്നുചേർന്നു.
+</p>
+          <p>ഗാന്ധിജിയും ഒരു മതം ആരംഭിച്ചിട്ടുണ്ടു്. അദ്ദേഹത്തെക്കൊണ്ടു് വലിയ വിഷമമൊന്നുമില്ലായിരുന്നു.
+അഭിപ്രായങ്ങൾ മാറ്റുന്നതിനും തെറ്റുസമ്മതിക്കുന്നതിനും അദ്ദേഹത്തിനു വലിയ മടിയുണ്ടായിരുന്നില്ല.
+അദ്ദേഹത്തിന്റെ ശിഷ്യന്മാരാണു് യഥാർത്ഥ പുരോഹിതന്മാർ.
+</p>
+          <p>കമ്മ്യൂണിസത്തിലും ഉണ്ടു് പുരോഹിതന്മാർ. രാഷ്ട്രീയപുരോഹിതൻ ഇതര പുരോഹിതന്മാരിൽനിന്നു്
+ഉത്തമനോ അധമനോ അല്ല. ഒന്നുകിൽ, അവൻ ഭൂരിപക്ഷം ജനങ്ങൾ അംഗീകരിക്കുന്ന ഒരു ദൈവത്തിന്റെ
+പൂജാരിയായി പ്രത്യക്ഷപ്പെടും. അല്ലെങ്കിൽ, അവൻ ഒരു ദൈവത്തെ സ്വയം സൃഷ്ടിച്ചു് അതിന്റെ
+പരസ്യപ്പലകയായിത്തീരും. അതുമല്ലെങ്കിൽ സ്വയം ഒരു കുട്ടിദൈവമായി മറ്റു പുരോഹിതന്മാരെ ശാന്തിക്കു
+നിയമിക്കും.
+</p>
+          <figure rend="fright">
+            <graphic url="images/Karl_Marx.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">മാർക്സ്</figDesc>
+          </figure>
+          <p> പാരമ്പര്യം പറയുക സകല പുരോഹിതന്മാരുടേയും പതിവാണു്. ക്രിസ്ത്യാനിയുടെ പുരോഹിതൻ പറയും
+അവൻ വിശുദ്ധ പത്രോസ് മുതലുള്ള നൽവരമുണ്ടെന്നു്. ഏതാനും കോടി സഹസ്രാബ്ദങ്ങൾ പുറകോട്ടുനടന്നാൽ
+ബ്രഹ്മാവിന്റെ മുഖത്തുതന്നെ ചെന്നെത്താമെന്നാണു് ബ്രാഹ്മണന്റെ പക്ഷം, അവരുടെ അധികാരപട്ടയം
+ഇവിടെയാരും കൊടുത്തതാണെന്നു് അവർ അവകാശപ്പെടുകയില്ല. അതിനു തെളിവൊന്നുമില്ലല്ലോ. കമ്മ്യൂണിസ്റ്റ്
+നേതാവു് പറയും, <ref target="https://en.wikipedia.org/wiki/Karl_Marx">മാർക്സ്</ref> മുതലുള്ള പാരമ്പര്യം
+<ref target="https://en.wikipedia.org/wiki/Vladimir_Lenin">ലെനിൻ</ref> വഴി
+ഇങ്ങെത്തിയിട്ടുണ്ടെന്നു്. ഖദർകാരനും പറയും, താൻ പണ്ടു് വെള്ളരിക്കായും പച്ചവെള്ളവും ഭുജിച്ചുകൊണ്ടു്
+ഗാന്ധിയുടെ കൂടെ ഉപ്പുകാച്ചിയിട്ടുണ്ടെന്നു്. ഈ പാരമ്പര്യം പലപ്പോഴും ‘നത്തുരാമ’നു് ഗാന്ധിയുടെ പാരമ്പര്യം
+ലഭിച്ചതുപോലെയിരിക്കും. പുരോഹിതന്മാരെ എതിർത്ത ഒരു മരപ്പണിക്കാരനെ അവർ കൊന്നു. പക്ഷേ,
+കൊന്നുകഴിഞ്ഞ ഉടനെ അവർ അദ്ദേഹത്തെ പകുതി ദൈവവും പകുതി പുരോഹിതനുമാക്കി. <ref target="https://en.wikipedia.org/wiki/Caiaphas">കയാഫാസ്</ref> തന്നെ പിന്നീടു
+ക്രിസ്തുവിനെ ആരാധിച്ചു കാണണം. അതിനു ന്യായങ്ങളുണ്ടു്. ഒന്നാമതു്, ആ ശവം പുരോഹിതന്മാരെ പിന്നീടു്
+ചീത്തപറയുകയില്ല. രണ്ടാമതു്, പഴയ പെട്ടകത്തിനകത്തെ ദൈവത്തേക്കാൾ ആളുകൂട്ടാൻ നല്ലതാണു്, കുരിശിൽ
+തുങ്ങിക്കിടക്കുന്ന ദൈവം. മൂന്നാമതു്, ആ ശവത്തിന്മേൽ വീഴുന്ന കാണിക്ക അവർക്കെടുക്കാം. നട്ടുച്ചയ്ക്കു സൂര്യനെ
+തുറിച്ചുനോക്കിയാൽ കണ്ണഞ്ചുമെന്നു കണ്ടുപിടിച്ചു ലക്ഷക്കണക്കിനു രൂപാ പിരിക്കുന്ന പുരോഹിതന്മാർ
+ഇക്കാര്യത്തിൽ പുറകോട്ടുനിൽക്കാൻ വഴിയില്ലല്ലോ.
+</p>
+          <p style="noindent"/>
+          <figure rend="fleft">
+            <graphic url="images/Vladimir_Lenin.jpg" width="114" rendition="thumb"/>
+            <figDesc style="thumb">ലെനിൻ</figDesc>
+          </figure>
+          <p style="noindent"> ഒരു പുരോഹിതനുണ്ടായാൽ മതി ഒരു താവഴി ആരംഭിക്കാൻ. അയാൾ പറയുന്ന
+വിഡ്ഢിത്തമെല്ലാം എഴുതിവെച്ചു് അതിനെ വേദവാക്യമാക്കാം. പിന്നീടു കാണുന്ന വാസ്തവങ്ങൾക്കെതിരായി അവ
+ഉദ്ധരിക്കും. ഉദ്ധരണങ്ങളിൽ വൈരുദ്ധ്യം വന്നാൽ ഉടനെ കുതർക്കക്കസർത്തുകൾ തുടങ്ങുകയായി.
+മതപുരോഹിതനും രാഷ്ട്രീയ പുരോഹിതനും അവരുടെ ആടുകളെ കുരിശുയുദ്ധങ്ങൾക്കു ബലികഴിക്കാം.
+വീരസ്വർഗ്ഗം കൺട്രോൾ വിലയ്ക്കു് അവർ വിതരണം ചെയ്യുന്നുണ്ടു്. ചിലർ അതിനു വിശ്വാസ സംരക്ഷണം എന്നു
+പറയും, മറ്റുള്ളവർ ദേശാഭിമാനം. രണ്ടുകൂട്ടരും കാലന്റെ റിക്രൂട്ടിംഗ് ഏജന്റന്മാരാണു്. ഇവയിലെല്ലാം
+വിശ്വാസവിരോധികളുണ്ടു്, മുടക്കമുണ്ടു്, പീഡയുണ്ടു്, സെൻട്രൽ കമ്മറ്റിയുണ്ടു്.
+</p>
+          <figure rend="fright">
+            <graphic url="images/Christ_before_Caiaphas.jpg" width="285"/>
+            <figDesc>ക്രിസ്തു കയാഫാസിനു മുന്നിൽ, മത്ത്യാസ് സ്റ്റോം.</figDesc>
+          </figure>
+          <p>മതത്തിലെ പുരോഹിതന്മാരെ കണ്ടുപേടിച്ചോടിയ ഒരാൾക്കു ഗാന്ധിമതത്തിലേയും കമ്മ്യൂണിസ്റ്റു
+മതത്തിലേയും പുരോഹിതന്മാരെ കാണുമ്പോൾ പേടിക്കാതെ നിവൃത്തിയില്ല. ക്രൂരതയിലും നീതിയില്ലായ്മയിലും
+ഇവരെല്ലാം സമന്മാരാണു്. ശത്രുവെന്നു് അവർ സങ്കല്പിക്കുന്നവരെ നശിപ്പിക്കാൻ എന്തായുധവും
+ആകാമെന്നാണവരുടെ വിശ്വാസം. ഒരു വനത്തോളം മുദ്രാവാക്യങ്ങൾക്കോ തർക്കശാസ്ത്രപ്രവാഹത്തിനോ ഈ
+വസ്തുതയെ മറയ്ക്കാൻ കഴികയില്ല. തെറ്റുസമ്മതിക്കാത്തവനും, മനുഷ്യനെ സ്നേഹിക്കാത്തവനും മനുഷ്യരല്ല.
+</p>
+          <p>പുരോഗതി ഒരിക്കലും യാഥാസ്ഥിതികത്വത്തിൽനിന്നു വരികയില്ല. വിശ്വാസവിപരീതമാണു് സകല
+പുരോഗതിയുടേയും അടിസ്ഥാനം. അനുസരണക്കേടാണു് ഏറ്റവും നല്ല സ്വഭാവം. ഇതു് എതിർപ്പിനു വേണ്ടിയുള്ള
+എതിർപ്പല്ല. പുതിയതിന്റെ പേറ്റുനോവാണു്.
+</p>
+          <p>പക്ഷേ, ഇതൊക്കെ പറഞ്ഞാലും രാഷ്ട്രീയനേതാവു് കുറേക്കാലത്തേക്കു് കൂടിയേ തീരു. അവൻ
+പുരോഹിതനായിത്തീരുന്നെങ്കിൽ അവൻ മാത്രമല്ല അതിനുത്തരവാദി. അവനെ അനുഗമിക്കുന്നവരും
+കുറ്റവാളികളാണു്. പഞ്ചപുച്ഛമടക്കി മുണ്ടുമരയ്ക്കുകെട്ടി ‘റാൻ’ പറഞ്ഞുകൊണ്ടു് കുറേപ്പേർ പുറകേ കൂടിയാൽ ഏതു
+നേതാവിന്റേയും തല തിരിഞ്ഞുപോകും. അതിനെ തടയുവാനുള്ള ചുമതല പുരോഹിതന്റേതല്ല,
+വിശ്വാസിയുടേതാണു്.
+</p>
+          <p>
+ധിക്കാരിയുടെ കാതൽ 1955.
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/thomas-cj-bio.html">സി. ജെ.തോമസിന്റെ
+ലഘുജീവചരിത്രം.</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Sakhav Kathanar (ml: സഖാവു്
+കത്തനാർ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Thomas CJ.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-08-25. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Thomas CJ, Gogve,
+തോമസ് സി ജെ, സഖാവു് കത്തനാർ, Open Access Publishing, Malayalam, Sayahna Foundation,
+Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 30, 2021.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Marie_Antoinette_Execution1.jpg">The
+execution of Queen Marie Antoinette of France,</ref> a painting by Isidore Stanislas Helman
+ (1743–1806). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/cj-kathanar.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/cj-kathanar.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

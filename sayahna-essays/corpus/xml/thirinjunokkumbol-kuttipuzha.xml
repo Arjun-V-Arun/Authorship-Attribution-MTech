@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തിരിഞ്ഞുനോക്കുമ്പോൾ</title>
+          <title xml:lang="en" type="main">Thirinjunokkumbol</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">July 18, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തിരിഞ്ഞുനോക്കുമ്പോൾ</title>
+              <title xml:lang="en" type="main">Thirinjunokkumbol</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Thirinjunokkumbol</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>തിരിഞ്ഞുനോക്കുമ്പോൾ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 18, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Memory_LACMA.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Memory_LACMA_33.11.1.jpg">Memory,</ref>
+a painting by Elihu Vedder  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തിരിഞ്ഞുനോക്കുമ്പോൾ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തിരിഞ്ഞുനോക്കുമ്പോൾ</head>
+        <div type="lsection">
+          <p style="noindent">കോളേജിലെ അദ്ധ്യാപകവൃത്തിയിൽനിന്നു് ഞാൻ വിരമിച്ചിട്ടിപ്പോൾ എട്ടു കൊല്ലം
+കഴിഞ്ഞിരിക്കുന്നു. അങ്ങോട്ടു തിരിഞ്ഞു നോക്കുമ്പോൾ രസകരങ്ങളായ പല അനുഭവങ്ങളും മനോമുകുരത്തിൽ
+തെളിഞ്ഞുവരുന്നതു കാണാം. മനസ്സിനുന്മേഷമുണ്ടാക്കുന്ന ഒന്നാണു് അധ്യാപനം. സാഹിത്യാധ്യാപനം
+വിശേഷിച്ചും ഉല്ലാസപ്രദമാകുന്നു. ആൺകുട്ടികളും പെൺകുട്ടികളും ഉള്ള ക്ലാസ്സുകളിൽ
+കാൽനൂറ്റാണ്ടിലധികകാലം ഞാൻ മലയാളസാഹിത്യം പഠിപ്പിച്ചിട്ടുണ്ടു്. പഠിക്കുന്നതിലും പഠിച്ചതു് പരീക്ഷയ്ക്കു്
+എഴുതിക്കൊടുക്കുന്നതിലും ക്ലാസ്സിൽ നടക്കുന്ന പ്രസംഗങ്ങൾ ശ്രദ്ധിക്കുന്നതിലും പൊതുവെ അച്ചടക്കം
+പാലിക്കുന്നതിലുംമറ്റും ഇരുകൂട്ടർക്കും തമ്മിലുള്ള ഗണ്യമായ വ്യത്യാസമാണു് എന്റെ മനസ്സിൽ മായാതെ
+പറ്റിനിൽക്കുന്നതു്. ഈ വ്യത്യാസത്തെപ്പറ്റി ഞാൻ ഇപ്പോഴും ഇടയ്ക്കിടയ്ക്കു ചിന്തിച്ചുനോക്കാറുണ്ടു്. പെൺകുട്ടികൾ
+പൊതുവെ അച്ചടക്കമുള്ളവരാണല്ലോ. അതുകൊണ്ടു് ക്ലാസ്സിലും ഇക്കാര്യത്തിൽ അവർക്കു തന്നെയാണു്
+ഒന്നാംസമ്മാനം കൊടുക്കേണ്ടതു്. ആൺകുട്ടികളെപ്പോലെ പെട്ടെന്നു് അക്ഷമരാകാനോ ബഹളം കൂട്ടാനോ
+സ്വാഭാവികമായിത്തന്നെ അവർക്കു കഴിവില്ലെന്നു പറയാം. പക്ഷേ, ഈ ശാന്തശീലവും ശാലീനതയും ചിലപ്പോൾ
+ആവശ്യത്തിലധികമായിപ്പോകുന്നില്ലേ എന്നു സംശയം തോന്നാറുണ്ടു്. പാഠ്യവിഷയത്തെ സംബന്ധിച്ചു്
+എന്തെങ്കിലും സംശയം നേരിട്ടാൽ ഉടൻ എഴുന്നേറ്റു നിന്നു ചോദ്യം ചോദിക്കാൻ ആൺകുട്ടികൾക്കു് ഒരു
+കൂസലുമില്ല. എന്നാൽ പെൺകുട്ടികളുടെ കഥയോ? ഇരുപത്തഞ്ചു കൊല്ലക്കാലത്തിനിടയ്ക്കു് ഒരു തവണപോലും
+ഒരൊറ്റ പെൺകുട്ടിയെങ്കിലും തുറന്ന ക്ലാസ്സിൽവച്ചു് ഒരു ചോദ്യം ചോദിച്ചതായിട്ടോർമ്മയില്ല. ഒരുതരം നാണം
+കുണുങ്ങികളായി അടങ്ങിയൊതുങ്ങിയിരിക്കാനേ പെൺകുട്ടികൾ ശീലിച്ചിട്ടുള്ളൂ. ഹാജർ വിളിക്കുമ്പോൾപോലും
+വേണ്ടത്ര ഉച്ചത്തിലുത്തരം പറയാൻ അവർ ലജ്ജിക്കുന്നു. ഈ ‘പഴഞ്ചൻ’ സമ്പ്രദായം എന്നെ പലപ്പോഴും
+അരിശംകൊള്ളിച്ചിട്ടുണ്ടു്. ‘പ്രസന്റ് ’ എന്നുറക്കെ പറഞ്ഞില്ലെങ്കിൽ ആബ്സെന്റ് മാർക്ക് ചെയ്യുമെന്നു് പറഞ്ഞു്
+ഞാൻ പേടിപ്പിച്ചുനോക്കി—ഫലമില്ല. ചിലരെ വരാത്തവരുടെ കൂട്ടത്തിൽ ഉൾപ്പെടുത്തി. എന്നിട്ടെന്തു ഫലം! ഒരു
+മാറ്റവുമില്ല. ആൺകുട്ടികളെപ്പോലെതന്നെ പെൺകുട്ടികളും നല്ല തന്റേടവും തടിമിടുക്കും കാണിക്കണമെന്നു
+ഞാൻ പ്രസംഗിക്കാറുണ്ടു്. അത്തരം മാറ്റത്തിൽ ആത്മാർത്ഥമായി സന്തോഷിക്കുന്ന ആളാണു് ഞാനെന്നും
+അവർക്കറിയാം. എന്നാലും ഒരുതരം അന്തർജ്ജനസമ്പ്രദായം തന്നെയാണു് അവർ കൂടുതൽ ഇഷ്ടപ്പെട്ടിരുന്നതു്.
+യാഥാസ്ഥിതികത്വം ഉറഞ്ഞു കൂടിനിൽക്കുന്നതു് സ്ത്രീ സമുദായത്തിലാണെന്നു് ഈദൃശാനുഭവങ്ങൾ തെളിയിക്കുന്നു.
+സ്ത്രീപുരുഷസമത്വം ഉദ്ഘോഷിക്കപ്പെടുന്ന ഇക്കാലത്തു് ഈ സ്ത്രൈണസ്വഭാവത്തിനു് അൽപാൽപ്പം മാറ്റം
+കാണുന്നുണ്ടെന്നു സമാധാനിക്കാം. നമ്മുടെ സാഹിത്യ നിരൂപണരംഗത്തു സ്ത്രീകൾ അധികം
+പ്രവേശിക്കാറില്ലല്ലോ. ഉള്ളവർ തന്നെ അൽപം ആശങ്കയോടെയാണു് കടന്നു വരുന്നതെന്നു തോന്നുന്നു. ഇതിലും
+ഒരു പുതുമ കണ്ടുതുടങ്ങിയിട്ടുള്ളതു സന്തോഷാവഹമാണു്. എല്ലാ സാമാന്യനിയമങ്ങൾക്കും ഉണ്ടല്ലോ
+വ്യത്യസ്തങ്ങൾ. ഒരിക്കൽ കോളേജിലുണ്ടായ ഒരു സംഭവം ഓർമ്മയിൽ വരുന്നു. ആൺകുട്ടികളുടെ കൂട്ടത്തിലൊരു
+പച്ചക്കാമദേവൻ ഒരു പെൺകുട്ടിക്കു് ഒഴിയാബാധയായിത്തീർന്നു. തരം കിട്ടുമ്പോഴെല്ലാം അവൻ അവളുടെ
+പിറകെ ചുറ്റിപറ്റി നടക്കും. ശല്യം സഹിക്കവയ്യാതായപ്പോൾ പെൺകുട്ടി പലരും കാൺകെ അവന്റെ മുഖത്തൊരു
+ആട്ടുവച്ചുകൊടുത്തു. അതോടെ രോഗം നിശ്ശേഷം മാറി. കുറെ ദിവസത്തേയ്ക്കു് അവനെ കോളേജിന്റെ
+പരിസരങ്ങളിൽ പോലും കാൺമാനില്ലായിരുന്നു. ഒരു പെൺകുട്ടി ഈ രീതിയിലെങ്കിലും കുറെ ചൊടിയും ചുണയും
+കാണിച്ചതറിഞ്ഞപ്പോൾ എനിക്കെന്തൊരു സന്തോഷം തോന്നിയെന്നോ!
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Portrait_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മഹാത്മാഗാന്ധി</figDesc>
+          </figure>
+          <p> ഇൻഡ്യയിലെ കർമ്മശക്തിയുടെ അർദ്ധാധികഭാഗവും സ്ത്രീ സമുദായത്തിലാണു് സ്ഥിതിചെയ്യുന്നതു്. അടുത്ത
+കാലംവരെ ഉറങ്ങിക്കിടന്നിരുന്ന ആ ശക്തിയെ കുറെയെങ്കിലും ഉണർത്തിവിട്ടതു് <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മാഗാന്ധി</ref>
+യാണു്. ഇന്നും അതിനു വേണ്ടത്ര വികാസം സിദ്ധിച്ചിട്ടില്ല. പെറ്റു കൂട്ടുകയും കുട്ടികളെ വളർത്തുകയും മാത്രമാണു്
+തങ്ങളുടെ ജോലിയെന്ന അന്ധവിശ്വാസമാണു് ഇന്നും ഭാരതത്തിലെ ഭൂരിഭാഗം സ്ത്രീകൾക്കുമുള്ളതു്.
+ദാമ്പത്യജീവിതത്തിൽ ചിരപ്രതിഷ്ഠിതമായിട്ടുള്ള സ്ത്രീകളുടെ അടിമത്തത്തെ പാതിവ്രത്യത്തിന്റെ ചായം
+തേച്ചുകാണിക്കുന്ന ശീലാവതീചരിതവും മറ്റും അവർ ബഹിഷ്ക്കരിക്കേണ്ടകാലം അതിക്രമിച്ചിരിക്കുന്നു. ശ്രീരാമന്റെ
+പേരിൽ കേസുകൊടുക്കുന്ന സീതയാണു് ഇനി നമുക്കു വേണ്ടതു്. സോവിയറ്റു റഷ്യയിലെ സ്ത്രീകളെ നോക്കൂ:
+
+അടുക്കളയിലെന്നതുപോലെ അടർക്കളത്തിലും അവർ പ്രശോഭിക്കുന്നു. എല്ലാ പ്രവൃത്തിരംഗങ്ങളിലും
+പുരുഷന്മാരോടൊപ്പം നിൽക്കാൻ അവർക്കു കഴിവുണ്ടു്. കഴിഞ്ഞ ലോക മഹായുദ്ധകാലത്തു
+സെബാസ്റ്റപോൾനഗരം ശത്രുക്കൾ വളഞ്ഞപ്പോൾ ഭൂഗർഭത്തിലുള്ള കൃത്രിമഗുഹകളിൽ കുട്ടികളെ
+മുലകൊടുത്തുറക്കിക്കിടത്തിക്കൊണ്ടു്, യന്ത്രത്തോക്കുമേന്തി പുറത്തുവന്നു ശതക്കണക്കിനു ജർമ്മൻഭടന്മാരെ
+വെടിവെച്ചുകൊന്ന അവിടത്തെ അമ്മമാരുടെ വീരചരിതം ഇന്നത്തെ ഭാരതസ്ത്രീകൾക്കു മാതൃകയാവണം.
+പ്രസംഗവശാൽ നീണ്ടു പോയ ഈ ഭാഗം ഇവിടെ നിൽക്കട്ടെ. ഇനിയും കോളേജുക്ലാസ്സുകളിലേയ്ക്കു തന്നെ
+മടങ്ങാം.
+</p>
+          <p>പ്രസംഗങ്ങൾ ശ്രദ്ധയോടെ കേൾക്കുന്നതിലും നോട്ട് എഴുതിയെടുക്കുന്നതിലും മറ്റും പെൺകുട്ടികൾ
+താരതമ്യേന കുടുതൽ ഏകാഗ്രതപാലിക്കാറുണ്ടു്. എങ്കിലും പരീക്ഷയ്ക്കുത്തരം എഴുതുമ്പോൾ സ്വയം ചിന്തിച്ചു്
+സ്വന്തമായൊരഭിപ്രായം പുറപ്പെടുവിക്കാൻ അവർക്കു കഴിയുന്നില്ല. നോട്ട് കാണാപ്പാഠംപഠിച്ചു് ആവശ്യംപോലെ
+ഉത്തരക്കടലാസിൽ പകർത്താനേ അവർ ശ്രമിക്കു. പൊതു വിജഞാനസമ്പാദനത്തിൽ അവർ ആൺകുട്ടികളുടെ
+കുറെയേറെ പിന്നിലാണെന്നു വേണം പറയാൻ. പാഠ്യപുസ്തകങ്ങൾക്കു പുറമെ ലൈബ്രറിയിൽനിന്നു
+വിജ്ഞാനപ്രദങ്ങളായ ഗ്രന്ഥങ്ങളെടുത്തു വായിക്കുന്നതിനുള്ള അഭിരുചി പെൺകുട്ടികളിൽ കുറവായിട്ടേ
+കണ്ടിട്ടുള്ളു. ഉത്തരക്കടലാസുകളിൽ വമ്പിച്ച അബദ്ധങ്ങൾ എഴുതിപ്പിടിപ്പിയ്ക്കുക ഇരുകൂട്ടരും ചെയ്യാറുണ്ടു്. അതിൽ
+ആൺപെൺ വ്യത്യാസമില്ല. നേരം പോക്കിനു വകയുള്ള ചില അബദ്ധങ്ങൾ കണ്ടാൽ അവ പരസ്യമായി
+ക്ലാസിൽ വായിച്ചു ഞാൻ കളിയാക്കിയിരുന്നു. ശകുന്തളയ്ക്കു ദുഷ്യന്തനിൽ ഒരു പുത്രനുണ്ടായി എന്നൊരു വാക്യം
+ഒരിക്കൽ കണ്ടെത്തി. അതു് ഉറക്കെ വായിച്ചുകൊണ്ടു്, ദുഷ്യന്തൻ പ്രസവിക്കുമോ എന്നു ഞാൻ ചോദിച്ചുപോയി.
+ക്ലാസ്സിൽ കൂട്ടച്ചിരി. ഒരു പെൺകുട്ടിയുടേതായിരുന്നു ഉത്തരക്കടലാസ്. അവൾ കരയാൻ തുടങ്ങി. എന്തുചെയ്യും?
+ഇത്തരം നിർദ്ദോഷമായ പരിഹാസം പോലും സഹിക്കാൻവയ്യാത്ത ദുർബലമനസ്സാണു് പല കുട്ടികൾക്കുമുള്ളതു്.
+പെൺകുട്ടികൾ, തൊട്ടാൽ പൊട്ടുന്ന പളുങ്കു പാത്രങ്ങളാകരുതു്. ഒരിക്കൽ വേറൊരു പ്രൊഫസർക്കു ഹാജർ
+വിളിച്ചപ്പോൾ ഒരബദ്ധം പറ്റി. കമലാക്ഷി എന്നൊരു കുട്ടിയുടെ പേരു് രജിസ്റ്റർ നോക്കി വിളിച്ചപ്പോൾ
+കാമലക്ഷ്മിയായിപ്പോയി. രണ്ടും ഇംഗ്ലീഷിലെഴുതുമ്പോൾ മിക്കവാറും ഒന്നുപോലെ ഇരിക്കുമല്ലോ. പിന്നത്തെ
+ബഹളം പറയാനില്ല. കുട്ടിയുടെ സങ്കടം കരകവിഞ്ഞൊഴുകി. ആദ്യമായി കേരളത്തിലേയ്ക്കു വന്ന ഒരയ്യങ്കാർ
+പ്രൊഫസർക്കു പറ്റിയ അബദ്ധം ഇതിലും രസകരമാണു് ഇവിടുത്തെ അവാന്തരജാതികളുടെ പേരുകളൊന്നും
+അദ്ദേഹം കേട്ടിരുന്നില്ല. ചില ക്രിസ്ത്യൻ പേരുകൾ മാത്രമേ പരദേശത്തുവച്ചു പരിചയപ്പെട്ടിരുന്നുള്ളൂ. രജിസ്റ്ററിൽ
+തങ്കമ്മവാരസ്യാരമ്മ എന്നൊരു പേരുണ്ടായിരുന്നു. അവിടെ വന്നപ്പോൾ പ്രൊഫസറൊന്നു പരുങ്ങി. അൽപ്പം
+ആലോചിച്ചതിനുശേഷം, പിടികിട്ടിയ മട്ടിൽ, തങ്കമ്മവറിയസാറാമ്മ എന്നൊരുവിളി! ശബ്ദകോലാഹലം കൊണ്ടു
+ക്ലാസ്സുമുഴുവൻ ഇളകിമറിഞ്ഞു. കുറെ കഴിഞ്ഞു് എല്ലാം ശാന്തമായപ്പോൾ പാവം പ്രൊഫസർ കുട്ടികളോടു തന്നെ
+ചോദിച്ചു കാര്യം മനസ്സിലാക്കി. വാരസ്യയാർക്കും ചിരിവന്നു. കരയാനുള്ള വകയൊന്നും ഇതിലില്ലല്ലോ. ഇങ്ങനെ
+ഓർത്തോർത്തു ചിരിക്കാനുള്ള പലതും സ്മൃതി പഥത്തിൽ ഇപ്പോഴും തങ്ങിനിൽക്കുന്നുണ്ടു്.
+</p>
+          <p>
+—സ്മരണമഞ്ജരി.</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thirinjunokkumbol (ml:
+തിരിഞ്ഞുനോക്കുമ്പോൾ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Thirinjunokkumbol, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, തിരിഞ്ഞുനോക്കുമ്പോൾ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 18, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Memory_LACMA_33.11.1.jpg">Memory,</ref>
+a painting by Elihu Vedder  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/thirinjunokkumbolkuttipuzha.xml">Download document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/thirinjunokkumbolkuttipuzha.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

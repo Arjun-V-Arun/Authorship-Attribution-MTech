@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ദൽഹിയിലേക്കു്, ലക്നോ വഴി</title>
+          <title xml:lang="en" type="main">Delhiyileyk, Lucknow Vazhi</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 3, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ദൽഹിയിലേക്കു്, ലക്നോ വഴി</title>
+              <title xml:lang="en" type="main">Delhiyileyk, Lucknow Vazhi</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Delhiyileyk</term>
+          <term>Lucknow Vazhi</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ദൽഹിയിലേക്കു്</term>
+          <term>ലക്നോ വഴി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 3, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Lamp_Light_Architecture_and_Design.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Erik_Werenskiold__Lamp_Light_-_NG.M.00847_-  _National_Museum_of_Art,_Architecture_and_Design.jpg">Lamp Light,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Erik_Werenskiold">Erik
+Werenskiold</ref>  (1855–1938). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ദൽഹിയിലേക്കു്, ലക്നോ വഴി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ദൽഹിയിലേക്കു്, ലക്നോ വഴി</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mulayam_Singh_Yadav.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുലായംസിംഗ്</figDesc>
+          </figure>
+          <p style="noindent"> പോയവാരം കോൺഗ്രസ് ഹൈക്കമാന്റിനു കയ്പേറിയതായിരുന്നു. ഉത്തർപ്രദേശ്
+മന്ത്രിസഭയെ അട്ടിമറിക്കാനുള്ള അവസാന ശ്രമവും പരാജയപ്പെട്ടു. ഫെബ്രുവരി 26-നു് <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗ്</ref>
+വിധാൻസഭയിൽ പുഷ്പംപോലെ വിശ്വാസവോട്ടുനേടി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Parkash_Singh_Badal.png" rendition="gra"/>
+            <figDesc style="thumb">ബാദൽ</figDesc>
+          </figure>
+          <p> ഫെബ്രുവരി 27-നു് മൂന്നു സംസ്ഥാനങ്ങളിലെ വോട്ടുപെട്ടി തുറന്നപ്പോൾ വീണ്ടും തിരിച്ചടി. പഞ്ചാബിലും
+ഉത്തരഖണ്ഡിലും പാർട്ടി അധികാരഭ്രഷ്ടരായി. മണിപ്പൂരിൽ കഷ്ടി പിടിച്ചുകയറി. കൂനിന്മേൽ കുരുവെന്നപോലെ
+<ref target="https://en.wikipedia.org/wiki/Ottavio_Quattrocchi">ക്വാത്റോച്ചി</ref>
+പ്രശ്നം വീണ്ടും ഉയർന്നുവന്നു. പാർലമെന്റിൽ ബഹളം, പ്രതിപക്ഷത്തിന്റെ ബഹിഷ്കരണം, മാധ്യമങ്ങളുടെ
+പരിഹാസം. ജകപൊക.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Amarinder_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">അമരീന്ദർസിംഗ്</figDesc>
+          </figure>
+          <p> പഞ്ചാബിലെയോ ഉത്തരഖണ്ഡിലെയോ തെരഞ്ഞെടുപ്പു് ഫലങ്ങൾ അപ്രതീക്ഷിതമല്ല. കർണേജപന്മാരും
+തിരുമുമ്പിൽ സേവക്കാരുമായ ഏതാനും സോണിയാഭൃത്യരും വയറ്റുപ്പിഴപ്പു പ്രസ്ഥാനക്കാരായ ഒന്നോ രണ്ടോ
+അഭിപ്രായവോട്ടെടുപ്പുകാരുമല്ലാതെ ആരും അഹിംസാപാർട്ടി അധികാരത്തിൽ തിരിച്ചെത്തുമെന്നു്
+പ്രതീക്ഷിച്ചിട്ടില്ല. പഞ്ചാബിൽ അകാലി-ബി. ജെ. പി. സഖ്യം; ഉത്തരഖണ്ഡിൽ ബി. ജെ. പി. സഖ്യം;
+ഉത്തരഖണ്ഡിൽ ബി. ജെ. പി. തനിയെ. തെരഞ്ഞെടുപ്പു് പ്രഖ്യാപനത്തിനുമുമ്പുതന്നെ ചിത്രം വ്യക്തം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rajinder_Kaur_Bhattal.jpg" rendition="gra"/>
+            <figDesc style="thumb">രജീന്ദർകൗർ</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പിനുമുമ്പു് എതിരാളികളും ഇപ്പോൾ കോൺഗ്രസുകാരും (ബ്രൂട്ടസിന്റെ റോളിൽ മലയാള
+മനോരമ തന്നെയും) പ്രചരിപ്പിക്കുംപോലെ <ref target="https://en.wikipedia.org/wiki/Amarinder_Singh">അമരീന്ദർ സിംഗി</ref>
+ന്റെ ദുർഭരണംകൊണ്ടാണോ പഞ്ചാബിൽ അഹിംസാപാർട്ടി തോറ്റതു്? ഒരിക്കലുമല്ല. 1997–2002 കാലത്തെ
+<ref target="https://en.wikipedia.org/wiki/Parkash_Singh_Badal">ബാദൽ</ref>
+ഭരണത്തേക്കാൾ, 1992–97 കാലഘട്ടത്തിലെ <ref target="https://ml.wikipedia.org/wiki/Beant_Singh_(chief_minister)">ബിയാന്ത്സിംഗ്</ref>,
+<ref target="https://en.wikipedia.org/wiki/Harcharan_Singh_Brar">ഹർചരൺസിംഗ്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Rajinder_Kaur_Bhattal">രജീന്ദർകൗർ</ref>
+ഭരണത്തേക്കാൾ എത്രയോ ഭേദമായിരുന്നു അമരീന്ദ്ര ഭരണം. സത്യത്തിൽ <ref target="https://en.wikipedia.org/wiki/Partap_Singh_Kairon">പ്രതാപ് സിംഗ്
+കെയ്റോണിനു</ref> ശേഷം പഞ്ചാബ് കണ്ട ഏറ്റവും പ്രഗല്ഭനായ മുഖ്യമന്ത്രിയാണു് <ref target="https://en.wikipedia.org/wiki/Amarinder_Singh">അമരീന്ദർസിംഗ്</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Beant_Singh.png" rendition="gra"/>
+            <figDesc style="thumb">ബിയാന്ത്സിംഗ്</figDesc>
+          </figure>
+          <p> പിന്നെ, അമരീന്ദർ സിംഗല്ല ആഗസ്റ്റസ് സീസറാണെങ്കിലും രണ്ടാമതൊരിക്കൽ ജയിപ്പിക്കില്ല, പഞ്ചാബിലെ
+പ്രബുദ്ധ വോട്ടർമാർ. 1966-ൽ ഇപ്പോൾ കാണുന്ന പഞ്ചാബ് സംസ്ഥാനം രൂപംകൊണ്ടതുമുതൽ ഇന്നുവരെ
+അതാണു് അവസ്ഥ. കഴിഞ്ഞ തവണ കോൺഗ്രസ്, ഇത്തവണ അകാലിദൾ, അടുത്തതവണ വീണ്ടും
+കോൺഗ്രസ്…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Digvijaya_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദിഗ്വിജയ്സിംഗ്</figDesc>
+          </figure>
+          <p> അഞ്ചുവർഷം ഭരിച്ച പാർട്ടി വീണ്ടും തെരഞ്ഞെടുപ്പു് ജയിച്ചു് അധികാരത്തിൽ വരുകയെന്നതു്
+ബംഗാളിലല്ലാതെ ഒരിടത്തും ക്ഷിപ്രസാധ്യമല്ല. <ref target="https://en.wikipedia.org/wiki/Digvijaya_Singh">ദിഗ്വിജയ്സിംഗ്</ref>
+(1998), <ref target="https://ml.wikipedia.org/wiki/N._Chandrababu_Naidu">ചന്ദ്രബാബുനായിഡു</ref>
+(1999), <ref target="https://en.wikipedia.org/wiki/Rabri_Devi">റബ്റി ദേവി</ref>
+(2000), <ref target="https://en.wikipedia.org/wiki/Sheila_Dikshit">ഷീലാദീക്ഷിത്</ref> (2003),
+<ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">നരേന്ദ്ര മോഡി</ref>
+(2004), <ref target="https://en.wikipedia.org/wiki/Naveen_Patnaik">നവീൻ
+പട്നായിക്</ref> (2004), <ref target="https://en.wikipedia.org/wiki/Tarun_Gogoi">തരുൺ ഗൊഗോയ്</ref> (2006)
+എന്നിങ്ങനെ അപൂർവം പ്രതികളേ സമീപകാലത്തു് ജയം ആവർത്തിച്ചിട്ടുള്ളൂ. ഇവരിൽ ഭരണത്തിന്റെ
+മേന്മകൊണ്ടു് ജയിച്ചതു് ഷീല മാത്രം. പ്രതിപക്ഷത്തെ അനൈക്യമാണു് റബ്റിയെയും ഗൊഗോയിയെയും തിരിച്ചു
+കൊണ്ടുവന്നതു്. എതിരാളികളുടെ അമിത ആത്മവിശ്വാസം ദിഗ്വിജയിനു തുണയായി. സാമുദായിക വികാരം
+ആളിക്കത്തിച്ചു് മോഡി നേടി. ലോക്സ്ഭ-അസംബ്ലി തെരഞ്ഞെടുപ്പുകൾ ഒരുമിച്ചു് നടത്തിയതു കൊണ്ടാണു്
+നായിഡുവും പടനായകനും യുദ്ധം ജയിച്ചതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Harcharan_Singh_Brar.png" rendition="gra"/>
+            <figDesc style="thumb">ഹർചരൺസിംഗ്</figDesc>
+          </figure>
+          <p> ഇനി, മാധ്യമങ്ങൾ പ്രചരിപ്പിക്കുംവിധം മാരകമാണോ പഞ്ചാബിലെ പരാജയം? ഭരണവിരുദ്ധ വികാരം,
+വിലക്കയറ്റം, വിമതശല്യം, അകാലി-ബി. ജെ. പി. സഖ്യത്തിന്റെ ചിട്ടയായ പ്രചാരണം
+എന്നിവയൊക്കെയുണ്ടായിട്ടും തെരഞ്ഞെടുപ്പു് നടന്ന 118-ൽ 44 സീറ്റ് ജയിക്കാൻ കോൺഗ്രസിനു് സാധിച്ചു. (<ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യുടെ
+അനുപമ നേതൃത്വത്തിൻകീഴിൽ പാർട്ടിക്കു് കേരളത്തിൽ ലഭിച്ചതു് 24 സീറ്റാണെന്നു് ഓർക്കണം). അകാലിദളിനു്
+
+ഒറ്റക്കു് ഭൂരിപക്ഷമില്ല. എസ്. ജി. പി. സി. മുൻ അധ്യക്ഷ <ref target="https://en.wikipedia.org/wiki/Jagir_Kaur">ജാഗിർകൗറും</ref> ലോക്സഭാ
+ഡെപ്യൂട്ടി സ്പീക്കർ <ref target="https://en.wikipedia.org/wiki/Charanjit_Singh_Atwal">ചരൺജിത് സിംഗ്
+അട്വാളി</ref> ന്റെ മകൻ <ref target="https://en.wikipedia.org/wiki/Inder_Iqbal_Singh_Atwal">ഇന്ദർ ഇക്ബാൽ
+സിംഗു</ref> മടക്കം പല പ്രമാണിമാരും തോൽക്കുകയും ചെയ്തു. അമരീന്ദറിനു് സന്തോഷിക്കാൻ
+പിന്നെയുമുണ്ടു് സംഗതി—പാർട്ടിയിലെ മുഖ്യഎതിരാളിയും പി. സി. സി. പ്രസിഡന്റുമായ <ref target="https://en.wikipedia.org/wiki/Shamsher_Singh_Dullo">ഷംസേർസിംഗ്
+ഡള്ളോ</ref> തോറ്റുപോയി!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Chandrababu_Naidu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചന്ദ്രബാബുനായിഡു</figDesc>
+          </figure>
+          <p> ഉത്തരഖണ്ഡിലെ സ്ഥിതിയും വളരെ വ്യത്യസ്തമല്ല. ഉത്തരഖണ്ഡ് സംസ്ഥാനരൂപവത്ക്കരണത്തിനു്
+മുൻകൈയെടുത്തതു് ബി. ജെ. പി.-യാണു്. അവർക്കു് നല്ല സ്വാധീനമുള്ള പ്രദേശം. നിത്യാനന്ദസ്വാമിയുടെയും
+<ref target="https://simple.wikipedia.org/wiki/Bhagat_Singh_Koshyari">ഭഗത്സിംഗ്
+കോഷിയാരി</ref> യുടെയും ഭരണത്തിന്റെ ഗുണംകൊണ്ടുമാത്രമാണു് കഴിഞ്ഞ തവണ കോൺഗ്രസ്
+നേടിയതു്. മുഖ്യമന്ത്രി <ref target="https://en.wikipedia.org/wiki/N._D._Tiwari">എൻ. ഡി. തിവാരി</ref> യും
+പി. സി. സി. പ്രസിഡന്റ് <ref target="https://en.wikipedia.org/wiki/Harish_Rawat">ഹരീഷ് റാവത്തും</ref> ഗ്രൂപ്പ്
+കളിച്ചു് സുയിപ്പാക്കി. ജനവിധി മുൻകൂട്ടിക്കണ്ടു് രണ്ടുപേരും ഗോദയിലിറങ്ങാതെ മപ്പടിച്ചു നിന്നു.
+ഇതൊക്കെയായിട്ടും ബി. ജെ. പി.-ക്കു് കേവലഭൂരിപക്ഷം നേടാനായില്ല. പ്രാദേശിക കക്ഷിയുടെയും
+സ്വതന്ത്രരുടെയും പിന്തുണയോടെ സർക്കാറുണ്ടാക്കാമെന്നു മാത്രം. നിത്യാനന്ദസ്വാമി തോറ്റു, കോഷിയാരി,
+ജയിച്ചു. ബി. ജെ. പി.-ക്കു് 34 സീറ്റ് കിട്ടിയപ്പോൾ കോൺഗ്രസിനു് 21 എണ്ണം ജയിക്കാനായി. തെഹ് ഗഡ്വാൾ
+ലോക്സഭാ മണ്ഡലം ബി. ജെ. പി.-യിൽനിന്നു് തിരിച്ചുപിടിക്കുകയും ചെയ്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Partap_Singh_Kairon.png" rendition="gra"/>
+            <figDesc style="thumb">പ്രതാപ് സിംഗ് കെയ്റോൺ</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-ക്കു് തൽക്കാലം സന്തോഷിക്കാൻ വകയുണ്ടു്. ബീഹാറിലെ ലാലു-റബ്റി നിഗ്രഹത്തിനും
+കർണാടകത്തിലെ ഗൗഡാപരിണയത്തിനുംശേഷം വീണ്ടും ഒരു അനർഘ നിമിഷം. ഉത്തരാഖണ്ഡിൽ സ്വന്തം
+സർക്കാർ. മത്സരിച്ച 23 സീറ്റിൽ 19-ഉം ജയിച്ചു എന്നതിലൊതുങ്ങുന്നില്ല പഞ്ചാബിന്റെ മാധുര്യം. <ref target="https://ml.wikipedia.org/wiki/Uma_Bharti">ഉമാഭാരതി</ref> നിറുത്തിയ 33
+പേർക്കും ജാമ്യസംഖ്യ നഷ്ടമായി; ഒറ്റക്കു് ഭൂരിപക്ഷമില്ലാത്തതുകൊണ്ടു് അകാലിദളിനു് ബി. ജെ. പി.-യെ
+അവഗണിക്കാനുമാവില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/NaveenPatnaik.jpg" rendition="gra"/>
+            <figDesc style="thumb">നവീൻ പട്നായിക്</figDesc>
+          </figure>
+          <p> പ്രസക്തമായ മറ്റൊരു കാര്യം. 2008 നവംബറിൽ നടക്കാനിരിക്കുന്ന തെരഞ്ഞെടുപ്പിൽ ബി. ജെ. പി.-യുടെ
+സ്ഥിതി എന്തായിരിക്കും? രാജസ്ഥാനിൽ <ref target="https://en.wikipedia.org/wiki/Vasundhara_Raje">വസുന്ധര
+രാജസിന്ധ്യ</ref> യോ മധ്യപ്രദേശിൽ <ref target="https://ml.wikipedia.org/wiki/Shivraj_Singh_Chauhan">ശിവരാജ് സിംഗ്
+
+ചൗഹാനോ</ref> ഛത്തീസ്ഗഢിൽ <ref target="https://en.wikipedia.org/wiki/Raman_Singh">രമൺസിംഗോ</ref>
+തിരിച്ചുവരുമോ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rabri_Devi.jpg" rendition="gra"/>
+            <figDesc style="thumb">റബ്റി ദേവി</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-ക്കു് ഇപ്പോൾ കഴിഞ്ഞതു് ക്വാർട്ടർ ഫൈനലാണു്. വരുന്ന ഏപ്രിലിൽ ഉത്തർപ്രദേശാണു്
+സെമി; 2009 ഏപ്രിലിലെ ലോക്സഭാ തെരഞ്ഞെടുപ്പു് ഫൈനൽ. 2004-ൽ കൈവിട്ടുപോയ കേന്ദ്രഭരണം
+തിരിച്ചുപിടിക്കണം, ചെങ്കോട്ടയിൽ കാവിക്കൊടി പാറിക്കണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lalji_Tandon.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലാൽജിഠണ്ഡൻ</figDesc>
+          </figure>
+          <p> ദൽഹിയിലേക്കുള്ള രാജപാത ലക്നോവിലൂടെയാണെന്നതു സുവിദിതം. പണ്ഡിത് <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">നെഹ്റു</ref> മുതൽ
+<ref target="https://ml.wikipedia.org/wiki/Chandra_Shekhar">ചന്ദ്രശേഖർ</ref>
+വരെയുള്ളവർ യു. പി.-യുടെ വീരപുത്രന്മാർ. ഗ്വാളിയോറിൽ കളിച്ചുവളർന്ന <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+പോലും ലക്നോവിൽനിന്നു് ജയിച്ചാണു് പ്രധാനമന്ത്രിയായതു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sheila_Dikshit.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷീലാദീക്ഷിത്</figDesc>
+          </figure>
+          <p> ഉത്തരഖണ്ഡോ ഛത്തീസ്ഗഢോ പോലെ ചെറു സംസ്ഥാനമല്ല, ഉത്തർപ്രദേശ്. ലോക്സഭയിലേക്കു്
+എൺപതും രാജ്യസഭയിലേക്കു് മുപ്പത്തൊന്നും മെമ്പർമാരെ തെരഞ്ഞെടുത്തയക്കുന്ന, 403 അസംബ്ലി
+മണ്ഡലങ്ങളുള്ള ബഡാബങ്കാളൻ സംസ്ഥാനം. രാജസ്ഥാനിലെയോ ഗുജറാത്തിലെയോപോലെ
+കോൺഗ്രസുമായി നേർക്കുനേർ പോരാട്ടവുമല്ല. ഓരോ മണ്ഡലത്തിലും ബഹുകോണ മൽസരം. പ്രബലരായ
+എതിരാളികൾ. സാമുദായിക സമവാക്യങ്ങൾ നിർണായകം. മഹാരാഷ്ട്രയിലും ബീഹാറിലും
+ഒറീസയിലുമുള്ളപോലെ ശക്തരായ സഖ്യകക്ഷികളുമില്ല. ഒറ്റക്കുതന്നെ പൊരുതണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Jagir_Kaur.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജാഗിർകൗർ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/Murli_Manohar_Joshi">മുരളി
+മനോഹർ ജോഷി</ref> യുടെയും <ref target="https://ml.wikipedia.org/wiki/Rajnath_Singh">രാജ്നാഥ്സിംഗി</ref>
+ന്റെയും മാതൃസംസ്ഥാനമാണു് ഉത്തർപ്രദേശ്. കൊലക്കൊമ്പന്മാരായ നേതാക്കൾ വേറേയുമുണ്ടു്—<ref target="https://simple.wikipedia.org/wiki/Lalji_Tandon">ലാൽജിഠണ്ഡൻ</ref>,
+<ref target="https://en.wikipedia.org/wiki/Kalraj_Mishra">കൽരാജ് മിശ്ര</ref>,
+<ref target="https://en.wikipedia.org/wiki/Keshari_Nath_Tripathi">കേസരിനാഥ്
+ത്രിപാഠി</ref>, <ref target="https://en.wikipedia.org/wiki/Vinay_Katiyar">വിനയ്
+കത്യാർ</ref>, ചെറിയൊരിടവേളക്കുശേഷം തിടമ്പേറ്റുന്നതു് <ref target="https://en.wikipedia.org/wiki/Kalyan_Singh">കല്യാൺസിംഗ്</ref>. മുമ്പു
+
+മൂന്നുതവണ മുഖ്യമന്ത്രിയായ ദേഹം. മെയ്യുകണ്ണാക്കിയ അഭ്യാസി. ബി. ജെ. പി.-യിലെ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+എന്നുപറഞ്ഞാൽ തെറ്റില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Raman_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമൺസിംഗ്</figDesc>
+          </figure>
+          <p> രാമതരംഗം ആഞ്ഞടിച്ച 1991-ലാണു് ബി. ജെ. പി. ആദ്യം അധികാരത്തിലേറിയതു്. അത്തവണ ഒറ്റക്കു്
+ഭൂരിപക്ഷം കിട്ടി. അയോധ്യയിൽ പള്ളിപൊളിച്ചപ്പോൾ മന്ത്രിസഭയും പൊളിഞ്ഞു. 1993-ൽ ഏറ്റവും വലിയ
+ഒറ്റക്കക്ഷിയായെങ്കിലും കേവല ഭൂരിപക്ഷം കിട്ടിയില്ല. 1996-ൽ ബി. എസ്. പി.-യുമായി കൂട്ടുമന്ത്രിസഭയുണ്ടാക്കി.
+<ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref> പിന്തുണ
+പിൻവലിച്ചപ്പോൾ ബി. എസ്. പി.-യെയും കോൺഗ്രസിനെയും നെടുകെ പിളർത്തി ഭൂരിപക്ഷമുണ്ടാക്കി.
+ഗവർണർ <ref target="https://ml.wikipedia.org/wiki/Ramesh_Bhandari">രമേശ്
+ഭണ്ഡാരി</ref> മന്ത്രിസഭയെ അട്ടിമറിച്ചപ്പോൾ കോടതിയിൽനിന്നു് അനുകൂല ഉത്തരവുവാങ്ങി
+അധികാരത്തിൽ തിരിച്ചെത്തി. 2000-മാണ്ടിൽ സമാജ്വാദി, ബഹുജൻസമാജ് പാർട്ടികൾക്കു പിന്നിൽ
+മൂന്നാംസ്ഥാനത്തേക്കു തള്ളപ്പെട്ടു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shamsher_Singh_Dullo.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഷംസേർസിംഗ് ഡള്ളോ</figDesc>
+          </figure>
+          <p> 2004-ലെ പാർലമെന്റ് തെരഞ്ഞെടുപ്പിൽ സ്ഥിതി പരിതാപകരമായി. എസ്. പി.-ക്കു് മുപ്പത്തഞ്ചും
+ബി. എസ്. പി.-ക്കു് പത്തൊമ്പതും സീറ്റ് കിട്ടിയപ്പോൾ ബി. ജെ. പി.-ക്കു് പത്തിടത്തേ ജയിക്കാനായുള്ളൂ. ഒമ്പതു്
+സീറ്റ് കിട്ടിയ കോൺഗ്രസിനേക്കാൾ അല്പം ഭേദം. <ref target="https://en.wikipedia.org/wiki/Murli_Manohar_Joshi">മുരളി മനോഹർ
+ജോഷി</ref> യും <ref target="https://en.wikipedia.org/wiki/Vinay_Katiyar">വിനയ് കത്യാറും</ref> തോറ്റു
+തുന്നംപാടിയപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Atal_Bihari_Vajpayee">വാജ്പേയി</ref>
+ലക്നോവിലും <ref target="https://en.wikipedia.org/wiki/Kalyan_Singh">കല്യാൺസിംഗ്</ref>
+ബുലന്ദ്ഷഹറിലും വിഷമിച്ചു ജയിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Tarun_Gogoi.jpg" rendition="gra"/>
+            <figDesc style="thumb">തരുൺ ഗൊഗോയ്</figDesc>
+          </figure>
+          <p> ഇത്തവണ പക്ഷേ, സ്ഥിതിഗതികൾ വ്യത്യസ്തമാണു്. <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗി</ref>
+ന്റെ ജനപ്രീതി മങ്ങിക്കഴിഞ്ഞു. ഭരണവിരുദ്ധ വികാരം ശക്തം, പ്രകടം. സാമുദായിക ലഹളകൾ,
+ക്രമസമാധാനത്തകർച്ച, വിലക്കയറ്റം, അഴിമതി, കെടുകാര്യസ്ഥത—ജനത്തിനു പൊറുതി മുട്ടി. കൂനിന്മേൽ
+കുരുവെന്നപോലെ സുപ്രീംകോടതി വിധികൾ. കാലുമാറ്റക്കാരായ എം. എൽ. എ.-മാരെ അയോഗ്യരാക്കി.
+അവിഹിതമായി സ്വത്തു സമ്പാദിച്ച കേസ് സി. ബി. ഐ.-ക്കു് വിട്ടു. മുസ്ലീംകൾക്കോ പിന്നാക്ക ഹിന്ദുക്കൾക്കോ
+മുലായമിനോടു് പഴയ മമതയില്ല. മുസ്ലീം വോട്ടുബാങ്കിൽ കൈയിട്ടുവാരാൻ ബി. എസ്. പി.-യും യാദവേതര
+പിന്നാക്കക്കാരെ തിരിച്ചുപിടിക്കാൻ ബി. ജെ. പി.-യും ആഞ്ഞുപിടിക്കും. ദലിതരുടെ വോട്ട് പ്രതീക്ഷിക്കയേ വേണ്ട.
+ബ്രാഹ്മണരെയും രജപുത്രരെയും വശീകരിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗ്</ref>
+പല കോമാളിവേഷവും അണിയുന്നുണ്ടു്. ഫലം നാസ്തി. അമർസിംഗിന്റെ പണക്കൊഴുപ്പും അമിതാഭ്, ജയ,
+അഭിഷേക് ബച്ചന്മാരുടെ താരശോഭയും ഐശ്വര്യ, ജയപ്രദമാരുടെ തൊലിമിനിപ്പും കൊണ്ടുമാത്രം
+
+ഉത്തർപ്രദേശിന്റെ ഭരണം നിലനിറുത്താൻ കഴിയുകയില്ല. സമാജ്വാദി പാർട്ടി രണ്ടാംസ്ഥാനത്തേക്കോ
+മൂന്നാംസ്ഥാനത്തേക്കോ തള്ളപ്പെടുക എന്നേ അറിയാനുള്ളൂ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/B_S_Koshyari.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഭഗത്സിംഗ് കോഷിയാരി</figDesc>
+          </figure>
+          <p> എസ്. പി. ചീഞ്ഞാൽ ബി. എസ്. പി.-ക്കു് വളം എന്നാണു് ശാസ്ത്രം. പട്ടികജാതിക്കാരാണു്
+ബഹുജൻസമാജിന്റെ സുശക്തവോട്ടുബാങ്ക്. മുലായമിനെ വിട്ടുപോകുന്ന മുസൽമാന്മാരുടെ കാവൽമാലാഖ <ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref>. ബ്രാഹ്മണർക്കും
+ക്ഷത്രിയർക്കുമൊക്കെ വാരിവലിച്ചു സീറ്റുകൊടുക്കും. റൊക്കം പണം കൊടുക്കണമെന്നു് മാത്രം.
+തെരഞ്ഞെടുപ്പിനുശേഷം ഏറ്റവുമടുത്ത മുഹൂർത്തത്തിൽ ഇക്കൂട്ടർ മറുകണ്ടം ചാടും. കൂറുമാറ്റ നിരോധ
+നിയമമൊന്നും ഉത്തർപ്രദേശിൽ പ്രസക്തമല്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Narayan_Dutt_Tiwari.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. ഡി. തിവാരി</figDesc>
+          </figure>
+          <p> ബഹൻജി ഇത്തവണ വലിയ ആവേശത്തിലാണു്. എറ്റവും വലിയ ഒറ്റക്കക്ഷി ബി. എസ്. പി., ഭൂരിപക്ഷം
+കിട്ടിയാലും ഇല്ലെങ്കിലും മുഖ്യമന്ത്രി മായാവതി. തെരഞ്ഞെടുപ്പിനുമുമ്പ് ആരോടും ധാരണയില്ല,
+വോട്ടെണ്ണലിനുശേഷം ആരോടും സഖ്യമാകാം. കോൺഗ്രസിനോ ബി. ജെ. പി.-ക്കോ പതിത്വമില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Murli_Manohar_Joshi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മുരളി മനോഹർ ജോഷി</figDesc>
+          </figure>
+          <p> കോൺഗ്രസിന്റെ കാര്യം പരമ ദയനീയം. 1989 ഡിസംബർ അഞ്ചിനു് ഭരണം പരണത്തുവെച്ചു്
+ഇറങ്ങിപ്പോയതാണു്. പിന്നീടൊരിക്കലും അധികാരത്തിന്റെ പതിനാറയലത്തെത്തിയില്ല. ബി. എസ്. പി.-യുമായി
+സഖ്യം ചെയ്തു മൽസരിച്ച 1996-ൽ 33 സീറ്റാണു് കിട്ടിയതു്. അതിൽ 22 പേർ <ref target="https://en.wikipedia.org/wiki/Kalyan_Singh">കല്യാൺസിംഗിന്റെ</ref>
+ചാക്കിൽകയറി വേറേ പാർട്ടിയുണ്ടാക്കി. കാലാവധി തീരുന്ന സഭയിൽ അഹിംസാപാർട്ടിക്കു് 15
+അംഗങ്ങളേയുള്ളൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Shivraj_Singh_Chauhan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശിവരാജ് സിംഗ് ചൗഹാൻ</figDesc>
+          </figure>
+          <p> മദാമ്മാഗാന്ധിക്കൊരു സ്വപ്നമുണ്ടു്. തകർന്നുപോയ വോട്ടുബാങ്ക് പുനഃസ്ഥാപിക്കണം. ബ്രാഹ്മണരും
+ദലിതരും മുസ്ലീംകളും അഹിംസയുടെ കൊടിക്കീഴിൽ ഒത്തുചേരണം. ഉത്തരപ്രദേശം തിരിച്ചുപിടിക്കണം.
+ഗംഗാസമതലത്തിലെമ്പാടും ത്രിവർണ പതാക പാറണം. രാഹുൽമോന്റെ അരിയിട്ടുവാഴ്ച ലക്നോവിൽ നടക്കണം.
+കാലം പക്ഷേ, പഴയതല്ല. നെഹ്റു-ഗാന്ധി കുടുംബമഹത്ത്വമൊക്കെ ജനത്തിനിപ്പോൾ ഓർമയില്ല. വോട്ടുബാങ്ക്
+എന്നേ ലിക്വിഡേറ്റു ചെയ്തുപോയിരിക്കുന്നു. ദലിതരത്രയും ബി. എസ്. പി.-യിൽ ചേക്കേറി. ബ്രാഹ്മണർ
+ബി. ജെ. പി.-യിൽ, മുസ്ലീംകൾ എസ്. പി.-യിൽ. <ref target="https://ml.wikipedia.org/wiki/Satish_Sharma">സതീഷ്ശർമ</ref> യെയും
+<ref target="https://ml.wikipedia.org/wiki/Salman_Khurshid">സൽമാൻ
+ഖുർഷിദി</ref> നെയുംപോലെ ഭൂമിക്കു് ഭാരമായ ഉരുപ്പടികളാണു് സംസ്ഥാനത്തു് കോൺഗ്രസിന്റെ
+അനിഷേധ്യ നേതാക്കൾ. <ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽഗാന്ധി</ref> യല്ല,
+
+പ്രപിതാമഹൻ <ref target="https://ml.wikipedia.org/wiki/Jawaharlal_Nehru">ജവഹർലാൽ
+നെഹ്റു</ref> നേരിട്ടു് അവതരിച്ചാലും ലക്നോവിൽ മൂവർണക്കൊടി പാറില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kalyan_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">കല്യാൺസിംഗ്</figDesc>
+          </figure>
+          <p> കർണേജപന്മാരുടെ ഉപദേശം കേട്ടാണു് മുലായംമന്ത്രിസഭയെ അട്ടിമറിക്കാൻ മദാമ്മയും മക്കളും
+തുനിഞ്ഞിറങ്ങിയതു്. 356-ാം അനുച്ഛേദത്തിന്റെ പ്രഖ്യാപിത ശത്രുക്കളായ ഡി. എം. കെ.-യെ വരെ വശീകരിച്ചു.
+എന്തുചെയ്യാം? <ref target="https://en.wikipedia.org/wiki/Prakash_Karat">പ്രകാശ്
+കാരാട്ട്</ref> പാറപോലെ ഉറച്ചുനിന്നു. യാദവനെ തൊട്ടാൽ തൊട്ടവനെ തട്ടും. ഭീഷണി ഫലിച്ചു. കേന്ദ്രം
+പത്തി മടക്കി മാളത്തിൽ പതുങ്ങി. അപ്പോഴേക്കും തെരഞ്ഞെടുപ്പു് പ്രഖ്യാപനം വന്നു, <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗ്</ref>
+വിധാൻസഭയിൽ ഭൂരിപക്ഷവും തെളിയിച്ചു. സമാജ്വാദി പാർട്ടി കേന്ദ്രമന്ത്രിസഭക്കുള്ള പിന്തുണ പിൻവലിച്ചു.
+കോൺഗ്രസാണിപ്പോൾ യാദവന്റെ മുഖ്യശത്രു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/HarishRawat.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹരീഷ് റാവത്ത്</figDesc>
+          </figure>
+          <p> മെയ് 11-നു് വോട്ടെണ്ണുമ്പോൾ ഒരു പാർട്ടിക്കും ഭൂരിപക്ഷമുണ്ടാകുകയില്ലെന്നു് വ്യക്തം തൂക്കുനിയമസഭ
+സുനിശ്ചിതം. ബി. എസ്. പി., ബി. ജെ. പി., എസ്. പി. എന്നിവർ സ്വർണവും വെള്ളിയും വെങ്കലവും പങ്കുവെക്കും.
+കോൺഗ്രസ് വളരെ പിന്നിൽ നാലാംസ്ഥാനത്തിനായി <ref target="https://ml.wikipedia.org/wiki/Ajit_Singh_(politician)">അജിത്
+സിംഗി</ref> ന്റെ രാഷ്ട്രീയ ലോക്ദളിനോടു് മൽസരിക്കേണ്ടിവരും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Vasundhara_Raje.jpg" rendition="gra"/>
+            <figDesc style="thumb">വസുന്ധര രാജസിന്ധ്യ</figDesc>
+          </figure>
+          <p> ബി. എസ്. പി.-യോടു് ചേർന്നു് കൂട്ടുമന്ത്രിസഭയുണ്ടാക്കണമെന്നാണു് കോൺഗ്രസിന്റെ മിതമായ മോഹം.
+<ref target="https://ml.wikipedia.org/wiki/Mayawati">മായാവതി</ref>
+യാണെങ്കിൽ ബി. ജെ. പി. പിന്തുണയോടെ മുഖ്യമന്ത്രിപദം സ്വപ്നം കാണുന്നു. കാവിപ്പടയുടെ ഖൽബ് കണ്ടവരില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/H_D_Deve_Gowda.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദേവഗൗഡ</figDesc>
+          </figure>
+          <p> മുമ്പു മൂന്നുതവണ ബി. ജെ. പി. പിന്തുണയോടെ മന്ത്രിസഭയുണ്ടാക്കിയവളാണു് മായാവതി. കോഴി കൂവുംമുമ്പു്
+മൂന്നുവട്ടവും തള്ളിപ്പറയേണ്ടിവന്നു. പുലിയുടെ പുള്ളി മായ്ക്കൽ അസാധ്യം. ബഹൻജിയുമായി
+പൊരുത്തപ്പെട്ടുപോകൽ അതിലും പ്രയാസം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ajit_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">അജിത് സിംഗ്</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പിനുശേഷം എന്തുകൊണ്ടു് മുലായംസിംഗിനും <ref target="https://ml.wikipedia.org/wiki/Rajnath_Singh">രാജ്നാഥ്സിംഗി</ref> നും
+കൈകോർത്തുകൂടാ? എസ്. പി.-യുടെയും ബി. ജെ. പി.-യുടെയും മുഖ്യശത്രു കോൺഗ്രസാണു്. മുലായം
+യു. പി.-കൊണ്ടു് തൃപ്തിപ്പെടും, <ref target="https://ml.wikipedia.org/wiki/Rajnath_Singh">രാജ്നാഥിനു്</ref> കേന്ദ്രവും
+കിട്ടും. <ref target="https://en.wikipedia.org/wiki/Nitish_Kumar">നിതീഷ്
+കുമാറിനും</ref> <ref target="https://en.wikipedia.org/wiki/Naveen_Patnaik">നവീൻ പട്നായികി</ref>
+നും <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref> ക്കും
+ബി. ജെ. പി.-യോടു് സഖ്യമാകാമെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Mulayam_Singh_Yadav">മുലായംസിംഗിനു്</ref>
+എന്തുകൊണ്ടു പാടില്ല? 1989 ഡിസംബറിൽ മുലായംസിംഗ് ആദ്യം മുഖ്യനായതു് ബി. ജെ. പി.
+പിന്തുണയോടെയായിരുന്നു; 2003 ആഗസ്റ്റിൽ അവസാനം മുഖ്യനായതും അവരുടെ പരോക്ഷ പിന്തുണയോടെ
+തന്നെ. പാമേഴ്സ്റ്റൻ പ്രഭു പറഞ്ഞതാണു് ശാശ്വത സത്യം: രാഷ്ട്രീയത്തിൽ സ്ഥിരം ശത്രുക്കളോ മിത്രങ്ങളോ ഇല്ല,
+സ്ഥായിയായ താൽപര്യങ്ങളേയുള്ളൂ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Delhiyileyk, Lucknow Vazhi (ml:
+ദൽഹിയിലേക്കു്, ലക്നോ വഴി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Delhiyileyk, Lucknow Vazhi, കെ. രാജേശ്വരി, ദൽഹിയിലേക്കു്, ലക്നോ വഴി, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 3, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Erik_Werenskiold__Lamp_Light_-_NG.M.00847__National_Museum_of_Art,_Architecture_and_Design.jpg">Lamp Light,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:Erik_Werenskiold">Erik
+Werenskiold</ref>  (1855–1938). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-lucknow.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-lucknow.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

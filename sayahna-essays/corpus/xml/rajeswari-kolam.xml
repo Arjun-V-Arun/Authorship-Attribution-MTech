@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">കത്താതെ ബാക്കിയായ ഒരു
+കോലം</title>
+          <title xml:lang="en" type="main">Kaththaathe Baakkiyaaya Oru Kolam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 18, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">കത്താതെ ബാക്കിയായ ഒരു
+കോലം</title>
+              <title xml:lang="en" type="main">Kaththaathe Baakkiyaaya Oru Kolam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Kaththaathe Baakkiyaaya Oru Kolam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>കത്താതെ ബാക്കിയായ ഒരു കോലം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 18, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Parti_af_Frederiksholms_Kanal.jpg" width="100%"/>
+          <figDesc><ref target="https://en.m.wikipedia.org/wiki/File:Parti_af_Frederiksholms_Kanal_1794.jpg">Part
+of Frederiksholms Kanal,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Christian_August_Lorentzen">Christian
+August Lorentzen</ref>  (1749–1828). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">കത്താതെ ബാക്കിയായ ഒരു കോലം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">കത്താതെ ബാക്കിയായ ഒരു കോലം</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p style="noindent"> “സുഖിക്കാനും മരുങ്ങാനും മാളോർ, പാടുപെടാനും ഉറക്കമിളക്കാനും മക്കാരാക്ക”
+എന്നൊരു ചൊല്ലുണ്ടു് തെക്കേമലബാറിൽ. ഏതാണ്ടു് ഇതേ അവസ്ഥയിലെത്തിയിരിക്കുന്നു
+മാർക്സിസ്റ്റുപാർട്ടിയിലെ കാര്യങ്ങൾ. നാടാകെ നടന്നു പ്രചാരണം നടത്താനും മതികെട്ടാൻമല കേറാനും <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദൻ</ref>,
+തെരഞ്ഞെടുപ്പിൽ മൽസരിക്കാനും മന്ത്രിമാരാകാനും <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി</ref>,
+<ref target="https://ml.wikipedia.org/wiki/M.A._Baby">ബേബി</ref>, <ref target="https://ml.wikipedia.org/wiki/Thomas_Isaac">ഐസക്കു</ref> മാർ.
+</p>
+          <p>എന്തായിരുന്നു അഞ്ചുവർഷം മുമ്പത്തെ അവസ്ഥ? വിഡ്ഢിത്തം പറയലും ഏഷ്യാനെറ്റിൽ പ്രേക്ഷകർക്കു
+മറുപടി നൽകലും മാത്രമായിരുന്നു <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാരു</ref> ടെ
+ഉത്തരവാദിത്തങ്ങൾ. പി. ശശിയും മുരളീധരൻനായരും കൂടി കാര്യങ്ങൾ ഒരു പരുവത്തിലാക്കി.
+കെടുകാര്യസ്ഥതയിൽ ധനമന്ത്രി <ref target="https://en.wikipedia.org/wiki/T._Sivadasa_Menon">ശിവദാസമേനോൻ</ref>
+സഹപ്രവർത്തകരെ ബഹുദൂരം പിന്നിലാക്കി. മാസത്തിൽ മുപ്പത്തിയൊന്നുദിവസവും ട്രഷറി ബാൻ!
+മേനോൻമാഷിന്റെ തൊപ്പിയിൽ കാക്കത്തൂവലായി കല്ലുവാതുക്കൽ മദ്യദുരന്തമുണ്ടായി. മണിച്ചന്റെ
+മാസപ്പടിലിസ്റ്റിൽ സഖാക്കളുടെ പേരുവിവരം കണ്ടു് ജനം അന്തംവിട്ടു.
+</p>
+          <p>അബ്കാരി സഖാക്കളുടെയും ഉദാരമനസ്കരായ ദുബൈ മുതലാളിമാരുടെയും ഉറച്ച പിന്തുണയോടെ
+ടെലിവിഷൻ ചാനലുണ്ടാക്കിയതും പാർട്ടിക്കു വിനയായി. ജനതയുടെ ആത്മാവിഷ്കാരത്തെ അബ്കാരി ചാനൽ
+എന്നു് വർഗശത്രുക്കൾ അപഹസിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ek_nayanar.jpg" rendition="gra"/>
+            <figDesc style="thumb">നായനാർ</figDesc>
+          </figure>
+          <p> ഇടതുമുന്നണിയെ അധികാരത്തിൽ തിരിച്ചെത്തിക്കുന്നതിനു് പാർട്ടിസെക്രട്ടറി <ref target="https://ml.wikipedia.org/wiki/Pinarayi_Vijayan">പിണറായി
+വിജയൻ</ref> കണ്ടെത്തിയ ഒറ്റമൂലി ലീഗ് ബാന്ധവമായിരുന്നു. അതിലേക്കായി ഐസ്ക്രീം പാർലർ
+പെൺവാണിഭക്കേസിൽ വെള്ളം ചേർത്തു. പ്രോസിക്യൂഷൻസ് ഡയറക്ടർ ജനറൽ കല്ലട സുകുമാരന്റെ റിപ്പോർട്ട്
+തള്ളി; അഡ്വക്കേറ്റ് ജനറൽ എം. കെ. ദാമോദരനിൽനിന്നു് ക്ലീൻ ചിറ്റ് വാങ്ങി <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യെ കേസിൽ നിന്നൊഴിവാക്കി. പഞ്ചായത്തു തെരഞ്ഞെടുപ്പിൽ പക്ഷേ, അടവുനയം അമ്പേ പാളി. ഏറനാടൻ
+മാപ്പിളമാർ മാർക്സിസ്റ്റ്-ലീഗ് ഐക്യത്തെ അംഗീകരിച്ചില്ല. അച്യുതാനന്ദൻ സി. പി. എമ്മിലും <ref target="https://ml.wikipedia.org/wiki/E._Ahammed">ഇ. അഹമ്മദ്</ref>
+മുസ്ലിംലീഗിലും പിടിമുറുക്കി. ഐക്യമുന്നണിയിൽ ഉറച്ചുനിൽക്കാൻ ലീഗ് നേതൃത്വം തീരുമാനിച്ചതോടെ
+സഖാക്കളുടെ പരാജയം സുനിശ്ചിതമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ma_Baby.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എ. ബേബി</figDesc>
+          </figure>
+          <p> മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">ഇ. കെ.
+നായനാരോ</ref> പാർട്ടി സെക്രട്ടറി പിണറായി വിജയനോ തെരഞ്ഞെടുപ്പിൽ മൽസരിക്കാൻ തയാറായില്ല.
+മന്ത്രിമാരായ <ref target="https://en.wikipedia.org/wiki/T._Sivadasa_Menon">ശിവദാസമേനോനും</ref>
+ശർമയും <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി
+മുഹമ്മദുകുട്ടി</ref> യും അതേ പാത പിന്തുടർന്നു. തോൽക്കുന്ന തെരഞ്ഞെടുപ്പിൽ പാർട്ടിയെ നയിക്കാൻ
+ആരുണ്ടു്? ഉത്തരം: <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദൻ</ref>.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p>വോട്ടെണ്ണിത്തീർന്നപ്പോൾ ചെങ്കൊടി താണു. 99 സീറ്റിൽ യു. ഡി. എഫ്, ഒരിടത്തു് കോൺഗ്രസ് റിബൽ.
+ഇടതുമുന്നണി വെറും 40 സ്ഥാനങ്ങളിലൊതുങ്ങി. പ്രതിപക്ഷനേതാവു് വി. എസ്. അച്യുതാനന്ദൻ, ഉപനേതാവു്
+<ref target="https://ml.wikipedia.org/wiki/Kodiyeri_Balakrishnan">കോടിയേരി
+ബാലകൃഷ്ണൻ</ref>.
+</p>
+          <p>ഉടലാകെയുലച്ചും മുഖം വക്രീകരിച്ചും ശബ്ദം ഉയർത്തിയും താഴ്ത്തിയുമുള്ള വി. എസിന്റെ സംസാരശൈലി
+മിമിക്രിക്കാർക്കു് ഹരം പകർന്നു. അച്ചുമാമയെ അനുകരിക്കുന്നതു് കൊച്ചുകുട്ടികളുടെ ഇഷ്ടവിനോദമായി. <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യെ
+ആക്രമിക്കുന്നതിൽ <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">അച്യുതാനന്ദനേ</ref>
+ക്കാൾ മികച്ചുനിന്നതു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനാ</ref>
+യിരുന്നുതാനും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/E_Ahammed.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. അഹമ്മദ്</figDesc>
+          </figure>
+          <p> അചിരേണ വി. എസ്. അരങ്ങുകീഴടക്കി. വൃക്കവാണിഭവും മതികെട്ടാൻ കൈയേറ്റവുമൊക്കെ
+ആളിക്കത്തിച്ചതു് അച്യുതാനന്ദൻ ആയിരുന്നു. മൂന്നാറിൽ ടാറ്റാ ടീ ലിമിറ്റഡ് നടത്തുന്ന കൈയേറ്റത്തെ
+അപലപിക്കാൻ ചങ്കൂറ്റം കാട്ടിയ ഏക നേതാവും അദ്ദേഹം തന്നെ. കരുണാകരന്റെ എതിർപ്പു് വ്യക്തിനിഷ്ഠവും
+അസൂയാജന്യവുമാണെങ്കിൽ അച്യുതാനന്ദന്റേതു് വസ്തുനിഷ്ഠവും കലർപ്പറ്റതുമാണെന്നു് ജനം എളുപ്പം തിരിച്ചറിഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> ജനകീയ പ്രശ്നങ്ങൾ ഉയർത്തിപ്പിടിച്ചു് അച്യുതാനന്ദൻ <ref target="https://ml.wikipedia.org/wiki/A._K._Gopalan">എ. കെ. ജി.</ref>-യാകാൻ
+ശ്രമിക്കുന്നതു് പാർട്ടിസെക്രട്ടറി പിണറായി വിജയനോ എൽ. ഡി. എഫ്. കൺവീനർ <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി
+മുഹമ്മദ്കുട്ടി</ref> ക്കോ ഇഷ്ടമായില്ല. പാർട്ടിയോ മുന്നണിയോ വി. എസിന്റെ ഇടപെടലുകളെ ഏതെങ്കിലും
+വിധത്തിൽ പിന്തുണച്ചതുമില്ല. അമ്മായിയും കുടിച്ചു പാൽക്കഞ്ഞി എന്ന മട്ടിൽ വല്ല പ്രസ്താവനയും
+നടത്തിയെങ്കിലായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> ഒരുഘട്ടത്തിൽ വി. എസിന്റെ ഇടപെടലുകൾ പിണറായിപക്ഷക്കാർക്കു് അരോചകവും
+അസഹനീയവുമായി. പ്രവാസിയെന്ന നിലക്കു് ആനുകൂല്യങ്ങൾ കൈപ്പറ്റുന്ന <ref target="https://en.wikipedia.org/wiki/P._V._Abdul_Wahab">പി. വി.
+അബ്ദുൾവഹാബ്</ref> സംസ്ഥാനത്തെ സ്ഥിരതാമസക്കാരനായി നടിച്ചു് രാജ്യസഭാംഗമാകുന്നതിനെ
+അച്യുതാനന്ദൻ എതിർത്തു. അതിസമ്പന്നനും ആപൽബാന്ധവനും സംഗതിവശാൽ കൈരളി ചാനലിന്റെ
+ഡയറക്ടറുമായ വഹാബ് പാർലമെന്റ് മെമ്പറാകുന്നതിൽ ഒരു അധാർമികതയുമില്ലെന്നായി പിണറായി സഖാവു്.
+ഗൾഫാർ ഹോട്ടലുകൾ കൈയേറിയ കോവളം കൊട്ടാരത്തിന്റെ കാര്യത്തിലുമുണ്ടായി ഇതേ പ്രതിസന്ധി.
+പണത്തിനുമീതെ പാർട്ടി പറക്കില്ല. പറക്കാൻ വി. എസിനെ പിണറായി അനുവദിക്കുകയുമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PV_Abdul_Wahab.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. വി. അബ്ദുൾവഹാബ്</figDesc>
+          </figure>
+          <p> മുത്തങ്ങയും മാറാടുംപോലുള്ള വിഷയങ്ങളിൽപോലും പിണറായിയും വി. എസും ഒത്തൊരുമിച്ചു്
+പ്രവർത്തിച്ചില്ല. മുത്തങ്ങ പ്രശ്നത്തിൽ ജുഡീഷ്യൽ അന്വേഷണം ആവശ്യപ്പെട്ടു് ഏതാനും ദിവസം പ്രതിപക്ഷ
+എം. എൽ. എ.-മാർ ഉണ്ണാവ്രതം അനുഷ്ഠിച്ചു. അവസാനം വിനോദിനി ഫോണിൽ വിളിച്ചപേക്ഷിച്ചപ്പോൾ
+(തന്വിയാണവൾ, കല്ലല്ലിരുമ്പല്ല!) ആന്റണി അലിഞ്ഞു. സി. ബി. ഐ. അന്വേഷണത്തിനു് ഉത്തരവിട്ടു. സമരവും
+തീർന്നു.
+</p>
+          <p>കോൺഗ്രസിലെ ആഭ്യന്തരക്കുഴപ്പവും അച്യുതാനന്ദന്റെ ഒറ്റയാൾ പോരാട്ടവുമാണു്. പാർലമെന്റ്
+തെരഞ്ഞെടുപ്പിൽ യു. ഡി. എഫിന്റെ കഥ തീർത്തതു്. ഇരുപതിൽ പതിനെട്ടുസീറ്റും ഇടതുമുന്നണി നേടി.
+ഒരിടത്തുമാത്രം യു. ഡി. എഫ്.; അവശേഷിച്ചതു് എൻ. ഡി. എ. ലേബലിൽ <ref target="https://ml.wikipedia.org/wiki/P._C._Thomas">പി. സി. തോമസ്</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Akg.jpg" rendition="gra"/>
+            <figDesc style="thumb">എ. കെ. ജി.</figDesc>
+          </figure>
+          <p> 2004-ലെ ഓണക്കാലത്തു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> രാജിവെച്ചു. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+പകരക്കാരനായെത്തി. അതേസമയത്തുതന്നെ കിളിരൂർ-കവിയൂർ പീഡനക്കേസുകൾ വാർത്താപ്രാധാന്യം
+നേടി. പാർട്ടിയിലെ വൻതോക്കുകൾ ഉൾപ്പെട്ടിട്ടുണ്ടെന്നറിഞ്ഞിട്ടും അച്യുതാനന്ദൻ ഇടപെട്ടു. ആശുപത്രിയിൽ
+ശാരിയെ സന്ദർശിച്ച വി. ഐ. പി. ആരു് എന്നു് സാക്ഷരകേരളം സ്വയം ചോദിച്ചു. അനഘ
+ലൈംഗികപീഡനത്തിനിരയായിട്ടില്ലെന്നു് ശ്രീമതി ടീച്ചർ തറപ്പിച്ചുപറഞ്ഞപ്പോൾ സംസ്ഥാനത്തെ മുഴുവൻ
+ഉറികളും ഊറിച്ചിരിച്ചു; പോസ്റ്റുമോർട്ടം നടത്തിയ ഡോക്ടർ അന്തംവിട്ടു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Chadayan_Govindan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചടയൻ ഗോവിന്ദൻ</figDesc>
+          </figure>
+          <p> 2004 ഒക്ടോബർ അവസാനം റജീനയുടെ വെളിപ്പെടുത്തൽ, മാധ്യമപ്രവർത്തകർക്കുനേരെ ലീഗുകാരുടെ
+കൈയേറ്റം, പൊലീസിന്റെ അതിക്രമം. <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യെ കേസിൽനിന്നൊഴിവാക്കിയവരുടെ പേരുവിവരം പുറത്തുവന്നു. വി. എസു കൂടി പങ്കെടുത്ത യോഗത്തിൽ
+പാർട്ടി തീരുമാനമനുസരിച്ചാണു് കുഞ്ഞാലിക്കുട്ടിയെ ഒഴിവാക്കിയതെന്നു് വിജയൻ വിശദീകരിച്ചു. വി. എസ്.
+അതിനെ ശക്തമായി ഖണ്ഡിച്ചു. മരിച്ചുപോയ <ref target="https://ml.wikipedia.org/wiki/Chadayan_Govindan">ചടയൻ ഗോവിന്ദ</ref>
+ന്റെ പേരും വലിച്ചിഴക്കപ്പെട്ടു. ബന്ധപ്പെട്ട രേഖകൾ പരിശോധിച്ചശേഷം പിണറായിക്കു് താൻ പറഞ്ഞതു
+തിരുത്തേണ്ടിവന്നു.
+</p>
+          <p>കുഞ്ഞാലിക്കുട്ടി രാജിവെച്ചു് റജീനയുടെ പ്രശ്നം ഒതുങ്ങിമ്പോഴേക്കും സംഘടനാ തെരഞ്ഞെടുപ്പുകൾ
+ഊർജിതമായി. ഗ്രൂപ്പു യുദ്ധം മുറുകി. നേതാക്കളുടെ ജീവിതശൈലിയും പ്രവർത്തനരീതിയും വിമർശവിധേയമായി.
+പിണറായി വിജയൻ മാസാമാസം സിംഗപ്പൂർക്കുപോകുന്നതു് ആരെക്കാണാനാണു്? ദുബൈയിൽ പ്രതിദിനം
+അമ്പതിനായിരം രൂപ വാടകയുള്ള മുറിയിൽ താമസിക്കുന്നതു് ആരുടെ ചെലവിൽ എന്നൊക്കെ വി. എസ്.
+പക്ഷക്കാർ ചോദിച്ചു. മൊകേരി കൊലക്കേസ് പ്രതികളെ തൂക്കാൻ വിധിച്ച ജഡ്ജിയോടുള്ള അതേ വികാരമാണു്
+അച്യുതാനന്ദനോടുള്ളതെന്നു് പിണറായി ഗ്രൂപ്പുകാർ തിരിച്ചടിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_C_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. തോമസ്</figDesc>
+          </figure>
+          <p> ജില്ലാതെരഞ്ഞെടുപ്പുകൾ കഴിയുമ്പോൾ അച്യുതാനന്ദനാണു് മുൻതൂക്കം. പഴയ സി. ഐ. ടി. യു. പക്ഷക്കാരുട
+പിന്തുണയോടെ വി. എസ്. സംസ്ഥാനകമ്മിറ്റി പിടിക്കുമെന്നു് നിരീക്ഷകർ പ്രവചിച്ചു. പ്രേരണ, പ്രലോഭനം,
+ഭീഷണി-ഔദ്യോഗിക വിഭാഗം ചതുരുപായങ്ങളും പയറ്റി. കേന്ദ്ര നേതൃത്വത്തിന്റെ ഇടപെടൽ
+അതിശക്തമായിരുന്നുതാനും. സംസ്ഥാനകമ്മിറ്റിയിലേക്കു വി. എസ്. പക്ഷത്തുനിന്നു് മൽസരിച്ച പന്ത്രണ്ടാളും
+പരാജിതരായി. മലപ്പുറത്തു് വിജയൻ മിന്നൽപിണറായി!
+</p>
+          <p>2005 ഫെബ്രുവരിയിൽ മന്ത്രി <ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">വിശ്വനാഥ</ref> ന്റെ
+രാജിയെത്തുടർന്നു് മറയൂരെ ചന്ദനക്കൊള്ളയും പാലക്കാട്ടെ അനധികൃത ചന്ദനഫാക്ടറികളും ചർച്ചാവിഷയമായി.
+ഇത്തവണയും ചന്ദ്രഹാസമെടുത്തതു് <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+തന്നെ. കഴിഞ്ഞ <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാർ</ref>
+സർക്കാറിന്റെ കാലത്തു് സഖാക്കളുടെ ഒത്താശയോടെയാണു് ഇവയിൽ പലതും പ്രവർത്തനം
+തുടങ്ങിയതെന്നതുവേറെ കാര്യം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/S_Sharma.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. ശർമ്മ</figDesc>
+          </figure>
+          <p> സമ്മേളാനന്തരം കാര്യങ്ങളൊക്കെ പിണറായി ആഗ്രഹിച്ചപ്രകാരം നടന്നു.
+സംസ്ഥാനസെക്രട്ടറിയേറ്റിൽനിന്നു് അച്യുതാനന്ദപക്ഷക്കാരായ <ref target="https://ml.wikipedia.org/wiki/S._Sharma">എസ്. ശർമ്മ</ref> യും <ref target="https://en.wikipedia.org/wiki/M._Chandran">എം. ചന്ദ്രനും</ref>
+ഒഴിവാക്കപ്പെട്ടു. ദേശാഭിമാനി പത്രാധിപസ്ഥാനത്തു് വി. എസിനു പകരം <ref target="https://ml.wikipedia.org/wiki/V.V._Dakshinamurty">വി. വി.
+
+ദക്ഷിണാമൂർത്തി</ref> വന്നു.
+</p>
+          <p>അതിനിടെ കോൺഗ്രസ് പിളർന്നു. 2005 മെയ് ഒന്നിനു് കരുണാകരപക്ഷക്കാർ ഡി. ഐ. സി-കെ
+രൂപവത്കരിച്ചു. ആരംഭകാലം മുതൽ ഡി. ഐ. സി.-യോടു് അനുഭാവം പുലർത്തി, പിണറായി വിജയൻ.
+മറുവശത്തു് അച്യുതാനന്ദൻ കടുത്ത കരുണാകരവിരുദ്ധനായി തുടർന്നു. അഴീക്കോട്, കൂത്തുപറമ്പ്
+ഉപതെരഞ്ഞെടുപ്പുകളിൽ ഡി. ഐ. സി. മാർക്സിസ്റ്റു സ്ഥാനാർത്ഥികൾക്കു നിരുപാധിക പിന്തുണ നൽകി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_k_sreemathi.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. ശ്രീമതി</figDesc>
+          </figure>
+          <p> പഞ്ചായത്ത്-മുനിസിപ്പൽ തെരഞ്ഞെടുപ്പുകളാകുമ്പോഴേക്കു് ഡി. ഐ. സി.-യായി പ്രധാന തർക്കവിഷയം.
+കരുണാകരന്റെ പാർട്ടിയുമായി യാതൊരുവിധ തെരഞ്ഞെടുപ്പു സഖ്യവും പാടില്ലെന്നു് അച്യുതാനന്ദൻ ശഠിച്ചു.
+അവസാനം പ്രാദേശിക തലത്തിൽ നീക്കുപോക്കു നടത്താം എന്നു് ഒത്തുതീർപ്പുണ്ടായി. തെരഞ്ഞെടുപ്പു
+പ്രചാരണം കൊടുമ്പിരിക്കൊളളവേ അഴീക്കോടൻ വധവും അടിയന്തിരാവസ്ഥയിലെ അതിക്രമങ്ങളുമൊന്നും
+ഇപ്പോൾ പ്രസക്തമല്ലെന്നും പിണറായി വിശദീകരിച്ചു.
+</p>
+          <p>സർക്കാറിനെതിരെ പ്രതിപക്ഷം കൊണ്ടുവന്ന അവിശ്വാസപ്രമേയം നനഞ്ഞ പടക്കമായി പരിണമിച്ചു.
+പിണറായി പക്ഷക്കാരായ അംഗങ്ങളുടെ ആക്രമണം തുലോം ദുർബലമായിരുന്നു. ലാവ്ലിൻ പ്രശ്നം
+ഉന്നയിച്ചുകൊണ്ടുളള പ്രത്യാക്രമണം അതിരൂക്ഷവും.
+</p>
+          <p>കഴിഞ്ഞവർഷമൊടുവിൽ നടന്ന കേരള പഠനകോൺഗ്രസ് സി. പി. എമ്മിന്റെ വലതുപക്ഷ വ്യതിയാനം
+സ്പഷ്ടമാക്കി. കരിമണൽ ലോബിയുടെ പരസ്യം സ്വീകരിച്ചതു് വിവാദമായെങ്കിലും സംഘാടക സഖാക്കൾ
+കുലുങ്ങിയില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/E_P_Jayarajan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇ. പി. ജയരാജൻ</figDesc>
+          </figure>
+          <p> 2006-ാമാണ്ടു് പുലർന്നതു് പിണറായി സഖാവിന്റെ കേരള മാർച്ചോടെയാണു്. പണക്കൊഴുപ്പുകൊണ്ടും
+ജനപങ്കാളിത്തംകൊണ്ടും ശ്രദ്ധേയമായ മാർച്ചിൽ ഡി. ഐ. സി. ബന്ധത്തെ ന്യായീകരിക്കാനാണു് സഖാവു്
+അധികസമയവും വിനിയോഗിച്ചതു്. മാർച്ച് തിരുവനന്തപുരത്തു് സമാപിക്കുമ്പോഴേക്കും ഡി. ഐ. സി.-ക്കെതിരെ
+സി. പി. ഐ.-യും ആർ. എസ്. പി.-യും രംഗത്തു വന്നു. ഇടതുപക്ഷ ഐക്യം ശിഥിലമായി.
+</p>
+          <p>ഡി. ഐ. സി.-യുമായി നീക്കുപോക്കോ ധാരണയോ പാടില്ല എന്ന കേന്ദ്ര തീരുമാനം വന്നതിനുപിന്നാലെ
+ലാവ്ലിനെ സംബന്ധിച്ച സി. എ. ജി. റിപ്പോർട്ടുകൂടിയായപ്പോൾ പിണറായി പതറി. മുഖ്യമന്ത്രിസ്ഥാനത്തേക്കുള്ള
+സാധ്യത തീരേ മങ്ങി. അത്യസാധാരണ സാഹചര്യങ്ങളിലേ സംസ്ഥാന സെക്രട്ടറി മൽസരിക്കാനാവൂ എന്ന
+കീഴ്‌വഴക്കം നിലവിലുണ്ടുതാനും.
+</p>
+          <p>പോളിറ്റ്ബ്യൂറോ അംഗം, ഇപ്പോഴുള്ളതിൽ ഏറ്റവും മുതിർന്ന നേതാവു്, കാലാവധി തീരുന്ന സഭയിലെ
+പ്രതിപക്ഷ നേതാവു്, അഴിമതിക്കും സകലവിധ സാമൂഹികതിന്മകൾക്കുമെതിരെ കുരിശുയുദ്ധം പ്രഖ്യാപിച്ചു്
+ജനപ്രീതി നേടിയ ആൾ എന്നീ നിലകളിൽ മുഖ്യമന്ത്രിസ്ഥാനത്തേക്കു് പരിഗണിക്കപ്പെടേണ്ടതു് വി. എസിന്റെ
+പേരാണു്. എന്നാൽ വി. എസ്. അച്യുതാനന്ദൻ മുഖ്യമന്ത്രിയാകുന്നതു് പിണറായിക്കു സഹിക്കുമോ? ‘വികസന’
+അജണ്ട തയാറാക്കി കാത്തിരിക്കുന്ന സഖാക്കൾക്കു താങ്ങാനാകുമോ? പ്രബലമായ
+ചന്ദന-കരിമണൽ-ഹവാലാലോബികൾക്കു് അംഗീകരിക്കാൻ കഴിയുമോ?
+</p>
+          <p>കേന്ദ്രകമ്മിറ്റി അംഗങ്ങൾ കോപാകുലരായി: ഇയാൾ മൽസരിച്ചാൽ ന്യൂനപക്ഷങ്ങൾ വോട്ടുചെയ്യില്ല.
+പാർട്ടിയെ സ്നേഹിക്കുന്ന ഇടത്തരക്കാരുടെ വോട്ടും കിട്ടില്ല. ഇയാൾ കരിമണൽ ഖനനത്തെ എതിർത്തില്ലേ?
+കഞ്ചിക്കോട്ടെ ചന്ദനഫാക്ടറികൾ പൂട്ടണമെന്നു പറഞ്ഞില്ലേ? സ്മാർട്ട്സിറ്റിയെയും മെട്രോ റെയിലിനെയും
+അപലപിച്ചില്ലേ? എക്സ്പ്രസ് ഹൈവേ ആവശ്യമെന്നു ശഠിച്ചില്ലേ? ഐസ്ക്രീം പാർലർ കേസിൽ പ്രോസിക്യൂട്ടറെ
+മാറ്റാൻ ഹരജി കൊടുത്തില്ലേ? വികസനവിരുദ്ധൻ, ന്യുനപക്ഷ വിരോധി, കടുംപിടിത്തക്കാരൻ, കാപാലികൻ,
+കശ്മലൻ. ഇവനെ ക്രൂശിക്ക, ബറാബാസിനെ വിട്ടയക്കുക!
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thomas_Issac.jpg" rendition="gra"/>
+            <figDesc style="thumb">തോമസ് ഐസക്ക്</figDesc>
+          </figure>
+          <p> സംസ്ഥാന സെക്രട്ടേറിയറ്റിലും ഇതേ വികാരം അലയടിച്ചു: പാർട്ടിക്കതീതനായല്ലേ ഇയാൾ ഇത്രകാലം
+പ്രവർത്തിച്ചതു് ? കോവളം കൊട്ടാരത്തിൽ സമരത്തിനുപോകുംമുമ്പു് പാർട്ടിയുടെ അനുവാദം വാങ്ങിയോ?
+പെൺവാണിഭകേസുകൾ കുത്തിപ്പൊക്കിയതു് പാർട്ടിയെ അപകീർത്തിപ്പെടുത്താനല്ലേ? ഇയാൾക്കു
+ജനപിന്തുണയുണ്ടെന്നു പറഞ്ഞതാരാണു്? കഴിഞ്ഞ മൂന്നു തെരഞ്ഞെടുപ്പിൽ ഇയാളെ ഉയർത്തിക്കാട്ടിയിട്ടു്
+എന്തുഫലമായി? മലപ്പുറം സമ്മേളനത്തിൽ ഇദ്ദേഹം നിറുത്തിയ ഒരു സ്ഥാനാർത്ഥിയെങ്കിലും ജയിച്ചോ? ഈ
+മഹാനേതാവിനു് വോട്ടെടുപ്പിൽ 64-ാം സ്ഥാനമല്ലേ കിട്ടിയുള്ളൂ?
+</p>
+          <p>അങ്ങനെ വി. എസ്. മൽസരിക്കേണ്ട എന്നു തീരുമാനമായി. <ref target="https://ml.wikipedia.org/wiki/M.A._Baby">എം. എ. ബേബി</ref>, <ref target="https://ml.wikipedia.org/wiki/Thomas_Isaac">തോമസ് ഐസക്ക്</ref>,
+<ref target="https://ml.wikipedia.org/wiki/E.P._Jayarajan">ഇ. പി.
+ജയരാജൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.K._Sreemathi">പി. കെ. ശ്രീമതി</ref>
+മുതൽപേർ മൽസരിക്കാനും തീരുമാനിച്ചു. <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി മുഹമ്മദ്
+കുട്ടി</ref> യായിരിക്കും മുഖ്യമന്ത്രി എന്നും ധാരണയായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kvpathrose.png" rendition="gra"/>
+            <figDesc style="thumb">കെ. വി. പത്രോസ്</figDesc>
+          </figure>
+          <p> പാലോളി സഖാവു് മുഖ്യമന്ത്രിയാവുന്നതോടെ മുസ്ലിംകൾ ഒന്നടങ്കം പാർട്ടിയിൽ ചേരും. അതോടെ
+ലീഗിന്റെ കടപൂട്ടും എന്നാണു് പ്രത്യാശ. മൽസരരംഗത്തുനിന്നു് ഒഴിവാക്കപ്പെട്ട വി. എസ്. തെരഞ്ഞെടുപ്പു
+പ്രചാരണത്തിനു് നേതൃത്വം നൽകും. എല്ലാ ജനാധിപത്യവിശ്വാസികളും ഒറ്റക്കെട്ടായി പ്രവർത്തിച്ചു് ഇടതുപക്ഷ
+ജനാധിപത്യ മുന്നണിയെ വിജയിപ്പിക്കണം. അതുവഴി ജന്മി-മുതലാളി-പൗരോഹിത്യ കൂട്ടായ്മയെ തകർക്കണം.
+</p>
+          <p>തെരഞ്ഞെടുപ്പിൽ മൽസരിക്കാൻ യോഗ്യനല്ലാത്തയാൾ പ്രചാരണത്തിനു് നേതൃത്വം നൽകുന്നതിന്റെ
+ഔചിത്യം ചിന്തനീയം. പക്ഷേ, ഇതു സി. പി. എമ്മാണു്. ഈ പാർട്ടിയിൽ ജനാധിപത്യം എന്നാൽ ജനങ്ങളുടെ
+മേലുള്ള ആധിപത്യം എന്നാണു് അർത്ഥം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_Gangadharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ഗംഗാധരൻ</figDesc>
+          </figure>
+          <p>ആടിനെ പട്ടിയാക്കാനും പേപ്പട്ടിയാക്കി തല്ലിക്കൊല്ലാനുമുള്ള നേതാക്കളുടെ കഴിവിനുമുന്നിൽ
+പകച്ചുനിൽക്കുകയാണു് ജനം. അവർ അൽപാൽപം പ്രതികരിക്കുന്നുണ്ടു്. പിണറായിയുടെ കോലം
+കത്തിക്കുന്നതാണു് ഇപ്പോഴത്തെ ഫാഷൻ.
+</p>
+          <p>കോലാഹലമുണ്ടാക്കിയാലോ കോലം കത്തിച്ചാലോ കുലുങ്ങുന്നയാളല്ല സഖാവു് വിജയൻ. സി. പി. എമ്മിൽ
+യാതൊരു പ്രശ്നവുമില്ലെന്നും സകലതും ബൂർഷ്വാ മാധ്യമങ്ങളുടെ കുപ്രചാരണമാണെന്നും സഖാവു് ആണയിടുന്നു.
+പറയുന്നതു് വിജയനായതിനാൽ സത്യമാകാനേ തരമുള്ളൂ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/K_Chathunni.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ചാത്തുണ്ണിമാസ്റ്റർ</figDesc>
+          </figure>
+          <p> 2006 മെയ് 11-നു് വോട്ടെണ്ണിത്തീരുമ്പോൾ ഇടതുമുന്നണിക്കു് വൻ ഭൂരിപക്ഷം കിട്ടും എന്നു് ഉറപ്പാണു്.
+പാലോളി സഖാവു് മുഖ്യമന്ത്രിയായി സത്യവാചകം ചൊല്ലി അധികാരമേൽക്കും. പിന്നെ പിണറായിയുടെ
+പദുകംവെച്ചു് ഭരിക്കും. കരിമണൽ ഖനനം നിർബാധം നടക്കും. എക്സ്പ്രസ് ഹൈവേയിലൂടെ വാഹനങ്ങൾ
+ചീറിപ്പാഞ്ഞുപോകും. എ. ഡി. ബി.-യിൽനിന്നു് ചരടില്ലാത്ത വായ്പകൾ മാത്രം സ്വീകരിക്കും. മറയൂരെ
+അവസാനത്തെ മരവും മുറിച്ചുതീരുംവരെ കഞ്ചിക്കോട്ടെ ചന്ദന ഫാക്ടറികൾ പ്രവർത്തിക്കും. സഖാവു് കുന്നന്താനം
+ലതാനായർ അധ്യക്ഷയായി വനിതാകമ്മീഷൻ പുനഃസംഘടിപ്പിക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Obharathan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഒ. ഭരതൻ</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പും സത്യപ്രതിജ്ഞയും കഴിഞ്ഞാലുടൻ വി. എസ്. അച്യുതാനന്ദനെ ന്യൂറംബർഗ് മാതൃകയിൽ
+വിചാരണ ചെയ്യും. പാർട്ടി നേതൃത്വത്തെ ധിക്കരിച്ചു, വികസനത്തിനു തുരങ്കംവെച്ചു, ന്യൂനപക്ഷങ്ങളെ വെറുപ്പിച്ചു
+എന്നിവയായിരിക്കും ചാർജുകൾ. പാവങ്ങളുടെ പടത്തലവൻ, പുന്നപ്ര സമരനായകൻ എന്നീ ജനകീയ
+ബിരുദങ്ങൾ തിരിച്ചെടുത്തശേഷം പാർട്ടിയിൽ നിന്നു് പുറത്താക്കും, പടിയടച്ചു പിണ്ഡവും വെക്കും. കെ. വി.
+പത്രോസ്, <ref target="https://ml.wikipedia.org/wiki/P._Gangadharan">പി.
+ഗംഗാധരൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/K._Chathunni">കെ.
+ചാത്തുണ്ണിമാസ്റ്റർ</ref>, <ref target="https://ml.wikipedia.org/wiki/P.V._Kunjikannan">പി. വി.
+കുഞ്ഞിക്കണ്ണൻ</ref>, പുത്തലത്തു നാരായണൻ, <ref target="https://ml.wikipedia.org/wiki/O._Bharathan">ഒ. ഭരതൻ</ref>
+എന്നിവരെപ്പോലെ വി. എസും വിസ്മൃതിയിൽ മറയും.
+</p>
+          <p>2006 ഒക്ടോബർ 21 മുതൽ 27 വരെ തീയതികളിൽ പുന്നപ്ര-വയലാർ സമരത്തിന്റെ വജ്രജൂബിലി ഗംഭീരമായി
+ആഘോഷിക്കും. കേന്ദ്ര-സംസ്ഥാന നേതാക്കൾ പങ്കെടുക്കും. സ്മരണകളിരമ്പുന്ന രണസ്മാരകത്തിൽ
+സമരപുളകങ്ങൾതൻ സിന്ദൂരമാലകൾ ചാർത്തും.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Kaththaathe Baakkiyaaya Oru
+Kolam (ml: കത്താതെ ബാക്കിയായ ഒരു കോലം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Kaththaathe Baakkiyaaya Oru Kolam, കെ. രാജേശ്വരി, കത്താതെ ബാക്കിയായ ഒരു കോലം, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 18, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.m.wikipedia.org/wiki/File:Parti_af_Frederiksholms_Kanal_1794.jpg">Part
+of Frederiksholms Kanal,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Christian_August_Lorentzen">Christian
+August Lorentzen</ref>  (1749–1828). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-kolam.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-kolam.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

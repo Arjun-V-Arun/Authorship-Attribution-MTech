@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തുരുമ്പിന്റെ തിളക്കം</title>
+          <title xml:lang="en" type="main">Thurumbinte Thilakkam</title>
+        </title>
+        <author>Madhusudhanan</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">February 4, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തുരുമ്പിന്റെ തിളക്കം</title>
+              <title xml:lang="en" type="main">Thurumbinte Thilakkam</title>
+            </title>
+            <author>Madhusudhanan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Madhusudhanan</term>
+          <term>Thurumbinte Thilakkam</term>
+          <term>മധുസൂദനൻ</term>
+          <term>തുരുമ്പിന്റെ തിളക്കം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 4, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/madhu-ubunadakam-07.jpg" width="100%"/>
+          <figDesc>Gopalan Krishnan, a photograph by Raneesh Raveendran  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തുരുമ്പിന്റെ തിളക്കം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>മധുസൂദനൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തുരുമ്പിന്റെ തിളക്കം</head>
+        <div type="lsection">
+          <p style="noindent">(ദീപൻ ശിവരാമൻ സംവിധാനം ചെയ്തു് അവതരിപ്പിച്ച ‘ഉബുറോയ്’ നാടകത്തെ
+കുറിച്ചു്)
+</p>
+          <p>വർഷങ്ങൾക്കുമുമ്പു് തിരുവനന്തപുരത്ത് ചിത്രകലാ വിദ്യാർത്ഥിയായിരിക്കുമ്പോഴാണു് ഞാൻ ആദ്യമായി
+ഉബുറോയിയെ അറിയുന്നതു്. ഒരു വുഡ്കട്ടിന്റെ രൂപത്തിൽ. നാടകം വായിക്കുന്നതിനും മുമ്പാണതു്. പില്ക്കാലത്തു്
+ഗുന്തർഗ്രാസ്സ് ടിൻഡ്രമ്മിനു വരച്ച ഓസ്കറിന്റെ ചിത്രം പോലെ മൗലികത കൊണ്ടു് അതിശയകരമായ വെളിച്ചം
+പ്രസരിപ്പിക്കുന്ന ആ ചെറിയചിത്രം എല്ലാക്കാലത്തേയ്ക്കും എനിക്കു പ്രിയപ്പെട്ടതായി മാറി. വുഡ്കട്ടിലെ
+ഉബുറോയിയുടെ വീർത്ത വയറിൽ ഗർഭപാത്രം തിരയുന്ന ചുരുൾരേഖകളുണ്ടു്. അയാളുടെ വലതുകരം
+പോക്കറ്റിലാണു്. രണ്ടു ത്രികോണങ്ങളിലൂടെ അയാൾ ലോകത്തെ കാണുന്നു. മോശെയുടെ മാന്ത്രികവടി അയാൾ
+കക്ഷത്തിൽ കരുതിയിട്ടുണ്ടു്. മുഖമാകെ മൂടിയ അയാളുടെ ശിരസ്സിൽ ഗോയയുടെ ഇൻക്യുസിഷൻ പെയിന്റിങിലെ
+മനുഷ്യരിലെന്നപോലെ നീളൻ തൊപ്പി. അയാൾ നമ്മുടെയിടയിലെ, നമ്മുടെ കാലത്തിൽ ജീവിച്ചിരിക്കുന്ന
+ആരെയോ ഓർമ്മിപ്പിക്കുന്നില്ലേ? അതല്ലെങ്കിൽ കഴിഞ്ഞ കാലത്തിലെ മുസ്സോളിനിയെ? അഡോൾഫ്
+ഹിറ്റ്ലറെ? ചാപ്ലിൻ സിനിമയിലെ, ജനങ്ങളോടു് സംസാരിക്കുമ്പോൾ പാന്റിനുള്ളിലേക്കു് കുടിവെള്ളമൊഴിക്കുന്ന,
+ഭരണാധികാരിയെ…?
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-08.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>സമകാലീന രാഷ്ട്രീയത്തിലെ ഭരണാധികാരികളെ ഓർമ്മിപ്പിക്കുന്നതാണു് ഉബുറോയിയുടെ മുഖവും, ശരീരവും.
+1896-ൽ ആൽഫ്രഡ് ജാറി എഴുതിയ ഉബുറോയി നാടകം തുടർന്നുള്ള എല്ലാദിവസവും പുതുക്കിക്കൊണ്ടിരിക്കുന്നു.
+എല്ലായ്പോഴും അതു് സമകാലീനമായിക്കൊണ്ടിരിക്കുന്നു. ജാറി വരച്ച ത്രികോണ കണ്ണുകളും കൂർമ്പൻ തൊപ്പിയും
+ഇന്നത്തെ ഏതു് അധികാരിക്കും ചേരുന്നതായി. നാടകത്തിലെ അബ്സെർഡിറ്റിയും രക്തച്ചൊരിച്ചിലും
+തെറിവിളികളും സമകാലീനതയുടെ മുഖങ്ങളായി. ഉക്രെയ്നിലെയും പലസ്റ്റീനിലെയും യുദ്ധക്കെടുതികൾ
+ഉബുറോയി നാടകത്തിലും വായിക്കാമെന്നായി. ഒ വി വിജയൻ ‘ ധർമ്മപുരാണത്തിൽ’ വിവരിക്കുന്ന
+മാലിന്യരാഷ്ട്രീയത്തിന്റെ അഗാധമായ കിടങ്ങുകളിലായി നമ്മളോരോരുത്തരുടെയും ജീവിതം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-05.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>രംഗത്തു് അവതരിപ്പിക്കുവാൻ പ്രയാസമുള്ള നാടകമാണു് ഉബുറോയ്. 2024 ഡിസംബർ 29-നു് കൊടകരയിൽ
+ദീപൻ ശിവരാമൻ സംവിധാനം ചെയ്ത ഉബുറോയി നാടകം കണ്ടപ്പോൾ അത്ഭുതപ്പെട്ടുപോയി. യൂറോപ്പിൽ
+ആധുനികതയുടെ വരവു പ്രഖ്യാപിച്ച, പുതുമ കൊണ്ടു് പാബ്ലോ പിക്കാസോ പോലും അമ്പരന്നുപോയ നാടകം
+കേരളത്തിലെ ഗ്രാമാന്തരീക്ഷത്തിൽ അവതരിപ്പിച്ചു വിജയിപ്പിക്കുക ശ്രമകരമായ ഒരു ജോലിയാണു്.
+
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-11.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>ആധുനികയ്ക്കു മുമ്പേ ഇരുപത്തിമൂന്നു വയസ്സുകാരൻ ആൽഫ്രഡ് ജാറി സ്റ്റേജിൽ അവതരിപ്പിച്ച
+ഫാഷിസത്തിന്റെ കിരാതലോകം സർറിയൽ ഇമേജറികളാൽ സങ്കീർണ്ണമാണു്. മൂലകൃതിയിലെ ഭയാനകമായ
+രാത്രികൾ വിട്ടുവീഴ്ചകളില്ലാതെയാണു് ദീപൻ മലയാളത്തിലേക്കു് പാരാവർത്തനം ചെയ്തിരിക്കുന്നതു്. ഉബുവിന്റെ
+ആഭാസനടത്തം, പോളണ്ടിലെ രാജകുടുംബത്തിന്റെ രംഗപ്രവേശം, കശാപ്പു ചെയ്യപ്പെട്ടവരുടെ നിലവിളികൾ,
+ആഘോഷത്തിമർപ്പിൽ ഉബുവിന്റെ അംഗരക്ഷകരുടെ മാർച്ച് എല്ലാം അതുതന്നെ, ഒന്നാംതരം ഒറിജിനൽ!
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-06.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>ഫാഷിസത്തിന്റെ അടിസ്ഥാനം അടിച്ചമർത്തപ്പെട്ട ലൈംഗികതയാണെന്നു വിൽഹേം റൈക് തന്റെ
+‘ഫാഷിസത്തിന്റെ ആൾക്കൂട്ട മനഃശാസ്ത്രത്തിൽ’ വിശദീകരിക്കുന്നുണ്ടു് (Wilhelm Reich: Mass Psychology of
+Fascism). ഫാഷിസ്റ്റുകൾ അള്ളിപ്പിടിച്ചു ചുമരിൽ കയറുകയും, (Great Dictator, Charlie Chaplin)
+പൊതുയിടങ്ങളിൽ തോന്നുമ്പോഴൊക്കെ മലവിസർജനം നടത്തുകയും (Ubu Roi: Deepan Sivaraman)
+ഗർഭിണികളെയും കുഞ്ഞുങ്ങളെയും ചുമ്മാ രസത്തിനു കൊല്ലുകയുമൊക്കെ (Les Carabiniers: Jean Luc
+Godard) ചെയ്യും. അവർ അടങ്ങിയിരിക്കുന്ന സ്വഭാവക്കാരല്ല. രാത്രിയിലാകട്ടെ ഇവരിൽ കൂടിയ ഇനത്തിൽപെട്ട
+ചിലർ ചാട്ടവാറുകൊണ്ടു് സ്വന്തം പുറത്തടിച്ചു വേദനിച്ചു ചുമരിനോടു് കുമ്പസാരിക്കും. അവർ നല്ല പെയിന്റിങുകൾ
+വരയ്ക്കുകയുമില്ല, കാണുകയുമില്ല, എന്നാൽ അവ തീയിട്ടു ചുട്ടു രസിക്കും (De Genarated Art: Germany—1937).
+നല്ല പുസ്തകങ്ങൾ വായിക്കുകയില്ല, നശിപ്പിക്കും (Book Burning: Germany—1933).
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-09.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">കല്ലു കല്യാണി: ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>ദീപന്റെ ഉബു റോയിയും ഏകാന്തത അനുഭവിക്കുന്നവനും, ഒ വി വിജയന്റെ പ്രജാപതിയെപ്പോലെ സ്വന്തം
+മലം മറ്റുള്ളവരെ തീറ്റിക്കുന്നതിൽ സന്തോഷം അനുഭവിക്കുന്നവനുമാണു്. അയാൾ ഭാര്യ, ഉബുമയിൽ നിന്നു്
+പലപ്പോഴും ഓടിയൊളിക്കുന്നു. ഉയരം കുറഞ്ഞതും ചടുലപ്രകൃതക്കാരിയുമാണു് ഉബുമ. ഉബുവിനോടു് മല്ലിടുവാനായി
+അവൾ തന്റെ മസിലുകൾ പെരുപ്പിച്ചു വെച്ചിട്ടുണ്ടു്. ‘നിന്റെ അണ്ടി ഞാൻ ചെത്തിക്കളയും’ എന്നു് അവൾ
+ഉബുവിനോടു് ആക്രോശിക്കുന്നുണ്ടു്. ഉബു സെക്സിനെതിരെ തീറ്റയിലേക്കാണു് തിരിയുന്നതു്. അയാൾ തന്റെ വലിയ
+പ്ലേറ്റിലെ അവസാന ഭക്ഷണത്തരിയും നക്കിത്തുടച്ചുകൊണ്ടു് അവളിൽ നിന്നു് ഓടിയൊളിക്കും (ഉബുമ ആയി
+അഭിനയിച്ച കല്ലു കല്യാണി അസാധാരണമായ ഊർജമാണു് ഈ നാടകത്തിലേക്കു് കൊണ്ടുവന്നിരിക്കുന്നതു്.
+സ്റ്റേജിലെ മുഴുവൻ സ്പേസും ഉപയോഗിച്ചുകൊണ്ടുള്ള അവരുടെ അഭിനയ രീതി പുതുമയുള്ളതാണു്).
+
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-02.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>പ്രസിഡന്റിന്റെ (Alfred Jarry-യുടെ പാഠത്തിൽ പോളണ്ടിലെ രാജാവു്) വരവോടെയാണു് നാടകത്തിൽ
+കഥ കടന്നു വരുന്നതു്. Alfred Jarry ആലോചിച്ചിരുന്നതു് Shakespear-ന്റെ Macbeth-നു് ഒരു
+പാരഡിയുണ്ടാക്കുവാനായിരുന്നു. മാക്ബത്തിന്റെ ഒരു ചരടു് ഉബു നാടകത്തിലൂടെ കയറിയിറങ്ങുന്നതു് കാണാം.
+പ്രസിഡന്റിന്റെയും കുടുംബത്തിന്റെയും ആഘോഷമായുള്ള വരവു് ചാപ്ളിന്റെ Great Dictator എന്ന
+സിനിമയിലെ ഹിറ്റ്ലരുടെയും മുസ്സോളിനിയുടെയും വരവിനെ ഓർമിപ്പിക്കും. തെരുവോരത്തുള്ള ജനങ്ങളെ
+അഭിവാദ്യംചെയ്തുകൊണ്ടാണു് പ്രസിഡണ്ടും ഭാര്യയും മകനും കാറിൽ കടന്നുവരുന്നതു്. പിന്നീടു് ഈ കാർ
+അവരുടെ ശയനമുറി ആകുന്നുണ്ടു്. പ്രസിഡന്റിനെ കൊല്ലുന്നതോടെ അധികാരം പൂർണമായും ഉബുവിന്റെ
+കയ്യിലാകുന്നു. അധികാരത്തിന്റെ പാപം പേടിസ്വപ്നങ്ങളിലൂടെ ഭാര്യയെയും മകനേയും വേട്ടയാടുന്നതും അതേ
+മുറിയിൽ വച്ചാണു്, പ്രസിഡന്റിന്റെ അർഭാടത്തോടെയുള്ള വരവും മരണവും അഭിനയിച്ചു ഫലിപ്പിച്ചതു്
+ഗോപാലനാണു് (ഗോപാലൻ കൃഷ്ണൻ). ഈ നാടകത്തിലെ അതീവ ഗംഭീരങ്ങളായ മുഹൂർത്തങ്ങളായി ഈ
+സീനുകൾ മാറി. കേരളത്തിൽ ഇന്നു ജീവിച്ചിരിക്കുന്നവരിൽ ഏറ്റവും മികച്ച നടനാണു് ഗോപാലൻ. ഈ നാടകവും
+അതു ശരിവയ്ക്കുന്നുണ്ടു്. അധികാരം പലതായി പെരുകുന്ന ദീർഘഭാഷണത്തിന്റെ ലഹരിയിലാണു് പ്രസിഡന്റ്
+കാറിലൂടെ ഒഴുകുന്നതു്. അയാളുടെ മരണശേഷം ഗോപാലൻ മറ്റൊരു കഥാപാത്രമായി സയിന്റിസ്റ്റിന്റെ
+വേഷത്തിൽ രംഗത്തു വരുന്നുണ്ടു്. വളരെ വർഷങ്ങളായുള്ള നിരന്തര പ്രരിശ്രമത്തിലൂടെ ഗോപാലൻ
+നേടിയെടുത്തതാണു് പരിപക്വമായ ഈ അഭിനയ ശൈലി. അതു് പൂർണത നേടുന്നതു് ദീപന്റെ
+നാടകങ്ങളിലുംകൂടിയാണെന്നു തോന്നുന്നു. മൂന്നു നാടകങ്ങളാണു് ഞാനിതുവരെ ദീപന്റേതായി കണ്ടിട്ടുള്ളതു്.
+സ്പയിനൽ കോഡ് (Spinal Cord) പിയർ ജെന്റ് (Peer Gynt) ഇപ്പോൾ ഉബുറോയിയും. ഈ മൂന്നു
+നാടകങ്ങളിലും ഗോപാലൻ എന്ന നടന്റെ അഭിനയഭാഷാ സാന്ദ്രത ഏറിയേറി വരുന്നതുകാണാം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-03.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>പ്രസിഡന്റിന്റെ മകന്റെ ഉറക്കത്തിലേയ്ക്കു് നീണ്ടുവരുന്ന ദുഃസ്വപ്നം ഭീമാകാരമായ ഒരു അസ്ഥികൂടത്തിന്റെ
+രൂപത്തിലാണു്. പാർവതാകാരമുള്ള പാപം മകനെ സുഖകരമായ ഉറക്കത്തിൽ നിന്നും ഞെട്ടിയുണർത്തുന്നു.
+അയാളെ പിന്നീടു് പാപത്തിനു്, അധികാര ദുർവിയോഗത്തിനു് എതിരായി പ്രവർത്തിക്കാൻ
+കെൽപ്പുള്ളവനാക്കുന്നതു് പാപത്തിന്റെ ഈ അസ്ഥികൂടമാണെന്നു പറയാം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-04.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>പാവകളും, മാസ്കുകളും, കേടുവന്ന യന്ത്രങ്ങളുമുപയോഗിച്ചുകൊണ്ടു് സർക്കസ്സിലെന്നപോലെ വലിയ
+സ്പേസിലുള്ള അവതരണരീതിയാണു് ദീപന്റേതു്. പഴക്കം മൂലം തുരുമ്പുവന്ന സാധനങ്ങൾ കൊണ്ടു്
+ഉണ്ടാക്കിയെടുത്ത വസ്തുക്കളാണു് പലപ്പോഴും നാടകത്തെ ഭരിക്കുന്നതു്. ഉള്ളിലിരുന്നു് ഒരാൾ പ്രവർത്തിപ്പിക്കുന്ന
+യന്ത്രപ്പാവയാണു് അസ്ഥികൂടം. സ്വപ്നത്തിലെന്ന പോലെ സാവധാനത്തിൽ ഉള്ളിലെ മനുഷ്യനോടൊപ്പം
+പ്രത്യക്ഷപ്പെടുന്ന യന്ത്രപ്പാവ ഇരുട്ടിൽ നടന്നു് തുരുമ്പിന്റെ തിളക്കം കാണിച്ചു പേടിപ്പിക്കും. അധികാര രാഷ്ട്രീയം
+ജനിപ്പിച്ച ഫാഷിസത്തിന്റെ കടന്നു വരവാണതു്.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-07.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഗോപാലൻ കൃഷ്ണൻ: ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>ഇറ്റലിയിൽ ആയിരത്തി തൊള്ളായിരത്തി അറുപതുകളിൽ ഉപയോഗശൂന്യമായ വസ്തുക്കളുപയോഗിച്ചു്
+അല്ലെങ്കിൽ പാരമ്പര്യേതര വസ്തുക്കളുപയോഗിച്ചു് കോർപറേറ്റ് മാനസികാവസ്ഥയെ ആക്രമിച്ച
+കലാപ്രസ്ഥാനമായിരുന്നു Arte Povera. ഒരർത്ഥത്തിൽ അവരാക്രമിച്ചതു് ഇറ്റലിയിൽ തന്നെ രൂപംകൊണ്ട
+ഫാഷിസ്റ്റ് മനോഘടനയെ തന്നെയാണെന്നു തോന്നുന്നു. ഉബുറോയിയുടെ മലയാളം ആവിഷ്കാരത്തിൽ
+സെറ്റുകളും പാവകളും മറ്റുവസ്തുക്കളും ഉപയോഗിച്ചിരിക്കുന്നതിൽ Arte Povera-യുടെ സ്വാധീനം കാണാം.
+ദീപനോ വസ്തുക്കൾ നിർമിച്ച ആന്റോയൊ (Anto K G) അറിഞ്ഞുകൊണ്ടാവണമെന്നില്ല ഈ സ്വാധീനം കടന്നു
+വരുന്നതു്. Arto povera ഇരുപത്തിയൊന്നാം നൂറ്റാണ്ടിന്റെ കലയിൽ നിർണ്ണായകമായ സ്വാധീനം ചെലുത്തിയ
+കലാപ്രസ്ഥാനമാണു്. Arte povera-യുടെ പാഴ്ത്തടികളും തുരുമ്പുപിടിച്ച ലോഹത്തകിടും, ഉപയോഗശൂന്യമായ
+വസ്ത്രങ്ങളും സമകാലീന കലയിലെ പ്രതിഷ്ഠാപനങ്ങളിൽ നിരന്തരം പ്രയോഗിക്കപ്പെടുന്നതു കാണാം.
+സമകാലീനകലയിൽ പ്രശസ്തനായ അന്റോയാണു് നാടകത്തിന്റെ പ്രോപ്സ് നിർമിച്ചിരിക്കുന്നതു് എന്നതുകൊണ്ടു്
+സ്വാഭാവികമായ പരിണതി എന്നു തന്നെ ഇതിനെ മനസ്സിലാക്കാം. ആന്റോ നിർമിച്ച വസ്തുക്കൾ ഉബുറോയിയ്ക്കു്
+അസാധാരണമായ തിളക്കം കൊണ്ടുവന്നിട്ടുണ്ടു്. അതുകൊണ്ടു് കേരളത്തിലുണ്ടായ അർത്ഥവത്തായ,
+ബ്രഹത്തായ ഒരു installation art ആയും ഈ നാടകത്തെ കാണാൻ കഴിയും.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-01.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ആന്റോ കെ. ജി.: ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+          <p>ദീപൻ ഉബുവിന്റെ ആഘോഷങ്ങൾ രംഗത്തു കൊണ്ടുവരുന്നതു് ഓലച്ചൂട്ടിന്റെ വെളിച്ചത്തിലാണു്.
+കേരളത്തിലെ അടിച്ചമർത്തപ്പെട്ടവരുടെ ഉത്സവങ്ങളായ തെയ്യാവിഷ്കാരങ്ങളിൽ കത്തിച്ച അതേ ചൂട്ടിന്റെ
+വെളിച്ചത്തിൽ. ഇതിനൊരു തുടർച്ചയുടെ ഓർമ്മ കൂടിയുണ്ടു്. അടിയന്തിരാവസ്ഥയ്ക്കു ശേഷമുള്ള ഇരുട്ടിൽ കെ. ജെ.
+ബേബി ‘നാടുഗദ്ദിക’യിലൂടെ കേരളത്തിലെ തെരുവുകളിൽ കൊണ്ടുവന്ന പന്തങ്ങളുടെ വെളിച്ചം. അതു് ദീപൻ
+ശിവരാമനിലേക്കു് കൈമാറുകയാണു്. മലയാളനാടകവേദി ദീപനിലൂടെ ഉയിർത്തെണീക്കുകയാണു് എന്നും
+പറയാം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhu-ubunadakam-10.jpg" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ദീപൻ ശിവരാമൻ: ഫോട്ടോ റെനീഷ് രവീന്ദ്രൻ.</figDesc>
+          </figure>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">മധുസൂദനൻ</head>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhusudanan.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ആലപ്പുഴ ജില്ലയിലെ കടലോരപ്രദേശത്തു ജനിച്ചു. തിരുവനന്തപുരം ഫൈൻ ആർട്ട് കോളജിൽ നിന്നും
+ബറോഡയിലെ എം. എസ്. യൂണിവേഴ്സിറ്റിയിൽ നിന്നും കലാപരിശീലനം. ഇപ്പോൾ സമകാലീനകലയിൽ
+സാധ്യമാവുന്ന എല്ലാ മാധ്യമങ്ങളും ഉപയോഗിച്ചു് കലാപ്രവർത്തനം നടത്തുന്നു. കലാപ്രവർത്തനങ്ങൾക്കായി
+ഫിലിം എന്ന മാധ്യമം വിദഗ്ദമായി ഉപയോഗിച്ചതിനു് ന്യൂയോർക്കിലെ മ്യൂസിയം ഓഫ് മോഡേൺ ആർട്ടിൽ നിന്നു്
+രണ്ടു തവണ ആദരം. ‘മാർക്സ് ആർകൈവ്’ എന്ന ഇൻസ്റ്റലേഷൻ രണ്ടാമത്തെ കൊച്ചി മുസരീസ്
+ബിയനാലെയിൽ പ്രദർശിപ്പിച്ചിരുന്നു. 2015-ലെ വെനീസ് ബിയനാലെയിൽ ‘മാർക്സ് ആർകൈവ്’, ‘പീനൽ
+കോളനി’ എന്നീ ഇൻസ്റ്റലേഷനുകൾ പ്രദർശിപ്പിച്ചിട്ടുണ്ടു്. ‘ബയസ്ക്കോപ്’ എന്ന സിനിമക്കു് മൂന്നു് അന്തർദേശീയ
+പുരസ്കാരങ്ങൾ. ബയസ്ക്കോപ് അഞ്ചു സംസ്ഥാന പുരസ്കാരങ്ങളും ദേശീയ അവാർഡും നേടിയിരുന്നു. ഡൽഹിയിലും
+കേരളത്തിലുമായി ജീവിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thurumbinte Thilakkam (ml:
+തുരുമ്പിന്റെ തിളക്കം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Madhusudhanan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Madhusudhanan,
+Thurumbinte Thilakkam, മധുസൂദനൻ, തുരുമ്പിന്റെ തിളക്കം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 4, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Gopalan Krishnan, a photograph
+by Raneesh Raveendran  . The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/madhu-ubunadakam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/madhu-ubunadakam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

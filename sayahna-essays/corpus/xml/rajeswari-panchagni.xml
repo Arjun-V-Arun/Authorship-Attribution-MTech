@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">പഞ്ചാഗ്നിമധ്യത്തിൽ
+ശോഭനാജോർജ്</title>
+          <title xml:lang="en" type="main">Panchagnimadhyaththil SobhanaGeorge</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 10, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">പഞ്ചാഗ്നിമധ്യത്തിൽ
+ശോഭനാജോർജ്</title>
+              <title xml:lang="en" type="main">Panchagnimadhyaththil SobhanaGeorge</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Panchagnimadhyaththil SobhanaGeorge</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>പഞ്ചാഗ്നിമധ്യത്തിൽ ശോഭനാജോർജ്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 10, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Palm_Trees_and_Housetops.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church__Palm_Trees_and_Housetops,_Ecuador_-_Google_Art_Project.jpg">Palm Trees and
+
+Housetops, Ecuador,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Frederic_Edwin_Church">Frederic
+Edwin Church</ref>  (1826–1900). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">പഞ്ചാഗ്നിമധ്യത്തിൽ ശോഭനാജോർജ്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">പഞ്ചാഗ്നിമധ്യത്തിൽ ശോഭനാജോർജ്</head>
+        <div type="lsection">
+          <lg>
+            <l> ശുചൗ ചതുർണാം ജ്വലതാം</l>
+            <l> ഹവിർഭുജാം</l>
+            <l> ശുചിസ്മിതാ മധ്യഗതാ സുമധ്യമാ.</l>
+            <l> വിജിത്യ നേത്രപ്രതിഘാതിനീം പ്രഭാ- </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent"/>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Shobhana_George.png" rendition="gra"/>
+            <figDesc style="thumb">ശോഭനാ ജോർജ്</figDesc>
+          </figure>
+          <p> വേനൽക്കാലത്തു്, നാലുചുറ്റിലും ആളിക്കത്തുന്ന അഗ്നിയുടെ നടുവിലിരുന്നു് അവൾ മറ്റെങ്ങും നോക്കാതെ
+കണ്ണഞ്ചിപ്പിക്കുന്ന പ്രഭയെ കീഴടക്കി പുഞ്ചിരിയോടെ സൂര്യനെ നോക്കി. പഞ്ചാഗ്നിമധ്യത്തിൽ
+തപസ്സുചെയ്യുമ്പോഴും പാർവതിയുടെ മുഖപത്മം വാടിയില്ലത്രെ. സൂര്യകിരണങ്ങളേറ്റു പഴുത്ത ആ മുഖം
+താമരപ്പൂവിന്റെ അഴകുപൂണ്ടു; നീണ്ട വാൽക്കണ്ണുകളിൽ മാത്രം പതുക്കെപ്പതുക്കെ കാളിമ വ്യാപിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_T_Chacko.png" rendition="gra"/>
+            <figDesc style="thumb">പി. ടി. ചാക്കോ</figDesc>
+          </figure>
+          <p> ഗ്രീഷ്മത്തിൽ പഞ്ചാഗ്നി നടുവിലും നിറുത്താതെ മഞ്ഞുപെയ്യുന്ന ശിശിരർത്തുവിൽ കഴുത്തറ്റം
+വെള്ളത്തിൽനിന്നും തപസ്സനുഷ്ഠിച്ച ശ്രീപാർവതിയാണു് ചെങ്ങന്നൂർ ക്ഷേത്രത്തിലെ പ്രതിഷ്ഠ. വൃത്താകൃതിയാണു്
+ശ്രീകോവിലിനു്. കിഴക്കോട്ടു് ദർശനമായി പരമശിവൻ, പടിഞ്ഞാറോട്ടു് ദർശനമായി പാർവതി.
+മഹാദേവക്ഷേത്രമെന്നാണു് പേരെങ്കിലും ഭഗവതിക്കാണു് പ്രാധാന്യം. ചെങ്ങന്നൂർ ഭഗവതിയുടെ ‘തൃപ്പൂത്താറാട്ടു്’
+പ്രസിദ്ധമാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/S-guptan-nair.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. ഗുപ്തൻനായർ</figDesc>
+          </figure>
+          <p> ചെങ്ങന്നൂരെ ഉൽസവം 28 ദിവസമാണു്. ധനുമാസത്തിലെ തിരുവാതിര കൊടിയേറ്റു്; മകരത്തിലെ
+തിരുവാതിര ആറാട്ടും. ആദ്യത്തെ 18 ദിവസം ചെറിയ ഉൽസവം. ആറാട്ടിനെഴുന്നള്ളുന്ന ചെങ്ങന്നൂർ തേവർക്കു്
+ഇരുപത്തെട്ടര ദേവന്മാരാണു് അകമ്പടി സേവിക്കുക മിത്രപ്പുഴക്കടവിലാണു് ആറാട്ടു്.
+</p>
+          <p>ജന്മംകൊണ്ടു് ക്രിസ്ത്യാനിയെങ്കിലും ചെങ്ങന്നൂർ ഭഗവതിയുടെ ഭക്തയാണു് <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാ ജോർജ്</ref>
+എം. എൽ. എ. ക്ഷേത്രമതിൽ കെട്ടിനകത്തു് കടക്കാൻ അനുവാദമില്ല. മതിലിനു് പുറത്തുനിന്നു് തൊഴും.
+പറവെക്കും, വഴിപാടും കൊടുത്തയക്കും. ഉൽസവകാലത്തു് ശോഭനയുടെ സജീവസാന്നിധ്യം ഉണ്ടായിരിക്കും.
+ചെങ്ങന്നൂർ ഭഗവതി എന്റെ അമ്മയാണെന്നു് ഇടക്കിടെ പ്രഖ്യാപിക്കാറുമുണ്ടു്. കരയോഗം നായന്മാരുടെയും
+അമ്പലവാസികളുടെയും വോട്ടുതട്ടാനുള്ള ഡാവാണിതെന്നു് മാർക്സിസ്റ്റ്കാർപോലും പറയില്ലതാനും. ലീഡറുടെ
+ഗുരുവായൂർ ഭക്തിപോലെ ആത്മാർഥമാണു് ശോഭനയുടെ ചെങ്ങന്നൂർ ഭക്തിയും.
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധീരൻ</figDesc>
+          </figure>
+          <p> ശോഭന എന്ന വാക്കിനു് പ്രകാശിക്കുന്ന, ശുഭമായ, സുന്ദരമായ, സന്മാർഗനിഷ്ഠയുള്ള എന്നീ അർഥങ്ങളാണു്
+കേരള ഭാഷാ നിഘണ്ടു (ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ട് പ്രസിദ്ധീകരണം—ചീഫ് എഡിറ്റർ: <ref target="https://ml.wikipedia.org/wiki/S._Guptan_Nair">എസ്. ഗുപ്തൻനായർ</ref>)
+കൽപിച്ചിരിക്കുന്നതു്. മേൽപറഞ്ഞ നാലു വിശേഷണവും ചെങ്ങന്നൂർ എം. എൽ. എ.-ക്കു് തികച്ചും
+അനുയോജ്യവുമാണു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. വി. തോമസ്</figDesc>
+          </figure>
+          <p> 1960-മാണ്ടു് ഏപ്രിൽ മാസം നാലാം തീയതി ചെങ്ങന്നൂരിലാണു് ശോഭനയുടെ ജനനം. അപ്പൻ കെ. എം.
+ജോർജ്, അമ്മ തങ്കമ്മ. തിരുവിതാംകൂർ ഭാഗത്തെ മറ്റനേകം ബാലികാബാലന്മാരെപ്പോലെ ശോഭനയും
+പൊതുരംഗത്തുവന്നതു് അഖിലകേരള ബാലജനസംഖ്യത്തിലൂടെയാണു്. സഖ്യം സംസ്ഥാന പ്രസിഡന്റാകുന്ന
+ആദ്യത്തെ പെൺകിടാവു് ശോഭനയായിരുന്നു. കേരള സ്റ്റുഡന്റ്സ് യൂനിയന്റെ ഫീഡർ കാറ്റഗറിയാണു്
+അന്നുമിന്നും ബാലജനസഖ്യം. പിൽക്കാലത്തു് കോൺഗ്രസ് നേതൃനിരയിൽ ശോഭിച്ച <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>, <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/M.M._Hassan">എം. എം. ഹസൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/Thiruvanchoor_Radhakrishnan">തിരുവഞ്ചൂർ
+രാധാകൃഷ്ണൻ</ref> എന്നിവരൊക്കെ സഖ്യത്തിലൂടെ പൊതുപ്രവർത്തനവും കെ. എസ്. യു.-വിലൂടെ
+രാഷ്ട്രീയജീവിതവും ആരംഭിച്ചവരത്രെ. ശോഭനയാണെങ്കിൽ എക്കാലത്തും കോൺഗ്രസിനൊപ്പം നിലയുറപ്പിച്ച
+പാരമ്പര്യമുള്ള സിറിയൻ ഓർത്തഡോക്സ് സഭാംഗവും സഭയുടെ വകയായ കോട്ടയം ബസേലിയോസ് കോളേജ്
+വിദ്യാർഥിനിയുമായിരുന്നല്ലോ. ഏതുനിലക്കും കെ. എസ്. യു.-വിൽ ചേരേണ്ടതായിരുന്നു. പക്ഷേ, ശോഭനക്കു്
+കമ്പം കയറിയതു് കേരള കോൺഗ്രസിന്റെ വിദ്യാർഥി വിഭാഗമായ കെ. എസ്. സി.-യിലായിരുന്നു. അതോടെ,
+മലയാള മനോരമയുടെ രക്ഷാകർതൃത്വം അവസാനിച്ചു; അകത്തോലിക്കയാകയാൽ ദീപികയുടെ പിന്തുണ
+ലഭിച്ചതുമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thiruvanchoor_Radhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> മലയാള മനോരമയുടെയോ ദീപികയുടെയോ പിന്തുണ കൂടാതെയും മധ്യതിരുവിതാംകൂറിൽ
+രാഷ്ട്രീയക്കാരിയായി നിലനിൽക്കാമെന്നു് ശോഭന തെളിയിച്ചു. കേരള കോൺഗ്രസിനെ സംബന്ധിച്ചിടത്തോളം
+പിളർപ്പിന്റെ നാളുകളായിരുന്നു അവ. ടി. വി. എബ്രഹാമിനും ബാബു വർഗീസിനുമൊപ്പം വിദ്യാർഥി നേതാക്കളിൽ
+ഏറിയപങ്കും ജോസഫ് ഗ്രൂപ്പിലേക്കു് പോയപ്പോഴും ശോഭന <ref target="https://ml.wikipedia.org/wiki/K._M._Mani">മാണി</ref> സാറിനൊപ്പം
+ഉറച്ചുനിന്നു. കെ. എസ്. സി. പ്രായം കഴിഞ്ഞപ്പോൾ യൂത്ത്ഫ്രണ്ടിൽ പ്രവർത്തിക്കാൻ തുടങ്ങി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Ramesh_Chennithala.jpg" rendition="gra"/>
+            <figDesc style="thumb">രമേശ് ചെന്നിത്തല</figDesc>
+          </figure>
+          <p> യൂത്ത്ഫ്രണ്ട് പ്രവർത്തകയും പ്രസംഗകയുമായി കഴിഞ്ഞ ശോഭനയുടെ യഥാർഥ മഹത്ത്വം തിരിച്ചറിഞ്ഞതും
+അർഹതക്കു് അംഗീകാരം നേടിക്കൊടുത്തതും അക്കാലം കോട്ടയം എം. പി.-യായിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശ്
+ചെന്നിത്തല</ref>. ശോഭനാ ജോർജിനെ യൂത്ത് കോൺഗ്രസ് സംസ്ഥാന ജനറൽ സെക്രട്ടറിയായി
+നിയമിച്ചുകൊണ്ടു് ന്യൂദൽഹിയിൽനിന്നു് ഉത്തരവു് വന്നപ്പോൾ മധ്യതിരുവിതാംകൂറിലെ യൂത്തന്മാർ ഒന്നടങ്കം
+അദ്ഭുതംകൂറി. ആരാണിഷ്ടാ ഈ ശോഭന? യൂത്ത് കോൺഗ്രസ് ജനറൽ സെക്രട്ടറിയാകുന്ന പ്രഥമ വനിതയും
+ശോഭന തന്നെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/K_M_Mani.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാണി</figDesc>
+          </figure>
+          <p> 1977 മുതൽ എൻ. ഡി. പി.-യുടെ മണ്ഡലമായിരുന്നു ചെങ്ങന്നൂർ. 1977-ൽ ചാത്തന്നൂർ തങ്കപ്പൻ പിള്ളയും
+’80-ൽ <ref target="https://ml.wikipedia.org/wiki/K.R._Saraswathy_Amma">കെ. ആർ.
+സരസ്വതിയമ്മ</ref> യും ’82-ൽ <ref target="https://ml.wikipedia.org/wiki/S._Ramachandran_Pillai">എസ്. രാമചന്ദ്രൻ
+പിള്ള</ref> യും എൻ. ഡി. പി. ടിക്കറ്റിൽ വിജയിച്ചു. 1987-ൽ രാമചന്ദ്രൻ നായരെ തോൽപിച്ചു് ഇടതുപക്ഷ
+മുന്നണിയിലെ മാമ്മൻ ഐപ്പ് ചെങ്ങന്നൂർ പിടിച്ചു. 1991-ൽ എൻ. ഡി. പി.-ക്കു് ആറന്മുള കൊടുത്തു് കോൺഗ്രസ്
+ചെങ്ങന്നൂർ മണ്ഡലം തിരികെ വാങ്ങി. വിജയകുമാർ എന്ന പ്രാദേശിക നേതാവിന്റെ പേരാണു് കെ. പി. സി. സി.
+പാസാക്കി വടക്കോട്ടയച്ചതു്. ദൽഹി അംഗീകരിച്ചതു് പക്ഷേ, ശോഭനാ ജോർജിന്റെ നാമധേയമായിരുന്നു! മെയ്യു്
+കണ്ണാക്കിയ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകര</ref>
+ച്ചേകവർപോലും അതറിഞ്ഞപ്പോൾ അന്ധാളിച്ചുപോയി. മാമ്മൻ ഐപ്പിനെ മലർത്തിയടിച്ചു് ശോഭന
+പുത്തരിയങ്കം ജയിച്ചു. ഭൂരിപക്ഷം 3447. ഏതായാലും ശോഭനയുടെ നയവും വിനയവും അഭിനയവുമൊക്കെ
+ലീഡർക്കു് നന്നേ ബോധിച്ചു. ‘ഐ’ ഗ്രൂപ്പിന്റെ പ്രമുഖ വക്താവായി ശോഭന. <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയനും</ref>
+<ref target="https://ml.wikipedia.org/wiki/Ramesh_Chennithala">രമേശു</ref>
+മൊക്കെ തിരുത്തൽവാദികളായപ്പോഴും <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭന</ref> <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനൊ</ref> പ്പം
+ഉറച്ചുനിന്നു. ഇടതുപക്ഷ തരംഗത്തെയും ‘എ’ ഗ്രൂപ്പുകാരുടെ ചതിപ്രയോഗത്തെയും അതിജീവിച്ചു് അവർ 1996-ൽ
+സീറ്റ് നിലനിറുത്തി. തോറ്റ സ്ഥാനാർഥി മാമ്മൻ ഐപ്പ് തന്നെ. ഭൂരിപക്ഷം 3102 വോട്ട്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KR_Saraswathy_Amma.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. ആർ. സരസ്വതിയമ്മ</figDesc>
+          </figure>
+          <p> 1996–2001 കാലഘട്ടം ശോഭനയെ സംബന്ധിച്ചിടത്തോളം പരീക്ഷണങ്ങൾ നിറഞ്ഞതായിരുന്നു.
+കരുണാകരപക്ഷക്കാരായ ഏതാനും എം. എൽ. എ.-മാരേ സഭയിലുണ്ടായിരുന്നുള്ളൂ. സ്വാഭാവികമായും <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യും കൂട്ടരും
+അവരെ ശത്രുക്കളായി കണക്കാക്കി. ആലപ്പുഴ ഡി. സി. സി. യോഗത്തിനെത്തിയ ശോഭനയെ ഉടുമുണ്ടുയർത്തിയും
+പൂരപ്പാട്ടു് പാടിയുമാണു് ആന്റണി ഗ്രൂപ്പുകാർ എതിരേറ്റതു്. കോഴിക്കോട്ടുനിന്നു് പ്രസിദ്ധീകരിക്കുന്ന ക്രൈം
+ദ്വൈവാരിക ശോഭനയെപ്പറ്റി ആഭാസകരമായ വാർത്തകൾ പ്രസിദ്ധീകരിച്ചു. സഹികെട്ടപ്പോൾ മുഖ്യമന്ത്രിക്കു്
+നിവേദനം നൽകി. പത്രാധിപരെ പോലീസ് അറസ്റ്റ് ചെയ്തപ്പോൾ പത്രദുഃസ്വാതന്ത്ര്യത്തിന്മേലുള്ള കൈയേറ്റം
+എന്നായി ആക്ഷേപം. അടിസ്ഥാനരഹിതമായ വാർത്തകൾ പ്രസിദ്ധീകരിക്കരുതെന്നു് കോടതിയിൽ നിന്നു്
+ഉത്തരവു് വാങ്ങിയപ്പോൾ സത്യസന്ധമായ വാർത്തകളാണു് പ്രസിദ്ധീകരിക്കുന്നതെന്നും മേലിലും
+അടിസ്ഥാനമുള്ള വാർത്തകൾ പ്രസിദ്ധീകരിക്കുമെന്നുമായി ക്രൈം പത്രാധിപൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/S_Ramachandran_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. രാമചന്ദ്രൻ പിള്ള</figDesc>
+          </figure>
+          <p> ക്രൈം വാരികയുടെ പതിനായിരക്കണക്കിനു് പ്രതികളാണു് 2001-ലെ തെരഞ്ഞെടുപ്പുകാലത്തു് ചെങ്ങന്നൂർ
+മണ്ഡലത്തിൽ അങ്ങോളമിങ്ങോളം മാർക്സിസ്റ്റുകാർ വിതരണം ചെയ്തതു്. മലയാള സിനിമയിൽ ഷക്കീലക്കുള്ള
+സ്ഥാനമാണു് കേരള രാഷ്ട്രീയത്തിൽ ശോഭനാ ജോർജിനെന്നു് സഖാക്കൾ തൊണ്ടകീറി പ്രസംഗിച്ചു.
+സി. പി. എമ്മിലെ അഡ്വ. രാമചന്ദ്രൻ നായരും ബി. ജെ. പി.-യുടെ <ref target="https://ml.wikipedia.org/wiki/M._T._Ramesh">എം. ടി. രമേശും</ref>
+കാടിളക്കി പ്രചാരണവും നടത്തി. കിം ഫലം? ശോഭനാ ജോർജിനെ ചെങ്ങന്നൂർക്കാർക്കറിയാം.
+അപവാദപ്രചാരണവും അശ്ലീലപരാമർശങ്ങളും വിപരീത ഫലമാണുണ്ടാക്കിയതു്. ശോഭനാ പാട്ടുംപാടി ജയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> മൂന്നാംവട്ടവും നിയമസഭയിലേക്കു് ജയിച്ചുകയറിയ ശോഭനക്കു് മന്ത്രിസ്ഥാനത്തേക്ക് ന്യായമായും ക്ലെയിം
+ഉണ്ടായിരുന്നു. നിലവിലുള്ള കോൺഗ്രസ് വനിതാ അംഗങ്ങളിൽ ഏറ്റവും സീനിയറാണു് അവർ.
+കാര്യപ്രാപ്തിയിലും വാഗ്ധാടിയിലും ഒട്ടും മോശക്കാരിയല്ലതാനും. എന്നിട്ടും സാമുദായിക പരിഗണനയാൽ
+ശോഭന തഴയപ്പെട്ടു. ഇരുപതംഗ മന്ത്രിസഭയിൽ പരമാവധി അഞ്ചു ക്രിസ്ത്യാനികളാകാം. കേരള കോൺഗ്രസ്
+ഗ്രൂപ്പുകൾക്കായി അവയിൽ മൂന്നെണ്ണം പോയി. ലത്തീൻ പ്രാതിനിധ്യത്തിനായി <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി. തോമസി</ref> നെ
+ഉൾപ്പെടുത്തിയേ പറ്റൂ. കുർബാനയും കുന്തിരിക്കവും കുമ്പസാരവുമില്ലെങ്കിലും മുഖ്യനും ക്രിസ്ത്യാനിയാണല്ലോ.
+അങ്ങനെ അഞ്ചും തികഞ്ഞു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_Karthikeyan.png" rendition="gra"/>
+            <figDesc style="thumb">കാർത്തികേയൻ</figDesc>
+          </figure>
+          <p> മന്ത്രിസ്ഥാനം കിട്ടാത്തതിലും പരിഭവമേതുമില്ല ചെങ്ങന്നൂർ എം. എൽ. എ.-ക്കു്. ജനസേവനം നടത്താൻ
+മന്ത്രിസ്ഥാനം നിർബന്ധമല്ല. എന്നാൽ, എം. എൽ. എ.-മരോട് ചില മന്ത്രിമാർ പുലർത്തുന്ന ചിറ്റമ്മനയത്തിൽ
+അവർക്കു് അമർഷമുണ്ടു്. ഇക്കാര്യം നിയമസഭക്കകത്തും പുറത്തും തുറന്നടിച്ചു് പറഞ്ഞിട്ടുമുണ്ടു്. കയററ്റാൽ പാള
+കിണറ്റിൽ എന്ന പഴമൊഴിയോ താജ്മഹൽ പണിത ശിൽപിയുടെ കൈമുറിച്ച കഥയോ <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> യുടെ ചെവിയിൽ
+കയറിയിട്ടില്ല. ഭരണമങ്ങനെ ഉപ്പും പുളിയുമില്ലാതെ ഇഴഞ്ഞു നീങ്ങുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Padmaja_venugopal.jpg" rendition="gra"/>
+            <figDesc style="thumb">പത്മജാ വേണുഗോപാൽ</figDesc>
+          </figure>
+          <p> ഹവാലാ കേസിൽ മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി. തോമസി</ref> നു്
+പങ്കുണ്ടെന്നാരോപിക്കുന്ന പൊലീസ് രേഖ സൂര്യ ടി. വി. സംപ്രേഷണം ചെയ്തതു് സംബന്ധിച്ചാണു് <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാ ജോർജ്</ref>
+ഉൾപ്പെട്ട ഏറ്റവും പുതിയ വിവാദം. രേഖ വ്യാജമാണെന്നു് പോലീസ് പറയുന്നു. വ്യാജരേഖ തനിക്കു് കൈമാറിയതു്
+ശോഭനാ ജോർജാണെന്നു് സൂര്യ ലേഖകൻ. ശോഭനക്കു് പങ്കുണ്ടെന്നു് അന്വേഷണ ഉദ്യോഗസ്ഥർ, ഇല്ലെന്നു്
+ക്രൈംബ്രാഞ്ച് ഡി. ജി. പി., ആരോപണം സർക്കാറിനെ അട്ടിമറിക്കാനെന്നു് മുഖ്യമന്ത്രി, അപവാദപ്രചാരണം ഐ
+ഗ്രൂപ്പിനെ ഭിന്നിപ്പിക്കാനാണെന്നു് <ref target="https://ml.wikipedia.org/wiki/Padmaja_Venugopal">പത്മജാ
+വേണുഗോപാൽ</ref>, അന്വേഷണം ശരിയായ ദിശയിലല്ലെന്നു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>.
+
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KADAVOOR_SIVADASAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടവൂർ ശിവദാസൻ</figDesc>
+          </figure>
+          <p> രേഖ വ്യാജമാണെങ്കിൽ, സംശയമേ വേണ്ട അതു് കോൺഗ്രസുകാർ ഉണ്ടാക്കിയതാണു്. ചരിത്രാതീതകാലം
+മുതൽക്കു് കോൺഗ്രസിലെ ഉൾപ്പാർട്ടി ജനാധിപത്യത്തിന്റെ രീതി അതാണു്. <ref target="https://ml.wikipedia.org/wiki/Parur_T._K._Narayana_Pillai">ടി. കെ.
+നാരായണ പിള്ള</ref> യുടെ ഭരണകാലത്തു് മന്ത്രി ജോൺ ഫിലിപ്പോസിനെതിരെ അഴിമതി
+ആരോപണമുന്നയിച്ചതു് സമുന്നത കോൺഗ്രസ് നേതാവു് <ref target="https://ml.wikipedia.org/wiki/Annie_Mascarene">ആനി മസ്ക്രീൻ</ref>. അതു്
+മന്ത്രിസഭയുടെ രാജിയിലും മസ്ക്രീനെതിരായ മാനനഷ്ടക്കേസിലും അവസാനിച്ചു. കൈവണ്ടി സംഭവത്തെത്തുടർന്നു്
+മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/P.T._Chacko">പി. ടി.
+ചാക്കോ</ref> യെ മന്ത്രിസഭയിൽനിന്നു് പുറത്താക്കണമെന്നാവശ്യപ്പെട്ടു് രക്തസാക്ഷി ദിനത്തിൽ (30.1.1964)
+നിയമസഭാ കവാടത്തിൽ ഉപവാസം നടത്തിയതോ മാടായിൽനിന്നുള്ള കോൺഗ്രസ് അംഗം
+പ്രഹ്ലാദഗോപാലൻ. തലേദിവസം മഹാത്മജി സ്വപ്നത്തിൽ പ്രത്യക്ഷനായി ഗോപാലനു് ഉപവാസാഹ്വാനം
+നൽകുകയായിരുന്നു. ഏതായാലും ചാക്കോ രാജിവെച്ചു. വൈകാതെ ഹൃദയം തകർന്നു് മരിക്കുകയും ചെയ്തു.
+അങ്ങനെ കേരള കോൺഗ്രസുണ്ടായി. തനിക്കും <ref target="https://ml.wikipedia.org/wiki/Kadavoor_Sivadasan">കടവൂർ
+ശിവദാസനു</ref> മെതിരെ ലൈംഗികാപവാദം ഉന്നയിപ്പിച്ചവർ കോൺഗ്രസുകാരാണെന്നു് <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">ജി. കാർത്തികേയൻ</ref>
+വെളിപ്പെടുത്തുന്നു. അനധികൃതമായി സമ്പാദിച്ച സ്വത്തുക്കളുടെ സർവേ നമ്പറും അടിയാധാരത്തിന്റെ പകർപ്പും
+സഹിതം <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി.
+തോമസി</ref> നെതിരെ വിജിലൻസ് കോടതിയിൽ ഹർജി കൊടുത്തതും കോൺഗ്രസുകാർതന്നെ.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Dominic_Presentation.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡൊമിനിക്ക് പ്രസന്റേഷൻ</figDesc>
+          </figure>
+          <p> ഏതൊരു അന്വേഷണത്തിലും സത്യസന്ധത തെളിയിക്കാൻ <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാ ജോർജ്</ref>
+സന്നദ്ധയാണു്. പോളിഗ്രാഫ് ടെസ്റ്റെങ്കിൽ അതിനു്, ഡി. എൻ. എ. പരിശോധനയാണെങ്കിൽ അതിനും.
+അവരുടെ കൈകൾ തികച്ചും ശുദ്ധമാണു്. മടിയിൽ കനമുണ്ടെങ്കിലല്ലേ വഴിയിൽ ഭയം വേണ്ടൂ? അല്ലെങ്കിൽതന്നെ
+തോമസ് മാഷിനെതിരെ വ്യാജരേഖയുണ്ടാക്കിയിട്ട് പാവം ശോഭനയെന്തു നേടാനാണു്? തോമസ് രാജിവെച്ചാൽ
+ലത്തീൻ കത്തോലിക്കനെന്ന നിലക്കു് <ref target="https://ml.wikipedia.org/wiki/Dominic_Presentation">ഡൊമിനിക്ക്
+പ്രസന്റേഷൻ</ref> മന്ത്രിയാകും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Anniemascarene.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആനി മസ്ക്രീൻ</figDesc>
+          </figure>
+          <p> ചെങ്ങന്നൂർ കായംകുളംരാജ്യത്തിന്റെ ഭാഗമായിരുന്നപ്പോഴും പിന്നീടു് തിരുവിതാംകൂറിലായപ്പോഴും
+ക്ഷേത്രത്തിന്റെ പടിഞ്ഞാറേനടയിൽ (ദേവീസന്നിധിയിൽ) വിഷപരീക്ഷ പതിവായിരുന്നു. ക്രിമിനൽ നടപടി
+നിയമമോ തെളിവു് നിയമമോ ക്രൈംബ്രാഞ്ച് പൊലീസോ ഇല്ലാത്ത അക്കാലത്തു് അഗ്നിപരീക്ഷയോ
+വിഷപരീക്ഷയോ നടത്തിയാണു് കുറ്റം തെളിയിച്ചിരുന്നതു്. ശുചീന്ദ്രം ക്ഷേത്രസന്നിധിയിൽ തിളച്ച നെയ്യിൽ
+കൈമുക്കിയാണു് അഗ്നിപരീക്ഷ നടത്തിയിരുന്നതു്. ചെങ്ങന്നൂരെ പടിഞ്ഞാറേ ഗോപുരത്തിലുള്ള
+പാമ്പിൻമാളത്തിൽ കൈയിട്ടു് സത്യം ചെയ്യലായിരുന്നു വിഷപരീക്ഷ. കള്ളസത്യമാണെങ്കിൽ സർപ്പദംശനം
+ഉറപ്പു്. ചെങ്ങന്നൂർ ഭഗവതിയുടെ മുന്നിൽനിന്നു് സത്യം ചെയ്യാൻ താൻ സന്നദ്ധയാണെന്നു് <ref target="https://ml.wikipedia.org/wiki/Sobhana_george">ശോഭനാ ജോർജ്</ref>.
+
+ഇതേ പരീക്ഷണത്തിനു് അവർ സൂര്യ ലേഖകനെ വെല്ലുവിളിക്കുകയും ചെയ്തിരിക്കുന്നു. സർപ്പദർശനം ഭയന്നോ
+എന്തോ ലേഖകൻ വെല്ലുവിളി സ്വീകരിച്ചിട്ടില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Parur_T_K_Narayana_Pillai.png" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. നാരായണ പിള്ള</figDesc>
+          </figure>
+          <p> മന്ത്രി തോമസിനു് പിന്തുണ പ്രഖ്യാപിച്ചു് ലത്തീൻ കത്തോലിക്കാ വൈദികരും അൽമായരും
+രംഗത്തിറങ്ങിക്കഴിഞ്ഞു. മറിച്ചു്, ശോഭനക്കനുകൂലമായി പരിശുദ്ധ കത്തോലിക്കാ ബാവയോ ഇതര
+തിരുമേനിമാരോ ഒരക്ഷരം ഉരിയാടിയിട്ടില്ല. കേസിനും പുക്കാറിനുമല്ലാതെ അവർക്കു് എവിടെ സമയം,
+സൗകര്യം? ശോഭനയെ പരിഹസിച്ചു് കാർട്ടൂൺ പ്രസിദ്ധീകരിക്കാത്ത ഒരു പത്രവുമില്ല ഭൂമിമലയാളത്തിൽ.
+ഉത്തരരാമചരിതത്തിലെ സീതയെപ്പോലെ, ചിലപ്പതികാരത്തിലെ കണ്ണകിയെപ്പോലെ വൃഥാ അപവാദം
+സഹിക്കുകയാണു് ആ സതീരത്നം. അപമാനം സഹിച്ച് താൻ നിയമസഭാംഗമായി തുടരുകയില്ലെന്നു് അവർ
+വ്യക്തമാക്കിയിട്ടുണ്ടു്. സീതയെപ്പോലെ ഭൂമിപിളർന്നു് അന്തർധാനം ചെയ്യുമോ അതോ കണ്ണകിയെപ്പോലെ
+മധുരാപുരി ചുട്ടുപൊട്ടിക്കുമോ എന്നു് കാത്തിരുന്നു് കാണുക. സർവശക്തയും സർവാഭിഷ്ടവരദായിനിയുമായ
+ചെങ്ങന്നൂർ ഭഗവതി ശോഭനയെ കാത്തുരക്ഷിക്കട്ടെ.</p>
+          <lg>
+            <l> ദുർഗാ ഭഗവതി ദുഃഖവിനാശിനി</l>
+            <l> ശരണം മേ തവചരണ യുഗം. </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Panchagnimadhyaththil
+SobhanaGeorge (ml: പഞ്ചാഗ്നിമധ്യത്തിൽ ശോഭനാജോർജ്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Panchagnimadhyaththil SobhanaGeorge, കെ. രാജേശ്വരി, പഞ്ചാഗ്നിമധ്യത്തിൽ ശോഭനാജോർജ്, Open
+Access Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 10, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Frederic_Edwin_Church__Palm_Trees_and_Housetops,_Ecuador_-_Google_Art_Project.jpg">Palm Trees and
+Housetops, Ecuador,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Frederic_Edwin_Church">Frederic
+Edwin Church</ref>  (1826–1900). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-panchagni.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-panchagni.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

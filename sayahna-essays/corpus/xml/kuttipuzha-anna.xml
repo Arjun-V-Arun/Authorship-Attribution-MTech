@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അന്നവിചാരം</title>
+          <title xml:lang="en" type="main">Annavicharam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">March 18, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അന്നവിചാരം</title>
+              <title xml:lang="en" type="main">Annavicharam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Annavicharam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>അന്നവിചാരം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>March 18, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Boy_with_Coloured_Ball.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Barab%C3%A1s_Little_Boy_with_Coloured_Ball.jpg">Little
+Boy with Coloured Ball,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Mikl%C3%B3s_Barab%C3%A1s"> Miklós
+
+Barabás</ref>  (1810–1898). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അന്നവിചാരം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അന്നവിചാരം</head>
+        <div type="lsection" xml:id="sec1.1">
+          <head type="lsechead">വേദോപനിഷത്തുകളിൽ</head>
+          <p style="noindent">‘അന്നവിചാരം മുന്നവിചാരം’ എന്നാണല്ലോ പഴഞ്ചൊല്ലു്. ഈ വിചാരത്തിനു
+ശക്തി കൂടിവരുന്ന കാലമാണിതു് ജനപ്പെരുപ്പവും ഭക്ഷ്യക്ഷാമവും അത്രയ്ക്കു ദുസ്സഹമായിത്തീർന്നിരിക്കുന്നു. ഇന്നു്
+എല്ലാവരിലും മുന്നിട്ടു നിൽക്കുന്നതു് ഈ വിചാരമാണു്. വൈദികകാലത്തെ ആര്യന്മാർ അന്നവിചാരത്തിനു
+സർവപ്രാധാന്യം കല്പിച്ചിരുന്നു. അന്നത്തെ മഹർഷിമാർ പോലും അന്നവിചാരം നടത്തിയിട്ടേ
+ആത്മവിചാരത്തിലേർപ്പെട്ടിരുന്നുള്ളു. ഭക്ഷ്യോൽപാദത്തിന്നാവശ്യമായ കൃഷിവൃത്തി ഋഗ്വേദത്തിൽ പ്രത്യേകിച്ചും
+സംസ്തുതമായിട്ടുണ്ടു്. അന്നം കൊണ്ടു് ശരീരപോഷണം സാധിച്ചില്ലെങ്കിൽ ആത്മാവിന്റെ കാര്യം
+തകരാറിലാകുമെന്നു് അക്കാലത്തെ തത്ത്വചിന്തകന്മാർക്കും അറിയാമായിരുന്നു. അന്നവിചാരത്തിലധിഷ്ഠിതമായ
+ഒരു തത്ത്വശാസ്ത്രംതന്നെ ഉപനിഷത്തുകളിൽ പ്രതിഫലിച്ചിട്ടുണ്ടു്. അതനുസരിച്ചു് അന്നമെന്നു പറയുന്നതു്
+സാക്ഷാൽ ബ്രഹ്മം തന്നെയാണു്. അന്നത്തെ ബ്രഹ്മമായി അറിയുക. (അന്നം ബ്രഹ്മേതി വ്യജാനാതു്) എന്നു്
+തൈത്തിരിയോപനിഷത്തിൽ പറഞ്ഞിറിക്കുന്നു. ‘അഹം ബ്രഹ്മ’ എന്ന വാക്യത്തിനു സമാനമായി ‘അഹമന്നം’
+എന്ന സൂക്തിയും കാണാം. അന്നത്തിൽനിന്നുതന്നെയാണു് ഈ ജീവജാലങ്ങൾ ജനിക്കുന്നതും ജീവിക്കുന്നതും
+(അന്നാദ്ധ്യോവഖല്വിമാനി ഭൂതാനി ജായന്തേ അന്നേന ജാതാനി ജീവന്തി) എന്നു് തൈത്തിരിയോപനിഷത്തു്
+പഠിപ്പിക്കുന്നു. ‘യതോ ഇമാനി ഭൂതാനി ജായന്തേ യേന ജാതാനി ജീവന്തി’ എന്നു ബ്രഹ്മത്തെപ്പറ്റിയും
+ഇതുതന്നെയാണു് പറയുന്നതു്. അങ്ങനെ അന്നം തന്നെ ബ്രഹ്മമെന്ന ആശയം സംശയാതീതമാക്കിയിരിക്കുന്നു.
+‘അന്നാദ് ഭവന്തി ഭൂതാനി’ എന്നു് ഗീതയിലും ഉണ്ടു്. വസ്ത്രങ്ങളും പശുക്കളും അന്നപാനങ്ങളും വേണ്ടുവോളം
+ലഭിക്കട്ടെ (വാസാംസി മമ ഗാവശ്ച അന്നപാനാദി സർവദാ) എന്നതായിരുന്നു പ്രാചീനാര്യന്മാരുടെ
+നിത്യപ്രാർത്ഥന. അന്നത്തെ നിന്ദിക്കരുതു് (അന്നം ന നിന്ദ്യാത്), ഏതെങ്കിലും വിധത്തിൽ അന്നം ധാരാളം
+സമ്പാദിക്കണം (യയാകയാ ച വിധയാ ബഹ്വന്നം പ്രാപ്നുയാതു്), അന്നം സമൃദ്ധമായി ഉല്പാദിപ്പിക്കുക (അന്നം
+ബഹൂകൂർവീത) ഇത്യാദി ഉപനിഷദ്വാക്യങ്ങളും പ്രാചീനർക്കു് അന്നം ഏറ്റവും വലിയ
+ജീവിതമൂല്യമായിരുന്നുവെന്നതിനു് ഉദാഹരണങ്ങളാണു്. നമുക്കൊന്നിച്ചിരുന്നു ഭക്ഷിക്കാം (സഹനൗഭുനക്തു)
+എന്ന മന്ത്രം സമൂഹക്ഷേമത്തിനുതകണം നമ്മുടെ ഭക്ഷ്യസമ്പത്തെന്നും സൂചിപ്പിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അർത്ഥശാസ്ത്രത്തിൽ</head>
+          <p style="noindent">രണ്ടായിരം കൊല്ലത്തെ പഴക്കമുള്ള <ref target="https://ml.wikipedia.org/wiki/Chanakya">കൗടല്യന്റെ</ref>
+അർത്ഥശാസ്ത്രത്തിൽ അന്നോൽപാദനത്തിനുവേണ്ട കൃഷിയെപ്പറ്റി സവിസ്തരം പ്രതിപാദിക്കുന്നുണ്ടു്.
+കൃഷിവൃത്തിയുടെ സാമൂഹികമായ അടിസ്ഥാനവും സ്വഭാവവും ആണു് അതിൽ ആചാര്യൻ സ്വീകരിച്ചിരിക്കുന്നതു്.
+ഇന്നു് വ്യക്തിസ്വാതന്ത്ര്യത്തിന്റെ പേരിൽ നവീന ഭൂനിയമങ്ങളെ എതിർക്കുന്ന സമൂഹവിരുദ്ധന്മാർ അക്കാലത്തെ
+കാർഷികവ്യവസ്ഥകൾ അറിഞ്ഞിരിക്കേണ്ടതാണു്. രാജാവിന്റെ ആധിപത്യത്തിലാണെങ്കിലും അന്നു ഗ്രാമങ്ങളിൽ
+ജനസംഘങ്ങളുടെ നേതൃത്വത്തിലുള്ള സ്വതന്ത്രഭരണം നിലവിലുണ്ടായിരുന്നു. കൃതക്ഷേത്രങ്ങൾ—തെളിച്ചെടുത്ത
+വിളനിലം—എന്നും അകൃതക്ഷേത്രങ്ങൾ എന്നും കൃഷിസ്ഥലങ്ങളെ രണ്ടായി വിഭജിച്ചിരുന്നു. അകൃതക്ഷേത്രങ്ങളെ
+കൃതക്ഷേത്രങ്ങളാക്കുന്നവർക്കു് അവയുടെ അവകാശം നിയമപ്രകാരം സിദ്ധിക്കും. കൃഷിചെയ്യാത്തവരുടെ
+കൈവശമുള്ള ഭൂമി ഒഴിപ്പിച്ചെടുത്തു കൃഷിക്കാർക്കു കൊടുക്കണമെന്നതാണു് മറ്റൊരു വ്യവസ്ഥ. കൃഷിക്കായി ഭൂമി
+ഏറ്റുവാങ്ങിയിട്ടു് അതു ചെയ്യാതിരുന്നാൽ നഷ്ടം കൊടുക്കണം. ഈ നഷ്ടത്തിനു് അപഹിനമെന്നാണു് പേരു്. വിള
+വർദ്ധിപ്പിക്കാനുള്ള സഹായധനത്തിനു് അനുഗ്രഹമെന്നും കേടുതീർക്കാനുള്ളതിനു പരിഹാരമെന്നും പേരു
+പറഞ്ഞിരുന്നു. കൃഷിക്കുവേണ്ടി ഭൂമി വിട്ടുകൊടുക്കാത്ത ക്ഷേത്രികൻ (ഭൂസ്വാമി) ശിക്ഷാർഹനാണു്. പ്രവൃത്തി
+ചെയ്തുകൊണ്ടിരിക്കുന്ന അവസരത്തിൽ കർഷകനെ അറസ്റ്റ് ചെയ്തുകൂടാ. വെള്ളം കെട്ടിനിൽക്കുന്ന പൊതുച്ചിറ
+വെട്ടിത്തുറക്കുന്ന ഗ്രാമദ്രോഹിയെ വെള്ളത്തിലിട്ടു മുക്കിക്കൊല്ലണം. മേച്ചിൽസ്ഥലം തീയിട്ടു നശിപ്പിക്കുന്നവനെ
+തീയിലിട്ടു കൊല്ലണം. ഈവക കർശനനിയമങ്ങളും അന്നു നടപ്പുണ്ടായിരുന്നു. ഉഴവുചാൽ തൊട്ടു സത്യം ചെയ്യുന്ന
+സമ്പ്രദായവും ഗ്രാമീണർ അനുഷ്ഠിച്ചിരുന്നു. കൃഷി എത്രമാത്രം ശുദ്ധവും ശ്രേഷ്ഠവും ജീവദായകവുമായ ഒരു
+തൊഴിലായി അന്നു ഗണിക്കപ്പെട്ടിരുന്നുവെന്നു് ഇതിൽ നിന്നൊക്കെ തെളിയുന്നുണ്ടല്ലോ.
+
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">അനന്തകാലത്തെ അധഃപതനം</head>
+          <p style="noindent">ക്രിസ്തുവിനുമുമ്പുള്ള കാലത്തെ സ്ഥിതിവിശേഷമാണു മേൽ കാണിച്ചതു്. അന്നത്തെ
+അന്നവിചാരം ഭൗതികക്ഷേമചിന്തയുടെയും പ്രായോഗിക ബുദ്ധിയുടെയും പ്രതീകമായിരുന്നു.
+സമൂഹാടിസ്ഥാനത്തിലുള്ള ഭൗതികശ്രേയസ്സിനെ നമ്മുടെ പൂർവികന്മാർ സർവോപരി മുഖ്യമായി
+പരിഗണിച്ചിരുന്നു. ആത്മിയോൽക്കർഷത്തിനും ആധാരം ഭൗതികസമ്പത്താണെന്നും അർത്ഥമില്ലാത്തിടത്തു
+ധർമ്മത്തിനു ക്ഷയം നേരിടുമെന്നുമുള്ള സത്യം അവർ മനസ്സിലാക്കി. അർത്ഥധർമ്മങ്ങൾക്കു സമപ്രാധാന്യമാണു്
+അന്നുണ്ടായിരുന്നതു്. എന്നാൽ, അനന്തരകാലത്തു് ഈ മനോഭാവത്തിനു പരിതാപകരമായ മാറ്റം വന്നു.
+ജാതിവ്യത്യാസം ഇൻഡ്യയിൽ ദൃഢമായതോടെ കർഷകവൃത്തിക്കു് ഒരുതരം പാതിത്യം നേരിട്ടു. ബ്രാഹ്മണനും
+ക്ഷത്രിയനും കലപ്പപിടിക്കുന്നതു ജാതിമഹത്വത്തിനു ചേർന്നതല്ലെന്ന നിലവന്നു.
+കൃഷി—ഗോരക്ഷ—വാണിജ്യാദിതൊഴിലുകൾ മൂന്നാം ജാതിക്കാരനായ വൈശ്യന്റെ വൃത്തിയായി
+അന്നവിചാരത്തിനെക്കാൾ മേന്മ ആത്മവിചാരത്തിനാണെന്ന ധാരണ പരന്നു. ആർക്കും ആവശ്യമായ
+അന്നബ്രഹ്മത്തിന്റെ സ്ഥാനത്തു ശൂന്യതയിലേക്കു വഴിതെളിക്കുന്ന പരബ്രഹ്മം വന്നു കയറി. ഭൗതികം, ആത്മീയം
+എന്നിങ്ങനെ പരസ്പരബന്ധമില്ലാത്ത അന്ധമായ വേർതിരിവു് ഭാരതീയചിന്താഗതിയെ കലുഷമാക്കി ശരീരം
+നികൃഷ്ടം, ആത്മാവു് ഉൽകൃഷ്ടം എന്ന മിഥ്യാബോധം പ്രചരിച്ചപ്പോൾ ദേഹാദ്ധ്വാനത്തിനു വിലയില്ലാതായി.
+ബുദ്ധിപ്രധാനന്മാർക്കേ (Intellectuals) സമുദായത്തിൽ മാന്യസ്ഥാനമുള്ളു എന്ന തെറ്റായ നില
+സാർവത്രികമായി അംഗീകരിക്കപ്പെട്ടു. സാമൂഹികമായ അളവിൽ ബാധിച്ച ഈ ആശയപരിണാമവും
+വീക്ഷണവ്യത്യാസവും നൂറ്റാണ്ടുകളായി ഇൻഡ്യയ്ക്കു ദോഷം ചെയ്തുകൊണ്ടിരിക്കയാണു്. അതിന്റെ ദൂരവ്യാപകമായ
+ദുഷ്ഫലങ്ങളിൽനിന്നു് ഈ പരിഷ്കൃതകാലത്തും നമ്മൾ തീരെ മുക്തരായിട്ടില്ല. ജാതിവ്യവസ്ഥയിൽനിന്നുത്ഭവിച്ച
+വൃത്തിപരമായ ഉച്ചനീചഭാവം എന്നു് ഇന്ത്യയിൽ വേരൂന്നിയോ അന്നു് നമ്മുടെ അധഃപതനമാരംഭിച്ചു. എളുപ്പം
+പൊട്ടിക്കാൻ വയ്യാത്ത കട്ടപിടിച്ചയാഥാസ്ഥിതികബുദ്ധിയാണു് ഇക്കാര്യത്തിൽ ഭാരതീയരെ ഭരിക്കുന്നതു്.
+ശതാബ്ദങ്ങളുടെ ദുഷിച്ച പാരമ്പര്യം അതിനുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹാത്മഗാന്ധി</ref>
+ആയുഷ്കാലം മുഴുവൻ തൊഴിലിന്റെ മഹിമയെപ്പറ്റി പ്രസംഗിച്ചു നടന്നു. എന്നിട്ടും ഉദ്ദിഷ്ടഫലം
+എത്രത്തോളമുണ്ടായി? കൃഷിയുടെ കാര്യം തന്നെ നോക്കാം. പാടത്തിറങ്ങി കലപ്പപിടിച്ചു നിലമുഴുവാൻ ഇന്നും
+ബ്രാഹ്മണജാതിയിൽ എത്രപേർ തയ്യാറാകുന്നുണ്ടു്? ജാതി സോപാനത്തിന്റെ ഉന്നതസ്ഥാനത്തിരിക്കുന്നവരെ
+അനുകരിച്ചു സാമൂഹികപദവി (Social status) നേടുക എന്നതു് ഇൻഡ്യയിലെ ഇതരജാതികളിലെല്ലാം.
+സംക്രമിച്ചിട്ടുള്ള ഒരു സ്വഭാവവിശേഷമാണു്. ബ്രാഹ്മണൻ കൃഷിക്കു ഭ്രഷ്ടു കല്പിച്ചപ്പോൾ മറ്റു ജാതിക്കാരിലും ആ
+മനോഭാവം കുറെയൊക്കെ വ്യാപിച്ചു. പഠിച്ചു പരിഷ്കൃതനായാൽ പിന്നെ കേവലം കൃഷിക്കാരനാകുന്നതു്
+അന്തസ്സിനു ചേരാത്ത പ്രവൃത്തിയാണെന്നു് അവർക്കും തോന്നിത്തുടങ്ങി. ഉൽകൃഷ്ടവിദ്യാഭ്യാസം ചെയ്തു
+ബുദ്ധിപ്രധാനന്മാരാകുന്ന താണജാതിക്കാർപോലും പാടത്തിറങ്ങാൻ മടിക്കുന്നതു്. ഇക്കാരണത്താലാണു്
+വൃത്തിപരമായ ഈ വിഡ്ഢിത്തം ഇൻഡ്യയിൽ മാത്രമേ ഇപ്പോഴും അവശേഷിച്ചിട്ടുള്ളു. വലിയ പരീക്ഷ പോകട്ടെ.
+ഇങ്ങേയറ്റം എസ്. എസ്. എൽ. സി. പാസ്സാകുന്ന ചെറുപ്പക്കാരും കൃഷിപ്പണി ഒരു കുറവായിട്ടാണു് കരുതുന്നതു്
+കാർഷികകോളേജിൽ പഠിക്കുന്നവരോ? അവർ ഡിഗ്രിയെടുത്താൽ കൃഷിചെയ്യാനല്ല പോകുന്നതു്, ഉദ്യോഗം
+അന്വേഷിക്കാനാണു് അടുത്തകാലത്തു ഫാക്ടറികളിലെ ദേഹാധ്വാനത്തിനു കുറച്ചൊരു മാന്യത
+വന്നുചേർന്നിട്ടുണ്ടെങ്കിലും കൃഷിയെസ്സംബന്ധിച്ചിടത്തോളം അതു് ഇപ്പോഴും പണ്ടത്തെ
+അപകൃഷ്ടനിലയിൽത്തന്നെയെന്നുവേണം പറയുക. ഈ ദുരവസ്ഥ മാറണമെങ്കിൽ തൊഴിലിന്റെ മഹിമ
+പഠിപ്പിക്കുന്ന പാശ്ചത്യലോകത്തെ നാം മാതൃകയാക്കണം ഒരുകാലത്തു് അത്യുൽകൃഷ്ടമെന്നു കരുതപ്പെട്ടിരുന്ന
+കർഷകവൃത്തിയുടെ നഷ്ടപ്പെട്ടുപോയ മഹിമ വീണ്ടെടുത്താലേ നമുക്കു രക്ഷയുള്ളു അതിലേക്കു അഭ്യസ്തവിദ്യർ
+തന്നെ മുന്നോട്ടു വരികയും അവർ ദേഹാദ്ധ്വാനത്തെ ബുദ്ധിപ്രവർത്തനത്തിനു തുല്യം മാനിക്കയും വേണം.
+എന്നാൽ, മാത്രമേ തൊഴിലുകളുടെ നേർക്കുള്ള അയിത്താചാരം എല്ലാ മേഖലകളിൽനിന്നും നിശ്ശേഷം
+നീങ്ങുകയുള്ളു അദ്ധ്വാനത്തെ ആദരിക്കാത്ത ഒരു രാജ്യവും ഉന്നതിയെ പ്രാപിക്കയില്ല.
+</p>
+          <p>
+മനനമണ്ഡലം 1965.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.4.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.4.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.4"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Annavicharam (ml:
+അന്നവിചാരം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Annavicharam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, അന്നവിചാരം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  March 18, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Barab%C3%A1s_Little_Boy_with_Coloured_Ball.jpg">Little
+Boy with Coloured Ball,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Mikl%C3%B3s_Barab%C3%A1s"> Miklós
+Barabás</ref>  (1810–1898). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-anna.xml">Download document
+
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-anna.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

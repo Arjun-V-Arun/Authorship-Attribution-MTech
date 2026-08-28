@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">എന്നെപ്പറ്റി പറയുന്നതു്</title>
+          <title xml:lang="en" type="main">Ennepatti parayunnath</title>
+        </title>
+        <author>Sanjayan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Proof-read by</resp>
+          <name>Abdul Gafoor</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>LJ Anjana</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">January 22, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">എന്നെപ്പറ്റി പറയുന്നതു്</title>
+              <title xml:lang="en" type="main">Ennepatti parayunnath</title>
+            </title>
+            <author>Sanjayan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2021-12-20</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Sanjayan</term>
+          <term>Ennepatti parayunnath</term>
+          <term>സഞ്ജയൻ</term>
+          <term>എന്നെപ്പറ്റി പറയുന്നതു്</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2021-12-20</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Guitar_MET.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Harlequin_with_a_Guitar_MET_DP169316.jpg">Harlequin
+with a Guitar,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Juan_Gris">Juan Gris</ref>
+ (1887–1927). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">എന്നെപ്പറ്റി പറയുന്നതു്</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>സഞ്ജയൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">എന്നെപ്പറ്റി പറയുന്നതു്</head>
+        <div type="lsection">
+          <p style="noindent">വായിച്ചു, വായിച്ചു! ‘മിതവാദി’യിലെ ‘ഒരു തിയ്യ’ന്റെ ആക്ഷേപത്തെക്കുറിച്ചല്ലേ
+പറയുന്നതു് ? അതു വായിക്കുക മാത്രമല്ല, അതിന്റെ അകവും പുറവും മനസ്സിലാവുകയും ചെയ്തു. സഞ്ജയൻ
+ധിക്കാരിയാണു്, അധികപ്രസംഗിയാണു്, അസൂയാലുവാണു്, ആഭാസനാണു്, സവർണ്ണനാണു്
+എന്നൊക്കെയാണു് മി. തിയ്യൻ പറയുന്നതു്. മി. ‘തിയ്യനെ’ക്കുറിച്ചു സഞ്ജയന്റെ അഭിപ്രായം നേരെ മറിച്ചാണു്;
+അദ്ദേഹം വിനയിയാണു്, നിഷ്പക്ഷകനാണു്, സമദൃഷ്ടിയാണു്, അവർണ്ണനാണു്, ന്യായസ്ഥനാണു്, ഇരുപുറവും
+നോക്കി, എല്ലാ സംഗതികളും ആലോചിച്ചു, വിദ്വേഷമില്ലാതെ, മാത്സര്യമില്ലാതെ, കാര്യം മാത്രം മിതസ്വരത്തിൽ
+പറയുവാൻ പണിപ്പെട്ടു് അഭ്യസിച്ച ഒരു തികഞ്ഞ ‘ജന്റിൽമേനാ’ണു്. ഈശ്വരോ, രക്ഷതു!
+</p>
+          <p>സഞ്ജയനെപ്പറ്റിയുള്ള മിസ്റ്റർ തിയ്യന്റെ ചാർജുകളെല്ലാം സഞ്ജയൻ സമ്മതിച്ചിരിക്കുന്നു. ഒന്നു മാത്രം
+സമ്മതിച്ചിട്ടില്ല; അദ്ദേഹം എന്തെഴുതിയാലും അതു സമ്മതിക്കുകയുമില്ല. അതു്. ‘തിയ്യസമുദായാംഗങ്ങൾ
+സാഹിത്യവിഷയത്തിൽ അഭിവൃദ്ധിപ്പെടുന്നതിൽ അത്യധികമായ അസൂയയുള്ള ഒരു വ്യക്തിയാണു്’ സഞ്ജയൻ,
+എന്നു പറഞ്ഞതാണു്. അതു വേണ്ടിയിരുന്നില്ല, മിസ്റ്റർ തിയ്യൻ! ഈ പറഞ്ഞതു നിങ്ങളുടെ
+യഥാർത്ഥാഭിപ്രായമാണെങ്കിൽ, സഞ്ജയൻ വ്യസനിക്കുന്നു; സത്യമായി വ്യസനിക്കുന്നു. ഇങ്ങനെ ഒരു
+തെറ്റിദ്ധാരണ സഞ്ജയനെ പരിചയമില്ലാത്തവരുടെ ഇടയിൽ ഉണ്ടാക്കിത്തീർത്തിട്ട് എന്തൊരു
+കൃതാർത്ഥതയാണു സഞ്ജയനെ പരിചയമുള്ള അങ്ങയ്ക്കു കിട്ടുന്നതു്?
+</p>
+          <p>പത്രികയിൽ രാവണായനത്തെ പരിഹസിക്കുമ്പോൾ സവർണ്ണപത്രമായതുകൊണ്ടാണു് അങ്ങിനെ
+ചെയുന്നതെന്ന് മി. തിയ്യൻ പറയും. പക്ഷേ, മഹാകവി പള്ളത്തിന്റെ ചില അഭിപ്രായങ്ങളേയും
+രാവണായനോദ്യമത്തേയും സഞ്ജയൻ ആക്ഷേപിച്ചതിനെക്കാൾ ഭംഗിയായി, പൂർണ്ണമായി, കർക്കശമായി,
+കഠിനമായി, പത്രലോകത്തിൽ പേരെടുത്ത (മി. തിയ്യന്റെ ഭാഷയിൽ പറയുകയാണെങ്കിൽ) ‘അവർണ്ണ
+പത്രത്തിലും ആക്ഷേപിച്ചിരുന്നുവല്ലോ! അതു കണ്ടതായി മി. തിയ്യൻ നടിക്കുന്നേയില്ല. അദ്ദേഹം അതൊന്നും
+കണ്ടിട്ടുണ്ടായിരിക്കുകയില്ല. ഉണ്ടെങ്കിൽ, ഇങ്ങനെയൊരസംബന്ധം ആ നിർമത്സരൻ പറയുമോ?
+</p>
+          <p>ജാതിയില്ലാത്തേടത്തു ജാതിയെ വലിച്ചിഴച്ചുകൊണ്ടുവന്നു മാത്സര്യം വർദ്ധിപ്പിക്കുവാൻവേണ്ടി മാത്രമാണു് മി.
+തിയ്യന്റെ സംരംഭമെന്ന് അദ്ദേഹത്തോടു പറഞ്ഞാൽ, അദ്ദേഹം മുഷിയുമോ ആവോ? വർഗ്ഗീയവിദ്വേഷാഗ്നിയുടെ
+മുൻപിലിരുന്ന് അതിൽ സത്യത്തേയും, ന്യായത്തേയും ഹോമിച്ചു കൊണ്ടിരിക്കുന്ന സ്വാമിൻ, അങ്ങയ്ക്കിതാ വീണ്ടും,
+വീണ്ടും, നമസ്കാരം.
+</p>
+          <p>ഭഗവൻ, അങ്ങയുടെ ദാസനായ സഞ്ജയൻ ഒന്നുണർത്തിച്ചു കൊള്ളട്ടെ? ജാതികളെ അകറ്റിനിർത്തി,
+സവർണ്ണരുടെ അനാചാരങ്ങളെ സമ്മതിച്ചു് അവയൊക്കെ ശരിവെച്ചു കൊടുക്കുകയാണോ ഈ
+‘സവർണ്ണപത്ര’മായ ‘കേരളപത്രിക’ ചെയ്യുന്നതു്? ‘അതേ!’ എന്ന് അവിടുന്നു പറഞ്ഞാൽ പത്രികാവായനക്കാർ
+ഒരു സമയം അങ്ങയെ പുച്ഛിച്ചു്, പരിഹസിച്ചു, ചിരിച്ചേക്കും. അതിന്റെ ഉത്തരവാദിത്വവും അങ്ങുന്ന് സഞ്ജയനിൽ
+സമർപ്പിക്കുകയില്ലല്ലോ!
+</p>
+          <p>‘അവർണ്ണനായ ഒരാൾ എന്തുപറഞ്ഞാലും—രാവണായനം എഴുതുമെന്നു പറഞ്ഞാലും—നിങ്ങൾ
+അതിനെപ്പറ്റി ഒരക്ഷരം മിണ്ടരുതു്. മിണ്ടിയാൽ ജാതിദ്വേഷമാണെന്നു പറഞ്ഞു ഞാൻ ആഭാസമായി ശകാരിക്കും!’
+എന്നല്ലേ ചുരുക്കത്തിൽ—അവിടുന്നു പറയുന്നതിന്റെ അർത്ഥം? സാർ ശകാരിക്കണം! ഇഷ്ടംപോലെ,
+തളരുന്നതുവരെ, ശകാരിക്കണം! മഹാകവി പള്ളത്തു് അവർണ്ണനായതുകൊണ്ടോ, അതല്ല, അദ്ദേഹത്തിന്റെ
+അഭിപ്രായങ്ങളെ സഞ്ജയൻ പരിഹസിക്കുന്നതെന്നു സഞ്ജയന്റെ വായനക്കാർ തീർച്ചപ്പെടുത്തിക്കൊള്ളും.
+</p>
+          <p>ഇത്രയും പറഞ്ഞതുകൊണ്ട് അങ്ങുന്നു ശകാരിക്കുന്നതിനെക്കുറിച്ചു സഞ്ജയൻ പരിഭവിക്കുന്നുണ്ടെന്നു
+കരുതരുതേ. അങ്ങയുടെ ശകാരം സഞ്ജയനു പുഷ്പാഞ്ജലിയാണു്. ‘സഞ്ജയൻ ആരായാലും…’ എന്നു
+തുടങ്ങുന്നതും പലേ വിധത്തിലുള്ള മര്യാദകളും തുള്ളിത്തുളുമ്പുന്നതുമായ ഒരു വാചകം മി. തിയ്യൻ എഴുതിയിട്ടും അതു
+പ്രസിദ്ധീകരിക്കപ്പെട്ടിട്ടുമുണ്ടു്. ശ്രീമൻ സഞ്ജയന്റെ മര്യാദകളെല്ലാം സഞ്ജയനും വിസ്മരിക്കുകയാണെങ്കിൽ,
+അങ്ങയെ തന്മയത്വത്തോടുകൂടി അനുകരിക്കുന്നതു് അസാദ്ധ്യമാണെങ്കിലും, ഏതാണ്ടു് ഇങ്ങനെയുള്ള ഒരു
+വാചകം, കുറച്ചൊന്നു ശ്രമിച്ചാൽ, സഞ്ജയനും എഴുതുവാൻ കഴിഞ്ഞു എന്നു വന്നേക്കാം. പക്ഷേ, നമ്മുടെ സ്കൂളുകൾ
+രണ്ടും രണ്ടായിപ്പോയല്ലോ, മി. തിയ്യൻ!
+</p>
+          <p>തിയ്യസമുദായാംഗങ്ങളുടെ ഇടയിൽ സഞ്ജയന്റെ അകൈതവമായ. ബഹുമാനത്തിനും സ്നേഹത്തിനും
+പാത്രീഭവിച്ച പല മാന്യന്മാരുമുണ്ടു്. സഞ്ജയൻ ജാതിവിദ്വേഷം ഉള്ളിൽവെച്ചുകൊണ്ടാണു് ‘രാവണായനം’
+എഴുതിയതെന്നു തെറ്റിദ്ധരിക്കുവാൻ മാത്രമുള്ള—ഞാൻ എന്താണു പറയേണ്ടതു്?—കഠിനബുദ്ധി അവർക്കാർക്കും
+ഉണ്ടാവുകയില്ലെന്നു സഞ്ജയനു നല്ലവണ്ണമറിയാം. സഞ്ജയൻ പലവിധത്തിലും, പല ഘട്ടങ്ങളിലും
+ജാതിവ്യത്യാസത്തെക്കുറിച്ചു പറഞ്ഞതെന്തെന്നും പറയുന്നതെന്തെന്നും അവർ അറിഞ്ഞിരിക്കും.
+ജാതിക്കാര്യത്തിൽ സഞ്ജയൻ വർഗ്ഗീയവിദ്വേഷവും, അസൂയയുമുള്ള ഒരു യാഥാസ്ഥിതികനാണെന്ന് അവർ
+അഭിപ്രായപ്പെടുന്ന കാലത്തു്, അവർണ്ണരിൽ ആരെന്തു പറഞ്ഞാലും, ‘ഭേഷായിട്ടുണ്ടു്! ഒന്നാന്തരമായിട്ടുണ്ടു്!
+ശരിയാണു് അങ്ങനെയാണു് വേണ്ടതു്. രാവണായനമാണു് എഴുതേണ്ടത്’ എന്നൊക്കെ സഞ്ജയൻ
+പറഞ്ഞേക്കാം. ആ കാലം വരെ രാവണായനക്കാരേയും, ബകായനക്കാരേയും, പുതിയ ഗദ്യശൈലിക്കാരേയും,
+പഴയ പ്രതിഷേധക്കാരേയും, ആവുംപോലെ അനുകരിക്കുവാനുള്ള സ്വാതന്ത്ര്യം സഞ്ജയൻ ഉപേക്ഷിക്കുവാൻ
+ഒരുങ്ങീട്ടില്ലെന്നു മാത്രം പറഞ്ഞു്, ഈ വിഷയത്തിൽനിന്നു സഞ്ജയൻ വിരമിക്കുന്നു.
+</p>
+          <p>
+5-12-1934
+</p>
+          <p>
+            <ref target="https://books.sayahna.org/html/sanjayan-bio.html">സഞ്ജയന്റെ
+ലഘുജീവചരിത്രം</ref>
+          </p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ennepatti parayunnath (ml:
+എന്നെപ്പറ്റി പറയുന്നതു്).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Sanjayan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2021-12-20. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Sanjayan, Ennepatti
+parayunnath, സഞ്ജയൻ, എന്നെപ്പറ്റി പറയുന്നതു്, Open Access Publishing, Malayalam, Sayahna
+Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  January 22, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Harlequin_with_a_Guitar_MET_DP169316.jpg">Harlequin
+with a Guitar,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Juan_Gris">Juan Gris</ref>
+ (1887–1927). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Proofing:</hi>  Abdul Gafoor; <hi rend="bold">Typesetter:</hi>  LJ Anjana; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  LJ Anjana.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/sanjayan-ennepatti.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/sanjayan-ennepatti.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

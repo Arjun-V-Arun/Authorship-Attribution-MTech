@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു</title>
+          <title xml:lang="en" type="main">Ninne Njan Snehikkunnu</title>
+        </title>
+        <author>T. A. Rajalakshmi</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">August 2, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is in the public domain. The text encoding and editorial notes
+were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു</title>
+              <title xml:lang="en" type="main">Ninne Njan Snehikkunnu</title>
+            </title>
+            <author>T. A. Rajalakshmi</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Poem</term>
+          <term>T. A. Rajalakshmi</term>
+          <term>Ninne Njan Snehikkunnu</term>
+          <term>ടി. എ. രാജലക്ഷ്മി</term>
+          <term>നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="poem">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>August 2, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Modigliani_hanka.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Modigliani_hanka.jpg">Hanka
+Zborowska au Bougeoir,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Amedeo_Modigliani">Amedeo
+Modigliani</ref>  (1884–1920). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>ടി. എ. രാജലക്ഷ്മി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു</head>
+        <div type="lsection">
+          <lg>
+            <l> നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു</l>
+            <l> അറിയാൻ കഴിയാത്തവളെ</l>
+            <l> സ്വന്തമാക്കാൻ സാധിക്കാത്തവളെ</l>
+          </lg>
+          <lg>
+            <l>
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> വേദനതികട്ടി വരുന്ന</l>
+            <l> ഇന്നലെയാണെനിക്കു്</l>
+            <l> നീ</l>
+            <l> ഉദ്വേഗം നിറഞ്ഞ ഇന്നു്-</l>
+            <l> ഇരുട്ടിൽ കിടക്കുന്ന നാളെ-</l>
+          </lg>
+          <lg>
+            <l>
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> ജീവിതം പോലെ അഭികാമ്യയാണു് നീ</l>
+            <l> മരണം പോലെ ആകർഷകയാണു് നീ</l>
+            <l> വിദൂര പർവ്വത രേഖപോലെ</l>
+            <l> അപ്രാപ്യയാണു് നീ</l>
+            <l> സാന്ധ്യമേഘംപോലെ നിറം പകരുന്നവൾ</l>
+          </lg>
+          <lg>
+            <l>
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> നീ വരുന്നതിനുമുമ്പു്-</l>
+            <l> ആമയായിരുന്നു ഞാൻ</l>
+            <l> അംഗങ്ങൾ ഉൾവലിക്കുന്ന ആമ.</l>
+            <l> മുറിപ്പെട്ടാലോ എന്നു ഭയന്നു് ഞാൻ</l>
+            <l> കാൽ അനക്കിയില്ല</l>
+            <l> വേദന കാണരുതെന്നു വച്ചു് ഞാൻ കണ്ണടച്ചു.</l>
+            <l> ആർത്തനാദം കേൾക്കാതിരിക്കാൻ</l>
+            <l> ഞാൻ ചെവി പൊത്തിപ്പിടിച്ചു…</l>
+            <l> കണ്ണും ചെവിയും അടച്ചു്</l>
+            <l> നിന്നേടത്തു് അനങ്ങാതെ</l>
+            <l> നിൽക്കുമ്പോൾ</l>
+            <l> എന്റെ മേൽ പ്രഹരങ്ങൾ</l>
+            <l> തെരുതെരെ വന്നു വീണു-</l>
+            <l> പ്രകൃതിയുടെ ദയയില്ലാത്ത ആഘാതങ്ങൾ.</l>
+            <l> വേദനകൊണ്ടു് പിടയ്ക്കുമ്പോൾ-</l>
+            <l> മുറിവുകളിൽ നിന്നു് രക്തം</l>
+            <l> വാർന്നൊലിക്കുമ്പോൾ</l>
+            <l> ചുണ്ടു് കടിച്ചമർത്തി തലയുയർത്തിപ്പിടിച്ചു്</l>
+            <l> ഞാൻ നിന്നു.</l>
+            <l> വിരക്തിയുടെ പടച്ചട്ടയിട്ടു് വലിച്ചു് മുറുക്കി.</l>
+            <l> നിസ്സംഗതയുടെ മൂടൽമഞ്ഞു് പോലത്തെ</l>
+            <l> മൂടുപടം തലവഴി</l>
+            <l> ഇട്ടു് മൂടി</l>
+            <l> ആമയായിരുന്നു ഞാൻ.</l>
+            <l> ബാഹ്യലോകത്തിൽ നിന്നു് അവയവങ്ങളെ</l>
+            <l> ഉള്ളിലേക്കു് വലിക്കുന്ന ആമ…</l>
+            <l> ഹൃദയം മരവിച്ചു് കട്ടിപിടിച്ചു് തുടങ്ങിയപ്പോൾ</l>
+            <l> അവിടെ ഇനി ചലനമൊന്നുമുണ്ടാവില്ലെന്നു്</l>
+            <l> വിചാരിച്ചപ്പോൾ</l>
+            <l> നീ മുമ്പിൽ വന്നു.</l>
+            <l> മണ്ണിൽ തൊട്ടു് നിൽക്കുന്ന മാനത്തിന്റെ</l>
+            <l> ഓമന മഴവില്ലു്!</l>
+            <l> കവിതപോലെ മനോഹാരിണി</l>
+            <l> പ്രേമഗാനം പോലെ ഹൃദയസ്പർശിനി</l>
+          </lg>
+          <lg>
+            <l>
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> നിന്റെ അസുലഭമായ പുഞ്ചിരിയിൽ-</l>
+            <l> ഉണങ്ങി മരുഭൂമിയായിരുന്നിടത്തു് നീർ വീണു.</l>
+            <l> മുരടിച്ചു് പോയിരുന്നതു് വീണ്ടും തളിരിട്ടു.</l>
+            <l> ലോകം പുതിയതായി കണ്ടു ഞാൻ</l>
+            <l> വിരക്തിയുടെ ഏങ്കോണിച്ച ചില്ലിലൂടെയല്ല.</l>
+            <l> നിസ്സംഗതയുടെ വഴുതിവീഴുന്ന</l>
+            <l> മറയിലൂടെയല്ല.</l>
+            <l> നഗ്നമായി</l>
+            <l> സുന്ദരമായി</l>
+          </lg>
+          <lg>
+            <l>
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> ഭൂമിയിൽ കാലുറപ്പിച്ചു് ചവിട്ടാൻ</l>
+            <l> നീ എന്നെ പഠിപ്പിച്ചു.</l>
+            <l> ചെളിയാവുമെന്നുവെച്ചു് നടക്കാതെ</l>
+            <l> ഇരിക്കുകയായിരുന്നു ഞാൻ</l>
+            <l> ഈ മണ്ണിനഴകുണ്ടെന്നു്-</l>
+            <l> അതിലെ വൃത്തികേടുകൾ കണ്ണീരിന്റെ</l>
+            <l> തെളിനീരിൽ കഴുകി</l>
+            <l>പോകാനുള്ളതെയുള്ളു എന്നു്</l>
+            <l> നീ എന്നെ പഠിപ്പിച്ചു.</l>
+            <l> വാക്കുകൾ കൊണ്ടല്ല.</l>
+            <l> നിന്റെ ഉജ്ജ്വല സത്തയിൽ കൂടി.</l>
+            <l> നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> ജീവിതത്തിൽ കവിത കലർത്തിയവളെ</l>
+            <l> ഹൃദയത്തിൽ ഗാനം പകർത്തിയവളെ</l>
+          </lg>
+          <lg>
+            <l>
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> സർവ്വം സഹയായ അമ്മയല്ല നീ.</l>
+            <l> വിഭ്രമിപ്പിക്കുന്ന കാമിനിയാണു് നീ.</l>
+            <l> ജീവൻപോലെ ചൈതന്യവതി.</l>
+            <l> വാസന്ത ഭംഗിപോലെ വിമോഹിനി</l>
+          </lg>
+          <lg>
+            <l>
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> എനിക്കു് കൈയെത്താത്ത ദൂരം</l>
+            <l> നീ പൊയ്ക്കഴിഞ്ഞു.</l>
+            <l> മറ്റൊരാൾക്കു് അവകാശപ്പെട്ടതായി</l>
+            <l>ക്കഴിഞ്ഞു നീ.</l>
+            <l> ബോധപൂർവ്വം</l>
+            <l> എന്നെ നീ വേദനയിലേക്കെറിഞ്ഞു</l>
+          </lg>
+          <lg>
+            <l>
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു.</l>
+            <l> ഈ കണ്ണുനീരിനു് ഉപ്പുരസമുണ്ടു്</l>
+            <l> ജീവിതത്തിന്റെ ഉപ്പുരസം.</l>
+            <l> എന്നെ വേദനിപ്പിച്ചവളെ</l>
+            <l> എന്റെ ഹൃദയം മുറിപ്പെടുത്തിയവളെ</l>
+            <l> നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു. </l>
+          </lg>
+          <!--end of "verse"-->
+          <p style="noindent">
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ടി. എ. രാജലക്ഷ്മി</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rajalakshmi.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: ജൂൺ 2, 1930
+</p>
+          <p>മരണം: ജനുവരി 18, 1965
+</p>
+          <p>പഠിച്ച വിദ്യാലയം: ബനാറസ് ഹിന്ദു സർവ്വകലാശാല.
+</p>
+          <p>ശ്രദ്ധേയമായ രചന(കൾ): ഉച്ചവെയിലും ഇളംനിലാവും, ഞാനെന്ന ഭാവം.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">ജീവിതരേഖ</head>
+            <p style="noindent">പാലക്കാട് ജില്ലയിലെ ചെർപ്പുളശ്ശേരിയിൽ തേക്കത്ത് അമയങ്കോട്ട് തറവാട്ടിൽ
+
+മാരാത്ത് അച്യുതമേനോന്റെയും ടി. എ. കുട്ടിമാളു അമ്മയുടെയും മകളായാണു് രാജലക്ഷ്മിയുടെ ജനനം.
+എറണാകുളം ഗവണ്മെന്റ് ഗേൾസ് ഹൈസ്കൂളിൽ ഭൗതികശാസ്ത്രത്തിൽ ബിരുദം നേടിയതിനു ശേഷം
+തിരുവനന്തപുരം യൂണിവേഴ്സിറ്റി കോളേജിൽ മലയാളസാഹിത്യത്തിൽ ബിരുദാനന്തരബിരുദത്തിനു
+ചേർന്നുവെങ്കിലും പഠനം പാതിയിൽ നിറുത്തി. പിന്നീടു് രാജലക്ഷ്മി ബനാറസ് ഹിന്ദു സർവകലാശാലയിൽനിന്നു്
+1953-ൽ ഭൗതികശാസ്ത്രത്തിൽ മാസ്റ്റർ ബിരുദംനേടി. പെരുന്താന്നി, പന്തളം, ഒറ്റപ്പാലം എൻ. എസ്. എസ്.
+കോളേജുകളിൽ അദ്ധ്യാപക വൃത്തിനോക്കി.
+</p>
+            <p>1956-ൽ മാതൃഭൂമി ആഴ്ചപ്പതിപ്പു് പ്രസിദ്ധീകരിച്ച ‘മകൾ’ എന്ന നീണ്ടകഥയിലൂടെയാണു് രാജലക്ഷ്മി
+ശ്രദ്ധിക്കപ്പെടുന്നതു്. 1958-ൽ ‘ഒരു വഴിയും കുറേ നിഴലുകളും’ എന്ന നോവൽ ആഴ്ചപ്പതിപ്പിൽ
+പ്രസിദ്ധീകരിച്ചുതുടങ്ങി. 1960-ൽ ‘ഉച്ചവെയിലും ഇളംനിലാവും’ എന്ന നോവൽ മാതൃഭൂമി ആഴ്ചപ്പതിപ്പിൽ
+ഖണ്ഡശ്ശയായി വന്നുതുടങ്ങിയെങ്കിലും ഏഴെട്ടു് ഭാഗങ്ങൾക്കു ശേഷം രാജലക്ഷ്മിയുടെ ആവശ്യപ്രകാരം നോവൽ
+നിർത്തിവെച്ചു. തങ്ങളുടെ കഥയാണു രാജലക്ഷ്മി വിറ്റുകാശാക്കുന്നതെന്ന ചില ബന്ധുക്കളുടെ ആക്ഷേപമാണു്
+ഇതിനു കാരണമായതു്. എഴുതിയ നോവൽ പിന്നീടു് രാജലക്ഷ്മി കത്തിച്ചുകളയുകയുണ്ടായി. 1965-ൽ ‘ഞാനെന്ന
+ഭാവം’ എന്ന നോവൽ മാതൃഭൂമി ആഴ്ചപ്പതിപ്പിലൂടെ പുറത്തുവന്നു. മാതൃഭൂമിയെക്കൂടാതെ മംഗളോദയം, തിലകം,
+ജനയുഗം, നവജീവൻ എന്നീ പ്രസിദ്ധീകരണങ്ങളിലാണു് രാജലക്ഷ്മി കഥകൾ എഴുതിയിരുന്നതു്. 1965 ജനുവരി
+18-നു് രാജലക്ഷ്മി രാവിലെ വീട്ടിൽ നിന്നു് കോളേജിലേക്കു് പുറപ്പെട്ടു. പക്ഷേ, വീട്ടിൽ തിരിച്ചെത്തി ആത്മഹത്യ
+ചെയ്തു. അന്നു് അവർക്കു് 34 വയസ്സായിരുന്നു. ഇവരുടെ സഹോദരിയായിരുന്നു ഗണിതശാസ്ത്രജ്ഞയായ ടി. എ.
+സരസ്വതിയമ്മ
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+          <div type="lsubsection" xml:id="sec1.2.2">
+            <head type="lsubsechead">പൈതൃകവും ബഹുമതികളും</head>
+            <p style="noindent">മലയാളത്തിന്റെ എമിലി ബ്രോണ്ടി എന്നാണു് രാജലക്ഷ്മി അറിയപ്പെടുന്നതു്. ഏഴു്
+ചെറുകഥയും ഒരു ഗദ്യ കവിതയും കവിതാ സമാഹാരവും, മൂന്നു് നോവലും എഴുതി. ‘ഒരു വഴിയും കുറേ നിഴലുകളും’
+എന്ന കൃതിക്കു് 1960-ൽ നോവലിനുള്ള കേരള സാഹിത്യ അക്കാദമി അവാർഡ് കിട്ടി. ഈ നോവൽ പിന്നീടു്
+ദൂരദർശനിൽ സീരിയലായും ആകാശവാണിയിൽ നാടകമായും സംപ്രേക്ഷണം ചെയ്തു. മറ്റു് നോവലുകൾ
+‘ഞാനെന്ന ഭാവം’, ‘ഉച്ചവെയിലും ഇളം നിലാവും’ എന്നിവയാണു്. “നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു” എന്ന കവിതാ
+സമാഹാരം വളരെ ശ്രദ്ധിക്കപ്പെട്ടു.
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.2"-->
+          <div type="lsubsection" xml:id="sec1.2.3">
+            <head type="lsubsechead">കൃതികൾ</head>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.3"-->
+          <div type="lsubsection" xml:id="sec1.2.4">
+            <head type="lsubsechead">നോവലുകൾ</head>
+            <list rend="bulleted">
+              <item>ഒരു വഴിയും കുറേ നിഴലുകളും </item>
+              <item>ഉച്ചവെയിലും ഇളംനിലാവും (അപൂർണ്ണം) </item>
+              <item>ഞാനെന്ന ഭാവം </item>
+            </list>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.4"-->
+          <div type="lsubsection" xml:id="sec1.2.5">
+            <head type="lsubsechead">കഥകൾ</head>
+            <list rend="bulleted">
+              <item>രാജലക്ഷ്മിയുടെ കഥകൾ </item>
+              <item>സുന്ദരിയും കൂട്ടുകാരും </item>
+              <item>മകൾ </item>
+              <item>ആത്മഹത്യ </item>
+            </list>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.5"-->
+          <div type="lsubsection" xml:id="sec1.2.6">
+            <head type="lsubsechead">കവിതകൾ</head>
+            <p style="noindent">കുമിള (1963), നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു എന്നിങ്ങനെ രാജലക്ഷ്മിയുടെ രണ്ടു
+കവിതകൾ മാതൃഭൂമി ആഴ്ചപ്പതിപ്പിൽ പ്രസിദ്ധീകരിച്ചിരുന്നു.
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.6"-->
+          <div type="lsubsection" xml:id="sec1.2.7">
+            <head type="lsubsechead">പുരസ്കാരങ്ങൾ</head>
+            <p style="noindent">കേരള സാഹിത്യ അക്കാദമി അവാർഡ് (നോവൽ) 1960—ഒരു വഴിയും കുറേ
+നിഴലുകളും.
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.7"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ninne Njan Snehikkunnu (ml:
+നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  T. A. Rajalakshmi.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Poem, T. A. Rajalakshmi,
+Ninne Njan Snehikkunnu, ടി. എ. രാജലക്ഷ്മി, നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  August 2, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+in the public domain. The text encoding and editorial notes were created and​/or prepared by
+the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution By ShareAlike 4​.0 International License</ref>  (CC BY-SA 4​.0). Any reuse
+of the material should credit the Sayahna Foundation and must be shared under the same
+terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Modigliani_hanka.jpg">Hanka
+Zborowska au Bougeoir,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Amedeo_Modigliani">Amedeo
+Modigliani</ref>  (1884–1920). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajalakshmi-ninnenjan.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajalakshmininnenjan.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

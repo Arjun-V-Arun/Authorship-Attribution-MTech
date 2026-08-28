@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഇട്ടികണ്ടപ്പനെക്കൊണ്ടു് എന്തുണ്ടു
+പ്രയോജനം?</title>
+          <title xml:lang="en" type="main">Ittikandappanekond Enthundu
+Prayojanam?</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">November 16, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഇട്ടികണ്ടപ്പനെക്കൊണ്ടു് എന്തുണ്ടു
+പ്രയോജനം?</title>
+              <title xml:lang="en" type="main">Ittikandappanekond Enthundu
+Prayojanam?</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Ittikandappanekond Enthundu Prayojanam?</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>ഇട്ടികണ്ടപ്പനെക്കൊണ്ടു് എന്തുണ്ടു പ്രയോജനം?</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>November 16, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Church_at_Moret_after_the_Rain.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Alfred_Sisley__Church_at_Moret_after_the_Rain_-_20.114__Detroit_Institute_of_Arts.jpg">Church at Moret after the Rain,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Alfred_Sisley">Alfred
+Sisley</ref>  (1839–1899). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഇട്ടികണ്ടപ്പനെക്കൊണ്ടു് എന്തുണ്ടു പ്രയോജനം?</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഇട്ടികണ്ടപ്പനെക്കൊണ്ടു് എന്തുണ്ടു പ്രയോജനം?</head>
+        <div type="lsection">
+          <p style="noindent">മെയ് 11-നും 12-നുമിടക്കുള്ള രാത്രിയിലാണു് എറണാകുളം ജില്ലയിൽ ചെല്ലാനം
+പഞ്ചായത്തിലെ കുതിരക്കൂർ ദ്വീപിൽ മഴനൃത്തം എന്ന ഓമനപ്പേരോടെ ആഭാസനൃത്തം അരങ്ങേറിയതു്.
+രൂക്ഷമായ കുടിവെള്ളക്ഷാമം നിലനിൽക്കുന്ന ചെല്ലാനത്തു് 14,000 ലിറ്റർ ശുദ്ധജലമാണു് മഴ നൃത്തത്തിനായി
+പാഴാക്കിയതു്. പച്ചവെള്ളത്തേക്കാൾ സുലഭമായിരുന്നു വിദേശമദ്യം.
+</p>
+          <p>മെയ് 13-ാം തീയതി മിക്കവാറും പത്രങ്ങളും നനഞ്ഞാട്ടത്തെപ്പറ്റി വെണ്ടക്ക നിരത്തിയപ്പോൾ പത്തുലക്ഷവും
+ഏഴരലക്ഷവും പ്രചാരമുള്ള നമ്മുടെ ദേശീയ പത്രങ്ങൾ അദ്ഭുതകരമാംവിധം മൗനം അവലംബിച്ചു. പശ്ചിമ
+കൊച്ചിയെ സെക്സ് ടൂറിസം മേഖലയാക്കി മാറ്റാനുള്ള ആസൂത്രിതമായ പദ്ധതിയുടെ ഭാഗമാണു് ചെല്ലാനം
+പഞ്ചായത്തിലെ കുതിരക്കൂർക്കരി ദ്വീപിൽ കഴിഞ്ഞദിവസം അരങ്ങേറിയ മഴനൃത്തമെന്നു് യുവജനവേദി ജില്ലാ
+കമ്മിറ്റി ആരോപിച്ചു എന്ന വാർത്ത ലോക്കൽ പേജിൽ ഏറ്റവും അപ്രധാനസ്ഥാനത്തു് മൂന്നു് സെന്റിമീറ്റർ
+ദൈർഘ്യത്തിൽ പ്രസിദ്ധീകരിക്കാൻ മലയാള മനോരമ സൗമനസ്യം കാണിച്ചു. മാതൃഭൂമി അത്രപോലും
+ധൈര്യപ്പെട്ടില്ല. വമ്പൻ പരസ്യദാതാക്കളായ കാസിനോ ഹോട്ടൽസ് ഗ്രൂപ്പാണു് മഴനൃത്തത്തിന്റെ സംഘാടകർ.
+മഴനൃത്തം മഹാശ്ചര്യം, നമുക്കുകിട്ടണം പരസ്യം!
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/KV_Thomas.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. വി. തോമസ്</figDesc>
+          </figure>
+          <p> സ്വകാര്യ ഹോട്ടലുകളും മറ്റും സംഘടിപ്പിക്കുന്ന വിനോദനൃത്തപരിപാടികളുമായി സംസ്ഥാന
+ടൂറിസംവകുപ്പിനു് ബന്ധമൊന്നുമില്ലെന്ന മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/KV_Thomas">കെ. വി. തോമസി</ref> ന്റെ
+പ്രസ്താവന മെയ് 14-നു് ഉൾപ്പേജിൽ സാമാന്യം പ്രാധാന്യത്തോടെ മനോരമ പ്രസിദ്ധീകരിച്ചപ്പോൾ മന്ത്രിയുടെ
+പ്രസ്താവനയും കാത്തലിക് യൂത്ത് മൂവ്മെന്റിന്റെ പ്രതിഷേധക്കുറിപ്പും മാതൃഭൂമി ലോക്കൽ പേജിൽ തള്ളി.
+</p>
+          <p>മഴ നനയണോ വേണ്ടയോ? എന്ന തികച്ചും നിർദോഷമായ ഒരു ചോദ്യം മെയ് 15-ന്റെ ‘മെട്രോ മനോരമ’
+എയ്തു വിട്ടു. സ്വകാര്യ ഭൂമിയിൽ കൃത്രിമ മഴ പെയ്യിച്ചു് നൃത്തം ചെയ്താൽ അതു് നമ്മുടെ സംസ്കാരത്തോടുള്ള
+വെല്ലുവിളിയാകുമോ? അതോ ആഹ്ലാദത്തിന്റെ സ്വതന്ത്രമായ പ്രകാശനമാണോ അതു്? എന്നീ ഉപചോദ്യങ്ങളും
+ഉന്നയിച്ചു. ആദ്യത്തെ രണ്ടു ഉപചോദ്യത്തിനും “അല്ല” എന്നും മൂന്നാമത്തേതിനു് “അതെ” എന്നുമുള്ള ഉത്തരമാണു്
+പത്രം പ്രതീക്ഷിക്കുന്നതെന്നു് വ്യക്തം.
+</p>
+          <p>ഉത്തരം പറയാൻ സർവഥാ യോഗ്യരായ അഞ്ചു പുമാന്മാരെയും കണ്ടുപിടിച്ചു, ദൈവാധീനമെന്നു പറയട്ടെ
+അഞ്ചുപേരും പുരുഷന്മാർ. “വിശുദ്ധന്മാരുടെ സർവസഭകളിലും എന്നപോലെ സ്ത്രീകൾ സഭയോഗങ്ങളിലും
+മിണ്ടാതിരിക്കട്ടെ. ന്യായപ്രമാണവും പറയുന്നതുപോലെ കീഴടങ്ങിയിരിപ്പാനല്ലാതെ സംസാരിപ്പാൻ അവർക്കു്
+അനുവാദമില്ല” (കൊരിന്ത്യർ 13: 34) എന്നാണല്ലോ ദൈവവചനം. ഫാഷൻമോഡൽ കോ-ഓർഡിനേറ്റർ,
+സിനിമാ കാമാറാമാൻ, ഹെയർ സ്റ്റൈലിസ്റ്റ് (ക്ഷുരകൻ?), സാമൂഹിക പ്രവർത്തകൻ, ഫാഷൻ ഫോട്ടോഗ്രാഫർ
+എന്നിവരാണു് മനോരമ കണ്ടെത്തിയ പഞ്ചമഹാപ്രതിഭകൾ. നനഞ്ഞാട്ടം നടത്തിയതിലും കുടിവെള്ളം
+പാഴാക്കിയതിലും തെറ്റൊന്നുമില്ലെന്നു് ഫാഷൻ മോഡൽ കോ-ഓർഡിനേറ്റർ, മഴനൃത്തം കാലഘട്ടത്തിന്റെ
+ആവശ്യമെങ്കിലും ശുദ്ധജലം ചെലവാക്കിയതു് ശരിയല്ലെന്നു് ഛായാഗ്രാഹകനും കേശാലങ്കാരകനും,
+ആഭാസനൃത്തം അംഗീകരിക്കാനാവില്ലെന്നു് സാമൂഹികപ്രവർത്തകൻ. നനഞ്ഞാട്ടം നടത്തിയില്ലെങ്കിലും
+കുഴപ്പമില്ലായിരുന്നുവെന്നു് ഫാഷൻ ഫോട്ടോഗ്രാഫർ.
+</p>
+          <p>മെയ് 16 ആകുമ്പോഴേക്കും മന്ത്രി തോമസ് നിലപാടു് അൽപമൊന്നു മാറ്റി. അമേരിക്കയിലെ ഭീകരാക്രമണം,
+അഫ്ഗാൻയുദ്ധം, ഗുജറാത്തു് കലാപം എന്നിവ മൂലം രാജ്യത്തെ ഹോട്ടൽ വ്യവസായം തകർച്ചയിലാണെന്നും
+അതിൽനിന്നു് രക്ഷനേടാനാണു് മഴനൃത്തവും ‘മറ്റും’ സംഘടിപ്പിക്കാൻ ഹോട്ടലുകാർ തയാറാകുന്നതെന്നും മന്ത്രി
+പറഞ്ഞു. മഴയേ പെയ്യാത്ത ദുബൈയിൽ ആകാമെങ്കിൽ ചെല്ലാനത്തുമാകാം. ദുബൈയിൽ ഉള്ളതുകൊണ്ടു്
+ജമാഅത്തു് കൗൺസിലിനോ കാന്തപുരം മുസ്ലിയാർക്കോ ഇനി എതിർക്കാനുമാകില്ല.
+
+</p>
+          <p>നനഞ്ഞാട്ടമുയർത്തിയ വിവാദം കെട്ടടങ്ങാൻ തുടങ്ങുമ്പോഴാണു് കഥാകൃത്തും മഹാബുദ്ധിജീവിയുമായ
+സക്കറിയ ‘കുതിരക്കൂറിലെ മഴനൃത്തവും ബുദ്ധിമാന്ദ്യവും’ എന്ന ലേഖനവുമായി (മലയാള മനോരമ, മെയ് 21)
+രംഗത്തെത്തുന്നതു്. കുതിരക്കൂർ ദ്വീപിൽ നടന്ന മഴനൃത്തത്തെ വിവാദമാക്കിത്തീർത്ത (കു)ബുദ്ധികളെ
+സാംസ്കാരികമായ ബുദ്ധിമാന്ദ്യത്തിനൊരു ജ്ഞാനപീഠ സമ്മാനമുണ്ടെങ്കിൽ അതിനു് നിർദേശിക്കണമെന്നാണു്
+കറിയാച്ചന്റെ വിദഗ്ധാഭിപ്രായം.
+</p>
+          <p>നാലാളു പറയുന്നതിനും ചിന്തിക്കുന്നതിനുമൊക്കെ എതിരു പറയുന്ന കലയുടെ ഉപജ്ഞാതാവു്
+യശഃശരീരനായ <ref target="https://ml.wikipedia.org/wiki/M_P_Narayanapillai">എം. പി.
+നാരായണപിള്ള</ref> യാണു്. ഇതാണു് മലയാളത്തിലെ പുല്ലുവഴിച്ചിട്ട. നല്ല വഴിയല്ലെങ്കിൽ പുല്ലുവഴി
+എന്നൊരു ചൊല്ലുതന്നെയുണ്ടു് മധ്യകേരളത്തിൽ. പണ്ടു് (1984) മഹാരാഷ്ട്ര ഉപ മുഖ്യനായിരുന്ന <ref target="https://en.wikipedia.org/wiki/Ramrao_Adik">രാമറാവു അദിക്</ref>
+ഹാനോവറിലേക്കുള്ള യാത്രാമധ്യേ മദ്യപിച്ചു് മദോന്മത്തനായി എയർ ഹോസ്റ്റസിനെ കയറിപ്പിടിച്ച
+സംഭവമുണ്ടായപ്പോൾ നാണപ്പൻ മാത്രമാണു് അദികിനെ പിന്തുണച്ചതു്. നാണപ്പജിയുടെ അഭിപ്രായത്തിൽ
+ഉഡുപ്പി ഹോട്ടലിലെ സപ്ലയർപയ്യന്മാർ ചെയ്യുന്ന ജോലിയേയുള്ളു എയർ ഹോസ്റ്റസുമാർക്കും. അപ്പോൾപ്പിന്നെ
+കനത്ത ശമ്പളം കൊടുത്തു് ഈ ചരക്കുകളെ ജോലിക്കു് വെച്ചിരിക്കുന്നതു് യാത്രക്കാർക്കു് കയറിപ്പിടിക്കാൻ
+വേണ്ടികൂടിയാണു്!
+</p>
+          <p>പുല്ലുവഴിക്കാരന്റേതുപോലെ നിഷ്കളങ്കമല്ല ഉരുളിക്കുന്നത്തുകാരന്റെ മനസ്സിലിരിപ്പു്. സ്വയം ബുദ്ധിജീവിയായി
+അഭിനയിച്ചു് മറ്റുള്ളവരെ വിഡ്ഢികളാക്കുന്ന ഒരു അഭിനവ ഇട്ടിക്കണ്ടപ്പൻ. തനിക്കിഷ്ടമില്ലാത്തവരെ മൊത്തം
+ഫാഷിസ്റ്റുകളായി മുദ്രകുത്തി ആക്ഷേപിക്കാനാണു് കറിയാച്ചനിഷ്ടം. ഇര ആരുമാകാം—യേശുദാസോ, അടൂർ
+ഗോപാലകൃഷ്ണനോ, ആനന്ദോ, വിജയനോ, ബാലചന്ദ്രനോ, കാർത്തികേയനോ ആരും. (നമ്പൂരാരുടെ
+സംഘക്കളിയിലെ വിദൂഷക കഥാപാത്രമായ ഇട്ടിക്കണ്ടപ്പനോടു് തന്നെ ഉപമിച്ചതു് രാജേശ്വരിയുടെ സവർണ
+ഫാഷിസ്റ്റുമൂരാച്ചി മനഃസ്ഥിതികൊണ്ടാണെന്നും കപട സദാചാരത്തിന്റെ കാര്യത്തിൽ ഹിന്ദു, മുസ്ലിം ഫാഷിസ്റ്റുകൾ
+ഒന്നും കറിയാച്ചൻ തിരിച്ചടിക്കും, തീർച്ച).
+</p>
+          <p>ലോക മുതലാളിത്തത്തിന്റെ കുഴലൂത്തുകാരനുമാകുന്നു സക്കറിയ. എറണാകുളം സെന്റ് തെരേസാസിലെ
+കുബേരികുമാരിമാരുടെ നഗ്നചിത്രങ്ങൾ ഇന്റർനെറ്റിൽ വന്നപ്പോൾ കറിയാച്ചൻ കഠിനമായി ഞെട്ടി.
+പെൺകിടാങ്ങളുടെ കൗമാരചാപല്യത്തെ ലോകസമക്ഷം അപഹസ്യമാക്കിയ നമ്മുടെ മാധ്യമസംസ്കാരത്തെ
+അപലപിച്ചു. മുറിവേറ്റ മനുഷ്യപുത്രിമാരെപ്പറ്റി പരിതപിച്ചു. മറ്റുള്ളവർക്കുവേണ്ടി അവരോടു് മാപ്പുചോദിക്കുകയും
+ചെയ്തു. എന്നാൽ, അതേ കോളേജിലെ ദലിത് വിദ്യാർത്ഥിനികളെ സവർണരിൽനിന്നു മാറ്റിപ്പാർപ്പിച്ചപ്പോൾ, ആ
+വിവരം മാതൃഭൂമിയും മനോരമയും ഒഴികെയുള്ള പത്രങ്ങൾ റിപ്പോർട്ട് ചെയ്തപ്പോൾ കറിയാച്ചനു് ഒരു
+വികാരവുമുണ്ടായില്ല. ഒരു വരിപോലും ആ കനകതൂലികയിൽനിന്നു് ഉതിർന്നു് വീണതുമില്ല.
+</p>
+          <p>മധ്യതിരുവിതാംകൂറുകാരന്റെ ആഞ്ഞബുദ്ധിയാണു് മഴനൃത്തലേഖനത്തിലുമുള്ളതു്. സിനിമയിലുണ്ടല്ലോ
+മഴനൃത്തം? കേരളത്തെ സംബന്ധിച്ചിടത്തോളം സിനിമയേക്കാൾ നൂറുമടങ്ങു് പ്രാധാന്യമുള്ള വ്യവസ്ഥയാണു്
+ടൂറിസമെന്നിരിക്കെ ടൂറിസത്തിലെ മഴനൃത്തം എങ്ങനെ ആഭാസമാകും എന്നാണു് സക്കറിയുടെ സംശയം.
+മാധ്യമങ്ങളടക്കമുള്ള മേഖലകളിൽ ചില മലയാളികൾ പ്രദർശിപ്പിക്കുന്ന വിചിത്രമായ അപകർഷബോധമാണു്
+സിനിമാമഴയെ നല്ലതാക്കുന്നതും ടൂറിസംമഴയെ മോശമാക്കുന്നതും എന്നദ്ദേഹം വിലയിരുത്തുന്നു. “…ടൂറിസം
+പരദേശികൾക്കുവേണ്ടിയാണു്. അവർ ലക്ഷക്കണക്കിനു് രൂപ ചെലവഴിച്ചാണു് കേരളത്തിലെത്തുന്നതു്. അവർ
+അനുഭവിക്കുന്ന സുഖസൗകര്യങ്ങൾ നമുക്കു് കൈയടക്കാൻ എളുപ്പമല്ല. അവരുടെ ശൈലികൾ കാണുമ്പോൾ
+നമ്മിൽ ചിലർക്കു് അന്യതാബോധവും അസ്വസ്ഥതയും എല്ലാമുണ്ടാകുന്നു. ഈ വ്യസനം ഉണ്ടാക്കുന്ന
+വർഗസമരപരമായ നഷ്ടബോധവും അപകർഷതയുമാണു്. ടൂറിസത്തിന്റെ മഴനൃത്തത്തെ സംസ്കാരരഹിതമായും
+സിനിമയുടെ മഴനൃത്തത്തെ നമ്മുടെ പ്രിയപ്പെട്ട മോഹിനിയാട്ടിൻകുട്ടിയായും കാണുന്ന മനഃശാസ്ത്രത്തിന്റെ
+താക്കോൽ. അൽപം വർഗീയതകൂടി കലർത്തിയാൽ മലയാളത്തനിമ പൂർത്തിയായി.
+</p>
+          <p>കുതിരക്കൂർ ദ്വീപിൽ മഴനൃത്തമാടിയവരിലും കാഴ്ചക്കാരിലും വിരലിലെണ്ണാവുന്ന പേരെയുണ്ടായിരുന്നുള്ളു.
+വിദേശികൾ. മുക്കാലേമുണ്ടാണിയും ‘വർഗസമരപരമായി’ ദേശീയ ബൂർഷ്വാസിയുടെ പ്രതിനിധികൾ തന്നെ.
+വിദേശ ടൂറിസ്റ്റുകൾക്കായി ബാർലൈസൻസു കൊടുക്കുന്നു. മസാജ്പാർലറുകൾ തുറക്കുന്നു. രണ്ടിടത്തും
+പറ്റുപടിക്കാർ സ്വദേശികൾ. ഇതാണു് സാക്ഷാൽ മലയാളത്തനിമ.
+</p>
+          <p>നൃത്തമില്ലാത്ത, കല്ലിച്ച സമൂഹമാണു് കേരളമെന്നും ഇവിടെ മനുഷ്യർക്കു് വരിഞ്ഞു മുറുക്കിയ
+മസിലുകളേയുള്ളുവെന്നും സക്കറിയ നിരീക്ഷിക്കുന്നു. “…കുതിരക്കൂറിലെ മഴനൃത്തത്തെപ്പറ്റി മുറുമുറുക്കുകയും
+പല്ലുകടിക്കുകയും ചെയ്യുന്നതിൽ ആ പഴയ യാഥാസ്ഥിതികത്വവും കൂട്ടുചേരുന്നുണ്ടു്; അനങ്ങാപ്പിത്തങ്ങളുടെ
+ക്രോധം. എനിക്കു് നൃത്തം ചെയ്യാൻ വയ്യ. പിന്നെ നീയെങ്ങനെ നൃത്തംചെയ്യാൻ ധൈര്യപ്പെടുന്നു എന്ന ക്ഷോഭം.”
+
+കള്ളുകുടിച്ചു നൃത്തംവെക്കുന്നതോടെ കല്പിച്ച സമൂഹം കുറേശ്ശ അലിയുമെന്നു് പ്രത്യാശിക്കുക. സാമൂഹിക
+നരവംശശസ്ത്രങ്ങൾക്കു് സക്കറിയയുടെ അമൂല്യ സംഭാവന!
+</p>
+          <p>“ഓരോ ദിവസവും പത്തോളം മലയാളികളെ—ചിലപ്പോൾ മുഴുവൻ കുടുംബങ്ങളെ—അരച്ചുവധിക്കുന്ന
+കേരളീയ ട്രാഫിക് സംസ്കാരവും ഇവർക്കു് ഭീഷണിയല്ല. കോടിക്കണക്കിനു ജീവിതങ്ങൾ താറുമാറാക്കുന്ന
+ബന്ദ്സംസ്കാരവും ഭീഷണിയല്ല. സ്ത്രീ പീഡന സംസ്കാരവുമല്ല. അഴിമതിസംസ്കാരവുമല്ല, മണൽവാരൽ
+സംസ്കാരവുമല്ല! മഴനൃത്തമാണു് ഇന്നത്തെ കേരളം അഭിമുഖീകരിക്കുന്ന ഏറ്റവും വലിയ പ്രതിസന്ധി! എന്തൊരു
+പമ്പരവിഡ്ഢികൾ!”—കറിയാച്ചന്റെ ധർമരോഷം തിളച്ചുപൊന്തുകയാണു്.
+</p>
+          <p>നനഞ്ഞാട്ടത്തിലെ അപകടം മനസ്സിലാക്കാൻ കറിയാച്ചന്റെ അതിബുദ്ധിയൊന്നും വേണ്ട, രണ്ടുനേരം
+അരിഭക്ഷണം കഴിച്ചാലുണ്ടാകുന്ന മിതമായ സാമാന്യബുദ്ധി ധാരാളം മതി. മഴനൃത്തം രോഗമല്ല,
+രോഗലക്ഷണമാണു്. സെക്സ്ടൂറിസത്തിന്റെ വാതായനങ്ങളാണു് തോമസ് മാഷും ലീഡർമകളും പരിവാരങ്ങളും
+തുറന്നിടുന്നതു്. ടൂറിസത്തിന്റെ മറവിൽ വ്യഭിചാരമാണു് ഇനിയിവിടെ തഴച്ചുവളരുക. കേരളം മറ്റൊരു
+തായ്ലാന്റോ ഫിലിപ്പിൻസോ ആകാൻ വലിയ താമസമുണ്ടാകില്ല. ബന്ദും അഴിമതിയും സ്ത്രീപീഡനവും
+മണൽവാരലുമൊന്നും കേരളീയ സമൂഹത്തിനു് ഭീഷണിയല്ലെന്നു നനഞ്ഞാട്ടത്തെ എതിർക്കുന്നവരും
+പറഞ്ഞിട്ടില്ല. പക്ഷേ, ഇവയേക്കാളൊക്കെ എത്രയോ വലിയ ഭീഷണിയാണു് ഇന്റർനെറ്റിൽ സക്കറിയ എഴുതുന്ന
+തെറിക്കഥകൾ. പിന്നെ, തെറിക്കഥയെയും നനഞ്ഞാട്ടത്തെയും സൈദ്ധാന്തികതലത്തിൽ
+ന്യായീകരിച്ചുകൊണ്ടെഴുതുന്ന ലേഖനങ്ങൾ.
+</p>
+          <p>മഴനൃത്ത ലേഖനത്തിൽ അറിഞ്ഞോ അറിയാതെയോ കറിയാച്ചൻ വിട്ടുകളഞ്ഞ ഒരു സംഗതിയാണു്
+പരിശുദ്ധ കത്തോലിക്കാ തിരുസഭയുടെ പങ്കു്. കൊച്ചി രൂപത 25 കൊല്ലത്തേക്കു് പാട്ടത്തിനു കൊടുത്ത
+സ്ഥലത്താണു് നനഞ്ഞാട്ടം നടന്നതു്. രൂപതയിലെ അത്യുന്നതനായ ഒരു വൈദേശികശ്രേഷ്ഠന്റെ
+മഹനീയസാന്നിദ്ധ്യത്തിലായിരുന്നു കലാപരിപാടികൾ അരങ്ങേറിതു്. കൈകളിൽ മധുചഷകവുമായി
+നൃത്തമാസ്വദിക്കുന്ന പുരോഹിതനെ ടി. വി.-യിലും കണ്ടു. “അവർ തങ്ങളുടെ പ്രവൃത്തികൾ എല്ലാം മനുഷ്യർ
+കാണേണ്ടതിന്നത്രെ ചെയ്യുന്നതു്; തങ്ങളുടെ മന്ത്രപ്പട്ട വീതിയാക്കി തൊങ്ങൽ വലുതാക്കുന്നു. അത്താഴത്തിൽ
+പ്രധാനസ്ഥലവും പള്ളിയിൽ മുഖ്യാസനവും അങ്ങാടിയിൽ വന്ദനവും മനുഷ്യർ റബ്ബീ എന്നു വിളിക്കുന്നതും
+അവർക്കു് പ്രിയമാകുന്നു” (മത്തായി 23: 5–7).
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ittikandappanekond Enthundu
+Prayojanam? (ml: ഇട്ടികണ്ടപ്പനെക്കൊണ്ടു് എന്തുണ്ടു പ്രയോജനം?).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Ittikandappanekond Enthundu Prayojanam?, കെ. രാജേശ്വരി, ഇട്ടികണ്ടപ്പനെക്കൊണ്ടു് എന്തുണ്ടു
+പ്രയോജനം?, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  November 16, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Alfred_Sisley__Church_at_Moret_after_the_Rain_-_20.114__Detroit_Institute_of_Arts.jpg">Church at Moret after the Rain,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Alfred_Sisley">Alfred
+Sisley</ref>  (1839–1899). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-ittikandappan.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswariittikandappan.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

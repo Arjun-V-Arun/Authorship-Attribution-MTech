@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഒ. വി. വിജയന്റെ സ്റ്റുഡിയോ</title>
+          <title xml:lang="en" type="main">O. V. Vijayante Studio</title>
+        </title>
+        <author>Madhusudhanan</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2022">October 22, 2022</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഒ. വി. വിജയന്റെ സ്റ്റുഡിയോ</title>
+              <title xml:lang="en" type="main">O. V. Vijayante Studio</title>
+            </title>
+            <author>Madhusudhanan</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Sayahna Foundation</publisher>
+            <pubPlace>Trivandrum, Kerala</pubPlace>
+            <date>2020-12-11</date>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Madhusudhanan</term>
+          <term>O. V. Vijayante Studio</term>
+          <term>മധുസൂദനൻ</term>
+          <term>ഒ. വി. വിജയന്റെ സ്റ്റുഡിയോ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>Trivandrum, Kerala, India</name>
+          <time>2020-12-11</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/vijayan-madhu.png" width="100%"/>
+          <figDesc>Vijayan, drawing by Madhusudhanan  (na). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഒ. വി. വിജയന്റെ സ്റ്റുഡിയോ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>മധുസൂദനൻ</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഒ. വി. വിജയന്റെ സ്റ്റുഡിയോ</head>
+        <div type="lsection">
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/saski-rambrant.png" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">റെംബ്രാൻഡ് വരച്ച സസ്കിയയുടെ ചിത്രം: അബുദാബിയിലെ Louvre
+മ്യൂസിയത്തിൽ നിന്നു്.</figDesc>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ഒ. വി. വിജയനെക്കുറിച്ചുള്ള സിനിമയുണ്ടാക്കുന്നതു് എഴുത്തുകാരൻ പാർക്കിൻസൺസ് രോഗത്തിനു്
+അടിമയായിക്കഴിഞ്ഞതിനു ശേഷമാണു്. താടിയും മീശയും നീട്ടിവളർത്തിയ വിജയൻ സൗമ്യനായി ഒരു
+കസേരയിലിരിക്കും. വല്ലപ്പോഴും വളരെ ചെറിയ വാക്കുകളല്ലാതെ ഒന്നും ചുണ്ടുകളിൽനിന്നു പുറത്തുവരികയില്ല.
+</p>
+          <p>അവസാനകാലത്തു വിജയൻ താമസിച്ചിരുന്ന കോട്ടയത്തെ വീട്ടിൽ അനക്കങ്ങൾ കുറവായിരുന്നു. അയഞ്ഞ
+വെളുത്ത ജുബ്ബയും കാവിമുണ്ടുമുടുത്തു വാതിലിനു പുറത്തേക്കു നോക്കിയിരിക്കുന്ന വിജയന്റെ രൂപം
+കണ്ടമാത്രയിൽതന്നെ ചിത്രത്തിനുള്ള പ്രചോദനമായിത്തീർന്നു. ഫോട്ടോയെടുത്തപ്പോൾ എല്ലാം തികഞ്ഞ
+ഫോട്ടോ. വിജയന്റെ മുഖത്തെ താടിരോമങ്ങളിൽ പതിഞ്ഞ പുറത്തുനിന്നുള്ള സായന്തന സൂര്യന്റെ മഞ്ഞയും
+ചുവപ്പും കലർന്ന വെളിച്ചം <ref target="http://books.sayahna.org/ml/pdf/madhu-velicham.pdf">റംബ്രാൻഡി</ref>
+ന്റെ ഹോമറെ ഓർമ്മിപ്പിച്ചുകൊണ്ടിരുന്നു.
+</p>
+          <p>വിജയന്റെ സ്റ്റുഡിയോയിൽ (എഴുത്തുകാരന്റെ മുറിക്കും അങ്ങനെ പറയാമെങ്കിൽ) പ്രവേശിക്കുന്ന
+ശബ്ദങ്ങളിലൊന്നു് അകത്തിരുന്നാൽ കാണാവുന്ന ഇടയ്ക്കൊക്കെ മുന്നിലൂടെ കടന്നു പോവുന്ന തീവണ്ടിയുടേതാണു്.
+വലിയ ശബ്ദമുണ്ടാക്കി ഒരു തീവണ്ടി കടന്നു പോയപ്പോൾ ഞാൻ വിജയനെ നോക്കി മുഖത്തു്
+ഭാവവ്യത്യാസങ്ങളൊന്നുമില്ല. ഹോമറെപ്പോലെ തന്നെ.
+</p>
+          <p>ഏകാന്തനായി, ഉള്ളിൽനിന്നുള്ള ചെറിയ അനക്കങ്ങൾ പോലും കേട്ടു ശാന്തനായി എഴുത്തുകാരൻ
+ഇരിക്കുന്നു. അടിയന്തരാവസ്ഥക്കാലത്തു ‘സമയം തെറ്റാതെ വരുന്ന തീവണ്ടി’ വരച്ചയാളാണു് എന്റെ
+മുന്നിലിരിക്കുന്നതു്.
+</p>
+          <p>കുറിപ്പുകളിലൂടെയാണു് ഞങ്ങൾ കുറച്ചു കാലത്തേക്കെങ്കിലും ചങ്ങാതിമാരായിത്തീർന്നതു്. പറയാൻ
+ബുദ്ധിമുട്ടുള്ളതുകൊണ്ടു് വിജയൻ കടലാസിൽ കുറിപ്പുകളെഴുതാൻ തുടങ്ങി. അതിന്റെ ഭംഗികണ്ടു് എന്റെ
+കയ്യിലുണ്ടായിരുന്ന കളർസ്കെച്ച്പെന്നുകൾ കൊടുത്തു വിജയനെ ഉത്തേജിതനാക്കി, ഒപ്പം ഞാൻ മറുപടി
+കൊടുത്ത കുറിപ്പുകളിലെ അക്ഷരങ്ങളും രേഖാചിത്രങ്ങളും കണ്ടിട്ടാവണം വിജയൻ എന്നെ ഷൂട്ടിങ് ദിവസങ്ങളിൽ
+ഒരു സഹോദരനെപ്പോലെ പരിഗണിച്ചതു്.
+</p>
+          <p>ഞാനയാളെ ‘വിജയൻ’ എന്നല്ലാതെ വിളിച്ചിട്ടില്ല. അയാളുടെ പല കൃതികളും ഞാൻ വായിക്കുന്നതു്,
+കാർട്ടൂൺ കാണുന്നതു് എല്ലാം എന്റെ യൗവ്വനകാലത്തായിരുന്നു. രാത്രിയിലെ വെളുത്ത കിളിവാതിലിൽ വിജയൻ
+തന്നെ കറുത്ത അക്ഷരങ്ങളിൽ പേരെഴുതിയ പുറം ചട്ടയോടെ പുറത്തുവന്ന ‘ഖസാക്കിന്റെ ഇതിഹാസം’
+വായിച്ചതിശേഷം അയാൾ എന്റെ സ്ഥിരം സഹോദരനായി. റംബ്രാൻഡ്. ഗോയ, ലിയനാർഡോ തുടങ്ങിയ
+സുഹൃത്തുക്കൾക്കൊപ്പമായി വിജയന്റെ ഇരിപ്പിടവും എന്നെക്കാൾ നാനൂറു് വയസ്സു മൂത്ത റംബ്രാൻഡിനെ ഞാൻ
+ഇപ്പോഴും റംബ്രാൻഡ് എന്നു തന്നെയാണു് വിളിയ്ക്കുന്നതു്.
+</p>
+          <p>അയാളുടെ ചിത്രങ്ങളിലെ ആകാശം എന്റെ സ്വന്തം ആകാശമായിട്ടാണു് കാണുന്നതും. കുറിപ്പുകളിലൂടെ
+ചിത്രലിപികളാലുള്ള വിജയനുമായുള്ള സംഭാഷണങ്ങൾക്കു ഭയഭക്തി ബഹുമാനങ്ങൾ വേണ്ടായിരുന്നു. ഞങ്ങൾ
+ചിത്രകലയുടെയും എഴുത്തിന്റെയും വലിയൊരുദ്യാനത്തിലെ അപൂർവ്വ സഹോദരന്മാർ. അക്ഷങ്ങളുടെ
+
+ഇടയ്ക്കുകാണാവുന്ന ചെറു നിശ്ശബ്ദതകൾ പോലെ രാധാകൃഷ്ണനും ക്യാമറയും.
+</p>
+          <p>കടലാസുകളിൽ കിളിയും ഉറുമ്പും അവശരായ കാക്കകളും നിറയാൻ തുടങ്ങി. കൂടെ വിജയന്റെ
+‘കലിഗ്രഫി’യിൽ നിർദേശങ്ങളും അഭിപ്രായങ്ങളും. ഏറ്റവും നല്ല കൈപ്പടയിൽ മലയാളമെഴുതിയ ആൾ
+ഒരുപക്ഷേ, ഒ. വി. വിജയനായിരിക്കും; കെ. സി. എസ്. പണിക്കരെക്കാൾ. കെ. സി. എസ്. കുറച്ചു മാത്രമേ
+മലയാളം എഴുതിയുള്ളു. പിന്നീടയാൾ പരിശ്രമിച്ചതു് അജ്ഞാത ലിപികളുടെ കൈപ്പടയാണു്. കെ. സി. എസ്.
+പിശുക്കനായിരുന്നു. വിജയൻ ധാരാളിയും. ആ ധാരാളിത്തത്തിന്റെ കൈപ്പടയിലാണു് അയാൾ ഖസാക്കിന്റെ
+ഇതിഹാസവും, അരിമ്പാറയും, കടൽത്തീരത്തും എഴുതിയതു്.
+</p>
+          <p>കെ. സി. എസ്. പണിക്കർ ചെമ്പുതകിടിലും താളിയോലയിലും എഴുതുമ്പോൾ വേണ്ട കണിശതയും
+കണക്കുകളും പാലിച്ചു. കാൻവാസുകളിൽ സമൃദ്ധമായി നിറയുമായിരുന്ന അയാളുടെ വർണ്ണങ്ങളെ ലിപികൾ
+തുരത്തിയോടിച്ചു. ചിത്രങ്ങളിലെ എഴുത്തുകുത്തുകൾ ക്രിസ്ത്യൻ സന്യാസിനികളുടെ വസ്ത്രങ്ങളിലെ പോലെ വെളുപ്പും
+ചാരനിറവും തവിട്ടും കറുപ്പും മാത്രം ഇഷ്ടപ്പെട്ടു. ചെമ്പു തകിടിൽ എഴുതുമ്പോലെയുള്ള ആയാസം ചിത്രകാരൻ
+അനുഭവിച്ചിരിക്കണം. കെ. സി. എസ്. എഴുത്തു് ‘ലുബ്ധൻ സ്വർണ്ണ നാണയങ്ങളെന്ന പോലെ’ പിശുക്കി
+ഉപയോഗിക്കുവാൻ തുടങ്ങി.
+</p>
+          <p>എം. ഡി. രാമനാഥൻ പാടുമ്പോൾ<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref> സ്വരങ്ങളെ എന്നപോലെ. വിജയൻ എഴുത്തിന്റെ സമൃദ്ധിയിലാണു്
+ജീവിച്ചതു്.
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] സച്ചിദാനന്ദൻ:
+‘രാമനാഥൻ പാടുമ്പോൾ’.</note>
+          </noteGrp>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/ramanadhan-madhu.png" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">എം. ഡി. രാമനാഥൻ: ഡ്രായിങ്—മധുസൂദനൻ-2018.</figDesc>
+          </figure>
+          <p>അയാൾക്കു ചിത്രം വരയ്ക്കുമ്പോഴും എഴുതേണ്ടിവന്നു. ദിനോസറുകളും, ഇന്ദിരാഗാന്ധിയും ബ്രഷ്നേവും കൂറ്റൻ
+ടാങ്കുകളും മുകളിൽ നിറയുമ്പോൾ വിജയന്റെ അച്ചുകൂടത്തിൽനിന്നു മലയാളലിപികൾ നിരന്നു.
+</p>
+          <p>ഇന്ദിരാഗാന്ധിയും ഹിറ്റ്ലറും സംസാരിക്കുമ്പോൾ വർത്തുളാകൃതിയും കോഴികൊക്കുകളുമുള്ള ‘സ്പീച്ച്
+ബലൂണുകളിൽ’ അയാൾ തന്റെ പല പോസുകളിലുള്ള പാമ്പുകളെ നിരത്തി. കോഴിക്കൊക്കുകൾ
+ഇന്ദിരാഗാന്ധിയുടെ സ്ഥിരം മൂക്കായി രൂപാന്തരപ്പെട്ടു.
+</p>
+          <p>ഇറോട്ടിസത്തിൽ തൽപരരായ ‘ള’കളും ‘ആ’കളുടെ പിടിയാനക്കൂട്ടങ്ങളും നിറഞ്ഞു.
+</p>
+          <p>അയാൾ മലയാളമെഴുതുമ്പോൾ മാത്രം ഓരോ അക്ഷരങ്ങൾക്കും പ്രത്യേകം വ്യാഖ്യാനങ്ങൾ
+വേണ്ടിവരുന്നുണ്ടു്. വിജയന്റെ മലയാളലിപികൾ മാത്രം ഉപയോഗിച്ചു് ഒരു വൃത്താന്തപത്രം ഇറക്കിയാൽ
+നന്നായിരിക്കും എന്നു തോന്നുന്നു.
+</p>
+          <p>അതിലെ ആദ്യത്തെ കാർട്ടൂൺ രതിഭാവനയുടെ പ്രസരമുള്ള ലിപികളാലെഴുതിയ ‘ചെർപ്ലശ്ശേരി’യിലെ
+ലിൻപിയാവോ ആയിരിക്കുകയും വേണം.
+</p>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/vijayan-cartoon.png" width="170.71652pt" rendition="gre"/>
+            <figDesc style="thumb">ഒ. വി. വിജയന്റെ ചെർപ്ലശ്ശേരിയിലെ ലിൻപിയാവോ കാർട്ടൂൺ.</figDesc>
+          </figure>
+          <p>‘വിജയൻ’ എന്നു വ്യക്തമായി വായിക്കാവുന്ന രീതിയിൽ അയാൾ ഒപ്പിടും. ഇംഗ്ലിഷിലും മലയാളത്തിലും, പല
+വ്യാഖ്യാനങ്ങളും നൽകാവുന്ന രണ്ടു പാമ്പുകൾ. ചുരുളഴിക്കാൻ കഴിയാത്ത ഏടാകൂടങ്ങൾ. <ref target="https://en.wikipedia.org/wiki/Eva_Hesse">ഇവാ ഹെസ്സെ</ref> യുടെ (Eva
+Hesse) ഇൻസ്റ്റലേഷൻപോലെ പൂർണമായും ലൈംഗികതയെ ഉണർത്തുന്ന നൂലാമാലകൾ. ഈ
+സർപ്പങ്ങളിലൊന്നു കൊത്തിയിട്ടായിരുന്നു ഖസാക്കിലെ രവിയുടെ മരണം, അല്ലെങ്കിൽ ഖസാക്കിന്റെ
+ഇതിഹാസത്തിന്റെ അവസാനം.
+</p>
+          <p>വിജയന്റെ കാർട്ടൂണിലെപ്പോലെ സമയം തെറ്റാതെ വീണ്ടും വന്നു ഒരു തീവണ്ടി.
+</p>
+          <p>സ്റ്റുഡിയോയ്ക്കുള്ളിലെ സ്ഥാവരജംഗമവസ്തുക്കൾ മുഴുവനും പേടിച്ചിട്ടെന്നപോലെ ചെറുതായി വിറയ്ക്കാൻ തുറങ്ങി.
+മുടിനാരിഴകൾ നീണ്ട വിജയന്റെ മുഖവും ട്രെയിനിന്റെ ഉജ്ജ്വലമായ വരവും ചേർത്തു് ഒരു ഫ്രെയിം മനസ്സിൽ
+കണ്ടിരുന്നു. ഇതല്ലായെങ്കിൽ സിനിമയിൽ അനക്കങ്ങൾ തീരെ കുറവായിരിക്കും. ശബ്ദങ്ങൾ അതിലും കുറവു്.
+രാധാകൃഷ്ണൻ ക്യാമറ സജ്ജീകരിച്ചു തയ്യാറെടുത്തു. വണ്ടി കടന്നുപോയി.
+</p>
+          <p>പ്രതീക്ഷിച്ചിരുന്ന റംബ്രാൻഡ് ലൈറ്റ് മാത്രം ചിത്രീകരിച്ച ഷോട്ടിൽ ഇല്ല. അരമണിക്കൂർ കഴിഞ്ഞു തീവണ്ടി
+വീണ്ടും വന്നപ്പോൾ ഒന്നുകൂടിയെടുത്തു. ഷോട്ടിൽ വെളിച്ചം കൂടുതൽ കണ്ടു. ഒന്നുകൂടി… അങ്ങനെ പല
+തവണ തീവണ്ടിയെ കാത്തുനിൽക്കുകയും ഷോട്ടെടുക്കുകയും ചെയ്തു. വൈകുന്നേരമായപ്പോഴേയ്ക്കും റംബ്രാൻഡിനെ
+ഞങ്ങൾ മുണ്ടിട്ടുപിടിച്ചു.
+</p>
+          <p>ആ സമയമത്രയും അനങ്ങാപ്പാറപോലെ അക്ഷോഭ്യനായി വിജയൻ കസേരയിൽ ഇരിക്കുന്നുണ്ടു്.
+</p>
+          <p>ചിത്രീകരിച്ച ഭാഗങ്ങൾ ഞങ്ങൾ മോണിറ്ററിൽ വിജയനെ കാണിച്ചു. റംബ്രാൻഡിഡിന്റെ ഹോമറുടെ
+പ്രശാന്തതയോടെ വിജയൻ ഒരു കൂറിപ്പെഴുതിക്കാണിച്ചു.
+</p>
+          <p>‘ഒരു സ്റ്റണ്ട് രംഗം കഴിഞ്ഞു.’
+</p>
+          <p>പലതരം വെളിച്ചങ്ങളുണ്ടു് വിജയന്റെ കഥാപാത്രങ്ങളുടെ പരിസരങ്ങളിൽ. രവിയിലൂടെ ‘ഈര ചൂട്ടുകൾ
+മിന്നിമിന്നി കടന്നു പോകുന്നതു്’ ഖസാക്കിൽ പലയിടത്തും കാണാം.
+</p>
+          <p>‘പീള നിറഞ്ഞ ചോരക്കുഴികൾകൊണ്ടു് ചിമ്മിനി വെളിച്ചത്തിൽ തപ്പുന്ന’ കുപ്പുവച്ചന്റെ മുഖം രവിയിലൂടെയാണു്
+വായനക്കാരൻ കാണുന്നതു്. രാത്രിയിൽ മിന്നിത്തുടിക്കുന്ന ബഹിരാകാശം കൈതപ്പൊന്തകളിലേയ്ക്കിറങ്ങി വന്നു്
+ഖസാക്കിലെ മിനുങ്ങുകളായിത്തീരുന്നതിന്റെ വിസ്മയ വെളിച്ചങ്ങളുമുണ്ടു് വിജയനിൽ.
+</p>
+          <p>വിജയനും റംബ്രാൻഡിനെ പോലെ വെളിച്ചത്തിന്റെ ചിത്രം വരയ്ക്കുകയാണു്.
+</p>
+          <p>‘അയാൾ കിണറ്റിലേക്കു കൂപ്പുകുത്തി. കിണറുകടന്നു് ഉൾക്കിണറ്റിലേയ്ക്കു്. വെള്ളത്തിന്റെ
+വില്ലീസുപടുതകളിലൂടെ അയാൾ നീങ്ങി ചില്ലുവാതിലുകൾ കടന്നു് സ്വപ്നത്തിലൂടെ, സാന്ധ്യപ്രജ്ഞയിലൂടെ തന്നെ
+കൈനീട്ടിവിളിച്ച പൊരുളിന്റെ നേർക്കു് അയാൾ യാത്രയായി. അയാൾക്കു പിന്നിൽ ചില്ലുവാതിലുകൾ
+ഒന്നൊന്നായി അടഞ്ഞു.’
+</p>
+          <p>ഇവിടെ വെളിച്ചത്തിന്റെ ഉത്ഭവസ്ഥാനം റംബ്രാൻഡിനെപ്പോലെ വിജയനും വ്യക്തമാക്കുന്നില്ല.
+വെളിച്ചത്തെക്കുറിച്ചു് ഒന്നും പറയാതെ അതിന്റെ സാന്നിദ്ധ്യം അറിയിക്കുന്ന അതിമനോഹരമായ
+വാക്യങ്ങളാണിതു്. വെള്ളത്തിന്റെ വില്ലീസുപടുതകളും, ചില്ലുവാതിലുകളും, സ്വപ്നവും, സാന്ധ്യപ്രജ്ഞയുമെല്ലാം
+വെളിച്ചത്തെ പ്രതിഫലിയ്ക്കുന്ന ഉപാധികൾ മാത്രം. വെളിച്ചമാണു് നായകൻ. അന്തിമ വെളിച്ചത്തിലേക്കാണു്
+മുങ്ങാംകോഴി പ്രവേശിക്കുന്നതു്. അവിടെ ഇരുട്ടില്ല. വെളിച്ചം മാത്രം.
+</p>
+          <p>വിജയനെ വിട്ടു ഞങ്ങൾ തസ്രാക്ക് ഗ്രാമത്തിൽ ചെന്നു. അന്നവിടെ വിജയന്റെ ആരാധകർ പറ്റമായി
+
+ചേക്കേറാൻ തുടങ്ങിയിട്ടില്ല. ഖസാക്കിൽ ഉള്ളതു് എന്നു വിശേഷിപ്പിയ്ക്കാവുന്ന അറബിക്കുളവും രാജാവിന്റെ
+പള്ളിയും ഞാറ്റുപുരയും അവിടെയുണ്ടായിരുന്നു. സന്ധ്യാനേരത്തു് കരിമ്പനയുടെ തല നിന്നു കത്തുകയാണോ
+എന്നു സംശയം ഉണ്ടാക്കും. കാറ്റടിക്കുമ്പോൾ തലയിളകും. ജീവനുള്ള ഭൂതംപോലെ.
+</p>
+          <p>സന്ധ്യയ്ക്കു പനകൾക്കു താഴെക്കൂടി ഊശാൻതാടിയും പാനീസുവിളക്കുമായി അള്ളാപിച്ച മൊല്ലാക്ക നടന്നു
+നീങ്ങുന്നതു് കണ്ടു. ഏകാധ്യാപക വിദ്യാലയത്തിൽ കറുത്ത ബോർഡിൽ ചോക്കുകൊണ്ടു് രവി വരച്ച അതേ
+അള്ളാപ്പിച്ച മൊല്ലാക്ക.
+</p>
+          <p>സിനിമയും ചിത്രവും വരയ്ക്കുന്നയാളുടെ വിധിയാണതു്. രംഗങ്ങൾ മുൻകൂട്ടികാണും.
+</p>
+          <p>പാനീസുവിളക്കിലെ തീനാളമുലഞ്ഞു. കരിന്തിരി കത്തി, കെട്ടു. സന്ധ്യ മാറി. ഇരുട്ടിൽ അള്ളാപ്പിച്ച
+മൊല്ലാക്കയും പനമരങ്ങളും മാഞ്ഞുപോയി.
+</p>
+          <p>തസ്രാക്ക് കഥയിൽ ഉള്ള ഗ്രാമംതന്നെയാണോ എന്നു സംശയം തോന്നി. പെയിന്റർ പ്രധാനവിഷയമായ
+യാഥാർത്ഥ്യത്തെ തന്റെതന്നെ ഒരു യാഥാർഥ്യമാക്കിമാറ്റിയാണു് ഒരു ചിത്രം വരയ്ക്കുന്നതു്. പിക്കാസോയുടെ
+കരയുന്ന സ്ത്രീ സ്പെയിനിലെ <ref target="https://en.wikipedia.org/wiki/Guernica_(Picasso)">ഗുർണിക</ref> എന്ന
+പ്രദേശത്തു ബോംബു വീണപ്പോൾ കരഞ്ഞ അതേ സ്ത്രീയല്ല. പെയിന്റിങ്ങിൽ അവളുടെ കണ്ണുനീർത്തുള്ളിക്കു
+ഭാരക്കൂടുതലുണ്ടു്.
+</p>
+          <p>അവൾ കരഞ്ഞയിടങ്ങളിലെല്ലാം കാളകൂറ്റന്മാർ മുക്രയിടുന്നു. വിജയന്റെ തസ്രാക്ക് ഗ്രാമം എന്റെ മുന്നിൽ
+ചുരുങ്ങി ഇല്ലാതെയായി.
+</p>
+          <p>വിജയന്റെ തന്നെ ഖസാക് ഗ്രാമം സിനിമയിലെ fade in—എന്ന ടെക്നിക്കിൽ എന്ന പോലെ
+തെളിഞ്ഞുവന്നു.
+</p>
+          <p>വിജയന്റെ ‘എണ്ണ’, ‘അരിമ്പാറ’, ‘ചവിട്ടുവണ്ടി’ എന്നീ കഥകൾ വായിക്കുന്നതു് അടിയന്തരാവസ്ഥക്കാലത്തെ
+ഇരുട്ടിലാണു്. കൂരിരുട്ടിൽ വെളിച്ചത്തിന്റെ നുറുങ്ങുകൾ കൊണ്ടു വരച്ച സ്വേച്ഛാധികാരത്തിന്റെയും, അതിന്റെ
+യാതനകൾ അനുഭവിക്കുന്നവരുടെയും പാലക്കാടൻമുഖങ്ങൾ.
+</p>
+          <p>അടിയന്തരാവസ്ഥയുടെ ഇരുട്ടു് സ്വന്തം ശരീരത്തിലേക്കാവാഹിച്ചെഴുതിയ നിഴൽ നാടകങ്ങൾ. എണ്ണയിൽ
+മനുഷ്യജീവിതമാകെ മുങ്ങിക്കിടക്കുന്നു. വിജയന്റെ സ്വന്തം ആയുർവേദ കുറിപ്പടിപ്രകാരം എണ്ണത്തോണിയിൽ
+കിടന്നു കഠിനമായ ഉഴിച്ചിലിനു വിധേയമാകുന്ന അവസ്ഥയാണു് ‘എണ്ണ’യുടെ വായന. നാസി
+കോൺസെൻട്രേഷൻ ക്യാമ്പുകളെ വിവരിക്കുന്ന <ref target="https://en.wikipedia.org/wiki/Alain_Resnais">അലെൻ റെനെ</ref> യുടെ
+ചലച്ചിത്രം ‘നൈറ്റ് ആൻഡ് ഫോഗ്’ കാണുന്നതുപോലെ. ചവിട്ടുവണ്ടിയുരുട്ടി പങ്ങി ഇപ്പോഴും പാലക്കാടു് കടന്നു്
+കാറ്റിനൊപ്പം നീങ്ങുന്നുണ്ടു്. മണിയനീച്ചകൾ മേയുന്ന പോത്തിൻശവങ്ങൾ അയാൾ കടന്നുപോകുന്ന
+വഴിയിലെല്ലാം ചിതറിക്കിടക്കുന്നു.
+</p>
+          <p>വാസ്തവത്തിൽ ഇങ്ങനെയൊന്നുമായിരുന്നില്ല ഈ സിനിമ ഞാൻ വിഭാവനം ചെയ്തിരുന്നതു്.
+</p>
+          <p>ആർട്ടിസ്റ്റുകൂടിയായ ഞാൻ എഴുത്തുകാരനെ വരയ്ക്കുന്നു. വിജയനെ ചാർക്കോളിൽ വരച്ച ഒരു ചിത്രം. അതിനു
+പോസു ചെയ്യുന്ന എഴുത്തുകാരൻ. ചിത്രം വരച്ചുകഴിയുമ്പോഴേയ്ക്കും സിനിമ അവസാനിക്കും. റംബ്രൻഡ്
+ലൈറ്റിംഗിനുള്ള അപാരസാദ്ധ്യതകളുണ്ടു് എന്ന വിചാരവും എന്നെ പ്രചോദിപ്പിച്ചു.
+</p>
+          <p>ആർട്ടിസ്റ്റ് ആൻഡ് ഹിസ് മോഡൽ ഓയിൽ പെയിന്റിങ്ങിൽ വര ആരംഭിച്ചതുമുതൽ ഉണ്ടായി വന്ന പ്രമേയം
+വരയ്ക്കാനെടുക്കുന്ന സമയം സിനിമയിലൂടെ കടന്നുപോകും. കാലമാണു് സിനിമ. കാലത്തിൽ
+കൊത്തുന്നതുകൊണ്ടാണു് ‘ശിൽപം’ എന്നതിനു പകരം ‘സിനിമ’ എന്നു പേരു വന്നതു് എന്നു് <ref target="https://en.wikipedia.org/wiki/Andrei_Tarkovsky">തർക്കോവ്സ്കി</ref>.
+</p>
+          <p>അക്കാലത്തു് ഞാൻ സിനിമയെടുക്കുമ്പോൾ അപ്രതീക്ഷിതമായ ഒരു ഭയം ഉള്ളിൽ പടരും.
+ഇങ്ങനെയൊക്കെ ചിത്രമെടുത്താൽ ആളുകൾ എങ്ങനെയാണു് അതിനെ സമീപിക്കുക?
+</p>
+          <p>ഞാനുണ്ടാക്കുന്ന ഇമേജുകൾ എങ്ങനെ സ്വീകരിക്കപ്പെടും എന്ന ഭയം. ഇതു് എന്നിൽ അവസാനിക്കുന്നതു്
+ഞാൻ തന്നെ നിർമ്മിച്ചു, എഴുതി, ഛായാഗ്രഹണം നിർവ്വഹിച്ചു്, എഡിറ്റു ചെയ്തു്, സംവിധാനം നിർവഹിച്ച
+History is a silent film എന്ന നിശ്ശബ്ദ സിനിമയോടു കൂടിയാണു്.
+
+</p>
+          <p>വിജയനെക്കുറിച്ചുള്ള സിനിമ അതിനും വളരെക്കാലം മുൻപാണു്. അപ്പോഴും വന്നു കൃത്യസമയത്തു് ആ ഭയം.
+ആ സിനിമയിൽ വിജയന്റെ ജീവചരിത്രം പറയേണ്ടതുണ്ടു്. ഇരുപത്തിയഞ്ചു മിനിറ്റിലധികം ദൈർഘ്യമാവരുതു്
+എന്നു നിർമ്മാതാവിന്റെ നിർദേശമുണ്ടു്. സിനിമ മാറ്റിയെഴുതി. അതിനു ജീവചരിത്രത്തിന്റെ കൈകാലുകൾ മുളച്ചു.
+ഞങ്ങൾ കോട്ടയത്തെ വിജയന്റെ സ്റ്റുഡിയോയിലേക്കു് തിരിച്ചുചെന്നു. അപ്പോഴുമുണ്ടു് അനങ്ങാപ്പാറയുടെ പേർ
+മാറ്റരുതല്ലോ എന്ന വിചാരത്തോടെ എഴുത്തുകാരൻ, അപ്പോഴും കടന്നുപോയി ഭൂമി കുലുക്കിക്കൊണ്ടു് ഒരുതീവണ്ടി.
+എഴുത്തുകാരന്റെ മുറിയിലെ സർവ്വ സാമഗ്രികളും ചലിക്കുന്നു. ചാരുകസേരയിലെ എഴുതുവാനെടുത്തുവച്ച
+മരപ്പലകയിലിരുന്നു പേന പനിപിടിച്ചപോലെ വിറയ്ക്കുന്നു.
+</p>
+          <p>സിനിമ അവസാനിക്കുകയാണു്. വിജയൻ അടുത്ത വണ്ടിയുടെ വരവും കാത്തിരുന്നു ധ്യാനിക്കുകയാണു്.
+</p>
+          <p>സിനിമയുടെ അവസാനഭാഗത്തു് എന്തെങ്കിലും പറയാനുണ്ടെങ്കിൽ എഴുതിത്തന്നാൽ കാണിക്കാം.
+(അത്രയിഷ്ടമാണു് നിങ്ങളുടെ കലിഗ്രഫി) എന്നു ഞാൻ പറഞ്ഞു.
+</p>
+          <p>വിറയൽ നിന്ന പേനകൊണ്ടു് എഴുത്തുകാരൻ കടലാസിൽ ഒരു ചെറിയ ദീർഘചതുരം വരച്ചു. അതിനുള്ളിൽ
+അയാൾ എഴുതി ‘end’.
+</p>
+          <p>സിനിമയുടെ അവസാനം.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">മധുസൂദനൻ</head>
+          <figure rend="fcenter" type="gre">
+            <graphic url="images/madhusudanan.jpg" width="170.71652pt" rendition="gre"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ആലപ്പുഴ ജില്ലയിലെ കടലോരപ്രദേശത്തു ജനിച്ചു.
+</p>
+          <p>തിരുവനന്തപുരം ഫൈൻ ആർട്ട് കോളജിൽ നിന്നും ബറോഡയിലെ എം. എസ്. യൂണിവേഴ്സിറ്റിയിൽ നിന്നും
+കലാപരിശീലനം. ഇപ്പോൾ സമകാലീനകലയിൽ സാധ്യമാവുന്ന എല്ലാ മാധ്യമങ്ങളും ഉപയോഗിച്ചു്
+കലാപ്രവർത്തനം നടത്തുന്നു. കലാപ്രവർത്തനങ്ങൾക്കായി ഫിലിം എന്ന മാധ്യമം വിദഗ്ദമായി ഉപയോഗിച്ചതിനു്
+ന്യൂയോർക്കിലെ മ്യൂസിയം ഓഫ് മോഡേൺ ആർട്ടിൽ നിന്നു് രണ്ടു തവണ ആദരം.
+</p>
+          <p>‘മാർക്സ് ആർകൈവ്’ എന്ന ഇൻസ്റ്റലേഷൻ രണ്ടാമത്തെ കൊച്ചി മുസരീസ് ബിയനാലെയിൽ
+പ്രദർശിപ്പിച്ചിരുന്നു. 2015-ലെ വെനീസ് ബിയനാലെയിൽ ‘മാർക്സ് ആർകൈവ്’, ‘പീനൽ കോളനി’ എന്നീ
+ഇൻസ്റ്റലേഷനുകൾ പ്രദർശിപ്പിച്ചിട്ടുണ്ടു്.
+</p>
+          <p>‘ബയസ്ക്കോപ്’ എന്ന സിനിമക്കു് മൂന്നു് അന്തർദേശീയ പുരസ്കാരങ്ങൾ.
+</p>
+          <p>ബയസ്ക്കോപ് അഞ്ചു സംസ്ഥാന പുരസ്കാരങ്ങളും ദേശീയ അവാർഡും നേടിയിരുന്നു.
+</p>
+          <p>ഡൽഹിയിലും കേരളത്തിലുമായി ജീവിക്കുന്നു.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  O. V. Vijayante Studio (ml: ഒ. വി.
+വിജയന്റെ സ്റ്റുഡിയോ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Madhusudhanan.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Sayahna
+Foundation; Trivandrum, Kerala; 2020-12-11. </p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Madhusudhanan, O.
+V. Vijayante Studio, മധുസൂദനൻ, ഒ. വി. വിജയന്റെ സ്റ്റുഡിയോ, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 22, 2022.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  Vijayan, drawing by
+Madhusudhanan  (na). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/madhu-ovstudio.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/madhu-ovstudio.pdf">Download Phone
+
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

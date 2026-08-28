@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">മനുഷ്യജാതി</title>
+          <title xml:lang="en" type="main">Manushyajathi</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">April 23, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">മനുഷ്യജാതി</title>
+              <title xml:lang="en" type="main">Manushyajathi</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Manushyajathi</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>മനുഷ്യജാതി</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 23, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/August_Macke.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:August_Macke_016.jpg">Large
+Bright Showcase,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:August_Macke">August Macke</ref>
+
+ (1887–1914). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">മനുഷ്യജാതി</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">മനുഷ്യജാതി</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Narayana_Guru.jpg" rendition="gra"/>
+            <figDesc style="thumb">ശ്രീനാരായണഗുരു</figDesc>
+          </figure>
+          <p style="noindent"> ജാതി ഒന്നേയുള്ളു; അതു് മനുഷ്യജാതിയാണു് എന്നു് <ref target="https://ml.wikipedia.org/wiki/Sreenarayana_Guru">ശ്രീനാരായണഗുരു</ref>
+വിളംബരംചെയ്തിട്ടു് കാലം കുറെയായി. സാമൂഹിക ജീവിതവീക്ഷണത്തിന്റെ ഏറ്റവും വിശാലമായ
+ചക്രവാളമാണതു്. മനുഷ്യവർഗം എന്നാണു് അതിൽ എത്തിച്ചേരുക? ജാതിഭേദം ഇന്നും മാഞ്ഞുപോയിട്ടില്ല.
+എങ്കിലും അതിന്റെ കാഠിന്യം കുറഞ്ഞിട്ടുണ്ടെന്നും കുറഞ്ഞുവരുന്നുണ്ടെന്നും സമ്മതിക്കാം. അതു് തീരെ നശിച്ചു്
+മനുഷ്യജാതി എന്നൊന്നു് മാത്രമായിത്തീരുമോ? ജാതിവ്യവസ്ഥ നിലനിർത്തുന്നതിൽ സാമ്പത്തികമായ
+ഉച്ചനീചത്വത്തിനും വലിയൊരു പങ്കുണ്ടു്. സാമ്പത്തികസമ്മർദ്ദം നീക്കംചെയ്യുന്ന സോഷ്യലിസ്റ്റ് വ്യവസ്ഥിതിയിൽ
+അതിനു് ഒട്ടൊക്കെ നില്ക്കക്കള്ളിയില്ലാതാകും. ഇൻഡ്യയിലെ ജാതിവ്യത്യാസം മറ്റെങ്ങും കാണാത്ത ഒന്നാണു്.
+ഇതരരാജ്യങ്ങളിൽ വർഗഭേദമാണുള്ളതു്. ജാതി വർഗഭേദങ്ങൾ ഇല്ലാതായാൽ അതുവഴി മതഭേദവും
+നശിച്ചേക്കാം. നശിച്ചില്ലെങ്കിലും, മനുഷ്യസമുദായത്തെ വേലികെട്ടിത്തിരിക്കുന്ന അതിന്റെ സ്വഭാവം
+ദുർബലമാകുമെന്നതിനു് സംശയമില്ല. ജാതി, വർഗം, മതം ഈ മൂന്നും മനുഷ്യന്റെ സാമൂഹികജീവിതത്തിനും
+കുടുംബജീവിതത്തിനും വിലങ്ങുതടിയാകാത്ത ഒരവസ്ഥ വന്നുചേരണം. അതായതു് അവയെ അടിസ്ഥാനമാക്കി
+പരമ്പരയാ നിലനിന്നു പോരുന്ന ഭേദഭാവന തീരെ അവഗണിക്കപ്പെടണം. അപ്പോൾ അതു് നശിച്ച
+കൂട്ടത്തിലാകും. ഒരു കുടുംബത്തിലെ അംഗങ്ങൾ ഭിന്നരീതിയിൽ വസ്ത്രധാരണം ചെയ്യുന്നില്ലേ? ഉടുപ്പിലുള്ള ആ
+വ്യത്യാസം അവരുടെ കുടുംബജീവിതത്തിനു് പ്രതിബന്ധമാകുന്നില്ലല്ലൊ. അതുപോലെ അഗണ്യമാകണം
+ജാതിമതവർഗവ്യത്യാസവും. സിലോൺ, ബർമ, മലയ മുതലായ രാജ്യങ്ങളിൽ ഒരു കുടുംബത്തിൽത്തന്നെ
+ഭിന്നമതസ്ഥരുണ്ടെന്നു് പറയപ്പെടുന്നു. മതവിശ്വാസം തീരെ വിട്ടുകളയാൻ വയ്യെങ്കിൽ വസ്ത്രധാരണംപോലെ അതു്
+വ്യക്തിപരമാക്കിയാൽ അതിന്റെ ശല്യം മിക്കവാറും തീരും. എന്നാൽ, ജാതിയും വർഗവും അങ്ങനെ
+വ്യക്തിപരമാക്കാവുന്നവയല്ല. രണ്ടും സമൂഹനിഷ്ഠമാണു്, വ്യക്തിനിഷ്ഠമല്ല. അതുകൊണ്ടു് അത്തരം ഭേദബുദ്ധി
+നീങ്ങണമെങ്കിൽ സമൂഹം തകരുകതന്നെ വേണം. ഇതിനു് ഏറ്റവും പ്രായോഗികമായ മാർഗമാണു്
+മിശ്രവിവാഹം. ദീർഘദർശിയായ <ref target="https://ml.wikipedia.org/wiki/Sahodaran_Ayyappan">സഹോദരൻ
+അയ്യപ്പൻ</ref> വെറുതെയല്ല എത്രയോ മുമ്പുതന്നെ ഈ പ്രസ്ഥാനത്തിന്റെ വിപ്ലവദ്ധ്വനി മുഴക്കിയതു്.
+മിശ്രവിവാഹത്തിലുണ്ടാകുന്ന സന്തതികളുടെ സംഖ്യ വർദ്ധിക്കുന്തോറും ജാത്യടിസ്ഥാനത്തിലുള്ള സമുദായം
+ക്ഷയിച്ചുവരും. സോഷ്യലിസ്റ്റ് വ്യവസ്ഥിതിയിൽ എല്ലാവർക്കും ജീവിതസൗകര്യം ലഭിക്കും. സംഖ്യാബലവും
+ധനശക്തിയും ആണു് ഏതു് സമൂഹത്തെയും നിലനിർത്തുന്നതു്. ഇന്നു് മിശ്ര വിവാഹത്തിലേർപ്പെടുന്നവർക്കു് പല
+പ്രയാസങ്ങളും അനുഭവപ്പെടുന്നുണ്ടു്. അതിന്റെ മുഖ്യകാരണം അവർ അല്പപക്ഷക്കാരാണെന്നുള്ളതാണു്. തന്മൂലം
+സാമൂഹ്യാചാരങ്ങളുടെ സമ്മർദ്ദം സഹിക്കാനും അതിനെ എതിർത്തു് നിൽക്കാനും അവർക്കു് ശക്തിപോരാതെ
+വരുന്നു. സാമ്പത്തികസ്ഥിതി ഭദ്രമല്ലെങ്കിൽ എത്ര പ്രേമബദ്ധമായ ദാമ്പത്യവും തകർന്നുപോയേക്കും.
+‘മാംസനിബദ്ധമല്ല രാഗം’ എന്നും മറ്റുമുള്ള വേദാന്തം പ്രായോഗികതലത്തിൽ വിലപ്പോകയില്ല. രണ്ടുമൂന്നു് ദിവസം
+പട്ടിണികിടക്കേണ്ടി വന്നാൽ ഏതു് ദിവ്യപ്രേമവും പമ്പ കടക്കും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sahodaran_Ayyappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">സഹോദരൻ അയ്യപ്പൻ</figDesc>
+          </figure>
+          <p> മിശ്രവിവാഹസംഘം ഈവക കാര്യങ്ങൾ പ്രത്യേകം പരിഗണിക്കേണ്ടതുണ്ടു്. ഒന്നാമതു് സംഘത്തിന്റെ
+ധനശക്തി വർദ്ധിപ്പിക്കണം. മിശ്രവിവാഹം കൊണ്ടു് ബുദ്ധിമുട്ടു് നേരിടുന്നവരെ സഹായിക്കുവാൻ ഫണ്ടുണ്ടെങ്കിലേ
+പറ്റൂ. ധനശക്തി ഇല്ലാത്ത ഒരു പ്രസ്ഥാനവും ഇക്കാലത്തു് മുന്നോട്ടു് പോകയില്ല. മനുഷ്യജാതിയെന്ന മഹത്തായ
+ആദർശത്തെപ്പറ്റി ജനങ്ങളുടെയിടയിൽ ബോധം വളർന്നുവരത്തക്കവിധം തത്സംബന്ധമായ പ്രചാരണം
+പ്രബലവും സാർവത്രികവുമാക്കണം. കേരളത്തിനു് അകത്തും പുറത്തും വിവിധ കേന്ദ്രങ്ങളിൽ സംഘത്തിന്റെ
+
+ശാഖകൾ സ്ഥാപിച്ചു് പ്രവർത്തനം സംഘടിപ്പിച്ചാലേ ഇതു് സുഖകരമാകൂ. ഇമ്മാതിരി പ്രചാരണത്തിന്റെ
+മുന്നോടിയായിവേണ്ടതു് ജനഹൃദയങ്ങളിൽ സ്വതന്ത്രചിന്താശീലവും ശാസ്ത്രീയബോധവും അങ്കുരിപ്പിക്കുക
+എന്നതാണു്. അതിനു് തക്ക പാഠപുസ്തകങ്ങളുണ്ടാവുകയും അവ ഗവണ്മെന്റ് അംഗീകരിച്ചു് പ്രാഥമികവിദ്യാലയം
+മുതൽ നടപ്പാക്കുകയും വേണം. മനുഷ്യജാതിയെപ്പറ്റി കേവലം ബുദ്ധിപരമായ ബോധം തെളിഞ്ഞാൽപോര. ആ
+ബോധം മനുഷ്യന്റെ വൈകാരികമായ അനുഭൂതിമണ്ഡലത്തിൽ വേരൂന്നണം. എന്നാലേ അതു്
+ഫലവത്താകുകയുള്ളു. അതിലേക്കു് ബാലഹൃദയങ്ങളിലാണു് ഈ നവീനബോധത്തിന്റെ വിത്തു് ആദ്യം
+വിതയ്ക്കേണ്ടതു്. ഇന്നു് ഗവണ്മെന്റ് വൈകാരികസംയോജനത്തിന്റെ പേരിൽ എത്രയോ പണം വെറുതേ
+ചെലവുചെയ്യുന്നുണ്ടു്. അതു് ഇത്തരം കാര്യങ്ങൾക്കായി വിനിയോഗിച്ചാൽ ഭാവിയിലെങ്കിലും പ്രയോജനമുണ്ടാകും.
+ജാതിമതഭേദം കൊടുമ്പിരിക്കൊള്ളുന്ന കാലത്തോളം എത്ര ശ്രമിച്ചാലും വൈകാരികസംയോജനം
+സാധ്യമാകയില്ലെന്നു് ആർക്കുമറിയാം. ഇപ്പോഴത്തെ സംരംഭങ്ങൾ കതിരിന്മേൽ വളംവയ്ക്കുന്നതിനു് തുല്യമാണു്.
+മനുഷ്യജാതിയുടെ സൃഷ്ടിയിലാകണം ഗവണ്മെന്റിന്റെ നോട്ടം. അതിനു് ആദ്യം കൈവെക്കേണ്ടതു്
+വിദ്യാഭ്യാസപദ്ധതിയിന്മേലാണു്. അതോടൊപ്പം മിശ്രവിവാഹപ്രസ്ഥാനത്തിനു് സർവവിധമായ
+പ്രോത്സാഹനവും നൽകുകയും വേണം. ഇപ്പോൾ ഹരിജനങ്ങൾക്കു് ഇക്കാര്യത്തിൽ എന്തോ ധനസഹായം
+ഏർപ്പെടുത്തിയിട്ടുണ്ടെന്നറിയുന്നു. അതുകൊണ്ടുമാത്രം ഈ പ്രസ്ഥാനം വളരുകയില്ല. ജനങ്ങൾ പൊതുവേ
+അതിലേക്കു് ആകൃഷ്ടരാകത്തക്കവണ്ണം ധനപരമായും മറ്റുവിധത്തിലും ഉള്ള പ്രതിബന്ധങ്ങളെല്ലാം നീക്കം
+ചെയ്യണം. ഒന്നു് തീർച്ച. <ref target="https://ml.wikipedia.org/wiki/Sreenarayana_Guru">ശ്രീനാരായണഗുരു</ref>
+വിന്റെ ഈ ആദർശം രാജ്യവ്യാപകമായി സാക്ഷാൽകരിക്കപ്പെടുന്ന കാലത്തേ ഭാരതത്തിനു് രക്ഷകിട്ടു.
+ഏകലോകസംവിധാനത്തിലും അതു് കൂടിയേ കഴിയൂ. പക്ഷേ, ഈ അണുയുഗത്തിലും അന്ധാചാരങ്ങളുടെ
+ഇരുമുടിക്കെട്ടും ചുമന്നു് നടക്കുന്ന നേതാക്കന്മാരുള്ള നമ്മുടെ നാടു് ആ സുശോഭനാവസ്ഥയ്ക്കുവേണ്ടി ഇനിയും
+എത്രകാലം കാത്തിരിക്കണം?
+</p>
+          <p>
+(യുക്തിവിഹാരം)
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Manushyajathi (ml:
+മനുഷ്യജാതി).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Manushyajathi, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, മനുഷ്യജാതി, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 23, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:August_Macke_016.jpg">Large
+Bright Showcase,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:August_Macke">August Macke</ref>
+ (1887–1914). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzhamanushyajathi.xml">Download document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhamanushyajathi.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

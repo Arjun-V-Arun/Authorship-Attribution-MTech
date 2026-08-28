@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അരിയെത്ര? പയറഞ്ഞാഴി!</title>
+          <title xml:lang="en" type="main">Ariyethra? Payaranjazhi!</title>
+        </title>
+        <author>M. N. Karassery</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">October 11, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അരിയെത്ര? പയറഞ്ഞാഴി!</title>
+              <title xml:lang="en" type="main">Ariyethra? Payaranjazhi!</title>
+            </title>
+            <author>M. N. Karassery</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>M. N. Karassery</term>
+          <term>Ariyethra? Payaranjazhi!</term>
+          <term>എം. എൻ. കാരശ്ശേരി</term>
+          <term>അരിയെത്ര? പയറഞ്ഞാഴി!</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 11, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Cage_of_Birds.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:%27Children_with_a_Cage_of_Birds_and_a_Cat%27_by_the_Le_Nain_Brothers.jpg">Children
+with a Cage of Birds and a Cat,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Le_Nain">Le Nain Brothers</ref>
+ (17th century). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അരിയെത്ര? പയറഞ്ഞാഴി!</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>എം. എൻ. കാരശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അരിയെത്ര? പയറഞ്ഞാഴി!</head>
+        <div type="lsection">
+          <p style="noindent">മലയാളികളായ നമ്മുടെ ജീവിതത്തിൽനിന്നു് തുറന്ന പെരുമാറ്റവും അതിന്റെ
+സൂചകമായി കാണാവുന്ന വർത്തമാനംപറച്ചിലും പതുക്കെപ്പതുക്കെ പിൻവാങ്ങിപ്പോവുകയാണോ?
+കൂടിക്കഴിയാനും പരിഹസിക്കാനും ബഡായി പറയാനും ഉള്ള അവസരങ്ങൾ നമുക്കു് പിന്നെപ്പിന്നെ
+ഇല്ലാതായിക്കൊണ്ടിരിക്കുകയാണോ? പ്രധാനമായും അത്തരം വർത്തമാനങ്ങൾ വഴി നിലനിന്നുപോന്ന
+കേരളത്തിന്റെ ഫലിതകല കാണെക്കാണെ വറ്റി വരികയാണോ?
+</p>
+          <p>എനിക്കു് സംശയമുണ്ടു്.
+</p>
+          <p>കൂട്ടുകുടുംബം തകരുകയും ഒറ്റയൊറ്റ കുടുംബങ്ങൾ നിലവിൽ വരികയും ചെയ്തതോടെ ഇവിടത്തെ
+ആണുങ്ങളുടെയും പെണ്ണുങ്ങളുടെയും വിശേഷംപറച്ചിലുകൾ, സ്വാഭാവികമായും, വളരെക്കുറഞ്ഞിരിക്കുന്നു.
+കുഗ്രാമങ്ങളിൽപോലും നിരത്തുകളും ബസ്സുകളും ആയതോടെ വഴി നടത്തം കുറഞ്ഞു. വഴിയിൽ വെച്ചു് ആളെ കണ്ടു്
+വർത്തമാനം പറയേണ്ട ‘ബുദ്ധിമുട്ടു്’ ഇനിയില്ല. അമ്പലപ്പറമ്പുകളും ആൽത്തറകളും നമ്മുടെ ഉറക്കെയുള്ള
+വർത്തമാനവും പൊട്ടിച്ചിരിയും കൊണ്ടു് ഇപ്പോൾ മുഖരിതമാവുന്നില്ല. കാലുതൂക്കിയിട്ടിരുന്നു് ഹരം പറഞ്ഞിരുന്ന
+സായാഹ്നങ്ങൾ ആൽത്തറകൾക്കൊപ്പം അപ്രത്യക്ഷമാവുകയാണു്. പരിഹാസത്തിൽ കുതിർന്ന
+നാട്ടുവിശേഷങ്ങൾ വിളമ്പുന്ന ചായപ്പീടികകൾക്കു് ആ സ്വഭാവം നഷ്ടപ്പെട്ടുകൊണ്ടിരിക്കുന്നു.
+പുഴക്കടവുകളിൽനിന്നും കുളക്കടവുകളിൽനിന്നും കുളി, വീട്ടിനകത്തെ ഇരുണ്ട മുറിയിലേക്കു് മാറുമ്പോൾ നമ്മുടെ
+വർത്തമാനവും അതുവഴിയുള്ള തമാശപറച്ചിലും തീർത്തും ഇല്ലാതാവുന്നു. നമ്മുടെ നാട്ടിൽ കോലായകൾ
+കോലംമാറി വരികയാണു്—തുറന്ന കോലായ എന്ന ആശയം പോയ്മറഞ്ഞുകൊണ്ടിരിക്കുന്നു. അവയുടെ നീളവും
+വീതിയും വളരെക്കുറഞ്ഞു. പുതിയ വീടുകൾക്കു് കോലായ പേരിനു് മാത്രമാണു്. കോലായ തന്നെ ഇല്ലാത്ത
+വീടുകളും അങ്ങിങ്ങു കാണാം. ആളുകളെ സ്വീകരിക്കുവാനും അവരെ ഇരുത്തി സൊറ പറയാനും നമുക്കു് സമയവും
+സൗകര്യവും ഇല്ല എന്നർത്ഥം.
+</p>
+          <p>നമ്മൾ ഇപ്പോൾ അധികവും കണ്ടുമുട്ടുന്നതു് ബസ് സ്റ്റോപ്പുകളിലും ബസ്സുകളിലുമാണു്;
+റയിൽവേസ്റ്റേഷനുകളിലും തീവണ്ടികളിലുമാണു്. അവനവന്റെ ബദ്ധപ്പാടുമായി ഓടുന്ന തിരക്കിൽ നാം
+കണ്ടുമുട്ടുകയല്ല കൂട്ടിമുട്ടുകയാണു്. നാം വൈകുന്നേരങ്ങളിൽ സിനിമാശാലയിലെ ഇരുട്ടിൽ നിശ്ശബ്ദമായി
+ഒത്തുചേരുന്നു.
+</p>
+          <p>ഏതെങ്കിലും രാഷ്ട്രീയകക്ഷിയുടെയോ, മതസംഘടനയുടെയോ ചാവേറായി, തൊണ്ട പൊട്ടുന്ന ശബ്ദത്തിൽ
+മുദ്രാവാക്യം വിളിച്ചു്, മുന്നേറുന്നതിനിടയിൽ, നമുക്കു് സല്ലപിക്കാനാവുമോ?
+</p>
+          <p>‘വെടിവട്ടം’ എന്ന വാക്കിന്റെ അർത്ഥം അടുത്ത തലമുറയ്ക്കു് പറഞ്ഞു കൊടുത്താലും വേണ്ടമാതിരി
+മനസ്സിലാക്കാനാവില്ല എന്നേടത്തേയ്ക്കാണു് കാര്യങ്ങൾ പുരോഗമിക്കുന്നതു്.
+</p>
+          <p>ഇപ്പോൾ നമ്മുടെ സമൂഹത്തിന്റെ സല്ലാപമാധ്യമങ്ങളിലൊന്നു് ടെലിവിഷനാണു്. കുറച്ചുകാലമായി
+ഗൃഹാന്തരീക്ഷത്തിലും വായനശാലകളിലും അങ്ങാടികളിലും ആ സ്ഥാനം കയ്യടക്കിപ്പോരുന്നതു് റേഡിയോവും
+പ്രസിദ്ധീകരണങ്ങളുമാണു്.
+</p>
+          <p>ഇതുകൊണ്ടു് എന്താണു് കുഴപ്പം?
+</p>
+          <p>സല്ലാപത്തിലൂടെയും വെടിവട്ടത്തിലൂടെയും സൊള്ളുന്നതിലൂടെയുമാണു് നമ്മുടെ നർമ്മബോധം വളർച്ച
+പ്രാപിച്ചതു്. കേരളത്തിലെ മുന്തിയ തമാശകൾ സൃഷ്ടിച്ചിട്ടുള്ള നമ്പൂതിരിഫലിതമോ, മാപ്പിളഫലിതമോ
+എടുത്തുനോക്കുക. സാധാരണ മനുഷ്യരുടെ സംസാരത്തിനിടയ്ക്കു് പൊട്ടി വീഴുന്ന ചില ചോദ്യങ്ങളും
+ഉത്തരങ്ങളുമായി അവ പിറവിയെടുക്കുന്നു. വാമൊഴിയായിത്തന്നെ അവ പ്രചരിക്കുന്നു. അവ പുതിയ
+ഫലിതങ്ങൾക്കു് ജന്മം നൽകുന്നു. അവയും കാതിൽനിന്നു് ചുണ്ടിലേക്കും ചുണ്ടിൽനിന്നു് കാതിലേക്കും
+പടർന്നെത്തുന്നു.
+</p>
+          <p>കൂടിക്കഴിയലും വർത്തമാനം പറച്ചിലും കുറഞ്ഞുവരുന്ന ഒരു സമൂഹത്തിനു് ഇത്തരം പുതിയ തമാശകൾ
+സൃഷ്ടിക്കാനാവുമോ? പഴയ തമാശകൾ നിലനിർത്താനാവുമോ?
+
+</p>
+          <p>സാഹിത്യകൃതികളിലും സിനിമകളിലും രാഷ്ട്രീയവേദികളിലും നിയമസഭാ റിപ്പോർട്ടുകളിലും ആപ്പീസുകളിലും
+മറ്റും അപൂർവ്വമായി കണ്ടുകിട്ടുന്ന തമാശകളാണു് കേരളീയന്റെ ഇപ്പോഴത്തെ ഫലിതാസ്വാദനതൃഷ്ണയെ
+തൃപ്തിപ്പെടുത്തുന്നതു്. നർമ്മബോധവും പ്രത്യുല്പന്നമതിത്വവും ആവശ്യപ്പെടുന്ന ചോദ്യോത്തരങ്ങളിലൂടെ
+പിറവിയെടുക്കുന്നതും സമൂഹത്തിനു് മൊത്തം അവകാശപ്പെടാവുന്നതുമായ ആ പഴയ ഫലിതകല ചരിത്രത്തിന്റെ
+ഭാഗമായിത്തീർന്നുകൊണ്ടിരിക്കുകയാണു്.
+</p>
+          <p>ജീവിതത്തിൽ നഷ്ടപ്പെട്ടുകൊണ്ടിരിക്കുന്ന പലതും പുസ്തകങ്ങളിലും പ്രസിദ്ധീകരണങ്ങളിലും തിരശ്ശീലയിലും
+കണ്ടെത്തുവാൻ മനുഷ്യർ ശ്രമിക്കാറുണ്ടു്. നമ്മുടെ സല്ലാപവും ചോദ്യോത്തരങ്ങളും പത്രപ്രസിദ്ധീകരണങ്ങളിലൂടെ
+നിലനിർത്തുവാൻ നാം ശ്രമിക്കുകയുണ്ടായോ?
+</p>
+          <p>കേരളത്തിൽ എല്ലാ നിലയ്ക്കും മുന്നേറി വിജയിച്ചുകൊണ്ടിരിക്കുന്ന പത്രപ്രവർത്തനത്തിന്റെ ഭാഗമായി
+ഉരുവംകൊണ്ടുവന്ന പുതിയൊരു ആവിഷ്ക്കാരരൂപമാണു് ‘ചോദ്യോത്തരപംക്തി.’ വർത്തമാനം പറച്ചിലിന്റെ
+അച്ചടിരൂപം. വായനക്കാരനു് ഒരു വരിയെങ്കിലും അവനവനെ ആവിഷ്ക്കരിക്കുവാൻ ആ പംക്തി സൗകര്യം
+നൽകുന്നു. അതു് പഴയ നർമ്മസല്ലാപങ്ങൾക്കു് തുല്യമാവുന്നില്ല. എങ്കിലും ഇന്നു് നമുക്കു് അതിനു പകരമായി
+കണ്ടെത്താവുന്ന ഏകസംഗതി ചോദ്യോത്തരപംക്തിയാണു്.
+</p>
+          <p>വന്നു് വന്നു് നമ്മുടെ പ്രസിദ്ധീകരണങ്ങളിൽ ഇപ്പോൾ ഒഴിച്ചുകൂടാനാവാത്ത ഒരിനമായി അതു മാറിയിരിക്കുന്നു.
+ആരോഗ്യകാര്യങ്ങൾ, മാനസികവ്യഥകൾ, സൗന്ദര്യപ്രശ്നങ്ങൾ, പഠനത്തിന്റെ പ്രയാസങ്ങൾ, ഭാഷാ
+പ്രയോഗങ്ങളുടെ സാധുത, ജോലിസാദ്ധ്യത, സേവന-വേതന കാര്യങ്ങൾ, പരീക്ഷാപ്രശ്നങ്ങൾ, നിയമകാര്യങ്ങൾ,
+കാർഷികപ്രശ്നങ്ങൾ തുടങ്ങി കാക്കത്തൊള്ളായിരം സംഗതികളെക്കുറിച്ചു് നമ്മുടെ വായനക്കാർക്കു് തീർത്താൽ
+തീരാത്ത സംശയങ്ങളുണ്ടു്. അതതു രംഗത്തെ വിദഗ്ദ്ധരോ,അങ്ങനെ വൈദഗ്ദ്ധ്യം ഭാവിക്കുന്നവരോ, ചിലപ്പോൾ
+കോലം മാറി പത്രാധിപർ തന്നെയോ കൈകാര്യം ചെയ്യുന്ന ഇത്തരം പംക്തികൾ പ്രസിദ്ധീകരണങ്ങളുടെ
+പ്രചാരം വർദ്ധിപ്പിക്കുന്നതിൽ വലിയ പങ്കുവഹിക്കുന്നുണ്ടു്. ലക്ഷക്കണക്കിനു പ്രചാരമുള്ള ഏതു വാരിക
+എടുത്തുനോക്കിയാലും ഇപ്പറഞ്ഞമട്ടിലുള്ള ഒന്നോ രണ്ടോ ചോദ്യോത്തരപംക്തി കാണാം.
+</p>
+          <p>വിജ്ഞാനപ്രദമോ പ്രയോജനപ്രദമോ ആയ ഇത്തരം പംക്തികളേക്കാൾ വായനക്കാരെ ആകർഷിക്കുന്നതു്
+മറ്റൊരുതരം ചോദ്യോത്തരപംക്തികളാണു്. വെടിവട്ടം, നേരംപോക്കു്, സൊള്ള്, സൊറ, ബഡായി തുടങ്ങിയ
+പേരുകളിൽ അറിയപ്പെടുവാൻ യോഗ്യമായ അവയുടെ മുഖ്യഭാവം പരിഹാസമാണു്. പരസ്പരം
+പറഞ്ഞുതോൽപിക്കാൻ ഉത്സാഹിക്കുന്ന ഇത്തരം ചോദ്യോത്തരങ്ങൾ ഫലിതബിന്ദുക്കൾ ആയി രൂപം മാറുന്നു.
+പത്രാധിപന്മാരും എഴുത്തുകാരും സ്വന്തം പേരിലോ, ചില തൂലികാനാമങ്ങളുടെ മറവിലോ കൈകാര്യം
+ചെയ്തുപോരുന്ന ഇമ്മാതിരി ‘മൽപ്പിടുത്തപംക്തികൾ’ സ്വാഭാവികമായും വായനക്കാരന്റെ ഹരമായിത്തീരുന്നു.
+</p>
+          <p>ഈ വകുപ്പിൽപെട്ട ചോദ്യോത്തരപംക്തി നമ്മുടെ ഭാഷയിൽ ഒരു സംഭവമാക്കിത്തീർത്തതു് കൗമുദി
+വാരികാപത്രാധിപർ <ref target="https://ml.wikipedia.org/wiki/K._Balakrishnan">കെ. ബാലകൃഷ്ണനാ</ref>
+ണു്. ആ വാരികയിലെ പത്രാധിപരുടെ ‘കൗമുദിക്കുറിപ്പുകളേ’ക്കാൾ പ്രശസ്തമായിരുന്നു ‘പത്രാധിപരോടു
+സംസാരിക്കുക’ എന്ന ചോദ്യോത്തരപംക്തി. രാഷ്ട്രീയം, സാഹിത്യം, സിനിമ, സാമൂഹ്യപ്രശ്നങ്ങൾ
+തുടങ്ങിയവയെക്കുറിച്ചെന്നപൊലെ വ്യക്തിപരമായ വിശേഷങ്ങളെക്കുറിച്ചും കൗമുദി പത്രാധിപർ നിരന്തരം
+സംസാരിച്ചു. ‘ഞാൻ’ നിറഞ്ഞുനിന്ന പംക്തി. ‘സൂര്യനു താഴെയുള്ള എന്തിനെക്കുറിച്ചും’ അദ്ദേഹത്തോടു
+ചോദിക്കാമായിരുന്നു. ‘പോടാ പുല്ലേ’ എന്ന ഭാവത്തിൽ, അഹന്തയും പരിഹാസവും കത്തിനിൽക്കുന്ന ഭാഷയിൽ,
+എടുത്തടിച്ചതുപോലെ ബാലകൃഷ്ണൻ മറുപടി പറഞ്ഞുപോന്നു. കൗമുദിയിൽ നിന്നു് ഒരു ചോദ്യത്തിനു് സമ്മാനം
+കിട്ടുക എന്നതു് കാൽനൂറ്റാണ്ടു് മുമ്പു് ഒരു വലിയ കാര്യമായിരുന്നു എന്നുപറഞ്ഞാൽ ആ പംക്തിക്കു്
+അക്കാലത്തുണ്ടായിരുന്ന പ്രാധാന്യം ഏതാണ്ടു് ഊഹിക്കാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Basheer.jpg" rendition="gra"/>
+            <figDesc style="thumb">വൈക്കം മുഹമ്മദ് ബഷീർ</figDesc>
+          </figure>
+          <p> പ്രശസ്തരും അപ്രശസ്തരുമായ പലരും ഇത്തരം പംക്തികൾ കൈകാര്യം ചെയ്തിട്ടുണ്ടു്. <ref target="https://en.wikipedia.org/wiki/Vaikom_Muhammad_Basheer">വൈക്കം മുഹമ്മദ്
+ബഷീർ</ref> ജയകേരളത്തിൽ ‘നേരും നുണയും’ എന്ന പേരിൽ കൈകാര്യം ചെയ്തുപോന്ന
+ചോദ്യോത്തരപംക്തി പരിഹാസമാധുരികൊണ്ടു് വായനക്കാർക്കു് പ്രിയങ്കരമായിരുന്നു. ശത്രു എന്ന
+തൂലികാനാമത്തിന്റെ മറവിലിരുന്നുകൊണ്ടു് ‘ചന്ദ്രിക ആഴ്ചപ്പതിപ്പി’ൽ കാനേഷ് പൂനുരു് നടത്തിപ്പോന്ന
+
+ചോദ്യോത്തരപംക്തി (അങ്കത്തട്ടു്) ശ്രദ്ധേയമായിത്തീർന്നതും നർമ്മബോധം കൊണ്ടുതന്നെ. ബഷീറിന്റെയും
+കാനേഷിന്റെയും പംക്തികളിൽനിന്നു് തെരഞ്ഞെടുത്ത ചോദ്യോത്തരങ്ങൾ പിൽക്കാലത്തു് പുസ്തകങ്ങളായി
+പുറത്തിറങ്ങിയിട്ടുണ്ടു്.
+</p>
+          <p>ഈ വകുപ്പിൽപെട്ട ഒരു പംക്തിയായിരുന്നു വി. പി. മുഹമ്മദിന്റെ ‘അരിയെത്ര, പയറഞ്ഞാഴി.’
+കോഴിക്കോട്ടുനിന്നു് പുറപ്പെട്ടിരുന്ന ലീഗ് ടൈംസിലും പിന്നീടു് ചന്ദ്രികയിലും തുടർച്ചയായി വന്നുകൊണ്ടിരിക്കുന്ന
+ഈ ചോദ്യോത്തരവേദി പേരു് സൂചിപ്പിക്കുംപോലെ ഒരു ഫലിതസദ്യയായിരുന്നു. തൊള്ളയിൽ
+തോന്നിയതെന്തും ചോദിക്കാമായിരുന്ന പംക്തി. ആ പംക്തിയിൽനിന്നു് തെരഞ്ഞെടുത്ത ഏതാനും
+ചോദ്യോത്തരങ്ങളുടെ സമാഹാരമാണു് ഈ പുസ്തകം.
+</p>
+          <p>കൃത്യമായി പറഞ്ഞാൽ 175 ചോദ്യവും അവയ്ക്കുള്ള ഉത്തരവുമാണു് ഇവിടെ സമാഹരിച്ചിരിക്കുന്നതു്. പല
+നാട്ടിൽ പല മട്ടിൽ ജീവിക്കുന്ന പലപ്രായക്കാരും പല തരക്കാരുമായ ആണും പെണ്ണും ചോദ്യം ചോദിക്കുന്നു.
+നിവൃത്തിയുള്ളേടത്തോളം വി. പി. തട്ടുത്തരം പറയുന്നു. വിജ്ഞാനവും പ്രയോജനവുമല്ല, സല്ലാപസ്വഭാവവും
+നർമ്മബോധവുമാണു് അവയെ പ്രസക്തമാക്കിത്തീർക്കുന്നതു്.
+</p>
+          <p>ഒരു ചോദ്യം: “നിങ്ങൾ കുടിക്കാറുണ്ടോ?”
+</p>
+          <p>ഉത്തരം: “ദാഹിക്കുമ്പോഴൊക്കെ.”
+</p>
+          <p>മറ്റൊരു ചോദ്യം: നിങ്ങളെപ്പറ്റി അല്പം താഴ്ത്തി സംസാരിച്ചപ്പോൾ ഒരുവൻ ചോദിച്ചു: “അദ്ദേഹത്തിനു്
+എന്താണു് ഒരു കുറവു്?” “ഒരു വാലിന്റെ കുറവുണ്ടു്”—ഞാൻ പറഞ്ഞു. “നിങ്ങളുടെ സ്വന്തം അഭിപ്രായം?”
+</p>
+          <p>ഉത്തരം: “നിങ്ങളോടു കടംവാങ്ങി ആ കുറവു് നികത്താം.”
+</p>
+          <p>വേറൊരു ചോദ്യം: “അപകടത്തിൽ മരിച്ച ആളെമാത്രം എന്തിനാണു് പോസ്റ്റ്മോർട്ടം ചെയ്യുന്നതു്?”
+</p>
+          <p>ഉത്തരം: “എന്റെ റബ്ബേ, അപകടത്തിൽ മരിക്കാത്തവരെയും പോസ്റ്റുമോർട്ടം ചെയ്യണമെന്നോ?”
+</p>
+          <p>മലബാറിന്റെ സാംസ്കാരികനേട്ടങ്ങളിൽ എണ്ണം പറഞ്ഞ ഒന്നായി നിലകൊള്ളുന്ന മാപ്പിളഫലിതത്തിന്റെ
+പല ഗുണവശങ്ങളും നാം ഇവിടെ കാണുന്നു: മിടുക്കു്, പ്രത്യുൽപന്നമതിത്വം, ആലോചന—അങ്ങനെ പലതും.
+</p>
+          <p>അവയ്ക്കൊരു നാടൻ ചുവയുണ്ടു്. മാപ്പിളഫലിതത്തിന്റെ അടിപ്പടവായി വർത്തിക്കുന്ന പ്രായോഗികത അവയെ
+ബലപ്പെടുത്തിയിട്ടുണ്ടു്. ഈ പ്രായോഗികബോധത്തെ സുവ്യക്തമാക്കിത്തരുന്ന വേറെ ചില ഉദാഹരണങ്ങൾ
+നോക്കുക.
+</p>
+          <p>“ചോദ്യം: ഞാനൊരു പെണ്ണിനെ സ്നേഹിക്കുന്നു. അവളുടെ ഹൃദയത്തിന്റെ സ്ഥാനത്തു് കല്ലാണെന്നു
+തോന്നുന്നു. ഞാനെന്തു ചെയ്യണം?
+</p>
+          <p>മറുപടി: കല്ലാശാരിയാവണം.”
+</p>
+          <p>“ചോദ്യം: ഞാൻ വളരെ ആത്മാർത്ഥമായി ഒരു പെൺകുട്ടിയെ സ്നേഹിക്കുന്നു. നേരിൽ കണ്ടു് നല്ലവണ്ണം
+സംസാരിക്കാൻ കഴിയുന്നില്ല എന്തു ചെയ്യണം?
+</p>
+          <p>മറുപടി: ഫോൺചെയ്യണം.”
+</p>
+          <p>“ചോദ്യം: നിങ്ങൾ മുഖ്യമന്ത്രിയായാൽ ആദ്യം എന്തായിരിക്കും ചെയ്യുക?
+</p>
+          <p>മറുപടി: സത്യപ്രതിജ്ഞ.”
+</p>
+          <p>ഇത്ര ഗുണമില്ലാത്ത ചില ചോദ്യോത്തരങ്ങളും ഈ സമാഹാരത്തിലുണ്ടു്. ചിലപ്പോൾ ചോദ്യം ഗുണം
+കുറഞ്ഞുപോയി, ചിലപ്പോൾ ഉത്തരം ഗുണം കുറഞ്ഞുപോയി. എങ്കിലും പൊതുവെ ഈ സമാഹാരത്തിലൂടെ
+കടന്നുപോവുമ്പോൾ വി. പി. മുഹമ്മദിന്റെ നോവലുകളിലും കഥകളിലും മറ്റും കാണുന്ന പ്രസാദം എന്ന ഗുണം
+ആരും അനുഭവിച്ചറിയുകതന്നെ ചെയ്യും.
+</p>
+          <p>കുട്ടികൾക്കുവേണ്ടി പല പുസ്തകങ്ങളും രചിച്ച മുഹമ്മദ് കുസൃതിയിൽ മറ്റുള്ളവരെ ജയിക്കുന്ന
+മിടുക്കന്മാരെയാണു് അവയിൽ നായകന്മാരാക്കിയിരിക്കുന്നതു്. അത്തരത്തിലുള്ള നാടൻ കഥാപാത്രങ്ങളിൽ
+
+ഏറെ പ്രശസ്തനായ <ref target="https://ml.wikipedia.org/wiki/Kunjayin_Musliyar">കുഞ്ഞായൻ
+മുസ്ല്യാരു</ref> ടെ കുസൃതികൾ ഭംഗിയായി പുനരാഖ്യാനം ചെയ്തതു് വി. പി.-യാണല്ലോ. കുസൃതി നിറഞ്ഞ ഈ
+പുസ്തകത്തെ വി. പി.-യുടെ കുസൃതികൾ എന്നു വിളിക്കാം.
+</p>
+          <p>കുസൃതിക്കപ്പുറത്തുള്ള ചിലതും ഇവിടെ കണ്ടെത്താനാവും: തമാശയിൽ പൊതിഞ്ഞ ഒരു മറുപടി
+കൊടുക്കാമായിരുന്ന സ്ഥാനത്തു് മുഹമ്മദ് താൻ കണ്ടുമുട്ടിയ ഒരു പെൺകിടാവിന്റെ മാംസവില്പനക്കിടയിലെ
+കദനകഥ ഉള്ളിൽ തട്ടുംപടി വരച്ചിടുന്നു. ഈ മട്ടിൽ വേറെയും ജീവിത നിരീക്ഷണങ്ങളുണ്ടു്; പഞ്ചായത്ത്
+പ്രസിഡണ്ടായിരുന്ന ഗ്രന്ഥകാരൻ രാഷ്ട്രീയത്തെപ്പറ്റി അഭിപ്രായം പറയുന്ന ഭാഗങ്ങളുണ്ടു്; മതവിശ്വാസിയായ
+വി. പി. മതത്തിന്റെ പേരിലുള്ള മൂഢധാരണകളെ പുച്ഛിക്കുന്ന രംഗങ്ങളുണ്ടു്. വ്യക്തിപരമായ പക്ഷപാതങ്ങൾ
+തുറന്നുകാണിക്കുന്ന മറുപടികളുണ്ടു്—വി. പി. മുഹമ്മദിന്റെ ആത്മകഥയുടെ ചെറിയൊരംശം ഇതിലെവിടെയോ
+ഉൾച്ചേർന്നു കിടപ്പുണ്ടു്.
+</p>
+          <p>ഏതു തമാശയിലും ഒരു ചോദ്യവും ഒരു ഉത്തരവും കാണും. നമ്മുടെ നാടൻ ജീവിതത്തിൽനിന്നു്
+കണ്ടെടുക്കാവുന്ന കുസൃതി നിറഞ്ഞ ചോദ്യോത്തരങ്ങളിൽ ചിലതു് പഴമൊഴിയായി വേരുപിടിച്ചതിന്റെ
+ഉദാഹരണമാണു് ‘അരിയെത്ര? പയറഞ്ഞാഴി’ എന്ന പ്രയോഗം. ആ പ്രയോഗത്തിന്റെ തലയിൽക്കെട്ടുമായി
+നില്ക്കുന്ന ഈ സല്ലാപസാഹിത്യം മലയാളിജീവിതത്തിന്റെ തനിമയിൽനിന്നു് നഷ്ടപ്രായമായിക്കൊണ്ടിരിക്കുന്ന
+നർമ്മസല്ലാപത്തെപ്പറ്റിയും പരിഹാസത്തെപ്പറ്റിയും നമ്മെ ഓർമ്മിപ്പിച്ചുകൊണ്ടിരിക്കുമെന്നു് ഞാൻ
+പ്രതീക്ഷിക്കുന്നു.<ref xml:id="xfn1" target="#fn1" type="noteAnchor">[1]</ref>
+</p>
+          <noteGrp>
+            <note xml:id="fn1" n="1" style="end">[<ref target="#xfn1">1</ref>] വി. പി.
+മുഹമ്മദിന്റെ ‘അരിയെത്ര പയറഞ്ഞാഴി’ എന്ന പുസ്തകത്തിന്റെ അവതാരിക: പി. കെ. ബ്രദേഴ്സ്, കോഴിക്കോട്:
+മാർച്ച് 1990.</note>
+          </noteGrp>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">എം. എൻ. കാരശ്ശേരി</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MN_Karasseri.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>മുഴുവൻ പേരു്: മുഹ്യുദ്ദീൻ നടുക്കണ്ടിയിൽ. കോഴിക്കോട് ജില്ലയിലെ കാരശ്ശേരി എന്ന ഗ്രാമത്തിൽ 1951
+ജൂലായ് 2-നു് ജനിച്ചു. പിതാവു്: പരേതനായ എൻ. സി. മുഹമ്മദ് ഹാജി. മാതാവു്: കെ. സി. ആയിശക്കുട്ടി.
+കാരശ്ശേരി ഹിദായത്തുസ്സിബിയാൻ മദ്രസ്സ, ഐ. ഐ. എ. യു. പി. സ്ക്കൂൾ, ചേന്ദമംഗല്ലൂർ ഹൈസ്ക്കൂൾ, കോഴിക്കോട്
+ഗുരുവായൂരപ്പൻ കോളേജ്, കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗം എന്നിവിടങ്ങളിൽ പഠിച്ചു.
+സോഷ്യോളജി-മലയാളം ബി. എ., മലയാളം എം. എ., മലയാളം എം. ഫിൽ. പരീക്ഷകൾ പാസ്സായി. 1993-ൽ
+കാലിക്കറ്റ് സർവ്വകലാശാലയിൽ നിന്നു് ഡോക്ടറേറ്റ്. 1976–78 കാലത്തു് കോഴിക്കോട്ടു് മാതൃഭൂമിയിൽ
+സഹപത്രാധിപരായിരുന്നു. പിന്നെ അധ്യാപകനായി. കോഴിക്കോട് ഗവ. ആർട്സ് ആന്റ് സയൻസ് കോളേജ്,
+കോടഞ്ചേരി ഗവ. കോളേജ്, കോഴിക്കോട് ഗവ: ഈവനിങ്ങ് കോളേജ് എന്നിവിടങ്ങളിൽ ജോലി നോക്കി.
+1986-മുതൽ കാലിക്കറ്റ് സർവ്വകലാശാലാ മലയാളവിഭാഗത്തിൽ.
+</p>
+          <p>പുസ്തകങ്ങൾ: പുലിക്കോട്ടിൽകൃതികൾ (1979), വിശകലനം (1981), തിരുമൊഴികൾ (1981), മുല്ലാനാസറുദ്ദീന്റെ
+പൊടിക്കൈകൾ (1982), മക്കയിലേക്കുള്ള പാത (1983), ഹുസ്നുൽ ജമാൽ (1987), കുറിമാനം (1987), തിരുവരുൾ
+(1988), നവതാളം (1991), ആലോചന (1995), ഒന്നിന്റെ ദർശനം (1996), കാഴ്ചവട്ടം (1997) തുടങ്ങി എൺപതിലേറെ
+
+കൃതികൾ.
+</p>
+          <p>ഭാര്യ: വി. പി. ഖദീജ, മക്കൾ: നിശ, ആഷ്ലി, മുഹമ്മദ് ഹാരിസ്.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ariyethra? Payaranjazhi! (ml:
+അരിയെത്ര? പയറഞ്ഞാഴി!).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  M. N. Karassery.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, M. N. Karassery,
+Ariyethra? Payaranjazhi!, എം. എൻ. കാരശ്ശേരി, അരിയെത്ര? പയറഞ്ഞാഴി!, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 11, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:%27Children_with_a_Cage_of_Birds_and_a_Cat%27_by_the_Le_Nain_Brothers.jpg">Children
+with a Cage of Birds and a Cat,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/Le_Nain">Le Nain Brothers</ref>
+ (17th century). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/karassery-ariyethra.xml">Download
+
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/karassery-ariyethra.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

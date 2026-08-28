@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">അഹിംസ ഒരു മൂടുപടം</title>
+          <title xml:lang="en" type="main">Ahimsa Oru Moodupadam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2023">December 22, 2023</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">അഹിംസ ഒരു മൂടുപടം</title>
+              <title xml:lang="en" type="main">Ahimsa Oru Moodupadam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Ahimsa Oru Moodupadam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>അഹിംസ ഒരു മൂടുപടം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>December 22, 2023</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/A_wooded_path.jpg" width="100%"/>
+          <figDesc><ref target="https://en.wikipedia.org/wiki/File:H._A._Brendekilde__A_wooded_path_in_autumn_%281902%29.jpg">Wooded Path in Autumn,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:H._A._Brendekilde">H. A.
+
+Brendekilde</ref>  (1857–1942). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">അഹിംസ ഒരു മൂടുപടം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">അഹിംസ ഒരു മൂടുപടം</head>
+        <div type="lsection">
+          <p style="noindent">ഏട്ടിലെ പശു പുല്ലുതിന്നുകയില്ലന്നൊരു ചൊല്ലുണ്ടല്ലോ. അതെത്ര
+അർത്ഥവത്തായിരിക്കുന്നു. നമ്മുടെ ജീവിതസ്വഭാവം വെളിപ്പെടുത്തുന്നില്ലേ ഈ പതിരില്ലാത്ത പഴഞ്ചൊല്ലു്? നാം
+പഠിക്കുന്ന പുസ്തകങ്ങളും ജീവിക്കുന്ന ജീവിതവും തമ്മിലൊരു ബന്ധവുമില്ലെന്നാണല്ലോ അതു് വിളിച്ചുപറയുന്നതു്.
+ഉത്തമോത്തമങ്ങളെന്നു് പറയാവുന്ന എത്രയോ ആദർശങ്ങൾ നമ്മുടെ ഗ്രന്ഥങ്ങളും ആചാര്യന്മാരും
+ഉദ്ഘോഷിച്ചിട്ടുണ്ടു്. നമ്മളും അവയിൽ വിശ്വസിക്കുന്നു, അവയെപ്പറ്റി പ്രസംഗിക്കുന്നു, എഴുതുന്നു, ഏട്ടിലപ്പിടി,
+പയറ്റിയാലോ? ഈ ആദർശങ്ങളുടെ നിഴൽപോലും കാണുന്നുണ്ടോ? സിദ്ധാന്തവും പ്രയോഗവും തമ്മിലുള്ള
+വേർപാടാണു് ബൂർഷ്വാജീവിതത്തിന്റെ ഏറ്റവും ജുഗുപ്സാവഹമായ സ്വഭാവമെന്നു് <ref target="https://ml.wikipedia.org/wiki/Vladimir_Lenin">ലെനിൻ</ref> ഒരിക്കൽ
+പറഞ്ഞതു്, ഈ പൊരുത്തക്കേടു് കണ്ടു് കണ്ടു് സഹിക്കവയ്യാഞ്ഞിട്ടാണു്. ഇന്നു് നാം അഹിംസാസിദ്ധാന്തത്തിന്റെ
+പ്രവാചകന്മാരായി പുറപ്പെട്ടിരിക്കയാണല്ലോ. ഭൗതികമായൊരു അധിഷ്ഠാനം സ്വീകരിക്കാതെ കേവലം
+ഒരാത്മീയാദർശമെന്ന നിലയിൽ അഹിംസാതത്ത്വം മുമ്പിൽവെച്ചു് പൂജിക്കുകയാണു് നമ്മൾ ചെയ്യുന്നതു്.
+അതായതു്, അഹിംസയ്ക്കുവേണ്ടി അഹിംസ എന്ന മട്ടിൽ നിരാസ്പദവും നിരർത്ഥകവുമായൊരു ഭക്തിപ്രകടനം.
+ഇതുകൊണ്ടുണ്ടാകുന്ന പൊരുത്തക്കേടും വൈഷമ്യങ്ങളും ചിന്തിച്ചുനോക്കേണ്ടതാകുന്നു.
+</p>
+          <lg>
+            <l> ‘ഒരു ഹിംസയുമാചരിച്ചിടാതി-</l>
+            <l> ങ്ങുപജീവിപ്പതിനാർക്കുമാവതല്ല</l>
+            <l> ഒരു ദീപമെരിക്കിലെത്രമാത്രം</l>
+            <l> ശലഭങ്ങൾക്കതു ഹോമകുണ്ഡമാകും.’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്നെഴുതിയ കവി ഹിംസ വേണമെന്നു് വാദിക്കയല്ല ചെയ്യുന്നതു്. ജീവിതത്തിന്റെ
+ഹിംസാത്മകസ്വഭാവം—അതിൽനിന്നു് തീരെ ഒഴിഞ്ഞുനില്ക്കാനുള്ള പ്രയാസം—ഈ പരമാർത്ഥം നമ്മുടെ ചിന്തയ്ക്കു്
+വിഷയമാക്കുന്നു, അത്രെയുള്ളു. എന്നും എവിടെയും സ്വീകാര്യമായ ഒരു ഉൽകൃഷ്ടകർമ്മമാണു് ഹിംസയെന്നു്
+ബുദ്ധിയുള്ളവരാരും പറയുകയില്ല, പറഞ്ഞിട്ടുമില്ല. തത്ത്വദൃഷ്ട്യാ അതൊരു ദോഷംതന്നെയെന്നാരും സമ്മതിക്കും.
+പക്ഷേ, പ്രായോഗികജീവിതത്തിൽ പ്രസ്തുതദോഷത്തിന്റെ പ്രവർത്തനം അനിവാര്യമായിത്തീരുന്നു. ഏതെങ്കിലും
+പ്രകാരത്തിൽ അതിനു് വിധേയമാകാതെ ജീവിതം മുന്നോട്ടു് പോകുന്നതല്ല. എന്നാലൊരു സമാധാനമുണ്ടു്.
+മുന്നോട്ടു് പോകുന്തോറും ഈ ദോഷത്തിന്റെ കോപഹേതുക്കൾ കുറഞ്ഞു് കുറഞ്ഞു് പ്രവർത്തനശക്തി ക്ഷയിച്ചു്
+ജീവിതം മിക്കവാറും അഹിംസാപ്രവണമാകും, ജീവിതപുരോഗതിയുടെ ലക്ഷ്യം അതാണു്. എന്നാൽ, ഈ
+ലക്ഷ്യത്തിലെത്തിച്ചേരാനുള്ള പദ്ധതി, അഥവാ കർമപരിപാടി, ഹിംസാസ്പൃഷ്ടമാകാതെ നിവൃത്തിയില്ല. അങ്ങനെ
+ആകരുതെന്നു് ശഠിക്കുന്നവർ ജീവിതത്തിന്റെ പ്രായോഗികവശത്തെ സംബന്ധിച്ചിടത്തോളം
+അന്ധമാനസരാകുന്നു. മനോരാജ്യത്തിൽ ആകാശകുസുമം തേടി നടക്കുന്ന ആദർശവാദികളാണവർ. അവരുടെ
+അപ്രായോഗികസിദ്ധാന്തങ്ങൾ പ്രവർത്തനപദ്ധതിയിൽ വിലങ്ങുതടികളായിക്കിടന്നു് ഫലസിദ്ധി
+വിദൂരമാക്കിത്തീർക്കാനേ ഉപകരിക്കുന്നുള്ളു. പ്രകൃത്യാ വിചീനമായിട്ടുള്ളതാണു് മനുഷ്യനിൽ ഹിംസവാസന.
+മനുഷ്യനൊരു അന്തർലീനഘാതകനാണെന്നു് (Man is a potential killer) വെത്സ് ഒരിടത്തു് പറഞ്ഞിട്ടുണ്ടു്.
+ഇതു് തികച്ചും വാസ്തവമത്രെ. ഉദ്ദീപങ്ങളായ പരിതഃസ്ഥിതികൾ പ്രവർത്തിക്കുമ്പോൾ നമ്മിൽ ഒളിച്ചിരിക്കുന്ന ഈ
+ഘാതകത്വം, അഥവാ ഹിംസാവാസന തലപൊക്കുന്നു. ഇതു് തേഞ്ഞുമാഞ്ഞുപോകണമെങ്കിൽ
+പരിതഃസ്ഥിതിയിൽ തദനുരൂപമായ പരിവർത്തനം സംഭവിക്കണം. അതായതു് മനുഷ്യന്റെ സാമൂഹ്യഘടന പാടേ
+മാറണം. ഈ പരിവർത്തനം സംഭവിക്കാതെ ഇപ്പോഴത്തെ ജീർണിച്ച സാമൂഹ്യവ്യവസ്ഥയിലും
+സാമ്പത്തികക്രമത്തിലും മനുഷ്യസ്വഭാവം നന്നാക്കണം, ആരേയും ഹിംസിക്കരുതു് എന്നും മറ്റും ആയിരം തവണ
+ഉപദേശിച്ചാലും ഫലമുണ്ടാകുന്നതല്ല. അല്പപക്ഷം ഭൂരിപക്ഷത്തെ ചൂഷണം ചെയ്തു് വഞ്ചനയും ക്രൂരതയും ഭീതിയും
+അടിക്കടി വളർത്തിക്കൊണ്ടുവരുന്ന ഇന്നത്തെ ജീവിതസമ്പ്രദായം ആമൂലാഗ്രം ഹിംസാത്മകമാണു്. അതിലെ
+അനീതികളോടും അക്രമങ്ങളോടും എതിരിടണമെങ്കിൽ ശത്രുവിന്റെ ആയുധംതന്നെ പ്രയോഗിക്കേണ്ടിവരും.
+</p>
+          <p>ഹിന്ദുമതത്തിലെ അവതാരപുരുഷന്മാർ ധർമസ്ഥാപനം നിർവഹിച്ചതെങ്ങനെ? അഹിംസയിലൂടെയാണോ?
+ഹിംസ നടത്താത്ത ഒരവതാരമെങ്കിലും ഉണ്ടായിട്ടുണ്ടോ? മഹാത്മാഗാന്ധി ഭഗവദ്ഗീതയെ എങ്ങനെയെല്ലാം
+
+വ്യാഖ്യാനിച്ചാലും അതിൽ നേരെ കാണുന്ന സന്ദേശം സാധുസംരക്ഷണത്തിനായി ആയുധമെടുത്തു്
+പോരാടുകയെന്നതാണു്. ഹിംസകൂടാതെ ലക്ഷ്യത്തിലെത്താൻ കഴിയുമെങ്കിൽ അതു് നല്ലതുതന്നെ. പക്ഷേ, അതു്
+അസാദ്ധ്യമെന്നു് വന്നാൽ ഹിംസാമാർഗ്ഗമവലംബിച്ചിട്ടെങ്കിലും ലോകത്തിൽ ധർമവും നീതിയും
+പുലർത്തേണ്ടതല്ലേ? ഇന്നത്തെ ജീവിതസമ്പ്രദായത്തിൽ പരിപൂർണ്ണമായ അഹിംസ
+അത്യന്തദുഷ്കരമെന്നുമാത്രമല്ല അസാദ്ധ്യമാണെന്നുകൂടി അനുഭവം പഠിപ്പിക്കുന്നു. ചരിത്രം അതിനു്
+സാക്ഷിയായിരിക്കുന്നു. ഈ യാഥാർത്ഥ്യം പരിഗണിക്കാതെ അഹിംസാധിഷ്ഠിതമായ കർമപരിപാടി
+നിശ്ചയിക്കുന്നവർ പല വൈഷമ്യങ്ങളിലും ചെന്നുചാടും. ഒന്നിനോടും ബന്ധപ്പെടാത്തൊരു
+കേവലസിദ്ധാന്തത്തിന്റെ അടിമകളായി പ്രവൃത്തിസ്വാതന്ത്ര്യം നഷ്ടപ്പെട്ട നിലയിൽ അവർ ചെന്നെത്തും.
+മഹാത്മാഗാന്ധിക്കു് ഈ അനുഭവം പലപ്പോഴും ഉണ്ടായിട്ടുണ്ടു്—മനസ്സാക്ഷിയെ വഞ്ചിക്കാതെ ഒന്നും ചെയ്യാൻ
+വയ്യെന്നൊരു നില. അപ്പോഴൊക്കെ ഈ സ്വയംകൃതാനർത്ഥത്തിൽനിന്നു് തലയൂരിപ്പോരാനും അദ്ദേഹം
+മടിച്ചിട്ടില്ല. ഇന്ത്യയ്ക്കു് സ്വാതന്ത്ര്യം വാഗ്ദാനം ചെയ്യുന്നപക്ഷം കഴിഞ്ഞ യുദ്ധത്തിൽ ഇംഗ്ലീഷുകാർക്കുവേണ്ടി
+തോക്കെടുക്കാനും അദ്ദേഹം സമ്മതിച്ചിരുന്നു. ശ്വാസോച്ഛ ്വാസത്തിൽ അണുപ്രാണികൾ കൊല്ലപ്പെട്ടേക്കുമെന്നു്
+ഭയന്നു് മൂക്കും വായും മൂടിക്കെട്ടി നടക്കുന്ന ഒരു തരം ജൈനസന്യാസിമാരുണ്ടല്ലോ. അവരെപ്പോലെ വിഡ്ഢിവേഷം
+കെട്ടേണ്ടിവരും അഹിംസയുടെ പൂർണരൂപം പ്രദർശിപ്പിക്കാൻ പുറപ്പെട്ടാൽ. അതിന്റെ പ്രായോഗികതയിൽ
+സ്വയം വഞ്ചിതരാവുകയും കപടവേദാന്തംകൊണ്ടു് അന്യരെ വഞ്ചിക്കുകയും ചെയ്യുന്നവർ ഇപ്പോൾ നമ്മുടെ
+നാട്ടിൽ ധാരാളമുണ്ടു്. ആവശ്യം വരുമ്പോഴൊക്കെ ഹിംസാമാർഗമവലംബിക്കുക, അതേസമയം
+എതിരാളികളുടെ കാര്യപരിപാടിയെ അഹിംസയുടെ പേരിൽ കർശനമായി ആക്ഷേപിക്കുക—ഇതാണു്
+നേതൃസ്ഥാനങ്ങളിൽ പറ്റിക്കൂടിയിരിക്കുന്ന അഹിംസാവാദികളുടെ നയം: ആത്മവഞ്ചനയും പരവഞ്ചനയും
+ഉൾക്കൊള്ളുന്നൊരു നയമാണിതു്.
+</p>
+          <p>ഇന്ത്യയ്ക്കു് സ്വാതന്ത്ര്യം ലഭിച്ചതു് അഹിംസാമാർഗത്തിലൂടെയാണെന്നു് സാധാരണ ഘോഷിക്കാറുണ്ടു്. ഇതിന്റെ
+ചെമ്പുതെളിയിക്കുന്ന അഭിപ്രായം <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">ഗാന്ധിജി</ref> യിൽനിന്നു്
+പുറപ്പെടുകയുണ്ടായി. അദ്ദേഹം പറയുന്നതു് നോക്കുക: ‘I have frankly and fully admitted that what we
+practised during the past 30 years was not nonviolent resistence but passive resistence which only the
+weak offer because they are unable to offer armed resistence’.
+
+</p>
+          <p>അതേ, ആയുധമെടുത്തെതിർക്കാൻ നിവർത്തിയില്ലാത്തതിനാൽ ഭീരുക്കൾ ചെയ്യുന്നമാതിരി
+ശാന്തമായൊരെതിർപ്പു് മാത്രമാണു് നാം ഇക്കഴിഞ്ഞ മുപ്പതു് വർഷക്കാലവും പ്രകടിപ്പിച്ചതു്. അതു് ശരിയായൊരു
+അഹിംസാസമരമായിരുന്നില്ലെന്നു് അദ്ദേഹം തുറന്നു് സമ്മതിച്ചിരിക്കുന്നു. ഇന്നു് ബ്രിട്ടൻ യാത്രപറഞ്ഞപ്പോൾ
+യഥേഷ്ടം ആയുധമെടുക്കാമെന്നു് വന്നു. അപ്പോൾ മുറയ്ക്കു് നടക്കുന്ന ആയുധസജ്ജീകരണവും
+സൈന്യസംഘടനയും! അതു് വേണ്ടതുമാണു്. സ്വപ്നദർശികളല്ല ഭരണയന്ത്രം തിരിക്കുന്നവർ എന്നിതു്
+തെളിയിക്കുന്നു. ഒട്ടകപ്പക്ഷിയെപ്പോലെ ആദർശസൈകതത്തിൽ തല താഴ്ത്തി മയങ്ങി ജീവിതയാഥാർത്ഥ്യങ്ങളെ
+നോക്കിക്കാണാതിരിപ്പാൻ ഇവർ ഒരുമ്പെട്ടില്ല, ഭാരതീയരുടെ ഭാഗ്യംകൊണ്ടു്. പക്ഷേ, അതോടുകൂടി മറ്റൊരു
+കാര്യവും വെളിച്ചത്തു് വന്നു—ഈ അഹിംസാവ്രതം ഒരു മൂടുപടം മാത്രമാണെന്നു്.
+</p>
+          <p>
+(നിരീക്ഷണം 1948)
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Ahimsa Oru Moodupadam (ml:
+അഹിംസ ഒരു മൂടുപടം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Ahimsa Oru Moodupadam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, അഹിംസ ഒരു മൂടുപടം, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  December 22, 2023.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://en.wikipedia.org/wiki/File:H._A._Brendekilde__A_wooded_path_in_autumn_%281902%29.jpg">Wooded Path in Autumn,</ref> a
+painting by <ref target="https://en.wikipedia.org/wiki/en:H._A._Brendekilde">H. A.
+Brendekilde</ref>  (1857–1942). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-ahimsa.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-ahimsa.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ധനശക്തിയും അധികാരശക്തിയും</title>
+          <title xml:lang="en" type="main">Danasakthiyum Adhikarasakthiyum</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">February 2, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ധനശക്തിയും അധികാരശക്തിയും</title>
+              <title xml:lang="en" type="main">Danasakthiyum Adhikarasakthiyum</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Danasakthiyum Adhikarasakthiyum</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>ധനശക്തിയും അധികാരശക്തിയും</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>February 2, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/CharlesGuillaumeBrunRagGather.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:CharlesGuillaumeBrunRagGather.jpg">The
+young rag-gather,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q151534">Guillaume-Charles Brun</ref>
+ (1825–1908). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ധനശക്തിയും അധികാരശക്തിയും</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ധനശക്തിയും അധികാരശക്തിയും</head>
+        <div type="lsection">
+          <p style="noindent">മനുഷ്യജീവിതത്തെ ഭരിക്കുന്ന രണ്ടു് പ്രധാനശക്തികളാണു് ധനവും അധികാരവും.
+രണ്ടും പരസ്പരം പരിപൂരകങ്ങളായി പ്രവർത്തിക്കുന്നു. ധനമുള്ളിടത്തു് അധികാരവും അധികാരമുള്ളിടത്തു് ധനവും
+പിൻബലമായി വന്നുചേരും. വിദ്യാവൃദ്ധൻ, വയോവൃദ്ധൻ തുടങ്ങിയ സർവരും ധനവൃദ്ധന്റെ വാതിൽക്കൽ കാവൽ
+നിൽക്കുന്നുവെന്നു് പറയാറുണ്ടു്.
+എന്നാൽ, ഇവരെല്ലാം അധികാരിയുടെ ദ്വാരപാലകന്മാരാകുന്നതും സാധാരണമാണു്. മർദ്ദനത്തിന്റെയും
+ചൂഷണത്തിന്റെയും ഉപകരണങ്ങളാണു് രണ്ടും. നിയന്ത്രണാതീതമാകുമ്പോൾ അഗ്നി ആപല്ക്കരമാകുന്നില്ലേ?
+അതുപോലെ വേണ്ടവിധം നിയന്ത്രിച്ചില്ലെങ്കിൽ ഈ രണ്ടു് ശക്തികളും പൗരജീവിതത്തെ ദുഷിപ്പിക്കുക മാത്രമല്ല
+നശിപ്പിക്കുകയും ചെയ്യും.
+</p>
+        </div>
+        <!--end of "section 0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ധനശക്തി മുതലാളിത്തരാജ്യങ്ങളിൽ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Adolf_Hitler.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഹിറ്റ്ലർ</figDesc>
+          </figure>
+          <p style="noindent"> വിദ്യുച്ഛക്തിയെ മനുഷ്യൻ സംഭരിക്കുകയും നിയന്ത്രിക്കുകയും ചെയ്യുന്നതുപോലെ
+ധനശക്തിയേയും സാമൂഹ്യക്ഷേമത്തിനുതകത്തക്കവിധം പിടിച്ചുകെട്ടി വേണ്ടവഴിക്കു് തിരിച്ചുവിടണം.
+അന്യൂനമായ ഒരു സോഷ്യലിസ്റ്റ് വ്യവസ്ഥിതിയിൽ മാത്രമേ ഇതു് സാദ്ധ്യമാകയുള്ളു. സോഷ്യലിസ്റ്റ് രാജ്യങ്ങളിൽ
+മനുഷ്യൻ ധനശക്തിയെ ഭരിക്കുന്നു. മുതലാളിത്തരാജ്യങ്ങളിലോ? അവിടെ നേരെമറിച്ചു് ധനശക്തി മനുഷ്യനെ
+ഭരിക്കയാണു് ചെയ്യുന്നതു്. അതിന്റെ അടിമയാണു് മനുഷ്യൻ. അന്ധവും അനിയന്ത്രിതവുമായ
+പ്രകൃതിശക്തികളെപ്പോലെതന്നെ ധനശക്തി അവിടെ നടനംചെയ്യുന്നു. ജനക്ഷേമത്തിനു് അനുകൂലമായും
+പ്രതികൂലമായും അതിന്റെ ആഘാതങ്ങളുണ്ടാകാം. അവ എപ്പോൾ എങ്ങനെ സംഭവിക്കുമെന്നു് ആർക്കും
+ഒരെത്തുംപിടിയുമില്ല. ഇടിവെട്ടേല്ക്കുന്നതുപോലെ വ്യക്തിയും കുടുംബങ്ങളും രാജ്യവും ചിലപ്പോൾ ധനശക്തിയുടെ
+പ്രതികൂലാഘാതങ്ങൾക്കു് ഇരയായിപ്പോകുന്നു. ഇന്നത്തെ കുബേരൻ നാളത്തെ കുചേലനാകും. അടുത്ത
+ഭാവിയിൽ ക്ഷാമമോ ക്ഷേമമോ നാട്ടിലുണ്ടാകുകയെന്നു് ആർക്കും നിശ്ചയിക്കുക വയ്യ. വമ്പിച്ച രാഷ്ട്രങ്ങൾപോലും
+പെട്ടെന്നുണ്ടാകുന്ന സാമ്പത്തികത്തകർച്ചയിൽപ്പെട്ടു് നട്ടംതിരിയുന്ന കാഴ്ച മുതലാളിത്തരാജ്യങ്ങളിൽ
+സർവസാധാരണമല്ലോ. മനുഷ്യജീവിതത്തിനു് അത്യന്താപേക്ഷിതങ്ങളായ ഭക്ഷ്യസാധനങ്ങളുടെയും മറ്റും വിലയും
+ലഭ്യതയും ദീർഘകാലത്തേക്കു് നിർണയിക്കാൻ അവിടങ്ങളിലെ ധനതന്ത്രവിദഗ്ദ്ധന്മാർക്കും കഴിയുന്നില്ല.
+</p>
+        </div>
+        <!--end of "section 0.0/1.2"-->
+        <div type="lsection" xml:id="sec1.3">
+          <head type="lsechead">സാമ്പത്തിക ഭീതി (Economic Fear)</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Stalin.jpg" rendition="gra"/>
+            <figDesc style="thumb">സ്റ്റാലിൻ</figDesc>
+          </figure>
+          <p style="noindent"> ഈ അനിശ്ചിതാവസ്ഥയുടെ ഫലമോ? ഉൽക്കടമായ സാമ്പത്തികഭീതി. ധനിക
+
+ദരിദ്ര ഭേദമെന്യേ സർവ മനുഷ്യരിലും കുടികൊള്ളുന്ന ഒരു ബാധയാണിതു്. എത്ര ഉൽകൃഷ്ടമായ
+മനുഷ്യസ്വഭാവത്തെയും അതു് കരണ്ടുതിന്നു് വികൃതമാക്കുന്നു. ഇതു് നിലനിൽക്കുന്ന കാലത്തോളം മനുഷ്യൻ
+നന്നാകുമെന്നു് വിശ്വസിച്ചുകൂടാ. കോടീശ്വരനെയും പിച്ചക്കാരനെയും ഈ ഭീതി വലയം ചെയ്യുന്നു. നാളത്തെ
+സ്ഥിതിയെന്തെന്നു് രണ്ടുകൂട്ടർക്കും അറിഞ്ഞുകൂടാ. അതുകൊണ്ടാണു് കോടിക്കണക്കിനു് പണം
+സമ്പാദിക്കുന്നവർപോലും അതൃപ്തരായി പിന്നെയും പരചൂഷണത്തിനൊരുമ്പെടുന്നതു്. അമേരിക്കയിൽ
+ഇത്രമാത്രം ധനസമൃദ്ധിയുണ്ടായിട്ടും മനുഷ്യസ്വഭാവം അധഃപതിക്കുന്നതെന്തുകൊണ്ടു്? സാമ്പത്തികഭീതിതന്നെ
+പ്രധാനകാരണം. വ്യക്തികൾ മാത്രമല്ല, സമുദായവും സർക്കാരും തന്മൂലം അമ്പരപ്പിലും അന്ധതയിലും
+പെട്ടുപോകുന്നു. അമേരിക്കയിൽ ദാരിദ്ര്യമില്ലെന്നാണല്ലോ പറയപ്പെടുന്നതു്. എന്നിട്ടും അവിടെ കരിഞ്ചന്തയും
+കൈക്കൂലിയും കൊള്ളയും കൊലപാതകവും സാമ്പത്തികജീവിതത്തിലെ
+മാറാവ്യാധികളായിത്തീർന്നിരിക്കുന്നതെന്തുകൊണ്ടു്? ഇതിൽനിന്നു് ഒരു കാര്യം സ്പഷ്ടം; ദാരിദ്ര്യം
+നീങ്ങിയതുകൊണ്ടായില്ല, സാമ്പത്തികഭീതി ഇല്ലാതായി ജീവിതസുരക്ഷിതത്വം വന്നുചേർന്നാലേ മനുഷ്യസ്വഭാവം
+നന്നാകൂ.
+</p>
+          <p>പണ്ടു് പ്രകൃതിശക്തികളുടെ പ്രവർത്തനം മനുഷ്യരെ അന്ധവിശ്വാസികളാക്കിയതുപോലെ ധനശക്തിയുടെ
+ഈ അദൃശ്യമായ പ്രവർത്തനവും അവരെ മതപരമായ അന്ധതയിലേക്കു് നയിച്ചിരിക്കുന്നു. പ്രകൃതിശക്തികളിൽ
+പുരുഷധർമാരോപം (Personification) കൊണ്ടു് ദേവന്മാരെ സൃഷ്ടിച്ച മനുഷ്യർ ധനശക്തിയുടെ
+അദൃശ്യപ്രവർത്തനത്താൽ ഭയചകിതരായി അതിലും ദൈവത്തെ സങ്കല്പിച്ചുവെന്നു് സൂക്ഷ്മദൃക്കുകൾക്കു്
+കാണാം.</p>
+          <lg>
+            <l> രണ്ടുനാലു ദിനംകൊണ്ടൊരുത്തനെ</l>
+            <l> തണ്ടിലേറ്റി നടത്തുന്നതും ഭവാൻ</l>
+            <l> മാളികമുകളേറിയ മന്നന്റെ</l>
+            <l> തോളിൽ മാറാപ്പു കേറ്റുന്നതും ഭവാൻ </l>
+          </lg>
+          <!--end of "verse"-->
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karl_Marx_001.jpg" rendition="gra"/>
+            <figDesc style="thumb">കാറൽ മാർൿസ്</figDesc>
+          </figure>
+          <p> ഭക്തിയുടെ ഭാഷയിൽ പൊന്തിവന്നിരിക്കുന്ന ഈ അന്ധവിശ്വാസത്തിലെ ഭവാൻ വാസ്തവത്തിൽ
+ഈശ്വരനല്ല. പിന്നെയോ? സാമ്പത്തികഭീതിമൂലം മനുഷ്യന്റെ ഉപാന്തഃകരണത്തിൽ ഭാവനാരൂപംപൂണ്ട
+അദൃശ്യവും അപ്രമേയവുമായ ധനശക്തി തന്നെയാകുന്നു. നമ്മുടെ അജ്ഞത അതിനെ പവിത്രീകരിച്ചു് അന്യഥാ
+ഭാവനം ചെയ്യുന്നുവെന്നു് മാത്രം. മുതലാളിത്തരാജ്യങ്ങളിലെ സാമ്പത്തികവ്യവസ്ഥയ്ക്കു് മതം താങ്ങായി
+നിൽക്കുന്നതു് ഇത്തരം ചിന്താഗതിയിൽക്കൂടിയാണു്. ധനശക്തിയെ നിയന്ത്രിച്ചു് മനുഷ്യന്റെ
+ചൊല്പടിയിലാക്കുന്നതോടുകൂടി താദൃശമായ അന്ധവിശ്വാസം ദുർബലമാകും.
+</p>
+        </div>
+        <!--end of "section 0.0/1.3"-->
+        <div type="lsection" xml:id="sec1.4">
+          <head type="lsechead">മാർൿസ് കാണാത്ത അധികാരശക്തി</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">മഹത്മാഗാന്ധി</figDesc>
+          </figure>
+          <p style="noindent"> ധനശക്തി ഒരാളിലോ ഏതാനും പേരിലോ കേന്ദ്രീകരിക്കപ്പെടുമ്പോളുണ്ടാകുന്ന
+ദോഷങ്ങളെ ചൂണ്ടിക്കാണിച്ചു് ശാസ്ത്രീയമായ സോഷ്യലിസംകൊണ്ടു് അവയ്ക്കു് പരിഹാരം കണ്ടുപിടിച്ച
+ലോകാചാര്യനാണു് <ref target="https://ml.wikipedia.org/wiki/Karl_Marx">കാറൽ
+മാർൿസ്</ref>. എന്നാൽ, അധികാരശക്തിയും ഇതുപോലെ കേന്ദ്രീകൃതമായി സാമൂഹ്യജീവിതത്തെ
+അലങ്കോലപ്പെടുത്തുമെന്നു് കാണാനുള്ള കണ്ണു് മാർൿസിനുണ്ടായില്ല. സോഷ്യലിസത്തിൽ ധനശക്തി
+
+സമീകൃതമാകുന്നതോടെ അധികാരശക്തിയും തദനുസൃതമാകുമെന്നു് മാർൿസ് വിചാരിച്ചു. ഇതു് തെറ്റാണെന്നു്
+പ്രാപ്തകാലചരിത്രം തെളിയിക്കുന്നു. ധനശക്തിയുടെ സഹായംകൂടാതെ ജനസമുദായത്തെ സംഘടിപ്പിച്ചു്
+നേതൃത്വവും അധികാരവും നേടാൻ ചില വ്യക്തികൾക്കു് സാദ്ധ്യമാകുമെന്നതിനു് <ref target="https://ml.wikipedia.org/wiki/Adolf_Hitler">ഹിറ്റ്ലർ</ref>, <ref target="https://ml.wikipedia.org/wiki/Joseph_Stalin">സ്റ്റാലിൻ</ref> തുടങ്ങിയ
+സ്വേച്ഛാധിപതികളുടെ ചരിത്രം ഉദാഹരണമാണു്. ധനശക്തിയെ അതിന്റെ വ്യാപകമായ അർത്ഥത്തിലാണു്
+ഇവിടെ വിവക്ഷിച്ചിരിക്കുന്നതെന്നു് പറഞ്ഞുകൊള്ളട്ടെ. ഹിറ്റ്ലറുടെ അധികാരശക്തി ഉറപ്പിക്കുന്നതിനു്
+ജർമനിയിലെ മുതലുടമകൾ പിൻബലം കൊടുത്തിട്ടുണ്ടാകാം. എന്നാൽ, അയാൾ
+നേതൃസ്ഥാനത്തിലെത്തിയതിനു് ശേഷമാണു് അതു് സംഭവിച്ചതു്. അതുകൊണ്ടു് അധികാരശക്തിയുടെ
+കേന്ദ്രീകരണം മറ്റുകാരണങ്ങളാലും സംഭവിക്കാമെന്നുവരുന്നു. ഈ ദോഷം എങ്ങനെ പരിഹരിക്കാം? അതാണു്
+ഇന്നത്തെ പുതിയ പ്രശ്നം. മാർൿസ് വിഭാവനംചെയ്ത തൊഴിലാളിവർഗത്തിന്റെ ജനകീയഭരണത്തിൽപോലും
+അധികാരശക്തി ഒരാളിലോ ഏതാനുംപേരിലോ കേന്ദ്രീകൃതമായി ദുഷിച്ചുപോകുമെന്നു് ദീർഘദർശനംചെയ്യാൻ
+അദ്ദേഹത്തിനു് സാധിച്ചില്ല. സോവിയറ്റ് റഷ്യയിൽ ഒരു വശത്തുകൂടി ധനശക്തി ജനക്ഷേമകരമായി
+നിയന്ത്രിക്കപ്പെട്ടപ്പോൾ മറുവശത്തുകൂടി അധികാരശക്തി അനിയന്ത്രിതസ്വേച്ഛാധിപത്യത്തിന്റെ രൂപംപൂണ്ടു്
+അനിഷ്ടഫലങ്ങൾ ഉളവാക്കിയിരിക്കുന്നു. ‘ഒരു മനുഷ്യനെ അറിയണമെന്നു് നിങ്ങൾ ആഗ്രഹിക്കുന്നുവോ? എങ്കിൽ
+അയാൾക്കു് അധികാരം കൊടുത്തു് നോക്കുക’ (Would you know a man; give him power). ഒരു പ്രാചീന
+യവനദേവാലയത്തിന്റെ ഗോപുരവാതിൽക്കൽ എഴുതിവെച്ചിരിക്കുന്ന ഈ വാക്യം എത്രയും അർത്ഥവത്താണു്.
+അധികാരം മനുഷ്യസ്വഭാവത്തെ ദുഷിപ്പിക്കുന്നുവെന്നതു് ഒരു സാർവലൗകിക സത്യമത്രേ. ഈ നാട്ടിലെ
+രാഷ്ട്രീയാനുഭവങ്ങൾത്തന്നെ ഇതിനുദാഹരണങ്ങളല്ലേ? നല്ല മനുഷ്യനെന്നു് ജനസമ്മതിയുള്ളവൻപോലും
+മന്ത്രിപദത്തിലേറിക്കഴിയുമ്പോൾ ക്രമേണ സ്വഭാവദോഷം ബാധിച്ചു് അധഃപതിക്കുന്നതു് നോക്കുക! ചുരുക്കത്തിൽ
+മനുഷ്യൻ നന്നാകണമെങ്കിൽ—സാമൂഹ്യക്ഷേമം പുലരണമെങ്കിൽ—ധനശക്തിയോടൊപ്പം അധികാരശക്തിയും
+കഴിയുന്നിടത്തോളം നിയന്ത്രിതവും വികേന്ദ്രീകരണത്തിനു് വിധേയവുമാകണമെന്നു് സിദ്ധിക്കുന്നു. കാറൽ
+മാർൿസ് കാണാത്ത ഈ സത്യം ദർശിച്ചതു് <ref target="https://ml.wikipedia.org/wiki/Mahatma_Gandhi">മഹത്മാഗാന്ധി</ref>
+യാണു്. അദ്ദേഹം നിർദ്ദേശിച്ച ഗ്രാമപ്പഞ്ചായത്തു് ഭരണം അധികാരശക്തികളുടെ ദുർഭരണഭൂതത്തെ ഉച്ചാടനം
+ചെയ്യുന്നതിനുള്ള ഒന്നാമത്തെ മന്ത്രമാകുന്നു. എന്നാൽ, ഈ യന്ത്രയുഗത്തിൽ ഇതെത്രത്തോളം ഫലിക്കുമെന്നു്
+തീർത്തു് പറയാൻ സാദ്ധ്യമല്ല. മനുഷ്യന്റെ സാമൂഹ്യജീവിതം എത്രയെത്ര അഗ്നിപരീക്ഷകളിൽക്കൂടി
+കടന്നിട്ടുവേണം സർവതോഭദ്രമാകാൻ.
+</p>
+          <p>
+(ചിന്താതരംഗം 1956)
+</p>
+        </div>
+        <!--end of "section 0.0/1.4"-->
+        <div type="lsection" xml:id="sec1.5">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.5.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0/1.5.1"-->
+        </div>
+        <!--end of "section 0.0/1.5"-->
+      </div>
+      <!--end of "chapter 0/1"-->
+      <!--END OF CHAPTER 0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Danasakthiyum
+Adhikarasakthiyum (ml: ധനശക്തിയും അധികാരശക്തിയും).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Danasakthiyum Adhikarasakthiyum, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, ധനശക്തിയും
+അധികാരശക്തിയും, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  February 2, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:CharlesGuillaumeBrunRagGather.jpg">The
+young rag-gather,</ref> a painting by <ref target="https://www.wikidata.org/wiki/Q151534">Guillaume-Charles Brun</ref>
+ (1825–1908). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.or.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.or.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-dhanasakthi.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzhadhanasakthi.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">സിനിമ, സംസ്കാരം, സർക്കാർ
+ഇടപെടൽ</title>
+          <title xml:lang="en" type="main">Cinema, Samskaram, Sarkar Idapedal</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">July 23, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">സിനിമ, സംസ്കാരം, സർക്കാർ
+ഇടപെടൽ</title>
+              <title xml:lang="en" type="main">Cinema, Samskaram, Sarkar Idapedal</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Cinema</term>
+          <term>Samskaram</term>
+          <term>Sarkar Idapedal</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>സിനിമ</term>
+          <term>സംസ്കാരം</term>
+          <term>സർക്കാർ ഇടപെടൽ</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>July 23, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Man_Binding_Fishnet.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Man_Binding_Fishnet.jpg">Man
+Binding Fishnet,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Edvard_Munch">Edvard Munch</ref>
+ (1863–1944). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">സിനിമ, സംസ്കാരം, സർക്കാർ ഇടപെടൽ</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">സിനിമ, സംസ്കാരം, സർക്കാർ ഇടപെടൽ</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/G_Karthikeyan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജി. കാർത്തികേയൻ</figDesc>
+          </figure>
+          <p style="noindent"><ref target="https://ml.wikipedia.org/wiki/Iravikkutti_Pillai">ഇരവിക്കുട്ടിപ്പിള്ള</ref>
+വലിയ പടത്തലവന്റെയും <ref target="https://ml.wikipedia.org/wiki/Veluthampi_Dhalava">തലക്കുളത്തു വേലുത്തമ്പി
+ദളവാ</ref> യുടെയും വീരരക്തം സിരകളിലോടുന്ന ധീര കേസരിയാണു് <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">ജി. കാർത്തികേയൻ</ref>.
+1949 ജനുവരി 20-നു് വർക്കലയിലാണു് കാർത്തികേയന്റെ ജനനം. <ref target="https://ml.wikipedia.org/wiki/Varkala_Radhakrishnan">വർക്കല
+രാധാകൃഷ്ണൻ</ref>, <ref target="https://ml.wikipedia.org/wiki/Varkala_Kahar">വർക്കല കഹാർ</ref>
+എന്നിവരുടെ ചുവടുപിടിച്ചു് അദ്ദേഹത്തിനു് വേണമെങ്കിൽ ‘വർക്കല കാർത്തികേയൻ’ എന്ന പേരു്
+സ്വീകരിക്കാമായിരുന്നു. <ref target="https://ml.wikipedia.org/wiki/Pattom_A._Thanu_Pillai">പട്ടം
+താണുപിള്ള</ref> മുതൽക്കിങ്ങോട്ടുള്ള നേതാക്കളൊക്കെ ജന്മദേശത്തെ പേരിനോടു
+കൂട്ടിക്കെട്ടിയവരാണല്ലോ. കാർത്തികേയൻ അസ്സലുള്ളവനാണു്. സ്ഥലപ്പേരു് കൂട്ടിക്കെട്ടാതെയും രാഷ്ട്രീയത്തിൽ
+നിലനിൽക്കാമെന്നു് അദ്ദേഹം തെളിയിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Elamkulam_Kunjan_Pilla.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇളംകുളം കുഞ്ഞൻപിള്ള</figDesc>
+          </figure>
+          <p> കേരളാ സ്റ്റുഡന്റ്സ് യൂനിയനിലൂടെയാണു് കാർത്തികേയന്റെ രാഷ്ട്രീയ പ്രവേശം. കെ. എസ്. യു.-വിന്റെ
+സംസ്ഥാന ട്രഷറർ, ജനറൽ സെക്രട്ടറി, പ്രസിഡന്റ്, കേരള സർവകലാശാല സെനറ്റംഗം, യൂനിവേഴ്സിറ്റി
+യൂനിയൻ സെക്രട്ടറി എന്നീ നിലകളിലൊക്കെ പ്രശോഭിച്ചു. ഇടക്കാലത്തു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">എ. കെ. ആന്റണി</ref> യുടെ
+അപ്രീതിക്കിരയായി സംഘടനയിൽ നിന്നു് ബഹിഷ്കൃതനായി. അക്കാലത്താണു് 1978-ലെ കോൺഗ്രസ് പിളർപ്പു്.
+<ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയൻ</ref>
+<ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരന്റെ</ref>
+വലംകൈയായി; യൂത്ത് കോൺഗ്രസ് ഐയുടെ മുഖ്യ സംഘാടകൻ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/VarkalaRadhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വർക്കല രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> 1980 ജനുവരിയിൽ വർക്കല നിന്നു് നിയമസഭയിലേക്കു് പുത്തരിയങ്കം. അത്തവണ മാർക്സിസ്റ്റ് നേതാവു്
+<ref target="https://ml.wikipedia.org/wiki/Varkala_Radhakrishnan">വർക്കല
+രാധാകൃഷ്ണനോ</ref> ടു് തോറ്റു. 1982-ൽ തിരുവനന്തപുരം നോർത്തിൽ നിന്നു് ആദ്യ ജയം. 87-ൽ നോർത്തിൽ
+
+<ref target="https://ml.wikipedia.org/wiki/M._Vijayakumar">എം.
+വിജയകുമാറി</ref> നോടു് പരാജയം. 1989-ൽ ആര്യനാട്ടു നിന്നു് വീണ്ടും വിജയം. അത്തവണ മന്ത്രിയാകുമെന്നു്
+പ്രതീക്ഷിച്ചെങ്കിലും ഫലിച്ചില്ല. കാര്യത്തോടടുത്തപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref> കളം
+മാറ്റിച്ചവിട്ടി. <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയൻ</ref>
+ലീഡറോടു് മാനസികമായി അകന്നു. കാരണവരാണെങ്കിൽ പുത്രസ്നേഹം കൊണ്ടു്
+അന്ധനായിക്കഴിഞ്ഞിരുന്നുതാനും. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+അംഗീകരിക്കാം, <ref target="https://ml.wikipedia.org/wiki/K._Muraleedharan">മുരളി</ref> യെ പറ്റില്ല
+എന്ന തത്ത്വാധിഷ്ഠിത നിലപാടിൽ നിന്നു് തിരുത്തൽവാദമുണ്ടായി. കരുണാകരന്റെ സ്ഥാനത്തു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> മുഖ്യനായി
+വന്നപ്പോൾ തിരുത്തൽ വാദാചാര്യനും മന്ത്രിയായി. വകുപ്പു് തൊട്ടാൽ ഷോക്കടിക്കുന്ന വിദ്യുച്ഛക്തി. പവർകട്ട്
+എന്ന പ്രതിഭാസത്തിന്റെ ഉപജ്ഞാതാവു് <ref target="https://ml.wikipedia.org/wiki/R._Balakrishna_Pillai">ആർ.
+ബാലകൃഷ്ണപിള്ള</ref> യാണെങ്കിലും കേരളത്തെ അന്ധതാമിസ്രമാക്കിയതു് <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയനാ</ref>
+യിരുന്നു. 2001-മാണ്ടിലെ തെരഞ്ഞെടുപ്പിൽ മൂന്നാം ഗ്രൂപ്പുകാരായ മൂന്നുപേരാണു് പാസായതു്. <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയൻ</ref>,
+<ref target="https://ml.wikipedia.org/wiki/K._C._Venugopal">കെ. സി.
+വേണുഗോപാൽ</ref>, <ref target="https://ml.wikipedia.org/wiki/V.D._Satheesan">വി. ഡി. സതീശൻ</ref>,
+രണ്ടു് എം. എൽ. എ.-മാരുള്ള നാലാം ഗ്രൂപ്പിനു് ഒരു മന്ത്രിയാകാമെങ്കിൽ മൂന്നംഗങ്ങളുള്ള മൂന്നാം ഗ്രൂപ്പിനു്
+നിശ്ചയമായും ഒരു മന്ത്രി വേണം. അങ്ങനെ <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയൻ</ref>
+മന്ത്രിയായി. വകുപ്പുകൾ ഭക്ഷ്യവും സിവിൽ സപ്ലൈസും, സാംസ്കാരികവും.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/MT_VASUDEVAN_NAIR.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. ടി. വാസുദേവൻ നായർ</figDesc>
+          </figure>
+          <p> സംസ്കൃത പണ്ഡിതനും സാഹിത്യകാരനുമായ <ref target="https://ml.wikipedia.org/wiki/T.K._Ramakrishnan">ടി. കെ.
+രാമകൃഷ്ണനാ</ref> ണു് കഴിഞ്ഞ മന്ത്രിസഭയിൽ സാംസ്കാരിക വകുപ്പു് കൈകാര്യം ചെയ്തതു്. 1991–96 കാലത്തു്
+ഭരണധുരന്ധനായ <ref target="https://ml.wikipedia.org/wiki/T.M._Jacob">ടി. എം.
+ജേക്കബും</ref>. ഇത്തവണയും സാംസ്കാരിക വകുപ്പിന്മേൽ ജേക്കബിനു് കണ്ണുണ്ടായിരുന്നു. പക്ഷേ, <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> അടുത്തില്ല.
+ചിത്രകാരനും ഗായകനുമായ ഡോ. <ref target="https://ml.wikipedia.org/wiki/M.K._Muneer">എം. കെ. മുനീറും</ref> സിനിമാ
+നടൻ <ref target="https://en.wikipedia.org/wiki/K._B._Ganesh_Kumar">ഗണേശ്
+കുമാറു</ref> മൊക്കെ മന്ത്രിസഭയിലുണ്ടായിട്ടും സാംസ്കാരിക വകുപ്പു് വിശ്വസിച്ചേൽപിച്ചതു് <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">ജി. കാർത്തികേയനെ</ref>
+യാണു്. സ്വന്തം നിലക്കു് നല്ലൊരു വായനക്കാരനും സിനിമാ സംഗീത ആസ്വാദകനുമാണു് കാർത്തികേയൻ.
+അദ്ദേഹത്തിന്റെ ധർമപത്നി ഡോ. എം. ടി. സുലേഖയാണെങ്കിൽ എഴുത്തുകാരി, എൻ. എസ്. എസ്. കോളേജിൽ
+മലയാള വകുപ്പധ്യക്ഷയും. ഭർതൃകർമാനുകരണമത്രേ പാതിവ്രത്യ നിഷ്ഠാ വധൂനാമെന്നു് നിർണയം.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Pattom_A_Thanu_Pillai.jpg" rendition="gra"/>
+            <figDesc style="thumb">പട്ടം താണുപിള്ള</figDesc>
+          </figure>
+          <p> കേരളത്തിലെ സാംസ്കാരിക നായകരിലധികവും കമ്യൂണിസ്റ്റുകാരോ ഇടതുപക്ഷ സഹയാത്രികരോ ആണു്.
+
+യു. ഡി. എഫ്. സർക്കാറിനെ സ്ഥാനത്തും അസ്ഥാനത്തും എതിർത്തു പ്രസ്താവനയിറക്കുകയാണു് അവരുടെ
+സ്ഥിരം അജണ്ട. പണ്ടു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരൻ</ref>
+ക്രിസ്തുവിന്റെ ആറാം തിരുമുറിവു് നിരോധിച്ചപ്പോൾ ആവിഷ്ക്കാര സ്വാതന്ത്ര്യത്തിനായി മുറവിളി കൂട്ടിയവർ അതേ
+തീരുമാനം <ref target="https://ml.wikipedia.org/wiki/E._K._Nayanar">നായനാർ</ref>
+പിന്തുടർന്നപ്പോൾ സമ്പൂർണ മൗനം പാലിച്ചു. കഴിഞ്ഞ ഇടതുപക്ഷ സർക്കാർ പെരിയാറിലെ വെള്ളം
+വിൽക്കാൻ തീരുമാനിച്ചപ്പോൾ ബുദ്ധിജീവികളത്രയും ഉറക്കം നടിച്ചു; ആ തീരുമാനം ഈ സർക്കാർ നടപ്പാക്കാൻ
+തുനിഞ്ഞപ്പോൾ നെഞ്ചത്തിടിയും നിലവിളിയുമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/M_Vijayakumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. വിജയകുമാർ</figDesc>
+          </figure>
+          <p> സാംസ്കാരിക നായകരായി ഭാവിക്കുന്ന തൂലികത്തൊഴിലാളികളെ ചട്ടം പഠിപ്പിക്കുന്ന ഭാരിച്ച ജോലിയാണു്
+കാർത്തികേയൻജി ഏറ്റെടുത്തതു്. പഴയൊരു കോൺഗ്രസുകാരനും നിലവിൽ സർക്കാറിന്റെ നിതാന്ത
+വിമർശകനുമായ <ref target="https://ml.wikipedia.org/wiki/Sukumar_Azhikode">സുകുമാർ
+അഴീക്കോടി</ref> നു് നേർക്കാണു് മന്ത്രി ആദ്യം കുരച്ചു ചാടിയതു്. അതുകഴിഞ്ഞു് <ref target="https://ml.wikipedia.org/wiki/Paul_Zacharia">സക്കറിയ</ref>, പിന്നെ
+<ref target="https://ml.wikipedia.org/wiki/O._N._V._Kurup">ഒ. എൻ. വി.</ref>
+മന്ത്രി പുംഗവനുമായി പൊരുത്തപ്പെട്ടു പോകാൻ കഴിയില്ലെന്നു് തോന്നിയതുകൊണ്ടു് കലാമണ്ഡലം അധ്യക്ഷ
+പദവി ഏറ്റെടുക്കാൻ വിസമ്മതിച്ചു <ref target="https://ml.wikipedia.org/wiki/M.T._Vasudevan_Nair">എം. ടി. വാസുദേവൻ
+നായർ</ref> (വിഷസർപ്പങ്ങളെ പേടിച്ചു് കാൽക്കീഴിൽ നോക്കിനടക്കാൻ പഠിപ്പിച്ച കാരണവന്മാരുടെയും
+വലിയ അപകടങ്ങളിൽ നിന്നു് കാത്തുരക്ഷിക്കുന്ന കൊടിക്കുന്നത്തമ്മയുടെയും അനുഗ്രഹം). ഡോ. <ref target="https://ml.wikipedia.org/wiki/M._M._Basheer">എം. എം. ബഷീറും</ref>
+<ref target="https://ml.wikipedia.org/wiki/M._Thomas_Mathew">എം. തോമസ്
+മാത്യു</ref> വും ശ്രീമൂലനഗരം മോഹനനും കൈപൊള്ളിയപ്പോഴേ പഠിച്ചുള്ളൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Muraleedharan.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. മുരളീധരൻ</figDesc>
+          </figure>
+          <p> കേരള ചരിത്ര ഗവേഷണ കൗൺസിലിനു് നേരെ നടത്തിയ പരാക്രമമാണു് കാർത്തികേയന്റെ ഏറ്റവും
+വലിയ ഭരണനേട്ടം. കൗൺസിലിന്റെ ചെയർമാൻ തന്റെ മുന്നിൽ ഓച്ഛാനിച്ചുനിൽക്കാഞ്ഞതാണത്രെ മന്ത്രിയെ
+ശുണ്ഠിപിടിപ്പിച്ചതു്. അക്ബറിന്റെ സിംഹാസനത്തിൽ മൂട്ടയോ? ആരവിടെ, കൗൺസിൽ പിരിച്ചുവിട്ടിരിക്കുന്നു!
+ആർ. എസ്. ശർമയും <ref target="https://ml.wikipedia.org/wiki/Irfan_Habib">ഇർഫാൻ ഹബീബും</ref> മുതൽ
+കെ. രാജേശ്വരി വരെയുള്ളവർ പിരിച്ചുവിടലിനെ അപലപിച്ചു. ദേശാഭിമാനിയും മാതൃഭൂമിയും
+മുഖപ്രസംഗവുമെഴുതി. <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കെ. കരുണാകരനെ</ref>
+മാനിക്കാത്ത <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയനു</ref>
+ണ്ടോ കെ. രാജേശ്വരിയെ ഗൗനിക്കുന്നു? ചരിത്ര ഗവേഷണത്തിനു് കൗൺസിലൊന്നും വേണ്ട. ഗസറ്റിയർ വകുപ്പു്
+ധാരാളം മതിയാകുമെന്നു് അദ്ദേഹം ഉദ്ഘോഷിച്ചു. ചരിത്രമേ വേണ്ട എന്നു് പറയാഞ്ഞതു ദൈവാധീനം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/VD_SATHEESAN.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. ഡി. സതീശൻ</figDesc>
+          </figure>
+          <p> ചരിത്രകാരന്മാർ പിരിച്ചുവിടലിനെതിരെ കോടതിയെ സമീപിച്ചു സ്റ്റേ വാങ്ങി. ഇടക്കാല ഉത്തരവിന്റെ
+ബലത്തിൽ മൂന്നു മാസത്തോളം പ്രവർത്തിച്ചു. 2001 ഡിസംബർ 21-നു് സിംഗിൾ ജഡ്ജി ഹർജി തള്ളി വിധിയായി.
+പിറ്റേ ദിവസം കാർത്തികേയ കിങ്കരൻ വൈലോപ്പിള്ളി സംസ്കൃതി ഭവനിലെത്തി കൗൺസിലിന്റെ ഓഫീസ് പൂട്ടി
+മുദ്രവെച്ചു. ഒന്നാം നിലയിലുള്ള ലൈബ്രറിയും റിസർച്ച് സെന്ററും എന്തുകൊണ്ടോ ഒഴിവാക്കി. ജനുവരി 25-നു്
+ചരിത്രകാരന്മാരുടെ അപ്പീൽ പരിഗണനക്കു് വന്നപ്പോൾ ഡിവിഷൻ ബെഞ്ച് സ്റ്റാറ്റസ് കോ ഉത്തരവായി.
+കോടതിയുത്തരവു് തൃണവത്ഗണിച്ചു് ഫെബ്രുവരി ഏഴാം തീയതി സർക്കാർ ലൈബ്രറിയും റിസർച്ചു സെന്ററും
+പുതിയ താഴിട്ടു് പൂട്ടി. അന്നുതന്നെ കൗൺസിലിലേക്കുള്ള വഴികാണിച്ചുകൊണ്ടു് പി. എം. ജി. ജംഗ്ഷനിൽ
+സ്ഥാപിച്ചിരുന്ന ബോർഡുകളും മായ്ച്ചു. ഫെബ്രുവരി 23-നു് വൈകുന്നേരം കൗൺസിലിന്റെ ഓഫീസിൽ
+സാംസ്കാരിക വകുപ്പിന്റെ ആഭിമുഖ്യത്തിൽ കർസേവ അരങ്ങേറി. തേക്കിൻ പലകകൊണ്ടുതീർത്ത വാതിൽ
+അറുത്തുമുറിച്ചാണു് കർസേവകർ അകത്തു കടന്നതു്. ഓഫീസുപകരണങ്ങളും രേഖകളുമൊക്കെ നീക്കപ്പെട്ടു.
+ചുവരിൽ തൂക്കിയിരുന്ന <ref target="https://ml.wikipedia.org/wiki/Elamkulam_Kunjan_Pillai">ഇളംകുളം
+കുഞ്ഞൻപിള്ള</ref> യുടെയും <ref target="https://ml.wikipedia.org/wiki/K.P._Padmanabha_Menon">കെ. പി.
+പത്മനാഭമേനോന്റെ</ref> യും ഛായാചിത്രങ്ങൾക്കു പോലും സ്ഥാനഭ്രംശം സംഭവിച്ചു. (കർസേവക്കു്
+മേൽനോട്ടം വഹിച്ചതു് കേരളത്തിലെ ചുവർചിത്രങ്ങളെപ്പറ്റി ഗവേഷണം നടത്തിയ <ref target="https://ml.wikipedia.org/wiki/M.G._Sasibhooshan">എം. ജി.
+ശശിഭൂഷൺ</ref>. സംസ്കൃതി ഭവൻ സെക്രട്ടറി; ‘ഇസങ്ങൾക്കപ്പുറം’ എഴുതിയ <ref target="https://ml.wikipedia.org/wiki/S._Guptan_Nair">ഗുപ്തൻ നായരു</ref> ടെ
+മകൻ). മാർച്ച് 18-ാം തീയതി ചീഫ് ജസ്റ്റിസ് <ref target="https://en.wikipedia.org/wiki/B._N._Srikrishna">ബി. എൻ. ശ്രീകൃഷ്ണ</ref>
+യും ജസ്റ്റിസ് എം. രാമചന്ദ്രനുമുൾപ്പെട്ട ഡിവിഷൻ ബെഞ്ച് ചരിത്രകാരന്മാരുടെ അപ്പീൽ അനുവദിച്ചു.
+കൗൺസിൽ പിരിച്ചുവിട്ടുകൊണ്ടുള്ള സെപ്റ്റംബർ 22-ലെ സർക്കാർ ഉത്തരവു് അസ്ഥിരപ്പെടുത്തി; രണ്ടാഴ്ചക്കകം
+ഓഫീസും സാധനസാമഗ്രികളും പഴയമട്ടിൽ തിരികെയേൽപിക്കാനും ഉത്തരവായി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Irfan_Habib.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇർഫാൻ ഹബീബ്</figDesc>
+          </figure>
+          <p> നിയമാനുസൃതമായ രീതിയിൽ കൗൺസിൽ പിരിച്ചുവിടാനുള്ള നടപടി കൈക്കൊള്ളാമെന്നു് ഡിവിഷൻ
+ബെഞ്ച് വ്യക്തമാക്കിയിരുന്നു. ഒന്നുകിൽ സൊസൈറ്റീസ് ആക്ടിലെ 23-ാം വകുപ്പു് പ്രകാരം പൊതുയോഗം വിളിച്ചു്
+പിരിഞ്ഞുപോകൽ പ്രമേയം പ്രത്യേക ഭൂരിപക്ഷത്തോടെ പാസാക്കിയെടുക്കാം. അല്ലെങ്കിൽ
+25-ാം വകുപ്പനുസരിച്ചു് ജില്ലാ കോടതിയിൽ അന്യായം ഫയലാക്കാം. രണ്ടും ദുഷ്കരം, ആകയാൽ സംസ്കൃതി ഭവനിൽ
+നിന്നു് കുടിയൊഴിഞ്ഞുപോകണമെന്ന് കാണിച്ചു് സാംസ്ക്കാരിക വകുപ്പു് സെക്രട്ടറി തീട്ടൂരം പുറപ്പെടുവിച്ചു. (<ref target="https://ml.wikipedia.org/wiki/Vyloppilli_Sreedhara_Menon">വൈലോപ്പിള്ളി</ref>
+ഉണ്ടായിരുന്നെങ്കിൽ ‘കുടിയൊഴിപ്പിക്കൽ’ എന്നൊരു കാവ്യം രചിച്ചേനെ). ചരിത്രകാരന്മാർ വീണ്ടും
+കോടതികയറി. സ്റ്റേ ഉത്തരവിന്റെ ബലത്തിൽ കൗൺസിൽ സംസ്കൃതി ഭവനിൽ തുടരുകയാണു്.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/D_sreedevi.png" rendition="gra"/>
+            <figDesc style="thumb">ശ്രീദേവി</figDesc>
+          </figure>
+          <p> ചരിത്ര കൗൺസിലിന്റെതിനേക്കാൾ ഭയങ്കരമായിരുന്നു വനിതാ കമീഷന്റെ വിധി. സാംസ്കാരിക വിദ്യുച്ഛക്തി
+മന്ത്രിമാർക്കെതിരായ ലൈംഗികാപവാദക്കേസിൽ നോട്ടീസയക്കാൻ തീരുമാനിച്ചതും കമീഷൻ
+പുനഃസംഘടിപ്പിച്ചതും ഒപ്പം. (ഇതിനു് സംസ്കൃതത്തിൽ ‘കാകതാലീയ ന്യായം’ എന്നു് പറയും. ‘കാക്ക വന്നു,
+പനമ്പഴവും വീണു’.) ഭർത്താവിനെ ന്യായീകരിച്ചും ജസ്റ്റിസ് <ref target="https://ml.wikipedia.org/wiki/D._Sreedevi">ശ്രീദേവി</ref> യെ അപലപിച്ചും
+സുലേഖ ടീച്ചർ മനോരമയിലെഴുതിയ ലേഖനം വായിച്ചാൽ ഹിലാരി മദാമ്മ വരെ നാണിച്ചു പോകും! വനിതാ
+കമീഷനിൽ നിന്നയച്ചുതന്ന പരാതി വായിച്ചു് തന്റെ ഭാര്യയും കുട്ടികളും ചിരിച്ചു മണ്ണുകപ്പിയെന്നാണു് <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയൻജി</ref>
+പിന്നീടു് പറഞ്ഞതു്. പുനഃസംഘടനയെ ചോദ്യം ചെയ്തു് ശ്രീദേവിയും കൂട്ടരും ഹർജി കൊടുത്തെങ്കിലും സ്റ്റേ
+
+കിട്ടിയില്ല. കേരള ഹൈക്കോടതിയിൽ കെട്ടിക്കിടക്കുന്ന ഒരു ലക്ഷത്തി ഇരുപത്തയ്യായിരം കേസുകളിൽ
+ഒന്നുകൂടി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/KC_Venugopal.jpg" rendition="gra"/>
+            <figDesc style="thumb">കെ. സി. വേണുഗോപാൽ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/M._M._Basheer">എം. എം.
+ബഷീറി</ref> ന്റെയും <ref target="https://ml.wikipedia.org/wiki/M._Thomas_Mathew">തോമസ് മാത്യു</ref>
+വിന്റെയും വഴിയേ <ref target="https://ml.wikipedia.org/wiki/Adoor_Gopalakrishnan">അടൂർ
+ഗോപാലകൃഷ്ണനും</ref> യാത്രയാകുന്നു. ചലച്ചിത്ര അക്കാദമിയിലെ ഒരു ജീവനക്കാരിയുടെ ഡെപ്യൂട്ടേഷൻ
+റദ്ദാക്കിയതും സെക്രട്ടറിയുടെ സ്ഥലംമാറ്റവുമാണു് പ്രകോപനം. അക്കാദമിയുടെ ദൈനംദിന പ്രവർത്തനങ്ങളിൽ
+ഇടപെടുന്നു. ഫിലിം അവാർഡ് ജൂറിയെ മാറ്റിമറിച്ചു. <ref target="https://ml.wikipedia.org/wiki/J._C._Daniel">ജെ. സി. ഡാനിയേൽ</ref>
+അവാർഡിന്റെ കാര്യത്തിൽ തിരിമറി നടത്തി എന്നൊക്കെയാണു് അടൂരിന്റെ ആരോപണം. ഏഴു
+കൊല്ലത്തിലൊരിക്കൽ ഒരു സിനിമയെടുക്കുന്ന <ref target="https://ml.wikipedia.org/wiki/Adoor_Gopalakrishnan">അടൂർ
+ഗോപാലകൃഷ്ണൻ</ref> അത്ര വലിയ മഹാനൊന്നുമല്ല എന്നാണു് <ref target="https://ml.wikipedia.org/wiki/G._Karthikeyan">കാർത്തികേയന്റെ</ref>
+പക്ഷം. കഥാപുരുഷനെപ്പറ്റി വളരെയൊന്നും പാർലമെന്ററിയല്ലാത്ത പരാമർശങ്ങളും മന്ത്രി നടത്തി. അടൂർ
+ഗോപാലകൃഷ്ണനല്ല റിച്ചാർഡ് അറ്റൻബറോ ആയാലും സർക്കാർ കാര്യത്തിൽ ഇടപെടാൻ അനുവദിക്കില്ലാ എന്നു്
+കാർത്തികേയൻജി പ്രഖ്യാപിച്ചിട്ടുണ്ടു്.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Mm_basheer.jpg" rendition="gra"/>
+            <figDesc style="thumb">എം. എം. ബഷീർ</figDesc>
+          </figure>
+          <p> ഏതായാലും രാജിക്കത്തു് മുഖ്യനെ ഏൽപിച്ചു് ഫ്രാൻസിലേക്കു് പോയിരിക്കയാണു് ഗോപാലകൃഷ്ണൻ. മൂന്നാഴ്ച
+കഴിഞ്ഞു മടങ്ങിവരുമ്പോഴേക്കും സർക്കാർ തീരുമാനം അറിയിക്കണം. ഫ്രാൻസിലല്ല അന്റാർട്ടികയിൽ പോയി
+വന്നാലും കാർത്തികേയനു മാനസാന്തരമുണ്ടാകില്ല. മലകളിളകി മാറാം, മഹാജനാനാം മനമിളകാ. മന്ത്രിസഭാ
+യോഗത്തിനു് ശേഷമാണു് അടൂരിനെതിരെ കാർത്തികേയൻ ആഞ്ഞടിച്ചതെന്നും അതുകൊണ്ടുതന്നെ സർക്കാർ
+വഴങ്ങാനിടയില്ലെന്നുമാണു് മലയാള മനോരമ നൽകുന്ന സൂചന.
+</p>
+          <p>അടൂർ സ്വയം രാജിവെച്ചൊഴിഞ്ഞതു നന്നായി. അല്ലെങ്കിൽ അക്കാദമി ഇരിക്കുന്നിടത്തു് കുളം കുഴിക്കാനും
+ചെയർമാനെ കരിമ്പുള്ളി കുത്തിച്ചു കഴുതപ്പുറത്തേറ്റി നാടു കടത്താനും മടിക്കുമായിരുന്നില്ല സാംസ്ക്കാരിക മന്ത്രി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/J_C_Daniel.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജെ. സി. ഡാനിയേൽ</figDesc>
+          </figure>
+          <p> ചലച്ചിത്ര അക്കാദമിക്കൊരു ചെയർമാൻ വേണമെന്നേയുള്ളൂ. അതിപ്പോൾ <ref target="https://ml.wikipedia.org/wiki/Adoor_Gopalakrishnan">അടൂർ
+ഗോപാലകൃഷ്ണ</ref> നായാലെന്തു്, <ref target="https://ml.wikipedia.org/wiki/K._S._Gopalakrishnan">കെ. എസ്.
+ഗോപാലകൃഷ്ണനാ</ref> യാലെന്തു്? പിന്നെ സർക്കാരിടപെടലിന്റെ കാര്യം. ആലപ്പുഴ നടന്ന സംസ്ഥാന സ്കൂൾ
+യുവജനോൽസവത്തിൽ തിരുത്തൽവാദിയായ സ്ഥലം എം. എൽ. എ. കഥകൾ പുനഃപരിശോധിച്ചു മാർക്കിട്ടു
+എന്ന വാർത്ത, ഗോപീകൃഷ്ണന്റെ കാർട്ടൂൺ സഹിതം ജനുവരി 19-ന്റെ മാതൃഭൂമിയിൽ കണ്ടു. അതു
+വെച്ചുനോക്കുമ്പോൾ ഇതൊക്കെ എത്ര നിസ്സാരം!
+
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Adoor_Gopalakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">അടൂർ ഗോപാലകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p><ref target="https://ml.wikipedia.org/wiki/Adoor_Gopalakrishnan">അടൂർ
+ഗോപാലകൃഷ്ണൻ</ref> ഇനി എന്തു് ചെയ്യും? നിഴൽക്കുത്തു കഴിഞ്ഞ നിലക്കു് ഇനി ഏഴു വർഷത്തിനു ശേഷമേ
+അടുത്ത ചിത്രം സാക്ഷാത്ക്കരിക്കാനാകൂ. അതുവരെ രാമനാമം ജപിച്ചു് ഒരു ഭാഗത്തിരിക്കട്ടെ.
+‘കഥാപുരുഷനി’ലെ വേലുശ്ശാരുടെ നാമജപം ഓർമയുണ്ടാകുമല്ലോ.
+</p>
+          <lg>
+            <l> രാമരാമരാമരാമരാമ പാഹിമാം</l>
+            <l> രാമപാദം ചേരണേ മുകുന്ദ രാമ പാഹിമാം</l>
+            <l> ദീനതകൾ നീക്കി നീയനുഗ്രഹിക്ക ദൈവമേ</l>
+            <l> മാനവ ശിഖാമണേ മുകുന്ദ രാമ പാഹിമാം. </l>
+          </lg>
+          <!--end of "verse"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Cinema, Samskaram, Sarkar
+Idapedal (ml: സിനിമ, സംസ്കാരം, സർക്കാർ ഇടപെടൽ).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari, Cinema,
+Samskaram, Sarkar Idapedal, കെ. രാജേശ്വരി, സിനിമ, സംസ്കാരം, സർക്കാർ ഇടപെടൽ, Open Access
+Publishing, Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  July 23, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Man_Binding_Fishnet.jpg">Man
+Binding Fishnet,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Edvard_Munch">Edvard Munch</ref>
+ (1863–1944). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-sssidapedal.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswarisssidapedal.pdf">Download Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

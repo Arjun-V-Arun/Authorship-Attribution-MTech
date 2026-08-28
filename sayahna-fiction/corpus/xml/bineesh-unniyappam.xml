@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">ഉണ്ണ്യപ്പം</title>
+          <title xml:lang="en" type="main">Unniyappam</title>
+        </title>
+        <author>Bineesh Pilasseri</author>
+        <respStmt>
+          <resp>Data entered by</resp>
+          <name>the author</name>
+        </respStmt>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2026">April 19, 2026</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">ഉണ്ണ്യപ്പം</title>
+              <title xml:lang="en" type="main">Unniyappam</title>
+            </title>
+            <author>Bineesh Pilasseri</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Short Story</term>
+          <term>Bineesh Pilasseri</term>
+          <term>Unniyappam</term>
+          <term>ബിനീഷ് പിലാശ്ശേരി</term>
+          <term>ഉണ്ണ്യപ്പം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="short story">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>April 19, 2026</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Boy_Standing_at_Window_with_Bird.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Christian_Aigens__Boy_Standing_at_Window_with_Bird.jpg">Boy Standing at Window with Bird,</ref> a
+painting by <ref target="https://www.wikidata.org/wiki/Q1078737">Christian
+Aigens</ref>  (1870–1940). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">ഉണ്ണ്യപ്പം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>ബിനീഷ് പിലാശ്ശേരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">ഉണ്ണ്യപ്പം</head>
+        <div type="lsection">
+          <p style="noindent">വിട ചൊല്ലുന്ന മീനവെയിൽ ഗ്രാമത്തെ പൊള്ളിക്കുന്നു. കുന്നിൻചരിവിലെ
+ഇടവഴിയ്ക്കരികിൽ അക്ഷമനായി നിൽക്കുകയാണ് ഉണ്ണിക്കുട്ടൻ. കൊളുത്തില്ലാത്ത മുഷിഞ്ഞ ട്രൗസർ ഇടയ്ക്കിടെ
+അഴിയുന്നതിനനുസരിച്ച് അവനതു വലിച്ചു മുറുക്കി.
+</p>
+          <p>“കുട്ടാ…, ഇയ്യ്ങ്ങോട്ട് വാ… വെയ്ല് കൊള്ളാ
+ണ്ട്…” മുറ്റത്തിരുന്നു് കളിമണ്ണു ചീകുന്ന വൃദ്ധൻ വിളിച്ചു പറഞ്ഞു.
+</p>
+          <p>‘അമ്മിപ്പം വരുമ്മുത്തച്ചാ…’ ഉണ്ണിക്കുട്ടൻ ഇടവഴിയിൽ നിന്നു കണ്ണെടുക്കാതെ പറഞ്ഞു.
+</p>
+          <p>അവനെ കുറച്ചു നേരം നോക്കിയ ശേഷം വൃദ്ധൻ കളിമണ്ണു ചീകിയെടുക്കൽ തുടർന്നു.
+</p>
+          <p>തൂങ്ങി വീഴാറായ ചീരാപ്പു് ഒറ്റ വലിയ്ക്കു് അപ്രത്യക്ഷമാക്കി അവൻ വീണ്ടും പാതയിലേക്കു നോക്കിനിന്നു.
+</p>
+          <p>ഉച്ചവെയിൽ തെല്ലൊന്നൊതുങ്ങി.
+</p>
+          <p>ദൂരെ, ഒഴിഞ്ഞ പാടങ്ങൾക്കിടയിലെ നടവരമ്പിലൂടെ ഒരു കലക്കുട്ട ഉയർന്നുവന്നു. ഉണ്ണിക്കുട്ടൻ വലിയച്ഛന്റെ
+വീട്ടുമുറ്റത്തേക്കു് ഓടി.
+</p>
+          <p>“മുത്തച്ചാ… ന്റെമ്മ വര്ന്ന്ണ്ടല്ലോ…!”
+</p>
+          <p>വൃദ്ധൻ തിരിച്ചെന്തെങ്കിലും പറയുംമുമ്പേ ട്രൗസർ അള്ളിപ്പിടിച്ച് ചരൽ വിരിച്ച ഇടവഴിയിറങ്ങി ഉണ്ണിക്കുട്ടൻ
+പാഞ്ഞു. മകനെ കണ്ടപ്പോൾ തലച്ചുമടുമായി വിയർത്തൊലിച്ചു വരുന്ന അവന്റെയമ്മയ്ക്കും വല്ലാത്ത സന്തോഷം
+തോന്നി. ഉണ്ണിക്കുട്ടൻ അമ്മയ്ക്കു ചാരെയെത്തി.
+</p>
+          <p>“കൊട്ട ഞാമ്പിടിക്കണോമ്മാ…?” ഉണ്ണിക്കുട്ടൻ തലയുയർത്തി അമ്മയോടു ചോദിച്ചു.
+</p>
+          <p>“ഇപ്പവേണ്ട… മോൻ കൊറ്ച്ചൂടി വല്താവട്ടെ ട്ടോ…” അമ്മ ചിരിച്ചുകൊണ്ടു പറഞ്ഞു.
+</p>
+          <p>പിന്നെയും പല വിശേഷങ്ങൾ ചോദിച്ചും പറഞ്ഞും അവർ ആ മുറ്റത്തെത്തി.
+</p>
+          <p>വൃദ്ധന്റെ സഹായത്തോടെ അവളാ മുളങ്കുട്ട ഇറക്കിവച്ചു. പിന്നെ ചാണകം മെഴുകിയ മുറ്റവരമ്പിലേക്കിരുന്നു്
+ദീർഘശ്വാസമെടുത്തു.
+</p>
+          <p>എന്നത്തേക്കാളും സന്തോഷവാനായിരുന്നു ഉണ്ണിക്കുട്ടനന്നു്.
+</p>
+          <p>“അമ്മാ… നാള ്യാണോമ്മാ വിശു…?”
+</p>
+          <p>“ആ കുട്ടാ… നാളെയും മറ്റന്നാളും”
+</p>
+          <p>“മ്മാ… വിശു രണ്ടീസം ണ്ടോമ്മാ…!?” അവന്റെ കുഞ്ഞു കണ്ണുകൾ വികസിച്ചു.
+</p>
+          <p>“മ്ം ഇണ്ടല്ലോ… നാളെ ചെറിയ വിഷു മറ്റന്നാളെ വെല്ല്യ വിഷു”
+</p>
+          <p>“അമ്മാ നമ്മളെന്നാമ്മാ ഉണ്ണ്യപ്പണ്ടാക്കണത്?” ഉണ്ണിക്കുട്ടൻ കൊതിയോടെ ചോദിച്ചു.
+</p>
+          <p>“ഇന്ന് രാത്ര്യോ നാളെ രാവില്യോ…,” എന്നു പറഞ്ഞു് മുളങ്കുട്ടയെ ചുറ്റിപ്പറ്റി നടക്കുന്ന മകനെ അമ്മ
+അടുത്തേക്കു വിളിച്ചു. “മോനിങ്ങ് വാ… കൊറച്ച്നേരം അമ്മേന്റെ മടീലിരിക്ക്”
+
+</p>
+          <p>പണ്ടെന്നോ കഴിച്ച ഉണ്ണ്യപ്പത്തിന്റെ നേർത്ത മധുരം ഉണ്ണിക്കുട്ടന്റെ നാവിലരിച്ചു.
+</p>
+          <p>“ഇപ്പവ്വരാമ്മേ…”
+</p>
+          <p>ഉണ്ണിക്കുട്ടൻ മുളങ്കുട്ടയിലെ ചാക്കിനകം പരിശോധിച്ചു.
+</p>
+          <p>ചെറിയ പൊതികളിലായി ചായപ്പൊടിയും പഞ്ചസാരയുമെല്ലാം ഉണ്ടു്. അരിയും, അതിനിടയിൽ കെട്ടഴിഞ്ഞ
+കുറച്ചു പപ്പടങ്ങളും.
+</p>
+          <p>അവന്റെ പുഞ്ചിരി പതിയെ മാഞ്ഞു. മുഖം ചെറുതായി വാടി.
+</p>
+          <p>“മുട്ടായൊന്നൂല്ലേമ്മാ…?” അവൻ തെല്ലു വിഷമത്തോടെ ചോദിച്ചു.
+</p>
+          <p>“ഇല്ല കുട്ടാ…, അമ്മ വരുമ്പോക്കും ചന്ദ്രേട്ടൻ പീട്യ പൂട്ടിപ്പോയി”
+</p>
+          <p>“സാരല്ലമ്മാ… അയ്ന് പകരം മ്മക്ക് കൊരേ ഉണ്ണ്യപ്പിണ്ടാക്കാ… ചോര്ന് കൂട്ടാന്
+പപ്പടോംവറ്ക്കണം ല്ലേമ്മാ.!?”
+</p>
+          <p>വിഷമം പുറത്തു വരാതിരിക്കാൻ പരമാവധി ശ്രമിച്ചു് അവൻ പറഞ്ഞു.
+</p>
+          <p>അമ്മയവനെ വാരിയെടുത്തു് ഇടത്തേ ഒക്കത്തു വച്ചു. തലയിൽ വൃദ്ധൻ ഉയർത്തിക്കൊടുത്ത കൊട്ടയുമായി
+ഇരുവരും സ്വന്തം വീട്ടിലേക്കു നടന്നു.
+</p>
+          <p>അമ്മ കലംവിൽപ്പനയ്ക്കു പോവുന്ന ദിവസങ്ങളിലൊക്കെ അവൻ വലിയച്ഛന്റെ വീട്ടുമുറ്റത്തു
+കളിച്ചിരിക്കുകയാണു പതിവു്. മുത്തച്ഛനായിരിക്കും അവനു് അധികവും കൂട്ടു്. സ്കൂളില്ലാത്ത ദിവസമാണെങ്കിൽ
+വലിയച്ഛന്റെ മകൾ അമ്മുച്ചേച്ചിയുമുണ്ടാവും. ഇന്നു പക്ഷേ, അമ്മുവിനെ അവൻ കണ്ടില്ല. അമ്മു വല്ല്യമ്മയുടെ കൂടെ
+അങ്ങാടിയിൽ പോയതാണത്രെ. പുത്തനുടുപ്പും പടക്കങ്ങളുമൊക്കെ വാങ്ങാൻ. ഉണ്ണിക്കുട്ടനു പക്ഷേ,
+പുത്തനുടുപ്പിനോടു കമ്പമില്ല, ഒട്ടും. പുത്തനുടുപ്പിടേണ്ടതു് സ്വന്തമായി കലമുണ്ടാക്കി ചൂള വച്ചു് വിറ്റിട്ടു മതിയെന്നു്
+അമ്മയവനോടു് എന്നോ പറഞ്ഞു കൊടുത്തിട്ടുണ്ടു്.
+</p>
+          <p>ഇരുട്ടു പരക്കുംവരെ ഉണ്ണിക്കുട്ടൻ അമ്മയുടെ മുണ്ടിൽ ചുറ്റിപ്പറ്റി നിന്നു. പിന്നെയെപ്പോഴോ ഉറങ്ങിപ്പോയി.
+</p>
+          <p>“മോനെ ണീക്ക്… കറ്യായി. ചോറ് തിന്നാ”
+</p>
+          <p>അമ്മയവനെ തട്ടിവിളിച്ചു.
+</p>
+          <p>“വേണ്ടമ്മാ… ഒറക്കമ്പെര്ന്ന്” അവൻ തിരിഞ്ഞു കിടന്നു.
+</p>
+          <p>“അത് പറ്റൂല… എണീക്കുണ്ണീ…”
+</p>
+          <p>പല കുറി നിർബന്ധിച്ചപ്പോൾ നിവൃത്തിയില്ലാതെ ഉണ്ണിക്കുട്ടൻ എഴുന്നേറ്റു.
+</p>
+          <p>മണ്ണെണ്ണവിളക്കിന്റെ മുന്നിലിരിക്കുമ്പോൾ അവന്റെ കണ്ണുകളിൽ ഉറക്കം ചടഞ്ഞിരിപ്പുണ്ടായിരുന്നു. അമ്മ
+അവനു് ഉണക്കമീൻകറിയും കൂട്ടി ചോറു വാരിക്കൊടുത്തു. എല്ലാം കഴിഞ്ഞു് ആ ഓലപ്പുരയിൽ നിന്നിറങ്ങി
+ഉങ്ങുമരത്തിനരികിൽ മൂത്രമൊഴിക്കാൻ അവൻ നിന്നു.
+</p>
+          <p>എവിടെനിന്നെല്ലാമോ പടക്കത്തിന്റെയും മേശപ്പൂത്തിരിയുടെയും ശബ്ദം കേൾക്കാം.
+</p>
+          <p>അവൻ ചോദിച്ചു: “അപ്പനിനീം വന്നില്ലമ്മാ…?”
+</p>
+          <p>“അപ്പനിന്ന് വരാംവൈകും” അവൾ സ്വയമെന്നോണം പറഞ്ഞു.
+</p>
+          <p>“മ്മാ… വര്മ്പം പൂത്തിരിം മത്താപ്പുമൊക്കെ കൊണ്ടോരൂലേ…!?”
+</p>
+          <p>“മോൻ പോയി ഒറങ്ങിക്കോ…”
+
+</p>
+          <p>“മ്മാ… കുഞ്ഞൂന്റിം അപ്പൂന്റിം വീട്ടിലൊക്കെ കൊരേ പടക്കം വാങ്ങീട്ട്ണ്ടമ്മാ!”
+</p>
+          <p>അവൻ ഉത്സാഹത്തോടെ പറഞ്ഞു. പിന്നെ പെട്ടെന്നു നിരാശയോടെ ചോദിച്ചു: “അപ്പനെന്താമ്മാ
+നീംവരാത്തെ…?”
+</p>
+          <p>“പോയി കെടന്നൊറങ്ങ് ട്ടോ… അമ്മ അരിടിക്കട്ടെ… നാളെ ഉണ്ണ്യപ്പണ്ടാക്കണ്ടേ…!?”
+</p>
+          <p>“ഹാ…യ് നാളെ ഉണ്ണ്യപ്പം തിന്നാല്ലോ…!!”
+</p>
+          <p>ഉണ്ണിക്കുട്ടൻ അകത്തേക്കു കയറി. അവന്റെ നാവിൽ വീണ്ടും ഉണ്ണ്യപ്പത്തിന്റെ നേർത്ത മധുരം കിനിഞ്ഞു. ആ
+മധുരവും സ്വപ്നം കണ്ടു് അവൻ കിടന്നുറങ്ങി.
+</p>
+          <p>ഉറക്കത്തിന്റെ ആഴത്തിൽ വീണ നേരത്തു് എന്തോ ശബ്ദം കേട്ടു് ഉണർന്നതും അവൻ ഉറക്കെ കരഞ്ഞു:
+</p>
+          <p>“അപ്പാ… അമ്മേനെ വിട്… അമ്മേനൊന്നും ചെയ്യെല്ലപ്പാ…”
+</p>
+          <p>അമ്മയുടെ മുടിക്കുത്തിനു പിടിച്ച് തല്ലാനോങ്ങിയ അയാൾ മകന്റെ കരച്ചിൽ കേട്ടു് ഒന്നടങ്ങി.
+</p>
+          <p>അവൾ അതുവരെ പിടുത്തം വിടാതെ ചുരുട്ടിപ്പിടിച്ചിരുന്ന പണം ബലമായി പറിച്ചെടുത്തു് പല്ലിറുമ്മി എന്തോ
+ചീത്തയും വിളിച്ചുപറഞ്ഞു് അയാൾ ആടിയാടി ഇരുട്ടിലേക്കു മറയുന്നതും നോക്കി കരഞ്ഞുകൊണ്ടു് അവൻ നിന്നു.
+</p>
+          <p>ഇടക്കിടെ ഉള്ളതാണെങ്കിലും ആ അഞ്ചുവയസ്സുകാരനു് ഇതിന്റെ കാര്യകാരണങ്ങളൊന്നും
+അറിയില്ലായിരുന്നു. അവൻ പിന്നെയും കിടന്നു.
+</p>
+          <p>എത്ര നേരം കഴിഞ്ഞെന്നറിയില്ല, അമ്മ അവന്റെ അരികിൽ വന്നു കിടന്നു.
+</p>
+          <p>“മ്മാ… അപ്പനെന്തിനാമ്മാ തല്ലീത്…?” ചോദിച്ചു കഴിഞ്ഞപ്പോഴാണു് വേണ്ടിയില്ലായിരുന്നു
+എന്നവനു തോന്നിയതു്.
+</p>
+          <p>അമ്മ അതിനു മറുപടിയൊന്നും പറയാതെ തലഭാഗത്തെരിഞ്ഞിരുന്ന കുപ്പിവിളക്കു് ഊതിക്കെടുത്തി. പിന്നെ,
+മാറോടു ചേർത്തു് മകനെ പൊത്തിപ്പിടിച്ചു.
+</p>
+          <p>രാത്രിയിലെപ്പോഴോ തന്റെ മുടിയിഴകളിൽ നേർത്ത നനവു് പടരുന്നതു് അവനറിഞ്ഞു…
+</p>
+          <p>രാവിലെ എഴുന്നേറ്റപ്പോൾ അമ്മയെ അവിടെയെങ്ങും കാണാനില്ല. അവൻ വല്യച്ഛന്റെ വീട്ടിലേക്കു നടന്നു.
+അവിടെ മുറ്റത്തിരുന്നു് വെയിലു കായുകയായിരുന്നു മുത്തച്ഛൻ.
+</p>
+          <p>“അപ്പപ്പാ… ന്റെമ്മേനെ കണ്ടോ…?”
+</p>
+          <p>“കുട്ടനിങ്ങോട്ട് വാ…,” വൃദ്ധൻ കുത്തിയിരുന്നു് അവന്റെ തോളുകളിൽ കൈ വച്ചു പറഞ്ഞു: “മോന്റെമ്മ
+വീട്ടിലിക്ക് പോയി…”
+</p>
+          <p>മുത്തച്ഛൻ പറഞ്ഞതു കേട്ടപ്പോൾ ഉണ്ണിക്കുട്ടനു സങ്കടവും ദേഷ്യവും ഒരുമിച്ചു വന്നു. ഇതെന്താ ഇങ്ങനെ!
+തന്നോടു് പറയാതെ അമ്മ എവിടേക്കും പോവാത്തതാണല്ലോ!?
+</p>
+          <p>“ഇന്നലെ രാത്രി അപ്പൻ കൊറെ തല്ലീലെ…” മുത്തച്ഛൻ പറഞ്ഞു.
+</p>
+          <p>അവന്റെ ദേഷ്യം മാഞ്ഞു. സങ്കടം മാത്രമായി. കണ്ണുകൾ നിറഞ്ഞു. മുത്തച്ഛനെ ഉണ്ണിക്കുട്ടൻ ദയനീയമായി
+നോക്കി. ആ വൃദ്ധന്റെ കണ്ണുകളും നനഞ്ഞിരുന്നു. ഉണ്ണിക്കുട്ടൻ വീട്ടിലേക്കു് ഓടിപ്പോയി. ഒറ്റമുറി മാത്രമുള്ള ആ
+ഓലപ്പുരയുടെ ചുറ്റിലും ഉണ്ണിക്കുട്ടൻ നടന്നു. പലയിടത്തായി പാത്രങ്ങൾ ചിതറിക്കിടക്കുന്നു. തുണികൾ വലിച്ചുവാരി
+നിലത്തിട്ടിരിക്കുന്നു. ഉണ്ണിക്കുട്ടൻ അകത്തു കയറി. കിടന്നുറങ്ങിയ പുല്ലുപായയെടുത്തു് ഒരു മൂലയിൽ
+ഒതുക്കമില്ലാതെ ചുരുട്ടി വച്ചു. പിന്നെ രണ്ടു കൈയും താടിക്കു കൊടുത്തു് ഉമ്മറപ്പടിയിലിയിരുന്നു.
+</p>
+          <p>മുറ്റത്തു് പൊട്ടിയ ചോറുകലത്തിൽനിന്നു കൊത്തിത്തിന്ന് രണ്ടുമൂന്നു കാക്കകൾ വിശപ്പടക്കുന്നു.
+
+</p>
+          <p>ബാക്കി എല്ലാ മരങ്ങളും ഉണങ്ങി ചില്ലകൾ മാത്രമായി നിൽക്കുമ്പോഴും ഒന്നു മാത്രം തളിർത്തു നിൽക്കുന്നു;
+</p>
+          <p>ഉങ്ങുമരമാണതു്. അതിന്റെ കൊമ്പുകൾ ഒരിക്കൽ ആകാശത്തു മുട്ടുമത്രെ. അന്നു് ആകാശത്തുള്ള തന്റെ
+പിതൃക്കൾ അതിലൂടെ ഇറങ്ങി വരും. അപ്പോഴാണത്രെ തനിക്കു് പുതിയ ഉടുപ്പുകളും മധുരപലഹാരങ്ങളുമെല്ലാം
+കിട്ടുന്നതു്. രാത്രിയുറക്കുമ്പോൾ അമ്മ പറയുന്നതാണു്.
+</p>
+          <p>ഉങ്ങുമരത്തിന്റെ ചുവട്ടിലാണു് അടുപ്പുള്ളതു്. മണ്ണിലുണ്ടാക്കിയ ആ അടുപ്പു് പൊട്ടിപ്പൊളിഞ്ഞിരിക്കുന്നു; അപ്പൻ
+ദേഷ്യം തീർത്തതാവാം. അവൻ എഴുന്നേറ്റു. നടന്നു.
+</p>
+          <p>വല്യമ്മയുടെ അടുക്കളയിൽ പുകയുയരുന്നുണ്ടായിരുന്നു. ഏലക്കയുടെയും മറ്റും നല്ല മണം.
+</p>
+          <p>“ന്ന് ചെറ്യ വിശുവാണല്ലോ!” അമ്മ പറഞ്ഞതു് അവനോർത്തു.
+</p>
+          <p>വല്യമ്മ ഉണ്ണ്യപ്പമോ പായസമോ ഉണ്ടാക്കുകയാവും. അവിടേക്കു ചെന്നപ്പോൾ അമ്മുച്ചേച്ചി ചൂടു മാറാത്ത
+ഒരുണ്ണ്യപ്പം അവനു കൊടുത്തു. അവൻ വീണ്ടും തന്റെ വീട്ടിലേക്കു വന്നു് ഉമ്മറപ്പടിയിൽ തന്നെ ഇരുന്നു.
+</p>
+          <p>അവനാ ഉണ്ണ്യപ്പം കടിച്ചു നോക്കി. ഇല്ല… ഇതിനു് തീരെ രുചിയില്ല.
+</p>
+          <p>മുറ്റത്തെ മൂലയിൽ പൊട്ടിയ കലത്തിലെ അരിപ്പൊടി തള്ളക്കോഴിയും കുഞ്ഞുങ്ങളും കൊത്തിത്തിന്നുന്നു.
+ഉണ്ണിക്കുട്ടൻ ഉണ്ണിയപ്പത്തിന്റെ ഒരു ശകലം കടിച്ചെടുത്തു് കോഴികൾക്കു മുന്നിലേക്കിട്ടുകൊടുത്തു. അതിനെ
+കൊത്തിക്കുടഞ്ഞു് കുഞ്ഞുങ്ങൾക്കു കൊടുക്കുന്ന തള്ളക്കോഴിയെ അവൻ കുറേ നേരം നോക്കിയിരുന്നു.
+ഉണ്ണിക്കുട്ടൻ ഓർത്തു: ‘ഇവർക്കും ഇന്നു് വിശുവായിരിക്കും’ അവന്റെ കണ്ണുകളിൽനിന്നു നീർമണിയുതിർന്നു നിലത്തു
+വീണു…
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">ബിനീഷ് പിലാശ്ശേരി</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/binish.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>1986-ൽ കോഴിക്കോട്, ഫറോക്കിലെ കൊടക്കല്ലുപറമ്പിൽ ജനനം. കോഴിക്കോടും തുടർന്നു്, വയനാട്ടിലെ
+സുൽത്താൻ ബത്തേരിയിലുമായി സ്കൂൾപഠനം. നിലവിൽ കോഴിക്കോട്, കുന്ദമംഗലത്തിനടുത്തു് പിലാശ്ശേരിയിൽ
+സകുടുംബം സ്ഥിരതാമസം. ULCCS എന്ന കമ്പനിയിൽ നിർമ്മാണ മേഖലയിൽ ജോലി ചെയ്യുന്നു.
+</p>
+          <p>മാതാപിതാക്കൾ: ബാലൻ, തങ്കമണി.
+</p>
+          <p>ഭാര്യ: ജിഷ.
+</p>
+          <p>മകൻ: ശിവതേജ്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Unniyappam (ml: ഉണ്ണ്യപ്പം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Bineesh Pilasseri.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Short Story, Bineesh
+Pilasseri, Unniyappam, ബിനീഷ് പിലാശ്ശേരി, ഉണ്ണ്യപ്പം, Open Access Publishing, Malayalam,
+Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  April 19, 2026.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Christian_Aigens__Boy_Standing_at_Window_with_Bird.jpg">Boy Standing at Window with Bird,</ref> a
+painting by <ref target="https://www.wikidata.org/wiki/Q1078737">Christian
+Aigens</ref>  (1870–1940). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Data entry:</hi>  the author; <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/bineesh-unniyappam.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/bineesh-unniyappam.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

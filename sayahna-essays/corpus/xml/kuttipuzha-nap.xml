@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">നമ്മുടെ ആധ്യാത്മികപാരമ്പര്യം</title>
+          <title xml:lang="en" type="main">Nammude Adhyathmikaparamparyam</title>
+        </title>
+        <author>Kuttipuzha Krishnapilla</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2024">May 28, 2024</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to Sahitya Akademi. The text encoding and
+editorial notes were created and​/or prepared by the Sayahna Foundation and are licensed
+under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">നമ്മുടെ ആധ്യാത്മികപാരമ്പര്യം</title>
+              <title xml:lang="en" type="main">Nammude Adhyathmikaparamparyam</title>
+            </title>
+            <author>Kuttipuzha Krishnapilla</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>Kuttipuzha Krishnapilla</term>
+          <term>Nammude Adhyathmikaparamparyam</term>
+          <term>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</term>
+          <term>നമ്മുടെ ആധ്യാത്മികപാരമ്പര്യം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>May 28, 2024</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Woman_Drawing_Water.jpg" width="100%"/>
+          <figDesc><ref target="https://simple.m.wikipedia.org/wiki/File:JeanSim%C3%A9on_Chardin_-_Woman_Drawing_Water_at_the_Cistern__Google_Art_Project.jpg">Woman Drawing Water at the Cistern,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Jean_Sim%C3%A9on_Chardin">JeanBaptiste-Siméon Chardin</ref>  (1699–1779). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">നമ്മുടെ ആധ്യാത്മികപാരമ്പര്യം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">നമ്മുടെ ആധ്യാത്മികപാരമ്പര്യം</head>
+        <div type="lsection">
+          <p style="noindent">ഭാരതീയരായ നമുക്കു് ഒരു പ്രത്യേക മേന്മയുണ്ടെന്നു പറയപ്പെടുന്നു—അതായതു്
+നമ്മുടെ ആധ്യാത്മികപാരമ്പര്യം. നൂറ്റാണ്ടുകളായി ഈ മേന്മ പ്രശംസാവിഷയമായിക്കൊണ്ടിരിക്കയാണു്.
+ആത്മീയം, ഭൗതീകം എന്നൊരു തരംതിരിവു നടത്തി നമ്മൾ ഭൂലോകത്തുള്ള മറ്റെല്ലാവരെക്കാളും കൂടുതൽ
+ആധ്യാത്മിക പാരമ്പര്യമുള്ളവരാണെന്നു സാധാരണ വമ്പു പറയാറുണ്ടു്. അതിൽ അഭിമാനം കൊള്ളാറുമുണ്ടു്.
+ഇതു ചെയ്യുമ്പോൾ നാണയത്തിന്റെ ഒരു വശം മാത്രമേ നോക്കുന്നുള്ളു. മറുവശത്തെ കഥയെന്താണു്? അതും
+നോക്കേണ്ടതല്ലേ? രണ്ടു വശവും താരതമ്യപ്പെടുത്തി നോക്കുമ്പോൾ കാണാം, സഞ്ചിക്കകത്തുള്ള പൂച്ച പുറത്തു
+ചാടുന്നതു്. വാസ്തവത്തിൽ മറ്റാർക്കുമില്ലാത്ത വല്ല ആധ്യാത്മിക പാരമ്പര്യവും നമുക്കുണ്ടോ?
+ഉണ്ടെന്നുഘോഷിക്കുന്നതു വെറും ഒരു പൊങ്ങച്ചം പറയലല്ലേ?
+</p>
+          <p>ജീവിതത്തെ ഇങ്ങനെ ആത്മീയം, ഭൗതികം എന്നു തരംതിരിക്കുന്നതു തന്നെ എത്രത്തോളം ശരിയാണു്?
+ഭൗതികത്വത്തിൽനിന്നു വേറിട്ടു് ഒരാത്മീയതയുണ്ടോ? ശരീരത്തിൽ നിന്നു ഭിന്നമായിട്ടൊരു ആത്മാവുണ്ടോ?
+ഉണ്ടെന്നുള്ളവിശാസത്തിനു വെറും സങ്കല്പമല്ലാതെ ശാസ്ത്രീയമായ തെളിവൊന്നും ഇല്ലല്ലോ. ആത്മാവു് എന്നു
+പറയുന്നതുതന്നെ എന്താണു്? നിശ്ചിതവും വ്യക്തവുമായ ഒരർത്ഥബോധം ഈ വാക്കു ജനിപ്പിക്കുന്നുണ്ടോ?
+ഉണ്ടെന്നു പറയാൻ ആരും ധൈര്യപ്പെടുമെന്നു തോന്നുന്നില്ല. എന്നിട്ടും ഈ വാക്കു നാം കണ്ടമാനം
+ഉപയോഗിക്കാറുണ്ടല്ലോ. ഇതിനെപ്പറ്റി ആർക്കെങ്കിലും ഒരെത്തുംപിടിയും കിട്ടിയിട്ടുണ്ടോ? ജീവാത്മാവു്,
+പരമാത്മാവു്, പരബ്രഹ്മം ഇത്യാദി പദങ്ങളുടെ പ്രയോഗം മതിഭ്രമാകമായ ശബ്ദജാലം എന്ന നിലവിട്ടു്
+സുസ്പഷ്ടമായ അർത്ഥബോധമുളവാക്കുന്നില്ലെന്നുള്ളതാണു് പരമാർത്ഥം. ഏതാദൃശപ്രയോഗങ്ങളിൽ
+ആശയത്തിന്റെ ധൂമമല്ലാതെ പ്രകാശമെവിടെ? വേദാന്തികൾ ആത്മസത്ത തെളിയിക്കുന്നതു മുഖ്യമായി
+നിഷേധരൂപത്തിലാണു്. പ്രത്യക്ഷമായതെല്ലാം‘നേതി’ എന്നു പറഞ്ഞുതള്ളിക്കളഞ്ഞിട്ടു ശേഷിക്കുന്നതെന്തോ
+അതു് അനശ്വരമായ ആത്മാവാണത്രെ. ഇങ്ങനെ സ്ഥൂലസൂക്ഷ്മരൂപമായ സമസ്ത ഭൂതപ്രപഞ്ചവും
+മായാകല്പിതമെന്നോ മിഥ്യയെന്നോ പറഞ്ഞു തള്ളിനീക്കിയാൽ പിന്നെ വല്ലതും ശേഷിക്കുമോ എന്ന കാര്യത്തിൽ
+തത്ത്വചിന്തകന്മാർപോലും സംശയാത്മാക്കളാണു്. മരണാന്തരം ഒന്നും അവശേഷിക്കുന്നില്ലെന്ന ധ്വനി
+‘മരണാന്തം ച ജീവിതം’ എന്ന കവിവാക്യത്തിലുണ്ടു്. ഇപ്രകാരം വേദാന്തചിന്തയിൽപോലും ഒരു
+ധൂമാവരണമായി നിലകൊള്ളുന്ന ഒന്നാണു് ആത്മാവെങ്കിൽ തൽസംബന്ധിയായ ജീവിതത്തിന്റെ കഥ കുറെ
+പരുങ്ങലിലാകും. അതായതു ജീവിതം തികച്ചും ആത്മീയമാകാൻ പ്രപഞ്ചബന്ധത്തെ മുഴുവനും
+അറുത്തുമുറിക്കണം. ഇതു് എത്രത്തോളം സാധ്യമാകും? സാധ്യമായാൽപിന്നെ ജീവിതം കൊണ്ടെന്തു
+പ്രയോജനം? ഈ നിലയിൽ ജീവിതം എന്ന വ്യവഹാരം തന്നെ നിലച്ചുപോകുമല്ലോ. ഇത്തരത്തിലൊരു
+പാരമ്പര്യമാണു നമുക്കു നിലനിർത്തേണ്ടതെങ്കിൽ പിന്നെ നാടു മുടിയാൻ വേറൊന്നും വേണ്ടാ. ഈ
+പ്രപഞ്ചബന്ധപരിത്യാഗം ഒരുതരം രക്ഷപ്പെടലാണു് (Escapism). ലോകസേവനസന്നദ്ധമല്ലാത്ത
+സ്വാർത്ഥതയും ഹൃദയദൗർബല്യത്തോടുകൂടിയ ഭീരുത്വവുമാണു് അതിൽ ഒളിഞ്ഞു കിടക്കുന്നതു്. അതിലെ
+സ്വാർത്ഥത ആത്മീയതകൊണ്ടു പവിത്രീകരിച്ചിരിക്കുന്നുവെന്നേയുള്ളു. താദൃശ മനോഭാവം ജനസമൂഹത്തിൽ
+വേരുറച്ചാൽ രാജ്യം എങ്ങനെ അധഃപതിക്കാതിരിക്കും?
+</p>
+          <p>തത്ത്വചിന്തയുടെ ഉപരിമണ്ഡലത്തിൽനിന്നു നോക്കുമ്പോഴാണു മേൽക്കാണിച്ച ദുർഘടങ്ങൾ ഉണ്ടാകുന്നതു്.
+ഇനി താഴോട്ടിറങ്ങി സാധാരണാർത്ഥത്തിൽ ആത്മാവിനെപ്പറ്റി ചിന്തിക്കാം. ആത്മശബ്ദത്തിനു
+ഭിന്നാർത്ഥങ്ങളുണ്ടു്. അതു സ്വവാചിയാണു്. മനസ്സു് എന്ന അർത്ഥത്തിലും പ്രസ്തുത പദം
+പ്രയോഗിക്കപ്പെടുന്നുണ്ടു്.</p>
+          <lg>
+            <l> ‘ഗുണകാമാത്മാവിനെ മാനസമെന്നു ചൊല്ലും</l>
+            <l> ഗുണകാമങ്ങൾ വിട്ടാൽ മാനസം തന്നെയാത്മാ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന വചനം സൂക്ഷ്മാർത്ഥത്തിൽ മനസ്സും ആത്മാവും ഒന്നുതന്നെ എന്നു കാണിക്കുന്നു. ഈ ആശയം
+താരതമ്യേന സുഗ്രഹമാണു്.</p>
+          <lg>
+            <l> ‘മനസ്സംപദ്യതേ തസ്മാ-</l>
+            <l> ന്മഹതഃ പരമാത്മനഃ</l>
+            <l> സുസ്ഥിരാദസ്ഥിരാകാരം</l>
+            <l> തരംഗ ഇവ വാരിധേഃ’ </l>
+          </lg>
+          <!--end of "verse"-->
+          <p> എന്ന വാസിഷ്ഠോക്തിയും ആത്മമനസ്സംബന്ധം പൂർവോക്തരീതിയിലാണെന്നു വെളിപ്പെടുത്തുന്നു. ആത്മാവു
+സമുദ്രമാണെങ്കിൽ അതിലെ തരംഗമാണു് മനോവൃത്തി. രണ്ടും വസ്തുതയാ ഭിന്നമല്ല.
+</p>
+          <p>അപ്പോൾ മനസ്സു നന്നായാൽ നല്ല ആത്മീയജീവിതമായി. ഇതു് ആർക്കും മനസ്സിലാകുന്ന ആശയവുമാണു്.
+യുക്തിയുക്തവുമാണു്. മനസ്സു നന്നാകുമ്പോൾ വാക്കും പ്രവൃത്തിയും നന്നാകും. മനസ്സു നന്നാകണമെങ്കിലോ ശരീരം
+നന്നാകണം. രണ്ടിനും തമ്മിൽ അഭേദ്യമായ ബന്ധമാണുള്ളതെന്നു് ആധുനികശാസ്ത്രം തെളിയിച്ചിട്ടുണ്ടു്. അപ്പോൾ
+ആത്മീയോൽകർഷത്തിനു ഭൗതികോൽകർഷം അത്യന്താപേക്ഷിതമെന്നു വരുന്നു. രണ്ടും തമ്മിൽ
+വേർതിരിക്കാൻ വയ്യാത്തവിധം കൂടിക്കലർന്നു കിടക്കയാണെന്നു ചുരുക്കം. ഇങ്ങനെ നോക്കിയാൽ
+ഭൗതികോൽകർഷത്തിൽ മുന്നിട്ടുനിൽക്കുന്ന പാശ്ചാത്യർക്കാണു നമ്മെക്കാൾ കൂടുതൽ ആത്മീയമായ
+മേന്മയുള്ളതെന്നു സമ്മതിക്കണം. അതാണു സത്യസ്ഥിതിയും. ആത്മീയം, ഭൗതികം എന്നു ഭിത്തികെട്ടിത്തിരിച്ചു്
+അപ്പുറത്തുള്ളവരൊക്കെ ശുദ്ധരും ഇപ്പുറത്തുള്ളവരൊക്കെ അശുദ്ധരും എന്നു ഭാവിക്കുന്നതു വെറും വിഡ്ഢിത്തമാണു്.
+അജ്ഞതയുടെ വിളയാട്ടമാണു്. ദാരിദ്ര്യം, രോഗം, അജ്ഞത മുതലായ സാമൂഹ്യദോഷങ്ങൾ നടമാടുന്നിടത്തു
+മനുഷ്യൻ നന്നാകയില്ല. മന്ത്രപൂജാദിമതതന്ത്രങ്ങളൊന്നും അവിടെ ഫലിക്കുകയുമില്ല. മനസാ വാചാ കർമണാ
+സംസ്കൃതമായ ഉത്തമജീവിതം എന്നേ ആത്മീയജീവിതത്തിനു് അർത്ഥമുള്ളു. സർവതോഭദ്രമായ
+സാമൂഹ്യജീവിതത്തിന്റെ അടിസ്ഥാനം അതാണല്ലോ. ഇക്കാര്യത്തിൽ ഭാരതീയർ ഭൗതികത്വാധിഷ്ഠിതരെന്നു
+മുദ്രയടിക്കപ്പെടുന്ന പാശ്ചാത്യരെക്കാൾ മെച്ചപ്പെട്ടവരാണോ?
+</p>
+          <p>സത്യം, നീതി, ധർമം ഈവകയൊന്നും ഗണ്യമല്ലെന്നു് ഏതെങ്കിലും ഭൗതികരാഷ്ട്രം പറയുന്നുണ്ടോ? ഇവയെ
+അനാദരിച്ചുകൊണ്ടുള്ള ദുഷ്ടജീവിതം അവിടെ കാണുന്നുണ്ടെങ്കിൽ അത്രത്തോളമോ അതിൽ കൂടുതലോ
+ഇവിടെയും അതില്ലേ? മനുഷ്യസേവനവും മാനവധർമവും വിശേഷിച്ചു
+കൃഷിവ്യവസായവാണിജ്യാദിമണ്ഡലങ്ങളിലെ സത്യസന്ധതയും കൂടുതൽ വികസ്വരമായിക്കാണുന്നതു്
+എവിടെയാണു് ? ഉത്കൃഷ്ടമായ പൗരജീവിതത്തിന്റെ ബാലപാഠംപോലും നമ്മൾ പഠിച്ചു കഴിഞ്ഞിട്ടുണ്ടോ?
+ആധുനികരാഷ്ട്രത്തിന്റെ വളർച്ചയ്ക്കുംം വികാസത്തിനും വിലങ്ങുതടിയായി നിൽക്കത്തക്ക വിധം ദുഷിച്ചുപോയ
+ആധ്യാത്മികപാരമ്പര്യമാണു് ഇന്നു നമുക്കുള്ളതു്. അതു സാമൂഹ്യവിരുദ്ധശക്തിയായി ബഹുമുഖപ്രവർത്തനം
+നടത്തുന്ന കാഴ്ച നമ്മുടെനാട്ടിൽ എവിടെയും കാണാം. ജാതിയുടെയും മതത്തിന്റെയും ഭാഷയുടെയും പോരാ, മറ്റു
+പല ജലപിശാചുക്കളുടെയും പേരിൽ നായ്ക്കളെപ്പോലെ ഇപ്പോഴും തമ്മിൽ കടിപിടി കൂട്ടിക്കൊണ്ടിരിക്കുന്ന
+കൂട്ടരിലാണോ ആത്മീയത? ഇന്ത്യ ഒരു നേഷനായതു് എഴുത്തിലും പ്രസംഗത്തിലും മാത്രമല്ലേ?
+പ്രവൃത്തിയിലാകാൻ ഇനിയും എത്രനാൾ കഴിയണം? കരിഞ്ചന്തയും കൈക്കൂലിയും മറ്റഴിമിതികളും
+എവിടെയാണു് കൂടുതൽ? പാശ്ചാത്യ രാഷ്ട്രങ്ങളിലോ ഇവിടെയോ?വേറൊരുദാഹരണം നോക്കുക. ഇന്നു നമ്മൾ
+ഗോവധനിരോധനത്തിനു ബഹളം കൂട്ടുന്നുണ്ടല്ലോ. ശരിയായ ഗോസംരക്ഷണം എവിടെയാണു് നടക്കുന്നതു്?
+പാശ്ചാത്യർ ഗോവധം നടത്തുന്നുണ്ടു്. ശരിതന്നെ. പക്ഷേ, ഗോസംരക്ഷണത്തിലും അവരല്ലേ അദ്വിതീയർ.
+മതത്തിന്റെ പേരിൽ ഗോവിനെ പൂജിക്കുന്ന നമ്മളോ പുല്ലും വെള്ളവും കൊടുക്കാതെ അവസാനത്തെ
+പാൽത്തുള്ളിപോലും കറന്നെടുത്തു പശുവിനെ എല്ലും തൊലിയുമാക്കി കൊല്ലുന്നു. കൊല്ലുന്നതോ കൊല്ലാതെ
+കൊല്ലുന്നതോ ഏതാണു് കൂടുതൽ ആത്മീയം? മായം ചേർക്കാത്ത ഒറ്റ ആഹാരസാധനവും നമ്മുടെ നാട്ടിൽ
+വില്ക്കപ്പെടുന്നില്ലെന്നു് കേന്ദ്രമന്ത്രി കാർമാർക്കർ ഈയിടെ പാർലമെന്റിൽ പറയുകയുണ്ടായി. ഇതു് ഇന്ത്യക്കാരുടെ
+സാമാന്യ സ്വഭാവമാണെന്നും അദ്ദേഹം തുടർന്നു പറഞ്ഞു. നമ്മുടെ ആത്മീയതയ്ക്കു ഇതിൽപ്പരമെന്തൊരു
+തെളിവാണു വേണ്ടതു്? മന്ത്രിയുടെ പൊതുവായ ദോഷാരോപണം കേട്ടു് ആദ്ധ്യാത്മിക പാരമ്പര്യ ധുരന്ധരന്മാരിൽ
+ചിലർ ക്ഷോഭിച്ചുവത്രേ! ഭക്ഷ്യപദാർത്ഥങ്ങളിൽ മായം ചേർക്കൽ പരോക്ഷമായി നടത്തുന്ന കൂട്ടക്കൊല
+തന്നെയാണു്. ദീർഘകാലം കൊണ്ടേ അതുവെളിപ്പെടുകയുള്ളു. അഹിംസയുടെ നാടു് എന്നു് അന്ധമായി
+അഭിമാനിക്കുന്ന നാട്ടിലാണു് ഈ കൊടുംകൊല ദിനംപ്രതി നടക്കുന്നതു്!റഷ്യ മുതലായ രാജ്യങ്ങളിൽ
+വധശിക്ഷതന്നെ ലഭിക്കും. നമ്മുടെ ആർഷ സംസ്കാരദൃഷ്ടിയിൽ അവിടെയൊക്കെ ഭൗതികത്വത്തിന്റെ അശുദ്ധി
+ബാധിച്ചിരിക്കയാണല്ലോ?
+</p>
+          <p>‘തത്ത്വജ്ഞാനികൾ ഈ ലോകത്തെ വ്യാഖ്യാനിക്കുക മാത്രമേ ചെയ്തിട്ടുള്ളു. നമ്മുടെ കർത്തവ്യം അതിനൊരു
+സമൂലപരിവർത്തനം വരുത്തുക എന്നതാണു്.’ സുപ്രസിദ്ധമായ ഈ മഹദ്വചനം ഭാരതത്തെ സംബന്ധിച്ചാണു്
+ഏറ്റവും അർത്ഥവത്തും അനുധ്യാനാർഹവുമായിരിക്കുന്നതു്.
+</p>
+          <p>
+മാനസോല്ലസം 1961.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/kuttipuzha-n.png" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>ജനനം: 1-8-1900
+</p>
+          <p>പിതാവു്: ഊരുമനയ്ക്കൽ ശങ്കരൻ നമ്പൂതിരി
+</p>
+          <p>മാതാവു്: കുറുങ്ങാട്ടു് ദേവകി അമ്മ
+</p>
+          <p>വിദ്യാഭ്യാസം: വിദ്വാൻ പരീക്ഷ, എം. എ.
+</p>
+          <p>ആലുവാ അദ്വൈതാശ്രമം ഹൈസ്ക്കൂൾ അദ്ധ്യാപകൻ, ആലുവ യൂണിയൻ ക്രിസ്ത്യൻ കോളേജ് അദ്ധ്യാപകൻ,
+കേരള സാഹിത്യ അക്കാദമി പ്രസിഡന്റ് 1968–71, കേന്ദ്ര സാഹിത്യ അക്കാദമി അംഗം, ഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ടു്
+ഭരണസമിതിയംഗം, കേരള സർവ്വകലാശാലയുടെ സെനറ്റംഗം, ബോർഡ് ഓഫ് സ്റ്റഡീസ് അംഗം, പാഠ്യ പുസ്തക
+കമ്മിറ്റി കൺവീനർ (1958), ബാല സാഹിത്യ ശില്പശാല ഡയറക്ടർ (1958), ‘ദാസ് ക്യാപിറ്റൽ’
+മലയാളപരിഭാഷയുടെ ചീഫ് എഡിറ്റർ, കേരള സാഹിത്യ സമിതി പ്രസിഡന്റ്.
+</p>
+          <div type="lsubsection" xml:id="sec1.2.1">
+            <head type="lsubsechead">കൃതികൾ</head>
+            <p style="noindent">സാഹിതീയം, വിചാരവിപ്ലവം, വിമർശ രശ്മി, നിരീക്ഷണം, ഗ്രന്ഥാവലോകനം,
+ചിന്താതരംഗം, മാനസോല്ലാസം, മനന മണ്ഡലം, സാഹിതീകൗതുകം, നവദർശനം, ദീപാവലി, സ്മരണമഞ്ജരി,
+കുറ്റിപ്പുഴയുടെ തിരഞ്ഞെടുത്ത ഉപന്യാസങ്ങൾ, വിമർശ ദീപ്തി, യുക്തിവിഹാരം, വിമർശനവും വീക്ഷണവും,
+കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—തത്വചിന്ത, കുറ്റിപ്പുഴയുടെ പ്രബന്ധങ്ങൾ—സാഹിത്യവിമർശം, കുറ്റിപ്പുഴയുടെ
+പ്രബന്ധങ്ങൾ—
+നിരീക്ഷണം.
+</p>
+            <p>ചരമം: 11-2-1971
+
+</p>
+          </div>
+          <!--end of "subsection 0.0.0.0.0/1.2.1"-->
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Nammude
+Adhyathmikaparamparyam (ml: നമ്മുടെ ആധ്യാത്മികപാരമ്പര്യം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  Kuttipuzha
+Krishnapilla.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, Kuttipuzha
+Krishnapilla, Nammude Adhyathmikaparamparyam, കുറ്റിപ്പുഴ കൃഷ്ണപിള്ള, നമ്മുടെ
+ആധ്യാത്മികപാരമ്പര്യം, Open Access Publishing, Malayalam, Sayahna Foundation, Free Software,
+XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  May 28, 2024.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to Sahitya Akademi. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://simple.m.wikipedia.org/wiki/File:JeanSim%C3%A9on_Chardin_-_Woman_Drawing_Water_at_the_Cistern__Google_Art_Project.jpg">Woman Drawing Water at the Cistern,</ref> a painting by
+<ref target="https://en.wikipedia.org/wiki/en:Jean_Sim%C3%A9on_Chardin">JeanBaptiste-Siméon Chardin</ref>  (1699–1779). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/kuttipuzha-nap.xml">Download document
+sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/kuttipuzha-nap.pdf">Download Phone
+PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

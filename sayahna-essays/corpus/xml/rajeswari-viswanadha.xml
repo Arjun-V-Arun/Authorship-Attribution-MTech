@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">വിശ്വനാഥ വിഷാദയോഗം</title>
+          <title xml:lang="en" type="main">Viswanadha Vishadayogam</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">October 3, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">വിശ്വനാഥ വിഷാദയോഗം</title>
+              <title xml:lang="en" type="main">Viswanadha Vishadayogam</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Viswanadha Vishadayogam</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>വിശ്വനാഥ വിഷാദയോഗം</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>October 3, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Dead_sailor.jpg" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:Dead_sailor_in_art_detail,_A_careless_word...A_needless_loss_poster_%28cropped%29.jpg">A
+Careless Word, A Needless Loss,</ref> a painting by Anton Otto Fischer  . </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">വിശ്വനാഥ വിഷാദയോഗം</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">വിശ്വനാഥ വിഷാദയോഗം</head>
+        <div type="lsection">
+          <figure rend="fright" type="gra">
+            <graphic url="images/P_K_Kunhalikutty.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. കെ. കുഞ്ഞാലിക്കുട്ടി</figDesc>
+          </figure>
+          <p style="noindent"> വ്യവസായവകുപ്പു് മന്ത്രി <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">പി. കെ.
+കുഞ്ഞാലിക്കുട്ടി</ref> യുടെ രാജി ഏൽപിച്ച ആഘാതത്തിൽ നിന്നു് സംസ്ഥാനം മുക്തമാകുംമുമ്പു് ഇതാ
+വനംമന്ത്രി <ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">കെ. പി.
+വിശ്വനാഥനും</ref> സ്ഥാനത്യാഗം ചെയ്തിരിക്കുന്നു. വൃഥാപവാദത്തിന്റെ ഇരകളാണു് ഇരുവരും. റജീന എന്ന
+ഒരുമ്പെട്ടവൾ ഉന്നയിച്ച ആരോപണങ്ങളാണു് കുഞ്ഞാലിക്കു് കുഴികുത്തിയതെങ്കിൽ ഹൈക്കോടതി നടത്തിയ
+പരാമർശങ്ങളാണു് പാവം വിശ്വനാഥന്റെ കസേര തെറിപ്പിച്ചതു്. രാജിയില്ല, അന്വേഷണവുമില്ല എന്ന
+തത്ത്വാധിഷ്ഠിത നിലപാടാണു് കുഞ്ഞാലിക്കുട്ടി ആദ്യം കൈക്കൊണ്ടതു്. മാധ്യമങ്ങളുടെയും പ്രതിപക്ഷത്തിന്റെയും,
+ഐക്യമുന്നണിക്കകത്തുള്ള ട്രോജൻ കുതിരകളുടെയും സമ്മർദ്ദം അതികഠിനമായിരുന്നെങ്കിലും രണ്ടുമാസം
+പിടിച്ചുനിൽക്കാനും മന്ത്രിയായിരുന്നു് മകന്റെ നിക്കാഹ് നടത്തിക്കൊടുക്കാനും കുഞ്ഞാലിക്കുട്ടിക്കു് സാധിച്ചു.
+മുസ്ലിംലീഗിന്റെ മൊത്തം വിലപേശൽ ശക്തിയും വിനിയോഗിക്കേണ്ടിവന്നു. പാണക്കാടുതങ്ങളുടെയും
+മുഖ്യമന്ത്രിയുടെയും പ്രതിച്ഛായക്കു മങ്ങലേൽപിച്ചു. മുന്നണിയുടെ ജനപിന്തുണ നന്നെ കുറഞ്ഞു എന്നിത്യാദി
+പാർശ്വഫലങ്ങൾ ബാക്കി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Indira_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഇന്ദിരാജി</figDesc>
+          </figure>
+          <p> രാജിവെക്കില്ല, സുപ്രീംകോടതിയിൽ അപ്പീൽപോകും എന്നായിരുന്നു വിശ്വനാഥന്റെ നിലപാടു്. താൻ
+നിരപരാധിയാണെന്നു് മന്ത്രി നെഞ്ചിൽ കൈ വെച്ചു പറഞ്ഞു. കോടതിയുടെ നീതിബോധത്തെ ചോദ്യം ചെയ്യാനും
+മടിച്ചില്ല. എന്തുചെയ്യാം, മുസ്ലിംലീഗല്ല, കോൺഗ്രസ്. നേരത്തോടു നേരമെത്തുമ്പോഴേക്കും നിലപാടു
+മാറ്റേണ്ടിവന്നു. അഭിപ്രായം ഇരുമ്പുലക്കയല്ലെന്നു തെളിയിച്ചുകൊണ്ടു് മന്ത്രി രാജിക്കത്തു കൊടുത്തു.
+</p>
+          <p>ജയാപജയങ്ങളോ രാഷ്ട്രീയത്തിലെ ഉയർച്ചതാഴ്ചകളോ വകവെക്കുന്നവനല്ല, കുന്നംകുളം കല്ലായിൽ പങ്ങന്റെ
+മകൻ വിശ്വനാഥൻ. ചെറുപ്പത്തിൽ നല്ലൊരു കായികതാരമായിരുന്നു. കേരളവർമ കോളേജിലെ ബാസ്കറ്റ്ബാൾ
+ടീം ക്യാപ്റ്റനായിട്ടുണ്ടു്. ഉറച്ച ശരീരമെന്നപോലെ സ്പോർട്സ്മാൻ സ്പിരിറ്റും കളിക്കളത്തിൽ നിന്നു് ആർജിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/T_K_Krishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ടി. കെ. കൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> വിദ്യാർത്ഥിയായിരിക്കെ കെ. എസ്. യു.-വിന്റെ നീലക്കൊടി പിടിച്ചു രാഷ്ട്രീയത്തിലിറങ്ങിയതാണു്. 1967–70
+കാലത്തു് യൂത്ത് കോൺഗ്രസിന്റെ തൃശൂർ ജില്ലാ പ്രസിഡന്റ്. പാർട്ടി പിളർന്നപ്പോൾ (1969) <ref target="https://ml.wikipedia.org/wiki/Indira_Gandhi">ഇന്ദിരാജി</ref> യുടെ
+പിന്നിൽ ഉറച്ചുനിന്നു. 1970-ൽ കുന്നംകുളത്തു് കോൺഗ്രസ് സ്ഥാനാർത്ഥിയായെങ്കിലും സി. പി. എമ്മിലെ <ref target="https://ml.wikipedia.org/wiki/M.C._Abraham">ടി. കെ. കൃഷ്ണ</ref> നോടു
+തോറ്റു. 1970 മുതൽ 17 കൊല്ലം തൃശൂർ ഡി. സി. സി. സെക്രട്ടറിയായി പ്രശോഭിച്ചു. 1977-ൽ കുന്നംകുളത്തു് ടി. കെ.
+കൃഷ്ണനെ മലർത്തിയടിച്ചു് നിയമസഭാംഗമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/A_k_antony.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആന്റണി</figDesc>
+          </figure>
+          <p> ലോ കോളേജിൽ പഠിക്കുംകാലത്താരംഭിച്ചതാണു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref>, <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> മുതൽ
+പേരുമായുള്ള ആത്മബന്ധം. 1978-ൽ കോൺഗ്രസ് വീണ്ടും പിളർന്നപ്പോൾ ഇന്ദിരാജിയെ തള്ളിപ്പറഞ്ഞു്
+വിശ്വനാഥൻ ആദർശധീരനൊപ്പം നിലകൊണ്ടു. 1980-ലെ തെരഞ്ഞെടുപ്പിൽ മാർക്സിസ്റ്റ് മുന്നണി
+സ്ഥാനാർത്ഥിയായി കുന്നംകുളത്തു ജയിച്ചു. രണ്ടു കൊല്ലത്തിനകം മാർക്സിസ്റ്റ്-ആന്റണി ഗ്രൂപ്പ് ബാന്ധവം
+അവസാനിച്ചു, നായനാർ മന്ത്രിസഭ തകർന്നു. <ref target="https://ml.wikipedia.org/wiki/P.C._Chako">പി. സി. ചാക്കോ</ref> യും <ref target="https://ml.wikipedia.org/wiki/Ramachandran_Kadannappalli">കടന്നപ്പള്ളി</ref>
+യും <ref target="https://ml.wikipedia.org/wiki/K.P._Unnikrishnan">കെ. പി.
+ഉണ്ണികൃഷ്ണനും</ref> അഖിലേന്ത്യാ ലൈൻ സ്വീകരിച്ചു് ഇടതുമുന്നണിയിലേക്കു തിരിച്ചുപോയി. വിശ്വനാഥൻ
+ആന്റണിക്കൊപ്പം ഉറച്ചുനിന്നു. കുന്നംകുളത്തിനപ്രം മ്മക്കെന്തുട്ട് അഖിലേന്ത്യ?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PC_Chacko.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. സി. ചാക്കോ</figDesc>
+          </figure>
+          <p> 1982 തെരഞ്ഞെടുപ്പു് പക്ഷേ, നഷ്ടക്കച്ചവടമായി. സംസ്ഥാനത്തു് ഐക്യജനാധിപത്യമുന്നണി വെന്നിക്കൊടി
+പാറിച്ചു. കുന്നംകുളത്തു് വിശ്വനാഥൻ തോറ്റു. വിജയി സി. പി. എമ്മിൽ <ref target="https://ml.wikipedia.org/wiki/K.P._Aravindakshan">കെ. പി.
+അരവിന്ദാക്ഷൻ</ref>. ഭൂരിപക്ഷം 1240. അതോടെ വിശ്വനാഥൻ കുന്നംകുളമുപേക്ഷിച്ചു് കൊടകരക്കു പോയി.
+1987-ൽ ഇടതുതരംഗത്തിനിടയിലും കൊടകരയിൽ വിജയിച്ചു. സഖാവു് എം. എ. കാർത്തികേയനെതിരെ
+വിശ്വനാഥന്റെ ഭൂരിപക്ഷം 2536.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Kadannappally_Ramachandran.jpg" rendition="gra"/>
+            <figDesc style="thumb">കടന്നപ്പള്ളി</figDesc>
+          </figure>
+          <p> 1991-ൽ കൊടകര നിന്നു് വീണ്ടും വിജയം. സംസ്ഥാനത്തു് ഐക്യമുന്നണിക്കു് ഭൂരിപക്ഷം.
+മന്ത്രിസ്ഥാനത്തേക്കു് <ref target="https://ml.wikipedia.org/wiki/A_k_antony">ആന്റണി</ref> നിർദ്ദേശിച്ച പേരു്
+<ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം.
+സുധിരന്റേ</ref> തായിരുന്നു. ഒരു കാരണവശാലും സുധീരനെ മന്ത്രിസഭയിലെടുക്കില്ല എന്നു് <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനു്</ref> ശാഠ്യം.
+തൃശൂർ ജില്ലക്കാരൻ, ശ്രീനാരായണീയൻ, ആന്റണി ഗ്രൂപ്പുകാരൻ എന്നീ പരിഗണനകളെല്ലാം തികഞ്ഞ
+പകരക്കാരൻ <ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">കെ. പി.
+വിശ്വനാഥൻ</ref>. മന്ത്രിയായശേഷവും ആന്റണിയോടുള്ള കൂറിനോ ഗ്രൂപ്പുവികാരത്തിനോ
+കുറവേതുമുണ്ടായില്ല. വനംവകുപ്പിൽ കൈയിട്ടുവാരാൻ കരുണാകരനെ അനുവദിച്ചതുമില്ല.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_M_Sudheeran.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എം. സുധിരൻ</figDesc>
+          </figure>
+          <p> ഡോക്ടർ <ref target="https://en.wikipedia.org/wiki/M._A._Kuttappan">എം. എ. കുട്ടപ്പനു്</ref>
+രാജ്യ സഭാ സീറ്റ് നിഷേധിച്ചതിൽ പ്രതിഷേധിച്ചു് 1994 ജൂൺ 16-നു് <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref>
+മന്ത്രിസ്ഥാനം രാജിവെച്ചു. മുഖ്യമന്ത്രിയിൽ അവിശ്വാസം പ്രകടിപ്പിച്ചുകൊണ്ടു് സെപ്റ്റംബർ 24-നു് വിശ്വനാഥനും
+രാജികൊടുത്തു. കരുണാകരനെ കോൺഗ്രസ് നിയമസഭാകക്ഷി നേതൃസ്ഥാനത്തുനിന്നു് നീക്കണമെന്നു്
+ആന്റണി ഗ്രൂപ്പുകാർ സെപ്റ്റംബർ 27-നു് ഹൈക്കമാന്റിനോടു് അഭ്യർത്ഥിച്ചു. ആ പോരാട്ടം 1995 മാർച്ച് 16-നു്
+ലക്ഷ്യം നേടി. കരുണാകരന്റെ സ്ഥാനത്തു് ആന്റണി മുഖ്യമന്ത്രിയായി വന്നപ്പോൾ വിശ്വനാഥൻ തഴയപ്പെട്ടു.
+പകരം വന്നതു് <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരൻ</ref>.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p> അതോടെ വിശ്വനാഥനു് ആന്റണിയോടു് നീരസമായി. സുധീരനെ തീരെ കണ്ടുകൂടാതെയുമായി.
+വിശ്വനാഥനേക്കാൾ എട്ടുവയസ്സിനിളപ്പമാണു് സുധീരൻ. വിശ്വനാഥൻ ആദ്യം നിയമസഭാംഗമായ 1977-ൽ
+സുധീരൻ ലോൿസഭാംഗമായി. അഖിലേന്ത്യാ പ്രസിദ്ധനാണു് സുധീരൻ. വിശ്വനാഥനെ കുന്നംകുളത്തിനു് വടക്കോ
+കൊടകരക്കു തെക്കോ നാലാളറിയില്ല.
+</p>
+          <p>1996-ൽ കൊടകരയിൽ വീണ്ടും ജയം. സീറ്റ് പ്രതിപക്ഷത്തായെന്നു മാത്രം. 2001-ൽ കൊടകര പിടിക്കാൻ
+സി. പി. എം. കരുത്തനായ സ്ഥാനാർത്ഥിയെ രംഗത്തിറക്കി—<ref target="https://ml.wikipedia.org/wiki/Lonappan_Nambadan">ലോനപ്പൻ
+നമ്പാടൻ</ref>. മൽസരം കടുത്തതായിരുന്നുവെങ്കിലും വിശ്വനാഥൻ വിജയിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/MAKuttappan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഡോ. എം. എ. കുട്ടപ്പൻ</figDesc>
+          </figure>
+          <p> മന്ത്രിസഭാ രൂപവത്കരണ വേളയിൽ വീണ്ടും തഴയപ്പെട്ടു, കെ. പി. വിശ്വനാഥൻ. സ്വന്തം ഗ്രൂപ്പിൽ നിന്നു്
+ഒരീഴവനെ മന്ത്രിയാക്കണമെന്നു് ആന്റണിക്കു് തോന്നിയില്ല. <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">ഉമ്മൻചാണ്ടി</ref> യും <ref target="https://ml.wikipedia.org/wiki/Thiruvanchoor_Radhakrishnan">തിരുവഞ്ചൂരും</ref>
+<ref target="https://en.wikipedia.org/wiki/Aryadan_Muhammed">ആര്യാടനും</ref>
+തുല്യ ദുഃഖിതർ. ലോൿസഭാ തെരഞ്ഞെടുപ്പിനുശേഷം നാൽവർ സംഘം പ്രബലമായി. മുസ്ലിംലീഗിന്റെ പിന്തുണ
+കൂടി ലഭിച്ചപ്പോൾ ആന്റണി പുറത്തു്, ഉമ്മൻചാണ്ടി അകത്തു്. ആന്റണിയെപോലെയല്ല, അസ്സലുള്ളവനാണു്
+കുഞ്ഞൂഞ്ഞ്. തിരുവഞ്ചൂരിനെയും വിശ്വനാഥനെയും ആര്യാടനെയും മന്ത്രിമാരാക്കി.
+</p>
+          <p>ആന്റണിയുടെ ശാപംകൊണ്ടാണെന്നു് ശത്രുക്കൾ പറയുന്നു. കുഞ്ഞാലിക്കുട്ടിക്കു് പിന്നാലെ ഇതാ
+വിശ്വനാഥനും ഹജൂരിന്റെ പടിയിറങ്ങുകയാണു്. ചന്ദനലേപ സുഗന്ധവുമായി വിശ്വനാഥൻ തൃശ്ശിവപേരൂർക്കു്
+മടങ്ങുമ്പോൾ വി. എം. സുധീരനും ആഹ്ലാദിക്കാം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Lonappan_Nambadan.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലോനപ്പൻ നമ്പാടൻ</figDesc>
+          </figure>
+          <p> ചന്ദന മാഫിയയുമായി മന്ത്രിക്കു നേരിട്ടു ബന്ധമുണ്ടെന്നാണു് ഹൈക്കോടതിയുടെ കണ്ടെത്തൽ.
+വാളയാറിൽ വനംവകുപ്പുകാർ പൂട്ടിച്ച ചന്ദന ഫാക്ടറിയുടമസ്ഥർ മന്ത്രിക്കു് ടെലഗ്രാമയച്ചു. അതിന്മേൽ
+ഉദ്യോഗസ്ഥർക്കെതിരെ വിജിലൻസ് അന്വേഷണത്തിനുത്തരവിട്ടു എന്നാണു ജഡ്ജി പറയുന്ന കാരണം. നേരിട്ടു്
+ബന്ധമുണ്ടായിരുന്നെങ്കിൽ പ്രതികൾ മൊബൈൽ ഫോണിൽ വിളിക്കുകയേ ചെയ്യുമായിരുന്നുള്ളൂ, മന്ത്രി
+
+ഉദ്യോഗസ്ഥനെ ഉടനടി സസ്പെൻഡ് ചെയ്യുകയും ഉണ്ടായേനെ. നമ്മുടെ ഹൈക്കോടതി ജഡ്ജിമാരുടെ ബുദ്ധിയും
+ലോകപരിചയവും എത്ര ശോചനീയം!
+</p>
+          <p>വിശ്വനാഥന്റെ സങ്കടവും ദേഷ്യവും, ഹൈക്കോടതിയുടെ നേർക്കാണു് അണമുറിഞ്ഞൊഴുകിയതു്:
+ഹൈക്കോടതി ഉത്തരവിനു് ശേഷം മാത്രമാണു് താൻ ടെലഗ്രാം കണ്ടതു്, വിജിലൻസ് അന്വേഷണത്തിനു്
+ഉത്തരവിട്ടിട്ടേയില്ല. പ്രതികളെ അറിയില്ല, അവരുടെ ജാമ്യാപേക്ഷയിൽ പറയുന്ന കാര്യങ്ങൾ കളവാണു്,
+അതോടൊപ്പമുള്ള രേഖകൾ വ്യാജമാണു്, ഉത്തരവിടുംമുമ്പു് തനിക്കുപറയാനുള്ളതു് കേട്ടില്ല…
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Thiruvanchoor_Radhakrishnan.jpg" rendition="gra"/>
+            <figDesc style="thumb">തിരുവഞ്ചൂർ രാധാകൃഷ്ണൻ</figDesc>
+          </figure>
+          <p> ഇക്കാര്യത്തിൽ കോടതിയെയും പ്രോസിക്യൂഷനെ വേണം കുറ്റംപറയാൻ. പഴയൊരു കോൺഗ്രസുകാരനും
+സായിഭക്തനുമായ പ്രോസിക്യൂഷൻസ് ഡയറക്ടർ ജനറൽ പി. വി. മാധവൻ നമ്പ്യാരാണു് സർക്കാർ ഭാഗം
+വാദിച്ചതു്. സത്യസന്ധൻ എന്ന ദുഷ്പേരു് കേൾപ്പിച്ചയാളാണു് നമ്പ്യാർ. ടിയാൻ പ്രതികളുടെ ജാമ്യാപേക്ഷയെ
+തീരഞ്ചും എതിർത്തു് കേസ് തള്ളിച്ചു. വനംവകുപ്പുദ്യോഗസ്ഥർക്കെതിരായ സകല ആരോപണങ്ങളും ഖണ്ഡിച്ചു.
+അതേസമയം മന്ത്രിക്കു് വേണ്ടി ഒരക്ഷരം മിണ്ടിയില്ല.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എസ്. അച്യുതാനന്ദൻ</figDesc>
+          </figure>
+          <p> സർക്കാറിന്റെ, എന്നുവെച്ചാൽ മന്ത്രിമാരുടെ താൽപര്യം സംരക്ഷിക്കാൻ ബാധ്യസ്ഥമാണു് പ്രോസിക്യൂഷൻ.
+ഈ നിലക്കു്, ജാമ്യാപേക്ഷയെ അനുകൂലിക്കുകയും ഉദ്യോഗസ്ഥരെ തള്ളിപ്പറയുകയുമാണു് വേണ്ടിയിരുന്നതു്:
+<ref target="https://en.wikipedia.org/wiki/K._Amarnath_Shetty">അമർനാഥ്
+ഷെട്ടി</ref> അഴിമതിക്കാരനായതുകൊണ്ടു് വിജിലൻസ് അന്വേഷണത്തിനുത്തരവിട്ടു. കൈക്കൂലി
+കിട്ടാത്തതുകൊണ്ടു് വനംവകുപ്പുകാർ ചന്ദനഫാക്ടറി ഉടമകളെ പീഡിപ്പിക്കുന്നു എന്ന മട്ടിൽ ഇങ്ങനെ വാദിക്കാൻ
+നമ്പ്യാർക്കു് മനസ്സാക്ഷിക്കുത്തുണ്ടെങ്കിൽ നമ്മുടെ സ്റ്റേറ്റ് അറ്റോർണിയെ അറിയിക്കാമായിരുന്നു അതും ചെയ്തില്ല.
+</p>
+          <p>ഏതായാലും മാധവൻ നമ്പ്യാരുടെ ദിനങ്ങൾ എണ്ണപ്പെട്ടു. ഡി. ജി. പി.-യുടെ കാര്യത്തിൽ കോൺഗ്രസിനും
+മുസ്ലിംലീഗിനു മാണി ഗ്രൂപ്പിനും ഏകാഭിപ്രായമാണു്. സത്യ, സമത്വ, സ്വാതന്ത്ര്യങ്ങളുടെ പതാകവാഹകരും വന
+വന്യജീവി സംരക്ഷണ വ്യഗ്രരുമായ കോഴിക്കോടൻ പത്രവും ഇക്കാര്യത്തിൽ സർക്കാറിനു് പൂർണ പിന്തുണ
+നൽകുന്നു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Aryadan_muhamed.jpg" rendition="gra"/>
+            <figDesc style="thumb">ആര്യാടൻ മുഹമ്മദ്</figDesc>
+          </figure>
+          <p> മന്ത്രിക്കെതിരായ പരാമർശങ്ങൾ നീക്കികിട്ടാൻ സർക്കാർ സുപ്രീംകോടതിയെ സമീപിക്കുന്നുണ്ടു്.
+കിട്ടാവുന്നതിൽ ഏറ്റവും മികച്ച വക്കീലിനെ ഏർപ്പാടാക്കും. വേണുഗോപാലെങ്കിൽ വേണുഗോപാൽ,
+നരിമാനെങ്കിൽ <ref target="https://ml.wikipedia.org/wiki/Fali_Sam_Nariman">നരിമാൻ</ref>.
+പരലോകത്തുനിന്നു് പൽക്കിവാലയെ കൊണ്ടുവരാനും ശ്രമിക്കാവുന്നതാണു്. അഗ്നിപരീക്ഷയിൽ സത്യം
+തെളിയിച്ച <ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">വിശ്വനാഥൻ</ref>
+തിരിച്ചെത്തുംവരെ വനംവകുപ്പിന്റെ അധികചുമതല <ref target="https://ml.wikipedia.org/wiki/Thiruvanchoor_Radhakrishnan">തിരുവഞ്ചൂരിനു്</ref>
+നൽകിയിരിക്കുന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/PR_Kurup.jpg" rendition="gra"/>
+            <figDesc style="thumb">പി. ആർ. കുറുപ്പ്</figDesc>
+          </figure>
+          <p> ഇന്നാട്ടിലെ കൊച്ചുകുട്ടികൾക്കു വരെ അറിയാവുന്ന രഹസ്യം—വാളയാറിനും പരിസരത്തുമുള്ള ചന്ദന
+ഫാക്ടറികളത്രയും അത്യുന്നത മുസ്ലിംലീഗ് നേതാവിന്റെ സന്തുബന്ധുക്കളും ബിനാമികളും നടത്തുന്നവയാണു്.
+ഇടതുമുന്നണി ഭരിച്ചാലും വലതുമുന്നണി ഭരിച്ചാലും ബി. ജെ. പി.-യോ ശിവസേനയോ ഭരണം പിടിച്ചാലും അവ
+പൂട്ടിക്കാനാവില്ല. ചന്ദന ഫാക്ടറി പൂട്ടിക്കേണ്ടതു് വ്യവസായ, തദ്ദേശ സ്വയംഭരണവകുപ്പുകളാണു്. സഖാക്കൾ
+സുശീലാഗോപാലനും <ref target="https://ml.wikipedia.org/wiki/Paloli_Mohammed_Kutty">പാലോളി
+മുഹമ്മദ്കുട്ടി</ref> യും ഭരിച്ചകാലത്തുപോലും ചന്ദനഫാക്ടറികൾ നിർബാധം പ്രവർത്തിച്ചു. <ref target="https://ml.wikipedia.org/wiki/P.R._Kurup">പി. ആർ. കുറുപ്പും</ref> <ref target="https://en.wikipedia.org/wiki/Neelalohithadasan_Nadar">നീലലോഹിതദാസ്
+നാടാരും</ref> <ref target="https://ml.wikipedia.org/wiki/C.K._Nanu">സി. കെ.
+നാണു</ref> വും ചുമതല വഹിച്ച വനംവകുപ്പു് തങ്ങളാലാവുംവിധം പിന്തുണയും നൽകി. മുസ്ലിംലീഗുകാർ
+വ്യവസായ, തദ്ദേശ ഭരണവകുപ്പുകൾ കൈയാളുന്ന ഐക്യമുന്നണിയുടെ കാലത്തെ കുറിച്ചു് പറയാനുമില്ല.
+ആന്റണിയുടെ ആദർശധീരതക്കു പരിമിതികളുണ്ടു്. <ref target="https://ml.wikipedia.org/wiki/P.K._Kunhalikkutty">കുഞ്ഞാലിക്കുട്ടി</ref>
+യുടെ കരുണാകടാക്ഷംകൊണ്ടു് മുഖ്യമന്ത്രിയായ <ref target="https://ml.wikipedia.org/wiki/Oommen_Chandy">കുഞ്ഞൂഞ്ഞെ</ref> ങ്ങനെ
+ചന്ദനഫാക്ടറി പൂട്ടിക്കും?
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/CK_Nanu.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. കെ. നാണു</figDesc>
+          </figure>
+          <p> സംസ്ഥാനത്തിന്റെ വ്യവസായ പുരോഗതിക്കു് പ്രതിജ്ഞാബദ്ധനാണു് ലീഗ് നേതാവു്. മറയൂരെ
+അവസാനത്തെ ചന്ദനം വരെ മുറിച്ചെടുക്കും. വാറ്റി തൈലമുണ്ടാക്കും, വിറ്റു് വിദേശനാണ്യം നേടും.
+ജാതി-മത-പാർട്ടി-ഗ്രൂപ്പുഭേദമെന്യേ ഇന്നാട്ടിലെ എല്ലാ നല്ല മനുഷ്യരുടെയും പിന്തുണ നേതാവിനുണ്ടു്. <ref target="https://en.wikipedia.org/wiki/K._P._Viswanathan">കെ. പി.
+വിശ്വനാഥന്റെ</ref> സ്ഥാനത്തു് <ref target="https://en.wikipedia.org/wiki/V._M._Sudheeran">വി. എം. സുധീരനോ</ref>
+<ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.
+അച്യുതാനന്ദനോ</ref> വനംവകുപ്പു ഭരിച്ചാലും ചന്ദനക്കൊള്ള നിർബാധം തുടരും, <ref target="https://ml.wikipedia.org/wiki/Veluthampi_Dhalava">വേലുത്തമ്പി
+ദളവാ</ref> ക്കും തടയാൻ കഴിയില്ല, മലപ്പുറം വീരപ്പനെ.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fright" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Viswanadha Vishadayogam (ml:
+വിശ്വനാഥ വിഷാദയോഗം).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Viswanadha Vishadayogam, കെ. രാജേശ്വരി, വിശ്വനാഥ വിഷാദയോഗം, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  October 3, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:Dead_sailor_in_art_detail,_A_careless_word...A_needless_loss_poster_%28cropped%29.jpg">A
+Careless Word, A Needless Loss,</ref> a painting by Anton Otto Fischer  . The image is
+taken from <ref target="https://commons.wikimedia.org">Wikimedia
+Commons</ref>  and is gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-viswanadha.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-viswanadha.pdf">Download
+
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

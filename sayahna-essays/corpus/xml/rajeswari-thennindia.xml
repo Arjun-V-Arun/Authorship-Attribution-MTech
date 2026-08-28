@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="full">
+          <title xml:lang="ml" level="a" type="main">തെന്നിന്ത്യയിലെ താമര</title>
+          <title xml:lang="en" type="main">Thennindiayile Thamara</title>
+        </title>
+        <author>K. Rajeswari</author>
+        <respStmt>
+          <resp>Typeset by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <respStmt>
+          <resp>Edited by</resp>
+          <name>PK Ashok</name>
+        </respStmt>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>JN Jamuna</name>
+        </respStmt>
+        <sponsor>Sayahna Foundation</sponsor>
+        <funder>River Valley Technologies</funder>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Sayahna Foundation</publisher>
+        <pubPlace>Trivandrum, India</pubPlace>
+        <date when="2025">September 28, 2025</date>
+        <address>
+          <addrLine>JWRA 34, Jagthy</addrLine>
+          <addrLine>Trivandrum 695014</addrLine>
+          <addrLine>India</addrLine>
+        </address>
+        <availability>
+          <p>The text of the original item is copyrighted to the author. The text encoding and editorial
+notes were created and​/or prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title type="full">
+              <title xml:lang="ml" level="a" type="main">തെന്നിന്ത്യയിലെ താമര</title>
+              <title xml:lang="en" type="main">Thennindiayile Thamara</title>
+            </title>
+            <author>K. Rajeswari</author>
+          </titleStmt>
+          <extent>
+            <measure unit="pages" quantity="20">20 pages of source material</measure>
+          </extent>
+          <publicationStmt>
+            <publisher>Not available</publisher>
+            <pubPlace/>
+          </publicationStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ml">Malayalam</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>Article</term>
+          <term>K. Rajeswari</term>
+          <term>Thennindiayile Thamara</term>
+          <term>കെ. രാജേശ്വരി</term>
+          <term>തെന്നിന്ത്യയിലെ താമര</term>
+          <term>Open Access Publishing</term>
+          <term>Malayalam</term>
+          <term>Sayahna Foundation</term>
+          <term>Free Software</term>
+          <term>XML</term>
+        </keywords>
+      </textClass>
+      <textDesc n="article">
+        <channel mode="w">digital delivery</channel>
+        <constitution type="single"/>
+        <derivation type="orginal"/>
+        <domain type="art"/>
+        <factuality type="fact"/>
+        <interaction type="complete"/>
+        <preparedness type="prepared"/>
+        <purpose type="inform" degree="high"/>
+      </textDesc>
+      <settingDesc>
+        <setting>
+          <name>, India</name>
+          <time>September 28, 2025</time>
+        </setting>
+      </settingDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front xmlns="http://www.tei-c.org/ns/1.0">
+      <div xml:id="cover" type="Cover">
+        <figure xml:id="cover-image" rend="fullfig">
+          <graphic url="images/Latelier_de_Corot.png" width="100%"/>
+          <figDesc><ref target="https://commons.wikimedia.org/wiki/File:L%27atelier_de_Corot.png">The
+Artist’s Studio: Young woman seated in front of an easel,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jean-Baptiste-Camille_Corot">JeanBaptiste Camille Corot</ref>  (1796–1875). </figDesc>
+        </figure>
+      </div>
+      <titlePage xmlns="http://www.tei-c.org/ns/1.0">
+        <docTitle>
+          <titlePart type="main">തെന്നിന്ത്യയിലെ താമര</titlePart>
+        </docTitle>
+        <docAuthor>
+          <persName>കെ. രാജേശ്വരി</persName>
+        </docAuthor>
+      </titlePage>
+    </front>
+    <body>
+      <div type="lchapter" xml:id="lchp1">
+        <head type="lchaphead">തെന്നിന്ത്യയിലെ താമര</head>
+        <div type="lsection">
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Deve_Gowda.jpg" rendition="gra"/>
+            <figDesc style="thumb">ദേവഗൗഡ</figDesc>
+          </figure>
+          <p style="noindent"> ഏഷ്യാനെറ്റിന്റെ കന്നട ചാനൽ സുവർണയും എൻ. ഡി. ടി. വി.-യും വെവ്വേറെ
+സംഘടിപ്പിച്ച എക്സിറ്റ്പോളിനെ ശരിവെച്ചുകൊണ്ടു് കർണാടകത്തിലെ വോട്ടെണ്ണൽ പൂർത്തിയായി. 224 അംഗ
+നിയമസഭയിൽ ഭാരതീയ ജനതാപാർട്ടി 110 സീറ്റ് നേടി. കേവല ഭൂരിപക്ഷത്തിനു് മൂന്നു കുറവു്. കോൺഗ്രസിനു് 80,
+<ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref>
+യുടെ മതേതര ജനതാദളിനു് 28, ചെറുപാർട്ടികളും സ്വതന്ത്രരും കൂടി 6.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Chandrababu_Naidu.jpg" rendition="gra"/>
+            <figDesc style="thumb">ചന്ദ്രബാബു നായിഡു</figDesc>
+          </figure>
+          <p> മറുവശത്തു്, കോൺഗ്രസിനു് മുൻതൂക്കം പ്രവചിച്ച ദ വീക്കിന്റെ അഭിപ്രായസർവേകളും <ref target="https://ml.wikipedia.org/wiki/Deccan_Herald">ഡെക്കാൻ ഹെറാൾഡി</ref>
+നോടു് സഹകരിച്ചു് സി. എൻ. എൻ.-ഐ. ബി. എൻ. നടത്തിയ എക്സിറ്റ്പോളും അമ്പേപാളി. അച്ചായന്മാർക്കും
+സായ്പന്മാർക്കും പറ്റിയ പണിയല്ല ഫലപ്രവചനമെന്നു് ഒരിക്കൽകൂടി തെളിഞ്ഞു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/NTRamaRao.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാമറാവു</figDesc>
+          </figure>
+          <p> ജനവിധി പകൽപോലെ വ്യക്തമാണു്: കക്ഷിരഹിതരുടെയും ചെറുപാർട്ടികളുടെയും പിന്തുണയോടെ
+ബി. ജെ. പി. മന്ത്രിസഭ നിലവിൽവരും, നിയമസഭയിൽ ഭൂരിപക്ഷം തെളിയിക്കും, അഞ്ചുകൊല്ലം അമർന്നിരുന്നു്
+ഭരിക്കും. വിധാൻസൗധത്തിനു മീതെ കാവിക്കൊടി പാറും.
+</p>
+          <p>കഴിഞ്ഞ ഒക്ടോബർ 19-നു് അപമാനിതനായി രാജിവെച്ചുപോയ <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">ബി. എസ്.
+യെദിയൂരപ്പ</ref>, അങ്കം ജയിച്ചു് മടങ്ങിവരുകയാണു്—കുതികാൽവെട്ടിയ ഗൗഡക്കും കനത്ത തിരിച്ചടി
+നൽകിയ ചാരിതാർഥ്യത്തോടെ വൊക്കലിംഗനെതിരെ ലിംഗായത്തുകാരന്റെ മധുരപ്രതികാരം.
+</p>
+          <p>ഒറ്റനോട്ടത്തിൽ, പടിപടിയായുള്ള മുന്നേറ്റമാണു് കർണാടകത്തിൽ ബി. ജെ. പി. നടത്തിയതെന്നു് കാണാം.
+1983-ൽ നിയമസഭയിൽ അക്കൗണ്ട് തുറന്നു, 1994-ലും 1999-ലും പ്രധാന പ്രതിപക്ഷമായി, 2004-ൽ ഏറ്റവും വലിയ
+ഒറ്റക്കക്ഷിയായി, 2006-ൽ ഭരണത്തിൽ പങ്കാളിത്തം നേടി, 2008-ൽ ഒറ്റക്കു് ഭരണം പിടിച്ചു.
+</p>
+          <p>തെക്കേ ഇന്ത്യയിൽ ഹിന്ദുത്വ രാഷ്ട്രീയത്തിനു് ക്ലച്ചുപിടിക്കില്ലെന്നാണു് സങ്കൽപം. 1977 വരെ തികച്ചും
+ഉത്തരേന്ത്യൻ പ്രതിഭാസമായിരുന്നു ഭാരതീയ ജനസംഘം. 1980-ൽ ജനതാപാർട്ടി പിളർന്നു് ബി. ജെ. പി.
+ഉണ്ടായപ്പോഴും വലിയ വ്യത്യാസമൊന്നും ഉണ്ടായില്ല.
+</p>
+          <p>ഒറീസയും ബംഗാളും വടക്കുകിഴക്കൻ സംസ്ഥാനങ്ങളും തെക്കേ ഇന്ത്യയും ഹിന്ദുത്വത്തിനു്
+ബാലികേറാമലയായി തുടർന്നു. ആദ്യം <ref target="https://ml.wikipedia.org/wiki/N._T._Rama_Rao">രാമറാവു</ref> വിന്റെയും
+
+പിന്നീടു് <ref target="https://ml.wikipedia.org/wiki/N._Chandrababu_Naidu">ചന്ദ്രബാബു
+നായിഡു</ref> വിന്റെയും കാരുണ്യത്തിലാണു് ആന്ധ്രയിൽ ബി. ജെ. പി. പിച്ചവെച്ചുനടന്നതു്. ബിജു
+ജനതാദളുമായി സഖ്യം ചെയ്തശേഷമാണു് ഒറീസയിൽ പ്രബല ശക്തിയായതു്; തൃണമൂൽ കോൺഗ്രസുമായുള്ള
+ധരണയിലാണു് ബംഗാളിൽ ഒന്നോ ഒന്നരയോ സീറ്റുകൾ നേടിയതു്. 1998-ൽ എ. ഡി. എം. കെ. മുന്നണിയിലും
+1999-ൽ ഡി. എം. കെ. മുന്നണിയിലും അംഗത്വം നേടുക വഴി തമിഴകത്തുനിന്നു് ലോക്സഭാംഗങ്ങളുണ്ടായി.
+</p>
+          <p>ഇതിൽനിന്നു് വ്യത്യസ്തമായ പാറ്റേണിലാണു് കർണാടകത്തിൽ ബി. ജെ. പി.-യുടെ വളർച്ച. കോൺഗ്രസിന്റെ
+അധികാരകുത്തക തകർന്ന 1983 ജനുവരിയിലെ തെരഞ്ഞെടുപ്പിലാണു് ബി. ജെ. പി.-യുടെ രംഗപ്രവേശം. അന്നു്
+16 സീറ്റ് നേടി പാർട്ടി രാഷ്ട്രീയ നിരീക്ഷകരെ അമ്പരപ്പിച്ചു. സംസ്ഥാനത്തെ പ്രഥമ കോൺഗ്രസിതര
+സർക്കാറിനെ ബി. ജെ. പി. പുറത്തുനിന്നു് പിന്താങ്ങി. ലോക്സഭാ തെരഞ്ഞെടുപ്പിലെ കനത്ത പരാജയത്തെ
+തുടർന്നു് <ref target="https://ml.wikipedia.org/wiki/Ramakrishna_Hegde">രാമകൃഷ്ണ
+ഹെഗ്ഡെ</ref> രാജിവെച്ചു് നിയമസഭ പിരിച്ചുവിട്ടു. 1985-ലെ തെരഞ്ഞെടുപ്പിൽ ഹെഗ്ഡെ അധികാരത്തിൽ
+തിരിച്ചെത്തി. പക്ഷേ, ബി. ജെ. പി.-യും അമ്പേ പരാജയപ്പെട്ടു. കോൺഗ്രസ് തിരിച്ചുവന്നു. 1994-ൽ
+കോൺഗ്രസിന്റെ കടപുഴകി, ജനതാദൾ അധികാരത്തിലേറി. ബി. ജെ. പി. നിയമസഭയിൽ പ്രധാന
+പ്രതിപക്ഷമായി.
+</p>
+          <p>അപ്പോഴേക്കും അഖിലേന്ത്യാ തലത്തിൽ ഹിന്ദുത്വ രാഷ്ട്രീയം പ്രബലമായിക്കഴിഞ്ഞു. കോൺഗ്രസിനു് ബദൽ
+ബി. ജെ. പി. എന്ന സമവാക്യം അംഗീകൃതമായി. കർണാടകത്തിലെ ബി. ജെ. പി.-ക്കാരും കൊണ്ടുപിടിച്ചു്
+പരിശ്രമിച്ചു. കഴിയും വിധമുള്ള കലാപരിപാടികൾ സംഘടിപ്പിച്ചു. ധാർവാറിലെ ഈദ്ഗാഹ് മൈതാനത്തു്
+ദേശീയപതാക ഉയർത്താനുള്ള അവകാശത്തെച്ചൊല്ലിയും ബാബാബുധൻഗിരിയിലെ
+ആരാധനാസ്വാതന്ത്ര്യത്തിനുവേണ്ടിയും പുക്കാറുണ്ടാക്കി.
+</p>
+          <p>1996-ലെ ലോകസഭാ തെരഞ്ഞെടുപ്പിൽ ജനതാദൾ വിജയം ആവർത്തിച്ചു. കർണാടക മുഖ്യമന്ത്രി <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref>
+ഇന്ത്യൻ പ്രധാനമന്ത്രിയായി ഉയർത്തപ്പെട്ടു. അചിരേണ ഗൗഡയും ഹെഗ്ഡെയും തമ്മിൽ തെറ്റി, ഹെഗ്ഡെ
+ലോക്ശക്തി എന്നൊരു പാർട്ടിയുണ്ടാക്കി. ഗൗഡയുടെ പിൻഗാമിയായി വന്ന <ref target="https://en.wikipedia.org/wiki/J._H._Patel">ജെ. എച്ച്. പട്ടേൽ</ref>
+ദുർഭരണത്തിലൂടെ കന്നഡിഗരെ മൊത്തം വെറുപ്പിച്ചു. 1998-ലെ ലോക്സഭാ തെരഞ്ഞെടുപ്പിൽ
+ലോക്ശക്തിയുമായി കൈകോർത്തു് ബി. ജെ. പി. കൂടുതൽ സീറ്റുകൾ നേടി. അടുത്തവർഷം സംസ്ഥാനത്തു്
+ബി. ജെ. പി.-ലോക് ശക്തിഭരണം വരുമെന്നു് നിരീക്ഷകർ പ്രവചിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Yediyurappa.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബി. എസ്. യെദിയൂരപ്പ</figDesc>
+          </figure>
+          <p> 1999-ൽ നിയമസഭയിലേക്കും ലോക്സഭയിലേക്കും ഒരുമിച്ചു് തെരഞ്ഞെടുപ്പു് നടന്നു. തെരഞ്ഞെടുപ്പിനു്
+തൊട്ടുമുമ്പു് <ref target="https://en.wikipedia.org/wiki/J._H._Patel">ജെ. എച്ച്.
+പട്ടേലും</ref> <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref> യുമായി
+തെറ്റി. <ref target="https://ml.wikipedia.org/wiki/Ramakrishna_Hegde">രാമകൃഷ്ണ
+ഹെഗ്ഡെ</ref>, <ref target="https://ml.wikipedia.org/wiki/George_Fernandes">ജോർജ്
+ഫെർണാണ്ടസ്</ref> എന്നിവർക്കൊപ്പം പട്ടേൽ ഐക്യജനതാദളിൽ ചേക്കേറി. ഗൗഡ മതേതര
+ജനതാദൾ എന്ന പുതിയ ബാനർ സ്വീകരിച്ചു. പട്ടേലിന്റെ ജനപ്രീതിയെക്കുറിച്ചു് ഉത്തമബോധ്യമുണ്ടായിരുന്ന
+ബി. ജെ. പി. സംസ്ഥാന നേതാക്കൾ, ഐക്യദളുമായി ഒരു ബന്ധവും പാടില്ല എന്നു് ശഠിച്ചു. ഫെർണാണ്ടസിനെ
+പിണക്കാൻ പറ്റാത്തതുകൊണ്ടു് കേന്ദ്രനേതൃത്വം ജെ. ഡി. (യു)-ബി. ജെ. പി. സഖ്യം അടിച്ചേൽപിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/George_Fernandes.jpg" rendition="gra"/>
+            <figDesc style="thumb">ജോർജ് ഫെർണാണ്ടസ്</figDesc>
+          </figure>
+          <p> പട്ടേലിന്റെ പാപഭാരം ബി. ജെ. പി. പേറേണ്ടിവന്നു. <ref target="https://en.wikipedia.org/wiki/S._M._Krishna">എസ്. എം. കൃഷ്ണ</ref> യുടെ
+നേതൃത്വത്തിൽ കോൺഗ്രസ് തിരിച്ചുവരവു് നടത്തി. ഐക്യജനതാദളിനും ബി. ജെ. പി.-ക്കും കനത്ത തിരിച്ചടി
+കിട്ടി. മുഖ്യമന്ത്രി പട്ടേലും പ്രതിപക്ഷ നേതാവു് <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref> യും
+സ്ഥിരം മണ്ഡലങ്ങളിൽ തോറ്റു് തൊപ്പിയിട്ടു. കേന്ദ്രത്തിൽ ബി. ജെ. പി. നയിക്കുന്ന ദേശീയ ജനാധിപത്യസഖ്യം
+അധികാരത്തിലേറി. കർണാടകത്തിൽനിന്നു് <ref target="https://en.wikipedia.org/wiki/Ananth_Kumar">അനന്തകുമാർ</ref> കാബിനറ്റ്
+മന്ത്രിയായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Dharam_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">എൻ. ധരംസിംഗ്</figDesc>
+          </figure>
+          <p> കൃഷ്ണയുടെ ഭരണപരാജയം മുതലാക്കി കർണാടകം പിടിക്കാൻ 2004-ൽ ബി. ജെ. പി. അരയും തലയും മുറുക്കി
+കളത്തിലിറങ്ങി. പക്ഷേ, കോൺഗ്രസിതര വോട്ടുകൾ ജനതാദളിനും ബി. ജെ. പി.-ക്കുമിടക്കു് ഭിന്നിച്ചു. 79 സീറ്റ്
+നേടി ബി. ജെ. പി. ഏറ്റവും വലിയ ഒറ്റക്കക്ഷിയായി. കോൺഗ്രസിനു് 65, മതേതര ജനതാദളിനു് 58. ഒപ്പം
+ലോക്സഭയിലേക്കു് നടന്ന തെരഞ്ഞെടുപ്പിൽ ബി. ജെ. പി. നേട്ടം കൊയ്തു. അവർക്കു് 18 സീറ്റ് കിട്ടിയപ്പോൾ
+കോൺഗ്രസിനു് എട്ടും ജനതാദളിനു് രണ്ടും സ്ഥാനങ്ങളേ ലഭിച്ചുള്ളൂ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Somanahalli_Mallaiah_Krishna.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. എം. കൃഷ്ണ</figDesc>
+          </figure>
+          <p> സുദീർഘമായ കൂടിയാലോചനകൾക്കൊടുവിൽ ബി. ജെ. പി.-യെ അധികാരത്തിൽനിന്നു് മാറ്റിനിറുത്താനും
+ഭരണസ്തംഭനം ഒഴിവാക്കാനുംവേണ്ടി കൈകോർക്കാൻ മതേതര ജനതാദളും കോൺഗ്രസും തീരുമാനിച്ചു. <ref target="https://en.wikipedia.org/wiki/S._M._Krishna">എസ്. എം. കൃഷ്ണ</ref>
+മുഖ്യമന്ത്രിയാകരുതെന്നു് ഗൗഡ ശഠിച്ചു. <ref target="https://en.wikipedia.org/wiki/Dharam_Singh">എൻ. ധരംസിംഗ്</ref>
+രാജ്ഭവനിൽ പകരക്കാനായി വന്നു. കൃഷ്ണയെ ഗവർണറാക്കി മഹാരാഷ്ട്ര രാജ്ഭവനിൽ പുനരധിവസിപ്പിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Siddaramaiah.jpg" rendition="gra"/>
+            <figDesc style="thumb">സിദ്ധരാമയ്യ</figDesc>
+          </figure>
+          <p> കോൺഗ്രസ്-ജനതാദൾ മന്ത്രിസഭ തട്ടിയും മുട്ടിയും മുന്നോട്ടുനീങ്ങി. കൃഷ്ണയെപ്പോലെ കഴിവോ
+കാര്യപ്രാപ്തിയോ ഉള്ള ദേഹമല്ല ധരംസിംഗ്. കോൺഗ്രസിലാണെങ്കിൽ നേതാക്കൾക്കു് ഒരു ക്ഷാമവുമില്ല.
+വാളെടുത്തവരൊക്കെ വെളിച്ചപ്പെടാൻ തുടങ്ങി. മുംബൈയിലിരുന്നു് കൃഷ്ണ കരുക്കൾ നീക്കി. അതിനിടെ
+ദേവഗൗഡയുടെ കോപത്തിനിരയായി സിദ്ധരാമയ്യ മന്ത്രിസഭയിൽനിന്നും മതേതര ജനതാദളിൽനിന്നും
+പുറത്തായി. പഞ്ചായത്തു് തെരഞ്ഞെടുപ്പിൽ കോൺഗ്രസ് <ref target="https://en.wikipedia.org/wiki/Siddaramaiah">സിദ്ധരാമയ്യ</ref> യുമായി
+സഹകരിച്ചതു് ഗൗഡയെ കൂടുതൽ കുപിതനാക്കി. തന്റെ പാർട്ടി കുളംതോണ്ടാനാണു് കോൺഗ്രസ്
+ശ്രമിക്കുന്നതെന്നു് ഗൗഡക്കു് തോന്നി. ഗൗഡ തോളിലിരുന്നു് ചെവി തിന്നുകയാണെന്നു് കോൺഗ്രസുകാർക്കും
+തോന്നി. ധരംസിംഗ് അഞ്ചുകൊല്ലം തികച്ചു് ഭരിച്ചിരുന്നെങ്കിൽ അടുത്തതവണ ബി. ജെ. പി. മുന്നിൽ രണ്ടു്
+ഭൂരിപക്ഷത്തോടെ അധികാരത്തിൽ വന്നേനെ.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Ananthkumar.jpg" rendition="gra"/>
+            <figDesc style="thumb">അനന്തകുമാർ</figDesc>
+          </figure>
+          <p> ഏതായാലും അതുണ്ടായില്ല. ഗൗഡയുടെ ഇളയമകൻ <ref target="https://ml.wikipedia.org/wiki/H._D._Kumaraswamy">കുമാരസ്വാമി</ref>
+രായ്ക്കുരാമാനം പാർട്ടി പിളർത്തി. ബഹുഭൂരിപക്ഷം എം. എൽ. എ.-മാരും കുമാരസ്വാമിക്കൊപ്പം പോയി—1995
+ആഗസ്റ്റ് അവസാനം <ref target="https://ml.wikipedia.org/wiki/N._Chandrababu_Naidu">ചന്ദ്രബാബു
+നായിഡു</ref> <ref target="https://ml.wikipedia.org/wiki/N._T._Rama_Rao">എൻ. ടി. രാമറാവു</ref>
+വിനോടു് ചെയ്ത അതേ ചതി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/H_D_Kumaraswamy.jpg" rendition="gra"/>
+            <figDesc style="thumb">കുമാരസ്വാമി</figDesc>
+          </figure>
+          <p> കുമാരസ്വാമിയും കൂട്ടരും ബി. ജെ. പി.-യുടെ പാളയത്തിലേക്കാണു് പോയതു്. ഭൂരിപക്ഷം
+തെളിയിക്കാനാവാതെ <ref target="https://en.wikipedia.org/wiki/Dharam_Singh">ധരംസിംഗ്</ref> രാജിവെച്ചു.
+സ്പീക്കർ <ref target="https://ml.wikipedia.org/wiki/H._D._Kumaraswamy">കുമാരസ്വാമി</ref>
+ക്കൊപ്പം നിന്നതുകൊണ്ടു് കൂറുമാറ്റ നിരോധ നിയമം പ്രാവർത്തികമാക്കാനുമൊത്തില്ല. കുമാരസ്വാമി മുഖ്യനും
+<ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+ഉപമുഖ്യനുമായി ബദൽ മന്ത്രിസഭ 2006 ഫെബ്രുവരി മൂന്നിനു് സത്യവാചകം ചൊല്ലി. മകൻ ചെയ്തതു് നല്ല
+കാര്യമാണെന്നു് തിരിച്ചറിഞ്ഞു് ഗൗഡ മകനെ അനുഗ്രഹിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Gundurayaru.png" rendition="gra"/>
+            <figDesc style="thumb">ആർ. ഗുണ്ടുറാവു</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/R._Gundu_Rao">ആർ.
+ഗുണ്ടുറാവു</ref>, <ref target="https://ml.wikipedia.org/wiki/S._Bagarappa">എസ്.
+ബംഗാരപ്പ</ref> എന്നീ പ്രഗല്ഭ മുൻഗാമികളെ അനുസ്മരിപ്പിക്കുന്ന ഭരണമാണു് <ref target="https://ml.wikipedia.org/wiki/H._D._Kumaraswamy">കുമാരസ്വാമി</ref>
+കാഴ്ചവെച്ചതു്. വികസന പ്രവർത്തനങ്ങൾ എമ്പാടും നടന്നു. ഖനിയുടമകളും റിയൽ എസ്റ്റേറ്റ് ബിസിനസുകാരും
+കൈയിട്ടു വാരി. കൊയ്ത്തും മെതിയുമായി കർഷകപുത്രൻ മുന്നേറി. ബി. ജെ. പി.-ക്കാരാണെങ്കിൽ കിട്ടിയ അവസരം
+മുതലാക്കി കാവിവത്ക്കരണം തുടങ്ങിവെച്ചു. ദൾ-ബി. ജെ. പി. സർക്കാർ കാലാവധി തികച്ചിരുന്നെങ്കിൽ
+അടുത്തതവണ കോൺഗ്രസ് നാലിൽ മൂന്നു് ഭൂരിപക്ഷത്തോടെ അധികാരത്തിൽ തിരിച്ചെത്തുമായിരുന്നു.
+എന്നാൽ അതും സംഭവിച്ചില്ല. മുൻധാരണപ്രകാരം 20 മാസം പൂർത്തിയാക്കുന്ന 2007 ഒക്ടോബർ രണ്ടിനു്
+കുമാരസ്വാമി <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+ക്കുവേണ്ടി മുഖ്യമന്ത്രിസ്ഥാനം ഒഴിഞ്ഞുകൊടുക്കേണ്ടതായിരുന്നു. സ്ഥാനമൊഴിയാൻ <ref target="https://ml.wikipedia.org/wiki/H._D._Kumaraswamy">കുമാരസ്വാമി</ref>
+ഒരുക്കമായിരുന്നു. ജ്യേഷ്ഠൻ രേവണ്ണ ഉപമുഖ്യമന്ത്രിയാകാൻ കുപ്പായം തയ്പിച്ചിരിക്കുകയും ആയിരുന്നു. ഒരു
+കാരണവശാലും സ്ഥാനമൊഴിയരുതെന്നു് ഗൗഡ കൽപിച്ചു, കുമാരസ്വാമി അനുസരിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/S_Bagarappa.jpg" rendition="gra"/>
+            <figDesc style="thumb">എസ്. ബംഗാരപ്പ</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി. കീഴടങ്ങും അല്ലെങ്കിൽ ഹിന്ദുത്വവാദികളെ അകറ്റിനിറുത്താൻ കോൺഗ്രസ് കുമാരസ്വാമിയെ
+പിന്തുണക്കും എന്നായിരുന്നു <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref> യുടെ
+മനോരഥം. രണ്ടും സംഭവിച്ചില്ല. ബി. ജെ. പി. പിന്തുണ പിൻവലിച്ചു, മന്ത്രിസഭ താഴെ വീണു. തൽക്ഷണം
+നിയമസഭ പിരിച്ചുവിട്ട് തെരഞ്ഞെടുപ്പു് നടത്തിയിരുന്നെങ്കിൽ കോൺഗ്രസ് ജയിച്ചുകയറിയേനെ. എന്നാൽ, <ref target="https://ml.wikipedia.org/wiki/K._Karunakaran">കരുണാകരനെ</ref>
+പ്പോലെ തന്ത്രശാലിയായ ഒരു കോൺഗ്രസ് നേതാവു് കർണാടകത്തിൽ ഉണ്ടായിരുന്നില്ല. <ref target="https://en.wikipedia.org/wiki/S._M._Krishna">എസ്. എം. കൃഷ്ണ</ref>
+ഗവർണറുദ്യോഗം രാജിവെച്ചു് തിരിച്ചെത്തുമ്പോഴേക്കും ഏറെ വൈകി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Karunakaran_Kannoth.jpg" rendition="gra"/>
+            <figDesc style="thumb">കരുണാകരൻ</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref>
+വൊക്കലിംഗ സമുദായക്കാരനും <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+ലിംഗായത്തുകാരനുമാണു്. ഗൗഡയുടെ രാഷ്ട്രീയവഞ്ചനക്കു് സാമുദായികമാനം കൈവന്നു. മതേതര ജനതാദളിലെ
+ലിംഗായത്തു് എം. എൽ. എ.-മാർപോലും പ്രകോപിതരായി. ഗൗഡയുടെ കുടുംബത്തിനകത്തും പ്രശ്നങ്ങളുണ്ടായി.
+ഉപമുഖ്യനാകാനുള്ള അവസരം അച്ഛൻ തട്ടിത്തെറിപ്പിച്ചതിൽ രേവണ്ണ പരിഭവിച്ചു. കാര്യങ്ങളുടെ പോക്കിൽ <ref target="https://ml.wikipedia.org/wiki/H._D._Kumaraswamy">കുമാരസ്വാമി</ref> യും
+അതൃപ്തി പ്രകടിപ്പിച്ചു. ഒടുവിൽ ഗൗഡ വഴങ്ങി. ദൾ-ബി. ജെ. പി. മുന്നണി പുനരുജ്ജീവിപ്പിച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/UR_Ananthamurthy.jpg" rendition="gra"/>
+            <figDesc style="thumb">അനന്തമൂർത്തി</figDesc>
+          </figure>
+          <p><ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/H._D._Kumaraswamy">കുമാരസാമി</ref> യും
+ഒന്നിച്ചു് രാജ്ഭവനിൽച്ചെന്നു് മന്ത്രിസഭയുണ്ടാക്കാൻ അവകാശവാദം ഉന്നയിച്ചു. <ref target="https://en.wikipedia.org/wiki/Rameshwar_Thakur">രാമേശ്വർ താക്കൂർ</ref>
+എന്നൊരു മഹാനാണു് കർണാടക ഗവർണർ. ഒരിക്കൽ പിണങ്ങിപ്പിരിഞ്ഞു് പരസ്പരം പിന്തുണ പിൻവലിച്ചവർ
+ചേർന്നു് വീണ്ടും മന്ത്രിസഭയുണ്ടാക്കുന്നതു് ശരിയാണോ എന്നു് ഗവർണർജിക്കു് സംശയം. യെദിയൂരപ്പയെ
+ക്ഷണിക്കരുതെന്നു് കോൺഗ്രസും മാർക്സിസ്റ്റ് പാർട്ടിയും അഭിപ്രായപ്പെട്ടു. അവസരവാദ സഖ്യത്തിനു്
+മന്ത്രിസഭയുണ്ടാക്കാൻ അനുവാദം നൽകരുതെന്നു് <ref target="https://ml.wikipedia.org/wiki/U.R._Ananthamurthy">അനന്തമൂർത്തി</ref>
+മുതലായ സാംസ്ക്കാരിക നായകരും ഗവർണറോട് അപേക്ഷിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Rameshwar_Thakur.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാമേശ്വർ താക്കൂർ</figDesc>
+          </figure>
+          <p> പാവം താക്കൂർ എന്തുചെയ്യാനാണു്? നിയമസഭയിൽ ഭൂരിപക്ഷം തെളിയിക്കാൻ അംഗബലമുള്ള
+പാർട്ടിയെ/സഖ്യത്തെ മന്ത്രിസഭയുണ്ടാക്കാൻ ക്ഷണിച്ചേ മതിയാവൂ എന്നു് ബൊമ്മെ കേസിൽ സുപ്രീംകോടതി
+വിധിച്ചിട്ടുണ്ടു്. ആ വിധി മാനിക്കാത്തതിനാണു് ബീഹാർ ഗവർണർ <ref target="https://ml.wikipedia.org/wiki/Buta_Singh">ബൂട്ടാസിംഗി</ref> ന്റെ കസേര
+തെറിച്ചതു്. <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref> യെ
+ക്ഷണിച്ചാൽ <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയഗാന്ധി</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/Sitaram_Yechury">സീതാറാം
+യെച്ചൂരി</ref> യും കോപിക്കും, <ref target="https://ml.wikipedia.org/wiki/U.R._Ananthamurthy">അനന്തമൂർത്തി</ref>
+പരിഭവിക്കും. ക്ഷണിച്ചില്ലെങ്കിൽ സുപ്രീംകോടതി കഴുത്തിനുപിടിക്കും, ആർ. എസ്. എസുകാർ കർണാടകം
+കത്തിക്കും. യെദിയൂരപ്പക്കു് സാങ്കേതികമായി ഭൂരിപക്ഷമുണ്ടു് പക്ഷേ, മന്ത്രിസഭക്കു് അധികനാൾ
+ആയുസ്സുണ്ടാവാനിടയില്ല എന്നൊരു റിപ്പോർട്ടെഴുതി വടക്കോട്ടയച്ചു.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Yechuri.jpg" rendition="gra"/>
+            <figDesc style="thumb">സീതാറാം യെച്ചൂരി</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-ക്കാർ തികച്ചും പ്രകോപിതരായി. പാർലമെന്റ് നടയിൽ ധർണയായി, സുപ്രീംകോടതിയിൽ
+ഹർജിയായി. <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/H._D._Kumaraswamy">കുമാരസ്വാമി</ref> യും
+കൂടി എം. എൽ. എ.-മാരെ വിമാനത്തിൽ ദൽഹിയിലെത്തിച്ചു് രാഷ്ട്രപതിയുടെ മുമ്പാകെ തലയെണ്ണിക്കാണിച്ചു.
+ഗതികെട്ടു് കേന്ദ്രം ബദൽ മന്ത്രിസഭക്കു് അനുമതി നൽകി. ഒക്ടോബർ 12-ാം തീയതിയിലെ ശുഭമുഹൂർത്തത്തിൽ
+<ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">ബി. എസ്.
+യെദിയൂരപ്പ</ref> കർണാടക മുഖ്യനായി സത്യവാചകം ചൊല്ലി.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Buta_Singh.jpg" rendition="gra"/>
+            <figDesc style="thumb">ബൂട്ടാസിംഗ്</figDesc>
+          </figure>
+          <p> യെദിയൂരപ്പയോടൊപ്പം മതേതര ജനതാദളുകാരാരും സത്യപ്രതിജ്ഞ ചെയ്തില്ല. വിശ്വാസവോട്ടിനുശേഷം
+ജെ. ഡി. (എസ്) മന്ത്രിമാർ ചേരും എന്നാണു് <ref target="https://ml.wikipedia.org/wiki/H._D._Kumaraswamy">കുമാരസ്വാമി</ref>
+പറഞ്ഞതു്. ഖനി, നഗരവികസനവകുപ്പുകൾ കിട്ടണമെന്നു് <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref> ശഠിച്ചു.
+സാധ്യമല്ല എന്നു് <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+തീർത്തുപറഞ്ഞു. കുപിതനായ കർഷകൻ പിന്തുണ പിൻവലിച്ചു. അധികാരമേറ്റു് ഏഴാം ദിവസം <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref> യുടെ
+മന്ത്രിസഭ മൂക്കുകുത്തി. നിയമസഭ പിരിച്ചുവിട്ടു. വീണ്ടും ഗവർണർ ഭരണം.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/C_M_Ibrahim.jpg" rendition="gra"/>
+            <figDesc style="thumb">സി. എം. ഇബ്രാഹിം</figDesc>
+          </figure>
+          <p> വെളുക്കാൻ തേച്ചതു് വെള്ളപ്പാണ്ടായി. <ref target="https://en.wikipedia.org/wiki/H._D._Deve_Gowda">ദേവഗൗഡ</ref> യെ
+പാഠംപഠിപ്പിക്കുമെന്നു് ലിംഗായത്തുകാർ പ്രതിജ്ഞയെടുത്തു. <ref target="https://en.wikipedia.org/wiki/M._P._Prakash">എം. പി. പ്രകാശും</ref>
+<ref target="https://en.wikipedia.org/wiki/C._M._Ibrahim">സി. എം.
+ഇബ്രാഹി</ref> മുമൊക്കെ മതേതര ജനതാദൾ വിട്ടു. സഹതാപതരംഗത്തിൽ ബി. ജെ. പി. ജയിച്ചാലോ
+എന്നുപേടിച്ചു് കേന്ദ്രം തെരഞ്ഞെടുപ്പു് നീട്ടിക്കൊണ്ടുപോയി. നിയോജകമണ്ഡല പുനർനിർണയവും വോട്ടർപട്ടിക
+
+പുതുക്കലും പ്രമാണിച്ചു് രാഷ്ട്രപതിഭരണം ആറുമാസം കൂടി നീട്ടണം എന്നു് കോൺഗ്രസ് ആവശ്യപ്പെട്ടെങ്കിലും
+തെരഞ്ഞെടുപ്പു് കമീഷൻ വഴങ്ങിയില്ല. അങ്ങനെ മെയ് മാസത്തിൽ മൂന്നുഘട്ടമായി വോട്ടെടുപ്പു് നിശ്ചയിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Sonia_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">സോണിയഗാന്ധി</figDesc>
+          </figure>
+          <p> തെരഞ്ഞെടുപ്പു് നീട്ടിക്കൊണ്ടുപോകാൻ കോൺഗ്രസ് ശ്രമിച്ചതിന്റെ രഹസ്യം പരസ്യമാണു്.
+രാഷ്ട്രപതിഭരണം നിലനിന്ന ആറുമാസവും അഹിംസാ പാർട്ടിക്കാർ പരസ്പരം പാരപണിയുകയായിരുന്നു. ഒരു
+മുൻകാല സിനിമാനടിയുമായി ബന്ധപ്പെടുത്തി കൃഷ്ണയെ അപകീർത്തിപ്പെടുത്താൻ വരെ ശ്രമം നടന്നു.
+കോൺഗ്രസിനകത്തു് ഏറ്റവും കുറഞ്ഞതു് മൂന്നു ചേരികളെങ്കിലും ഉണ്ടായിരുന്നു—<ref target="https://en.wikipedia.org/wiki/S._M._Krishna">എസ്. എം. കൃഷ്ണ</ref>
+നയിക്കുന്ന പ്രബല വിഭാഗം; <ref target="https://en.wikipedia.org/wiki/Dharam_Singh">ധരംസിംഗ്</ref>,
+ജാഫർശരീഫ്, <ref target="https://en.wikipedia.org/wiki/Mallikarjun_Kharge">മല്ലികാർജുന
+ഖാർഗെ</ref> എന്നിവരുൾപ്പെട്ട വിരുദ്ധ വിഭാഗം; <ref target="https://en.wikipedia.org/wiki/M._P._Prakash">എം. പി. പ്രകാശ്</ref>,
+<ref target="https://en.wikipedia.org/wiki/Siddaramaiah">സിദ്ധരാമയ്യ</ref>
+മുതലായ മുൻ ജനതാദൾകാർ. ഇതിനൊക്കെ പുറമെ ദൽഹിയിൽനിന്നു് നേരിട്ടു് അവതരിക്കുന്ന <ref target="https://en.wikipedia.org/wiki/Oscar_Fernandes">ഓസ്കാർ
+ഫെർണാണ്ടസ്</ref>, <ref target="https://en.wikipedia.org/wiki/Margaret_Alva">മാർഗരറ്റ് ആൽവ</ref>
+തുടങ്ങിയ മൂടില്ലാത്താളികൾ…
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Margaret_Alva.jpg" rendition="gra"/>
+            <figDesc style="thumb">മാർഗരറ്റ് ആൽവ</figDesc>
+          </figure>
+          <p> കോൺഗ്രസിൽ സീറ്റുവിഭജനവും സ്ഥാനാർഥിനിർണയവും കീറാമുട്ടിയായി. ഓരോ നേതാവും
+ബന്ധുക്കൾക്കും പാർശ്വവർത്തികൾക്കും വേണ്ടി വിലപേശി. ഒരു ഘട്ടത്തിൽ ജാഫർ ശരീഫ് പാർട്ടിയിൽ നിന്നു്
+കിട്ടിയ ‘ഉറപ്പു’കളുടെ അടിസ്ഥാനത്തിൽ രാജി പിൻവലിച്ചു. ഓരോ മണ്ഡലത്തിലും രണ്ടും മൂന്നും റെബലുകൾ
+പ്രത്യക്ഷപ്പെട്ടു. കുറേപ്പേരെയൊക്കെ പിൻവലിപ്പിച്ചു. ബാക്കിയുള്ളവർ മൽസരരംഗത്തു് തുടർന്നു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Mallikarjun_Kharge.jpg" rendition="gra"/>
+            <figDesc style="thumb">മല്ലികാർജുന ഖാർഗെ</figDesc>
+          </figure>
+          <p> കർണാടക ബി. ജെ. പി.-യിൽ പ്രബലമായ രണ്ടു് ഗ്രൂപ്പുകളാണുള്ളതു്. ഒന്നു് <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+യുടേതു്, മറ്റേതു് <ref target="https://en.wikipedia.org/wiki/Ananth_Kumar">അനന്തകുമാറി</ref> ന്റേതു്.
+മുഖ്യമന്ത്രി സ്ഥാനാർഥി <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+യാണെന്നു് പാർട്ടി മുമ്പേ തീരുമാനിച്ചിരുന്നു. അനന്തകുമാറിനെ <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാനി</ref> തന്നെ
+പറഞ്ഞു് അനുനയിപ്പിച്ചു. സ്ഥാനാർഥി നിർണയത്തിലെ പരാതികൾ പറഞ്ഞു തീർത്തു, റെബലുകളെ
+ചതുരുപായങ്ങളും പയറ്റി പിൻവലിപ്പിച്ചു.
+</p>
+          <p>ലിംഗായത്ത് കാർഡ് <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+അതിവിദഗ്ദ്ധമായി പ്രയോഗിച്ചു. ബി. ജെ. പി.-യാണു് ലിംഗായത്തുകൾക്കു് ഏറ്റവുമധികം ടിക്കറ്റ് നൽകിയതു്.
+യെദിയൂരപ്പക്കെതിരെ മുൻ മുഖ്യമന്ത്രി <ref target="https://ml.wikipedia.org/wiki/S._Bagarappa">ബംഗാരപ്പ</ref>
+പൊതുസ്ഥാനാർഥിയായി വന്നതും ഗുണം ചെയ്തു. ഒരു ലിംഗായത്തുകാരൻ മുഖ്യമന്ത്രിയാകാതിരിക്കാൻ ഇതര
+സമുദായക്കാർ ഒന്നടങ്കം പ്രവർത്തിക്കുന്നു എന്ന ധ്വനി വന്നു. ഷിക്കാരിപ്പുരയിൽ ബംഗാരപ്പ ജയിച്ചില്ല.
+സംസ്ഥാനത്തെമ്പാടും ലിംഗായത്തു് വോട്ടുകൾ ബി. ജെ. പി.-ക്കു് കിട്ടുകയും ചെയ്തു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Oscar_Fernandes.jpg" rendition="gra"/>
+            <figDesc style="thumb">ഓക്സാർ ഫെർണാണ്ടസ്</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-യുടെ പ്രചാരണയന്ത്രം അക്ഷീണം പ്രവർത്തിച്ചു. ആളിനും അർഥത്തിനും ക്ഷാമമുണ്ടായില്ല.
+വിജയം മുന്നിൽകണ്ടു് വ്യവസായികൾ ഉദാരമായി സംഭാവന കൊടുത്തു. ഖനിയുടമകളും റിയൽ എസ്റ്റേറ്റ്
+രാജാക്കന്മാരും അതേ പാത പിന്തുടർന്നു.
+</p>
+          <p>ബി. ജെ. പി.-ക്കു് പ്രചാരണത്തിനായി <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">അദ്വാനി</ref> യും
+<ref target="https://ml.wikipedia.org/wiki/Narendra_Modi">നരേന്ദ്രമോഡി</ref>
+യുമടക്കമുള്ള നേതാക്കൾ വന്നു. കർണാടകത്തെ ഗുജറാത്താക്കും എന്നു് പ്രഖ്യാപിച്ചു. ഗുജറാത്തു് മോഡൽ
+വികസനം എന്ന ആശയം നഗരവോട്ടർമാരെ സ്വാധീനിച്ചുവെന്നു് തെരഞ്ഞെടുപ്പു് ഫലം തെളിയിച്ചു.
+വിലക്കയറ്റവും വിഷമദ്യദുരന്തവും ബി. ജെ. പി.-ക്കു് ഗുണകരമായി.
+</p>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/Rahul_Gandhi.jpg" rendition="gra"/>
+            <figDesc style="thumb">രാഹുൽഗാന്ധി</figDesc>
+          </figure>
+          <p> കോൺഗ്രസിനുവേണ്ടി <ref target="https://ml.wikipedia.org/wiki/Sonia_Gandhi">സോണിയഗാന്ധി</ref>
+പ്രചാരനത്തിനെത്തി. <ref target="https://ml.wikipedia.org/wiki/Rahul_Gandhi">രാഹുൽഗാന്ധി</ref> പതിവു്
+ശൈലിയിൽ റോഡ്ഷോ സംഘടിപ്പിച്ചു. യു. പി.-യിലും ഗുജറാത്തിലും ഉണ്ടായ അതേ റിസൽട്ട് കർണാടകയിൽ
+ആവർത്തിച്ചു.
+</p>
+          <p>ജയ്പൂർ സ്ഫോടനപരമ്പര രണ്ടും മൂന്നും ഘട്ടങ്ങളിലെ വോട്ടെടുപ്പിനെ സ്വാധീനിച്ചു. ബാംഗ്ലൂരിലെ സയൻസ്
+ഇൻസ്റ്റിറ്റ്യൂട്ടിനുനേരെ നടന്ന ആക്രമണശ്രമം പൊടുന്നനെ ഓർമിപ്പിക്കപ്പെട്ടു. തീവ്രവാദി ഭീഷണിയെ ചെറുക്കാൻ
+ബി. ജെ. പി.-യല്ലാതെ ആരുണ്ടു്?
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/V_S_Achuthanandan.jpg" rendition="gra"/>
+            <figDesc style="thumb">വി. എസ്.</figDesc>
+          </figure>
+          <p> മേൽപറഞ്ഞവക്കൊപ്പം <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref> യുടെ
+വ്യക്തിപ്രാഭവം ബി. ജെ. പി.-ക്കു് തുണയായി. കോൺഗ്രസിനു് മുൻതൂക്കം പ്രവചിച്ച ദ വീക്കും സി. എൻ. എൻ.
+ചാനലുംവരെ, മുഖ്യമന്ത്രി സ്ഥാനത്തേക്കു് <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref> ക്കു്
+കൂടുതൽ ജനപിന്തുണയുണ്ടെന്നാണു് വിലയിരുത്തിയതു്. കഴിഞ്ഞ തെരഞ്ഞെടുപ്പിൽ ഇവിടെ കണ്ട <ref target="https://ml.wikipedia.org/wiki/V.S._Achuthanandan">വി. എസ്.</ref>
+പ്രാഭവം പോലൊന്നു് കർണാടകത്തിൽ പ്രത്യക്ഷമായി. സംസ്ഥാനത്തിന്റെ സകല പ്രശ്നങ്ങൾക്കുമുള്ള ഒറ്റമൂലി
+
+<ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+മാത്രം!
+</p>
+          <p>അചഞ്ചലമായ ആത്മവിശ്വാസത്തോടെയാണു് <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref>
+തെരഞ്ഞെടുപ്പിനെ നേരിട്ടതു്. ശുക്രൻ ഏഴിലും വ്യാഴം പതിനൊന്നിലും നിൽക്കുകയാൽ ജയം ഉറപ്പാണെന്നു്
+യെദിയൂരപ്പയെ ജ്യോതിഷികൾ പറഞ്ഞു് ബോധ്യപ്പെടുത്തിയിരുന്നു. സംഖ്യാശാസ്ത്രമനുസരിച്ചു് പേരു് <ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദ്യൂരപ്പ</ref>
+എന്നാക്കി മാറ്റുകയും ചെയ്തു. പിന്നെ ആരെ, എന്തിനെ പേടിക്കാൻ? <ref target="https://ml.wikipedia.org/wiki/S._Bagarappa">ബംഗാരപ്പ</ref>
+ഷിക്കാരിപ്പുരയിൽ കാടിളക്കി പ്രചാരണം ആരംഭിച്ചപ്പോൾ പാർട്ടി ഉപദേശിച്ചതാണു് മൂന്നാംഘട്ടത്തിൽ
+പോളിംഗ് നടക്കുന്ന വടക്കൻ ജില്ലകളിലെവിടെയെങ്കിലും ഒരു മണ്ഡലത്തിൽ കൂടി നോമിനേഷൻ കൊടുക്കാൻ.
+യെദിയൂരപ്പ അതു് വിനയപൂർവം നിരസിച്ചു. ഷിക്കാരിപുരക്കാർക്കു് വേണ്ടെങ്കിൽ, കർണാടക മുഖ്യമന്ത്രി ആകണ്ട.
+</p>
+          <p>കോൺഗ്രസിനു് ഈ ഇനത്തിൽപ്പെട്ട ഒരൊറ്റ നേതാവു് ഉണ്ടായിരുന്നില്ല. കൃഷ്ണപോലും യെദ്യൂരപ്പക്കുമുന്നിൽ
+നിഷ്രഭനായി. അതേസമയത്തു് കോൺഗ്രസിൽ സ്ഥാനമോഹികൾക്കു് ഒരു കുറവും ഉണ്ടായിരുന്നില്ല.
+മൽസരിച്ചവരും മൽസരിക്കാത്തവരുമായി ആറുപേരെങ്കിലും ഉണ്ടായിരുന്നു മുഖ്യമന്ത്രിപദ മോഹികൾ.
+</p>
+          <p>മതേതര ജനതാദളിന്റെ അപചയമാണു് ഈ തെരഞ്ഞെടുപ്പിലെ ഏറ്റവും വലിയ സവിശേഷത. ബി. ജെ.
+പി.-യുമായി കൂട്ടുകൂടിയതോടെ പാർട്ടിയുടെ മതേതര പ്രതിച്ഛായക്കു് മങ്ങലേറ്റു. ന്യൂനപക്ഷ സമുദായങ്ങൾ
+കോൺഗ്രസിലേക്കു് നീങ്ങി. യെദിയൂരപ്പയെ വഞ്ചിച്ചുവെന്നാരോപിച്ചു് ലിംഗായത്തുകൾ ബി. ജെ. പി.-യിലേക്കും
+പോയി. <ref target="https://en.wikipedia.org/wiki/Siddaramaiah">സിദ്ധരാമയ്യ</ref>, <ref target="https://en.wikipedia.org/wiki/Jyotiraditya_Scindia">സിന്ധ്യ</ref>,
+<ref target="https://en.wikipedia.org/wiki/M._P._Prakash">പ്രകാശ്</ref>, <ref target="https://en.wikipedia.org/wiki/C._M._Ibrahim">ഇബ്രാഹിം</ref>
+എന്നിങ്ങനെയുള്ള മുതിർന്ന നേതാക്കളൊക്കെ പലപ്പോഴായി പാർട്ടി വിട്ടുപോയി. ഒടുവിൽ ഗൗഡ ആന്റ്
+സൺസ് എന്ന സ്വകാര്യ സംരംഭമായി പാർട്ടി അധഃപതിച്ചു. പഴയ മൈസൂർ സംസ്ഥാനത്തെ
+വൊക്കലിംഗക്കാർക്കിടയിൽ മാത്രം പാർട്ടിയുടെ സ്വാധീനം അവശേഷിച്ചു.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Jyotiraditya_Scindia.jpg" rendition="gra"/>
+            <figDesc style="thumb">സിന്ധ്യ</figDesc>
+          </figure>
+          <p> ബി. ജെ. പി.-യുടെ അംഗബലം 79-ൽനിന്നു് 110-ലേക്കും കോൺഗ്രസിന്റേതു് 65-ൽനിന്നു് 80-ലേക്കും
+ഉയർന്നപ്പോൾ മതേതര ജനതാദളിന്റേതു് 58-ൽ നിന്നു് 28-ലേക്കു് നിപതിച്ചു. ആർക്കും ഭൂരിപക്ഷമില്ലാത്ത
+അവസ്ഥയിൽ കോൺഗ്രസിനും ബി. ജെ. പി.-ക്കുമിടക്കുനിന്നു് വിലപേശാം എന്ന പദ്ധതി നടപ്പായില്ല.
+കർഷകനിപ്പോൾ കണ്ടകശ്ശനിയുടെ അപഹാരകാലമാണു്.
+</p>
+          <p>അങ്ങനെ കർണാടകത്തിൽ താമര വിരിഞ്ഞു. തെക്കേ ഇന്ത്യയിൽ പാർട്ടിക്കു് അഭിമാനകരമായ ആദ്യ
+വിജയം. തെലുങ്കാന സംസ്ഥാനവാദത്തെ പിന്തുണച്ചുകൊണ്ട് ആന്ധ്രയിലായിരിക്കും അടുത്ത പരിശ്രമം.
+നിലവിൽ കോൺഗ്രസും തെലുഗുപ്രദേശവും പ്രത്യേക സംസ്ഥാനത്തിനെതിരാണു്. തെലുങ്കാന രാഷ്ട്രസമിതിയെ
+കൂടാതെ സംസ്ഥാന വിഭജനത്തിനായി വാദിക്കുന്നതു് ബി. ജെ. പി. മാത്രം. ഇതേ തന്ത്രം പ്രയോഗിച്ചാണു്
+തെക്കൻ ബീഹാറിൽ ബി. ജെ. പി. പിടിമുറിക്കിയതും ഝാർഖണ്ഡ് രൂപവത്ക്കരിച്ചു് അധികാരം
+കൈക്കലാക്കിയതും.
+</p>
+          <figure rend="fright" type="gra">
+            <graphic url="images/Lkadvani.jpg" rendition="gra"/>
+            <figDesc style="thumb">ലാൽകൃഷ്ണ അദ്വാനി</figDesc>
+          </figure>
+          <p> ദേശീയതലത്തിൽ ബി. ജെ. പി. തിരിച്ചു വരവിന്റെ പാതയിലാണു്. പഞ്ചാബ്, ഉത്തരഖണ്ഡ്, ഗുജറാത്ത്,
+
+ഹിമാചൽ, ഇപ്പോൾ കർണാടക. ഇതിനിടയിൽ ഉത്തർപ്രദേശ് മാത്രം ദുഃസ്വപ്നമായി. അടുത്തവർഷം
+പൊതുതെരഞ്ഞെടുപ്പു് നടക്കാനിരിക്കെ അണികളെ ആവേശഭരിതരാക്കാനും ഘടകകക്ഷികളെ
+ഉറപ്പിച്ചുനിറുത്താനും സാമ്പത്തിക സ്രോതസ്സുകൾ വരണ്ടുപോകാതിരിക്കാനും സഹായകരമായ വിജയം.
+</p>
+          <p><ref target="https://en.wikipedia.org/wiki/B._S._Yediyurappa">യെദിയൂരപ്പ</ref> യുടെ
+ജീവിതാഭിലാഷം നിറവേറുകയാണു്. ഇനി പൂവണിയാനുള്ളതു് <ref target="https://ml.wikipedia.org/wiki/Lal_Krishna_Advani">ലാൽകൃഷ്ണ
+അദ്വാനി</ref> യുടെ സ്വപ്നം.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.1"-->
+        <div type="lsection" xml:id="sec1.2">
+          <head type="lsechead">അഡ്വക്കറ്റ് എ. ജയശങ്കർ</head>
+          <figure rend="fleft" type="gra">
+            <graphic url="images/ajayasankar.jpg" rendition="gra"/>
+          </figure>
+          <p style="noindent">
+</p>
+          <p>അഭിഭാഷകനും രാഷ്ട്രീയ നിരീക്ഷകനും രാഷ്ട്രീയ നിരൂപകനുമാണു് അഡ്വക്കറ്റ് എ. ജയശങ്കർ. മാധ്യമം
+ദിനപത്രത്തിൽ ‘കെ. രാജേശ്വരി’ എന്ന തൂലികാ നാമത്തിൽ എഴുതിയ ലേഖനങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു.
+മലയാളികൾക്കിടയിൽ അദ്ദേഹം കൂടുതൽ പ്രശസ്തി നേടിയതു് ഇന്ത്യാവിഷൻ ചാനലിലെ പ്രതിവാര ദിനപത്ര
+അവലോകന പരിപാടിയായ വാരാന്ത്യം എന്ന പരിപാടിയിലൂടെയാണു്. തനതായ ഒരു അവതരണ
+ശൈലിയാണു് ഈ പരിപാടിയിൽ അദ്ദേഹം പ്രകടമാക്കുന്നതു്. മലയാളത്തിലെ പ്രമുഖ വാർത്താ
+ചാനലുകളിലെല്ലാം രാഷ്ട്രീയ ചർച്ചകളിൽ സ്ഥിരം സാന്നിധ്യമാണു് ഇദ്ദേഹം. കേരള രാഷ്ട്രീയത്തിലെയും ഇന്ത്യൻ
+രാഷ്ട്രീയത്തിലെയും ജയശങ്കറിന്റെ അഗാധമായ അറിവിനൊപ്പം ഹാസ്യവും ഗൗരവവും കലർന്ന അദ്ദേഹത്തിന്റെ
+നിർഭയത്വതോടെയുള്ള അവതരണ രീതിയും ഏറെ ജനപ്രിയമാണു്.
+</p>
+        </div>
+        <!--end of "section 0.0.0.0/1.2"-->
+      </div>
+      <!--end of "chapter 0.0.0/1"-->
+      <!--END OF CHAPTER 0.0.0/1-->
+    </body>
+    <back>
+      <div xml:id="colo">
+        <head type="colophon">Colophon</head>
+        <p style="hang"><hi rend="bold">Title:</hi>  Thennindiayile Thamara (ml:
+തെന്നിന്ത്യയിലെ താമര).</p>
+        <p style="hang"><hi rend="bold">Author(s):</hi>  K. Rajeswari.</p>
+        <p style="hang"><hi rend="bold">First publication details:</hi>  Not available; ;
+</p>
+        <p style="hang"><hi rend="bold">Deafult language:</hi>  ml, Malayalam.</p>
+        <p style="hang"><hi rend="bold">Keywords:</hi>  Article, K. Rajeswari,
+Thennindiayile Thamara, കെ. രാജേശ്വരി, തെന്നിന്ത്യയിലെ താമര, Open Access Publishing,
+Malayalam, Sayahna Foundation, Free Software, XML.</p>
+        <p style="hang"><hi rend="bold">Digital Publisher:</hi>  Sayahna
+Foundation; JWRA 34, Jagthy; Trivandrum 695014; India.</p>
+        <p style="hang"><hi rend="bold">Date:</hi>  September 28, 2025.</p>
+        <p style="hang"><hi rend="bold">Credits:</hi>  The text of the original item is
+copyrighted to the author. The text encoding and editorial notes were created and​/or
+prepared by the Sayahna Foundation and are licensed under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution By NonCommercial ShareAlike 4​.0 International License</ref>  (CC
+BY-NC-SA 4​.0). Commercial use of the content is prohibited. Any reuse of the material should
+credit the Sayahna Foundation and must be shared under the same terms.</p>
+        <p style="hang"><hi rend="bold">Cover:</hi>  <ref target="https://commons.wikimedia.org/wiki/File:L%27atelier_de_Corot.png">The
+Artist’s Studio: Young woman seated in front of an easel,</ref> a painting by <ref target="https://en.wikipedia.org/wiki/en:Jean-Baptiste-Camille_Corot">JeanBaptiste Camille Corot</ref>  (1796–1875). The image is taken from <ref target="https://commons.wikimedia.org">Wikimedia Commons</ref>  and is
+gratefully acknowledged.</p>
+        <p style="hang"><hi rend="bold">Production history:</hi>  <hi rend="bold">Typesetter:</hi>  JN Jamuna; <hi rend="bold">Editor:</hi>
+ PK Ashok; <hi rend="bold">Encoding:</hi>  JN Jamuna.</p>
+        <p xml:id="less" n="1"><hi rend="bold">Production notes:</hi>   The entire
+document processing has been done in a computer running GNU/Linux operating system and
+TeX and friends. The PDF has been generated using XeLaTeX from TeXLive distribution 2021
+using <ref target="https://ithal.io">Ithal (ഇതൾ)</ref>, an online framework for
+text formatting. The <ref target="https://tei-c.org">TEI</ref>  (P5) encoded
+XML has been generated from the same LaTeX sources using <ref target="https://luatex.org">LuaLaTeX</ref>. HTML version has been generated from
+XML using XSLT stylesheet (sfn-tei-html.xsl) developed by <ref target="http://cvr.cc">CV Radhakrkishnan</ref>.</p>
+        <p style="hang"><hi rend="bold">Fonts:</hi>  The basefont used in PDF and
+HTML versions is <ref target="https://rachana.org.in">RIT Rachana</ref>
+ authored by KH Hussain, et al., and maintained by the <ref target="https://rachana.org.in">Rachana Institute of Typography</ref>. The font
+used for Latin script is <ref target="http://libertine-fonts.org/">Linux
+Libertine</ref>  developed by <ref target="https://en.wikipedia.org/wiki/Linux_Libertine">Phillip Poll</ref>.</p>
+        <p style="hang"><hi rend="bold">Web site:</hi>  Maintained by <ref target="https://rajeeshknambiar.wordpress.com">KV Rajeesh</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/xml/rajeswari-thennindia.xml">Download
+document sources in TEI encoded XML format</ref>.</p>
+        <p style="hang"><ref target="https://books.sayahna.org/ml/pdf/rajeswari-thennindia.pdf">Download
+Phone PDF</ref>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>
