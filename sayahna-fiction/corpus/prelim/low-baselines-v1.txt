@@ -1,0 +1,129 @@
+============================================================================
+LOW BASELINES — what survives when the shortcuts are removed
+============================================================================
+
+corpus: 114 works, 12 authors, 448,453 words
+works per author: min 5, median 8, max 19
+chance level (macro-F1 of random guessing) ≈ 0.083
+
+Whole works are held out in every run, so there is no chunk leakage.
+The question here is different: WHICH SIGNAL is the model using?
+
+============================================================================
+0. SANITY CHECKS
+============================================================================
+  labels shuffled (run 1)                      5-fold  macro-F1=0.033  acc=0.044  
+  labels shuffled (run 2)                      5-fold  macro-F1=0.072  acc=0.096  
+  labels shuffled (run 3)                      5-fold  macro-F1=0.114  acc=0.149  
+  -> permutation mean macro-F1 = 0.073   chance = 0.083
+     Should be near chance. Somewhat above is normal when documents form
+     strong clusters. Far above (say >2x chance) means the pipeline leaks.
+
+============================================================================
+1. REFERENCE — what your current baselines.txt reports
+============================================================================
+  char 3-5 gram, full text                     5-fold  macro-F1=0.963  acc=0.974  
+  char 3-5 gram, capped at 8 works/author      5-fold  macro-F1=0.974  acc=0.978  removes the big-author advantage
+
+============================================================================
+2. REMOVE NAMED ENTITIES AND PRIVATE VOCABULARY
+============================================================================
+  masked 133,446 of 153,977 token types (87%) that only ever appear in one author
+  single-author tokens masked                  5-fold  macro-F1=0.927  acc=0.956  
+  -> DROP 0.963 -> 0.927  (-0.036)
+     A large drop means the score was mostly names and private topics.
+
+  masked 146,875 token types occurring in fewer than 5 documents
+  rare tokens (df<5) masked                    5-fold  macro-F1=0.962  acc=0.974  
+
+============================================================================
+3. CONTENT-FREE STYLOMETRY — only the commonest words survive
+============================================================================
+  Malayalam has no standard stopword list, so corpus frequency stands in.
+  top-100 tokens only (rest masked)            5-fold  macro-F1=0.780  acc=0.825  vocab=100
+  top-300 tokens only (rest masked)            5-fold  macro-F1=0.867  acc=0.904  vocab=300
+  -> 0.867 against 0.963 on full text. If this stays high,
+     the signal is genuinely stylistic rather than topical.
+  top-1000 tokens only (rest masked)           5-fold  macro-F1=0.914  acc=0.947  vocab=1000
+
+============================================================================
+4. DESTROY WORD ORDER — keep vocabulary, lose syntax and phrasing
+============================================================================
+  words shuffled within each work              5-fold  macro-F1=0.963  acc=0.974  
+  -> 0.963 -> 0.963  (+0.000)
+     Little change means the model never used word order or phrasing —
+     it is a bag-of-words topic model wearing a stylometry costume.
+
+============================================================================
+5. HOW MUCH TEXT DOES IT ACTUALLY NEED?
+============================================================================
+  first 100 words only                         5-fold  macro-F1=0.397  acc=0.535  
+  first 250 words only                         5-fold  macro-F1=0.656  acc=0.737  
+  first 500 words only                         5-fold  macro-F1=0.767  acc=0.842  
+  first 1000 words only                        5-fold  macro-F1=0.916  acc=0.930  
+  first 2000 words only                        5-fold  macro-F1=0.957  acc=0.965  
+
+============================================================================
+6. COMBINED — balanced, entity-masked, length-equalised
+============================================================================
+  This is the closest thing here to an honest difficulty estimate.
+  capped 8/author + masked + first 500 words   5-fold  macro-F1=0.752  acc=0.775  
+
+  HEADLINE  0.963
+  HONEST    0.752
+  GAP       -0.211
+  chance    0.083
+
+============================================================================
+7. WHAT IS THE MODEL LOOKING AT?
+============================================================================
+
+Provenance cross-check — does a non-author variable track the author?
+  author x digital_edition_year     Cramer's V = 0.60   
+  author x source_pub_year          Cramer's V = 0.52   
+  author x licence_url              Cramer's V = 1.00   <<< tracks the author; a model can use this instead of style
+  author x encoded_by               Cramer's V = 0.54   
+  author x typeset_by               Cramer's V = 0.44   
+
+Top discriminative WORDS per author (word-level linear SVM)
+Read these yourself. Names and topic nouns mean topic classification;
+particles, suffixes and function words mean style.
+
+  Aymanam John
+      ആശങ  ഖരങ  പള  കൾപ  ഉപഭ  മടങ  ഭയന  ഏറ  ൻഡ  കങ  ചകൾ  ചൻ
+  Bineesh Pilasseri
+      1986  ulccs  ൾപഠന  വയന  ഗലത  ഖലയ  കമണ  ചള  ഫറ  യച  വതന  കണക
+  C. Santhosh Kumar
+      ഓഡ  ഡസന  ഓല  ഒൻപത  വയൽക  2012  പൻ  ഓടപ  തമയത  വർഷ  വനത  യർക
+  E. Harikumar
+      കൽക  ഷമമ  ഒപ  1943  അജയ  72  1962  1983  13  ഭവക  ഒമ  മൾട
+  K. Sukumaran
+      പറവ  മൻന  ഈശ  ലവണ  ഗർഭമ  വരൻ  വരന  കളവ  ദഹസ  അഴക  അവസരത  ഉപക
+  K. T. Baburaj
+      ശലഭ  വളപട  മഴനനഞ  2019  2020  ർഡ  the  2014  2003  ammu  രജതജ  1992
+  Paul Zacharia
+      ഡൽഹ  ർഥ  സഫ  ർട  ഷഡ  രശസ  ർണമ  ബർ  1959  ലവക  കയർ  ഗല
+  S. V. Venugopan Nair
+      ലഗ  കഥകളത  ഇടവത  അർഹമ  പകന  രമജ  എസ  രബന  അഡ  പൻ  ഴവ  ൻകര
+  Sabu Hariharan
+      ഹരൻ  സയൻസ  വർഷങ  ൻവശത  അവന  രളഭ  ഉടൽദ  ഓണപ  1972  ഹര  വദ  വനന
+  T. A. Rajalakshmi
+      ജലക  1965  1960  വൽ  18  ആഴ  ഏഴ  കശ  ഇള  സരസ  ഴല  1930
+  V. K. K. Ramesh
+      1969  മദത  ആർട  ടകങ  അഫ  രവധ  നകത  ഈസ  2018  അതങ  എൻ  മലയ
+  Vallathol Vasudevamenon B. A.
+      ലകഷ  റപകടത  1968  1916  നകഥയ  ളവണ  മർശന  യധ  ഷയങ  ശവൻ  ഇദ  ലധ
+
+============================================================================
+HOW TO READ THIS
+============================================================================
+  Sections 2 and 4 are the important ones.
+  If masking single-author tokens barely moves the score, and shuffling
+  word order barely moves it either, then the model is doing topic
+  classification and the honest number is the one in section 6.
+  If the score survives both, you have real stylistic signal and that
+  is a result worth writing up.
+
+  Report section 1 AND section 6 in any paper. Reporting only section 1
+  is what the existing Indic AA literature does, and it is why its
+  numbers are not comparable to anything.

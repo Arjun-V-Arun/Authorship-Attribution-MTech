@@ -1,0 +1,150 @@
+============================================================================
+LOW BASELINES — what survives when the shortcuts are removed
+============================================================================
+
+text version: corpus/texts_strict
+corpus: 607 works, 17 authors
+works per author: min 4, median 12, max 145
+chance level (macro-F1 of random guessing) ≈ 0.059
+
+Whole works are held out in every run, so there is no chunk leakage.
+The question here is different: WHICH SIGNAL is the model using?
+
+============================================================================
+0. SANITY CHECKS
+============================================================================
+  labels shuffled (run 1)                      4-fold  macro-F1=0.060  acc=0.178  
+  labels shuffled (run 2)                      4-fold  macro-F1=0.055  acc=0.170  
+  labels shuffled (run 3)                      4-fold  macro-F1=0.045  acc=0.145  
+  -> permutation mean macro-F1 = 0.053   chance = 0.059
+     Should be near chance. Somewhat above is normal when documents form
+     strong clusters. Far above (say >2x chance) means the pipeline leaks.
+
+============================================================================
+1. REFERENCE — what your current baselines.txt reports
+============================================================================
+  char 3-5 gram, full text                     4-fold  macro-F1=0.945  acc=0.984  
+  char 3-5 gram, capped at 8 works/author      4-fold  macro-F1=0.875  acc=0.902  removes the big-author advantage
+
+============================================================================
+2. REMOVE NAMED ENTITIES AND PRIVATE VOCABULARY
+============================================================================
+  masked 220,885 of 257,497 token types (86%) that only ever appear in one author
+  those types are 40.0% of all running text — the number that matters,
+  since most type inventory is hapax and carries little of the text
+  single-author tokens masked                  4-fold  macro-F1=0.915  acc=0.972  
+  -> DROP 0.945 -> 0.915  (-0.029)
+     A large drop means the score was mostly names and private topics.
+
+  masked 244,287 token types occurring in fewer than 5 documents
+  rare tokens (df<5) masked                    4-fold  macro-F1=0.954  acc=0.985  
+
+============================================================================
+3. CONTENT-FREE STYLOMETRY — only the commonest words survive
+============================================================================
+  Malayalam has no standard stopword list, so corpus frequency stands in.
+  top-100 tokens only (rest masked)            4-fold  macro-F1=0.773  acc=0.868  vocab=100
+  top-300 tokens only (rest masked)            4-fold  macro-F1=0.891  acc=0.949  vocab=300
+  -> 0.891 against 0.945 on full text. If this stays high,
+     the signal is genuinely stylistic rather than topical.
+  top-1000 tokens only (rest masked)           4-fold  macro-F1=0.943  acc=0.979  vocab=1000
+
+============================================================================
+4. DESTROY WORD ORDER — keep vocabulary, lose syntax and phrasing
+============================================================================
+  NOTE: char_wb n-grams never cross a word boundary, so shuffling words
+  cannot change them — that comparison is vacuous. This run therefore uses
+  analyzer='char', which DOES span boundaries and so can see phrasing.
+
+  char (spans boundaries), intact              4-fold  macro-F1=0.930  acc=0.984  
+  char (spans boundaries), shuffled            4-fold  macro-F1=0.911  acc=0.982  
+  -> 0.930 -> 0.911  (-0.019)
+     A small drop means cross-word phrasing carries little of the signal;
+     the model is working from within-word evidence (morphology, spelling).
+
+  char_wb (within words only), intact          4-fold  macro-F1=0.945  acc=0.984  
+  -> within-word only 0.945 vs boundary-spanning 0.930: +0.015
+
+============================================================================
+5. HOW MUCH TEXT DOES IT ACTUALLY NEED?
+============================================================================
+  first 100 words only                         4-fold  macro-F1=0.578  acc=0.848  
+  first 250 words only                         4-fold  macro-F1=0.749  acc=0.936  
+  first 500 words only                         4-fold  macro-F1=0.804  acc=0.959  
+  first 1000 words only                        4-fold  macro-F1=0.877  acc=0.975  
+  first 2000 words only                        4-fold  macro-F1=0.933  acc=0.984  
+
+============================================================================
+6. COMBINED — balanced, entity-masked, length-equalised
+============================================================================
+  This is the closest thing here to an honest difficulty estimate.
+  capped 8/author + masked + first 500 words   4-fold  macro-F1=0.776  acc=0.797  
+
+  HEADLINE  0.945
+  HONEST    0.776
+  GAP       -0.169
+  chance    0.059
+
+============================================================================
+7. WHAT IS THE MODEL LOOKING AT?
+============================================================================
+
+Provenance cross-check — does a non-author variable track the author?
+  author x digital_edition_year     Cramer's V = 0.58   
+  author x source_pub_year          Cramer's V = 0.40   
+  author x licence_url              Cramer's V = 0.83   <<< tracks the author; a model can use this instead of style
+  author x encoded_by               Cramer's V = 0.52   
+  author x typeset_by               Cramer's V = 0.39   
+
+Top discriminative WORDS per author (word-level linear SVM)
+Read these yourself. Names and topic nouns mean topic classification;
+particles, suffixes and function words mean style.
+
+  CJ Thomas
+      തോമസിന്റെ  ലഘു  ശ്രീ.  പക്ഷേ,  എങ്കിലും,  ജെ  സി  ജീവചരിത്രക്കുറിപ്പു്.  ജീവചരിത്രം  ജെ.  അതു  1951.
+  K. Rajeswari
+      കെ.  പി.  കോൺഗ്രസ്  യും  സി.  എസ്.  പാർട്ടി  ടി.  ആന്റണി  വി.  ഡി.  യുടെ
+  K. T. Baburaj
+      നിഷ,  വൈഷ്ണവ്,  നിന്നും  നന്ദന  മക്കൾ:  ഭാര്യ:  ഇടയ്ക്കിടെ  പതുക്കെ  ഇത്തിരി  അല്ലേലും  നീട്ടി  ഒച്ച
+  KGS
+      ഫാദർ  നെരൂദ  ചരിത്രവും  നിറഞ്ഞതു്.  കാലത്തു്.  ദർശനവും  വളരുന്ന  മതിലിൽ  നെരൂദയുടെ  സദാ  നാൾ  ന്റെയും
+  Kesari Balakrishna Pillai
+      പ്രസ്തുത  നിമിത്തം  മുകളിൽ  മുഖേന  ഇന്നത്തെ  ഇവർ  ചുവടെ  പ്രസിദ്ധ  അഥവാ,  ശേഷിച്ച  എന്നീ  പ്രാചീന
+  Kuttipuzha Krishnapilla
+      പരീക്ഷ,  1-8-1900  ഊരുമനയ്ക്കൽ  മാതാവു്:  കുറുങ്ങാട്ടു്  വിദ്യാഭ്യാസം:  പിതാവു്:  ദേവകി  ശങ്കരൻ  നമ്പൂതിരി  ജനനം:  വിദ്വാൻ
+  M. N. Karassery
+      ബഷീർ  ബഷീറിന്റെ  ആ  മുഹമ്മദ്  തുടങ്ങിയ  വർത്തമാനം  മട്ടിൽ  പ്രധാനപ്പെട്ട  എന്നു്  തമാശ  പിന്നെ,  സ്വന്തം
+  Madhusudhanan
+      സിനിമ  സിനിമയുടെ  സമകാലീന  സിനിമയിൽ  മ്യൂസിയം  അയാൾ  ബിയനാലെയിൽ  ‘മാർക്സ്  വരച്ച  നിന്നും  കലയിൽ  സമകാലീനകലയിൽ
+  Nissar Ahmed
+      ഉദാഹരണത്തിനു്,  അർത്ഥത്തിൽ  സാമൂഹിക  സാമൂഹികമായി  സംകല്പം  ഭൗതികമായ  അതായതു്  വിഭവങ്ങൾ  സാമൂഹികമായ  പക്ഷേ  ആധുനിക  നീതി
+  Padmadas
+      അക്കിത്തം  കവിതയിൽ  അക്കിത്തത്തിന്റെ  കവിതയിലെ  കവിയുടെ  കവി,  കവി  കവിതയുടെ  ഇടശ്ശേരി  കവിതയിൽ.  കുടുംബം  കവിതയിൽ,
+  Sanjayan
+      സഞ്ജയന്റെ  ലഘുജീവചരിത്രം  നിങ്ങൾ  എനി  ഞങ്ങൾ  മിസ്റ്റർ  നിങ്ങളുടെ  ചെയ്വാൻ  മി.  മേപ്പടി  ഒടുക്കം  ഇടയിൽ
+  Sundar
+      രോഗികളെ  മെന്റൽ  രോഗികളുടെ  ചികിത്സ  രോഗികൾക്കു്  രോഗികൾ  ആശുപത്രികൾ  സൈക്യാട്രിക്  രോഗിയുടെ  ഗിരിജ  23,  1953,
+  T. A. Rajalakshmi
+      മരണം:  1930  18,  1965  2,  അവൾ  “ഞാൻ  മുമ്പിൽ  ഒന്നും  ജൂൺ  മിണ്ടിയില്ല.  ജനുവരി
+  V. K. K. Ramesh
+      ബ്രഹ്മദത്തൻ,  നിരഞ്ജന  ജ്യോതി  മക്കൾ:  ഭാര്യ:  അക്കാലം,  അതങ്ങനെ  ചുമ്മാ  അന്നേരം,  മുത്തച്ഛൻ  മുന്നിൽ  ശരിക്കും
+  V. V. Govindannair
+      രാമൻ  എന്നോ  ഭഗവാൻ  അതുകൊണ്ടു്,  അപ്പോൾ,  ലേഖകൻ  എന്നല്ലാതെ  നിലപാടു്.  ശ്രീ  നാരായണഗുരു  എന്തുകൊണ്ടു്  സൂചന.
+  Vallathol Vasudevamenon B. A.
+      അത്ര  അല്പം  സ്വാഭാവികമായി  അദ്ദേഹത്തിന്നു  ഇടയ്ക്കു  ആയാൾ  തന്റെ  അതുകൊണ്ടു്,  പോലെ  കൊണ്ടു  എന്നാൽ  ചെയ്യുന്നു.
+  Zacharia
+      പറഞ്ഞു,  യേശു  ഞാനൊരു  ഹോസെ  അമേരിക്കയുടെ  നീ  രാജേഷ്  സ്പാനിഷ്  അമേരിക്കൻ  കമൽ  യേശുവിന്റെ  ഡൽഹിയിൽ
+
+============================================================================
+HOW TO READ THIS
+============================================================================
+  Sections 2 and 4 are the important ones.
+  If masking single-author tokens barely moves the score, and shuffling
+  word order barely moves it either, then the model is doing topic
+  classification and the honest number is the one in section 6.
+  If the score survives both, you have real stylistic signal and that
+  is a result worth writing up.
+
+  Report section 1 AND section 6 in any paper. Reporting only section 1
+  is what the existing Indic AA literature does, and it is why its
+  numbers are not comparable to anything.
