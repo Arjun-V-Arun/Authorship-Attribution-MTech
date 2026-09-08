@@ -1,0 +1,48 @@
+==============================================================================
+MERGE AND CROSS-GENRE ATTRIBUTION
+==============================================================================
+text version: corpus/texts_strict
+
+  .\sayahna-fiction: 123 works from corpus/texts_strict
+  .\sayahna-essays: 605 works from corpus/texts_strict
+
+merged: 728 works -> 673 after dedup (55 same work_id, 0 same content)
+genres: nonfiction=566, fiction=96, drop=11
+
+------------------------------------------------------------------------------
+AUTHORS BY GENRE
+------------------------------------------------------------------------------
+genre                          fiction  nonfiction
+author                                            
+Kuttipuzha Krishnapilla              0         144
+M. N. Karassery                      0         125
+K. Rajeswari                         0          92
+CJ Thomas                            0          64
+Kesari Balakrishna Pillai            0          46
+Sanjayan                             0          29
+Madhusudhanan                        0          18
+Vallathol Vasudevamenon B. A.        7          12
+Nissar Ahmed                         0           7
+Sundar                               0           7
+Padmadas                             0           6
+V. V. Govindannair                   0           5
+KGS                                  0           4
+Paul Zacharia                        3           3
+K. T. Baburaj                        6           2
+T. A. Rajalakshmi                   11           1
+V. K. K. Ramesh                     10           1
+E. Harikumar                        14           0
+Aymanam John                         9           0
+Sabu Hariharan                       9           0
+Bineesh Pilasseri                    8           0
+K. Sukumaran                         8           0
+C. Santhosh Kumar                    6           0
+S. V. Venugopan Nair                 5           0
+
+authors with >= 4 works in BOTH genres: 1
+  Vallathol Vasudevamenon B. A.
+
+  Not enough for the cross-genre experiment. Lower --min-per-genre,
+  or check that author names match across the two corpora.
+
+written: .\merged\metadata.csv  (662 works)

@@ -1,0 +1,74 @@
+==============================================================================
+BASELINE LADDER — essays
+==============================================================================
+text: .\sayahna-essays/corpus/texts_strict   (text only; metadata supplies labels)
+canonical: max_features=100000, min_df=2, min_doc_words=100, min_works=5
+599 works, 16 authors, 648,054 words
+works/author: min 5, median 15, max 144
+5-fold stratified CV, macro-F1, chance = 0.062
+
+repeats: 3 seed(s) [20260828, 20260829, 20260830] — mean +/- std ACROSS seeds
+  (seed-to-seed spread is larger than many of the gaps below; a
+   single-seed number is not stable enough to report on its own)
+
+  FLOOR  stratified random           macro-F1=0.069 (+/-0.000)  acc=0.159
+                                     what guessing gets
+  L1  Burrows' Delta (300 MFW)       macro-F1=0.656 (+/-0.006)  acc=0.740
+                                     does English-style function-word stylometry transfer?
+  L1  char 3-5 gram + SVM            macro-F1=0.919 (+/-0.016)  acc=0.982
+                                     the reference; every earlier number came from this
+  L1  char 2-4 gram + SVM            macro-F1=0.915 (+/-0.002)  acc=0.983
+                                     shorter n-grams: more morphology, less lexis
+  L1  char 4-6 gram + SVM            macro-F1=0.938 (+/-0.007)  acc=0.983
+                                     longer n-grams: closer to whole words
+  L1  word unigram + SVM             macro-F1=0.939 (+/-0.007)  acc=0.982
+                                     lexical choice alone: which words, order ignored
+  L1  word bigram + SVM              macro-F1=0.831 (+/-0.010)  acc=0.946
+                                     phrasing alone: adjacent word pairs, no unigrams
+  L1  word 1-2 gram + SVM            macro-F1=0.953 (+/-0.001)  acc=0.985
+                                     both together: does the bigram add anything over unigrams?
+  L1  stylometric + LogReg           macro-F1=0.784 (+/-0.012)  acc=0.856
+                                     can ~30 readable features do it?
+  L2  char 3-5 + LogReg              macro-F1=0.911 (+/-0.002)  acc=0.979
+                                     is the SVM or the features doing the work?
+  L2  char 3-5 + ComplementNB        macro-F1=0.389 (+/-0.004)  acc=0.735
+                                     generative comparison; Complement not Multinomial, which cannot weight classes and collapses onto the large ones
+  L2  char 3-5 + NearestCentroid     macro-F1=0.842 (+/-0.014)  acc=0.957
+                                     distance-based, the modern analogue of Delta
+
+------------------------------------------------------------------------------
+  best: L1  word 1-2 gram + SVM  macro-F1=0.953
+  Burrows' Delta vs char n-grams : 0.656 vs 0.919 (-0.263)
+  word 1-2 vs char units         : 0.953 vs 0.919 (+0.034)
+  unigram vs bigram              : 0.939 vs 0.831 (-0.109 for phrasing)
+    unigram >> bigram  -> the signal is lexical choice
+    bigram close/above -> phrasing carries real weight
+  adding bigrams to unigrams     : 0.939 -> 0.953 (+0.013)
+  ~30 readable features alone    : 0.784  (13x chance)
+------------------------------------------------------------------------------
+
+Per-author report — L1  word 1-2 gram + SVM
+                               precision    recall  f1-score   support
+
+                    CJ Thomas       0.98      1.00      0.99        64
+                 K. Rajeswari       0.97      1.00      0.98        92
+                K. T. Baburaj       1.00      0.88      0.93         8
+    Kesari Balakrishna Pillai       1.00      0.98      0.99        46
+      Kuttipuzha Krishnapilla       1.00      1.00      1.00       144
+              M. N. Karassery       0.96      0.98      0.97       125
+                Madhusudhanan       1.00      1.00      1.00        18
+                 Nissar Ahmed       1.00      1.00      1.00         7
+                     Padmadas       1.00      1.00      1.00         6
+                     Sanjayan       1.00      1.00      1.00        29
+                       Sundar       1.00      1.00      1.00         7
+            T. A. Rajalakshmi       1.00      1.00      1.00        12
+              V. K. K. Ramesh       1.00      1.00      1.00        11
+           V. V. Govindannair       1.00      0.80      0.89         5
+Vallathol Vasudevamenon B. A.       1.00      1.00      1.00        19
+                     Zacharia       1.00      0.33      0.50         6
+
+                     accuracy                           0.98       599
+                    macro avg       0.99      0.94      0.95       599
+                 weighted avg       0.99      0.98      0.98       599
+
+confusion matrix: .\sayahna-essays\corpus\prelim\confusion_L1_word_1_2_gram_SVM.png

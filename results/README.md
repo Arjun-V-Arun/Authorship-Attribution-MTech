@@ -3,6 +3,10 @@
 Small, human-readable outputs worth keeping in version control (as opposed to
 `runs/`, which holds multi-GB model checkpoints and is gitignored).
 
+This directory holds the **Hindi** benchmark's results (below). The
+**Malayalam** benchmark's results live in [`malayalam/`](malayalam/) — see
+that folder's README.
+
 | File | Produced by | What it is |
 |---|---|---|
 | `results_rigor.csv` | `src/rigor_ablation.py` | Honest (leave-one-book-out) macro-F1, 95% bootstrap CIs, and leaky-vs-honest leakage gap for every method compared. |

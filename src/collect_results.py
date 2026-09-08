@@ -14,7 +14,7 @@ Usage:
     python collect_results.py
     python collect_results.py --root C:\\Users\\CSE\\Documents\\Authorship-Attribution-MTech
 
-Writes, next to the corpora:
+Writes, under results/malayalam/:
     comparison.md    markdown table, paste straight into notes or a slide
     comparison.csv   same numbers, for the LaTeX table
 """
@@ -169,12 +169,15 @@ def main(a):
         md.append(f"| {k[0]} {k[1]} | {m.get('works','—')} | {m.get('authors','—')} | "
                   f"{m.get('masked_mass','—')}% |")
 
-    out_md = os.path.join(a.root, "comparison.md")
+    out_dir = os.path.join(a.root, "results", "malayalam")
+    os.makedirs(out_dir, exist_ok=True)
+
+    out_md = os.path.join(out_dir, "comparison.md")
     with open(out_md, "w", encoding="utf-8") as f:
         f.write("\n".join(md) + "\n")
 
     # ---- csv
-    out_csv = os.path.join(a.root, "comparison.csv")
+    out_csv = os.path.join(out_dir, "comparison.csv")
     with open(out_csv, "w", encoding="utf-8", newline="") as f:
         wr = csv.writer(f)
         wr.writerow(["condition"] + [f"{c}_{v}" for c, v in cols])

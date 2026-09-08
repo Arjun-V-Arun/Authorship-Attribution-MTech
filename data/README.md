@@ -25,3 +25,18 @@ exactly the information gap that made the original evaluation leaky.
 
 Both are plain-text data checked into this repo for reproducibility; see the
 root [README](../README.md#data--copyright-note) for a copyright note.
+
+## `malayalam/`
+
+Small reference material for the Malayalam benchmark (Part 2): the corpus
+availability sheet and a scratch notebook. This is **not** where the
+Malayalam corpus itself lives — that's [`sayahna-fiction/`](../sayahna-fiction/)
+and [`sayahna-essays/`](../sayahna-essays/) at the repo root, each self-contained
+with its own `corpus/` subfolder (raw/clean/strict text, TEI XML, metadata).
+See [`docs/project-summary.md`](../docs/project-summary.md) for how those were
+built.
+
+| File | What it is |
+|---|---|
+| `corpus-availability-sheet.xlsx` | Tracks which Sayahna authors/works were considered and why they were included or excluded. |
+| `granthappura.ipynb` | Scratch notebook used while exploring an alternative Malayalam source (granthappura). |

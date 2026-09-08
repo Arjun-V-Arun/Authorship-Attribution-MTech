@@ -1,22 +1,40 @@
 # Python virtual environment
 envAA/
+venv/
+.venv/
 
 # Large experiment outputs (checkpoints regularly exceed GitHub's 100MB/file limit)
 # regenerate locally with src/train_finetune.py and src/run_experiments.py
 runs/
 logs/
 
+# Full, unfiltered Sayahna library crawl cache (superset of the curated
+# sayahna-fiction/ and sayahna-essays/ corpora actually used for experiments).
+# Regenerate with src/sayahna_crawler.py; not needed for reproducing results.
+data/malayalam-crawl-cache/
+
 # Python
 __pycache__/
-*.pyc
-*.pyo
-
-# Jupyter
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
 .ipynb_checkpoints/
 
 # atomic-write temp files from src/train_finetune.py's crash-safe logging
 *.writing.csv
 *.writing.xlsx
+
+# secrets / local config
+.env
+.env.*
+*.pem
+*.key
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
 
 # OS cruft
 .DS_Store

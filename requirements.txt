@@ -1,4 +1,6 @@
-# Core (needed for src/baseline.py, src/book_disjoint.py, src/rigor_ablation.py, src/fig_ci.py)
+# Core (needed for src/baseline.py, src/book_disjoint.py, src/rigor_ablation.py, src/fig_ci.py,
+# and the Malayalam baseline/diagnostic scripts: baseline_ladder.py, low_baselines.py,
+# find_boilerplate.py, morphology_stats.py, merge_and_crossgenre.py, collect_results.py)
 numpy==2.5.2
 pandas==3.0.5
 scikit-learn==1.9.0
@@ -8,6 +10,10 @@ openpyxl==3.1.5
 # Transformer models (needed for src/dl_baseline.py, src/train_finetune.py)
 transformers==5.15.0
 sentencepiece==0.2.2
+
+# Malayalam corpus crawler (needed for src/sayahna_crawler.py only)
+requests==2.34.2
+beautifulsoup4==4.15.0
 
 # torch is CPU-only and installed separately (not on PyPI's default index):
 #   pip install torch --index-url https://download.pytorch.org/whl/cpu

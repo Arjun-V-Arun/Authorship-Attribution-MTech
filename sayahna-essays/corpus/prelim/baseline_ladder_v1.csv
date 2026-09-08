@@ -1,0 +1,13 @@
+model,macro_f1,accuracy,fold_std,hypothesis
+FLOOR  stratified random,0.0512,0.1519,0.0000,what guessing gets
+L1  Burrows' Delta (300 MFW),0.6335,0.7362,0.0230,does English-style function-word stylometry transfer?
+L1  char 3-5 gram + SVM,0.9050,0.9800,0.0365,the reference; every earlier number came from this
+L1  char 2-4 gram + SVM,0.9056,0.9816,0.0365,"shorter n-grams: more morphology, less lexis"
+L1  char 4-6 gram + SVM,0.9073,0.9800,0.0381,longer n-grams: closer to whole words
+L1  word unigram + SVM,0.9276,0.9816,0.0492,"lexical choice alone: which words, order ignored"
+L1  word bigram + SVM,0.8238,0.9499,0.0167,"phrasing alone: adjacent word pairs, no unigrams"
+L1  word 1-2 gram + SVM,0.9350,0.9833,0.0544,both together: does the bigram add anything over unigrams?
+L1  stylometric + LogReg,0.7814,0.8481,0.0439,can ~30 readable features do it?
+L2  char 3-5 + LogReg,0.9064,0.9783,0.0391,is the SVM or the features doing the work?
+L2  char 3-5 + ComplementNB,0.3971,0.7412,0.0387,"generative comparison; Complement not Multinomial, which cannot weight classes and collapses onto the large ones"
+L2  char 3-5 + NearestCentroid,0.8504,0.9566,0.0641,"distance-based, the modern analogue of Delta"

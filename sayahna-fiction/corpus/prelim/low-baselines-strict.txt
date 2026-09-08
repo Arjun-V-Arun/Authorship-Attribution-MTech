@@ -3,6 +3,7 @@ LOW BASELINES — what survives when the shortcuts are removed
 ============================================================================
 
 text version: corpus/texts_strict
+canonical: max_features=100000, min_df=2, min_doc_words=100, min_works=5
 corpus: 114 works, 12 authors
 works per author: min 5, median 8, max 19
 chance level (macro-F1 of random guessing) ≈ 0.083
@@ -13,18 +14,18 @@ The question here is different: WHICH SIGNAL is the model using?
 ============================================================================
 0. SANITY CHECKS
 ============================================================================
-  labels shuffled (run 1)                      5-fold  macro-F1=0.031  acc=0.044  
-  labels shuffled (run 2)                      5-fold  macro-F1=0.081  acc=0.105  
-  labels shuffled (run 3)                      5-fold  macro-F1=0.100  acc=0.140  
-  -> permutation mean macro-F1 = 0.071   chance = 0.083
+  labels shuffled (run 1)                      5-fold  macro-F1=0.029  acc=0.044  
+  labels shuffled (run 2)                      5-fold  macro-F1=0.075  acc=0.105  
+  labels shuffled (run 3)                      5-fold  macro-F1=0.079  acc=0.140  
+  -> permutation mean macro-F1 = 0.061   chance = 0.083
      Should be near chance. Somewhat above is normal when documents form
      strong clusters. Far above (say >2x chance) means the pipeline leaks.
 
 ============================================================================
 1. REFERENCE — what your current baselines.txt reports
 ============================================================================
-  char 3-5 gram, full text                     5-fold  macro-F1=0.893  acc=0.921  
-  char 3-5 gram, capped at 8 works/author      5-fold  macro-F1=0.958  acc=0.966  removes the big-author advantage
+  char 3-5 gram, full text                     5-fold  macro-F1=0.880  acc=0.921  
+  char 3-5 gram, capped at 8 works/author      5-fold  macro-F1=0.939  acc=0.955  removes the big-author advantage
 
 ============================================================================
 2. REMOVE NAMED ENTITIES AND PRIVATE VOCABULARY
@@ -33,7 +34,7 @@ The question here is different: WHICH SIGNAL is the model using?
   those types are 39.4% of all running text — the number that matters,
   since most type inventory is hapax and carries little of the text
   single-author tokens masked                  5-fold  macro-F1=0.851  acc=0.895  
-  -> DROP 0.893 -> 0.851  (-0.042)
+  -> DROP 0.880 -> 0.851  (-0.028)
      A large drop means the score was mostly names and private topics.
 
   masked 145,415 token types occurring in fewer than 5 documents
@@ -45,7 +46,7 @@ The question here is different: WHICH SIGNAL is the model using?
   Malayalam has no standard stopword list, so corpus frequency stands in.
   top-100 tokens only (rest masked)            5-fold  macro-F1=0.762  acc=0.807  vocab=100
   top-300 tokens only (rest masked)            5-fold  macro-F1=0.843  acc=0.877  vocab=300
-  -> 0.843 against 0.893 on full text. If this stays high,
+  -> 0.843 against 0.880 on full text. If this stays high,
      the signal is genuinely stylistic rather than topical.
   top-1000 tokens only (rest masked)           5-fold  macro-F1=0.872  acc=0.904  vocab=1000
 
@@ -56,14 +57,14 @@ The question here is different: WHICH SIGNAL is the model using?
   cannot change them — that comparison is vacuous. This run therefore uses
   analyzer='char', which DOES span boundaries and so can see phrasing.
 
-  char (spans boundaries), intact              5-fold  macro-F1=0.888  acc=0.912  
-  char (spans boundaries), shuffled            5-fold  macro-F1=0.882  acc=0.904  
-  -> 0.888 -> 0.882  (-0.006)
+  char (spans boundaries), intact              5-fold  macro-F1=0.868  acc=0.912  
+  char (spans boundaries), shuffled            5-fold  macro-F1=0.862  acc=0.904  
+  -> 0.868 -> 0.862  (-0.006)
      A small drop means cross-word phrasing carries little of the signal;
      the model is working from within-word evidence (morphology, spelling).
 
-  char_wb (within words only), intact          5-fold  macro-F1=0.893  acc=0.921  
-  -> within-word only 0.893 vs boundary-spanning 0.888: +0.005
+  char_wb (within words only), intact          5-fold  macro-F1=0.880  acc=0.921  
+  -> within-word only 0.880 vs boundary-spanning 0.868: +0.012
 
 ============================================================================
 5. HOW MUCH TEXT DOES IT ACTUALLY NEED?
@@ -72,7 +73,7 @@ The question here is different: WHICH SIGNAL is the model using?
   first 250 words only                         5-fold  macro-F1=0.674  acc=0.763  
   first 500 words only                         5-fold  macro-F1=0.756  acc=0.825  
   first 1000 words only                        5-fold  macro-F1=0.889  acc=0.912  
-  first 2000 words only                        5-fold  macro-F1=0.950  acc=0.956  
+  first 2000 words only                        5-fold  macro-F1=0.915  acc=0.939  
 
 ============================================================================
 6. COMBINED — balanced, entity-masked, length-equalised
@@ -80,9 +81,9 @@ The question here is different: WHICH SIGNAL is the model using?
   This is the closest thing here to an honest difficulty estimate.
   capped 8/author + masked + first 500 words   5-fold  macro-F1=0.752  acc=0.775  
 
-  HEADLINE  0.893
+  HEADLINE  0.880
   HONEST    0.752
-  GAP       -0.141
+  GAP       -0.128
   chance    0.083
 
 ============================================================================
@@ -115,13 +116,13 @@ particles, suffixes and function words mean style.
   Paul Zacharia
       അമേരിക്കൻ  യേശു  അമേരിക്കയുടെ  പറഞ്ഞു,  സ്പാനിഷ്  യേശുവിന്റെ  ഇംഗ്ലീഷ്  ഡൽഹിയിൽ  ഞാനൊരു  ശിഷ്യൻ  തനിക്കുള്ളിൽ  ദ്
   S. V. Venugopan Nair
-      മോൾ  തമ്പി  ശ്രീവത്സൻ,  വത്സല  വിശാലാക്ഷിയമ്മ  നിശാഗോപൻ  ഹരിഗോപൻ,  അച്ഛൻ:  സദാശിവൻ  തിരികെ  എം.  കേസ്
+      മോൾ  ഹരിഗോപൻ,  വത്സല  ശ്രീവത്സൻ,  നിശാഗോപൻ  വിശാലാക്ഷിയമ്മ  തമ്പി  അച്ഛൻ:  സദാശിവൻ  തിരികെ  എം.  കേസ്
   Sabu Hariharan
       പതിയെ  കേരള  മാതൃഭൂമി,  മുൻപു്  താത്പര്യം.  യാത്ര,  കുറിച്ചു്  കെമിസ്ട്രിയിൽ  സയൻസിൽ  ഡിപ്ലോമയും.  തിരുവനന്തപുരം.  സോഫ്റ്റ്
   T. A. Rajalakshmi
       ജൂൺ  1930  1965  18,  2,  ജനുവരി  മരണം:  ജനനം:  മുമ്പിൽ  of  “ഞാൻ  ഒന്നും
   V. K. K. Ramesh
-      ബ്രഹ്മദത്തൻ,  ജ്യോതി  നിരഞ്ജന  അതങ്ങനെ  അക്കാലം,  ചുമ്മാ  അത്തരം  അന്നേരം,  മക്കൾ:  താഴെ,  ഏതാനും  സ്വന്തം
+      ജ്യോതി  നിരഞ്ജന  ബ്രഹ്മദത്തൻ,  അതങ്ങനെ  അക്കാലം,  ചുമ്മാ  അത്തരം  അന്നേരം,  മക്കൾ:  താഴെ,  ഏതാനും  സ്വന്തം
   Vallathol Vasudevamenon B. A.
       അദ്ദേഹത്തിന്റെ  മറ്റും  എന്നാൽ  അത്ര  ഇതു  അദ്ദേഹം  ആയാൾ  അതു  ഇടയ്ക്കു  അല്പം  ചെയ്യുന്നു.  അതുകൊണ്ടു്,
 

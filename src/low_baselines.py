@@ -41,11 +41,22 @@ from sklearn.pipeline import make_pipeline
 from sklearn.model_selection import StratifiedKFold, cross_val_predict
 from sklearn.metrics import f1_score, accuracy_score
 
-TEXTS = "corpus/texts"
+TEXTS = "corpus/texts"          # overridden by --texts
 PRELIM = os.path.join("corpus", "prelim")
 OUTFILE = os.path.join(PRELIM, "low-baselines.txt")
 
 SEED = 20260828
+
+# ===================== CANONICAL EVALUATION SETTINGS =====================
+# MUST match baseline_ladder.py. Previously this file used max_features=60_000
+# and a 50-word floor while the ladder used 100_000 and 100 words, so the two
+# reported 0.893 and 0.914 for the SAME baseline on the SAME corpus.
+CANON_MAX_FEATURES = 100_000
+CANON_MIN_DF = 2
+MIN_DOC_WORDS = 100
+MIN_WORKS_PER_AUTHOR = 5
+MAX_FOLDS = 5
+# =========================================================================
 MASK = "\u25a1"                       # □ stands in for a removed token
 EXCLUDE_TYPES = {"poetry", "poem", "drama"}
 
@@ -63,7 +74,7 @@ def rule(c="-"):
 
 # --------------------------------------------------------------------- data
 
-def load(max_authors=0, min_works=4):
+def load(max_authors=0, min_works=MIN_WORKS_PER_AUTHOR):
     files = sorted(glob.glob("corpus/metadata*.csv"))
     if not files:
         sys.exit("no corpus/metadata*.csv here — run the downloader first")
@@ -78,6 +89,9 @@ def load(max_authors=0, min_works=4):
             texts[wid] = open(p, encoding="utf-8").read()
     df = df[df.work_id.isin(texts)].copy()
     df["text"] = df.work_id.map(texts)
+    # recompute: metadata word_count refers to the unstripped text
+    df["word_count"] = df.text.map(lambda t: len(t.split()))
+    df = df[df.word_count >= MIN_DOC_WORDS]
 
     df["wtype"] = df.work_type.str.lower().str.strip()
     df = df[~df.wtype.isin(EXCLUDE_TYPES)]
@@ -109,9 +123,13 @@ def mask_single_author_tokens(df):
         for tok in set(tokens(t)):
             seen[tok].add(a)
     doomed = {tok for tok, auths in seen.items() if len(auths) == 1}
-    out = [" ".join(MASK if tok in doomed else tok for tok in tokens(t))
-           for t in df.text]
-    return out, len(doomed), len(seen)
+    out, kept, total = [], 0, 0
+    for t in df.text:
+        toks = tokens(t)
+        total += len(toks)
+        kept += sum(1 for tok in toks if tok in doomed)
+        out.append(" ".join(MASK if tok in doomed else tok for tok in toks))
+    return out, len(doomed), len(seen), kept / max(1, total)
 
 
 def mask_rare_tokens(df, min_df=5):
@@ -163,17 +181,25 @@ def balance(df, n, rng):
 
 # ------------------------------------------------------------------- model
 
-def pipe(analyzer="char_wb", ngram=(3, 5), max_features=60_000):
-    return make_pipeline(
-        TfidfVectorizer(analyzer=analyzer, ngram_range=ngram,
-                        max_features=max_features, sublinear_tf=True, min_df=2),
-        LinearSVC(C=1.0, class_weight="balanced", max_iter=4000))
+# Malayalam-safe word tokenizer. sklearn's default r"(?u)\b\w\w+\b" breaks
+# Malayalam at every vowel sign and virama (they are combining marks, and
+# Python's \w does not match them): സഞ്ജയൻ -> ['സഞ','ജയൻ'], ഭാഷാശാസ്ത്രം -> [].
+ML_TOKEN = r"\S+"
+
+
+def pipe(analyzer="char_wb", ngram=(3, 5), max_features=CANON_MAX_FEATURES):
+    kw = dict(analyzer=analyzer, ngram_range=ngram, max_features=max_features,
+              sublinear_tf=True, min_df=CANON_MIN_DF)
+    if analyzer == "word":
+        kw.update(token_pattern=ML_TOKEN, lowercase=False)
+    return make_pipeline(TfidfVectorizer(**kw),
+                         LinearSVC(C=1.0, class_weight="balanced", max_iter=5000))
 
 
 def cv_score(X, y, name, analyzer="char_wb", ngram=(3, 5), note=""):
     y = pd.Series(list(y))
     X = pd.Series(list(X))
-    k = int(min(5, y.value_counts().min()))
+    k = int(min(MAX_FOLDS, y.value_counts().min()))
     if k < 2 or y.nunique() < 2:
         w(f"  {name:<44} skipped (need >=2 works for every author)")
         return None
@@ -198,9 +224,11 @@ def top_features(df, n_per_author=12):
     see suffixes, particles and function words, it is style.
     """
     vec = TfidfVectorizer(analyzer="word", ngram_range=(1, 1),
-                          max_features=60_000, sublinear_tf=True, min_df=2)
+                          token_pattern=ML_TOKEN, lowercase=False,
+                          max_features=CANON_MAX_FEATURES, sublinear_tf=True,
+                          min_df=CANON_MIN_DF)
     X = vec.fit_transform(df.text)
-    clf = LinearSVC(C=1.0, class_weight="balanced", max_iter=4000)
+    clf = LinearSVC(C=1.0, class_weight="balanced", max_iter=5000)
     clf.fit(X, df.author)
     names = np.array(vec.get_feature_names_out())
     w("")
@@ -241,14 +269,18 @@ def provenance_check(df):
 def main(a):
     os.makedirs(PRELIM, exist_ok=True)
     rng = random.Random(SEED)
+    if not os.path.isdir(TEXTS):
+        sys.exit(f"text directory not found: {TEXTS}")
     df = load(a.max_authors)
 
     w("=" * 76)
     w("LOW BASELINES — what survives when the shortcuts are removed")
     w("=" * 76)
     w("")
-    w(f"corpus: {len(df)} works, {df.author.nunique()} authors, "
-      f"{df.word_count.sum():,} words")
+    w(f"text version: {TEXTS}")
+    w(f"canonical: max_features={CANON_MAX_FEATURES}, min_df={CANON_MIN_DF}, "
+      f"min_doc_words={MIN_DOC_WORDS}, min_works={MIN_WORKS_PER_AUTHOR}")
+    w(f"corpus: {len(df)} works, {df.author.nunique()} authors")
     w(f"works per author: min {df.author.value_counts().min()}, "
       f"median {int(df.author.value_counts().median())}, "
       f"max {df.author.value_counts().max()}")
@@ -291,9 +323,11 @@ def main(a):
     rule("=")
     w("2. REMOVE NAMED ENTITIES AND PRIVATE VOCABULARY")
     rule("=")
-    masked, n_doomed, n_total = mask_single_author_tokens(df)
+    masked, n_doomed, n_total, mass = mask_single_author_tokens(df)
     w(f"  masked {n_doomed:,} of {n_total:,} token types "
       f"({n_doomed/max(1,n_total):.0%}) that only ever appear in one author")
+    w(f"  those types are {mass:.1%} of all running text — the number that matters,")
+    w("  since most type inventory is hapax and carries little of the text")
     m1 = cv_score(masked, df.author, "single-author tokens masked")
     if ref and m1:
         w(f"  -> DROP {ref:.3f} -> {m1:.3f}  ({m1-ref:+.3f})")
@@ -323,12 +357,24 @@ def main(a):
     rule("=")
     w("4. DESTROY WORD ORDER — keep vocabulary, lose syntax and phrasing")
     rule("=")
+    w("  NOTE: char_wb n-grams never cross a word boundary, so shuffling words")
+    w("  cannot change them — that comparison is vacuous. This run therefore uses")
+    w("  analyzer='char', which DOES span boundaries and so can see phrasing.")
+    w("")
     shuf = shuffle_words(df, rng)
-    s4 = cv_score(shuf, df.author, "words shuffled within each work")
-    if ref and s4:
-        w(f"  -> {ref:.3f} -> {s4:.3f}  ({s4-ref:+.3f})")
-        w("     Little change means the model never used word order or phrasing —")
-        w("     it is a bag-of-words topic model wearing a stylometry costume.")
+    base_c = cv_score(df.text, df.author, "char (spans boundaries), intact",
+                      analyzer="char")
+    s4 = cv_score(shuf, df.author, "char (spans boundaries), shuffled",
+                  analyzer="char")
+    if base_c and s4:
+        w(f"  -> {base_c:.3f} -> {s4:.3f}  ({s4-base_c:+.3f})")
+        w("     A small drop means cross-word phrasing carries little of the signal;")
+        w("     the model is working from within-word evidence (morphology, spelling).")
+    w("")
+    wb = cv_score(df.text, df.author, "char_wb (within words only), intact")
+    if base_c and wb:
+        w(f"  -> within-word only {wb:.3f} vs boundary-spanning {base_c:.3f}: "
+          f"{wb-base_c:+.3f}")
 
     # ------------------------------------------------------- 5. text length
     w("")
@@ -345,7 +391,7 @@ def main(a):
     rule("=")
     w("  This is the closest thing here to an honest difficulty estimate.")
     bal2 = balance(df, a.cap, rng)
-    bmask, _, _ = mask_single_author_tokens(bal2)
+    bmask, _, _, _ = mask_single_author_tokens(bal2)
     bmask = [" ".join(tokens(t)[:500]) for t in bmask]
     hard = cv_score(bmask, bal2.author,
                     f"capped {a.cap}/author + masked + first 500 words")
@@ -390,4 +436,22 @@ if __name__ == "__main__":
     ap.add_argument("--cap", type=int, default=8, help="works per author when balancing")
     ap.add_argument("--min-df", type=int, default=5, help="rare-token threshold")
     ap.add_argument("--max-authors", type=int, default=0, help="keep only the N largest authors")
-    main(ap.parse_args())
+    ap.add_argument("--texts", default="corpus/texts",
+                    help="corpus/texts, corpus/texts_clean or corpus/texts_strict")
+    ap.add_argument("--root", default=".",
+                    help="folder containing the corpus (e.g. sayahna-fiction). "
+                         "Lets you run this from the project root like baseline_ladder.py")
+    args = ap.parse_args()
+    if args.root not in (".", ""):
+        os.chdir(args.root)
+        print(f"working in {os.getcwd()}")
+    TEXTS = args.texts
+    if not os.path.isdir(TEXTS):
+        sys.exit(f"text directory not found: {os.path.abspath(TEXTS)}\n"
+                 f"  run from inside a corpus folder, or pass "
+                 f"--root sayahna-fiction")
+    # name the output after the text version so runs do not overwrite each other
+    tag = os.path.basename(TEXTS.rstrip("/\\"))
+    if tag != "texts":
+        OUTFILE = os.path.join(PRELIM, f"low-baselines-{tag.replace('texts_','')}.txt")
+    main(args)
