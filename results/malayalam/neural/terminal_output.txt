@@ -1,0 +1,128 @@
+PS C:\Users\CSE\Documents\Authorship-Attribution-MTech> (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\CSE\Documents\Authorship-Attribution-MTech\envAA\Scripts\Activate.ps1)
+(envAA) PS C:\Users\CSE\Documents\Authorship-Attribution-MTech> .\run_neural.ps1                                                                                                                                       
+===== Running neural_models.py =====
+device: cpu                  
+                    
+================================================================================
+sayahna-fiction: 114 works, 12 authors
+================================================================================
+charcnn  seed=20260922 fold=1 best_macroF1=0.2280
+charcnn  seed=20260922 fold=2 best_macroF1=0.2763
+charcnn  seed=20260922 fold=3 best_macroF1=0.2839
+charcnn  seed=20260922 fold=4 best_macroF1=0.3652
+charcnn  seed=20260922 fold=5 best_macroF1=0.1830
+RESULT sayahna-fiction charcnn seed=20260922: 0.2673 +/- 0.0609
+charcnn  seed=20260923 fold=1 best_macroF1=0.2418
+charcnn  seed=20260923 fold=2 best_macroF1=0.2587
+charcnn  seed=20260923 fold=3 best_macroF1=0.2925
+charcnn  seed=20260923 fold=4 best_macroF1=0.2548
+charcnn  seed=20260923 fold=5 best_macroF1=0.2504
+RESULT sayahna-fiction charcnn seed=20260923: 0.2596 +/- 0.0173
+charcnn  seed=20260924 fold=1 best_macroF1=0.1944
+charcnn  seed=20260924 fold=2 best_macroF1=0.3054
+charcnn  seed=20260924 fold=3 best_macroF1=0.1701
+charcnn  seed=20260924 fold=4 best_macroF1=0.2196
+charcnn  seed=20260924 fold=5 best_macroF1=0.2431
+RESULT sayahna-fiction charcnn seed=20260924: 0.2265 +/- 0.0464
+bilstm   seed=20260922 fold=1 best_macroF1=0.3167
+bilstm   seed=20260922 fold=2 best_macroF1=0.3254
+bilstm   seed=20260922 fold=3 best_macroF1=0.2635
+bilstm   seed=20260922 fold=4 best_macroF1=0.3507
+bilstm   seed=20260922 fold=5 best_macroF1=0.2791
+RESULT sayahna-fiction bilstm seed=20260922: 0.3071 +/- 0.0317
+bilstm   seed=20260923 fold=1 best_macroF1=0.2648
+bilstm   seed=20260923 fold=2 best_macroF1=0.5519
+bilstm   seed=20260923 fold=3 best_macroF1=0.2403
+bilstm   seed=20260923 fold=4 best_macroF1=0.3651
+bilstm   seed=20260923 fold=5 best_macroF1=0.2963
+RESULT sayahna-fiction bilstm seed=20260923: 0.3437 +/- 0.1122
+bilstm   seed=20260924 fold=1 best_macroF1=0.5236
+bilstm   seed=20260924 fold=2 best_macroF1=0.2894
+bilstm   seed=20260924 fold=3 best_macroF1=0.3306
+bilstm   seed=20260924 fold=4 best_macroF1=0.3081
+bilstm   seed=20260924 fold=5 best_macroF1=0.2513
+RESULT sayahna-fiction bilstm seed=20260924: 0.3406 +/- 0.0951
+bigru    seed=20260922 fold=1 best_macroF1=0.5630
+bigru    seed=20260922 fold=2 best_macroF1=0.4754
+bigru    seed=20260922 fold=3 best_macroF1=0.4698
+bigru    seed=20260922 fold=4 best_macroF1=0.2167
+bigru    seed=20260922 fold=5 best_macroF1=0.4087
+RESULT sayahna-fiction bigru seed=20260922: 0.4267 +/- 0.1160
+bigru    seed=20260923 fold=1 best_macroF1=0.4762
+bigru    seed=20260923 fold=2 best_macroF1=0.4486
+bigru    seed=20260923 fold=3 best_macroF1=0.3222
+bigru    seed=20260923 fold=4 best_macroF1=0.4667
+bigru    seed=20260923 fold=5 best_macroF1=0.4444
+RESULT sayahna-fiction bigru seed=20260923: 0.4316 +/- 0.0559
+bigru    seed=20260924 fold=1 best_macroF1=0.4306
+bigru    seed=20260924 fold=2 best_macroF1=0.4167
+bigru    seed=20260924 fold=3 best_macroF1=0.4714
+bigru    seed=20260924 fold=4 best_macroF1=0.4120
+bigru    seed=20260924 fold=5 best_macroF1=0.3856
+RESULT sayahna-fiction bigru seed=20260924: 0.4233 +/- 0.0281
+
+================================================================================
+sayahna-essays: 599 works, 16 authors
+================================================================================
+charcnn  seed=20260922 fold=1 best_macroF1=0.4560
+charcnn  seed=20260922 fold=2 best_macroF1=0.4122
+charcnn  seed=20260922 fold=3 best_macroF1=0.4967
+charcnn  seed=20260922 fold=4 best_macroF1=0.4227
+charcnn  seed=20260922 fold=5 best_macroF1=0.3927
+RESULT sayahna-essays charcnn seed=20260922: 0.4361 +/- 0.0366
+charcnn  seed=20260923 fold=1 best_macroF1=0.3775
+charcnn  seed=20260923 fold=2 best_macroF1=0.5265
+charcnn  seed=20260923 fold=3 best_macroF1=0.4538
+charcnn  seed=20260923 fold=4 best_macroF1=0.3937
+charcnn  seed=20260923 fold=5 best_macroF1=0.4516
+RESULT sayahna-essays charcnn seed=20260923: 0.4406 +/- 0.0526
+charcnn  seed=20260924 fold=1 best_macroF1=0.4969
+charcnn  seed=20260924 fold=2 best_macroF1=0.4392
+charcnn  seed=20260924 fold=3 best_macroF1=0.4020
+charcnn  seed=20260924 fold=4 best_macroF1=0.4225
+charcnn  seed=20260924 fold=5 best_macroF1=0.5947
+RESULT sayahna-essays charcnn seed=20260924: 0.4711 +/- 0.0694
+bilstm   seed=20260922 fold=1 best_macroF1=0.6596
+bilstm   seed=20260922 fold=2 best_macroF1=0.6110
+bilstm   seed=20260922 fold=3 best_macroF1=0.6182
+bilstm   seed=20260922 fold=4 best_macroF1=0.6132
+bilstm   seed=20260922 fold=5 best_macroF1=0.6662
+RESULT sayahna-essays bilstm seed=20260922: 0.6336 +/- 0.0241
+bilstm   seed=20260923 fold=1 best_macroF1=0.6464
+bilstm   seed=20260923 fold=2 best_macroF1=0.6097
+bilstm   seed=20260923 fold=3 best_macroF1=0.6920
+bilstm   seed=20260923 fold=4 best_macroF1=0.6959
+bilstm   seed=20260923 fold=5 best_macroF1=0.6933
+RESULT sayahna-essays bilstm seed=20260923: 0.6675 +/- 0.0342
+bilstm   seed=20260924 fold=1 best_macroF1=0.7294
+bilstm   seed=20260924 fold=2 best_macroF1=0.7065
+bilstm   seed=20260924 fold=3 best_macroF1=0.7197
+bilstm   seed=20260924 fold=4 best_macroF1=0.6471
+bilstm   seed=20260924 fold=5 best_macroF1=0.6445
+RESULT sayahna-essays bilstm seed=20260924: 0.6894 +/- 0.0364
+bigru    seed=20260922 fold=1 best_macroF1=0.7191
+bigru    seed=20260922 fold=2 best_macroF1=0.5875
+bigru    seed=20260922 fold=3 best_macroF1=0.6448
+bigru    seed=20260922 fold=4 best_macroF1=0.6115
+bigru    seed=20260922 fold=5 best_macroF1=0.6570
+RESULT sayahna-essays bigru seed=20260922: 0.6440 +/- 0.0449
+bigru    seed=20260923 fold=1 best_macroF1=0.6546
+bigru    seed=20260923 fold=2 best_macroF1=0.5119
+bigru    seed=20260923 fold=3 best_macroF1=0.6709
+bigru    seed=20260923 fold=4 best_macroF1=0.6750
+bigru    seed=20260923 fold=5 best_macroF1=0.6591
+RESULT sayahna-essays bigru seed=20260923: 0.6343 +/- 0.0616
+bigru    seed=20260924 fold=1 best_macroF1=0.6586
+bigru    seed=20260924 fold=2 best_macroF1=0.6140
+bigru    seed=20260924 fold=3 best_macroF1=0.6650
+bigru    seed=20260924 fold=4 best_macroF1=0.6664
+bigru    seed=20260924 fold=5 best_macroF1=0.6675
+RESULT sayahna-essays bigru seed=20260924: 0.6543 +/- 0.0204
+
+  corpus   model  macro_f1_mean  macro_f1_std_across_seeds
+ essays   bigru       0.644197                   0.010004
+ essays  bilstm       0.663502                   0.028120
+ essays charcnn       0.449251                   0.019049
+fiction   bigru       0.427202                   0.004205
+fiction  bilstm       0.330441                   0.020298
+fiction charcnn       0.251139                   0.021665
